@@ -1,0 +1,189 @@
+country,rank,term,n,g2,log_ratio,count,ref_count,doc_freq
+austria,1,awareness,1,11.9,-3.6,0,171,26
+austria,2,cyber,1,11.3,-3.53,0,163,23
+belgium,1,rate,1,47.3,-2.13,12,1013,27
+belgium,2,growth rate,2,43.4,-2.49,7,717,26
+belgium,3,annual growth,2,32.0,-3.23,2,400,27
+belgium,4,annual growth rate,3,30.4,-3.18,2,362,26
+belgium,5,growth,1,26.0,-1.37,20,982,27
+belgium,6,annual,1,23.6,-1.87,8,576,27
+belgium,7,national,1,23.4,-0.92,46,1631,27
+belgium,8,eu,1,21.6,-0.55,135,3666,27
+belgium,9,eu average,2,18.9,-0.7,68,1901,27
+belgium,10,ministry,1,14.0,-3.85,0,133,20
+bulgaria,1,rate,1,30.3,-1.68,14,1011,27
+bulgaria,2,point,1,23.6,-1.96,7,635,27
+bulgaria,3,enterprise,1,19.1,-2.02,5,486,27
+bulgaria,4,quantum,1,18.8,-1.89,6,524,27
+bulgaria,5,semiconductor,1,17.7,-3.08,1,275,27
+bulgaria,6,growth rate,2,17.4,-1.41,12,712,26
+bulgaria,7,share,1,17.0,-3.03,1,266,27
+bulgaria,8,represent,1,16.4,-2.99,1,259,27
+bulgaria,9,government,1,15.2,-2.18,3,344,27
+bulgaria,10,show,1,14.2,-2.39,2,285,27
+croatia,1,company,1,18.1,-2.62,2,393,27
+croatia,2,initiative,1,17.7,-1.84,6,596,27
+croatia,3,adoption,1,16.7,-1.79,6,577,27
+croatia,4,regard,1,12.3,-3.65,0,161,26
+croatia,5,help,1,12.0,-3.62,0,157,25
+croatia,6,strategy,1,11.5,-1.53,6,481,27
+cyprus,1,advanced,1,18.1,-2.33,3,445,27
+cyprus,2,remain,1,16.7,-1.38,12,824,27
+cyprus,3,support,1,13.4,-0.88,28,1331,27
+cyprus,4,digitalisation,1,13.4,-1.41,9,637,27
+cyprus,5,specialist,1,12.5,-1.82,4,403,27
+cyprus,6,scale,1,11.9,-3.6,0,153,24
+cyprus,7,ict,1,11.8,-1.05,16,867,27
+cyprus,8,strong,1,11.7,-1.65,5,436,27
+cyprus,9,firm,1,11.7,-3.58,0,151,20
+cyprus,10,structural,1,11.3,-3.53,0,146,19
+czechia,1,online,1,15.6,-2.19,3,484,27
+czechia,2,one,1,15.1,-3.95,0,233,26
+denmark,1,rate,1,25.5,-1.84,9,1016,27
+denmark,2,average,1,18.5,-0.92,36,2054,27
+denmark,3,eu average,2,17.6,-0.93,33,1936,27
+denmark,4,figure,1,15.9,-2.95,1,345,27
+denmark,5,framework,1,13.9,-2.36,2,382,27
+denmark,6,deployment,1,13.8,-2.35,2,380,27
+denmark,7,growth rate,2,13.6,-1.47,8,716,26
+denmark,8,adult,1,11.6,-3.56,0,176,26
+estonia,1,growth rate,2,43.4,-5.46,0,724,26
+estonia,2,annual growth rate,3,20.0,-4.35,0,364,26
+estonia,3,growth,1,17.5,-1.45,11,991,27
+estonia,4,annual growth,2,17.1,-3.03,1,401,27
+estonia,5,application,1,14.5,-3.88,0,231,26
+estonia,6,remain,1,12.9,-1.32,10,826,27
+estonia,7,base,1,12.0,-3.61,0,191,26
+estonia,8,include,1,11.9,-1.19,12,896,27
+estonia,9,administration,1,11.8,-3.58,0,188,25
+estonia,10,strengthen,1,11.4,-1.62,5,533,27
+finland,1,uptake,1,13.0,-2.73,1,293,27
+finland,2,indicate,1,11.7,-3.58,0,176,26
+finland,3,governance,1,10.9,-3.48,0,164,23
+france,1,development,1,22.2,-2.14,5,651,27
+france,2,challenge,1,14.3,-2.83,1,286,27
+france,3,initiative,1,13.9,-1.57,7,595,27
+france,4,framework,1,12.8,-2.02,3,381,27
+france,5,percentage point,2,12.3,-3.65,0,170,23
+france,6,establish,1,12.0,-3.62,0,164,26
+france,7,governance,1,12.0,-3.62,0,164,23
+france,8,remain,1,11.1,-1.08,14,822,27
+germany,1,term,1,18.0,-4.2,0,231,26
+germany,2,progress,1,15.7,-2.21,3,405,27
+germany,3,digital,1,15.1,-0.48,125,4385,27
+germany,4,mobile,1,13.4,-3.77,0,171,25
+germany,5,digital skill,2,13.2,-1.29,11,730,27
+germany,6,citizen,1,12.8,-2.03,3,358,27
+germany,7,governance,1,12.8,-3.71,0,164,23
+germany,8,strengthen,1,12.4,-1.5,7,531,27
+germany,9,populated,1,12.0,-3.62,0,154,26
+germany,10,skill,1,11.8,-0.88,25,1175,27
+greece,1,support,1,23.2,-1.23,23,1336,27
+greece,2,decade national,2,20.7,-4.4,0,262,26
+greece,3,decade national roadmap,3,20.0,-4.35,0,262,26
+greece,4,digital decade national,3,20.0,-4.35,0,262,26
+greece,5,company,1,19.5,-2.7,2,393,27
+greece,6,strong,1,15.5,-2.0,4,437,27
+greece,7,participation,1,12.6,-3.69,0,156,25
+greece,8,firm,1,12.2,-3.64,0,151,20
+greece,9,semiconductor,1,11.3,-2.18,2,274,27
+greece,10,concern,1,10.9,-3.48,0,135,25
+hungary,1,remain,1,24.2,-2.21,5,831,27
+hungary,2,innovation,1,14.8,-2.42,2,435,27
+hungary,3,framework,1,12.1,-2.23,2,382,27
+hungary,4,investment,1,11.8,-1.78,4,503,27
+hungary,5,start-ups,1,11.5,-3.55,0,190,25
+ireland,1,percentage point,2,15.9,-4.03,0,170,23
+ireland,2,programme,1,15.3,-1.49,9,574,27
+ireland,3,university,1,14.6,-3.9,0,160,26
+ireland,4,growth rate,2,14.6,-1.23,14,710,26
+ireland,5,implement,1,13.6,-2.35,2,273,27
+ireland,6,labour,1,12.6,-3.69,0,138,25
+ireland,7,solution,1,12.1,-1.99,3,297,27
+ireland,8,ministry,1,12.1,-3.64,0,133,20
+ireland,9,enhance,1,11.8,-3.6,0,130,25
+ireland,10,aim,1,11.8,-1.66,5,372,27
+italy,1,individual,1,20.4,-2.74,2,368,27
+italy,2,ju,1,11.9,-3.61,0,134,26
+italy,3,enterprise,1,11.4,-1.37,8,483,27
+latvia,1,support,1,18.1,-1.04,26,1333,27
+latvia,2,link,1,15.8,-4.01,0,196,26
+latvia,3,action,1,13.6,-2.34,2,309,27
+latvia,4,structural,1,11.7,-3.59,0,146,19
+latvia,5,talent,1,11.6,-3.57,0,144,24
+lithuania,1,continue,1,17.9,-1.96,5,633,27
+lithuania,2,initiative,1,16.0,-1.88,5,597,27
+lithuania,3,strengthen,1,15.7,-2.01,4,534,27
+lithuania,4,digital,1,13.4,-0.48,106,4404,27
+lithuania,5,uptake,1,13.0,-2.73,1,293,27
+lithuania,6,administration,1,12.5,-3.67,0,188,25
+lithuania,7,although,1,12.0,-3.62,0,181,25
+luxembourg,1,system,1,19.4,-2.69,2,435,27
+luxembourg,2,development,1,18.9,-1.89,6,650,27
+luxembourg,3,include,1,17.4,-1.41,12,896,27
+luxembourg,4,percentage,1,15.9,-4.02,0,219,26
+luxembourg,5,percentage point,2,13.4,-3.77,0,170,23
+luxembourg,6,annually,1,12.4,-3.66,0,171,25
+luxembourg,7,improve,1,12.4,-1.82,4,429,27
+luxembourg,8,use,1,12.3,-1.25,11,741,27
+luxembourg,9,regional,1,11.9,-3.6,0,164,25
+luxembourg,10,implementation,1,11.3,-1.75,4,410,27
+malta,1,particular,1,12.1,-3.62,0,185,26
+malta,2,company,1,10.9,-1.89,3,392,27
+malta,3,policy,1,10.9,-1.41,7,600,27
+netherlands,1,figure,1,22.4,-3.34,1,345,27
+netherlands,2,trajectory present,2,19.0,-4.28,0,218,26
+netherlands,3,annually,1,14.7,-3.92,0,171,25
+netherlands,4,rate,1,14.7,-1.04,21,1004,27
+netherlands,5,uptake,1,13.9,-2.37,2,292,27
+netherlands,6,growth rate,2,13.7,-1.23,13,711,26
+netherlands,7,cybersecurity,1,12.0,-1.16,13,684,27
+netherlands,8,annual,1,11.6,-1.27,10,574,27
+netherlands,9,eu,1,11.6,-0.43,120,3681,27
+netherlands,10,cross-border,1,11.5,-2.19,2,259,27
+poland,1,strong,1,20.5,-2.75,2,439,27
+poland,2,across,1,15.4,-1.56,8,655,27
+poland,3,health,1,12.1,-2.23,2,307,27
+poland,4,computing,1,12.1,-3.62,0,161,26
+poland,5,achieve,1,11.5,-3.55,0,153,26
+poland,6,structural,1,10.9,-3.48,0,146,19
+portugal,1,fund,1,16.7,-4.09,0,232,26
+portugal,2,remain,1,13.8,-1.27,12,824,27
+portugal,3,industry,1,12.4,-3.66,0,172,25
+portugal,4,deployment,1,12.3,-1.99,3,379,27
+portugal,5,firm,1,10.9,-3.47,0,151,20
+romania,1,eu,1,22.2,-0.69,83,3718,27
+romania,2,deployment,1,15.4,-2.46,2,380,27
+romania,3,lag behind,2,14.8,-3.91,0,212,26
+romania,4,adoption,1,14.4,-1.68,6,577,27
+romania,5,trajectory,1,14.3,-2.12,3,419,27
+romania,6,average,1,13.8,-0.73,44,2046,27
+romania,7,start-ups,1,13.5,-3.79,0,190,25
+romania,8,eu average,2,13.5,-0.76,40,1929,27
+romania,9,although,1,12.9,-3.72,0,181,25
+romania,10,several,1,12.4,-3.66,0,174,26
+slovakia,1,quantum,1,18.2,-1.68,8,522,27
+slovakia,2,cyber,1,16.6,-4.09,0,163,23
+slovakia,3,talent,1,14.6,-3.91,0,144,24
+slovenia,1,growth rate,2,35.5,-2.99,3,721,26
+slovenia,2,rate,1,23.5,-1.6,12,1013,27
+slovenia,3,annual growth rate,3,15.1,-2.44,2,362,26
+slovenia,4,annual growth,2,14.6,-2.14,3,399,27
+slovenia,5,annual,1,13.0,-1.53,7,577,27
+slovenia,6,growth,1,13.0,-1.07,17,985,27
+slovenia,7,industry,1,12.6,-3.69,0,172,25
+slovenia,8,sector,1,12.6,-1.37,9,654,27
+slovenia,9,cyber,1,12.0,-3.61,0,163,23
+slovenia,10,increase,1,11.1,-1.05,15,860,27
+spain,1,remain,1,41.1,-2.9,4,832,27
+spain,2,limited,1,18.6,-4.25,0,235,26
+spain,3,measure,1,18.5,-1.2,19,1112,27
+spain,4,education,1,16.6,-1.91,5,511,27
+spain,5,implementation,1,16.5,-2.24,3,411,27
+spain,6,new,1,13.1,-1.24,12,734,27
+spain,7,strategy,1,12.3,-1.58,6,481,27
+spain,8,policy,1,12.1,-1.34,9,598,27
+spain,9,take,1,11.9,-2.64,1,232,27
+spain,10,structural,1,11.5,-3.56,0,146,19
+sweden,1,training,1,17.2,-4.12,0,382,26
+sweden,2,company,1,11.4,-2.58,1,394,27

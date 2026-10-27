@@ -1,0 +1,8 @@
+# Python 3.14
+pymupdf==2.0          # PDF text extraction
+nltk==3.10.4          # tokenizing, stopwords, POS tagging, lemmatizing, word counts
+pandas==3.1.0         # tables, CSV output
+scikit-learn==1.9.1   # TfidfVectorizer, CountVectorizer
+matplotlib==3.11.2    # charts
+numpy==2.5.4
+scipy==1.18.1         # G² (xlogy), Spearman correlation
