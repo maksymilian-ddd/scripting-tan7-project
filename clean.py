@@ -107,14 +107,14 @@ def join_lines(lines):
 
 def normalize(text):
     """Unify quotes, dashes and spaces."""
-    text = text.replace("’", "'").replace("‘", "'")
-    text = text.replace("“", '"').replace("”", '"')
-    text = text.replace("–", " - ").replace("—", " - ")
-    text = re.sub(r"[   ]", " ", text)
-    text = text.replace("•", " ")  # bullets
-    text = re.sub(r"[‐‑­]", "-", text)  # hyphen variants -> "-"
-    text = re.sub(r"(?<=[A-Za-z])/(?=[A-Za-z])", " / ", text)  # "upskilling/reskilling"
-    return re.sub(r"\s+", " ", text).strip()
+    text = text.replace("’", "'").replace("‘", "'")      # normalizing quotes
+    text = text.replace("“", '"').replace("”", '"')      # normalizing double quotes
+    text = text.replace("–", " - ").replace("—", " - ")  # splitting words so they become two different tokens
+    text = re.sub(r"[   ]", " ", text)                   # normalizing spaces
+    text = text.replace("•", " ")                        # removing bullet points
+    text = re.sub(r"[‐‑­]", "-", text)                    # normalizing hyphens
+    text = re.sub(r"(?<=[A-Za-z])/(?=[A-Za-z])", " / ", text)  # splitting words so they become two different tokens
+    return re.sub(r"\s+", " ", text).strip()             # normalizing multiple whitespace characters into a single space
 
 
 # ===================================================================================
@@ -268,9 +268,10 @@ def main():
             "chunks": len(chunks),
         })
 
+    print(pd.DataFrame(stats).to_string(index=False))
     pd.DataFrame(removed_rows).to_csv(OUTPUT_DIR / "removed_names.csv", index=False)
     pd.DataFrame(count_rows).to_csv(CLEAN_DIR / "_word_counts.csv", index=False)
-    print(pd.DataFrame(stats).to_string(index=False))
+    
 
 
 if __name__ == "__main__":
