@@ -2,7 +2,6 @@
 
 Input:  data/clean/<year>/<country>.txt   lemmatized chunks from clean.py, one per line
 Output: output/<year>/top_terms.csv                 main result: top 20 per country
-        output/<year>/top_terms_no_phrase_min.csv   same, without the phrase minimum count
         output/<year>/top_terms_by_ngram.csv        top 10 per country per n-gram length
         output/<year>/sanity_doc_freq.csv           every term with its document frequency
         output/<year>/summary.md                    readable summary
@@ -28,7 +27,6 @@ NGRAM_RANGE = (1, 3)    # applied in ngrams_in_chunks(), not by sklearn
 SUBLINEAR_TF = True     # tf -> 1 + log(tf)
 MIN_DF = 1              # keep terms found in only one report
 MAX_DF = 0.5            # drop terms found in more than half of the reports
-MIN_PHRASE_COUNT = 2    # 2- and 3-grams must occur at least twice in a report
 SUBSUME_SHARE = 0.8     # drop a term if a longer ranked term containing it occurs
                         # at least 80% as often in that report
 TOP_N = 20              # terms per country in the main ranking
@@ -60,30 +58,24 @@ def n_words(term):
 
 
 # ===================================================================================
-# Ranking with the phrase minimum and the overlap filter
+# Ranking with the overlap filter
 # ===================================================================================
 
-def rank_terms(scores, counts, min_phrase_count):
-    """Rank one report's terms by TF-IDF after two filters.
-
-    1. Phrase minimum: 2- and 3-grams need `min_phrase_count` occurrences.
-    2. Overlap: a term is dropped when a longer candidate containing it occurs at
-       least SUBSUME_SHARE times as often, i.e. the shorter term hardly appears on
-       its own ('broadband router' inside 'mobile broadband router').
+def rank_terms(scores, counts):
+    """Rank one report's terms by TF-IDF after the overlap filter: a term is dropped
+    when a longer term containing it occurs at least SUBSUME_SHARE times as often,
+    i.e. the shorter term hardly appears on its own ('broadband router' inside
+    'mobile broadband router').
     """
-    candidates = {
-        t: s for t, s in scores.items()
-        if n_words(t) == 1 or counts[t] >= min_phrase_count
-    }
     longest_container = defaultdict(int)  # term -> highest count of a longer term containing it
-    for term in candidates:
+    for term in scores:
         tokens = term.split()
         for n in range(1, len(tokens)):
             for i in range(len(tokens) - n + 1):
                 part = " ".join(tokens[i:i + n])
                 longest_container[part] = max(longest_container[part], counts[term])
     kept = {
-        t: s for t, s in candidates.items()
+        t: s for t, s in scores.items()
         if longest_container[t] < SUBSUME_SHARE * counts[t]
     }
     return sorted(kept.items(), key=lambda item: -item[1])
@@ -96,7 +88,7 @@ def per_document(matrix, vocabulary, row):
 
 
 def build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term):
-    main, loose, by_length = [], [], []
+    main, by_length = [], []
     for i, country in enumerate(countries):
         scores = per_document(X, tfidf_terms, i)
         counts = defaultdict(int, per_document(C, count_terms, i))
@@ -107,12 +99,11 @@ def build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term):
                 "score": round(s, 4), "count": counts[t], "doc_freq": df_by_term[t],
             } for r, (t, s) in enumerate(ranked[:limit], start=1)]
 
-        ranked = rank_terms(scores, counts, MIN_PHRASE_COUNT)
+        ranked = rank_terms(scores, counts)
         main += rows(ranked, TOP_N)
-        loose += rows(rank_terms(scores, counts, 1), TOP_N)
         for n in range(NGRAM_RANGE[0], NGRAM_RANGE[1] + 1):
             by_length += rows([(t, s) for t, s in ranked if n_words(t) == n], TOP_N_PER_LENGTH)
-    return pd.DataFrame(main), pd.DataFrame(loose), pd.DataFrame(by_length)
+    return pd.DataFrame(main), pd.DataFrame(by_length)
 
 
 # ===================================================================================
@@ -215,7 +206,6 @@ def write_summary(path, countries, top, sanity, max_doc_count):
         f"| sublinear_tf | {SUBLINEAR_TF} |",
         f"| min_df | {MIN_DF} |",
         f"| max_df | {MAX_DF} (terms in more than {max_doc_count} reports are dropped) |",
-        f"| phrase minimum | 2- and 3-grams need {MIN_PHRASE_COUNT}+ occurrences in a report |",
         f"| overlap filter | shorter term dropped if a longer one containing it occurs "
         f"{SUBSUME_SHARE:.0%}+ as often |",
         "",
@@ -274,9 +264,8 @@ def main():
     print(f"Documents: {len(countries)}; vocabulary: {len(count_terms)} terms; "
           f"after max_df (df <= {max_doc_count}): {len(tfidf_terms)} terms")
 
-    top, loose, by_length = build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term)
+    top, by_length = build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term)
     top.to_csv(OUTPUT_DIR / "top_terms.csv", index=False)
-    loose.to_csv(OUTPUT_DIR / "top_terms_no_phrase_min.csv", index=False)
     by_length.to_csv(OUTPUT_DIR / "top_terms_by_ngram.csv", index=False)
 
     sanity = sanity_table(countries, texts, C, count_terms, max_doc_count)

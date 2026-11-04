@@ -170,25 +170,15 @@ false n-grams.
 | `smooth_idf` | True (default) | idf = ln((1+N)/(1+df)) + 1 |
 | `norm` | `"l2"` (default) | long and short reports comparable |
 
-### Ranking filters (added on top of the brief, agreed with the user)
+### Ranking filter (added on top of the brief, agreed with the user)
 
-1. **Phrase minimum:** 2- and 3-grams must occur **at least 2 times** in a report to be
-   ranked; 1-grams have no minimum. Reason: with `min_df=1` any accidental 3-word
-   sequence that occurs once gets the highest IDF. This **deviates from the brief**, so
-   results are also written without it (`top_terms_no_phrase_min.csv`).
-2. **Overlap filter:** a term is dropped when a longer ranked term containing it occurs
-   at least 80% as often in the same report (`SUBSUME_SHARE = 0.8`). So
-   `broadband router` goes if it nearly always appears inside `mobile broadband
-   router`, but `router` stays if it is also used on its own. This keeps one idea from
-   filling several places in the top 20.
+**Overlap filter:** a term is dropped when a longer ranked term containing it occurs
+at least 80% as often in the same report (`SUBSUME_SHARE = 0.8`). So
+`broadband router` goes if it nearly always appears inside `mobile broadband
+router`, but `router` stays if it is also used on its own. This keeps one idea from
+filling several places in the top 20.
 
-**Result on the full corpus:** the phrase minimum changes nothing. The top 20 is
-identical with and without it, and every top-20 term occurs at least twice. A term
-that occurs once gets the lowest possible TF, which already keeps it out of the top 20.
-The filter stays in as a safeguard, but the brief's `min_df=1` setup is effectively
-what produced the results.
-
-These filters affect only the ranking. The TF-IDF scores themselves are computed on
+The filter affects only the ranking. The TF-IDF scores themselves are computed on
 the full vocabulary.
 
 ## Step 5: outputs (`output/<year>/`)
@@ -196,7 +186,6 @@ the full vocabulary.
 | File | Content |
 |---|---|
 | `top_terms.csv` | **main result**: country, rank, term, n, score, count, doc_freq (top 20) |
-| `top_terms_no_phrase_min.csv` | same, without the phrase minimum (brief as written) |
 | `top_terms_by_ngram.csv` | top 10 per country for each n-gram length (1, 2, 3) |
 | `sanity_doc_freq.csv` | every term: n, doc_freq, total count, idf, score without cut, dropped |
 | `summary.md` | parameters, top terms per country, sanity table |

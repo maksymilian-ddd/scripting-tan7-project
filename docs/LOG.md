@@ -64,8 +64,7 @@ new reports follow the same layout) → write and run `tfidf.py`.
 - Explained to the user why chunks: TF-IDF still runs on one document per country;
   chunks only stop false n-grams (Austria: 3,218 of 6,061 flat bigrams would be false).
 - Agreed ranking design: one combined top 20 + top 10 per n-gram length;
-  **phrase minimum** (2-/3-grams need 2+ occurrences, a deviation from the brief, also
-  output without it); **overlap filter** (drop a term mostly occurring inside a longer
+  **overlap filter** (drop a term mostly occurring inside a longer
   ranked term, 80% threshold).
 - Wrote `tfidf.py`; smoke-tested on the 4 available reports (not meaningful yet:
   `max_df` 0.5 of 4 = drop anything in 3+ reports).
@@ -145,7 +144,6 @@ new reports follow the same layout) → write and run `tfidf.py`.
   222 unigrams, 215 bigrams, 103 trigrams; 381 of 540 top terms occur in only one report.
 - **Sanity check passes** (see PLAN step 6): with 27 reports IDF already gives template
   terms low weight; `max_df` removes the remaining frequent ones.
-- **Phrase minimum has no effect** on the top 20 (identical with/without); documented.
 - Console output of the last run: `output/2026/_run_log.txt`.
 
 **Possible next steps:** inspect the lists by eye; 2025 corpus (step 7).

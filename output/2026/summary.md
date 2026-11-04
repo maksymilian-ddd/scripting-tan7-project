@@ -8,7 +8,6 @@ Corpus: 27 of 27 reports. Exploratory: with this few documents IDF takes only a 
 | sublinear_tf | True |
 | min_df | 1 |
 | max_df | 0.5 (terms in more than 13 reports are dropped) |
-| phrase minimum | 2- and 3-grams need 2+ occurrences in a report |
 | overlap filter | shorter term dropped if a longer one containing it occurs 80%+ as often |
 
 Scores are TF-IDF (L2-normalized per report); `(n)` after a term is its count in the report.
