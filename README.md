@@ -37,7 +37,6 @@ The 2025 edition goes in `data/raw/2025/` with the same names.
 | 2. Extract | `extract.py` | `data/raw/<year>/*.pdf` | `data/text/<year>/*.txt`, `*.spans.csv` (text + font info) |
 | 3. Clean | `clean.py` | `data/text/<year>/*.spans.csv` | `data/clean/<year>/*.txt` (lemma chunks), `*.body.txt` (readable) |
 | 4–6. TF-IDF | `tfidf.py` | `data/clean/<year>/*.txt` | `output/<year>/` |
-| 7. Keyness | `keyness.py` | `data/clean/<year>/*.txt`, `top_terms.csv` | `output/<year>/keyness_*` |
 
 Run each script with `.venv/bin/python <script>.py`. The year is set in `config.py`.
 
@@ -49,7 +48,6 @@ setup_nltk.py     one-time NLTK data download
 extract.py        PDF -> text (PyMuPDF)
 clean.py          text cleaning, NLTK tokenizing / stopwords / lemmatizing
 tfidf.py          TF-IDF, top terms, sanity check, charts
-keyness.py        log-likelihood (G²) keyness, comparison with TF-IDF
 docs/             plan and progress log
 data/             raw PDFs, extracted and cleaned text (not versioned)
 output/           results per year
@@ -62,6 +60,5 @@ output/           results per year
 | PyMuPDF | text extraction from PDF |
 | NLTK | tokenizing, English stopwords, POS tagging, lemmatizing (WordNet), word counts (`FreqDist`) |
 | scikit-learn | `TfidfVectorizer`, `CountVectorizer` |
-| SciPy (installed with scikit-learn) | `xlogy` for G², Spearman correlation |
 | pandas | tables and CSV output |
 | matplotlib | charts |

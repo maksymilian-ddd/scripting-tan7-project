@@ -19,8 +19,7 @@ content (projects, policies, problems) should rise to the top.
 | 4 | TF-IDF | `tfidf.py` | done (27/27) |
 | 5 | Top 15–20 terms per country: CSV + Markdown summary | `tfidf.py` | done (27/27) |
 | 6 | Sanity check: document frequency vs. weight | `tfidf.py` | done (27/27) |
-| 7 | Optional: compare with log-likelihood keyness (BM25 not done) | `keyness.py` | done |
-| 8 | Optional: 2025 corpus, year comparison | same scripts, `YEAR = "2025"` | later |
+| 7 | Optional: 2025 corpus, year comparison | same scripts, `YEAR = "2025"` | later |
 
 ## Step 2: extraction
 
@@ -122,7 +121,8 @@ All four follow the same layout, with the same fonts (Calibri) and positions:
    (discourse words `also, however, moreover, furthermore, nevertheless, therefore,
    thus, meanwhile, additionally, e.g., i.e., etc, via, within, well, yet` (both
    `i.e.` and `i.e`, since the tokenizer drops the final dot), units/currency
-   `eur, million, billion, per, cent, percent, pp, pps, kg, km`, month names, and French/German
+   `eur, million, billion, per, cent, percent, pp, pps, kg, km`, month names, roman-numeral
+   list markers `ii, iii, iv, …` (560× in the corpus, from "(ii)", "(iii)"), and French/German
    function words that occur inside programme names: `la, le, les, de, des, du, et, der,
    das, und, für` and Italian/Polish/Spanish/Swedish `di, del, della, delle, dla, na, el,
    los, las, para, och, av, för`; not NLTK's full French/German lists, which contain English words
@@ -222,48 +222,6 @@ the full vocabulary.
 - A first version averaged scores over *all* reports (0 where absent), which made rare
   terms look low-weighted and the check meaningless. That was fixed.
 
-## Step 7: log-likelihood (G²) keyness (implemented in `keyness.py`)
-
-Each report is compared with the other 26 combined (reference corpus), Dunning (1993):
-
-- For each term: count `a` in the report, `b` in the reference; corpus sizes counted
-  per n-gram length (a bigram is compared with the number of bigrams).
-  Expected counts `E1 = size·(a+b)/total`, `E2 = ref_size·(a+b)/total`;
-  `G² = 2·(a·ln(a/E1) + b·ln(b/E2))`.
-- **Positive keywords:** overused (`a/size > b/ref_size`) and `G² ≥ 10.83`
-  (p < 0.001, 1 df). With ~59,000 tests per report this is still lenient (no
-  multiple-testing correction); it is used as a filter, ranking is by G².
-- **Negative keywords:** underused and `G² ≥ 10.83` → `keyness_negative.csv`.
-- **Log ratio** (Hardie 2014; log2 of relative frequencies, +0.5 smoothing) is stored as
-  an effect size next to G².
-- Same terms, phrase minimum and overlap filter as TF-IDF. **No `max_df`**: G² can
-  show that a widespread word is overused in one report.
-
-Comparison with TF-IDF (`keyness_comparison.md`, `.csv`, `charts/keyness_overlap.png`):
-top-20 overlap per country, and the Spearman correlation of TF-IDF vs signed G² over
-all terms in a report that TF-IDF keeps.
-
-### Result (27 reports)
-
-| | TF-IDF | G² |
-|---|---|---|
-| mean count in report (top 20) | 4.9 | 11.6 |
-| mean number of reports containing the term | 1.6 | 7.4 |
-| terms in only one report | 71% | 49% |
-| terms in more than half the reports | 0% | 24% |
-| 1- / 2- / 3-grams | 222 / 215 / 103 | 310 / 162 / 68 |
-
-- Mean overlap of the top 20: **13.3 of 20** (Finland 18 … Ireland 8); mean Spearman
-  **0.88**. The two measures agree on the core: national institutions and programmes.
-- G² favours frequent single words and **adds emphasis on widespread topics** that
-  `max_df` hides from TF-IDF (Germany `rollout`, `eid`; Netherlands `semiconductor`;
-  Denmark `company`; Spain `data space`, `startup`).
-- G² also brings up **more style words** (Romania `could`, `would`, `need`; Ireland
-  `strong`, `wider`; Croatia `remain`, `relevant`).
-- TF-IDF favours rare, specific multi-word terms (programme names, 3-grams).
-- G² exposed a cleaning gap hidden by `max_df`: roman-numeral list markers (`ii`, `iii`,
-  `iv`) ranked #1 for Ireland → added to stopwords, all scripts re-run.
-
-## Step 8 (optional): 2025 corpus
+## Step 7 (optional): 2025 corpus
 
 Set `YEAR = "2025"` in `config.py`, put the PDFs in `data/raw/2025/`, run all scripts.

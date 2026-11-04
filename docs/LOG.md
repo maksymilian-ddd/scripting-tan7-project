@@ -148,18 +148,4 @@ new reports follow the same layout) → write and run `tfidf.py`.
 - **Phrase minimum has no effect** on the top 20 (identical with/without); documented.
 - Console output of the last run: `output/2026/_run_log.txt`.
 
-**Possible next steps:** inspect the lists by eye; optional BM25 / log-likelihood
-comparison (step 7); 2025 corpus (step 8).
-
-## Step 7 — Log-likelihood (G²) keyness (2026-10-27)
-
-- Explained BM25 and log-likelihood to the user; user chose G².
-- Wrote `keyness.py`: each report vs the other 26, same terms / phrase minimum / overlap
-  filter as TF-IDF, no `max_df`, significance threshold G² ≥ 10.83 (p < 0.001), also
-  negative keywords and log ratio.
-- G² exposed roman-numeral list markers (`ii`, `iii`, `iv`, 560× in the corpus;
-  Ireland's #1 G² keyword). TF-IDF had hidden them via `max_df`. Added to stopwords;
-  re-ran clean → tfidf → keyness. TF-IDF top lists unchanged by this fix.
-- Result: mean top-20 overlap 13.3/20, mean Spearman 0.88. G² prefers frequent single
-  words and widespread-but-overused topics (24% of its top terms are in >13 reports);
-  TF-IDF prefers rare specific names and phrases. Details in PLAN step 7.
+**Possible next steps:** inspect the lists by eye; 2025 corpus (step 7).
