@@ -101,8 +101,10 @@ All four follow the same layout, with the same fonts (Calibri) and positions:
      that all regions are handled the same way.
 4b. **Country codes and currencies** (decided with the user): ISO codes and national
    currency codes in `config.COUNTRY_CODES` (`AT`, `CY`, `EL`/`GR`, `CZK`, `DKK`,
-   `PLN`, …) are removed **at token level**, uppercase only, also inside compounds and
-   web domains (`NCC-CY` → `ncc`, `gov.cy` → `gov`). `IT` (Italy) is left out on
+   `PLN`, …) are removed **at token level**, uppercase only, and only when they stand
+   alone. Tokens that contain a code stay whole (`gov.cy`, `Red.es`, `NCC-CY`), because
+   cutting them lost information (`Red.es` became `red`). The cost: `ncc-cy` and `ncc-hr`
+   are separate terms although each is a National Competence Centre. `IT` (Italy) is left out on
    purpose: in these reports it means information technology. `HR` (Croatia) could in
    theory mean human resources; in the 12 reports it was only removed from the Croatian
    report. Removals are counted in `removed_names.csv`.

@@ -142,27 +142,6 @@ def remove_country_names(text, country, counter):
 CODES = {code for codes in COUNTRY_CODES.values() for code in codes}
 
 
-def strip_codes(word, counter):
-    """Remove ISO country and currency codes from a token, also inside compounds and
-    domains ('NCC-CY' -> 'NCC', 'gov.cy' -> 'gov'). Returns '' if nothing is left."""
-    if word in CODES:
-        counter[word] += 1
-        return ""
-    if not re.search(r"[-.]", word):
-        return word
-    parts = re.split(r"[-.]", word)
-    in_domain = "." in word
-    kept = []
-    for part in parts:
-        if part in CODES or (in_domain and part.upper() in CODES and part.islower()):
-            counter[part.upper()] += 1
-        else:
-            kept.append(part)
-    if len(kept) == len(parts):
-        return word
-    return ("." if in_domain and "-" not in word else "-").join(p for p in kept if p)
-
-
 # ===================================================================================
 # 3. NLTK: tokenize, POS-tag, lemmatize, remove stopwords
 # ===================================================================================
@@ -214,7 +193,10 @@ def to_chunks(paragraphs, removed):
     for tagged in nltk.pos_tag_sents(sentences):
         current = []
         for word, tag in tagged:
-            word = strip_codes(word.strip("'"), removed)
+            word = word.strip("'")
+            if word in CODES:  # standalone only: "gov.cy" and "NCC-CY" stay whole
+                removed[word] += 1
+                word = ""
             lemma = lemmatize(word, tag) if word else ""
             if is_content(lemma):
                 current.append(lemma)

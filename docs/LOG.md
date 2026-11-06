@@ -161,3 +161,9 @@ new reports follow the same layout) → write and run `tfidf.py`.
   the shared IDF.
 - `wordclouds.py`: one cloud + chart per report, grouped by country, a year filter, and a
   click panel with score and count per year.
+
+## Codes stripped only when standalone (2026-11-06)
+
+- `strip_codes` removed; `to_chunks` now drops a token only if the whole token is a code.
+  Tokens containing a code stay whole (`Red.es` was `red`, `cert.lv` was `cert`).
+- 24 of 1,080 top-20 places changed. `ncc-cy`, `ncc-hr` and `ncc-el` are now separate terms.

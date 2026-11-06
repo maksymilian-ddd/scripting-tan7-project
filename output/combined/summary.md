@@ -26,11 +26,11 @@ meg (12), sofia (17), crc (16), sofia tech park (9), brain++ (6), e-government s
 
 ## Croatia 2025
 
-croccs (6), country still lack (4), deep tech venture (5), zagreb (5), state cloud (5), admo (5), hakom (4), croqci (4), vesna deep tech (3), tech venture fund (3), srce (3), innovation scaling (3), cohesion programme (3), mid-band 5g (5), rrp-funded (5), test environment (4), continue implement exist (6), carnet (3), investment scheme (3), eu rural average (4)
+croccs (6), country still lack (4), deep tech venture (5), zagreb (5), state cloud (5), ncc-hr (5), admo (5), hakom (4), croqci (4), vesna deep tech (3), tech venture fund (3), srce (3), innovation scaling (3), cohesion programme (3), mid-band 5g (5), rrp-funded (5), test environment (4), continue implement exist (6), carnet (3), investment scheme (3)
 
 ## Cyprus 2025
 
-dmrid (8), customised (5), digital citizen (4), cpc (4), open ran (3), user-centric solution (3), ai taskforce (5), three additional measure (4), smart specialisation strategy (4), customised training (3), specific group (3), ocecpr (3), additional information (3), innovation foundation (3), login (3), 26ghz band (4), human right (3), gigabit connectivity infrastructure (3), leverage digital health (2), innovation entrepreneurship (2)
+dmrid (8), customised (5), digital citizen (4), cpc (4), open ran (3), user-centric solution (3), ai taskforce (5), three additional measure (4), smart specialisation strategy (4), customised training (3), specific group (3), ocecpr (3), ncc-cy (3), additional information (3), innovation foundation (3), login (3), gov.cy (3), 26ghz band (4), human right (3), gigabit connectivity infrastructure (3)
 
 ## Czechia 2025
 
@@ -42,7 +42,7 @@ mitid (10), technology comprehension (6), drinking water (4), low secondary scho
 
 ## Estonia 2025
 
-ecptra (9), deeptech (5), ecptra report (5), green digital government (4), reporting tool (4), government resilience (3), digital action plan (3), marriage (3), eesti (3), mid-level (3), support vhcn (4), target accord (3), ms (3), geographical border (2), current challenge require (2), introduce new digital (2), new digital measure (2), increase cybersecurity cooperation (2), educate civil servant (2), sufficiently align (2)
+ecptra (9), deeptech (5), ecptra report (5), green digital government (4), reporting tool (4), government resilience (3), digital action plan (3), marriage (3), eesti.ee (3), mid-level (3), support vhcn (4), target accord (3), ms (3), geographical border (2), current challenge require (2), introduce new digital (2), new digital measure (2), increase cybersecurity cooperation (2), educate civil servant (2), sufficiently align (2)
 
 ## Finland 2025
 
@@ -58,7 +58,7 @@ federal (29), gigabit strategy (6), federal state (5), state level (4), amended 
 
 ## Greece 2025
 
-eett (10), digital governance (10), minor online (9), protect minor online (6), national target initially (3), national digital transformation (4), initially set (3), ftth network (3), violence (3), digital transformation strategy (6), raw material (3), crete (3), due time (3), network across (3), gov wallet (3), bullying (3), severe digital (2), seven first (2), various operator (2), optic network across (2)
+eett (10), digital governance (10), minor online (9), protect minor online (6), national target initially (3), gov.gr (4), national digital transformation (4), initially set (3), ftth network (3), violence (3), digital transformation strategy (6), raw material (3), crete (3), due time (3), network across (3), gov.gr wallet (3), bullying (3), severe digital (2), seven first (2), various operator (2)
 
 ## Hungary 2025
 
@@ -82,11 +82,11 @@ national digital agenda (9), laser (4), talent reach (4), greentech hub (3), soc
 
 ## Luxembourg 2025
 
-fit (12), sme package (8), ict day (4), i.l.r (4), lhc (5), mega (4), ospo (4), myguichet (4), meluxina (4), bee secure (4), adem (4), promote open-source (3), product circularity data (3), circularity data sheet (3), pcds (3), dtf (3), venture day (3), revise roadmap introduces (3), roadmap introduces two (3), roadmap introduces (4)
+fit (12), sme package (8), ict day (4), i.l.r (4), lhc (5), mega (4), ospo (4), meluxina (4), bee secure (4), adem (4), promote open-source (3), product circularity data (3), circularity data sheet (3), pcds (3), dtf (3), venture day (3), revise roadmap introduces (3), roadmap introduces two (3), roadmap introduces (4), market size (4)
 
 ## Malta 2025
 
-average eu score (5), online civic (3), significantly surpass (3), three operator (3), responsible digital (3), start-up finance scheme (2), total three (2), three national target (2), roadmap cover nearly (2), nationwide cable docsis (2), reflect relatively (2), cloud target (2), responsible digital engagement (2), achievement highlight (2), broad demographic (2), national e-skill strategy (2), businessfirst.com (2), across healthcare system (2), mha (2), promote responsible digital (2)
+average eu score (5), online civic (3), significantly surpass (3), three operator (3), responsible digital (3), start-up finance scheme (2), total three (2), three national target (2), roadmap cover nearly (2), nationwide cable docsis (2), reflect relatively (2), cloud target (2), responsible digital engagement (2), achievement highlight (2), broad demographic (2), national e-skill strategy (2), businessfirst.com.mt (2), servizz.gov.mt (2), across healthcare system (2), mha (2)
 
 ## Netherlands 2025
 
@@ -98,11 +98,11 @@ state digitalisation strategy (15), draft state digitalisation (13), strategia c
 
 ## Portugal 2025
 
-national digital strategy (11), collaborative hub (4), amalia (4), smart territory (5), gov app (3), digital health transition (3), good rate (3), unleash (3), collaborative laboratory (3), digital trainer (3), target seem achievable (5), anacom (3), fct (3), gov (6), rrf investment (4), report last year (3), revise roadmap include (5), ambitious plan regard (2), european quantum initiative (2), promote gender convergence (2)
+national digital strategy (11), gov.pt (6), collaborative hub (4), amalia (4), smart territory (5), gov.pt app (3), digital health transition (3), good rate (3), unleash (3), collaborative laboratory (3), digital trainer (3), target seem achievable (5), anacom (3), fct (3), rrf investment (4), report last year (3), revise roadmap include (5), ambitious plan regard (2), european quantum initiative (2), promote gender convergence (2)
 
 ## Romania 2025
 
-nrrp (12), ancom (4), necessary resource (4), start-up nation (4), roeid (4), ghiseul (3), ict employee (3), ict market (3), considerable scope (3), exist procedure (3), education process (3), multiple exist project (3), bucharest (3), project management (4), necessary digital skill (3), governmental cloud (3), reluctant (3), fiscal (4), b2b sector (2), entire learning cycle (2)
+nrrp (12), ancom (4), necessary resource (4), start-up nation (4), roeid (4), ghiseul.ro (3), ict employee (3), ict market (3), considerable scope (3), exist procedure (3), education process (3), multiple exist project (3), bucharest (3), project management (4), necessary digital skill (3), ncc (3), governmental cloud (3), reluctant (3), fiscal (4), b2b sector (2)
 
 ## Slovakia 2025
 
@@ -110,11 +110,11 @@ digitrans (7), mirri (6), digitrans project (4), priority life situation (5), re
 
 ## Slovenia 2025
 
-akos (8), quickly implement (4), venture capital expenditure (3), ongoing high education (3), digital healthcare act (3), integrate digital skill (8), high education reform (4), relatively low level (3), municipality level (3), digital business model (3), new impulse (3), mobile hero (3), education curriculum (6), bid (4), legislative change (3), specific technology (3), several cutting-edge technology (2), cutting-edge technology project (2), recently show considerable (2), show considerable progress (2)
+akos (8), quickly implement (4), venture capital expenditure (3), ongoing high education (3), digital healthcare act (3), chips.si (3), integrate digital skill (8), high education reform (4), relatively low level (3), municipality level (3), digital business model (3), new impulse (3), mobile hero (3), education curriculum (6), bid (4), legislative change (3), specific technology (3), several cutting-edge technology (2), cutting-edge technology project (2), recently show considerable (2)
 
 ## Spain 2025
 
-incibe (8), sectoral data space (7), sett (5), unico (5), model train (3), green algorithm (3), green ai (4), alia (4), red (6), co-official language (3), madrid (3), royal (4), 5g security (4), royal decree (3), demonstrator (3), barcelona (3), integrated photonics (3), decree (4), rydberg atom (2), quantum annealer (2)
+incibe (8), sectoral data space (7), red.es (6), sett (5), unico (5), model train (3), green algorithm (3), green ai (4), alia (4), co-official language (3), madrid (3), royal (4), 5g security (4), royal decree (3), demonstrator (3), barcelona (3), integrated photonics (3), decree (4), rydberg atom (2), quantum annealer (2)
 
 ## Sweden 2025
 
@@ -134,11 +134,11 @@ pridst (9), eu-funded programme (4), public administration ai (4), administratio
 
 ## Croatia 2026
 
-e-citizen (8), still point (7), roadmap link (4), evidence still point (4), carnet (5), progress remain partial (7), higher-capacity (5), hakom (4), unresolved (4), register integration (3), inactive people (3), service centre (3), deployment framework (3), still appear fragmented (3), national roadmap link (3), edih network (3), complex digital solution (3), recent trend (3), state information infrastructure (3), policy debate (3)
+e-citizen (8), still point (7), roadmap link (4), evidence still point (4), carnet (5), progress remain partial (7), higher-capacity (5), hakom (4), ncc-hr (4), unresolved (4), register integration (3), inactive people (3), service centre (3), deployment framework (3), still appear fragmented (3), national roadmap link (3), edih network (3), complex digital solution (3), recent trend (3), state information infrastructure (3)
 
 ## Cyprus 2026
 
-dmrid (10), digital citizen app (5), deputy ministry (6), five-year horizon (4), ocecpr (5), high figure (5), cyqci (4), core working-age group (4), g-cloud (4), symmetrical access regime (3), new national ai (3), health ecosystem (3), mobile health application (3), major preparatory (3), cyta (3), ncc community (3), eu since (3), major investment project (3), diginn (3), lighting (3)
+dmrid (10), digital citizen app (5), deputy ministry (6), ncc (7), five-year horizon (4), ocecpr (5), gov.cy (5), high figure (5), ncc-cy (4), cyqci (4), core working-age group (4), g-cloud (4), symmetrical access regime (3), new national ai (3), health ecosystem (3), mobile health application (3), major preparatory (3), cyta (3), ncc community (3), eu since (3)
 
 ## Czechia 2026
 
@@ -166,11 +166,11 @@ new ministry (8), länder (14), hightech agenda (7), mittelstand-digital (9), fe
 
 ## Greece 2026
 
-eett (8), g-cloud (7), digital governance (10), labour market diagnostic (4), peer review (4), hellasqci (5), local exchange (4), ncsa (4), domestic online service (4), h-cloud (4), impacts-edic (4), national data governance (4), rapidly develop (3), hellasqci infrastructure (3), hei (3), government score (3), minor online (6), pharos (5), protect minor online (4), data governance framework (4)
+eett (8), g-cloud (7), digital governance (10), labour market diagnostic (4), peer review (4), hellasqci (5), local exchange (4), ncsa (4), domestic online service (4), h-cloud (4), impacts-edic (4), national data governance (4), rapidly develop (3), ncc-el (3), hellasqci infrastructure (3), hei (3), government score (3), minor online (6), pharos (5), protect minor online (4)
 
 ## Hungary 2026
 
-dimop (17), hun-ren (6), drop plus (5), developed region (4), drop+ (4), plus (10), budapest (4), less developed region (3), eidas authentication (3), magyarorszag portal (3), energy management system (3), system support (3), private geriatric nursing (3), e-id scheme (5), ai among sme (2), notable challenge (2), dimop plusz (2), 2g network (2), european automotive semiconductor (2), hun-ren wigner (2)
+dimop (17), hun-ren (6), drop plus (5), developed region (4), drop+ (4), plus (10), budapest (4), less developed region (3), eidas authentication (3), magyarorszag.hu portal (3), energy management system (3), system support (3), private geriatric nursing (3), e-id scheme (5), ai among sme (2), notable challenge (2), dimop plusz (2), 2g network (2), european automotive semiconductor (2), hun-ren wigner (2)
 
 ## Ireland 2026
 
@@ -182,7 +182,7 @@ acn (8), law n. (5), facilitation service network (5), leonardo (6), politecnico
 
 ## Latvia 2026
 
-year since (14), riga (7), two year since (6), cert (12), citizen portal (4), annual progression (9), e-form (4), state cloud (4), private rehabilitation centre (4), annualised (4), optical network (3), annualised average (3), liaa (3), learning account approach (3), development agency (6), individual learning account (7), riga technical university (3), implement ai solution (3), quantum education (3), quantum internet (3)
+cert.lv (12), year since (14), riga (7), two year since (6), citizen portal (4), annual progression (9), e-form (4), state cloud (4), private rehabilitation centre (4), annualised (4), optical network (3), annualised average (3), liaa (3), learning account approach (3), development agency (6), individual learning account (7), riga technical university (3), implement ai solution (3), quantum education (3), quantum internet (3)
 
 ## Lithuania 2026
 
@@ -198,7 +198,7 @@ mscc (6), prism (6), mdia (5), mno (6), specialised talent (3), prism project (3
 
 ## Netherlands 2026
 
-eindhoven (10), trajectory set (8), acm (6), groningen (6), quantum delta (6), cloud sovereignty (4), digitalised society (4), rotterdam (4), twente (4), part-time (5), highly digitalised (4), highly digitalised society (3), eindhoven university (3), chipnl (3), asml (5), economic affair (5), coalition agreement (5), recent budget cut (3), beethoven (3), smart maker academy (3)
+eindhoven (10), trajectory set (8), acm (6), groningen (6), quantum delta (6), cloud sovereignty (4), digitalised society (4), rotterdam (4), twente (4), invest-nl (5), part-time (5), highly digitalised (4), highly digitalised society (3), eindhoven university (3), chipnl (3), asml (5), economic affair (5), coalition agreement (5), recent budget cut (3), beethoven (3)
 
 ## Poland 2026
 
@@ -214,7 +214,7 @@ governmental cloud (12), digcompro (6), nrrp (9), black sea (6), nrpp (4), rewar
 
 ## Slovakia 2026
 
-mirri (10), life situation (13), slovensko (8), bratislava (7), success rate (6), priority life situation (4), green future (4), košice (4), cross-border citizen (4), administratively (3), vendor lock-in (3), informatisation (4), medium- (4), digitrans (3), negatively affect (3), national concept (3), permit procedure (4), user-friendliness (10), construction law (3), particularly low (3)
+mirri (10), life situation (13), slovensko (7), bratislava (7), success rate (6), priority life situation (4), green future (4), košice (4), cross-border citizen (4), administratively (3), vendor lock-in (3), informatisation (4), medium- (4), digitrans (3), negatively affect (3), national concept (3), permit procedure (4), user-friendliness (10), construction law (3), particularly low (3)
 
 ## Slovenia 2026
 
@@ -222,7 +222,7 @@ esg (8), higher-education (5), ai competence centre (6), akos (4), scale-up cond
 
 ## Spain 2026
 
-sett (14), kit (11), unico (7), nextgenerationeu (5), desafía (5), red (13), incibe (6), canary island (4), redia (4), participate startup (4), kit digital (5), barcelona (6), european technological sovereignty (3), sett invest (3), murcia (3), csic (3), pyme (3), barcelona supercomputing centre (4), integrated photonics (4), audiovisual (5)
+sett (14), red.es (13), kit (11), unico (7), nextgenerationeu (5), desafía (5), incibe (6), canary island (4), redia (4), participate startup (4), kit digital (5), barcelona (6), european technological sovereignty (3), sett invest (3), murcia (3), csic (3), pyme (3), barcelona supercomputing centre (4), integrated photonics (4), audiovisual (5)
 
 ## Sweden 2026
 

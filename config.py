@@ -54,8 +54,8 @@ OTHER_COUNTRIES = [
     "Moldova", "Western Balkans",
 ]
 
-# Country identifiers removed at token level (clean.py), also inside compounds and web
-# domains: "NCC-CY" -> "ncc", "gov.cy" -> "gov". Uppercase only, except in domains.
+# Country and currency codes removed at token level (clean.py), when they stand alone.
+# Tokens that contain a code stay whole: "gov.cy", "Red.es", "NCC-CY".
 # "IT" (Italy) is deliberately left out: in these reports it means information technology.
 COUNTRY_CODES = {
     "austria": ["AT"], "belgium": ["BE"], "bulgaria": ["BG", "BGN"], "croatia": ["HR"],

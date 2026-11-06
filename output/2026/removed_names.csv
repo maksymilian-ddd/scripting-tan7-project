@@ -1,15 +1,14 @@
 document,removed,count,own_country
 austria,Austria,220,True
 austria,Austrian,22,True
-austria,AT,3,True
 austria,Italy,1,False
 austria,Germany,1,False
 austria,Spain,1,False
+austria,AT,1,True
 belgium,Belgium,182,True
 belgium,Belgian,27,True
 belgium,German,8,False
 belgium,Belgians,7,True
-belgium,BE,5,True
 belgium,Luxembourg,1,False
 belgium,Ukraine,1,False
 belgium,Ireland,1,False
@@ -28,7 +27,6 @@ bulgaria,Croatia,1,False
 bulgaria,Italy,1,False
 croatia,Croatia,193,True
 croatia,Croatian,28,True
-croatia,HR,5,True
 croatia,Croatians,2,True
 croatia,German,1,False
 croatia,Slovenia,1,False
@@ -36,10 +34,10 @@ croatia,Italy,1,False
 croatia,Spain,1,False
 croatia,Romania,1,False
 cyprus,Cyprus,239,True
-cyprus,CY,13,True
 cyprus,Greece,8,False
 cyprus,Cypriot,7,True
 cyprus,Greek,4,False
+cyprus,CY,4,True
 cyprus,Bulgaria,3,False
 cyprus,Italy,2,False
 cyprus,the Netherlands,2,False
@@ -54,7 +52,6 @@ cyprus,Poland,1,False
 cyprus,Ireland,1,False
 cyprus,Portugal,1,False
 cyprus,Romania,1,False
-cyprus,GR,1,False
 czechia,Czechia,180,True
 czechia,Czech,12,True
 czechia,CZK,10,True
@@ -66,7 +63,6 @@ denmark,Denmark,116,True
 denmark,Danish,52,True
 denmark,Danes,18,True
 denmark,DKK,18,True
-denmark,DK,3,True
 denmark,French,1,False
 denmark,Spain,1,False
 denmark,Italy,1,False
@@ -84,7 +80,6 @@ estonia,Norway,1,False
 estonia,Italy,1,False
 finland,Finland,220,True
 finland,Finnish,42,True
-finland,FI,2,True
 finland,Estonia,1,False
 finland,Latvia,1,False
 finland,Lithuania,1,False
@@ -103,27 +98,24 @@ france,Chinese,1,False
 france,UK,1,False
 france,Spain,1,False
 france,Italy,1,False
-france,FR,1,True
 germany,Germany,139,True
 germany,German,28,True
 germany,United States,3,False
 germany,Germans,2,True
 germany,France,2,False
-germany,DE,2,True
 germany,China,1,False
 germany,US,1,False
 germany,UK,1,False
 germany,Japan,1,False
 germany,Italy,1,False
 germany,Spain,1,False
+germany,DE,1,True
 greece,Greece,205,True
 greece,Greek,18,True
 greece,Hellenic,7,True
 greece,Cyprus,6,False
 greece,Bulgaria,3,False
 greece,Germany,3,False
-greece,EL,3,True
-greece,GR,3,True
 greece,Ireland,2,False
 greece,Luxembourg,2,False
 greece,the Netherlands,2,False
@@ -139,7 +131,6 @@ greece,Spain,1,False
 hungary,Hungary,195,True
 hungary,Hungarian,32,True
 hungary,Germany,4,False
-hungary,HU,4,True
 hungary,HUF,3,True
 hungary,Italy,2,False
 hungary,Spain,2,False
@@ -148,6 +139,7 @@ hungary,France,1,False
 hungary,the Netherlands,1,False
 hungary,Poland,1,False
 hungary,German,1,False
+hungary,HU,1,True
 ireland,Ireland,291,True
 ireland,Irish,46,True
 ireland,Italy,1,False
@@ -167,7 +159,6 @@ italy,Poland,1,False
 italy,France,1,False
 latvia,Latvia,291,True
 latvia,Latvian,43,True
-latvia,LV,18,True
 latvia,Latvians,16,True
 latvia,Lithuania,3,False
 latvia,Estonia,2,False
@@ -178,11 +169,11 @@ latvia,Norway,1,False
 latvia,Denmark,1,False
 latvia,Italy,1,False
 latvia,Spain,1,False
+latvia,LV,1,True
 lithuania,Lithuania,170,True
 lithuania,Lithuanian,16,True
 lithuania,Poland,2,False
 lithuania,Latvia,2,False
-lithuania,LT,2,True
 lithuania,Ukraine,1,False
 lithuania,Moldova,1,False
 lithuania,Lithuanians,1,True
@@ -190,11 +181,11 @@ lithuania,Italy,1,False
 lithuania,Spain,1,False
 lithuania,Romania,1,False
 luxembourg,Luxembourg,234,True
-luxembourg,LU,11,True
 luxembourg,Luxembourgish,3,True
 luxembourg,Belgium,2,False
 luxembourg,Germany,2,False
 luxembourg,BE,2,False
+luxembourg,LU,2,True
 luxembourg,the Netherlands,1,False
 luxembourg,Italy,1,False
 luxembourg,Spain,1,False
@@ -203,11 +194,10 @@ malta,Maltese,18,True
 malta,France,1,False
 malta,Italy,1,False
 malta,Germany,1,False
-malta,MT,1,True
 netherlands,Dutch,77,True
 netherlands,the Netherlands,73,True
 netherlands,Netherlands,41,True
-netherlands,NL,16,True
+netherlands,NL,10,True
 netherlands,Germany,2,False
 netherlands,Chinese,1,False
 netherlands,French,1,False
@@ -219,7 +209,6 @@ poland,Poland,237,True
 poland,Polish,56,True
 poland,PLN,9,True
 poland,Germany,3,False
-poland,PL,3,True
 poland,Czechia,2,False
 poland,Italy,2,False
 poland,Spain,2,False
@@ -230,10 +219,10 @@ poland,Finland,1,False
 poland,French,1,False
 portugal,Portugal,189,True
 portugal,Portuguese,34,True
-portugal,PT,4,True
 portugal,Spain,1,False
 portugal,Italy,1,False
 portugal,France,1,False
+portugal,PT,1,True
 romania,Romania,180,True
 romania,Romanian,48,True
 romania,Romanians,5,True
@@ -245,11 +234,9 @@ romania,Spanish,1,False
 romania,Italy,1,False
 romania,Spain,1,False
 romania,Germany,1,False
-romania,RO,1,True
 slovakia,Slovakia,196,True
 slovakia,Slovak,59,True
 slovakia,Slovaks,5,True
-slovakia,SK,4,True
 slovakia,Austria,1,False
 slovakia,Ukrainian,1,False
 slovakia,Spain,1,False
@@ -259,14 +246,12 @@ slovakia,AT,1,False
 slovenia,Slovenia,158,True
 slovenia,Slovenian,18,True
 slovenia,Slovenians,3,True
-slovenia,SI,2,True
 slovenia,Slovene,1,True
 slovenia,Italy,1,False
 slovenia,Germany,1,False
 slovenia,Spain,1,False
 spain,Spain,220,True
 spain,Spanish,35,True
-spain,ES,13,True
 spain,Italy,1,False
 spain,France,1,False
 spain,Portugal,1,False
