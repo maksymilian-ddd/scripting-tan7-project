@@ -39,11 +39,11 @@ goes in `data/raw/2025/` with the same names.
 | 2. Extract | `extract.py` | `data/raw/<year>/*.pdf` | `data/text/<year>/*.txt`, `*.spans.csv` (text + font info) |
 | 3. Clean | `clean.py` | `data/text/<year>/*.spans.csv` | `data/clean/<year>/*.txt` (lemma chunks), `*.body.txt` (readable) |
 | 4–6. TF-IDF | `tfidf.py` | `data/clean/<year>/*.txt` | `output/combined/` |
-| 8. Word clouds | `wordclouds.py` | `top_terms.csv`, `sanity_doc_freq.csv`, `data/clean/<year>/*.txt` | `output/combined/wordclouds.html` |
+| 8. Charts and word clouds | `visualization.py` | `top_terms.csv`, `sanity_doc_freq.csv`, `data/clean/<year>/*.txt` | `output/combined/charts/`, `output/combined/visualization.html` |
 
 Run each script with `.venv/bin/python <script>.py`. In `config.py`, `YEAR` is the year
 `extract.py` and `clean.py` process (run them once per year), and `YEARS` lists the years
-`tfidf.py` and `wordclouds.py` analyse together.
+`tfidf.py` and `visualization.py` analyse together.
 
 ## Project structure
 
@@ -52,8 +52,8 @@ config.py         paths, country list, names removed during cleaning
 setup_nltk.py     one-time NLTK data download
 extract.py        PDF -> text (PyMuPDF)
 clean.py          text cleaning, NLTK tokenizing / stopwords / lemmatizing
-tfidf.py          TF-IDF, top terms, sanity check, charts
-wordclouds.py     interactive word clouds (HTML, from wordclouds_template.html)
+tfidf.py          TF-IDF, top terms, sanity check
+visualization.py  charts, interactive word clouds (HTML, from visualization_template.html)
 docs/             plan and progress log
 data/             raw PDFs, extracted and cleaned text (not versioned)
 output/combined/  results for both years together

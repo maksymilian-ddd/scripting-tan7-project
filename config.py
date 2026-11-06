@@ -4,7 +4,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 YEAR = "2026"             # the year extract.py and clean.py process
-YEARS = ["2025", "2026"]  # the years tfidf.py and wordclouds.py analyse together
+YEARS = ["2025", "2026"]  # the years tfidf.py and visualization.py analyse together
 
 RAW_DIR = ROOT / "data" / "raw" / YEAR      # PDFs, one per country: <slug>.pdf
 TEXT_DIR = ROOT / "data" / "text" / YEAR    # raw extracted text

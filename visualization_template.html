@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Template for wordclouds.py, which replaces __DATA__ and writes output/combined/wordclouds.html -->
+<!-- Template for visualization.py, which replaces __DATA__ and writes output/combined/visualization.html -->
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -126,7 +126,7 @@ for (const country of DATA.countries) {
     const kept = term => others.length > 0
       && others.every(y => topTerms(country, y).some(([t]) => t === term));
     const block = document.createElement("div");
-    // The bar chart from tfidf.py sits next to the cloud; it is hidden if the PNG is missing.
+    // The bar chart sits next to the cloud; it is hidden if the PNG is missing.
     block.innerHTML = `<h3>${year}</h3>
       <div class="pair">
         <div class="cloud"></div>

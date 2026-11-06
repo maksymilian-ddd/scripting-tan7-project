@@ -1,11 +1,10 @@
-"""Steps 4-6: TF-IDF, top terms per country, sanity check, charts.
+"""Steps 4-6: TF-IDF, top terms per country, sanity check.
 
 Input:  data/clean/<year>/<country>.txt   lemmatized chunks from clean.py, one per line
 Output: output/combined/top_terms.csv               main result: top 20 per report
         output/combined/top_terms_by_ngram.csv      top 10 per report per n-gram length
         output/combined/sanity_doc_freq.csv         every term with its document frequency
         output/combined/summary.md                  readable summary
-        output/combined/charts/*.png
 
 Each report is ONE document, named <country>_<year>. All reports of all YEARS share one
 vocabulary and one IDF, so a term's scores can be compared across countries and years.
@@ -17,8 +16,6 @@ Usage: .venv/bin/python tfidf.py
 
 from collections import defaultdict
 
-import matplotlib.pyplot as plt
-from matplotlib.ticker import MultipleLocator
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -34,11 +31,7 @@ SUBSUME_SHARE = 0.8     # drop a term if a longer ranked term containing it occu
                         # at least 80% as often in that report
 TOP_N = 20              # terms per report in the main ranking
 TOP_N_PER_LENGTH = 10   # terms per report per n-gram length
-SHOW_REPORTS = None     # reports to print + chart; None = all available
-
-# Chart style: one series, so one hue; text in neutral inks.
-SURFACE, INK, INK_MUTED, GRID, BAR = "#fcfcfb", "#0b0b0b", "#52514e", "#e4e3df", "#2a78d6"
-
+SHOW_REPORTS = None     # reports to print and chart; None = all available
 
 def ngrams_in_chunks(text):
     """All 1-, 2- and 3-grams inside each line (chunk) of a cleaned document."""
@@ -153,58 +146,6 @@ def sanity_table(texts, C, count_terms, max_doc_count):
 
 
 # ===================================================================================
-# Charts
-# ===================================================================================
-
-def style_axes(ax):
-    ax.set_facecolor(SURFACE)
-    for side in ("top", "right", "left"):
-        ax.spines[side].set_visible(False)
-    ax.spines["bottom"].set_color(GRID)
-    ax.tick_params(colors=INK_MUTED, labelsize=9, length=0)
-    ax.grid(axis="x", color=GRID, linewidth=0.8)
-    ax.set_axisbelow(True)
-
-
-def chart_top_terms(top, report, path):
-    data = top[top["report"] == report].sort_values("score")
-    fig, ax = plt.subplots(figsize=(7, 0.32 * len(data) + 1.2), facecolor=SURFACE)
-    style_axes(ax)
-    ax.barh(data["term"], data["score"], color=BAR, height=0.7)
-    ax.tick_params(axis="y", labelcolor=INK, labelsize=9)
-    ax.xaxis.set_major_locator(MultipleLocator(0.01))  # same two-decimal ticks on every chart
-    ax.set_xlabel("TF-IDF score", color=INK_MUTED, fontsize=9)
-    ax.set_title(f"{title(report)}: top {len(data)} distinctive terms",
-                 color=INK, fontsize=11, loc="left")
-    fig.tight_layout()
-    fig.savefig(path, dpi=150)
-    plt.close(fig)
-
-
-def chart_doc_freq(table, max_doc_count, n_docs, path):
-    """TF-IDF without the cut (mean over reports containing the term) against
-    document frequency, one dot per term."""
-    rng = np.random.default_rng(0)
-    x = table["doc_freq"] + rng.uniform(-0.25, 0.25, len(table))
-    fig, ax = plt.subplots(figsize=(7, 4), facecolor=SURFACE)
-    style_axes(ax)
-    ax.grid(axis="y", color=GRID, linewidth=0.8)
-    ax.scatter(x, table["mean_tfidf_without_cut"], s=6, color=BAR, alpha=0.35, linewidths=0)
-    ax.axvline(max_doc_count + 0.5, color=INK_MUTED, linestyle="--", linewidth=1)
-    ax.text(max_doc_count + 0.6, ax.get_ylim()[1] * 0.95, f"max_df cut: terms right of\n"
-            f"this line are dropped", color=INK_MUTED, fontsize=8, va="top")
-    ax.set_xticks(range(0, n_docs + 1, 6))
-    ax.set_xlabel("Document frequency (number of reports containing the term)",
-                  color=INK_MUTED, fontsize=9)
-    ax.set_ylabel("Mean TF-IDF where present, no max_df", color=INK_MUTED, fontsize=9)
-    ax.set_title("TF-IDF weight by document frequency, before the max_df cut",
-                 color=INK, fontsize=11, loc="left")
-    fig.tight_layout()
-    fig.savefig(path, dpi=150)
-    plt.close(fig)
-
-
-# ===================================================================================
 # Summary
 # ===================================================================================
 
@@ -261,8 +202,7 @@ def main():
         print(f"WARNING: only {len(reports)} of {expected} reports. Terms are "
               "distinctive relative to these reports only; rankings will change with "
               "the full corpus.\n")
-    charts_dir = RESULTS_DIR / "charts"
-    charts_dir.mkdir(parents=True, exist_ok=True)
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
     counter = CountVectorizer(analyzer=ngrams_in_chunks)
     C = counter.fit_transform(texts)
@@ -298,8 +238,6 @@ def main():
         print(f"\n== {report} ==")
         print(top[top["report"] == report][["rank", "term", "score", "count", "doc_freq"]]
               .to_string(index=False))
-        chart_top_terms(top, report, charts_dir / f"top_terms_{report}.png")
-    chart_doc_freq(sanity, max_doc_count, len(reports), charts_dir / "doc_freq_vs_score.png")
 
     write_summary(RESULTS_DIR / "summary.md", reports, top, sanity, max_doc_count)
     print(f"\nWrote results to {RESULTS_DIR}")

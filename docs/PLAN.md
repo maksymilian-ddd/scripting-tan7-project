@@ -20,7 +20,7 @@ content (projects, policies, problems) should rise to the top.
 | 5 | Top 15–20 terms per country: CSV + Markdown summary | `tfidf.py` | done (27/27) |
 | 6 | Sanity check: document frequency vs. weight | `tfidf.py` | done (27/27) |
 | 7 | 2025 corpus, year comparison in one 54-report analysis | `extract.py` + `clean.py` per year, then `tfidf.py` | done |
-| 8 | Interactive word clouds per country and year + most common terms | `wordclouds.py` | done |
+| 8 | Charts, interactive word clouds per country and year + most common terms | `visualization.py` | done |
 
 ## Step 2: extraction
 
@@ -193,7 +193,7 @@ the full vocabulary.
 | `summary.md` | parameters, top terms per country, sanity table |
 | `charts/top_terms_<country>_<year>.png` | bar chart for the reports in `SHOW_REPORTS` |
 | `charts/doc_freq_vs_score.png` | sanity chart |
-| `wordclouds.html` | word clouds (from `wordclouds.py`): click a word to see every report that uses it |
+| `visualization.html` | word clouds (from `visualization.py`, like the charts): click a word to see every report that uses it |
 
 ## Step 6: sanity check
 
@@ -216,7 +216,7 @@ the full vocabulary.
 ## Step 7: 2025 corpus and year comparison
 
 Set `YEAR` in `config.py` and run `extract.py` + `clean.py` once per year. `tfidf.py` and
-`wordclouds.py` then read every year in `YEARS` as one corpus of 54 reports.
+`visualization.py` then read every year in `YEARS` as one corpus of 54 reports.
 
 - **Why one corpus:** with one vocabulary and one IDF, a term's 2025 and 2026 scores can
   be compared directly. Separate runs give each year its own IDF.
