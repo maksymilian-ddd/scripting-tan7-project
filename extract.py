@@ -6,14 +6,11 @@ Output: data/text/<year>/<country>.txt   pages separated by a form feed (\\f), s
         data/text/<year>/<country>.spans.csv  every text span with page, position,
                                               font and size; clean.py uses this to
                                               keep only body text
-        data/text/<year>/_structure.csv   per-document page and character counts
-        data/text/<year>/_repeated_lines.txt  lines that repeat on many pages
-                                              (header/footer candidates)
+        data/text/<year>/_structure.csv   per-document page, character and word
+                                          counts, with a TOTAL row
 
 Usage: .venv/bin/python extract.py
 """
-
-from collections import Counter
 
 import pandas as pd
 import pymupdf
@@ -46,15 +43,6 @@ def extract_spans(pdf_path):
     return pd.DataFrame(rows)
 
 
-def repeated_lines(pages, min_share=0.3):
-    """Lines that appear on at least `min_share` of the pages (likely headers/footers)."""
-    counts = Counter()
-    for page in pages:
-        counts.update({line.strip() for line in page.splitlines() if line.strip()})
-    threshold = max(2, int(len(pages) * min_share))
-    return [(line, n) for line, n in counts.most_common() if n >= threshold]
-
-
 def main():
     TEXT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -65,7 +53,7 @@ def main():
     if unexpected:
         print(f"Unexpected file names (not processed): {', '.join(unexpected)}")
 
-    rows, report = [], []
+    rows = []
     for country in COUNTRIES:
         pdf_path = RAW_DIR / f"{country}.pdf"
         if not pdf_path.exists():
@@ -79,16 +67,16 @@ def main():
             "country": country,
             "pages": len(pages),
             "chars": sum(chars),
+            "words": sum(len(p.split()) for p in pages),
             "empty_pages": sum(c < 50 for c in chars),  # possibly scanned or image-only
         })
-        report.append(f"== {country} ==")
-        report += [f"{n:4d}  {line}" for line, n in repeated_lines(pages)]
-        report.append("")
         print(f"{country:12s} {len(pages):3d} pages {sum(chars):8d} chars")
 
     if rows:
-        pd.DataFrame(rows).to_csv(TEXT_DIR / "_structure.csv", index=False)
-        (TEXT_DIR / "_repeated_lines.txt").write_text("\n".join(report), encoding="utf-8")
+        structure = pd.DataFrame(rows)
+        total = structure.drop(columns="country").sum().to_dict()
+        structure.loc[len(structure)] = {"country": "TOTAL", **total}
+        structure.to_csv(TEXT_DIR / "_structure.csv", index=False)
         print(f"\nExtracted {len(rows)} of {len(COUNTRIES)} documents into {TEXT_DIR}")
 
 

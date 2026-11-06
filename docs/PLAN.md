@@ -30,8 +30,7 @@ content (projects, policies, problems) should rise to the top.
   - `<country>.spans.csv`: every text span with page, block, line, font, size and
     position. **Cleaning works on this file**, because font and position identify
     the document parts much more reliably than text patterns.
-  - `_structure.csv` (pages, characters, near-empty pages) and `_repeated_lines.txt`
-    (header/footer candidates).
+  - `_structure.csv` (pages, characters, words, near-empty pages).
 
 ### Document structure found (4 reports inspected: AT, BE, CZ, DK)
 
