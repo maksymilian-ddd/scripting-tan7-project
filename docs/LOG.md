@@ -147,3 +147,17 @@ new reports follow the same layout) → write and run `tfidf.py`.
 - Console output of the last run: `output/2026/_run_log.txt`.
 
 **Possible next steps:** inspect the lists by eye; 2025 corpus (step 7).
+
+## 2025 corpus: all 54 reports (2026-11-06)
+
+- 27 English 2025 PDFs downloaded from the Commission page (SWD(2025) 294 final, 16.6.2025).
+  Each checked: opens, English, and the file's country is the one mentioned most.
+- Same layout as 2026, no change to `extract.py` or `clean.py`. 89.8% of characters kept.
+- `tfidf.py` now reads all `YEARS` as one corpus; `max_df` lowered to 0.4 (> 21 of 54).
+  95,845 terms, 1,969 dropped by `max_df`. Results in `output/combined/`.
+- Top 20 of the 2026 reports match the 2026-only run in 16.4 of 20 terms on average.
+- A country's 2025 and 2026 top 20 share only 2.5 terms on average (0-7); separate
+  runs give 2.7, so this is a real difference between the reports, not a side effect of
+  the shared IDF.
+- `wordclouds.py`: one cloud + chart per report, grouped by country, a year filter, and a
+  click panel with score and count per year.

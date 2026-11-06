@@ -1,6 +1,7 @@
 # Plan and cleaning decisions
 
-Status: **full pipeline run on all 27 reports (2026 corpus)**. Results in `output/2026/`.
+Status: **full pipeline run on all 54 reports (2025 + 2026)**. Results in `output/combined/`.
+The earlier 2026-only run (`max_df` 0.5) stays in `output/2026/`.
 
 ## Goal
 
@@ -19,7 +20,8 @@ content (projects, policies, problems) should rise to the top.
 | 4 | TF-IDF | `tfidf.py` | done (27/27) |
 | 5 | Top 15–20 terms per country: CSV + Markdown summary | `tfidf.py` | done (27/27) |
 | 6 | Sanity check: document frequency vs. weight | `tfidf.py` | done (27/27) |
-| 7 | Optional: 2025 corpus, year comparison | same scripts, `YEAR = "2025"` | later |
+| 7 | 2025 corpus, year comparison in one 54-report analysis | `extract.py` + `clean.py` per year, then `tfidf.py` | done |
+| 8 | Interactive word clouds per country and year + most common terms | `wordclouds.py` | done |
 
 ## Step 2: extraction
 
@@ -151,7 +153,7 @@ If stopwords are deleted first and n-grams built afterwards, false phrases appea
 
 ## Step 4: TF-IDF (implemented in `tfidf.py`)
 
-Each country's report is **one document**. The chunks only decide which n-grams exist:
+Each report is **one document**, labelled `<country>_<year>`. The chunks only decide which n-grams exist:
 all 1-, 2- and 3-grams inside each chunk are pooled into one bag of terms per report.
 A flat token list would create false n-grams across removed words: in the Austrian
 report 3,218 of 6,061 flat bigrams were false (`eu growth`, `cloud data` from
@@ -166,7 +168,7 @@ false n-grams.
 | n-grams | 1–3, inside chunks | multi-word terms without false phrases |
 | `sublinear_tf` | True | tf → 1 + ln(tf), so a word used 40 times isn't 40× as important |
 | `min_df` | 1 | keep terms in only one report: the most distinctive |
-| `max_df` | 0.5 | drop terms in more than half the reports (> 13 of 27) |
+| `max_df` | 0.4 | drop terms in more than 40% of the reports (> 21 of 54) |
 | `smooth_idf` | True (default) | idf = ln((1+N)/(1+df)) + 1 |
 | `norm` | `"l2"` (default) | long and short reports comparable |
 
@@ -181,17 +183,18 @@ filling several places in the top 20.
 The filter affects only the ranking. The TF-IDF scores themselves are computed on
 the full vocabulary.
 
-## Step 5: outputs (`output/<year>/`)
+## Step 5: outputs (`output/combined/`)
 
 | File | Content |
 |---|---|
-| `top_terms.csv` | **main result**: country, rank, term, n, score, count, doc_freq (top 20) |
+| `top_terms.csv` | **main result**: report, rank, term, n, score, count, doc_freq (top 20) |
 | `top_terms_by_ngram.csv` | top 10 per country for each n-gram length (1, 2, 3) |
 | `sanity_doc_freq.csv` | every term: n, doc_freq, total count, idf, score without cut, dropped |
 | `summary.md` | parameters, top terms per country, sanity table |
 | `removed_names.csv` | country-name removals (from `clean.py`) |
-| `charts/top_terms_<country>.png` | bar chart for the countries in `SHOW_COUNTRIES` |
+| `charts/top_terms_<country>_<year>.png` | bar chart for the reports in `SHOW_REPORTS` |
 | `charts/doc_freq_vs_score.png` | sanity chart |
+| `wordclouds.html` | word clouds (from `wordclouds.py`): click a word to see every report that uses it |
 
 ## Step 6: sanity check
 
@@ -211,6 +214,18 @@ the full vocabulary.
 - A first version averaged scores over *all* reports (0 where absent), which made rare
   terms look low-weighted and the check meaningless. That was fixed.
 
-## Step 7 (optional): 2025 corpus
+## Step 7: 2025 corpus and year comparison
 
-Set `YEAR = "2025"` in `config.py`, put the PDFs in `data/raw/2025/`, run all scripts.
+Set `YEAR` in `config.py` and run `extract.py` + `clean.py` once per year. `tfidf.py` and
+`wordclouds.py` then read every year in `YEARS` as one corpus of 54 reports.
+
+- **Why one corpus:** with one vocabulary and one IDF, a term's 2025 and 2026 scores can
+  be compared directly. Separate runs give each year its own IDF.
+- **Why `max_df` is 0.4:** at 0.5 a term must be in more than 27 of 54 reports to be
+  dropped, so wording used in all 27 reports of one year (`df` = 27) would stay. 190 of
+  the 570 terms with `df` 22-27 are concentrated (85%+) in one year. In practice the
+  change is small: 0.4 and 0.5 differ in 1 of the 1,080 top-20 places.
+- **Known bias:** a term in both of a country's reports has `df` 2 instead of 1, so IDF
+  4.31 instead of 4.72, which favours terms from one year. The effect on the comparison
+  is small: top-20 lists share 2.5 of 20 terms per country here, 2.7 in separate runs.
+- 2025 layout: same structure as 2026; 89.8% of characters kept (2026: 91.2%).

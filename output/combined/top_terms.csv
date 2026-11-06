@@ -1,0 +1,1081 @@
+report,rank,term,n,score,count,doc_freq
+austria_2025,1,peppol,1,0.0495,7,1
+austria_2025,2,sme.digital,1,0.0486,9,2
+austria_2025,3,comet,1,0.0438,5,1
+austria_2025,4,k-pas,1,0.0438,5,1
+austria_2025,5,elga,1,0.0425,6,2
+austria_2025,6,digital everywhere+,2,0.0401,4,1
+austria_2025,7,adjusted national,2,0.0397,5,2
+austria_2025,8,aws,1,0.0368,5,3
+austria_2025,9,federal,1,0.0367,8,6
+austria_2025,10,sme.digital programme,2,0.0363,4,2
+austria_2025,11,reinvestment,1,0.0352,3,1
+austria_2025,12,sme-digital,1,0.0352,3,1
+austria_2025,13,trajectory towards,2,0.0352,3,1
+austria_2025,14,measure explicitly,2,0.0352,3,1
+austria_2025,15,adjusted national roadmap,3,0.0352,3,1
+austria_2025,16,promote stem,2,0.0352,3,1
+austria_2025,17,publicly accessible health,3,0.0352,3,1
+austria_2025,18,accessible health portal,3,0.0352,3,1
+austria_2025,19,roadmap introduce,2,0.0349,6,5
+austria_2025,20,interministerial,1,0.0349,6,5
+belgium_2025,1,flanders,1,0.064,36,2
+belgium_2025,2,wallonia,1,0.0543,18,2
+belgium_2025,3,ccb,1,0.0527,16,2
+belgium_2025,4,flemish,1,0.0486,12,2
+belgium_2025,5,federal,1,0.0465,26,6
+belgium_2025,6,bipt,1,0.0446,9,2
+belgium_2025,7,fps,1,0.0411,7,2
+belgium_2025,8,proximus,1,0.039,6,2
+belgium_2025,9,flemish government,2,0.039,6,2
+belgium_2025,10,brussels,1,0.0381,7,3
+belgium_2025,11,project target,2,0.0368,4,1
+belgium_2025,12,ai4belgium,1,0.0368,4,1
+belgium_2025,13,bpa,1,0.0364,5,2
+belgium_2025,14,vlaio,1,0.0364,5,2
+belgium_2025,15,imec,1,0.0357,7,4
+belgium_2025,16,federal government,2,0.0339,6,4
+belgium_2025,17,pledge,1,0.0337,5,3
+belgium_2025,18,telenet,1,0.0333,4,2
+belgium_2025,19,fps economy,2,0.0333,4,2
+belgium_2025,20,ghent,1,0.0333,4,2
+bulgaria_2025,1,meg,1,0.0596,12,1
+bulgaria_2025,2,sofia,1,0.0594,17,2
+bulgaria_2025,3,crc,1,0.0584,16,2
+bulgaria_2025,4,sofia tech park,3,0.0495,9,2
+bulgaria_2025,5,brain++,1,0.0477,6,1
+bulgaria_2025,6,e-government system,2,0.0408,4,1
+bulgaria_2025,7,cqt,1,0.0408,4,1
+bulgaria_2025,8,electronic governance,2,0.0404,5,2
+bulgaria_2025,9,pridst,1,0.0369,4,2
+bulgaria_2025,10,c3bg,1,0.0359,3,1
+bulgaria_2025,11,bggpt,1,0.0359,3,1
+bulgaria_2025,12,academic teacher,2,0.0359,3,1
+bulgaria_2025,13,educational enterprise,2,0.0359,3,1
+bulgaria_2025,14,single model,2,0.0359,3,1
+bulgaria_2025,15,nsic,1,0.0359,3,1
+bulgaria_2025,16,foreign influence,2,0.0359,3,1
+bulgaria_2025,17,balkan,1,0.0351,5,4
+bulgaria_2025,18,regulatory change,2,0.0342,4,3
+bulgaria_2025,19,national cybersecurity infrastructure,3,0.0342,4,3
+bulgaria_2025,20,cybersecurity preparedness remain,3,0.0325,3,2
+croatia_2025,1,croccs,1,0.0493,6,1
+croatia_2025,2,country still lack,3,0.0422,4,1
+croatia_2025,3,deep tech venture,3,0.0418,5,2
+croatia_2025,4,zagreb,1,0.0418,5,2
+croatia_2025,5,state cloud,2,0.0418,5,2
+croatia_2025,6,admo,1,0.0418,5,2
+croatia_2025,7,hakom,1,0.0382,4,2
+croatia_2025,8,croqci,1,0.0382,4,2
+croatia_2025,9,vesna deep tech,3,0.0371,3,1
+croatia_2025,10,tech venture fund,3,0.0371,3,1
+croatia_2025,11,srce,1,0.0371,3,1
+croatia_2025,12,innovation scaling,2,0.0371,3,1
+croatia_2025,13,cohesion programme,2,0.0371,3,1
+croatia_2025,14,mid-band 5g,2,0.0363,5,4
+croatia_2025,15,rrp-funded,1,0.0363,5,4
+croatia_2025,16,test environment,2,0.0354,4,3
+croatia_2025,17,continue implement exist,3,0.035,6,6
+croatia_2025,18,carnet,1,0.0336,3,2
+croatia_2025,19,investment scheme,2,0.0336,3,2
+croatia_2025,20,eu rural average,3,0.0332,4,4
+cyprus_2025,1,dmrid,1,0.0619,8,2
+cyprus_2025,2,customised,1,0.0486,5,3
+cyprus_2025,3,digital citizen,2,0.048,4,2
+cyprus_2025,4,cpc,1,0.048,4,2
+cyprus_2025,5,open ran,2,0.0466,3,1
+cyprus_2025,6,user-centric solution,2,0.0466,3,1
+cyprus_2025,7,ai taskforce,2,0.0456,5,4
+cyprus_2025,8,three additional measure,3,0.0444,4,3
+cyprus_2025,9,smart specialisation strategy,3,0.0444,4,3
+cyprus_2025,10,customised training,2,0.0422,3,2
+cyprus_2025,11,specific group,2,0.0422,3,2
+cyprus_2025,12,ocecpr,1,0.0422,3,2
+cyprus_2025,13,additional information,2,0.0422,3,2
+cyprus_2025,14,innovation foundation,2,0.0422,3,2
+cyprus_2025,15,login,1,0.0422,3,2
+cyprus_2025,16,26ghz band,2,0.0417,4,4
+cyprus_2025,17,human right,2,0.0391,3,3
+cyprus_2025,18,gigabit connectivity infrastructure,3,0.0391,3,3
+cyprus_2025,19,leverage digital health,3,0.0376,2,1
+cyprus_2025,20,innovation entrepreneurship,2,0.0376,2,1
+czechia_2025,1,digital enterprise,2,0.0418,8,4
+czechia_2025,2,category stand,2,0.0411,4,1
+czechia_2025,3,czechinvest,1,0.0408,5,2
+czechia_2025,4,technology incubation,2,0.0373,4,2
+czechia_2025,5,op tac,2,0.0373,4,2
+czechia_2025,6,adoption target,2,0.0373,4,2
+czechia_2025,7,eu technological,2,0.0362,3,1
+czechia_2025,8,npo,1,0.0362,3,1
+czechia_2025,9,information agency,2,0.0362,3,1
+czechia_2025,10,dia,1,0.0362,3,1
+czechia_2025,11,respondent believe,2,0.0345,4,3
+czechia_2025,12,digital sustainability,2,0.0328,3,2
+czechia_2025,13,twist,1,0.0328,3,2
+czechia_2025,14,direct support,2,0.0328,3,2
+czechia_2025,15,fundamental research,2,0.0328,3,2
+czechia_2025,16,business incubation centre,3,0.0328,3,2
+czechia_2025,17,interest among,2,0.0328,3,2
+czechia_2025,18,technology incubation programme,3,0.0328,3,2
+czechia_2025,19,total 5g coverage,3,0.0307,4,5
+czechia_2025,20,edge-node,1,0.0307,4,5
+denmark_2025,1,mitid,1,0.0523,10,2
+denmark_2025,2,technology comprehension,2,0.0442,6,2
+denmark_2025,3,drinking water,2,0.0417,4,1
+denmark_2025,4,low secondary school,3,0.0413,5,2
+denmark_2025,5,entrepreneurship package,2,0.0378,4,2
+denmark_2025,6,freely,1,0.0378,4,2
+denmark_2025,7,novo,1,0.0378,4,2
+denmark_2025,8,two new initiative,3,0.0367,3,1
+denmark_2025,9,secure platform,2,0.0367,3,1
+denmark_2025,10,national broadband fund,3,0.0367,3,1
+denmark_2025,11,tussas connect,2,0.0367,3,1
+denmark_2025,12,research reserve,2,0.0367,3,1
+denmark_2025,13,digitallead,1,0.0367,3,1
+denmark_2025,14,use mitid,2,0.0367,3,1
+denmark_2025,15,e-participation,1,0.0367,3,1
+denmark_2025,16,digital contact,2,0.0367,3,1
+denmark_2025,17,retain international,2,0.035,4,3
+denmark_2025,18,desi,1,0.0332,3,2
+denmark_2025,19,retain international student,3,0.0332,3,2
+denmark_2025,20,digital solidarity,2,0.0332,3,2
+estonia_2025,1,ecptra,1,0.0675,9,2
+estonia_2025,2,deeptech,1,0.0608,5,1
+estonia_2025,3,ecptra report,2,0.0551,5,2
+estonia_2025,4,green digital government,3,0.0504,4,2
+estonia_2025,5,reporting tool,2,0.0504,4,2
+estonia_2025,6,government resilience,2,0.0489,3,1
+estonia_2025,7,digital action plan,3,0.0489,3,1
+estonia_2025,8,marriage,1,0.0489,3,1
+estonia_2025,9,eesti,1,0.0489,3,1
+estonia_2025,10,mid-level,1,0.0443,3,2
+estonia_2025,11,support vhcn,2,0.0438,4,4
+estonia_2025,12,target accord,2,0.0411,3,3
+estonia_2025,13,ms,1,0.0411,3,3
+estonia_2025,14,geographical border,2,0.0395,2,1
+estonia_2025,15,current challenge require,3,0.0395,2,1
+estonia_2025,16,introduce new digital,3,0.0395,2,1
+estonia_2025,17,new digital measure,3,0.0395,2,1
+estonia_2025,18,increase cybersecurity cooperation,3,0.0395,2,1
+estonia_2025,19,educate civil servant,3,0.0395,2,1
+estonia_2025,20,sufficiently align,2,0.0395,2,1
+finland_2025,1,handprint,1,0.0701,10,1
+finland_2025,2,carbon handprint,2,0.0626,7,1
+finland_2025,3,ellis,1,0.0593,6,1
+finland_2025,4,vtt,1,0.0593,8,2
+finland_2025,5,rdi,1,0.0552,10,4
+finland_2025,6,fcai,1,0.0507,4,1
+finland_2025,7,ellis institute,2,0.0507,4,1
+finland_2025,8,lumi,1,0.0506,9,5
+finland_2025,9,digital financial management,3,0.0446,3,1
+finland_2025,10,new literacy development,3,0.0446,3,1
+finland_2025,11,literacy development programme,3,0.0446,3,1
+finland_2025,12,ehds,1,0.0442,6,5
+finland_2025,13,average eu score,3,0.0425,4,3
+finland_2025,14,technology industry,2,0.0413,5,5
+finland_2025,15,rdi activity,2,0.0404,3,2
+finland_2025,16,co-lead,1,0.0404,3,2
+finland_2025,17,vtt technical research,3,0.0404,3,2
+finland_2025,18,technical research centre,3,0.0404,3,2
+finland_2025,19,aalto university,2,0.0404,3,2
+finland_2025,20,helsinki,1,0.0404,3,2
+france_2025,1,ai action summit,3,0.0532,5,1
+france_2025,2,ecodesign,1,0.0482,5,2
+france_2025,3,num,1,0.0482,5,2
+france_2025,4,summit,1,0.0446,8,6
+france_2025,5,très haut débit,3,0.0441,4,2
+france_2025,6,acceleration strategy,2,0.0441,4,2
+france_2025,7,general reference framework,3,0.0428,3,1
+france_2025,8,alt impact communication,3,0.0428,3,1
+france_2025,9,impact communication campaign,3,0.0428,3,1
+france_2025,10,product category rule,3,0.0428,3,1
+france_2025,11,environmental evaluation,2,0.0428,3,1
+france_2025,12,rag,1,0.0428,3,1
+france_2025,13,viginum,1,0.0428,3,1
+france_2025,14,datacentres,1,0.0397,5,5
+france_2025,15,reference framework,2,0.0397,5,5
+france_2025,16,labelling,1,0.0388,3,2
+france_2025,17,simplicity,1,0.0388,3,2
+france_2025,18,loi,1,0.0388,3,2
+france_2025,19,outermost region,2,0.0383,4,4
+france_2025,20,environmental transition,2,0.0383,4,4
+germany_2025,1,federal,1,0.0713,29,6
+germany_2025,2,gigabit strategy,2,0.0642,6,1
+germany_2025,3,federal state,2,0.06,5,1
+germany_2025,4,state level,2,0.0549,4,1
+germany_2025,5,amended roadmap,2,0.0549,4,1
+germany_2025,6,dps,1,0.0549,4,1
+germany_2025,7,digital educational medium,3,0.0549,4,1
+germany_2025,8,take full,2,0.0497,4,2
+germany_2025,9,statutory,1,0.0497,4,2
+germany_2025,10,epa,1,0.0497,4,2
+germany_2025,11,maki,1,0.0483,3,1
+germany_2025,12,federal ipv6 programme,3,0.0483,3,1
+germany_2025,13,transmission rate,2,0.0483,3,1
+germany_2025,14,downlink,1,0.0483,3,1
+germany_2025,15,8ra-initiative,1,0.0483,3,1
+germany_2025,16,ozg,1,0.0483,3,1
+germany_2025,17,federal government,2,0.0473,5,4
+germany_2025,18,federal ministry,2,0.0461,4,3
+germany_2025,19,reportedly,1,0.0461,4,3
+germany_2025,20,skilled labour,2,0.0461,4,3
+greece_2025,1,eett,1,0.0645,10,2
+greece_2025,2,digital governance,2,0.053,10,5
+greece_2025,3,minor online,2,0.0513,9,5
+greece_2025,4,protect minor online,3,0.0505,6,3
+greece_2025,5,national target initially,3,0.0452,3,1
+greece_2025,6,national digital transformation,3,0.0432,4,3
+greece_2025,7,initially set,2,0.041,3,2
+greece_2025,8,ftth network,2,0.041,3,2
+greece_2025,9,violence,1,0.041,3,2
+greece_2025,10,digital transformation strategy,3,0.0408,6,7
+greece_2025,11,raw material,2,0.038,3,3
+greece_2025,12,crete,1,0.038,3,3
+greece_2025,13,due time,2,0.038,3,3
+greece_2025,14,network across,2,0.038,3,3
+greece_2025,15,gov wallet,2,0.038,3,3
+greece_2025,16,bullying,1,0.038,3,3
+greece_2025,17,severe digital,2,0.0365,2,1
+greece_2025,18,seven first,2,0.0365,2,1
+greece_2025,19,various operator,2,0.0365,2,1
+greece_2025,20,optic network across,3,0.0365,2,1
+hungary_2025,1,komondor,1,0.0768,6,1
+hungary_2025,2,waste heat reuse,3,0.0656,4,1
+hungary_2025,3,internet presence,2,0.0595,4,2
+hungary_2025,4,all-year waste heat,3,0.0577,3,1
+hungary_2025,5,fun,1,0.0577,3,1
+hungary_2025,6,warm,1,0.0523,3,2
+hungary_2025,7,greener technology due,3,0.0523,3,2
+hungary_2025,8,edu,1,0.0523,3,2
+hungary_2025,9,liquid,1,0.0523,3,2
+hungary_2025,10,update roadmap,2,0.0517,4,4
+hungary_2025,11,measure plan,2,0.0489,4,5
+hungary_2025,12,show mixed,2,0.0484,3,3
+hungary_2025,13,data asset,2,0.0484,3,3
+hungary_2025,14,current rate,2,0.0481,6,9
+hungary_2025,15,defence procurement agency,3,0.0466,2,1
+hungary_2025,16,vbü,1,0.0466,2,1
+hungary_2025,17,foreign hacker,2,0.0466,2,1
+hungary_2025,18,heat reuse solution,3,0.0466,2,1
+hungary_2025,19,large supercomputer,2,0.0466,2,1
+hungary_2025,20,technology uptake cluster,3,0.0466,2,1
+ireland_2025,1,comreg,1,0.0518,10,2
+ireland_2025,2,digital transition fund,3,0.0438,6,2
+ireland_2025,3,eircom,1,0.0413,4,1
+ireland_2025,4,coimisiún,1,0.0413,4,1
+ireland_2025,5,nbp,1,0.0409,5,2
+ireland_2025,6,mygovid,1,0.0409,5,2
+ireland_2025,7,grow digital,2,0.0381,6,4
+ireland_2025,8,dublin,1,0.0379,5,3
+ireland_2025,9,local enterprise,2,0.0374,4,2
+ireland_2025,10,eidas notification,2,0.0363,3,1
+ireland_2025,11,checker,1,0.0363,3,1
+ireland_2025,12,succes,1,0.0363,3,1
+ireland_2025,13,ingenic,1,0.0363,3,1
+ireland_2025,14,advanced firm,2,0.0363,3,1
+ireland_2025,15,digital literacy strategy,3,0.0363,3,1
+ireland_2025,16,public service cloud,3,0.0363,3,1
+ireland_2025,17,national patient,2,0.0363,3,1
+ireland_2025,18,meán,1,0.0363,3,1
+ireland_2025,19,numeracy,1,0.0347,4,3
+ireland_2025,20,apprenticeship,1,0.0343,6,6
+italy_2025,1,digital facilitation,2,0.0576,9,2
+italy_2025,2,repubblica digitale,2,0.0576,9,2
+italy_2025,3,regard point,2,0.0556,6,1
+italy_2025,4,digital civic service,3,0.0519,5,1
+italy_2025,5,digital facilitation service,3,0.0503,6,2
+italy_2025,6,agcom,1,0.0503,6,2
+italy_2025,7,pdnd,1,0.0475,4,1
+italy_2025,8,spid,1,0.0475,4,1
+italy_2025,9,cie,1,0.0475,4,1
+italy_2025,10,io,1,0.0471,5,2
+italy_2025,11,rrp measure,2,0.0471,5,2
+italy_2025,12,acn,1,0.0471,5,2
+italy_2025,13,ecc,1,0.043,4,2
+italy_2025,14,national digital data,3,0.0418,3,1
+italy_2025,15,digital data platform,3,0.0418,3,1
+italy_2025,16,digital facilitation point,3,0.0418,3,1
+italy_2025,17,psn,1,0.0418,3,1
+italy_2025,18,box,1,0.0399,4,3
+italy_2025,19,repowereu,1,0.0378,3,2
+italy_2025,20,io app,2,0.0378,3,2
+latvia_2025,1,riga,1,0.061,7,2
+latvia_2025,2,cyber-attack,1,0.0554,8,4
+latvia_2025,3,nra,1,0.0499,8,6
+latvia_2025,4,private rehabilitation,2,0.0494,4,2
+latvia_2025,5,dagr,1,0.0494,4,2
+latvia_2025,6,stars,1,0.0434,3,2
+latvia_2025,7,private rehabilitation centre,3,0.0434,3,2
+latvia_2025,8,innovative entrepreneurship,2,0.0434,3,2
+latvia_2025,9,accelerate public,2,0.0434,3,2
+latvia_2025,10,roadmap adjustment present,3,0.0402,3,3
+latvia_2025,11,long-running,1,0.0402,3,3
+latvia_2025,12,ict specialist employment,3,0.0402,3,3
+latvia_2025,13,overarch cybersecurity strategy,3,0.0387,2,1
+latvia_2025,14,mbps subscription,2,0.0387,2,1
+latvia_2025,15,registered complaint,2,0.0387,2,1
+latvia_2025,16,e-health record compare,3,0.0387,2,1
+latvia_2025,17,441million,1,0.0387,2,1
+latvia_2025,18,subscription significantly outpace,3,0.0387,2,1
+latvia_2025,19,zero unicorn,2,0.0387,2,1
+latvia_2025,20,affordable market,2,0.0387,2,1
+lithuania_2025,1,national digital agenda,3,0.0596,9,2
+lithuania_2025,2,laser,1,0.0445,4,2
+lithuania_2025,3,talent reach,2,0.0445,4,2
+lithuania_2025,4,greentech hub,2,0.0432,3,1
+lithuania_2025,5,socially vulnerable,2,0.0432,3,1
+lithuania_2025,6,voter,1,0.0391,3,2
+lithuania_2025,7,diaspora,1,0.0391,3,2
+lithuania_2025,8,traineeship,1,0.0391,3,2
+lithuania_2025,9,laser technology,2,0.0391,3,2
+lithuania_2025,10,communication regulatory authority,3,0.0387,4,4
+lithuania_2025,11,leave behind,2,0.0365,5,7
+lithuania_2025,12,cleantech,1,0.0363,3,3
+lithuania_2025,13,extend vhcn,2,0.0363,3,3
+lithuania_2025,14,ultra-fast broadband,2,0.0363,3,3
+lithuania_2025,15,national programme focus,3,0.0349,2,1
+lithuania_2025,16,measure vst-1,2,0.0349,2,1
+lithuania_2025,17,diaspora youth traineeship,3,0.0349,2,1
+lithuania_2025,18,effort lead,2,0.0349,2,1
+lithuania_2025,19,third age,2,0.0349,2,1
+lithuania_2025,20,measure vst-3,2,0.0349,2,1
+luxembourg_2025,1,fit,1,0.0556,12,2
+luxembourg_2025,2,sme package,2,0.0491,8,2
+luxembourg_2025,3,ict day,2,0.042,4,1
+luxembourg_2025,4,i.l.r,1,0.042,4,1
+luxembourg_2025,5,lhc,1,0.0416,5,2
+luxembourg_2025,6,mega,1,0.0381,4,2
+luxembourg_2025,7,ospo,1,0.0381,4,2
+luxembourg_2025,8,myguichet,1,0.0381,4,2
+luxembourg_2025,9,meluxina,1,0.0381,4,2
+luxembourg_2025,10,bee secure,2,0.0381,4,2
+luxembourg_2025,11,adem,1,0.0381,4,2
+luxembourg_2025,12,promote open-source,2,0.0369,3,1
+luxembourg_2025,13,product circularity data,3,0.0369,3,1
+luxembourg_2025,14,circularity data sheet,3,0.0369,3,1
+luxembourg_2025,15,pcds,1,0.0369,3,1
+luxembourg_2025,16,dtf,1,0.0369,3,1
+luxembourg_2025,17,venture day,2,0.0369,3,1
+luxembourg_2025,18,revise roadmap introduces,3,0.0369,3,1
+luxembourg_2025,19,roadmap introduces two,3,0.0369,3,1
+luxembourg_2025,20,roadmap introduces,2,0.0353,4,3
+malta_2025,1,average eu score,3,0.0493,5,3
+malta_2025,2,online civic,2,0.0396,3,3
+malta_2025,3,significantly surpass,2,0.0396,3,3
+malta_2025,4,three operator,2,0.0396,3,3
+malta_2025,5,responsible digital,2,0.0396,3,3
+malta_2025,6,start-up finance scheme,3,0.0381,2,1
+malta_2025,7,total three,2,0.0381,2,1
+malta_2025,8,three national target,3,0.0381,2,1
+malta_2025,9,roadmap cover nearly,3,0.0381,2,1
+malta_2025,10,nationwide cable docsis,3,0.0381,2,1
+malta_2025,11,reflect relatively,2,0.0381,2,1
+malta_2025,12,cloud target,2,0.0381,2,1
+malta_2025,13,responsible digital engagement,3,0.0381,2,1
+malta_2025,14,achievement highlight,2,0.0381,2,1
+malta_2025,15,broad demographic,2,0.0381,2,1
+malta_2025,16,national e-skill strategy,3,0.0381,2,1
+malta_2025,17,businessfirst.com,1,0.0381,2,1
+malta_2025,18,across healthcare system,3,0.0381,2,1
+malta_2025,19,mha,1,0.0381,2,1
+malta_2025,20,promote responsible digital,3,0.0381,2,1
+netherlands_2025,1,sustainable digitalisation,2,0.0507,14,4
+netherlands_2025,2,national growth fund,3,0.0493,8,2
+netherlands_2025,3,budget cut,2,0.0447,6,2
+netherlands_2025,4,national technology strategy,3,0.0422,4,1
+netherlands_2025,5,sustainable digitalisation action,3,0.0418,5,2
+netherlands_2025,6,cut,1,0.0396,10,7
+netherlands_2025,7,digitalisation action plan,3,0.0387,5,3
+netherlands_2025,8,discontinuation,1,0.0387,5,3
+netherlands_2025,9,recent budget cut,3,0.0382,4,2
+netherlands_2025,10,techleap,1,0.0382,4,2
+netherlands_2025,11,strengthen public-private collaboration,3,0.0371,3,1
+netherlands_2025,12,ai coalition,2,0.0371,3,1
+netherlands_2025,13,health overview,2,0.0371,3,1
+netherlands_2025,14,amsterdam,1,0.0363,5,4
+netherlands_2025,15,aside,1,0.0354,4,3
+netherlands_2025,16,letter,1,0.0339,7,8
+netherlands_2025,17,login,1,0.0336,3,2
+netherlands_2025,18,strategy remain,2,0.0336,3,2
+netherlands_2025,19,good business environment,3,0.0336,3,2
+netherlands_2025,20,long-term digital innovation,3,0.0336,3,2
+poland_2025,1,state digitalisation strategy,3,0.059,15,2
+poland_2025,2,draft state digitalisation,3,0.0567,13,2
+poland_2025,3,strategia cyfryzacji państwa,3,0.0541,11,2
+poland_2025,4,nask-pib,1,0.0541,11,2
+poland_2025,5,rozwoju,1,0.0444,6,2
+poland_2025,6,policy document,2,0.0419,4,1
+poland_2025,7,cyberbezpieczeństwa,1,0.0419,4,1
+poland_2025,8,pfr,1,0.0415,5,2
+poland_2025,9,digital affair,2,0.0408,7,4
+poland_2025,10,pllum,1,0.038,4,2
+poland_2025,11,centrum,1,0.038,4,2
+poland_2025,12,government unit,2,0.038,4,2
+poland_2025,13,mobywatel,1,0.038,4,2
+poland_2025,14,ikp,1,0.038,4,2
+poland_2025,15,mojeikp,1,0.038,4,2
+poland_2025,16,abuse,1,0.038,4,2
+poland_2025,17,energy sector activity,3,0.0369,3,1
+poland_2025,18,european electronic communication,3,0.0369,3,1
+poland_2025,19,electronic communication code,3,0.0369,3,1
+poland_2025,20,urząd,1,0.0369,3,1
+portugal_2025,1,national digital strategy,3,0.0561,11,5
+portugal_2025,2,collaborative hub,2,0.0528,4,1
+portugal_2025,3,amalia,1,0.0528,4,1
+portugal_2025,4,smart territory,2,0.0485,5,3
+portugal_2025,5,gov app,2,0.0465,3,1
+portugal_2025,6,digital health transition,3,0.0465,3,1
+portugal_2025,7,good rate,2,0.0465,3,1
+portugal_2025,8,unleash,1,0.0465,3,1
+portugal_2025,9,collaborative laboratory,2,0.0465,3,1
+portugal_2025,10,digital trainer,2,0.0465,3,1
+portugal_2025,11,target seem achievable,3,0.0455,5,4
+portugal_2025,12,anacom,1,0.0421,3,2
+portugal_2025,13,fct,1,0.0421,3,2
+portugal_2025,14,gov,1,0.0419,6,7
+portugal_2025,15,rrf investment,2,0.0416,4,4
+portugal_2025,16,report last year,3,0.039,3,3
+portugal_2025,17,revise roadmap include,3,0.0376,5,8
+portugal_2025,18,ambitious plan regard,3,0.0375,2,1
+portugal_2025,19,european quantum initiative,3,0.0375,2,1
+portugal_2025,20,promote gender convergence,3,0.0375,2,1
+romania_2025,1,nrrp,1,0.0631,12,3
+romania_2025,2,ancom,1,0.0515,4,1
+romania_2025,3,necessary resource,2,0.0466,4,2
+romania_2025,4,start-up nation,2,0.0466,4,2
+romania_2025,5,roeid,1,0.0466,4,2
+romania_2025,6,ghiseul,1,0.0453,3,1
+romania_2025,7,ict employee,2,0.0453,3,1
+romania_2025,8,ict market,2,0.0453,3,1
+romania_2025,9,considerable scope,2,0.0453,3,1
+romania_2025,10,exist procedure,2,0.0453,3,1
+romania_2025,11,education process,2,0.041,3,2
+romania_2025,12,multiple exist project,3,0.041,3,2
+romania_2025,13,bucharest,1,0.041,3,2
+romania_2025,14,project management,2,0.0405,4,4
+romania_2025,15,necessary digital skill,3,0.038,3,3
+romania_2025,16,governmental cloud,2,0.038,3,3
+romania_2025,17,reluctant,1,0.038,3,3
+romania_2025,18,fiscal,1,0.0365,4,6
+romania_2025,19,b2b sector,2,0.0365,2,1
+romania_2025,20,entire learning cycle,3,0.0365,2,1
+slovakia_2025,1,digitrans,1,0.048,7,2
+slovakia_2025,2,mirri,1,0.0455,6,2
+slovakia_2025,3,digitrans project,2,0.0429,4,1
+slovakia_2025,4,priority life situation,3,0.0425,5,2
+slovakia_2025,5,regional office,2,0.0389,4,2
+slovakia_2025,6,social voucher,2,0.0389,4,2
+slovakia_2025,7,slovensko,1,0.0389,4,2
+slovakia_2025,8,eurobarometer result,2,0.0389,4,2
+slovakia_2025,9,digital regional office,3,0.0377,3,1
+slovakia_2025,10,vulnerability assessment,2,0.0377,3,1
+slovakia_2025,11,energy distribution company,3,0.0377,3,1
+slovakia_2025,12,digital policy forum,3,0.0377,3,1
+slovakia_2025,13,5g stand-alone network,3,0.0342,3,2
+slovakia_2025,14,network service,2,0.0342,3,2
+slovakia_2025,15,improvement exists,2,0.0342,3,2
+slovakia_2025,16,managerial barrier,2,0.0342,3,2
+slovakia_2025,17,green future,2,0.0342,3,2
+slovakia_2025,18,pole,1,0.0342,3,2
+slovakia_2025,19,popularisation campaign,2,0.0342,3,2
+slovakia_2025,20,eit,1,0.0342,3,2
+slovenia_2025,1,akos,1,0.0615,8,2
+slovenia_2025,2,quickly implement,2,0.0477,4,2
+slovenia_2025,3,venture capital expenditure,3,0.0463,3,1
+slovenia_2025,4,ongoing high education,3,0.0463,3,1
+slovenia_2025,5,digital healthcare act,3,0.0463,3,1
+slovenia_2025,6,integrate digital skill,3,0.0442,8,8
+slovenia_2025,7,high education reform,3,0.0442,4,3
+slovenia_2025,8,relatively low level,3,0.0419,3,2
+slovenia_2025,9,municipality level,2,0.0419,3,2
+slovenia_2025,10,digital business model,3,0.0419,3,2
+slovenia_2025,11,new impulse,2,0.0419,3,2
+slovenia_2025,12,mobile hero,2,0.0419,3,2
+slovenia_2025,13,education curriculum,2,0.0418,6,7
+slovenia_2025,14,bid,1,0.0392,4,5
+slovenia_2025,15,legislative change,2,0.0388,3,3
+slovenia_2025,16,specific technology,2,0.0388,3,3
+slovenia_2025,17,several cutting-edge technology,3,0.0373,2,1
+slovenia_2025,18,cutting-edge technology project,3,0.0373,2,1
+slovenia_2025,19,recently show considerable,3,0.0373,2,1
+slovenia_2025,20,show considerable progress,3,0.0373,2,1
+spain_2025,1,incibe,1,0.0537,8,2
+spain_2025,2,sectoral data space,3,0.0514,7,2
+spain_2025,3,sett,1,0.0455,5,2
+spain_2025,4,unico,1,0.0455,5,2
+spain_2025,5,model train,2,0.0404,3,1
+spain_2025,6,green algorithm,2,0.0404,3,1
+spain_2025,7,green ai,2,0.0386,4,3
+spain_2025,8,alia,1,0.0386,4,3
+spain_2025,9,red,1,0.0381,6,6
+spain_2025,10,co-official language,2,0.0366,3,2
+spain_2025,11,madrid,1,0.0366,3,2
+spain_2025,12,royal,1,0.0362,4,4
+spain_2025,13,5g security,2,0.0362,4,4
+spain_2025,14,royal decree,2,0.0339,3,3
+spain_2025,15,demonstrator,1,0.0339,3,3
+spain_2025,16,barcelona,1,0.0339,3,3
+spain_2025,17,integrated photonics,2,0.0339,3,3
+spain_2025,18,decree,1,0.0326,4,6
+spain_2025,19,rydberg atom,2,0.0326,2,1
+spain_2025,20,quantum annealer,2,0.0326,2,1
+sweden_2025,1,regional growth,2,0.0846,5,1
+sweden_2025,2,pts,1,0.0766,5,2
+sweden_2025,3,currently assess,2,0.068,3,1
+sweden_2025,4,digg,1,0.068,3,1
+sweden_2025,5,ai commission,2,0.0649,4,3
+sweden_2025,6,ena,1,0.0616,3,2
+sweden_2025,7,currently revise,2,0.0549,2,1
+sweden_2025,8,present proposal,2,0.0549,2,1
+sweden_2025,9,strategy set several,3,0.0549,2,1
+sweden_2025,10,set several long-term,3,0.0549,2,1
+sweden_2025,11,several long-term target,3,0.0549,2,1
+sweden_2025,12,specific reform,2,0.0549,2,1
+sweden_2025,13,investment primarily target,3,0.0549,2,1
+sweden_2025,14,primarily target carbon-intensive,3,0.0549,2,1
+sweden_2025,15,target carbon-intensive sector,3,0.0549,2,1
+sweden_2025,16,rrp support local,3,0.0549,2,1
+sweden_2025,17,reduce climate emission,3,0.0549,2,1
+sweden_2025,18,multi-dwelling housing,2,0.0549,2,1
+sweden_2025,19,expect later,2,0.0549,2,1
+sweden_2025,20,relative active,2,0.0549,2,1
+austria_2026,1,public equity,2,0.0537,5,1
+austria_2026,2,federal,1,0.0532,14,6
+austria_2026,3,annual progression,2,0.0498,13,7
+austria_2026,4,dzg,1,0.0491,4,1
+austria_2026,5,federal chancellery,2,0.0491,4,1
+austria_2026,6,federal ministry,2,0.0483,6,3
+austria_2026,7,bba2030,1,0.0445,4,2
+austria_2026,8,equity instrument,2,0.0445,4,2
+austria_2026,9,scale-up fund,2,0.0445,4,2
+austria_2026,10,performance agreement,2,0.0445,4,2
+austria_2026,11,fiscal constraint,2,0.0432,3,1
+austria_2026,12,public equity instrument,3,0.0432,3,1
+austria_2026,13,eu average rise,3,0.0432,3,1
+austria_2026,14,5gsa,1,0.0432,3,1
+austria_2026,15,data access act,3,0.0432,3,1
+austria_2026,16,installation work,2,0.0392,3,2
+austria_2026,17,household live,2,0.0387,4,4
+austria_2026,18,re-use,1,0.0365,5,7
+austria_2026,19,aws,1,0.0363,3,3
+austria_2026,20,national data strategy,3,0.0363,3,3
+belgium_2026,1,wallonia,1,0.0518,19,2
+belgium_2026,2,across governance level,3,0.0487,15,2
+belgium_2026,3,governance level,2,0.0486,20,3
+belgium_2026,4,flanders,1,0.0468,13,2
+belgium_2026,5,brussels-capital region,2,0.042,9,2
+belgium_2026,6,imec,1,0.0415,14,4
+belgium_2026,7,federal,1,0.0405,19,6
+belgium_2026,8,see new measure,3,0.0404,6,1
+belgium_2026,9,ostbelgien,1,0.0378,5,1
+belgium_2026,10,walloon,1,0.0366,6,2
+belgium_2026,11,multi-level,1,0.0346,4,1
+belgium_2026,12,labour-market,1,0.0343,12,7
+belgium_2026,13,bipt,1,0.0342,5,2
+belgium_2026,14,digital wallonia,2,0.0342,5,2
+belgium_2026,15,brussels,1,0.0317,5,3
+belgium_2026,16,labour-market demand,2,0.0317,5,3
+belgium_2026,17,flemish,1,0.0313,4,2
+belgium_2026,18,steering,1,0.0313,4,2
+belgium_2026,19,risk link,2,0.0304,3,1
+belgium_2026,20,safety skill remain,3,0.0304,3,1
+bulgaria_2026,1,pridst,1,0.0505,9,2
+bulgaria_2026,2,eu-funded programme,2,0.0416,4,1
+bulgaria_2026,3,public administration ai,3,0.0416,4,1
+bulgaria_2026,4,administration ai readiness,3,0.0416,4,1
+bulgaria_2026,5,ai readiness index,3,0.0416,4,1
+bulgaria_2026,6,pcie,1,0.0412,5,2
+bulgaria_2026,7,sofia,1,0.0377,4,2
+bulgaria_2026,8,crc,1,0.0377,4,2
+bulgaria_2026,9,gigabit service,2,0.0377,4,2
+bulgaria_2026,10,include shortage,2,0.0366,3,1
+bulgaria_2026,11,reflect persistent,2,0.0366,3,1
+bulgaria_2026,12,resource development programme,3,0.0366,3,1
+bulgaria_2026,13,data contribution,2,0.0366,3,1
+bulgaria_2026,14,ezdrave,1,0.0366,3,1
+bulgaria_2026,15,affordability,1,0.0339,5,5
+bulgaria_2026,16,cybersecurity concern,2,0.0331,3,2
+bulgaria_2026,17,clarification,1,0.0331,3,2
+bulgaria_2026,18,judicial cooperation,2,0.0331,3,2
+bulgaria_2026,19,outside major urban,3,0.0331,3,2
+bulgaria_2026,20,qualification framework,2,0.0331,3,2
+croatia_2026,1,e-citizen,1,0.0546,8,1
+croatia_2026,2,still point,2,0.0473,7,2
+croatia_2026,3,roadmap link,2,0.0423,4,1
+croatia_2026,4,evidence still point,3,0.0423,4,1
+croatia_2026,5,carnet,1,0.0419,5,2
+croatia_2026,6,progress remain partial,3,0.0411,7,4
+croatia_2026,7,higher-capacity,1,0.0388,5,3
+croatia_2026,8,hakom,1,0.0383,4,2
+croatia_2026,9,unresolved,1,0.0383,4,2
+croatia_2026,10,register integration,2,0.0372,3,1
+croatia_2026,11,inactive people,2,0.0372,3,1
+croatia_2026,12,service centre,2,0.0372,3,1
+croatia_2026,13,deployment framework,2,0.0372,3,1
+croatia_2026,14,still appear fragmented,3,0.0372,3,1
+croatia_2026,15,national roadmap link,3,0.0372,3,1
+croatia_2026,16,edih network,2,0.0372,3,1
+croatia_2026,17,complex digital solution,3,0.0372,3,1
+croatia_2026,18,recent trend,2,0.0372,3,1
+croatia_2026,19,state information infrastructure,3,0.0372,3,1
+croatia_2026,20,policy debate,2,0.0372,3,1
+cyprus_2026,1,dmrid,1,0.0577,10,2
+cyprus_2026,2,digital citizen app,3,0.0503,5,1
+cyprus_2026,3,deputy ministry,2,0.0488,6,2
+cyprus_2026,4,five-year horizon,2,0.046,4,1
+cyprus_2026,5,ocecpr,1,0.0456,5,2
+cyprus_2026,6,high figure,2,0.0422,5,3
+cyprus_2026,7,cyqci,1,0.0417,4,2
+cyprus_2026,8,core working-age group,3,0.0417,4,2
+cyprus_2026,9,g-cloud,1,0.0417,4,2
+cyprus_2026,10,symmetrical access regime,3,0.0405,3,1
+cyprus_2026,11,new national ai,3,0.0405,3,1
+cyprus_2026,12,health ecosystem,2,0.0405,3,1
+cyprus_2026,13,mobile health application,3,0.0405,3,1
+cyprus_2026,14,major preparatory,2,0.0405,3,1
+cyprus_2026,15,cyta,1,0.0405,3,1
+cyprus_2026,16,ncc community,2,0.0405,3,1
+cyprus_2026,17,eu since,2,0.0405,3,1
+cyprus_2026,18,major investment project,3,0.0367,3,2
+cyprus_2026,19,diginn,1,0.0367,3,2
+cyprus_2026,20,lighting,1,0.0367,3,2
+czechia_2026,1,national recovery plan,3,0.0611,6,1
+czechia_2026,2,op tac,2,0.0554,6,2
+czechia_2026,3,twist programme,2,0.0473,4,2
+czechia_2026,4,affect uptake,2,0.046,3,1
+czechia_2026,5,regulatory constraint,2,0.046,3,1
+czechia_2026,6,small healthcare provider,3,0.046,3,1
+czechia_2026,7,address administrative barrier,3,0.046,3,1
+czechia_2026,8,total grant commitment,3,0.046,3,1
+czechia_2026,9,computational thinking,2,0.0426,5,5
+czechia_2026,10,streamline permitting,2,0.0416,3,2
+czechia_2026,11,since mid-2025,2,0.0416,3,2
+czechia_2026,12,digital enterprise,2,0.0412,4,4
+czechia_2026,13,annual progression,2,0.0388,5,7
+czechia_2026,14,balanced distribution,2,0.0386,3,3
+czechia_2026,15,administrative complexity,2,0.0371,4,6
+czechia_2026,16,regulatory constraint affect,3,0.0371,2,1
+czechia_2026,17,framework education programme,3,0.0371,2,1
+czechia_2026,18,service among healthcare,3,0.0371,2,1
+czechia_2026,19,among healthcare professional,3,0.0371,2,1
+czechia_2026,20,building act,2,0.0371,2,1
+denmark_2026,1,political agreement,2,0.0622,8,1
+denmark_2026,2,technology comprehension,2,0.0511,6,2
+denmark_2026,3,ai-boost hub,2,0.0482,4,1
+denmark_2026,4,eifo,1,0.0482,4,1
+denmark_2026,5,bookkeeping,1,0.0482,4,1
+denmark_2026,6,low secondary education,3,0.0478,5,2
+denmark_2026,7,business authority,2,0.0437,4,2
+denmark_2026,8,multi-annual,1,0.0437,4,2
+denmark_2026,9,english-taught,1,0.0424,3,1
+denmark_2026,10,reporting initiative,2,0.0424,3,1
+denmark_2026,11,multi-annual funding,2,0.0424,3,1
+denmark_2026,12,business academy,2,0.0424,3,1
+denmark_2026,13,study place,2,0.0405,4,3
+denmark_2026,14,international student,2,0.04,6,6
+denmark_2026,15,coax,1,0.0384,3,2
+denmark_2026,16,across university,2,0.0384,3,2
+denmark_2026,17,university college,2,0.0384,3,2
+denmark_2026,18,core subject,2,0.0384,3,2
+denmark_2026,19,large company adopt,3,0.0384,3,2
+denmark_2026,20,large company,2,0.0364,8,11
+estonia_2026,1,digital society development,3,0.0664,7,1
+estonia_2026,2,society development plan,3,0.0664,7,1
+estonia_2026,3,ria,1,0.0653,9,2
+estonia_2026,4,annual rate,2,0.0639,20,6
+estonia_2026,5,eesti.ai,1,0.0588,5,1
+estonia_2026,6,rte grant,2,0.0538,4,1
+estonia_2026,7,old individual,2,0.0494,5,3
+estonia_2026,8,mid-level,1,0.0487,4,2
+estonia_2026,9,aire,1,0.0487,4,2
+estonia_2026,10,digital state,2,0.0487,4,2
+estonia_2026,11,ai leap,2,0.0473,3,1
+estonia_2026,12,skill development system,3,0.0473,3,1
+estonia_2026,13,support worth,2,0.0473,3,1
+estonia_2026,14,increase reach,2,0.0473,3,1
+estonia_2026,15,deep tech company,3,0.0473,3,1
+estonia_2026,16,tedi,1,0.0473,3,1
+estonia_2026,17,leap,1,0.0451,4,3
+estonia_2026,18,mid-level manager,2,0.0429,3,2
+estonia_2026,19,digital state academy,3,0.0429,3,2
+estonia_2026,20,ict management,2,0.0429,3,2
+finland_2026,1,ficcc,1,0.0575,9,2
+finland_2026,2,vtt,1,0.0575,9,2
+finland_2026,3,lumi,1,0.0567,17,5
+finland_2026,4,lumi supercomputer,2,0.0429,4,2
+finland_2026,5,tampere university,2,0.0429,4,2
+finland_2026,6,sitra,1,0.0429,4,2
+finland_2026,7,traficom,1,0.0429,4,2
+finland_2026,8,6g roadmap,2,0.0417,3,1
+finland_2026,9,ai exposure,2,0.0417,3,1
+finland_2026,10,nestai,1,0.0417,3,1
+finland_2026,11,doctoral,1,0.0415,7,6
+finland_2026,12,lumi ai factory,3,0.0413,6,5
+finland_2026,13,wbg,1,0.0398,4,3
+finland_2026,14,vtt technical research,3,0.0378,3,2
+finland_2026,15,technical research centre,3,0.0378,3,2
+finland_2026,16,sender,1,0.0378,3,2
+finland_2026,17,rdi,1,0.0373,4,4
+finland_2026,18,technology industry,2,0.0353,4,5
+finland_2026,19,scam call,2,0.035,3,3
+finland_2026,20,stagnant,1,0.035,3,3
+france_2026,1,num,1,0.0528,8,2
+france_2026,2,vse,1,0.0524,10,3
+france_2026,3,osez l'ia,2,0.0494,5,1
+france_2026,4,math,1,0.0413,8,6
+france_2026,5,sub-par,1,0.0397,3,1
+france_2026,6,user report difficulty,3,0.0397,3,1
+france_2026,7,follow proceeding,2,0.0397,3,1
+france_2026,8,ai summit,2,0.0397,3,1
+france_2026,9,bpifrance,1,0.0397,3,1
+france_2026,10,senate,1,0.0397,3,1
+france_2026,11,exist training,2,0.036,3,2
+france_2026,12,ai2f,1,0.036,3,2
+france_2026,13,ai ambassador,2,0.036,3,2
+france_2026,14,outermost region,2,0.0355,4,4
+france_2026,15,might,1,0.0341,12,15
+france_2026,16,numérique,1,0.0333,3,3
+france_2026,17,oots,1,0.0333,3,3
+france_2026,18,enterprise still lag,3,0.0333,3,3
+france_2026,19,see section,2,0.032,4,6
+france_2026,20,research talent,2,0.032,2,1
+germany_2026,1,new ministry,2,0.055,8,1
+germany_2026,2,länder,1,0.0546,14,3
+germany_2026,3,hightech agenda,2,0.0526,7,1
+germany_2026,4,mittelstand-digital,1,0.0517,9,2
+germany_2026,5,federal,1,0.0507,20,6
+germany_2026,6,bitkom survey,2,0.0499,6,1
+germany_2026,7,bsi,1,0.0499,6,1
+germany_2026,8,pin,1,0.0499,6,1
+germany_2026,9,digital pact,2,0.0498,8,2
+germany_2026,10,efa,1,0.0466,5,1
+germany_2026,11,skilled labour,2,0.0462,8,3
+germany_2026,12,stay agency,2,0.0426,4,1
+germany_2026,13,digital pact school,3,0.0426,4,1
+germany_2026,14,deutschland-stack,1,0.0426,4,1
+germany_2026,15,reset,1,0.0426,4,1
+germany_2026,16,skilled labour strategy,3,0.0422,5,2
+germany_2026,17,municipal level,2,0.0422,5,2
+germany_2026,18,government modernisation,2,0.0419,6,3
+germany_2026,19,dihk,1,0.0386,4,2
+germany_2026,20,mittelstand-digital funding priority,3,0.0386,4,2
+greece_2026,1,eett,1,0.0518,8,2
+greece_2026,2,g-cloud,1,0.0495,7,2
+greece_2026,3,digital governance,2,0.0457,10,5
+greece_2026,4,labour market diagnostic,3,0.0443,4,1
+greece_2026,5,peer review,2,0.0443,4,1
+greece_2026,6,hellasqci,1,0.0439,5,2
+greece_2026,7,local exchange,2,0.0401,4,2
+greece_2026,8,ncsa,1,0.0401,4,2
+greece_2026,9,domestic online service,3,0.0401,4,2
+greece_2026,10,h-cloud,1,0.0401,4,2
+greece_2026,11,impacts-edic,1,0.0401,4,2
+greece_2026,12,national data governance,3,0.0401,4,2
+greece_2026,13,rapidly develop,2,0.039,3,1
+greece_2026,14,hellasqci infrastructure,2,0.039,3,1
+greece_2026,15,hei,1,0.039,3,1
+greece_2026,16,government score,2,0.039,3,1
+greece_2026,17,minor online,2,0.0386,6,5
+greece_2026,18,pharos,1,0.0381,5,4
+greece_2026,19,protect minor online,3,0.0372,4,3
+greece_2026,20,data governance framework,3,0.0372,4,3
+hungary_2026,1,dimop,1,0.0903,17,1
+hungary_2026,2,hun-ren,1,0.0658,6,1
+hungary_2026,3,drop plus,2,0.0615,5,1
+hungary_2026,4,developed region,2,0.0562,4,1
+hungary_2026,5,drop+,1,0.0562,4,1
+hungary_2026,6,plus,1,0.0552,10,6
+hungary_2026,7,budapest,1,0.0509,4,2
+hungary_2026,8,less developed region,3,0.0495,3,1
+hungary_2026,9,eidas authentication,2,0.0495,3,1
+hungary_2026,10,magyarorszag portal,2,0.0495,3,1
+hungary_2026,11,energy management system,3,0.0495,3,1
+hungary_2026,12,system support,2,0.0448,3,2
+hungary_2026,13,private geriatric nursing,3,0.0415,3,3
+hungary_2026,14,e-id scheme,2,0.0401,5,8
+hungary_2026,15,ai among sme,3,0.0399,2,1
+hungary_2026,16,notable challenge,2,0.0399,2,1
+hungary_2026,17,dimop plusz,2,0.0399,2,1
+hungary_2026,18,2g network,2,0.0399,2,1
+hungary_2026,19,european automotive semiconductor,3,0.0399,2,1
+hungary_2026,20,hun-ren wigner,2,0.0399,2,1
+ireland_2026,1,public-service,1,0.0459,11,3
+ireland_2026,2,average progression,2,0.043,7,2
+ireland_2026,3,indigenous,1,0.042,5,1
+ireland_2026,4,tyndall,1,0.042,5,1
+ireland_2026,5,business base,2,0.0407,6,2
+ireland_2026,6,local licensing framework,3,0.0384,4,1
+ireland_2026,7,national low latency,3,0.0384,4,1
+ireland_2026,8,low latency platform,3,0.0384,4,1
+ireland_2026,9,health app,2,0.0384,4,1
+ireland_2026,10,large energy user,3,0.0384,4,1
+ireland_2026,11,domestic firm,2,0.038,5,2
+ireland_2026,12,repair,1,0.0348,4,2
+ireland_2026,13,pilot-line,1,0.0348,4,2
+ireland_2026,14,applied ai innovation,3,0.0338,3,1
+ireland_2026,15,electronic health-record system,3,0.0338,3,1
+ireland_2026,16,mature cybersecurity,2,0.0338,3,1
+ireland_2026,17,cyber-resilience,1,0.0338,3,1
+ireland_2026,18,government digital wallet,3,0.0338,3,1
+ireland_2026,19,industrial use case,3,0.0335,6,5
+ireland_2026,20,digital growth,2,0.0335,6,5
+italy_2026,1,acn,1,0.0491,8,2
+italy_2026,2,law n.,2,0.046,5,1
+italy_2026,3,facilitation service network,3,0.046,5,1
+italy_2026,4,leonardo,1,0.0445,6,2
+italy_2026,5,politecnico,1,0.042,4,1
+italy_2026,6,digital facilitation service,3,0.0416,5,2
+italy_2026,7,nazionale,1,0.0381,4,2
+italy_2026,8,fse,1,0.0381,4,2
+italy_2026,9,cnr,1,0.037,3,1
+italy_2026,10,pid,1,0.037,3,1
+italy_2026,11,large business,2,0.0368,7,6
+italy_2026,12,full fibre,2,0.0353,4,3
+italy_2026,13,italia,1,0.0335,3,2
+italy_2026,14,strong academic,2,0.0335,3,2
+italy_2026,15,cineca,1,0.0335,3,2
+italy_2026,16,cdp,1,0.0335,3,2
+italy_2026,17,agcom,1,0.0335,3,2
+italy_2026,18,technology transfer,2,0.0335,13,14
+italy_2026,19,digitale,1,0.0331,4,4
+italy_2026,20,annual progression,2,0.0312,5,7
+latvia_2026,1,year since,2,0.0574,14,3
+latvia_2026,2,riga,1,0.0501,7,2
+latvia_2026,3,two year since,3,0.0475,6,2
+latvia_2026,4,cert,1,0.0465,12,6
+latvia_2026,5,citizen portal,2,0.0448,4,1
+latvia_2026,6,annual progression,2,0.0408,9,7
+latvia_2026,7,e-form,1,0.0406,4,2
+latvia_2026,8,state cloud,2,0.0406,4,2
+latvia_2026,9,private rehabilitation centre,3,0.0406,4,2
+latvia_2026,10,annualised,1,0.0406,4,2
+latvia_2026,11,optical network,2,0.0394,3,1
+latvia_2026,12,annualised average,2,0.0394,3,1
+latvia_2026,13,liaa,1,0.0394,3,1
+latvia_2026,14,learning account approach,3,0.0394,3,1
+latvia_2026,15,development agency,2,0.0391,6,5
+latvia_2026,16,individual learning account,3,0.036,7,8
+latvia_2026,17,riga technical university,3,0.0357,3,2
+latvia_2026,18,implement ai solution,3,0.0357,3,2
+latvia_2026,19,quantum education,2,0.0357,3,2
+latvia_2026,20,quantum internet,2,0.0357,3,2
+lithuania_2026,1,lit,1,0.0604,11,1
+lithuania_2026,2,lit ai factory,3,0.0523,7,1
+lithuania_2026,3,laser,1,0.0496,8,2
+lithuania_2026,4,rrt,1,0.0474,7,2
+lithuania_2026,5,photonics industry,2,0.0464,5,1
+lithuania_2026,6,last-mile,1,0.0439,7,3
+lithuania_2026,7,natural entry point,3,0.0424,4,1
+lithuania_2026,8,open economy,2,0.0424,4,1
+lithuania_2026,9,unattractive,1,0.0424,4,1
+lithuania_2026,10,prisijungusi lietuva,2,0.0424,4,1
+lithuania_2026,11,subsystem,1,0.0424,4,1
+lithuania_2026,12,smart industry,2,0.0424,4,1
+lithuania_2026,13,last-mile fibre,2,0.0384,4,2
+lithuania_2026,14,measure st-5,2,0.0384,4,2
+lithuania_2026,15,recover strongly,2,0.0373,3,1
+lithuania_2026,16,ict-intensive core,2,0.0373,3,1
+lithuania_2026,17,last-mile fibre deployment,3,0.0373,3,1
+lithuania_2026,18,commercially unattractive,2,0.0373,3,1
+lithuania_2026,19,woman recover,2,0.0373,3,1
+lithuania_2026,20,traditional service,2,0.0373,3,1
+luxembourg_2026,1,fit,1,0.0491,9,2
+luxembourg_2026,2,meluxina-ai,1,0.0452,7,2
+luxembourg_2026,3,meluxina-q,1,0.0442,5,1
+luxembourg_2026,4,sme package,2,0.0429,6,2
+luxembourg_2026,5,accelerating digital sovereignty,3,0.0404,4,1
+luxembourg_2026,6,digital government strategy,3,0.0404,4,1
+luxembourg_2026,7,emission reduction across,3,0.0371,5,3
+luxembourg_2026,8,meluxina,1,0.0366,4,2
+luxembourg_2026,9,adem,1,0.0366,4,2
+luxembourg_2026,10,ctie,1,0.0366,4,2
+luxembourg_2026,11,analytics adoption among,3,0.0356,3,1
+luxembourg_2026,12,exist meluxina,2,0.0356,3,1
+luxembourg_2026,13,financial centre,2,0.0356,3,1
+luxembourg_2026,14,meluxina-ai ai factory,3,0.0356,3,1
+luxembourg_2026,15,second national action,3,0.0356,3,1
+luxembourg_2026,16,adoption among private,3,0.0356,3,1
+luxembourg_2026,17,among private enterprise,3,0.0356,3,1
+luxembourg_2026,18,activation rate,2,0.0356,3,1
+luxembourg_2026,19,ilr,1,0.0356,3,1
+luxembourg_2026,20,int-uqkd project,2,0.0356,3,1
+malta_2026,1,mscc,1,0.0574,6,1
+malta_2026,2,prism,1,0.0574,6,1
+malta_2026,3,mdia,1,0.0536,5,1
+malta_2026,4,mno,1,0.0482,6,3
+malta_2026,5,specialised talent,2,0.0431,3,1
+malta_2026,6,prism project,2,0.0431,3,1
+malta_2026,7,complimentary access,2,0.0431,3,1
+malta_2026,8,cloud-based tool,2,0.0431,3,1
+malta_2026,9,digital innovation authority,3,0.0431,3,1
+malta_2026,10,gamingmalta,1,0.0431,3,1
+malta_2026,11,faculty,1,0.0412,4,3
+malta_2026,12,undergraduate programme,2,0.0412,4,3
+malta_2026,13,mca,1,0.0391,3,2
+malta_2026,14,data resource,2,0.0391,3,2
+malta_2026,15,ai factory antenna,3,0.0389,6,7
+malta_2026,16,art,1,0.0362,3,3
+malta_2026,17,among old people,3,0.0362,3,3
+malta_2026,18,skill gap among,3,0.0348,2,1
+malta_2026,19,interactive entertainment,2,0.0348,2,1
+malta_2026,20,calypso,1,0.0348,2,1
+netherlands_2026,1,eindhoven,1,0.0491,10,2
+netherlands_2026,2,trajectory set,2,0.0424,8,3
+netherlands_2026,3,acm,1,0.0415,6,2
+netherlands_2026,4,groningen,1,0.0415,6,2
+netherlands_2026,5,quantum delta,2,0.0415,6,2
+netherlands_2026,6,cloud sovereignty,2,0.0392,4,1
+netherlands_2026,7,digitalised society,2,0.0392,4,1
+netherlands_2026,8,rotterdam,1,0.0392,4,1
+netherlands_2026,9,twente,1,0.0392,4,1
+netherlands_2026,10,part-time,1,0.036,5,3
+netherlands_2026,11,highly digitalised,2,0.0355,4,2
+netherlands_2026,12,highly digitalised society,3,0.0345,3,1
+netherlands_2026,13,eindhoven university,2,0.0345,3,1
+netherlands_2026,14,chipnl,1,0.0345,3,1
+netherlands_2026,15,asml,1,0.0337,5,4
+netherlands_2026,16,economic affair,2,0.0337,5,4
+netherlands_2026,17,coalition agreement,2,0.0319,5,5
+netherlands_2026,18,recent budget cut,3,0.0312,3,2
+netherlands_2026,19,beethoven,1,0.0312,3,2
+netherlands_2026,20,smart maker academy,3,0.0312,3,2
+poland_2026,1,mobywatel,1,0.0526,7,2
+poland_2026,2,state digitalisation strategy,3,0.0499,6,2
+poland_2026,3,pilot phase,2,0.0499,6,2
+poland_2026,4,education campaign target,3,0.0471,4,1
+poland_2026,5,campaign target entrepreneur,3,0.0471,4,1
+poland_2026,6,draft state digitalisation,3,0.0466,5,2
+poland_2026,7,club,1,0.0458,7,4
+poland_2026,8,fundusze europejskie,2,0.0426,4,2
+poland_2026,9,click,1,0.0426,4,2
+poland_2026,10,access funding opportunity,3,0.0414,3,1
+poland_2026,11,kujawsko-pomorskie,1,0.0414,3,1
+poland_2026,12,pomorskie,1,0.0414,3,1
+poland_2026,13,warmińsko-mazurskie,1,0.0414,3,1
+poland_2026,14,bgk,1,0.0414,3,1
+poland_2026,15,target entrepreneur project,3,0.0414,3,1
+poland_2026,16,large-scale campaign,2,0.0414,3,1
+poland_2026,17,include among girl,3,0.0414,3,1
+poland_2026,18,fimi,1,0.0375,3,2
+poland_2026,19,feng,1,0.0375,3,2
+poland_2026,20,rozwoju,1,0.0375,3,2
+portugal_2026,1,digital strategy action,3,0.0601,7,1
+portugal_2026,2,strategy action plan,3,0.0601,7,1
+portugal_2026,3,digital skill pact,3,0.057,6,1
+portugal_2026,4,national digital strategy,3,0.0517,11,5
+portugal_2026,5,iefp,1,0.0487,4,1
+portugal_2026,6,virtual citizen shop,3,0.0487,4,1
+portugal_2026,7,electrão,1,0.0487,4,1
+portugal_2026,8,national data centre,3,0.0482,5,2
+portugal_2026,9,pact,1,0.0463,12,8
+portugal_2026,10,sovereign cloud,2,0.0443,9,7
+portugal_2026,11,anacom,1,0.0441,4,2
+portugal_2026,12,cncs,1,0.0441,4,2
+portugal_2026,13,national data policy,3,0.0441,4,2
+portugal_2026,14,sovereign cloud strategy,3,0.0428,3,1
+portugal_2026,15,national competitiveness,2,0.0428,3,1
+portugal_2026,16,siia,1,0.0428,3,1
+portugal_2026,17,national innovation agency,3,0.0428,3,1
+portugal_2026,18,inl,1,0.0428,3,1
+portugal_2026,19,public administration entity,3,0.0428,3,1
+portugal_2026,20,pro_mov,1,0.0428,3,1
+romania_2026,1,governmental cloud,2,0.0528,12,3
+romania_2026,2,digcompro,1,0.0504,6,1
+romania_2026,3,nrrp,1,0.0484,9,3
+romania_2026,4,black sea,2,0.0457,6,2
+romania_2026,5,nrpp,1,0.0431,4,1
+romania_2026,6,reward,1,0.0431,4,1
+romania_2026,7,pias,1,0.0427,5,2
+romania_2026,8,ai gigafactory,2,0.0427,5,2
+romania_2026,9,outsource,1,0.039,4,2
+romania_2026,10,black sea ai,3,0.0379,3,1
+romania_2026,11,sea ai gigafactory,3,0.0379,3,1
+romania_2026,12,necessary hardware,2,0.0379,3,1
+romania_2026,13,roepas,1,0.0379,3,1
+romania_2026,14,tax administration,2,0.0379,3,1
+romania_2026,15,financing priority,2,0.0379,3,1
+romania_2026,16,define clear,2,0.0379,3,1
+romania_2026,17,rank last,2,0.0362,4,3
+romania_2026,18,underperform,1,0.0362,4,3
+romania_2026,19,education process,2,0.0343,3,2
+romania_2026,20,health insurance platform,3,0.0343,3,2
+slovakia_2026,1,mirri,1,0.0487,10,2
+slovakia_2026,2,life situation,2,0.0457,13,4
+slovakia_2026,3,slovensko,1,0.0454,8,2
+slovakia_2026,4,bratislava,1,0.0434,7,2
+slovakia_2026,5,success rate,2,0.0381,6,3
+slovakia_2026,6,priority life situation,3,0.0352,4,2
+slovakia_2026,7,green future,2,0.0352,4,2
+slovakia_2026,8,košice,1,0.0352,4,2
+slovakia_2026,9,cross-border citizen,2,0.0352,4,2
+slovakia_2026,10,administratively,1,0.0341,3,1
+slovakia_2026,11,vendor lock-in,2,0.0341,3,1
+slovakia_2026,12,informatisation,1,0.0326,4,3
+slovakia_2026,13,medium-,1,0.0326,4,3
+slovakia_2026,14,digitrans,1,0.0309,3,2
+slovakia_2026,15,negatively affect,2,0.0309,3,2
+slovakia_2026,16,national concept,2,0.0309,3,2
+slovakia_2026,17,permit procedure,2,0.0306,4,4
+slovakia_2026,18,user-friendliness,1,0.0304,10,12
+slovakia_2026,19,construction law,2,0.0286,3,3
+slovakia_2026,20,particularly low,2,0.0286,3,3
+slovenia_2026,1,esg,1,0.0445,8,4
+slovenia_2026,2,higher-education,1,0.0434,5,2
+slovenia_2026,3,ai competence centre,3,0.043,6,3
+slovenia_2026,4,akos,1,0.0397,4,2
+slovenia_2026,5,scale-up condition,2,0.0385,3,1
+slovenia_2026,6,combine uptake,2,0.0385,3,1
+slovenia_2026,7,low-qualified adult,2,0.0385,3,1
+slovenia_2026,8,higher-education reform,2,0.0385,3,1
+slovenia_2026,9,mvzi,1,0.0385,3,1
+slovenia_2026,10,convertible,1,0.0385,3,1
+slovenia_2026,11,digital-skill,1,0.0385,3,1
+slovenia_2026,12,foundational computer,2,0.0385,3,1
+slovenia_2026,13,spatial,1,0.0384,7,6
+slovenia_2026,14,labour-market,1,0.0384,8,7
+slovenia_2026,15,business digital transformation,3,0.0368,4,3
+slovenia_2026,16,digi info point,3,0.0349,3,2
+slovenia_2026,17,smash,1,0.0349,3,2
+slovenia_2026,18,zvem,1,0.0349,3,2
+slovenia_2026,19,managerial capability,2,0.0349,3,2
+slovenia_2026,20,school-level,1,0.0349,3,2
+spain_2026,1,sett,1,0.0593,14,2
+spain_2026,2,kit,1,0.0481,11,4
+spain_2026,3,unico,1,0.048,7,2
+spain_2026,4,nextgenerationeu,1,0.0469,5,1
+spain_2026,5,desafía,1,0.0469,5,1
+spain_2026,6,red,1,0.0455,13,6
+spain_2026,7,incibe,1,0.0455,6,2
+spain_2026,8,canary island,2,0.0429,4,1
+spain_2026,9,redia,1,0.0429,4,1
+spain_2026,10,participate startup,2,0.0429,4,1
+spain_2026,11,kit digital,2,0.0425,5,2
+spain_2026,12,barcelona,1,0.0422,6,3
+spain_2026,13,european technological sovereignty,3,0.0378,3,1
+spain_2026,14,sett invest,2,0.0378,3,1
+spain_2026,15,murcia,1,0.0378,3,1
+spain_2026,16,csic,1,0.0378,3,1
+spain_2026,17,pyme,1,0.0378,3,1
+spain_2026,18,barcelona supercomputing centre,3,0.036,4,3
+spain_2026,19,integrated photonics,2,0.036,4,3
+spain_2026,20,audiovisual,1,0.035,5,5
+sweden_2026,1,wacqt,1,0.0935,12,2
+sweden_2026,2,inferior,1,0.0773,5,1
+sweden_2026,3,chalmers,1,0.0749,6,2
+sweden_2026,4,stockholm,1,0.0707,4,1
+sweden_2026,5,kth royal institute,3,0.0707,4,1
+sweden_2026,6,household reside,2,0.0649,5,3
+sweden_2026,7,shall,1,0.064,4,2
+sweden_2026,8,chalmers university,2,0.064,4,2
+sweden_2026,9,government electronic,2,0.0622,3,1
+sweden_2026,10,judgment,1,0.0622,3,1
+sweden_2026,11,qsip,1,0.0622,3,1
+sweden_2026,12,testbeds,1,0.0563,3,2
+sweden_2026,13,pts,1,0.0563,3,2
+sweden_2026,14,ena,1,0.0563,3,2
+sweden_2026,15,young individual age,3,0.0557,4,4
+sweden_2026,16,stem strategy,2,0.0522,3,3
+sweden_2026,17,key support infrastructure,3,0.0501,2,1
+sweden_2026,18,government electronic identity,3,0.0501,2,1
+sweden_2026,19,cybersecurity strategy highlight,3,0.0501,2,1
+sweden_2026,20,inadequate incident management,3,0.0501,2,1

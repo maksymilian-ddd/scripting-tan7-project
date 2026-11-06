@@ -2,7 +2,8 @@
 
 Finds the keywords that are distinctive to each of the 27 European Commission
 "Digital Decade 2026 country reports" (one per EU Member State, same template),
-using TF-IDF. The 2025 edition can be processed later as a separate corpus.
+using TF-IDF. The 2025 and 2026 editions are analysed together as 54 reports, so a term's
+scores can be compared across countries and years.
 
 - Plan and cleaning decisions: [docs/PLAN.md](docs/PLAN.md)
 - Progress log, step by step: [docs/LOG.md](docs/LOG.md)
@@ -28,7 +29,8 @@ italy     latvia   lithuania luxembourg  malta       netherlands
 poland    portugal romania   slovakia    slovenia    spain    sweden
 ```
 
-The 2025 edition goes in `data/raw/2025/` with the same names.
+The [2025 edition](https://digital-strategy.ec.europa.eu/en/library/digital-decade-2025-country-reports)
+goes in `data/raw/2025/` with the same names.
 
 ## Pipeline
 
@@ -36,9 +38,12 @@ The 2025 edition goes in `data/raw/2025/` with the same names.
 |---|---|---|---|
 | 2. Extract | `extract.py` | `data/raw/<year>/*.pdf` | `data/text/<year>/*.txt`, `*.spans.csv` (text + font info) |
 | 3. Clean | `clean.py` | `data/text/<year>/*.spans.csv` | `data/clean/<year>/*.txt` (lemma chunks), `*.body.txt` (readable) |
-| 4–6. TF-IDF | `tfidf.py` | `data/clean/<year>/*.txt` | `output/<year>/` |
+| 4–6. TF-IDF | `tfidf.py` | `data/clean/<year>/*.txt` | `output/combined/` |
+| 8. Word clouds | `wordclouds.py` | `top_terms.csv`, `sanity_doc_freq.csv`, `data/clean/<year>/*.txt` | `output/combined/wordclouds.html` |
 
-Run each script with `.venv/bin/python <script>.py`. The year is set in `config.py`.
+Run each script with `.venv/bin/python <script>.py`. In `config.py`, `YEAR` is the year
+`extract.py` and `clean.py` process (run them once per year), and `YEARS` lists the years
+`tfidf.py` and `wordclouds.py` analyse together.
 
 ## Project structure
 
@@ -48,9 +53,10 @@ setup_nltk.py     one-time NLTK data download
 extract.py        PDF -> text (PyMuPDF)
 clean.py          text cleaning, NLTK tokenizing / stopwords / lemmatizing
 tfidf.py          TF-IDF, top terms, sanity check, charts
+wordclouds.py     interactive word clouds (HTML, from wordclouds_template.html)
 docs/             plan and progress log
 data/             raw PDFs, extracted and cleaned text (not versioned)
-output/           results per year
+output/           results: combined/ (both years), 2026/ (earlier 2026-only run)
 ```
 
 ## Libraries

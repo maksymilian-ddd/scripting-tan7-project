@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<!-- Template for wordclouds.py, which replaces __DATA__ and writes output/combined/wordclouds.html -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Word clouds: Digital Decade country reports</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface-0: #f3f2ef; --surface-1: #fcfcfb; --border: #e4e3df;
+    --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #77766f;
+    --accent: #2a78d6; --accent-ink: #ffffff; --accent-soft: #dbe8f8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --surface-0: #111110; --surface-1: #1a1a19; --border: #2e2e2c;
+      --text-primary: #f0efec; --text-secondary: #c3c2b7; --text-muted: #96958c;
+      --accent: #3987e5; --accent-ink: #ffffff; --accent-soft: #1e3350;
+    }
+  }
+  body { margin: 0; font: 14px/1.4 system-ui, sans-serif; background: var(--surface-0); color: var(--text-primary); }
+  header, main { max-width: 1200px; margin: 0 auto; padding: 16px 24px; }
+  h1 { font-size: 20px; margin: 8px 0 4px; }
+  h2 { font-size: 15px; margin: 0 0 8px; }
+  h3 { font-size: 13px; margin: 12px 0 6px; color: var(--text-secondary); }
+  p.note { color: var(--text-secondary); margin: 0; }
+  .card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; }
+  .grid { display: grid; gap: 12px; margin-top: 12px; }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+  .pair img { display: block; width: 100%; border-radius: 6px; border: 1px solid var(--border); }
+  .layout { display: grid; grid-template-columns: 1fr 340px; gap: 12px; align-items: start; }
+  #panel { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; }
+  .cloud { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 10px; }
+  .word { cursor: pointer; border: 0; background: none; color: var(--text-primary); padding: 1px 4px;
+          border-radius: 4px; font-family: inherit; line-height: 1.15; text-align: left; }
+  .word:hover { background: var(--accent-soft); }
+  .word.hit { background: var(--accent); color: var(--accent-ink); }
+  .word.kept { text-decoration: underline dotted 1px; text-underline-offset: 3px; }
+  .word::after { content: " " attr(data-label); font-size: 11px; color: var(--text-muted);
+                 font-variant-numeric: tabular-nums; display: none; }
+  .show-labels .word::after, .word.hit::after { display: inline; }
+  .word.hit::after { color: var(--accent-ink); }
+  label.toggle { display: inline-flex; gap: 6px; align-items: center; margin-top: 8px; color: var(--text-secondary); cursor: pointer; }
+  .card.dim { opacity: .35; }
+  .card.has-hit { border-color: var(--accent); }
+  .row { display: grid; grid-template-columns: 88px 1fr 1fr; gap: 10px; align-items: center; padding: 3px 0; }
+  .row a { color: var(--text-primary); text-decoration: none; }
+  .row a:hover { text-decoration: underline; }
+  .bar { height: 6px; background: var(--accent); border-radius: 0 3px 3px 0; min-width: 2px; }
+  .num { color: var(--text-secondary); font-size: 12px; font-variant-numeric: tabular-nums; }
+  .row.head { color: var(--text-muted); font-size: 12px; }
+  [hidden] { display: none; }
+  @media (max-width: 800px) { .layout, .pair { grid-template-columns: 1fr; } #panel { position: static; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Distinctive terms per country, by year</h1>
+  <p class="note">Word size: TF-IDF score in country clouds (scaled within each cloud), total count
+    in the common-terms cloud. All reports share one IDF, so scores can be compared across
+    countries and years. A dotted underline marks a term in that country's top 20 in both years.
+    Click a word to see every country that uses it. Click it again or press Esc to clear.</p>
+  <label class="toggle"><input type="checkbox" id="show-labels"> Show scores (counts in the common-terms cloud)</label>
+  <label class="toggle" style="margin-left:16px">Year
+    <select id="year"></select></label>
+</header>
+<main class="layout">
+  <div>
+    <section class="card" id="common-card">
+      <h2>Most common terms in all reports</h2>
+      <div class="pair">
+        <div class="cloud" id="common"></div>
+        <a href="charts/doc_freq_vs_score.png" target="_blank" title="Open full size">
+          <img src="charts/doc_freq_vs_score.png" alt="Sanity check: document frequency vs TF-IDF score"
+               loading="lazy" onerror="this.parentElement.remove()"></a>
+      </div>
+    </section>
+    <div class="grid" id="grid"></div>
+  </div>
+  <aside class="card" id="panel"><p class="note">No word selected.</p></aside>
+</main>
+
+<script>
+const DATA = __DATA__;
+const name = c => c[0].toUpperCase() + c.slice(1);
+let selected = null;
+
+// Font size in px, linear between 12 and 44 over [min, max] of the values.
+function scale(values) {
+  const lo = Math.min(...values), hi = Math.max(...values);
+  return v => 12 + (hi > lo ? (v - lo) / (hi - lo) : 0) * 32;
+}
+
+function wordButton({term, size, tooltip, label, kept}) {
+  const b = document.createElement("button");
+  b.className = kept ? "word kept" : "word";
+  b.textContent = term;
+  b.dataset.term = term;
+  b.style.fontSize = size + "px";
+  b.title = tooltip;
+  b.dataset.label = label;
+  b.onclick = () => select(selected === term ? null : term);
+  return b;
+}
+
+// Words in alphabetical order, as in a classic tag cloud.
+function fillCloud(el, words) {
+  words.slice().sort((a, b) => a.term.localeCompare(b.term))
+    .forEach(w => el.append(wordButton(w)));
+}
+
+// Common terms (size by total count).
+const commonSize = scale(DATA.common.map(([, total]) => Math.sqrt(total)));
+fillCloud(document.getElementById("common"), DATA.common.map(([term, total, df]) => ({
+  term, size: commonSize(Math.sqrt(total)), tooltip: `${term}: ${total}× in ${df} reports`,
+  label: `${total}×`,
+})));
+
+// One card per country, with one cloud + bar chart per year.
+const grid = document.getElementById("grid");
+const report = (country, year) => `${country}_${year}`;
+const topTerms = (country, year) => DATA.reports[report(country, year)] || [];
+for (const country of DATA.countries) {
+  const card = document.createElement("section");
+  card.className = "card";
+  card.id = country;
+  card.innerHTML = `<h2>${name(country)}</h2>`;
+  for (const year of DATA.years) {
+    const terms = topTerms(country, year);
+    const others = DATA.years.filter(y => y !== year);
+    const kept = term => others.length > 0
+      && others.every(y => topTerms(country, y).some(([t]) => t === term));
+    const block = document.createElement("div");
+    block.className = "year-block";
+    block.dataset.year = year;
+    // The bar chart from tfidf.py sits next to the cloud; it is hidden if the PNG is missing.
+    block.innerHTML = `<h3>${year}</h3>
+      <div class="pair">
+        <div class="cloud"></div>
+        <a href="charts/top_terms_${report(country, year)}.png" target="_blank" title="Open full size">
+          <img src="charts/top_terms_${report(country, year)}.png" alt="${name(country)} ${year}: top 20 terms, bar chart"
+               loading="lazy" onerror="this.parentElement.remove()"></a>
+      </div>`;
+    const size = scale(terms.map(([, score]) => score));
+    fillCloud(block.querySelector(".cloud"), terms.map(([term, score, count], i) => ({
+      term, size: size(score), label: score.toFixed(3), kept: kept(term),
+      tooltip: `${term}: rank ${i + 1}, score ${score.toFixed(4)}, ${count}× in this report`,
+    })));
+    card.append(block);
+  }
+  grid.append(card);
+}
+
+// Highlight the selected word everywhere and list the countries that use it, per year.
+function select(term) {
+  selected = term;
+  const counts = term ? DATA.counts[term] : {};
+  const inCountry = c => DATA.years.some(y => report(c, y) in counts);
+  document.querySelectorAll(".word").forEach(w => w.classList.toggle("hit", w.dataset.term === term));
+  document.querySelectorAll("#grid .card").forEach(card => {
+    card.classList.toggle("dim", !!term && !inCountry(card.id));
+    card.classList.toggle("has-hit", !!term && !!card.querySelector(".word.hit"));
+  });
+
+  const panel = document.getElementById("panel");
+  if (!term) { panel.innerHTML = '<p class="note">No word selected.</p>'; return; }
+  // Bars show the TF-IDF score; terms that max_df drops have no score, so bars show the count.
+  const hasScore = Object.values(counts).some(([, score]) => score !== null);
+  const value = ([count, score]) => hasScore ? score : count;
+  const best = c => Math.max(...DATA.years.map(y => counts[report(c, y)] ? value(counts[report(c, y)]) : 0));
+  const rows = DATA.countries.filter(inCountry).sort((a, b) => best(b) - best(a));
+  const max = Math.max(...rows.map(best));
+  const inTop = (c, y) => topTerms(c, y).some(([t]) => t === term);
+  const cell = (c, y) => {
+    const v = counts[report(c, y)];
+    if (!v) return '<div class="num">–</div>';
+    const text = `${v[1] === null ? "" : v[1].toFixed(3) + " · "}${v[0]}× ${inTop(c, y) ? "★" : ""}`;
+    return `<div><div class="num">${text}</div>
+      <div class="bar" style="width:${(100 * value(v) / max).toFixed(1)}%"></div></div>`;
+  };
+  panel.innerHTML = `
+    <h2>“${term}”</h2>
+    <p class="note">In ${Object.keys(counts).length} of ${Object.keys(DATA.reports).length} reports,
+      ${rows.length} of ${DATA.countries.length} countries.
+      Each cell: ${hasScore ? "score · " : ""}count. ★ = in that report's top 20.
+      ${hasScore ? "" : "No TF-IDF score: max_df drops terms found in more than 40% of the reports."}</p>
+    <div style="margin-top:8px">
+      <div class="row head"><span>country</span>${DATA.years.map(y => `<span>${y}</span>`).join("")}</div>
+      ${rows.map(c => `
+      <div class="row">
+        <a href="#${c}">${name(c)}</a>
+        ${DATA.years.map(y => cell(c, y)).join("")}
+      </div>`).join("")}
+    </div>`;
+}
+
+document.addEventListener("keydown", e => { if (e.key === "Escape") select(null); });
+document.getElementById("show-labels").onchange = e =>
+  document.body.classList.toggle("show-labels", e.target.checked);
+
+// Year filter: hide the clouds of the other years.
+const yearSelect = document.getElementById("year");
+yearSelect.innerHTML = ["All", ...DATA.years].map(y => `<option>${y}</option>`).join("");
+yearSelect.onchange = () => document.querySelectorAll(".year-block").forEach(block =>
+  block.hidden = yearSelect.value !== "All" && block.dataset.year !== yearSelect.value);
+</script>
+</body>
+</html>

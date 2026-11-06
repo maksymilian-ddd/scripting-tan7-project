@@ -1,14 +1,16 @@
 """Steps 4-6: TF-IDF, top terms per country, sanity check, charts.
 
 Input:  data/clean/<year>/<country>.txt   lemmatized chunks from clean.py, one per line
-Output: output/<year>/top_terms.csv                 main result: top 20 per country
-        output/<year>/top_terms_by_ngram.csv        top 10 per country per n-gram length
-        output/<year>/sanity_doc_freq.csv           every term with its document frequency
-        output/<year>/summary.md                    readable summary
-        output/<year>/charts/*.png
+Output: output/combined/top_terms.csv               main result: top 20 per report
+        output/combined/top_terms_by_ngram.csv      top 10 per report per n-gram length
+        output/combined/sanity_doc_freq.csv         every term with its document frequency
+        output/combined/summary.md                  readable summary
+        output/combined/charts/*.png
 
-Each country's report is ONE document. N-grams (1-3 words) are built inside chunks
-only, so they never cross a removed stopword, number or sentence end (docs/PLAN.md).
+Each report is ONE document, named <country>_<year>. All reports of all YEARS share one
+vocabulary and one IDF, so a term's scores can be compared across countries and years.
+N-grams (1-3 words) are built inside chunks only, so they never cross a removed
+stopword, number or sentence end (docs/PLAN.md).
 
 Usage: .venv/bin/python tfidf.py
 """
@@ -16,22 +18,23 @@ Usage: .venv/bin/python tfidf.py
 from collections import defaultdict
 
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MultipleLocator
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
-from config import CLEAN_DIR, COUNTRIES, OUTPUT_DIR, YEAR
+from config import COUNTRIES, RESULTS_DIR, ROOT, YEARS
 
 # --- Parameters (documented in docs/PLAN.md) ---------------------------------------
 NGRAM_RANGE = (1, 3)    # applied in ngrams_in_chunks(), not by sklearn
 SUBLINEAR_TF = True     # tf -> 1 + log(tf)
 MIN_DF = 1              # keep terms found in only one report
-MAX_DF = 0.5            # drop terms found in more than half of the reports
+MAX_DF = 0.4            # drop terms found in more than 40% of the reports
 SUBSUME_SHARE = 0.8     # drop a term if a longer ranked term containing it occurs
                         # at least 80% as often in that report
-TOP_N = 20              # terms per country in the main ranking
-TOP_N_PER_LENGTH = 10   # terms per country per n-gram length
-SHOW_COUNTRIES = None  # countries to print + chart; None = all available
+TOP_N = 20              # terms per report in the main ranking
+TOP_N_PER_LENGTH = 10   # terms per report per n-gram length
+SHOW_REPORTS = None     # reports to print + chart; None = all available
 
 # Chart style: one series, so one hue; text in neutral inks.
 SURFACE, INK, INK_MUTED, GRID, BAR = "#fcfcfb", "#0b0b0b", "#52514e", "#e4e3df", "#2a78d6"
@@ -48,9 +51,19 @@ def ngrams_in_chunks(text):
 
 
 def load_corpus():
-    countries = [c for c in COUNTRIES if (CLEAN_DIR / f"{c}.txt").exists()]
-    texts = [(CLEAN_DIR / f"{c}.txt").read_text(encoding="utf-8") for c in countries]
-    return countries, texts
+    """One label ('austria_2025') and one text per report, for every year in YEARS."""
+    paths = {
+        f"{country}_{year}": ROOT / "data" / "clean" / year / f"{country}.txt"
+        for year in YEARS for country in COUNTRIES
+    }
+    reports = [r for r, path in paths.items() if path.exists()]
+    texts = [paths[r].read_text(encoding="utf-8") for r in reports]
+    return reports, texts
+
+
+def title(report):
+    """'austria_2025' -> 'Austria 2025'."""
+    return report.replace("_", " ").capitalize()
 
 
 def n_words(term):
@@ -87,15 +100,15 @@ def per_document(matrix, vocabulary, row):
     return {vocabulary[j]: v for j, v in zip(r.indices, r.data)}
 
 
-def build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term):
+def build_rankings(reports, X, tfidf_terms, C, count_terms, df_by_term):
     main, by_length = [], []
-    for i, country in enumerate(countries):
+    for i, report in enumerate(reports):
         scores = per_document(X, tfidf_terms, i)
         counts = defaultdict(int, per_document(C, count_terms, i))
 
         def rows(ranked, limit):
             return [{
-                "country": country, "rank": r, "term": t, "n": n_words(t),
+                "report": report, "rank": r, "term": t, "n": n_words(t),
                 "score": round(s, 4), "count": counts[t], "doc_freq": df_by_term[t],
             } for r, (t, s) in enumerate(ranked[:limit], start=1)]
 
@@ -110,7 +123,7 @@ def build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term):
 # Sanity check: does template language get low weight?
 # ===================================================================================
 
-def sanity_table(countries, texts, C, count_terms, max_doc_count):
+def sanity_table(texts, C, count_terms, max_doc_count):
     """Every term with document frequency, total count, IDF, the mean TF-IDF it would
     get *without* the max_df cut (averaged over the reports that contain it), and
     whether the cut removes it.
@@ -153,14 +166,15 @@ def style_axes(ax):
     ax.set_axisbelow(True)
 
 
-def chart_top_terms(top, country, path):
-    data = top[top["country"] == country].sort_values("score")
+def chart_top_terms(top, report, path):
+    data = top[top["report"] == report].sort_values("score")
     fig, ax = plt.subplots(figsize=(7, 0.32 * len(data) + 1.2), facecolor=SURFACE)
     style_axes(ax)
     ax.barh(data["term"], data["score"], color=BAR, height=0.7)
     ax.tick_params(axis="y", labelcolor=INK, labelsize=9)
+    ax.xaxis.set_major_locator(MultipleLocator(0.01))  # same two-decimal ticks on every chart
     ax.set_xlabel("TF-IDF score", color=INK_MUTED, fontsize=9)
-    ax.set_title(f"{country.capitalize()}: top {len(data)} distinctive terms ({YEAR})",
+    ax.set_title(f"{title(report)}: top {len(data)} distinctive terms",
                  color=INK, fontsize=11, loc="left")
     fig.tight_layout()
     fig.savefig(path, dpi=150)
@@ -179,7 +193,7 @@ def chart_doc_freq(table, max_doc_count, n_docs, path):
     ax.axvline(max_doc_count + 0.5, color=INK_MUTED, linestyle="--", linewidth=1)
     ax.text(max_doc_count + 0.6, ax.get_ylim()[1] * 0.95, f"max_df cut: terms right of\n"
             f"this line are dropped", color=INK_MUTED, fontsize=8, va="top")
-    ax.set_xticks(range(1, n_docs + 1))
+    ax.set_xticks(range(0, n_docs + 1, 6))
     ax.set_xlabel("Document frequency (number of reports containing the term)",
                   color=INK_MUTED, fontsize=9)
     ax.set_ylabel("Mean TF-IDF where present, no max_df", color=INK_MUTED, fontsize=9)
@@ -194,12 +208,12 @@ def chart_doc_freq(table, max_doc_count, n_docs, path):
 # Summary
 # ===================================================================================
 
-def write_summary(path, countries, top, sanity, max_doc_count):
+def write_summary(path, reports, top, sanity, max_doc_count):
     lines = [
-        f"# Distinctive terms per country: Digital Decade {YEAR} country reports",
+        f"# Distinctive terms per report: Digital Decade {' + '.join(YEARS)} country reports",
         "",
-        f"Corpus: {len(countries)} of {len(COUNTRIES)} reports. Exploratory: with this "
-        "few documents IDF takes only a handful of values.",
+        f"Corpus: {len(reports)} of {len(COUNTRIES) * len(YEARS)} reports. Exploratory: with "
+        "this few documents IDF takes only a handful of values.",
         "",
         "| Parameter | Value |", "|---|---|",
         f"| n-grams | {NGRAM_RANGE[0]}-{NGRAM_RANGE[1]} words, built inside chunks |",
@@ -213,10 +227,10 @@ def write_summary(path, countries, top, sanity, max_doc_count):
         "the report.",
         "",
     ]
-    for country in countries:
-        rows = top[top["country"] == country]
+    for report in reports:
+        rows = top[top["report"] == report]
         terms = ", ".join(f"{t} ({c})" for t, c in zip(rows["term"], rows["count"]))
-        lines += [f"## {country.capitalize()}", "", terms, ""]
+        lines += [f"## {title(report)}", "", terms, ""]
 
     common = sanity.head(15)
     lines += [
@@ -239,14 +253,15 @@ def write_summary(path, countries, top, sanity, max_doc_count):
 # ===================================================================================
 
 def main():
-    countries, texts = load_corpus()
-    if not countries:
-        raise SystemExit(f"No cleaned documents in {CLEAN_DIR}; run clean.py first.")
-    if len(countries) < len(COUNTRIES):
-        print(f"WARNING: only {len(countries)} of {len(COUNTRIES)} reports. Terms are "
+    reports, texts = load_corpus()
+    if not reports:
+        raise SystemExit("No cleaned documents; run clean.py first.")
+    expected = len(COUNTRIES) * len(YEARS)
+    if len(reports) < expected:
+        print(f"WARNING: only {len(reports)} of {expected} reports. Terms are "
               "distinctive relative to these reports only; rankings will change with "
               "the full corpus.\n")
-    charts_dir = OUTPUT_DIR / "charts"
+    charts_dir = RESULTS_DIR / "charts"
     charts_dir.mkdir(parents=True, exist_ok=True)
 
     counter = CountVectorizer(analyzer=ngrams_in_chunks)
@@ -259,17 +274,17 @@ def main():
     )
     X = vectorizer.fit_transform(texts)
     tfidf_terms = vectorizer.get_feature_names_out()
-    max_doc_count = int(MAX_DF * len(countries))
+    max_doc_count = int(MAX_DF * len(reports))
 
-    print(f"Documents: {len(countries)}; vocabulary: {len(count_terms)} terms; "
+    print(f"Documents: {len(reports)}; vocabulary: {len(count_terms)} terms; "
           f"after max_df (df <= {max_doc_count}): {len(tfidf_terms)} terms")
 
-    top, by_length = build_rankings(countries, X, tfidf_terms, C, count_terms, df_by_term)
-    top.to_csv(OUTPUT_DIR / "top_terms.csv", index=False)
-    by_length.to_csv(OUTPUT_DIR / "top_terms_by_ngram.csv", index=False)
+    top, by_length = build_rankings(reports, X, tfidf_terms, C, count_terms, df_by_term)
+    top.to_csv(RESULTS_DIR / "top_terms.csv", index=False)
+    by_length.to_csv(RESULTS_DIR / "top_terms_by_ngram.csv", index=False)
 
-    sanity = sanity_table(countries, texts, C, count_terms, max_doc_count)
-    sanity.to_csv(OUTPUT_DIR / "sanity_doc_freq.csv", index=False)
+    sanity = sanity_table(texts, C, count_terms, max_doc_count)
+    sanity.to_csv(RESULTS_DIR / "sanity_doc_freq.csv", index=False)
     print("\nSanity check: terms with the highest document frequency")
     print(sanity.head(25).to_string(index=False))
     kept = sanity[~sanity["dropped_by_max_df"]]
@@ -279,15 +294,15 @@ def main():
           f"{kept['mean_tfidf_without_cut'].mean():.5f}")
     print(f"Terms max_df drops: {len(dropped)} of {len(sanity)}")
 
-    for country in [c for c in (SHOW_COUNTRIES or countries) if c in countries]:
-        print(f"\n== {country} ==")
-        print(top[top["country"] == country][["rank", "term", "score", "count", "doc_freq"]]
+    for report in [r for r in (SHOW_REPORTS or reports) if r in reports]:
+        print(f"\n== {report} ==")
+        print(top[top["report"] == report][["rank", "term", "score", "count", "doc_freq"]]
               .to_string(index=False))
-        chart_top_terms(top, country, charts_dir / f"top_terms_{country}.png")
-    chart_doc_freq(sanity, max_doc_count, len(countries), charts_dir / "doc_freq_vs_score.png")
+        chart_top_terms(top, report, charts_dir / f"top_terms_{report}.png")
+    chart_doc_freq(sanity, max_doc_count, len(reports), charts_dir / "doc_freq_vs_score.png")
 
-    write_summary(OUTPUT_DIR / "summary.md", countries, top, sanity, max_doc_count)
-    print(f"\nWrote results to {OUTPUT_DIR}")
+    write_summary(RESULTS_DIR / "summary.md", reports, top, sanity, max_doc_count)
+    print(f"\nWrote results to {RESULTS_DIR}")
 
 
 if __name__ == "__main__":

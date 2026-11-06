@@ -3,12 +3,15 @@
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-YEAR = "2026"  # change to "2025" to process the other corpus
+YEAR = "2026"             # the year extract.py and clean.py process
+YEARS = ["2025", "2026"]  # the years tfidf.py and wordclouds.py analyse together
 
 RAW_DIR = ROOT / "data" / "raw" / YEAR      # PDFs, one per country: <slug>.pdf
 TEXT_DIR = ROOT / "data" / "text" / YEAR    # raw extracted text
 CLEAN_DIR = ROOT / "data" / "clean" / YEAR  # cleaned text
-OUTPUT_DIR = ROOT / "output" / YEAR         # CSV, Markdown, charts
+OUTPUT_DIR = ROOT / "output" / YEAR         # removed_names.csv from clean.py
+# TF-IDF results, CSV, Markdown, charts
+RESULTS_DIR = ROOT / "output" / ("combined" if len(YEARS) > 1 else YEARS[0])
 
 # slug (file name) -> forms of the country name that get removed from that report
 # and from all others. Matching is case-sensitive on the original text, so
