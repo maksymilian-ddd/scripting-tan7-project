@@ -1,7 +1,6 @@
 # Plan and cleaning decisions
 
 Status: **full pipeline run on all 54 reports (2025 + 2026)**. Results in `output/combined/`.
-The earlier 2026-only run (`max_df` 0.5) stays in `output/2026/`.
 
 ## Goal
 
@@ -92,7 +91,7 @@ All four follow the same layout, with the same fonts (Calibri) and positions:
 4. **Country names** are replaced by a marker, case-sensitively, including possessive
    `'s` and an attached hyphen compound (`German-speaking`, `Austria-wide`, otherwise
    `-speaking` was left behind), longest form first (*Czech Republic* before *Czech*). Forms are in `config.py`.
-   All removals → `output/<year>/removed_names.csv` (document, form, count,
+   All removals → `data/clean/<year>/_removed_names.csv` (document, form, count,
    own_country). The 4 reports had 190–245 removals each, almost all of them the
    report's own country.
    - Capitals, regions and agency names are **not** removed (open question for the
@@ -106,7 +105,7 @@ All four follow the same layout, with the same fonts (Calibri) and positions:
    are separate terms although each is a National Competence Centre. `IT` (Italy) is left out on
    purpose: in these reports it means information technology. `HR` (Croatia) could in
    theory mean human resources; in the 12 reports it was only removed from the Croatian
-   report. Removals are counted in `removed_names.csv`.
+   report. Removals are counted in `_removed_names.csv`.
    Capitals and regions are **kept** (user decision): Belgium's regions and Germany's
    `länder` are part of their reports' content.
 5. **NLTK tokenizing**: `sent_tokenize` → `word_tokenize`. Hyphenated compounds
@@ -192,7 +191,6 @@ the full vocabulary.
 | `top_terms_by_ngram.csv` | top 10 per country for each n-gram length (1, 2, 3) |
 | `sanity_doc_freq.csv` | every term: n, doc_freq, total count, idf, score without cut, dropped |
 | `summary.md` | parameters, top terms per country, sanity table |
-| `removed_names.csv` | country-name removals (from `clean.py`) |
 | `charts/top_terms_<country>_<year>.png` | bar chart for the reports in `SHOW_REPORTS` |
 | `charts/doc_freq_vs_score.png` | sanity chart |
 | `wordclouds.html` | word clouds (from `wordclouds.py`): click a word to see every report that uses it |

@@ -56,7 +56,7 @@ tfidf.py          TF-IDF, top terms, sanity check, charts
 wordclouds.py     interactive word clouds (HTML, from wordclouds_template.html)
 docs/             plan and progress log
 data/             raw PDFs, extracted and cleaned text (not versioned)
-output/           results: combined/ (both years), 2026/ (earlier 2026-only run)
+output/combined/  results for both years together
 ```
 
 ## Libraries

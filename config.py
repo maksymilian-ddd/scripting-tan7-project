@@ -9,7 +9,6 @@ YEARS = ["2025", "2026"]  # the years tfidf.py and wordclouds.py analyse togethe
 RAW_DIR = ROOT / "data" / "raw" / YEAR      # PDFs, one per country: <slug>.pdf
 TEXT_DIR = ROOT / "data" / "text" / YEAR    # raw extracted text
 CLEAN_DIR = ROOT / "data" / "clean" / YEAR  # cleaned text
-OUTPUT_DIR = ROOT / "output" / YEAR         # removed_names.csv from clean.py
 # TF-IDF results, CSV, Markdown, charts
 RESULTS_DIR = ROOT / "output" / ("combined" if len(YEARS) > 1 else YEARS[0])
 

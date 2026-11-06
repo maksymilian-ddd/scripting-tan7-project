@@ -8,7 +8,7 @@ Output: data/clean/<year>/<country>.body.txt   body text after structural cleani
                                                punctuation, number or country name
                                                in between, so n-grams never cross them
         data/clean/<year>/_word_counts.csv     NLTK FreqDist: top words per document
-        output/<year>/removed_names.csv        country-name removals per document
+        data/clean/<year>/_removed_names.csv   country-name removals per document
 
 See docs/PLAN.md for the reasoning behind each rule.
 
@@ -24,7 +24,7 @@ from nltk.corpus import stopwords, wordnet
 from nltk.probability import FreqDist
 from nltk.stem import WordNetLemmatizer
 
-from config import CLEAN_DIR, COUNTRIES, COUNTRY_CODES, OTHER_COUNTRIES, OUTPUT_DIR, TEXT_DIR
+from config import CLEAN_DIR, COUNTRIES, COUNTRY_CODES, OTHER_COUNTRIES, TEXT_DIR
 
 # --- Structural cleaning (font-based, see docs/PLAN.md) ---------------------------
 BODY_SIZE = 11      # body text is 11 pt; footnotes 9-10, KPI table 8, superscripts ~7
@@ -212,7 +212,6 @@ def to_chunks(paragraphs, removed):
 
 def main():
     CLEAN_DIR.mkdir(parents=True, exist_ok=True)
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     removed_rows, count_rows, stats = [], [], []
     for country in COUNTRIES:
@@ -251,7 +250,7 @@ def main():
         })
 
     print(pd.DataFrame(stats).to_string(index=False))
-    pd.DataFrame(removed_rows).to_csv(OUTPUT_DIR / "removed_names.csv", index=False)
+    pd.DataFrame(removed_rows).to_csv(CLEAN_DIR / "_removed_names.csv", index=False)
     pd.DataFrame(count_rows).to_csv(CLEAN_DIR / "_word_counts.csv", index=False)
     
 

@@ -38,11 +38,8 @@
   .word:hover { background: var(--accent-soft); }
   .word.hit { background: var(--accent); color: var(--accent-ink); }
   .word.kept { text-decoration: underline dotted 1px; text-underline-offset: 3px; }
-  .word::after { content: " " attr(data-label); font-size: 11px; color: var(--text-muted);
-                 font-variant-numeric: tabular-nums; display: none; }
-  .show-labels .word::after, .word.hit::after { display: inline; }
-  .word.hit::after { color: var(--accent-ink); }
-  label.toggle { display: inline-flex; gap: 6px; align-items: center; margin-top: 8px; color: var(--text-secondary); cursor: pointer; }
+  .word.hit::after { content: " " attr(data-label); font-size: 11px; color: var(--accent-ink);
+                     font-variant-numeric: tabular-nums; }
   .card.dim { opacity: .35; }
   .card.has-hit { border-color: var(--accent); }
   .row { display: grid; grid-template-columns: 88px 1fr 1fr; gap: 10px; align-items: center; padding: 3px 0; }
@@ -51,7 +48,6 @@
   .bar { height: 6px; background: var(--accent); border-radius: 0 3px 3px 0; min-width: 2px; }
   .num { color: var(--text-secondary); font-size: 12px; font-variant-numeric: tabular-nums; }
   .row.head { color: var(--text-muted); font-size: 12px; }
-  [hidden] { display: none; }
   @media (max-width: 800px) { .layout, .pair { grid-template-columns: 1fr; } #panel { position: static; } }
 </style>
 </head>
@@ -62,9 +58,6 @@
     in the common-terms cloud. All reports share one IDF, so scores can be compared across
     countries and years. A dotted underline marks a term in that country's top 20 in both years.
     Click a word to see every country that uses it. Click it again or press Esc to clear.</p>
-  <label class="toggle"><input type="checkbox" id="show-labels"> Show scores (counts in the common-terms cloud)</label>
-  <label class="toggle" style="margin-left:16px">Year
-    <select id="year"></select></label>
 </header>
 <main class="layout">
   <div>
@@ -133,8 +126,6 @@ for (const country of DATA.countries) {
     const kept = term => others.length > 0
       && others.every(y => topTerms(country, y).some(([t]) => t === term));
     const block = document.createElement("div");
-    block.className = "year-block";
-    block.dataset.year = year;
     // The bar chart from tfidf.py sits next to the cloud; it is hidden if the PNG is missing.
     block.innerHTML = `<h3>${year}</h3>
       <div class="pair">
@@ -197,14 +188,6 @@ function select(term) {
 }
 
 document.addEventListener("keydown", e => { if (e.key === "Escape") select(null); });
-document.getElementById("show-labels").onchange = e =>
-  document.body.classList.toggle("show-labels", e.target.checked);
-
-// Year filter: hide the clouds of the other years.
-const yearSelect = document.getElementById("year");
-yearSelect.innerHTML = ["All", ...DATA.years].map(y => `<option>${y}</option>`).join("");
-yearSelect.onchange = () => document.querySelectorAll(".year-block").forEach(block =>
-  block.hidden = yearSelect.value !== "All" && block.dataset.year !== yearSelect.value);
 </script>
 </body>
 </html>
