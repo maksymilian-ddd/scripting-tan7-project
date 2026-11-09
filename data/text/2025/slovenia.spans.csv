@@ -1,0 +1,1781 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 25/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,TimesNewRomanPSMT,12.0,70.8,49.3,73.8,62.6, 
+2,1,0,Calibri,11.0,70.8,70.8,73.3,81.9, 
+2,2,0,Calibri-Bold,40.0,124.6,291.0,491.5,330.9,DIGITAL DECADE 2025
+2,2,0,Calibri,40.0,491.7,291.0,500.8,330.9, 
+2,2,1,Calibri,40.0,124.6,339.8,450.7,379.8,COUNTRY REPORTS 
+2,3,0,Calibri-Bold,28.0,203.6,416.9,307.8,444.8,Slovenia 
+2,4,0,TimesNewRomanPSMT,12.0,28.3,793.2,31.3,806.5, 
+3,0,0,Calibri,20.0,86.8,27.6,159.0,47.6,Slovenia 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri-Light,11.0,83.1,174.5,401.0,185.5,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.5,523.0,185.5, ......................................... 5
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri-Light,11.0,94.0,194.1,211.8,205.1,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.1,523.0,205.1, .............................................................................................................. 5
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri-Light,11.0,94.0,213.5,164.9,224.5,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.5,523.0,224.5, ............................................................................................................................... 7
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri-Light,11.0,94.0,252.5,194.6,263.6,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.5,523.0,263.6, .................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri-Light,11.0,94.0,291.5,268.6,302.6,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.5,523.0,302.6, ......................................................................................... 9
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri-Light,11.0,94.0,311.0,243.3,322.0,Take-up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,243.3,311.0,523.0,322.0, ................................................................................................ 10
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri-Light,11.0,94.0,330.5,239.8,341.6,"Unicorns, scale-ups and start-ups"
+3,14,0,Calibri,11.0,239.7,330.5,523.0,341.6, .................................................................................................. 12
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri-Light,11.0,83.1,350.0,264.1,361.0,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.0,523.0,361.0, ......................................................................................... 13
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 15
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri-Light,11.0,83.1,389.0,437.3,400.0,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.0,523.0,400.0, .......................... 15
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Light,11.0,94.0,408.4,195.2,419.5,Equipping people with 
+3,18,0,Calibri,11.0,195.3,408.4,523.0,419.5,digital skills ............................................................................................... 15
+3,18,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,19,0,Calibri-Light,11.0,94.0,428.0,462.5,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,19,0,Calibri,11.0,462.7,428.0,523.0,439.0, ................. 19
+3,19,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,20,0,Calibri-Light,11.0,83.1,447.4,457.0,458.5,Building a safe and human centric digital environment and preserving our democracy
+3,20,0,Calibri,11.0,457.2,447.4,523.0,458.5, ................... 21
+3,20,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,21,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 22
+3,21,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,22,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 24
+3,22,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,23,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 26
+3,23,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,24,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 27
+3,24,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,25,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,26,0,Calibri,11.0,72.0,567.5,74.5,578.5, 
+3,26,1,Calibri,11.0,216.1,567.5,218.5,578.5, 
+3,27,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+3,27,1,Calibri,11.0,156.5,795.4,159.0,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.6,137.3,Slovenia can rely on a well-developed digital infrastructure but lags behind in digital skills. The 
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.7,151.8,"country is very active in several cutting-edge technology projects, particularly in quantum, "
+4,4,2,Calibri-Bold,11.0,72.0,155.2,525.4,166.2,"semiconductors, cloud and Artificial Intelligence (AI). Slovenia shows a high level of ambition in its "
+4,4,3,Calibri-Bold,11.0,72.0,169.7,525.7,180.7,"contribution to the Digital Decade having set 13 national targets, 100% of which are aligned with "
+4,4,4,Calibri-Bold,11.0,72.0,184.2,167.5,195.3,the EU 2030 targets.
+4,4,4,Calibri-Bold,7.0,167.5,183.3,171.1,190.3,1
+4,4,4,Calibri-Bold,11.0,171.1,184.2,525.5,195.3, The country is following its trajectories moderately well with 63% of them 
+4,4,5,Calibri-Bold,11.0,72.0,198.7,525.9,209.8,being on track (considering 2024 trajectories defined for 8 KPIs out of 8 analysed). Slovenia 
+4,4,6,Calibri-Bold,11.0,72.0,213.1,525.9,224.2,addressed 82% of the 11 recommendations issued by the Commission in 2024 by making some 
+4,4,7,Calibri-Bold,11.0,72.0,227.7,222.3,238.7,changes through new measures. 
+4,5,0,Calibri,11.0,72.0,248.2,109.9,259.2,"In 2024,"
+4,5,0,Calibri-Bold,11.0,109.9,248.2,112.4,259.2, 
+4,5,0,Calibri,11.0,114.1,248.2,525.7,259.2,"5G coverage increased considerably, including in rural areas. However, the country lags "
+4,5,1,Calibri,11.0,72.0,262.7,525.9,273.8,"behind in basic digital skills and ICT specialists, which may also be one of the factors limiting the uptake "
+4,5,2,Calibri,11.0,72.0,277.1,525.8,288.2,"of advanced technologies in SMEs. An exception is AI adoption by enterprises, which has recently "
+4,5,3,Calibri,11.0,72.0,291.6,525.7,302.7,"shown considerable progress. Often in collaboration with other EU Member States, the country takes "
+4,5,4,Calibri,11.0,72.0,306.2,525.6,317.2,"an active role in several pioneering technology projects, including those focused on quantum "
+4,5,5,Calibri,11.0,72.0,320.7,315.3,331.7,"computing, semiconductors, cloud computing and AI.  "
+4,6,0,Calibri-Bold,7.0,296.8,347.9,323.0,354.8,Slovenia 
+4,6,1,Calibri-Bold,7.0,417.3,347.9,427.0,354.8,EU 
+4,6,2,Calibri-Bold,7.0,471.1,343.5,514.5,350.5,Digital Decade 
+4,6,3,Calibri-Bold,7.0,471.0,352.1,514.7,359.0,target by 2030 
+4,7,0,Calibri,14.0,77.7,362.4,184.0,376.4,Digital Decade KPI 
+4,7,0,Calibri,9.0,184.0,361.1,194.1,370.1,(1)
+4,7,0,Calibri,14.0,194.0,362.4,197.1,376.4, 
+4,8,0,Calibri-Bold,7.0,349.8,368.1,376.1,375.1,National 
+4,8,1,Calibri-Bold,7.0,347.8,376.7,377.9,383.6,trajectory 
+4,9,0,Calibri-Bold,7.0,313.9,372.3,336.1,379.3,Annual 
+4,9,1,Calibri-Bold,7.0,311.7,381.0,338.2,387.9,progress 
+4,10,0,Calibri-Bold,7.0,350.4,385.2,375.6,392.1,2024 (4) 
+4,10,1,Calibri-Bold,7.0,387.7,376.7,418.1,383.6,DESI 2025 
+4,10,2,Calibri-Bold,7.0,431.3,372.3,453.5,379.3,Annual 
+4,10,3,Calibri-Bold,7.0,429.1,381.0,455.6,387.9,progress 
+4,10,4,Calibri-Bold,7.0,475.2,376.7,481.9,383.6,SI 
+4,10,5,Calibri-Bold,7.0,504.8,376.7,514.5,383.6,EU 
+4,11,0,Calibri-Bold,7.0,246.4,363.8,260.9,370.8,DESI 
+4,11,1,Calibri-Bold,7.0,245.8,372.3,261.4,379.3,2024 
+4,11,2,Calibri-Bold,7.0,245.3,381.0,261.9,387.9,(year 
+4,11,3,Calibri-Bold,7.0,244.7,389.5,262.6,396.5,2023) 
+4,12,0,Calibri-Bold,7.0,281.2,363.8,295.7,370.8,DESI 
+4,12,1,Calibri-Bold,7.0,280.6,372.3,296.2,379.3,2025 
+4,12,2,Calibri-Bold,7.0,280.1,381.0,296.7,387.9,(year 
+4,12,3,Calibri-Bold,7.0,279.5,389.5,297.4,396.5,2024) 
+4,13,0,Calibri-Bold,7.0,77.7,401.8,228.5,408.7,Fixed Very High Capacity Network (VHCN) coverage 
+4,13,1,Calibri,7.0,244.1,401.8,263.1,408.7,78.5% 
+4,13,2,Calibri,7.0,278.9,401.8,297.9,408.7,79.6% 
+4,13,3,Calibri,7.0,317.2,401.8,332.7,408.7,1.5% 
+4,13,4,Calibri,7.0,353.5,401.8,372.4,408.7,80.0% 
+4,13,5,Calibri,7.0,393.4,401.8,412.4,408.7,82.5% 
+4,13,6,Calibri,7.0,434.6,401.8,450.1,408.7,4.9% 
+4,13,7,Calibri,7.0,467.3,401.8,489.8,408.7,100.0% 
+4,13,8,Calibri,7.0,501.1,401.8,518.3,408.7,100% 
+4,14,0,Calibri-Bold,7.0,77.7,417.2,188.6,424.2,Fibre to the Premises (FTTP) coverage 
+4,14,1,Calibri,7.0,244.1,417.2,263.1,424.2,78.5% 
+4,14,2,Calibri,7.0,278.9,417.2,297.9,424.2,79.6% 
+4,14,3,Calibri,7.0,317.2,417.2,332.7,424.2,1.5% 
+4,14,4,Calibri,7.0,353.5,417.2,372.4,424.2,82.0% 
+4,14,5,Calibri,7.0,393.4,417.2,412.4,424.2,69.2% 
+4,14,6,Calibri,7.0,434.6,417.2,450.1,424.2,8.4% 
+4,14,7,Calibri,7.0,467.3,417.2,489.8,424.2,100.0% 
+4,14,8,Calibri,7.0,507.8,417.2,511.6,424.2,- 
+4,15,0,Calibri-Bold,7.0,77.7,432.7,137.7,439.7,Overall 5G coverage 
+4,15,1,Calibri,7.0,244.1,432.7,263.1,439.7,82.1% 
+4,15,2,Calibri,7.0,278.9,432.7,297.9,439.7,96.7% 
+4,15,3,Calibri,7.0,315.4,432.7,334.4,439.7,17.8% 
+4,15,4,Calibri,7.0,353.5,432.7,372.4,439.7,74.0% 
+4,15,5,Calibri,7.0,393.4,432.7,412.4,439.7,94.3% 
+4,15,6,Calibri,7.0,434.6,432.7,450.1,439.7,5.9% 
+4,15,7,Calibri,7.0,467.3,432.7,489.8,439.7,100.0% 
+4,15,8,Calibri,7.0,501.1,432.7,518.3,439.7,100% 
+4,16,0,Calibri-Bold,7.0,77.7,448.3,154.2,455.3,Edge Nodes (estimate) (2) 
+4,16,1,Calibri,7.0,251.1,448.3,256.3,455.3,8 
+4,16,2,Calibri,7.0,284.1,448.3,292.8,455.3,16 
+4,16,3,Calibri,7.0,313.6,448.3,336.2,455.3,100.0% 
+4,16,4,Calibri,7.0,361.0,448.3,364.8,455.3,- 
+4,16,5,Calibri,7.0,395.0,448.3,410.8,455.3,2257 
+4,16,6,Calibri,7.0,432.8,448.3,451.8,455.3,90.5% 
+4,16,7,Calibri,7.0,476.6,448.3,480.4,455.3,- 
+4,16,8,Calibri,7.0,500.0,448.3,519.4,455.3,10000 
+4,17,0,Calibri-Bold,7.0,77.7,460.6,223.2,467.5,SMEs with at least a basic level of digital intensity 
+4,17,1,Calibri-Bold,7.0,77.7,469.1,87.2,476.0,(3) 
+4,17,2,Calibri,7.0,251.8,464.8,255.5,471.7,- 
+4,17,3,Calibri,7.0,278.9,464.8,297.9,471.7,67.6% 
+4,17,4,Calibri,7.0,317.2,464.8,332.7,471.7,0.4% 
+4,17,5,Calibri,7.0,361.0,464.8,364.8,471.7,- 
+4,17,6,Calibri,7.0,393.4,464.8,412.4,471.7,72.9% 
+4,17,7,Calibri,7.0,434.6,464.8,450.1,471.7,2.8% 
+4,17,8,Calibri,7.0,469.1,464.8,488.0,471.7,90.0% 
+4,17,9,Calibri,7.0,502.8,464.8,516.5,471.7,90% 
+4,18,0,Calibri-Bold,7.0,77.7,481.3,95.9,488.3,Cloud 
+4,18,1,Calibri,7.0,244.1,481.3,263.1,488.3,36.0% 
+4,18,2,Calibri,7.0,286.6,481.3,290.4,488.3,- 
+4,18,3,Calibri,7.0,323.1,481.3,326.8,488.3,- 
+4,18,4,Calibri,7.0,361.0,481.3,364.8,488.3,- 
+4,18,5,Calibri,7.0,401.0,481.3,404.8,488.3,- 
+4,18,6,Calibri,7.0,440.5,481.3,444.2,488.3,- 
+4,18,7,Calibri,7.0,469.1,481.3,488.0,488.3,75.0% 
+4,18,8,Calibri,7.0,502.8,481.3,516.5,488.3,75% 
+4,19,0,Calibri-Bold,7.0,77.7,496.8,139.2,503.8,Artificial Intelligence 
+4,19,1,Calibri,7.0,244.1,496.8,263.1,503.8,11.4% 
+4,19,2,Calibri,7.0,278.9,496.8,297.9,503.8,20.9% 
+4,19,3,Calibri,7.0,315.4,496.8,334.4,503.8,83.7% 
+4,19,4,Calibri,7.0,353.5,496.8,372.4,503.8,33.0% 
+4,19,5,Calibri,7.0,393.4,496.8,412.4,503.8,13.5% 
+4,19,6,Calibri,7.0,432.8,496.8,451.8,503.8,67.2% 
+4,19,7,Calibri,7.0,469.1,496.8,488.0,503.8,75.0% 
+4,19,8,Calibri,7.0,502.8,496.8,516.5,503.8,75% 
+4,20,0,Calibri-Bold,7.0,77.7,512.4,120.2,519.4,Data analytics 
+4,20,1,Calibri,7.0,244.1,512.4,263.1,519.4,19.1% 
+4,20,2,Calibri,7.0,286.6,512.4,290.4,519.4,- 
+4,20,3,Calibri,7.0,323.1,512.4,326.8,519.4,- 
+4,20,4,Calibri,7.0,361.0,512.4,364.8,519.4,- 
+4,20,5,Calibri,7.0,401.0,512.4,404.8,519.4,- 
+4,20,6,Calibri,7.0,440.5,512.4,444.2,519.4,- 
+4,20,7,Calibri,7.0,469.1,512.4,488.0,519.4,75.0% 
+4,20,8,Calibri,7.0,502.8,512.4,516.5,519.4,75% 
+4,21,0,Calibri-Bold,7.0,77.7,527.9,161.8,534.8,AI or Cloud or Data analytics 
+4,21,1,Calibri,7.0,244.1,527.9,263.1,534.8,44.7% 
+4,21,2,Calibri,7.0,286.6,527.9,290.4,534.8,- 
+4,21,3,Calibri,7.0,323.1,527.9,326.8,534.8,- 
+4,21,4,Calibri,7.0,361.0,527.9,364.8,534.8,- 
+4,21,5,Calibri,7.0,401.0,527.9,404.8,534.8,- 
+4,21,6,Calibri,7.0,440.5,527.9,444.2,534.8,- 
+4,21,7,Calibri,7.0,476.6,527.9,480.4,534.8,- 
+4,21,8,Calibri,7.0,502.8,527.9,516.5,534.8,75% 
+4,22,0,Calibri-Bold,7.0,77.7,543.4,105.0,550.3,Unicorns 
+4,22,1,Calibri,7.0,251.1,543.4,256.3,550.3,0 
+4,22,2,Calibri,7.0,285.9,543.4,291.1,550.3,0 
+4,22,3,Calibri,7.0,324.2,541.1,325.8,548.0, 
+4,22,4,Calibri,7.0,361.0,543.4,364.8,550.3,- 
+4,22,5,Calibri,7.0,396.8,543.4,409.1,550.3,286 
+4,22,6,Calibri,7.0,434.6,543.4,450.1,550.3,4.4% 
+4,22,7,Calibri,7.0,475.9,543.4,481.1,550.3,7 
+4,22,8,Calibri,7.0,503.5,543.4,515.8,550.3,500 
+4,23,0,Calibri-Bold,7.0,77.7,558.8,153.0,565.8,At least basic digital skills 
+4,23,1,Calibri,7.0,244.1,558.8,263.1,565.8,46.7% 
+4,23,2,Calibri,7.0,286.6,558.8,290.4,565.8,- 
+4,23,3,Calibri,7.0,323.1,558.8,326.8,565.8,- 
+4,23,4,Calibri,7.0,361.0,558.8,364.8,565.8,- 
+4,23,5,Calibri,7.0,401.0,558.8,404.8,565.8,- 
+4,23,6,Calibri,7.0,440.5,558.8,444.2,565.8,- 
+4,23,7,Calibri,7.0,469.1,558.8,488.0,565.8,80.0% 
+4,23,8,Calibri,7.0,502.8,558.8,516.5,565.8,80% 
+4,24,0,Calibri-Bold,7.0,77.7,574.4,119.4,581.3,ICT specialists 
+4,24,1,Calibri,7.0,245.9,574.4,261.4,581.3,3.8% 
+4,24,2,Calibri,7.0,280.7,574.4,296.2,581.3,4.3% 
+4,24,3,Calibri,7.0,315.4,574.4,334.4,581.3,13.2% 
+4,24,4,Calibri,7.0,355.1,574.4,370.6,581.3,6.0% 
+4,24,5,Calibri,7.0,395.1,574.4,410.6,581.3,5.0% 
+4,24,6,Calibri,7.0,434.6,574.4,450.1,581.3,4.2% 
+4,24,7,Calibri,7.0,469.1,574.4,488.0,581.3,10.0% 
+4,24,8,Calibri,7.0,501.1,574.4,518.3,581.3,~10% 
+4,25,0,Calibri-Bold,7.0,77.7,589.8,148.1,596.8,eID scheme notification 
+4,25,1,Calibri,7.0,252.9,587.6,254.5,594.5, 
+4,25,2,Calibri,7.0,282.9,589.8,294.1,596.8,Yes 
+4,25,3,Calibri,7.0,324.2,587.6,325.8,594.5, 
+4,25,4,Calibri,7.0,362.1,587.6,363.7,594.5, 
+4,25,5,Calibri,7.0,402.1,587.6,403.7,594.5, 
+4,25,6,Calibri,7.0,441.6,587.6,443.2,594.5, 
+4,25,7,Calibri,7.0,477.7,587.6,479.3,594.5, 
+4,25,8,Calibri,7.0,508.9,587.6,510.5,594.5, 
+4,26,0,Calibri-Bold,7.0,77.7,609.2,175.3,616.1,Digital public services for citizens 
+4,26,1,Calibri,7.0,246.6,609.2,260.6,616.1,77.0 
+4,26,2,Calibri,7.0,281.5,609.2,295.4,616.1,78.6 
+4,26,3,Calibri,7.0,317.2,609.2,332.7,616.1,2.0% 
+4,26,4,Calibri,7.0,356.0,609.2,369.9,616.1,76.0 
+4,26,5,Calibri,7.0,396.0,609.2,409.9,616.1,82.3 
+4,26,6,Calibri,7.0,434.6,609.2,450.1,616.1,3.6% 
+4,26,7,Calibri,7.0,469.8,609.2,487.3,616.1,100.0 
+4,26,8,Calibri,7.0,503.5,609.2,515.8,616.1,100 
+4,27,0,Calibri-Bold,7.0,77.7,628.4,184.7,635.3,Digital public services for businesses 
+4,27,1,Calibri,7.0,246.6,628.4,260.6,635.3,84.0 
+4,27,2,Calibri,7.0,281.5,628.4,295.4,635.3,85.0 
+4,27,3,Calibri,7.0,317.2,628.4,332.7,635.3,1.2% 
+4,27,4,Calibri,7.0,356.0,628.4,369.9,635.3,90.0 
+4,27,5,Calibri,7.0,396.0,628.4,409.9,635.3,86.2 
+4,27,6,Calibri,7.0,434.6,628.4,450.1,635.3,0.9% 
+4,27,7,Calibri,7.0,469.8,628.4,487.3,635.3,100.0 
+4,27,8,Calibri,7.0,503.5,628.4,515.8,635.3,100 
+4,28,0,Calibri-Bold,7.0,77.7,644.3,156.0,651.3,Access to e-Health records 
+4,28,1,Calibri,7.0,246.6,644.3,260.6,651.3,87.6 
+4,28,2,Calibri,7.0,281.5,644.3,295.4,651.3,87.5 
+4,28,3,Calibri,7.0,316.1,644.3,333.7,651.3,-0.1% 
+4,28,4,Calibri,7.0,356.0,644.3,369.9,651.3,83.0 
+4,28,5,Calibri,7.0,396.0,644.3,409.9,651.3,82.7 
+4,28,6,Calibri,7.0,434.6,644.3,450.1,651.3,4.5% 
+4,28,7,Calibri,7.0,469.8,644.3,487.3,651.3,100.0 
+4,28,8,Calibri,7.0,503.5,644.3,515.8,651.3,100 
+4,29,0,Calibri,7.0,77.7,656.9,325.4,663.9,(1) See the methodological note for the description of the indicators and other metrics 
+4,29,1,Calibri,7.0,77.7,665.4,374.6,672.4,(2) Slovenia aims to contribute to this target through the deployment of edge nodes by 200 companies.  
+4,29,2,Calibri,7.0,77.7,674.0,502.3,680.9,"(3) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,29,3,Calibri,7.0,77.7,682.6,420.4,689.6,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,29,4,Calibri,7.0,77.7,691.1,425.9,698.1,(4) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,30,0,Calibri,11.0,216.1,735.6,218.5,746.6, 
+4,30,1,Calibri,6.5,72.0,748.0,75.3,754.5,1
+4,30,1,Calibri,10.0,75.3,748.9,77.5,758.8, 
+4,30,1,Calibri,9.0,77.4,749.6,525.3,758.6,"While the KPI on edge nodes measures the number of edge nodes deployed, Slovenia intends to contribute to the target of "
+4,30,2,Calibri,9.0,72.0,760.9,300.6,769.9,10 000 edge nodes with 200 companies deploying edge nodes.
+4,30,2,Calibri,10.0,300.9,760.2,303.2,770.1, 
+4,31,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,31,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+5,3,0,Calibri-Bold,11.0,72.0,84.0,404.5,95.1,"According to the special Eurobarometer on ‘the Digital Decade’ 2025, "
+5,3,0,Calibri,11.0,406.4,84.0,525.9,95.1,78% of Slovenian citizens 
+5,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,consider that the digitalisation of daily public and private services is making their lives easier. 
+5,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"Concerning the action of the public authorities, 90% consider it important to counter and mitigate the "
+5,3,3,Calibri,11.0,72.0,127.5,525.6,138.5,"issue of fake news and disinformation online, and regarding competitiveness, 82% consider it "
+5,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,important to ensure that European companies can grow and become “European Champions” able to 
+5,3,5,Calibri,11.0,72.0,156.4,154.0,167.4,compete globally. 
+5,4,0,Calibri-Light,15.0,72.0,179.8,468.7,194.8,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Light,15.0,72.0,199.6,138.3,214.6,leadership 
+5,5,0,Calibri-Bold,11.0,72.0,226.5,525.4,237.5,The fibre to the premises coverage is relatively high in Slovenia and very high capacity network 
+5,5,1,Calibri-Bold,11.0,72.0,241.0,383.7,252.0,"coverage is gradually increasing, although some rural gaps remain. "
+5,5,1,Calibri,11.0,384.8,241.0,525.8,252.0,The country is taking action to 
+5,5,2,Calibri,11.0,72.0,255.4,523.5,266.5,"reduce these gaps. 5G coverage increased significantly, including in rural areas, and fibre-to-the-"
+5,5,3,Calibri,11.0,72.0,269.9,525.6,281.0,premises coverage remains strong. The country is actively advancing strategic technologies such as 
+5,5,4,Calibri,11.0,72.0,284.4,525.6,295.5,"quantum computing, semiconductors, cloud computing and AI. To strengthen its ecosystem and "
+5,5,5,Calibri,11.0,72.0,299.0,525.8,310.0,"capacities, it is establishing Competence Centres for semiconductors and AI, and will host an AI Factory "
+5,5,6,Calibri,11.0,72.0,313.4,525.6,324.4,"featuring a supercomputer. With the exception of the businesses’ uptake of AI, where Slovenia has "
+5,5,7,Calibri,11.0,72.0,327.9,525.9,338.9,"made significant progress recently, the uptake of more accessible digital technologies that could "
+5,5,8,Calibri,11.0,72.0,342.4,525.6,353.4,enhance competitiveness on a larger scale for SMEs is relatively low. This limitation may partly stem 
+5,5,9,Calibri,11.0,72.0,356.9,525.8,368.0,"from a shortage of sufficiently skilled employees. For the start-up sector, initial steps are being taken "
+5,5,10,Calibri,11.0,72.0,371.3,525.8,382.4,"to enhance framework conditions, such as through legislative changes. However, several initiatives "
+5,5,11,Calibri,11.0,72.0,385.8,525.7,396.9,"are still under development, and venture capital expenditure and funding via capital markets remain "
+5,5,12,Calibri,11.0,72.0,400.4,525.9,411.4,"relatively low. Slovenia is developing cyber awareness and capabilities across multiple areas, including "
+5,5,13,Calibri,11.0,72.0,414.9,525.7,425.9,"securing infrastructure and providing trainings in the public sector, safeguarding healthcare systems "
+5,5,14,Calibri,11.0,72.0,429.3,391.0,440.4,and launching pilot training programmes within the education system.  
+5,6,0,Calibri-Light,15.0,72.0,452.7,380.6,467.7,Protecting and empowering EU people and society 
+5,7,0,Calibri-Bold,11.0,72.0,479.6,243.5,490.6,Slovenia lags behind in digital skills. 
+5,7,0,Calibri,11.0,244.9,479.6,525.7,490.6,Its population has a relatively low level of basic digital skills. 
+5,7,1,Calibri,11.0,72.0,494.1,525.6,505.1,"Despite ongoing efforts to improve basic digital skills across various demographic groups, it remains "
+5,7,2,Calibri,11.0,72.0,508.6,525.9,519.7,to be seen whether these initiatives will effectively bridge the significant gaps. The current education 
+5,7,3,Calibri,11.0,72.0,523.0,525.6,534.1,"reform presents an opportunity to integrate digital skills into the curriculum, which will be crucial in "
+5,7,4,Calibri,11.0,72.0,537.5,525.7,548.6,addressing this issue. Although Slovenia has made good progress in increasing its proportion of ICT 
+5,7,5,Calibri,11.0,72.0,552.1,525.8,563.1,"specialists within the workforce, it still lags behind the EU average. The relatively low share of ICT "
+5,7,6,Calibri,11.0,72.0,566.6,525.6,577.7,specialists may be one of the factors limiting businesses’ adoption of advanced digital technologies. 
+5,7,7,Calibri,11.0,72.0,581.1,525.8,592.2,"While training programmes for acquiring advanced digital skills in specific technologies are available, "
+5,7,8,Calibri,11.0,72.0,595.5,525.6,606.6,"they appear to be insufficient to meet the demand for ICT specialists. Additionally, despite Slovenia’s "
+5,7,9,Calibri,11.0,72.0,610.1,525.6,621.1,"efforts in anticipating future job market trends and the demand for ICT specialists, addressing these "
+5,7,10,Calibri,11.0,72.0,624.6,525.7,635.6,"dynamic needs remains challenging. In this regard, integrating digital skills into the ongoing higher "
+5,7,11,Calibri,11.0,72.0,639.1,525.8,650.1,education reform will be crucial. The availability of digital public services in Slovenia is a bit less 
+5,7,12,Calibri,11.0,72.0,653.5,525.8,664.5,"widespread than in the EU, especially when it comes to cross-border services. However, their uptake "
+5,7,13,Calibri,11.0,72.0,668.0,525.7,679.1,is higher than the EU average. Slovenia plans to enhance the digital transformation of public 
+5,7,14,Calibri,11.0,72.0,682.5,525.7,693.6,"authorities, in particular on data access and on municipality level. Furthermore, the country is "
+5,7,15,Calibri,11.0,72.0,697.1,525.7,708.1,"preparing the Digital Healthcare Act, a major project that aims to drive digital transformation in the "
+5,7,16,Calibri,11.0,72.0,711.5,155.3,722.5,healthcare sector. 
+5,8,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+6,2,0,Calibri-Light,15.0,72.0,84.9,401.4,99.9,Leveraging digital transformation for a smart greening 
+6,4,0,Calibri-Bold,11.0,72.0,111.7,525.9,122.8,"Slovenia is taking steps to support the green transition through digital technologies, building on its "
+6,4,1,Calibri-Bold,11.0,72.0,126.3,421.7,137.3,existing measures and introducing new ones as part of its adjusted roadmap
+6,4,1,Calibri,11.0,422.0,126.3,525.9,137.3,. Initiatives range from 
+6,4,2,Calibri,11.0,72.0,140.8,525.6,151.8,modernising green public procurement and creating digital twins to establishing circular and digital 
+6,4,3,Calibri,11.0,72.0,155.2,525.9,166.2,"business models. However, current efforts still appear to be fragmented and there does not yet seem "
+6,4,4,Calibri,11.0,72.0,169.7,388.1,180.7,to be a systematic approach to fully leverage their potential together.  
+6,5,0,Calibri-Light,15.0,72.0,193.0,330.1,208.0,National Digital Decade strategic roadmap 
+6,6,0,Calibri,11.0,72.0,220.0,525.9,231.0,"Following a public consultation, Slovenia submitted a fully revised national Digital Decade roadmap "
+6,6,1,Calibri,11.0,72.0,234.5,161.3,245.6,on 31 January 2025
+6,6,1,Calibri,7.0,161.3,233.6,164.8,240.6,2
+6,6,1,Calibri,11.0,164.8,234.5,525.5,245.6,. This document will also serve as the Action Plan for the Digital Slovenia 2030 
+6,6,2,Calibri,11.0,72.0,248.9,525.5,260.0,"strategy, which was adopted in 2023. The roadmap contains some new or changed measures "
+6,6,3,Calibri,11.0,72.0,263.4,525.8,274.5,compared to the initial roadmap submission in 2023 and maintains its ambitious national target 
+6,6,4,Calibri,11.0,72.0,278.0,525.7,289.0,"values. However, several measures have been removed from the adjusted roadmap, especially those "
+6,6,5,Calibri,11.0,72.0,292.5,525.9,303.5,linked to Digital Decade objectives and all measures linked to start-ups. The revised roadmap 
+6,6,6,Calibri,11.0,72.0,306.9,525.6,317.9,addresses a limited number of the roadmap recommendations issued in 2024. All national target 
+6,6,7,Calibri,11.0,72.0,321.4,525.9,332.5,"values were kept in line with the EU’s 2030 ambition level and the additional target on e-ID uptake, "
+6,6,8,Calibri,11.0,72.0,335.9,525.9,347.0,the quantitative estimates on how Slovenia will contribute to the semiconductor and the edge nodes 
+6,6,9,Calibri,11.0,72.0,350.4,525.9,361.5,"targets were maintained. The update is composed of 81 measures with a budget of EUR 685 million, "
+6,6,10,Calibri,11.0,72.0,364.8,525.5,375.9,which represents 1.02% of Slovenia’s GDP. While it brings some new impulses in line with the new 
+6,6,11,Calibri,11.0,72.0,379.4,525.9,390.4,"Commission’s priorities in areas like green ICT, AI and semiconductors, the update does not sufficiently "
+6,6,12,Calibri,11.0,72.0,393.9,525.6,404.9,"address the country’s challenges and is not fully aligned with its very ambitious national targets, "
+6,6,13,Calibri,11.0,72.0,408.4,474.8,419.5,especially in the areas of basic and advanced digital skills and digitalisation of businesses.  
+6,7,0,Calibri-Light,15.0,72.0,431.7,250.6,446.7,Funding & projects for digital 
+6,8,0,Calibri,11.0,72.0,458.6,464.5,469.6,Slovenia allocates 20% of its total recovery and resilience plan to digital (EUR 513 million)
+6,8,0,Calibri,7.0,464.5,457.7,468.0,464.6,3
+6,8,0,Calibri,11.0,468.0,458.6,525.9,469.6,". In addition, "
+6,8,1,Calibri,11.0,72.0,473.1,525.7,484.1,"under cohesion policy, EUR 287 million, representing 9% of the country’s total cohesion policy funding, "
+6,8,2,Calibri,11.0,72.0,487.6,332.6,498.7,is dedicated to advancing Slovenia’s digital transformation
+6,8,2,Calibri,7.0,332.6,486.7,336.1,493.7,4
+6,8,2,Calibri,11.0,336.1,487.6,343.8,498.7,.  
+6,9,0,Calibri,11.0,72.0,510.1,525.7,521.1,"Slovenia is a member of the three established EDICs; the Alliance for Language Technologies EDIC, the "
+6,9,1,Calibri,11.0,72.0,524.6,525.9,535.6,Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC on blockchain. Slovenian 
+6,9,2,Calibri,11.0,72.0,539.1,525.6,550.2,entities are indirect and/or associated partners in the IPCEI on Microelectronics and Communication 
+6,9,3,Calibri,11.0,72.0,553.6,525.7,564.7,Technologies (IPCEI-ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services 
+6,9,4,Calibri,11.0,72.0,568.1,121.1,579.1,(IPCEI-CIS).
+6,9,4,Calibri,7.0,121.0,567.2,124.5,574.1,5
+6,9,4,Calibri,11.0,124.5,568.1,525.9,579.1, Slovenia is also a participating state in the EuroHPC Joint Undertaking (JU) and in the Chips 
+6,9,5,Calibri,11.0,72.0,582.6,90.4,593.6,JU.  
+6,10,0,Calibri,11.0,216.1,636.7,218.5,647.7, 
+6,10,1,Calibri,6.5,72.0,649.1,75.3,655.6,2
+6,10,1,Calibri,10.0,75.3,650.0,77.5,659.9, 
+6,10,1,Calibri,9.0,77.5,650.7,525.3,659.7,Government approval pending due to some changes linked to the Digital Slovenia 2030 Action Plan. For the purpose of the 
+6,10,2,Calibri,9.0,72.0,662.0,525.1,671.0,"Digital Decade Policy Programme, the content of the roadmap submitted on 31 January 2025 can be considered final. "
+6,10,3,Calibri,9.0,72.0,672.9,525.0,681.9,Corrigendum to Digital Decade Country Report Slovenia 2024: The initial national roadmap was adopted by the Slovenian 
+6,10,4,Calibri,9.0,72.0,683.9,439.4,692.9,"Government in December 2023, before its publication and submission to the European Commission. "
+6,10,5,Calibri,6.0,72.0,694.7,75.1,700.7,3
+6,10,5,Calibri,9.0,75.0,695.0,519.6,704.0, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,10,6,Calibri,9.0,72.0,705.9,313.5,714.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,10,7,Calibri,6.0,72.0,716.7,75.1,722.7,4
+6,10,7,Calibri,9.0,75.0,716.9,503.9,725.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+6,10,8,Calibri,9.0,72.0,727.9,503.3,736.9,"2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the "
+6,10,9,Calibri,9.0,72.0,738.9,351.4,747.9,"Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,10,10,Calibri,6.0,72.0,749.6,75.1,755.6,5
+6,10,10,Calibri,9.0,75.0,749.8,509.4,758.8, Corrigendum to Digital Decade Country Report Slovenia 2024: Slovenian entities are indirect partners in the Important 
+6,10,11,Calibri,9.0,72.0,760.9,451.2,769.9,Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). 
+6,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+7,3,0,Calibri,11.0,72.0,84.0,397.6,95.1,Slovenia leads the Digital Skills cluster of the Best Practice Accelerator
+7,3,0,Calibri,7.0,397.7,83.1,401.2,90.1,6
+7,3,0,Calibri,11.0,401.1,84.0,525.8,95.1,". In this context, it led the "
+7,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"organisation of five workshops and shared four Slovenian best practices on digi info points, an adult "
+7,3,2,Calibri,11.0,72.0,112.9,525.6,124.0,"digital literacy program, mobile heroes (for older people) and digital training for children and young "
+7,3,3,Calibri,11.0,72.0,127.5,114.0,138.5,people).  
+7,4,0,Calibri-Light,15.0,72.0,150.8,237.9,165.8,Digital Rights and Principles
+7,4,0,Calibri-Bold,15.0,237.9,150.8,241.3,165.8, 
+7,5,0,Calibri,11.0,72.0,177.7,480.2,188.8,"According to a support study, Slovenia has shown rather limited activity in implementing the "
+7,5,0,Calibri-Bold,11.0,479.6,177.7,525.9,188.8,European 
+7,5,1,Calibri-Bold,11.0,72.0,192.1,268.1,203.2,Declaration on Digital Rights and Principles
+7,5,1,Calibri,11.0,268.2,192.1,525.9,203.2,", with 38 initiatives overall and 3 new initiatives launched "
+7,5,2,Calibri,11.0,72.0,206.7,525.9,217.7,in 2024. Slovenia is most active in the area of Solidarity and inclusion. Less activity has been identified 
+7,5,3,Calibri,11.0,72.0,221.2,525.9,232.2,with regards to privacy and individual control over data. Measures in the area of putting people at the 
+7,5,4,Calibri,11.0,72.0,235.7,525.7,246.8,"centre of the digital transformation appear to have most impact on the ground, in contrast to those "
+7,5,5,Calibri,11.0,72.0,250.1,300.8,261.2,addressing participation in the digital public space. 
+7,6,0,Calibri-Bold,11.0,77.7,273.2,165.4,284.2,Recommendations 
+7,7,0,Calibri,11.0,78.7,286.6,82.1,297.6,-
+7,7,0,ArialMT,11.0,82.1,284.9,85.2,297.2, 
+7,7,0,Calibri-Bold,11.0,93.0,286.6,162.7,297.6,ICT specialists:
+7,7,0,Calibri,11.0,162.7,286.6,535.3,297.6, Improve the early identification of labour market needs and address them 
+7,8,0,Calibri,11.0,93.0,301.1,470.6,312.2,accordingly through training offers and with the help of the higher education reform.
+7,8,0,Calibri-Bold,11.0,470.7,301.1,473.2,312.2, 
+7,8,1,Calibri,11.0,78.7,315.5,82.1,326.6,-
+7,8,1,ArialMT,11.0,82.1,313.8,85.2,326.1, 
+7,8,1,Calibri-Bold,11.0,93.0,315.5,179.0,326.6,Basic digital skills: 
+7,8,1,Calibri,11.0,180.2,315.5,535.5,326.6,Increase and intensify education and training offers and integrate digital skills 
+7,9,0,Calibri,11.0,93.0,330.0,299.7,341.1,into the education curricula from an early age.
+7,9,0,Calibri-Bold,11.0,299.7,330.0,302.2,341.1, 
+7,9,1,Calibri,11.0,78.7,344.6,82.1,355.6,-
+7,9,1,ArialMT,11.0,82.1,342.9,85.2,355.2, 
+7,9,1,Calibri-Bold,11.0,93.0,344.6,156.6,355.6,SME take up: 
+7,9,1,Calibri,11.0,157.3,344.6,535.3,355.6,Provide continuous support to SMEs and create enabling framework conditions for 
+7,10,0,Calibri,11.0,93.0,359.1,251.0,370.1,their uptake of digital technologies.
+7,10,0,Calibri-Bold,11.0,251.0,359.1,253.5,370.1, 
+7,10,1,Calibri,11.0,78.7,373.5,82.1,384.5,-
+7,10,1,ArialMT,11.0,82.1,371.8,85.2,384.1, 
+7,10,1,Calibri-Bold,11.0,93.0,373.5,208.1,384.5,Advanced technologies: 
+7,10,1,Calibri,11.0,212.2,373.5,535.5,384.5,Quickly implement measures to increase the uptake of advanced 
+7,11,0,Calibri,11.0,93.0,388.0,316.2,399.0,"technologies by businesses, with a focus on SMEs."
+7,11,0,Calibri-Bold,11.0,316.1,388.0,318.6,399.0, 
+7,11,1,Calibri,11.0,78.7,402.5,82.1,413.6,-
+7,11,1,ArialMT,11.0,82.1,400.8,85.2,413.1, 
+7,11,1,Calibri-Bold,11.0,93.0,402.5,160.9,413.6,Cybersecurity: 
+7,11,1,Calibri,11.0,162.6,402.5,535.2,413.6,Sustain and enhance activities to increase cybersecurity in the sectors of public 
+7,12,0,Calibri,11.0,93.0,417.1,456.3,428.1,services and education and introduce these with activities to support businesses. 
+7,12,0,Calibri-Bold,11.0,456.3,417.1,458.8,428.1, 
+7,12,1,Calibri,11.0,78.7,431.6,82.1,442.6,-
+7,12,1,ArialMT,11.0,82.1,429.9,85.2,442.2, 
+7,12,1,Calibri-Bold,11.0,93.0,431.6,175.3,442.6,Unicorns/startups
+7,12,1,Calibri,11.0,175.2,431.6,535.4,442.6,: Quickly implement measures to improve framework conditions and access to 
+7,13,0,Calibri,11.0,93.0,446.0,187.3,457.0,funding for start-ups.
+7,13,0,Calibri-Bold,11.0,187.1,446.0,189.6,457.0, 
+7,13,1,Calibri,11.0,78.7,460.5,82.1,471.5,-
+7,13,1,ArialMT,11.0,82.1,458.8,85.2,471.1, 
+7,13,1,Calibri-Bold,11.0,93.0,460.5,123.9,471.5,Green:
+7,13,1,Calibri,11.0,123.9,460.5,535.4,471.5," Enhance digital technologies to support the green transition, in particular by addressing the "
+7,14,0,Calibri,11.0,93.0,475.0,439.5,486.1,interaction between green and digital initiatives in a more systematic manner.
+7,14,0,Calibri-Bold,11.0,439.4,475.0,441.9,486.1, 
+7,14,1,Calibri-Bold,26.0,72.0,493.1,77.9,519.1, 
+7,14,2,Calibri-Bold,26.0,216.1,493.1,221.9,519.1, 
+7,15,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+7,16,0,Calibri,6.0,72.0,727.6,75.1,733.6,6
+7,16,0,Calibri,9.0,75.0,727.9,525.1,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+7,16,1,Calibri,9.0,72.0,738.9,525.5,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+7,16,2,Calibri,9.0,72.0,749.8,525.5,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+7,16,3,Calibri,9.0,72.0,760.9,250.7,769.9,"Green IT, and the Uptake of Digital Technologies. "
+7,17,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,17,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.9,171.5,"Slovenia lags behind the EU in innovation performance, particularly in areas such as business’ "
+8,4,1,Calibri-Bold,11.0,72.0,175.0,192.5,186.0,investment in innovation
+8,4,1,Calibri-Bold,7.0,192.4,174.1,195.9,181.0,7
+8,4,1,Calibri-Bold,11.0,195.9,175.0,201.4,186.0,. 
+8,4,1,Calibri,11.0,204.6,175.0,516.9,186.0,Surveys suggest that this is related to the lack of skilled labour
+8,4,1,Calibri,7.0,517.1,174.1,520.6,181.0,8
+8,4,1,Calibri,11.0,520.6,175.0,525.9,186.0,. 
+8,4,2,Calibri,11.0,72.0,189.5,525.6,200.5,"Furthermore, companies invest a high share of their capital in machinery (54% compared to 48% in "
+8,4,3,Calibri,11.0,72.0,203.9,390.0,214.9,"the EU) and relatively less in areas like employee training, ICT and R&D"
+8,4,3,Calibri,7.0,390.0,203.0,393.5,210.0,9
+8,4,3,Calibri,11.0,393.4,203.9,525.9,214.9,. The ICT sector in Slovenia is 
+8,4,4,Calibri,11.0,72.0,218.4,516.1,229.5,"among the smallest in the EU (accounting for 4.3% of GDP, compared with an EU average of 5.5%)."
+8,4,4,Calibri,7.0,516.5,217.5,523.5,224.5,10
+8,4,4,Calibri,11.0,523.4,218.4,525.9,229.5, 
+8,4,5,Calibri,11.0,72.0,233.0,525.8,244.0,"Moreover, expenditure on R&D and the share of R&D personnel in the ICT sector are the lowest in the "
+8,4,6,Calibri,11.0,72.0,247.5,388.7,258.5,EU (9.3% of total R&D expenditure and 15.1% of total R&D personnel). 
+8,5,0,Calibri-Bold,11.0,72.0,269.9,525.9,281.0,"While the country is very active in several cutting-edge technology projects, the adoption of digital "
+8,5,1,Calibri-Bold,11.0,72.0,284.4,257.2,295.5,technologies by SMEs remains limited. 
+8,5,1,Calibri,11.0,259.0,284.4,525.8,295.5,Slovenia is contributing to the development of advanced 
+8,5,2,Calibri,11.0,72.0,299.0,525.9,310.0,"technologies in several projects (e.g. on quantum, semiconductors, cloud and AI), often in "
+8,5,3,Calibri,11.0,72.0,313.4,525.9,324.4,collaboration with other EU Member States. Slovenia has included two projects in its adjusted 
+8,5,4,Calibri,11.0,72.0,327.9,525.9,338.9,"roadmap that are intended to enhance cooperation and knowledge transfer between businesses, "
+8,5,5,Calibri,11.0,72.0,342.4,525.9,353.4,research organisations and other stakeholders (‘Establishment of RDI junction’ and ‘Support for 
+8,5,6,Calibri,11.0,72.0,356.9,525.8,368.0,"strategic development innovation partnerships’). Such initiatives are important, considering that the "
+8,5,7,Calibri,11.0,72.0,371.3,525.9,382.4,"broader adoption of more accessible digital technologies, which could enhance competitiveness on a "
+8,5,8,Calibri,11.0,72.0,385.8,525.9,396.9,"larger scale for SMEs, is comparatively limited. This limitation may partly stem from a shortage of "
+8,5,9,Calibri,11.0,72.0,400.4,525.9,411.4,"sufficiently skilled employees. An exception is the AI adoption by enterprises, which has recently "
+8,5,10,Calibri,11.0,72.0,414.9,525.8,425.9,"shown considerable progress. For the start-up sector, initial steps are about to be taken to improve "
+8,5,11,Calibri,11.0,72.0,429.3,525.9,440.4,"framework conditions (e.g. legislative changes), but several initiatives are still in development, and "
+8,5,12,Calibri,11.0,72.0,443.8,525.9,454.9,venture capital expenditure and funding from capital markets remain low. According to the 2025 
+8,5,13,Calibri,11.0,72.0,458.3,140.3,469.4,Eurobarometer
+8,5,13,Calibri,7.0,140.2,457.4,147.2,464.4,11
+8,5,13,Calibri,11.0,147.1,458.3,525.8,469.4,", 86% of Slovenians think that building efficient and secure digital infrastructures and "
+8,5,14,Calibri,11.0,72.0,472.9,388.7,483.9,data processing facilities should be a priority for the public authorities. 
+8,6,0,Calibri-Bold,11.0,72.0,495.3,525.7,506.4,"Slovenia’s digital infrastructure is well-developed, although some gaps in rural connectivity still "
+8,6,1,Calibri-Bold,11.0,72.0,509.8,109.8,520.9,remain. 
+8,6,1,Calibri,11.0,109.2,509.8,528.3,520.9,"Recent improvements have led to a significant increase in 5G coverage, including in rural areas.  "
+8,7,0,Calibri-Light,15.0,72.0,533.1,509.7,548.1,Building technological leadership: digital infrastructure and technologies 
+8,8,0,Calibri-Light,12.0,72.0,560.4,203.2,572.4,Connectivity infrastructure 
+8,8,1,Calibri-Bold,11.0,72.0,575.9,525.9,586.9,Slovenia’s Very High Capacity Network (VHCN) coverage stood at 79.65% in 2024 (2030 national 
+8,8,2,Calibri-Bold,11.0,72.0,590.4,525.9,601.4,target 100%) after an increase of 1.5% and remained below the EU average of 82.49% (growth rate 
+8,8,3,Calibri-Bold,11.0,72.0,604.9,399.4,615.9,of 4.9%). The country is on track according to its national trajectory. 
+8,8,3,Calibri,11.0,401.0,604.9,525.9,615.9,For households in sparsely 
+8,8,4,Calibri,11.0,72.0,619.4,525.9,630.5,"populated areas, Slovenia’s VHCN coverage was 58.58%, below the EU’s 61.89%. The coverage growth "
+8,8,5,Calibri,11.0,72.0,633.8,525.9,644.9,"rate of 3.1% for these households was significantly lower than the EU’s 11.3%. For broadband take-up, "
+8,8,6,Calibri,11.0,72.0,648.3,525.7,659.4,"Slovenia’s share of fixed broadband subscriptions at 1 Gbps or higher was 10.89% in 2024, below the "
+8,8,7,Calibri,11.0,72.0,662.9,509.7,673.9,"EU’’s 22.25%. The growth rate for this indicator in Slovenia was 14.9%, lower than the EU’’s 20.5%."
+8,8,7,Calibri-Bold,11.0,509.6,662.9,512.1,673.9, 
+8,9,0,Calibri,11.0,216.1,687.9,218.5,699.0, 
+8,9,1,Calibri,6.5,72.0,700.5,75.3,707.0,7
+8,9,1,Calibri,10.0,75.3,701.3,77.5,711.3, 
+8,9,1,Calibri,9.0,77.5,702.1,237.0,711.1,"See European Innovation Scoreboard 2024, "
+8,9,1,Calibri,9.0,237.2,702.1,444.8,711.1,European innovation scoreboard - European Commission
+8,9,1,Calibri,9.0,444.8,702.1,451.2,711.1,.  
+8,9,2,Calibri,6.5,72.0,712.6,75.3,719.1,8
+8,9,2,Calibri,10.0,75.3,713.5,77.5,723.4, 
+8,9,2,Calibri,9.0,77.5,714.2,285.0,723.2,"See European Investment Bank Investment Survey 2023, "
+8,9,2,Calibri,9.0,285.2,714.2,485.7,723.2,EIB Investment Survey 2023: European Union overview
+8,9,2,Calibri,9.0,485.3,714.2,487.5,723.2,.
+8,9,2,Calibri,10.0,487.5,713.5,489.8,723.4, 
+8,9,3,Calibri,6.5,72.0,724.9,75.3,731.3,9
+8,9,3,Calibri,10.0,75.3,725.7,77.5,735.7, 
+8,9,3,Calibri,9.0,77.5,726.4,285.0,735.4,"See European Investment Bank Investment Survey 2023, "
+8,9,3,Calibri,9.0,285.2,726.4,485.7,735.4,EIB Investment Survey 2023: European Union overview
+8,9,3,Calibri,9.0,485.3,726.4,487.5,735.4,.
+8,9,3,Calibri,10.0,487.5,725.7,489.8,735.7, 
+8,9,4,Calibri,6.5,72.0,737.1,78.5,743.6,10
+8,9,4,Calibri,10.0,78.5,738.0,80.8,747.9, 
+8,9,4,Calibri,9.0,80.8,738.7,475.8,747.7,Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note 
+8,9,5,Calibri,9.0,72.0,749.8,285.4,758.8,accompanying the State of the Digital Decade report 2025.
+8,9,5,Calibri,10.0,285.5,749.1,287.8,759.1, 
+8,9,6,Calibri,6.0,72.0,760.6,78.1,766.6,11
+8,9,6,Calibri,9.0,78.0,760.9,288.5,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,9,6,Calibri,9.0,288.7,760.9,518.0,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,9,6,Calibri,9.0,518.2,760.9,520.2,769.9, 
+8,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+9,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,Slovenia was at 79.65% Fibre to the Premises (FTTP) coverage (2030 national target 100%) following 
+9,3,1,Calibri-Bold,11.0,72.0,98.4,493.9,109.5,an increase of 1.5% in 2024 and stood above the EU average of 69.24% (growth rate of 8.4%)
+9,3,1,Calibri-Bold,7.0,493.9,97.5,500.9,104.5,12
+9,3,1,Calibri-Bold,11.0,500.9,98.4,503.8,109.5,.
+9,3,1,Calibri,11.0,503.9,98.4,506.4,109.5, 
+9,3,1,Calibri-Bold,11.0,506.5,98.4,525.9,109.5,The 
+9,3,2,Calibri-Bold,11.0,72.0,112.9,324.9,124.0,country is on track according to its national trajectory. 
+9,3,2,Calibri,11.0,325.5,112.9,525.8,124.0,"For households in sparsely populated areas, "
+9,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,Slovenia’s FTTP coverage was 58.58% in 2024 in line with the EU average of 58.78%. The growth rate 
+9,3,4,Calibri,11.0,72.0,142.0,255.3,153.0,of 3.1% was lower than the EU’’s 11.9%.  
+9,4,0,Calibri-Bold,11.0,72.0,164.4,110.6,175.5,Slovenia
+9,4,0,Calibri,11.0,110.5,164.4,113.3,175.5,’
+9,4,0,Calibri-Bold,11.0,113.3,164.4,525.9,175.5,s 5G coverage reached 96.72% after a significantly faster increase than the EU in 2024 
+9,4,1,Calibri-Bold,11.0,72.0,178.9,255.4,190.0,(17.8% vs 6.0%) and stood above the EU
+9,4,1,Calibri,11.0,255.4,178.9,258.2,190.0,’
+9,4,1,Calibri-Bold,11.0,258.2,178.9,303.7,190.0,’s 94.35%.
+9,4,1,Calibri,11.0,303.8,178.9,306.3,190.0, 
+9,4,1,Calibri-Bold,11.0,306.3,178.9,525.9,190.0,The country is on track according to its national 
+9,4,2,Calibri-Bold,11.0,72.0,193.5,118.9,204.5,trajectory.
+9,4,2,Calibri,11.0,118.9,193.5,525.9,204.5," For households in sparsely populated areas, Slovenia’s 5G coverage was at 87.65% in 2024, "
+9,4,3,Calibri,11.0,72.0,207.9,525.9,218.9,"exceeding the EU’s 79.57%. The growth rate of 92.4% was substantially higher than the EU’s 11.9%, "
+9,4,4,Calibri,11.0,72.0,222.4,525.9,233.4,which also reflects Slovenia’s low starting point. Slovenia’s 5G coverage in the 3.4 -3.8 GHz band was 
+9,4,5,Calibri,11.0,72.0,236.9,525.9,248.0,"at 92.85%, compared to the EU’s 67.72%. The growth rate of 36.3% was again higher than the EU’s "
+9,4,6,Calibri,11.0,72.0,251.4,525.9,262.5,"32.6%. For households in sparsely populated areas, Slovenia’s 5G coverage in the 3.4 -3.8 GHz band "
+9,4,7,Calibri,11.0,72.0,265.9,525.9,276.9,"was 75.77% after a considerable increase of 239.2%, significantly higher than the EU’s coverage of "
+9,4,8,Calibri,11.0,72.0,280.4,525.7,291.4,"26.19%. Furthermore, Slovenia has fully assigned 100.0% of its 5G pioneer bands spectrum, "
+9,4,9,Calibri,11.0,72.0,294.9,525.7,305.9,"outperforming the EU’s 74.63%. Yet, the 5G uptake remains low compared to the high 5G coverage "
+9,4,10,Calibri,11.0,72.0,309.4,525.9,320.5,throughout the country. The number of 5G SIM cards expressed as the share of the population was 
+9,4,11,Calibri,11.0,72.0,323.8,262.1,334.9,"30.97%, below the EU average of 35.56%.  "
+9,5,0,Calibri-LightItalic,11.0,72.0,346.4,143.4,357.4,VHCN and FTTP 
+9,6,0,Calibri-Bold,11.0,72.0,368.8,418.2,379.9,Slovenia’s VHCN and FTTP targets remain at 100% in its adjusted roadmap. 
+9,6,0,Calibri,11.0,418.5,368.8,525.9,379.9,"However, this may be a "
+9,6,1,Calibri,11.0,72.0,383.3,525.9,394.4,"challenge in rural areas, where low connectivity has been a persistent issue, related to the country’s "
+9,6,2,Calibri,11.0,72.0,397.9,525.9,408.9,topography. Almost all gigabit connectivity measures in the initial Slovenian roadmap were already 
+9,6,3,Calibri,11.0,72.0,412.4,525.9,423.4,"focused on this challenge. But in the roadmap adjustment, some initiatives have been reduced in "
+9,6,4,Calibri,11.0,72.0,426.8,309.2,437.8,budget and no new initiatives have been introduced. 
+9,7,0,Calibri-Bold,11.0,72.0,449.3,413.2,460.4,A key initiative for enhancing connectivity in rural areas was the launch of a 
+9,7,0,Calibri-Bold,11.0,412.9,449.3,473.1,460.4,public tender
+9,7,0,Calibri-Bold,11.0,473.0,449.3,525.9,460.4, in summer 
+9,7,1,Calibri-Bold,11.0,72.0,463.7,504.2,474.8,2024 to co-finance the construction or upgrade of high-capacity fixed broadband networks. 
+9,7,1,Calibri,11.0,505.7,463.7,525.9,474.8,This 
+9,7,2,Calibri,11.0,72.0,478.3,525.9,489.3,tender is part of an investment under the Slovenian Recovery and Resilience Plan (RRP) and will be 
+9,7,3,Calibri,11.0,72.0,492.8,525.9,503.8,"completed by a second public tender, scheduled to be launched before this summer. Together, the "
+9,7,4,Calibri,11.0,72.0,507.3,525.9,518.3,tenders are expected to bring gigabit connectivity to more than 6800 additional households in white 
+9,7,5,Calibri,11.0,72.0,521.8,525.8,532.9,areas (i.e. areas with limited or no high-speed internet access). Given that connecting the remaining 
+9,7,6,Calibri,11.0,72.0,536.2,525.8,547.3,"rural households will become increasingly more expensive, AKOS, the national regulatory authority for "
+9,7,7,Calibri,11.0,72.0,550.7,525.6,561.8,"telecommunications, is collaborating with the Ministry of Digital Transformation to develop a tool for "
+9,7,8,Calibri,11.0,72.0,565.3,525.7,576.3,assessing the costs of building gigabit infrastructure in Slovenia. The aim is to propose various 
+9,7,9,Calibri,11.0,72.0,579.8,525.9,590.9,"connection scenarios and identifying the most cost-effective solution by locating the closest manhole, "
+9,7,10,Calibri,11.0,72.0,594.2,525.8,605.3,"which serves as an access point for digital infrastructure, thereby minimising the distance to be "
+9,7,11,Calibri,11.0,72.0,608.7,525.9,619.8,"covered to set up additional connections. Additionally, again in the context of its RRP, Slovenia has "
+9,7,12,Calibri,11.0,72.0,623.3,525.9,634.3,"taken steps to improve connectivity in the education sector, specifically providing high-speed internet "
+9,7,13,Calibri,11.0,72.0,637.8,525.9,648.8,access to educational institutions and ensuring that public research institutes are connected to each 
+9,7,14,Calibri,11.0,72.0,652.2,256.3,663.2,other with very high-speed connectivity.  
+9,8,0,Calibri-Bold,11.0,72.0,674.7,501.9,685.8,"Moreover, AKOS is laying the groundwork to future-proof Slovenia’s connectivity networks"
+9,8,0,Calibri,11.0,501.9,674.7,525.9,685.8,. For 
+9,8,1,Calibri,11.0,72.0,689.1,525.9,700.2,"example, AKOS has begun preparations for the country’s copper switch off. A proposal for a ‘Strategy "
+9,8,2,Calibri,11.0,72.0,703.7,525.9,714.7,of regulatory measures to accelerate the copper switch off’ is currently under public consultation. 
+9,8,3,Calibri,11.0,72.0,718.2,525.9,729.2,"Additionally, following the floods in 2023, AKOS has launched a project to build a resilient network that "
+9,9,0,Calibri,11.0,216.1,735.6,218.5,746.6, 
+9,9,1,Calibri,6.5,72.0,748.0,78.5,754.5,12
+9,9,1,Calibri,10.0,78.5,748.9,80.8,758.8, 
+9,9,1,Calibri,9.0,81.7,749.6,525.0,758.6,The VHCN coverage is defined as the combination of FTTP and DOCSIS 3.1 coverage. As Slovenia has not upgraded its 
+9,9,2,Calibri,9.0,72.0,760.9,388.0,769.9,"DOCSIS 3.0 infrastructure to DOCSIS 3.1, the VHCN coverage equals the FTTP coverage."
+9,9,2,Calibri,10.0,388.1,760.2,390.4,770.1, 
+9,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+10,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"will cover approximately 95% of Slovenian households, ensuring the availability of at least voice calls "
+10,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,and critical communications in the event of a major outages caused by floods or other natural hazards. 
+10,3,0,Calibri-LightItalic,11.0,72.0,121.0,87.0,132.0,5G 
+10,5,0,Calibri-Bold,11.0,72.0,143.4,359.0,154.5,Slovenia’s 5G target remains at 100% in its adjusted roadmap. 
+10,5,0,Calibri,11.0,359.4,143.4,525.9,154.5,Given the significant recent progress 
+10,5,1,Calibri,11.0,72.0,157.9,312.1,169.0,and the measures outlined in the adjusted roadmap
+10,5,1,Calibri-Bold,11.0,312.1,157.9,317.4,169.0,", "
+10,5,1,Calibri,11.0,318.7,157.9,525.9,169.0,this target is within reach. In addition to the 
+10,5,2,Calibri,11.0,72.0,172.5,525.9,183.5,"measures already included, such as spectrum management and co-financing open base stations (i.e. "
+10,5,3,Calibri,11.0,72.0,187.0,525.9,198.0,"open passive 5G mobile networks), Slovenia has added a new initiative, which will co-finance open "
+10,5,4,Calibri,11.0,72.0,201.4,525.9,212.4,"base stations in flood-affected areas, with EUR 4.2 million allocated from the national reconstruction "
+10,5,5,Calibri,11.0,72.0,215.9,348.9,226.9,"fund. The first tender has been launched, and a second one will"
+10,5,5,Calibri-Bold,11.0,348.9,215.9,351.4,226.9, 
+10,5,5,Calibri,11.0,351.0,215.9,525.9,226.9,follow soon. These efforts are expected 
+10,5,6,Calibri,11.0,72.0,230.4,346.8,241.5,to further boost Slovenia’s already high level of 5G coverage.  
+10,6,0,Calibri-Bold,11.0,72.0,252.9,525.9,263.9,"With the 5G pioneer bands spectrum fully assigned, Slovenia is now preparing for future "
+10,6,1,Calibri-Bold,11.0,72.0,267.4,504.3,278.5,technological advancements as part of its radio spectrum development strategy 2024-2026. 
+10,6,1,Calibri,11.0,505.7,267.4,525.9,278.5,This 
+10,6,2,Calibri,11.0,72.0,281.9,525.9,293.0,"strategy will also support businesses in maximising the benefits of 5G. According to AKOS, companies, "
+10,6,3,Calibri,11.0,72.0,296.3,525.9,307.4,"municipalities and the operator who acquired spectrum for private 5G networks, have begun using "
+10,6,4,Calibri,11.0,72.0,310.9,525.8,321.9,"their allocated spectrum, focusing on industrial automation, IoT applications and public safety "
+10,6,5,Calibri,11.0,72.0,325.4,165.6,336.4,projects. A separate 
+10,6,5,Calibri,11.0,166.7,325.4,200.0,336.4,auction
+10,6,5,Calibri,11.0,200.0,325.4,525.9,336.4," for 700 MHz bands, intended for machine-to-machine communication "
+10,6,6,Calibri,11.0,72.0,339.9,525.8,350.9,"networks, failed to attract any bids and was subsequently cancelled. As part of the radio spectrum "
+10,6,7,Calibri,11.0,72.0,354.4,525.9,365.4,"development strategy, AKOS will also be harmonising the methodology for implementing 5G "
+10,6,8,Calibri,11.0,72.0,368.8,206.3,379.9,standalone networks in 2025. 
+10,7,0,Calibri-Bold,11.0,77.7,391.8,322.3,402.9,2024 recommendation on connectivity infrastructure
+10,7,0,Calibri,11.0,322.4,391.8,520.2,402.9,: (i) Continue and supplement measures to 
+10,7,1,Calibri,11.0,77.7,406.4,520.3,417.4,"tackle 5G connectivity challenges, especially in rural areas. (ii) Ensure sufficient access of new "
+10,7,2,Calibri,11.0,77.7,420.8,520.3,431.8,players to spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) 
+10,7,3,Calibri,11.0,77.7,435.3,520.3,446.4,applications and encourage operators to speed up the deployment of 5G standalone core networks. 
+10,8,0,Calibri-Italic,11.0,77.7,458.3,83.6,469.4,(i
+10,8,0,Calibri,11.0,83.5,458.3,86.9,469.4,)
+10,8,0,Calibri-Bold,11.0,86.9,458.3,129.2,469.4, Slovenia
+10,8,0,Calibri,11.0,129.1,458.3,131.6,469.4, 
+10,8,0,Calibri-Bold,11.0,132.9,458.3,520.0,469.4,made some efforts to address the recommendation through new policy actions in 
+10,8,1,Calibri-Bold,11.0,77.7,472.7,102.9,483.8,2024.
+10,8,1,Calibri,11.0,103.0,472.7,520.3,483.8," 5G coverage, including in rural areas, increased significantly (by 14.6 percentage points (pp) "
+10,8,2,Calibri,11.0,77.7,487.3,520.1,498.3,overall and 42.1 pp in rural areas). Besides continuing the implementation of existing measures to 
+10,8,3,Calibri,11.0,77.7,501.8,520.2,512.8,"prepare for future advancements of the 5G technology, a new measure was introduced in the "
+10,8,4,Calibri,11.0,77.7,516.3,520.3,527.3,adjusted roadmap. This measure will co-finance open passive 5G mobile networks in flood-affected 
+10,8,5,Calibri,11.0,77.7,530.8,298.8,541.9,"areas, further enhancing Slovenia’s 5G coverage.  "
+10,9,0,Calibri,11.0,77.7,553.3,91.9,564.3,(ii) 
+10,9,0,Calibri-Bold,11.0,93.0,553.3,520.0,564.3,Slovenia made some efforts to address the recommendation through new policy actions in 
+10,9,1,Calibri-Bold,11.0,77.7,567.8,102.9,578.9,2024.
+10,9,1,Calibri,11.0,103.0,567.8,520.3,578.9," Slovenia auctioned spectrum for private 5G networks, reporting that the successful bidders "
+10,9,2,Calibri,11.0,77.7,582.2,520.3,593.3,"begin to use their allocated spectrum. Additionally, an auction for spectrum on machine-to-machine "
+10,9,3,Calibri,11.0,77.7,596.7,338.9,607.8,communication was initiated (but did not attract any bids).
+10,9,3,Calibri-Italic,11.0,339.0,596.7,341.4,607.8, 
+10,10,0,Calibri-Light,12.0,72.0,626.0,151.9,638.0,Semiconductors 
+10,11,0,Calibri-Bold,11.0,72.0,644.6,525.6,655.7,"In its adjusted roadmap, Slovenia maintains its commitment to contribute to the semiconductor "
+10,11,1,Calibri-Bold,11.0,72.0,659.0,525.8,670.1,"target, projecting that 10 R&D companies with a focus on semiconductors and 25 manufacturing "
+10,11,2,Calibri-Bold,11.0,72.0,673.5,193.5,684.6,companies will be involved
+10,11,2,Calibri,11.0,193.4,673.5,525.9,684.6,. The country currently reports having two R&D enterprises and eight active 
+10,11,3,Calibri,11.0,72.0,688.1,496.0,699.1,manufacturing companies in the semiconductor sector (as well identical to its initial roadmap). 
+10,12,0,Calibri-Bold,11.0,72.0,710.5,420.5,721.5,Slovenia continues to take action to develop its semiconductor ecosystem. 
+10,12,0,Calibri,11.0,421.5,710.5,525.9,721.5,The adjusted roadmap 
+10,12,1,Calibri,11.0,72.0,725.0,525.9,736.1,maintains key initiatives (see below) and has added a new initiative on providing a supportive 
+10,12,2,Calibri,11.0,72.0,739.6,217.3,750.6,environment for semiconductors
+10,12,2,Calibri-Bold,11.0,217.4,739.6,220.3,750.6,.
+10,12,2,Calibri,11.0,220.4,739.6,525.9,750.6, This new measure aims to create a supportive framework for R&D&I 
+10,12,3,Calibri,11.0,72.0,754.0,525.9,765.0,"efforts and chips prototyping. Under the Slovenian RRP, two Slovenian companies continue to be "
+10,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+11,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,involved as indirect or associated partners in the IPCEI on Microelectronics and Communication 
+11,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,Technologies. The country also reported that it has started to collaborate with direct partners of this 
+11,2,2,Calibri,11.0,72.0,112.9,99.7,124.0,IPCEI. 
+11,4,0,Calibri-Bold,11.0,72.0,135.5,316.5,146.5,"After a considerable preparatory phase, a draft of the "
+11,4,0,Calibri-Bold,11.0,316.4,135.5,425.2,146.5,Semiconductor Strategy
+11,4,0,Calibri-Bold,11.0,425.3,135.5,525.9,146.5, was published in July 
+11,4,1,Calibri-Bold,11.0,72.0,149.9,266.9,160.9,2024 and publicly consulted afterwards.
+11,4,1,Calibri,11.0,266.9,149.9,525.8,160.9, The draft strategy includes three major actions: the 
+11,4,2,Calibri,11.0,72.0,164.4,525.9,175.5,establishment of the Chips.si Competence Centre and the Centre of Excellence for Chips and 
+11,4,3,Calibri,11.0,72.0,178.9,525.9,190.0,Semiconductor Technologies as well as activities for strengthening the existing capacities in the 
+11,4,4,Calibri,11.0,72.0,193.5,525.9,204.5,semiconductor ecosystem. The Chips.si Competence Centre has been operational since April 2025 and 
+11,4,5,Calibri,11.0,72.0,207.9,525.9,218.9,is expected to begin providing access to technical expertise and experimentation to support 
+11,4,6,Calibri,11.0,72.0,222.4,525.9,233.4,"companies, especially SMEs, in developing relevant design capabilities and skills. Chips.si is among the "
+11,4,7,Calibri,11.0,72.0,236.9,107.6,248.0,centres 
+11,4,7,Calibri,11.0,109.7,236.9,146.9,248.0,selected
+11,4,7,Calibri,11.0,146.9,236.9,525.9,248.0, by the EU Commission to collaborate in a European network of semiconductor 
+11,4,8,Calibri,11.0,72.0,251.4,525.8,262.5,"competence centres, aiming to strengthen the European semiconductor industry and to address the "
+11,4,9,Calibri,11.0,72.0,265.9,525.9,276.9,"needs of local ecosystems in the broader context of the European Chips Act. Furthermore, Slovenia is "
+11,4,10,Calibri,11.0,72.0,280.4,525.9,291.4,reinforcing its innovation environment with strategic research and development in electronic 
+11,4,11,Calibri,11.0,72.0,294.9,192.5,305.9,components and systems.  
+11,5,0,Calibri-Bold,11.0,77.7,317.9,279.2,329.0,2024 recommendation on semiconductors
+11,5,0,Calibri,11.0,279.3,317.9,520.1,329.0,: Sustain activities on semiconductors and quickly 
+11,5,1,Calibri,11.0,77.7,332.3,223.8,343.4,implement them on the ground. 
+11,6,0,Calibri-Bold,11.0,77.7,355.4,520.3,366.4,Slovenia made some efforts to address the recommendation through new policy actions in 2024. 
+11,6,1,Calibri,11.0,77.7,369.9,520.2,380.9,Slovenia continues to take action to develop its semiconductor ecosystem and some acceleration 
+11,6,2,Calibri,11.0,77.7,384.3,436.9,395.3,"can be perceived. Moreover, the roadmap adjustment introduces new impulses. "
+11,7,0,Calibri-Light,12.0,72.0,413.6,130.2,425.6,Edge nodes 
+11,7,1,Calibri-Bold,11.0,72.0,429.2,525.9,440.2,"According to the Edge Node Observatory, Slovenia is estimated to have deployed a total of 16 edge "
+11,7,2,Calibri-Bold,11.0,72.0,443.6,304.1,454.6,"nodes by 2024, an increase of 100% since 2023. "
+11,7,2,Calibri,11.0,306.0,443.6,525.9,454.6,"In its adjusted roadmap, Slovenia maintains its "
+11,7,3,Calibri,11.0,72.0,458.1,525.9,469.1,ambition to contribute to this target through the deployment of edge nodes by 200 companies. The 
+11,7,4,Calibri,11.0,72.0,472.6,525.9,483.7,"country reports having approximately 20 companies, in particular telecommunication companies, "
+11,7,5,Calibri,11.0,72.0,487.1,411.2,498.2,working on the deployment of edge nodes (identical to its initial roadmap).  
+11,8,0,Calibri-Bold,11.0,72.0,509.6,525.8,520.6,Slovenia’s main activity in this area remains that Slovenian entities are indirect partners in the IPCEI 
+11,8,1,Calibri-Bold,11.0,72.0,524.1,325.9,535.2,on Next Generation Cloud Infrastructure and Services.
+11,8,1,Calibri,11.0,326.0,524.1,525.9,535.2, The multi-country project will support the 
+11,8,2,Calibri,11.0,72.0,538.6,525.9,549.7,development of software and data processing capabilities for the exploitation of edge nodes. One of 
+11,8,3,Calibri,11.0,72.0,553.0,525.8,564.1,the recently launched projects which is part of this initiative involves the development of 
+11,8,4,Calibri,11.0,72.0,567.6,411.8,578.6,"decentralised, edge-based data storage (see cloud section for more details). "
+11,9,0,Calibri-Light,12.0,72.0,590.4,184.4,602.4,Quantum technologies 
+11,9,1,Calibri-Bold,11.0,72.0,605.9,525.8,616.9,Slovenia continues to engage in EU-level initiatives and to develop a national framework for 
+11,9,2,Calibri-Bold,11.0,72.0,620.4,525.9,631.4,"quantum technologies, although most of these activities are not reflected in its adjusted roadmap. "
+11,9,3,Calibri,11.0,72.0,634.9,525.9,645.9,"Given the early stage of development for quantum technologies, Slovenia’s efforts are currently "
+11,9,4,Calibri,11.0,72.0,649.4,525.9,660.5,focused on basic technology research and exploring proof of concept schemes to assess technical 
+11,9,5,Calibri,11.0,72.0,663.8,203.8,674.9,feasibility in the near future.  
+11,10,0,Calibri-Bold,11.0,72.0,686.4,525.9,697.4,"The successful bid for the AI Factory, including a new supercomputer, underpinned Slovenia’s well- "
+11,10,1,Calibri-Bold,11.0,72.0,700.9,314.0,711.9,developed infrastructure and expertise in this field 
+11,10,1,Calibri,11.0,315.4,700.9,525.9,711.9,(see AI section for more details). The project 
+11,10,2,Calibri,11.0,72.0,715.3,525.9,726.3,"exemplifies Slovenia’s contribution to several EU initiatives. Additionally, after an extensive "
+11,10,3,Calibri,11.0,72.0,729.8,525.9,740.9,"preparatory phase, the national quantum strategy is expected to be published by September 2025. "
+11,10,4,Calibri,11.0,72.0,744.4,525.9,755.4,The strategy was developed through a participatory process involving stakeholders at various stages. 
+11,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+12,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"The strategy will focus on research and innovation, talent development, quantum infrastructure and "
+12,3,1,Calibri,11.0,72.0,98.4,146.5,109.5,industrialisation.
+12,3,1,Calibri-Bold,11.0,146.4,98.4,148.9,109.5, 
+12,3,1,Calibri,11.0,151.0,98.4,525.9,109.5,"According to the Government Information Security Office, the country is in the "
+12,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,process of connecting several government bodies across six locations through a quantum key 
+12,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,distribution network as part of the Slovenian Quantum Communication Infrastructure Demonstration 
+12,3,4,Calibri,11.0,72.0,142.0,302.4,153.0,(SiQUID) project which is part of the Slovenian RRP. 
+12,4,0,Calibri-Light,15.0,72.0,165.3,462.1,180.3,Supporting EU-wide digital ecosystems and scaling up innovative 
+12,4,1,Calibri-Light,15.0,72.0,185.1,143.2,200.1,enterprises 
+12,5,0,Calibri-Light,12.0,72.0,212.2,265.2,224.2,SMEs with at least basic digital intensity 
+12,5,1,Calibri-Bold,11.0,72.0,227.8,525.9,238.8,In Slovenia 67.63% of SMEs had at least a basic level of digital intensity in 2024 (2030 national target 
+12,5,2,Calibri-Bold,11.0,72.0,242.3,335.1,253.4,"90%), after a limited growth of 0.4% compared to 2022"
+12,5,2,Calibri-Bold,7.0,335.0,241.4,342.0,248.4,13
+12,5,2,Calibri-Bold,11.0,342.0,242.3,525.9,253.4, and the country stands below the EU 
+12,5,3,Calibri-Bold,11.0,72.0,256.7,266.9,267.8,average (72.91% and growth rate of 2.8%)
+12,5,3,Calibri,11.0,266.9,256.7,525.7,267.8,". Nonetheless, among all SMEs, 31.78% achieved high or "
+12,5,4,Calibri,11.0,72.0,271.2,525.9,282.3,"very high digital intensity, close to the EU average of 32.66%. The data on the adoption of AI/cloud/data "
+12,5,5,Calibri,11.0,72.0,285.8,525.9,296.8,analytics by enterprises across all sizes also indicate relatively low take-up among SMEs (see more 
+12,5,6,Calibri,11.0,72.0,300.3,525.9,311.3,"details in dedicated section). While Slovenian SMEs lag in these areas, its large enterprises outperform "
+12,5,7,Calibri,11.0,72.0,314.7,258.7,325.7,"the EU average, with the exception of AI.  "
+12,6,0,Calibri-Bold,11.0,72.0,337.2,525.9,348.3,Slovenia still aims to reach the 90% target for SMEs with basic digital intensity in its adjusted 
+12,6,1,Calibri-Bold,11.0,72.0,351.8,118.8,362.8,roadmap. 
+12,6,1,Calibri,11.0,121.1,351.8,525.7,362.8,"However, given the current adoption levels and growth trends in Slovenia, additional "
+12,6,2,Calibri,11.0,72.0,366.2,525.9,377.2,measures may be needed to meet these targets. No new measures have been added and a few 
+12,6,3,Calibri,11.0,72.0,380.7,525.9,391.7,"measures targeted specifically to SMEs have been removed from the adjusted roadmap, though they "
+12,6,4,Calibri,11.0,72.0,395.2,525.9,406.3,"are still being implemented. For example, after a pause, the Slovene Enterprise voucher system to "
+12,6,5,Calibri,11.0,72.0,409.7,525.8,420.8,support SMEs in digitalising products or services will be relaunched with a focus on cybersecurity and 
+12,6,6,Calibri,11.0,72.0,424.1,525.9,435.2,"some other specific topics, including AI. Slovenia reported that for some topics, the relaunch is already "
+12,6,7,Calibri,11.0,72.0,438.7,525.7,449.7,"ongoing. Furthermore, Slovenia continues to support the uptake of digital technologies in SMEs with "
+12,6,8,Calibri,11.0,72.0,453.2,262.2,464.2,"two European Digital Innovation Hubs, the "
+12,6,8,Calibri,11.0,261.9,453.2,504.4,464.2,Digital Emergency Response for Slovenia (EDIH DIGI-SI)
+12,6,8,Calibri,11.0,504.5,453.2,525.9,464.2, and 
+12,6,9,Calibri,11.0,72.0,467.7,89.5,478.8,the 
+12,6,9,Calibri,11.0,89.1,467.7,491.5,478.8,"Smart, Resilient and Sustainable Communities - European Digital Innovation Hub (SRC EDIH)"
+12,6,9,Calibri,11.0,491.5,467.7,525.9,478.8, as well 
+12,6,10,Calibri,11.0,72.0,482.1,525.9,493.1,as projects to support SMEs’ investments in (in)tangible assets (‘incentives for digital transformation’) 
+12,6,11,Calibri,11.0,72.0,496.6,525.9,507.7,"and in the twin transition (‘circular and digital business models’). However, following the "
+12,6,12,Calibri,11.0,72.0,511.1,525.9,522.2,implementation of the RRP measure ‘Industrial/business digital transformation programme’ (see 
+12,6,13,Calibri,11.0,72.0,525.7,525.9,536.7,"details in take-up of cloud/AI/data analytics section), it seems important for Slovenia to transfer and "
+12,6,14,Calibri,11.0,72.0,540.1,525.9,551.1,"maximise the impacts of this measure, as there are currently no plans for new comparable projects in "
+12,6,15,Calibri,11.0,72.0,554.6,184.0,565.6,terms of size and scope.  
+12,7,0,Calibri-Bold,11.0,77.7,577.7,304.2,588.7,2024 recommendation on digitalisation of SMEs
+12,7,0,Calibri,11.0,304.3,577.7,520.1,588.7,: Accelerate policies to increase the uptake of 
+12,7,1,Calibri,11.0,77.7,592.1,520.3,603.1,"digital technologies by SMEs. In particular by quickly implementing, maintaining and "
+12,7,2,Calibri,11.0,77.7,606.6,520.0,617.6,"complementing the efforts to provide supportive framework conditions, including a highly skilled "
+12,7,3,Calibri,11.0,77.7,621.1,520.0,632.1,"workforce, in a continuous manner and by paying particular attention to the specificities of "
+12,7,4,Calibri,11.0,77.7,635.6,126.8,646.7,industries. 
+12,8,0,Calibri-Bold,11.0,77.7,658.5,520.1,669.6,"In 2024, Slovenia continued the implementation of existing measures but did not take any new "
+12,8,1,Calibri-Bold,11.0,77.7,673.1,122.7,684.1,measure. 
+12,8,1,Calibri,11.0,123.3,673.1,308.0,684.1,Apart from moving forward with the RRP
+12,8,1,Calibri-Bold,11.0,308.2,673.1,310.7,684.1, 
+12,8,1,Calibri,11.0,311.2,673.1,520.3,684.1,consortia project on digital transformation for 
+12,8,2,Calibri,11.0,77.7,687.6,520.2,698.6,"SMEs and large companies, which is a key measure in this area, Slovenia did not report any "
+12,8,3,Calibri,11.0,77.7,702.1,495.2,713.1,significant progress on other measures and no substantial new measures have been reported.
+12,8,3,Calibri-Bold,11.0,495.2,702.1,497.7,713.1, 
+12,9,0,Calibri,11.0,72.0,725.0,74.5,736.1, 
+12,10,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+12,11,0,Calibri,6.0,72.0,760.6,78.1,766.6,13
+12,11,0,Calibri,9.0,78.0,760.9,500.4,769.9, 2022 is the last comparable year that used a similar methodology for measuring the digital intensity of enterprises. 
+12,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+13,2,0,Calibri-Light,12.0,72.0,84.3,237.7,96.3,Take-up of cloud/AI/data analytics 
+13,5,0,Calibri,11.0,523.6,242.3,526.1,253.4, 
+13,6,0,Calibri-Bold,11.0,72.0,261.9,525.9,272.9,"In 2024, 20.89% enterprises in Slovenia adopted AI (2030 national target is 75%), following an "
+13,6,1,Calibri-Bold,11.0,72.0,276.4,525.9,287.5,"increase of 83.73%, considerably outpacing the EU average of 13.48%. However, the country is "
+13,6,2,Calibri-Bold,11.0,72.0,290.9,305.8,302.0,lagging behind compared to its national trajectory. 
+13,6,2,Calibri,11.0,306.0,290.9,525.8,302.0,"Among SMEs, the uptake rate was 19.81%, while "
+13,6,3,Calibri,11.0,72.0,305.4,356.4,316.5,large enterprises showed a significantly higher rate of 59.7%.
+13,6,3,Calibri-Bold,11.0,356.4,305.4,358.8,316.5, 
+13,6,3,Calibri,11.0,360.5,305.4,525.9,316.5,This corresponds to a gap of 39.89 
+13,6,4,Calibri,11.0,72.0,319.9,525.6,330.9,"percentage points between SMEs and large enterprises, which considerably exceeds the EU gap of "
+13,6,5,Calibri,11.0,72.0,334.4,185.3,345.4,28.53 percentage points. 
+13,7,0,Calibri-Bold,11.0,72.0,356.9,523.6,368.0,"In 2023, cloud uptake in Slovenia reached 36% (2030 national target is 75%), slightly below the EU-"
+13,7,1,Calibri-Bold,11.0,72.0,371.3,183.6,382.4,level uptake of 38.97%. 
+13,7,1,Calibri,11.0,184.7,371.3,525.7,382.4,"However, SMEs exhibited a 34.9% uptake, while large enterprises adopted "
+13,7,2,Calibri,11.0,72.0,385.8,525.9,396.9,cloud services at a much higher rate of 74.89%. This resulted in a gap of 39.99 percentage points in 
+13,7,3,Calibri,11.0,72.0,400.4,525.9,411.4,"uptake between SMEs and large enterprises in Slovenia, which was higher than the EU-level gap of "
+13,7,4,Calibri,11.0,72.0,414.9,102.4,425.9,31.68. 
+13,8,0,Calibri-Bold,11.0,72.0,437.3,525.9,448.4,"Similarly in 2023, 19.06% of enterprises utilised data analytics in Slovenia (2030 national target is "
+13,8,1,Calibri-Bold,11.0,72.0,451.9,290.7,462.9,"75%), falling short of the EU average of 33.25%. "
+13,8,1,Calibri,11.0,290.7,451.9,525.9,462.9,"However, SMEs had a lower uptake at 17.54%, while "
+13,8,2,Calibri,11.0,72.0,466.4,525.7,477.4,72.77% of large enterprises engaged in these activities. This led to a notable gap of 55.23 percentage 
+13,8,3,Calibri,11.0,72.0,480.8,514.7,491.8,"points between SMEs and large enterprises, which exceeded the EU gap of 39.72 percentage points"
+13,8,3,Calibri-Bold,11.0,514.7,480.8,520.1,491.8,. 
+13,9,0,Calibri-Bold,11.0,72.0,503.3,525.9,514.4,"When taking the three technologies together, 44.71% of enterprises in Slovenia engaged with either "
+13,9,1,Calibri-Bold,11.0,72.0,517.7,472.7,528.8,"AI, cloud or data analytics, which was considerably below the EU average (54.7%) in 2023."
+13,9,1,Calibri,11.0,472.8,517.7,525.9,528.8, The uptake 
+13,9,2,Calibri,11.0,72.0,532.3,525.6,543.3,"among SMEs was slightly lower at 43.41%, while large enterprises had a higher engagement rate of "
+13,9,3,Calibri,11.0,72.0,546.8,525.6,557.8,91.06%. This indicates a percentage point difference of 47.65 in uptake between SMEs and large 
+13,9,4,Calibri,11.0,72.0,561.3,426.8,572.4,"enterprises in Slovenia, which was again higher than the EU-level gap of 32.97.  "
+13,10,0,Calibri-Bold,11.0,72.0,583.8,525.9,594.8,"In its adjusted roadmap, Slovenia still targets a 75% adoption rate for each of the three technologies "
+13,10,1,Calibri-Bold,11.0,72.0,598.3,180.0,609.3,in enterprises by 2030. 
+13,10,1,Calibri,11.0,180.8,598.3,525.9,609.3,"Meanwhile, the EU target is for at least one of the three technologies to be "
+13,10,2,Calibri,11.0,72.0,612.8,525.9,623.9,"used by 75% of enterprises. However, given the current adoption levels and growth trends in Slovenia, "
+13,10,3,Calibri,11.0,72.0,627.2,525.8,638.3,additional measures may be needed to meet these targets. While the adjusted roadmap maintained a 
+13,10,4,Calibri,11.0,72.0,641.7,525.7,652.8,"few measures to promote the broader uptake of advanced technologies, which can also contribute to "
+13,10,5,Calibri,11.0,72.0,656.3,525.9,667.3,"increase the basic digital intensity of SMEs, Slovenia remains particularly focused on the development "
+13,10,6,Calibri,11.0,72.0,670.8,150.4,681.8,and uptake of AI. 
+13,11,0,Calibri-Bold,11.0,72.0,693.2,207.5,704.3,"In February 2025, Slovenia "
+13,11,0,Calibri-Bold,11.0,211.7,693.2,252.0,704.3,reported
+13,11,0,Calibri-Bold,11.0,251.9,693.2,525.9,704.3, the implementation of the ‘Industrial/business digital 
+13,11,1,Calibri-Bold,11.0,72.0,707.7,525.8,718.8,"transformation programme’, a key measure for promoting digital innovation and advanced "
+13,11,2,Calibri-Bold,11.0,72.0,722.3,199.2,733.3,technologies in businesses.
+13,11,2,Calibri,11.0,199.4,722.3,525.9,733.3," This RRP measure, also part of the adjusted roadmap, supported 23 "
+13,11,3,Calibri,11.0,72.0,736.7,525.9,747.7,"consortia, comprising 42 large companies and 84 SMEs. Funded projects focused on areas previously "
+13,11,4,Calibri,11.0,72.0,751.2,525.9,762.2,"identified as relevant to the digital transformation, e.g., to introduce AI to decision-making and "
+13,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+14,2,0,Calibri,11.0,72.0,84.0,157.2,95.1,planning processes
+14,2,0,Calibri-Bold,11.0,157.2,84.0,160.2,95.1,.
+14,2,0,Calibri,11.0,160.2,84.0,525.9,95.1, This initiative is expected to have contributed to bridging the gap between SMEs 
+14,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,"and large enterprises in the uptake of advanced technologies, while also positively impacting the value "
+14,2,2,Calibri,11.0,72.0,112.9,244.1,124.0,chains of the participating companies. 
+14,4,0,SymbolMT,11.0,90.0,133.3,95.1,146.8,
+14,4,0,ArialMT,11.0,95.1,134.4,98.1,146.7, 
+14,4,1,Calibri-Bold,11.0,108.0,136.1,134.3,147.1,Cloud
+14,4,1,Calibri,11.0,134.3,136.1,136.8,147.1, 
+14,5,0,Calibri-Bold,11.0,72.0,153.5,525.9,164.5,The key action to increase the uptake of cloud computing services remains that Slovenian entities 
+14,5,1,Calibri-Bold,11.0,72.0,168.0,482.1,179.1,are indirect partners in the IPCEI on Next Generation Cloud Infrastructure and Services
+14,5,1,Calibri-Bold,7.0,482.1,167.1,489.1,174.1,14
+14,5,1,Calibri-Bold,11.0,489.1,168.0,492.0,179.1,.
+14,5,1,Calibri,11.0,492.0,168.0,525.9,179.1, In the 
+14,5,2,Calibri,11.0,72.0,182.5,265.3,193.6,context of this RRP-funded project Slovenia 
+14,5,2,Calibri,11.0,265.0,182.5,306.1,193.6,launched
+14,5,2,Calibri,11.0,306.1,182.5,525.9,193.6, ‘SIChain EIPS’. This project focuses on developing 
+14,5,3,Calibri,11.0,72.0,197.1,525.7,208.1,"blockchain infrastructure and decentralised, edge-based data storage, with the goal of integrating it "
+14,5,4,Calibri,11.0,72.0,211.5,525.5,222.5,into a common European data and services infrastructure. The project aims to enhance the 
+14,5,5,Calibri,11.0,72.0,226.0,525.8,237.0,"interoperability and security of European data and services infrastructure, potentially boosting cloud "
+14,5,6,Calibri,11.0,72.0,240.5,525.7,251.6,"service adoption by businesses, while also contributing to the development of integrated "
+14,5,7,Calibri,11.0,72.0,255.0,525.9,266.1,infrastructure that links cloud computing with other advanced technologies. Slovenia reported that 
+14,5,8,Calibri,11.0,72.0,269.4,525.8,280.5,"Slovenian companies collaborate with direct partners of this IPCEI, in particular in the field of digital "
+14,5,9,Calibri,11.0,72.0,284.0,525.9,295.0,"infrastructures and platforms, including through use cases focused on establishing different types of "
+14,5,10,Calibri,11.0,72.0,298.5,269.5,309.5,cloud infrastructure and services networks.  
+14,6,0,SymbolMT,11.0,90.0,318.7,95.1,332.2,
+14,6,0,ArialMT,11.0,95.1,319.8,98.1,332.1, 
+14,6,1,Calibri-Bold,11.0,108.0,321.5,173.5,332.6,Data Analytics
+14,6,1,Calibri,11.0,173.4,321.5,175.9,332.6, 
+14,7,0,Calibri,11.0,72.0,339.0,468.2,350.1,There is not specific update to report beyond what is already included in other sections.  
+14,8,0,SymbolMT,11.0,90.0,359.3,95.1,372.8,
+14,8,0,ArialMT,11.0,95.1,360.4,98.1,372.7, 
+14,8,1,Calibri-Bold,11.0,108.0,362.1,202.2,373.1,Artificial Intelligence
+14,8,1,Calibri,11.0,202.1,362.1,204.6,373.1, 
+14,9,0,Calibri-Bold,11.0,72.0,379.6,418.1,390.6,AI continues to be a central priority for Slovenia in advanced technologies. 
+14,9,0,Calibri,11.0,418.8,379.6,525.9,390.6,With the successful bid 
+14,9,1,Calibri,11.0,72.0,394.1,122.5,405.2,to host an ‘
+14,9,1,Calibri,11.0,121.6,394.1,169.1,405.2,AI Factory‘
+14,9,1,Calibri,11.0,169.0,394.1,273.1,405.2, and the launch of the ‘
+14,9,1,Calibri,11.0,272.9,394.1,525.9,405.2,Machine Learning for Science and Humanities – SMASH’ 
+14,9,2,Calibri,11.0,72.0,408.5,103.8,419.6,project
+14,9,2,Calibri,11.0,103.8,408.5,525.6,419.6,", the country is poised to contribute to the further development of AI. The AI Factory will "
+14,9,3,Calibri,11.0,72.0,423.1,525.9,434.1,primarily provide AI tools and computing power to support businesses and the public sector. More 
+14,9,4,Calibri,11.0,72.0,437.6,411.0,448.6,"concretely, building on the achievements of the Vega supercomputer, "
+14,9,4,Calibri,11.0,414.5,437.6,525.9,448.6,a new supercomputing 
+14,9,5,Calibri,11.0,72.0,452.1,133.3,463.1,infrastructure
+14,9,5,Calibri,11.0,133.3,452.1,525.8,463.1, is expected to boost research and industrial use of advanced technologies like AI (e.g. 
+14,9,6,Calibri,11.0,72.0,466.5,525.9,477.5,for climate change prediction) and accelerated process simulation in areas like manufacturing. The 
+14,9,7,Calibri,11.0,72.0,481.0,525.7,492.1,"project SMASH aims to enhance the use of machine learning in research, fostering the development "
+14,9,8,Calibri,11.0,72.0,495.5,380.2,506.6,of new scientific methods and strengthening research infrastructure. 
+14,10,0,Calibri-Bold,11.0,72.0,518.0,423.8,529.0,"Moreover, the implementation of other measures is gaining momentum."
+14,10,0,Calibri,11.0,423.8,518.0,525.9,529.0, After a considerable 
+14,10,1,Calibri,11.0,72.0,532.5,525.8,543.5,"preparatory and scoping phase starting in 2023, the first call for tender for the AI Competence Centre "
+14,10,2,Calibri,11.0,72.0,547.0,525.9,558.1,with a budget of EUR 3.6 million will be published in 2025. The Competence Centre’s activities will 
+14,10,3,Calibri,11.0,72.0,561.6,525.9,572.6,"cover a broad range of areas, including supporting AI skills, facilitating AI adoption by businesses, and "
+14,10,4,Calibri,11.0,72.0,576.0,525.8,587.0,"creating an AI ecosystem and international cooperation. In alignment with the Digital Decade target, "
+14,10,5,Calibri,11.0,72.0,590.5,525.6,601.5,"the Centre will focus on helping businesses embrace and develop AI through training, consultancy "
+14,10,6,Calibri,11.0,72.0,605.0,525.9,616.1,services and practical information on the use of AI tools. Stakeholders appear to agree on scope and 
+14,10,7,Calibri,11.0,72.0,619.5,419.2,630.6,aim of the Centre. Additional calls for tenders will follow in subsequent years. 
+14,11,0,Calibri,11.0,72.0,642.0,525.8,653.0,The 2025 Eurobarometer shows that 80% of Slovenians think that public authorities should prioritise 
+14,11,1,Calibri,11.0,72.0,656.5,525.6,667.5,shaping the development of Artificial Intelligence and other digital technologies to ensure that they 
+14,11,2,Calibri,11.0,72.0,671.0,208.3,682.1,respect our rights and values.  
+14,12,0,Calibri-Bold,11.0,72.0,693.5,525.9,704.5,The adjusted roadmap introduces a new initiative focused on ‘Support for low-value AI applied 
+14,12,1,Calibri-Bold,11.0,72.0,708.0,525.6,719.0,"projects’, while removing a previously planned measures on support for vocational training "
+14,13,0,Calibri,11.0,216.1,735.6,218.5,746.6, 
+14,13,1,Calibri,6.5,72.0,748.0,78.5,754.5,14
+14,13,1,Calibri,10.0,78.5,748.9,80.8,758.8, 
+14,13,1,Calibri,9.0,81.6,749.6,525.1,758.6,Corrigendum to Digital Decade Country Report Slovenia 2024: Slovenian entities are indirect partners in the Important 
+14,13,2,Calibri,9.0,72.0,760.9,449.1,769.9,Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS).
+14,13,2,Calibri,10.0,449.1,760.2,453.7,770.1,  
+14,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+15,3,0,Calibri-Bold,11.0,72.0,84.0,135.2,95.1,programmes. 
+15,3,0,Calibri,11.0,136.1,84.0,525.9,95.1,Trainings for employees will instead be delivered through the AI Competence Centre. 
+15,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"With EUR 6.4 million, Slovenia aims to assist around 70 companies in developing AI-based solutions, "
+15,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,from initial testing to full commercial deployment. This initiative is expected to expand the availability 
+15,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"of AI solutions and increase AI capabilities within funded companies, thereby indirectly boosting AI "
+15,3,4,Calibri,11.0,72.0,142.0,291.5,153.0,adoption across the broader business landscape. 
+15,4,0,Calibri-Bold,11.0,77.7,164.9,315.1,175.9,2024 recommendations on advanced technologies: 
+15,4,0,Calibri,11.0,315.9,164.9,520.2,175.9,Accelerate policies to increase and speed up 
+15,4,1,Calibri,11.0,77.7,179.4,520.3,190.5,"the uptake of advanced technologies. In particular by stepping up actions on data analytics, and by "
+15,4,2,Calibri,11.0,77.7,193.9,467.1,205.0,speeding up and further targeting preparation and implementation of measures on AI.  
+15,5,0,Calibri-Bold,11.0,77.7,216.9,520.1,227.9,Slovenia made some efforts to address the recommendation through new policy actions in 2024. 
+15,5,1,Calibri,11.0,77.7,231.4,520.2,242.4,"Slovenia is implementing projects to increase the adoption of advanced technologies, with a strong "
+15,5,2,Calibri,11.0,77.7,245.9,447.2,257.0,"emphasis on AI and new activities are planned, including in the adjusted roadmap. "
+15,5,2,Calibri-Bold,11.0,447.2,245.9,449.7,257.0, 
+15,6,0,Calibri-Light,12.0,72.0,275.1,233.6,287.1,"Unicorns, scale-ups and start-ups "
+15,6,1,Calibri-Bold,11.0,72.0,290.7,417.3,301.7,Slovenia is one of the six EU Member States without a unicorn company
+15,6,1,Calibri-Bold,7.0,417.3,289.8,424.3,296.8,15
+15,6,1,Calibri-Bold,11.0,424.3,290.7,525.8,301.7, and there is also no 
+15,6,2,Calibri-Bold,11.0,72.0,305.2,261.2,316.2,potential future unicorn in the country
+15,6,2,Calibri-Bold,7.0,261.2,304.3,268.2,311.3,16
+15,6,2,Calibri-Bold,11.0,268.1,305.2,273.6,316.2,. 
+15,6,2,Calibri,11.0,276.3,305.2,525.9,316.2,"In its adjusted roadmap, Slovenia maintains its very "
+15,6,3,Calibri,11.0,72.0,319.7,525.9,330.8,"ambitious goal of seven unicorns by 2030. Given the current situation in Slovenia, additional measures "
+15,6,4,Calibri,11.0,72.0,334.1,231.7,345.2,may be needed to meet this target. 
+15,7,0,Calibri-Bold,11.0,72.0,356.7,523.7,367.7,Slovenia continues to take action to improve access to funding and framework conditions for start-
+15,7,1,Calibri-Bold,11.0,72.0,371.2,408.2,382.2,"ups, although these initiatives are no longer part of its adjusted roadmap."
+15,7,1,Calibri,11.0,408.3,371.2,525.9,382.2, A key development is the 
+15,7,2,Calibri,11.0,72.0,385.6,306.8,396.6,start-up strategy currently under preparation. The 
+15,7,2,Calibri,11.0,308.8,385.6,370.5,396.6,draft strategy
+15,7,2,Calibri,11.0,370.4,385.6,525.9,396.6, from May 2024 outlines several 
+15,7,3,Calibri,11.0,72.0,400.1,525.9,411.2,"objectives closely linked to the Digital Decade target. To support the achievement of these objectives, "
+15,7,4,Calibri,11.0,72.0,414.7,523.5,425.7,the strategy proposes actions in five key areas: strengthening the supportive environment for start-
+15,7,5,Calibri,11.0,72.0,429.2,525.9,440.2,"ups, attracting global talent, developing the venture capital market, introducing employee stock option "
+15,7,6,Calibri,11.0,72.0,443.6,525.9,454.6,remuneration and creating a new legal business entity to simplify company creation and management. 
+15,7,7,Calibri,11.0,72.0,458.1,103.4,469.1,At the 
+15,7,7,Calibri,11.0,105.1,458.1,295.2,469.1,Slovenian Start-up event in January 2025
+15,7,7,Calibri,11.0,295.3,458.1,525.9,469.1,", stakeholders emphasized the need for the swift "
+15,7,8,Calibri,11.0,72.0,472.6,525.9,483.7,"finalisation and implementation of the strategy, alongside strong support and collaboration across "
+15,7,9,Calibri,11.0,72.0,487.1,121.0,498.2,ministries. 
+15,8,0,Calibri-Bold,11.0,72.0,509.6,228.6,520.6,In terms of framework conditions
+15,8,0,Calibri,11.0,228.8,509.6,525.9,520.6,", the Foreigners’ Act and the Employment, Self-employment and "
+15,8,1,Calibri,11.0,72.0,524.1,525.8,535.2,Work of Foreigners Act have been amended to streamline the procedures for employing foreign 
+15,8,2,Calibri,11.0,72.0,538.6,525.9,549.7,"workers. Closely aligned with the draft start-up strategy, additional legislative changes are being "
+15,8,3,Calibri,11.0,72.0,553.0,525.9,564.1,"developed, including introducing new legal entities and of employee stock option remuneration. These "
+15,8,4,Calibri,11.0,72.0,567.6,320.4,578.6,changes are expected to be implemented later in 2025. 
+15,9,0,Calibri-Bold,11.0,72.0,590.1,525.9,601.2,"On access to funding, venture capital expenditure remains low and Slovenian businesses rely less on "
+15,9,1,Calibri-Bold,11.0,72.0,604.5,260.5,615.6,funding from capital markets than the EU.
+15,9,1,Calibri,11.0,260.6,604.5,525.8,615.6," Venture capital amounts to only 0.005% of GDP in Slovenia, "
+15,9,2,Calibri,11.0,72.0,619.1,523.6,630.1,which is the second lowest in the EU. Shares and bonds only represented 7.4% of Slovenian non-
+15,9,3,Calibri,11.0,72.0,633.6,525.9,644.6,"financial corporations fundings sources (compared 23.8% in the EU). In this context, one key initiative "
+15,9,4,Calibri,11.0,72.0,648.1,98.5,659.1,is the 
+15,9,4,Calibri,11.0,98.2,648.1,258.2,659.1,Slovene Early Stage Innovation Fund
+15,9,4,Calibri,11.0,258.2,648.1,525.9,659.1,", which will fund around 70 projects of innovative deep-tech "
+15,9,5,Calibri,11.0,72.0,662.5,525.9,673.5,start-ups and scale-ups with a budget of EUR 25 million (this measure was included in the initial 
+15,9,6,Calibri,11.0,72.0,677.0,525.9,688.1,roadmap with a total budget of EUR 125 million). The launch was already announced last year but is 
+15,10,0,Calibri,11.0,216.1,691.5,218.5,702.6, 
+15,10,1,Calibri,6.5,72.0,704.1,78.5,710.6,15
+15,10,1,Calibri,10.0,78.5,705.0,80.8,714.9, 
+15,10,1,Calibri,9.0,80.4,705.7,525.3,714.7,Based on data from Dealroom (extracted on 24.03.2025). A unicorn is a company that has been valued at over USD 1 billion 
+15,10,2,Calibri,9.0,72.0,716.9,525.2,725.9,in an initial public offering or trade sale or a company that has been valued at over USD 1 billion in its last private venture 
+15,10,3,Calibri,9.0,72.0,727.9,525.3,736.9,"funding round. Only companies headquartered in the EU are considered. In its adjusted roadmap, Slovenia reports one "
+15,10,4,Calibri,9.0,72.0,738.9,308.9,747.9,"unicorn, which was acquired in 2017 by a non-Slovene company. "
+15,10,5,Calibri,6.0,72.0,749.6,78.1,755.6,16
+15,10,5,Calibri,9.0,78.0,749.8,525.4,758.8, Based on data from Dealroom (extracted on 31.01.2025). A potential future unicorn is a company with a market valuation 
+15,10,6,Calibri,9.0,72.0,760.9,336.8,769.9,"between USD 250 million and USD 999 million, headquartered in the EU."
+15,10,6,Calibri,10.0,336.9,760.2,341.4,770.1,  
+15,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+16,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"currently still being prepared. In the meantime, a call for proposals with a total budget of EUR 2.2 "
+16,2,1,Calibri,11.0,72.0,98.4,149.1,109.5,million has been 
+16,2,1,Calibri,11.0,149.8,98.4,190.9,109.5,launched
+16,2,1,Calibri,11.0,190.9,98.4,525.8,109.5, to fund the innovative start-ups in their development of minimum viable 
+16,2,2,Calibri,11.0,72.0,112.9,215.8,124.0,products and product launches. 
+16,4,0,Calibri-Light,15.0,72.0,136.4,322.7,151.4,Strengthening Cybersecurity & Resilience 
+16,5,0,Calibri-Bold,11.0,72.0,163.2,379.7,174.3,"In Slovenia, 56% of people have at least basic digital safety skills"
+16,5,0,Calibri,11.0,379.9,163.2,525.8,174.3,", well below the EU average of "
+16,5,1,Calibri,11.0,72.0,177.7,525.9,188.8,"69.55%. Moreover, only 28.98% of individuals are engaged in three or more precautionary actions (and "
+16,5,2,Calibri,11.0,72.0,192.1,525.7,203.2,therefore could be considered as having above basic digital safety skills). The most frequent measure 
+16,5,3,Calibri,11.0,72.0,206.7,525.8,217.7,"was refusal of the use of personal data for advertising purposes (34.21%), while limiting access to social "
+16,5,4,Calibri,11.0,72.0,221.2,342.2,232.2,media profiles and content was the least common (20.71%). 
+16,6,0,Calibri-Bold,11.0,72.0,243.6,336.9,254.7,Slovenian enterprises tend to experience fewer incidents 
+16,6,1,Calibri-Bold,11.0,72.0,258.2,336.8,269.2,related to cyberattacks and employees are less aware of 
+16,6,2,Calibri-Bold,11.0,72.0,272.7,331.4,283.7,their ICT security related obligations compared to the EU
+16,6,2,Calibri,11.0,331.6,272.7,336.9,283.7,. 
+16,6,3,Calibri,11.0,72.0,287.2,336.8,298.2,The number of enterprises that experienced ICT security 
+16,6,4,Calibri,11.0,72.0,301.6,336.7,312.6,incidents leading to unavailability of ICT services due to 
+16,6,5,Calibri,11.0,72.0,316.1,336.7,327.2,"attack from outside (e.g. Ransomware attacks, Denial of "
+16,6,6,Calibri,11.0,72.0,330.6,336.9,341.7,"Service attacks) slightly increased in Slovenia, from 2.15% "
+16,6,7,Calibri,11.0,72.0,345.2,336.7,356.2,in 2022 to 2.58% in 2024. It remains below the EU average 
+16,6,8,Calibri,11.0,72.0,359.6,336.9,370.6,"(3.43%). Furthermore, Slovenian enterprises are less prone "
+16,6,9,Calibri,11.0,72.0,374.1,336.8,385.1,to incidents related to hardware or software failures 
+16,6,10,Calibri,11.0,72.0,388.6,336.9,399.6,(8.13%) which is one of the lowest figures in the EU. In 
+16,6,11,Calibri,11.0,72.0,403.1,336.8,414.2,"terms of security measures, the proportion of enterprises "
+16,6,12,Calibri,11.0,72.0,417.5,336.8,428.6,implementing them is below the EU average (86.12% 
+16,6,13,Calibri,11.0,72.0,432.1,336.8,443.1,"compared to 92.76%). Similarly, the share of enterprises "
+16,6,14,Calibri,11.0,72.0,446.6,336.8,457.6,that made their employees aware of their obligations in ICT 
+16,6,15,Calibri,11.0,72.0,461.1,336.9,472.1,security related issues is also lower than the EU average 
+16,6,16,Calibri,11.0,72.0,475.5,161.6,486.5,(55.08% vs 59.97%).
+16,6,16,Calibri-Bold,11.0,161.5,475.5,164.0,486.5, 
+16,8,0,Calibri-Bold,11.0,72.0,498.1,336.6,509.1,Slovenia is significantly lagging behind in the adoption of 
+16,8,1,Calibri-Bold,11.0,72.0,512.6,336.8,523.6,"the secure IPv6 protocol, both among end users and on "
+16,8,2,Calibri-Bold,11.0,72.0,527.0,138.1,538.0,the server side
+16,8,2,Calibri,11.0,138.1,527.0,525.8,538.0,". In deploying secure internet standards, only 12% of end users in Slovenia have adopted "
+16,8,3,Calibri,11.0,72.0,541.5,525.7,552.5,"Internet Protocol version 6 (IPv6), compared to the EU average of 36%. Similarly, for the internet "
+16,8,4,Calibri,11.0,72.0,556.1,525.7,567.1,"services that can operate over IPv6, Slovenia stands at 4%, while the EU average is 17%. IPv6 is an "
+16,8,5,Calibri,11.0,72.0,570.6,525.7,581.6,"important protocol as it ensures the scalability, stability, and security of the Internet. Its deployment "
+16,8,6,Calibri,11.0,72.0,585.0,525.9,596.0,"has become increasingly urgent, as traditional IPv4 addresses have been exhausted for some time. "
+16,8,7,Calibri,11.0,72.0,599.5,525.7,610.5,Domain Name System Security Extensions (DNSSEC) is another important standard that introduces 
+16,8,8,Calibri,11.0,72.0,614.0,525.8,625.1,"security features to DNS. In Slovenia, the DNSSEC validation rate is 65% in Q3 2024, much higher than "
+16,8,9,Calibri,11.0,72.0,628.5,177.6,639.6,the EU average of 47%. 
+16,9,0,Calibri-Bold,11.0,72.0,651.0,525.9,662.0,"According to the Government Information Security Office, the transposition of the Network and "
+16,9,1,Calibri-Bold,11.0,72.0,665.5,525.7,676.5,Information Systems (NIS) 2 directive through the new Information Security Act is close to 
+16,9,2,Calibri-Bold,11.0,72.0,680.0,125.8,691.1,finalisation.
+16,9,2,Calibri,11.0,125.9,680.0,525.9,691.1," The NIS 2 directive seeks to strengthen cybersecurity in 18 critical sectors, including public "
+16,9,3,Calibri,11.0,72.0,694.4,525.9,705.5,"electronic communications and manufacturing. Industry stakeholders expect that, while the "
+16,9,4,Calibri,11.0,72.0,708.9,525.9,720.0,implementation may pose challenges for businesses – such as the need for specialised skills – it could 
+16,9,5,Calibri,11.0,72.0,723.5,525.9,734.5,also help drive the adoption of digital technologies in Slovenian businesses. The planned cybersecurity 
+16,9,6,Calibri,11.0,72.0,738.0,525.7,749.0,voucher (see SME with at least basic digital intensity section) may provide additional support to 
+16,9,7,Calibri,11.0,72.0,752.4,186.3,763.4,businesses in this regard. 
+16,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+17,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"With increasing cyber threats, Slovenia develops cyber awareness and capabilities on several fronts. "
+17,3,1,Calibri,11.0,72.0,98.4,113.9,109.5,"However,"
+17,3,1,Calibri-Bold,11.0,113.9,98.4,116.4,109.5, 
+17,3,1,Calibri,11.0,116.2,98.4,525.9,109.5,"in its adjusted roadmap, Slovenia has maintained existing measures without introducing any "
+17,3,2,Calibri,11.0,72.0,112.9,217.4,124.0,new ones. For its public services
+17,3,2,Calibri-Bold,11.0,217.5,112.9,222.9,124.0,", "
+17,3,2,Calibri,11.0,223.2,112.9,525.9,124.0,Slovenia is working on connecting several government bodies via a 
+17,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,quantum key distribution network to secure their communications (see also quantum section) and is 
+17,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"providing cybersecurity trainings to its civil servants. As part of the Digital Healthcare Act, which is still "
+17,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"to be adopted, the digitalisation of healthcare infrastructure, including cybersecurity, will be managed "
+17,3,6,Calibri,11.0,72.0,170.9,525.8,181.9,by an independent agency that is still to be established. According to the Digital Decade Eurobarometer 
+17,3,7,Calibri,11.0,72.0,185.4,525.8,196.5,"2025, 80% of Slovenians think that an improved cybersecurity, better protection of online data and "
+17,3,8,Calibri,11.0,72.0,199.9,444.6,211.0,safety of digital technologies would facilitate their daily use of digital technologies.  
+17,4,0,Calibri-Bold,11.0,72.0,222.4,525.9,233.4,"In terms of integrating cybersecurity into education, Slovenia is creating a network to conduct "
+17,4,1,Calibri-Bold,11.0,72.0,236.9,231.9,248.0,cybersecurity trainings in schools.
+17,4,1,Calibri,11.0,232.0,236.9,525.9,248.0," This initiative, maintained in its adjusted roadmap, started in "
+17,4,2,Calibri,11.0,72.0,251.4,525.9,262.5,"summer 2024, with training for teachers set to continue in 2025. So far, 22 schools are involved, with "
+17,4,3,Calibri,11.0,72.0,265.9,525.9,276.9,"plans to expand the network to a total of up to 80 schools. Additionally, a pilot project of cybersecurity "
+17,4,4,Calibri,11.0,72.0,280.4,389.2,291.4,"training for girls has been launched, with around 80 girls trained so far. "
+17,5,0,Calibri,11.0,72.0,317.2,74.5,328.2, 
+17,5,1,Calibri-Bold,26.0,216.1,306.0,221.9,332.0, 
+17,6,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,6,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+18,3,0,Calibri-Bold,26.0,72.0,87.0,493.4,113.1,Protecting and empowering EU people 
+18,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+18,4,0,Calibri-Light,15.0,72.0,161.3,526.8,176.3,Empowering people and bringing the digital transformation closer to their 
+18,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+18,5,0,Calibri-Bold,11.0,72.0,208.0,238.5,219.0,Slovenia lags behind in digital skills. 
+18,5,0,Calibri,11.0,238.7,208.0,525.9,219.0,Although its population has a relatively low level of basic digital 
+18,5,1,Calibri,11.0,72.0,222.5,525.7,233.5,"skills, the disparities across gender, education level, living areas and age groups are less pronounced "
+18,5,2,Calibri,11.0,72.0,237.0,525.9,248.1,compared to the EU and the country is actively working to enhance digital inclusion. Despite making 
+18,5,3,Calibri,11.0,72.0,251.4,525.6,262.5,"good progress in increasing its proportion of ICT specialists within the workforce, Slovenia still falls "
+18,5,4,Calibri,11.0,72.0,266.0,525.9,277.0,below the EU average. The relatively low share of ICT specialists may be one of the factors limiting the 
+18,5,5,Calibri,11.0,72.0,280.5,525.9,291.5,"adoption of advanced digital technologies by businesses. For example, in 2023, 58.3% of companies "
+18,5,6,Calibri,11.0,72.0,295.0,484.0,306.0,"expressed interest in adopting AI technologies, but refrained due to the lack of relevant skills"
+18,5,6,Calibri,7.0,483.9,294.1,490.9,301.1,17
+18,5,6,Calibri,11.0,490.9,295.0,525.9,306.0,. In this 
+18,5,7,Calibri,11.0,72.0,309.4,525.9,320.5,"context, it will be crucial to see how digital skills will be integrated into the ongoing higher education "
+18,5,8,Calibri,11.0,72.0,323.9,525.9,335.0,reform and the education curricula reform. The availability of digital public services is less widespread 
+18,5,9,Calibri,11.0,72.0,338.4,525.9,349.5,"than in the EU, but their uptake is higher than on EU average. According to the Ministry of Public "
+18,5,10,Calibri,11.0,72.0,353.0,525.9,364.0,"Administration, providing cross-border services remains challenging, but is expected to be improved "
+18,5,11,Calibri,11.0,72.0,367.5,525.9,378.5,"with the implementation of the Single Digital Gateway. Moreover, the country intends to enhance the "
+18,5,12,Calibri,11.0,72.0,381.9,525.9,392.9,"digital transformation of public authorities, in particular for data access and use and on municipality "
+18,5,13,Calibri,11.0,72.0,396.4,525.8,407.5,level. A relatively high share of Slovenians encounters hostile and degrading messages online and is 
+18,5,14,Calibri,11.0,72.0,410.9,525.9,422.0,"exposed to misinformation, which they are less likely to verify compared to their EU peers. Despite "
+18,5,15,Calibri,11.0,72.0,425.5,525.9,436.5,"leading in using the internet to express opinions on political issues online, Slovenians are the least "
+18,5,16,Calibri,11.0,72.0,439.9,505.6,450.9,"likely to participate in online consultations or voting on political issues, such as signing a petition. "
+18,6,0,Calibri-Light,12.0,72.0,462.7,182.3,474.7,Equipping people with 
+18,6,0,Calibri,12.0,182.4,462.7,238.0,474.7,digital skills
+18,6,0,Calibri-Light,12.0,238.0,462.7,240.7,474.7, 
+18,7,0,Calibri-LightItalic,11.0,72.0,480.2,152.0,491.2,Basic Digital Skills 
+18,8,0,Calibri-Bold,11.0,72.0,508.6,525.9,519.7,"In 2023, Slovenia’s population with at least basic digital skills stood at 46.70% (2030 national target "
+18,8,1,Calibri-Bold,11.0,72.0,522.1,295.6,533.1,is 80%) after a decline of -3.0% compared to 2021
+18,8,1,Calibri-Bold,7.0,295.5,521.2,302.5,528.1,18
+18,8,1,Calibri-Bold,11.0,302.5,522.1,495.1,533.1,", lagging behind the EU average of 55.56%."
+18,8,1,Calibri,11.0,495.1,522.1,525.9,533.1, While 
+18,8,2,Calibri,11.0,72.0,535.5,525.9,546.5,"there are no figures available for 2024, detailed breakdowns of the 2023 data provide a more granular "
+18,8,3,Calibri,11.0,72.0,548.9,129.2,560.0,perspective. 
+18,9,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+18,10,0,Calibri,6.0,72.0,727.6,78.1,733.6,17
+18,10,0,Calibri,9.0,78.0,727.9,261.2,736.9," IMAD Development Report 2024 (SURS, 2024b).   "
+18,10,1,Calibri,6.0,72.0,738.7,78.1,744.7,18
+18,10,1,Calibri,9.0,78.0,738.9,525.1,747.9," The decrease could be explained by post-COVID-19 effects, with a decreased digital activity of the population, e.g., with "
+18,10,2,Calibri,9.0,72.0,749.8,525.5,758.8,"less teleworking or online purchases. Looking at some indicators focused on one specific activity, e.g., use of cloud services, "
+18,10,3,Calibri,9.0,72.0,760.9,492.2,769.9,"internet use, use of ICT at work and doing financial activities online, Slovenia mainly scores around the EU average. "
+18,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+19,4,0,SymbolMT,11.0,97.1,81.7,102.2,95.2,•
+19,4,0,ArialMT,11.0,102.1,82.8,105.2,95.1, 
+19,4,1,Calibri-Bold,11.0,115.1,84.5,172.9,95.5,Gender Gap:
+19,4,1,Calibri,11.0,172.9,84.5,320.2,95.5, The gender disparity in Slovenia 
+19,4,2,Calibri,11.0,115.1,97.9,320.1,109.0,"is minimal, with 46.92% of men and 46.47% of "
+19,4,3,Calibri,11.0,115.1,111.4,320.1,122.4,women having basic digital skills. This gap is 
+19,4,4,Calibri,11.0,115.1,124.8,320.0,135.9,also lower than the EU average (0.45 
+19,4,5,Calibri,11.0,115.1,138.3,322.6,149.3,percentage points (pp) compared to 2.23 pp).  
+19,4,6,SymbolMT,11.0,97.1,149.5,102.2,163.0,•
+19,4,6,ArialMT,11.0,102.1,150.6,105.2,162.9, 
+19,4,7,Calibri-Bold,11.0,115.1,152.3,191.9,163.3,Education Level:
+19,4,7,Calibri,11.0,191.9,152.3,320.1,163.3, Slovenia scores below the 
+19,4,8,Calibri,11.0,115.1,165.7,320.1,176.8,"EU average across all education levels, but the "
+19,4,9,Calibri,11.0,115.1,179.2,320.1,190.2,skills gap between these levels is narrower 
+19,4,10,Calibri,11.0,115.1,192.6,320.1,203.7,compared to the EU average. Among 
+19,4,11,Calibri,11.0,115.1,205.9,320.1,217.0,"individuals with a high formal education, "
+19,4,12,Calibri,11.0,115.1,219.4,320.1,230.4,68.69% have basic digital skills (EU average: 
+19,4,13,Calibri,11.0,115.1,232.9,320.1,243.9,79.83%). The group with no or low formal 
+19,4,14,Calibri,11.0,115.1,246.3,320.0,257.3,"education is most affected, with only 32.61% "
+19,4,15,Calibri,11.0,115.1,259.7,320.1,270.8,possessing basic digital skills (EU average: 
+19,4,16,Calibri,11.0,115.1,273.2,320.1,284.2,"33.61%). However, the gap between this "
+19,4,17,Calibri,11.0,115.1,286.6,525.8,297.6,"group’s digital skills and the national average is 14.09 pp, smaller than the EU average gap "
+19,4,18,Calibri,11.0,115.1,300.0,173.7,311.1,of 21.95 pp.  
+19,4,19,SymbolMT,11.0,97.1,311.2,102.2,324.6,•
+19,4,19,ArialMT,11.0,102.1,312.3,105.2,324.6, 
+19,4,20,Calibri-Bold,11.0,115.1,314.0,172.7,325.0,Living Areas:
+19,4,20,Calibri,11.0,172.7,314.0,525.9,325.0," 42.41% of the rural residents in Slovenia have basic digital skills, which is under "
+19,4,21,Calibri,11.0,115.1,327.4,525.9,338.4,"the EU rural average of 47.50%. However, the gap between rural residents and the Slovenian "
+19,4,22,Calibri,11.0,115.1,340.8,461.1,351.9,national average is 4.29pp and narrower than the EU average gap of 8.06pp.  
+19,4,23,SymbolMT,11.0,97.1,352.1,102.2,365.6,•
+19,4,23,ArialMT,11.0,102.1,353.2,105.2,365.5, 
+19,4,24,Calibri-Bold,11.0,115.1,354.9,172.8,365.9,Age Groups:
+19,4,24,Calibri,11.0,172.7,354.9,525.8,365.9, The age group analysis shows that 16 to 24-year-olds are the most skilled 
+19,4,25,Calibri,11.0,115.1,368.3,525.6,379.4,"digitally, with 73.07%, which is the only age group where Slovenia is surpassing the EU "
+19,4,26,Calibri,11.0,115.1,381.8,525.9,392.8,"average (69.98%). Conversely, the 65 to 74-year-olds demonstrate the lowest digital skills "
+19,4,27,Calibri,11.0,115.1,395.2,430.6,406.3,"level, at a mere 17.06%, which is far below the EU average of 28.19%.  "
+19,4,28,SymbolMT,11.0,97.1,406.5,102.2,419.9,•
+19,4,28,ArialMT,11.0,102.1,407.6,105.2,419.9, 
+19,4,29,Calibri-Bold,11.0,115.1,409.3,263.5,420.3,Digital Skills Index components:
+19,4,29,Calibri,11.0,263.6,409.3,525.9,420.3," Looking at the five Digital Skills Index’s individual areas, "
+19,4,30,Calibri,11.0,115.1,422.6,525.8,433.6,"Slovenia is above the EU average only in one of them: information and data literacy, scoring "
+19,4,31,Calibri,11.0,115.1,436.0,525.9,447.1,"85.83%. Moreover, the level of safety skills is concerning, with Slovenia scoring only 56.34%, "
+19,4,32,Calibri,11.0,115.1,449.5,345.3,460.5,substantially lower than the EU average of 69.55%. 
+19,5,0,Calibri,11.0,72.0,476.9,525.9,488.0,"Although Slovenia lags behind in basic digital skills, the disparities across gender, education level, living "
+19,5,1,Calibri,11.0,72.0,490.4,357.8,501.4,areas and age groups are less pronounced compared to the EU. 
+19,6,0,Calibri-Bold,11.0,72.0,517.7,525.9,528.8,Slovenia’s target for the basic digital skills of its population remains at 80% in its adjusted roadmap. 
+19,6,1,Calibri,11.0,72.0,532.3,525.9,543.3,"To support this, Slovenia has introduced two new measures in its roadmap focusing on digital inclusion: "
+19,6,2,Calibri,11.0,72.0,546.8,525.9,557.8,one aimed at assisting NGOs in the use of digital technologies and another one on monitoring digital 
+19,6,3,Calibri,11.0,72.0,561.3,525.9,572.4,"inclusion to inform future initiatives. However, two measures in formal education and digital inclusion "
+19,6,4,Calibri,11.0,72.0,575.7,525.9,586.8,have been removed (one of them has been removed due to the pending legal basis for implementing 
+19,6,5,Calibri,11.0,72.0,590.3,279.4,601.3,a train-the-trainer concept for digital literacy). 
+19,7,0,Calibri-Bold,11.0,72.0,612.8,525.8,623.9,"A key initiative in this area is the modernisation of education curricula, with the goal of integrating "
+19,7,1,Calibri-Bold,11.0,72.0,627.2,479.4,638.3,"digital skills more comprehensively into pre-school, primary, and secondary education"
+19,7,1,Calibri,11.0,479.5,627.2,525.9,638.3,. A broad 
+19,7,2,Calibri,11.0,72.0,641.7,525.7,652.8,"group of experts from academia, public development institutions, and practitioners has been involved "
+19,7,3,Calibri,11.0,72.0,656.3,525.9,667.3,"in the reform, and the work on updating the curricula is about to be finalised. The updated curricula "
+19,7,4,Calibri,11.0,72.0,670.8,525.9,681.8,"are expected to be processed for government adoption by the end of 2025., Slovenia reported that it "
+19,7,5,Calibri,11.0,72.0,685.2,525.9,696.2,"plans to integrate digital skills at all levels, including in primary and secondary schools. However, it "
+19,7,6,Calibri,11.0,72.0,699.7,525.8,710.7,remains to be seen how extensively digital skills will be integrated. Although acquiring digital skills is 
+19,7,7,Calibri,11.0,72.0,714.2,525.6,725.3,"not mandatory in teacher training programmes, digital skills for teachers are being incorporated into "
+19,7,8,Calibri,11.0,72.0,728.8,525.7,739.8,"various educational projects. Additionally, new IT solutions in teaching are being supported through "
+19,7,9,Calibri,11.0,72.0,743.2,525.8,754.2,"dedicated projects, such as an app for pupils on learning to read, already used by over 4 000 teachers "
+19,7,10,Calibri,11.0,72.0,757.7,142.7,768.7,in their classes. 
+19,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+20,3,0,Calibri-Bold,11.0,72.0,84.0,525.7,95.1,Slovenia continues to implement measures to support basic digital skills across different 
+20,3,1,Calibri-Bold,11.0,72.0,98.4,479.4,109.5,"demographic groups, including young people, adults, older people, and vulnerable groups."
+20,3,1,Calibri,11.0,479.6,98.4,525.9,109.5," However, "
+20,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,it remains to be seen if these efforts will be sufficient to address the low level of basic digital skills 
+20,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"across the population overall. Since 2022, people aged 55 and older have been able to develop basic "
+20,3,4,Calibri,11.0,72.0,142.0,404.2,153.0,"digital skills through the ‘classroom on wheels’ project. By now, the project "
+20,3,4,Calibri,11.0,404.0,142.0,467.6,153.0,mobile heroes
+20,3,4,Calibri,11.0,467.5,142.0,525.9,153.0, has reached 
+20,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,over 5 000 participants throughout the country and Slovenia has also shared this project as one of four 
+20,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,best practices for the Digital Decade Best Practice Accelerator on basic and advanced digital skills. Since 
+20,3,7,Calibri,11.0,72.0,185.4,470.4,196.5,"2024, more than 15 000 young people have improved their digital skills in the project "
+20,3,7,Calibri,11.0,471.9,185.4,523.5,196.5,Youth 2024
+20,3,7,Calibri,11.0,523.4,185.4,525.9,196.5, 
+20,3,8,Calibri,11.0,72.0,199.9,525.7,211.0,"through workshops and courses, with a focus on encouraging girls into ICT, teaching advanced digital "
+20,3,9,Calibri,11.0,72.0,214.3,525.8,225.4,"technologies like AI and blockchain, and building competencies such as information and data literacy "
+20,3,10,Calibri,11.0,72.0,228.9,346.0,239.9,"and problem-solving. The project will be continued, with a "
+20,3,10,Calibri,11.0,347.5,228.9,436.0,239.9,new call for tender
+20,3,10,Calibri,11.0,435.9,228.9,525.9,239.9, already underway. 
+20,3,11,Calibri,11.0,72.0,243.4,433.1,254.4,"Furthermore, over 10 000 participants aged 30 and more have taken part in "
+20,3,11,Calibri,11.0,434.9,243.4,525.9,254.4,non-formal training 
+20,3,12,Calibri,11.0,72.0,257.9,105.9,269.0,courses
+20,3,12,Calibri,11.0,106.0,257.9,525.9,269.0," to acquire basic and advanced digital skills, as well as increased awareness about responsible "
+20,3,13,Calibri,11.0,72.0,272.3,525.9,283.4,"and safe technology use. By October 2025, the number of adults trained is expected to exceed 25 000. "
+20,3,14,Calibri,11.0,72.0,286.9,525.7,297.9,"Moreover, ongoing training programmes are enhancing the digital competencies of civil servants, "
+20,3,15,Calibri,11.0,72.0,301.4,525.9,312.4,"covering both basic and advanced digital skills as well as digital leadership skills. In total, at least 40 "
+20,3,16,Calibri,11.0,72.0,315.9,525.9,326.9,"000 participations will be provided by 2026, with Slovenia reporting that more than half of these have "
+20,3,17,Calibri,11.0,72.0,330.4,185.4,341.4,already been completed. 
+20,4,0,Calibri,11.0,72.0,352.8,525.8,363.9,"According to the 2025 Eurobarometer, 78% of Slovenians think that human support to help accessing "
+20,4,1,Calibri,11.0,72.0,367.4,525.9,378.4,and using digital technologies and services would facilitate their daily use of digital technologies. 86% 
+20,4,2,Calibri,11.0,72.0,381.8,525.8,392.8,of Slovenian respondents think that public authorities should prioritise ensuring that people receive 
+20,4,3,Calibri,11.0,72.0,396.3,528.3,407.4,proper human support to accompany the transformation brought by digital technologies and services.  
+20,5,0,Calibri-Bold,11.0,77.7,419.3,282.8,430.4,2024 recommendation on basic digital skills: 
+20,5,0,Calibri,11.0,283.1,419.3,520.1,430.4,Accelerate efforts in the area of basic digital skills. In 
+20,5,1,Calibri,11.0,77.7,433.9,520.0,444.9,"particular, by increasing the level of these skills to allow its population and economy to make full "
+20,5,2,Calibri,11.0,77.7,448.3,520.3,459.3,use of the potential of digital transformation. This can be done through an increased and intensified 
+20,5,3,Calibri,11.0,77.7,462.8,336.3,473.8,offer and collaboration between public and private actors.
+20,5,3,Calibri-Bold,11.0,336.4,462.8,338.9,473.8, 
+20,6,0,Calibri-Bold,11.0,77.7,485.8,522.8,496.9,Slovenia made some efforts to address the recommendation through new policy actions in 2024.  
+20,6,1,Calibri,11.0,77.7,500.2,520.3,511.3,Slovenia continues to implement measures to support basic digital skills across various demographic 
+20,6,2,Calibri,11.0,77.7,514.7,520.3,525.8,groups and added two new measures in its adjusted roadmap to promote digital inclusion. The 
+20,6,3,Calibri,11.0,77.7,529.3,520.3,540.3,"curricula reform, a vital component for integrating digital skills more broadly throughout the "
+20,6,4,Calibri,11.0,77.7,543.8,520.1,554.8,"population, is currently still ongoing and it remains to be seen how digital skills will be reflected "
+20,6,5,Calibri,11.0,77.7,558.2,110.8,569.3,exactly.
+20,6,5,Calibri-Bold,11.0,110.7,558.2,113.2,569.3, 
+20,7,0,Calibri-LightItalic,11.0,72.0,587.3,132.8,598.3,ICT specialists
+20,7,0,Calibri-BoldItalic,11.0,132.7,587.3,135.2,598.3, 
+20,7,1,Calibri-Bold,11.0,72.0,601.8,525.8,612.8,"In 2024, Slovenia is at 4.3% of ICT specialists in total employment (2030 national target is 10%) after "
+20,7,2,Calibri-Bold,11.0,72.0,616.3,525.8,627.3,a considerable increase of 13.2% but remains below the EU average of 5.0%. The country is lagging 
+20,7,3,Calibri-Bold,11.0,72.0,630.7,267.6,641.7,behind compared to its national trajectory. 
+20,7,3,Calibri,11.0,267.2,630.7,525.9,641.7,"Nonetheless, Slovenia is making progress in narrowing the "
+20,7,4,Calibri,11.0,72.0,645.2,525.9,656.3,"gap with the EU, with its share of ICT specialists increasing from 3.8% in 2023 (EU-level share: 4.8%) at "
+20,7,5,Calibri,11.0,72.0,659.7,525.8,670.8,a notably higher growth rate of 13.2% compared to the EU’s 4.2%. The percentage of female ICT 
+20,7,6,Calibri,11.0,72.0,674.3,525.6,685.3,"specialists in Slovenia is now 19.2%, slightly below the EU average of 19.5%, yet marked by a growth "
+20,7,7,Calibri,11.0,72.0,688.7,525.8,699.7,"rate of 12.3% which exceeds the EU’s 0.5%. In 2023, Slovenia’s female ICT specialist share was 17.1% "
+20,7,8,Calibri,11.0,72.0,703.2,525.9,714.2,"compared to 19.4% at the EU level, indicating a positive trend in improving gender diversity within the "
+20,7,9,Calibri,11.0,72.0,717.7,525.8,728.7,"sector. In 2024, 26.94% of enterprises with 10 or more employees in Slovenia provided ICT training, "
+20,7,10,Calibri,11.0,72.0,732.2,525.9,743.3,"surpassing the EU’s 22.29%. However, while the EU’s share of enterprises providing ICT training "
+20,7,11,Calibri,11.0,72.0,746.6,513.9,757.7,"stagnated, Slovenia’s share declined compared to 2022 (28.86% in Slovenia vs 22.37% on EU level). "
+20,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+21,3,0,Calibri-Bold,11.0,72.0,84.0,489.4,95.1,Slovenia’s target for ICT specialists remains at 10% in employment in its adjusted roadmap. 
+21,3,0,Calibri,11.0,489.5,84.0,525.9,95.1,Despite 
+21,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"the considerable efforts required to meet this target, Slovenia has not introduced any new measures "
+21,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"in its adjusted roadmap. In fact, it has reduced the budget for most of the existing initiatives, which "
+21,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,are often narrowly focused in scope and appear suitable for providing targeted support in specific 
+21,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"technology areas (cybersecurity and quantum). Additionally, a range of shorter programmes for "
+21,3,5,Calibri,11.0,72.0,156.4,525.8,167.4,"reskilling or -upskilling focused on different topics, will continue. These programmes will primarily be "
+21,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,"targeted at women. However, these efforts do not seem sufficient to address the need for ICT "
+21,3,7,Calibri,11.0,72.0,185.4,237.9,196.5,specialists in the country sufficiently. 
+21,4,0,Calibri-Bold,11.0,72.0,207.9,525.9,218.9,"A key initiative in this context is the reform of the higher education curricula, aimed at integrating "
+21,4,1,Calibri-Bold,11.0,72.0,222.4,341.8,233.4,digital skills more comprehensively into higher education. 
+21,4,1,Calibri,11.0,342.4,222.4,525.9,233.4,The proposal for this curricula update is 
+21,4,2,Calibri,11.0,72.0,236.9,525.9,248.0,currently in interministerial consultation and is expected to be introduced next year. Against the 
+21,4,3,Calibri,11.0,72.0,251.4,525.9,262.5,"background of the current needs, it remains to be seen how extensively advanced digital skills will be "
+21,4,4,Calibri,11.0,72.0,265.9,525.8,276.9,"integrated. At the same time, pilot projects are being carried out to test solutions for integrating digital "
+21,4,5,Calibri,11.0,72.0,280.4,525.8,291.4,"skills into higher education curricula, with a focus on improving labour market outcomes. Given the "
+21,4,6,Calibri,11.0,72.0,294.9,525.9,305.9,"strong interest from both employers and employees, micro-credential courses in digital skills have also "
+21,4,7,Calibri,11.0,72.0,309.4,228.6,320.5,been launched in this context. The 
+21,4,7,Calibri,11.0,228.9,309.4,354.4,320.5,OECD’s mid-term evaluation
+21,4,7,Calibri,11.0,354.4,309.4,525.8,320.5," of several pilot projects, presented in "
+21,4,8,Calibri,11.0,72.0,323.8,525.9,334.9,"February 2025, confirms that digital transformation - often linked to upgrading digital infrastructure - "
+21,4,9,Calibri,11.0,72.0,338.3,525.9,349.4,and the development of micro-credentials are key focus areas of the pilot projects. The OECD also 
+21,4,10,Calibri,11.0,72.0,352.8,525.7,363.9,highlighted that identifying skill shortages and predicting the competencies needed remains a 
+21,4,11,Calibri,11.0,72.0,367.4,509.2,378.4,"significant challenge, and that interdisciplinary approaches are crucial for embedding digital skills. "
+21,5,0,Calibri-Bold,11.0,72.0,389.8,523.5,400.9,Efforts to anticipate the demand for ICT specialists and future job market trends are ongoing.
+21,5,0,Calibri,11.0,523.4,389.8,525.9,400.9, 
+21,5,1,Calibri,11.0,72.0,404.3,284.6,415.4,"However, the latest skills forecast data from the "
+21,5,1,Calibri,11.0,284.4,404.3,390.5,415.4,Labour Market Platform
+21,5,1,Calibri,11.0,390.4,404.3,525.9,415.4," dates back to June 2023, with "
+21,5,2,Calibri,11.0,72.0,418.9,525.8,429.9,"an update expected by 2028. Furthermore, Slovenia has conducted pilot projects in both the public "
+21,5,3,Calibri,11.0,72.0,433.3,525.8,444.3,"and pharmaceutical sectors to explore how sector-specific changes, such as increased production in "
+21,5,4,Calibri,11.0,72.0,447.8,525.9,458.8,"the pharmaceutical industry, can be factored into the higher education system. The key findings from "
+21,5,5,Calibri,11.0,72.0,462.3,525.6,473.4,these projects suggest that addressing the dynamic needs of various economic sectors remains 
+21,5,6,Calibri,11.0,72.0,476.8,525.9,487.9,challenging and that updating educational offers to match these needs can still take long (several years 
+21,5,7,Calibri,11.0,72.0,491.2,525.8,502.3,in this case). Reports suggest that Slovenia does not yet have an integrated mechanism for knowing 
+21,5,8,Calibri,11.0,72.0,505.7,323.6,516.8,and forecasting human resources needs or competences
+21,5,8,Calibri,7.0,323.6,504.8,330.6,511.8,19
+21,5,8,Calibri,11.0,330.5,505.7,335.8,516.8,. 
+21,6,0,Calibri-Bold,11.0,77.7,528.8,274.2,539.8,2024 recommendation on ICT specialists: 
+21,6,0,Calibri,11.0,276.3,528.8,520.1,539.8,Strengthen the early identification of labour market 
+21,6,1,Calibri,11.0,77.7,543.3,520.2,554.3,"needs and further complement them for a swift reaction, especially in the area of digital upskilling "
+21,6,2,Calibri,11.0,77.7,557.7,520.0,568.8,"and reskilling, adapt the (higher) education curricula to the latest digital needs and addressing the "
+21,6,3,Calibri,11.0,77.7,572.3,520.0,583.3,"gender gap. Strengthened collaboration between industries, (higher) education institutions, public "
+21,6,4,Calibri,11.0,77.7,586.8,485.6,597.8,administration and relevant stakeholders can increase the effectiveness of those measures. 
+21,7,0,Calibri-Bold,11.0,77.7,609.7,520.1,620.7,"In 2024, Slovenia continued the implementation of existing measures but did not take any new "
+21,7,1,Calibri-Bold,11.0,77.7,624.2,127.1,635.3,measures. 
+21,7,1,Calibri,11.0,127.7,624.2,520.2,635.3,Slovenia continues to implement previously existing measures (no new measures have 
+21,7,2,Calibri,11.0,77.7,638.7,520.3,649.8,been added to the adjusted roadmap). Some of these measures aim to address a critical issue: the 
+21,7,3,Calibri,11.0,77.7,653.3,520.2,664.3,"swift adaptation to labour market demand. However, they have yet to result in significant "
+21,7,4,Calibri,11.0,77.7,667.7,520.3,678.7,"improvements. The ongoing higher education reform will be crucial in this context. Additionally, the "
+21,7,5,Calibri,11.0,77.7,682.2,520.3,693.2,roadmap continues to primarily focus on measures that enhance skills for specific technologies. This 
+21,7,6,Calibri,11.0,77.7,696.7,520.0,707.7,"approach is unlikely to substantially expand the pool of ICT specialists, also given the budget "
+21,7,7,Calibri,11.0,77.7,711.2,330.6,722.3,reductions in the adjusted roadmap for those measures. 
+21,8,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+21,9,0,Calibri,6.0,72.0,760.6,78.1,766.6,19
+21,9,0,Calibri,9.0,78.0,760.9,312.2,769.9, IMAD (Institute of Macroeconomic Analysis and Development): 
+21,9,0,Calibri,9.0,312.4,760.9,408.8,769.9,Development Report 2024
+21,9,0,Calibri,9.0,408.9,760.9,411.0,769.9, 
+21,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+22,3,0,Calibri-Light,12.0,72.0,84.3,476.9,96.3,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+22,3,1,Calibri-Bold,11.0,72.0,99.7,525.9,110.8,"For digital public services for citizens, in 2024 Slovenia scored at 78.58 (2030 national target is 100) "
+22,3,2,Calibri-Bold,11.0,72.0,114.3,525.9,125.3,"after a growth of 2.0%, which is still below the EU average of 82.32. The country is on track according "
+22,3,3,Calibri-Bold,11.0,72.0,128.8,187.2,139.8,to its national trajectory. 
+22,3,3,Calibri,11.0,187.5,128.8,229.3,139.8,"However,"
+22,3,3,Calibri-Bold,11.0,229.1,128.8,231.6,139.8, 
+22,3,3,Calibri,11.0,231.8,128.8,525.9,139.8,Slovenia’s growth rate of 2.0% fell short of the EU’s 3.6%. Looking 
+22,3,4,Calibri,11.0,72.0,143.3,525.9,154.3,"at cross-border digital public services for citizens specifically, Slovenia scored lower than the EU (64.29 "
+22,3,5,Calibri,11.0,72.0,157.7,525.9,168.7,compared to 71.28) and had a lower growth rate than the EU (2.8% compared to 4.3%). The share of 
+22,3,6,Calibri,11.0,72.0,172.2,525.6,183.3,"e-Government users, i.e. people using the internet to interact with public authorities on website or "
+22,3,7,Calibri,11.0,72.0,186.7,381.5,197.8,apps was higher than the EU average (80.56% compared to 74.71%).  
+22,4,0,Calibri-Bold,11.0,72.0,209.2,525.9,220.2,"For digital public services for businesses, Slovenia scored at 85.0 in 2024 (2030 national target is 100) "
+22,4,1,Calibri-Bold,11.0,72.0,223.7,383.2,234.7,"after a growth of 1.2%, although still below the EU average of 86.23"
+22,4,1,Calibri,11.0,383.2,223.7,388.5,234.7,. 
+22,4,1,Calibri-Bold,11.0,388.8,223.7,525.9,234.7,The country is lagging behind 
+22,4,2,Calibri-Bold,11.0,72.0,238.2,234.7,249.3,compared to its national trajectory. 
+22,4,2,Calibri,11.0,234.6,238.2,523.5,249.3,Slovenia’s growth rate of 1.2% outpaced the EU’s 0.9%. For cross-
+22,4,3,Calibri,11.0,72.0,252.8,525.9,263.8,"border digital public services for businesses, Slovenia scored 70.0 in 2024, lower than the EU’s 73.76, "
+22,4,4,Calibri,11.0,72.0,267.2,359.6,278.2,but again with a higher growth rate than the EU (1.2% vs 0.9%).  
+22,5,0,Calibri-Bold,11.0,72.0,289.7,525.6,300.8,"For access to e-health records, Slovenia scored at 87.47 (2030 national target of 100) with no "
+22,5,1,Calibri-Bold,11.0,72.0,304.2,337.0,315.3,significant change compared to 2023 (growth rate of 0.1%)
+22,5,1,Calibri-Bold,7.0,337.0,303.4,344.0,310.3,20
+22,5,1,Calibri-Bold,11.0,344.0,304.2,525.9,315.3,", which is still higher than the EU’s 82.7. "
+22,5,2,Calibri-Bold,11.0,72.0,318.6,340.7,329.7,The country is on track according to its national trajectory. 
+22,5,2,Calibri,11.0,341.0,318.6,525.9,329.7,"However, Slovenia’s growth rate of -0.1% "
+22,5,3,Calibri,11.0,72.0,333.2,263.8,344.2,was significantly lower than the EU’s 4.5%. 
+22,6,0,Calibri-LightItalic,11.0,72.0,355.6,92.4,366.6,e-ID 
+22,6,1,Calibri-Bold,11.0,72.0,370.1,525.9,381.2,Slovenia’s e-ID card scheme was notified under the eIDAS regulation and the country is contributing 
+22,6,2,Calibri-Bold,11.0,72.0,384.6,525.8,395.7,"to the development of an EU Digital Wallet. In its adjusted roadmap, Slovenia maintains the "
+22,6,3,Calibri-Bold,11.0,72.0,399.2,483.1,410.2,"additional, self-set target of having at least 80% of people using their e-ID for public services"
+22,6,3,Calibri,11.0,483.2,399.2,525.9,410.2,". In 2023, "
+22,6,4,Calibri,11.0,72.0,413.7,525.9,424.8,the share of the population who reported having used their e-ID to access online services in the last 
+22,6,5,Calibri,11.0,72.0,428.1,525.9,439.1,"12 months was below the EU average (35.7% vs 41.1%). More recent data is not available, but "
+22,6,6,Calibri,11.0,72.0,442.6,525.9,453.7,"according to the Ministry of Public Administration, the e-ID penetration has remained relatively low. "
+22,6,7,Calibri,11.0,72.0,457.1,525.9,468.2,"In response, the Ministry plans to simplify the authentication process for mobile applications by "
+22,6,8,Calibri,11.0,72.0,471.7,139.1,482.7,summer 2025. 
+22,7,0,Calibri-Bold,11.0,72.0,494.1,525.6,505.1,Slovenia is also actively contributing to the development of the European Digital Identity Wallet 
+22,7,1,Calibri-Bold,11.0,72.0,508.6,456.8,519.7,(EUDI Wallet) by participating in two large scale pilots working on various use cases
+22,7,1,Calibri,11.0,457.1,508.6,460.0,519.7,:
+22,7,1,Calibri,11.0,460.1,508.6,512.6,519.7, POTENTIAL
+22,7,1,Calibri,11.0,512.6,508.6,525.9,519.7,", a "
+22,7,2,Calibri,11.0,72.0,523.0,525.9,534.1,"consortium working on six key use cases, including bank account opening, qualified electronic "
+22,7,3,Calibri,11.0,72.0,537.5,525.9,548.6,signature’ to sign documents remotely and ‘e-government services’ to prove user’s identity quickly 
+22,7,4,Calibri,11.0,72.0,552.1,313.2,563.1,and securely. The country is also involved in the pilot 
+22,7,4,Calibri,11.0,313.5,552.1,485.6,563.1,Digital Credentials for Europe (DC4EU)
+22,7,4,Calibri,11.0,485.7,552.1,525.9,563.1, focused 
+22,7,5,Calibri,11.0,72.0,566.6,525.9,577.7,"on the educational and social security sectors. Furthermore, Slovenia is involved in the set-up of the "
+22,7,6,Calibri,11.0,72.0,581.1,525.7,592.2,"consortium Wallet Ecosystem for Business & Payment Use cases, Identification, Legal person "
+22,7,7,Calibri,11.0,72.0,595.5,215.3,606.6,representation and Data sharing
+22,7,7,Calibri-Italic,11.0,215.3,595.5,217.8,606.6, 
+22,7,7,Calibri,11.0,217.7,595.5,525.9,606.6,(WE BUILD). The project is set to begin later in 2025 and aims to pilot 
+22,7,8,Calibri,11.0,72.0,610.1,469.6,621.1,"the use of EUDI Wallets across various use cases in business, supply chain and payments. "
+22,8,0,Calibri-LightItalic,11.0,72.0,632.5,327.2,643.5,Digitalisation of public services for citizens and businesses 
+22,8,1,Calibri-Bold,11.0,72.0,647.0,525.8,658.1,Slovenia’s targets for digital public services for people and businesses remain at 100% in its adjusted 
+22,8,2,Calibri-Bold,11.0,72.0,661.5,116.3,672.6,roadmap.
+22,8,2,Calibri,11.0,116.3,661.5,525.8,672.6, Several ministries are involved in implementing the Action Plan of the Digital Public Services 
+22,8,3,Calibri,11.0,72.0,676.1,525.9,687.1,"Strategy 2030, which was adopted in summer 2023. An update on the progress of the Action Plan’s "
+22,8,4,Calibri,11.0,72.0,690.5,472.5,701.5,"implementation is expected to be published by autumn 2025. Additionally, the country "
+22,8,4,Calibri,11.0,473.6,690.5,514.7,701.5,launched
+22,8,4,Calibri,11.0,514.7,690.5,525.9,701.5, a 
+22,8,5,Calibri,11.0,72.0,705.0,525.9,716.0,European Social Fund Plus-funded project in July 2024 to digitalise employment services. The new 
+22,8,6,Calibri,11.0,72.0,719.5,525.8,730.6,employment platform and e-services will support jobseekers in their search and provide career 
+22,9,0,Calibri,11.0,216.1,735.6,218.5,746.6, 
+22,9,1,Calibri,6.5,72.0,748.0,78.5,754.5,20
+22,9,1,Calibri,10.0,78.5,748.9,80.8,758.8, 
+22,9,1,Calibri,9.0,81.1,749.6,525.1,758.6,The slight decrease can be explained by adjustments in the definition of health facilities supplying data compared to the 
+22,9,2,Calibri,9.0,72.0,760.9,167.5,769.9,previous reporting period.
+22,9,2,Calibri,10.0,167.7,760.2,169.9,770.1, 
+22,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+23,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"guidance and orientation. According to the 2025 Eurobarometer, 82% of Slovenians people think that "
+23,2,1,Calibri,11.0,72.0,98.4,410.8,109.5,accessing public services online will be important for their daily life by 2030.
+23,2,1,Calibri-Bold,11.0,410.7,98.4,413.2,109.5, 
+23,4,0,Calibri-Bold,11.0,72.0,121.0,525.9,132.0,"In its roadmap adjustment, Slovenia has introduced several new measures to accelerate the digital "
+23,4,1,Calibri-Bold,11.0,72.0,135.5,245.3,146.5,transformation of public authorities. 
+23,4,1,Calibri,11.0,246.6,135.5,525.9,146.5,The measures focus primarily on two areas: enhancing data 
+23,4,2,Calibri,11.0,72.0,149.9,418.2,160.9,"access, use and quality, and supporting the digital transformation at local level."
+23,4,2,Calibri-Bold,11.0,418.2,149.9,420.7,160.9, 
+23,4,2,Calibri,11.0,420.1,149.9,525.9,160.9,To improve data quality 
+23,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,"and exchange within public sector organisations, Slovenia is in the process of establishing data "
+23,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,"administrators in different organisations. At the local level, the measures include assessing the digital "
+23,4,5,Calibri,11.0,72.0,193.5,525.8,204.5,"maturity of Slovenian municipalities, developing digital transformation plans to strengthen the digital "
+23,4,6,Calibri,11.0,72.0,207.9,443.7,218.9,capacities of local communities and the creation of a smart community data space. 
+23,5,0,Calibri-Bold,11.0,77.7,230.9,318.9,242.0,2024 recommendation on key digital public services: 
+23,5,0,Calibri,11.0,319.0,230.9,518.1,242.0,Continue efforts to digitalise public services. 
+23,5,1,Calibri,11.0,77.7,245.4,503.5,256.5,Slovenia should continue to pay particular attention to the participatory development and user-
+23,5,2,Calibri,11.0,77.7,259.9,211.6,270.9,friendliness of these services. 
+23,6,0,Calibri-Bold,11.0,77.7,282.9,520.3,293.9,Slovenia made some efforts to address the recommendation through new policy actions in 2024. 
+23,6,1,Calibri,11.0,77.7,297.4,520.3,308.5,Slovenia did not provide sufficiently detailed information to allow an assessment of the action taken 
+23,6,2,Calibri,11.0,77.7,311.9,520.2,323.0,since last year’s report. A progress report on the Action Plan of the Digital Public Services Strategy 
+23,6,3,Calibri,11.0,77.7,326.3,520.1,337.4,"will not be provided before autumn 2025. However, new measures have been incorporated in the "
+23,6,4,Calibri,11.0,77.7,340.8,520.2,351.9,"adjusted roadmap, specifically targeting the digitalisation of public authorities on municipality level "
+23,6,5,Calibri,11.0,77.7,355.4,293.0,366.4,and the improvement of data access and usage. 
+23,6,5,Calibri-Bold,11.0,292.9,355.4,295.4,366.4, 
+23,7,0,Calibri-LightItalic,11.0,72.0,384.3,112.2,395.3,e-Health 
+23,7,1,Calibri-Bold,11.0,72.0,398.8,525.9,409.9,Slovenia’s target for citizens’ access to e-health records remains at 100% in its adjusted roadmap. 
+23,7,2,Calibri,11.0,72.0,413.3,525.9,424.4,"The preparation of the Digital Healthcare Act, which includes the standardisation of data across "
+23,7,3,Calibri,11.0,72.0,427.9,525.9,438.9,"national registries to enhance healthcare access and quality, remains a key activity in this area (see "
+23,7,4,Calibri,11.0,72.0,442.3,525.9,453.3,"also Cybersecurity section). In this context, an important milestone for 2025 is enhancing the patient "
+23,7,5,Calibri,11.0,72.0,456.8,525.8,467.8,portal zVem to a one-stop portal which allows safe and reliable communication with all healthcare 
+23,7,6,Calibri,11.0,72.0,471.3,525.9,482.4,"providers via this channel. In this context, the patient portal of the National Health Insurance Institute "
+23,7,7,Calibri,11.0,72.0,485.8,525.6,496.9,"has merged with zVEM, leading to patients having access to both electronic health records and their "
+23,7,8,Calibri,11.0,72.0,500.2,281.8,511.3,health insurance data through a single service. 
+23,8,0,Calibri,11.0,72.0,522.8,525.9,533.8,"According to the 2025 Eurobarometer, 77% of Slovenians people think that digital technologies will be "
+23,8,1,Calibri,11.0,72.0,537.3,525.8,548.3,"important when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for "
+23,8,2,Calibri,11.0,72.0,551.7,281.2,562.8,diagnosis diseases) for their daily life by 2030.  
+23,9,0,Calibri-Bold,11.0,77.7,574.8,243.8,585.8,2024 recommendation on e-Health: 
+23,9,0,Calibri,11.0,244.2,574.8,520.1,585.8,Make the data types of medical imaging reports and medical 
+23,9,1,Calibri,11.0,77.7,589.3,520.0,600.3,images available to citizens through the online access service and build on existing legal provisions 
+23,9,2,Calibri,11.0,77.7,603.8,520.3,614.9,as well as technical solutions for authorised persons to access electronic health data on behalf of 
+23,9,3,Calibri,11.0,77.7,618.2,111.6,629.3,others. 
+23,10,0,Calibri-Bold,11.0,77.7,641.3,520.1,652.3,Slovenia made some efforts to address the recommendation through new policy actions in 2024. 
+23,10,1,Calibri,11.0,77.7,655.8,520.2,666.8,While the number of registered users has increased and more sub-categories of health records are 
+23,10,2,Calibri,11.0,77.7,670.2,520.3,681.2,"available to patients, data on medical devices and medical images are still not available to citizens. "
+23,10,3,Calibri,11.0,77.7,684.7,520.2,695.7,"Regarding access for authorised persons, Slovenia is developing proxy authorisation that will enable "
+23,10,4,Calibri,11.0,77.7,699.2,520.0,710.3,"individuals to authorise persons to use patient access services, but this is not yet implemented for "
+23,10,5,Calibri,11.0,77.7,713.7,115.9,724.8,citizens. 
+23,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+24,2,0,Calibri-Light,15.0,72.0,84.9,526.4,99.9,Building a safe and human centric digital environment and preserving our 
+24,2,1,Calibri-Light,15.0,72.0,104.6,141.6,119.6,democracy 
+24,4,0,Calibri-Bold,11.0,72.0,131.5,479.7,142.6,Slovenia shows a varied landscape in the internet use for civic or political participation
+24,4,0,Calibri,11.0,479.9,131.5,525.9,142.6,". In 2024, "
+24,4,1,Calibri,11.0,72.0,145.9,525.6,157.0,"34.08% of people used the internet for civic or political participation, marking a significant increase "
+24,4,2,Calibri,11.0,72.0,160.5,525.6,171.5,"from 21.41% in 2023, and positioning Slovenia as the highest scoring EU country. However, a closer "
+24,4,3,Calibri,11.0,72.0,175.0,525.8,186.0,look at the types of participation reveals a more nuanced situation. Slovenia leads the EU in using the 
+24,4,4,Calibri,11.0,72.0,189.5,525.6,200.5,"internet to express opinions on civic or political issues on websites or in social media, with 32.13% of "
+24,4,5,Calibri,11.0,72.0,203.9,525.9,214.9,"people engaging in this activity, compared to the EU average of 16.48%. On the other hand, Slovenia "
+24,4,6,Calibri,11.0,72.0,218.4,525.9,229.5,has the lowest participation rate in the EU for activities like online consultations or voting on civic or 
+24,4,7,Calibri,11.0,72.0,233.0,484.2,244.0,"political issues, with only 5.63% of people taking part, well below the EU average of 10.05%. "
+24,5,0,Calibri-Bold,11.0,72.0,255.4,525.8,266.5,Slovenia continues to actively address disinformation and hate speech through various initiatives. 
+24,5,1,Calibri,11.0,72.0,269.9,525.8,281.0,"The Government Communication Office, the Ministry of Digital Transformation and AKOS, the national "
+24,5,2,Calibri,11.0,72.0,284.4,445.9,295.5,"regulatory authority for telecommunications, are leading those activities. Under the "
+24,5,2,Calibri,11.0,445.7,284.4,525.9,295.5,"reREAD, reTHINK, "
+24,5,3,Calibri,11.0,72.0,299.0,112.9,310.0,RECHECK
+24,5,3,Calibri,11.0,112.8,299.0,525.9,310.0," campaign, Slovenia implements a range of communication activities, including additional "
+24,5,4,Calibri,11.0,72.0,313.4,124.7,324.4,"campaigns, "
+24,5,4,Calibri,11.0,126.7,313.4,176.9,324.4,webportals
+24,5,4,Calibri,11.0,176.9,313.4,332.6,324.4,", social media accounts, podcasts"
+24,5,4,Calibri,7.0,332.5,312.5,339.5,319.4,21
+24,5,4,Calibri,11.0,339.4,313.4,420.3,324.4,", events (e.g. for "
+24,5,4,Calibri,11.0,422.3,313.4,523.3,324.4,government and non-
+24,5,5,Calibri,11.0,72.0,327.9,200.9,338.9,government communicators
+24,5,5,Calibri,11.0,200.9,327.9,525.9,338.9,) and enlists Slovenian celebrities as testimonials in its activities to 
+24,5,6,Calibri,11.0,72.0,342.4,525.9,353.4,"broaden their impact. Moreover, the country also trains civil servants (especially relevant for teachers) "
+24,5,7,Calibri,11.0,72.0,356.9,257.2,368.0,and the Slovenian Press Agency offers a 
+24,5,7,Calibri,11.0,258.3,356.9,316.6,368.0,fact-checker. 
+24,5,7,Calibri,11.0,317.7,356.9,525.9,368.0,"In 2024, AKOS published 98 articles, and 108 "
+24,5,8,Calibri,11.0,72.0,371.3,470.4,382.4,social media posts aimed at increasing awareness about disinformation and hate speech. 
+24,6,0,Calibri-Bold,11.0,72.0,393.9,525.8,404.9,"A high share of the Slovenian population, especially young people, is often encountering hostile and "
+24,6,1,Calibri-Bold,11.0,72.0,408.4,163.9,419.5,degrading messages
+24,6,1,Calibri,11.0,163.8,408.4,166.3,419.5, 
+24,6,1,Calibri-Bold,11.0,166.5,408.4,198.0,419.5,online.
+24,6,1,Calibri,11.0,198.1,408.4,525.7,419.5," In 2023, in Slovenia, 43.76% of individuals encountered online messages "
+24,6,2,Calibri,11.0,72.0,422.8,525.9,433.9,"that were considered hostile or degrading towards groups based on factors such as political views, "
+24,6,3,Calibri,11.0,72.0,437.3,525.7,448.4,"disability, ethnical origin or LGBTIQ identities. This figure was significantly above the EU average of "
+24,6,4,Calibri,11.0,72.0,451.9,525.9,462.9,33.5%. Young people aged 16–24 were more exposed than adults aged 25–64 (52.89% compared to 
+24,6,5,Calibri,11.0,72.0,466.4,525.8,477.4,"46.30%), reflecting a moderate age-related difference. Males (42.01%) and females (45.61%) reported "
+24,6,6,Calibri,11.0,72.0,480.8,525.9,491.8,"similar rates of exposure, indicating balanced impacts across genders. According to the Digital Decade "
+24,6,7,Calibri,11.0,72.0,495.3,525.9,506.4,"Eurobarometer 2025, Slovenians think that the action of public authorities is urgent to protect children "
+24,6,8,Calibri,11.0,72.0,509.8,525.9,520.9,"online regarding the negative impact of social media on children’s mental health (97% of Slovenians), "
+24,6,9,Calibri,11.0,72.0,524.3,525.6,535.4,cyberbullying and online harassment (96%) and to put in place age assurance mechanisms to restrict 
+24,6,10,Calibri,11.0,72.0,538.7,222.5,549.8,age-inappropriate content (96%). 
+24,7,0,Calibri-Bold,11.0,72.0,561.3,525.8,572.4,Slovenian internet users report higher exposure to untrue or doubtful information online compared 
+24,7,1,Calibri-Bold,11.0,72.0,575.9,368.7,586.9,"to their EU peers, but they are less prone to check its truthfulness. "
+24,7,1,Calibri,11.0,368.2,575.9,525.8,586.9,"In 2023, 52.77% of people reported "
+24,7,2,Calibri,11.0,72.0,590.3,525.8,601.3,"having encountered untrue or doubtful information or content on internet news sites or social media, "
+24,7,3,Calibri,11.0,72.0,604.8,525.6,615.8,"surpassing the EU average of 49.25%. However, only 18.86% of these individuals checked its "
+24,7,4,Calibri,11.0,72.0,619.3,525.6,630.3,truthfulness. While the percentage of people who did not check because they already knew the 
+24,7,5,Calibri,11.0,72.0,633.8,525.8,644.9,"information, content or source was not reliable is nearly twice as high as in the EU (24.05% compared "
+24,7,6,Calibri,11.0,72.0,648.2,525.6,659.3,"to 12.55%), this still reflects a relatively low level of critical evaluation among those who recognised "
+24,7,7,Calibri,11.0,72.0,662.7,525.9,673.8,"misleading content. Looking at different age groups, younger users, aged 16-24, were more exposed "
+24,7,8,Calibri,11.0,72.0,677.3,525.9,688.3,"to untrue or doubtful information online (72.55%) than adults, aged 24-64 (55.66%), which could be "
+24,7,9,Calibri,11.0,72.0,691.8,100.9,702.8,due to
+24,7,9,Calibri-Bold,11.0,100.8,691.8,103.3,702.8, 
+24,7,9,Calibri,11.0,103.2,691.8,525.8,702.8,"different patterns of internet usage. Verification rates also differed significantly, with 36.26% of "
+24,7,10,Calibri,11.0,72.0,706.2,446.8,717.2,"younger users checking the accuracy of content, compared to just 18.52% of adults. "
+24,8,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+24,8,1,Calibri,6.0,72.0,749.6,78.1,755.6,21
+24,8,1,Calibri,9.0,78.0,749.8,95.4,758.8, E.g. 
+24,8,1,Calibri,9.0,95.4,749.8,291.3,758.8,GOVSI Podcast: »Democracy is under attack« | GOV.SI
+24,8,1,Calibri,9.0,291.4,749.8,303.4,758.8, or 
+24,8,1,Calibri,9.0,303.4,749.8,508.3,758.8,https://www.gov.si/en/news/2024-05-24-govsi-podcast-
+24,8,2,Calibri,9.0,72.0,760.9,163.2,769.9,lets-stop-disinformation/
+24,8,2,Calibri,9.0,163.2,760.9,169.6,769.9,.  
+24,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+25,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+25,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+25,4,0,Calibri-Bold,11.0,72.0,160.5,525.9,171.5,The new green budgeting framework that Slovenia is developing under the RRP will help authorities 
+25,4,1,Calibri-Bold,11.0,72.0,175.0,339.2,186.0,to better address climate and environmental challenges. 
+25,4,1,Calibri,11.0,340.6,175.0,525.9,186.0,"Furthermore, municipalities have begun "
+25,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,"using land mass data to monitor the effect of climate change. More broadly, the activities of Slovenian "
+25,4,3,Calibri,11.0,72.0,203.9,525.8,214.9,municipalities on green and digital transition are currently being identified and mapped with the aim 
+25,4,4,Calibri,11.0,72.0,218.4,525.8,229.5,of preparing a country-wide matrix and increasing coordination with municipalities in a public 
+25,4,5,Calibri,11.0,72.0,233.0,132.5,244.0,consultation. 
+25,5,0,Calibri-Bold,11.0,72.0,255.4,351.3,266.5,The population recycles only a small part of its ICT equipment
+25,5,0,Calibri,11.0,351.4,255.4,525.9,266.5,". Slovenians recycled laptops, desktops "
+25,5,1,Calibri,11.0,72.0,269.9,525.8,281.0,"or mobile devices (9.44% for laptops and tablets, 13.55% for desktop computers and 9.43% for mobile "
+25,5,2,Calibri,11.0,72.0,284.4,525.9,295.5,"phones) less frequently than the EU average (11.31%, 14.66% and 10.93%, respectively). Overall, a "
+25,5,3,Calibri,11.0,72.0,299.0,525.7,310.0,"higher percentage of Slovenians either never purchase new devices, continue to use old ones or "
+25,5,4,Calibri,11.0,72.0,313.4,525.9,324.4,"choose to sell or give them away compared to the EU average. Similar to the EU, eco-friendly criteria "
+25,5,5,Calibri,11.0,72.0,327.9,525.8,338.9,"are less important when purchasing a new ICT device than factors like price, performance and design. "
+25,5,6,Calibri,11.0,72.0,342.4,525.6,353.4,"Looking more closely at these criteria, Slovenia falls below the EU average in considering energy "
+25,5,7,Calibri,11.0,72.0,356.9,525.9,368.0,efficiency and eco-design as important when buying ICT devices (13.39% compared to 19.35% for 
+25,5,8,Calibri,11.0,72.0,371.3,525.9,382.4,energy efficiency and 10.00% compared to 12.04% for eco-design). One key player in digital equipment 
+25,5,9,Calibri,11.0,72.0,385.8,278.1,396.9,reuse and redistribution is the Slovenian NGO 
+25,5,9,Calibri,11.0,278.1,385.8,319.6,396.9,Duh Časa
+25,5,9,Calibri,11.0,319.6,385.8,322.4,396.9,.
+25,5,9,Calibri-Bold,11.0,322.4,385.8,324.9,396.9, 
+25,6,0,Calibri-Bold,11.0,72.0,408.4,464.5,419.5,Slovenia is taking steps to leverage the green transition through digital technologies. 
+25,6,0,Calibri,11.0,465.3,408.4,525.9,419.5,The adjusted 
+25,6,1,Calibri,11.0,72.0,422.8,525.9,433.9,roadmap includes two new measures: one on modernising green public procurement and another one 
+25,6,2,Calibri,11.0,72.0,437.3,525.9,448.4,on creating a digital twin. The Green Public Procurement Regulation will be updated to pursue the 
+25,6,3,Calibri,11.0,72.0,451.9,525.9,462.9,"‘energy efficiency first’ objective in public procurement, specifically targeting data centres, server "
+25,6,4,Calibri,11.0,72.0,466.4,525.9,477.4,"rooms, cloud services and electronic devices. The digital twin project will establish a national "
+25,6,5,Calibri,11.0,72.0,480.8,525.9,491.8,"infrastructure for spatial information, offering applications to visualise property values or monitor "
+25,6,6,Calibri,11.0,72.0,495.3,525.9,506.4,environmental parameters. Although green and digital transition are sometimes addressed in the same 
+25,6,7,Calibri,11.0,72.0,509.8,525.9,520.9,"projects and tenders (e.g. circular and digital business models), there does not yet seem to be a "
+25,6,8,Calibri,11.0,72.0,524.3,525.9,535.4,systematic approach on how to consider their interaction or leveraging each other. According to the 
+25,6,9,Calibri,11.0,72.0,538.7,525.8,549.8,"Digital Decade Eurobarometer 2025, 64% of Slovenians consider digital technologies important to help "
+25,6,10,Calibri,11.0,72.0,553.3,525.8,564.3,"fight climate change, while 79% of Slovenian respondents think that ensuring that digital technologies "
+25,6,11,Calibri,11.0,72.0,567.8,427.9,578.9,serve the green transition should be an important action for public authorities.  
+25,7,0,Calibri-Bold,11.0,77.7,590.9,248.1,601.9,2024 recommendation on green ICT: 
+25,7,0,Calibri,11.0,248.8,590.9,520.1,601.9,(i) Develop a coherent approach to twinning the digital and 
+25,7,1,Calibri,11.0,77.7,605.3,520.0,616.3,"green transitions. First, promote improvements in energy and material efficiency of digital "
+25,7,2,Calibri,11.0,77.7,619.8,520.2,630.8,"infrastructures, in particular data centres. Second, support the development and deployment of "
+25,7,3,Calibri,11.0,77.7,634.3,520.0,645.3,"digital solutions that reduce the carbon footprint in other sectors, such as energy, transport, "
+25,7,4,Calibri,11.0,77.7,648.8,412.0,659.9,"buildings, and agriculture, including the uptake of such solutions by SMEs.  "
+25,8,0,Calibri,11.0,77.7,671.3,520.2,682.3,(ii) Monitor and quantify the emission reductions of the deployed digital solutions in line with the 
+25,8,1,Calibri,11.0,77.7,685.8,520.0,696.8,relevant EU guidance and with the support of the methodology developed by the European Green 
+25,8,2,Calibri,11.0,77.7,700.2,509.6,711.2,"Digital Coalition, in view of future policy development, as well as of attracting relevant financing. "
+25,9,0,Calibri-Bold,11.0,77.7,723.2,520.3,734.3,Slovenia made some efforts to address the recommendation through new policy actions in 2024. 
+25,9,1,Calibri,11.0,77.7,737.8,520.3,748.8,"Slovenia is taking steps to leverage the green transition through digital technologies, including new "
+25,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+26,2,0,Calibri,11.0,77.7,84.5,233.7,95.5,measures in its adjusted roadmap.
+26,2,0,Calibri-Bold,11.0,233.7,84.5,236.2,95.5, 
+26,2,0,Calibri,11.0,236.9,84.5,520.3,95.5,These measures include monitoring activities and using digital 
+26,2,1,Calibri,11.0,77.7,99.0,280.3,110.1,technologies to leverage the green transition.
+26,2,1,Calibri-Bold,11.0,280.4,99.0,285.3,110.1,  
+26,4,0,Calibri,11.0,72.0,136.2,74.5,147.3, 
+26,4,1,Calibri-Bold,26.0,216.1,125.0,221.9,151.0, 
+26,5,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,5,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+27,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+27,4,0,Calibri-Bold,11.0,77.7,126.7,318.7,137.8,Slovenia’s national Digital Decade strategic roadmap 
+27,4,0,Calibri,11.0,318.7,126.7,321.2,137.8, 
+27,4,1,Calibri,11.0,77.7,141.3,443.1,152.3,Slovenia submitted a revised national Digital Decade roadmap on 31 January 2025
+27,4,1,Calibri,7.0,443.0,140.4,450.0,147.3,22
+27,4,1,Calibri,11.0,450.0,141.3,520.3,152.3, which brings it 
+27,4,2,Calibri,11.0,77.7,155.7,520.2,166.7,together with the Digital Slovenia 2030 Action Plan. While the update brings some new impulses in 
+27,4,3,Calibri,11.0,77.7,170.2,520.3,181.2,"line with the new Commission’s priorities in areas like green IC, AI and semiconductors, the update "
+27,4,4,Calibri,11.0,77.7,184.7,520.3,195.7,"does not sufficiently address the challenges the country is facing, especially in the areas of basic and "
+27,4,5,Calibri,11.0,77.7,199.2,320.3,210.3,advanced digital skills and digitalisation of businesses. 
+27,4,6,Calibri,11.0,77.7,213.6,520.3,224.7,The new roadmap responds to a limited number of the recommendations issued in last year’s 
+27,4,7,Calibri,11.0,77.7,228.1,111.4,239.2,report: 
+27,5,0,SymbolMT,11.0,95.7,248.5,100.7,262.0,
+27,5,0,ArialMT,11.0,100.7,249.6,103.8,261.9, 
+27,5,1,Calibri,11.0,113.7,251.3,520.3,262.4,All national target values were kept in line with the EU’s 2030 ambition level. The additional 
+27,5,2,Calibri,11.0,113.7,265.7,520.1,276.8,"targets on e-ID uptake by 80% of users of public services was also maintained, along with "
+27,5,3,Calibri,11.0,113.7,280.2,520.3,291.3,the quantitative estimates on how Slovenia will contribute to achieving the semiconductor 
+27,5,4,Calibri,11.0,113.7,294.8,520.3,305.8,target through companies involved in semiconductor R&D and manufacturing and the edge 
+27,5,5,Calibri,11.0,113.7,309.3,347.4,320.3,node target with companies deploying edge nodes.  
+27,5,6,SymbolMT,11.0,95.7,321.5,100.7,335.0,
+27,5,6,ArialMT,11.0,100.7,322.6,103.8,334.9, 
+27,5,7,Calibri,11.0,113.7,324.3,520.0,335.3,The roadmap contains some new or changed measures compared to the initial roadmap 
+27,5,8,Calibri,11.0,113.7,338.8,208.4,349.9,submission in 2023
+27,5,8,Calibri,11.0,208.5,338.8,213.7,349.9,. 
+27,5,8,Calibri,11.0,218.3,338.8,520.3,349.9,"New measures were added for several areas, especially for "
+27,5,9,Calibri,11.0,113.7,353.3,520.1,364.4,"digitalisation of public administration. However, several measures, especially linked to "
+27,5,10,Calibri,11.0,113.7,367.7,520.2,378.8,Digital Decade objectives and all measures linked to startups have been removed from the 
+27,5,11,Calibri,11.0,113.7,382.2,195.4,393.3,adjusted roadmap
+27,5,11,Calibri,11.0,195.4,382.2,198.2,393.3,.
+27,5,11,Calibri,11.0,198.2,382.2,200.7,393.3, 
+27,5,12,SymbolMT,11.0,95.7,394.6,100.7,408.1,
+27,5,12,ArialMT,11.0,100.7,395.7,103.8,408.0, 
+27,5,13,Calibri,11.0,113.7,397.4,363.7,408.4,The adjusted roadmap was consulted with stakeholders
+27,5,13,Calibri,7.0,363.7,396.5,370.7,403.4,23
+27,5,13,Calibri,11.0,370.6,397.4,520.2,408.4,. The Slovenian national network 
+27,5,14,Calibri,11.0,113.7,411.9,520.3,422.9,of non-governmental organisations for an inclusive information society has continued to 
+27,5,15,Calibri,11.0,113.7,426.3,520.0,437.4,systematically monitor the implementation of the national roadmap through the project 
+27,5,16,Calibri,11.0,113.7,440.8,116.4,451.9,‘
+27,5,16,Calibri,11.0,116.4,440.8,355.5,451.9,Co-creating digital policies in Slovenia 2 – CODIS 2’
+27,5,16,Calibri,11.0,355.4,440.8,520.1,451.9,", led by the Institute for Electronic "
+27,5,17,Calibri,11.0,113.7,455.3,520.2,466.4,Participation. This project received funding from the European Citizen Action Service 
+27,5,18,Calibri,11.0,113.7,469.9,143.0,480.9,(ECAS)
+27,5,18,Calibri,7.0,142.9,469.0,149.9,475.9,24
+27,5,18,Calibri,11.0,149.9,469.9,417.7,480.9,. Key outcomes of the project include the development of a 
+27,5,18,Calibri,11.0,417.9,469.9,465.6,480.9,dashboard
+27,5,18,Calibri,11.0,465.6,469.9,520.3,480.9, monitoring 
+27,5,19,Calibri,11.0,113.7,484.3,335.1,495.3,"the roadmap implementation, the production of "
+27,5,19,Calibri,11.0,335.7,484.3,421.2,495.3,monitoring reports
+27,5,19,Calibri,11.0,421.2,484.3,520.3,495.3, and the organisation 
+27,5,20,Calibri,11.0,113.7,498.8,125.4,509.8,of 
+27,5,20,Calibri,11.0,132.7,498.8,181.3,509.8,workshops
+27,5,20,Calibri,11.0,181.4,498.8,520.1,509.8,". Based on these activities, the NGO network has formulated "
+27,5,21,Calibri,11.0,113.7,513.3,520.0,524.3,"recommendations on the roadmap adjustment, which were shared with the Ministry of "
+27,5,22,Calibri,11.0,113.7,527.8,520.2,538.9,Digital Transformation and also reflected in the NGO network’s feedback in the context of 
+27,5,23,Calibri,11.0,113.7,542.2,520.3,553.3,"the national roadmap adjustment consultation. The follow-up project ‘CODIS 3’, also "
+27,5,24,Calibri,11.0,113.7,556.8,520.2,567.8,"funded by ECAS, will continue these monitoring activities with a focus on good governance "
+27,5,25,Calibri,11.0,113.7,571.3,162.1,582.3,principles. 
+27,6,0,Calibri,11.0,216.1,670.8,218.5,681.8, 
+27,7,0,Calibri,6.0,72.0,683.7,78.1,689.7,22
+27,7,0,Calibri,9.0,78.0,683.9,525.3,692.9, Government approval pending due to some changes linked to the Digital Slovenia 2030 Action Plan. For the purpose of the 
+27,7,1,Calibri,9.0,72.0,695.0,525.3,704.0,"Digital Decade Policy Programme, the content of the roadmap submitted on 31 January 2025 can be considered final. "
+27,7,2,Calibri,9.0,72.0,705.9,525.0,714.9,Corrigendum to Digital Decade Country Report Slovenia 2024: The initial national roadmap was adopted by the Slovenian 
+27,7,3,Calibri,9.0,72.0,716.9,441.5,725.9,"Government in December 2023, before its publication and submission to the European Commission.  "
+27,7,4,Calibri,6.0,72.0,727.6,78.1,733.6,23
+27,7,4,Calibri,9.0,78.0,727.9,525.2,736.9, Roadmap was published on 20 December 2024 for public consultation by 20 January 2025. Written consultation period 20 
+27,7,5,Calibri,9.0,72.0,738.9,212.5,747.9,December 2024 until 20 January 2025.
+27,7,5,Calibri,10.0,212.6,738.2,217.1,748.2,  
+27,7,6,Calibri,6.0,72.0,749.6,78.1,755.6,24
+27,7,6,Calibri,9.0,78.0,749.8,525.4,758.8," ECAS regranting scheme of the European Citizenship Accelerator project 2024, co-funded by the Citizenship, Equality, Rights "
+27,7,7,Calibri,9.0,72.0,760.9,245.7,769.9,and Values programme of the European Union. 
+27,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+28,2,0,Calibri-Bold,11.0,197.3,84.5,391.3,95.5,Measures and budget in national roadmap
+28,2,0,Calibri-Bold,7.0,391.1,83.6,398.2,90.6,25
+28,2,0,Calibri-Bold,11.0,398.1,84.5,400.6,95.5, 
+28,4,0,Calibri,11.0,77.7,316.4,520.2,327.4,"In total, the measures presented amount to EUR 685 million for 81 measures which represents 1% "
+28,4,1,Calibri,11.0,77.7,330.8,520.2,341.8,of Slovenia’s GDP. Basic digital skills and digital public services are the targets with the highest 
+28,4,2,Calibri,11.0,77.7,345.3,520.3,356.3,"number of measures. In terms of budget, the highest shares are allocated to basic digital skills and "
+28,4,3,Calibri,11.0,77.7,359.8,125.0,370.9,AI uptake. 
+28,5,0,Calibri,11.0,72.0,392.1,74.5,403.1, 
+28,5,1,Calibri-Bold,26.0,216.1,380.8,221.9,406.9, 
+28,6,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+28,7,0,Calibri,6.0,72.0,727.6,78.1,733.6,25
+28,7,0,Calibri,9.0,78.0,727.9,525.0,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+28,7,1,Calibri,9.0,72.0,738.9,525.5,747.9,"roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+28,7,2,Calibri,9.0,72.0,749.8,525.1,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+28,7,3,Calibri,9.0,72.0,760.9,237.8,769.9,States followed the guidance was carried out.
+28,7,3,Calibri,10.0,238.0,760.2,240.3,770.1, 
+28,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+29,3,0,Calibri-Bold,26.0,72.0,87.0,481.5,113.1,Annex II – Factsheet on multi-country 
+29,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+29,4,0,Calibri-Bold,11.0,77.7,160.9,267.5,172.0,Multi-country projects and best practices 
+29,4,0,Calibri,11.0,267.4,160.9,269.9,172.0, 
+29,5,0,Calibri,11.0,77.7,178.5,535.4,189.5,"Slovenia is a member of the three established EDICs: the Alliance for Language Technologies EDIC, the "
+29,5,1,Calibri,11.0,77.7,193.0,535.5,204.0,Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM EDIC on blockchain. Slovenia is also 
+29,5,2,Calibri,11.0,77.7,207.5,535.5,218.5,working towards setting up an EDIC in the area of cybersecurity skills. Slovenian entities are indirect 
+29,5,3,Calibri,11.0,77.7,221.9,533.3,232.9,and/or associated partners in the IPCEI on Microelectronics and Communication Technologies (IPCEI-
+29,5,4,Calibri,11.0,77.7,236.4,476.8,247.5,ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS).
+29,5,4,Calibri,7.0,476.7,235.5,483.7,242.5,26
+29,5,4,Calibri,11.0,483.7,236.4,535.5,247.5, Slovenia is 
+29,5,5,Calibri,11.0,77.7,251.0,450.6,262.0,also a participating state in the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+29,6,0,Calibri,11.0,77.7,268.5,479.3,279.5,Slovenia is leading a working group of the Digital Decade’s Best Practice Accelerator
+29,6,0,Calibri,7.0,479.3,267.6,486.3,274.5,27
+29,6,0,Calibri,11.0,486.2,268.5,535.5,279.5, aimed at 
+29,6,1,Calibri,11.0,77.7,282.9,535.4,293.9,improving basic and advanced digital skills. The Slovenian authorities have carried out extensive 
+29,6,2,Calibri,11.0,77.7,297.4,535.5,308.5,"coordination work and shared their best practices and experience from different initiatives, in particular "
+29,6,3,Calibri,11.0,77.7,311.9,535.4,323.0,"on digi info points, an adult digital literacy programme, mobile heroes (for older people) and digital "
+29,6,4,Calibri,11.0,77.7,326.4,535.4,337.5,"training for children and youth. So far, five workshops have been organised by Slovenia to establish an "
+29,6,5,Calibri,11.0,77.7,340.8,533.3,351.9,"exchange with the Members of Digital Skills and Jobs Coalitions, on digital skills in formal and non-"
+29,6,6,Calibri,11.0,77.7,355.4,441.2,366.4,"formal education, on girls and women in ICT and on digital skills for employment. "
+29,7,0,Calibri-Bold,11.0,77.7,373.4,265.7,384.4,EU funding for digital policies in Slovenia 
+29,8,0,Calibri,11.0,77.7,390.9,470.5,401.9,Slovenia allocates 20% of its total recovery and resilience plan to digital (EUR 513 million)
+29,8,0,Calibri,7.0,470.5,390.0,477.5,396.9,28
+29,8,0,Calibri,11.0,477.5,390.9,535.5,401.9,". In addition, "
+29,8,1,Calibri,11.0,77.7,405.3,535.3,416.4,"under cohesion policy, EUR 287 million (representing 9% of the country’s total cohesion policy funding), "
+29,8,2,Calibri,11.0,77.7,419.7,347.0,430.8,is dedicated to advancing Slovenia’s digital transformation
+29,8,2,Calibri,7.0,347.1,418.8,354.1,425.8,29
+29,8,2,Calibri,11.0,354.1,419.7,535.5,430.8,". According to JRC estimates, EUR 636 "
+29,8,3,Calibri,11.0,77.7,434.0,535.5,445.0,million directly contribute to achieving Digital Decade targets (of which EUR 439 million comes from 
+29,8,4,Calibri,11.0,77.7,448.4,339.9,459.4,the RRF and EUR 197 million from cohesion policy funding)
+29,8,4,Calibri,7.0,339.9,447.5,346.9,454.4,30
+29,8,4,Calibri,11.0,346.9,448.4,352.1,459.4,. 
+29,9,0,Calibri,11.0,77.7,470.8,535.3,481.9,"For the RRF, the largest amounts are dedicated to digitalisation of key public services, including to "
+29,9,1,Calibri,11.0,77.7,485.1,535.2,496.1,remove obstacles to support the provision of digital public services and processes (e.g. enlarge the 
+29,9,2,Calibri,11.0,77.7,499.5,535.5,510.5,"scope of electronic procedures in administrative processes), and e-Health, including to integrate new "
+29,9,3,Calibri,11.0,77.7,513.9,535.4,524.9,digital services into healthcare and to implement telemedicine. The third payment request was 
+29,9,4,Calibri,11.0,77.7,528.3,535.2,539.3,"disbursed to Slovenia in October 2024. So far, the country received EUR 1.1 billion in RRF grants and "
+29,9,5,Calibri,11.0,77.7,542.7,535.4,553.8,"loans. The Slovenian Cohesion Policy Programme 2021–2027 supports, inter alia, the digital "
+29,9,6,Calibri,11.0,77.7,557.1,307.0,568.2,transformation of public administration and SMEs.  
+29,10,0,Calibri,11.0,72.0,579.9,74.5,591.0, 
+29,11,0,Calibri,11.0,216.1,604.9,218.5,615.9, 
+29,12,0,Calibri,6.0,72.0,617.8,78.1,623.8,26
+29,12,0,Calibri,9.0,78.0,618.1,525.4,627.1, Corrigendum to Digital Decade Country Report Slovenia 2024: Slovenian entities are indirect partners in the Important 
+29,12,1,Calibri,9.0,72.0,629.0,451.2,638.0,Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). 
+29,12,2,Calibri,6.0,72.0,639.8,78.1,645.8,27
+29,12,2,Calibri,9.0,78.0,640.0,525.3,649.0, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+29,12,3,Calibri,9.0,72.0,650.9,525.2,659.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+29,12,4,Calibri,9.0,72.0,662.0,525.5,671.0,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+29,12,5,Calibri,9.0,72.0,672.9,250.7,681.9,"Green IT, and the Uptake of Digital Technologies. "
+29,12,6,Calibri,6.0,72.0,683.7,78.1,689.7,28
+29,12,6,Calibri,9.0,78.0,683.9,525.0,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+29,12,7,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+29,12,8,Calibri,6.0,72.0,705.6,78.1,711.6,29
+29,12,8,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+29,12,9,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+29,12,10,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+29,12,11,Calibri,6.0,72.0,738.7,78.1,744.7,30
+29,12,11,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+29,12,12,Calibri,9.0,72.0,749.8,525.4,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+29,12,13,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+29,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,158.1,49.4,Slovenia 
+30,2,0,Calibri-Bold,26.0,72.0,87.0,490.4,113.1,Annex III – Digital Rights and Principles
+30,2,0,Calibri,17.0,490.5,84.8,507.8,101.8,31
+30,2,0,Calibri-Bold,26.0,507.8,87.0,513.7,113.1, 
+30,6,0,Calibri,11.0,264.0,336.4,286.5,347.4,         
+30,6,1,Calibri-Bold,11.0,493.9,336.4,496.4,347.4, 
+30,7,0,Calibri-Bold,11.0,72.0,359.8,252.4,370.9,Activity on Digital Rights and Principles 
+30,7,0,Calibri,11.0,252.5,359.8,293.2,370.9,(figure 1)
+30,7,0,Calibri-Bold,11.0,293.2,359.8,298.1,370.9,  
+30,8,0,Calibri,11.0,72.0,382.4,525.9,393.4,"Slovenia has shown rather limited activity in implementing digital rights and principles, with the overall "
+30,8,1,Calibri,11.0,72.0,396.8,525.8,407.8,number of initiatives of around a half or less of the EU average (77). Slovenia launched 3 new initiatives 
+30,8,2,Calibri,11.0,72.0,411.3,525.6,422.4,"in 2024, showing limited progress towards its commitments. Slovenia is most active in the area of "
+30,8,3,Calibri,11.0,72.0,425.8,525.7,436.9,"Solidarity and inclusion (II). There is room for improvement, especially with regards to Privacy and "
+30,8,4,Calibri,11.0,72.0,440.3,387.5,451.4,individual control over data (V) where less activity has been identified. 
+30,9,0,Calibri-Bold,11.0,72.0,462.8,227.8,473.8,Impact of Digital Rights Initiatives 
+30,9,0,Calibri,11.0,227.9,462.8,271.0,473.8,(figure 2) 
+30,10,0,Calibri,11.0,72.0,485.2,525.8,496.3,Quantitative impact indicators developed by the support study illustrate the level of implementation 
+30,10,1,Calibri,11.0,72.0,499.7,525.6,510.8,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+30,10,2,Calibri,11.0,72.0,514.3,525.7,525.3,measures implemented by key stakeholders in Slovenia (mainly national government) and how these 
+30,10,3,Calibri,11.0,72.0,528.8,186.6,539.8,are perceived by citizens. 
+30,11,0,Calibri,11.0,72.0,551.2,525.7,562.3,The indicators suggest that Slovenia is most successful in implementing commitments related to 
+30,11,1,Calibri,11.0,72.0,565.8,525.8,576.8,Putting people at the centre of the digital transformation (I). Slovenia should strengthen efforts in areas 
+30,11,2,Calibri,11.0,72.0,580.3,525.9,591.3,"where the impact of digital rights initiatives appears to be limited, notably on Participation in the digital "
+30,11,3,Calibri,11.0,72.0,594.7,150.5,605.7,public space (IV). 
+30,12,0,Calibri,11.0,72.0,617.3,525.6,628.3,"According to the Special Eurobarometer 'Digital Decade 2025’, 48% of citizens in Slovenia think that "
+30,12,1,Calibri,11.0,72.0,631.8,525.9,642.8,the EU protects their digital rights well (a 2% increase since 2024). This is above the EU average of 44%. 
+30,12,2,Calibri,11.0,72.0,646.2,525.6,657.2,Citizens are particularly confident about getting freedom of assembly and of association in the digital 
+30,12,3,Calibri,11.0,72.0,660.7,525.5,671.7,"environment (64%, above the EU average of 59%). They are most worried that their right to a safe "
+30,12,4,Calibri,11.0,72.0,675.2,525.7,686.3,"digital environment and content for children and young people is not well protected (54%, above the "
+30,12,5,Calibri,11.0,72.0,689.7,163.6,700.8,EU average of 48%). 
+30,13,0,Calibri,11.0,72.0,713.6,74.5,724.7, 
+30,14,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+30,14,1,Calibri,6.0,72.0,749.6,78.1,755.6,31
+30,14,1,Calibri,9.0,78.0,749.8,525.1,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+30,14,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+30,14,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+30,14,2,Calibri,9.0,122.8,760.9,377.1,769.9,". For a more detailed country factsheet accompanying the study, click "
+30,14,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+30,14,2,Calibri,9.0,393.7,760.9,395.9,769.9,.
+30,14,2,Calibri,10.0,396.0,760.2,400.6,770.1,  
+30,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

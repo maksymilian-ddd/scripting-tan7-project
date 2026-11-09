@@ -1,0 +1,1673 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,111.0,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.9,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.7,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.2,390.9,242.5,PART 10/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,267.0,330.9,284.7, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.5,432.4,328.8,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.3,394.3,360.5,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,379.0,373.6,392.3,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,404.8,525.7,418.1,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,418.6,502.9,431.8,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.3,523.5,457.6,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,475.9,486.6,489.1,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,489.7,487.3,502.9, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,Calibri,11.0,151.6,37.6,154.1,48.6, 
+2,0,2,TimesNewRomanPSMT,12.0,70.8,50.4,73.8,63.7, 
+2,1,0,TimesNewRomanPSMT,12.0,70.8,70.2,73.8,83.5, 
+2,2,0,Calibri,11.0,70.8,91.7,73.3,102.7, 
+2,3,0,Calibri,11.0,70.8,114.3,73.3,125.3, 
+2,4,0,Calibri,11.0,70.8,136.7,73.3,147.7, 
+2,5,0,Calibri,11.0,70.8,159.1,73.3,170.2, 
+2,6,0,Calibri,11.0,70.8,181.7,73.3,192.7, 
+2,7,0,Calibri,11.0,70.8,204.1,73.3,215.2, 
+2,8,0,Calibri,11.0,70.8,226.7,73.3,237.7, 
+2,9,0,Calibri-Bold,40.0,113.9,260.5,480.8,300.4,DIGITAL DECADE 2025
+2,9,0,Calibri,40.0,481.1,260.5,490.1,300.4, 
+2,9,1,Calibri,40.0,113.9,309.3,440.1,349.3,COUNTRY REPORTS 
+2,10,0,Calibri-Bold,28.0,213.2,403.2,297.0,431.1,France 
+2,11,0,TimesNewRomanPSMT,12.0,28.3,793.2,31.3,806.5, 
+3,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,1,Calibri,11.0,72.0,52.1,74.5,63.1, 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri,11.0,83.1,174.5,523.0,185.5,Building technological leadership: digital infrastructure and technologies ....................................... 6
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri,11.0,94.0,194.1,523.0,205.1,Connectivity infrastructure ............................................................................................................. 6
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri,11.0,94.0,213.5,523.0,224.5,Semiconductors .............................................................................................................................. 8
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri,11.0,94.0,252.5,523.0,263.6,Quantum technologies.................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri,11.0,94.0,291.5,523.0,302.6,SMEs with at least basic digital intensity ........................................................................................ 9
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri,11.0,94.0,311.0,523.0,322.0,Take up of cloud/AI/data analytics ............................................................................................... 10
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri,11.0,94.0,330.5,523.0,341.6,"Unicorns, scale-ups and start-ups ................................................................................................. 12"
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri,11.0,83.1,350.0,523.0,361.0,Strengthening Cybersecurity & Resilience ........................................................................................ 13
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society............................................................................. 15
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri,11.0,83.1,389.0,523.0,400.0,Empowering people and bringing the digital transformation closer to their needs ........................ 15
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Bold,28.0,199.0,381.3,282.8,409.3,France 
+3,19,0,Calibri,11.0,94.0,408.4,523.0,419.5,Equipping people with digital skills ............................................................................................... 15
+3,19,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,20,0,Calibri,11.0,94.0,428.0,523.0,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all .............. 18"
+3,20,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,21,0,Calibri,11.0,83.1,447.4,523.0,458.5,Building a safe and human centric digital environment and preserving our democracy ................. 20
+3,21,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,22,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 22
+3,22,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,23,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 24
+3,23,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,24,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 25
+3,24,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,25,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 27
+3,25,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,26,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,27,0,Calibri,11.0,72.0,564.5,74.5,575.5, 
+3,28,0,Calibri,11.0,72.0,586.9,74.5,597.9, 
+3,28,1,Calibri,11.0,216.1,586.9,218.5,597.9, 
+3,29,0,Calibri,11.0,72.0,794.3,74.5,805.3, 
+4,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+4,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,288.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.4,137.3,France can rely on a very good digital infrastructure but lags behind in the digitalisation of 
+4,4,1,Calibri-Bold,11.0,72.0,140.8,415.3,151.8,businesses. The country positions itself as a tech leader in AI and green ICT.
+4,4,1,Calibri,11.0,415.5,140.8,418.0,151.8, 
+4,5,0,Calibri-Bold,11.0,72.0,163.2,525.6,174.3,France shows a high level of ambition in its contribution to the Digital Decade having set 9 national 
+4,5,1,Calibri-Bold,11.0,72.0,177.7,525.8,188.8,"targets, 100% of which aligned with the EU 2030 targets. The country is following its trajectories "
+4,5,2,Calibri-Bold,11.0,72.0,192.1,525.5,203.2,moderately well with 50% of them being on track (considering 2024 trajectories defined for 6 KPIs 
+4,5,3,Calibri-Bold,11.0,72.0,206.7,525.6,217.7,out of 8 analysed). France addressed 77% of the 13 recommendations issued by the Commission in 
+4,5,4,Calibri-Bold,11.0,72.0,221.2,525.5,232.2,"2024, either by implementing significant policy changes (54%) or making some changes (23%) "
+4,5,5,Calibri-Bold,11.0,72.0,235.7,180.2,246.8,through new measures.
+4,5,5,ArialMT,11.0,180.2,234.0,183.2,246.3, 
+4,6,0,Calibri,11.0,72.0,258.2,525.5,269.2,"In 2024, fibre and 5G coverage in France is high despite a large territory. The digitalisation of SMEs "
+4,6,1,Calibri,11.0,72.0,272.7,525.8,283.7,and the adoption of advanced digital technologies by businesses remains below average. Recent 
+4,6,2,Calibri,11.0,72.0,287.2,525.6,298.2,"activities, such as hosting the AI Action Summit in 2025, confirm that France wants to position itself "
+4,6,3,Calibri,11.0,72.0,301.6,525.6,312.6,as a leader in AI. The country is also developing initiatives and standards to measure and reduce the 
+4,6,4,Calibri,11.0,72.0,316.1,525.8,327.2,environmental footprint of the ICT sector. France’s digital policies increasingly emphasise sovereignty 
+4,6,5,Calibri,11.0,72.0,330.6,525.5,341.7,"by, for example, developing its national production of semiconductors and fostering the adoption of "
+4,6,6,Calibri,11.0,72.0,345.2,525.9,356.2,sovereign EU and French solutions by businesses and the public administration. France has set out a 
+4,6,7,Calibri,11.0,72.0,359.6,525.6,370.6,"very broad portfolio of actions to raise awareness of cyberthreats in all sectors (enterprises, "
+4,6,8,Calibri,11.0,72.0,374.1,525.7,385.1,"administration, general public) but has also provided support in implementing cybersecurity "
+4,6,9,Calibri,11.0,72.0,388.6,276.2,399.6,"strategies, especially in the healthcare sector."
+4,6,9,ArialMT,11.0,276.0,386.9,279.1,399.2, 
+4,7,0,Calibri-Bold,7.0,300.2,417.8,321.1,424.8,France 
+4,7,1,Calibri-Bold,7.0,418.3,417.8,427.9,424.8,EU 
+4,7,2,Calibri-Bold,7.0,471.5,413.5,514.9,420.5,Digital Decade 
+4,7,3,Calibri-Bold,7.0,471.3,422.0,516.6,429.0,target by 2030  
+4,8,0,Calibri,7.0,77.7,426.6,80.8,433.6,  
+4,9,0,Calibri,14.0,96.4,436.5,202.7,450.6,Digital Decade KPI 
+4,9,0,Calibri,9.0,202.7,435.3,212.8,444.3,(1)
+4,9,0,Calibri,7.0,212.7,441.8,214.3,448.8, 
+4,10,0,Calibri-Bold,7.0,350.5,438.1,376.9,445.1,National 
+4,10,1,Calibri-Bold,7.0,348.7,446.6,378.8,453.6,trajectory 
+4,11,0,Calibri-Bold,7.0,314.5,442.3,336.7,449.3,Annual 
+4,11,1,Calibri-Bold,7.0,312.3,451.0,338.8,457.9,progress 
+4,12,0,Calibri-Bold,7.0,351.1,455.2,376.3,462.1,2024 (3) 
+4,12,1,Calibri-Bold,7.0,388.1,446.6,418.6,453.6,DESI 2025 
+4,12,2,Calibri-Bold,7.0,431.7,442.3,453.9,449.3,Annual 
+4,12,3,Calibri-Bold,7.0,429.6,451.0,456.1,457.9,progress 
+4,12,4,Calibri-Bold,7.0,474.0,446.6,482.8,453.6,FR 
+4,12,5,Calibri-Bold,7.0,504.3,446.6,514.0,453.6,EU 
+4,13,0,Calibri-Bold,7.0,247.0,433.8,261.5,440.8,DESI 
+4,13,1,Calibri-Bold,7.0,246.4,442.3,262.0,449.3,2024 
+4,13,2,Calibri-Bold,7.0,245.9,451.0,262.5,457.9,(year 
+4,13,3,Calibri-Bold,7.0,245.3,459.5,263.2,466.4,2023) 
+4,14,0,Calibri-Bold,7.0,281.7,433.8,296.2,440.8,DESI 
+4,14,1,Calibri-Bold,7.0,281.2,442.3,296.8,449.3,2025 
+4,14,2,Calibri-Bold,7.0,280.7,451.0,297.3,457.9,(year 
+4,14,3,Calibri-Bold,7.0,280.0,459.5,297.9,466.4,2024) 
+4,15,0,Calibri-Bold,7.0,77.7,471.7,228.5,478.7,Fixed Very High Capacity Network (VHCN) coverage 
+4,15,1,Calibri,7.0,244.7,471.7,263.7,478.7,81.4% 
+4,15,2,Calibri,7.0,279.5,471.7,298.5,478.7,87.5% 
+4,15,3,Calibri,7.0,317.8,471.7,333.3,478.7,7.5% 
+4,15,4,Calibri,7.0,353.5,471.7,375.7,478.7, 90.7%  
+4,15,5,Calibri,7.0,393.8,471.7,412.8,478.7,82.5% 
+4,15,6,Calibri,7.0,435.1,471.7,450.6,478.7,4.9% 
+4,15,7,Calibri,7.0,467.1,471.7,489.7,478.7,100.0% 
+4,15,8,Calibri,7.0,500.6,471.7,517.8,478.7,100% 
+4,16,0,Calibri-Bold,7.0,77.7,487.2,188.6,494.2,Fibre to the Premises (FTTP) coverage 
+4,16,1,Calibri,7.0,244.7,487.2,263.7,494.2,81.4% 
+4,16,2,Calibri,7.0,279.5,487.2,298.5,494.2,87.5% 
+4,16,3,Calibri,7.0,317.8,487.2,333.3,494.2,7.5% 
+4,16,4,Calibri,7.0,361.0,487.2,367.9,494.2, -  
+4,16,5,Calibri,7.0,393.8,487.2,412.8,494.2,69.2% 
+4,16,6,Calibri,7.0,435.1,487.2,450.6,494.2,8.4% 
+4,16,7,Calibri,7.0,476.5,487.2,480.2,494.2,- 
+4,16,8,Calibri,7.0,507.3,487.2,511.1,494.2,- 
+4,17,0,Calibri-Bold,7.0,77.7,502.7,137.7,509.6,Overall 5G coverage 
+4,17,1,Calibri,7.0,244.7,502.7,263.7,509.6,90.9% 
+4,17,2,Calibri,7.0,279.5,502.7,298.5,509.6,94.3% 
+4,17,3,Calibri,7.0,317.8,502.7,333.3,509.6,3.8% 
+4,17,4,Calibri,7.0,353.5,502.7,375.7,509.6, 96.6%  
+4,17,5,Calibri,7.0,393.8,502.7,412.8,509.6,94.3% 
+4,17,6,Calibri,7.0,435.1,502.7,450.6,509.6,5.9% 
+4,17,7,Calibri,7.0,467.1,502.7,489.7,509.6,100.0% 
+4,17,8,Calibri,7.0,500.6,502.7,517.8,509.6,100% 
+4,18,0,Calibri-Bold,7.0,77.7,518.3,144.8,525.2,Edge Nodes (estimate) 
+4,18,1,Calibri,7.0,248.1,518.3,260.3,525.2,272 
+4,18,2,Calibri,7.0,282.9,518.3,295.2,525.2,532 
+4,18,3,Calibri,7.0,316.1,518.3,335.1,525.2,95.6% 
+4,18,4,Calibri,7.0,361.0,518.3,367.9,525.2, -  
+4,18,5,Calibri,7.0,395.5,518.3,411.2,525.2,2257 
+4,18,6,Calibri,7.0,433.3,518.3,452.3,525.2,90.5% 
+4,18,7,Calibri,7.0,476.5,518.3,480.2,525.2,- 
+4,18,8,Calibri,7.0,499.5,518.3,518.9,525.2,10000 
+4,19,0,Calibri-Bold,7.0,77.7,533.8,233.0,540.7,SMEs with at least a basic level of digital intensity (2) 
+4,19,1,Calibri,7.0,252.4,533.8,256.1,540.7,- 
+4,19,2,Calibri,7.0,279.5,533.8,298.5,540.7,68.5% 
+4,19,3,Calibri,7.0,317.8,533.8,333.3,540.7,3.8% 
+4,19,4,Calibri,7.0,361.0,533.8,367.9,540.7, -  
+4,19,5,Calibri,7.0,393.8,533.8,412.8,540.7,72.9% 
+4,19,6,Calibri,7.0,435.1,533.8,450.6,540.7,2.8% 
+4,19,7,Calibri,7.0,468.9,533.8,487.9,540.7,90.0% 
+4,19,8,Calibri,7.0,502.3,533.8,516.0,540.7,90% 
+4,20,0,Calibri-Bold,7.0,77.7,549.2,95.9,556.2,Cloud 
+4,20,1,Calibri,7.0,244.7,549.2,263.7,556.2,23.0% 
+4,20,2,Calibri,7.0,287.1,549.2,290.8,556.2,- 
+4,20,3,Calibri,7.0,323.7,549.2,327.4,556.2,- 
+4,20,4,Calibri,7.0,361.0,549.2,367.9,556.2, -  
+4,20,5,Calibri,7.0,401.5,549.2,405.2,556.2,- 
+4,20,6,Calibri,7.0,441.0,549.2,444.7,556.2,- 
+4,20,7,Calibri,7.0,476.5,549.2,480.2,556.2,- 
+4,20,8,Calibri,7.0,502.3,549.2,516.0,556.2,75% 
+4,21,0,Calibri-Bold,7.0,77.7,564.8,139.2,571.7,Artificial Intelligence 
+4,21,1,Calibri,7.0,246.5,564.8,262.0,571.7,5.9% 
+4,21,2,Calibri,7.0,281.2,564.8,296.7,571.7,9.9% 
+4,21,3,Calibri,7.0,316.1,564.8,335.1,571.7,68.5% 
+4,21,4,Calibri,7.0,361.0,564.8,367.9,571.7, -  
+4,21,5,Calibri,7.0,393.8,564.8,412.8,571.7,13.5% 
+4,21,6,Calibri,7.0,433.3,564.8,452.3,571.7,67.2% 
+4,21,7,Calibri,7.0,476.5,564.8,480.2,571.7,- 
+4,21,8,Calibri,7.0,502.3,564.8,516.0,571.7,75% 
+4,22,0,Calibri-Bold,7.0,77.7,580.2,120.2,587.2,Data analytics 
+4,22,1,Calibri,7.0,244.7,580.2,263.7,587.2,33.9% 
+4,22,2,Calibri,7.0,287.1,580.2,290.8,587.2,- 
+4,22,3,Calibri,7.0,323.7,580.2,327.4,587.2,- 
+4,22,4,Calibri,7.0,361.0,580.2,367.9,587.2, -  
+4,22,5,Calibri,7.0,401.5,580.2,405.2,587.2,- 
+4,22,6,Calibri,7.0,441.0,580.2,444.7,587.2,- 
+4,22,7,Calibri,7.0,476.5,580.2,480.2,587.2,- 
+4,22,8,Calibri,7.0,502.3,580.2,516.0,587.2,75% 
+4,23,0,Calibri-Bold,7.0,77.7,595.7,161.8,602.7,AI or Cloud or Data analytics 
+4,23,1,Calibri,7.0,244.7,595.7,263.7,602.7,44.9% 
+4,23,2,Calibri,7.0,287.1,595.7,290.8,602.7,- 
+4,23,3,Calibri,7.0,323.7,595.7,327.4,602.7,- 
+4,23,4,Calibri,7.0,361.0,595.7,367.9,602.7, -  
+4,23,5,Calibri,7.0,401.5,595.7,405.2,602.7,- 
+4,23,6,Calibri,7.0,441.0,595.7,444.7,602.7,- 
+4,23,7,Calibri,7.0,468.9,595.7,487.9,602.7,65.0% 
+4,23,8,Calibri,7.0,502.3,595.7,516.0,602.7,75% 
+4,24,0,Calibri-Bold,7.0,77.7,611.3,105.0,618.3,Unicorns 
+4,24,1,Calibri,7.0,249.9,611.3,258.5,618.3,43 
+4,24,2,Calibri,7.0,284.7,611.3,293.4,618.3,48 
+4,24,3,Calibri,7.0,316.1,611.3,335.1,618.3,11.6% 
+4,24,4,Calibri,7.0,358.6,611.3,370.5,618.3, 49  
+4,24,5,Calibri,7.0,397.2,611.3,409.4,618.3,286 
+4,24,6,Calibri,7.0,435.1,611.3,450.6,618.3,4.4% 
+4,24,7,Calibri,7.0,472.3,611.3,484.6,618.3,100 
+4,24,8,Calibri,7.0,503.0,611.3,515.3,618.3,500 
+4,25,0,Calibri-Bold,7.0,77.7,626.8,153.0,633.8,At least basic digital skills 
+4,25,1,Calibri,7.0,244.7,626.8,263.7,633.8,59.7% 
+4,25,2,Calibri,7.0,287.1,626.8,290.8,633.8,- 
+4,25,3,Calibri,7.0,323.7,626.8,327.4,633.8,- 
+4,25,4,Calibri,7.0,361.0,626.8,367.9,633.8, -  
+4,25,5,Calibri,7.0,401.5,626.8,405.2,633.8,- 
+4,25,6,Calibri,7.0,441.0,626.8,444.7,633.8,- 
+4,25,7,Calibri,7.0,468.9,626.8,487.9,633.8,80.0% 
+4,25,8,Calibri,7.0,502.3,626.8,516.0,633.8,80% 
+4,26,0,Calibri-Bold,7.0,77.7,642.3,119.4,649.2,ICT specialists 
+4,26,1,Calibri,7.0,246.5,642.3,262.0,649.2,4.7% 
+4,26,2,Calibri,7.0,281.2,642.3,296.7,649.2,4.8% 
+4,26,3,Calibri,7.0,317.8,642.3,333.3,649.2,2.1% 
+4,26,4,Calibri,7.0,355.3,642.3,373.9,649.2, 5.5%  
+4,26,5,Calibri,7.0,395.6,642.3,411.1,649.2,5.0% 
+4,26,6,Calibri,7.0,435.1,642.3,450.6,649.2,4.2% 
+4,26,7,Calibri,7.0,468.9,642.3,487.9,649.2,10.0% 
+4,26,8,Calibri,7.0,500.6,642.3,517.8,649.2,~10% 
+4,27,0,Calibri-Bold,7.0,77.7,657.8,150.3,664.7,e-ID scheme notification 
+4,27,1,Calibri,7.0,253.5,655.5,255.1,662.4, 
+4,27,2,Calibri,7.0,283.4,657.8,294.6,664.7,Yes 
+4,27,3,Calibri,7.0,324.8,655.5,326.4,662.4, 
+4,27,4,Calibri,7.0,363.0,655.5,364.5,662.4, 
+4,27,5,Calibri,7.0,402.6,655.5,404.2,662.4, 
+4,27,6,Calibri,7.0,442.1,655.5,443.6,662.4, 
+4,27,7,Calibri,7.0,477.6,655.5,479.2,662.4, 
+4,27,8,Calibri,7.0,508.4,655.5,510.0,662.4, 
+4,28,0,Calibri-Bold,7.0,77.7,673.2,175.3,680.2,Digital public services for citizens 
+4,28,1,Calibri,7.0,247.2,673.2,261.2,680.2,72.1 
+4,28,2,Calibri,7.0,282.0,673.2,296.0,680.2,71.2 
+4,28,3,Calibri,7.0,316.9,673.2,334.4,680.2,-1.2% 
+4,28,4,Calibri,7.0,356.0,673.2,373.2,680.2, 76.1  
+4,28,5,Calibri,7.0,396.3,673.2,410.3,680.2,82.3 
+4,28,6,Calibri,7.0,435.1,673.2,450.6,680.2,3.6% 
+4,28,7,Calibri,7.0,469.7,673.2,487.2,680.2,100.0 
+4,28,8,Calibri,7.0,503.0,673.2,515.3,680.2,100 
+4,29,0,Calibri-Bold,7.0,77.7,688.8,184.7,695.8,Digital public services for businesses 
+4,29,1,Calibri,7.0,247.2,688.8,261.2,695.8,79.3 
+4,29,2,Calibri,7.0,282.0,688.8,296.0,695.8,76.9 
+4,29,3,Calibri,7.0,316.9,688.8,334.4,695.8,-3.0% 
+4,29,4,Calibri,7.0,356.0,688.8,373.2,695.8, 82.3  
+4,29,5,Calibri,7.0,396.3,688.8,410.3,695.8,86.2 
+4,29,6,Calibri,7.0,435.1,688.8,450.6,695.8,0.9% 
+4,29,7,Calibri,7.0,469.7,688.8,487.2,695.8,100.0 
+4,29,8,Calibri,7.0,503.0,688.8,515.3,695.8,100 
+4,30,0,Calibri-Bold,7.0,77.7,704.7,156.0,711.6,Access to e-Health records 
+4,30,1,Calibri,7.0,247.2,704.7,261.2,711.6,79.3 
+4,30,2,Calibri,7.0,282.0,704.7,296.0,711.6,84.2 
+4,30,3,Calibri,7.0,317.8,704.7,333.3,711.6,6.2% 
+4,30,4,Calibri,7.0,356.0,704.7,373.2,711.6, 82.2  
+4,30,5,Calibri,7.0,396.3,704.7,410.3,711.6,82.7 
+4,30,6,Calibri,7.0,435.1,704.7,450.6,711.6,4.5% 
+4,30,7,Calibri,7.0,469.7,704.7,487.2,711.6,100.0 
+4,30,8,Calibri,7.0,503.0,704.7,515.3,711.6,100 
+4,31,0,Calibri,7.0,77.7,717.9,325.4,724.8,(1) See the methodological note for the description of the indicators and other metrics 
+4,31,1,Calibri,7.0,77.7,726.4,502.6,733.4,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,31,2,Calibri,7.0,77.7,734.9,420.4,741.9,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,31,3,Calibri,7.0,77.7,743.6,425.9,750.5,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,32,0,Calibri,11.0,294.9,779.8,302.9,790.8,1 
+4,32,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+5,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+5,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,3,0,Calibri-Bold,11.0,72.0,84.0,381.9,95.1,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+5,3,0,Calibri,11.0,382.0,84.0,525.9,95.1,", 65% of French people consider "
+5,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,that the digitalisation of daily public and private services is making their lives easier. On the action of 
+5,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"the public authorities, 89% consider it important to counter and mitigate the issue of fake news and "
+5,3,3,Calibri,11.0,72.0,127.5,525.6,138.5,"disinformation online. And on competitiveness, 82% consider it important to ensure that European "
+5,3,4,Calibri,11.0,72.0,142.0,466.4,153.0,companies can grow and become ‘European Champions’ capable of competing globally. 
+5,4,0,Calibri-Light,15.0,72.0,165.3,468.9,180.3,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Light,15.0,72.0,185.1,138.3,200.1,leadership 
+5,5,0,Calibri,11.0,72.0,211.9,525.6,223.0,"Digital infrastructure indicators (very high capacity networks (VHCNs), fibre to the premises (FTTP), "
+5,5,1,Calibri,11.0,72.0,226.5,412.0,237.5,5G) are all above the EU average thanks to effective public policies (plan 
+5,5,1,Calibri-Italic,11.0,413.5,226.5,518.0,237.5,‘France très haut débit
+5,5,1,Calibri,11.0,518.0,226.5,525.9,237.5,"’, "
+5,5,2,Calibri,11.0,72.0,241.0,525.7,252.0,"multiple service providers sharing a fibre network). However, the digitalisation of enterprises, "
+5,5,3,Calibri,11.0,72.0,255.4,525.8,266.5,"especially SMEs, is still lagging. Nonetheless, France has demonstrated leadership in AI and can count "
+5,5,4,Calibri,11.0,72.0,269.9,525.9,281.0,on a dynamic start-up ecosystem in this sector and in quantum computing. The country has adjusted 
+5,5,5,Calibri,11.0,72.0,284.4,525.9,295.5,its roadmap with additional measures to foster the adoption of generative AI and retrieval-augmented 
+5,5,6,Calibri,11.0,72.0,299.0,525.8,310.0,"generation technologies by businesses. However, the take-up of advanced digital technologies by "
+5,5,7,Calibri,11.0,72.0,313.4,525.7,324.4,"businesses is below average. France promotes cyber awareness on all fronts: businesses, population, "
+5,5,8,Calibri,11.0,72.0,327.9,525.6,338.9,and administration. The updated roadmap includes a programme for cyber protection of healthcare 
+5,5,9,Calibri,11.0,72.0,342.4,525.6,353.4,facilities. The roadmap also includes massive investments in semiconductors (research and 
+5,5,10,Calibri,11.0,72.0,356.9,130.1,368.0,production). 
+5,6,0,Calibri-Light,15.0,72.0,380.2,380.6,395.2,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,407.1,525.9,418.1,France’s digital skills performance reflects inclusive growth across genders and a small urban-rural 
+5,7,1,Calibri,11.0,72.0,421.6,525.9,432.7,"skills gap, but some disparities persist based on people’s education levels. The general population’s "
+5,7,2,Calibri,11.0,72.0,436.1,525.6,447.2,"poor performance in mathematics may limit the pursuit of science, technology, engineering and "
+5,7,3,Calibri,11.0,72.0,450.7,525.6,461.7,mathematics (STEM) and ICT specialist training and careers as these skills shortages are persistent. 
+5,7,4,Calibri,11.0,72.0,465.1,525.8,476.1,"Public service digitalisation is losing ground compared to the EU average. In this area, the authorities "
+5,7,5,Calibri,11.0,72.0,479.6,525.9,490.6,are focussing on reducing the administrative burden (dematerialisation – replacing physical 
+5,7,6,Calibri,11.0,72.0,494.1,525.7,505.1,"documents, processes and transactions with digital equivalents, ‘once only’ principle). They are also "
+5,7,7,Calibri,11.0,72.0,508.6,525.7,519.7,"promoting the adoption of sovereign solutions, including cloud, open software, and specialised skills "
+5,7,8,Calibri,11.0,72.0,523.0,525.6,534.1,"within the administration. On a positive note, the digitalisation of healthcare has made impressive "
+5,7,9,Calibri,11.0,72.0,537.5,211.8,548.6,progress in the past two years. 
+5,8,0,Calibri-Light,15.0,72.0,561.0,401.4,576.0,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,587.9,525.6,598.9,France is a global leader in monitoring and reducing the environmental impact of its ICT sector. It has 
+5,9,1,Calibri,11.0,72.0,602.4,525.7,613.4,"developed tools to measure, forecast and monitor the ICT sector’s footprint (such as designing carbon "
+5,9,2,Calibri,11.0,72.0,616.9,525.8,627.9,reduction trajectories) and plays a key role in green initiatives within the Digital Decade’s Best Practice 
+5,9,3,Calibri,11.0,72.0,631.3,128.9,642.3,Accelerator. 
+5,10,0,Calibri-Light,15.0,72.0,654.7,327.5,669.7,National digital decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,681.6,525.6,692.6,"France submitted a fully revised national Digital Decade roadmap on 3 February 2025, containing six "
+5,11,1,Calibri,11.0,72.0,696.1,525.7,707.1,additional measures and revised trajectories. The updates are aligned with the Commission’s new 
+5,11,2,Calibri,11.0,72.0,710.6,525.8,721.7,"priorities on AI, cybersecurity and green ICT. It includes reporting on the consultation of stakeholders. "
+5,11,3,Calibri,11.0,72.0,725.0,525.9,736.1,It addresses a substantial number of roadmap recommendations issued in 2024. All targets align with 
+5,11,4,Calibri,11.0,72.0,739.6,525.6,750.6,"the EU level goals for 2030 (except for the combined indicator on the adoption of AI, cloud, and data "
+5,11,5,Calibri,11.0,72.0,754.1,525.6,765.1,"analytics technologies where the country aims at 65%, below the EU target of 75%). The revised "
+5,12,0,Calibri,11.0,294.9,779.8,302.9,790.8,2 
+5,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+6,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+6,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"roadmap continues to prioritise semiconductors, connectivity, and e-Health. It contains of 33 "
+6,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"measures with a budget of EUR 18.6 billion, including EUR 11.1 billion from the public budget "
+6,3,2,Calibri,11.0,72.0,112.9,523.6,124.0,"(equivalent to 0.38% of GDP). It covers all the Digital Decade objectives, such as creating a human-"
+6,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"centred digital space, boosting resilience and security, promoting sovereignty, supporting the green "
+6,3,4,Calibri,11.0,72.0,142.0,225.4,153.0,"transition, and protecting society. "
+6,4,0,Calibri-Light,15.0,72.0,165.3,250.6,180.3,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,192.1,462.6,203.2,France allocates 22% of its total recovery and resilience plan to digital (EUR 8.1 billion)
+6,5,0,Calibri,7.0,462.8,191.2,466.3,198.2,1
+6,5,0,Calibri,11.0,466.3,192.1,525.9,203.2,". In addition, "
+6,5,1,Calibri,11.0,72.0,206.7,525.8,217.7,"under cohesion policy, EUR 1.9 billion, representing 11% of the country’s total cohesion policy funding, "
+6,5,2,Calibri,11.0,72.0,221.2,325.2,232.2,is dedicated to advancing France’s digital transformation
+6,5,2,Calibri,7.0,325.3,220.3,328.8,227.2,2
+6,5,2,Calibri,11.0,328.8,221.2,334.0,232.2,. 
+6,6,0,Calibri,11.0,72.0,243.6,525.9,254.7,France is the host Member State of the Alliance for Language Technologies EDIC (ALT-EDIC). France is 
+6,6,1,Calibri,11.0,72.0,258.2,525.7,269.2,also a member of the Local Digital Twins towards CitiVERSE EDIC. The country is directly participating 
+6,6,2,Calibri,11.0,72.0,272.7,525.8,283.7,in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in the IPCEI on 
+6,6,3,Calibri,11.0,72.0,287.2,525.8,298.2,Next Generation Cloud Infrastructure and Services (IPCEI-CIS). France is also a participating state of 
+6,6,4,Calibri,11.0,72.0,301.6,326.0,312.6,the EuroHPC Joint Undertaking (JU) and of the Chips JU.  
+6,7,0,Calibri,11.0,72.0,324.2,319.4,335.2,France has contributed to the Best Practice Accelerator
+6,7,0,Calibri,7.0,319.5,323.3,323.0,330.2,3
+6,7,0,Calibri,11.0,323.0,324.2,525.8,335.2, by leading the cluster on Green IT related to 
+6,7,1,Calibri,11.0,72.0,338.7,525.6,349.7,public policies on the environmental transition of digital technology. It shared three best practices 
+6,7,2,Calibri,11.0,72.0,353.1,525.8,364.1,"within this cluster (the general reference framework for the eco-design of digital services, the Alt "
+6,7,3,Calibri,11.0,72.0,367.6,525.9,378.6,"IMPACT Communication Campaign, and the development of product category rules for environmental "
+6,7,4,Calibri,11.0,72.0,382.1,525.8,393.2,evaluation and labelling) and one additional best practice in the Digital Skills cluster (digital advisors). 
+6,8,0,Calibri-Light,15.0,72.0,405.5,238.6,420.5,Digital rights and principles 
+6,9,0,Calibri,11.0,72.0,432.4,477.2,443.5,"According to a support study, France has been relatively active in implementing the "
+6,9,0,Calibri-Bold,11.0,479.6,432.4,525.9,443.5,European 
+6,9,1,Calibri-Bold,11.0,72.0,446.8,266.5,457.9,Declaration on Digital Rights and Principles
+6,9,1,Calibri,11.0,266.7,446.8,525.9,457.9,", with 53 initiatives overall but no new initiatives launched "
+6,9,2,Calibri,11.0,72.0,461.3,525.9,472.4,in 2024. France is most active in the area of participation in the digital public space. Less activity has 
+6,9,3,Calibri,11.0,72.0,475.9,525.9,486.9,been identified with regards to digital public services online. Measures in the area of putting people 
+6,9,4,Calibri,11.0,72.0,490.4,525.7,501.4,"at the centre of the digital transformation appear to have most impact on the ground, in contrast to "
+6,9,5,Calibri,11.0,72.0,504.8,311.7,515.8,"those addressing safety, security and empowerment. "
+6,10,0,Calibri-Bold,11.0,77.7,527.8,165.8,538.9,Recommendations 
+6,10,1,Calibri-Bold,11.0,77.7,541.3,80.2,552.3, 
+6,10,2,Calibri,11.0,75.4,554.7,78.8,565.8,-
+6,10,2,ArialMT,11.0,78.7,553.0,81.8,565.3, 
+6,10,3,Calibri-Bold,11.0,93.3,554.7,117.9,565.8,SMEs
+6,10,3,Calibri,11.0,117.9,554.7,526.7,565.8,": Improve digitalisation of SMEs, including by directing existing support schemes to SMEs "
+6,10,4,Calibri,11.0,93.3,569.3,327.8,580.3,"that lag in digitalisation, independently of their size. "
+6,10,5,Calibri,11.0,75.4,583.7,78.8,594.7,-
+6,10,5,ArialMT,11.0,78.7,581.9,81.8,594.3, 
+6,10,6,Calibri-Bold,11.0,93.3,583.7,246.9,594.7,ICT specialists and advanced skills
+6,10,6,Calibri,11.0,247.1,583.7,526.9,594.7,": Increase the job market relevance, improve the visibility, and "
+6,10,7,Calibri,11.0,93.3,598.2,343.7,609.2,clarify the offer of digital training and reskilling options. 
+6,10,8,Calibri,11.0,75.4,612.7,78.8,623.7,-
+6,10,8,ArialMT,11.0,78.7,611.0,81.8,623.3, 
+6,10,9,Calibri-Bold,11.0,93.3,612.7,242.0,623.7,Advanced technologies take-up
+6,10,9,Calibri,11.0,242.0,612.7,526.9,623.7,: Support the adoption of advanced digital technologies by 
+6,10,10,Calibri,11.0,93.3,627.2,526.7,638.3,businesses (with a particular attention to AI and cloud) via the creation of local ecosystems to 
+6,11,0,Calibri,11.0,216.1,652.1,218.5,663.1, 
+6,12,0,Calibri,6.0,72.0,665.0,75.1,671.0,1
+6,12,0,Calibri,9.0,75.0,665.2,521.8,674.2, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,12,1,Calibri,9.0,72.0,677.0,314.9,686.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,13,0,Calibri,6.0,72.0,688.6,75.1,694.6,2
+6,13,0,Calibri,9.0,75.0,688.9,506.1,697.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+6,13,1,Calibri,9.0,72.0,700.8,504.3,709.8,"2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the "
+6,13,2,Calibri,9.0,72.0,712.6,352.4,721.6,"Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,14,0,Calibri,6.0,72.0,724.3,75.1,730.3,3
+6,14,0,Calibri,9.0,75.0,724.5,525.1,733.5, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,14,1,Calibri,9.0,72.0,736.3,525.3,745.3,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,14,2,Calibri,9.0,72.0,748.2,525.0,757.2,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital "
+6,14,3,Calibri,9.0,72.0,760.0,273.1,769.0,"Skills, Green IT, and the Uptake of Digital Technologies."
+6,14,3,Calibri,10.0,273.4,759.3,275.7,769.3, 
+6,15,0,Calibri,11.0,294.9,779.8,302.9,790.8,3 
+6,15,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+7,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+7,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,3,0,Calibri,11.0,93.3,84.5,526.7,95.5,spread technologies and best practices across all economic sectors. Encourage the adoption of 
+7,3,1,Calibri,11.0,93.3,99.0,230.4,110.1,sovereign European solutions. 
+7,3,2,Calibri,11.0,75.4,113.4,78.8,124.5,-
+7,3,2,ArialMT,11.0,78.7,111.7,81.8,124.0, 
+7,3,3,Calibri-Bold,11.0,93.3,113.4,187.7,124.5,Artificial intelligence
+7,3,3,Calibri,11.0,187.9,113.4,526.8,124.5,: Continue supporting innovation in AI to strengthen France’s leadership in 
+7,3,4,Calibri,11.0,93.3,127.9,335.6,139.0,the sector and create future global leader companies. 
+7,3,5,Calibri,11.0,75.4,142.5,78.8,153.5,-
+7,3,5,ArialMT,11.0,78.7,140.7,81.8,153.1, 
+7,3,6,Calibri-Bold,11.0,93.3,142.5,155.7,153.5,Cybersecurity
+7,3,6,Calibri,11.0,155.8,142.5,526.8,153.5,": Continue efforts in cybersecurity to address evolving threats, particularly for "
+7,3,7,Calibri,11.0,93.3,157.0,236.3,168.0,enterprises and administration. 
+7,3,8,Calibri,11.0,75.4,171.4,78.8,182.4,-
+7,3,8,ArialMT,11.0,78.7,169.7,81.8,182.0, 
+7,3,9,Calibri-Bold,11.0,93.3,171.4,197.8,182.4,Digital public services
+7,3,9,Calibri,11.0,197.9,171.4,526.8,182.4,: Speed up the digitalisation of public services for both citizen and 
+7,3,10,Calibri,11.0,93.3,185.9,377.5,196.9,"businesses, in particular by expanding cross-border capabilities."
+7,3,10,Calibri-Bold,11.0,377.5,185.9,380.0,196.9, 
+7,3,10,Calibri,11.0,379.9,185.9,382.4,196.9, 
+7,3,11,Calibri-Bold,11.0,72.0,200.9,74.5,211.9, 
+7,4,0,Calibri-Bold,11.0,72.0,223.3,74.5,234.4, 
+7,4,1,Calibri-Bold,11.0,216.1,223.3,218.5,234.4, 
+7,5,0,Calibri,11.0,294.9,779.8,302.9,790.8,4 
+7,5,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+8,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+8,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,445.1,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.4,171.5,"France’s digital competitiveness has been a key focus for policymakers, aiming to position the "
+8,4,1,Calibri-Bold,11.0,72.0,175.0,287.8,186.0,country as a global leader in the tech landscape
+8,4,1,Calibri,11.0,287.8,175.0,525.8,186.0,". In recent years, significant progress has been made, "
+8,4,2,Calibri,11.0,72.0,189.5,525.8,200.5,"with growing investments in start-ups, a vibrant tech ecosystem in hubs like Paris, and advances in AI, "
+8,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"cybersecurity, and cloud computing. The long-term investment plan, France 2030, with a budget of "
+8,4,4,Calibri,11.0,72.0,218.4,525.9,229.5,"EUR 54 billion, is pivotal in developing cutting-edge digital technologies such as AI, quantum and "
+8,4,5,Calibri,11.0,72.0,233.0,525.9,244.0,"cybersecurity. However, recent political instabilities and budget arbitrage are putting this progress at "
+8,4,6,Calibri,11.0,72.0,247.5,525.9,258.5,"risk, potentially undermining the momentum achieved so far. Reduced funding for digital "
+8,4,7,Calibri,11.0,72.0,261.9,525.7,272.9,"transformation, infrastructure, and innovation initiatives risks slowing France’s ability to compete with "
+8,4,8,Calibri,11.0,72.0,276.4,525.8,287.5,other countries. Economic and political visibility is paramount for companies to anticipate and plan 
+8,4,9,Calibri,11.0,72.0,290.9,155.9,302.0,their investments. 
+8,5,0,Calibri-Bold,11.0,72.0,313.4,525.9,324.4,"In France, enterprises’ demographic characteristics may account for some of the challenges in "
+8,5,1,Calibri-Bold,11.0,72.0,327.9,208.8,338.9,adopting digital technologies.
+8,5,1,Calibri,11.0,208.7,327.9,525.6,338.9, SMEs account for approximately 96.8% of the enterprises with more 
+8,5,2,Calibri,11.0,72.0,342.4,525.9,353.4,"than 10 employees, while large enterprises made up only 3.2%. The French ICT sector represented "
+8,5,3,Calibri,11.0,72.0,356.9,249.9,368.0,4.36% of the gross value added in 2022 
+8,5,3,Calibri,7.0,249.8,356.0,255.0,363.0,4.
+8,5,3,Calibri,11.0,255.1,356.9,525.9,368.0, It was then equal to the 2017 value and was lower than the 
+8,5,4,Calibri,11.0,72.0,371.3,525.9,382.4,"EU average of 5.46%, pointing to an overall underdevelopment. R&D in the ICT sector represented "
+8,5,5,Calibri,11.0,72.0,385.8,448.5,396.9,16.79% of total R&D expenditure by businesses and 22.42% of total R&D personnel. 
+8,6,0,Calibri-Bold,11.0,72.0,408.4,304.7,419.5,French digital infrastructures are a significant asset
+8,6,0,Calibri,11.0,304.8,408.4,525.9,419.5,". Despite its expansive territory, France is leading "
+8,6,1,Calibri,11.0,72.0,422.8,525.9,433.9,the way in the deployment of Fibre and 5G. The ‘symmetrical framework’ for the deployment of Fibre 
+8,6,2,Calibri,11.0,72.0,437.3,525.8,448.4,played a major role in achieving extensive coverage. This framework aims to ensure fair competition 
+8,6,3,Calibri,11.0,72.0,451.9,525.9,462.9,between operators while optimising costs and infrastructure works. According to the 2025 
+8,6,4,Calibri,11.0,72.0,466.4,140.9,477.4,Eurobarometer
+8,6,4,Calibri,7.0,140.8,465.5,144.3,472.4,5
+8,6,4,Calibri,11.0,144.3,466.4,525.8,477.4,", 83% of French people think that building efficient and secure digital infrastructures "
+8,6,5,Calibri,11.0,72.0,480.8,411.7,491.8,and data processing facilities should be a priority for the public authorities.  
+8,7,0,Calibri-Bold,11.0,72.0,503.3,275.9,514.4,France ambitions to be a leader in the AI race
+8,7,0,Calibri,11.0,275.9,503.3,525.9,514.4,". In 2024 and 2025, the country multiplied the initiatives "
+8,7,1,Calibri,11.0,72.0,517.9,525.7,528.9,to support and promote its AI ecosystem. Beside a sustained support to investment in all dimensions 
+8,7,2,Calibri,11.0,72.0,532.3,525.8,543.3,"of AI (infrastructures, adoption by businesses, innovation, skills, …) from France 2030, Paris hosted the "
+8,7,3,Calibri,11.0,72.0,546.8,525.8,557.8,"AI Action Summit in February 2025. The event brought together heads of state, leaders of "
+8,7,4,Calibri,11.0,72.0,561.3,525.8,572.4,"international organisations, CEOs, academics, and civil society representatives to discuss and promote "
+8,7,5,Calibri,11.0,72.0,575.9,525.9,586.9,"the responsible development and use of AI. In the new government formations, the post of Minister "
+8,7,6,Calibri,11.0,72.0,590.3,525.8,601.3,of Digital now mentions specifically AI: ‘Minister Delegate responsible for Artificial Intelligence and 
+8,7,7,Calibri,11.0,72.0,604.8,162.4,615.8,Digital Technology’. 
+8,8,0,Calibri-Bold,11.0,72.0,627.3,381.5,638.4,Sovereignty has become a fundamental issue in all digital initiatives
+8,8,0,Calibri,11.0,381.8,627.3,525.8,638.4,. France is involved in European 
+8,8,1,Calibri,11.0,72.0,641.7,525.6,652.8,"workstreams aimed at creating sovereign digital tools, with European partners, such as the work "
+8,8,2,Calibri,11.0,72.0,656.3,525.6,667.3,"carried out on data spaces, or the multilateral cooperation initiated around the construction of "
+8,8,3,Calibri,11.0,72.0,670.8,525.9,681.8,sovereign digital suites (Digital Workspaces) based on common open-source technological building 
+8,8,4,Calibri,11.0,72.0,685.3,105.4,696.3,blocks. 
+8,9,0,Calibri,11.0,216.1,720.5,218.5,731.5, 
+8,9,1,Calibri,6.5,72.0,733.0,75.3,739.5,4
+8,9,1,Calibri,10.0,75.3,733.9,77.5,743.8, 
+8,9,1,Calibri,9.0,77.3,734.6,525.2,743.6,Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,9,2,Calibri,9.0,72.0,746.8,229.2,755.8,the State of the Digital Decade report 2025
+8,9,2,Calibri,10.0,229.2,746.1,231.5,756.1, 
+8,9,3,Calibri,6.5,72.0,758.1,75.3,764.6,5
+8,9,3,Calibri,10.0,75.3,759.0,77.5,768.9, 
+8,9,3,Calibri,9.0,77.5,759.7,286.6,768.7,Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,9,3,Calibri,9.0,286.8,759.7,518.4,768.7,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,9,3,Calibri,10.0,518.5,759.0,520.8,768.9, 
+8,10,0,Calibri,11.0,294.9,779.8,302.9,790.8,5 
+8,10,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+9,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+9,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,2,0,Calibri-Light,15.0,72.0,84.9,511.3,99.9,Building technological leadership: digital infrastructure and technologies 
+9,4,0,Calibri,11.0,72.0,111.7,525.8,122.8,France is very active in the roll-out of connectivity infrastructures. Both Fibre and 5G networks are 
+9,4,1,Calibri,11.0,72.0,126.3,525.8,137.3,"expected to reach 100% coverage well before 2030, narrowing the geographical divides in a large "
+9,4,2,Calibri,11.0,72.0,140.8,225.9,151.8,territory with sizeable rural areas. 
+9,5,0,Calibri-Light,12.0,72.0,163.5,204.0,175.5,Connectivity infrastructure 
+9,6,0,Calibri-Bold,11.0,72.0,191.1,525.7,202.1,France is at 87.47% of Very-High-Capacity Networks (VHCN) coverage (2030 national target 100%) 
+9,6,1,Calibri-Bold,11.0,72.0,205.5,460.6,216.5,"after a progression of +7.5% in 2024, and standings above the EU average of 82.49%. "
+9,6,1,Calibri,11.0,460.7,205.5,525.9,216.5,The country is 
+9,6,2,Calibri,11.0,72.0,220.0,525.9,231.0,on track according to its national trajectory. The growth rate of 7.5% from 2023 outperforms the EU’s 
+9,6,3,Calibri,11.0,72.0,234.5,525.9,245.6,"4.9%. For households in rural areas, France’s VHCN coverage was 78.12% in 2024, above the EU’s "
+9,6,4,Calibri,11.0,72.0,249.0,493.4,260.1,"61.89%. The growth rate for this category was 20.9%, surpassing again the EU’s rate of 11.3%. "
+9,7,0,Calibri-Bold,11.0,72.0,271.5,525.9,282.5,France is at 87.47% of Fibre-To-The-Premises (FTTP) coverage (2030 national target 100%) after a 
+9,7,1,Calibri-Bold,11.0,72.0,284.9,395.6,296.0,"progression of +7.5% in 2024, far exceeding the EU average of 69.24%. "
+9,7,1,Calibri,11.0,395.7,284.9,525.9,296.0,France also outpaced the EU 
+9,7,2,Calibri,11.0,72.0,298.4,525.9,309.4,"in term of FTTP coverage but with a growth rate of 7.5%, falling lower than the EU’s rate of 8.4% that "
+9,7,3,Calibri,11.0,72.0,311.8,525.8,322.8,"can be explained by France reaching full coverage. For households in sparsely populated areas, "
+9,7,4,Calibri,11.0,72.0,325.2,525.8,336.3,"France’s FTTP coverage was 78.12% in 2024, above the EU’s 58.78%. The growth rate for these areas "
+9,7,5,Calibri,11.0,72.0,338.7,525.8,349.7,"was 20.9%, outperforming the EU’s 11.9%. The country did not provide a national trajectory for 2024 "
+9,7,6,Calibri,11.0,72.0,352.1,323.4,363.2,but it is assumed to be identical to the VHCN trajectory. 
+9,8,0,Calibri-Bold,11.0,72.0,373.5,525.9,384.5,"France is at 94.34% of 5G coverage (2030 national target 100%) after a progression of +3.8% in 2024, "
+9,8,1,Calibri-Bold,11.0,72.0,388.0,268.1,399.0,standing around the EU average of 94.35%. 
+9,8,1,Calibri,11.0,267.4,388.0,525.9,399.0,The country is on track according to its national trajectory. 
+9,8,2,Calibri,11.0,72.0,402.5,525.8,413.6,"France’s growth rate of 3.8% was however lower than the EU’s 6.0%. For households in rural areas, "
+9,8,3,Calibri,11.0,72.0,416.9,525.8,428.0,"France’s 5G coverage was 77.86% in 2024, below the EU’s 79.57%. The growth rate for this category "
+9,8,4,Calibri,11.0,72.0,431.5,525.8,442.5,"was 6.0%, half of the EU’s 11.9%. France’s 5G coverage in the 3.4-3.8 GHz band was 73.98% in 2024, "
+9,8,5,Calibri,11.0,72.0,446.0,525.9,457.0,"higher than the EU’s 67.72%. However, France’s growth rate of 11.7% was significantly lower than the "
+9,8,6,Calibri,11.0,72.0,460.5,525.8,471.5,"EU’s 32.6%. Regarding 5G spectrum, France’s assignment of harmonised spectrum in 5G pioneer "
+9,8,7,Calibri,11.0,72.0,474.9,414.6,485.9,"bands was 59.17% in 2025 (same value as last year), below the EU’s 74.63%. "
+9,9,0,Calibri-Bold,11.0,72.0,497.5,525.9,508.5,"In France, fixed broadband take-up indicators are excellent while the mobile ones are below the EU "
+9,9,1,Calibri-Bold,11.0,72.0,512.0,108.4,523.0,average
+9,9,1,Calibri,11.0,108.4,512.0,525.6,523.0,". In 2023, 65.39% of fixed broadband subscriptions in France were at speeds of 100 Mbps or "
+9,9,2,Calibri,11.0,72.0,526.4,525.8,537.4,"higher, slightly below the EU’s 65.9%. However, by 2024, France’s share increased to 74.11%, "
+9,9,3,Calibri,11.0,72.0,540.9,525.8,551.9,"surpassing the EU’s 71.88%. The growth rate for this indicator in France was 13.3%, outperforming the "
+9,9,4,Calibri,11.0,72.0,555.4,525.9,566.5,"EU’s 9.1%. In France, fixed broadband subscriptions at speeds >1 Gbps are the highest in the EU. In "
+9,9,5,Calibri,11.0,72.0,570.0,525.9,581.0,"2024, France’s share reached 58.92%, while the EU’s was 22.25%. However, France’s annual growth "
+9,9,6,Calibri,11.0,72.0,584.4,525.9,595.4,rate of 14.3% lagged behind the EU’s 20.5%. The share of the population using 5G SIM cards in France 
+9,9,7,Calibri,11.0,72.0,598.9,525.7,609.9,"was 15.28% in 2023, lower than the EU’s 21.7%. By 2024, this share increased to 27.03%, still below "
+9,9,8,Calibri,11.0,72.0,613.4,507.1,624.5,"the EU’s 35.56%. But France’s growth rate in this area was 76.9%, outperforming the EU’s 63.9%. "
+9,10,0,Calibri-LightItalic,11.0,72.0,635.9,143.2,646.9,VHCN and FTTP 
+9,11,0,Calibri-Bold,11.0,72.0,662.4,525.9,673.4,"France’s VHCN and FTTP targets remain at 100% with a completion date by 2025, as set out in the "
+9,11,1,Calibri-Bold,11.0,72.0,676.9,139.4,687.9,2023 roadmap
+9,11,1,Calibri,11.0,139.3,676.9,525.9,687.9,". Given these solid figures and the pace of roll-out, both targets seem realistic. It is "
+9,11,2,Calibri,11.0,72.0,691.4,321.4,702.5,"therefore justified that the current strategy, the plan "
+9,11,2,Calibri-Italic,11.0,323.1,691.4,435.3,702.5,‘France Très Haut Débit’
+9,11,2,Calibri,11.0,435.2,691.4,525.9,702.5,", remains the main "
+9,11,3,Calibri,11.0,72.0,705.8,525.6,716.9,measure in place and that no new supporting measures were submitted along with the roadmap 
+9,11,4,Calibri,11.0,72.0,720.4,525.9,731.4,"adjustment. The last connections, the most difficult to complete, will be incentivised by an on-demand "
+9,11,5,Calibri,11.0,72.0,734.9,128.6,745.9,mechanism. 
+9,12,0,Calibri,11.0,294.9,779.8,302.9,790.8,6 
+9,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+10,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+10,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,3,0,Calibri-Bold,11.0,72.0,84.0,331.4,95.1,"In 2025, France started to close its copper network. "
+10,3,0,Calibri,11.0,334.5,84.0,525.8,95.1,Incumbent operator Orange started the 
+10,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,shutdown by batches of municipalities and the process will take place across the entire territory until 
+10,3,2,Calibri,11.0,72.0,112.9,192.5,124.0,"2030. On 31 January 2025, "
+10,3,2,Calibri,11.0,192.2,112.9,349.2,124.0,the first batch of 162 municipalities
+10,3,2,Calibri,11.0,349.3,112.9,525.9,124.0, saw its copper network shutdown. The 
+10,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,210 000 people concerned by this shutdown were given support to transition to Fibre. Across the 
+10,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,"country, a massive migration to Fibre subscriptions can be observed (more than 60% of population), "
+10,3,5,Calibri,11.0,72.0,156.4,340.0,167.4,made possible by the widespread availability of the service. 
+10,4,0,Calibri-Bold,11.0,72.0,178.9,463.9,190.0,The mutualisation of the Fibre networks encourages competition between operators. 
+10,4,0,Calibri,11.0,464.0,178.9,492.4,190.0,By the
+10,4,0,Calibri-Bold,11.0,492.3,178.9,494.8,190.0, 
+10,4,0,Calibri,11.0,494.9,178.9,525.9,190.0,end of 
+10,4,1,Calibri,11.0,72.0,193.5,525.9,204.5,"2024, 90% of the 39.3 million existing Fibre lines were covered by the four main operators. It also "
+10,4,2,Calibri,11.0,72.0,207.9,525.9,218.9,"allows quick migration to Fibre subscriptions, which now represents around 73% of the total internet "
+10,4,3,Calibri,11.0,72.0,222.4,525.7,233.4,"subscriptions. However, for 2024, although final data are not yet available, analyses suggest a "
+10,4,4,Calibri,11.0,72.0,236.9,384.8,248.0,"downward trend in investments, which amounted to 13.7 bn in 2023. "
+10,5,0,Calibri-Bold,11.0,72.0,259.4,525.8,270.4,"With multiple sea fronts and outermost regions, submarine cables are major digital infrastructures "
+10,5,1,Calibri-Bold,11.0,72.0,273.9,331.6,284.9,to ensure security and sovereignty of France and the EU
+10,5,1,Calibri,11.0,331.6,273.9,525.8,284.9,. Recent developments demonstrated that 
+10,5,2,Calibri,11.0,72.0,288.4,525.7,299.5,submarine cables are pivotal in ensuring digital security and sovereignty. Securing the submarine 
+10,5,3,Calibri,11.0,72.0,302.9,525.9,314.0,network requires deploying alternative routes and laying redundant cables. These projects are 
+10,5,4,Calibri,11.0,72.0,317.3,525.8,328.4,"supported by the public sector. In outermost regions, these projects are not often economically viable, "
+10,5,5,Calibri,11.0,72.0,331.8,525.9,342.9,which makes European funding an effective way to fill market gaps. To secure this strategic market of 
+10,5,6,Calibri,11.0,72.0,346.4,525.9,357.4,"building and laying submarine cables, the French State became the major shareholder in the cable "
+10,5,7,Calibri,11.0,72.0,360.9,525.9,371.9,"making company Alcatel Submarine Networks (ASN) in 2024. As an example of EU funded project, the "
+10,5,8,Calibri,11.0,72.0,375.3,149.3,386.3,MEDUSA project
+10,5,8,Calibri,11.0,149.3,375.3,525.9,386.3," involves installing a state-of-the-art, high-capacity fibre-optic submarine cable "
+10,5,9,Calibri,11.0,72.0,389.8,525.8,400.9,"connecting five EU Mediterranean countries (Cyprus, Spain, France, Italy and Portugal) to four "
+10,5,10,Calibri,11.0,72.0,404.3,491.9,415.4,"countries in the EU’s southern neighbourhood (Algeria, Egypt, Morocco and Tunisia). The "
+10,5,10,Calibri,11.0,493.7,404.3,525.9,415.4,PISCES 
+10,5,11,Calibri,11.0,72.0,418.9,167.2,429.9,subsea cable system
+10,5,11,Calibri,11.0,167.2,418.9,525.9,429.9, (funded by the Connecting Europe Facility) links the transatlantic and other 
+10,5,12,Calibri,11.0,72.0,433.3,525.9,444.3,"international cable systems landing in Ireland, France, Spain and Portugal, and will allow for capacity "
+10,5,13,Calibri,11.0,72.0,447.8,247.5,458.8,interconnection on these systems. The 
+10,5,13,Calibri,11.0,247.6,447.8,306.9,458.8,CELIA project
+10,5,13,Calibri,11.0,306.9,447.8,525.9,458.8, aims to build a state-of-the-art submarine cable 
+10,5,14,Calibri,11.0,72.0,462.3,525.6,473.4,"to improve the connectivity conditions of two French and Dutch Caribbean islands, Martinique and "
+10,5,15,Calibri,11.0,72.0,476.8,160.4,487.9,Aruba respectively. 
+10,6,0,Calibri,11.0,72.0,499.3,74.5,510.3, 
+10,7,0,Calibri-LightItalic,11.0,72.0,521.8,87.0,532.9,5G 
+10,8,0,Calibri-Bold,11.0,72.0,548.2,448.7,559.3,"Following the roadmap adjustment, France’s 5G target remains at 100% by 2030"
+10,8,0,Calibri,11.0,448.8,548.2,525.9,559.3,. Given the solid 
+10,8,1,Calibri,11.0,72.0,562.8,333.5,573.8,"figures and the pace of roll-out, the target seems realistic. "
+10,9,0,Calibri-Bold,11.0,72.0,585.2,317.4,596.3,The four operators sustain the deployment of 5G sites
+10,9,0,Calibri,11.0,317.5,585.2,525.9,596.3,. All operators are present in the 3.5 GHz band 
+10,9,1,Calibri,11.0,72.0,599.7,525.9,610.8,"but follow different strategies in the 700-800 MHz and 1.8-2.1 GHz bands. However, only 59.17% of "
+10,9,2,Calibri,11.0,72.0,614.3,525.9,625.3,"the 5G pioneer bands are assigned, against 74.63% at the EU level. There is still no commercial demand "
+10,9,3,Calibri,11.0,72.0,628.8,167.0,639.8,for the 26 GHz band. 
+10,10,0,Calibri-Bold,11.0,77.7,651.7,322.3,662.7,2024 recommendation on connectivity infrastructure
+10,10,0,Calibri,11.0,322.3,651.7,520.2,662.7,: Ensure sufficient access of new players to 
+10,10,1,Calibri,11.0,77.7,666.2,520.2,677.3,spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications 
+10,10,2,Calibri,11.0,77.7,680.7,474.2,691.8,and encourage operators to speed up the deployment of 5G stand-alone core networks.  
+10,11,0,Calibri-Bold,11.0,77.7,701.9,475.6,712.9,France made efforts to address the recommendation through new policy actions in 2024
+10,11,0,Calibri,11.0,475.7,701.9,520.3,712.9,. The four 
+10,11,1,Calibri,11.0,77.7,716.4,520.2,727.4,"main operators activated 5G stand-alone in their core networks in 2024. For innovative applications, "
+10,11,2,Calibri,11.0,77.7,730.9,520.3,742.0,"26 GHz frequency were attributed to ‘5G open experimenting platforms’, with examples from port "
+10,11,3,Calibri,11.0,77.7,745.3,520.2,756.4,"of Le Havre for logistical applications, Rennes train station for travellers and internal uses at the "
+10,12,0,Calibri,11.0,294.9,779.8,302.9,790.8,7 
+10,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+11,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+11,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,2,0,Calibri,11.0,77.7,84.5,520.3,95.5,"technical centre, the St Quentin-en-Yvelines velodrome for needs related to events. In addition, the "
+11,2,1,Calibri,11.0,77.7,99.0,520.2,110.1,3.8-4.0 GHz band frequencies have been the subject of more than a hundred requests to experiment 
+11,2,2,Calibri,11.0,77.7,113.4,478.9,124.5,with the technology and use cases for a wide variety of economic and geographic sectors. 
+11,4,0,Calibri-Light,12.0,72.0,139.7,152.4,151.7,Semiconductors 
+11,5,0,Calibri-Bold,11.0,72.0,163.2,525.9,174.3,Semiconductors remain a clear priority highlighted in France’s roadmap and the long-term 
+11,5,1,Calibri-Bold,11.0,72.0,177.7,240.1,188.8,"investment strategy, France 2030. "
+11,5,1,Calibri,11.0,243.5,177.7,525.7,188.8,While no new measures were presented in the roadmap 
+11,5,2,Calibri,11.0,72.0,192.3,525.6,203.3,"adjustment this year, the original roadmap already provided for a sizeable support of more than "
+11,5,3,Calibri,11.0,72.0,206.8,525.9,217.8,EUR 12 billion to the sector. The blend of measures aims at encouraging the building of semiconductor 
+11,5,4,Calibri,11.0,72.0,221.2,525.7,232.2,"production capacities in France, supporting innovation and first industrialisation projects, and "
+11,5,5,Calibri,11.0,72.0,235.7,525.7,246.8,upscaling the production toward high-end ‘chips for AI’ to compete against big players from the US 
+11,5,6,Calibri,11.0,72.0,250.2,121.8,261.3,and China. 
+11,6,0,Calibri-Bold,11.0,72.0,272.7,525.8,283.7,France’s efforts in semiconductor production will strengthen the EU’s sovereignty and ensure a 
+11,6,1,Calibri-Bold,11.0,72.0,287.2,136.9,298.2,secure supply.
+11,6,1,Calibri,11.0,136.9,287.2,525.8,298.2," One key example is the semiconductor mega factory in Crolles, which began operations "
+11,6,2,Calibri,11.0,72.0,301.7,525.9,312.8,"in 2023. Once it will reach full capacity by 2028, it could increase the EU’s semiconductor production "
+11,6,3,Calibri,11.0,72.0,316.2,525.6,327.3,"by nearly 6%. In addition, as part of the France 2030 investment plan, the French government has "
+11,6,4,Calibri,11.0,72.0,330.6,525.8,341.7,established a ‘Critical Metals Fund’ with EUR 500 million. This fund aims to support projects across the 
+11,6,5,Calibri,11.0,72.0,345.2,378.6,356.2,"entire value chain of essential metals like lithium, nickel, and cobalt. "
+11,7,0,Calibri-Light,12.0,72.0,367.8,130.4,379.8,Edge nodes 
+11,8,0,Calibri-Bold,11.0,72.0,395.5,525.9,406.5,"According to the Edge Node Observatory, France is estimated to have deployed a total of 532 edge "
+11,8,1,Calibri-Bold,11.0,72.0,410.0,315.9,421.0,"nodes by 2024, a progression of +95.6% since 2023. "
+11,8,1,Calibri,11.0,316.8,410.0,525.8,421.0,This is almost doubling (+260 edge node) the 
+11,8,2,Calibri,11.0,72.0,424.5,525.9,435.5,"amount estimated for 2023 (272, number revised since State of the Digital Decare report (SDDR) "
+11,8,3,Calibri,11.0,72.0,438.9,100.6,449.9,2024).
+11,8,3,Calibri-Bold,11.0,100.5,438.9,103.0,449.9, 
+11,9,0,Calibri-Bold,11.0,77.7,461.9,250.1,473.0,2024 recommendation on edge nodes
+11,9,0,Calibri,11.0,250.1,461.9,503.6,473.0,": Consider measures specific to edge nodes deployment, "
+11,9,1,Calibri,11.0,77.7,476.5,280.9,487.5,supplementary to the IPCEI-CIS participation. 
+11,10,0,Calibri-Bold,11.0,77.7,494.5,520.0,505.5,"In 2024, France continued the implementation of existing measures but did not take any new "
+11,10,1,Calibri-Bold,11.0,77.7,509.0,117.3,520.0,measure
+11,10,1,Calibri,11.0,117.3,509.0,520.1,520.0,". Beyond the IPCEI-CIS, the main national instrument for edge nodes deployment is the "
+11,10,2,Calibri,11.0,77.7,523.4,520.1,534.4,"Cloud Acceleration Strategy backed by EUR 550 million, partly funded by the RRF and part of the "
+11,10,3,Calibri,11.0,77.7,537.9,520.3,548.9,2023 roadmap. It supports innovation in cloud and edge services while financing early-stage 
+11,10,4,Calibri,11.0,77.7,552.4,311.6,563.5,research in resource organisation and optimisation.  
+11,11,0,Calibri-Light,12.0,72.0,578.7,184.7,590.7,Quantum technologies 
+11,12,0,Calibri-Bold,11.0,72.0,606.2,303.8,617.3,France is a global leader in quantum technologies. 
+11,12,0,Calibri,11.0,303.9,606.2,525.9,617.3,The main public support is the national Quantum 
+11,12,1,Calibri,11.0,72.0,620.7,525.9,631.8,"Strategy for 2030 fostering the development of the large-scale fault tolerant quantum computer (LSQ), "
+11,12,2,Calibri,11.0,72.0,635.3,525.9,646.3,"of simulators and accelerators of the noisy intermediate scale quantum computer, and of enabling "
+11,12,3,Calibri,11.0,72.0,649.7,525.9,660.7,technologies. The target is to produce a LSQ before 2030. France has all the ammunition to compete 
+11,12,4,Calibri,11.0,72.0,664.2,525.7,675.2,"in the quantum field against other superpowers: access to secure infrastructures, high public "
+11,12,5,Calibri,11.0,72.0,678.7,525.8,689.7,"investment, leading quantum start-ups (e.g. Quandela, Pasqal, Alice & Bob, C12, Quobly), and a pool "
+11,12,6,Calibri,11.0,72.0,693.2,525.9,704.3,of qualified engineers and mathematicians. No additional public measures were presented in the 
+11,12,7,Calibri,11.0,72.0,707.6,159.0,718.7,adjusted roadmap. 
+11,13,0,Calibri,11.0,294.9,779.8,302.9,790.8,8 
+11,13,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+12,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+12,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,2,0,Calibri-Light,15.0,72.0,84.8,526.5,99.8,Supporting EU-wide digital ecosystems and scaling up innovative 
+12,2,1,Calibri-Light,15.0,72.0,104.6,143.4,119.6,enterprises 
+12,4,0,Calibri-Bold,11.0,72.0,131.5,525.9,142.6,France is home of cutting-edge start-ups in AI but the bulk of enterprises are not digitalised 
+12,4,1,Calibri-Bold,11.0,72.0,145.9,122.5,157.0,sufficiently
+12,4,1,Calibri,11.0,122.5,145.9,525.9,157.0,". By improving the digitalisation of its businesses, France could boost its competitiveness. "
+12,4,2,Calibri,11.0,72.0,160.5,525.9,171.5,"Indeed, expanding the spread of ICT knowledge and technologies, especially among SMEs, could "
+12,4,3,Calibri,11.0,72.0,175.0,213.7,186.0,address one of the weaknesses 
+12,4,3,Calibri,11.0,213.6,175.0,377.1,186.0,weighing on total factor productivity
+12,4,3,Calibri,11.0,377.2,175.0,448.4,186.0, of the country. 
+12,5,0,Calibri-Light,12.0,72.0,197.7,265.9,209.7,SMEs with at least basic digital intensity 
+12,6,0,Calibri-Bold,11.0,72.0,225.3,525.7,236.3,"In France, 68.45% of SMEs (10 to 259 employees) showed at least a basic level of digital intensity "
+12,6,1,Calibri-Bold,11.0,72.0,239.8,525.9,250.8,"(2030 national target 90%) after a progression of +3.8% annually between 2022 and 2024, standing "
+12,6,2,Calibri-Bold,11.0,72.0,254.3,226.1,265.4,below the EU average of 72.91%.
+12,6,2,Calibri,11.0,226.0,254.3,525.7,265.4, The digitalisation of French SMEs is showing a positive trend but 
+12,6,3,Calibri,11.0,72.0,268.7,525.9,279.8,"still lag behind its EU peers. Looking specifically at top digitalised SMEs, only 21.59% of SMEs in France "
+12,6,4,Calibri,11.0,72.0,283.2,525.6,294.3,"reached high or very high digital intensity, falling significantly short of the EU average of 32.66%. "
+12,6,5,Calibri,11.0,72.0,297.8,525.8,308.8,"Overall, France has shown progress, but room for improvement continues to exist in the digital "
+12,6,6,Calibri,11.0,72.0,312.3,390.9,323.3,"intensity of its SMEs, particularly in terms of advanced digital intensity. "
+12,7,0,Calibri-Bold,11.0,72.0,334.7,525.9,345.8,"The annual France Num barometer, measuring the perception and usage of digital by SMEs and very "
+12,7,1,Calibri-Bold,11.0,72.0,349.2,397.6,360.3,small enterprises showed in 2024 that digitalisation is gaining traction
+12,7,1,Calibri,11.0,397.8,349.2,525.8,360.3,. Several metrics are on the 
+12,7,2,Calibri,11.0,72.0,363.8,525.6,374.8,rise: 77% of executives surveyed believe that digital technology facilitates communication with 
+12,7,3,Calibri,11.0,72.0,378.2,525.7,389.2,"customers (+3pp compared to 2023), 42% believe that digital technology allows them to make money "
+12,7,4,Calibri,11.0,72.0,392.7,525.9,403.7,(+3pp). The main barrier to digitalisation concerns the need for extra capacities and skills for mastering 
+12,7,5,Calibri,11.0,72.0,407.2,525.9,418.3,new technologies. The apparent simplicity of generative AI (spoken language) still appears complex 
+12,7,6,Calibri,11.0,72.0,421.7,227.3,432.8,for small structures to implement. 
+12,8,0,Calibri-Bold,11.0,72.0,444.2,525.4,455.2,"France still aims at 90% of SMEs with basic digital intensity, in line with the EU target for 2030. "
+12,8,1,Calibri,11.0,72.0,458.7,525.5,469.8,"However, given the current levels and growth metrics, it is unlikely that the target will be reached. "
+12,8,2,Calibri,11.0,72.0,473.2,525.6,484.3,"Moreover, no new measure targeted specifically to SMEs were presented in the adjusted roadmap. "
+12,8,3,Calibri,11.0,72.0,487.6,525.8,498.7,France Num remains the main tool targeting SMEs. But with a focus on enterprises with less than 10 
+12,8,4,Calibri,11.0,72.0,502.1,525.9,513.2,"employees, the results of this instrument are hardly captured by the Digital Decade key performance "
+12,8,5,Calibri,11.0,72.0,516.7,525.9,527.7,"indicator (KPI) which focuses on enterprises 10-249 employees. Recently, France Num has undergone "
+12,8,6,Calibri,11.0,72.0,531.2,525.9,542.2,"a few improvements such as more targeted actions at the local level, the dissemination of use-case by "
+12,8,7,Calibri,11.0,72.0,545.6,463.5,556.6,peers or the Tour France Num to raise awareness of the potential of digital technology. 
+12,9,0,Calibri-Bold,11.0,77.7,568.7,312.4,579.7,2024 recommendation on digitalisation of SMEs
+12,9,0,Calibri,11.0,312.5,568.7,520.2,579.7,: Set up additional measures and increase 
+12,9,1,Calibri,11.0,77.7,583.2,520.0,594.2,resources for existing schemes to improve the SMEs digitalisation performance and to further 
+12,9,2,Calibri,11.0,77.7,597.6,520.0,608.6,leverage the impact of the European Digital Innovation Hub in regions and its close presence to 
+12,9,3,Calibri,11.0,77.7,612.1,393.2,623.1,"regional ecosystems, paying special attention to its outermost regions. "
+12,10,0,Calibri-Bold,11.0,77.7,630.1,502.6,641.1,France made some efforts to address the recommendation through new policy actions in 2024
+12,10,0,Calibri,11.0,502.7,630.1,520.3,641.1,. To 
+12,10,1,Calibri,11.0,77.7,644.6,520.2,655.7,"tackle the low digitalisation level of SMEs, France will leverage the adoption of technologies such as "
+12,10,2,Calibri,11.0,77.7,659.1,520.3,670.2,AI and cloud (see dedicated sections). The scheme France Num (targeted at SMEs and VSEs) is in 
+12,10,3,Calibri,11.0,77.7,673.5,520.3,684.6,"place since 2018 but did not recently benefit from major changes in scope or in resources. For EDIHs, "
+12,10,4,Calibri,11.0,77.7,688.1,127.3,699.1,see below. 
+12,11,0,Calibri-Bold,11.0,72.0,714.1,381.6,725.1,"In 2024, 16 EDIHs started in France, mainly centred around AI"
+12,11,0,Calibri,11.0,381.9,714.1,525.9,725.1,. Already 860 digital maturity 
+12,11,1,Calibri,11.0,72.0,728.5,525.8,739.6,assessment diagnostics were performed by enterprises. Several EDIHs have partnerships with other 
+12,11,2,Calibri,11.0,72.0,743.0,525.8,754.1,Member States. The participants however warn of the need for more communication around these 
+12,11,3,Calibri,11.0,72.0,757.6,120.6,768.6,initiatives. 
+12,12,0,Calibri,11.0,294.9,779.8,302.9,790.8,9 
+12,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+13,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+13,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,2,0,Calibri-Light,12.0,72.0,84.3,238.7,96.3,Take up of cloud/AI/data analytics 
+13,5,0,Calibri-Bold,11.0,523.6,249.3,526.1,260.3, 
+13,6,0,Calibri-Bold,11.0,72.0,268.7,525.9,279.8,"According to new data collected in 2024, 9.91% of French enterprises adopted AI after a progression "
+13,6,1,Calibri-Bold,11.0,72.0,283.2,344.3,294.3,"of +68.5% in a year, but still stands below the EU average. "
+13,6,1,Calibri,11.0,345.0,283.2,525.8,294.3,About 1 out of 10 enterprises in France 
+13,6,2,Calibri,11.0,72.0,297.8,525.6,308.8,"were employing AI technology, falling behind the EU average of 13.48%. Nonetheless, France "
+13,6,3,Calibri,11.0,72.0,312.3,525.9,323.3,experienced a similar growth rate from 2023 (+68.5%) as the corresponding EU-level growth rate 
+13,6,4,Calibri,11.0,72.0,326.7,525.8,337.7,"(+67.2%). More specifically, SMEs had an AI uptake rate of 9.25%, whereas large enterprises "
+13,6,5,Calibri,11.0,72.0,341.2,525.9,352.2,demonstrated a higher rate of 32.74%. This resulted in a gap of 23.49 pp. between SMEs and large 
+13,6,6,Calibri,11.0,72.0,355.7,525.8,366.8,"enterprises, which was lower than the EU gap of 28.53 pp. The country did not provide a national "
+13,6,7,Calibri,11.0,72.0,370.2,525.9,381.3,"trajectory point for 2024 as it only submitted a trajectory for the KPI on the three technologies (AI, "
+13,6,8,Calibri,11.0,72.0,384.6,218.9,395.7,"cloud, data analytics) combined. "
+13,7,0,Calibri-Bold,11.0,72.0,407.2,525.9,418.3,"Adoption of cloud, data analytics, and the three technologies together were not measured in 2024. "
+13,8,0,Calibri-Bold,11.0,72.0,429.7,525.9,440.7,"In 2023, only 22.95% of French enterprises adopted cloud technologies, considerably lower than the "
+13,8,1,Calibri-Bold,11.0,72.0,444.2,177.3,455.2,EU average of 38.97%. 
+13,8,1,Calibri,11.0,177.5,444.2,525.9,455.2,"Moreover, SMEs exhibited a lower adoption rate of 21.79%, whereas 62.12% "
+13,8,2,Calibri,11.0,72.0,458.7,525.9,469.8,of large enterprises used advanced cloud services. This resulted in a gap of 40.33 pp. in uptake 
+13,8,3,Calibri,11.0,72.0,473.2,466.9,484.3,"between SMEs and large enterprises in France, higher than the EU-level gap of 31.68 pp."
+13,8,3,Calibri-Bold,11.0,466.9,473.2,469.4,484.3, 
+13,9,0,Calibri-Bold,11.0,72.0,495.7,525.9,506.7,"Data from 2023 showed that, 33.90% of French enterprises adopted data analytics technologies, in "
+13,9,1,Calibri-Bold,11.0,72.0,510.2,192.4,521.2,the EU average of 33.25%. 
+13,9,1,Calibri,11.0,191.8,510.2,525.8,521.2,"More specifically, 32.78% of SMEs adopted data analytics, while the uptake "
+13,9,2,Calibri,11.0,72.0,524.7,525.9,535.8,was considerably higher among large enterprises at 71.99%. This led to a difference of 39.21 pp. in 
+13,9,3,Calibri,11.0,72.0,539.1,412.4,550.2,"engagement between SMEs and large enterprises, aligning with the EU gap. "
+13,10,0,Calibri-Bold,11.0,72.0,561.7,525.7,572.7,"When taking the three technologies together in 2023, 44.86% of enterprises in France engaged with "
+13,10,1,Calibri-Bold,11.0,72.0,576.1,525.9,587.1,"either AI, cloud, or data analytics technologies (2030 national target of 65%), considerably below "
+13,10,2,Calibri-Bold,11.0,72.0,590.6,193.6,601.7,the EU average of 54.70%
+13,10,2,Calibri,11.0,193.5,590.6,525.9,601.7,". More specifically, the uptake among SMEs was slightly lower than the "
+13,10,3,Calibri,11.0,72.0,605.1,525.6,616.2,"national average, at 43.73%, while large enterprises had a markedly higher rate of 83.21%. This "
+13,10,4,Calibri,11.0,72.0,619.7,525.8,630.7,"indicates a difference of 39.48 pp. in uptake between SMEs and large enterprises in France, which is "
+13,10,5,Calibri,11.0,72.0,634.1,257.5,645.1,higher than the EU-level gap of 32.97 pp. 
+13,11,0,Calibri-Bold,11.0,72.0,656.6,525.9,667.7,"In conclusion, France displayed lower adoption rates of cloud computing and AI technologies among "
+13,11,1,Calibri-Bold,11.0,72.0,671.1,377.9,682.2,enterprises with 10 or more employees compared to EU averages.
+13,11,1,Calibri,11.0,378.2,671.1,525.8,682.2," On the other hand, adoption of "
+13,11,2,Calibri,11.0,72.0,685.5,525.8,696.6,data analytics was slightly higher. Large enterprises consistently reported significantly higher adoption 
+13,11,3,Calibri,11.0,72.0,700.1,525.9,711.1,levels across all technologies compared to SMEs. Despite SMEs representing most enterprises in 
+13,11,4,Calibri,11.0,72.0,714.6,525.7,725.6,"France, their contribution to economic value added remains substantially lower than that of large "
+13,11,5,Calibri,11.0,72.0,729.1,525.7,740.2,enterprises. These findings highlight the need for targeted measures to bridge the digitalisation gap 
+13,11,6,Calibri,11.0,72.0,743.5,266.3,754.6,and enhance the competitiveness of SMEs. 
+13,12,0,Calibri,11.0,292.1,779.8,305.8,790.8,10 
+13,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+14,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+14,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"In its adjusted roadmap, France revised downward its ambition for 2030 with an adoption rate of "
+14,3,1,Calibri-Bold,11.0,72.0,98.4,429.7,109.5,"technologies by enterprises of 65%, potentially jeopardising the EU-level goal. "
+14,3,1,Calibri,11.0,429.6,98.4,525.9,109.5,The adjustment does 
+14,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,not contain a breakdown per technology anymore but instead presents a single trajectory for the 
+14,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,indicators of the three technologies combined (adoption of either cloud or data analytics or AI). The 
+14,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,"new target is 65% by 2030, lower than the EU-level target of 75%. This decision will have considerable "
+14,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"impact on the overall EU performance given the size of the French economy, which hosts almost 12% "
+14,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,"of European enterprises. In term of achievability of the national target, France chooses mainly to "
+14,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,leverage the adoption of AI by all enterprises. Past and new measures might boost the take up of AI 
+14,3,8,Calibri,11.0,72.0,199.9,525.7,211.0,"by all enterprises, including SMEs which could also influence positively the basic digital intensity of "
+14,3,9,Calibri,11.0,72.0,214.3,101.4,225.4,SMEs. 
+14,4,0,SymbolMT,11.0,89.9,234.7,95.0,248.2,•
+14,4,0,ArialMT,11.0,94.9,235.8,98.0,248.1, 
+14,4,1,Calibri-Bold,11.0,107.7,237.5,136.4,248.6,Cloud 
+14,5,0,Calibri-Bold,11.0,72.0,255.0,133.1,266.1,The strategy ‘
+14,5,0,Calibri-BoldItalic,11.0,133.0,255.0,217.8,266.1,Cloud de confiance
+14,5,0,Calibri-Bold,11.0,217.9,255.0,525.8,266.1,’ (‘Trusted cloud’) should contribute to the deployment of sovereign 
+14,5,1,Calibri-Bold,11.0,72.0,269.4,147.8,280.5,cloud solutions. 
+14,5,1,Calibri,11.0,148.9,269.4,525.8,280.5,It aims to strengthen France’s technological independence by supporting national 
+14,5,2,Calibri,11.0,72.0,284.0,525.9,295.0,and European cloud players. This includes initiatives to develop competitive and innovative offers. 
+14,5,3,Calibri,11.0,72.0,298.5,525.6,309.5,Increasing trust in the cloud technologies could foster the adoption of such services by enterprises 
+14,5,4,Calibri,11.0,72.0,313.0,373.1,324.0,and administrations and decrease dependency to foreign solutions.
+14,5,4,Calibri-Bold,11.0,373.0,313.0,375.5,324.0, 
+14,6,0,SymbolMT,11.0,89.9,333.2,95.0,346.7,•
+14,6,0,ArialMT,11.0,94.9,334.3,98.0,346.6, 
+14,6,1,Calibri-Bold,11.0,107.7,336.0,175.7,347.1,Data Analytics 
+14,7,0,Calibri,11.0,72.0,353.6,368.8,364.6,No new development relevant for the 2025 Digital Decade report. 
+14,8,0,SymbolMT,11.0,89.9,373.8,95.0,387.3,•
+14,8,0,ArialMT,11.0,94.9,374.9,98.0,387.2, 
+14,8,1,Calibri-Bold,11.0,107.7,376.6,204.5,387.6,Artificial Intelligence 
+14,9,0,Calibri-Bold,11.0,72.0,394.1,409.8,405.2,AI is France’s main priority as far as digital technologies are concerned. 
+14,9,0,Calibri,11.0,411.2,394.1,525.9,405.2,"The national AI strategy, "
+14,9,1,Calibri,11.0,72.0,408.5,525.7,419.6,"hosting the AI Action Summit, and new measures in the national roadmap adjustment confirm that AI "
+14,9,2,Calibri,11.0,72.0,423.1,525.9,434.1,"is of utmost importance in the public policies. In 2024, France developed ecosystems for AI take up, "
+14,9,3,Calibri,11.0,72.0,437.6,525.9,448.6,placing the State as a trusted third party to showcase AI technologies and facilitate their adoption. 
+14,9,4,Calibri,11.0,72.0,452.1,525.9,463.1,Adoption guides (including regulatory topics) will be published to share trusted information on AI 
+14,9,5,Calibri,11.0,72.0,466.5,525.9,477.5,"technologies and present profitable business cases. In May 2024, the President announced nine new "
+14,9,6,Calibri,11.0,72.0,481.0,525.9,492.1,"awards of the call for expressions of interest ‘AI clusters’, centres of excellence in research and training "
+14,9,7,Calibri,11.0,72.0,495.5,467.1,506.6,"in AI, supported by EUR 360 million from France 2030. Also in 2024, the call for projects "
+14,9,7,Calibri,11.0,467.5,495.5,525.9,506.6,Acceleration 
+14,9,8,Calibri,11.0,72.0,510.1,261.6,521.1,of the uses of generative AI in the economy
+14,9,8,Calibri,11.0,261.6,510.1,525.9,521.1, was launched and should boost the use of AI by businesses. 
+14,9,9,Calibri,11.0,72.0,524.5,525.8,535.5,The 2025 Eurobarometer shows that 79% of French people think that public authorities should 
+14,9,10,Calibri,11.0,72.0,539.0,525.9,550.0,prioritise shaping the development of Artificial Intelligence and other digital technologies to ensure 
+14,9,11,Calibri,11.0,72.0,553.5,525.8,564.5,that they respect our rights and values. It represents a big increase of 9 percentage points compared 
+14,9,12,Calibri,11.0,72.0,568.1,403.9,579.1,"to last year, reflecting the growing interest of the citizens at this respect.   "
+14,10,0,Calibri-Bold,11.0,72.0,590.5,525.9,601.5,France added two new measures on AI in its adjusted roadmap that should foster the adoption of 
+14,10,1,Calibri-Bold,11.0,72.0,605.0,147.7,616.1,AI technologies. 
+14,11,0,SymbolMT,11.0,90.0,629.2,95.1,642.7,•
+14,11,0,ArialMT,11.0,95.1,630.3,98.1,642.6, 
+14,11,1,Calibri,11.0,108.0,632.0,525.9,643.1,Call for projects ‘Accelerating the uses of generative AI in the economy’ of the France 2030 
+14,11,2,Calibri,11.0,108.0,646.5,525.9,657.6,plan. The call for projects aims to support the development of specialised generative AI 
+14,11,3,Calibri,11.0,108.0,661.1,525.6,672.1,"solutions for specific use cases, by bringing together technological players and end users for "
+14,11,4,Calibri,11.0,108.0,675.6,525.9,686.6,quick adoption. This mechanism is the follow-up of the Digital Commons of Generative AI 
+14,11,5,Calibri,11.0,108.0,690.1,525.7,701.1,"programme, which aimed to create fundamental technological bricks in open source and to "
+14,11,6,Calibri,11.0,108.0,704.5,525.7,715.5,demonstrate the profitability and replicability of generative AI technologies in various 
+14,11,7,Calibri,11.0,108.0,719.0,398.2,730.1,economic sectors. Successful bidders should be decided in 2025. 
+14,11,8,SymbolMT,11.0,90.0,731.3,95.1,744.8,•
+14,11,8,ArialMT,11.0,95.1,732.4,98.1,744.8, 
+14,11,9,Calibri,11.0,108.0,734.2,525.9,745.2,Guide for the adoption of retrieval-augmented generation (RAG) technology for businesses. 
+14,11,10,Calibri,11.0,108.0,748.6,525.9,759.6,RAG is a generative AI technology that allows models to be specialised with enterprise data 
+14,12,0,Calibri,11.0,292.1,779.8,305.8,790.8,11 
+14,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+15,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+15,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,3,0,Calibri,11.0,108.0,84.0,525.9,95.1,"without retraining, offering simplicity and accessibility for various applications. The "
+15,3,1,Calibri,11.0,108.0,98.4,525.9,109.5,Directorate-General for Enterprises published a practical guide in November 2024 to 
+15,3,2,Calibri,11.0,108.0,112.9,525.9,124.0,"encourage the adoption of RAG, detailing relevant use cases, prerequisites, costs and "
+15,3,3,Calibri,11.0,108.0,127.5,525.9,138.5,"technological choices, in order to help companies and regional administrations integrate this "
+15,3,4,Calibri,11.0,108.0,142.0,163.0,153.0,technology. 
+15,4,0,Calibri-Bold,11.0,77.7,160.0,210.9,171.0,2024 recommendation on AI:
+15,4,0,Calibri,11.0,210.9,160.0,520.1,171.0, (i) Review the mix of measures to support the adoption of advanced 
+15,4,1,Calibri,11.0,77.7,174.4,520.2,185.4,digital technologies (with a particular attention to AI and cloud). (ii) Foster the creation of local 
+15,4,2,Calibri,11.0,77.7,188.9,520.3,199.9,"ecosystems to allow technologies (AI, cloud, data analytics) and best practices to diffuse across the "
+15,4,3,Calibri,11.0,77.7,203.4,520.2,214.5,broader business sector. Build on the recent national AI Commission report to design new measures 
+15,4,4,Calibri,11.0,77.7,217.9,458.8,229.0,to develop the AI ecosystem and foster related technologies adoption by enterprises. 
+15,5,0,Calibri-Bold,11.0,77.7,235.9,520.2,246.9,France addressed fully the recommendation by putting significant policy actions into place in 
+15,5,1,Calibri-Bold,11.0,77.7,249.3,102.9,260.3,2024.
+15,5,1,Calibri,11.0,103.0,249.3,520.3,260.3, France has added two new measures in its adjusted roadmap to support the adoption of AI 
+15,5,2,Calibri,11.0,77.7,262.7,520.3,273.8,by enterprises. The country also follows an approach of local ecosystems for adoption and 
+15,5,3,Calibri,11.0,77.7,276.2,449.5,287.2,dissemination of AI technologies. France also hosted the AI Action Summit in 2025. 
+15,6,0,Calibri-Bold,11.0,72.0,301.1,147.3,312.2,Paris hosted the 
+15,6,0,Calibri-Bold,11.0,146.8,301.1,225.3,312.2,AI Action Summit
+15,6,0,Calibri-Bold,11.0,225.4,301.1,441.2,312.2, in February 2025 and will host an EU AI factory. 
+15,6,0,Calibri,11.0,440.5,301.1,525.9,312.2,The EU announced 
+15,6,1,Calibri,11.0,72.0,315.6,487.6,326.7,"investing EUR 200 billion for the development of AI gigafactories and data centres, including "
+15,6,1,Calibri,11.0,487.8,315.6,525.9,326.7,one site 
+15,6,2,Calibri,11.0,72.0,330.0,116.8,341.1,in France
+15,6,2,Calibri,11.0,116.8,330.0,525.7,341.1," (AI Factory France, AI2F). The funding will come mainly from the private sector: "
+15,6,3,Calibri,11.0,72.0,344.6,525.9,355.6,"EUR 150 billion will be financed by the European AI Champions Initiative alliance, and the remaining "
+15,6,4,Calibri,11.0,72.0,359.1,525.9,370.1,"EUR 50 billion by the EU. Also, at the end of the summit, around 60 countries have signed an "
+15,6,5,Calibri,11.0,72.0,373.6,525.6,384.6,"agreement for an open, inclusive and ethical AI. The text also provides for a global dialogue, "
+15,6,6,Calibri,11.0,72.0,388.1,525.6,399.2,"coordination for the governance of AI, and the signatories call for avoiding a market concentration "
+15,6,7,Calibri,11.0,72.0,402.5,525.9,413.6,and make these tools more accessible. Another axis cited as one of the priorities of this agreement is 
+15,6,8,Calibri,11.0,72.0,417.1,525.9,428.1,making AI sustainable for the people and the planet. The Summit was also the occasion for the French 
+15,6,9,Calibri,11.0,72.0,431.6,525.9,442.6,"company Mistral AI to release its Generative AI application (Le Chat), as a direct contender to non-EU "
+15,6,10,Calibri,11.0,72.0,446.1,250.7,457.1,solutions such as ChatGPT or DeepSeek.
+15,6,10,Calibri-Bold,11.0,250.6,446.1,253.1,457.1, 
+15,7,0,Calibri-Bold,11.0,72.0,468.5,313.3,479.6,"Prior to the summit, the French President announced "
+15,7,0,Calibri-Bold,11.0,312.8,468.5,480.6,479.6,EUR 109 billion of private investment
+15,7,0,Calibri-Bold,11.0,480.7,468.5,525.9,479.6, in France 
+15,7,1,Calibri-Bold,11.0,72.0,483.1,134.2,494.1,to develop AI
+15,7,1,Calibri,11.0,134.3,483.1,525.9,494.1,. Most of the funds should be earmarked for the construction of data centres. Among 
+15,7,2,Calibri,11.0,72.0,497.5,525.6,508.5,"the investors, the United Arab Emirates plans to finance a giant data centre in France, with a "
+15,7,3,Calibri,11.0,72.0,512.0,525.8,523.0,"computing capacity of up to 1GW, as part of the largest AI-focused campus in Europe. The Canadian "
+15,7,4,Calibri,11.0,72.0,526.5,525.8,537.5,"fund Brookfield has also announced an investment of EUR 20 billion in France by 2030, including "
+15,7,5,Calibri,11.0,72.0,541.0,234.6,552.1,EUR 15 billion for new data centres. 
+15,8,0,Calibri-Light,12.0,72.0,563.7,234.6,575.7,"Unicorns, scale-ups and start-ups "
+15,9,0,Calibri-Bold,11.0,72.0,591.3,525.9,602.4,"At the beginning of 2025, France had 48 unicorns (2030 national target of 100), which is 5 more than "
+15,9,1,Calibri-Bold,11.0,72.0,605.9,161.0,616.9,last year (+11.6%). 
+15,9,1,Calibri,11.0,162.1,605.9,525.6,616.9,"In its adjusted roadmap, France confirms its ambitious goal of 100 unicorns by "
+15,9,2,Calibri,11.0,72.0,620.3,525.9,631.3,2030. This will contribute greatly to achieving the EU-level target of 500 unicorns. The current 
+15,9,3,Calibri,11.0,72.0,634.8,314.4,645.8,trajectory will need to be sustained to reach that goal.
+15,9,3,Calibri-Bold,11.0,314.4,634.8,316.8,645.8, 
+15,10,0,Calibri-Bold,11.0,72.0,657.3,525.9,668.4,"Thanks to a range of reforms, France has improved its business environment in recent years but lack "
+15,10,1,Calibri-Bold,11.0,72.0,671.7,274.8,682.8,of visibility weighs on investment decisions
+15,10,1,Calibri,11.0,275.0,671.7,525.8,682.8,. Several reforms related to the business environment 
+15,10,2,Calibri,11.0,72.0,686.3,206.7,697.3,took place since 2017 (e.g. ‘
+15,10,2,Calibri-Italic,11.0,206.8,686.3,525.8,697.3,"État au service d’une société de confiance’ ESSOC, ‘loi relative à la "
+15,10,3,Calibri-Italic,11.0,72.0,700.8,290.3,711.8,croissance et la transformation des entreprises
+15,10,3,Calibri,11.0,290.5,700.8,331.6,711.8,"’ PACTE, "
+15,10,3,Calibri-Italic,11.0,333.7,700.8,525.8,711.8,‘loi d’accélération et de simplification de 
+15,10,4,Calibri-Italic,11.0,72.0,715.3,145.8,726.3,l’action publique
+15,10,4,Calibri,11.0,145.8,715.3,525.9,726.3,"’ ASAP) and are yielding positive results. In 2024, fewer enterprises than in the rest of "
+15,10,5,Calibri,11.0,72.0,729.7,525.9,740.8,"the EU found that regulations were a major obstacle to attracting investment (18% vs 22%). However, "
+15,10,6,Calibri,11.0,72.0,744.2,525.9,755.3,recent difficulties in establishing a stable government and passing the national budget has brought 
+15,10,7,Calibri,11.0,72.0,758.8,250.7,769.8,about uncertainty for businesses. The 
+15,10,7,Calibri,11.0,252.8,758.8,383.3,769.8,EY attractiveness barometer
+15,10,7,Calibri,11.0,383.4,758.8,525.8,769.8, showed that half of business 
+15,11,0,Calibri,11.0,292.1,779.8,305.8,790.8,12 
+15,11,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+16,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+16,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"managers consider that France’s appeal has declined since June 2024 and, as a consequence, 49% of "
+16,2,1,Calibri,11.0,72.0,98.4,376.5,109.5,foreign investors have cut back on their investment plans in France. 
+16,4,0,Calibri-Bold,11.0,72.0,121.0,484.7,132.0,"Despite economic uncertainties, start-ups employment remained dynamic in 2024. "
+16,4,0,Calibri,11.0,489.0,121.0,525.9,132.0,After a 
+16,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"slowdown in job growth between April and September 2024, the dynamic has been on the rise again. "
+16,4,2,Calibri,11.0,72.0,149.9,523.7,160.9,"The slight recovery observed in October was confirmed in November. Overall, for 2024, French start-"
+16,4,3,Calibri,11.0,72.0,164.4,163.2,175.5,ups have generated 
+16,4,3,Calibri,11.0,163.3,164.4,264.7,175.5,more than 18 000 jobs
+16,4,3,Calibri,11.0,264.8,164.4,525.9,175.5,", an increase of nearly 6% year-on-year. The AI sector had "
+16,4,4,Calibri,11.0,72.0,178.9,525.8,190.0,nearly 1 900 start-ups employing more than 50 000 people. These companies have benefited from 
+16,4,5,Calibri,11.0,72.0,193.5,334.8,204.5,"nearly 90 fundraising rounds, representing EUR 1.7 billion. "
+16,5,0,Calibri-Bold,11.0,72.0,215.9,525.9,226.9,France is active in identifying legislative or regulatory obstacles encountered by the French tech 
+16,5,1,Calibri-Bold,11.0,72.0,230.4,120.5,241.5,ecosystem
+16,5,1,Calibri,11.0,120.5,230.4,264.7,241.5,". In 2017, a consultation called ‘"
+16,5,1,Calibri-Italic,11.0,264.6,230.4,347.0,241.5,Tour des Start-ups
+16,5,1,Calibri,11.0,347.0,230.4,525.8,241.5,’ brought out nearly 100 measures and 
+16,5,2,Calibri,11.0,72.0,245.0,525.8,256.0,"led to the adoption of a series of simplification measures. Also, since 2022, the French Tech Mission "
+16,5,3,Calibri,11.0,72.0,259.4,525.9,270.4,"has been providing legal support to Next40 companies (40 most promising young companies), by "
+16,5,4,Calibri,11.0,72.0,273.9,525.8,284.9,putting them in touch with the right contacts in public administrations and by assessing proposals that 
+16,5,5,Calibri,11.0,72.0,288.4,507.8,299.5,have positive consequences for the ecosystem. Start-ups are consulted when drafting legislation. 
+16,6,0,Calibri-Light,15.0,72.0,315.7,323.7,330.7,Strengthening Cybersecurity & Resilience 
+16,7,0,Calibri-Bold,11.0,72.0,342.6,376.3,353.7,"In France, about 3 out of 4 people have basic digital safety skills"
+16,7,0,Calibri,11.0,376.6,342.6,525.8,353.7,. 72.69% of individuals reported 
+16,7,1,Calibri,11.0,72.0,357.2,525.9,368.2,taking at least one action (see the 6 types of digital safety actions in the graph’s legend) to protect 
+16,7,2,Calibri,11.0,72.0,371.6,525.6,382.6,"their personal data online in 2023, slightly above the EU average of 69.55%. More specifically, 1 out "
+16,7,3,Calibri,11.0,72.0,386.1,525.9,397.1,of 2 (49.69%) individuals are considered as having above basic digital safety skills (i.e. engaging in 3 
+16,7,4,Calibri,11.0,72.0,400.6,525.8,411.7,actions). The most common action taken by individuals was refusing the use of personal data for 
+16,7,5,Calibri,11.0,72.0,415.1,525.6,426.2,"advertising purposes, with 55.82% of individuals taking this step, while reading privacy policy "
+16,7,6,Calibri,11.0,72.0,429.5,373.3,440.6,"statements was the least frequent action, reported by only 20.45%."
+16,7,6,Calibri,8.0,373.3,431.8,375.1,439.8, 
+16,8,0,Calibri-Bold,11.0,72.0,452.1,353.9,463.1,French enterprises tend to experience less incidents related 
+16,8,1,Calibri-Bold,11.0,72.0,466.6,353.9,477.7,to cyberattacks but employees are less aware of their ICT 
+16,8,2,Calibri-Bold,11.0,72.0,481.0,291.3,492.1,security related obligations compared to the EU
+16,8,2,Calibri,11.0,291.5,481.0,354.1,492.1,. The number 
+16,8,3,Calibri,11.0,72.0,495.5,354.1,506.6,of enterprises that experienced ICT security incidents leading 
+16,8,4,Calibri,11.0,72.0,510.1,354.0,521.1,to unavailability of ICT services due to attack from outside (e.g. 
+16,8,5,Calibri,11.0,72.0,524.6,354.0,535.6,"Ransomware attacks, Denial of Service attacks) slightly "
+16,8,6,Calibri,11.0,72.0,539.0,353.9,550.0,"increased in France, from 2.36% in 2022 to 2.73% in 2024. It "
+16,8,7,Calibri,11.0,72.0,553.5,354.2,564.5,"remains below the EU average (3.43%). However, French "
+16,8,8,Calibri,11.0,72.0,568.1,354.1,579.1,enterprises are more prone to incidents related to hardware or 
+16,8,9,Calibri,11.0,72.0,582.6,354.0,593.6,software failures (21.40%) than their EU peers (17.97%). In 
+16,8,10,Calibri,11.0,72.0,597.0,353.9,608.0,"terms of measures, 93.20% of enterprises deployed some ICT "
+16,8,11,Calibri,11.0,72.0,611.5,354.0,622.5,security measures (around the EU average of 92.76%) but only 
+16,8,12,Calibri,11.0,72.0,626.0,354.0,637.1,48.13% of enterprises made their employees aware of their 
+16,8,13,Calibri,11.0,72.0,640.5,354.1,651.6,"obligations in ICT security related issues, significantly below the "
+16,8,14,Calibri,11.0,72.0,654.9,167.4,666.0,EU average (59.97%).
+16,8,14,Calibri-Bold,11.0,167.3,654.9,169.8,666.0, 
+16,10,0,Calibri-Bold,11.0,72.0,677.5,354.2,688.5,France leads the EU in the roll-out of the secure Internet 
+16,10,1,Calibri-Bold,11.0,72.0,692.0,294.7,703.1,Protocol version 6 (IPv6) protocol for end users
+16,10,1,Calibri,11.0,294.8,692.0,354.2,703.1,. Concerning 
+16,10,2,Calibri,11.0,72.0,706.4,158.6,717.5,the deployment of 
+16,10,2,Calibri,11.0,159.1,706.4,274.8,717.5,secure internet standards
+16,10,2,Calibri,11.0,274.9,706.4,525.8,717.5,", France leads the EU in the roll-out of IPv6 for the end "
+16,10,3,Calibri,11.0,72.0,721.0,525.9,732.0,"users (65%, EU average: 36%) and is slightly above the EU average on the server side (23% vs 17% for "
+16,10,4,Calibri,11.0,72.0,735.5,525.8,746.5,"the EU). IPv6 is an important protocol as it ensures the scalability, stability, and security of the Internet. "
+16,10,5,Calibri,11.0,72.0,750.0,525.9,761.0,"The deployment of this new version is increasingly urgent, as traditional IPv4 addresses have been "
+16,11,0,Calibri,11.0,292.1,779.8,305.8,790.8,13 
+16,11,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+17,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+17,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,3,0,Calibri,11.0,72.0,84.0,525.7,95.1,long depleted. Domain Name System Security Extensions (DNSSEC) is also an important standard to 
+17,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"be rolled-out as it introduces security features to the Domain Name System. In France, the DNSSEC "
+17,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"validation rate (i.e. verification of the authenticity of responses sent by name servers to clients, using "
+17,3,3,Calibri,11.0,72.0,127.5,427.2,138.5,"a digital signature technology) is 34% (Q3-2024), below the EU average of 47%. "
+17,4,0,Calibri-Bold,11.0,72.0,149.9,400.0,160.9,"With increasing threats, France develops cyber awareness on all fronts"
+17,4,0,Calibri,11.0,400.4,149.9,525.8,160.9,". On the enterprises side, a "
+17,4,1,Calibri,11.0,72.0,164.4,525.9,175.5,recent programme called ‘cyber PME’ proposes solutions for SMEs and mid-cap companies wishing to 
+17,4,2,Calibri,11.0,72.0,178.9,525.9,190.0,"strengthen their level of security and protect themselves from risks. Up to now, 300 enterprises were "
+17,4,3,Calibri,11.0,72.0,193.5,525.6,204.5,"accompanied. For administrations and organisations, the National Agency for Information Systems "
+17,4,4,Calibri,11.0,72.0,207.9,525.9,218.9,"Security (Agence nationale de la sécurité des systèmes d’information, ANSSI) proposes cybersecurity "
+17,4,5,Calibri,11.0,72.0,222.4,115.3,233.4,courses (
+17,4,5,Calibri-Italic,11.0,115.3,222.4,118.1,233.4,‘
+17,4,5,Calibri-Italic,11.0,118.1,222.4,238.5,233.4,parcours de cybersécurité
+17,4,5,Calibri-Italic,11.0,238.6,222.4,244.7,233.4,’)
+17,4,5,Calibri,11.0,244.6,222.4,525.8,233.4, which enable beneficiaries to protect themselves against 
+17,4,6,Calibri,11.0,72.0,236.9,525.7,248.0,"cybercriminal threats by achieving a cybersecurity objective in a progressive, measurable and adapted "
+17,4,7,Calibri,11.0,72.0,251.4,525.9,262.5,"way for each beneficiary, in line with the level of threat and maturity. Already 950 companies "
+17,4,8,Calibri,11.0,72.0,265.9,378.1,276.9,"benefited from these courses. More generally, ANSSI launched a "
+17,4,8,Calibri,11.0,380.2,265.9,415.4,276.9,website
+17,4,8,Calibri,11.0,415.3,265.9,525.9,276.9, for the assistance and 
+17,4,9,Calibri,11.0,72.0,280.4,323.8,291.4,prevention of digital risk for the general public and also 
+17,4,9,Calibri,11.0,324.1,280.4,379.5,291.4,another one
+17,4,9,Calibri,11.0,379.4,280.4,525.9,291.4, to raise awareness on phishing. 
+17,4,10,Calibri,11.0,72.0,294.9,525.8,305.9,"According to the Digital Decade Eurobarometer 2025, 82% of French citizens think that an improved "
+17,4,11,Calibri,11.0,72.0,309.4,525.8,320.5,"cybersecurity, better protection of online data and safety of digital technologies would facilitate their "
+17,4,12,Calibri,11.0,72.0,323.8,217.6,334.9,daily use of digital technologies. 
+17,5,0,Calibri-Bold,11.0,72.0,346.4,525.9,357.4,"In its adjusted roadmap, France presents the CaRE programme, aimed at the cyber protection of "
+17,5,1,Calibri-Bold,11.0,72.0,360.9,193.8,371.9,healthcare establishments
+17,5,1,Calibri,11.0,193.9,360.9,525.8,371.9,. This action programme on cybersecurity acceleration and resilience of 
+17,5,2,Calibri,11.0,72.0,375.3,525.6,386.3,healthcare facilities aims to improve the cybersecurity of hospital information systems and to 
+17,5,3,Calibri,11.0,72.0,389.8,525.8,400.9,strengthen the resilience of healthcare structures against cyber threats. It pursues two main objectives 
+17,5,4,Calibri,11.0,72.0,404.3,525.9,415.4,(i) to prevent attacks; and (ii) to enable fast recovery in the event of an incident. The programme is 
+17,5,5,Calibri,11.0,72.0,418.9,525.9,429.9,structured around four axes (i) governance and resilience; (ii) resources and pooling; (iii) awareness; 
+17,5,6,Calibri,11.0,72.0,433.3,525.9,444.3,and (iv) operational security. It is funded by EUR 250 million for 2023-2025 but will reach 
+17,5,7,Calibri,11.0,72.0,447.8,220.2,458.8,EUR 750 million in total by 2027. 
+17,6,0,Calibri-Bold,11.0,77.7,470.8,261.1,481.9,2024 recommendation on cybersecurity
+17,6,0,Calibri,11.0,261.3,470.8,520.1,481.9,: (i) Continue efforts in cybersecurity to address evolving 
+17,6,1,Calibri,11.0,77.7,485.2,386.3,496.3,threats and restore the confidence of enterprises and general public. 
+17,7,0,Calibri-Bold,11.0,77.7,503.2,520.0,514.3,France addressed fully the recommendation by putting significant policy actions into place in 
+17,7,1,Calibri-Bold,11.0,77.7,516.7,100.0,527.7,2024
+17,7,1,Calibri,11.0,100.1,516.7,520.3,527.7,. France has recently deployed a very broad range of actions to raise awareness about cyber 
+17,7,2,Calibri,11.0,77.7,530.1,520.2,541.2,"threats in all sectors (enterprises, administration, general public). It has also provided support in "
+17,7,3,Calibri,11.0,77.7,543.5,520.2,554.6,"implementing cybersecurity strategies with actions, including Cyber PME. The new measure added "
+17,7,4,Calibri,11.0,77.7,557.0,520.2,568.1,"in the adjusted roadmap (CaRE programme) targets the cybersecurity of the healthcare sector, "
+17,7,5,Calibri,11.0,77.7,570.5,124.0,581.5,which is a 
+17,7,5,Calibri,11.0,123.9,570.5,174.4,581.5,top priority
+17,7,5,Calibri,11.0,174.5,570.5,268.2,581.5, of the Commission.  
+17,8,0,Calibri-Bold,11.0,72.0,587.4,74.5,598.4, 
+17,8,1,Calibri-Bold,11.0,216.1,587.4,218.5,598.4, 
+17,9,0,Calibri,11.0,292.1,779.8,305.8,790.8,14 
+17,9,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+18,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+18,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Protecting and empowering EU people 
+18,3,1,Calibri-Bold,26.0,72.0,121.2,200.6,147.3,and society 
+18,4,0,Calibri-Light,15.0,72.0,161.3,526.5,176.3,Empowering people and bringing the digital transformation closer to their 
+18,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+18,5,0,Calibri-Bold,11.0,72.0,208.0,525.9,219.0,France’s administration aims at making digitalisation inclusive with actions targeting known divides 
+18,5,1,Calibri-Bold,11.0,72.0,222.5,226.0,233.5,and improving the public services.
+18,5,1,Calibri,11.0,226.0,222.5,525.9,233.5," In term of digital skills of the population, France performs well with "
+18,5,2,Calibri,11.0,72.0,237.0,525.8,248.1,only few gaps identified toward the lower educated and based on socio-economic status. The lack of 
+18,5,3,Calibri,11.0,72.0,251.4,525.6,262.5,ICT specialists could however create tensions on the job market and slow down the development of 
+18,5,4,Calibri,11.0,72.0,266.0,525.8,277.0,"the ICT sector. The digitalisation of the public sector benefits from many actions being implemented, "
+18,5,5,Calibri,11.0,72.0,280.5,525.8,291.5,including for relieving administrative burden. France is also very active in protecting children online 
+18,5,6,Calibri,11.0,72.0,295.0,525.9,306.0,"and fighting disinformation with services, including VIGINUM. However, the French population could "
+18,5,7,Calibri,11.0,72.0,309.4,525.9,320.5,be seen as less digital savvy than its EU peers as it participates less in civic life online and is less inclined 
+18,5,8,Calibri,11.0,72.0,323.9,525.9,335.0,"to fact-check information found online. According to the 2025 Eurobarometer, 85% of French people "
+18,5,9,Calibri,11.0,72.0,338.4,525.9,349.5,think that accessing public services online will be important for their daily life in 2030. Concerning 
+18,5,10,Calibri,11.0,72.0,353.0,525.9,364.0,"human support to help access and use digital technologies and services, 73% consider it would "
+18,5,11,Calibri,11.0,72.0,367.5,525.8,378.5,"improve their daily use of digital technologies, and 88% think public authorities should consider it "
+18,5,12,Calibri,11.0,72.0,381.9,525.7,392.9,important to ensure that people receive proper human support to help them adapt to the changes in 
+18,5,13,Calibri,11.0,72.0,396.4,350.4,407.5,their lives brought about by digital technologies and services.  
+18,6,0,Calibri-Light,12.0,72.0,419.1,239.9,431.1,Equipping people with digital skills 
+18,7,0,Calibri-LightItalic,11.0,72.0,446.7,152.3,457.8,Basic Digital Skills 
+18,8,0,Calibri-Bold,11.0,72.0,473.2,520.3,484.3,"France’s digital skills profile is strong, with evidence of inclusive growth across different dimensions"
+18,8,0,Calibri,11.0,520.7,473.2,525.9,484.3,. 
+18,8,1,Calibri-Bold,11.0,72.0,487.7,525.9,498.8,"According to data from 2023, 59.67% of France’s population with at least basic digital skills (2030 "
+18,8,2,Calibri-Bold,11.0,72.0,502.1,492.3,513.2,"national target 80%) after a small decline of -1.9%, standing above the EU average of 55.56%"
+18,8,2,Calibri,11.0,492.3,502.1,525.9,513.2,. While 
+18,8,3,Calibri,11.0,72.0,516.7,509.7,527.7,"there is no new data for 2024, a breakdown by demographic factors provides for some of insights."
+18,8,3,Calibri,8.0,509.9,518.9,511.7,527.0, 
+18,9,0,SymbolMT,10.0,72.0,537.5,76.6,549.7,•
+18,9,0,ArialMT,10.0,76.6,538.5,79.4,549.6, 
+18,9,0,Calibri-Bold,11.0,86.2,539.2,144.8,550.3,Gender Gap:
+18,9,0,Calibri,11.0,144.7,539.2,525.7,550.3," France shows an uncommon situation in the gender gap, with 59.14% of men and "
+18,9,1,Calibri,11.0,72.0,553.6,525.9,564.7,"60.18% of women having at least basic digital skills, creating a small gap of 1.04 pp. in favour of "
+18,9,2,Calibri,11.0,72.0,568.2,510.7,579.2,"women. This goes against the typical EU trend, where the gap averages 2.23 pp. in favour of men. "
+18,10,0,SymbolMT,10.0,72.0,589.0,76.6,601.2,•
+18,10,0,ArialMT,10.0,76.6,590.0,79.4,601.1, 
+18,10,0,Calibri-Bold,11.0,86.2,590.7,163.9,601.8,Education Level:
+18,10,0,Calibri,11.0,163.9,590.7,525.9,601.8, Education is a strong indicator of digital proficiency in France. 82.40% of 
+18,10,1,Calibri,11.0,72.0,605.1,525.9,616.2,"individuals with higher education levels have at least basic digital skills, exceeding the EU average "
+18,10,2,Calibri,11.0,72.0,619.7,525.6,630.7,"(79.83%). However, those with lower levels of education face challenges, with only 34.59% having "
+18,10,3,Calibri,11.0,72.0,634.2,496.2,645.2,"basic skills, a gap with the national average of 25.08 pp., larger than the EU average (21.95pp). "
+18,11,0,SymbolMT,10.0,72.0,654.9,76.6,667.1,•
+18,11,0,ArialMT,10.0,76.6,655.9,79.4,667.0, 
+18,11,0,Calibri-Bold,11.0,86.2,656.6,143.9,667.7,Living Areas:
+18,11,0,Calibri,11.0,143.9,656.6,525.9,667.7," In rural France, 56.17% of people have at least basic digital skills, which is higher than "
+18,11,1,Calibri,11.0,72.0,671.1,525.7,682.2,the EU average for rural areas (47.50%). The gap between rural and urban areas in France is a modest 
+18,11,2,Calibri,11.0,72.0,685.7,381.6,696.7,"3.50 pp., showcasing a smaller divide than the EU average (8.06 pp.). "
+18,12,0,SymbolMT,10.0,72.0,706.4,76.6,718.5,•
+18,12,0,ArialMT,10.0,76.6,707.4,79.4,718.5, 
+18,12,0,Calibri-Bold,11.0,86.2,708.1,141.9,719.1,Age Groups:
+18,12,0,Calibri,11.0,141.7,708.1,525.9,719.1," Young adults between the ages of 16 and 24 have good digital skills, with a proficiency "
+18,12,1,Calibri,11.0,72.0,722.6,525.9,733.7,"rate of 76.70%, surpassing the EU average (69.98%). The senior age group of between 65 and 74 has "
+18,12,2,Calibri,11.0,72.0,737.2,494.1,748.2,"fewer skills at 34.79%. However, this is still above the EU average for that age group (28.19%). "
+18,13,0,Calibri,11.0,292.1,779.8,305.8,790.8,15 
+18,13,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+19,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+19,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,3,0,Calibri-Bold,11.0,72.0,84.0,221.0,95.1,Digital Skills Index components:
+19,3,0,Calibri,11.0,221.1,84.0,302.3,95.1, France performs 
+19,3,1,Calibri,11.0,72.0,98.4,302.3,109.5,"well in the Digital Skills Index competencies, scoring "
+19,3,2,Calibri,11.0,72.0,112.9,302.2,124.0,above the EU average in all five areas. Their 
+19,3,3,Calibri,11.0,72.0,127.5,302.2,138.5,strongest area is communication and collaboration 
+19,3,4,Calibri,11.0,72.0,142.0,302.2,153.0,"skills at 90.11%, slightly above the EU average. The "
+19,3,5,Calibri,11.0,72.0,156.4,302.3,167.4,lowest score is for digital content creation at 
+19,3,6,Calibri,11.0,72.0,170.9,302.3,181.9,"71.81%, however, this also stands above the EU "
+19,3,7,Calibri,11.0,72.0,185.4,154.9,196.5,average (68.28%). 
+19,5,0,Calibri-Bold,11.0,72.0,207.9,302.3,218.9,"In summary, France’s digital skills profile shows "
+19,5,1,Calibri-Bold,11.0,72.0,222.4,302.0,233.4,inclusive growth across genders and a small 
+19,5,2,Calibri-Bold,11.0,72.0,236.9,174.4,248.0,urban-rural skills gap.
+19,5,2,Calibri,11.0,174.6,236.9,302.3,248.0, While there’s a significant 
+19,5,3,Calibri,11.0,72.0,251.4,302.3,262.5,"disparity based on education level, overall, France’s "
+19,5,4,Calibri,11.0,72.0,265.9,302.2,276.9,"performance in essential digital skills is good, with "
+19,5,5,Calibri,11.0,72.0,280.4,300.1,291.4,room for targeted improvements to support lower-
+19,5,6,Calibri,11.0,72.0,294.9,244.5,305.9,educated individuals and older adults. 
+19,6,0,Calibri-Bold,11.0,72.0,321.3,420.0,332.3,France’s target for the basic digital skills of the population remains at 80%. 
+19,6,0,Calibri,11.0,420.8,321.3,525.9,332.3,It is in line with the EU 
+19,6,1,Calibri,11.0,72.0,335.8,525.9,346.9,"target by 2030. In the absence of new measures in the roadmap adjustment, the SDDR 2024 "
+19,6,2,Calibri,11.0,72.0,350.3,525.9,361.4,conclusions still apply. The current rate of progress would require more effort in order to reach this 
+19,6,3,Calibri,11.0,72.0,364.8,104.4,375.9,target. 
+19,7,0,Calibri-Bold,11.0,77.7,387.9,293.1,398.9,2024 recommendation on basic digital skills: 
+19,7,0,Calibri,11.0,295.3,387.9,520.1,398.9,Take measures to boost the digital skills of the 
+19,7,1,Calibri,11.0,77.7,402.3,432.4,413.4,"population on the shorter term, with additional efforts in its outermost regions."
+19,7,1,Calibri-Bold,11.0,432.3,402.3,434.8,413.4, 
+19,8,0,Calibri-Bold,11.0,77.7,420.3,520.1,431.4,"In 2024, France continued the implementation of existing measures but did not take any new "
+19,8,1,Calibri-Bold,11.0,77.7,433.7,120.2,444.8,measure.
+19,8,1,Calibri,11.0,120.3,433.7,463.1,444.8, France continued to implement measures from its roadmap such as
+19,8,1,Calibri-Italic,11.0,463.3,433.7,520.2,444.8, ‘Territoires 
+19,8,2,Calibri-Italic,11.0,77.7,447.2,180.0,458.2,Numériques Educatifs’ 
+19,8,2,Calibri,11.0,180.4,447.2,192.5,458.2,or 
+19,8,2,Calibri-Italic,11.0,192.9,447.2,334.3,458.2,"‘Compétences métiers d’avenir’,"
+19,8,2,Calibri,11.0,334.4,447.2,520.3,458.2, while working to reinforce basic training 
+19,8,3,Calibri,11.0,77.7,460.6,509.0,471.7,especially in mathematics. However no new measure was proposed in the roadmap adjustment. 
+19,9,0,Calibri-Bold,11.0,72.0,485.6,455.1,496.6,The divide in term of digital skills seems to reflect mostly socio-economic disparities.
+19,9,0,Calibri,11.0,455.1,485.6,525.9,496.6," As seen above, "
+19,9,1,Calibri,11.0,72.0,500.0,525.8,511.0,"education level, strongly linked to socio-economic status, reveals some disparities. It is estimated that "
+19,9,2,Calibri,11.0,72.0,514.5,525.9,525.5,16 million people are ‘far from digital’. France’s education curriculum is one of the densest and it is 
+19,9,3,Calibri,11.0,72.0,529.0,525.8,540.1,"not easy to find room to include specific digital training courses. However, public initiatives such as "
+19,9,4,Calibri,11.0,72.0,543.5,111.5,554.6,CLEMI (‘
+19,9,4,Calibri-Italic,11.0,111.5,543.5,363.4,554.6,Centre pour l’éducation aux médias et à l’informatio
+19,9,4,Calibri,11.0,363.5,543.5,525.8,554.6,n’) are tasked to train the entire 
+19,9,5,Calibri,11.0,72.0,558.0,525.9,569.0,educational system about medias and information. Generative AI could be envisaged as tool to bridge 
+19,9,6,Calibri,11.0,72.0,572.5,525.6,583.5,"digital divides as it uses daily language. However, it is possible that social disparities are also "
+19,9,7,Calibri,11.0,72.0,587.0,525.7,598.1,reproduced in the way people express themselves (e.g. low education or foreign origins). The question 
+19,9,8,Calibri,11.0,72.0,601.5,525.8,612.6,of infrastructures and equipment could also help bridging divides. Households could struggle to 
+19,9,9,Calibri,11.0,72.0,615.9,525.6,627.0,"purchase or access high quality digital equipment, but strong networks are present in France (see "
+19,9,10,Calibri,11.0,72.0,630.5,235.3,641.5,Connectivity infrastructure section). 
+19,10,0,Calibri-LightItalic,11.0,72.0,653.0,135.4,664.1,ICT specialists 
+19,11,0,Calibri-Bold,11.0,72.0,679.4,525.7,690.5,France is at 4.8% of ICT specialists in total employment (2030 national target 10%) after a 
+19,11,1,Calibri-Bold,11.0,72.0,693.9,394.8,705.0,progression of +2.1% in 2024 and stands below the EU average of 5.0%. 
+19,11,1,Calibri,11.0,394.5,693.9,525.9,705.0,The country is lagging behind 
+19,11,2,Calibri,11.0,72.0,708.5,525.9,719.5,compared to its national trajectory. It was 4.7% in 2023 and represents half of growth rate observed 
+19,11,3,Calibri,11.0,72.0,723.0,525.8,734.0,"at EU level (+4.2% in 2024). This indicates that while France is making progress, it is not keeping pace "
+19,11,4,Calibri,11.0,72.0,737.4,167.4,748.4,with the EU average. 
+19,12,0,Calibri,11.0,292.1,779.8,305.8,790.8,16 
+19,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+20,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+20,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,3,0,Calibri-Bold,11.0,72.0,84.0,468.9,95.1,The share of French women as ICT specialists and ICT training show a concerning trend
+20,3,0,Calibri,11.0,468.9,84.0,525.9,95.1,. In terms of 
+20,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"women ICT specialists, France had a higher share in 2023 at 20.1%, compared to the EU’s 19.4%. "
+20,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"However, by 2024, this figure dropped to 19.3%, falling below the EU’s 19.5%. The growth rate for "
+20,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"women ICT specialists in France was -4.0%, significantly lower than the EU’s 0.5%. This suggests that "
+20,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,"France is not effectively retaining or attracting female talent in the ICT sector. In 2022, 15.09% of "
+20,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"enterprises with 10 or more employees in France provided ICT training, which was lower than the EU’s "
+20,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,"22.37%. By 2024, this figure fell further to 13.07%, while the EU’s percentage slightly declined to "
+20,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,"22.29%. The decline in the share of women ICT specialists and enterprises providing ICT training, "
+20,3,8,Calibri,11.0,72.0,199.9,505.6,211.0,combined with a poor dynamic for overall ICT specialists in employment are a cause for concern. 
+20,4,0,Calibri-Bold,11.0,72.0,222.4,525.7,233.4,"In terms of labour market demand, Eurostat experimental statistics based on web scraping show "
+20,4,1,Calibri-Bold,11.0,72.0,236.9,525.9,248.0,"that in France, the profiles of ‘software and applications developers and analysts’ are the most "
+20,4,2,Calibri-Bold,11.0,72.0,251.4,525.9,262.5,"sought after, representing 55.1% of online job advertisements for ICT specialists (58.0% at EU level). "
+20,4,3,Calibri,11.0,72.0,265.9,525.9,276.9,Three types of profile are sought after in France than in the EU on average: ‘information and 
+20,4,4,Calibri,11.0,72.0,280.4,525.9,291.4,"communications technology service managers’ (4.5% of online job advertisements for ICT specialists), "
+20,4,5,Calibri,11.0,72.0,294.9,525.6,305.9,"‘information and communications technology operations and user support technicians’ (11.6%), and "
+20,4,6,Calibri,11.0,72.0,309.4,337.6,320.5,‘telecommunications and broadcasting technicians’ (3.5%). 
+20,5,0,Calibri-Bold,11.0,72.0,331.8,449.9,342.9,Recent studies still underline weaknesses in the maths skills of French pupils
+20,5,0,Calibri,11.0,450.0,331.8,525.9,342.9,. The Trends in 
+20,5,1,Calibri,11.0,72.0,346.4,525.6,357.4,Mathematics and Science Study 2023 (TIMSS) reveals that France ranks bottom of EU Member States 
+20,5,2,Calibri,11.0,72.0,360.9,525.8,371.9,and below the OECD average for maths. The trend is getting worse for secondary school students. 
+20,5,3,Calibri,11.0,72.0,375.3,525.9,386.3,"While France is implementing a targeted strategy to overcome this problem, it will take time to bear "
+20,5,4,Calibri,11.0,72.0,389.8,525.9,400.9,fruit. The training of ICT specialists is closely linked to performances in maths and more generally 
+20,5,5,Calibri,11.0,72.0,404.3,392.0,415.4,"Science, Technology, Engineering, and Mathematics (STEM) disciplines. "
+20,6,0,Calibri-Bold,11.0,72.0,426.8,405.5,437.8,France still aims to reach 10% of ICT specialists in employment by 2030. 
+20,6,0,Calibri,11.0,406.3,426.8,525.9,437.8,Given the absence of new 
+20,6,1,Calibri,11.0,72.0,441.3,525.9,452.4,"measures in the roadmap adjustment and the intrinsic inertia of the indicator, it seems that the target "
+20,6,2,Calibri,11.0,72.0,455.8,182.7,466.9,will be difficult to reach. 
+20,7,0,Calibri-Bold,11.0,77.7,478.7,267.0,489.8,2024 recommendation on ICT specialists: 
+20,7,0,Calibri,11.0,267.2,478.7,520.1,489.8,Increase the attractiveness of STEM disciplines at school 
+20,7,1,Calibri,11.0,77.7,493.3,520.3,504.3,"to boost the number of young people, including girls, interested in taking up ICT-related studies or "
+20,7,2,Calibri,11.0,77.7,507.8,520.3,518.8,careers. Increase the visibility and readability of training and reskilling options. Design incentive 
+20,7,3,Calibri,11.0,77.7,522.3,280.1,533.3,schemes to attract and retain ICT specialists.  
+20,8,0,Calibri-Bold,11.0,77.7,540.2,520.0,551.2,"In 2024, France continued the implementation of existing measures but did not take any new "
+20,8,1,Calibri-Bold,11.0,77.7,553.6,120.2,564.7,measure.
+20,8,1,Calibri,11.0,120.1,553.6,520.2,564.7, Several stakeholders share the opinion that training blocks in digital are somewhat 
+20,8,2,Calibri,11.0,77.7,567.1,520.2,578.1,heterogeneous. The ICT sector suffers from an image deficit (as compared to well identified flagship 
+20,8,3,Calibri,11.0,77.7,580.5,389.6,591.6,sectors such as aeronautics) which can lead to less visible job careers. 
+20,9,0,Calibri-Bold,11.0,72.0,605.5,520.6,616.5,"Following its ambitious AI strategy, France aims to run a large-scale training to acquire experts in AI"
+20,9,0,Calibri,11.0,520.7,605.5,525.9,616.5,. 
+20,9,1,Calibri,11.0,72.0,620.0,525.7,631.1,"In May 2024, nine new winners of the call for expressions of interest ‘AI clusters’ were selected. These "
+20,9,2,Calibri,11.0,72.0,634.5,477.8,645.6,centres of excellence in research and training in AI will be supported with EUR 360 million. 
+20,10,0,Calibri-Bold,11.0,72.0,657.0,452.6,668.0,A slow down in ICT employment growth has eased the lack of available ICT experts
+20,10,0,Calibri,11.0,452.6,657.0,525.9,668.0,. The lack of ICT 
+20,10,1,Calibri,11.0,72.0,671.5,525.9,682.5,specialists was declared as one of the main barriers to growth for ICT enterprises. But during summer 
+20,10,2,Calibri,11.0,72.0,685.9,283.3,696.9,"2024, growth in employment by the ICT sector "
+20,10,2,Calibri,11.0,283.8,685.9,387.6,696.9,slowed down markedly
+20,10,2,Calibri,11.0,387.5,685.9,525.8,696.9, which could partly ease these 
+20,10,3,Calibri,11.0,72.0,700.4,115.0,711.5,tensions. 
+20,11,0,Calibri,11.0,292.1,779.8,305.8,790.8,17 
+20,11,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+21,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+21,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,2,0,Calibri-Light,12.0,72.0,84.3,479.2,96.3,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+21,4,0,Calibri-Bold,11.0,72.0,111.7,525.9,122.8,"For digital public services for citizens, France scored at 71.19 (2030 national target of 100) after a "
+21,4,1,Calibri-Bold,11.0,72.0,126.3,318.3,137.3,"small decline of -1.2%, below the EU average of 82.32."
+21,4,1,Calibri,11.0,318.3,126.3,525.8,137.3, The country is lagging behind compared to its 
+21,4,2,Calibri,11.0,72.0,140.8,525.9,151.8,"national trajectory. In 2023, France’s total digital public services score for citizens was 72.09, below "
+21,4,3,Calibri,11.0,72.0,155.3,525.9,166.3,"the EU’s 79.44. In 2024, it dropped to 71.19, still below the EU’s 82.32. France’s growth rate of -1.2% "
+21,4,4,Calibri,11.0,72.0,169.7,525.9,180.7,in this area is lower than the EU’s 3.6%. The slight fall can be explained by weaknesses in cross-border 
+21,4,5,Calibri,11.0,72.0,184.2,525.9,195.3,services (related to the Single Digital Gateway Regulation (SDGR) and the translation of municipality 
+21,4,6,Calibri,11.0,72.0,198.7,525.9,209.8,"webpages). On cross-border digital public services for citizens, France scored 50.92 in 2024, standing "
+21,4,7,Calibri,11.0,72.0,213.3,523.6,224.3,far below the EU’s 71.28. The share of people using government websites or apps is increasing year-
+21,4,8,Calibri,11.0,72.0,227.7,511.6,238.7,"on-year, from 89.99% in 2022 to 91.60% in 2024. It is far above the EU average of 74.71% in 2024. "
+21,5,0,Calibri-Bold,11.0,72.0,250.2,525.8,261.3,"For digital public services for business, France scored 76.90 (2030 national target of 100) after a "
+21,5,1,Calibri-Bold,11.0,72.0,264.8,304.9,275.8,"decline of -3.0%, below the EU average of 86.23."
+21,5,1,Calibri,11.0,305.0,264.8,525.8,275.8, The country is lagging behind compared to its 
+21,5,2,Calibri,11.0,72.0,279.2,525.9,290.2,"national trajectory. France’s total score was 79.31 in 2023 and 76.90 in 2024, both below the EU’s "
+21,5,3,Calibri,11.0,72.0,293.7,525.9,304.7,"85.42 and 86.23, respectively. The country’s growth rate of -3.0% is notably lower than the EU’s 0.9% "
+21,5,4,Calibri,11.0,72.0,308.2,525.9,319.2,because of a newly introduced SDGR-related service that was not found online. For cross-border 
+21,5,5,Calibri,11.0,72.0,322.7,489.9,333.8,"digital public services for businesses, France’s score was 56.07 in 2024, below the EU’s 73.76. "
+21,6,0,Calibri-Bold,11.0,72.0,345.2,525.9,356.2,France’s access to e-Health records tells a different story with a score of 84.23 (2030 national target 
+21,6,1,Calibri-Bold,11.0,72.0,359.7,349.1,370.7,"of 100) after a growth of 6.2%, above the EU average of 82.7."
+21,6,1,Calibri,11.0,349.1,359.7,525.8,370.7, The country is on track according to its 
+21,6,2,Calibri,11.0,72.0,374.2,525.9,385.2,"national trajectory. In 2023, France’s total score was 79.27, slightly above the EU’s 79.12, and in 2024, "
+21,6,3,Calibri,11.0,72.0,388.6,525.9,399.6,"it rose to 84.23, above the EU’s 82.7. France’s growth rate of 6.2% in this area outperforms the EU’s "
+21,6,4,Calibri,11.0,72.0,403.1,378.9,414.2,"4.5%, continuing the fast growth that was already observed in 2023. "
+21,7,0,Calibri-LightItalic,11.0,72.0,425.7,92.4,436.8,e-ID 
+21,8,0,Calibri-Bold,11.0,72.0,452.1,525.9,463.1,French authorities are aligned with the European framework of the eIDAS Regulation with a view to 
+21,8,1,Calibri-Bold,11.0,72.0,466.6,289.4,477.7,offering an EU Digital Wallet by the end of 2026
+21,8,1,Calibri,11.0,289.6,466.6,525.8,477.7,. The government is working to increase the number 
+21,8,2,Calibri,11.0,72.0,481.1,525.8,492.2,"of digital identity use cases, in order to achieve a complete and secure digital identity wallet. For "
+21,8,3,Calibri,11.0,72.0,495.7,452.4,506.7,"example, at the beginning of 2024, the digitalised driving licence has joined the "
+21,8,3,Calibri-Italic,11.0,454.5,495.7,525.9,506.7,France Identité 
+21,8,4,Calibri,11.0,72.0,510.1,525.6,521.1,"application. With the FranceConnect service, users can carry out a very large number of online "
+21,8,5,Calibri,11.0,72.0,524.6,525.8,535.6,procedures with a digital identity that they choose from several providers. FranceConnect+ is available 
+21,8,6,Calibri,11.0,72.0,539.1,525.8,550.2,"as a reinforced level of identification to carry out the most sensitive procedures, in particular financial "
+21,8,7,Calibri,11.0,72.0,553.6,98.6,564.7,ones. 
+21,9,0,Calibri-Bold,11.0,72.0,576.1,525.8,587.1,France leads the consortium Advanced Project for Trusted Identity Technologies and Unified Digital 
+21,9,1,Calibri-Bold,11.0,72.0,590.6,392.9,601.7,Ecosystem (APTITUDE) that will pilot the usage of EU Digital Wallets
+21,9,1,Calibri,11.0,393.0,590.6,525.8,601.7,. The project involves strong 
+21,9,2,Calibri,11.0,72.0,605.1,525.6,616.2,"public and private engagement across 11 Member States and Ukraine, bringing together over 110 "
+21,9,3,Calibri,11.0,72.0,619.5,525.6,630.6,participants. This project focuses on advancing the use of wallets for travel and payment purposes 
+21,9,4,Calibri,11.0,72.0,634.1,525.7,645.1,"across 4 use cases: payments, mobile vehicle registration certificates, digital travel credentials, and "
+21,9,5,Calibri,11.0,72.0,648.6,525.9,659.6,tickets and travel check-in. Building on the foundational work carried by the Commission and the 
+21,9,6,Calibri,11.0,72.0,663.1,525.8,674.1,"experience of ongoing large-scale pilot projects, APTITUDE is planned to start in autumn 2025 and run "
+21,9,7,Calibri,11.0,72.0,677.5,136.4,688.5,for two years. 
+21,10,0,Calibri-LightItalic,11.0,72.0,700.1,327.8,711.1,Digitalisation of public services for citizens and businesses 
+21,11,0,Calibri-Bold,11.0,72.0,726.5,525.3,737.5,France still aims at reaching a score of 100 for the digitalisation of public services for citizen and 
+21,11,1,Calibri-Bold,11.0,72.0,741.0,126.6,752.0,businesses. 
+21,11,1,Calibri,11.0,126.1,741.0,525.8,752.0,The adjusted roadmap encloses clear intermediary goals such as the availability digitalised 
+21,12,0,Calibri,11.0,292.1,779.8,305.8,790.8,18 
+21,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+22,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+22,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"services, user satisfaction, simplicity, accessibility and authentication processes. Current observed "
+22,2,1,Calibri,11.0,72.0,98.4,464.2,109.5,sluggish progress suggest that France will have to accelerate in order to reach its target.
+22,2,1,Calibri-Bold,11.0,464.0,98.4,466.5,109.5, 
+22,4,0,Calibri-Bold,11.0,77.7,121.5,318.9,132.5,2024 recommendation on key digital public services: 
+22,4,0,Calibri,11.0,319.0,121.5,502.4,132.5,"Make efforts to digitalise public services, "
+22,4,1,Calibri,11.0,77.7,136.0,494.4,147.0,with particular attention to re-use of information available to public administrations and user 
+22,4,2,Calibri,11.0,77.7,150.5,118.0,161.5,support. 
+22,5,0,Calibri-Bold,11.0,77.7,168.4,520.0,179.4,France addressed fully the recommendation by putting significant policy actions into place in 
+22,5,1,Calibri-Bold,11.0,77.7,181.8,100.0,192.9,2024
+22,5,1,Calibri,11.0,100.1,181.8,520.2,192.9,. The updated national roadmap clearly identifies the re-use of information as a priority axis. 
+22,5,2,Calibri,11.0,77.7,195.3,520.0,206.3,The ‘once-only’ principle is to be implemented at 100% of online public services (currently at 69%) 
+22,5,3,Calibri,11.0,77.7,208.7,519.9,219.7,"by December 2026. For user support, the target is to reach 100% of online services with a user "
+22,5,4,Calibri,11.0,77.7,222.1,259.9,233.2,satisfaction rate of 8/10 (currently 53%). 
+22,6,0,Calibri-Bold,11.0,72.0,247.1,525.9,258.2,The simplification of administrative procedures is a priority in the digitalisation of French public 
+22,6,1,Calibri-Bold,11.0,72.0,261.6,108.3,272.7,services
+22,6,1,Calibri,11.0,108.4,261.6,525.8,272.7,. Several dematerialisation principles are being implemented: i) the circulation of data 
+22,6,2,Calibri,11.0,72.0,276.0,525.8,287.1,between administrations (in particular via a reinforced network of application programming interfaces 
+22,6,3,Calibri,11.0,72.0,290.6,523.7,301.6,"APIs); ii) the proactivity of the administration to go towards citizens, with a view to reduce the non-"
+22,6,4,Calibri,11.0,72.0,305.1,525.9,316.1,use of public services; and iii) the ‘once-only’ principle which requires the administration to no longer 
+22,6,5,Calibri,11.0,72.0,319.6,525.9,330.6,"ask the user for data or supporting documents that it already holds. Furthermore, a draft law on "
+22,6,6,Calibri,11.0,72.0,334.0,525.8,345.0,"simplification should be presented in 2025, consecutive to the recent public action simplification law "
+22,6,7,Calibri,11.0,72.0,348.5,75.4,359.6,(
+22,6,7,Calibri-Italic,11.0,75.4,348.5,360.4,359.6,‘loi d’accélération et de simplification de l’action publique’ ASAP
+22,6,7,Calibri,11.0,360.3,348.5,366.0,359.6,) 
+22,7,0,Calibri-Bold,11.0,72.0,371.0,341.1,382.0,Administrative and regulatory burden is being cut in France
+22,7,0,Calibri,11.0,341.1,371.0,525.9,382.0,. According to the OECD’s iREG indicators 
+22,7,1,Calibri,11.0,72.0,385.5,525.6,396.5,"on administrative and regulatory burden, France performs better than the OECD average (1.16 in "
+22,7,2,Calibri,11.0,72.0,400.0,525.5,411.1,"France vs 1.68 in the OECD in 2023) and much lower than in 2018 (1.88). However, businesses, "
+22,7,3,Calibri,11.0,72.0,414.5,525.6,425.6,"especially the smaller ones, report complexities of administrative services (sometimes related to "
+22,7,4,Calibri,11.0,72.0,429.1,525.6,440.1,"increased cybersecurity measures), a high number of regulations, and call for impact assessments of "
+22,7,5,Calibri,11.0,72.0,443.5,322.6,454.5,the cost for businesses to implement those regulations. 
+22,8,0,Calibri-Bold,11.0,72.0,466.0,525.9,477.1,"On sovereignty of the digital administration, the State’s digital strategy prioritises the control of its "
+22,8,1,Calibri-Bold,11.0,72.0,480.4,167.2,491.5,information systems
+22,8,1,Calibri,11.0,167.3,480.4,525.7,491.5,". It guides choices in terms of investments in infrastructure such as cloud, in "
+22,8,2,Calibri,11.0,72.0,494.9,525.9,506.0,collaborative applications and tools (La Suite) and in AI (Albert). A proactive strategy based on the use 
+22,8,3,Calibri,11.0,72.0,509.5,525.7,520.5,"of free software will reinforce sovereignty, while fully controlling costs while aiming for excellence. "
+22,8,4,Calibri,11.0,72.0,524.0,525.9,535.0,Sovereignty also happens on the skills side by re-internalising digital know-how with 345 full-time 
+22,8,5,Calibri,11.0,72.0,538.4,525.9,549.4,"equivalents positions created in 2024 in the administrations. On top of the national actions, France "
+22,8,6,Calibri,11.0,72.0,552.9,525.7,563.9,joined forces with Germany and the Netherlands to promote the use of free software to offer public 
+22,8,7,Calibri,11.0,72.0,567.5,525.9,578.5,"officials truly sovereign digital workspaces. In December 2024, the three countries signed a declaration "
+22,8,8,Calibri,11.0,72.0,582.0,525.9,593.0,of intent for trilateral cooperation aimed at strengthening digital sovereignty in public administration. 
+22,9,0,Calibri-Bold,11.0,72.0,604.4,388.5,615.5,"In 2024, France continued its actions to digitalise the public sector"
+22,9,0,Calibri,11.0,388.6,604.4,525.8,615.5,". The ‘Public Digital Campus’, "
+22,9,1,Calibri,11.0,72.0,618.9,525.7,630.0,"launched in January 2024, is a training centre centralising and disseminating an interministerial "
+22,9,2,Calibri,11.0,72.0,633.5,525.6,644.5,training offer adapted to the needs identified for digital. This campus has designed and established 
+22,9,3,Calibri,11.0,72.0,647.9,525.7,658.9,"mandatory training for senior civil service executives and is initiating the deployment of Pix, a digital "
+22,9,4,Calibri,11.0,72.0,662.4,525.9,673.4,"skills diagnostic tool, for all public officials by 2026. In parallel, the administration continued to "
+22,9,5,Calibri,11.0,72.0,676.9,525.9,687.9,"promote the circulation and exchange of data, in particular with the launch of experiments in the use "
+22,9,6,Calibri,11.0,72.0,691.4,208.1,702.5,of generative AI based on the 
+22,9,6,Calibri,11.0,208.7,691.4,296.6,702.5,ALLiaNCe incubator
+22,9,6,Calibri,11.0,296.6,691.4,525.9,702.5,. The digitalisation of ‘Maprocuration’ and ‘Plainte 
+22,9,7,Calibri,11.0,72.0,705.8,525.8,716.9,"En Ligne’ was achieved, two essential high-volume services, which significantly improved the citizen’s "
+22,9,8,Calibri,11.0,72.0,720.4,525.9,731.4,experience in the run-up to June 2024 elections and that of victims of crimes against their property. 
+22,9,9,Calibri,11.0,72.0,734.9,462.5,745.9,"Since March 2025, the Vitale card (health insurance) is also available in electronic form."
+22,9,9,Calibri-Bold,11.0,462.3,734.9,464.8,745.9, 
+22,10,0,Calibri,11.0,292.1,779.8,305.8,790.8,19 
+22,10,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+23,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+23,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,2,0,Calibri-LightItalic,11.0,72.0,84.0,112.2,95.1,e-Health 
+23,4,0,Calibri-Bold,11.0,72.0,110.4,523.1,121.5,"France still aims at a score of 100 for the access to medical records, in line with the 2030 EU target."
+23,4,0,Calibri,11.0,523.4,110.4,525.9,121.5, 
+23,4,1,Calibri,11.0,72.0,124.9,525.9,136.0,Recent impressive progress (see State of the 2024 Digital Decade report) hint that this target is 
+23,4,2,Calibri,11.0,72.0,139.5,525.6,150.5,"realistic. Moreover, in its roadmap adjustment, France revised the budget of the existing measure "
+23,4,3,Calibri,11.0,72.0,154.0,402.0,165.0,"‘digital health acceleration strategy’, from EUR 718 million to 750 million. "
+23,5,0,Calibri-Bold,11.0,77.7,176.9,242.6,187.9,2024 recommendation on e-Health: 
+23,5,0,Calibri,11.0,242.7,176.9,518.5,187.9,(i) Make all data types available to citizens through the online 
+23,5,1,Calibri,11.0,77.7,191.4,508.6,202.5,access service; (ii) Enhance the authentication method for logging in to the online access service 
+23,5,2,Calibri,11.0,77.7,205.9,515.4,217.0,by using a (pre)notified e-ID; (iii) Introduce a legal basis and provide the technical functionality for 
+23,5,3,Calibri,11.0,77.7,220.5,399.4,231.5,authorised persons to access electronic health data on behalf of others. 
+23,6,0,Calibri-Bold,11.0,77.7,238.4,520.3,249.4,France made some efforts to address the recommendation through new policy actions in 2024. 
+23,6,1,Calibri,11.0,77.7,252.9,520.2,263.9,"First, 10 of the 13 data categories are now made available, with the data category of "
+23,6,2,Calibri,11.0,77.7,267.4,520.0,278.5,"procedures/operations newly reported to be available. Data on medical devices/implants, medical "
+23,6,3,Calibri,11.0,77.7,281.9,520.2,293.0,"images, and eDispensation remains unavailable to citizens. Second, citizens can now authenticate "
+23,6,4,Calibri,11.0,77.7,296.3,520.3,307.4,"using an eIDAS-compliant eID when accessing their health records. Third, on access for authorised "
+23,6,5,Calibri,11.0,77.7,310.9,517.9,321.9,"persons, there is currently no legal basis nor functions in place to grant others access to your e-"
+23,6,6,Calibri,11.0,77.7,325.4,371.4,336.4,"Health data. However, a feature is reportedly underdevelopment. "
+23,7,0,Calibri-Light,15.0,72.0,352.3,526.8,367.3,Building a safe and human centric digital environment and preserving our 
+23,7,1,Calibri-Light,15.0,72.0,372.0,142.0,387.0,democracy 
+23,8,0,Calibri-Bold,11.0,72.0,398.8,397.8,409.9,"In France, the online participation to political and civic life is declining"
+23,8,0,Calibri,11.0,398.3,398.8,525.9,409.9,". In 2024, 15.02% of people "
+23,8,1,Calibri,11.0,72.0,412.3,525.9,423.3,"used the internet to participate to consultations, for voting or sharing opinions online. This share is "
+23,8,2,Calibri,11.0,72.0,425.7,525.8,436.8,"below the EU average and trending downward (16.44% in 2022), which is the opposite of the trend "
+23,8,3,Calibri,11.0,72.0,439.1,354.0,450.2,observed at the EU level (17.59% in 2022 and 20.45% in 2024). 
+23,9,0,Calibri-Bold,11.0,72.0,460.6,525.9,471.7,"Due to its influence, France is a preferred target for disinformation attacks but it set up "
+23,9,1,Calibri-Bold,11.0,72.0,474.1,151.8,485.1,countermeasures
+23,9,1,Calibri,11.0,151.8,474.1,525.9,485.1,". Due to the size of its economy, its diversity, its military and soft power, being the "
+23,9,2,Calibri,11.0,72.0,487.5,525.8,498.5,"home of critical industries and host of international events (2024 Summer Olympics), France suffers "
+23,9,3,Calibri,11.0,72.0,500.8,525.9,511.9,"regular disinformation and destabilisation campaigns often happening online. More and more, "
+23,9,4,Calibri,11.0,72.0,514.3,525.6,525.3,"disinformation takes the form of amplified true but irrelevant information, playing with the freedom "
+23,9,5,Calibri,11.0,72.0,527.7,525.6,538.8,"of speech. As a response, France set up VIGINUM, the technical and operational service of the State "
+23,9,6,Calibri,11.0,72.0,541.1,525.9,552.2,responsible for monitoring and protecting against foreign digital interferences. VIGINUM is part of the 
+23,9,7,Calibri,11.0,72.0,554.6,525.8,565.6,General Secretariat for Defence and National Security and monitors inauthentic phenomena 
+23,9,8,Calibri,11.0,72.0,568.1,525.9,579.1,"(suspicious accounts, malicious content, abnormal, aberrant or coordinated behaviour) that appear "
+23,9,9,Calibri,11.0,72.0,581.5,164.6,592.5,on digital platforms. 
+23,10,0,Calibri-Bold,11.0,72.0,603.0,482.9,614.0,Only 1 out of 4 French internet users declare fact-checking doubtful online information.
+23,10,0,Calibri,11.0,483.0,603.0,525.9,614.0," In 2023, "
+23,10,1,Calibri,11.0,72.0,617.4,525.7,628.4,53.00% of French people declared having encountered untrue or doubtful information or content on 
+23,10,2,Calibri,11.0,72.0,631.9,523.5,642.9,"internet news sites or social media, above the EU average of 49.25%. Of these individuals, 25.42% fact-"
+23,10,3,Calibri,11.0,72.0,646.4,525.8,657.5,"checked its truthfulness, representing a modest level of critical evaluation among those who perceived "
+23,10,4,Calibri,11.0,72.0,660.9,525.8,672.0,such content as misleading. Young people (16-24) (74.86%) reported significantly more exposure than 
+23,10,5,Calibri,11.0,72.0,675.3,525.8,686.4,"adults (24-64) (53.92%), which may be linked to different trends in internet usage. A notable difference "
+23,10,6,Calibri,11.0,72.0,689.9,525.8,700.9,in verification rates also emerged: 41.44% of young people verified content compared to 25.11% of 
+23,10,7,Calibri,11.0,72.0,704.4,525.9,715.4,"adults. Men (54.25%) and women (51.82%) reported similar exposure rates, with men being slightly "
+23,10,8,Calibri,11.0,72.0,718.9,394.6,730.0,"more likely to verify content, at 28.7% compared to 22.31% for women. "
+23,11,0,Calibri-Bold,11.0,72.0,741.4,525.8,752.4,"A high share of the French population, especially young people, is often encountering hostile and "
+23,11,1,Calibri-Bold,11.0,72.0,755.9,164.8,766.9,degrading messages
+23,11,1,Calibri,11.0,164.9,755.9,167.4,766.9, 
+23,11,1,Calibri-Bold,11.0,168.1,755.9,196.7,766.9,online
+23,11,1,Calibri,11.0,196.7,755.9,525.7,766.9,". Data shows that in 2023, 40.96% of individuals encountered messages "
+23,12,0,Calibri,11.0,292.1,779.8,305.8,790.8,20 
+23,12,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+24,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+24,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,online that were considered hostile or degrading towards groups based on factors such as political 
+24,3,1,Calibri,11.0,72.0,98.4,525.6,109.5,"views, ethnicity, or LGBTIQ identities. This figure was significantly above the EU average of 33.5%. "
+24,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,Young people aged 16-24 (62.95%) reported significantly higher exposure than adults aged 25-64 
+24,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"(40.65%), highlighting a pronounced age disparity. Conversely, men (41.10%) and women (40.83%) "
+24,3,4,Calibri,11.0,72.0,142.0,250.1,153.0,experienced nearly the same exposure. 
+24,4,0,Calibri-Bold,11.0,72.0,164.4,520.4,175.5,"Since 11 January 2025, ‘double anonymity’ age verification is mandatory for adult sites in France"
+24,4,0,Calibri,11.0,520.8,164.4,525.9,175.5,. 
+24,4,1,Calibri,11.0,72.0,178.9,525.9,190.0,The Audiovisual and Digital Communication Regulatory Authority (ARCOM) standard provides that the 
+24,4,2,Calibri,11.0,72.0,193.5,525.8,204.5,"sites concerned, after a transitional period (until 11 April 2025), offer Internet users at least one "
+24,4,3,Calibri,11.0,72.0,207.9,525.9,218.9,‘double anonymity’ age verification solution. This type of solution allows to best protect the privacy 
+24,4,4,Calibri,11.0,72.0,222.4,525.9,233.4,of the users. The website accessed receives proof of age but not the identity of the user and the 
+24,4,5,Calibri,11.0,72.0,236.9,525.6,248.0,provider of the age control solution knows the identity of the Internet user but does not know which 
+24,4,6,Calibri,11.0,72.0,251.4,525.6,262.5,sites they consult. This verification process raises several challenges on the social acceptation (need 
+24,4,7,Calibri,11.0,72.0,265.9,525.9,276.9,"to be easy to use), on data protection (should be handled by a third party), and on competition "
+24,4,8,Calibri,11.0,72.0,280.4,255.5,291.4,between providers. The latter calls for a 
+24,4,8,Calibri,11.0,256.0,280.4,361.4,291.4,European collaboration
+24,4,8,Calibri,11.0,361.4,280.4,525.8,291.4, on the matter to provide resources 
+24,4,9,Calibri,11.0,72.0,294.9,525.9,305.9,for a common and robust standard solution for the EU. According to the Digital Decade Eurobarometer 
+24,4,10,Calibri,11.0,72.0,309.4,525.9,320.5,"2025, French people strongly think that the action of the public authorities is urgent to protect children "
+24,4,11,Calibri,11.0,72.0,323.8,525.9,334.9,online regarding the negative impact of social media on children’s mental health (97% of French 
+24,4,12,Calibri,11.0,72.0,338.3,525.8,349.4,"people), cyberbullying and online harassment (96%) and to put in place age assurance mechanisms to "
+24,4,13,Calibri,11.0,72.0,352.8,258.0,363.9,restrict age-inappropriate content (95%). 
+24,5,0,Calibri,11.0,72.0,375.3,74.5,386.3, 
+24,6,0,Calibri,11.0,72.0,397.9,74.5,408.9, 
+24,6,1,Calibri,11.0,216.1,397.9,218.5,408.9, 
+24,7,0,Calibri,11.0,292.1,779.8,305.8,790.8,21 
+24,7,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+25,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+25,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+25,3,1,Calibri-Bold,26.0,72.0,121.2,240.9,147.3,smart greening 
+25,4,0,Calibri-Bold,11.0,72.0,164.4,525.4,175.5,France is a world leader in monitoring the environmental impact of its ICT sector and setting up 
+25,4,1,Calibri-Bold,11.0,72.0,178.9,189.1,190.0,measures to decrease it. 
+25,4,1,Calibri,11.0,190.1,178.9,525.9,190.0,"France designed monitoring tools to measure, anticipate and control the "
+25,4,2,Calibri,11.0,72.0,193.5,525.9,204.5,footprint of the ICT sector. It also contributes as a leader for green initiatives within the Digital Decade 
+25,4,3,Calibri,11.0,72.0,208.0,124.1,219.0,framework.
+25,4,3,Calibri-Bold,11.0,124.0,208.0,126.5,219.0, 
+25,5,0,Calibri-Bold,11.0,72.0,234.4,525.5,245.4,Half of the carbon footprint of the ICT sector in France is carried by equipment but the impact of 
+25,5,1,Calibri-Bold,11.0,72.0,247.9,192.1,258.9,datacentres grows rapidly
+25,5,1,Calibri,11.0,192.2,247.9,417.7,258.9,. Recent figures show that equipment represents 
+25,5,1,Calibri,11.0,418.5,247.9,525.8,258.9,50% of the ICT sector’s 
+25,5,2,Calibri,11.0,72.0,261.3,112.3,272.3,footprint
+25,5,2,Calibri,11.0,112.3,261.3,156.0,272.3, and that 
+25,5,2,Calibri,11.0,156.5,261.3,332.6,272.3,datacentres’ greenhouse gas emissions
+25,5,2,Calibri,11.0,332.7,261.3,525.8,272.3, made up 46% of the total driven by rising 
+25,5,3,Calibri,11.0,72.0,274.7,525.8,285.8,"electricity consumption and an extension of the perimeter of the studies, now including the storage "
+25,5,4,Calibri,11.0,72.0,288.2,474.7,299.2,of French data in datacentres abroad. Water consumption of the datacentres also grew by 
+25,5,4,Calibri,11.0,474.6,288.2,525.9,299.2,20% in one 
+25,5,5,Calibri,11.0,72.0,301.6,91.7,312.6,year
+25,5,5,Calibri,11.0,91.7,301.6,227.3,312.6,", for the second year in a row. "
+25,6,0,Calibri-Bold,11.0,72.0,327.0,385.6,338.1,The French population recycles only a small part of its ICT equipment
+25,6,0,Calibri,11.0,385.6,327.0,525.9,338.1,. French people tend to recycle 
+25,6,1,Calibri,11.0,72.0,340.5,525.6,351.5,"more their laptops and desktop devices (12.14% for laptops and tablets, 14.96% for desktops) than "
+25,6,2,Calibri,11.0,72.0,353.9,525.8,365.0,"the EU average (11.31% and 14.66%, respectively), but recycle less their mobile phones (7.83%, "
+25,6,3,Calibri,11.0,72.0,367.4,525.7,378.4,"10.93% for the EU). Moreover, only 15.56% of people considered the energy efficiency as important "
+25,6,4,Calibri,11.0,72.0,380.7,525.7,391.7,when purchasing ICT devices (EU: 19.35%) but the ecodesign of the device was considered important 
+25,6,5,Calibri,11.0,72.0,394.1,525.9,405.2,"by 12.99%, which is above the EU average (12.04%). However, those two eco-friendly criteria take on "
+25,6,6,Calibri,11.0,72.0,407.6,525.8,418.6,"less importance for the French consumer than the price, the performance, and the design of the ICT "
+25,6,7,Calibri,11.0,72.0,421.0,525.8,432.1,"device. One in five smartphones sold in France is second-hand, contributing to increasing the total "
+25,6,8,Calibri,11.0,72.0,434.5,190.4,445.5,lifespan of mobile phones.
+25,6,8,Calibri-Bold,11.0,190.2,434.5,192.7,445.5, 
+25,7,0,Calibri-Bold,11.0,72.0,459.9,329.1,470.9,France goes all out on green ICT in its adjusted roadmap
+25,7,0,Calibri,11.0,329.4,459.9,525.8,470.9,. Three measures were added to the Digital 
+25,7,1,Calibri,11.0,72.0,473.3,474.9,484.4,Decade roadmap and should reinforce even more the leadership of France on the matter. 
+25,8,0,SymbolMT,11.0,90.0,484.6,95.1,498.1,•
+25,8,0,ArialMT,11.0,95.1,485.7,98.1,498.0, 
+25,8,1,Calibri-Bold,11.0,108.0,487.4,494.9,498.4,Publication of the General Reference Framework for the Ecodesign of Digital Services
+25,8,1,Calibri,11.0,495.0,487.4,525.9,498.4,. It is a 
+25,8,2,Calibri,11.0,108.0,501.8,525.9,512.8,technical document intended for digital experts and professions wishing to implement an 
+25,8,3,Calibri,11.0,108.0,516.3,525.9,527.3,"ecodesign approach for a service (sites, applications, AI, software, API …). The 78 practical "
+25,8,4,Calibri,11.0,108.0,530.8,525.9,541.9,factsheets in the reference document detail the essential criteria to consider reducing the 
+25,8,5,Calibri,11.0,108.0,545.3,265.2,556.4,environmental impact of a service. 
+25,8,6,SymbolMT,11.0,90.0,557.6,95.1,571.0,•
+25,8,6,ArialMT,11.0,95.1,558.7,98.1,571.0, 
+25,8,7,Calibri-Bold,11.0,108.0,560.4,469.8,571.4,Publication of the first reference framework on the environmental impact of AI
+25,8,7,Calibri,11.0,470.1,560.4,525.9,571.4,. France has 
+25,8,8,Calibri,11.0,108.0,574.9,525.8,585.9,"produced the first reference framework on the environmental impact of AI, which resulted in "
+25,8,9,Calibri,11.0,108.0,589.4,525.9,600.5,the production of a norm from the French Association for Standardisation (AFNOR). The norm 
+25,8,10,Calibri,11.0,108.0,603.9,525.8,615.0,for frugal AI sets out calculation methodologies and good practices for measuring and 
+25,8,11,Calibri,11.0,108.0,618.3,525.9,629.4,"reducing the environmental impact of AI, and for communicating with common, fair, and "
+25,8,12,Calibri,11.0,108.0,632.9,185.5,643.9,verifiable claims. 
+25,8,13,SymbolMT,11.0,90.0,645.2,95.1,658.6,•
+25,8,13,ArialMT,11.0,95.1,646.3,98.1,658.6, 
+25,8,14,Calibri-Bold,11.0,108.0,648.0,381.4,659.0,Implementation of bonuses linked to the repairability index
+25,8,14,Calibri,11.0,381.5,648.0,525.9,659.0,. A bonus of EUR 20 will be paid 
+25,8,15,Calibri,11.0,108.0,662.5,525.9,673.5,"for the most repairable laptops, mobile phones and televisions, applicable to the sector of "
+25,8,16,Calibri,11.0,108.0,676.9,525.7,687.9,electrical and electronic equipment falling within the extended producer responsibility 
+25,8,17,Calibri,11.0,108.0,691.4,162.5,702.5,framework. 
+25,9,0,Calibri-Bold,11.0,72.0,717.9,525.8,729.0,"France is very active in the Digital Decade’s Best Practice Accelerator, in the Green and Digital "
+25,9,1,Calibri-Bold,11.0,72.0,732.5,102.9,743.5,cluster
+25,9,1,Calibri,11.0,103.0,732.5,525.7,743.5,". France is piloting, alongside Finland, the working group aimed at promoting the sharing of "
+25,9,2,Calibri,11.0,72.0,746.9,525.6,757.9,information relating to public policies on the environmental transition of digital technology. This 
+25,10,0,Calibri,11.0,292.1,779.8,305.8,790.8,22 
+25,10,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+26,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+26,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"working group aims to create a forum for inter-administration dialogue, bringing together specialists "
+26,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,in the environmental transition of digital technologies from the EU-27 in order to promote 
+26,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,communication around virtuous public policies and the sharing of common issues. The French 
+26,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,authorities have carried out extensive cooperation work with the French digital ecosystem to identify 
+26,3,4,Calibri,11.0,72.0,142.0,525.6,153.0,"instruments to reduce the environmental footprint of the sector, such as the general reference "
+26,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"framework for the ecodesign of digital services. They also shared two additional best practices. First, "
+26,3,6,Calibri,11.0,72.0,170.9,525.8,181.9,the Alt IMPACT Communication Campaign which aims at raising public awareness about the 
+26,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,"environmental impact of digital technologies and promote sobriety; and second, the development and "
+26,3,8,Calibri,11.0,72.0,199.9,525.9,211.0,availability of product category rules for environmental evaluation and labelling to ensure the 
+26,3,9,Calibri,11.0,72.0,214.3,450.8,225.4,comparability and robustness of environmental information provided to consumers. 
+26,4,0,Calibri,11.0,72.0,236.9,525.8,248.0,"France also participates in the Digital Skills cluster, presenting the measure on digital counsellors who "
+26,4,1,Calibri,11.0,72.0,251.4,346.6,262.5,are professionals that help people develop basic digital skills. 
+26,5,0,Calibri-Bold,11.0,72.0,277.9,424.8,288.9,Smart territories and cities and other initiatives use digital for more sobriety
+26,5,0,Calibri,11.0,425.3,277.9,492.4,288.9,. Based on the 
+26,5,0,Calibri,11.0,492.9,277.9,525.9,288.9,French 
+26,5,1,Calibri,11.0,72.0,291.3,191.9,302.3,model for smart territories
+26,5,1,Calibri,11.0,191.9,291.3,525.8,302.3,", several actions have been implemented on the ground such as the use of "
+26,5,2,Calibri,11.0,72.0,304.7,525.8,315.8,"frugal AI, energy consumption reduction with digital, or the use of low-energy digital solutions (some "
+26,5,3,Calibri,11.0,72.0,318.2,525.7,329.2,"application only require minimal technologies and performances). More generally, the deployment of "
+26,5,4,Calibri,11.0,72.0,331.6,525.9,342.6,Fibre in the whole country also participates to the reduction of energy use of the digital sector. 
+26,5,5,Calibri,11.0,72.0,345.0,525.9,356.1,"According to the Digital Decade Eurobarometer 2025, 72% of French people consider digital "
+26,5,6,Calibri,11.0,72.0,358.5,525.9,369.5,"technologies important to help fight climate change, while 80% of French respondents think that "
+26,5,7,Calibri,11.0,72.0,371.9,525.8,383.0,ensuring that digital technologies serve the green transition should be an important action for public 
+26,5,8,Calibri,11.0,72.0,385.4,128.4,396.4,authorities.  
+26,6,0,Calibri-Bold,11.0,77.7,407.2,245.7,418.3,2024 recommendation on green ICT: 
+26,6,0,Calibri,11.0,245.8,407.2,511.5,418.3,(i) Develop a coherent approach to twinning the digital and 
+26,6,1,Calibri,11.0,77.7,421.7,480.3,432.8,"green transitions. First, promote improvements in energy and material efficiency of digital "
+26,6,2,Calibri,11.0,77.7,436.3,504.5,447.3,"infrastructures, in particular datacentres. Second, support the development and deployment of "
+26,6,3,Calibri,11.0,77.7,450.8,489.7,461.8,"digital solutions that reduce the carbon footprint in other sectors, such as energy, transport, "
+26,6,4,Calibri,11.0,77.7,465.2,412.0,476.2,"buildings, and agriculture, including the uptake of such solutions by SMEs.  "
+26,7,0,Calibri,11.0,77.7,482.7,508.1,493.8,(ii) Demonstrate leadership and continue monitoring and quantifying the emission reductions of 
+26,7,1,Calibri,11.0,77.7,497.2,503.4,508.3,the deployed digital solutions in line with the relevant EU guidance and with the support of the 
+26,7,2,Calibri,11.0,77.7,511.7,475.6,522.8,"methodology developed by the European Green Digital Coalition, in view of future policy "
+26,7,3,Calibri,11.0,77.7,526.1,329.1,537.2,"development, as well as of attracting relevant financing. "
+26,8,0,Calibri-Bold,11.0,77.7,544.1,520.0,555.2,France addressed fully the recommendation by putting significant policy actions into place in 
+26,8,1,Calibri-Bold,11.0,77.7,557.6,105.4,568.7,2024. 
+26,8,2,Calibri,11.0,77.7,574.1,520.2,585.1,The three additional measures in the adjusted roadmap contribute to reduce the footprint of the 
+26,8,3,Calibri,11.0,77.7,587.5,520.3,598.5,ICT sector while reinforcing the leadership role of France in this domain. It adds up to three other 
+26,8,4,Calibri,11.0,77.7,600.9,305.1,612.0,measures on green ICT from the original roadmap. 
+26,8,5,Calibri,11.0,77.7,617.4,520.3,628.4,"Under the measure ‘2030 acceleration strategy for eco-responsible, competitive and sovereign "
+26,8,6,Calibri,11.0,77.7,631.9,519.9,642.9,"digital technology’ (from the original roadmap), the call for projects ‘ECONUM’ aims to bring out "
+26,8,7,Calibri,11.0,77.7,646.3,520.1,657.3,innovative projects to reduce the environmental footprint of digital technology. Several awards were 
+26,8,8,Calibri,11.0,77.7,660.8,155.8,671.9,selected in 2024. 
+26,9,0,Calibri,11.0,77.7,678.3,520.0,689.4,"To better monitor and quantify emission reductions, France will propose a dedicated reduction "
+26,9,1,Calibri,11.0,77.7,692.9,520.1,703.9,"trajectory for the ICT sector in its national low carbon strategy in 2025, associated with coherent "
+26,9,2,Calibri,11.0,77.7,707.3,181.5,718.3,measures and policies. 
+26,10,0,Calibri,11.0,77.7,724.8,520.1,735.8,"On reinforcing leadership, France participates to the Digital Decade’s best practice accelerator as a "
+26,10,1,Calibri,11.0,77.7,739.3,520.0,750.4,leader for sharing information on the digital environmental transition. The French national 
+26,10,2,Calibri,11.0,77.7,753.8,228.8,764.9,regulatory authority (ARCEP) also 
+26,10,2,Calibri,11.0,228.9,753.8,474.3,764.9,co-chairs the BEREC’s working group on ‘Sustainability’.
+26,10,2,Calibri,11.0,474.3,753.8,476.8,764.9, 
+26,11,0,Calibri,11.0,292.1,779.8,305.8,790.8,23 
+26,11,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+27,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+27,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,2,0,Calibri-Bold,26.0,72.0,87.0,471.8,113.1,Annex I – National roadmap analysis 
+27,4,0,Calibri-Bold,11.0,77.7,126.7,312.9,137.8,France’s national Digital Decade strategic roadmap  
+27,5,0,Calibri-Bold,11.0,77.7,144.3,520.2,155.3,"France submitted a fully revised national Digital Decade roadmap on 3 February 2025, containing "
+27,5,1,Calibri-Bold,11.0,77.7,158.7,313.8,169.7,six additional measures and revised trajectories
+27,5,1,Calibri,11.0,314.0,158.7,520.2,169.7,. The updates clearly align with the new 
+27,5,2,Calibri,11.0,77.7,173.2,520.3,184.2,"Commission’s priorities on AI, cybersecurity and green ICT. It includes reporting on the stakeholder "
+27,5,3,Calibri,11.0,77.7,187.7,520.3,198.7,"consultation. However, while the AI measures presented could partly contribute to the digitalisation "
+27,5,4,Calibri,11.0,77.7,202.2,363.2,213.3,"of SMEs, it lacks additional targeted measures to support them. "
+27,6,0,Calibri-Bold,11.0,77.7,219.6,496.4,230.7,The new roadmap addresses a substantial number of the 2024 roadmap recommendations. 
+27,7,0,SymbolMT,11.0,95.7,235.0,100.7,248.4,
+27,7,0,ArialMT,11.0,100.7,236.1,103.8,248.4, 
+27,7,1,Calibri-Bold,11.0,113.7,237.8,520.0,248.8,"Provide a target and trajectory for edge node, design a trajectory for unicorns, and "
+27,7,2,Calibri-Bold,11.0,113.7,252.3,265.7,263.3,formalise the trajectory for FTTP. 
+27,7,2,Calibri,11.0,265.7,252.3,520.2,263.3,The new roadmap now includes a trajectory for unicorns 
+27,7,3,Calibri,11.0,113.7,266.8,520.2,277.8,"and while not presented in the roadmap, the VHCN trajectory is still considered identical to "
+27,7,4,Calibri,11.0,113.7,281.2,520.3,292.2,the FTTP one. France argues that trajectories for edge nodes (as well as for semiconductor 
+27,7,5,Calibri,11.0,113.7,295.7,520.3,306.8,and quantum) are better placed at EU level and therefore does not present any national 
+27,7,6,Calibri,11.0,113.7,310.2,169.8,321.3,trajectories. 
+27,7,7,SymbolMT,11.0,95.7,322.6,100.7,336.0,
+27,7,7,ArialMT,11.0,100.7,323.7,103.8,336.0, 
+27,7,8,Calibri-Bold,11.0,113.7,325.4,520.2,336.4,Consider aligning the level of ambition of the targets for the uptake of three technologies 
+27,7,9,Calibri-Bold,11.0,113.7,339.8,383.5,350.8,"by enterprises (AI, cloud, data analytics) to the EU’s targets."
+27,7,9,Calibri,11.0,383.5,339.8,520.3,350.8, France has revised downward 
+27,7,10,Calibri,11.0,113.7,354.3,520.1,365.3,"the target on adoption by enterprises of either AI, cloud or data analytics to 65%, arguing it "
+27,7,11,Calibri,11.0,113.7,368.8,520.3,379.9,"is a more realistic target. While it could be justified by a modest starting point, it has a heavy "
+27,7,12,Calibri,11.0,113.7,383.3,520.3,394.4,impact on reaching the target of 75% at the EU level by 2030. Individual trajectories for the 
+27,7,13,Calibri,11.0,113.7,397.7,269.7,408.8,three technologies were removed. 
+27,7,14,SymbolMT,11.0,95.7,410.1,100.7,423.5,
+27,7,14,ArialMT,11.0,100.7,411.2,103.8,423.5, 
+27,7,15,Calibri-Bold,11.0,113.7,412.9,520.0,423.9,"Strengthen the measures contributing to targets that are the most difficult to achieve, "
+27,7,16,Calibri-Bold,11.0,113.7,427.4,372.6,438.4,especially on the skills and digitalisation of enterprises.
+27,7,16,Calibri,11.0,372.7,427.4,520.3,438.4, Two new measures on AI were 
+27,7,17,Calibri,11.0,113.7,441.8,368.1,452.8,added for adoption by enterprises. None on digital skills. 
+27,7,18,SymbolMT,11.0,95.7,454.1,100.7,467.6,
+27,7,18,ArialMT,11.0,100.7,455.2,103.8,467.5, 
+27,7,19,Calibri-Bold,11.0,113.7,456.9,520.3,467.9,"Review the budget description of all measures presented, highlighting EU funding sources "
+27,7,20,Calibri-Bold,11.0,113.7,471.4,336.6,482.5,such as the Recovery and Resilience Facility (RRF).
+27,7,20,Calibri,11.0,336.7,471.4,520.2,482.5, The measure ‘Digital Health Acceleration 
+27,7,21,Calibri,11.0,113.7,485.9,520.2,497.0,Strategy Programme’ saw its budget revised upward from EUR 718 m to 750 m. It is not 
+27,7,22,Calibri,11.0,113.7,500.3,520.2,511.4,clear if the EU funding is reported for each measure since RRF contributes to funding France 
+27,7,23,Calibri,11.0,113.7,514.9,241.9,525.9,2030 strategies or the plan ‘
+27,7,23,Calibri-Italic,11.0,242.0,514.9,341.7,525.9,France très haut débit
+27,7,23,Calibri,11.0,341.8,514.9,520.2,525.9,’ and it does not appear as such in the 
+27,7,24,Calibri,11.0,113.7,529.4,159.2,540.4,roadmap. 
+27,7,25,SymbolMT,11.0,95.7,541.7,100.7,555.2,
+27,7,25,ArialMT,11.0,100.7,542.8,103.8,555.1, 
+27,7,26,Calibri-Bold,11.0,113.7,544.5,520.0,555.5,Provide more information on the implementation of digital rights and principles (and 
+27,7,27,Calibri-Bold,11.0,113.7,558.9,517.9,570.0,"Digital Decade general objectives), including what national measures contribute to it."
+27,7,27,Calibri,11.0,517.8,558.9,520.3,570.0, 
+27,7,28,Calibri,11.0,113.7,573.5,520.0,584.5,"While a systematic contribution to the digital rights and principles was not carried out, the "
+27,7,29,Calibri,11.0,113.7,588.0,520.3,599.0,roadmap clearly reinforces the contribution of France to the Digital Decade objectives of 
+27,7,30,Calibri,11.0,113.7,602.5,241.9,613.5,green ICT and cybersecurity. 
+27,7,31,SymbolMT,11.0,95.7,614.7,100.7,628.2,
+27,7,31,ArialMT,11.0,100.7,615.8,103.8,628.1, 
+27,7,32,Calibri-Bold,11.0,113.7,617.5,403.0,628.5,Report on the consultation of stakeholders in the roadmap.
+27,7,32,Calibri,11.0,403.1,617.5,520.3,628.5, The new roadmap now 
+27,7,33,Calibri,11.0,113.7,632.0,343.8,643.1,includes reporting on the stakeholder consultation. 
+27,8,0,Calibri,11.0,292.1,779.8,305.8,790.8,24 
+27,8,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+28,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+28,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,2,0,Calibri-Bold,11.0,190.1,84.5,401.9,95.5,Measures and budget in the national roadmap
+28,2,0,Calibri,7.0,401.7,83.6,405.3,90.6,6
+28,2,0,Calibri-Bold,11.0,405.2,84.5,407.7,95.5, 
+28,4,0,Calibri,11.0,77.7,326.3,520.3,337.4,"The revised roadmap continues to prioritise semiconductors, connectivity, and e-Health. It is "
+28,4,1,Calibri,11.0,77.7,340.8,520.3,351.9,"composed of 33 measures with a budget of EUR 18.6 bn, comprising EUR 11.1 bn from public "
+28,4,2,Calibri,11.0,77.7,355.2,520.3,366.3,budgets (equivalent to 0.38% of GDP). It covers all of the Digital Decade’s objectives such as a 
+28,4,3,Calibri,11.0,77.7,369.8,516.8,380.8,"human-centred digital space, resilience and security, sovereignty, green, and protection of society. "
+28,4,4,Calibri-Bold,26.0,72.0,390.8,77.9,416.9, 
+28,4,5,Calibri-Bold,26.0,72.0,422.6,529.3,448.7,Annex II – Factsheet on multi-country 
+28,4,6,Calibri-Bold,26.0,72.0,456.8,383.2,482.9,projects (MCPs) and funding 
+28,5,0,Calibri-Bold,11.0,77.7,496.5,267.4,507.5,Multi-country projects and best practices 
+28,6,0,Calibri,11.0,77.7,514.0,535.5,525.1,France is hosting the Alliance for Language Technologies EDIC (ALT-EDIC) which gathers 26 members 
+28,6,1,Calibri,11.0,77.7,528.5,535.5,539.6,"states and is candidate to host two more EDICs in the making, in the area of agri-food and digital "
+28,6,2,Calibri,11.0,77.7,542.9,535.3,554.0,"commons. France is also a member of the Local Digital Twins towards the CitiVERSE EDIC. In addition, "
+28,6,3,Calibri,11.0,77.7,557.5,535.2,568.5,France is working towards setting up an EDIC in the area of cancer imaging. France is directly 
+28,6,4,Calibri,11.0,77.7,572.0,535.5,583.1,participating in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in 
+28,6,5,Calibri,11.0,77.7,586.5,535.5,597.6,the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). It is also a participating state 
+28,6,6,Calibri,11.0,77.7,601.1,339.2,612.1,in the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+28,7,0,Calibri,11.0,77.7,618.5,535.5,629.5,"France has contributed to the Best Practice Accelerator, leading the GreenIT cluster by sharing three "
+28,7,1,Calibri,11.0,77.7,633.0,535.5,644.0,"best practices (General Policy Framework for the Ecodesign of Digital Services, Alt IMPACT "
+28,7,2,Calibri,11.0,77.7,647.5,535.3,658.5,"Communication Campaign, and Development and availability of Product Category Rules for "
+28,7,3,Calibri,11.0,77.7,662.0,535.5,673.1,environmental evaluation and labelling). France also shared one best practice (Digital advisors) in the 
+28,7,4,Calibri,11.0,77.7,676.4,167.0,687.5,Digital Skills cluster. 
+28,8,0,Calibri,11.0,216.1,710.0,218.5,721.1, 
+28,8,1,Calibri,6.5,72.0,722.6,75.3,729.1,6
+28,8,1,Calibri,10.0,75.3,723.5,77.5,733.4, 
+28,8,1,Calibri,9.0,77.9,724.2,524.9,733.2,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+28,8,2,Calibri,9.0,72.0,736.3,525.3,745.3,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+28,8,3,Calibri,9.0,72.0,748.2,525.1,757.2,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+28,8,4,Calibri,9.0,72.0,760.0,238.5,769.0,States followed the guidance was carried out.
+28,8,4,Calibri,10.0,238.7,759.3,241.0,769.3, 
+28,9,0,Calibri,11.0,292.1,779.8,305.8,790.8,25 
+28,9,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+29,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+29,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+29,3,0,Calibri-Bold,11.0,77.7,106.9,257.4,118.0,EU funding for digital policies in France 
+29,5,0,Calibri,11.0,77.7,124.5,471.9,135.5,France allocates 22% of its total recovery and resilience plan to digital (EUR 8.1 billion)
+29,5,0,Calibri,7.0,471.9,123.6,475.5,130.5,7
+29,5,0,Calibri,11.0,475.4,124.5,535.5,135.5,". In addition, "
+29,5,1,Calibri,11.0,77.7,139.9,535.4,151.0,"under cohesion policy, EUR 1.9 billion (representing 11% of the country’s total cohesion policy funding), "
+29,5,2,Calibri,11.0,77.7,155.3,328.9,166.3,is dedicated to advancing France’s digital transformation
+29,5,2,Calibri,7.0,329.0,154.4,332.5,161.4,8
+29,5,2,Calibri,11.0,332.5,155.3,535.5,166.3,". According to JRC estimates, EUR 8.95 billion "
+29,5,3,Calibri,11.0,77.7,170.8,535.5,181.8,directly contribute to achieving Digital Decade targets (of which EUR 7.73 billion comes from the RRF 
+29,5,4,Calibri,11.0,77.7,186.3,309.6,197.3,and EUR 1.22 billion from cohesion policy funding)
+29,5,4,Calibri,7.0,309.7,185.4,313.2,192.3,9
+29,5,4,Calibri,11.0,313.1,186.3,535.5,197.3,.The largest digital measure of the recovery and 
+29,5,5,Calibri,11.0,77.7,201.6,535.5,212.7,resilience plan is targeted to the modernisation of the public health sector (EUR 2 billion). The measure 
+29,5,6,Calibri,11.0,77.7,217.1,535.4,228.1,‘Innovating for the resilience of our business models’ (EUR 1.8 billion) supports R&D in key digital 
+29,5,7,Calibri,11.0,77.7,232.6,535.5,243.6,"technologies such as 5G, cloud, quantum, cybersecurity and digital skills. The high-speed broadband "
+29,5,8,Calibri,11.0,77.7,248.0,102.8,259.0,plan (
+29,5,8,Calibri-Italic,11.0,102.9,248.0,206.6,259.0,‘France Très Haut Débit
+29,5,8,Calibri,11.0,206.7,248.0,390.0,259.0,’) receives EUR 240 million from the RRF. 
+29,6,0,Calibri,11.0,77.7,266.4,465.7,277.5,The Digital Decade-relevant budget from cohesion policy funds focuses on enterprises. 
+29,7,0,Calibri,11.0,72.0,285.4,74.5,296.5, 
+29,8,0,Calibri,11.0,72.0,307.9,74.5,318.9, 
+29,8,1,Calibri,11.0,216.1,307.9,218.5,318.9, 
+29,9,0,Calibri,11.0,216.1,663.8,218.5,674.9, 
+29,10,0,Calibri,6.0,72.0,676.7,75.1,682.7,7
+29,10,0,Calibri,9.0,75.0,677.0,525.0,686.0, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+29,10,1,Calibri,9.0,72.0,688.9,314.9,697.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+29,11,0,Calibri,6.0,72.0,700.5,75.1,706.5,8
+29,11,0,Calibri,9.0,75.0,700.8,523.3,709.8, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+29,11,1,Calibri,9.0,72.0,712.6,525.0,721.6,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+29,11,2,Calibri,9.0,72.0,724.5,316.5,733.5,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+29,12,0,Calibri,6.0,72.0,736.0,75.1,742.0,9
+29,12,0,Calibri,9.0,75.0,736.3,525.4,745.3," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+29,12,1,Calibri,9.0,72.0,748.2,525.4,757.2,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 "
+29,12,2,Calibri,9.0,72.0,760.0,120.3,769.0,March 2025. 
+29,13,0,Calibri,11.0,292.1,779.8,305.8,790.8,26 
+29,13,1,Calibri,11.0,72.0,794.3,74.5,805.3, 
+30,0,0,Calibri,20.0,90.0,28.3,149.3,48.3,France 
+30,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,2,0,Calibri-Bold,26.0,72.0,87.0,491.4,113.1,Annex III – Digital Rights and Principles
+30,2,0,Calibri,17.0,491.5,84.8,508.8,101.8,10
+30,2,0,Calibri-Bold,26.0,508.8,87.0,514.7,113.1, 
+30,6,0,Calibri,11.0,72.0,341.0,84.6,352.0,     
+30,6,1,Calibri,11.0,502.1,341.0,514.5,352.0,     
+30,7,0,Calibri-Bold,11.0,72.0,364.4,252.6,375.4,Activity on Digital Rights and Principles 
+30,7,0,Calibri,11.0,252.8,364.4,293.7,375.4,(figure 1)
+30,7,0,Calibri-Bold,11.0,293.7,364.4,298.6,375.4,  
+30,8,0,Calibri-Bold,11.0,72.0,386.8,435.3,397.9,France has been relatively active in implementing digital rights and principles
+30,8,0,Calibri,11.0,435.7,386.8,525.9,397.9,", with 53 initiatives "
+30,8,1,Calibri,11.0,72.0,401.3,396.9,412.4,overall. No information is available on new initiatives launched in 2024. 
+30,8,1,Calibri-Bold,11.0,397.5,401.3,525.9,412.4,France is most active in the 
+30,8,2,Calibri-Bold,11.0,72.0,415.9,285.7,426.9,area of Participation in the digital public space
+30,8,2,Calibri,11.0,285.9,415.9,525.8,426.9," (IV). There is room for improvement, especially with "
+30,8,3,Calibri,11.0,72.0,430.3,439.6,441.3,regards to Digital public services online (II) where less activity has been identified. 
+30,9,0,Calibri-Bold,11.0,72.0,452.8,228.4,463.9,Impact of Digital Rights Initiatives 
+30,9,0,Calibri,11.0,228.4,452.8,271.7,463.9,(figure 2) 
+30,10,0,Calibri,11.0,72.0,475.3,525.8,486.3,"Quantitative impact indicators, developed by the support study, illustrate the level of implementation "
+30,10,1,Calibri,11.0,72.0,489.8,525.6,500.8,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+30,10,2,Calibri,11.0,72.0,504.3,525.8,515.3,measures implemented by key stakeholders in France (mainly national government) and how these 
+30,10,3,Calibri,11.0,72.0,518.7,187.3,529.8,are perceived by citizens. 
+30,11,0,Calibri,11.0,72.0,541.3,200.9,552.3,The indicators suggest that 
+30,11,0,Calibri-Bold,11.0,203.0,541.3,525.6,552.3,France is most successful in implementing commitments related to 
+30,11,1,Calibri-Bold,11.0,72.0,555.8,337.0,566.8,Putting people at the centre of the digital transformation
+30,11,1,Calibri,11.0,337.1,555.8,525.8,566.8, (I). France should review and strengthen 
+30,11,2,Calibri,11.0,72.0,570.2,525.7,581.3,efforts in areas where the impact of digital rights initiatives appears to be limited despite relative 
+30,11,3,Calibri,11.0,72.0,584.7,337.5,595.8,"activity, notably on Safety, security and empowerment (V). "
+30,12,0,Calibri,11.0,72.0,607.3,358.5,618.3,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+30,12,0,Calibri-Bold,11.0,359.6,607.3,525.7,618.3,37% of citizens in France think that 
+30,12,1,Calibri-Bold,11.0,72.0,621.7,252.9,632.7,the EU protects their digital rights well 
+30,12,1,Calibri,11.0,253.6,621.7,525.7,632.7,(a 2% decrease since 2024). This is below the EU average of 
+30,12,2,Calibri,11.0,72.0,636.2,525.8,647.3,"44%. Citizens are particularly confident about getting basic and advanced digital education, training "
+30,12,3,Calibri,11.0,72.0,650.7,525.5,661.8,"and skills (63%, above the EU average of 60%). They are most worried that their right to a safe digital "
+30,12,4,Calibri,11.0,72.0,665.3,525.8,676.3,"environment and content for children and young people is not well protected (47%, below EU average "
+30,12,5,Calibri,11.0,72.0,679.7,111.2,690.7,of 48%). 
+30,13,0,Calibri,11.0,216.1,733.7,218.5,744.7, 
+30,13,1,Calibri,6.5,72.0,746.2,78.5,752.7,10
+30,13,1,Calibri,10.0,78.5,747.1,80.8,757.0, 
+30,13,1,Calibri,9.0,81.5,747.8,525.2,756.8,"Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+30,13,2,Calibri,9.0,72.0,760.0,106.3,769.0,available 
+30,13,2,Calibri,9.0,106.3,760.0,123.2,769.0,here
+30,13,2,Calibri,9.0,123.1,760.0,378.9,769.0,". For a more detailed country factsheet accompanying the study, click "
+30,13,2,Calibri,9.0,379.1,760.0,396.0,769.0,here
+30,13,2,Calibri,10.0,396.1,759.3,398.3,769.3, 
+30,14,0,Calibri,11.0,292.1,779.8,305.8,790.8,27 
+30,14,1,Calibri,11.0,72.0,794.3,74.5,805.3, 

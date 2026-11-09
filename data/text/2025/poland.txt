@@ -1,0 +1,1812 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 21/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+
+       Poland Poland
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 6
+
+     Connectivity infrastructure .............................................................................................................. 6
+
+    Semiconductors ............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 9
+
+    Quantum technologies .................................................................................................................... 9
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ....................................................................................... 10
+
+    Take up of cloud/AI/data analytics ................................................................................................ 11
+
+     Unicorns, scale-ups and start-ups .................................................................................................. 13
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 14
+
+Protecting and empowering EU people and society ............................................................................. 18
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 18
+
+     Equipping people with digital skills ............................................................................................... 18         Poland
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 22
+
+  Building a safe and human-centric digital environment and preserving our democracy ................... 25
+
+Leveraging digital transformation for a smart greening ....................................................................... 28
+
+Annex I – National roadmap analysis .................................................................................................... 30
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 32
+
+Annex III – Digital Rights and Principles ................................................................................................ 33 Poland
+
+Executive summary
+
+Poland has well-developed fixed connectivity infrastructure but continues to be affected by a low
+level of digital skills among its population and limited adoption of advanced technologies by
+companies. The country sees cybersecurity, advancing breakthrough technologies such as quantum
+computing and artificial intelligence and development of capacity in semiconductors manufacturing
+as important areas for development.
+
+Poland shows a moderate level of ambition in its contribution to the Digital Decade having set 14
+national targets, 71% of which are aligned with the EU 2030 targets. The country is following its
+trajectories moderately well with 63% of them being on track (considering 2024 trajectories defined
+for 8 KPIs out of 8 analysed). Poland addressed 55% of the 11 recommendations issued by the
+Commission in 2024 by making some changes through new measures.
+
+
+                                                                                                                                                     Digital Decade
+                                                                     Poland                         EU
+                                                                                                                                        target by 2030
+     Digital Decade KPI (1)          2024DESI       2025DESI      Annual     National                Annual                                                                                                   trajectory   DESI 2025                PL      EU
+                                                           (year       (year     progress                             progress
+                                                                                 2024 (3)
+                                                      2023)       2024)
+
+  Fixed Very High Capacity Network (VHCN) coverage      81.1%      83.8%      3.4%       84.1%      82.5%      4.9%     100.0%   100%
+
+  Fibre to the Premises (FTTP) coverage                 75.4%      77.8%      3.1%       84.1%      69.2%      8.4%     100.0%         -
+
+  Overall 5G coverage                                71.9%      89.3%      24.1%      98.3%      94.3%      5.9%     100.0%   100%
+
+  Edge Nodes (estimate)                               42         82       95.2%        11        2257      90.5%      370     10000
+
+ SMEs with at least a basic level of digital intensity (2)           -        69.0%      6.4%              -        72.9%      2.8%     90.0%    90%
+
+  Cloud                                            46.5%             -                -                 -                 -                 -       75.0%    75%
+
+  Artificial Intelligence                                3.7%       5.9%      60.8%       4.3%       13.5%      67.2%     10.0%    75%
+
+  Data analytics                                     19.3%             -                -                 -                 -                 -       35.0%    75%
+
+  AI or Cloud or Data analytics                         51.8%             -                -                 -                 -                 -               -      75%
+
+  Unicorns                                          10         11       10.0%        13         286       4.4%       20      500
+
+  At least basic digital skills                            44.3%             -                -                 -                 -                 -       80.0%    80%
+
+  ICT specialists                                      4.3%       4.5%       4.7%       4.3%       5.0%       4.2%      6.0%    ~10%
+
+  eID scheme notification                                               Yes
+
+
+  Digital public services for citizens                         63.7        70.7      10.9%        81.5         82.3       3.6%      100.0     100
+
+
+  Digital public services for businesses                      72.9        85.0      16.6%        87.4         86.2       0.9%      100.0     100
+
+  Access to e-Health records                               90.0        91.8       2.0%        88.0         82.7       4.5%      100.0     100
+
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) DESI 2025 reports Version 4 of the Digital Intensity Index, which is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+  calculation of the annual progress. It is not comparable to the national trajectory, which is based on Version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+
+
+According to the special Eurobarometer on ‘the Digital Decade’ 2025, 78% of Polish citizens consider
+that the digitalisation of daily public and private services is making their lives easier. Concerning the
+action of the public authorities, 84% consider it important to counter and mitigate the issue of fake
+news and disinformation online. And regarding competitiveness, 84% consider it important to ensure
+that European companies can grow and become ‘European Champions’ able to compete globally.
+
+
+
+
+                                        1 Poland
+
+
+A competitive, sovereign, and resilient EU based on technological leadership
+
+The country’s fixed connectivity infrastructure is well-developed, but 5G deployment has been delayed
+due to the late allocation of pioneer bands: 3.4-3.8 GHz was allocated in December 2023 and the
+auction for 700 MHz was completed in March 2025. Poland has come significantly closer to the EU
+average in terms of the digital intensity of enterprises, but it still scores below the EU average in this
+respect as well as in the uptake of more advanced technologies by companies. However, it is making
+progress in areas like quantum computing - first quantum computer should be installed in 2025 – and
+AI, where the Polish large language model (PLLuM) became available in February 2025 and the country
+is a part of consortium to host one of the AI Factories. Finally, cybersecurity is one of the key priorities
+for the Polish administration, which deploys measures to enhance  this at different levels of
+government and to improve the relevant skills of citizens. However, the NIS2 Directive has yet to be
+transposed into the Polish legal system.
+
+Protecting and empowering EU people and society
+
+Regarding at least basic digital skills, the distance to the national 2030 target remains significant and
+the low level of digital skills among older and less educated people persist. The lack of ICT specialists
+is one of the barriers to the digitalisation of enterprises in general, as well as to the uptake of more
+advanced technologies, and for ensuring protection against cyberattacks. Poland’s goal of ensuring
+that ICT specialists represent 6% of the workforce by 2030, is lower than the EU target. On the other
+hand, Poland has made progress in digitalising public services, and has seen growth in the use of eID
+and in access to medical records online. However, the country still needs to address issues such as
+disinformation, improve coordination between state actors in this area, and enhance people’s critical
+skills to deal with online threats.
+
+Leveraging digital transformation for a smart greening
+
+Polish authorities recognise the link between the digital and green transformations, with the draft
+State Digitalisation Strategy aiming to promote an environmentally friendly ICT sector and digital
+ecology. However, the country’s digital sector energy consumption is expected to grow rapidly, driven
+by data centre needs. Measures to ensure the availability and reuse of data on energy sector activities
+are yet in planning stage. Moreover, recycling of ICT equipment is low despite Poles prioritising energy
+efficiency when buying ICT devices. The country has, however, implemented measures to promote the
+use of digital technologies to better protect the environment, including some Smart Cities solutions.
+The draft State Digitalisation Strategy includes actions aimed at raising citizens’ awareness of the
+environmental impact of ICT and promoting basic knowledge of digital sustainability.
+
+National Digital Decade strategic roadmap
+
+Poland formally adopted its national Digital Decade roadmap on 22 October 2024. As a result, the
+previous country report, which was published in July 2024, relied on the draft roadmap, which was
+shared with the Commission on 30 January 2024. The differences between the draft and the formally
+endorsed document were not substantial. The Polish roadmap is composed of 55 measures with a
+budget of EUR 12.4 billion, equivalent to 1.47% of GDP. Polish authorities expressed their intention to
+adjust the national roadmap in line with Article 8 (3) of the decision establishing the Digital Decade
+Policy Programme, but at the time of writing, neither the formally endorsed document, nor the draft
+version, has been shared with the Commission.
+
+
+
+                                        2 Poland
+
+
+
+In 2024, Poland was working on a comprehensive State Digitalisation Strategy to outline priorities for
+the digital transformation of Poland until 2035 and provide a basis for public spendings in this area.
+The implementation of the strategy, whose adoption is expected by mid-2025, will be aligned with
+various existing and upcoming documents, both at national and EU level, to ensure a comprehensive
+and coordinated approach to digital development.
+
+Funding & projects for digital
+
+Poland allocates 21% of its total recovery and resilience plan to digital (EUR 7.5 billion)1. In addition,
+under cohesion policy, EUR 5.7 billion, representing 8% of the country’s total cohesion policy funding,
+is dedicated to advancing Poland’s digital transformation2. Poland is a member of the Alliance for
+Language Technologies EDIC and of the EUROPEUM EDIC. Poland is directly participating in the IPCEI
+on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in the IPCEI on Next
+Generation Cloud Infrastructure and Services (IPCEI-CIS). Poland is also a participating state in the
+EuroHPC Joint Undertaking (JU) and in the Chips JU.
+
+Poland has not yet presented any projects in the framework of Digital Decade’s Best Practice
+Accelerator3.
+
+Digital Rights and Principles
+
+According to a support study, Poland has been relatively active in implementing the European
+Declaration on Digital Rights and Principles, with 62 initiatives overall and 6 new initiatives launched
+in 2024. Poland is most active in the area of digital education, training and skills. Less activity has been
+identified with regards to a fair digital environment and sustainability. Measures in the area of freedom
+of choice appear to have most impact on the ground, in contrast to those addressing participation in
+the digital public space.
+
+ Recommendations
+
+   -   Basic digital skills: Increase the attractiveness of STEM disciplines at school to raise interest in
+      taking up ICT-related studies and careers, including by girls and women. Strengthen the
+     measures focused on social groups with lower digital skills, such as older adults, inhabitants of
+       rural areas, and people with disabilities.
+   -   ICT specialists: Take measures to increase the number of ICT specialists (e.g. improved training
+     and reskilling options; incentive schemes to attract new / retain current ICT specialists, including
+       specialists from other countries) and continue promoting ICT studies and careers to women and
+        girls.
+   -   SMEs: Enhance digitalisation of SMEs, including by directing existing support to those who lag
+       in digitalisation and improving their awareness of the benefits offered by digitalisation and of
+      the available support options.
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the
+Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+
+                                        3Poland
+
+
+
+-   Cybersecurity: Continue efforts in cybersecurity to address evolving threats, particularly for
+    enterprises and administration.
+-    Artificial Intelligence: Create an AI friendly ecosystem by stimulating public and private
+    investments in research and innovation, raising awareness among entrepreneurs, increasing
+    access to specialised knowledge and computing power, and implementing consistent legal
+   frameworks and standards.
+-   5G: Encourage operators to speed up the deployment of 5G stand-alone core networks.
+-   Cloud: Encourage the adoption of cloud technologies by businesses, focusing on sovereign
+   European solutions.
+-   Unicorns: Continue to improve the business environment and access to finance for digital start-
+    ups, provide more tailored support to address the challenges for scaling business.
+
+-   Semiconductors and digital innovation: Invest in the development and manufacturing of critical
+    technologies in the areas of digital and deep tech.
+
+-   Green: Develop a system for monitoring and quantifying the emission reductions of the digital
+    solutions deployed.
+
+
+
+
+
+                                      4 Poland
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Competitiveness is important for Polish policymakers, but Poland’s claim to technological leadership
+is limited and its potential appears unfulfilled. Significant resources have been invested in projects to
+support the development and modernisation of enterprises, and Poland in 2024 has come closer to
+the EU average in terms of at least basic level of digital intensity of SMEs, but country still scores below
+the EU average in the uptake of more advanced technologies by companies.
+
+Difficulties in adopting digital technologies may be partially due to the composition of Poland’s
+enterprises’ sector. SMEs account for approximately 99.8% of enterprises while large enterprises –
+which are much more likely to adopt digital technologies – make up only 0.2%. The Polish ICT sector
+represented 4.03% of gross value added in 20224. That was an increase on 2021 but still lower than
+the EU average of 5.46%. This suggests some improvement but also overall under-development. R&D
+in the ICT sector represented 32.33% of businesses’ total R&D expenditure and 37.18% of total R&D
+personnel.
+
+Poland’s fixed connectivity infrastructure is developing rather well and its coverage rate (including
+in rural areas) is higher than the EU average. However, deployment of 5G remains an issue. Due to
+delays in allocating 5G pioneer bands, only one of these bands – 3.4-3.8 GHz – has been awarded to
+the operators so far. The allocation of frequency reservations in the 700 MHz band is planned for early
+June 2025.
+
+Poland is actively participating in the development of quantum computing (one of the six EU
+quantum computers will be installed in Poland in 2025) and quantum communication. It has also
+developed niche expertise  in areas such as design of integrated  circuits and photonics  for
+microelectronics. However, its plans to develop manufacturing capacities stalled after Intel decided to
+pause its project to create production facility in Poland.
+
+Poland attaches great importance to AI. Developing this technology is one of the goals of the draft
+State Digitalisation Strategy (Strategia Cyfryzacji Państwa). The Council of Artificial Intelligence Funds,
+which will be responsible for providing opinions on AI policy, as well as on financing and developing AI
+research in Poland should be established by the end of June 2025. Poland will host one of the EU AI
+factories and has developed its own large language model PLLuM, which will be used to improve digital
+public services.
+
+Cybersecurity and resilience are high on Poland’s political agenda. Projects to raise awareness,
+enhance skills and strengthen the protection of the public administration are being implemented or
+launched.
+
+According to the 2025 Eurobarometer5, 82% of Poles believe that building efficient and secure digital
+infrastructures and data processing facilities should be a priority for the public authorities.
+
+
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note
+accompanying the State of the Digital Decade report 2025.
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5 Poland
+
+
+Building technological leadership: digital infrastructure and technologies
+
+Poland has made progress in developing its connectivity infrastructure. Its coverage rates for Very
+High-Capacity Networks (VHCN) and Fiber-To-The-Premises (FTTP) are higher than the EU averages.
+However, Poland’s growth rates for these technologies are lagging behind the EU’s and its 5G coverage
+remains below the EU average (despite rapid growth in 2024). This is partly because the award of 5G
+pioneer bands was delayed and, although it did start in 2023, has not yet been completed. However,
+the European Electronic Communications Code was finally transposed into national law in 2024, thus
+providing a consistent legal framework and certainty for operators and users.
+
+Poland is also making progress in other areas such as quantum technologies, where it is actively
+participating in EU projects and developing its own capabilities. However, the development of edge
+nodes does not seem to be receiving much governmental support and there appear to be no measures
+in place to support their growth. Poland is working to develop its semiconductor industry but faces
+challenges such as limited manufacturing capacity.
+
+Connectivity infrastructure
+
+Poland has 83.84% VHCN coverage (the 2030 national target is 100%) following a 3.4% increase in
+2024 and is above the EU average of 82.49%. Poland is on track according to its national trajectory.
+However, Poland’s growth rate of 3.4% trailed the EU’s 4.9%. Poland’s VHCN coverage for households
+in rural areas was 66.49% in 2024 (above the EU’s 61.89%). Poland’s growth rate of 16.3% was faster
+than the EU’s 11.3%.
+
+Poland has 77.79% FTTP coverage (the 2030 national target is 100%) after a 3.1% increase in 2024
+and is above the EU average of 69.24%. Poland is lagging behind its national trajectory. Moreover,
+Poland’s 3.1% growth rate was lower than the EU’s 8.4%. Poland’s FTTP coverage for rural areas was
+65.64% in 2024 (higher than the EU’s 58.78%). Poland’s 16.5% growth rate was faster than the EU’s
+11.9%.
+
+Poland’s 9.11% share of fixed broadband subscriptions ≥ 1 Gbps in 2024 was much lower than the
+EU average of 22.25%. However, Poland’s growth rate between 2023 and 2024 of 72.2% was higher
+than the EU’s 20.5%.
+
+Poland has 89.28% 5G coverage (the 2030 national target is 100%) after a 24.1% increase in 2024 but
+is still below the EU average of 94.35%. Poland is lagging behind its national trajectory. However,
+Poland’s growth rate of 24.1% was significantly higher than the EU’s 6.0%. Poland’s 5G coverage for
+households in rural areas was 72.35% in 2024 (below the EU’s 79.57%), while its growth rate of 23.7%
+was more than double the EU’s 11.9%.
+
+Poland’s 5G SIM card share of the population was 32.6% in 2024 (below the EU’s 35.56%). Poland’s
+growth rate for this indicator of 37.6% was also lower than the EU’s 63.9%.
+
+Poland’s 5G coverage in the 3.4–3.8 GHz band grew significantly from 0.0% in 2023 to 60.2% in 2024
+but remained below the EU’s 67.72%. The coverage for rural areas grew from 0.0% to 17.38% but was
+still below the EU’s 25.98%. The assignment of harmonised spectrum in the 5G pioneer bands in Poland
+was 33.33% in both 2024 and 2025 (significantly lower than the EU’s 73.4% and 74.63% respectively).
+Poland did not grow in this area, while the EU grew by 1.7%.
+
+
+
+
+
+                                        6 Poland
+
+
+
+VHCN and FTTP
+
+Poland’s VHCN and FTTP targets remain at 100%, as per the national roadmap submitted in 2024. To
+improve fixed broadband network coverage in areas where access to high-speed internet is difficult,
+Poland has relied on investments under  its Recovery and Resilience Plan  - RRP (Krajowy Plan
+Odbudowy  i Zwiększania Odporności – KPO) and the European Funds for Digital Development
+(Fundusze Europejskie na Rozwój Cyfrowy – FERC).
+
+The Ministry of Digital Affairs states that some of the selected contractors withdrew from signing the
+contracts or resigned from their execution. This prompted a modification of the RRP in 2024 and a
+reduction in the target for additional households having broadband access (at least 100 Mbps) by mid-
+2026 from 931 000 to 814 000 additional households. The Ministry completed in April 2025 a fourth
+call for applications to ensure that this new target is achieved.
+
+There are no new interventions to be implemented beyond those already included in the national
+roadmap. However, the work to update the National Broadband Plan to cover 2026-2030 should start
+before summer 2025.
+
+The switching off of the copper networks (such as POTS, ISDN, HDSL, SDSL, ADSL) is at an early stage,
+and there is no planned or unconditional date for its shutdown. In December 2024, approximately
+1.3 million households were within the reach of the copper network without an alternative. About 0.6
+million of them were in areas with DOCSIS 3.X technology. The costs of migration are mostly borne by
+Orange Polska S.A., the operator of the copper network.
+
+There were no significant changes in the fixed internet access market in 2024. Orange Polska S.A.
+remains the market leader (with a share below 25%). The wholesale operators (e.g. Światłowód
+Inwestycje, Polski Światłowód Otwarty, Nexera and Fiberhost) also play an important role in developing
+regional telecommunications infrastructure.
+
+5G
+
+Poland’s 5G target remains 100% (as per the national roadmap submitted in 2024) and should be
+achieved by 2027. Coverage was below the EU average in 2024 but grew much faster in Poland than
+in the EU. Moreover, after a long delay, the award of 5G pioneer bands in Poland is now moving
+forward.
+
+In December 2023, the President of the Office of Electronic Communications (Urząd Komunikacji
+Elektronicznej – UKE) granted the rights to use spectrum in the 3.4-3.8 GHz band. This resulted in 60%
+of Polish households being within range of a 5G network using this pioneer band by the end of June
+2024.
+
+The auction to distribute another pioneer band – 700 MHz – was launched in November 2024. Four
+entities submitted initial bids by the deadline in late January 2025. The bidding was completed in
+March 2025. The allocation of frequency reservations in the 700 MHz band is planned for early June
+2025.
+
+In March 2024, the operators indicated (in reaction to the public consultation on the 26 GHz band
+opened by the Office of Electronic Communications) that the allocation of this band should not take
+place before 2026 due to the lack of availability of end devices operating in this band, as well as
+minimal availability of devices on the part of operators.
+
+
+
+
+                                        7 Poland
+
+
+
+The standalone 5G network was not commercially available in Poland in 2024, but operators conducted
+pilots, research and tests in this area. The conditions set in both procedures for spectrum-awarding
+will require the winning operators to cover 95% of main roads and railways and 99% of households in
+Poland with their 5G network.
+
+ 2024 recommendation on connectivity infrastructure: (i) Proceed with the allocation of remaining
+ 5G pioneer bands. (ii) Transpose the European Electronic Communications Code into national law.
+  (iii) Strengthen measures on 5G deployment, including those alongside the main transport corridors.
+  (iv) Ensure sufficient access of new players to spectrum for innovative business-to-business (B2B)
+ and business-to-consumer (B2C) applications and encourage operators to speed up the deployment
+ of 5G stand-alone core networks.
+
+ In 2024, Poland made some efforts to address the recommendations through new policy actions.
+ The auction  for one of the remaining 5G pioneer bands – 700 MHz – was launched  in
+ November 2024. Granting rights to use spectrum is expected before summer 2025. Due to lack of
+ interest on the part of operators, the 26 GHz band is not expected to be allocated before 2026. As
+ a part of the RRP’s reform aiming to improve the legislative environment for the development of
+ mobile networks by removing existing barriers to 5G deployment, the Electronic Communications
+ Law (transposing the European Electronic Communications Code into national law) was adopted in
+ July 2024 and entered into force in November 2024. The conditions for the 5G auctions are
+ conducive to 5G deployment (including alongside transport corridors) but no other measures have
+ been taken to speed up the deployment of 5G stand-alone core networks.
+
+Semiconductors
+
+Poland’s share of global microelectronics production value chains is minimal, but its semiconductor
+industry has potential to contribute to the European and global technology landscape. Poland has
+developed niche expertise in areas such as design of integrated circuits and photonics, supported by a
+skilled workforce and expanding research infrastructure.
+
+One example of such activity is the HyperPIC project by VIGO Photonics, which is funded under the
+Important  Project  of Common  European  Interest on  Microelectronics and Communication
+Technologies (IPCEI ME/CT). It aims to develop and implement photonic integrated circuit technology
+for mid-infrared applications and will position VIGO Photonics as a global leader in this domain.
+
+Limited manufacturing capacity remains a key challenge (particularly in front-end and back-end
+processes) and is restricting the industry’s overall development. Global R&D centres are present in
+Poland, but further investment in production facilities is necessary in order to fully capitalise on
+Poland’s domestic semiconductor market, which is driven by several different sectors (including
+consumer electronics and defence).
+
+The decision of Intel in September 2024 to suspend construction of a new semiconductor assembly
+and test facility near Wrocław for two years is therefore a significant challenge for plans to achieve a
+0.5% share in global microelectronics production value chains by 2030 (as planned in the roadmap).
+
+The Polish Ministry of Digital Affairs reacted to this development by announcing its intention to review
+a  resolution  establishing  the  National Framework  for  Supporting  Strategic  Investments  in
+Semiconductors for 2024-2026. The draft document Poland in the game for the future: Policy for the
+semiconductor sector 2025+ (Polska w grze o przyszłość: Polityka dla sektora półprzewodników 2025+)
+was issued in February 2025 for public consultation. It calls for attracting at least three large investors
+from the semiconductor sector over the next decade.
+
+                                        8 Poland
+
+
+
+Edge nodes
+
+The Edge Node Observatory estimates that Poland had deployed a total of 82 edge nodes in 2024,
+an increase of 95.2% on 2023. This is almost double (+40 edge nodes) the amount estimated for 2023.
+
+However (according to the information provided by the Polish authorities in February 2025), the
+implementation of the ‘EdgePL’ pilot, which is the only measure in this area included in the roadmap,
+has not yet started. This suggests a delay of up to two years compared with the original timeline. The
+Polish authorities did not (in February 2025) mention any other public intervention in this domain.
+
+The draft State Digitalisation Strategy (Strategia Cyfryzacji Państwa) was presented for public
+consultations in October 2024.  It identifies edge computing as one of the breakthrough digital
+technologies, which may be developed with the State’s support. It also includes a goal of creating
+1 000 edge nodes by 2035, which would imply almost tripling their number from the 370 that Poland
+committed to deliver by 2030 in its national roadmap. However, the draft does not indicate how this
+goal should be achieved.
+
+Quantum technologies
+
+Poland is participating in projects for two out of six quantum computers planned under the
+European High Performance Computing Joint Undertaking (EuroHPC JU). The EuroQCS-Poland
+project (the first quantum computer integrated with supercomputing resources in Poland) should be
+established in Poznań in June 2025. Poland is also participating in the international consortium on the
+LUMI-Q project, which involves providing academic and industrial users with a quantum computer
+based on superconducting qubits with a star topology. This should also be installed in 2025.
+
+Poland is working with other Member States to develop and deploy a quantum communication
+infrastructure (QCI) across the EU. Consortium PIONIER-Q, which represents Poland in the EuroQCI
+initiative, has developed the largest quantum key exchange network in the EU (with 1 770 km of optical
+fibres) and provides the backbone for the quantum key distribution (QKD) network that connects
+selected cities in Poland. The system that was demonstrated in March 2025 enables encrypted
+communication between data centres and public administration institutions, and ensures the highest
+level of security of information exchange.
+
+Developing quantum technologies to ensure secure communication as well as to enhance the
+productivity and competitiveness of the Polish economy (e.g. cryptography and metrology) is one of
+the goals of the draft State Digitalisation Strategy (Strategia Cyfryzacji Państwa) that was presented
+for public consultation in October 2024. However, the presentation of the dedicated policy document
+on quantum, which was expected in the first quarter of 2025, was postponed to the second quarter of
+2025.
+
+Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+
+Poland has come significantly closer to the EU average in terms of the digital intensity of enterprises,
+but it still scores below the EU average in this respect as well as in the uptake of more advanced
+technologies by companies. This is usually attributed to a shortage of specialists with the necessary
+knowledge and skills (including cybersecurity or AI); high costs of applying new digital solutions; limited
+
+
+
+
+
+                                        9 Poland
+
+
+
+access to financing; lack of motivation among the entrepreneurs to implement digital solutions
+combined with low awareness of potential benefits6; and haphazard implementation of new solutions.
+
+At the end of 2024, Poland was home to 11 unicorns and aimed to almost double this number to 20
+by 2030. However, this would still represent a limited contribution to the EU’s target of nearly 500
+unicorns by 2030. Poland’s position fell in the Global Start-up Ecosystem Index ranking between 2023
+and 2024, and its start-up ecosystem is facing difficulties in accessing funding, high labour costs, and
+lack of support. The Ministry of Economic Development and Technology is working on a start-up
+support strategy to address these challenges and improve the country's position in the global startup
+landscape.7
+
+Several public measures (implemented mostly under the national RRP and the cohesion policy
+programmes) are supporting business digitalisation but have not yet had a decisive impact. To
+remedy some of the above-mentioned problems and make State intervention more effective, the draft
+State  Digitalisation Strategy (Strategia Cyfryzacji Państwa) proposes to establish an entity to
+coordinate the digital transformation of enterprises and develop a common vision for that process at
+the national level, as well as to make entrepreneurs more aware of the benefits offered by digitalisation
+and of the available support options.
+
+The Ministry of Economic Development and Technology is developing the Digital Transformation of
+Enterprises Programme, to address the current problems of enterprises related to technologies and
+cybersecurity. The programme will put forward actions aligned with the key objectives of the State
+Digitalisation Strategy and serve as a practical tool for their implementation8.
+
+SMEs with at least basic digital intensity
+
+In 2024, 68.95% of SMEs in Poland showed at least a basic level of digital intensity (the 2030 national
+target is 90%). This resulted from a robust year-on-year growth rate of 6.4% (from 60.95% in 2022).
+This was still below the EU average of 72.91% but represented significant progress. More specifically,
+31.06% of SMEs achieved high or very high digital intensity (almost the EU average of 32.66%). Overall,
+Poland’s SMEs made good progress on digital intensity levels, though efforts are still needed to achieve
+EU averages.
+
+Poland has been implementing several measures to accelerate the digitalisation of enterprises listed
+in its roadmap. Key initiatives include calls for proposal under the European Funds for a Modern
+Economy (Fundusze Europejskie dla Nowoczesnej Gospodarki – FENG) and the recovery and resilience
+plan to enhance the digitalisation of SMEs. Businesses of all sizes could use the Digital Kit for
+Companies (Cyfrowa wyprawka dla firm) to receive comprehensive digitalisation advice in one place
+or Biznes.gov.pl to get information on business start-up funding.
+
+Nine European Digital Innovation Hubs (EDIH) were available to provide comprehensive support to
+SMEs in the areas of digitalisation and digital transformation. They offer services such as training,
+testing of new technologies, and support in accessing investments and innovative ecosystems.
+
+
+
+
+
+6 This is particularly relevant given the SMEs account for approximately 99.8% of Polish enterprises. The results of the project
+Advancing The Digital Transformation of Polish Enterprises (Wzmocnienie cyfrowej transformacji polskich przedsiębiorstw)
+indicate that close to one third of them have a low level of digitalization and operate locally, convinced that the minimum is
+enough, while further 9% are micro-companies eager to digitalize, but lacking knowledge and resources.
+7 Information provided by the Ministry of Digital Affairs (Ministerstwo Cyfryzacji) during a meeting on 26 May 2025.
+8 Information provided by the Ministry of Digital Affairs (Ministerstwo Cyfryzacji) during a meeting on 26 May 2025.
+
+                                       10 Poland
+
+
+
+The national target set in the roadmap is consistent with the EU-level target. It is higher than Poland’s
+current position and will require a continuously high growth rate if it is to be achieved by the deadline.
+
+Take up of cloud/AI/data analytics
+
+
+
+
+
+According to new data collected in 2024, only 5.9% of enterprises in Poland were using AI technology
+(less than half the EU level average of 13.48%). This indicates a significant increase (60.76%) in AI
+uptake on 2023 (3.67%) and means that Poland is on track according to its national trajectory, but it
+also means that Poland was below the EU-level growth rate of 67.2%. The uptake rate among SMEs
+was 4.92%, but large enterprises showed a higher usage rate of 32.95%. This corresponds to a gap of
+28.03 percentage points (pps) between SMEs and large enterprises, which is in line with the EU gap of
+28.53 pps.
+
+Adoption of cloud, data analytics and the three technologies together were not measured in 2024.
+
+In 2023, cloud uptake among Polish enterprises was 46.5% – considerably higher than the EU-level
+uptake of 38.97%. SMEs had a lower adoption rate of 45.44%, while large enterprises had a higher
+rate of 75.62%. This translates to a 30.18 pps difference in uptake between SMEs and large enterprises
+in Poland, which is like the EU-level difference (31.68 pps).
+
+Data from 2023 showed that 19.31% of enterprises in Poland were using data analytics – below the
+EU-level use rate of 33.25%. However, while 17.62% of SMEs engaged in these  activities, a
+substantially higher percentage of large enterprises (65.69%) adopted data analytics. This led to a gap
+of 48.07 pps between SMEs and large enterprises, which exceeded the EU gap of 39.72 pps.
+
+If all three technologies are together, over half the enterprises (51.77%) in Poland used either AI,
+Cloud or data analytics technologies in 2023 (the 2030 national target is 75%) – slightly below the
+EU average of 54.7%. SMEs’ uptake was slightly lower at 50.43%, while large enterprises had a
+significantly higher engagement rate of 88.59%. The difference in uptake between SMEs and large
+enterprises in Poland was 38.16 pps, which was higher than the EU-level gap of 32.97 pps.
+
+In conclusion, Poland’s adoption of cloud computing outpaced the EU average, reflecting a strong
+performance in this area. By contrast, the uptake of data analytics and artificial intelligence lagged
+behind EU levels. The disparity in uptake between SMEs and large enterprises reflects broader EU
+trends, with large enterprises consistently leading in technology adoption. These findings highlight the
+importance of addressing the specific challenges faced by SMEs in order to support broader digital
+transformation across the whole economy, especially given their weight in Poland’s economy.
+
+
+
+
+
+                                       11 Poland
+
+
+      Cloud
+
+The use of the Cloud by enterprises in Poland in 2023 exceeded the EU average, but many enterprises
+use cloud computing only for basic purposes (e.g. as file storage). A small fraction use more advanced
+applications (e.g. big data analysis or running their own internal applications) 9.
+
+The Polish roadmap contains several measures to support business digitalisation. These may
+contribute to uptake of the Cloud by the enterprises, but only one of them focuses on this aspect of
+digitalisation. Loans to SMEs to purchase cloud infrastructure and services have not yet been made
+(the calls were expected in the second half of 2025), but the initiative had already led to publication
+of the Cloud for entrepreneurs (Chmura dla przedsiębiorców) manual to assist businesses in digital
+transformation.
+
+In November 2024, five beneficiaries signed contracts to receive support under IPCEI Next
+Generation Cloud Infrastructure and Services (IPCEI-CIS) under the investment financed by the Polish
+RRP. The selected projects will focus on development of a national DataSpace for spatial data; a
+scalable distributed NoSQL database for real-time IoT applications; a secure execution environment
+for applications in public Cloud settings; a next-generation operating system for Edge-IoT devices; and
+a Cloud Artificial Intelligence Service Engineering platform to create universal intelligent services for
+various applications.
+
+      Data Analytics
+
+There is no new development relevant for the 2025 Digital Decade to report.
+
+       Artificial Intelligence
+
+AI is presented in the draft State Digitalisation Strategy (Strategia Cyfryzacji Państwa) as the first of
+the breakthrough technologies that will be crucial for Poland’s development. The draft document
+also predicts that 50% of Polish enterprises will be using AI by 2035. This is in stark contrast not only
+to the 5.9% level of use in 2024 but also to the official national target for 2030 of 10%.
+
+Such a significant change will require the overcoming of several barriers, such as limited investment
+in research and innovation  (particularly from SMEs) as well as a lack of awareness among
+entrepreneurs of the benefits of using AI. According to the CEO survey Time of Necessary Changes
+(Czas koniecznych zmian), only 15% of Polish business leaders see AI as a tool to support business
+development, while the global proportion is 33%. The report How do Polish companies implement AI?
+(Jak polskie firmy wdrazaja AI?) states that 40% of employees of medium and large companies in
+Poland express misgivings about AI.
+
+Insufficient access to specialised knowledge and computing power is hindering the growth of AI in
+Poland. The draft Strategy also points to a shortage of specialists and experts in AI, with Poland ranking
+outside the top 15 in EU in terms of graduates in computer science. Poland needs to establish
+consistent and harmonised legal frameworks and standards for AI development and deployment. It is
+necessary to update and implement EU and international regulations on AI (e.g. the AI Act) to ensure
+a coherent and supportive regulatory environment.
+
+The draft Strategy does not propose specific measures in this area, but the Ministry of Digital Affairs
+stated during a meeting in February 2025 that it intends to revise its Policy for development of artificial
+
+
+
+
+9 Information provided by the Ministry for Economic Development and Technology (Ministerstwo Rozwoju  i Technologii)
+during a meeting on 20 February 2025.
+
+                                       12 Poland
+
+
+
+intelligence in Poland from 2020 (Polityka dla rozwoju sztucznej inteligencji w Polsce od roku 2020) so
+that it addresses new challenges and technological changes.
+
+One of the steps already taken in this area was the signature of letter of intent by the institutions
+that distribute public funds for the development of AI in Poland10. At the same time, in November
+2024, they committed to sign the Agreement on the establishment of the Council of Artificial
+Intelligence Funds, which is to be established by the end of June 2025.
+
+The Council’s task will include providing opinions on the directions of AI policy, funding and the
+development of AI research in Poland, as well as developing support strategies for the development
+and implementation of safe and ethical AI, designing programs to concentrate funds on specific
+projects, monitoring the AI market in Poland and coordinating these funds.
+
+Poland will host one of the AI Factories. It has joined one of the seven consortia that were selected
+for that purpose in December 2024 by the European High Performance Computing Joint Undertaking
+(EuroHPC). In March 2025, the Commission granted EUR 50 million in funding to the Poznań
+Supercomputing and Networking Centre (PCSS) to build the Piast AI Factory.
+
+ 2024 recommendation on AI/Cloud/Data Analytics: (i) Review the mix of measures to support the
+ adoption of advanced digital technologies (with a particular attention to AI and data analytics). (ii)
+ Ensure the broad uptake of the next generation of cloud infrastructure and services under
+ development in the IPCEI-CIS by companies of all sizes, including by developing a country specific
+ dissemination strategy (complementing what has already been committed under IPCEI-CIS);
+ contributing to the additional dissemination activities led by the Cloud IPCEI Exploitation Office.
+
+ In 2024, Poland continued the implementation of existing measures but did not take any new
+ measure. Poland plans to adjust the roadmap but has not yet submitted relevant documents and,
+ except for the ongoing process to establish the Council of AI Funds, Poland, it has not informed the
+ Commission about the implementation of any new measures (other than initiatives included in the
+ current roadmap).
+
+Unicorns, scale-ups and start-ups
+
+At the beginning of 2025, there were 11 unicorns in Poland (up from 10 in 2024), which represents
+3.8% of all such companies in the EU. According to the adopted roadmap, Poland expects to have 20
+unicorns by 2030. While this would mean almost doubling the baseline value, it would still represent
+only a limited contribution to the EU-level target of almost 500 unicorns by 2030.
+
+According to the Global Start-up Ecosystem Index 2024, which examines start-up ecosystems in 100
+countries and 1 000 cities, Poland ranked lower than in 2023. It declined by one spot globally, to 34th
+place, and by two spots in the EU, to 17th place. Among Polish cities, Warsaw is the only Polish start-
+up ecosystem in the top 100, although at 73rd place in the ranking, it remains below its best historical
+rankings. Kraków has overtaken Wrocław as the second-ranked city in Poland. The report concludes
+that while challenges (like reliance on public funding and difficulties with acquiring talent) persist,
+Poland’s strong economic base, announced  policy changes, growing AI  talent, and  strategic
+collaborations position it well to enhance its start-up ecosystem in the future.
+
+The report Polish start-ups 2024 (Polskie Start-upy 2024) identifies the main barriers to start-ups’
+development as: (i) difficulties in accessing funding (56% of respondents mentioned challenges in
+
+
+10 The Ministry of Digital Affairs, the Ministry of Science, the Ministry of National Defence, the Polish Development Fund S.A.,
+the National Centre for Research and Development, the National Science Centre and Bank Gospodarstwa Krajowego.
+
+                                       13 Poland
+
+
+
+securing the necessary funding); (ii) high labour costs (for 50% of start-ups it is a major obstacle; 18%
+of the start-ups surveyed also report a lack of employees); and (iii) the need for support (in various
+areas, particularly in obtaining financing and working with investors).
+
+However, the challenges for scale-ups may be somewhat different. According to the study ‘Mapping
+Poland’s Tech Sector’, access to qualified managerial talent is the key barrier for Poland’s tech
+founders, especially for founders of scaled companies. Other major barriers include difficulties for B2B
+companies to access customers, the unpredictable taxation system, and a lack of conducive legal
+frameworks. Access to capital is a more pronounced challenge for smaller companies, but the lack of
+growth-stage financing could also hamper their further development.
+
+In 2024, Poland did not introduce any new measures in this domain but implemented several
+existing ones. The roadmap does not include any measures focused specifically on start-ups, but there
+are targeted initiatives that are funded from cohesion policy. Such initiatives include: (i) Startup
+Booster Poland - Smart Up, which offers comprehensive support for innovative ventures at an early
+stage, including mentoring, matchmaking with corporations, and support for global scaling; and (ii)
+Starting platforms for new ideas, which provides personalised incubation plans for start-ups in Eastern
+Poland.
+
+Additionally, institutions like PFR Ventures invest in venture capital and private equity funds to provide
+capital to innovative Polish enterprises at various stages of development, while the National Centre for
+Research and Development (Narodowe Centrum Badań i Rozwoju - NCBR) focuses on supporting R&D
+projects carried out by tech companies in cooperation with large enterprises or universities. In May
+2025, the Ministry of Finance, the Polish Development Fund (PFR), and PFR Ventures launched the PFR
+Deep Tech programme. The programme has a budget of PLN 300 million from PFR's own resources,
+with an additional minimum of PLN 300 million to be contributed by private and institutional investors.
+The initiative will operate as a fund-of-funds, channelling capital to venture capital fund managers who
+will finance the most promising technological projects.
+
+Strengthening Cybersecurity & Resilience
+
+Poland faces growing challenges in cybersecurity and the Polish authorities see the need for
+improving performance in this area. These challenges are largely due to a more unstable global
+security situation and a rise in online crime. Because of these threats, the Polish authorities want to
+improve protection against cyberattacks for important computer systems and networks. This is vital
+due to Poland’s central position at NATO’s eastern flank. Hence, cybersecurity is one of the main digital
+themes for the Polish Presidency of the EU in the first half of 2025 and for the draft State Digitalisation
+Strategy (Strategia Cyfryzacji Państwa), which includes cybersecurity in four cross-cutting areas,
+significantly affecting the activities in other areas.
+
+One of Poland’s weaknesses is a low level of digital safety skills, with only slightly above half the
+population having a basic level of such skills. In 2023, 54.06% of individuals reported taking at least
+one action (see the six types of digital safety actions in the graph’s legend below) to protect their
+personal data online, which was significantly below the EU average of 69.55%. Moreover, only less
+than one third (30.55%) of the population could be considered to have above basic digital safety skills
+(i.e. taking three or more actions). The most common action taken was restricting or refusing access
+to geographical location (34.03%), while the least common was checking that websites are secure
+(18.02%).
+
+
+
+
+                                       14 Poland
+
+
+
+
+
+According to the  Digital Decade Eurobarometer 2025, 74% of Poles believe that improved
+cybersecurity, better protection of online data and safety of digital technologies would facilitate
+their daily use of digital technologies. While no-negligible, the share of people in Poland seeing this
+aspect as significant is lower than for the EU (81%) and has decreased by 3 percentage points since
+last year.
+
+In 2024, various public entities raised awareness of threats and worked to improve the general
+population’s cybersecurity skills. Their activities were often – but not exclusively – addressed to
+children and adolescents.
+
+       NASK-PIB11 implemented a series of educational and preventive  activities  - including
+       workshops, lessons, training sessions, and webinars - attended by 36 333 IT professionals and
+        public administration representatives, 286 474 students, 18 507 teachers and professionals
+       working with children and young people, 2 060 parents, and 525 officers responsible for social
+       prevention and minors. The initiative also included conferences and media appearances.
+      The Office of Electronic Communications (Urząd Komunikacji Elektronicznej) was also active in
+         this area. Its campaign #KeepCTRL (Klikam z głową) included lessons for school classes (over
+      6 000 students through 116 in-school lessons) and online webinars for elementary school
+       students (more than 60 000 students through 12 online webinars). These lessons and
+       webinars taught the students how to: (i) use smartphones, computers, games, and online
+        applications responsibly; (ii) protect their personal data; and (iii) defend themselves against
+        cyberbullying.
+      The European Cybersecurity Month (Europejski Miesiąc Cyberbezpieczeństwa) campaign
+       coordinated by NASK-PIB focused on adult users and organisations. The campaign covered
+        topics such as romance scams, fake investments, AI, and deepfakes.  It also provided
+        educational materials, including articles, infographics, webinars, posters, and guides, and
+       reached an estimated 1.4 million people.
+
+In 2024, Polish enterprises tended to experience fewer incidents related to cyberattacks than the
+average number of incidents for the EU. The number of enterprises that experienced ICT security
+
+
+
+11 NASK-PIB is a National Research Institute supervised by the Polish Ministry of Digital Affairs, primarily focused on research
+and development in cybersecurity, ICT, and AI, and on ensuring the security of cyberspace at the national level. It also serves
+as the national registry for .pl internet domains and runs CERT Polska, which responds to cybersecurity threats.
+
+                                       15 Poland
+
+
+
+incidents leading to the unavailability of ICT services due to attack from outside (e.g. ransomware
+attacks, denial-of-service attacks) increased slightly in Poland (from 2.93% in 2022, to 3.02% in 2024),
+but remained below the EU average (3.43%).
+
+The increase in the number of incidents is also reflected in the Cybersecurity Barometer (Barometr
+cyberbezpieczeństwa), published annually by KPMG Poland and in the Report on Cybersecurity in
+Polish companies (Raport Cyberbezpieczeństwo w polskich firmach), which is prepared on a yearly
+basis by Vecto. In 2024, the percentage of companies reporting at least one cyber incident increased
+by 16 pps to 83% according to the Cybersecurity Barometer, and by 4 pps to 73.9% according to the
+Report on Cybersecurity.
+
+Notable incidents included a distributed denial-of-service cyberattack on the companies Autostrada
+Wielkopolska and Gdańsk Transport Company, which manage sections of the A2 and A1 motorways.
+The attack was carried out by the same pro-Russian group that attacked transport companies in
+Czechia and public administration websites in France. The Polish IT company Atende SA became the
+target of an advanced ransomware cyberattack that allowed criminals to gain access to the personal
+data of employees, customers and contractors, and the Super-Pharm pharmacy chain experienced a
+cyberattack that led to a leak of customer data.
+
+Polish enterprises deploy some ICT security measures more often than the EU average, but
+employees are less aware of their ICT security-related obligations than the EU average. In terms of
+measures, 94.11% of enterprises deployed some ICT security measures (slightly above the EU average
+of 92.76%) and 56.84% of enterprises made their employees aware of their obligations regarding ICT
+security-related issues, which is close to the EU average (59.97%).
+
+In 2024, the difficulty in hiring and retaining qualified specialists was the biggest challenge to
+ensuring cybersecurity in enterprises. 34% of respondents to the Cybersecurity Barometer mentioned
+this problem. This represents a decrease of 19 pps compared with 2023, which could suggest that
+companies are learning how to manage this challenge better. The second most frequently mentioned
+challenge was insufficient budgets, affecting 33% of respondents. This issue has also become less
+significant compared with previous years, which could reflect increased awareness of cybersecurity
+and its prioritisation in corporate budgets. Another challenge, which rose from 17% in 2023 to 26% in
+2024, was the lack of support from top management.
+
+In 2024, measures already included in the national roadmap helped enterprises to improve their
+cybersecurity. The Fundamentals for Business Cybersecurity programme (Program Firma Bezpieczna
+Cyfrowo)  is implemented in partnership by Ministry of Economic Development and Technology
+together with NASK-PIB and funded from cohesion policy resources (Fundusze Europejskie na Rozwój
+Cyfrowy - FERC). It aims to help SMEs assess their cybersecurity and improve their situation and was
+in the second phase of its pilot stage. At the same time, the implementation of the ‘SMART path’, which
+is financed from cohesion policy resources under priority 1 of the FENG programme, continued.
+Enterprises receiving support in this scheme for their R&D or innovation projects can also receive help
+to improve their level of cybersecurity.
+
+Poland lags behind the EU in the roll-out of the secure Internet Protocol version 6 (IPv6). This could
+have negative consequences for future growth and innovation, as well as for security. The rate of
+IPv6 adoption is 15% for end users in Poland (the EU average is 36%) and 3% on the server side (the
+EU average is 17%). IPv6 is an important protocol as it ensures the scalability, stability, and security of
+the internet. The deployment of this new version is increasingly urgent, as traditional IPv4 addresses
+have long been depleted. Domain Name System Security Extensions (DNSSEC) is also an important
+
+                                       16 Poland
+
+
+
+standard to be rolled out, as it introduces security features to DNS. In Poland, the DNSSEC validation
+rate (i.e. verification of the authenticity of responses sent by name servers to clients, using a digital
+signature technology) is 46% (Q3 2024), which is close to the EU average of 47%.
+
+Cybersecurity is also a concern for the public administration in Poland. According to the draft State
+Digitalisation Strategy (Strategia Cyfryzacji Państwa), a low awareness of the threats and a lack of skills
+are weaknesses in this area.
+
+In 2024, NASK-PIB carried out a series of initiatives to improve cybersecurity awareness and build
+skills in different institutions. These included: (i) the SecureV project, which trained key persons for
+the security of the state, members of parliament, members of the Council of Ministers, representatives
+of local government units, primary healthcare entities and representatives of the National Electoral
+Office; (ii) training for 35 presidents of state-owned enterprises; and (iii) the EDU-EXE project, which
+trained close to 27 500 police officers in district and city headquarters, teachers, and employees of
+bailiffs’ chambers and local government units. Moreover, 33 230 people working at the entities
+forming the national cybersecurity system were trained to improve their practical skills to handle crisis
+situations.
+
+In 2024, Poland launched project Cybersafe self-government (Cyberbezpieczny Samorząd) to
+increase the level of information security in territorial self-government units. 2 495 units (almost
+90% of their total number) received grants to improve technical and organisational aspects and skills.
+Additionally, the Cybersecurity Centre NASK (Centrum Cyberbezpieczeństwa NASK) project was
+launched. It involves the creation of a cybersecurity centre comprising several specialist centres,
+offices, and laboratories to boost the national cybersecurity system. The project is expected to improve
+the country’s ability to respond to current and future cyberthreats.
+
+In 2025, several new initiatives are expected, including the Cybersafe government (Cyberbezpieczny
+Rząd) project, which aims to improve the cybersecurity of various government institutions, including
+ministries, central offices, and voivodeship offices. Another initiative is the Local Cybersecurity Centre
+(Lokalne Centrum Cyberbezpieczeństwa) project to create or develop specialised cybersecurity units in
+various regions of the country to provide services to territorial government units, which is expected to
+start in the third quarter of 2025.
+
+To improve the coordination of Poland’s national cybersecurity system, the draft State Digitalisation
+Strategy (Strategia Cyfryzacji Państwa) proposes establishing a central institution responsible for
+cybersecurity and coordinating the activities of other entities providing cybersecurity at national level.
+The Strategy did not provide more detail on this subject and at the time of writing it had yet to be
+adopted by the Polish government. However, the Ministry of Digital Affairs is currently preparing the
+2025-2029 National Cybersecurity Strategy, which should be published in mid-2025, possibly alongside
+the State Digitalization Strategy. The Ministry expects the legal act transposing the provisions of the
+NIS2 Directive in Polish legal system to be adopted at the same time.
+
+
+
+
+
+                                       17 Poland
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+The digital skills of Poland’s population require significant improvement, as their low level hinders
+participation in public life and increases the risk of falling victim to cybercrime. Moreover, data reveal
+a marked difference in the level of skills between people living in urban and rural settings and between
+age groups. All this points to the need for well-targeted activities to improve the levels of digital skills
+and bring them closer to the EU average.
+
+A lack of ICT specialists is one of the factors slowing down the digitalisation of enterprises and of
+the public administration. Poland is aiming for ICT specialists to represent 6% of the workforce by
+2030, which is markedly lower than the EU target of 10%. Currently deployed or planned measures
+could be sufficient to reach this lower target, but it does not seem ambitious enough to achieve the
+targets in the draft State Digitalization Strategy for developing the Polish digital sector.
+
+The country has made progress in digitalising public services for citizens and businesses, although it
+remains below the EU average in both categories. Therefore, there is still room for improvement if
+Poland is to reach the score of 100 by 2030. The use of eID is growing and Poland is participating in
+projects to develop the new European digital wallet. The country’s score for online access to medical
+records makes it one of the leaders in this area, while several ongoing projects should help it to
+achieve the target by 2030.
+
+According to the Digital Decade Eurobarometer 2025, 78% of Poles think that accessing public
+services online will be important for their daily life by 2030. 76% of them consider that human
+support to help access and use digital technologies and services would facilitate their daily use of
+digital technologies, and 83% think public authorities should prioritise ensuring that people receive
+proper human support to help them adapt to the changes in their lives brought about by digital
+technologies and services.
+
+Poland saw high levels of disinformation activities due to its geopolitical situation. Since different
+state actors are working to counter this disinformation, there is a need for improved coordination. It
+is also important to enhance people’s awareness of disinformation and their critical skills to deal with
+it.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+The digital skills of the population  is one of the areas in which Poland should improve  its
+performance. According to 2023 data, 44.30% of Poland’s population had at least basic digital skills
+(the 2030 national target is 80%), which represents an increase of 1.5% compared to the previous
+year, but remains well below the EU average (55.56%). Although the data were not updated in 2024,
+detailed demographic analyses provide insights into the digital skill disparities.
+
+
+
+
+                                       18 Poland
+
+
+
+•  Gender gap: Poland has a gender gap in digital skills, with 45.68% of men and 42.99% of women
+   equipped with at least basic digital skills. The gap of 2.69 pps is just above the EU average (2.23
+    pps), indicating a moderate difference in digital proficiency between genders.
+
+•   Education level: the link between education and digital skills is clear, as 73.37% of Poles with
+    higher education have at least basic digital skills, which is below the EU average (79.83%). Those
+    with the least formal education are further behind, with only 31.60% having at least basic digital
+     skills, but the gap with the national average (12.70 pps) is narrower than the EU average (21.95
+    pps).
+
+•   Living areas: In Poland, the lowest proportion of people with digital skills (33.17%) was recorded
+    in rural areas, which falls short of the EU average for rural areas (47.50%). The difference between
+    rural areas and the country’s average is 11.13 pps, which is greater than the EU average (8.06 pps),
+    indicating a need for focused digital upskilling in rural areas.
+
+•  Age groups: 25 to 34-year-olds in Poland are
+    the most digitally skilled, with 66.85% of them
+    being proficient, which is just below the EU
+    average (70.18%). A much lower proportion of
+   65 to 74-year-olds have digital skills (12.55%),
+   which is well below the EU average (28.19%).
+
+•  The  Digital  Skills Index shows that Poland
+    scores  above  the  EU  average  only  in
+    information and data  literacy,  at 82.10%.
+    Safety skills, however, are a weak point, with
+    the  country   scoring  54.06%,  which   is
+    considerably below the EU average (69.55%).
+
+Poland has areas that it must address in its pursuit
+of  digital  inclusivity and  proficiency.  Targeted
+initiatives are essential in view of a significant rural-
+urban skills divide and low numbers in the older demographic. Improving safety skills and supporting
+lower-educated groups could help Poland raise its overall digital skills level and move closer to the EU
+benchmarks.
+
+Poland’s target for the basic digital skills of the population remains at 80%, which is in line with the
+2030 EU target. The data collected by the National Statistical Office (Główny Urząd Statystyczny) show
+that the proportion of Poland’s population with at least basic digital skills grew in 2024 to 48.80%. This
+implies a much higher annual growth rate than in previous years. However, the national data still
+indicate not only a gender gap, but also a low level of digital skills among older people and those with
+a lower level of education.
+
+In 2024, Poland implemented several measures, which were planned in the national roadmap, to
+develop digital skills. These included: (i) training to improve individuals’ digital skills (focusing in
+particular on public officials, teachers and those at risk of digital exclusion), funded from the Recovery
+and Resilience Fund (RRF);  (ii) the creation of the Digital Development Clubs (Kluby Rozwoju
+Cyfrowego) in local communities with grants from cohesion policy funds; and (iii) activities of NGOs to
+improve the digital  skills of older people, financed from national funds under the ‘Aktywni+’
+multiannual programme for older people.
+
+
+                                       19 Poland
+
+
+
+Moreover, various activities were undertaken to develop computer science talent in schools in the
+framework of the 2019-2029 Programme for the Development of IT Talent (Program Rozwoju
+Talentów Informatycznych). The programme, which includes two thematic paths (Championship in
+Algorithmics and Programming and Championship in Computer Game Design), aims to support the
+development of mathematical and IT talent, by creating a motivating system for gifted students, as
+well  as  organising  educational  trips,  e-learning  sessions, team-based  problem-solving, and
+competitions to promote digital skills. Another initiative focusing mainly – but not only – on schools
+was the Intergenerational school (Szkoła Międzypokoleniowa) pilot project, which brings together
+students and older people to develop digital skills and promote intergenerational integration.
+
+At the same time, the implementation of the key national policy document – the Digital Competence
+Development Programme (Program Rozwoju Kompetencji Cyfrowych - PRKC) as part of the Polish RRP
+– faced several challenges in 2024, including delays and changes to the scope of its activities. As a
+result, uneven progress was made in achieving the programme’s objectives for digital skills, with an
+achievement level of 50% or more for 35% of the indicators (15 out of 43), while 47% of the indicators
+(20 out of 43) showed no change from their initial values. During the meeting in February 2025, the
+Ministry of Digital Affairs indicated that the revision of the programme to update its measures and
+introduce new ones would start in 2025.
+
+In 2024, Poland fulfilled several milestones under its RRP by adopting a set of policy documents that
+propose: (i) a new digitalisation policy for education; (ii) standards for equipping schools with digital
+infrastructure; and  (iii) procedures for distributing ICT equipment and providing infrastructure to
+schools. These documents provide the necessary framework for the projects (including those funded
+by the RRF) to equip schools with the connectivity and tools that they need. However, the adoption of
+the projects was delayed by almost two years compared with the original timing in the RRP, which had
+a knock-on effect on the subsequent actions.
+
+ 2024 recommendation on basic digital skills: Include in the roadmap measures to improve the basic
+  skills of younger population (e.g., actions to improve digital equipment in schools, qualifications of
+ ICT teachers, changes to programmes to increase the attractiveness of STEM disciplines).
+
+ In 2024, Poland made some efforts to address the recommendation through new policy actions.
+ The Polish authorities implemented measures listed in the national roadmap, as well as others not
+ included there, such as the 2019-2029 Programme for the Development of IT Talent and the
+ adoption of the policy framework for equipping schools with ICT. However, due to delays in certain
+ fields and the fact that the roadmap has yet to be revised, this recommendation cannot be
+ considered to have been addressed fully.
+
+ICT specialists
+
+In Poland, the proportion of ICT specialists in total employment is 4.5% (the 2030 national target is
+6%) after increasing by +4.7% in 2024, but is below the EU average of 5.0%. The country is on track
+according to its national trajectory.
+
+The proportion of ICT specialists in total employment in 2023 was 4.3%, and Poland’s growth rate for
+this indicator in 2024 was higher than the EU's of +4.2%. This indicates that Poland is making progress,
+but still has substantial ground to cover.
+
+Poland’s trend for women as a proportion of ICT specialists is very concerning. In 2023, Poland had a
+higher proportion of female ICT specialists (19.1%) than the EU average of 19.4%. However, by 2024,
+
+
+                                       20 Poland
+
+
+
+this figure had dropped to 17.5%, falling below the EU average of 19.5%. Poland’s growth rate for
+female ICT specialists (-8.4%) was significantly lower than the EU’s of +0.5%. As a result, 7 400 fewer
+female ICT specialists were employed in 2024 than in 2023, while the number of male ICT specialists
+grew by 33 800. This suggests that despite some efforts in this area, Poland is failing to retain or attract
+female talent in the ICT sector.
+
+On the other hand, the data on the provision of ICT training by enterprises give reasons for optimism.
+In 2022, 24.69% of Polish enterprises with 10 or more employees provided ICT training, surpassing the
+EU average of 22.37%. This trend continued in 2024, with Poland at 31.39% compared with the EU
+average of 22.29%. Poland’s annual growth rate of 12.8% in this area significantly outpaces the EU’s of
+-0.2%.
+
+According to the Eurostat experimental  statistics, which  rely on web scraping of online job
+advertisements for ICT specialists, the most sought-after profile in Poland was ‘software and
+applications developers and analysts’, representing 69.0% of online job advertisements for ICT
+specialists (58.0% at EU level). Two types of profile are more sought-after in Poland than in the EU on
+average: ‘information and communications technology service managers’ (7.8% of online job
+advertisements for ICT specialists) and ‘database and network professionals’ (10.5%).
+
+Poland is aiming for ICT specialists to represent 6% of employment by 2030. If the current rate of
+growth is maintained, achieving this target should be possible. However, the EU target for ICT
+specialists is set at 10% and, given Poland’s weighting in overall employment, its lower target could
+have significant consequences for achieving the Digital Decade Policy Programme’s goals. For the
+moment, the Polish authorities are not considering revising the national target, but do not rule this
+out after the Digital Competence Development Programme has been amended.
+
+ 2024 recommendation on ICT specialists: Take measures to increase the number of ICT specialists
+  (e.g., improved visibility and accessibility of training and reskilling options; incentive schemes to
+ attract new / retain current ICT specialists) and promote ICT studies and careers to women and girls.
+
+ In 2024, the Poland continued the implementation of existing measures but did not take any new
+ measure. The Polish authorities intend to adjust the roadmap, but have not yet completed this
+ process. Therefore, it is not possible to determine whether the recommended changes have been
+ carried out. At the same time, in 2024, Poland implemented some measures to make ICT studies
+ and careers attractive to women and girls and to train ICT specialists in specific areas (see below).
+ However, no initiatives to improve the visibility and accessibility of training and reskilling options
+ were reported.
+
+In 2024, Poland did not introduce any new measures in this domain but implemented those already
+ongoing or planned earlier. They included:
+
+       the ‘Become a digital expert’ (Zostań cyfrową ekspertką) project to finance training for women
+         in more advanced digital skills;
+       Education for digital accessibility (Edukacja DC) to train 2 200 specialists in digital accessibility;
+       the ‘Training of high-class specialists in the field of HPDA+’ (Kształcenie wysokiej klasy
+        specjalistów w zakresie HPDA+) programme aimed at training 300 specialists in high-
+       performance data analysis (HPDA) and related fields, including big data, AI, and quantum
+       computing.
+
+
+
+
+
+                                       21 Poland
+
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Poland scored 70.69 for digital public services for citizens (the 2030 national target is 100) after an
+increase of +10.9%. However, this figure is below the EU average of 82.32 and country is lagging
+behind its national trajectory. In 2023, Poland’s total score for digital public services for citizens was
+63.73, compared with the EU’s score of 79.44, and in 2024, it reached 70.69, which was still below the
+EU’s score of 82.32. However, Poland’s growth rate of 10.9% outpaced the EU’s of 3.6%. Poland scored
+42.38 in 2023 and 49.58 in 2024 for cross-border digital public services for citizens, which were both
+lower than the EU’s scores of 68.37 and 71.28, respectively. Nevertheless, Poland’s growth rate of
+17.0% was significantly higher than the EU’s of 4.3%. The proportion of people using government
+internet websites or apps in Poland is increasing year after year (from 62.62% in 2022 to 67.94% in
+2024), but remains below the EU average of 74.71% in 2024.
+
+Poland scored 85.0 for digital public services for businesses (the 2030 national target is 100) after an
+increase of +16.6%. While this figure is below the EU average of 86.23, the country is on track
+according to its national trajectory. Poland’s total score was 72.88 in 2023 and 85.0 in 2024, which
+were both below the EU’s scores of 85.42 and 86.23, respectively. However, the country’s growth rate
+of +16.6% was substantially higher than the EU’s of 0.9%. For cross-border digital public services for
+businesses, Poland’s scores were 51.39 in 2023 and 70.0 in 2024, which were both below the EU’s
+scores of 73.13 and 73.76, respectively. However, Poland’s growth rate of 36.2% was significantly
+higher than the EU’s of 0.9%.
+
+Poland’s access to e-Health records shows a different pattern with regard to the growth rate. Poland
+had a score of 91.82 in 2024 (the 2030 national target is 100), which is above the EU average of 82.7.
+The country is on track according to its national trajectory. In 2023, Poland’s total score was 90.03,
+which was higher than the EU’s of 79.12, and in 2024, it was 91.82, which was higher than the EU’s of
+82.7. However, Poland’s growth rate of 2.0% was lower than the EU’s of 4.5%.
+
+eID
+
+Poland has three eID means and it notified two of them – the personal profile (profil osobisty) and
+the trusted profile (profil zaufany)– to the European Commission. The ‘mCitizen profile’ (profil
+mObywatel) – which was made available in July 2023 as a feature of the mObywatel 2.0 public mobile
+application, will not be notified. This is due to the work on implementing solutions related to the
+European digital wallet standard. The mCitizen profile should be replaced by new solutions developed
+under the European Digital Identity Regulation.
+
+The mObywatel public mobile application, which individuals can use to confirm their identity online
+and access the main public systems and registers (including e-Health) has been widely adopted. By
+February 2025, it had been downloaded 21.7 m times, which represents a 34% increase compared
+with the end of 2023 (16.2 m downloads) and is an impressive figure, given that the entire adult
+population of Poland is almost 30.8 m.
+
+Poland is participating actively in several Large Scale Pilots (LSPs) to test the specifications of EU
+Digital Identity Wallets in a wide range of use cases, before their roll-out to Member States. Polish
+stakeholders, both public and private, are taking part in three of the four LSPs’ projects, which began
+in April 2023:
+
+   POTENTIAL, which involves work on identification for e-Government Services, bank account
+    opening, registration of SIM cards, mobile driving licences and health credentials for e-
+     Prescription;
+
+                                       22 Poland
+
+
+   EWC, which pilots the use cases for digital travel credentials, payments and organisational digital
+     identities;
+
+   DC4EU, which involves education/professional qualifications and social security documents.
+
+Polish stakeholders are also participating in two of the LSPs’ projects that were selected in 2025:
+
+   WE BUILD, which pilots the use of EUDI Wallets across 13 use cases in the areas of businesses,
+    supply chain, and payments;
+
+   APTITUDE, which involves work on the use of EUDI Wallets across four use cases: payments and
+    banking, mobile vehicle registration certificates, digital travel credentials, and tickets and travel
+     check-in.
+
+Poland is also a member of the EUROPEUM European Digital Infrastructure Consortium (EDIC),
+which aims to strengthen and expand the activities of the European Blockchain Partnership,
+including the use of this technology in relation to eID. Poland plans to develop its blockchain
+capabilities through the Europeum initiative. The first Polish node in the European Blockchain Services
+Infrastructure (EBSI) network operates at the NASK PIB, which will also establish a Polish blockchain
+skills centre to support the development of the country’s blockchain ecosystem and promote the
+growth of the EBSI network. The centre will focus on enhancing cybersecurity for blockchain
+applications, also by developing algorithms and addressing potential threats and vulnerabilities, such
+as those related to post-quantum cryptography and quantum technologies.
+
+Digitalisation of public services for citizens and businesses
+
+Poland aims to reach a score of 100 for the digitalisation of public services for citizen and businesses.
+Its current observed rate of growth is significantly higher than EU average and should be more than
+sufficient to achieve the target.
+
+In 2024, Poland continued its actions to digitalise public sector. In addition to those listed in the
+roadmap, like development of the electronic documentation management system (Elektroniczne
+Zarządzanie Dokumentami, EZD), or the advancement of e-health services discussed in the next
+section of the report, citizens and businesses alike were able to benefit from the improvements of the
+e-Tax Office (e-Urząd Skarbowy), which included making it possible to export the tax declaration
+history or launching the e-WIS feature (which enabled electronic handling of requests for binding tariff
+information).
+
+Furthermore, the ‘Your e-PIT’ (Twój e-PIT - electronic personal income tax) service was extended to
+include business owners and agricultural producers, facilitating the filing of over 13 million tax returns
+in 2024, compared with fewer than 11 million in 2023.
+
+Moreover, Poland developed some innovative digital solutions for public administration. In late
+2023, a consortium of six Polish institutions leading in the field of AI and linguistics launched a project
+to develop the first open Polish LLM and an associated smart assistant that can help provide public
+services. The result of their work - a PLLuM (Polish Large Language Model) – was presented by the
+Ministry of Digital Affairs in February 2025.
+
+At the same time, the Ministry announced the creation of a new consortium – HIVE – which will
+continue and strengthen the research in this area, develop Polish large language models and
+implement them. Among potential applications for the PLLuM is creation of a virtual assistant in
+
+
+
+                                       23 Poland
+
+
+
+mObywatel or an intelligent assistant for administration officials. The budget allocated for these
+activities in 2025 will be PLN 19 m (EUR 4.4 m)
+
+Development of digital public services remains an important priority for Poland. The draft State
+Digitalisation Strategy (Strategia Cyfryzacji Państwa) calls for improving the functionality, efficiency,
+and interoperability of these services, and integration of advanced technologies like AI is identified as
+a key direction for enhancing the delivery of services.
+
+Furthermore, to better coordinate digitalisation in Poland, and in its public services in particular, the
+Polish government intends to enhance collaboration across its departments. This will be achieved by
+appointing Digitalisation Plenipotentiaries within ministries and a strengthened Committee for
+Digitalisation within the Council of Ministers to oversee the process, define objectives and assess
+needs.
+
+The Ministry of Digital Affairs is preparing an amendment to the Act on computerisation of activities
+by bodies performing public tasks (ustawa o informatyzacji działalności podmiotów realizujących
+zadania publiczne), to introduce solutions promoting  digital transformation through improved
+interoperability, public registers, electronic information exchange, IT system inventory, and support for
+local government. These new provisions are targeted for implementation in 2025.
+
+ 2024 recommendation on key digital public services: Make efforts to digitalise public services, with
+ particular attention to re-use of information available to public administrations and user support.
+
+ In 2024, Poland made some efforts to address the recommendation through new policy action. In
+ addition to measures already included in the roadmap, which expanded the scope and user base of
+ some of the digital services, the country also developed the Polish Large Language Model. This novel
+ solution using AI technology will find application in public administration to improve users’
+ experience.
+
+e-Health
+
+Poland is aiming for a score of 100 on access to medical records, in line with the 2030 EU target.
+Given the high score it achieved in 2024 the current rate of progress, this is realistic, and more than
+EUR 1 bn have been allocated to the two measures in the national roadmap, whose goal is to increase
+to scope of health data available through the Internetowe Konto Pacjenta (IKP).
+
+Currently, over 19 million people in Poland (more than 60% of the adult population) use a free online
+account for patients in the Polish healthcare system, called the Internetowe Konto Pacjenta (IKP). It
+is also accessible in its mobile version, mojeIKP and provides secure access to various health-related
+information and services.
+
+In 2024, IKP and mojeIKP were updated with new functionalities, enabling patients to check their
+eligibility for treatment under the National Health Fund (NFZ), access detailed information on e-
+prescriptions for medical devices, and view their individual medical care plans agreed upon with their
+doctors.
+
+Moreover, a new feature was added in MojeIKP, allowing patients to submit applications for the
+European Health Insurance Card (EHIC) and track the status of their application. A pilot project for
+central e-registration for selected healthcare services, including mammography, cytology, and first-
+time cardiology visits, was also conducted in 2024.
+
+
+
+
+                                       24 Poland
+
+
+
+In this period Polish citizens were actively encouraged to use the e-health services. The e-Health
+Centre (Centrum e-Zdrowia – CEZ), which develops digital services and solutions for public health,
+promoted the use of key e-health services in publications explaining the features and benefits of IKP
+and mojeIKP across various platforms like pacjent.gov.pl, ezdrowie.gov.pl, and cez.gov.pl, and through
+paid advertising campaigns targeting specific demographics, such as parents.
+
+CeZ promoted other digital health services, such as the Central e-Registration pilot and the Top SOR
+service for checking waiting time at the hospital emergency departments (Szpitalny Oddział Ratunkowy
+– SOR), through articles, printed leaflets, and social media engagement.
+
+The Polish authorities were also actively involved in developing the European Health Data Space
+(EHDS). In 2024, Poland participated with other Member States in (i) the Xt-EHR project to develop
+European formats for the electronic exchange of health records, in the TEHDAS2 project to prepare for
+implementation of the EHDS regulation (in the part concerning secondary use of data), and (ii) the
+Capacity Building on Primary Use of Health Data project for public administration staff dealing with
+national digital health services.
+
+Furthermore, in 2024, Poland launched a project to deliver the cross-border patient summary by the
+end of 2026. This will contain information on major health aspects, such as blood type, allergies,
+currently taken medications, chronic diseases, surgeries and implanted devices. The patient summary
+will help doctors develop appropriate treatment, avoid potential risks and overcome language barriers.
+
+In 2024, work on the analysis was underway. The implementation of the Patient Summary, together
+with other cross-border e-services, such as cross-border e-prescriptions (which now allows data to be
+shared with 9 countries: Estonia, Finland, Czech Republic, Croatia, Portugal, Greece, Spain, Latvia, and
+Lithuania) will make people’s healthcare-related data more secure, especially those who often travel
+within the EU and EFTA countries.
+
+ 2024 recommendation on e-health: (i) make the data types of current problems and medical images
+ available to citizens through the online access service. (ii) Ensure that all data types are made
+ available in a timely manner.
+
+ In 2024, Poland made some efforts to address the recommendation through new policy action.
+ The data category ‘current problems’ is now made available to citizens, but the data on medical
+ images have yet to become available. Of the 12 data categories available to citizens, four are
+ available in a timely manner, which represents an increase of two categories (data on identification
+ and personal information), compared to the previous year.
+
+ However, Poland has reached full maturity on the other aspects of the eHealth framework. Beyond
+ the initiatives included in the current roadmap, Polish authorities also worked to promote the use
+ of the online account for patients among the population and implementing the European Health
+ Data Spaces.
+
+Building a safe and human-centric digital environment and preserving our
+democracy
+
+The 2025 Eurobarometer shows that 79% of Poles think that public authorities should prioritise
+shaping the development of Artificial Intelligence and other digital technologies to ensure that they
+respect our rights and values. It represents only a slight decrease (one percentage point) compared
+to last year in Poland, but in the same period the EU average grew by five percentage points to 83%.
+
+
+
+                                       25 Poland
+
+
+
+In Poland, online participation in political and civic life is increasing. In 2024, 15.82% of people used
+the internet to participate in consultations, vote or share opinions online. This share is below the EU
+average, but is trending upward from 13.93% in 2022, following a slight dip in 2023 (13.43%). This is
+broadly in line with the trend observed at EU level (17.59% in 2022 and 20.45% in 2024).
+
+Disinformation continued to be a significant concern in Poland. In 2024 the Department of
+Countering Disinformation at NASK-PIB identified fewer instances of obvious, easily recognisable
+disinformation than in 2023. However, this may be since the authors of disinformation were
+increasingly using AI tools and relying more on manipulating context than creating entirely new
+information, making it more difficult to identify and refute the messages.
+
+According to the 2024 report ‘Disinformation through the eyes of Poles’, (Dezinformacja Oczami
+Polaków. Edycja 2024), 79% of Poles declared that they had encountered disinformation, and that
+compared to the first survey in 2021 this percentage had not changed significantly (81%).
+
+One particularly notable disinformation incident that occurred last year was publication of a fake
+dispatch with alleged statements by Prime Minister Donald Tusk announcing the mobilisation of Polish
+reservists. Because it was planted following a cyber-attack on the systems of a well-known press
+agency, many services repeated it on their channels, before the false information was denied and
+removed, causing considerable confusion and widespread public concern.
+
+According to the Digital Decade Eurobarometer 2025, 84% of Poles believes that countering and
+mitigating the issue of fake news and disinformation online should be a priority for the public
+authorities.
+
+Tasks related to counteracting disinformation are carried out by several institutions, and a lack of
+appropriate coordination and communication between them remains a challenge. The draft State
+Digitalisation Strategy (Strategia Cyfryzacji Państwa) lists the following bodies as being active in this
+area in 2024: NASK-PIB, the Ministry of Foreign Affairs, the National Broadcasting Council (media
+education), the Government  Security Centre  (analysis of  threats,  including those  related to
+disinformation), other relevant services (including the SKW – Military Counterintelligence Service and
+the ABW – Internal Security Agency) and the commission for investigating Russian and Belarusian
+influences. So, one of the goals for the draft Strategy is identifying a government body to supervise
+and integrate the activities of these various bodies, to improve coordination and communication.
+
+Another challenge is the insufficiently critical approach to content that may be disinformation. In
+2023, according to data collected by Eurostat,12 47.23% of Polish people said they had encountered
+untrue or doubtful information or content on internet news sites or social media, above the EU average
+of 49.25%.
+
+Of these, 18.40% checked its truthfulness, representing a modest level of critical evaluation among
+those who perceived such content as misleading. Young people (16-24) (61.43%) reported more
+exposure than adults (25-64) (51.20%), which may be linked to different trends in internet usage, but
+the difference was on par with the EU average (61.66% vs 51.70%).
+
+However, the difference in verification rates - 25.97% of young people verified content compared to
+20.19% of adults – was much lower than the EU average (34.68% vs 25.18%). Males (48.17%) and
+females (46.34%) reported similar exposure rates, with males being slightly more likely to verify
+content, at 19.0% compared to 17.84% for females.
+
+
+
+12 This employed a different methodology than the 2024 ‘Disinformation through the eyes of Poles’ report, so is not
+comparable.
+
+                                       26 Poland
+
+
+
+In 2024, the Department of Countering Disinformation at NASK-PIB monitored social media
+platforms and the internet for potential disinformation, and reported suspicious content to the
+relevant authorities. Moreover, to enhance public awareness of disinformation and encourage a critical
+approach, especially among young people, NASK-PIB continued to run the ‘Make it clear - educating
+young people against disinformation online’ project, together with partners in Latvia and Romania.
+This project is funded under Creative Europe programme and aims to develop information skills in
+young people, as well as a conscious and critical approach to content shared in the media, especially
+social media.
+
+Another initiative implemented in 2024 was the ‘Security in Cyberspace’ project by the Warsaw
+Institute of Banking and NASK-PIB. A total of 34 webinars on disinformation and cyberbullying were
+conducted for primary and secondary schools, covering a total of 23 794 students.
+
+To help adults improve their digital skills, including those necessary to protect themselves online,
+from October to December 2024 Polish Radio broadcast a campaign called In the digital world (W
+cyfrowym świecie) across 17 regional stations. The goal was to encourage citizens to constantly
+improve their digital skills, raise their awareness of the threats and problems occurring in the digital
+world and build awareness of the need for conscious and safe use of broadly understood technology.
+The campaign was addressed to all citizens, with an emphasis on people aged 45+.
+
+Almost one third of the Polish population, especially young people, encounters hostile or degrading
+messages online. In 2023, 29.95% of people encountered such messages, such as those based on
+religion or racial origin. Although concerning, this figure was below the EU average of 33.5%. Young
+people (16–24) (41.95%) reported significantly higher exposure than adults (25–64) (31.74%), pointing
+to a marked age-related gap. Males (30.61%) and females (29.33%) experienced almost identical levels
+of exposure.
+
+According to the Digital Decade Eurobarometer 2025, 86% of Poles think the public authorities should
+urgently take action to protect children online and put in place age assurance mechanism to restrict
+age-inappropriate content. 85% of them has the same view about the measures to counter the
+negative impact of social media on the children’s mental health and 84% - to counter the cyberbullying
+and online harassment.
+
+One of the solutions available to victims of the hostile or degrading messages is reporting them
+anonymously to Dyżurnet.pl, which is NASK-PIB contact point for reporting potentially illegal online
+material. In 2024, Dyżurnet.pl received significantly more reports (28 000) than in 2023 (over 18 000).
+19 000 of them concerned CSAM (child sexual abuse content), three times more than the previous
+year.
+
+Over 11 000 of those reports were confirmed, a six-fold increase compared to previous years. Another
+worrying trend was the increase in number of incidents related to the creation of child sexual abuse
+or exploitation content - since 2022 the amount of such content has doubled, from 44 to 103 cases –
+pointing to an increase in the use of AI tools to produce such material.
+
+Another solution for combating certain forms of abuse in electronic communication - fake SMS
+messages (smishing) – is the law combating abuse in electronic communications adopted in 2023.
+Under this legislation, the CSIRT (computer security incident response team) at the NASK-PIB, one of
+the national-level CSIRTs, analysed text messages containing smishing and sent their patterns to
+telecoms operators so that they can block text messages that match this pattern. In 2014, 746 such
+patterns were distributed to limit the spread of SMS messages used by fraudsters.
+
+
+
+                                       27 Poland
+
+Leveraging  digital transformation  for a
+smart greening
+
+Polish authorities recognise the interrelation between the digital and green transformations. The
+draft State Digitalisation Strategy (Strategia Cyfryzacji Państwa), shared for consultation in November
+2024, was the first national policy document calling for a more comprehensive approach in this area.
+It sets out to ensure the availability and reuse of data on energy sector activities, improve monitoring
+of the environmental impact of digital technologies by public administrations, promote digital
+technologies that support the green transformation and an environmentally-friendly ICT sector, and
+raise citizens’ awareness of digital ecology. However, the Strategy has yet to be revised after the public
+consultation and adopted by the government in a finalised form, and neither the precise steps to be
+taken in this area nor any deadlines have been set.
+
+At the same time the energy consumption of the digital sector is growing rapidly, especially due to
+data centres’ needs. According to the PMR consultancy, in 2023 the capacity allocated to data centres
+in Poland amounted to 173 MW, almost 43% more than in 2022. In turn, the forecast for 2030 is at
+least 500 MW, which translates into a cumulative annual growth rate (CAGR) of 25%. This trend may
+continue well into the future: the Transmission Network Development Plan (Plan rozwoju sieci
+przesyłowej) for 2025-2034, prepared by the PSE (Polskie Sieci Elektroenergetyczne), predicts that at
+the end of this period, data centres will have 1 063 MW of power and their energy consumption will
+be 9.3 TWh.
+
+The Polish population recycles only a small part of its ICT equipment and the share of the population
+who regularly recycle these devices decreased between 2022 and 2024. In 2024, for each category of
+device, Poles recycled them less often than in the whole EU on average: laptops and tablets (7.59% vs.
+11.31%), desktop computers (9.57% vs. 14.66%) and mobile/smart phones (10.28% vs. 10.93%). The
+figures observed last year were also lower than those in 2022, when 9.4% of people in Poland had
+their laptops or tablets recycled, 12.8% their desktop computers, and 12.4% their mobile/smart
+phones.
+
+Poles pay more attention than the EU average to energy efficiency when purchasing ICT devices, but
+less to the eco-design of the device (e.g. durable, upgradeable and reparable designs that require
+fewer materials; environmentally-friendly materials used for packaging). 21.01% of people in Poland
+considered energy efficiency as important when purchasing ICT devices (EU: 19.35%) but the eco-
+design of the device was considered important by only 8.54%, below the EU average (12.04%).
+However, those two eco-friendly criteria take on less importance for the buyer than the price,
+performance and design of the device.
+
+In 2024, Poland implemented the following measures from its national roadmap:
+
+       the Agrifood TEF (test and experiment facility) to help technological companies in the agri-
+       food sector develop and validate AI and robotics solutions in real-world conditions, to create
+      and produce more efficient machines and processes,
+
+       participation in the Destination Earth initiative, aiming to create the earth’s digital twin,
+
+       support for transformation of enterprises to contribute to the circular economy, under its RRP
+        (a call to select beneficiaries was completed in late 2024)
+
+                                       28 Poland
+
+
+      development of national systems analysing satellite data, including to better protect the
+       environment, under the RRP (to be completed by August 2026)
+
+Rural and rural-urban municipalities (gminas), which are a majority of the over 2 500 local
+government units in Poland, often lack qualified personnel to implement modern technologies.
+Hence, the initiatives that integrate modern technologies, sustainable development, and energy
+savings to create a better urban environment were implemented by several larger cities. For example,
+Przemyśl has implemented a monitoring system to track water levels and weather conditions, allowing
+for early warnings and better preparedness for potential floods. Gdańsk has developed the Tristar
+system, a comprehensive traffic management platform that optimises traffic flow and improves public
+transportation. And Grudziądz uses a combination of sensors hidden in garbage cans and a SaaS
+system that collects data on when the containers are full, to optimise routes for municipal rubbish
+collection vehicles.
+
+The market for Smart Cities solutions in Poland is expected to grow. According to the intelligence
+platform Statista, by 2025 market revenue is expected to reach close to EUR 456 million. This growth
+is expected to continue at a compound annual growth rate of 12.74% from 2024 to 2029, with the
+market value reaching EUR 737.5 million by the end of that period.
+
+ 2024 recommendation on green ICT:  (i) Mainstream considerations for the impact on the
+ environment, including potential synergies, in the strategical reflection on national digital policy and
+ develop a coherent approach to twinning the  digital and green transitions.  First, promote
+ improvements in energy and material efficiency of digital infrastructures, in particular data centres.
+ Second, support the development and deployment of digital solutions that reduce the carbon
+ footprint in other sectors, such as energy, transport, buildings, and agriculture, including the uptake
+ of such solutions by SMEs. (ii) Monitor and quantify the emission reductions of the deployed digital
+ solutions in line with the relevant EU guidance and with the support of the methodology developed
+ by the European Green Digital Coalition, in view of future policy development, as well as of
+ attracting relevant financing
+
+ No information available on measures taken to address the recommendation. Poland plans to take
+ a more comprehensive approach regarding the digital and green transformations, but for the
+ moment specific information on relevant measures is lacking and systems for improved monitoring,
+ to ensure the availability and reuse of data on energy sector activities, have not yet been put in
+ place.
+
+
+
+
+
+                                       29 Poland
+
+Annex I – National roadmap analysis
+
+Poland’s national Digital Decade strategic roadmap
+
+Poland adopted its national Digital Decade roadmap on 22 October 2024. The country report
+published in July 2024, relied on the draft roadmap, shared on 30 January 2024 by the Polish
+authorities. The differences between this draft and the formally endorsed document were not
+substantial and do not alter the relevant findings of the above-mentioned report.
+
+Polish authorities have yet to submit the adjustments to the roadmap. They declared their intention
+to do so, in line with article 8 (3) of the decision establishing the Digital Decade Policy Programme, but
+at time of writing neither the formally endorsed document nor its draft has been shared with the
+Commission.
+
+There  is  hence no  information  available on  measures  taken  to  address  the  following
+recommendation issued in 2024:
+
+-   TARGETS: (i) Consider aligning with EU targets the level of ambition of targets for the number of
+    ICT specialists and for enterprises’ take-up of AI and data analytics.
+
+-  MEASURES: (i) Strengthen measures contributing to the targets that are the most difficult to
+    achieve for digital skills. (ii) Review the description of measures on the digitalisation of businesses
+   and connectivity to clarify their contribution to specific KPI. (iii) Provide information on relevant
+   measures at regional level, including regional operational programmes funded from the cohesion
+    policy. (iv) Provide information about the estimated investment gap, where this was not available
+     (i.e., on digital skills, ICT specialists, semiconductors, edge nodes, implementation of key digital
+    online public services, e-health and e-ID). (v) Provide more information on the implementation of
+     digital rights and principles (and Digital Decade general objectives), including what national
+   measures contribute to it.
+
+
+
+
+
+                                       30 Poland
+
+
+
+                      Measures and budget in national roadmap13
+
+
+
+
+
+ The roadmap includes 55 measures, with a total value of almost EUR 12.4 billion (about 1.5% of
+ GDP). They cover all Digital Decade targets, but some measures are deemed to contribute to more
+ than one target (e.g. measures related to digitalisation of businesses), making precise attribution
+  difficult. The roadmap also lists measures relating to general objectives, but without providing
+ information about their budget or timing.
+
+
+
+
+
+13 When referring to national roadmaps, the data in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). This data might reflect possible variations in
+reporting practices and methodological choices across Member States. No systematic assessment was made of the extent to
+which Member States followed the guidance.
+
+                                       31 Poland
+
+Annex  II – Factsheet on multi-country
+projects (MCPs) and funding
+
+ Multi-country projects and best practices
+
+ Poland is a member of the Alliance for Language Technologies EDIC and of the EUROPEUM EDIC, and is
+ working towards setting up an EDIC in the area of connected public administration. Poland is directly
+ participating in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in
+ the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). It is also a participating state
+ in the EuroHPC Joint Undertaking (JU) and the Chips JU.
+
+ Poland has not yet presented any projects under the Digital Decade’s Best Practice Accelerator.14
+
+
+
+ EU funding for digital policies in Poland
+ Poland allocates 21% of its total recovery and resilience plan to digital (EUR 7.5 billion)15. In addition,
+ under cohesion policy, EUR 5.7 billion (representing 8% of the country’s total cohesion policy
+ funding), is dedicated to advancing Poland’s digital transformation16. According to JRC estimates, EUR
+ 10.10 billion directly contribute to achieving Digital Decade targets (of which EUR 6.17 billion comes
+ from the RRF and EUR 3.93 billion from cohesion policy funding)17.
+
+ The largest amount from the Recovery and Resilience Plan is dedicated to ensuring access to high-speed
+ internet (EUR 1.4 billion), followed by investment in digital infrastructure and equipment for schools,
+ as well as digital skills for teachers (EUR 1.2 billion) and those focused on e-Health (EUR 1 billion).
+
+
+
+
+
+14 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+15 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+16 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+17 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       32 Poland
+
+Annex III – Digital Rights and Principles18
+
+
+
+
+
+Activity on Digital Rights and Principles (figure 1)
+
+According to the support study, Poland has been relatively active in implementing digital rights and
+principles, with 62 initiatives overall and 6 new initiatives launched in 2024, showing notable progress
+towards its commitments. Poland is most active in the area of Digital education, training and skills (II).
+There  is room for improvement, especially with regards to A fair digital environment  (III) and
+Sustainability (VI) where less activity has been identified.
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators developed by the support study illustrate the level of implementation
+of digital rights initiatives on the ground. Based on available data, they estimate the impact of
+measures implemented by key stakeholders in Poland (mainly national government) and how these
+are perceived by citizens.
+
+The indicators suggest that Poland is most successful in implementing commitments related to
+Freedom of choice (III). Poland should strengthen efforts in areas where the impact of digital rights
+initiatives appears to be limited, notably on Participation in the digital public space (IV).
+
+According to the Special Eurobarometer 'Digital Decade 2025’, 57% of citizens in Poland think that the
+EU protects their digital rights well (a 9% decrease since 2024). This is above the EU average of 44%.
+Citizens are particularly confident about getting more freedom of expression and information online
+(68%, above the EU average of 60%). They are most worried that their right to a safe digital
+environment and content for children and young people is not well protected (35%, below the EU
+average of 48%).
+
+
+
+
+
+18 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       33

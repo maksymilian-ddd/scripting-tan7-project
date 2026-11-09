@@ -1,0 +1,1936 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 12/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,Calibri,11.0,151.6,37.6,154.1,48.6, 
+2,0,2,TimesNewRomanPSMT,12.0,70.8,49.3,73.8,62.6, 
+2,1,0,TimesNewRomanPSMT,12.0,70.8,69.1,73.8,82.4, 
+2,2,0,Calibri,11.0,70.8,90.6,73.3,101.7, 
+2,3,0,Calibri,11.0,70.8,113.2,73.3,124.2, 
+2,4,0,Calibri-Bold,40.0,114.4,265.5,481.3,305.5,DIGITAL DECADE 2025
+2,4,0,Calibri,40.0,481.5,265.5,490.6,305.5, 
+2,4,1,Calibri,40.0,114.4,314.4,440.5,354.3,COUNTRY REPORTS 
+2,5,0,Calibri-Bold,28.0,211.1,402.1,298.9,430.1,Greece 
+2,6,0,Calibri,11.0,70.8,795.2,73.3,806.3, 
+3,0,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,1,Calibri,11.0,72.0,51.0,74.5,62.0, 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri-Light,11.0,83.1,174.5,401.0,185.5,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.5,523.0,185.5, ......................................... 6
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri-Light,11.0,94.0,194.1,211.8,205.1,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.1,523.0,205.1, .............................................................................................................. 6
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri-Light,11.0,94.0,213.5,164.9,224.5,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.5,523.0,224.5, ............................................................................................................................... 9
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 9
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri-Light,11.0,94.0,252.5,194.6,263.6,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.5,523.0,263.6, .................................................................................................................... 9
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 10
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri-Light,11.0,94.0,291.5,268.6,302.6,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.5,523.0,302.6, ....................................................................................... 10
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri-Light,11.0,94.0,311.0,242.4,322.0,Take up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,242.4,311.0,523.0,322.0, ................................................................................................. 11
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri-Light,11.0,94.0,330.5,239.8,341.6,"Unicorns, scale-ups and start-ups"
+3,14,0,Calibri,11.0,239.7,330.5,523.0,341.6, .................................................................................................. 13
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri-Light,11.0,83.1,350.0,264.2,361.0,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.0,523.0,361.0, ......................................................................................... 14
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 16
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri-Light,11.0,83.1,389.0,437.2,400.0,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.0,523.0,400.0, .......................... 16
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Light,11.0,94.0,408.4,195.2,419.5,Equipping people with 
+3,18,0,Calibri,11.0,195.3,408.4,523.0,419.5,digital skills ............................................................................................... 16
+3,18,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,19,0,Calibri-Light,11.0,94.0,428.0,462.5,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,19,0,Calibri,11.0,462.7,428.0,523.0,439.0, ................. 19
+3,19,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,20,0,Calibri-Light,11.0,83.1,447.4,456.9,458.5,Building a safe and human centric digital environment and preserving our democracy
+3,20,0,Calibri,11.0,457.2,447.4,523.0,458.5, ................... 21
+3,20,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,21,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 23
+3,21,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,22,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 25
+3,22,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,23,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 27
+3,23,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,24,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 28
+3,24,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,25,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,26,0,Calibri,11.0,72.0,567.5,74.5,578.5, 
+3,26,1,Calibri,11.0,216.1,567.5,218.5,578.5, 
+3,27,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.9,137.3,"Greece continues its steady progress in rolling out fibre for gigabit connectivity. However, it struggles "
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.9,151.8,to fill the gap of ICT specialists and to address a severe digital gap in basic digital skills between 
+4,4,2,Calibri-Bold,11.0,72.0,155.2,525.9,166.2,"different age groups and between rural and urban areas. Despite this, the country’s displays an "
+4,4,3,Calibri-Bold,11.0,72.0,169.7,452.5,180.7,encouraging growth rate in the digitalisation of small and medium-size enterprises. 
+4,5,0,Calibri-Bold,11.0,72.0,192.1,525.6,203.2,Greece shows a moderate level of ambition in its contribution to the Digital Decade having set 14 
+4,5,1,Calibri-Bold,11.0,72.0,206.7,525.5,217.7,"national targets, 57% of which aligned with the EU 2030 targets. The country is following its "
+4,5,2,Calibri-Bold,11.0,72.0,221.2,525.8,232.2,trajectories well with 88% of them being on track (based on the 2024 trajectories defined for 8 KPIs 
+4,5,3,Calibri-Bold,11.0,72.0,235.7,525.7,246.8,out of 8 analysed). Greece addressed 77% of the 13 recommendations issued by the Commission in 
+4,5,4,Calibri-Bold,11.0,72.0,250.1,525.6,261.2,"2024, either by implementing significant policy changes (31%) or making some changes (46%) "
+4,5,5,Calibri-Bold,11.0,72.0,264.6,182.4,275.7,through new measures. 
+4,6,0,Calibri,11.0,72.0,287.2,525.8,298.2,"In 2024, Greece’s 5G coverage was among the highest in the EU and was very close to the Digital "
+4,6,1,Calibri,11.0,72.0,301.6,525.6,312.6,"Decade 2030 target. Despite rapid progress, the adoption of artificial intelligence (AI) by businesses "
+4,6,2,Calibri,11.0,72.0,316.1,525.7,327.2,remains below par. The selection of Greece to host one of the seven first AI Factories in the EU confirms 
+4,6,3,Calibri,11.0,72.0,330.6,525.7,341.7,the country’s commitment to help build the EU’s technological leadership. The AI Factory will also 
+4,6,4,Calibri,11.0,72.0,345.2,525.9,356.2,contribute to developing and strengthening the start-up ecosystem in Greece. Regarding the transition 
+4,6,5,Calibri,11.0,72.0,359.6,525.8,370.6,"of public services, although the latest data indicates limited annual progress in services for citizens, "
+4,6,6,Calibri,11.0,72.0,374.1,525.6,385.1,"the integration of AI into the single digital portal of the public administration will improve the quality, "
+4,6,7,Calibri,11.0,72.0,388.6,525.8,399.6,speed and accessibility of public services. Greece has also developed a strategy and new measures for 
+4,6,8,Calibri,11.0,72.0,403.1,236.8,414.2,protecting minors online such as the 
+4,6,8,Calibri,11.0,236.8,403.1,349.2,414.2,parental control initiative
+4,6,8,Calibri,11.0,349.3,403.1,354.5,414.2,. 
+4,7,0,Calibri-Bold,7.0,298.9,429.8,319.2,436.8,Greece
+4,7,0,SegoeUI,9.0,319.3,425.4,321.7,437.0, 
+4,7,1,Calibri-Bold,7.0,416.4,429.8,424.3,436.8,EU
+4,7,1,Calibri,7.0,424.3,429.8,425.9,436.8, 
+4,7,1,SegoeUI,9.0,426.0,425.4,428.4,437.0, 
+4,7,2,Calibri-Bold,7.0,461.4,425.5,523.7,432.5,Digital Decade target 
+4,8,0,Calibri-Bold,7.0,478.8,434.2,503.0,441.1,by 2030 
+4,8,0,Calibri,7.0,503.0,434.2,504.6,441.1, 
+4,8,0,SegoeUI,9.0,504.7,429.7,507.2,441.3, 
+4,9,0,Calibri,7.0,74.2,437.4,75.8,444.4, 
+4,9,0,SegoeUI,9.0,75.7,432.9,78.2,444.5, 
+4,10,0,Calibri-Bold,7.0,238.1,446.3,268.2,453.2,DESI 2024 
+4,11,0,Calibri,14.0,96.1,447.3,202.2,461.4,Digital Decade KPI 
+4,11,0,Calibri,7.0,202.1,448.7,209.9,455.6,(1)
+4,11,0,Calibri,11.0,209.9,449.6,212.4,460.6, 
+4,11,0,SegoeUI,9.0,212.4,448.2,214.9,459.8, 
+4,12,0,Calibri-Bold,7.0,348.8,446.3,375.1,453.2,National 
+4,12,1,Calibri-Bold,7.0,346.9,454.8,376.9,461.8,trajectory 
+4,13,0,Calibri-Bold,7.0,272.2,450.6,302.3,457.6,DESI 2025 
+4,13,1,Calibri-Bold,7.0,269.2,459.1,301.9,466.1,(year 2024)
+4,13,1,Calibri,7.0,302.0,459.1,303.6,466.1, 
+4,13,1,SegoeUI,9.0,303.7,454.6,306.1,466.2, 
+4,14,0,Calibri-Bold,7.0,312.2,450.6,334.4,457.6,Annual 
+4,14,1,Calibri-Bold,7.0,309.3,459.1,333.9,466.1,progress
+4,14,1,Calibri,7.0,334.0,459.1,335.6,466.1, 
+4,14,1,SegoeUI,9.0,335.7,454.6,338.2,466.2, 
+4,15,0,Calibri-Bold,7.0,245.0,454.8,261.4,461.8,(year 
+4,15,1,Calibri-Bold,7.0,243.4,463.4,259.6,470.4,2023)
+4,15,1,Calibri,7.0,259.7,463.4,261.3,470.4, 
+4,15,1,SegoeUI,9.0,261.4,459.0,263.9,470.6, 
+4,16,0,Calibri-Bold,7.0,348.4,463.4,372.0,470.4,2024 (3)
+4,16,0,Calibri,7.0,372.1,463.4,373.6,470.4, 
+4,16,0,SegoeUI,9.0,373.8,459.0,376.2,470.6, 
+4,16,1,Calibri-Bold,7.0,386.1,454.8,414.7,461.8,DESI 2025
+4,16,1,Calibri,7.0,414.7,454.8,416.3,461.8, 
+4,16,1,SegoeUI,9.0,416.4,450.3,418.8,461.9, 
+4,16,2,Calibri-Bold,7.0,430.3,450.6,452.5,457.6,Annual 
+4,16,3,Calibri-Bold,7.0,427.4,459.1,452.0,466.1,progress
+4,16,3,Calibri,7.0,452.1,459.1,453.7,466.1, 
+4,16,3,SegoeUI,9.0,453.8,454.6,456.3,466.2, 
+4,16,4,Calibri-Bold,7.0,472.3,454.8,478.6,461.8,EL
+4,16,4,Calibri,7.0,478.7,454.8,480.2,461.8, 
+4,16,4,SegoeUI,9.0,480.2,450.3,482.7,461.9, 
+4,16,5,Calibri-Bold,7.0,502.8,454.8,510.7,461.8,EU
+4,16,5,Calibri,7.0,510.7,454.8,512.3,461.8, 
+4,16,5,SegoeUI,9.0,512.4,450.3,514.9,461.9, 
+4,17,0,Calibri-Bold,7.0,72.6,478.8,220.7,485.8,Fixed Very High Capacity Network (VHCN) coverage
+4,17,0,Calibri,7.0,221.0,478.8,222.5,485.8, 
+4,17,0,SegoeUI,9.0,222.6,474.3,225.1,485.9, 
+4,17,1,Calibri,7.0,243.6,478.8,261.0,485.8,38.4%
+4,17,1,SegoeUI,7.0,261.0,476.5,263.0,485.5, 
+4,17,2,Calibri,7.0,277.7,478.8,295.1,485.8,46.1%
+4,17,2,SegoeUI,7.0,295.1,476.5,297.1,485.5, 
+4,17,3,Calibri,7.0,313.8,478.8,331.1,485.8,19.9%
+4,17,3,SegoeUI,7.0,331.1,476.5,333.1,485.5, 
+4,17,4,Calibri,7.0,351.7,478.8,372.2,485.8, 42.0% 
+4,17,4,SegoeUI,7.0,372.3,476.5,374.2,485.5, 
+4,17,5,Calibri,7.0,392.6,478.8,409.9,485.8,82.5%
+4,17,5,SegoeUI,7.0,410.0,476.5,411.9,485.5, 
+4,17,6,Calibri,7.0,433.7,478.8,447.5,485.8,4.9%
+4,17,6,SegoeUI,7.0,447.6,476.5,449.5,485.5, 
+4,17,7,Calibri,7.0,465.7,478.8,486.6,485.8,100.0%
+4,17,7,SegoeUI,7.0,486.7,476.5,488.6,485.5, 
+4,17,8,Calibri,7.0,499.8,478.8,515.3,485.8,100%
+4,17,8,SegoeUI,7.0,515.4,476.5,517.3,485.5, 
+4,18,0,Calibri-Bold,7.0,72.6,494.6,181.3,501.6,Fibre to the Premises (FTTP) coverage
+4,18,0,Calibri,7.0,181.4,494.6,182.9,501.6, 
+4,18,0,SegoeUI,9.0,183.1,490.2,185.5,501.8, 
+4,18,1,Calibri,7.0,243.6,494.6,261.0,501.6,38.4%
+4,18,1,SegoeUI,7.0,261.0,492.4,263.0,501.3, 
+4,18,2,Calibri,7.0,277.7,494.6,295.1,501.6,46.1%
+4,18,2,SegoeUI,7.0,295.1,492.4,297.1,501.3, 
+4,18,3,Calibri,7.0,313.8,494.6,331.1,501.6,19.9%
+4,18,3,SegoeUI,7.0,331.1,492.4,333.1,501.3, 
+4,18,4,Calibri,7.0,351.7,494.6,372.2,501.6, 42.0% 
+4,18,4,SegoeUI,7.0,372.3,492.4,374.2,501.3, 
+4,18,5,Calibri,7.0,392.6,494.6,409.9,501.6,69.2%
+4,18,5,SegoeUI,7.0,410.0,492.4,411.9,501.3, 
+4,18,6,Calibri,7.0,433.7,494.6,447.5,501.6,8.4%
+4,18,6,SegoeUI,7.0,447.6,492.4,449.5,501.3, 
+4,18,7,Calibri,7.0,465.7,494.6,486.6,501.6,100.0%
+4,18,7,SegoeUI,7.0,486.7,492.4,488.6,501.3, 
+4,18,8,Calibri,7.0,506.5,494.6,508.6,501.6,-
+4,18,8,SegoeUI,7.0,508.7,492.4,510.6,501.3, 
+4,19,0,Calibri-Bold,7.0,72.6,510.4,130.3,517.3,Overall 5G coverage
+4,19,0,Calibri,7.0,130.5,510.4,132.0,517.3, 
+4,19,0,SegoeUI,9.0,132.1,505.9,134.6,517.5, 
+4,19,1,Calibri,7.0,243.6,510.4,261.0,517.3,98.1%
+4,19,1,SegoeUI,7.0,261.0,508.1,263.0,517.1, 
+4,19,2,Calibri,7.0,277.7,510.4,295.1,517.3,99.8%
+4,19,2,SegoeUI,7.0,295.1,508.1,297.1,517.1, 
+4,19,3,Calibri,7.0,315.5,510.4,329.4,517.3,1.8%
+4,19,3,SegoeUI,7.0,329.5,508.1,331.4,517.1, 
+4,19,4,Calibri,7.0,351.7,510.4,372.2,517.3, 88.0% 
+4,19,4,SegoeUI,7.0,372.3,508.1,374.2,517.1, 
+4,19,5,Calibri,7.0,392.6,510.4,409.9,517.3,94.3%
+4,19,5,SegoeUI,7.0,410.0,508.1,411.9,517.1, 
+4,19,6,Calibri,7.0,433.7,510.4,447.5,517.3,5.9%
+4,19,6,SegoeUI,7.0,447.6,508.1,449.5,517.1, 
+4,19,7,Calibri,7.0,465.7,510.4,486.6,517.3,100.0%
+4,19,7,SegoeUI,7.0,486.7,508.1,488.6,517.1, 
+4,19,8,Calibri,7.0,499.8,510.4,515.3,517.3,100%
+4,19,8,SegoeUI,7.0,515.4,508.1,517.3,517.1, 
+4,20,0,Calibri-Bold,7.0,72.6,526.1,137.6,533.0,Edge Nodes (estimate)
+4,20,0,Calibri,7.0,137.7,526.1,139.2,533.0, 
+4,20,0,SegoeUI,9.0,139.3,521.6,141.8,533.2, 
+4,20,1,Calibri,7.0,250.6,526.1,254.1,533.0,7
+4,20,1,SegoeUI,7.0,254.2,523.8,256.1,532.8, 
+4,20,2,Calibri,7.0,282.9,526.1,289.9,533.0,13
+4,20,2,SegoeUI,7.0,290.0,523.8,291.9,532.8, 
+4,20,3,Calibri,7.0,313.8,526.1,331.1,533.0,85.7%
+4,20,3,SegoeUI,7.0,331.1,523.8,333.1,532.8, 
+4,20,4,Calibri,7.0,358.6,526.1,365.2,533.0, 0 
+4,20,4,SegoeUI,7.0,365.4,523.8,367.3,532.8, 
+4,20,5,Calibri,7.0,394.1,526.1,408.2,533.0,2257
+4,20,5,SegoeUI,7.0,408.3,523.8,410.2,532.8, 
+4,20,6,Calibri,7.0,432.0,526.1,449.3,533.0,90.5%
+4,20,6,SegoeUI,7.0,449.4,523.8,451.3,532.8, 
+4,20,7,Calibri,7.0,472.7,526.1,479.7,533.0,95
+4,20,7,SegoeUI,7.0,479.7,523.8,481.6,532.8, 
+4,20,8,Calibri,7.0,498.7,526.1,516.4,533.0,10000
+4,20,8,SegoeUI,7.0,516.5,523.8,518.4,532.8, 
+4,21,0,Calibri-Bold,7.0,72.6,541.8,225.8,548.8,SMEs with at least a basic level of digital intensity (2)
+4,21,0,Calibri,7.0,225.9,541.8,227.5,548.8, 
+4,21,0,SegoeUI,9.0,227.6,537.3,230.0,548.9, 
+4,21,1,Calibri,7.0,251.3,541.8,253.5,548.8,-
+4,21,1,SegoeUI,7.0,253.5,539.5,255.4,548.5, 
+4,21,2,Calibri,7.0,277.7,541.8,295.1,548.8,53.4%
+4,21,2,SegoeUI,7.0,295.1,539.5,297.1,548.5, 
+4,21,3,Calibri,7.0,313.8,541.8,331.1,548.8,13.9%
+4,21,3,SegoeUI,7.0,331.1,539.5,333.1,548.5, 
+4,21,4,Calibri,7.0,359.2,541.8,364.5,548.8, - 
+4,21,4,SegoeUI,7.0,364.5,539.5,366.4,548.5, 
+4,21,5,Calibri,7.0,392.6,541.8,409.9,548.8,72.9%
+4,21,5,SegoeUI,7.0,410.0,539.5,411.9,548.5, 
+4,21,6,Calibri,7.0,433.7,541.8,447.5,548.8,2.8%
+4,21,6,SegoeUI,7.0,447.6,539.5,449.5,548.5, 
+4,21,7,Calibri,7.0,467.5,541.8,484.8,548.8,79.7%
+4,21,7,SegoeUI,7.0,484.9,539.5,486.8,548.5, 
+4,21,8,Calibri,7.0,501.6,541.8,513.6,548.8,90%
+4,21,8,SegoeUI,7.0,513.7,539.5,515.6,548.5, 
+4,22,0,Calibri-Bold,7.0,72.6,557.7,89.2,564.6,Cloud
+4,22,0,Calibri,7.0,89.2,557.7,90.8,564.6, 
+4,22,0,SegoeUI,9.0,90.9,553.2,93.3,564.8, 
+4,22,1,Calibri,7.0,243.6,557.7,261.0,564.6,18.1%
+4,22,1,SegoeUI,7.0,261.0,555.4,263.0,564.3, 
+4,22,2,Calibri,7.0,285.4,557.7,287.6,564.6,-
+4,22,2,SegoeUI,7.0,287.6,555.4,289.5,564.3, 
+4,22,3,Calibri,7.0,321.4,557.7,323.6,564.6,-
+4,22,3,SegoeUI,7.0,323.6,555.4,325.5,564.3, 
+4,22,4,Calibri,7.0,359.2,557.7,364.5,564.6, - 
+4,22,4,SegoeUI,7.0,364.5,555.4,366.4,564.3, 
+4,22,5,Calibri,7.0,400.2,557.7,402.3,564.6,-
+4,22,5,SegoeUI,7.0,402.3,555.4,404.2,564.3, 
+4,22,6,Calibri,7.0,439.5,557.7,441.7,564.6,-
+4,22,6,SegoeUI,7.0,441.7,555.4,443.6,564.3, 
+4,22,7,Calibri,7.0,467.5,557.7,484.8,564.6,56.0%
+4,22,7,SegoeUI,7.0,484.9,555.4,486.8,564.3, 
+4,22,8,Calibri,7.0,501.6,557.7,513.6,564.6,75%
+4,22,8,SegoeUI,7.0,513.7,555.4,515.6,564.3, 
+4,23,0,Calibri-Bold,7.0,72.6,573.4,132.1,580.4,Artificial Intelligence
+4,23,0,Calibri,7.0,132.1,573.4,133.7,580.4, 
+4,23,0,SegoeUI,9.0,133.8,568.9,136.3,580.5, 
+4,23,1,Calibri,7.0,245.4,573.4,259.3,580.4,4.0%
+4,23,1,SegoeUI,7.0,259.4,571.1,261.3,580.1, 
+4,23,2,Calibri,7.0,279.5,573.4,293.4,580.4,9.8%
+4,23,2,SegoeUI,7.0,293.5,571.1,295.4,580.1, 
+4,23,3,Calibri,7.0,312.0,573.4,332.9,580.4,146.5%
+4,23,3,SegoeUI,7.0,333.0,571.1,334.9,580.1, 
+4,23,4,Calibri,7.0,353.5,573.4,370.4,580.4, 6.3% 
+4,23,4,SegoeUI,7.0,370.5,571.1,372.4,580.1, 
+4,23,5,Calibri,7.0,392.6,573.4,409.9,580.4,13.5%
+4,23,5,SegoeUI,7.0,410.0,571.1,411.9,580.1, 
+4,23,6,Calibri,7.0,432.0,573.4,449.3,580.4,67.2%
+4,23,6,SegoeUI,7.0,449.4,571.1,451.3,580.1, 
+4,23,7,Calibri,7.0,467.5,573.4,484.8,580.4,32.0%
+4,23,7,SegoeUI,7.0,484.9,571.1,486.8,580.1, 
+4,23,8,Calibri,7.0,501.6,573.4,513.6,580.4,75%
+4,23,8,SegoeUI,7.0,513.7,571.1,515.6,580.1, 
+4,24,0,Calibri-Bold,7.0,72.6,589.1,113.3,596.1,Data analytics
+4,24,0,Calibri,7.0,113.3,589.1,114.9,596.1, 
+4,24,0,SegoeUI,9.0,115.0,584.6,117.4,596.2, 
+4,24,1,Calibri,7.0,243.6,589.1,261.0,596.1,25.0%
+4,24,1,SegoeUI,7.0,261.0,586.8,263.0,595.8, 
+4,24,2,Calibri,7.0,285.4,589.1,287.6,596.1,-
+4,24,2,SegoeUI,7.0,287.6,586.8,289.5,595.8, 
+4,24,3,Calibri,7.0,321.4,589.1,323.6,596.1,-
+4,24,3,SegoeUI,7.0,323.6,586.8,325.5,595.8, 
+4,24,4,Calibri,7.0,359.2,589.1,364.5,596.1, - 
+4,24,4,SegoeUI,7.0,364.5,586.8,366.4,595.8, 
+4,24,5,Calibri,7.0,400.2,589.1,402.3,596.1,-
+4,24,5,SegoeUI,7.0,402.3,586.8,404.2,595.8, 
+4,24,6,Calibri,7.0,439.5,589.1,441.7,596.1,-
+4,24,6,SegoeUI,7.0,441.7,586.8,443.6,595.8, 
+4,24,7,Calibri,7.0,467.5,589.1,484.8,596.1,40.0%
+4,24,7,SegoeUI,7.0,484.9,586.8,486.8,595.8, 
+4,24,8,Calibri,7.0,501.6,589.1,513.6,596.1,75%
+4,24,8,SegoeUI,7.0,513.7,586.8,515.6,595.8, 
+4,25,0,Calibri-Bold,7.0,72.6,604.8,154.9,611.8,AI or Cloud or Data analytics
+4,25,0,Calibri,7.0,154.9,604.8,156.5,611.8, 
+4,25,0,SegoeUI,9.0,156.6,600.3,159.1,612.0, 
+4,25,1,Calibri,7.0,243.6,604.8,261.0,611.8,33.5%
+4,25,1,SegoeUI,7.0,261.0,602.6,263.0,611.5, 
+4,25,2,Calibri,7.0,285.4,604.8,287.6,611.8,-
+4,25,2,SegoeUI,7.0,287.6,602.6,289.5,611.5, 
+4,25,3,Calibri,7.0,321.4,604.8,323.6,611.8,-
+4,25,3,SegoeUI,7.0,323.6,602.6,325.5,611.5, 
+4,25,4,Calibri,7.0,359.2,604.8,364.5,611.8, - 
+4,25,4,SegoeUI,7.0,364.5,602.6,366.4,611.5, 
+4,25,5,Calibri,7.0,400.2,604.8,402.3,611.8,-
+4,25,5,SegoeUI,7.0,402.3,602.6,404.2,611.5, 
+4,25,6,Calibri,7.0,439.5,604.8,441.7,611.8,-
+4,25,6,SegoeUI,7.0,441.7,602.6,443.6,611.5, 
+4,25,7,Calibri,7.0,475.2,604.8,477.3,611.8,-
+4,25,7,SegoeUI,7.0,477.3,602.6,479.2,611.5, 
+4,25,8,Calibri,7.0,501.6,604.8,513.6,611.8,75%
+4,25,8,SegoeUI,7.0,513.7,602.6,515.6,611.5, 
+4,26,0,Calibri-Bold,7.0,72.6,620.7,98.3,627.6,Unicorns
+4,26,0,Calibri,7.0,98.3,620.7,99.9,627.6, 
+4,26,0,SegoeUI,9.0,100.0,616.2,102.5,627.8, 
+4,26,1,Calibri,7.0,250.6,620.7,254.1,627.6,3
+4,26,1,SegoeUI,7.0,254.2,618.4,256.1,627.4, 
+4,26,2,Calibri,7.0,284.7,620.7,288.2,627.6,3
+4,26,2,SegoeUI,7.0,288.3,618.4,290.2,627.4, 
+4,26,3,Calibri,7.0,315.5,620.7,329.4,627.6,0.0%
+4,26,3,SegoeUI,7.0,329.5,618.4,331.4,627.4, 
+4,26,4,Calibri,7.0,358.6,620.7,365.2,627.6, 4 
+4,26,4,SegoeUI,7.0,365.4,618.4,367.3,627.4, 
+4,26,5,Calibri,7.0,396.0,620.7,406.6,627.6,286
+4,26,5,SegoeUI,7.0,406.7,618.4,408.6,627.4, 
+4,26,6,Calibri,7.0,433.7,620.7,447.5,627.6,4.4%
+4,26,6,SegoeUI,7.0,447.6,618.4,449.5,627.4, 
+4,26,7,Calibri,7.0,472.7,620.7,479.7,627.6,20
+4,26,7,SegoeUI,7.0,479.7,618.4,481.6,627.4, 
+4,26,8,Calibri,7.0,502.3,620.7,512.9,627.6,500
+4,26,8,SegoeUI,7.0,513.0,618.4,514.9,627.4, 
+4,27,0,Calibri-Bold,7.0,72.6,636.4,145.9,643.4,At least basic digital skills
+4,27,0,Calibri,7.0,145.9,636.4,147.5,643.4, 
+4,27,0,SegoeUI,9.0,147.6,631.9,150.1,643.5, 
+4,27,1,Calibri,7.0,243.6,636.4,261.0,643.4,52.4%
+4,27,1,SegoeUI,7.0,261.0,634.1,263.0,643.1, 
+4,27,2,Calibri,7.0,285.4,636.4,287.6,643.4,-
+4,27,2,SegoeUI,7.0,287.6,634.1,289.5,643.1, 
+4,27,3,Calibri,7.0,321.4,636.4,323.6,643.4,-
+4,27,3,SegoeUI,7.0,323.6,634.1,325.5,643.1, 
+4,27,4,Calibri,7.0,359.2,636.4,364.5,643.4, - 
+4,27,4,SegoeUI,7.0,364.5,634.1,366.4,643.1, 
+4,27,5,Calibri,7.0,400.2,636.4,402.3,643.4,-
+4,27,5,SegoeUI,7.0,402.3,634.1,404.2,643.1, 
+4,27,6,Calibri,7.0,439.5,636.4,441.7,643.4,-
+4,27,6,SegoeUI,7.0,441.7,634.1,443.6,643.1, 
+4,27,7,Calibri,7.0,467.5,636.4,484.8,643.4,70.2%
+4,27,7,SegoeUI,7.0,484.9,634.1,486.8,643.1, 
+4,27,8,Calibri,7.0,501.6,636.4,513.6,643.4,80%
+4,27,8,SegoeUI,7.0,513.7,634.1,515.6,643.1, 
+4,28,0,Calibri-Bold,7.0,72.6,652.1,112.7,659.1,ICT specialists
+4,28,0,Calibri,7.0,112.7,652.1,114.3,659.1, 
+4,28,0,SegoeUI,9.0,114.4,647.6,116.8,659.2, 
+4,28,1,Calibri,7.0,245.4,652.1,259.3,659.1,2.4%
+4,28,1,SegoeUI,7.0,259.4,649.8,261.3,658.8, 
+4,28,2,Calibri,7.0,279.5,652.1,293.4,659.1,2.5%
+4,28,2,SegoeUI,7.0,293.5,649.8,295.4,658.8, 
+4,28,3,Calibri,7.0,315.5,652.1,329.4,659.1,4.2%
+4,28,3,SegoeUI,7.0,329.5,649.8,331.4,658.8, 
+4,28,4,Calibri,7.0,353.5,652.1,370.4,659.1, 3.0% 
+4,28,4,SegoeUI,7.0,370.5,649.8,372.4,658.8, 
+4,28,5,Calibri,7.0,394.3,652.1,408.1,659.1,5.0%
+4,28,5,SegoeUI,7.0,408.2,649.8,410.1,658.8, 
+4,28,6,Calibri,7.0,433.7,652.1,447.5,659.1,4.2%
+4,28,6,SegoeUI,7.0,447.6,649.8,449.5,658.8, 
+4,28,7,Calibri,7.0,469.3,652.1,483.1,659.1,4.5%
+4,28,7,SegoeUI,7.0,483.2,649.8,485.1,658.8, 
+4,28,8,Calibri,7.0,499.8,652.1,515.3,659.1,~10%
+4,28,8,SegoeUI,7.0,515.4,649.8,517.3,658.8, 
+4,29,0,Calibri-Bold,7.0,72.6,667.8,141.1,674.8,eID scheme notification
+4,29,0,Calibri,7.0,141.1,667.8,142.7,674.8, 
+4,29,0,SegoeUI,9.0,142.8,663.3,145.3,675.0, 
+4,29,1,Calibri,7.0,251.6,667.8,253.1,674.8, 
+4,29,1,SegoeUI,7.0,253.1,665.6,255.0,674.5, 
+4,29,2,Calibri,7.0,282.4,667.8,290.5,674.8,No
+4,29,2,SegoeUI,7.0,290.6,665.6,292.5,674.5, 
+4,29,3,Calibri,7.0,321.7,667.8,323.2,674.8, 
+4,29,3,SegoeUI,7.0,323.2,665.6,325.1,674.5, 
+4,29,4,Calibri,7.0,360.3,667.8,361.9,674.8, 
+4,29,4,SegoeUI,7.0,361.9,665.6,363.8,674.5, 
+4,29,5,Calibri,7.0,400.5,667.8,402.1,674.8, 
+4,29,5,SegoeUI,7.0,402.1,665.6,404.0,674.5, 
+4,29,6,Calibri,7.0,439.9,667.8,441.5,674.8, 
+4,29,6,SegoeUI,7.0,441.5,665.6,443.4,674.5, 
+4,29,7,Calibri,7.0,475.4,667.8,477.0,674.8, 
+4,29,7,SegoeUI,7.0,477.0,665.6,478.9,674.5, 
+4,29,8,Calibri,7.0,506.9,667.8,508.4,674.8, 
+4,29,8,SegoeUI,7.0,508.4,665.6,510.3,674.5, 
+4,30,0,Calibri-Bold,7.0,72.6,683.7,168.1,690.6,Digital public services for citizens
+4,30,0,Calibri,7.0,168.1,683.7,169.7,690.6, 
+4,30,0,SegoeUI,9.0,169.9,679.2,172.3,690.8, 
+4,30,1,Calibri,7.0,246.2,683.7,258.5,690.6,75.9
+4,30,1,SegoeUI,7.0,258.5,681.4,260.4,690.4, 
+4,30,2,Calibri,7.0,280.2,683.7,292.5,690.6,76.7
+4,30,2,SegoeUI,7.0,292.6,681.4,294.5,690.4, 
+4,30,3,Calibri,7.0,315.5,683.7,329.4,690.6,1.1%
+4,30,3,SegoeUI,7.0,329.5,681.4,331.4,690.4, 
+4,30,4,Calibri,7.0,354.2,683.7,369.7,690.6, 71.8 
+4,30,4,SegoeUI,7.0,369.8,681.4,371.7,690.4, 
+4,30,5,Calibri,7.0,395.1,683.7,407.4,690.6,82.3
+4,30,5,SegoeUI,7.0,407.5,681.4,409.4,690.4, 
+4,30,6,Calibri,7.0,433.7,683.7,447.5,690.6,3.6%
+4,30,6,SegoeUI,7.0,447.6,681.4,449.5,690.4, 
+4,30,7,Calibri,7.0,470.0,683.7,482.3,690.6,98.2
+4,30,7,SegoeUI,7.0,482.4,681.4,484.3,690.4, 
+4,30,8,Calibri,7.0,502.3,683.7,512.9,690.6,100
+4,30,8,SegoeUI,7.0,513.0,681.4,514.9,690.4, 
+4,31,0,Calibri-Bold,7.0,72.6,699.4,177.8,706.4,Digital public services for businesses
+4,31,0,Calibri,7.0,177.9,699.4,179.5,706.4, 
+4,31,0,SegoeUI,9.0,179.6,694.9,182.0,706.5, 
+4,31,1,Calibri,7.0,246.2,699.4,258.5,706.4,86.2
+4,31,1,SegoeUI,7.0,258.5,697.1,260.4,706.1, 
+4,31,2,Calibri,7.0,280.2,699.4,292.5,706.4,78.6
+4,31,2,SegoeUI,7.0,292.6,697.1,294.5,706.1, 
+4,31,3,Calibri,7.0,314.5,699.4,330.4,706.4,-8.8%
+4,31,3,SegoeUI,7.0,330.4,697.1,332.3,706.1, 
+4,31,4,Calibri,7.0,354.2,699.4,369.7,706.4, 81.3 
+4,31,4,SegoeUI,7.0,369.8,697.1,371.7,706.1, 
+4,31,5,Calibri,7.0,395.1,699.4,407.4,706.4,86.2
+4,31,5,SegoeUI,7.0,407.5,697.1,409.4,706.1, 
+4,31,6,Calibri,7.0,433.7,699.4,447.5,706.4,0.9%
+4,31,6,SegoeUI,7.0,447.6,697.1,449.5,706.1, 
+4,31,7,Calibri,7.0,468.2,699.4,484.1,706.4,100.0
+4,31,7,SegoeUI,7.0,484.2,697.1,486.1,706.1, 
+4,31,8,Calibri,7.0,502.3,699.4,512.9,706.4,100
+4,31,8,SegoeUI,7.0,513.0,697.1,514.9,706.1, 
+4,32,0,Calibri-Bold,7.0,72.6,715.1,149.1,722.1,Access to e-Health records
+4,32,0,Calibri,7.0,149.1,715.1,150.6,722.1, 
+4,32,0,SegoeUI,9.0,150.7,710.6,153.2,722.2, 
+4,32,1,Calibri,7.0,246.2,715.1,258.5,722.1,73.8
+4,32,1,SegoeUI,7.0,258.5,712.8,260.4,721.8, 
+4,32,2,Calibri,7.0,280.2,715.1,292.5,722.1,73.8
+4,32,2,SegoeUI,7.0,292.6,712.8,294.5,721.8, 
+4,32,3,Calibri,7.0,315.5,715.1,329.4,722.1,0.0%
+4,32,3,SegoeUI,7.0,329.5,712.8,331.4,721.8, 
+4,32,4,Calibri,7.0,354.2,715.1,369.7,722.1, 66.6 
+4,32,4,SegoeUI,7.0,369.8,712.8,371.7,721.8, 
+4,32,5,Calibri,7.0,395.1,715.1,407.4,722.1,82.7
+4,32,5,SegoeUI,7.0,407.5,712.8,409.4,721.8, 
+4,32,6,Calibri,7.0,433.7,715.1,447.5,722.1,4.5%
+4,32,6,SegoeUI,7.0,447.6,712.8,449.5,721.8, 
+4,32,7,Calibri,7.0,468.2,715.1,484.1,722.1,100.0
+4,32,7,SegoeUI,7.0,484.2,712.8,486.1,721.8, 
+4,32,8,Calibri,7.0,502.3,715.1,512.9,722.1,100
+4,32,8,SegoeUI,7.0,513.0,712.8,514.9,721.8, 
+4,33,0,Calibri,7.0,75.5,727.6,322.5,734.6,(1) See the methodological note for the description of the indicators and other metrics 
+4,33,1,Calibri,7.0,75.5,736.3,496.6,743.2,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index (DII), which is comparable to the DII value from DESI 2023 (referring to 2022) for the "
+4,33,2,Calibri,7.0,75.5,744.8,417.0,751.7,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,33,3,Calibri,7.0,75.5,753.3,440.6,760.3,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (referring to 2024)
+4,33,3,SegoeUI,9.0,440.7,748.8,443.2,760.4, 
+4,34,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,34,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+5,3,0,Calibri-Bold,11.0,72.0,84.0,380.3,95.1,According to the special Eurobarometer on ‘the Digital Decade 2025’
+5,3,0,Calibri,11.0,380.4,84.0,525.9,95.1,: (i) 78% of the Greek population 
+5,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,consider that the digitalisation of daily public and private services is making their lives easier; (ii) 92% 
+5,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,consider it important that the public authorities counter and mitigate the issue of fake news and 
+5,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,disinformation online; and (iii) 83% consider that ensuring European companies’ ability to grow and 
+5,3,4,Calibri,11.0,72.0,142.0,481.6,153.0,become ‘European Champions’ that can compete globally is important for competitiveness. 
+5,4,0,Calibri-Light,15.0,72.0,165.3,466.9,180.3,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Light,15.0,72.0,185.1,138.1,200.1,leadership 
+5,5,0,Calibri,11.0,72.0,211.9,525.9,223.0,"Greece is making progress in deploying gigabit connectivity infrastructure, with a 46.1% VHCN "
+5,5,1,Calibri,11.0,72.0,226.5,525.6,237.5,"coverage in 2024. While this is below the EU average, the outlook for the 2030 targets is positive, as "
+5,5,2,Calibri,11.0,72.0,241.0,525.9,252.0,various operators have recently announced significant investments in the deployment of fibre optic 
+5,5,3,Calibri,11.0,72.0,255.4,525.6,266.5,networks across the country by 2027. Greece’s high annual growth rate of 13.9% for the digital 
+5,5,4,Calibri,11.0,72.0,269.9,525.7,281.0,transition of small and medium-size enterprises (SMEs) resulted in 53.4% of SMEs having at least a 
+5,5,5,Calibri,11.0,72.0,284.4,525.8,295.5,"basic level of digital intensity in 2024. However, this is still below the EU average. The adoption of AI "
+5,5,6,Calibri,11.0,72.0,299.0,525.6,310.0,by enterprises in general is also demonstrating an exceptional progress with more than doubling its 
+5,5,7,Calibri,11.0,72.0,313.4,525.5,324.4,share (from 4.0% in 2023 to 9.8% in 2024). The adjustment of the roadmap includes the ‘Plan for the 
+5,5,8,Calibri,11.0,72.0,327.9,525.6,338.9,"transition of Greece to the AI ERA’, published in November 2024. This plan includes a chapter on how "
+5,5,9,Calibri,11.0,72.0,342.4,525.7,353.4,"AI can boost innovation and enhance the business ecosystem. With regards to cybersecurity, Greece "
+5,5,10,Calibri,11.0,72.0,356.9,525.9,368.0,has restructured its National Cybersecurity Authority to an independent public law entity aiming at 
+5,5,11,Calibri,11.0,72.0,371.3,525.7,382.4,"enhancing the Authority’s operational autonomy and capacity, enabling it to more effectively "
+5,5,12,Calibri,11.0,72.0,385.8,525.9,396.9,coordinate and oversee the implementation of the NIS2 Directive which has been transposed in 
+5,5,13,Calibri,11.0,72.0,400.4,525.9,411.4,November 2024 and will continue to develop its national cybersecurity strategy and related policies in 
+5,5,14,Calibri,11.0,72.0,414.9,335.9,425.9,alignment with the EU and the national strategic priorities. 
+5,6,0,Calibri-Light,15.0,72.0,438.2,379.5,453.2,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,465.1,525.9,476.1,Increasing the number of ICT specialists in employment remains one of the biggest challenges faced 
+5,7,1,Calibri,11.0,72.0,479.6,525.8,490.6,by Greece in its digital transition. Additional measures to familiarise young people with digital 
+5,7,2,Calibri,11.0,72.0,494.1,525.6,505.1,technologies very early during their schooling have been included in the adjustment of the national 
+5,7,3,Calibri,11.0,72.0,508.6,525.8,519.7,roadmap to attract young people to ICT studies and careers by making them familiar with digital very 
+5,7,4,Calibri,11.0,72.0,523.0,525.8,534.1,early during their schooling. The initiative to reverse the serious brain drain during the economic crisis 
+5,7,5,Calibri,11.0,72.0,537.5,525.9,548.6,and to encourage highly skilled Greeks living abroad to return to the Greek labour market will also help 
+5,7,6,Calibri,11.0,72.0,552.1,525.8,563.1,to increase the number of ICT specialists in employment. The country also faces a challenge in fostering 
+5,7,7,Calibri,11.0,72.0,566.6,525.9,577.7,"digital skills for all, with significant gaps between age groups and between rural-urban segments of the "
+5,7,8,Calibri,11.0,72.0,581.1,525.8,592.2,population. The annual rate of progress in the digital transformation of public services and businesses 
+5,7,9,Calibri,11.0,72.0,595.5,525.9,606.6,"is slowing down, although the country continues to actively implement its broad strategy for the digital "
+5,7,10,Calibri,11.0,72.0,610.1,525.9,621.1,transformation of public services. The introduction of the services related to the Single Digital Gateway 
+5,7,11,Calibri,11.0,72.0,624.6,525.8,635.6,"regulation (SDGR) present additional challenge for these indicators to reach the target. In 2024, Greece "
+5,7,12,Calibri,11.0,72.0,639.1,525.7,650.1,launched a large-scale project to set up a new eID infrastructure and also integrate it with Gov.gr Wallet 
+5,7,13,Calibri,11.0,72.0,653.5,525.8,664.5,"and the new ID cards. However, it has not yet notified an e-ID scheme to the Commission under the "
+5,7,14,Calibri,11.0,72.0,668.0,525.7,679.1,"eIDAS Regulation. In line with the Commission priority of protecting minors online, Greece has "
+5,7,15,Calibri,11.0,72.0,682.5,135.8,693.6,launched the ‘
+5,7,15,Calibri,11.0,135.7,682.5,188.5,693.6,Kids Wallet’
+5,7,15,Calibri,11.0,188.6,682.5,429.8,693.6, application as part of an overall strategy on this area. 
+5,8,0,Calibri-Light,15.0,72.0,705.8,399.0,720.8,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,732.8,525.9,743.9,"Greece is addressing the environmental impact of the digital transition and digital infrastructure, by "
+5,9,1,Calibri,11.0,72.0,747.2,525.7,758.3,stimulating private investments in green data centres and by addressing the need to optimise the 
+5,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,10,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+6,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,distribution of renewable energy for the growing number of digital data centres across the country. 
+6,2,1,Calibri,11.0,72.0,98.4,525.8,109.5,"Additionally, the public sector is implementing initiatives, such as an action plan for green and "
+6,2,2,Calibri,11.0,72.0,112.9,214.1,124.0,innovative public procurement. 
+6,4,0,Calibri-Light,15.0,72.0,136.4,325.7,151.4,National digital decade strategic roadmap 
+6,5,0,Calibri,11.0,72.0,163.2,525.9,174.3,"Greece submitted adjustments to its national Digital Decade roadmap on 17 January 2025, with "
+6,5,1,Calibri,11.0,72.0,177.7,525.7,188.8,specific follow-up actions addressing a substantial number of recommendations issued in 2024. It 
+6,5,2,Calibri,11.0,72.0,192.1,525.8,203.2,"includes 16 additional measures, and an in-depth analysis of the situation. In particular, Greece "
+6,5,3,Calibri,11.0,72.0,206.7,525.9,217.7,"explained why it has not, at this stage, revised the national targets that were not aligned with the EU "
+6,5,4,Calibri,11.0,72.0,221.2,525.6,232.2,2030 targets. This concerns the targets related to the digital transformation of SMEs and to the 
+6,5,5,Calibri,11.0,72.0,235.7,525.6,246.8,"adoption of technologies (AI, cloud, data analytics), as well as the two targets related to digital skills. "
+6,5,6,Calibri,11.0,72.0,250.1,525.9,261.2,"The updates are aligned with the new Commission’s priorities, such as: (i) advancing AI technology and "
+6,5,7,Calibri,11.0,72.0,264.6,525.8,275.7,innovation; (ii) deploying submarine cables to increase the resilience of backbone networks; (iii) joining 
+6,5,8,Calibri,11.0,72.0,279.2,525.9,290.2,"forces to develop capacities in edge technology, such as quantum computing; and (vi) protecting "
+6,5,9,Calibri,11.0,72.0,293.7,525.7,304.7,minors online. The adjustment includes reporting on the consultation of stakeholders. The roadmap 
+6,5,10,Calibri,11.0,72.0,308.1,525.6,319.1,and the adjustments to it continue to build on Greece’s national digital transformation strategy (for 
+6,5,11,Calibri,11.0,72.0,322.6,525.8,333.6,"2020-2025). It contains priorities in the four pillars of the Digital Decade, while adding new measures "
+6,5,12,Calibri,11.0,72.0,337.1,525.7,348.2,"in strategic digital technologies, such as AI and quantum computing. The updated roadmap contains "
+6,5,13,Calibri,11.0,72.0,351.6,525.7,362.7,125 measures and has a budget of EUR 6.1 bn (equivalent to 2.57% of GDP). It also gives a rough 
+6,5,14,Calibri,11.0,72.0,366.2,525.8,377.2,estimate of EUR 7 bn in private investments over the coming years in data centres and gigabit 
+6,5,15,Calibri,11.0,72.0,380.6,525.6,391.6,"connectivity. The revised roadmap covers the broad objectives of the Digital Decade, such as "
+6,5,16,Calibri,11.0,72.0,395.1,525.9,406.1,"cybersecurity and resilience, building a safe and human centric digital environment, and promoting "
+6,5,17,Calibri,11.0,72.0,409.6,525.8,420.7,"the responsible use of AI. In 2024, the Ministry of Digital Governance launched the revision of the "
+6,5,18,Calibri,11.0,72.0,424.1,525.9,435.2,national digital transformation strategy (for 2020-2025) by consulting the Executive Network of Digital 
+6,5,19,Calibri,11.0,72.0,438.5,525.8,449.6,"Transformation (ENDT), a large network of public services in order to produce a national policy for "
+6,5,20,Calibri,11.0,72.0,453.1,525.8,464.1,aligning the future national digital transformation strategy (for 2026-2030) with the Digital Decade 
+6,5,21,Calibri,11.0,72.0,467.6,108.2,478.6,targets. 
+6,6,0,Calibri-Light,15.0,72.0,490.9,249.8,505.9,Funding & projects for digital 
+6,7,0,Calibri,11.0,72.0,517.9,463.1,528.9,Greece allocates 21% of its total recovery and resilience plan to digital (EUR 7.4 billion)
+6,7,0,Calibri,7.0,463.1,517.0,466.6,523.9,1
+6,7,0,Calibri,11.0,466.5,517.9,525.9,528.9,". In addition, "
+6,7,1,Calibri,11.0,72.0,532.3,525.8,543.3,"under cohesion policy, EUR 2.7 billion, representing 13% of the country’s total cohesion policy funding, "
+6,7,2,Calibri,11.0,72.0,546.8,324.7,557.8,is dedicated to advancing Greece’s digital transformation
+6,7,2,Calibri,7.0,324.8,545.9,328.3,552.8,2
+6,7,2,Calibri,11.0,328.3,546.8,333.5,557.8,. 
+6,8,0,Calibri,11.0,72.0,569.4,525.8,580.4,Greece is a member of the ‘Alliance for Language Technologies’ European Digital Infrastructure 
+6,8,1,Calibri,11.0,72.0,583.8,525.9,594.8,Consortium (EDIC) and of the EUROPEUM EDIC for blockchain. The country is directly participating in 
+6,8,2,Calibri,11.0,72.0,598.3,525.8,609.3,the important project of common European interest on Microelectronics and Communication 
+6,8,3,Calibri,11.0,72.0,612.8,525.8,623.9,Technologies (IPCEI-ME/CT). Greece is also a participating state in the EuroHPC Joint Undertaking (JU) 
+6,8,4,Calibri,11.0,72.0,627.3,162.7,638.4,and of the Chips JU. 
+6,9,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+6,10,0,Calibri,6.0,72.0,716.7,75.1,722.7,1
+6,10,0,Calibri,9.0,75.0,716.9,524.9,725.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,10,1,Calibri,9.0,72.0,727.9,313.5,736.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,10,2,Calibri,6.0,72.0,738.7,75.1,744.7,2
+6,10,2,Calibri,9.0,75.0,738.9,523.2,747.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,10,3,Calibri,9.0,72.0,749.8,525.0,758.8,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,10,4,Calibri,9.0,72.0,760.9,315.5,769.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,11,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+7,2,0,Calibri,11.0,72.0,84.0,324.4,95.1,Greece has contributed to the Best Practice Accelerator
+7,2,0,Calibri,7.0,324.4,83.1,328.0,90.1,3
+7,2,0,Calibri,11.0,327.9,84.0,525.9,95.1, by sharing one best practice in the ‘Digital 
+7,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,Skills’ cluster: ‘Training Civil Servants in Cloud Computing Technologies’ and one best practice in the 
+7,2,2,Calibri,11.0,72.0,112.9,457.2,124.0,‘Uptake of Digital Technologies’ cluster: ‘the Greek Data Strategy and Interoperability’. 
+7,4,0,Calibri-Light,15.0,72.0,136.4,238.3,151.4,Digital rights and principles 
+7,5,0,Calibri,11.0,72.0,163.2,477.1,174.3,"According to a support study, Greece has been relatively active in implementing the "
+7,5,0,Calibri-Bold,11.0,479.6,163.2,525.9,174.3,European 
+7,5,1,Calibri-Bold,11.0,72.0,177.7,266.6,188.8,Declaration on Digital Rights and Principles
+7,5,1,Calibri,11.0,266.7,177.7,525.9,188.8,", with 43 initiatives overall but no new initiatives launched "
+7,5,2,Calibri,11.0,72.0,192.1,525.9,203.2,"in 2024. Greece is most active in digital education, training and skills while less activity has been "
+7,5,3,Calibri,11.0,72.0,206.7,525.9,217.7,identified with regards to Sustainability. Measures regarding sustainability appear to have most impact 
+7,5,4,Calibri,11.0,72.0,221.2,475.6,232.2,"on the ground, in contrast to those addressing the participation in the digital public space. "
+7,6,0,Calibri-Bold,11.0,77.7,244.2,165.4,255.3,Recommendations 
+7,7,0,ArialMT,11.0,77.7,259.9,84.5,272.2,- 
+7,7,1,Calibri-Bold,11.0,95.7,261.6,162.6,272.7,ICT specialists:
+7,7,1,Calibri,11.0,162.6,261.6,526.7,272.7, continue to explore options focusing on raising the number of ICT specialists in 
+7,7,2,Calibri,11.0,95.7,276.2,158.0,287.2,employment. 
+7,7,3,ArialMT,11.0,77.7,289.0,84.5,301.3,- 
+7,7,4,Calibri-Bold,11.0,95.7,290.7,179.4,301.7,Basic digital skills:
+7,7,4,Calibri,11.0,179.4,290.7,526.7,301.7," address the large digital gap in basic digital skills, between age groups and "
+7,7,5,Calibri,11.0,95.7,305.2,239.1,316.2,between rural and urban areas. 
+7,7,6,ArialMT,11.0,77.7,317.9,84.5,330.2,- 
+7,7,7,Calibri-Bold,11.0,95.7,319.6,203.6,330.6,Digital public services: 
+7,7,7,Calibri,11.0,205.9,319.6,526.7,330.6,address all the dimensions of online public services for citizens and 
+7,7,8,Calibri,11.0,95.7,334.1,320.7,345.2,"businesses, including the cross-border dimension. "
+7,7,9,ArialMT,11.0,77.7,346.9,84.5,359.2,- 
+7,7,10,Calibri-Bold,11.0,95.7,348.6,319.0,359.7,Uptake of digital technologies by businesses:
+7,7,10,Calibri,11.0,319.1,348.6,526.7,359.7, further develop the ecosystem and raise 
+7,7,11,Calibri,11.0,95.7,363.2,526.8,374.2,awareness of existing opportunities and resources for businesses to benefit from advanced 
+7,7,12,Calibri,11.0,95.7,377.6,526.7,388.6,digital technologies - such as AI - and from access to innovative process (e.g. through the 
+7,7,13,Calibri,11.0,95.7,392.1,286.0,403.1,European Digital Innovation Hubs (EDIHs). 
+7,7,14,ArialMT,11.0,77.7,404.9,84.5,417.2,- 
+7,7,15,Calibri-Bold,11.0,95.7,406.6,117.5,417.7,e-ID:
+7,7,15,Calibri,11.0,117.5,406.6,309.0,417.7, notify an e-ID scheme to the Commission. 
+7,7,16,ArialMT,11.0,77.7,419.4,84.5,431.7,- 
+7,7,17,Calibri-Bold,11.0,95.7,421.1,166.4,432.2,Smart greening
+7,7,17,Calibri,11.0,166.3,421.1,526.8,432.2,: make efforts to leverage digital technologies for smart greening in additional 
+7,7,18,Calibri,11.0,95.7,435.5,388.9,446.6,"sectors of the economy (e.g. transport, buildings and agriculture)."
+7,7,18,Calibri,11.0,388.9,435.5,391.4,446.6, 
+7,8,0,Calibri-Bold,11.0,72.0,453.5,74.5,464.6, 
+7,9,0,Calibri,11.0,72.0,490.4,74.5,501.4, 
+7,9,1,Calibri-Bold,26.0,216.1,479.1,221.9,505.2, 
+7,10,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+7,11,0,Calibri,6.0,72.0,727.6,75.1,733.6,3
+7,11,0,Calibri,9.0,75.0,727.9,525.1,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+7,11,1,Calibri,9.0,72.0,738.9,525.5,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+7,11,2,Calibri,9.0,72.0,749.8,525.2,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+7,11,3,Calibri,9.0,72.0,760.9,248.6,769.9,"Green IT, and the Uptake of Digital Technologies."
+7,11,3,Calibri,10.0,248.7,760.2,250.9,770.1, 
+7,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.8,171.5,"Greece continues to implement its strategy and reforms to digitally transform the economy, with "
+8,4,1,Calibri-Bold,11.0,72.0,175.0,453.2,186.0,encouraging signs. Although challenges remain in terms of technological leadership. 
+8,4,1,Calibri,11.0,452.9,175.0,525.9,186.0,The country still 
+8,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,"suffers from a low level of private investment, but many recent signs show a growing interest in digital "
+8,4,3,Calibri,11.0,72.0,203.9,231.5,214.9,infrastructure and high-tech sector. 
+8,5,0,Calibri-Bold,11.0,72.0,226.5,525.7,237.5,"In the last five years, Greece has had an active policy to attract investments in digital technology "
+8,5,1,Calibri-Bold,11.0,72.0,241.0,223.1,252.0,which is starting to show results.
+8,5,1,Calibri,11.0,223.1,241.0,525.8,252.0," Substantial investment plans in data centres are taking shape, and "
+8,5,2,Calibri,11.0,72.0,255.4,525.9,266.5,Greece could become a regional hub for data centres by 2030. The deployment of new submarine 
+8,5,3,Calibri,11.0,72.0,269.9,525.9,281.0,cables also reinforces the backbone digital infrastructure of the country and will contribute to connect 
+8,5,4,Calibri,11.0,72.0,284.4,525.9,295.5,"Greece with several countries bordering the Mediterranean and beyond, putting the country on the "
+8,5,5,Calibri,11.0,72.0,299.0,300.6,310.0,map of the global digital communications gateway. 
+8,6,0,Calibri-Bold,11.0,72.0,321.4,525.9,332.5,Greece was selected in 2024 to host one of the seven first Artificial Intelligence (AI) Factories in the 
+8,6,1,Calibri-Bold,11.0,72.0,335.9,89.9,347.0,EU. 
+8,6,1,Calibri,11.0,90.6,335.9,109.7,347.0,The 
+8,6,1,Calibri-Bold,11.0,110.4,335.9,113.3,347.0,‘
+8,6,1,Calibri,11.0,113.2,335.9,525.8,347.0,"Pharos’ project aims to create an AI ecosystem in the country bringing together academia, "
+8,6,2,Calibri,11.0,72.0,350.4,525.8,361.5,"research, industry and the public sector with a focus on health data utilisation, climate change "
+8,6,3,Calibri,11.0,72.0,364.8,525.9,375.9,"mitigation, and fostering a Greek language model as part of the country’s digital transformation "
+8,6,4,Calibri,11.0,72.0,379.4,488.5,390.4,strategy. The project will also foster the growth of the dynamic start-up ecosystem in Greece. 
+8,7,0,Calibri,11.0,72.0,401.9,313.0,413.0,According to the Digital Decade Eurobarometer 2025
+8,7,0,Calibri,7.0,313.1,401.0,316.7,408.0,4
+8,7,0,Calibri,11.0,316.6,401.9,525.9,413.0,", 86% of respondents in Greece consider that "
+8,7,1,Calibri,11.0,72.0,416.3,525.7,427.4,building efficient and secure digital infrastructures and data processing facilities should be a priority 
+8,7,2,Calibri,11.0,72.0,430.9,188.1,441.9,for the public authorities. 
+8,8,0,Calibri-Bold,11.0,72.0,453.3,525.8,464.4,"Digital transformation of enterprises remains a challenge for Greece, although the business sector "
+8,8,1,Calibri-Bold,11.0,72.0,467.8,406.9,478.9,showed significant annual growth in 2024 in the use of AI technologies. 
+8,8,1,Calibri,11.0,407.7,467.8,525.8,478.9,On the digital maturity of 
+8,8,2,Calibri,11.0,72.0,482.3,525.9,493.4,SMEs (53.42%) Greece remained considerably below the EU average (72.91%) albeit with an 
+8,8,3,Calibri,11.0,72.0,496.9,525.8,507.9,impressive rate of progress (13.9%). The features of Greek business demography could explain the 
+8,8,4,Calibri,11.0,72.0,511.3,525.8,522.3,difficulties in seeing tangible results on this KPI. The implementation of measures foreseen in the 
+8,8,5,Calibri,11.0,72.0,525.8,525.7,536.8,Recovery and Resilience Plan is set to contribute to address the need for technology adaptation of 
+8,8,6,Calibri,11.0,72.0,540.3,525.9,551.3,businesses. Investments and reforms planned for the digital transformation of the public and private 
+8,8,7,Calibri,11.0,72.0,554.8,311.6,565.9,sectors should be favourable to the growth potential. 
+8,9,0,Calibri-Bold,11.0,72.0,577.3,525.8,588.3,"In Greece, the ICT sector represented 3.04% in gross value added in 2022 below the EU average of "
+8,9,1,Calibri-Bold,11.0,72.0,591.8,102.7,602.9,5.46%.
+8,9,1,Calibri,11.0,102.7,591.8,525.8,602.9, R&D spending in the ICT sector represented 25.34% of the total R&D business expenditures in 
+8,9,2,Calibri,11.0,72.0,606.3,517.2,617.4,2022. R&D personnel in the ICT sector account for 34.51% of total employed R&D across the economy
+8,9,2,Calibri,7.0,517.2,605.4,520.7,612.4,5
+8,9,2,Calibri,11.0,520.7,606.3,525.9,617.4,", "
+8,9,3,Calibri,11.0,72.0,620.7,432.1,631.8,which is relatively high compared to other EU countries with a similar population
+8,9,3,Calibri,7.0,432.1,619.8,435.6,626.8,6
+8,9,3,Calibri,11.0,435.6,620.7,440.8,631.8,. 
+8,10,0,Calibri-Bold,11.0,72.0,643.3,292.3,654.3,"In the 2024 European Innovation Scoreboard,"
+8,10,0,Calibri-Italic,11.0,292.4,643.3,294.9,654.3, 
+8,10,0,Calibri,11.0,297.7,643.3,525.9,654.3,Greece is ranked as a ‘moderate innovator’. Its 
+8,10,1,Calibri,11.0,72.0,657.8,525.9,668.9,"performance has improved since last year’s report but remains below the EU average. In 2024, "
+8,10,2,Calibri,11.0,72.0,672.2,525.9,683.3,"Greece’s start-up ecosystem continued to grow, but early-stage funding remained limited. However, "
+8,11,0,Calibri,11.0,216.1,712.3,218.5,723.3, 
+8,12,0,Calibri,6.0,72.0,725.2,75.1,731.2,4
+8,12,0,Calibri,9.0,75.0,725.5,285.5,734.5, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,12,0,Calibri,9.0,285.7,725.5,515.0,734.5,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,12,0,Calibri,9.0,515.2,725.5,517.2,734.5, 
+8,12,1,Calibri,6.5,72.0,735.9,75.3,742.4,5
+8,12,1,Calibri,10.0,75.3,736.8,77.5,746.7, 
+8,12,1,Calibri,9.0,77.5,737.5,472.3,746.5,Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note 
+8,12,2,Calibri,9.0,72.0,748.6,283.1,757.6,accompanying the State of the Digital Decade report 2025
+8,12,2,Calibri,10.0,283.3,747.9,285.5,757.9, 
+8,12,3,Calibri,6.5,72.0,759.1,75.3,765.5,6
+8,12,3,Calibri,10.0,75.3,759.9,77.5,769.9, 
+8,12,3,Calibri,9.0,77.5,760.6,288.1,769.6,"Observation, in the absence of a figure for the EU average"
+8,12,3,Calibri,10.0,288.1,759.9,290.3,769.9, 
+8,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+9,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"overall in 2024, investors signalled their confidence in Greece’s start-up sector despite global economic "
+9,2,1,Calibri,11.0,72.0,98.4,135.7,109.5,uncertainties. 
+9,4,0,Calibri-Bold,11.0,72.0,121.0,525.8,132.0,"In terms of sovereignty building, Greece is contributing to the European strategic autonomy with "
+9,4,1,Calibri-Bold,11.0,72.0,135.5,254.5,146.5,two projects for critical raw materials. 
+9,4,1,Calibri,11.0,256.0,135.5,525.9,146.5,"In March 2025, the European Commission published a list "
+9,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,under the critical raw materials regulation including two projects extracting and processing raw 
+9,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,materials in Greece which are essential in technologies for digital transition and energy. As technology 
+9,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,"advances and threats evolve, Greece transposed the NIS2 Directive in 2024 and continues to develop "
+9,4,5,Calibri,11.0,72.0,193.5,187.7,204.5,its cybersecurity strategy. 
+9,5,0,Calibri-Light,15.0,72.0,216.8,509.7,231.8,Building technological leadership: digital infrastructure and technologies 
+9,6,0,Calibri,11.0,72.0,243.6,525.9,254.7,Greece’s gigabit connectivity infrastructure deployment has recently shown positive progress with 
+9,6,1,Calibri,11.0,72.0,258.2,525.9,269.2,"good prospects of achieving the 2030 target, although challenges remain: slow fibre roll-out in sparsely "
+9,6,2,Calibri,11.0,72.0,272.7,525.9,283.7,"populated areas and, overall, a level of VHCN coverage that is still below the EU average. However, "
+9,6,3,Calibri,11.0,72.0,287.2,525.8,298.2,recent announcements by various operators about significant investments in fibre optic networks 
+9,6,4,Calibri,11.0,72.0,301.6,525.9,312.6,"across the country by 2027 are positive signs of this dynamism. At the same time, 5G networks’ "
+9,6,5,Calibri,11.0,72.0,316.1,352.1,327.2,coverage in Greece is already almost reaching the 2030 target. 
+9,7,0,Calibri-Light,12.0,72.0,338.9,203.2,350.9,Connectivity infrastructure 
+9,8,0,Calibri-Bold,11.0,72.0,366.4,525.9,377.4,"Greece’s very high-capacity network (VHCN) coverage stood at 46.06% in 2024, significantly lower "
+9,8,1,Calibri-Bold,11.0,72.0,380.9,506.2,392.0,than the EU average 82.49% but showing a growth rate of 19.9% outperforming the EU’s 4.9%.
+9,8,1,Calibri,11.0,506.1,380.9,525.9,392.0, For 
+9,8,2,Calibri,11.0,72.0,395.5,525.9,406.5,"households in sparsely populated areas, the VHCN coverage was 0.00% in 2023 and rises at 3.26% in "
+9,8,3,Calibri,11.0,72.0,410.0,263.3,421.0,2024 notably lower than the EU’s 61.89%.  
+9,9,0,Calibri-Bold,11.0,72.0,432.4,525.9,443.5,Greece’s fibre to the premises (FTTP) coverage at 46.06% largely reflects total VHCN in absence of 
+9,9,1,Calibri-Bold,11.0,72.0,446.9,222.0,458.0,coaxial networks in the country. 
+9,9,1,Calibri,11.0,222.3,446.9,525.9,458.0,"This result is lower than the EU average 69.24%, but with a growth "
+9,9,2,Calibri,11.0,72.0,461.5,525.9,472.5,rate of 19.9% significantly higher than the average EU growth rate at 8.4%. For sparsely populated 
+9,9,3,Calibri,11.0,72.0,475.9,525.9,486.9,"areas, Greece’s FTTP coverage was 3.26% in 2024 lower than the EU’s 58.78%. In terms of "
+9,9,4,Calibri,11.0,72.0,490.4,525.8,501.4,"subscriptions, the share of fixed broadband subscriptions of at least 100 Mbps services stood at 34.85% "
+9,9,5,Calibri,11.0,72.0,504.9,525.5,515.9,"in 2024, lower than the EU’s (71.88%) but showing a growth rate of 18.1% outperforming the EU’s "
+9,9,6,Calibri,11.0,72.0,519.4,525.7,530.5,"9.1%. In 2024, 0.00% of households in Greece had a fixed broadband subscription providing at least "
+9,9,7,Calibri,11.0,72.0,533.8,262.3,544.9,"1 Gbps, while the EU average was 22.25%. "
+9,10,0,Calibri-Bold,11.0,72.0,556.4,465.0,567.5,Greece’s overall 5G coverage stood at 99.80% in 2024 higher than the EU’s 94.35%.
+9,10,0,Calibri,11.0,465.1,556.4,525.9,567.5, For sparsely 
+9,10,1,Calibri,11.0,72.0,570.8,525.9,581.9,"populated areas, Greece’s 5G coverage was 99.29% in 2024, significantly higher than the EU’s 79.57%. "
+9,10,2,Calibri,11.0,72.0,585.3,525.8,596.4,"In the 3.4–3.8 GHz band, Greece’s 5G coverage in 2023 was already higher than the EU average. In "
+9,10,3,Calibri,11.0,72.0,599.9,525.8,610.9,"2024, the data confirmed the speedy deployment of this band, which enables advanced applications "
+9,10,4,Calibri,11.0,72.0,614.4,525.9,625.4,"requiring a wide spectrum bandwidth, with 72.94% coverage higher than the EU’s 67.72%. For sparsely "
+9,10,5,Calibri,11.0,72.0,628.9,525.9,639.9,"populated areas, Greece’s 5G coverage in this band was 6.21% in 2023 and grew extremely fast to "
+9,10,6,Calibri,11.0,72.0,643.3,525.9,654.3,"41.01% in 2024, while the EU average remains at 26.19% representing an exceptional growth rate of "
+9,10,7,Calibri,11.0,72.0,657.8,246.3,668.9,"560.4% in 2024, while the EU’s 65.1%.  "
+9,11,0,Calibri-Bold,11.0,72.0,680.3,525.9,691.3,"Regarding 5G spectrum, Greece was one of the few Member States to have assigned the harmonised "
+9,11,1,Calibri-Bold,11.0,72.0,694.8,308.0,705.8,5G pioneer spectrum to a level of 99.17% since 2021
+9,11,1,Calibri,11.0,308.1,694.8,525.9,705.8,". In 2025, this is still considerably higher than the "
+9,11,2,Calibri,11.0,72.0,709.3,176.7,720.3,EU average of 74.63%.  
+9,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+10,2,0,Calibri-LightItalic,11.0,72.0,84.0,143.4,95.1,VHCN and FTTP 
+10,4,0,Calibri-Bold,11.0,72.0,110.4,525.8,121.5,Greece remains committed to its national target of reaching 100% gigabit connectivity coverage by 
+10,4,1,Calibri-Bold,11.0,72.0,124.9,389.2,136.0,2030 and the country is on track according to its national trajectory. 
+10,4,1,Calibri,11.0,389.8,124.9,525.9,136.0,The KPI result in 2024 is even 
+10,4,2,Calibri,11.0,72.0,139.5,525.9,150.5,slightly above the forecast made by Greece for that year in its national trajectories for both VHCN and 
+10,4,3,Calibri,11.0,72.0,154.0,525.9,165.0,"FTTP, although the latest figures show a growth rate of 19.9% in 2024 compared to the annual growth "
+10,4,4,Calibri,11.0,72.0,168.4,220.6,179.4,rate observed last year of 37.9%. 
+10,5,0,Calibri-Bold,11.0,72.0,190.9,525.9,202.0,"In 2024, the regulator for the electronic communication market in Greece (EETT) made several "
+10,5,1,Calibri-Bold,11.0,72.0,205.5,445.4,216.5,regulatory interventions to ease the speed up the deployment of FTTH networks
+10,5,1,Calibri,11.0,445.8,205.5,525.9,216.5, (e.g. decision on 
+10,5,2,Calibri,11.0,72.0,219.9,525.7,230.9,monthly fee for co-location and interconnection services. Regulatory measures taken by the regulator 
+10,5,3,Calibri,11.0,72.0,234.4,525.7,245.4,are also encouraging the FTTH uptake by allowing volume discounts for the use of the regulated fibre 
+10,5,4,Calibri,11.0,72.0,248.9,114.6,260.0,network. 
+10,6,0,Calibri-Bold,11.0,72.0,271.4,525.9,282.4,With the recent entry of new operators on the market and major investment plans from all 
+10,6,1,Calibri-Bold,11.0,72.0,285.9,384.3,296.9,"operators, rapid progress in the roll-out of FTTH network is expected."
+10,6,1,Calibri-Italic,11.0,384.3,285.9,386.8,296.9, 
+10,6,1,Calibri,11.0,386.5,285.9,453.4,296.9,The incumbent
+10,6,1,Calibri-Italic,11.0,453.5,285.9,456.0,296.9, 
+10,6,1,Calibri,11.0,455.7,285.9,525.9,296.9,plans to deploy 
+10,6,2,Calibri,11.0,72.0,300.4,525.8,311.5,fibre to 3 million households by 2027 (1.7 million households are already passed by representing 36% 
+10,6,3,Calibri,11.0,72.0,314.9,525.8,326.0,of the market). The Greek Public Power Company (DEI) has started the deployment of its own 
+10,6,4,Calibri,11.0,72.0,329.3,525.9,340.4,"wholesale network, aiming to provide access to VHCN to 1.7 million households by 2025, is making "
+10,6,5,Calibri,11.0,72.0,343.8,525.6,354.9,substantial progress with the deployment of its FTTH network and is starting to promote retail FTTH 
+10,6,6,Calibri,11.0,72.0,358.4,214.2,369.4,offerings (internet access only). 
+10,7,0,Calibri-Bold,11.0,72.0,380.8,525.9,391.9,"In terms of simplification by digitalisation, the procedure and management of optical fibres’ rights "
+10,7,1,Calibri-Bold,11.0,72.0,395.3,168.3,406.4,information system (
+10,7,1,Calibri-Bold,11.0,168.4,395.3,217.2,406.4,e-Dieleysis
+10,7,1,Calibri-Bold,11.0,217.2,395.3,385.0,406.4,) is now operational and mandatory
+10,7,1,Calibri,11.0,385.0,395.3,525.9,406.4,. Its purpose is to simplify and 
+10,7,2,Calibri,11.0,72.0,409.9,525.7,420.9,accelerate the licensing and monitoring processes for works related to the installation and 
+10,7,3,Calibri,11.0,72.0,424.4,525.9,435.4,"maintenance of telecommunications infrastructure, reducing bureaucracy and delays. Furthermore, "
+10,7,4,Calibri,11.0,72.0,438.8,525.9,449.8,"the automated approval process will be available to providers in second quarter of 2025, in the event "
+10,7,5,Calibri,11.0,72.0,453.3,376.2,464.4,of inaction by the relevant services following the approval deadline. 
+10,8,0,Calibri-Bold,11.0,72.0,475.7,525.7,486.8,The copper switch-off plan in Greece is subject to a number of criteria increasing transparency and 
+10,8,1,Calibri-Bold,11.0,72.0,490.3,260.9,501.3,protecting access seekers and end users. 
+10,8,1,Calibri,11.0,261.4,490.3,525.7,501.3,EETT’s data (as of 31/12/2024) indicate that more than 40 
+10,8,2,Calibri,11.0,72.0,504.8,525.6,515.8,"local exchanges, with more than 1 million subscribers, either fulfil or are very close to fulfilling the "
+10,8,3,Calibri,11.0,72.0,519.3,186.9,530.3,switch-off requirements.  
+10,9,0,Calibri-Bold,11.0,72.0,541.7,525.8,552.8,"In terms of addressing the digital divide, and due to the geographical challenges in Greece, the "
+10,9,1,Calibri-Bold,11.0,72.0,556.3,420.9,567.3,deployment of Fixed Wireless Access (FWA) is emerging as a bridging solution
+10,9,1,Calibri,11.0,420.9,556.3,525.9,567.3,", and a strategic vehicle "
+10,9,2,Calibri,11.0,72.0,570.8,224.2,581.9,for socio-economic development. 
+10,10,0,Calibri-Bold,11.0,72.0,593.3,525.6,604.3,"Greece is undergoing a transformation into a major regional connectivity hub, with new submarine "
+10,10,1,Calibri-Bold,11.0,72.0,607.8,525.8,618.8,"domestic and international interconnections, as well as new data centres, playing a key role in this "
+10,10,2,Calibri-Bold,11.0,72.0,622.3,112.0,633.3,process. 
+10,11,0,Calibri-Bold,11.0,72.0,644.7,525.5,655.8,Greece continues to reinforce its digital infrastructure with the deployment of its submarine 
+10,11,1,Calibri-Bold,11.0,72.0,659.3,187.0,670.3,backbone infrastructure. 
+10,11,1,Calibri,11.0,186.9,659.3,525.8,670.3,The project ‘High-speed Submarine Backbone for islands of the Aegean Sea’ 
+10,11,2,Calibri,11.0,72.0,673.8,77.9,684.8,- 
+10,11,2,Calibri,11.0,78.9,673.8,124.8,684.8,SEA-SPINE
+10,11,2,Calibri,11.0,124.8,673.8,525.8,684.8,", co-funded by CEF-Digital (the digital part of the Connecting Europe Facility), will cover "
+10,11,3,Calibri,11.0,72.0,688.2,525.9,699.2,overall 563 km of submarine segments and 231 km of terrestrial ones interconnecting 11 islands by 
+10,11,4,Calibri,11.0,72.0,702.7,525.8,713.7,2026. It will substantially increase network capacity and reduce network latency for critical 
+10,11,5,Calibri,11.0,72.0,717.2,525.9,728.3,applications. It will also protect telecommunications traffic by creating alternative connections. In 
+10,11,6,Calibri,11.0,72.0,731.8,473.1,742.8,"December 2024, the telecoms provider Sparkle was granted EUR 14.1 million under the "
+10,11,6,Calibri,11.0,473.1,731.8,525.9,742.8,Connecting 
+10,11,7,Calibri,11.0,72.0,746.2,140.9,757.2,Europe Facility 
+10,11,7,Calibri,11.0,142.0,746.2,525.9,757.2,"programmes, to deploy the BlueMed East in the eastern Mediterranean connecting "
+10,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+11,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"Greece (Crete), Cyprus and Israel (Tel Aviv), strengthening connectivity in the India-Middle-East-Europe "
+11,2,1,Calibri,11.0,72.0,98.4,159.1,109.5,Economic Corridor. 
+11,4,0,Calibri-Bold,11.0,72.0,121.0,402.1,132.0,Rapid development of data centres in Greece by private and public actors
+11,4,0,Calibri,11.0,402.2,121.0,404.7,132.0, 
+11,4,0,Calibri-Bold,11.0,404.3,121.0,525.9,132.0,is expected to significantly 
+11,4,1,Calibri-Bold,11.0,72.0,135.5,303.8,146.5,improve Greece’s digital infrastructure by 2030. 
+11,4,1,Calibri,11.0,306.3,135.5,525.8,146.5,It responds to the growing demand for cloud 
+11,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"infrastructure and data storage. Various data centres are currently operational, in the stage of "
+11,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,permitting or in the final stage of construction in Spata and Koropi (Attika). The recently built data 
+11,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,centre in Heraklion is the largest one in Crete in terms of capacity and will be utilised by most 
+11,4,5,Calibri,11.0,72.0,193.5,525.6,204.5,telecommunications providers in the Greek and international markets as one of their central telecom 
+11,4,6,Calibri,11.0,72.0,207.9,525.9,218.9,"nodes (PoPs). It will also serve as a strategic landing station for submarine cables. In December 2024, "
+11,4,7,Calibri,11.0,72.0,222.4,525.9,233.4,DEI/PPC announced the first phase of a project involving an investment of EUR 150 million for 
+11,4,8,Calibri,11.0,72.0,236.9,525.9,248.0,"infrastructure with a capacity of 12.5MW, with the prospect of expanding to 25MW. The project is "
+11,4,9,Calibri,11.0,72.0,251.4,525.7,262.5,"currently being planned and permitted, with construction expected to begin in the first quarter of "
+11,4,10,Calibri,11.0,72.0,265.9,525.9,276.9,"2025, and completion of the first phase within two years. One of the big tech companies also started "
+11,4,11,Calibri,11.0,72.0,280.4,525.8,291.4,"building its first data centre, and plans to install 3 data centres in Greece, as part of the GRforGrowth "
+11,4,12,Calibri,11.0,72.0,294.9,403.5,305.9,initiative. It will provide cloud services to private and public organisations. 
+11,5,0,Calibri-Bold,11.0,77.8,321.2,319.3,332.2,2024 recommendation on connectivity infrastructure
+11,5,0,Calibri,11.0,319.4,321.2,519.9,332.2,: Closely monitor the progress on the gigabit 
+11,5,1,Calibri,11.0,77.8,335.6,499.3,346.6,coverage to identify early enough any remaining investment gaps to reach the target for 2030. 
+11,6,0,Calibri-Bold,11.0,77.8,359.8,520.1,370.9,Greece has fully addressed the recommendation by putting significant policy actions into place in 
+11,6,1,Calibri-Bold,11.0,77.8,374.3,105.6,385.4,2024. 
+11,6,1,Calibri,11.0,105.5,374.3,520.0,385.4,"A new measure with a budget of EUR 80 million, partially funded by the RRF, was launched in "
+11,6,2,Calibri,11.0,77.8,388.8,520.0,399.9,November 2024. The ‘Gigabit voucher’ provides a voucher of 200 EUR for two years to an expected 
+11,6,3,Calibri,11.0,77.8,403.4,520.0,414.4,"number of 400 000 beneficiaries. This measure complements a previously reported one, ‘Smart "
+11,6,4,Calibri,11.0,77.8,417.8,520.0,428.8,Readiness’ which subsidises costs required to create the necessary infrastructure in the buildings 
+11,6,5,Calibri,11.0,77.8,432.3,389.2,443.4,and is expected to accelerate convergence towards the digital target.  
+11,7,0,Calibri,11.0,77.8,449.8,520.1,460.9,"In 2026, monitoring of progress on gigabit coverage will continue to identify remaining gaps, since "
+11,7,1,Calibri,11.0,77.8,464.3,429.0,475.4,"currently the deployment is at full speed, with emerging actors on the market. "
+11,8,0,Calibri-LightItalic,11.0,72.0,491.6,87.0,502.6,5G 
+11,9,0,Calibri-Bold,11.0,72.0,518.0,473.3,529.0,Greece’s 5G target was already set at 100% in the initial roadmap submitted end 2023
+11,9,0,Calibri,11.0,473.7,518.0,525.9,529.0,. Given the 
+11,9,1,Calibri,11.0,72.0,532.5,217.2,543.5,"excellent latest figure for 2024,"
+11,9,1,Calibri-Bold,11.0,217.2,532.5,219.7,543.5, 
+11,9,1,Calibri,11.0,221.3,532.5,525.8,543.5,"with 99.8% 5G coverage, the country is on track according to its "
+11,9,2,Calibri,11.0,72.0,547.0,493.3,558.1,"national trajectory, even well ahead of its forecast for 2025 as presented in its initial roadmap. "
+11,10,0,Calibri-Bold,11.0,72.0,569.5,525.9,580.5,This success is because Greece was one of the first Member States to auction all of its 5G pioneer 
+11,10,1,Calibri-Bold,11.0,72.0,584.0,134.5,595.1,bands in 2020
+11,10,1,Calibri,11.0,134.5,584.0,525.9,595.1,. Licensing of the 5G bands was already completed by January 2021. Some 900 and 1 800 
+11,10,2,Calibri,11.0,72.0,598.5,525.9,609.6,licenses will be expiring in 2027. The switch-off of 3G has been completed by all three national 
+11,10,3,Calibri,11.0,72.0,613.1,418.9,624.1,operators. 2G is still in play - EETT has not imposed any switch off obligations. 
+11,11,0,Calibri-Bold,11.0,72.0,635.5,525.7,646.5,EETT is monitoring the coverage of broadband services and the use of spectrum in all licensed mobile 
+11,11,1,Calibri-Bold,11.0,72.0,650.0,272.5,661.1,"bands, based on data reported by operators"
+11,11,1,Calibri,11.0,272.6,650.0,525.9,661.1,. Results of measures on mobile broadband QoS (quality 
+11,11,2,Calibri,11.0,72.0,664.5,525.9,675.6,of service) indicators to be assessed in major cities and main national roads will be available in the 
+11,11,3,Calibri,11.0,72.0,678.9,184.0,690.0,second quarter of 2025.  
+11,12,0,Calibri-Bold,11.0,72.0,701.5,271.6,712.5,"In Greece, data usage is growing rapidly. "
+11,12,0,Calibri,11.0,273.9,701.5,291.9,712.5,This
+11,12,0,Calibri-Bold,11.0,291.9,701.5,294.4,712.5, 
+11,12,0,Calibri,11.0,296.7,701.5,525.9,712.5,indicates a shift in consumer behaviour towards 
+11,12,1,Calibri,11.0,72.0,715.9,525.9,726.9,"increased use of data services, approaching 15 GB /month per active subscriber according to the Greek "
+11,12,2,Calibri,11.0,72.0,730.4,209.3,741.5,Mobile Operators Association. 
+11,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+12,2,0,Calibri-Bold,11.0,77.8,84.7,322.2,95.8,2024 recommendation on connectivity infrastructure
+12,2,0,Calibri,11.0,322.3,84.7,519.9,95.8,: Ensure sufficient access of new players to 
+12,2,1,Calibri,11.0,77.8,99.3,520.0,110.3,spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications 
+12,2,2,Calibri,11.0,77.8,113.7,471.9,124.7,and encourage operators to speed up the deployment of 5G stand-alone core networks. 
+12,4,0,Calibri-Bold,11.0,77.8,131.9,519.8,142.9,Greece made some efforts to address the recommendation through new policy actions in 2024. 
+12,4,1,Calibri,11.0,77.8,146.4,519.8,157.5,The country is exploring the use of 5G network slicing for governmental purposes and evaluating 
+12,4,2,Calibri,11.0,77.8,160.9,520.0,172.0,the creation of 5G private networks across various verticals. This approach aims to unlock 
+12,4,3,Calibri,11.0,77.8,175.5,519.9,186.5,opportunities for SMEs while encouraging operators to accelerate the deployment of 5G standalone 
+12,4,4,Calibri,11.0,77.8,189.9,149.0,200.9,core networks.  
+12,5,0,Calibri,11.0,77.8,207.4,519.7,218.4,"In terms of use for radio spectrum licenses granted in 2020, in the frequency bands designated as "
+12,5,1,Calibri,11.0,77.8,221.9,520.1,232.9,"pioneer 5G bands, ‘Provision of Access to Vertical Market Enterprises’ is included. In response to a "
+12,5,2,Calibri,11.0,77.8,236.4,520.0,247.5,"request by an enterprise/entity operating in a vertical market, the radio frequency use rights holder "
+12,5,3,Calibri,11.0,77.8,250.9,520.0,261.9,shall negotiate with them in good faith regarding the provision of any type of access to its network 
+12,5,4,Calibri,11.0,77.8,265.4,520.0,276.4,(such as capacity leasing) or the leasing of frequencies. They must provide access on reasonable 
+12,5,5,Calibri,11.0,77.8,279.9,520.0,290.9,"terms for their own use, subject to the rules protecting competition. To ensure this takes place as "
+12,5,6,Calibri,11.0,77.8,294.4,519.8,305.5,"required, the EETT may also exercise its regulatory authority, as provided for in the applicable "
+12,5,7,Calibri,11.0,77.8,308.9,128.5,320.0,legislation. 
+12,6,0,Calibri,11.0,72.0,327.2,74.5,338.2, 
+12,7,0,Calibri-Light,12.0,72.0,349.8,151.9,361.8,Semiconductors 
+12,8,0,Calibri-Bold,11.0,72.0,377.4,525.9,388.5,"In the adjustment of its national roadmap, Greece did not report any additional developments "
+12,8,1,Calibri-Bold,11.0,72.0,391.8,197.1,402.9,regarding semiconductors. 
+12,8,1,Calibri,11.0,199.0,391.8,525.9,402.9,In 2024 public and private entities in Greece continued to implement 
+12,8,2,Calibri,11.0,72.0,406.4,423.7,417.4,cutting-edge projects related to research and development in semiconductors. 
+12,9,0,Calibri-Light,12.0,72.0,429.2,130.2,441.2,Edge nodes 
+12,10,0,Calibri-Bold,11.0,72.0,456.7,525.8,467.7,"According to the Edge nodes Observatory report, Greece is estimated to have 13 edge nodes by 2024, "
+12,10,1,Calibri-Bold,11.0,72.0,471.2,277.9,482.2,an increase on the seven estimated for 2023
+12,10,1,Calibri-Bold,7.0,277.9,470.3,281.4,477.2,7
+12,10,1,Calibri-Bold,11.0,281.3,471.2,286.8,482.2,. 
+12,10,1,Calibri,11.0,287.5,471.2,525.8,482.2,"Greece emphasises that, in absence of direct survey "
+12,10,2,Calibri,11.0,72.0,485.7,525.8,496.8,"inputs, this figure is based on extrapolated estimation generated through statistical modelling drawing "
+12,10,3,Calibri,11.0,72.0,500.2,525.9,511.3,"on variables such as population, GDP, surface areas and investment data. It remains subject to updates "
+12,10,4,Calibri,11.0,72.0,514.6,210.9,525.7,as new data become available. 
+12,11,0,Calibri-Bold,11.0,72.0,537.2,525.9,548.2,"In the adjustment of its national roadmap, Greece did not report about additional developments to "
+12,11,1,Calibri-Bold,11.0,72.0,551.7,338.5,562.8,support the deployment of edge nodes across the country.
+12,11,1,Calibri,11.0,338.5,551.7,341.0,562.8, 
+12,12,0,Calibri-Light,12.0,72.0,574.4,184.4,586.4,Quantum technologies 
+12,13,0,Calibri-Bold,11.0,72.0,602.0,525.8,613.1,Greece continues to implement several strategic research projects included in the initial roadmap 
+12,13,1,Calibri-Bold,11.0,72.0,616.4,500.9,627.5,related to the development of quantum computing and quantum communication. 
+12,13,1,Calibri,11.0,506.9,616.4,525.9,627.5,The 
+12,13,2,Calibri,11.0,72.0,630.9,525.8,642.0,"implementation of these projects is important for Greece, as the first national quantum strategy is "
+12,13,3,Calibri,11.0,72.0,645.5,525.8,656.5,"under preparation. In particular, the Hellas QCI project (co-funded under the Digital Europe "
+12,13,4,Calibri,11.0,72.0,660.0,525.7,671.0,"Programme), which runs from 2023, is positioning Greece at the forefront of quantum communications "
+12,13,5,Calibri,11.0,72.0,674.4,525.9,685.4,by developing a National Quantum Communication Infrastructure of a 650 km optical fibre network 
+12,13,6,Calibri,11.0,72.0,688.9,525.7,699.9,"for secure telecommunications across Athens, Thessaloniki, and Heraklion (Crete) with Quantum Key "
+12,13,7,Calibri,11.0,72.0,703.4,525.9,714.5,"Distribution (QKD) capabilities, that connect 13 governmental authorities and 6 academic and research "
+12,13,8,Calibri,11.0,72.0,717.9,361.4,729.0,institutions with the 3 Optical Ground Stations (OGSs) in Greece. 
+12,14,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+12,14,1,Calibri,6.5,72.0,759.1,75.3,765.5,7
+12,14,1,Calibri,10.0,75.3,759.9,77.5,769.9, 
+12,14,1,Calibri,9.0,77.5,760.6,362.8,769.6,The estimation for 2023 has been revised since the publication of the SDDR24 
+12,15,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,15,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+13,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"In adjusting its national roadmap, Greece added two new projects related to the deployment of a "
+13,3,1,Calibri-Bold,11.0,72.0,98.4,309.5,109.5,European Quantum Communication Infrastructure
+13,3,1,Calibri,11.0,309.4,98.4,368.9,109.5, (see below)
+13,3,1,Calibri-Bold,11.0,369.0,98.4,374.4,109.5,. 
+13,3,1,Calibri,11.0,377.0,98.4,525.9,109.5,"Additionally, HellasQCI plans to "
+13,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"expand via a terrestrial QKD link with Bulgaria and satellite-based connections with Cyprus, the "
+13,3,3,Calibri,11.0,72.0,127.5,504.2,138.5,"Netherlands, Germany, Luxembourg, and Ireland to further enhance its cross-border integration. "
+13,4,0,Calibri-Bold,11.0,77.8,150.7,470.4,161.8,"2024 recommendation on semiconductors, quantum technologies, edge nodes"
+13,4,0,Calibri,11.0,470.5,150.7,520.0,161.8,: Develop 
+13,4,1,Calibri,11.0,77.8,165.1,520.0,176.2,additional measures in due time to accelerate the deployment of digital and data infrastructure and 
+13,4,2,Calibri,11.0,77.8,179.7,420.4,190.7,promote the use of digital capabilities and the access to digital technologies. 
+13,5,0,Calibri-Bold,11.0,77.8,197.9,520.1,208.9,Greece has fully addressed this recommendation on quantum through new policy actions in 2024. 
+13,5,1,Calibri,11.0,77.8,212.4,191.9,223.5,Two additional projects
+13,5,1,Calibri-Bold,11.0,191.8,212.4,194.3,223.5, 
+13,5,1,Calibri,11.0,199.1,212.4,239.3,223.5,reinforce
+13,5,1,Calibri-Bold,11.0,239.3,212.4,241.8,223.5, 
+13,5,1,Calibri,11.0,246.6,212.4,520.1,223.5,the participation of HellasQCI in the broader EuroQCI 
+13,5,2,Calibri,11.0,77.8,226.9,519.8,238.0,"Infrastructure. Greece is member of PETRUS, a project aiming at ensuring seamless integration of "
+13,5,3,Calibri,11.0,77.8,241.4,520.0,252.4,national QCIs into EuroQCI and reinforcing Europe’s digital resilience. The NOSTRADAMUS project 
+13,5,4,Calibri,11.0,77.8,255.9,520.0,266.9,"which started in 2024, aims to establish a robust environment for testing Quantum Key Distribution "
+13,5,5,Calibri,11.0,77.8,270.4,495.0,281.5,(QKD) and validate quantum-safe technologies before widespread development. 
+13,5,5,Calibri-Bold,11.0,503.0,270.4,520.0,281.5,For 
+13,5,6,Calibri-Bold,11.0,77.8,284.9,520.0,296.0,"semiconductors, Greece continued the implementation of existing measures, but did not take any "
+13,5,7,Calibri-Bold,11.0,77.8,299.3,520.0,310.4,"new measures. For edge nodes, Greece has not communicated any measure to address the "
+13,5,8,Calibri-Bold,11.0,77.8,313.9,159.4,324.9,recommendation.
+13,5,8,Calibri,11.0,159.4,313.9,161.9,324.9, 
+13,6,0,Calibri,11.0,72.0,332.1,74.5,343.1, 
+13,6,1,Calibri-Light,15.0,72.0,347.5,526.8,362.5,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+13,7,0,Calibri,11.0,72.0,374.3,525.9,385.4,"Greece shows relatively low levels of digital adoption of technologies among businesses, with the use "
+13,7,1,Calibri,11.0,72.0,388.8,525.9,399.9,"of cloud computing, data analytics and artificial intelligence falling below EU averages. However, large "
+13,7,2,Calibri,11.0,72.0,403.4,525.9,414.4,"enterprises consistently reported higher adoption rates than SMEs, although the gaps between these "
+13,7,3,Calibri,11.0,72.0,417.9,374.0,428.9,groups were generally smaller than the corresponding EU level gaps.
+13,7,3,Calibri-Bold,11.0,374.0,417.9,376.5,428.9, 
+13,7,3,Calibri,11.0,376.1,417.9,392.8,428.9,The
+13,7,3,Calibri-Bold,11.0,392.8,417.9,395.3,428.9, 
+13,7,3,Calibri,11.0,395.0,417.9,525.9,428.9,start-up ecosystem in Greece 
+13,7,4,Calibri,11.0,72.0,432.3,525.9,443.4,"shows a positive trend with a growing number of new start-ups, and venture capital 15% up on last "
+13,7,5,Calibri,11.0,72.0,446.8,95.6,457.9,year. 
+13,8,0,Calibri-Light,12.0,72.0,469.5,265.2,481.5,SMEs with at least basic digital intensity 
+13,9,0,Calibri-Bold,11.0,72.0,497.1,525.4,508.1,"In 2024, over half (53.42%) of Greek SMEs had at least a basic level of digital intensity, significantly "
+13,9,1,Calibri-Bold,11.0,72.0,511.6,182.4,522.7,up from 41.21% in 2022
+13,9,1,Calibri-Bold,7.0,182.4,510.7,186.0,517.7,8
+13,9,1,Calibri-Bold,11.0,185.9,511.6,525.9,522.7, and with an impressive annual growth rate of 13.9% (5 times more than 
+13,9,2,Calibri-Bold,11.0,72.0,526.1,217.5,537.2,the EU average annual growth)
+13,9,2,Calibri,11.0,217.5,526.1,525.8,537.2,". However, although this marked substantial progress, Greek SMEs’ "
+13,9,3,Calibri,11.0,72.0,540.5,525.9,551.6,"digital intensity remained considerably below the EU average of 72.91%. Moreover, looking at the "
+13,9,4,Calibri,11.0,72.0,555.1,525.8,566.1,"SMEs with high or very high digital intensity, only 18.75% of SMEs reached such a level, well below the "
+13,9,5,Calibri,11.0,72.0,569.6,174.1,580.7,EU average of 32.66%. 
+13,10,0,Calibri-Bold,11.0,72.0,592.1,525.4,603.1,Greece has not revised its national target initially set at 79.7% of enterprises having at least a basic 
+13,10,1,Calibri-Bold,11.0,72.0,606.6,355.1,617.6,level of digital intensity by 2030 (below the EU 2030 of 90%). 
+13,10,1,Calibri,11.0,355.4,606.6,525.9,617.6,The reason explained in the roadmap 
+13,10,2,Calibri,11.0,72.0,621.1,525.9,632.1,adjustment is linked to the characteristics of the Greek business ecosystem which has a particularly 
+13,10,3,Calibri,11.0,72.0,635.6,525.9,646.7,high share of solo and micro enterprises with less than 10 employees. Although they are not measured 
+13,10,4,Calibri,11.0,72.0,650.0,525.9,661.1,"in the EU survey on ICT usage (the source for the KPIs on digital transformation of businesses), they "
+13,10,5,Calibri,11.0,72.0,664.5,525.8,675.6,"are at the core of Greece’s digitalisation strategy,also benefitting from the measures in place for the "
+13,10,6,Calibri,11.0,72.0,679.1,525.9,690.1,"digital transformation of enterprises in the country. However, Greece further examined the "
+13,10,7,Calibri,11.0,72.0,693.6,525.9,704.6,"implementation of the on-going flagship measures that contribute to this target, to monitor progress "
+13,10,8,Calibri,11.0,72.0,708.0,223.3,719.0,and potentially review the target. 
+13,11,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+13,11,1,Calibri,6.5,72.0,759.1,75.3,765.5,8
+13,11,1,Calibri,10.0,75.3,759.9,77.5,769.9, 
+13,11,1,Calibri,9.0,77.5,760.6,449.6,769.6,DII performance and progress (due to DII composition: progress is calculated between 2022 and 2024)
+13,11,1,Calibri,10.0,449.6,759.9,451.9,769.9, 
+13,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+14,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"In 2024, Greece continued to implement the flagship measure ‘Digital Tools for SMEs Programmes’ "
+14,3,1,Calibri-Bold,11.0,72.0,98.4,358.7,109.5,included in the initial roadmap and supported by the RRF.
+14,3,1,Calibri,11.0,358.8,98.4,525.9,109.5, The first phase was completed in 
+14,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"September 2024, with a budget of EUR 97 million. The total budget for the measure is EUR 135 million. "
+14,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"The programme provided subsidies to 46 000 enterprises in Greece. However, almost 40% of the "
+14,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,subsidies (EUR 38 million) was allocated to 38 000 micro enterprises (80% of the total participating 
+14,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"companies), i.e. companies which are not included in the measurement of the Digital Decade KPI for "
+14,3,6,Calibri,11.0,72.0,170.9,388.5,181.9,SMEs with at least a basic level of digital intensity (10-249 employees). 
+14,4,0,Calibri-Bold,11.0,77.8,194.2,390.1,205.2,2024 recommendation on digital transformation of businesses
+14,4,0,Calibri,11.0,390.3,194.2,520.0,205.2,: Consider reinforcing the 
+14,4,1,Calibri,11.0,77.8,208.7,459.6,219.7,framework conditions to enable less digitally mature SMEs to adopt digital transition. 
+14,5,0,Calibri-Bold,11.0,77.8,226.9,519.9,238.0,Greece made some efforts to address the recommendation through new policy actions in 2024. 
+14,5,1,Calibri,11.0,77.8,241.4,519.9,252.4,Two additional measures to enhance the creation and operation of new SMEs have been planned 
+14,5,2,Calibri,11.0,77.8,255.9,520.0,266.9,"to start in 2027, part of the total budget estimate will be dedicated to enterprises integrating digital "
+14,5,3,Calibri,11.0,77.8,270.4,139.9,281.5,technologies. 
+14,6,0,Calibri,11.0,72.0,288.6,74.5,299.7, 
+14,6,1,Calibri-Bold,11.0,72.0,303.2,525.9,314.2,"In 2024, Greece was home to seven European Digital Innovation Hubs (EDIHs) in total, which are "
+14,6,2,Calibri-Bold,11.0,72.0,317.6,418.4,328.6,contributing to the strategy for uptake of digital technologies by businesses.
+14,6,2,Calibri,11.0,418.7,317.6,525.9,328.6," Four of them, financed "
+14,6,3,Calibri,11.0,72.0,332.1,525.9,343.1,"at a 50% rate by the Digital Europe Programme, are already operational, offering services such as digital "
+14,6,4,Calibri,11.0,72.0,346.6,525.9,357.6,maturity assessment diagnostics to a majority of micro and solo enterprises in the country. The EDIHs 
+14,6,5,Calibri,11.0,72.0,361.1,525.9,372.2,"also offer services like ‘Test before invest’, allowing SMEs and public sector organisations to experiment "
+14,6,6,Calibri,11.0,72.0,375.5,431.2,386.6,with AI services and products and assess the potential of those before investing. 
+14,7,0,Calibri-Light,12.0,72.0,398.3,236.8,410.3,Take up of cloud/AI/data analytics 
+14,9,0,Calibri-Bold,11.0,523.6,567.1,528.6,578.1,  
+14,10,0,Calibri-Bold,11.0,72.0,586.5,525.7,597.6,"According to new data collected in 2024, 9.81% of enterprises in Greece were using AI technology in "
+14,10,1,Calibri-Bold,11.0,72.0,600.9,274.0,612.0,"2024, still behind the EU average of 13.48%."
+14,10,1,Calibri,11.0,274.1,600.9,525.8,612.0," Nonetheless, AI uptake among Greek enterprises more "
+14,10,2,Calibri,11.0,72.0,615.5,525.8,626.5,"than doubled compared to 2023 (3.98%). At the same time, in 2024, among SMEs, the uptake rate was "
+14,10,3,Calibri,11.0,72.0,630.0,525.6,641.0,"9.53%, while 1 out of 4 (24.27%) large enterprises adopted AI technologies. This led to a gap of 14.74 "
+14,10,4,Calibri,11.0,72.0,644.5,525.7,655.5,"percentage points (pp) between SMEs and large enterprises, considerably lower than the EU gap of "
+14,10,5,Calibri,11.0,72.0,658.9,116.4,669.9,28.53 pp. 
+14,11,0,Calibri,11.0,72.0,681.5,525.8,692.5,"Neither the adoption of cloud, data analytics nor the indicator showing the three technologies (AI, "
+14,11,1,Calibri,11.0,72.0,696.0,319.6,707.0,cloud and data analytics) have been measured in 2024. 
+14,12,0,Calibri-Bold,11.0,72.0,718.4,525.8,729.5,"According to the latest available data from 2023, cloud uptake among enterprises in Greece in 2023 "
+14,12,1,Calibri-Bold,11.0,72.0,733.0,469.0,744.0,"stood at 18.07% (less than 1 out of 5), significantly below the EU average of 38.97%."
+14,12,1,Calibri,11.0,468.9,733.0,525.9,744.0," Specifically, "
+14,12,2,Calibri,11.0,72.0,747.5,525.9,758.5,"17.57% of SMEs adopted cloud services, while uptake among large enterprises was significantly higher "
+14,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+15,2,0,Calibri,11.0,72.0,84.0,525.6,95.1,at 46.56%. This reflects a difference of 28.99 percentage points between SMEs and large enterprises 
+15,2,1,Calibri,11.0,72.0,98.4,286.7,109.5,"in Greece, lower than the EU level gap of 31.68. "
+15,4,0,Calibri-Bold,11.0,72.0,121.0,525.8,132.0,"Considering data analytics, 25% of enterprises in Greece adopted data analytics in 2023, falling "
+15,4,1,Calibri-Bold,11.0,72.0,135.5,223.4,146.5,behind the EU average of 33.25%.
+15,4,1,Calibri,11.0,223.5,135.5,525.9,146.5," The uptake was lower among SMEs, where slightly less than 24.48% "
+15,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"used data analytics, while more large enterprises used data analytics (54.91%). This resulted in a "
+15,4,3,Calibri,11.0,72.0,164.4,525.7,175.5,"difference of 30.43 percentage points between SMEs and large enterprises, lower than the EU gap of "
+15,4,4,Calibri,11.0,72.0,178.9,185.3,190.0,39.72 percentage points. 
+15,5,0,Calibri-Bold,11.0,72.0,201.4,525.7,212.4,"When measuring the three technologies together, in 2023, 33.52% of enterprises (1 out of 3) in "
+15,5,1,Calibri-Bold,11.0,72.0,215.9,525.8,226.9,"Greece engaged with AI technologies, sophisticated or intermediate cloud computing services, or "
+15,5,2,Calibri-Bold,11.0,72.0,230.4,426.5,241.5,"data analytics, showing a significant lag compared to the EU average of 54.7%."
+15,5,2,Calibri,11.0,426.6,230.4,525.9,241.5," More specifically, the "
+15,5,3,Calibri,11.0,72.0,245.0,525.9,256.0,"uptake among SMEs was slightly lower at 32.92%, while large enterprises showed a significantly higher "
+15,5,4,Calibri,11.0,72.0,259.4,525.8,270.4,adoption rate of 68.11%. This indicates a percentage point difference of 35.19 in uptake between SMEs 
+15,5,5,Calibri,11.0,72.0,273.9,412.6,284.9,"and large enterprises in Greece, which is in line with the EU level difference. "
+15,6,0,SymbolMT,11.0,90.0,294.1,95.1,307.6,
+15,6,0,ArialMT,11.0,95.1,295.2,98.1,307.5, 
+15,6,1,Calibri-Bold,11.0,108.0,296.9,134.3,308.0,Cloud
+15,6,1,Calibri,11.0,134.3,296.9,136.8,308.0, 
+15,7,0,Calibri-Bold,11.0,72.0,314.4,525.9,325.5,Greece has not revised its national target initially set at 56% of enterprises using cloud services by 
+15,7,1,Calibri-Bold,11.0,72.0,329.0,454.5,340.0,2030 (below the EU 2030 target at 75%) for the same reason mentioned above. 
+15,7,1,Calibri,11.0,456.1,329.0,525.9,340.0,In its roadmap 
+15,7,2,Calibri,11.0,72.0,343.5,525.8,354.5,"adjustment, Greece does not present any additional measures specifically to foster the adoption of "
+15,7,3,Calibri,11.0,72.0,357.9,525.6,368.9,"cloud. However, the broad measures to support the digital transition of SMEs include the uptake of "
+15,7,4,Calibri,11.0,72.0,372.4,322.4,383.4,"advanced technologies such as AI, cloud, data analytics. "
+15,8,0,SymbolMT,11.0,90.0,392.8,95.1,406.3,
+15,8,0,ArialMT,11.0,95.1,393.9,98.1,406.2, 
+15,8,1,Calibri-Bold,11.0,108.0,395.6,173.5,406.6,Data Analytics
+15,8,1,Calibri,11.0,173.4,395.6,175.9,406.6, 
+15,9,0,Calibri-Bold,11.0,72.0,413.0,525.9,424.0,Greece has not revised its national target (initially set at 40%) for enterprises using data analytics by 
+15,9,1,Calibri-Bold,11.0,72.0,427.5,260.7,438.5,2030 (below the EU 2030 target at 75%). 
+15,9,1,Calibri,11.0,261.3,427.5,303.1,438.5,"However,"
+15,9,1,Calibri-Bold,11.0,303.1,427.5,305.6,438.5, 
+15,9,1,Calibri,11.0,306.0,427.5,315.5,438.5,as
+15,9,1,Calibri-Bold,11.0,315.4,427.5,317.9,438.5, 
+15,9,1,Calibri,11.0,318.3,427.5,525.9,438.5,the result of last year exceeded the projected 
+15,9,2,Calibri,11.0,72.0,442.0,525.9,453.1,"forecast in the national trajectory, Greece is currently evaluating the trend for a potential revision of "
+15,9,3,Calibri,11.0,72.0,456.4,121.4,467.5,the target. 
+15,10,0,Calibri,11.0,72.0,479.0,525.7,490.0,"In its roadmap adjustment, Greece does not present any additional measures specifically to foster the "
+15,10,1,Calibri,11.0,72.0,493.5,525.9,504.5,"use of data analytics. However, it is currently working on data governance and sharing practices in view "
+15,10,2,Calibri,11.0,72.0,507.9,525.8,518.9,of accelerating AI innovation. The broad measures to support the digital transition of SMEs include the 
+15,10,3,Calibri,11.0,72.0,522.4,349.6,533.5,"use of advanced technologies such as AI, cloud, data analytics."
+15,10,3,Calibri-Bold,11.0,349.6,522.4,352.1,533.5, 
+15,11,0,SymbolMT,11.0,90.0,542.8,95.1,556.3,
+15,11,0,ArialMT,11.0,95.1,543.9,98.1,556.2, 
+15,11,1,Calibri-Bold,11.0,108.0,545.6,202.2,556.6,Artificial Intelligence
+15,11,1,Calibri,11.0,202.1,545.6,204.6,556.6, 
+15,12,0,Calibri-Bold,11.0,72.0,563.0,525.9,574.1,Greece has not revised its national target initially 32% of enterprises adopting AI by 2030 (below the 
+15,12,1,Calibri-Bold,11.0,72.0,577.5,449.1,588.6,EU 2030 target at 75%). The country is on track according to its national trajectory. 
+15,13,0,Calibri,11.0,72.0,600.0,477.8,611.0,The adjustment of the roadmap includes major new initiatives for developing AI in Greece. 
+15,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,14,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+16,2,0,Calibri-Bold,11.0,77.8,84.7,391.0,95.8,2024 recommendation on digital transformation of businesses
+16,2,0,Calibri,11.0,391.0,84.7,520.0,95.8,: consider reinforcing the 
+16,2,1,Calibri,11.0,77.8,99.3,519.9,110.3,framework conditions to enable (i) all enterprises to benefit from the data economy by a rapid 
+16,2,2,Calibri,11.0,77.8,113.7,470.7,124.7,"adoption of advanced technology (AI, cloud, data analytics) as a competitive advantage. "
+16,4,0,Calibri-Bold,11.0,77.8,131.9,517.5,142.9,Greece made some efforts to address the recommendation through new policy actions in 2024.
+16,4,0,Calibri,11.0,517.6,131.9,520.1,142.9, 
+16,4,1,Calibri,11.0,77.8,146.4,520.0,157.5,"In November 2024, a high-level committee published a blueprint for Greece’s AI transformation and "
+16,4,2,Calibri,11.0,77.8,160.9,520.0,172.0,will be the basis for the new AI strategy in preparation. This initiative aspires to establish Greece as 
+16,4,3,Calibri,11.0,77.8,175.5,519.8,186.5,a competitive force in the AI domain while balancing technological progress with ethical 
+16,4,4,Calibri,11.0,77.8,189.9,519.9,200.9,responsibility and societal well-being. It includes a special chapter on how AI can boost innovation 
+16,4,5,Calibri,11.0,77.8,204.4,248.1,215.4,and enhance the business ecosystem. 
+16,5,0,Calibri,11.0,77.8,221.9,520.1,232.9,Greece will host one of the first AI Factories in Europe which will be the centre of the AI strategy. 
+16,5,1,Calibri,11.0,77.8,236.4,519.9,247.5,"The ‘Pharos’ project will serve as a hub for academia, research, the public sector, and private "
+16,5,2,Calibri,11.0,77.8,250.9,519.9,261.9,"enterprises, aiming to develop innovative AI-driven services. The project has a total budget of "
+16,5,3,Calibri,11.0,77.8,265.4,520.0,276.4,"EUR 30 million, funded 50% by the EuroHPC Joint Undertaking and 50% by national resources. The "
+16,5,4,Calibri,11.0,77.8,279.9,461.0,290.9,"project is scheduled to commence in March 2025, with a total duration of 36 months. "
+16,6,0,Calibri,11.0,77.8,297.4,520.0,308.5,Strategic foresight research on the use of GenAI was published early 2024. It is accompanied by 
+16,6,1,Calibri,11.0,77.8,311.9,519.9,323.0,series of discussions and videos addressed to citizens and businesses to open the discussion and 
+16,6,2,Calibri,11.0,77.8,326.3,265.6,337.4,help understand the potential of using AI. 
+16,7,0,Calibri,11.0,72.0,344.6,74.5,355.6, 
+16,7,1,Calibri,11.0,72.0,359.1,525.9,370.1,The 2025 Eurobarometer shows that 82% of respondents in Greece think that public authorities should 
+16,7,2,Calibri,11.0,72.0,373.6,525.6,384.6,prioritise shaping the development of Artificial Intelligence and other digital technologies to ensure 
+16,7,3,Calibri,11.0,72.0,388.1,406.6,399.2,"that they respect our rights and values, in line with the EU average of 83%. "
+16,8,0,Calibri-Bold,11.0,72.0,410.6,305.9,421.6,The Ministry of Digital Governance liaised with the 
+16,8,0,Calibri-Bold,11.0,306.0,410.6,376.5,421.6,"CISERO project,"
+16,8,0,Calibri-Bold,11.0,376.5,410.6,525.9,421.6," launched in September 2024, in "
+16,8,1,Calibri-Bold,11.0,72.0,425.1,525.8,436.1,support of the IPCEI-CIS to ensure the wide-scale adoption and exploitation of the technologies 
+16,8,2,Calibri-Bold,11.0,72.0,439.5,193.4,450.5,developed under IPCEI-CIS
+16,8,2,Calibri,11.0,193.2,439.5,525.9,450.5,". CISERO will facilitate collaboration between Member States, companies, "
+16,8,3,Calibri,11.0,72.0,454.0,525.7,465.1,"research organisations, and public authorities to ensure investments made in cloud and edge "
+16,8,4,Calibri,11.0,72.0,468.5,359.9,479.6,infrastructures yield tangible benefits for Europe’s digital future. 
+16,9,0,Calibri-Light,12.0,72.0,489.3,233.6,501.3,"Unicorns, scale-ups and start-ups "
+16,10,0,Calibri-Bold,11.0,72.0,516.8,316.8,527.8,"At the beginning of 2025, Greece had three unicorns"
+16,10,0,Calibri-Bold,7.0,316.9,515.9,320.4,522.8,9
+16,10,0,Calibri-Bold,11.0,320.4,516.8,422.8,527.8, the same as in 2024. 
+16,10,0,Calibri,11.0,423.7,516.8,525.9,527.8,Greece had set a very 
+16,10,1,Calibri,11.0,72.0,531.3,525.8,542.3,ambitious national target of 20 unicorns by 2030 to contribute to the achievement of the EU target 
+16,10,2,Calibri,11.0,72.0,545.8,99.6,556.9,2030. 
+16,11,0,Calibri-Bold,11.0,72.0,568.3,525.9,579.3,"In 2024, Greece’s start-up’ ecosystem continued to grow with sectors like AI and health tech among "
+16,11,1,Calibri-Bold,11.0,72.0,582.8,162.7,593.9,those most funded. 
+16,11,1,Calibri,11.0,162.3,582.8,178.8,593.9,The
+16,11,1,Calibri-Bold,11.0,178.9,582.8,181.3,593.9, 
+16,11,1,Calibri,11.0,180.8,582.8,210.4,593.9,official
+16,11,1,Calibri-Bold,11.0,210.4,582.8,212.9,593.9, 
+16,11,1,Calibri,11.0,212.4,582.8,455.1,593.9,"platform built in 2020 by the Ministry of Development, "
+16,11,1,Calibri,11.0,454.7,582.8,520.7,593.9,Elevate Greece
+16,11,1,Calibri,11.0,520.8,582.8,525.9,593.9,", "
+16,11,2,Calibri,11.0,72.0,597.3,382.6,608.4,"acting as the national registry of start-ups, includes over 930 start-ups"
+16,11,2,Calibri,7.0,382.5,596.4,389.5,603.4,10
+16,11,2,Calibri,11.0,389.5,597.3,525.9,608.4, (up from 820 last year) in line 
+16,11,3,Calibri,11.0,72.0,611.9,525.8,622.9,with the objective of reaching 1 000 start-ups by the end of 2025. The country has the advantage of a 
+16,11,4,Calibri,11.0,72.0,626.3,446.5,637.3,highly skilled English-speaking workforce and an IT sector that is developing rapidly. 
+16,12,0,Calibri-Bold,11.0,72.0,648.8,525.8,659.9,"Greece had 16 venture capital (VC) funds active, in 2024 with an increase in investment of 15% "
+16,12,1,Calibri-Bold,11.0,72.0,663.3,201.1,674.4,compared to previous year. 
+16,12,1,Calibri,11.0,201.9,663.3,525.8,674.4,"In the same time, the European ecosystem showed a slight drop of 5% "
+16,12,2,Calibri,11.0,72.0,677.7,151.6,688.8,according to the ‘
+16,12,2,Calibri,11.0,151.6,677.7,405.2,688.8,"Startups in Greece, Venture financing report 2024-2025’"
+16,12,2,Calibri,11.0,404.1,677.7,525.9,688.8,. But access to VC remains 
+16,12,3,Calibri,11.0,72.0,692.3,447.0,703.3,"difficult, especially in early-stage funding, compared to other ecosystems in Europe. "
+16,13,0,Calibri,11.0,216.1,734.3,218.5,745.3, 
+16,13,1,Calibri,6.5,72.0,746.8,75.3,753.3,9
+16,13,1,Calibri,10.0,75.3,747.7,77.5,757.6, 
+16,13,1,Calibri,9.0,77.5,748.4,198.9,757.4,Source: Dealroom (January 2025)
+16,13,1,Calibri,10.0,199.0,747.7,201.3,757.6, 
+16,13,2,Calibri,6.5,72.0,759.1,78.5,765.5,10
+16,13,2,Calibri,10.0,78.5,759.9,80.8,769.9, 
+16,13,2,Calibri,9.0,80.8,760.6,139.0,769.6,On 01/04/2025 
+16,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,14,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+17,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,The newly launched project for AI Factory in Greece will also provide AI-dedicated supercomputing 
+17,3,1,Calibri-Bold,11.0,72.0,98.4,353.4,109.5,services in support of the AI start-up and research ecosystem.
+17,3,1,Calibri,11.0,353.4,98.4,525.9,109.5, It will provide large-scale training and 
+17,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"development, trustworthy and ethical AI models and systems, and AI user communities for the "
+17,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"development, validation and running of emerging AI applications. The AI Factory will also foster talent "
+17,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,"development. The newly created AI-Factory with a focus on health data utilisation, climate change "
+17,3,5,Calibri,11.0,72.0,156.4,525.6,167.4,"mitigation, and fostering a Greek language model is fully part of the digital transformation strategy "
+17,3,6,Calibri,11.0,72.0,170.9,224.7,181.9,implemented by the government. 
+17,4,0,Calibri-Bold,11.0,72.0,193.5,525.9,204.5,"Other sectorial initiatives also promote the creation of start-ups in Greece, such as the European "
+17,4,1,Calibri-Bold,11.0,72.0,207.9,311.0,218.9,Space Agency’s business incubator (ESA BIC Greece). 
+17,4,1,Calibri,11.0,310.5,207.9,525.9,218.9,This will contribute to a strategic ecosystem that 
+17,4,2,Calibri,11.0,72.0,222.4,525.8,233.4,"will benefit Europe’s sovereignty, with the ESA BIC being part of the world’s largest space innovation "
+17,4,3,Calibri,11.0,72.0,236.9,114.6,248.0,network. 
+17,5,0,Calibri-Bold,11.0,72.0,259.4,525.9,270.4,"In terms of business environment, Greece introduced tax incentives for innovation and business "
+17,5,1,Calibri-Bold,11.0,72.0,273.9,140.9,284.9,transformation
+17,5,1,Calibri-Bold,7.0,140.8,273.0,147.8,279.9,11
+17,5,1,Calibri-Bold,11.0,147.7,273.9,238.3,284.9, in December 2024. 
+17,5,1,Calibri,11.0,238.2,273.9,525.9,284.9,"As of 2025, enterprises will be able to deduct costs for R&D paid "
+17,5,2,Calibri,11.0,72.0,288.4,525.9,299.5,to start-ups or university research centres. Micro enterprises and SMEs will also be able to deduct costs 
+17,5,3,Calibri,11.0,72.0,302.9,525.8,314.0,for scientific and technological research under certain conditions. Investment incentives are also 
+17,5,4,Calibri,11.0,72.0,317.3,391.5,328.4,"planned for angel investors, to foster innovation and start-ups creation. "
+17,6,0,Calibri-Light,15.0,72.0,340.8,329.4,355.8,Strengthening Cybersecurity & Resilience   
+17,7,0,Calibri-Bold,11.0,72.0,367.6,381.3,378.6,"In Greece, 2 out of 3 people have at least basic digital safety skills."
+17,7,0,Calibri,11.0,381.5,367.6,525.9,378.6, 66.03% of individuals reported 
+17,7,1,Calibri,11.0,72.0,382.1,525.9,393.2,they had taken at least one action (see the six types of digital safety actions in the graph’s legend) to 
+17,7,2,Calibri,11.0,72.0,396.7,525.9,407.7,"protect their personal data online, just below the EU average of 69.55%. A relatively smaller share, 1 "
+17,7,3,Calibri,11.0,72.0,411.1,525.9,422.1,"out of 3 (33.16%), took three or more such actions (and therefore could be considered to have above "
+17,7,4,Calibri,11.0,72.0,425.6,525.9,436.6,basic digital safety skills). The most frequent measure was refusing the use of personal data for 
+17,7,5,Calibri,11.0,72.0,440.1,525.8,451.1,"advertising purposes, taken by 43.06%, while the least common was checking the security of websites "
+17,7,6,Calibri,11.0,72.0,454.6,324.2,465.7,"where personal data was provided, reported by 22.84%. "
+17,9,0,Calibri-Bold,11.0,72.0,477.1,294.8,488.1,Enterprises in Greece tend to experience more 
+17,9,1,Calibri-Bold,11.0,72.0,491.6,268.1,502.6,incidents related to cyberattacks in 2024
+17,9,1,Calibri,11.0,268.1,491.6,294.9,502.6,. The 
+17,9,2,Calibri,11.0,72.0,506.1,294.8,517.2,percentage that experienced incidents leading to 
+17,9,3,Calibri,11.0,72.0,520.5,294.7,531.5,unavailability of ICT services due to attack from 
+17,9,4,Calibri,11.0,72.0,535.0,294.7,546.1,"outside (e.g. ransomware, denial of services "
+17,9,5,Calibri,11.0,72.0,549.5,294.8,560.6,"attacks) increased to 6.2%, compared to 5.6% in "
+17,9,6,Calibri,11.0,72.0,564.1,294.8,575.1,2022. On average in the EU only 3.4% of 
+17,9,7,Calibri,11.0,72.0,578.5,294.9,589.5,enterprises reported they had experienced 
+17,9,8,Calibri,11.0,72.0,593.0,294.9,604.1,"cybersecurity incidents, practically the same level "
+17,9,9,Calibri,11.0,72.0,607.5,294.8,618.6,as in 2022 (3.5%). But in terms of incidents leading 
+17,9,10,Calibri,11.0,72.0,622.1,294.7,633.1,to destruction or corruption of data (e.g. due to 
+17,9,11,Calibri,11.0,72.0,636.5,294.8,647.5,infection of malicious software or unauthorised 
+17,9,12,Calibri,11.0,72.0,651.0,294.9,662.0,"intrusion, hardware or software failure), the "
+17,9,13,Calibri,11.0,72.0,665.5,294.9,676.5,enterprises in Greece reported fewer incidents 
+17,9,14,Calibri,11.0,72.0,680.0,294.9,691.1,(3.5%) than the EU average (5%). As regards 
+17,9,15,Calibri,11.0,72.0,694.4,294.9,705.5,"countermeasures taken by enterprises, 71.8% of "
+17,9,16,Calibri,11.0,72.0,708.9,294.9,720.0,them deployed some cybersecurity measures 
+17,10,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+17,11,0,Calibri,6.0,72.0,760.6,78.1,766.6,11
+17,11,0,Calibri,9.0,78.0,760.9,138.6,769.9, Law 5162/2024 
+17,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+18,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"(lower than the EU average of 92.8%), but only 31.7% made their employees aware of their obligations "
+18,2,1,Calibri,11.0,72.0,98.4,431.7,109.5,"regarding cybersecurity-related issues, significantly below the EU average (60%). "
+18,4,0,Calibri-Bold,11.0,72.0,121.0,525.9,132.0,"The adoption of new internet standards to ensure scalability, stability and security of the internet "
+18,4,1,Calibri-Bold,11.0,72.0,135.5,229.4,146.5,presents a mixed picture in Greece
+18,4,1,Calibri,11.0,229.5,135.5,525.9,146.5,". By the third quarter of 2024, 53% of internet hosts in Greece had "
+18,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,already deployed the latest version of the Internet’s main communication Protocol version 6 (IPv6) for 
+18,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,"end users (significantly higher than the EU average 36%). Regarding protection for servers, at 24% "
+18,4,4,Calibri,11.0,72.0,178.9,525.8,190.0,"Greece is also higher than the EU average 17%. However, the adoption of Domain Name System "
+18,4,5,Calibri,11.0,72.0,193.5,525.9,204.5,Security Extensions (DNSSEC) to protect the integrity of the Domain Name System (DNS) internet 
+18,4,6,Calibri,11.0,72.0,207.9,525.9,218.9,infrastructure (ensuring interoperability and the security of global cyberspace) is low in Greece - 19% 
+18,4,7,Calibri,11.0,72.0,222.4,237.1,233.4,compared to the EU average of 47%. 
+18,5,0,Calibri-Bold,11.0,72.0,245.0,242.4,256.0,Greece transposed the NIS2 directive
+18,5,0,Calibri,7.0,242.3,244.1,249.3,251.0,12
+18,5,0,Calibri-Bold,11.0,249.3,245.0,389.4,256.0, into national legislation on 28
+18,5,0,Calibri-Bold,7.0,389.5,244.1,395.6,251.0,th
+18,5,0,Calibri-Bold,11.0,395.6,245.0,484.1,256.0, of November 2024
+18,5,0,Calibri,7.0,484.1,244.1,491.1,251.0,13
+18,5,0,Calibri,11.0,491.0,245.0,525.9,256.0,. In the 
+18,5,1,Calibri,11.0,72.0,259.4,525.8,270.4,"coming months, several measures will continue to be deployed to facilitate the implementation of "
+18,5,2,Calibri,11.0,72.0,273.9,525.6,284.9,"NIS2. The National Cybersecurity Authority (NCSA) established in 2024, as the supervisory authority "
+18,5,3,Calibri,11.0,72.0,288.4,525.7,299.5,"for cybersecurity, is the NIS2 competent authority and single point of contact responsible for "
+18,5,4,Calibri,11.0,72.0,302.9,525.9,314.0,"cybersecurity and for the supervisory tasks referred to in the Directive. In this context, it oversees the "
+18,5,5,Calibri,11.0,72.0,317.3,525.9,328.4,"development, implementation and monitoring of the cybersecurity strategy which will be updated by "
+18,5,6,Calibri,11.0,72.0,331.8,525.9,342.9,the third quarter of 2025 to consider the new landscape of cybersecurity and better monitor the supply 
+18,5,7,Calibri,11.0,72.0,346.4,525.8,357.4,"chain security. According to the Digital Decade Eurobarometer 2025, 88% of the respondents in Greece "
+18,5,8,Calibri,11.0,72.0,360.9,525.9,371.9,"think that an improved cybersecurity, better protection of online data and safety of digital technologies "
+18,5,9,Calibri,11.0,72.0,375.3,312.0,386.3,would facilitate their daily use of digital technologies. 
+18,6,0,Calibri-Bold,11.0,72.0,397.9,525.9,408.9,"To address the cybersecurity skills shortage in the EU, Greece is leading on the creation of a "
+18,6,1,Calibri-Bold,11.0,72.0,412.4,525.9,423.4,Cybersecurity Skills Coalition in collaboration with other Member States to create a European digital 
+18,6,2,Calibri-Bold,11.0,72.0,426.8,224.3,437.8,infrastructure consortium (EDIC). 
+18,6,2,Calibri,11.0,224.0,426.8,525.9,437.8,The objective is to support the implementation of the Cybersecurity 
+18,6,3,Calibri,11.0,72.0,441.3,178.8,452.4,Skills Academy initiative
+18,6,3,Calibri,7.0,178.7,440.4,185.7,447.4,14
+18,6,3,Calibri,11.0,185.7,441.3,525.8,452.4," and boost capacity building and resilience for public authorities, industries, "
+18,6,4,Calibri,11.0,72.0,455.8,525.9,466.9,and SMEs across EU Member States. Both EU and national resources—through co-financing by the 
+18,6,5,Calibri,11.0,72.0,470.3,525.8,481.4,Digital Europe Program and national funds—have already been allocated to cybersecurity skills 
+18,6,6,Calibri,11.0,72.0,484.7,522.1,495.8,"development projects, such as CADMUS and AKADIMOS, which are currently under implementation. "
+18,7,0,Calibri,11.0,216.1,723.4,218.5,734.4, 
+18,7,1,Calibri,6.5,72.0,735.9,78.5,742.4,12
+18,7,1,Calibri,10.0,78.5,736.8,80.8,746.7, 
+18,7,1,Calibri,9.0,80.8,737.5,133.6,746.5,EE 2022/2555 
+18,7,2,Calibri,6.0,72.0,748.4,78.1,754.4,13
+18,7,2,Calibri,9.0,78.0,748.6,138.6,757.6, Law 5160/2024 
+18,7,3,Calibri,6.5,72.0,759.1,78.5,765.5,14
+18,7,3,Calibri,10.0,78.5,759.9,80.8,769.9, 
+18,7,3,Calibri,9.0,80.8,760.6,156.5,769.6,COM(2023) 207 final
+18,7,3,Calibri,10.0,156.5,759.9,158.8,769.9, 
+18,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,8,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+19,3,0,Calibri-Bold,26.0,72.0,87.0,493.4,113.1,Protecting and empowering EU people 
+19,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+19,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+19,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+19,5,0,Calibri-Bold,11.0,72.0,208.0,525.9,219.0,"In its digital transformation, Greece faces a challenge in developing digital skills for all which could "
+19,5,1,Calibri-Bold,11.0,72.0,222.5,267.0,233.5,slow down inclusion in the digital society.
+19,5,1,Calibri,11.0,267.2,222.5,525.9,233.5, Significant gaps between different population segments 
+19,5,2,Calibri,11.0,72.0,237.0,525.9,248.1,can be observed. The lack of ICT specialists in employment also represents a barrier to digitalisation. 
+19,5,3,Calibri,11.0,72.0,251.4,525.9,262.5,Greece continues to actively implement its strategy of transformation for public services and 
+19,5,4,Calibri,11.0,72.0,266.0,525.9,277.0,"businesses, although it is showing a slowdown in its annual progress rate. It has notably included AI "
+19,5,5,Calibri,11.0,72.0,280.5,525.8,291.5,"technologies in the transformation of public services. According to the 2025 Eurobarometer, 88% of "
+19,5,6,Calibri,11.0,72.0,295.0,525.7,306.0,the respondents in Greece think that accessing public services online will be important for their daily 
+19,5,7,Calibri,11.0,72.0,309.4,525.9,320.5,"life by 2030. The country also recently presented its strategy to protect minors online, for which the "
+19,5,8,Calibri,11.0,72.0,323.9,292.5,335.0,development of the Greek Wallet will play a role. 
+19,6,0,Calibri-Light,12.0,72.0,346.7,182.3,358.7,Equipping people with 
+19,6,0,Calibri,12.0,182.4,346.7,240.7,358.7,digital skills 
+19,7,0,Calibri-LightItalic,11.0,72.0,374.2,152.0,385.2,Basic Digital Skills 
+19,8,0,Calibri-Bold,11.0,72.0,402.8,525.9,413.8,"According to data from 2023, only 52.40% of the population (age 16-74) in Greece had at least basic "
+19,8,1,Calibri-Bold,11.0,72.0,417.3,467.9,428.4,"digital skills compared to the EU average of 55.56%, showing no progress since 2021."
+19,8,1,Calibri,11.0,468.0,417.3,525.9,428.4, Despite the 
+19,8,2,Calibri,11.0,72.0,431.7,525.7,442.8,"lack of new data collected in the EU in 2024, an analysis of different population groups provides "
+19,8,3,Calibri,11.0,72.0,446.2,161.6,457.3,interesting insights: 
+19,9,0,SymbolMT,10.0,72.0,465.0,76.6,477.2,
+19,9,0,ArialMT,10.0,76.6,466.0,79.4,477.1, 
+19,9,1,Calibri-Bold,11.0,89.9,466.7,146.3,477.8,Gender Gap
+19,9,1,Calibri,11.0,146.3,466.7,525.9,477.8,": The gender gap in Greece is small, with 53.15% of men and 51.67% of women "
+19,9,2,Calibri,11.0,89.9,481.3,525.7,492.3,possessing at least basic digital skills. This gap of 1.48 percentage points is smaller than the EU 
+19,9,3,Calibri,11.0,89.9,495.7,241.0,506.7,average of 2.2 percentage points. 
+19,10,0,SymbolMT,10.0,72.0,511.5,76.6,523.6,
+19,10,0,ArialMT,10.0,76.6,512.5,79.4,523.6, 
+19,10,1,Calibri-Bold,11.0,90.0,513.2,162.9,524.2,Education Level
+19,10,1,Calibri,11.0,162.9,513.2,525.9,524.2,": Those with higher education in Greece are doing well digitally, with 83.19% "
+19,10,2,Calibri,11.0,90.0,527.7,525.9,538.8,"having at least basic digital skills, which is higher than the EU average of 79.83%. However, people "
+19,10,3,Calibri,11.0,90.0,542.2,525.9,553.3,"with minimal formal education are much less digitally skilled, with just 20.14% having at least basic "
+19,10,4,Calibri,11.0,90.0,556.7,525.9,567.7,"digital skills. Comparing with the national average, the resulting gap of 32.26 percentage points is "
+19,10,5,Calibri,11.0,90.0,571.2,259.2,582.2,wider than the EU average (21.95pp). 
+19,11,0,SymbolMT,10.0,72.0,587.0,76.6,599.1,
+19,11,0,ArialMT,10.0,76.6,588.0,79.4,599.1, 
+19,11,1,Calibri-Bold,11.0,90.0,588.7,144.3,599.7,Living Areas
+19,11,1,Calibri,11.0,144.4,588.7,525.9,599.7,": In rural Greece, only 36.04% of residents have at least basic digital skills, falling below "
+19,11,2,Calibri,11.0,90.0,603.2,525.9,614.3,"the EU average for rural areas (47.50%). The digital divide in Greece is significant, with a 16.36 "
+19,11,3,Calibri,11.0,90.0,617.6,525.9,628.7,"percentage point gap between rural and national averages, which is much larger than what is seen "
+19,11,4,Calibri,11.0,90.0,632.1,195.9,643.2,across the EU (8.06pp). 
+19,12,0,SymbolMT,10.0,72.0,647.9,76.6,660.1,
+19,12,0,ArialMT,10.0,76.6,648.9,79.4,660.0, 
+19,12,1,Calibri-Bold,11.0,90.0,649.7,142.6,660.7,Age Groups
+19,12,1,Calibri,11.0,142.5,649.7,525.9,660.7,": Greece’s young adults aged 25 to 34 are digitally proficient, with 79.46% having basic "
+19,12,2,Calibri,11.0,90.0,664.2,525.9,675.2,"digital skills, surpassing the EU average (70.18%). In contrast, only 12.84% of 65 to 74-year-olds "
+19,12,3,Calibri,11.0,90.0,678.6,525.9,689.6,"have at least basic digital skills, considerably lower than the EU average in this age group (28.19%). "
+19,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+20,3,0,Calibri-Bold,11.0,72.0,84.0,230.2,95.1,Digital Skills Index components
+20,3,0,Calibri,11.0,230.3,84.0,324.8,95.1,: Out of the five 
+20,3,1,Calibri,11.0,72.0,97.3,324.7,108.4,"components of the Digital Skills Index, Greece surpasses "
+20,3,2,Calibri,11.0,72.0,110.8,324.9,121.8,the EU average only on ‘information and data literacy’ 
+20,3,3,Calibri,11.0,72.0,124.2,324.7,135.3,skills. The highest score is seen in communication and 
+20,3,4,Calibri,11.0,72.0,137.7,324.9,148.7,"collaboration skills (82.30%), but this is still below the EU "
+20,3,5,Calibri,11.0,72.0,151.1,324.7,162.1,average (89.33%). The lowest score is in digital content 
+20,3,6,Calibri,11.0,72.0,164.5,324.8,175.6,"creation skills at 63.46%, also below the EU average "
+20,3,7,Calibri,11.0,72.0,178.0,116.9,189.0,(68.28%). 
+20,5,0,Calibri,11.0,72.0,197.4,324.9,208.5,"In summary, Greece shows a mixed picture in its "
+20,5,1,Calibri,11.0,72.0,210.9,324.9,221.9,"population’s digital skills, with some strengths observed "
+20,5,2,Calibri,11.0,72.0,224.3,324.9,235.3,"in those with higher education and, overall, a smaller "
+20,5,3,Calibri,11.0,72.0,237.6,324.9,248.7,"gender gap, proportionally. But significant challenges "
+20,5,4,Calibri,11.0,72.0,251.1,324.8,262.1,"remain, especially a severe digital divide in terms of "
+20,5,5,Calibri,11.0,72.0,264.5,525.9,275.6,"education, with only 20.1% of people with a lower level of education having at least basic digital skills. "
+20,5,6,Calibri,11.0,72.0,278.0,363.2,289.0,"A rural-urban divide, and an age-group divide are also observed.  "
+20,6,0,Calibri-Bold,11.0,72.0,305.4,525.9,316.5,"Greece’s target for the population share with at least basic digital skills is 70.2%, below the EU target "
+20,6,1,Calibri-Bold,11.0,72.0,320.0,129.7,331.0,2030 (80%). 
+20,6,1,Calibri,11.0,131.2,320.0,306.5,331.0,"In the adjustment of its roadmap, the"
+20,6,1,Calibri-Bold,11.0,306.5,320.0,309.0,331.0, 
+20,6,1,Calibri,11.0,310.4,320.0,525.9,331.0,target was not revised but additional action is 
+20,6,2,Calibri,11.0,72.0,334.4,525.8,345.4,included to help improve the situation and align the country with the Digital Decade objectives. The 
+20,6,3,Calibri,11.0,72.0,348.9,525.9,359.9,"country also continues to implement the broad initiatives foreseen in the roadmap, notably the digital "
+20,6,4,Calibri,11.0,72.0,363.4,525.8,374.4,transformation of the education system. Enhancing basic digital skills for everyone is crucial for the 
+20,6,5,Calibri,11.0,72.0,377.9,525.9,389.0,"Greek government. Many RRF investment measures will also enhance people’s digital skills, with a "
+20,6,6,Calibri,11.0,72.0,392.3,481.0,403.4,large reform of the vocational and education system with a focus on digital and green skills. 
+20,7,0,Calibri-Bold,11.0,77.8,415.6,252.5,426.7,2024 recommendation on digital skills:
+20,7,0,Calibri,11.0,252.5,415.6,520.0,426.7, Review and consider whether additional targeted measures 
+20,7,1,Calibri,11.0,77.8,430.1,519.8,441.2,"to train the population are sufficient to reach the target, boost the resilience of the economy and "
+20,7,2,Calibri,11.0,77.8,444.7,245.5,455.7,society and achieve inclusive growth. 
+20,8,0,Calibri-Bold,11.0,77.8,462.9,520.1,473.9,Greece made some efforts to address this recommendation through new policy actions in 2024. 
+20,8,1,Calibri,11.0,77.8,477.3,519.9,488.4,"Two additional measures for the ‘development of digital content in schools’, and for ‘upgrading the "
+20,8,2,Calibri,11.0,77.8,491.8,519.9,502.9,digital information system for primary and secondary education’ have been added in the roadmap. 
+20,8,3,Calibri,11.0,77.8,506.4,519.8,517.4,It aims to contribute to the digital reform of the education system by creating an open and 
+20,8,4,Calibri,11.0,77.8,520.9,281.9,531.9,innovative digital education model in Greece. 
+20,9,0,Calibri,11.0,72.0,539.1,74.5,550.2, 
+20,9,1,Calibri-Bold,11.0,72.0,553.5,525.5,564.5,By integrating digital skills into school curricula and ensuring access to technology and the internet 
+20,9,2,Calibri-Bold,11.0,72.0,568.1,520.8,579.1,"across both urban and rural areas, Greece aims to prepare its citizens for jobs in today’s digital world"
+20,9,2,Calibri,11.0,520.8,568.1,525.9,579.1,. 
+20,9,3,Calibri,11.0,72.0,582.6,525.7,593.6,"It’s not just about learning to use technology, but also understanding how to find reliable information "
+20,9,4,Calibri,11.0,72.0,597.1,525.9,608.1,online and communicate effectively using digital tools. This includes teaching people how to use 
+20,9,5,Calibri,11.0,72.0,611.5,525.6,622.5,computers and the internet safely and effectively. Through collaboration with businesses and 
+20,9,6,Calibri,11.0,72.0,626.0,525.7,637.1,"community organisations, the country strives to ensure that everyone, regardless of their location or "
+20,9,7,Calibri,11.0,72.0,640.5,525.7,651.6,"background, can acquire these essential skills, thereby fostering economic growth and success in the "
+20,9,8,Calibri,11.0,72.0,655.1,137.8,666.1,digital society. 
+20,10,0,Calibri-LightItalic,11.0,72.0,677.5,135.2,688.5,ICT specialists 
+20,11,0,Calibri-Bold,11.0,72.0,704.0,525.9,715.1,"Greece has 2.5% of ICT specialists in employment in 2024, significantly below the EU average (5.0%) "
+20,11,1,Calibri-Bold,11.0,72.0,718.5,525.8,729.6,with a similar growth rate to the EU’s (4.2%). The country is lagging behind compared to its national 
+20,11,2,Calibri-Bold,11.0,72.0,733.0,121.4,744.0,trajectory. 
+20,11,2,Calibri,11.0,124.0,733.0,525.7,744.0,"In 2023, the percentage of ICT specialists in total employment in Greece was 2.4%, "
+20,11,3,Calibri,11.0,72.0,747.5,197.7,758.5,compared to the EU's 4.8%. 
+20,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+21,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,The percentage of women ICT specialists in Greece (19.8%) in 2023 was slightly higher than the EU 
+21,3,1,Calibri-Bold,11.0,72.0,98.4,502.8,109.5,"average (19.4%). However, by 2024, this figure had decreased to 16.0%, below the EU’s 19.5%."
+21,3,1,Calibri,11.0,502.8,98.4,525.9,109.5, This 
+21,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,suggests that Greece is not effectively retaining or attracting female talent in digital career and ICT 
+21,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"sector. In 2022, the percentage of enterprises employing 10 persons or more providing training in ICT "
+21,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"in Greece was 13.44%, significantly lower than the EU’s 22.37%. By 2024, this figure had slightly "
+21,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"decreased to 13.27%, while the EU’s percentage also decreased to 22.29%. Greece’s annual growth "
+21,3,6,Calibri,11.0,72.0,170.9,326.4,181.9,rate of -0.6% for this metric is lower than the EU’s -0.2%. 
+21,4,0,Calibri-Bold,11.0,72.0,193.5,416.9,204.5,"Greece’s target for ICT specialists is 4.5%, below the 2030 EU target (10%). "
+21,4,0,Calibri,11.0,417.5,193.5,525.9,204.5,In the adjustment of its 
+21,4,1,Calibri,11.0,72.0,207.9,234.5,218.9,"roadmap, Greece has not revised the"
+21,4,1,Calibri-Bold,11.0,234.5,207.9,237.0,218.9, 
+21,4,1,Calibri,11.0,236.4,207.9,525.9,218.9,target but has added additional measures to develop the pipeline 
+21,4,2,Calibri,11.0,72.0,222.4,525.9,233.4,of ICT talent. The roadmap adjustments also present a monitoring of other parameters that have an 
+21,4,3,Calibri,11.0,72.0,236.9,512.6,248.0,"impact on the share of ICT professionals, such as ICT graduates and demand on the labour market. "
+21,5,0,Calibri-Bold,11.0,72.0,259.4,525.8,270.4,"In terms of demand from the labour market, Eurostat’s experimental statistics based on web "
+21,5,1,Calibri-Bold,11.0,72.0,273.9,525.7,284.9,"scraping show that in Greece, the profiles of ‘software and applications developers and analysts’ are "
+21,5,2,Calibri-Bold,11.0,72.0,288.4,525.8,299.5,"the most sought after, representing 49.1% of online job advertisements for ICT specialists (58.0% at "
+21,5,3,Calibri-Bold,11.0,72.0,302.9,117.9,314.0,EU level). 
+21,5,3,Calibri,11.0,118.3,302.9,525.9,314.0,Two types of profile are significantly more in demand in Greece than in the EU in average: 
+21,5,4,Calibri,11.0,72.0,317.3,525.8,328.4,‘information and communications technology service managers’ (7% of online job advertisements for 
+21,5,5,Calibri,11.0,72.0,331.8,525.7,342.9,ICT specialists; EU average 3.8%) and ‘information and communications technology operations and 
+21,5,6,Calibri,11.0,72.0,346.4,525.9,357.4,user support technicians’ (13% while the EU average is 10.4%). The profile of ‘database and network 
+21,5,7,Calibri,11.0,72.0,360.9,417.3,371.9,professionals’ (11.6% of online job ads) is also above the EU average (10.1%). 
+21,6,0,Calibri-Bold,11.0,72.0,383.3,525.9,394.4,Increasing the number of ICT specialists remains admittedly one of the biggest challenges faced by 
+21,6,1,Calibri-Bold,11.0,72.0,397.9,206.1,408.9,Greece in its digital transition
+21,6,1,Calibri,11.0,206.2,397.9,525.9,408.9,. The country has been confronted with an unprecedented ‘brain drain’ 
+21,6,2,Calibri,11.0,72.0,412.4,525.9,423.4,"during the economic crisis, and finding and retaining talent is of particular importance while also "
+21,6,3,Calibri,11.0,72.0,426.8,489.2,437.8,fostering an entrepreneurial mindset through education and training. Greece set up the ‘
+21,6,3,Calibri,11.0,489.2,426.8,525.9,437.8,Rebrain 
+21,6,4,Calibri,11.0,72.0,441.3,106.5,452.4,Greece’
+21,6,4,Calibri,11.0,106.6,441.3,525.9,452.4," initiative, a mechanism to give visibility to Greek talents abroad, who would have the high "
+21,6,5,Calibri,11.0,72.0,455.8,525.9,466.9,"skills looked for by businesses in Greece, which include the ICT sector. The platform publishes highly "
+21,6,6,Calibri,11.0,72.0,470.3,525.8,481.4,specialised posts encoded by businesses in Greece using the European multilingual classification of 
+21,6,7,Calibri,11.0,72.0,484.7,525.8,495.8,"Skills, Competences and Occupations (ESCO). Furthermore, official data from the Mechanism of Labour "
+21,6,8,Calibri,11.0,72.0,499.3,525.6,510.3,"Market Diagnosis regarding ICT professionals indicate increasing demand for ICT professionals, with a "
+21,6,9,Calibri,11.0,72.0,513.8,365.1,524.8,prevalence for software and multimedia developers and analysts. 
+21,7,0,Calibri-Bold,11.0,72.0,536.2,525.8,547.3,Primary and secondary education constitute a critical stage in motivating children towards obtaining 
+21,7,1,Calibri-Bold,11.0,72.0,550.7,139.1,561.8,an ICT degree.
+21,7,1,Calibri,11.0,139.2,550.7,525.9,561.8," Therefore, enhancing digital skills of pupils as early as possible gives them a higher "
+21,7,2,Calibri,11.0,72.0,565.3,525.9,576.3,"chance of becoming ICT professionals. To this end, the Ministry of Education, Religious Affairs and "
+21,7,3,Calibri,11.0,72.0,579.8,525.8,590.9,"Sports, in cooperation with the Institute of Educational Policy, has launched a comprehensive package "
+21,7,4,Calibri,11.0,72.0,594.2,523.6,605.3,of measures aimed at enhancing digital skills for pupils in Greece and orientating them towards ICT-
+21,7,5,Calibri,11.0,72.0,608.7,146.9,619.8,related degrees. 
+21,8,0,Calibri-Bold,11.0,77.8,632.0,267.3,643.1,2024 recommendation on ICT specialists: 
+21,8,0,Calibri,11.0,267.5,632.0,519.8,643.1,Reinforce the strategy and the measures to increase the 
+21,8,1,Calibri,11.0,77.8,646.4,314.3,657.5,number of ICT specialists and retain the best talents. 
+21,8,1,Calibri-Bold,11.0,314.4,646.4,316.8,657.5, 
+21,9,0,Calibri-Bold,11.0,77.8,664.7,520.1,675.7,Greece fully addressed the recommendation by putting significant policy actions into place in 
+21,9,1,Calibri-Bold,11.0,77.8,679.2,105.6,690.2,2024. 
+21,9,1,Calibri,11.0,105.4,679.2,167.4,690.2,Greece added
+21,9,1,Calibri-Bold,11.0,167.4,679.2,169.9,690.2, 
+21,9,1,Calibri,11.0,169.7,679.2,188.3,690.2,four
+21,9,1,Calibri-Bold,11.0,188.3,679.2,190.8,690.2, 
+21,9,1,Calibri,11.0,190.6,679.2,520.0,690.2,additional measures to develop the pipeline of future ICT talents by giving 
+21,9,2,Calibri,11.0,77.8,693.7,520.0,704.7,children an early access to digital technology with (i) the project for Skills Workshops: robotics and 
+21,9,3,Calibri,11.0,77.8,708.2,520.0,719.3,"STEM-supply of robotics and STEM equipment for kindergartens, primary and secondary schools to "
+21,9,4,Calibri,11.0,77.8,722.6,520.1,733.7,become familiar with programming and robotics. (ii) ‘Competence Labs - 21+ Skills Workshops’ 
+21,9,5,Calibri,11.0,77.8,737.2,324.6,748.2,which aim to develop skills necessary for the 21
+21,9,5,Calibri,7.0,324.8,736.3,329.8,743.2,st
+21,9,5,Calibri,11.0,329.7,737.2,520.0,748.2," century for students including STEM, "
+21,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,10,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+22,3,0,Calibri,11.0,77.8,84.7,520.0,95.8,"entrepreneurship, creative thinking; (iii) digital library of teaching material for all levels; (iv) supply "
+22,3,1,Calibri,11.0,77.8,99.3,441.4,110.3,and installation of interactive learning systems in primary and secondary schools. 
+22,3,2,Calibri,11.0,77.8,113.7,519.8,124.7,Greece also added a measure aiming at having more ICT graduates with the Schools of Advanced 
+22,3,3,Calibri,11.0,77.8,128.2,517.7,139.2,Vocational Training (SAEK). Until 2024 there were no programme in Greece covering ISCED 5 (short-
+22,3,4,Calibri,11.0,77.8,142.7,520.1,153.7,"cycle tertiary education) - a 2-year adult post-secondary vocational education training (VET) that, "
+22,3,5,Calibri,11.0,77.8,157.2,371.0,168.3,"among others, offers 9 professional graduate qualifications in ICT. "
+22,4,0,Calibri-Bold,11.0,72.0,175.5,74.5,186.5, 
+22,5,0,Calibri-Light,12.0,72.0,196.1,476.9,208.1,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+22,6,0,Calibri-Bold,11.0,72.0,223.7,520.8,234.7,"For digital public services for citizens, in 2024 Greece scores at 76.72, below the EU average of 82.32"
+22,6,0,Calibri,11.0,520.8,223.7,525.9,234.7,", "
+22,6,1,Calibri-Bold,11.0,72.0,238.2,371.2,249.3,"with a growth rate of 1.1%, significantly lower than the EU’s 3.6%."
+22,6,1,Calibri,11.0,371.2,238.2,373.7,249.3, 
+22,6,1,Calibri-Bold,11.0,373.5,238.2,525.9,249.3,The country is on track according 
+22,6,2,Calibri-Bold,11.0,72.0,252.8,186.0,263.8,to its national trajectory.
+22,6,2,Calibri,11.0,186.2,252.8,525.9,263.8," For cross-border digital public services for citizens, Greece scored 60.71 in "
+22,6,3,Calibri,11.0,72.0,267.2,435.9,278.2,"2024 below the EU’s 71.28, with a growth rate of 3.7%, lower than the EU’s 4.3%. "
+22,7,0,Calibri-Bold,11.0,72.0,289.7,525.9,300.8,"For digital public services for businesses, Greece’s score in 2023 (86.20) was higher than the EU "
+22,7,1,Calibri-Bold,11.0,72.0,304.2,407.6,315.3,"average (85.42), but it dropped to 78.64 in 2024, below the EU's 86.23"
+22,7,1,Calibri,11.0,407.6,304.2,410.4,315.3,.
+22,7,1,Calibri-Bold,11.0,410.4,304.2,525.9,315.3, The country is on track 
+22,7,2,Calibri-Bold,11.0,72.0,318.6,233.5,329.7,according to its national trajectory.
+22,7,2,Calibri,11.0,233.7,318.6,525.9,329.7," For cross-border digital public services for businesses, although "
+22,7,3,Calibri,11.0,72.0,333.2,525.9,344.2,"Greece's score was 75.83 in 2023, it dropped to 62.5 in 2024, significantly lower than the EU’s 73.76. "
+22,7,4,Calibri,11.0,72.0,347.7,525.9,358.7,This decrease is partially related to the introduction of new services related to the Single Digital 
+22,7,5,Calibri,11.0,72.0,362.2,525.9,373.2,"Gateway regulation (SDGR) in the e-government survey in 2024, which were not yet found online. This "
+22,7,6,Calibri,11.0,72.0,376.6,525.6,387.6,"lowered the average score of the KPI on digital public services for businesses. Additionally, some "
+22,7,7,Calibri,11.0,72.0,391.1,525.9,402.2,"corrections have been made compared to last year’s assessment, which have also had an impact on "
+22,7,8,Calibri,11.0,72.0,405.7,525.8,416.7,"the average score. However, since 2021 constant and significant progress have been made in the "
+22,7,9,Calibri,11.0,72.0,420.2,436.0,431.2,digitalisation of public services progressively closing the gap with the EU average. 
+22,8,0,Calibri-Bold,11.0,72.0,442.6,525.9,453.7,"Regarding access to e-health records, Greece’s score in 2024 remains the same as in 2023 (73.81). "
+22,8,1,Calibri-Bold,11.0,72.0,457.1,525.9,468.2,"This is widening its gap to the EU average (82.70), which has grown by 4.5%. The country is on track "
+22,8,2,Calibri-Bold,11.0,72.0,471.7,235.5,482.7,according to its national trajectory. 
+22,8,2,Calibri,11.0,236.1,471.7,525.7,482.7,This lack of apparent progress can be explained by the fact that 
+22,8,3,Calibri,11.0,72.0,486.1,525.9,497.1,"while there is ongoing activity in the background, it has not yet been implemented in full to allow "
+22,8,4,Calibri,11.0,72.0,500.6,525.9,511.6,conditions on the ground to change and to be factored into the score. This does not necessarily mean 
+22,8,5,Calibri,11.0,72.0,515.1,405.9,526.2,"no change, just that these changes may not materialise until a future date. "
+22,9,0,Calibri-Bold,11.0,72.0,537.5,525.7,548.6,"In 2024, the percentage of people who had used the website or apps of Greek public authorities in "
+22,9,1,Calibri-Bold,11.0,72.0,552.1,385.7,563.1,the last 12 months (76.25%) remains above the EU average (74.71%).
+22,9,1,Calibri,11.0,385.6,552.1,388.1,563.1, 
+22,10,0,Calibri-LightItalic,11.0,72.0,574.5,92.4,585.6,e-ID 
+22,11,0,Calibri-Bold,11.0,72.0,601.1,525.7,612.1,Greece has not yet notified the European Commission of an electronic identification scheme under 
+22,11,1,Calibri-Bold,11.0,72.0,615.6,171.3,626.6,the eIDAS regulation. 
+22,11,1,Calibri,11.0,171.3,615.6,213.1,626.6,"However,"
+22,11,1,Calibri-Bold,11.0,213.1,615.6,215.5,626.6, 
+22,11,1,Calibri,11.0,215.4,615.6,525.9,626.6,"the country is currently issuing IDs for its citizens, which will include a "
+22,11,2,Calibri,11.0,72.0,630.1,525.9,641.1,"unique ‘personal number’, planned to be the basis of the eIDAS scheme. By end of 2024, 1.5 million ID "
+22,11,3,Calibri,11.0,72.0,644.6,525.8,655.7,"had been issued. Given that Greece has 6.5 million adult citizens, a system of automating the process "
+22,11,4,Calibri,11.0,72.0,659.0,485.4,670.1,and reducing the service time has been put into place by the Ministry of Digital Governance. 
+22,12,0,Calibri-Bold,11.0,72.0,681.6,525.9,692.6,"In its roadmap adjustment, Greece added one new measure to continue to upgrade and expand the "
+22,12,1,Calibri-Bold,11.0,72.0,696.0,168.8,707.0,Greek Gov.gr Wallet. 
+22,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+23,2,0,Calibri-Bold,11.0,77.8,84.7,222.0,95.8,2024 recommendation on e-ID: 
+23,2,0,Calibri,11.0,221.9,84.7,520.0,95.8,Greece should notify to the Commission an e-ID scheme under the 
+23,2,1,Calibri,11.0,77.8,99.3,156.7,110.3,eIDAS Regulation 
+23,2,1,Calibri-Bold,11.0,156.6,99.3,159.1,110.3, 
+23,4,0,Calibri-Bold,11.0,77.8,117.5,520.1,128.5,"Greece made some efforts to address the recommendation through new policy action in 2024, "
+23,4,1,Calibri-Bold,11.0,77.8,131.9,520.0,142.9,"however, the country has not yet notified the European Commission about an electronic "
+23,4,2,Calibri-Bold,11.0,77.8,146.4,246.3,157.5,identification scheme under eIDAS. 
+23,4,2,Calibri,11.0,248.2,146.4,519.9,157.5,A new e-ID infrastructure and the integration with Gov.gr 
+23,4,3,Calibri,11.0,77.8,160.9,520.1,172.0,Wallet and the new ID cards started in 2024 (budget EUR 15.8 million). The project aims to enhance 
+23,4,4,Calibri,11.0,77.8,175.5,520.0,186.5,"the digital identification and authentication for citizens. New actions for digital services, documents "
+23,4,5,Calibri,11.0,77.8,189.9,519.9,200.9,"and data standards will be needed for integration, facilitating the secure and efficient interaction "
+23,4,6,Calibri,11.0,77.8,204.4,519.9,215.4,between citizens and the state and private entities. The compliance with the European eIDAS 2.0 
+23,4,7,Calibri,11.0,77.8,218.9,520.0,229.9,"and EUDI Wallet standards is foreseen in the project which will run until 2026, but it is not clear "
+23,4,8,Calibri,11.0,77.8,233.4,360.2,244.5,under which e-ID scheme of assurance level high will be issued.
+23,4,8,Calibri-Bold,11.0,360.1,233.4,362.6,244.5, 
+23,5,0,Calibri,11.0,72.0,251.7,74.5,262.7, 
+23,5,1,Calibri-Bold,11.0,72.0,266.1,525.9,277.1,Greece and Cyprus are cooperating so that Cypriot identities and documents are recognised and 
+23,5,2,Calibri-Bold,11.0,72.0,280.6,357.0,291.6,identified in each country as equivalent to national documents
+23,5,2,Calibri,11.0,357.1,280.6,525.9,291.6,. The country is working and planning 
+23,5,3,Calibri,11.0,72.0,295.1,186.7,306.2,to pre-notify in due time. 
+23,6,0,Calibri-Bold,11.0,72.0,317.6,525.9,328.6,Greece is also participating (with ten public and private entities) in the consortium ‘Advanced Project 
+23,6,1,Calibri-Bold,11.0,72.0,332.1,525.9,343.1,"for Trusted Identity Technologies and Unified Digital Ecosystem’ (APTITUDE), that will pilot the usage "
+23,6,2,Calibri-Bold,11.0,72.0,346.6,145.5,357.6,of EUDI Wallets.
+23,6,2,Calibri,11.0,145.5,346.6,525.9,357.6," The project focuses on advancing the use of wallets in 4 use cases: payments, mobile "
+23,6,3,Calibri,11.0,72.0,361.1,525.9,372.2,"vehicle registration certificates, digital travel credentials, and tickets and travel check-in. Led by France, "
+23,6,4,Calibri,11.0,72.0,375.5,525.6,386.6,"APTITUDE will involve strong public and private engagement across 11 Member States and Ukraine, "
+23,6,5,Calibri,11.0,72.0,390.0,507.0,401.1,bringing together over 110 participating bodies. Greece is also participating in the consortium 
+23,6,5,Calibri,11.0,508.3,390.0,525.9,401.1,WE 
+23,6,6,Calibri,11.0,72.0,404.6,99.3,415.6,BUILD
+23,6,6,Calibri,11.0,99.3,404.6,525.9,415.6, dedicated to deploying 13 high-impact use cases to develop production-ready solutions for the 
+23,6,7,Calibri,11.0,72.0,419.1,402.7,430.1,"EU Digital Identity Wallet, and jointly led by Sweden and the Netherlands. "
+23,7,0,Calibri-LightItalic,11.0,72.0,441.5,327.2,452.6,Digitalisation of public services for citizens and businesses 
+23,8,0,Calibri-Bold,11.0,72.0,468.1,525.6,479.1,Greece still aims to reach a score of 100 for the digitalisation of public services for citizens and 
+23,8,1,Calibri-Bold,11.0,72.0,482.6,272.8,493.6,"businesses, in line with the 2030 EU targets. "
+23,8,1,Calibri,11.0,272.6,482.6,525.9,493.6,In its roadmap adjustment Greece did not add additional 
+23,8,2,Calibri,11.0,72.0,497.0,525.9,508.0,"measures, but it continued to implement the very broad strategy for digital transformation in the "
+23,8,3,Calibri,11.0,72.0,511.5,525.9,522.5,"public sector and public services, including reforms and investments supported by the RRF. The "
+23,8,4,Calibri,11.0,72.0,526.0,525.9,537.1,"Ministry of Digital governance continued to develop and add services on Gov.gr, the national portal for "
+23,8,5,Calibri,11.0,72.0,540.5,440.7,551.6,online public services with more than 2 100 services online by end of March 2025. 
+23,9,0,Calibri-Bold,11.0,72.0,563.0,517.2,574.1,Greece is starting to use advanced digital technologies in the transformation of its public services. 
+23,9,0,Calibri,11.0,517.2,563.0,525.9,574.1,A 
+23,9,1,Calibri,11.0,72.0,577.5,525.9,588.6,European Digital Innovation Hub (EDIH) dedicated to the Digital Governance - GR digiGOV-innoHUB - 
+23,9,2,Calibri,11.0,72.0,592.1,525.7,603.1,"is supporting the development of public services based on advanced digital technologies (AI, ML, IoT, "
+23,9,3,Calibri,11.0,72.0,606.5,436.4,617.5,"Blockchain, HPC), while enabling SMEs and start-ups to pilot innovative solutions. "
+23,10,0,Calibri-Bold,11.0,72.0,629.0,525.9,640.1,"In early 2025, Greece launched a new digital platform to simplify the licensing process for "
+23,10,1,Calibri-Bold,11.0,72.0,643.5,121.2,654.6,businesses
+23,10,1,Calibri,11.0,121.2,643.5,525.8,654.6,". The new system, OpenBusiness, is a vector for simplification relieving the administrative "
+23,10,2,Calibri,11.0,72.0,657.9,525.9,669.0,"burden and reducing the costs and time involved in establishing and operating a business, thereby "
+23,10,3,Calibri,11.0,72.0,672.5,232.8,683.5,improving the services to business.  
+23,11,0,Calibri-LightItalic,11.0,72.0,694.9,112.2,705.9,e-Health 
+23,12,0,Calibri-Bold,11.0,72.0,721.4,525.9,732.5,"Greece still aims to reach a score of 100 for access to medical records, in line with the 2030 EU target. "
+23,12,1,Calibri,11.0,72.0,736.0,525.9,747.0,"Currently the country is implementing several projects to digitalise its health sector. In particular, the "
+23,12,2,Calibri,11.0,72.0,750.5,525.9,761.5,"measure for the digital transformation of the health sector included in the initial roadmap, and funded "
+23,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+24,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"by the RRF, is expected to contribute to the KPI by the end of 2025, with potentially effects on the "
+24,2,1,Calibri,11.0,72.0,98.4,221.1,109.5,measurement of the KPI in 2026. 
+24,4,0,Calibri,11.0,72.0,121.0,525.6,132.0,"According to the Digital Decade Eurobarometer 2025, 86% of the respondents in Greece think that "
+24,4,1,Calibri,11.0,72.0,135.5,525.7,146.5,"digital technologies will be important when accessing or receiving healthcare services (e.g., "
+24,4,2,Calibri,11.0,72.0,149.9,466.8,160.9,"telemedicine, artificial intelligence for diagnosis diseases) during their daily life by 2030. "
+24,5,0,Calibri-Bold,11.0,72.0,172.5,525.9,183.5,"In its roadmap adjustment, Greece added one measure with a budget of EUR 19.06 million "
+24,5,1,Calibri,11.0,72.0,187.0,217.5,198.0,"(described below). Furthermore,"
+24,5,1,Calibri-Bold,11.0,217.6,187.0,220.1,198.0, 
+24,5,1,Calibri,11.0,220.0,187.0,525.9,198.0,the project ‘National Electronic Health Record’ (EHR) included in the 
+24,5,2,Calibri,11.0,72.0,201.4,525.9,212.4,initial roadmap shall be enriched with the pathology laboratories by the end of December 2024. It will 
+24,5,3,Calibri,11.0,72.0,215.9,525.9,226.9,also benefit from data coming from the new measure added in the roadmap adjustment and described 
+24,5,4,Calibri,11.0,72.0,230.4,104.0,241.5,below. 
+24,6,0,Calibri-Bold,11.0,77.8,257.9,240.5,269.0,2024 recommendation on e-health: 
+24,6,0,Calibri,11.0,240.2,257.9,520.0,269.0,(i) Make the data types of medical imaging reports and medical 
+24,6,1,Calibri,11.0,77.8,272.4,519.8,283.5,"images available to people through the online access service, (ii) Ensure that the online access "
+24,6,2,Calibri,11.0,77.8,286.9,293.6,297.9,service complies to web accessibility guidelines. 
+24,7,0,Calibri-Bold,11.0,77.8,312.3,484.4,323.3,Greece has fully addressed the recommendation through new policy actions in 2024. 
+24,7,0,Calibri,11.0,486.0,312.3,520.0,323.3,Greece 
+24,7,1,Calibri,11.0,77.8,326.7,520.0,337.7,added a new measure for the ‘Installation of RIS/PACS systems and transcription of medical acts and 
+24,7,2,Calibri,11.0,77.8,341.2,520.0,352.2,opinions in public hospitals and Primary Health Care (PHC) structures of the country’. Once 
+24,7,3,Calibri,11.0,77.8,355.7,519.8,366.8,"implemented, the medical imaging reports and medical images will be available to doctors and "
+24,7,4,Calibri,11.0,77.8,370.2,520.0,381.3,citizens. The implementation plans to integrate 88 hospitals into the system by December 2024. And 
+24,7,5,Calibri,11.0,77.8,384.6,519.8,395.7,"the last 22 hospitals by May 2025. Furthermore, a new data portal is being prepared to have the "
+24,7,6,Calibri,11.0,77.8,399.2,519.7,410.2,metadata of all available health data under the National Single Information Point of the Data 
+24,7,7,Calibri,11.0,77.8,413.7,151.7,424.8,Governance Act.
+24,7,7,Calibri-Bold,11.0,151.6,413.7,154.1,424.8, 
+24,8,0,Calibri,11.0,72.0,434.8,74.5,445.9, 
+24,8,1,Calibri-Light,15.0,72.0,450.1,526.4,465.1,Building a safe and human centric digital environment and preserving our 
+24,8,2,Calibri-Light,15.0,72.0,469.9,141.6,484.9,democracy 
+24,9,0,Calibri-Bold,11.0,72.0,496.7,509.9,507.8,The data on online participation in political and civic life in Greece shows this has grown recently
+24,9,0,Calibri,11.0,510.0,496.7,525.9,507.8,. In 
+24,9,1,Calibri,11.0,72.0,511.3,525.7,522.3,"2024, 28.37% of people used digital tools to participate in the democratic life, such as taking part in "
+24,9,2,Calibri,11.0,72.0,525.8,525.8,536.8,online consultations or voting on civic or political issues and expressing opinions on civic or political 
+24,9,3,Calibri,11.0,72.0,540.3,525.8,551.3,issues on websites or in social media. This share is much higher than the EU average (20.45%). It also 
+24,9,4,Calibri,11.0,72.0,554.7,525.9,565.8,shows a rapid trend upwards compared to 2022 (18.28%) which was slightly above the EU average 
+24,9,5,Calibri,11.0,72.0,569.3,116.9,580.3,(17.59%). 
+24,10,0,Calibri-Bold,11.0,72.0,591.8,525.9,602.9,"At the same time, the percentage of people encountering hostile and degrading online messages in "
+24,10,1,Calibri-Bold,11.0,72.0,606.2,271.6,617.3,Greece is significantly below the EU average.
+24,10,1,Calibri,11.0,271.6,606.2,525.8,617.3," Data shows that in 2023, in Greece, 25.73% of individuals "
+24,10,2,Calibri,11.0,72.0,620.7,525.9,631.8,"encountered such messages (based on factors such as religion, racial origin, or disability). This figure "
+24,10,3,Calibri,11.0,72.0,635.3,525.9,646.3,was significantly below the EU average of 33.5%. Young people (group age 16-24) reported higher 
+24,10,4,Calibri,11.0,72.0,649.8,525.9,660.8,"exposure (39.03%) than adults in the group aged 25-64 (27.39%). In turn, men (26.07%) and women "
+24,10,5,Calibri,11.0,72.0,664.2,473.6,675.2,"(25.40%) reported very similar exposure rates, indicating minimal gender-based variation. "
+24,11,0,Calibri-Bold,11.0,72.0,686.7,525.9,697.8,"Regarding disinformation, the percentage of people evaluating data, information and digital content "
+24,11,1,Calibri-Bold,11.0,72.0,701.3,290.4,712.3,is significantly lower than in the rest of the EU. 
+24,11,1,Calibri,11.0,291.1,701.3,525.7,712.3,"In 2023, 34.55% of individuals in Greece stated that "
+24,11,2,Calibri,11.0,72.0,715.7,525.8,726.7,they had encountered untrue or doubtful information or content on internet news sites or social 
+24,11,3,Calibri,11.0,72.0,730.2,525.6,741.2,"media, significantly lower than the EU average of 49.25%. Of those who reported coming across such "
+24,11,4,Calibri,11.0,72.0,744.7,525.6,755.8,"content, only 18.66% verified its truthfulness, suggesting relatively low engagement in verifying the "
+24,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+25,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,reliability of information. Young people (age group 16-24) (41.58%) reported higher exposure than 
+25,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"adults (age group 25-64) (37.77%), and their verification rates also differed slightly, at 25.49% for youth "
+25,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"and 20.18% for adults. Males (35.77%) and females (33.36%) reported similar levels of exposure, with "
+25,3,3,Calibri,11.0,72.0,127.5,440.2,138.5,"verification rates being almost equal, at 19.06% for males and 18.28% for females. "
+25,4,0,Calibri-Bold,11.0,72.0,149.9,525.6,160.9,The 2023 data on online interactions in Greece reveals a relatively low prevalence of perceived 
+25,4,1,Calibri-Bold,11.0,72.0,164.4,400.0,175.5,"hostile and degrading online messages, with rates below the EU average"
+25,4,1,Calibri,11.0,400.1,164.4,523.6,175.5,". Similarly, a lower-than-EU-"
+25,4,2,Calibri,11.0,72.0,178.9,525.7,190.0,"average proportion of individuals in Greece encountered potentially misleading information online, "
+25,4,3,Calibri,11.0,72.0,193.5,525.9,204.5,"although only a relatively small proportion of them verified its accuracy. Overall, these findings suggest "
+25,4,4,Calibri,11.0,72.0,207.9,525.9,218.9,that Greece presents a more positive picture in terms of online interactions compared to EU trends. 
+25,4,5,Calibri,11.0,72.0,222.4,525.8,233.4,"Nevertheless, there is still room for improvement, and for continued efforts to promote digital literacy "
+25,4,6,Calibri,11.0,72.0,236.9,490.4,248.0,"and critical thinking, to further enhance online engagement and information evaluation skills. "
+25,5,0,Calibri-Bold,11.0,72.0,259.4,525.9,270.4,In the adjustment of its roadmap Greece presented the new national strategy ‘Protecting minors 
+25,5,1,Calibri-Bold,11.0,72.0,273.9,300.3,284.9,from internet addiction’ launched in March 2025. 
+25,5,1,Calibri,11.0,300.5,273.9,525.9,284.9,The strategy seeks to provide children and minors 
+25,5,2,Calibri,11.0,72.0,288.4,525.6,299.5,with a trustworthy online environment where they are given the same rights as everywhere else in 
+25,5,3,Calibri,11.0,72.0,302.9,525.7,314.0,"their lives. It includes priorities addressing algorithmic addiction, educational and informational "
+25,5,4,Calibri,11.0,72.0,317.3,452.6,328.4,"initiatives, and the development of protective measures and mechanisms for minors. "
+25,6,0,Calibri-Bold,11.0,72.0,339.9,525.8,350.9,"Alongside this strategy, Greece is preparing the launch of a ‘Kids Wallet’ to verify user’s age and "
+25,6,1,Calibri-Bold,11.0,72.0,354.4,260.4,365.4,reinforce the protection of minors online
+25,6,1,Calibri,11.0,260.5,354.4,525.9,365.4,. The app will determine the age of the child based on the 
+25,6,2,Calibri,11.0,72.0,368.8,525.8,379.9,Greek civil registry which represents a tighter security. This project is in line with the priority of the 
+25,6,3,Calibri,11.0,72.0,383.3,490.4,394.4,"Commission to reinforce protection of minors online, included in its action for digital fairness. "
+25,7,0,Calibri-Bold,11.0,72.0,405.8,198.7,416.8,"In April 2024, the platform "
+25,7,0,Calibri-Bold,11.0,199.9,405.8,289.9,416.8,stop-bullying.gov.gr
+25,7,0,Calibri-Bold,11.0,289.9,405.8,525.8,416.8, was launched for the prevention and response to 
+25,7,1,Calibri,11.0,72.0,420.3,525.9,431.4,violence at school. It enables incidents of domestic violence and bullying to be reported by parents or 
+25,7,2,Calibri,11.0,72.0,434.8,444.9,445.9,pupils. It Is based on the law ‘We live together in harmony - Breaking the silence’
+25,7,2,Calibri,7.0,444.8,433.9,451.8,440.9,15
+25,7,2,Calibri,11.0,451.8,434.8,525.9,445.9, which provides 
+25,7,3,Calibri,11.0,72.0,449.3,432.7,460.4,regulations for the prevention and treatment of violence and bullying in schools. 
+25,8,0,Calibri,11.0,72.0,471.8,525.8,482.8,"According to the Digital Decade Eurobarometer 2025, people in Greece strongly think that the action "
+25,8,1,Calibri,11.0,72.0,486.3,525.6,497.4,of the public authorities is urgent to protect children online regarding the negative impact of social 
+25,8,2,Calibri,11.0,72.0,500.8,525.7,511.9,"media on children’s mental health (97% of respondents), cyberbullying and online harassment (96%) "
+25,8,3,Calibri,11.0,72.0,515.2,478.0,526.3,and to put in place age assurance mechanisms to restrict age-inappropriate content (97%). 
+25,9,0,Calibri-Bold,11.0,72.0,537.8,525.9,548.8,"In June 2024, to comply with the Digital Services Act (DSA), EETT issued a regulation on the operation "
+25,9,1,Calibri-Bold,11.0,72.0,552.3,301.9,563.3,of the registry of intermediary service providers.
+25,9,1,Calibri,11.0,301.9,552.3,525.8,563.3," EETT, in its capacity as national Digital Services "
+25,9,2,Calibri,11.0,72.0,566.7,525.8,577.8,"Coordinator, will handle the registry of all domestic providers (such as hosting providers, online "
+25,9,3,Calibri,11.0,72.0,581.3,436.5,592.3,"platforms, and online search engines) which must be registered by October 2024. "
+25,10,0,Calibri,11.0,72.0,603.7,74.5,614.7, 
+25,10,1,Calibri,11.0,216.1,603.7,218.5,614.7, 
+25,11,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+25,11,1,Calibri,6.5,72.0,759.1,78.5,765.5,15
+25,11,1,Calibri,10.0,78.5,759.9,80.8,769.9, 
+25,11,1,Calibri,9.0,80.8,760.6,159.1,769.6,Law 5029/2023 (A55)
+25,11,1,Calibri,10.0,159.0,759.9,161.3,769.9, 
+25,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+26,3,0,Calibri-Bold,26.0,72.0,87.0,529.3,113.1,Leveraging digital transformation for a 
+26,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+26,4,0,Calibri-Bold,11.0,72.0,160.5,525.9,171.5,Greece is active in developing renewable energy to reduce the energy costs and with the objective 
+26,4,1,Calibri-Bold,11.0,72.0,175.0,196.4,186.0,of becoming self-sufficient.
+26,4,1,Calibri-BoldItalic,11.0,196.5,175.0,199.0,186.0, 
+26,4,1,Calibri,11.0,199.6,175.0,525.8,186.0,"In 2024, renewables production (wind and solar) covered almost half of "
+26,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,"the country’s electricity needs. Given the increasing energy consumption by digital infrastructure, such "
+26,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"as data centres and the need to reduce the related environmental impact of the digital sector, Greece "
+26,4,4,Calibri,11.0,72.0,218.4,525.8,229.5,is taking some actions to address the environmental impact of digital transition and digital 
+26,4,5,Calibri,11.0,72.0,233.0,525.8,244.0,"infrastructure. In particular, the government actively stimulates private investments in green data "
+26,4,6,Calibri,11.0,72.0,247.5,525.8,258.5,centres and edge computing. The Ministry of Digital Governance also launched an initiative with the 
+26,4,7,Calibri,11.0,72.0,261.9,525.9,272.9,Greek independent energy operator to create the first energy map for data centres to optimise the 
+26,4,8,Calibri,11.0,72.0,276.4,222.7,287.5,distribution of renewable energy. 
+26,5,0,Calibri-Bold,11.0,72.0,299.0,520.6,310.0,The Ministry of Digital Governance is promoting efficient coding to reduce the energy consumption
+26,5,0,Calibri,11.0,520.7,299.0,525.9,310.0,. 
+26,5,1,Calibri,11.0,72.0,313.4,525.9,324.4,"It organised a workshop in 2024 on software quality assurance, with an environmental dimension to "
+26,5,2,Calibri,11.0,72.0,327.9,525.9,338.9,"evaluate the programming results. Based on the decision on Green public Procurement in 2024, "
+26,5,3,Calibri,11.0,72.0,342.4,525.9,353.4,"Greece issued recommendations for its public services. Furthermore, the General Secretariat of "
+26,5,4,Calibri,11.0,72.0,356.9,525.7,368.0,Information Systems and Digital Governance of the Ministry of Digital Governance (GSISDG) is 
+26,5,5,Calibri,11.0,72.0,371.3,525.9,382.4,preparing a set of guidelines for the efficient implementation of public services considering the 
+26,5,6,Calibri,11.0,72.0,385.8,505.9,396.9,"computational power required for operations and, therefore, energy consumption requirements. "
+26,6,0,Calibri-Bold,11.0,72.0,408.4,525.6,419.5,A national action plan for Green and Innovative public procurement has been prepared by the 
+26,6,1,Calibri-Bold,11.0,72.0,422.8,373.6,433.9,General Secretariat of Commerce of the Ministry of Development
+26,6,1,Calibri,11.0,373.6,422.8,525.8,433.9,. In this regard specific guidelines 
+26,6,2,Calibri,11.0,72.0,437.3,525.7,448.4,"have been produced for public sector bodies. According to the Digital Decade Eurobarometer 2025, "
+26,6,3,Calibri,11.0,72.0,451.9,525.8,462.9,75% of the respondents in Greece consider digital technologies important to help fight climate change 
+26,6,4,Calibri,11.0,72.0,466.4,525.9,477.4,(slightly above the EU average of 74%). 82% answered that ensuring that digital technologies serve the 
+26,6,5,Calibri,11.0,72.0,480.8,525.9,491.8,"green transition should be an important action for the public authorities, also above the EU average "
+26,6,6,Calibri,11.0,72.0,495.3,108.0,506.4,of 80%. 
+26,7,0,Calibri-Bold,11.0,72.0,517.9,525.8,528.9,"According to Eurostat, in 2024, in Greece, one person in four (25.44%) considered energy efficiency "
+26,7,1,Calibri-Bold,11.0,72.0,532.3,523.5,543.3,"to be an important characteristic when buying ICT devices, while the EU average is only at 19.35%."
+26,7,1,Calibri,11.0,523.4,532.3,525.9,543.3, 
+26,7,2,Calibri,11.0,72.0,546.8,525.9,557.8,The eco-design of the device is also more important for consumers in Greece (17.71%) than in the EU 
+26,7,3,Calibri,11.0,72.0,561.3,525.9,572.4,"on average (12.04%). However, price remains by far the most important criteria for 68.78% of buyers "
+26,7,4,Calibri,11.0,72.0,575.9,525.9,586.9,"in Greece well above these two eco-friendly criteria. In terms of recycling, people in Greece tend to "
+26,7,5,Calibri,11.0,72.0,590.3,525.9,601.3,recycle their old mobile or smartphone much more (24.63%) than the EU on average (10.93%). As 
+26,7,6,Calibri,11.0,72.0,604.8,525.9,615.8,"regards enterprises’ awareness and preparedness about the green aspects of their digital sector, half "
+26,7,7,Calibri,11.0,72.0,619.3,525.8,630.3,"of those with 10 or more employees (50%) apply some measures, affecting the energy consumption "
+26,7,8,Calibri,11.0,72.0,633.8,525.9,644.9,"of ICT equipment, while in the EU the average only 44.1%. Recycling of old equipment by enterprises "
+26,7,9,Calibri,11.0,72.0,648.2,387.4,659.3,is slightly lower in Greece (72.6 %) than the average in the EU (77.4%). 
+26,8,0,Calibri-Bold,11.0,72.0,670.8,334.8,681.8,"In 2024, the national telecom regulator (EETT) published a "
+26,8,0,Calibri,11.0,334.4,670.8,525.8,681.8,study on the sustainability of the ICT sector 
+26,8,1,Calibri,11.0,72.0,685.3,116.7,696.3,in Greece
+26,8,1,Calibri-Bold,11.0,116.8,685.3,296.3,696.3, with a focus on telecoms networks. 
+26,8,1,Calibri,11.0,298.5,685.3,525.9,696.3,Although the EETT’s remit does not include the 
+26,8,2,Calibri,11.0,72.0,699.7,525.7,710.7,"environmental sustainability of electronic communications networks and services, it follows the work "
+26,8,3,Calibri,11.0,72.0,714.2,525.9,725.3,of the BEREC working group on sustainability. And the study is part of EETT’s actions to improve the 
+26,8,4,Calibri,11.0,72.0,728.8,525.8,739.8,"development and competitiveness of the Greek market, while contributing to the goals of the "
+26,8,5,Calibri,11.0,72.0,743.3,525.8,754.3,European Green Deal (climate neutrality by 2050). The study examines the carbon footprint of ICT in 
+26,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,9,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+27,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"the Greek market, with a focus on telecoms networks, and provides suggestions on policy actions "
+27,2,1,Calibri,11.0,72.0,98.4,179.4,109.5,towards mitigating this. 
+27,4,0,Calibri-Bold,11.0,77.7,121.5,243.1,132.5,2024 recommendation on green ICT
+27,4,0,Calibri,11.0,243.2,121.5,520.1,132.5,: (i) Develop a coherent approach to twinning the digital and 
+27,4,1,Calibri,11.0,77.7,136.0,520.0,147.0,"green transitions. First, promote improvements in energy and material efficiency of digital "
+27,4,2,Calibri,11.0,77.7,150.5,520.2,161.5,"infrastructures, in particular datacentres. Second, support the development and deployment of "
+27,4,3,Calibri,11.0,77.7,164.9,520.0,175.9,"digital solutions that reduce the carbon footprint in other sectors, such as energy, transport, "
+27,4,4,Calibri,11.0,77.7,179.4,409.6,190.5,"buildings, and agriculture, including the uptake of such solutions by SMEs. "
+27,5,0,Calibri,11.0,77.7,196.9,520.2,208.0,(ii) Monitor and quantify the emission reductions of the deployed digital solutions in line with the 
+27,5,1,Calibri,11.0,77.7,211.5,520.0,222.5,relevant EU guidance and with the support of the methodology developed by the European Green 
+27,5,2,Calibri,11.0,77.7,225.9,509.6,236.9,"Digital Coalition, in view of future policy development, as well as of attracting relevant financing. "
+27,6,0,Calibri-Bold,11.0,77.7,243.9,520.0,254.9,Greece has made some efforts to address the recommendation through new policy actions in 
+27,6,1,Calibri-Bold,11.0,77.7,258.4,102.9,269.5,2024.
+27,6,1,Calibri,11.0,103.0,258.4,520.3,269.5,Additional measures included in the adjustment of the roadmap help to better assess the 
+27,6,2,Calibri,11.0,77.7,272.9,520.2,284.0,impact of the ICT sector on energy consumption and propose solutions for the public sector in 
+27,6,3,Calibri,11.0,77.7,287.3,520.1,298.4,"optimising its consumption, such as the development of an energy map of data centres; green "
+27,6,4,Calibri,11.0,77.7,301.9,520.1,312.9,"procurement guidelines for public services, and optimisation of coding and use of information "
+27,6,5,Calibri,11.0,77.7,316.4,196.3,327.4,system (described above). 
+27,7,0,Calibri,11.0,77.7,333.9,520.2,344.9,"However, the roadmap adjustment does not display measures to support deployment of digital "
+27,7,1,Calibri,11.0,77.7,348.4,520.0,359.4,"technologies for smart greening in additional sectors of the economy (e.g. transport, buildings, "
+27,7,2,Calibri,11.0,77.7,362.8,131.9,373.9,agriculture) 
+27,8,0,Calibri,11.0,72.0,380.8,74.5,391.9, 
+27,9,0,Calibri,11.0,72.0,408.5,74.5,419.6, 
+27,9,1,Calibri-Bold,26.0,216.1,397.3,221.9,423.3, 
+27,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,10,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+28,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+28,3,0,Calibri-Bold,11.0,77.7,126.7,312.3,137.8,Greece’s national Digital Decade strategic roadmap 
+28,5,0,Calibri-Bold,11.0,77.7,144.3,425.2,155.3,Greece submitted adjustments to its national Digital Decade roadmap on 17
+28,5,0,Calibri-Bold,7.0,425.4,143.4,431.5,150.3,th
+28,5,0,Calibri-Bold,11.0,431.5,144.3,520.2,155.3, January 2025 with 
+28,5,1,Calibri-Bold,11.0,77.7,158.7,407.1,169.7,specific follow-up actions to the country recommendations made in 2024
+28,5,1,Calibri,11.0,407.3,158.7,520.3,169.7,. It includes 16 additional 
+28,5,2,Calibri,11.0,77.7,173.2,520.1,184.2,measures and an in-depth analysis of the situation. The updates align with the new Commission’s 
+28,5,3,Calibri,11.0,77.7,187.7,520.2,198.7,priorities on AI; deployment of submarine cables to increase the resilience of the backbone; joining 
+28,5,4,Calibri,11.0,77.7,202.2,520.2,213.3,"forces in developing capacities in edge tech such as quantum, and on the protection of minors "
+28,5,5,Calibri,11.0,77.7,216.6,520.3,227.7,"online. However, the adjustment lacks additional targeted support to address the current shortfall "
+28,5,6,Calibri,11.0,77.7,231.2,520.3,242.2,"of ICT specialists in employment, while new measures to build a strong ICT talent pipeline have been "
+28,5,7,Calibri,11.0,77.7,245.7,202.9,256.7,included in the adjustment. 
+28,6,0,Calibri-Bold,11.0,77.7,263.2,511.1,274.2,The roadmap’s adjustment addresses a substantial number of recommendations issued in 2024
+28,6,0,Calibri,11.0,511.1,263.2,516.5,274.2,: 
+28,7,0,Calibri-Italic,11.0,77.7,280.6,520.2,291.6,Targets: consider in due time reviewing all the national targets that are not aligned with the EU’s 
+28,7,1,Calibri-Italic,11.0,77.7,295.1,520.2,306.2,"20230 targets, and in particular the take up of cloud, data analytics and AI by enterprises, the target "
+28,7,2,Calibri-Italic,11.0,77.7,309.6,235.6,320.7,which is currently low on ambition. 
+28,8,0,SymbolMT,11.0,95.7,322.0,100.7,335.4,
+28,8,0,ArialMT,11.0,100.7,323.1,103.8,335.4, 
+28,8,1,Calibri,11.0,113.7,324.8,520.3,335.8,The adjustment presents a detailed analysis of the rationale for setting this national target. 
+28,8,2,Calibri,11.0,113.7,339.2,520.3,350.2,"It will serve as a tool to track the progress of each indicator against the forecast, and "
+28,8,3,Calibri,11.0,113.7,353.7,520.3,364.7,eventually revise the targets which are currently low on ambition compared to the 2030 EU 
+28,8,4,Calibri,11.0,113.7,368.2,146.0,379.2,target. 
+28,8,5,SymbolMT,11.0,95.7,380.5,100.7,394.0,
+28,8,5,ArialMT,11.0,100.7,381.6,103.8,393.9, 
+28,8,6,Calibri,11.0,113.7,383.3,520.3,394.4,Greece also added two new measures planed for encouraging the creation and operation 
+28,8,7,Calibri,11.0,113.7,397.7,520.3,408.8,"of SMEs, after the end of the current flagship’s measures in 2027. The precise arrangements "
+28,8,8,Calibri,11.0,113.7,412.3,213.9,423.3,are still to be defined. 
+28,8,9,SymbolMT,11.0,95.5,424.6,100.6,438.1,
+28,8,9,ArialMT,11.0,100.6,425.7,103.6,438.0, 
+28,8,10,Calibri,11.0,113.3,427.4,520.3,438.4,On AI uptake: the new Greek AI-factory will create an ecosystem helping to develop 
+28,8,11,Calibri,11.0,113.3,441.8,520.3,452.8,innovative AI-driven services and play a crucial role in fostering the growth of and ongoing 
+28,8,12,Calibri,11.0,113.3,456.3,456.8,467.4,support for an innovative and competitive ecosystem of start-ups and SMEs. 
+28,9,0,Calibri-Italic,11.0,77.7,473.8,520.1,484.9,Measures: review and reinforce the strategy and measures to contribute to the targets that are the 
+28,9,1,Calibri-Italic,11.0,77.7,488.3,400.0,499.4,"most challenging to reach, such as digital infrastructure, ICT specialists.  "
+28,10,0,SymbolMT,11.0,95.7,500.5,100.7,514.0,
+28,10,0,ArialMT,11.0,100.7,501.6,103.8,513.9, 
+28,10,1,Calibri,11.0,113.7,503.3,520.3,514.4,Digital infrastructure: Four new measures were added contributing to the strategy for 
+28,10,2,Calibri,11.0,113.7,517.9,520.3,528.9,"digital infrastructure: (i) one measure to incentivise the take-up of fibre connection, adding "
+28,10,3,Calibri,11.0,113.7,532.4,520.2,543.4,to an existing measure for incentivising the development of the cabling to the house; (ii) a 
+28,10,4,Calibri,11.0,113.7,546.9,520.3,557.9,broad project of submarine cable to extend the fibre optic network to several islands; (iii) 
+28,10,5,Calibri,11.0,113.7,561.3,520.3,572.4,two new measures to support the deployment and testing of quantum communication 
+28,10,6,Calibri,11.0,113.7,575.9,331.7,586.9,infrastructure jointly with other Member States. 
+28,10,7,SymbolMT,11.0,95.5,588.2,100.6,601.6,
+28,10,7,ArialMT,11.0,100.6,589.3,103.6,601.6, 
+28,10,8,Calibri,11.0,113.3,591.0,520.3,602.0,ICT specialists: five measures to stimulate young people’s eagerness for ICT technology and 
+28,10,9,Calibri,11.0,113.3,605.5,520.2,616.5,reinforce the pipeline of potential ICT students. No targeted measures to address the 
+28,10,10,Calibri,11.0,113.3,619.9,391.4,630.9,current lack of ICT specialists in employment has been added. 
+28,11,0,Calibri-Italic,11.0,77.7,637.4,520.3,648.5,Measures: review and reinforce the strategy and measures to contribute to the targets that have a 
+28,11,1,Calibri-Italic,11.0,77.7,651.9,434.4,663.0,"low level of ambition, the take-up of cloud, data analytics and AI by enterprises. "
+28,12,0,SymbolMT,11.0,95.5,664.2,100.6,677.7,
+28,12,0,ArialMT,11.0,100.6,665.3,103.6,677.7, 
+28,12,1,Calibri,11.0,113.3,667.1,520.3,678.1,The creation of the Greek AI factory and building of an ecosystem around it for harnessing 
+28,12,2,Calibri,11.0,113.3,681.5,227.8,692.5,AI’s potential for growth. 
+28,13,0,Calibri-Italic,11.0,77.7,699.0,520.0,710.0,"Provide more information on the implementation of the digital rights and principles, including the "
+28,13,1,Calibri-Italic,11.0,77.7,713.5,255.5,724.5,national measures that contribute to it. 
+28,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,14,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+29,2,0,Calibri,11.0,77.7,84.5,520.2,95.5,Greece has a new strategy for protecting minors online. It also launched a new online platform for 
+29,2,1,Calibri,11.0,77.7,99.0,520.2,110.1,"the school community to report and stop bullying. Overall, a digital readiness principle applies for "
+29,2,2,Calibri,11.0,77.7,113.4,190.1,124.5,each piece of legislation. 
+29,4,0,Calibri-Bold,11.0,77.7,136.0,520.2,147.0,The adjustment of the Greek national roadmap reinforces the already mostly complete roadmap 
+29,4,1,Calibri-Bold,11.0,77.7,150.5,169.5,161.5,submitted in 2023. 
+29,4,1,Calibri,11.0,171.8,150.5,520.1,161.5,Apart from additional policy and measures contributing to the target and 
+29,4,2,Calibri,11.0,77.7,164.9,520.3,175.9,"objectives of the Digital Decade, the adjustment contains a detailed analysis of the national targets "
+29,4,3,Calibri,11.0,77.7,179.4,520.2,190.5,"which were originally set below the EU’s 2030 targets, based on which Greece decided not to revise "
+29,4,4,Calibri,11.0,77.7,193.9,418.9,205.0,"the targets for digital skills, and for the digital transformation of businesses.  "
+29,5,0,Calibri,11.0,77.7,211.5,520.1,222.5,Additional measures were taken directly linked to the objective of the declaration on digital rights 
+29,5,1,Calibri,11.0,77.7,225.9,366.5,236.9,"and principles, such as the strategy for protecting minors online. "
+29,6,0,Calibri,11.0,77.7,243.4,520.3,254.4,"After the publication of the country report 2024, the Ministry of Digital Governance organised "
+29,6,1,Calibri,11.0,77.7,257.9,520.2,269.0,several meetings and workshops specifically on the Digital Decade targets with the members of the 
+29,6,2,Calibri,11.0,77.7,272.4,520.1,283.5,"‘core working group’ of the Executive Network of Digital Transformation (ENDT), i.e. representatives "
+29,6,3,Calibri,11.0,77.7,286.9,520.3,297.9,"of the organisations responsible for implementing most of the digital transformation activities, to "
+29,6,4,Calibri,11.0,77.7,301.4,405.8,312.4,validate and further specify the set of measures in the national roadmap. 
+29,7,0,Calibri-Bold,11.0,197.3,318.9,391.3,329.9,Measures and budget in national roadmap
+29,7,0,Calibri-Bold,7.0,391.1,318.0,398.2,324.9,16
+29,7,0,Calibri-Bold,11.0,398.1,318.9,400.6,329.9, 
+29,8,0,Calibri-Bold,11.0,77.7,550.7,520.2,561.8,"Overall, the roadmap reflects a high ambition in terms of national targets, scope of measures and "
+29,8,1,Calibri-Bold,11.0,77.7,565.2,178.3,576.2,planned investments.
+29,8,1,Calibri,11.0,178.2,565.2,329.5,576.2, The national roadmap includes 
+29,8,1,Calibri-Bold,11.0,331.6,565.2,520.3,576.2,125 measures representing total public 
+29,8,2,Calibri-Bold,11.0,77.7,579.7,254.0,590.7,funding estimated at EUR 6.1 billion
+29,8,2,Calibri,11.0,254.0,579.7,367.9,590.7, (about 2.57% of GDP) 
+29,8,2,Calibri-Bold,11.0,371.1,579.7,520.3,590.7,and an additional estimate of 
+29,8,3,Calibri-Bold,11.0,77.7,594.2,245.0,605.3,EUR 7 billion in private investments 
+29,8,3,Calibri,11.0,246.1,594.2,520.3,605.3,"for the coming years in connectivity and data centres, for a "
+29,8,4,Calibri,11.0,77.7,608.7,520.3,619.8,total of EUR 13.1 billion. The adjustment of the roadmap with additional new initiatives in line with 
+29,8,5,Calibri,11.0,77.7,623.1,520.2,634.2,the national digital transformation strategy demonstrates the commitment to take action to reach 
+29,8,6,Calibri,11.0,77.7,637.7,520.3,648.7,the Digital Decade and objectives set in the roadmap. But there is still room to reinforce the range 
+29,8,7,Calibri,11.0,77.7,652.2,405.7,663.2,"of measures in certain areas, to ensure that the targets are met by 2030.  "
+29,9,0,Calibri,11.0,72.0,676.9,74.5,687.9, 
+29,9,1,Calibri-Bold,18.0,216.1,671.7,220.1,689.7, 
+29,10,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+29,11,0,Calibri,6.0,72.0,727.6,78.1,733.6,16
+29,11,0,Calibri,9.0,78.0,727.9,525.0,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+29,11,1,Calibri,9.0,72.0,738.9,525.3,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+29,11,2,Calibri,9.0,72.0,749.8,525.1,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+29,11,3,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+29,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+30,3,0,Calibri-Bold,26.0,72.0,87.0,481.5,113.1,Annex II – Factsheet on multi-country 
+30,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+30,4,0,Calibri,11.0,72.0,160.5,74.5,171.5, 
+30,5,0,Calibri-Bold,11.0,77.7,183.5,267.4,194.5,Multi-country projects and best practices 
+30,6,0,Calibri,11.0,77.7,201.0,535.5,212.1,Greece is a member of the Alliance for Language Technologies EDIC and of the EUROPEUM EDIC on 
+30,6,1,Calibri,11.0,77.7,215.4,535.3,226.5,"blockchain. Greece is also a candidate to host two EDICs in the making, in the area of connected public "
+30,6,2,Calibri,11.0,77.7,229.9,535.3,241.0,administration and cybersecurity skills. Greece is directly participating in the IPCEI on Microelectronics 
+30,6,3,Calibri,11.0,77.7,244.5,535.3,255.5,and Communication Technologies (IPCEI-ME/CT). Greece is also a participating state in the EuroHPC 
+30,6,4,Calibri,11.0,77.7,259.0,257.9,270.0,Joint Undertaking (JU) and the Chips JU. 
+30,7,0,Calibri,11.0,77.7,276.4,535.3,287.5,Greece has contributed to the Best Practice Accelerator by sharing a best practice in the Digital Skills 
+30,7,1,Calibri,11.0,77.7,290.9,535.5,302.0,cluster with the title: ‘Training Civil Servants in Cloud Computing Technologies’. The goal of this initiative 
+30,7,2,Calibri,11.0,77.7,305.4,535.4,316.5,"is to enhance the cloud computing knowledge and digital literacy of civil servants, particularly executive "
+30,7,3,Calibri,11.0,77.7,320.0,535.5,331.0,managers in public administration and local government who have an ICT-related educational 
+30,7,4,Calibri,11.0,77.7,334.4,535.2,345.4,background. Greece also provided a best practice in the Uptake of Digital Technologies cluster sharing 
+30,7,5,Calibri,11.0,77.7,348.9,535.5,359.9,a best practice for the ‘Greek Data Strategy and Interoperability’. This initiative was focusing on big data 
+30,7,6,Calibri,11.0,77.7,363.4,498.9,374.4,and reporting depending on different open datasets and initiatives from several organizations. 
+30,8,0,Calibri,11.0,72.0,381.4,74.5,392.4, 
+30,9,0,Calibri-Bold,11.0,77.7,396.4,259.2,407.5,EU funding for digital policies in Greece 
+30,10,0,Calibri,11.0,77.7,413.8,463.4,424.9,Greece allocates 21% of its total recovery and resilience plan to digital (EUR 7.4 billion)
+30,10,0,Calibri,7.0,463.3,412.9,470.3,419.9,17
+30,10,0,Calibri,11.0,470.3,413.8,528.9,424.9,". In addition, "
+30,10,1,Calibri,11.0,77.7,428.3,498.4,439.4,"under cohesion policy, EUR 2.7 billion (representing 13% of the country’s total cohesion policy "
+30,10,2,Calibri,11.0,77.7,442.9,373.1,453.9,"funding), is dedicated to advancing Greece’s digital transformation"
+30,10,2,Calibri,7.0,373.0,442.0,380.0,448.9,18
+30,10,2,Calibri,11.0,380.0,442.9,510.1,453.9,". According to JRC estimates, "
+30,10,3,Calibri,11.0,77.7,457.4,529.3,468.4,EUR 8.2 billion directly contribute to achieving Digital Decade targets (of which EUR 6.5 billion comes 
+30,10,4,Calibri,11.0,77.7,471.8,358.0,482.8,from the RRF and EUR 1.7 billion from cohesion policy funding)
+30,10,4,Calibri,7.0,358.0,470.9,365.0,477.8,19
+30,10,4,Calibri,11.0,365.0,471.8,367.8,482.8,.
+30,10,4,Calibri-Bold,11.0,367.8,471.8,370.2,482.8, 
+30,11,0,Calibri,11.0,77.7,489.3,535.4,500.4,The largest investment from Greece’s recovery and resilience plan (RRP) is dedicated to measures for 
+30,11,1,Calibri,11.0,77.7,503.8,535.5,514.9,"digitalising the public sector and public services (EUR 2.18 billion), reinforced by support from the "
+30,11,2,Calibri,11.0,77.7,518.3,535.5,529.4,"cohesion funds (EUR 370 million). In addition, investment to develop e-health records is also included "
+30,11,3,Calibri,11.0,77.7,532.7,535.5,543.8,in the RRP and the cohesion funds. The RRP also includes investment dedicated to measures supporting 
+30,11,4,Calibri,11.0,77.7,547.3,535.5,558.3,the development of digital skills and ICT specialists (EUR 755 million) with EUR 61 million from the 
+30,11,5,Calibri,11.0,77.7,561.8,151.0,572.9,cohesion policy. 
+30,12,0,Calibri,11.0,72.0,579.8,74.5,590.9, 
+30,13,0,Calibri,11.0,72.0,602.3,74.5,613.3, 
+30,13,1,Calibri,11.0,216.1,602.3,218.5,613.3, 
+30,14,0,Calibri,11.0,216.1,670.8,218.5,681.8, 
+30,15,0,Calibri,6.0,72.0,683.7,78.1,689.7,17
+30,15,0,Calibri,9.0,78.0,683.9,525.4,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+30,15,1,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+30,15,2,Calibri,6.0,72.0,705.6,78.1,711.6,18
+30,15,2,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+30,15,3,Calibri,9.0,72.0,716.9,525.1,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+30,15,4,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+30,15,5,Calibri,6.0,72.0,738.7,78.1,744.7,19
+30,15,5,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+30,15,6,Calibri,9.0,72.0,749.8,525.4,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+30,15,7,Calibri,9.0,72.0,760.9,92.5,769.9,2025.
+30,15,7,Calibri,10.0,92.5,760.2,94.8,770.1, 
+30,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,16,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,85.9,29.4,148.1,49.4,Greece 
+31,2,0,Calibri-Bold,26.0,72.0,87.0,490.4,113.1,Annex III – Digital Rights and Principles
+31,2,0,Calibri,17.0,490.5,84.8,507.8,101.8,20
+31,2,0,Calibri-Bold,26.0,507.8,87.0,513.7,113.1, 
+31,6,0,Calibri,11.0,271.5,344.4,286.4,355.5,      
+31,6,1,Calibri,11.0,503.9,344.4,511.4,355.5,   
+31,6,1,Calibri-Bold,11.0,511.4,344.4,513.9,355.5, 
+31,7,0,Calibri-Bold,11.0,72.0,367.8,252.4,378.9,Activity on Digital Rights and Principles 
+31,7,0,Calibri,11.0,252.5,367.8,293.2,378.9,(figure 1)
+31,7,0,Calibri-Bold,11.0,293.1,367.8,295.6,378.9, 
+31,8,0,Calibri,11.0,72.0,390.4,525.6,401.4,"Greece has been relatively active in implementing digital rights and principles, with 43 initiatives "
+31,8,1,Calibri,11.0,72.0,404.8,525.9,415.9,overall. No information is available on new initiatives launched in 2024. Greece is most active in the 
+31,8,2,Calibri,11.0,72.0,419.3,525.8,430.4,"area of Digital education, training and skills (II). There is room for improvement, especially with regards "
+31,8,3,Calibri,11.0,72.0,433.9,339.3,444.9,to Sustainability (VI) where less activity has been identified. 
+31,9,0,Calibri-Bold,11.0,72.0,456.3,227.8,467.4,Impact of Digital Rights Initiatives 
+31,9,0,Calibri,11.0,227.9,456.3,271.0,467.4,(figure 2) 
+31,10,0,Calibri,11.0,72.0,478.9,525.9,489.9,"Quantitative impact indicators, developed by the support study, illustrate the level of implementation "
+31,10,1,Calibri,11.0,72.0,493.3,525.6,504.3,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+31,10,2,Calibri,11.0,72.0,507.8,525.9,518.8,measures implemented by key stakeholders in Greece (mainly national government) and how these 
+31,10,3,Calibri,11.0,72.0,522.3,186.6,533.3,are perceived by citizens. 
+31,11,0,Calibri,11.0,72.0,544.7,525.7,555.8,The indicators suggest that Greece is most successful in implementing commitments related to 
+31,11,1,Calibri,11.0,72.0,559.3,525.6,570.3,Sustainability (VI). Greece should review and strengthen efforts in areas where the impact of digital 
+31,11,2,Calibri,11.0,72.0,573.8,525.8,584.9,"rights initiatives appears to be limited despite relative activity, notably on Participation in the digital "
+31,11,3,Calibri,11.0,72.0,588.3,150.5,599.4,public space (IV). 
+31,12,0,Calibri,11.0,72.0,610.8,525.7,621.8,"According to the Special Eurobarometer 'Digital Decade 2025’, 30% of citizens in Greece think that the "
+31,12,1,Calibri,11.0,72.0,625.3,525.7,636.3,EU protects their digital rights well (a 3% decrease since 2024). This is below the EU average of 44%. 
+31,12,2,Calibri,11.0,72.0,639.8,525.6,650.9,Citizens are particularly confident about getting more freedom of expression and information online 
+31,12,3,Calibri,11.0,72.0,654.2,525.6,665.3,"(47%, below the EU average of 60%). They are most worried that their right to a safe digital "
+31,12,4,Calibri,11.0,72.0,668.7,525.7,679.8,"environment and content for children and young people is not well protected (65%, above the EU "
+31,12,5,Calibri,11.0,72.0,683.3,148.7,694.3,average of 48%). 
+31,13,0,Calibri,11.0,72.0,707.3,74.5,718.3, 
+31,14,0,Calibri,11.0,216.1,735.6,218.5,746.6, 
+31,14,1,Calibri,6.5,72.0,748.0,78.5,754.5,20
+31,14,1,Calibri,10.0,78.5,748.9,80.8,758.8, 
+31,14,1,Calibri,9.0,80.8,749.6,511.1,758.6,"Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+31,14,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+31,14,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+31,14,2,Calibri,9.0,122.8,760.9,376.9,769.9,". For a more detailed country factsheet accompanying the study, click "
+31,14,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+31,14,2,Calibri,9.0,393.7,760.9,395.9,769.9,.
+31,14,2,Calibri,10.0,396.1,760.2,398.3,770.1, 
+31,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+31,15,1,Calibri,11.0,297.7,795.4,300.2,806.4, 

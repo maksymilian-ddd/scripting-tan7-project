@@ -1,0 +1,1581 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 26/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+
+      Spain  Spain
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 6
+
+     Connectivity infrastructure .............................................................................................................. 6
+
+    Semiconductors ............................................................................................................................... 7
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 9
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ....................................................................................... 10
+
+     Take up of cloud/AI/data analytics ................................................................................................. 11
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 13
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 13
+
+Protecting and empowering EU people and society ............................................................................. 17
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 17
+
+     Equipping people with digital skills ............................................................................................... 17           Spain
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 19
+
+  Building a safe and human centric digital environment and preserving our democracy ................... 22
+
+Leveraging digital transformation for a smart greening ....................................................................... 26
+
+Annex I – National roadmap analysis .................................................................................................... 28
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 29
+
+Annex III – Digital Rights and Principles ................................................................................................ 30  Spain
+
+Executive summary
+
+Spain benefits from a robust  digital  infrastructure, which allows  it to develop  its  digital
+transformation. The country is making moderate progress in the adoption of key digital technologies
+by enterprises. Regarding AI, the Spanish government shows ambition with the last developments,
+but still continues to face challenges in AI adoption by SMEs. Although Spain lags behind in digital
+public services for business, the country has improved its performance in digital public services for
+citizens and in access to e-Health records. Spain  is leading in initiatives to strengthen the
+cybersecurity of its public services and enterprises.
+
+Spain’s contribution to the Digital Decade is very ambitious, with 13 national targets, 92% of which
+are aligned with the EU 2030 targets. The country is following its trajectories well with 75% of them
+being on track (based on the 2024 trajectories established for 8 KPIs out of 8 analysed). Spain
+addressed 100% of the 7 recommendations issued by the Commission in 2024 by making some
+changes through new measures.
+
+
+                                                                                                                                                     Digital Decade
+                                                                        Spain                         EU
+                                                                                                                                       target by 2030
+
+                                                      DESI      DESI    Digital Decade KPI (1)                                                                                         National
+                                                 2024     2025     Annual                             Annual
+                                                                                                trajectory    DESI 2025                 ES      EU
+                                                          (year      (year     progress                                                                                                                   progress
+                                                                               2024 (3)
+                                                     2023)     2024)
+
+  Fixed Very High Capacity Network (VHCN) coverage     96.3%    95.0%      -1.4%       97.0%       82.5%       4.9%     100.0%    100%
+
+  Fibre to the Premises (FTTP) coverage                95.2%    94.9%      -0.4%       96.0%       69.2%       8.4%     100.0%          -
+
+  Overall 5G coverage                               92.3%    95.7%      3.7%       98.9%       94.3%       5.9%     100.0%    100%
+
+  Edge Nodes (estimate)                             167      301      80.2%               -         2257       90.5%            -      10000
+
+ SMEs with at least a basic level of digital intensity (2)           -      74.2%      4.8%                -         72.9%       2.8%      90.0%    90%
+
+  Cloud                                           27.3%    33.1%     21.5%               -                  -                 -       75.0%    75%
+
+  Artificial Intelligence                               9.2%     11.3%     23.2%       10.6%       13.5%      67.2%     75.0%    75%
+
+  Data analytics                                    38.0%    40.9%      7.7%                -                  -                 -       75.0%    75%
+
+  AI or Cloud or Data analytics                        49.9%    55.7%     11.6%               -                  -                 -                -      75%
+
+  Unicorns                                         13       13       0.0%         16         286        4.4%       24       500
+
+  At least basic digital skills                           66.2%          -               -                  -                  -                 -       85.0%    80%
+
+  ICT specialists                                     4.4%     4.7%      6.8%        5.0%        5.0%       4.2%      8.6%    ~10%
+
+  eID scheme notification                                            Yes
+
+
+  Digital public services for citizens                        84.2      88.8      5.4%         88.7         82.3       3.6%       100.0     100
+
+
+  Digital public services for businesses                     91.0      85.1       -6.5%         95.0         86.2       0.9%       100.0     100
+
+  Access to e-Health records                              84.6      88.3      4.4%         87.3         82.7       4.5%       100.0     100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+  calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+
+According to the special Eurobarometer on ‘the Digital Decade’ 2025, 72% of Spanish citizens
+consider that the digitalisation of daily public and private services  is making their lives easier.
+Concerning the action of the public authorities, 92% consider it important to counter and mitigate the
+issue of fake news and disinformation online. Regarding competitiveness, 85% consider it important
+
+
+                                        1  Spain
+
+
+
+to ensure that European companies can grow and become “European Champions” able to compete
+globally.
+
+A competitive, sovereign, and resilient EU based on technological leadership
+
+Spain's digital infrastructure is generally more advanced than the EU average, with higher coverage
+rates in most categories. Spain's 5G spectrum assignment in pioneer bands is particularly strong too
+(98.33%). The country prioritises semiconductor production through PERTE Chip (The Strategic Project
+for Microelectronics and Semiconductors), which aims to strengthen design and production
+capabilities in the microelectronics and semiconductor industries. It is backed by a budget of EUR
+12.25 billion until 2027 and the country has created the SETT (Spanish Society for Technological
+Transformation) to accelerate the allocation of funds. Spain is actively participating in the IPCEI-ME
+and Chips JU initiatives and is leading the Integrated Photonics Pilot Line. Notably, the Spanish
+government approved the updated 2024 National Artificial Intelligence Strategy and published an
+open-source GenAI models trained with a high percentage of data in Spanish and co-official languages
+as part of its effort to strengthen digital sovereignty. Moreover, Spain is actively participating in the
+IPCEI-CIS to accelerate the edge nodes deployment. Spain also launched a regulatory sandbox for high-
+risk AI systems, a pioneering step in implementing the European AI Act and supporting companies in
+meeting upcoming obligations.
+
+The country’s commitment to quantum technologies is reflected in the launch of the Quantum
+Technologies Strategy in April 2025 and in the deployment of initiatives, projects such as Quantum
+Spain, the Rydberg Atoms Computer and the EuroHPC Quantum Annealer.  Concerning the
+digitalisation of business, the country shows strength in the basic digital intensity of SMEs (74.2%),
+and in the adoption of Cloud and data analytics by enterprises, although faces challenges in AI
+adoption by SMEs. Nonetheless, Spain is making efforts to improve its performance in these areas.
+The country is focusing on bolstering the innovative scale-up ecosystem with strategic investments to
+nurture and support innovative enterprises.
+
+Protecting and empowering EU people and society
+
+Spain continues to take positive steps toward empowering people and promoting opportunities for all
+individuals in the digital economy. The country is aiming to bridge gaps concerning the accessibility of
+digital technologies through all the activities related to its National Digital Skills Plan, which includes
+initiatives like a EUR 200 million program to train over 80 000 professionals in digital skills and AI. Spain
+is also making strides in the development of specialists in ICT, with initiatives like the ICT Talent
+Attraction and Retention Programme providing scholarships and contracts. Regarding Digital Public
+Services, Spain makes a significant contribution to the EU’s  Digital Decade targets, with  its
+performance in public services for citizens (88.8), however the country lags behind concerning the
+public services for business (85.1). The Spanish government has taken significant policy actions against
+online misinformation and in favour of the minors’ protection in the digital environment. It also pays
+particular attention to the promotion of digital rights and principles, with the recent launch of the
+Digital Rights observatory.
+
+Leveraging digital transformation for a smart greening
+
+Spain continues its efforts to support the synergies between the digital and green transitions. The
+country is implementing innovative programmes to reduce the environmental impact of energy-
+
+
+
+                                        2  Spain
+
+
+
+intensive digital technologies. The National Green Algorithms Plan has four axes and aims to make AI
+more sustainable and to find AI solutions for the green transition.
+
+National Digital Decade strategic roadmap
+
+Spain did not submit a revised adjustment to its national Digital Decade roadmap. The Spanish
+authorities indicated that they plan at a later stage to formally revise the national roadmap, submitted
+in January 2024, in accordance with article 8 (3) of the Decision establishing the Digital Decade Policy
+Programme. The initial roadmap contains 67 measures with a budget of EUR 33.8 billion, of which EUR
+26.7 billion come from public budgets (equivalent to 1.68 % of GDP). However, Spain has worked on
+addressing the recommendations made in 2024, by changing existing measures and implementing new
+ones that will be included in a future revised roadmap. The Spanish authorities published the initial
+national roadmap in March 2025.
+
+Funding & projects for digital
+
+Spain allocates 26% of its total recovery and resilience plan to digital (EUR 40.4 billion)1. In addition,
+under cohesion policy, EUR 5.0 billion, representing 14% of the country’s total cohesion policy funding,
+is dedicated to advancing Spain’s digital transformation2.
+
+Spain is a member of the three established EDICs; the Alliance for Language Technologies EDIC, the
+Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. Spain  is directly
+participating in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in
+the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Spain is also a participating
+state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+Spain has contributed to the Best Practice Accelerator3 by sharing one best practice in the frame of
+the Digital Skills cluster (The Generation D Pact launched in November 2022).
+
+Digital rights and principles
+
+According to a support study, Spain has been one of the most active Member States in implementing
+the European Declaration on Digital Rights and Principles, with over 100 initiatives overall and 30 new
+initiatives launched in 2024. Spain is most active in the area of digital education, training and skills.
+Less activity has been identified with regards to sustainability. Measures in the area of solidarity and
+inclusion appear to have most impact on the ground, in contrast to those addressing participation in
+the digital public space.
+
+
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+
+                                        3 Spain
+
+
+
+Recommendations
+
+     -   AI, cloud and data analytics: continue the efforts to support the digitalisation of enterprises,
+         in particular, to foster the adoption of AI, and paying attention to SMEs.
+
+     -   ICT specialists: continue the efforts to increase the number of ICT specialists and their
+       percentage over the total employment in the country.
+
+     -   Green: Develop a system for monitoring and quantifying the emission reductions of the
+       deployed digital solutions.
+
+     -   Unicorns: Continue efforts to improve the business environment and access to finance for
+         digital start-ups.
+
+     -   Semiconductors and digital innovation: Accelerate the efforts to allocate public funds in
+        strategic projects.
+
+     -   Cybersecurity: Continue efforts in cybersecurity to address evolving threats, particularly for
+        enterprises and administration.
+
+
+
+
+
+                                       4  Spain
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Spanish policymakers are focusing on digital technologies as an enabler for competitiveness. In
+recent years, significant progress has been made thanks to the Digital Spain Agenda. It has succeeded
+in stimulating the development of infrastructure, continued growth, and digitalisation of the Spanish
+economy. In addition, the national Recovery and Resilience Plan significantly helps boost the digital
+transformation.
+
+Spain’s digital infrastructure is generally more advanced than the EU average, with higher coverage
+rates in most categories. However, the observed values are below the trajectories expected for 2024,
+which could indicate a need for accelerated development to maintain the lead.
+
+Spain is making significant progress in ensuring that enterprises have a basic level of digital intensity
+and that they adopt more advanced technologies. Spanish SMEs accounted for 33.2% of the value
+added in the economy, while large enterprises generated 45.5%. SMEs in particular represented about
+97.4% of the enterprises with more than 10 employees, while large enterprises constituted 2.6%.
+According to the last available data, R&D in the ICT sector represented 17.81% of total R&D
+expenditure by businesses and 22.73% of total R&D personnel in 20224. However, as reflected in the
+European  Semester  report,  regional  disparities  persist,  affecting  Spain’s  overall  innovation
+performance. Regions like Madrid, Catalonia and the Basque Country are strong innovators with higher
+levels of investment in R&D than the Spanish average, while other regions continue to exhibit low R&D
+investment, highlighting an innovation gap.
+
+The country also attaches importance to AI. On 15 May 2024, the Spanish government approved the
+updated National Artificial Intelligence Strategy 2024 to build upon and accelerate the progress made
+by the 2020 strategy. Its goal is to strengthen Spain’s position in AI by adapting to recent technological
+advances, promoting a transparent, ethical, and human-centered approach, while boosting innovation
+and competitiveness. The strategy focuses on key areas like supercomputing, data infrastructure, AI
+talent, cybersecurity, and promoting responsible AI across both the public and private sectors. Several
+initiatives are already underway, including major investments in the Barcelona Supercomputing Centre
+to support advanced AI model development and efforts to promote generative AI startups. Projects
+are also advancing the development of high-quality Spanish language corpora and foundational
+models as just in September 2024, the first AI model was published. This model has been trained with
+a high percentage of data in Spanish and co-official languages and is available to all as an open-source
+infrastructure. The country has already created a European Regulatory Sandbox on AI, with 12 selected
+high risk AI systems that will work on the implementation of the European regulation on AI through
+operational guidelines.
+
+According to the 2025 Eurobarometer5, 86% of Spanish people think that building efficient and secure
+digital infrastructures and data processing facilities should be a priority for the public authorities.
+
+
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying
+the State of the Digital Decade report 2025.
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5  Spain
+
+
+Building technological leadership: digital infrastructure and technologies
+
+Spain benefits from its active deployment of connectivity infrastructures and the country has nearly
+met the EU targets for VHCN, FTTP and 5G coverage. The country is a leader in the deployment of
+edge nodes and invests heavily in semiconductors and quantum technologies.
+
+Connectivity infrastructure
+
+Spain's VHCN coverage for all households is significantly higher than the EU average, but the country
+is lagging compared to its national trajectory as coverage has not grown over the last year. In 2023,
+Spain's total VHCN coverage was 96.32%, compared to the EU's 78.64%, and in 2024, it was 95.01%,
+still above the EU's 82.49%. However, Spain's growth rate is -1.4%, which is below the EU's 4.9%. For
+households in sparsely populated areas, Spain's coverage was 86.94% in 2023 and 86.33% in 2024,
+both higher than the EU's 55.59% and 61.89%, respectively. Spain's growth rate of -0.7% is lower than
+the EU's 11.3%. These lower growth rates compared to the European average are due to the greater
+difficulty of increasing coverage in the last few %, as well as Spain's low population density.
+
+Spain's FTTP coverage is also notably higher than the EU average, but it is also slightly below the
+expected national trajectory. In 2023, its total FTTP coverage was 95.21%, compared to the EU's
+63.87%, and in 2024, it was 94.87%, still above the EU’s 69.24%. Spain’s growth rate of -0.4% is lower
+than the EU’s 8.4%. For households in sparsely populated areas, Spain's coverage was 85.89% in 2023
+and 86.32% in 2024, both higher than the EU's 52.55% and 58.78%, respectively. Spain's growth rate
+of 0.5% is lower than the EU's 11.9%.
+
+Spain's broadband take up indicators show a strong performance in terms of high-speed broadband
+subscriptions, with shares well above the EU average. In 2023, Spain's share of fixed broadband
+subscriptions at 100 Mbps or higher was 93.54%, surpassing the EU's 65.9%. This figure increased to
+95.68% in 2024, still ahead of the EU's 71.88%. For fixed broadband subscriptions at 1 Gbps or higher,
+Spain's share was 20.34% in 2023, outpacing the EU's 18.47%. In 2024, this increased to 25.4%,
+remaining above the EU's 22.25%. Spain's growth rate of 24.9% exceeded the EU's 20.5%. The share
+of 5G SIM cards in Spain was 22.08% in 2023, slightly above the EU's 21.7%. By 2024, this figure had
+risen to 35.14%, just below the EU's 35.56%. Spain's growth rate of 59.1% was lower than the EU's
+63.9%.
+
+Spain's overall 5G coverage is slightly higher than the EU average, but it is lagging compared to its
+national trajectory. In 2023, Spain's total 5G coverage was 92.28%, compared to the EU's 89.05%, and
+in 2024, it was 95.72%, still above the EU's 94.35% but 3 percentage points below the national
+trajectory for 2024 (98.9%). Spain's growth rate of 3.7% is lower than the EU's 6.0%. For households
+in sparsely populated areas, Spain's coverage was 67.44% in 2023 and 79.57% in 2024, equal to the
+EU's 71.1% and 79.57%, respectively. Spain's growth rate of 18.0% is higher than the EU's 11.9%.
+
+Spain's 5G coverage in the 3.4–3.8 GHz band is higher than the EU average, but its growth rate is
+lower. In 2023, Spain's total coverage was 58.29%, compared to the EU's 51.06%, and in 2024, it was
+74.04%, still above the EU's 67.72%. Spain's growth rate of 27.0% is lower than the EU's 32.6%. For
+households in sparsely populated areas, Spain's coverage was 10.24% in 2023 and 22.28% in 2024,
+both lower than the EU's 15.86% and 26.19%, respectively. Spain's growth rate of 117.6% is higher
+than the EU's 65.1%.
+
+
+
+
+
+                                        6  Spain
+
+
+
+Spain's 5G spectrum assignment in pioneer bands is significantly higher than the EU average. In 2024,
+Spain's assignment was 98.33%, compared to the EU's 73.4%, and in 2025, it remained at 98.33%, still
+above the EU's 74.63%. Spain has no growth between 2024 and 2025, while the EU's growth is 1.7%.
+
+Spain should focus on increasing growth rates in digital infrastructure to maintain its lead over the EU
+average. Priorities should include improving growth in VHCN, FTTP, and overall 5G coverage, as well as
+ensuring that households in sparsely populated areas are not left behind. The country's strong 5G
+spectrum assignment should be used to drive further advancements in digital connectivity.
+
+VHCN and FTTP
+
+Spain sets the VHCN/FTTP target at 100% by 2030 in its roadmap, which is aligned with the EU effort.
+Although the current VHCN/FTTP values are slightly below the trajectories expected in 2024, the
+country is on track according to its national trajectory.
+In 2024, Spain launched UNICO Banda Ancha 2024 programme. It provides EUR 18.5 million in grants
+that will mobilise investments to provide coverage of new generation, very high speed, public
+broadband networks capable of providing fixed technology services at speeds of at least 300 Mbps,
+both downstream and upstream, to almost 60,000 homes and businesses.
+
+5G
+
+Spain’s 5G target remains at 100%, as set in its national roadmap submitted in 2024, and it is planned
+to be achieved by 2027. In 2024, Spain showed an annual progress of 3.7%, achieving 95.7% of overall
+5G coverage. However, to reach 100% coverage in populated areas by 2027 as planned in its national
+roadmap, it should have achieved the 98.9% according to the established trajectory. Nevertheless, the
+difference isa minor, which means that the country is on track according to its national trajectory.
+The national roadmap outlines six measures aimed at reaching 100% 5G coverage by 2030 and they
+are under implementation.
+
+Between 2022 and 2024 the UNICO Sectorial 5G programme supported 5G projects aimed at
+transforming different economic sectors and essential services, with a total amount of nearly EUR 115
+million awarded. Concerning the deployment of 5G standalone by private operators, Telefonica
+reported coverage in all cities with more than 250.000 habitants and continues expanding its network,
+while Orange is already covering more than 60 cities across the country.
+
+In 2023, it was launched the first call (EUR 544 million) of the UNICO 5G Networks – Active programme,
+which aims to support deployment of equipment and infrastructure in less populated areas of Spain
+(with fewer than 10.000 inhabitants). A second call (EUR 171 million) was published in August 2024 .
+This programme guarantees that the 5G stand alone will arrive to these less populated areas.
+
+ 2024 recommendation: Ensure sufficient access of new players to spectrum for innovative business-
+ to-business (B2B) and business-to-consumer (B2C) applications and encourage operators to speed
+ up the deployment of 5G stand-alone core networks.
+
+ Spain made some efforts to address the recommendation through policy actions in 2024:
+ To accelerate 5G deployment and its industrial use for innovative business-to business (B2B), in the
+ 26 GHz band, Spain has made the 450 MHz band available to businesses in the self-provision regime.
+
+Semiconductors
+
+With a budget of EUR 12.25 billion, PERTE Chip is the key strategic initiative to strengthen its
+scientific, design, and manufacturing capabilities in microelectronics and semiconductors. The goal
+
+
+                                        7  Spain
+
+
+
+is to bolster the technological and research ecosystem across the entire value chain, supporting
+innovation, cleanroom infrastructure, talent development, and specific areas like integrated photonics
+and RISC-V architecture. The initiative takes a comprehensive approach, targeting all stages from
+conception and chip design to production and boosting the ICT manufacturing sector to increase
+demand  for  locally  produced  semiconductors.   It  supports  scientific  research  in  advanced
+microprocessors and quantum chips, promotes fabless companies and training networks, and
+promotes national semiconductor manufacturing with leading-edge and mid-range technologies. It
+also aims to stimulate the ICT manufacturing sector and entrepreneurial ecosystem through venture
+capital focused on chip startups and scaleups. Despite the efforts of the Spanish government, there
+has been a delay in the implementation and allocation of funds. To try to accelerate public funding,
+SETT (Spanish Society for Technological Transformation) was created as a public entity in July 2024
+to manage the EU funds for strategic sectors.
+
+The Cátedras Chip initiative, with EUR 45 million allocated, focuses on scientific capacity-building in
+universities involving private sector in the Chairs to contribute to the transfer of knowledge. Another
+major effort involves the Chips Joint Undertaking pilot lines, with over EUR 133 million of funding (half
+from the EU). It includes the Integrated Photonics pilot line intended to establish Spain as a global
+leader in photonics and ensure full technological independence in this area by 2030.
+
+The Ministry of Industry and Tourism allocated EUR 65.4 million to direct participants in the Important
+Project of Common European Interest (IPCEI) on Microelectronics and Communication Technologies,
+with an additional EUR 56.6 million for indirect participants. Meanwhile, EUR 111 million were granted
+to a direct participant by the State Secretariat for Telecommunications in the same programme,
+summing EUR 233 million invested in the IPCEI-MC. These funds aim to strengthen the design
+ecosystem, supply chain  capabilities, and the  initial deployment of advanced semiconductor
+technologies.
+
+Further efforts include EUR 110 million in support of R&D projects which enforce the whole value chain
+of microelectronics and semiconductors and operate outside of specific European programmes. An
+additional EUR 174.1 million to enhance the Spanish science and technology system, with funding for
+supercomputing, cleanroom networks, and research infrastructures. Moreover, EUR 76.1 million for
+lower TRL R&D projects and the consolidation of researchers. SETT will invest EUR 4 million in the only
+Spanish company to produce semiconductor metrology equipment. The aim is to dramatically improve
+chip wafer production using patented world-leading technology. SETT will also invest EUR 9 million in
+a project for the development of disruptive infrared sensors based on nanotechnology. Spain also
+secured an agreement to establish Imec’s second European manufacturing and R&D centre in
+Málaga, with over EUR 600 million in investment expected by 2030 partly funded through the RRF.
+
+Edge nodes
+
+According to the Edge Node Observatory, Spain is expected to have deployed a total of 302 edge
+nodes by 2024, an increase of 80.2% since 2023. This is close to doubling (+134 edge nodes) the
+amount estimated for 2023 (167, number revised since SDDR 2024). Spain is currently the third country
+in the EU in terms of edge nodes deployment.
+
+The European Project of Common Interest on Information Services and Cloud (IPCEI-CIS) is currently
+under being implemented and will allow at least 17 edge nodes to be deployed. The UNICO R&D Cloud
+project also supports R&D in this area. Private investments in the country are likewise noteworthy.
+
+
+
+
+                                        8  Spain
+
+
+
+Quantum technologies
+
+On April 2025, the Spanish government launched the first Quantum Technologies Strategy, which
+amounts to EUR 808 million coming from European Regional Development Fund and the Recovery and
+Resilience Facility  , with the possibility to leverage up to EUR 1.5 billion in public and private
+investments. This initiative seeks to boost funding for infrastructure and industrial applications of
+quantum technologies. It aims to highlight Spain’s strengths in areas like quantum communications
+and post-quantum cryptography while also making the most of market-driven opportunities in sensing
+and metrology, particularly in sectors such as navigation, manufacturing, crisis prevention and defence.
+The strategy’s core objectives include advancing research and market transfer, developing a national
+quantum industry, preparing society for digital transformation, and consolidating Spain’s position in
+the global quantum landscape through coordinated  initiatives spanning business support, AI
+integration, communications, sensing, data privacy, and infrastructure development. The strategy is
+aligned with the UN's International Year of Quantum Science and Technology and has been drafted
+after a participative process with regional governments and stakeholders. As a first action, in April
+2025, the Council of Ministers approved the Royal Decree creating the Quantum Communications Hub.
+With a budget of EUR 10 million, it will promote the development of use cases, the promotion of R&D
+in quantum photonics and the implementation of training and dissemination initiatives.
+
+In 2024, the Spanish Ministry for Digital Transformation and Public Service invested in the development
+of three quantum computing infrastructures, viewing quantum technology as a crucial component for
+more sustainable AI. One of the key initiatives is Quantum Spain, a EUR 22 million project to build a
+national quantum ecosystem, featuring a superconducting qubit-based quantum computer, cloud
+access, quantum algorithm development, and emulators in Galicia, Castilla y León, and Barcelona.
+Another project involves the creation of a quantum device based on Rydberg atoms, backed by EUR 7
+million. It is expected to function as a quantum simulator within two years and evolve into a universal
+quantum computer. This initiative  is likely to generate patents and spin-off companies, further
+enhancing the Spanish quantum ecosystem. A third investment of EUR 8.5 million supports the Euro
+QCS-Spain quantum annealer, co-funded by the European Commission, to be hosted by the Barcelona
+Supercomputing Centre.  It  will integrate with existing supercomputers and quantum systems,
+contributing to a broader European hybrid supercomputing network.
+
+Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+
+Spain is notably progressing in ensuring the basic level of digital intensity of enterprises as well as
+regarding the uptake of more advanced technologies by companies. However, it is facing some
+challenges in AI take-up regarding small enterprises, as it is below the EU average, although it is
+performing significantly higher than the EU average regarding large enterprises. There are several
+public measures, implemented mostly under the national Recovery and Resilience Plan, to support
+digitalisation of businesses.
+
+The country has not increased its number of unicorns over the last year. At the end of 2024, Spain
+was home to 13 unicorns, lagging behind the 16 unicorns expected for 2024 according to the trajectory
+established in its national roadmap. Spain aims to have 24 by 2030. However, this would still represent
+a limited contribution to the EU's target of nearly 500 unicorns by 2030. Spain remained stable in the
+Global Start-up Ecosystem Index 2024 between 2023 and 2024, ranking 7th in the EU, although the
+number of cities in the top 1 000 worldwide declined.
+
+
+
+
+                                        9  Spain
+
+
+
+SMEs with at least basic digital intensity
+
+By 2024, 3 out of 4 (74.15%) of SMEs in Spain had at least a basic level of digital intensity, an increase
+from 67.52% in 2022, with a robust growth rate of 4.8% every year (2022 is the last comparable year
+that used a similar methodology for measuring the digital intensity of enterprises). This placed Spain
+above the EU average of 72.91% in 2024. At the same time, zooming in on the SMEs that had a high or
+very high digital intensity, 31.77% achieved such an advanced level, in line the EU average of 32.66%.
+Overall, the data shows good progress for Spanish SMEs in their digital transformation.
+
+                                          According to the latest available data, in 2022, Spanish
+                                  SMEs accounted for 33.2% of the value added in the
+                                      economy, while large enterprises generated 45.5%.
+                                             Notably, SMEs  represented about 97.4%  of  the
+                                             enterprises with more than 10 employees, while large
+                                              enterprises constituted 2.6%.
+
+                                      The Spanish Ministry for Digital Transformation and
+                                              Public Service is implementing several initiatives to
+                                             strength the digitalisation and competitiveness of the
+                                               enterprises. The Kit Consulting, which expands the
+                                                existing Kit Digital programme to help SMEs adopt
+                                      advanced  technologies  and  extend  support  to
+                                       medium-sized enterprises. So  far, EUR 165 million
+                                       have been granted through over 12.000 aid packages,
+                                           while  the  broader   Kit  Digital  programme  has
+                                               distributed over 710 000  digital vouchers totalling
+more than EUR 2.9 billion in investment. The Generación D Pymes programme, backed by EUR 256
+million and managed by the School of Industrial Organization (EOI), aims to train SME leaders and
+employees in digital transformation to help create a new digital culture within businesses.
+
+The National Entrepreneurship Office, with a budget of EUR 60 million, acts as a digital platform to
+support  innovative  entrepreneurship by  connecting  startups,  entrepreneurs, and ecosystem
+stakeholders. It offers access to funding opportunities, educational resources, diagnostic tools, and a
+startup map, and has already engaged thousands of users and startups across the country. The UNICO
+Pymes programme, EUR 44.6 million in funding, focuses on bridging connectivity gaps for small
+businesses, microenterprises, and freelancers. It provides financial support in the form of connectivity
+vouchers to improve internet access and related services, helping businesses overcome a significant
+barrier in their digital transformation.
+
+In addition, the country has 50 digital innovation hubs connected within the European Digital
+Innovation Hubs network. They provide testing, training, funding and incubation support across
+sectors and technologies, e.g. in mobility, health, AI and cybersecurity.
+
+SETT also helps channel funding to businesses, in particular, the Next Tech Fund, which contains EUR
+4 billion from RRF funds.
+
+
+
+
+
+                                       10  Spain
+
+
+
+Take up of cloud/AI/data analytics
+
+
+
+
+
+In 2024, more than 1 in 2 enterprises (55.67%) in Spain adopted AI technologies, sophisticated or
+intermediate cloud computing services, or performed data analytics, a 11.61% increase compared
+to 2023 (49.88%). More specifically, the uptake among SMEs was slightly lower at 54.68% while large
+enterprises demonstrated a significantly higher engagement rate of 87.84%. As a result, a difference
+of 33.16 pps in uptake was recorded between SMEs and large enterprises in Spain, showing a decrease
+compared to the 2023 gap (39.04 pps).
+
+Spain exhibited mixed performance in the adoption of cloud computing, data analytics, and AI
+technologies among enterprises with 10 or more employees. Data analytics and AI adoption
+exceeded EU averages, while cloud uptake and overall engagement with these technologies fell below
+EU levels. Large enterprises consistently reported significantly higher adoption rates than SMEs, with
+differences in technology uptake often exceeding EU trends. Considering the predominant share of
+SMEs among enterprises with 10 or more employees in Spain and their relatively lower contribution
+to economic value added, addressing these adoption disparities could play a key role in supporting
+balanced digital development.
+
+In November 2024, the Spanish Minister for Digital Transformation and Public Function launched the
+Plan to Promote Sectoral Data Spaces, which aims to accelerate the deployment of interoperable
+data ecosystems across all productive sectors in Spain. The plan is designed to help companies make
+the most of the future European single market for data, fostering innovation and boosting
+competitiveness. Its main goals include aligning with EU initiatives, boosting technological and
+industrial competitiveness, and encouraging public-private collaboration in the development of
+sectoral data spaces. The plan is structured around six strategic axes and involves 11 key initiatives that
+support demonstrators and use cases in strategic sectors, including tourism, language economy, smart
+urban infrastructures, and regional development. Funding  is provided for technical and legal
+integration into existing data spaces, the development of digital products and services and for
+centralised management of public data demand. The plan also includes the creation of neutral data-
+sharing platforms, such as one for the tourism sector, which will host a marketplace for reusable
+applications and services. To support long-term sustainability and interoperability, the plan also
+establishes a centre of reference that will develop the technical reference framework, manage a
+registry of trusted and interoperable data spaces, and coordinate shared infrastructures and testing
+capacities. Additionally, a national campaign for awareness, training, and capacity building will be
+rolled out to ensure the broad adoption of sectoral data spaces and strengthen Spain’s leadership in
+the digital data economy at both national and EU levels.
+
+
+
+                                       11  Spain
+
+
+      Cloud
+
+Based on the latest available data, 33.1% of Spanish enterprises used cloud services in 2024, revealing
+a 21.47% growth compared to 2023 (27.25%). However, while SMEs had an uptake of 31.85%, large
+enterprises showed a much higher adoption rate of 73.59%. This indicates a notable difference of 41.74
+pps in uptake between SMEs and large enterprises in Spain.
+
+      Data Analytics
+
+40.94% of enterprises in Spain performed data analytics in 2024, showing a 7.71% increase
+compared to 2023, when 38.01% of them used data analytics in their work. More specifically, among
+SMEs, 39.9% adopted data analytics, while this was the case for 74.92% of large enterprises (about 3
+out of 4). This indicates a gap of 35.02 pps between SMEs and large enterprises.
+
+As part of the Sectoral Data Spaces roadmap, measures for the adoption of advanced data analytics
+have been implemented. A competitive grant call resulted in the approval of over EUR 75 million in
+funding for 78 projects. The aim is to establish demonstrator centres and use cases within data spaces,
+with additional private investment of EUR 47 million expected. These Data Space initiatives are being
+driven by a mix of companies and research organisations, with the collaboration of hundreds of entities
+acting as data providers or consumers. The funding supports two project lines: the creation of a
+national network of specialized demonstrator centres offering infrastructure for data space pilots
+across sectors like agri-food, health, and environment, and the development of data-sharing use cases
+to test new business models and services. Furthermore, the Language New Economy Data Space
+Project, under the ‘Language Valley’ initiative in collaboration with La Rioja, is underway with a EUR
+12 million budget. This project will integrate data from various sources, including key institutions, and
+will create a Spanish speech corpus (a large collection of audio recordings of spoken language) as a
+shared data resource. Additionally, use cases will be developed for the Dialnet Global Data Space, a
+large Spanish scientific article database, to benefit economic sector data spaces.
+
+       Artificial Intelligence
+
+Approximately 1 in 10 (11.31%) enterprises in Spain were using AI technology in 2024. Although it is
+slightly below the corresponding EU level value of 13.48%, the country is on track according to its
+national trajectory. This reveals a 23.2% growth in AI uptake from 2023 (9.18%), considerably below
+the EU average growth rate (67.2%). Among SMEs, the 2024 uptake was 10.3%, whereas large
+enterprises showed a much higher rate of adoption, with 43.96% using AI. This corresponds to a gap
+of 33.66 percentage points between SMEs and large enterprises, above the EU gap of 28.53 percentage
+points.
+
+To accelerate this trajectory, in January 2025 the Spain presented HispanIA 2040, a strategic vision for
+how artificial intelligence can contribute to the country’s future. At the same event, ALIA was
+presented, Spain’s first foundational AI model developed with extensive data in Spanish and co-official
+languages (Catalan, Galician, and Basque). Designed as a public, open-source infrastructure, ALIA
+strengthens technological sovereignty by offering a transparent alternative to large-scale models
+trained mainly in English. Spain is also working to build an open-source AI community around ALIA to
+foster collaboration, encourage reuse, and support its adoption across public and private sectors.
+
+In a further step towards leadership in ethical and human-centered AI, Spain activated in April 2025 a
+regulatory sandbox for high-risk AI systems. This controlled environment has started by testing 12
+systems to evaluate their compliance with key requirements of the European Regulation such as
+human oversight. The initiative aims to support companies—especially SMEs and startups—in
+adapting to the EU AI Act, set to enter into force in August 2026.
+
+
+
+                                       12  Spain
+
+
+
+Together, these initiatives aim to lower barriers to AI adoption, foster innovation, and ensure that the
+benefits of artificial intelligence are accessible across the entire economy.
+
+ 2024 recommendation: continue the efforts to support the digitalisation of enterprises, in particular
+ to foster the adoption of advanced technologies.
+
+ Spain made some efforts to address the recommendation through policy actions in 2024:
+
+ Spain has increased the basic level of digital intensity of its enterprises with a growth rate of 4.8%
+ over the last two years. Concerning the adoption of advanced technologies, there has been a 11.61%
+ increase compared to 2023. It is the result of different programmes implemented by the Spanish
+ authorities. However, there are still challenges in AI adoption, which is still below the EU average
+ (11.3% vs 13.5%), and in the gap between SMEs and large enterprises.
+
+Unicorns, scale-ups and start-ups
+
+At the end of 2024, Spain had 13 unicorns6 (2030 national target of 24), which is the same value as
+last year and represents a deviation from the value expected in the Spanish national roadmap (16).
+However, Spanish authorities are making efforts to reinforce and boost the startup ecosystem.
+
+In December 2024, the Spanish government enacted Royal Decree 1138/2024 to formally establish the
+National Forum for Emerging Companies, as outlined in the Startup Law passed in late 2022. This
+forum is designed to foster strategic collaboration between public institutions and private sector
+players. The aim is to enhance Spain’s technological and innovative entrepreneurship ecosystem. It will
+also promote coordination among various bodies that support technological innovation and
+entrepreneurship across the country. The creation of a structured space for dialogue among key
+players in Spain’s innovation landscape is considered vital for improving public policy. Through this
+forum, stakeholders will assess existing objectives and measures, identify emerging needs, and ensure
+more effective and efficient policy design and implementation.
+
+To better understand and guide the development of the startup ecosystem, and specifically to evaluate
+the impact of the Startup Law, a project funded by the European Commission under the Technical
+Support Instrument (TSI) is currently underway. Led by the OECD, this initiative involves Spanish
+ministries, public institutions, startups, and private organisations. Its goal is to pinpoint the ecosystem’s
+main  challenges  and  opportunities,  assess  the  law’s  effectiveness,  and  develop  policy
+recommendations to support its implementation and governance.
+
+Strengthening Cybersecurity & Resilience
+
+In Spain, 80.12% of individuals took at least one action to protect their personal data online in 2023,
+significantly higher than the EU average of 69.55%. In addition, a significant share of the population
+(62.94%) took three or more precautionary actions (and could therefore be considered as having above
+basic digital safety skills). Refusing the use of personal data for advertising purposes was the most
+common, with 68.72% of individuals engaging in this measure, while changing the browser settings to
+block or limit cookies on any device was the least common, reported by 36.47%.
+
+
+
+
+
+6 Data extracted from Dealroom on 24 March 2025, including all possible retroactive revisions. See the methodological note
+for more details.
+
+                                       13  Spain
+
+
+
+
+
+The number of enterprises that experienced ICT security incidents leading to unavailability of ICT
+services due to attack from outside (e.g. Ransomware attacks, Denial of Service attacks) has slightly
+decreased in Spain, from 3.67% in 2022 to 3.57% in 2024.  It remains in line with the EU average
+(3.43%). Spanish enterprises are quite below the EU average (11.97% vs 17.97%) concerning incidents
+related to hardware or software failures.
+
+In term of measures, 89.92% of enterprises deployed some ICT security measures (below the EU
+average of 92.76%) but only 57.14% of enterprises made their employees aware of their obligations in
+ICT security related issues, which is slightly below the EU average (59.97%).
+
+Concerning the deployment of secure internet standards, Spain lags behind in the roll-out of Internet
+Protocol version 6 (IPv6) for the end users (9% at the end of 2024), which is quite below the EU
+average (36%). It is similar the situation of Spain regarding the server side as the country stands with
+a 6% while the EU average is 17%. IPv6 is an important protocol as it ensures the scalability, stability,
+and security of the Internet. The deployment of this new version is increasingly urgent, as traditional
+IPv4 addresses have been long depleted. Domain Name System Security Extensions (DNSSEC) is also
+an important standard to be rolled out as it introduces security features to DNS. In Spain, the DNSSEC
+validation rate is 25% (Q3 2024), below the EU average of 47%.
+
+The data on several dimensions of cybersecurity suggest that Spain has room for improvement,
+performing significatively below the EU average despite the efforts of the Spanish authorities detailed
+as follows.
+
+According to the Digital Decade Eurobarometer 2025, 85% of Spanish citizens think that an improved
+cybersecurity, better protection of online data and safety of digital technologies would facilitate their
+daily use of digital technologies. An increase of four percentage points compared to last year, reflects
+the growing concern of the Spaniards about this subject.
+
+The Spanish government has significantly advanced its cybersecurity infrastructure by consolidating a
+central Cybersecurity Operations Centre capable of offering coordinated protection to 126 public
+organisations and over 200 000 users.  It enables continuous incident response and provides
+centralized security event management, proactive threat detection, and support services  for
+onboarding new entities. Additionally, a dedicated Security Operations Centre has been deployed for
+
+
+
+
+                                       14  Spain
+
+
+
+local organisations with fewer than 50 000 inhabitants to ensure uniform protection and benefit local
+authorities from virtual security operations centers.
+
+Another key development includes the certification of the State Administration’s private cloud at a
+high-security level, ensuring data integrity and confidentiality. Various digital transformation projects
+have been launched, such as the digitalization of consular services to enhance remote work, the
+modernization of unemployment benefits management systems, and the creation of a digital civil
+registry to streamline administrative interactions.
+
+A new General Subdirectorate for Digital Security has been established to unify the Ministry for
+Digital   Transformation's   cybersecurity   responsibilities.    It   leads   strategic   actions   in
+telecommunications and digital infrastructure, including network security, regulatory supervision, and
+the management  of  aid programmes. The  Subdirectorate  is  structured  in the  Division  for
+Telecommunications and Infrastructure Security, which oversees 5G security compliance, manages the
+5G Security Operations Centre, and represents Spain in international network security forums; and the
+Division  for Cybersecurity  in  Digital Transformation, which coordinates national cybersecurity
+strategies in collaboration with INCIBE, supports the cybersecurity business ecosystem, promotes
+regulatory frameworks and manages EU funded programmes.
+
+Additionally, the Council of Ministers has recently approved EUR 1.157 million for 40 new projects
+aimed at strengthening Spain’s cybersecurity and cyberdefense capabilities. It is aligned with the 2022
+National Cybersecurity Plan and the Industrial and Technological Plan for Security and Defense.
+
+Meanwhile, INCIBE (National Cybersecurity Institute), under the Ministry’s authority, continues to
+strengthen cybersecurity for citizens, SMEs, and professionals. Among its services is ‘Tu Ayuda en
+Ciberseguridad 017’, a free, confidential assistance helpline that handled over 98.000 queries in 2024.
+
+INCIBE is also working on a national list of harmful pornographic websites, particularly those targeting
+minors. Its outreach includes awareness campaigns like Safe Internet Day and #ExperienciaINCIBE,
+which uses interactive and gamified experiences, and educational efforts that reached over 117.000
+children, families, and teachers in 2024. Cybersecurity training programmes and digital skills initiatives
+targeted a wide range of groups, including vulnerable communities and people with disabilities.
+
+Furthermore, INCIBE has developed and promoted a range of cybersecurity tools and solutions tailored
+to the needs of both enterprises and families. In 2024, a total of 14 820 SMEs and professionals
+benefited from these tools, which aim to strengthen digital security in the business sector. For families,
+INCIBE updated its catalogue of parental control solutions, expanding it to 68 entries to help parents
+better protect children online.  It also supports entrepreneurship through the INCIBE Emprende
+programme, which in 2024 included events, workshops, and startup incubations and accelerations.
+Public procurement initiatives focused on innovation led to the awarding of multiple contracts to foster
+technological advancements. INCIBE also contributes to the implementation of the Digital Services Act
+(DSA), serving as a trusted flagger (responsible for detecting potentially illegal content and alert online
+platforms) within European networks. As part of its strategic agenda, it has launched five research-
+based cybersecurity projects in collaboration with Spanish universities. Under the RETECH Ciber
+initiative, INCIBE supports regional cybersecurity ecosystems, coordinating with 17 autonomous
+communities and with a budget of EUR 162 million. In 2024, agreements were signed with Asturias, La
+Rioja, Madrid, and Aragón to further develop these capabilities.
+
+
+
+
+
+                                       15  Spain
+
+
+
+Finally, Spain  actively  participates  in the European  initiative  IRIS2 (new EU Secure  Satellite
+Constellation)  and GOVSATCOM  (European  Union  Governmental  Satellite  Communications
+programme) that aim to provide secure, resilient and cost-efficient satellite communications.
+
+ 2024 recommendation: continue the implementation of the 5G Cybersecurity Toolbox to ensure
+ secure and resilient 5G networks.
+
+ Spain made important efforts to address the recommendation in 2024:
+
+ In 2024, Spain approved Royal Decree 443/2024, establishing the National Security Framework for
+ 5G networks and services. This decree, developed under Royal Decree-Law 7/2022, aims to ensure
+ the security of fifth-generation electronic communications. Its main purpose is to strengthen
+ national security and guarantee the continuous and secure operation of 5G networks by taking a
+ comprehensive approach that involves all actors in the 5G value chain. It also seeks to reinforce
+ security in the deployment and operation of 5G infrastructure, promote a diverse supplier market
+ to avoid high-risk vendors, and support national cybersecurity R&D activities related to 5G.
+ Furthermore, it emphasizes the importance of education and awareness in 5G cybersecurity. As part
+ of this framework, Spain has launched a pioneering 5G Security Operations Centre, which supports
+ the Ministry for Digital Transformation and Public Service by assisting organisations in preventing,
+ detecting, and responding to cyber threats and attacks on 5G systems. It also contributes to the
+ certification and standardization of 5G security, and it is a joint initiative between the National
+ Cryptologic Centre and the Ministry for Digital Transformation.
+
+
+
+
+
+                                       16  Spain
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Spain is making commendable efforts to empower its population and ensure ongoing opportunities
+for everyone within the digital economy. Achieving digital inclusion requires broad access to
+technology, and Spain is moving in that direction through the initiatives under its National Digital Skills
+Plan. The country’s commitment to enhancing digital skills is evident in its current progress. However,
+a shortage of ICT specialists remains a challenge that may continue until recent policies begin to yield
+results. Nonetheless, advancements in Spain’s digital public services are showing encouraging signs.
+
+According to the 2025 Eurobarometer, 84% of Spanish people think that accessing public services
+online will be important for their daily life in 2030. Concerning human support to help access and use
+digital technologies and services, 84% consider it would improve their daily use of digital technologies,
+and 92% think public authorities should consider it important to ensure that people receive proper
+human support to help them adapt to the changes in their lives brought about by digital technologies
+and services.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+In 2023, Spain showcased a strong digital skills presence, with 66.18% of its population having at
+least basic digital skills, surpassing the EU average of 55.56%. Even without new data in 2024, a
+detailed look into various demographics reveals insightful trends.
+
+    •  Gender Gap: Spain shows a tiny gender gap in digital skills, with 66.49% of men and 65.87%
+        of women proficient, leading to a gap of only 0.62 percentage points. This is better than the
+      EU average gap of 2.23 percentage points.
+
+    •   Education Level: Those with higher education in Spain are doing well in digital, with 85.78%
+       having at least basic digital skills, which is above the EU average of 79.83%. However,
+        individuals with lower levels of education are lagging, with 43.47% having at least basic digital
+          skills, but still above the EU average (33.61%). The gap between this group and the national
+       average is 22.71 percentage points, a tad higher than the EU average (21.95pp).
+
+    •   Living Areas: In Spain's rural areas, 56.50% of people have at least basic digital skills, which is
+      more than the EU average for rural areas (47.50%). Yet, there's a noticeable gap of 9.68
+       percentage points between rural areas and the rest of Spain, which is more significant than
+       the EU average divide (8.06pp).
+
+    •  Age Groups: Young Spaniards aged 16 to 24 are leading with digital skills, at an impressive
+       83.56%, way above the EU average (69.98%). The 65 to 74-year-olds are the least skilled in
+        Spain, with 32.83%, but even this is better than the EU average for their age group (28.19%).
+
+
+
+
+                                       17  Spain
+
+
+
+    •   Digital Skills Index components: Across the Digital Skills Index, Spain outperforms the EU
+       average in all five categories. It excels in communication and collaboration skills with a high
+       score of 94.88%. Even in its weakest area, digital content creation, the score is 73.83%, which
+           is still above the EU average.
+
+In summary, Spain's digital  skills are
+robust,   with    particularly   strong
+communication   and   collaboration
+abilities. While the gap in skills between
+education levels and rural versus urban
+areas does exist, the overall levels are
+very  good,  especially among young
+people  and   those   with   higher
+education. Spain's scores in the Digital
+Skills  Index  suggest  a  nation  well-
+equipped for the digital age.
+
+
+The country is in a good position to
+achieve  its national  target of 85%,
+which is above the EU target, by 2030.
+The roadmap contains eight measures
+for   achieving   basic   digital    skills,
+accounting for a total public investment
+of EUR 1 953 million.
+
+Red.es has established a digital skills training program aimed at citizens at risk of digital exclusion to
+bridge various digital divides. The primary target audience includes individuals over 65, people with
+disabilities, vulnerable groups, and those with low digital skills. The programme Includes in-person
+group training sessions with a practical focus and oriented toward everyday life situations, helping
+participants recognize how basic digital skills can support them in their daily activities. It will engage
+foundations, third sector organisations, and other companies with experience in providing basic digital
+skills training and reaching individuals at high risk of digital exclusion in both urban and rural areas.
+The goal is to leverage their local and regional presence and expertise in raising awareness to
+encourage participation in digital skills development.
+
+In November 2022, the Secretary of State for Digitalization and Artificial Intelligence launched the
+‘Generación D Pact’ to improve the digital skills of the Spanish population through collaboration
+between public and private organisations. It aims to create a cohesive, coordinated and complete
+ecosystem to make visible and involve Spanish society in the digital transformation process, in order
+to close the digital skills gap, raising the percentage of the Spanish population up 100%. Currently 206
+organisations have joined the Pact and have added 3 372 learning initiatives, and 80 772 citizens have
+registered in the portal and completed the self-diagnosis questionnaires of their level of digital skills.
+
+ICT specialists
+
+Spain's performance in ICT training and ICT specialists shows a mixed picture when compared to the
+EU average. Although the Spain's total percentage of ICT specialists is below the EU average, it is shown
+a positive trajectory in terms of growth rates.  It  is explained due to the significant growth in
+employment in other sectors in Spain in recent years, the percentage of ICT specialists as a share of
+
+
+
+                                       18  Spain
+
+
+
+total employment remains below the EU average. According to the latest data published by Eurostat7,
+Spain now employs a total of 1 022 600 ICT specialists, accounting for approximately 10% of all ICT
+specialists in the EU.
+
+In terms of percentage over the total employment, Spain's percentage of ICT specialists was 4.4% in
+2023, compared to the EU's 4.8%. By 2024, this figure increased to 4.7%, although it is still below the
+EU's 5.0%. However, Spain's growth rate of 6.8% surpassed the EU's 4.2%, indicating a robust increase
+in the ICT specialist workforce. Regarding female ICT specialists, Spain's percentage was 19.5% in 2023,
+higher than the EU's 19.4%. By 2024, this figure rose to 19.6%, still higher than the EU's 19.5% and
+maintaining a growth rate of 0.5% equal to the EU's one.
+
+Regarding ICT graduates, Spain is also showing a positive trend. According to the latest data published
+by Eurostat8, ICT graduates accounted for 5.7% in 2023, a 9.6% increase compared to the previous
+year. This rate exceeds the EU average, which rose from 4,5% in 2022 to 4.7% in 2023.
+
+In 2022, the percentage of enterprises with 10 or more employees providing ICT training in Spain was
+20.7%, compared to the EU's 22.37%. By 2024, this figure rose to 21.22%, slightly below the EU's
+22.29%. However, Spain's annual growth rate of 1.2% outperformed the EU's -0.2%. This indicates that
+while Spain starts from a lower base, it is making strides to catch up.
+
+To attract and retain AI specialists, Red.es launched in October 2024 the Talent Attraction and
+Retention Programme in Artificial Intelligence in collaboration with major research centers, offering
+374 scholarships and training contracts lasting 48 months to support academic plans of at least 240
+ECTS credits. Additionally, to meet the growing demand for digital experts across various professional
+fields, a EUR 200 million training programme in digital skills for professional associations has been
+initiated. The aim is to provide over 80,000 professionals in sectors such as legal, healthcare, economic,
+social, scientific, architecture, engineering, and educational with 150 hours of specialized training in
+advanced digital skills and AI.
+
+ 2024 recommendation: Continue implementing its efforts to achieve a greater number of ICT
+ specialists, designing incentives schemes to attract and retain them, and increasing the visibility and
+ readability of training and reskilling options.
+
+ Spain made some efforts to address the recommendation through policy actions in 2024:
+
+ In 2024, the percentage of ICT specialists continued to grow in Spain as a result of the efforts of
+ public administrations and the previously observed trend in the number of ICT graduates. However,
+ the volume of ICT specialists continues below the EU average, although its growth rate is higher.
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Spain's digital public services and access to e-health records have shown a mixed performance when
+compared to the EU average. In 2023, Spain's total score for digital public services for citizens was
+84.18, surpassing the EU's 79.44. This trend continued in 2024, with Spain's score reaching 88.75,
+compared to the EU's 82.32, which makes the country on track according to its national trajectory.
+Spain's growth rate of 5.4% in this area outpaced the EU's 3.6%. Similarly, Spain's cross-border digital
+public services score was 71.05 in 2023 and 78.73 in 2024, both higher than the EU's 68.37 and 71.28,
+respectively. Spain's growth rate of 10.8% in this category also exceeded the EU's 4.3%. The share of
+
+
+
+7 Eurostat       https://ec.europa.eu/eurostat/databrowser/bookmark/0157d626-0bd6-4a78-8dac-
+8cc5a785a7b4?lang=en
+8Eurostat https://ec.europa.eu/eurostat/databrowser/bookmark/899b66a1-3936-4a3c-9512-97b3c9084062?lang=en
+
+                                       19  Spain
+
+
+
+people using government internet websites or apps remains quite above the EU average (82.70%
+versus 74.71%) in 2024.
+However, Spain's digital public services for businesses tell a different story. While Spain's total score
+was 91.0 in 2023, higher than the EU's 85.42, it dropped to 85.11 in 2024, falling below the EU's
+86.23 and making the country lag behind compared to its national trajectory. Spain's growth rate of
+-6.5% lagged behind the EU's 0.9%. A similar pattern is observed in the cross-border category, where
+Spain's score decreased from 82.5 in 2023 to 72.5 in 2024, while the EU's score increased from 73.13
+to 73.76. Spain's growth rate of -12.1% was significantly lower than the EU's 0.9%.
+In the realm of access to e-health records, Spain shows a positive trend. In 2023, its total score was
+84.58, higher than the EU's 79.12. This gap widened in 2024, with Spain's score reaching 88.29,
+compared to the EU's 82.70. Spain's growth rate of 4.4% in this area was slightly lower than the EU's
+4.5%.
+
+In addition, the share of people using government internet websites or apps is slightly decreasing year
+after year in Spain, from 84.02% in 2022 to 82.70% in 2024. However, it was significantly above the EU
+average of 70.01% in 2024.
+
+In overall, Spain's digital public services and access to e-health records have shown a mixed
+performance. While Spain has made significant strides in digital public services for citizens and access
+to e-health records, there is a clear need for improvement in digital public services for businesses. To
+enhance Spain's digital landscape, policymakers should focus on bolstering digital public services for
+businesses, while continuing to build on the progress made in other areas. This might involve investing
+in digital infrastructure, promoting digital literacy, and encouraging public-private partnerships to drive
+innovation and growth.
+
+e-ID
+
+In 2023, the last year with available data, 54.43% of Spanish people have used their eID to access
+online services for private purpose in the last 12 months, which is above the EU average (41.11%).
+However, 13.99% did not use eID because they did not have one.
+
+Spain actively participates in several Large Scale Pilots to test the specifications of EU Digital Identity
+Wallets in a wide range of use cases, before their roll-out to Member States. Spanish stakeholders,
+both public and private, are taking part in three of the four LSPs projects which began in April 2023:
+POTENTIAL (involved in work on identification for eGovernment Services and registration for SIM cards,
+mobile driving licence, health credentials for ePrescription), EWC (piloting the use-cases of Digital
+Travel Credentials, payments and organisational digital identities) and DC4EU (Education/Professional
+qualifications & Social Security document).
+
+Work is underway on the first version of the Spanish Digital Wallet, which will enable age verification
+to prevent minors from accessing adult content online. Its development will follow European standards
+in line with the EU agreement to ensure the protection of minors.
+
+In addition, Spain has officially launched ‘MiDNI’ app in April 2025 to obtain and use the digital National
+Identity Document (DNI). This application allows citizens to identify themselves, prove majority of age,
+carry out administrative procedures, register in services such as hotels or banks, and sign documents
+before a notary, among other functions. However, it is not yet valid for international travel or border
+controls, so the physical DNI is still required. In a second phase planned for 2026, functionalities such
+as electronic signature and authentication in online procedures will be incorporated.
+
+
+
+
+                                       20  Spain
+
+
+
+Digitalisation of public services for citizens and businesses
+
+Spain aims at reaching a score of 100 for the digitalisation of public services for citizen and
+businesses. Current observed rate of growth is significantly higher than EU average in public services
+for citizens but it is quite below the EU average in public services for business, where in addition,
+the country is lagging behind the expected value for 2024 in its national roadmap (85.1 vs 95.0).
+
+Spain continues to lead in online public services, emphasizing omnichannel strategies to make digital
+services accessible to all citizens, primarily through mobile phones. Among the most impactful
+mobile  applications are ‘Mi Carpeta Ciudadana’, which  centralizes access  to  various  public
+administration services and has over 5 million downloads, and others like ‘Notifica’ for managing
+notifications, Cita Previa for scheduling appointments, ‘Líneas de Ayuda’ for accessing information on
+public grants, ‘Empleo Público’ for job opportunities, ‘Catastro’ for real estate information, QEDU for
+university data, and ICA for real-time air quality monitoring. Additionally, the 060 service has expanded
+its capacity with virtual agents, handling over 27 million calls and 140,500 chatbot inquiries since 2022.
+
+In terms of data use and interoperability, Spain is advancing major initiatives. In 2024, Red.es granted
+EUR 12.9 million to the Spanish Federation of Municipalities and Provinces (FEMP) to develop multi-
+sectoral data spaces for smart cities, fostering public-private data exchange to improve decision-
+making and support economic growth, particularly in sustainable mobility. The Spanish administration
+is also developing the Data Platform, designed to break down data silos across ministries through big
+data technologies, improving data quality, innovation, and reuse. The platform is expanding in phases,
+aiming to create a shared data space for public organizations with analytical capabilities and
+interoperability with sectoral data spaces. 17 organisations and 51 information systems are already
+connected.  Efforts continue  to enhance the  platform’s  capabilities, expand  its development
+environment, and ensure compliance with the National Security Framework to guarantee the security
+and reliability of the hosted data.
+
+As part of its broader public service digitalisation and AI strategy, Spain has also begun deploying ALIA
+across key government services. Early applications include a virtual assistant for the Tax Agency to
+streamline citizen queries, and ‘Cardiomentor’, a clinical decision-support tool used in primary care to
+improve the early diagnosis of heart failure, showcasing the potential of public, open-source AI to
+deliver inclusive, citizen-oriented solutions. More than thirty other use cases are being planned for the
+next phases of the project.
+
+ 2024 recommendation: Continue efforts to digitalise public services and further promote their use.
+
+ Spain made some effort to address the recommendation through new policy actions in 2024:
+
+ Spain is making progress in the digitisation of public services and scores above the EU average in
+ public services for citizens. However, there is a deviation from this trend in public services for
+ businesses.
+
+e-Health
+
+Spain aims at a score of 100 for the access to medical records, in line with the 2030 EU target. In the
+context of the current rate of progress and the high score in 2024, which is one point above the
+expected value for 2024 in the national roadmap (88.3 vs 87.3), the country is on track to reach the
+target by 2030.
+
+The National Health Data Space (ENDS) aims to integrate health system information nationwide to
+enable large-scale analysis and real-time responses, supporting disease diagnosis and treatment.
+
+
+                                       21  Spain
+
+
+
+Led by the Secretary of State for Digitalization and Artificial Intelligence in collaboration with the
+Ministry of Health, the project provides regional governments with infrastructure for shared health
+data management,  including multi-format  repositories and advanced  analytics  tools with  AI
+capabilities. In 2024, licenses were acquired for the data management platform, and procurement
+documents were prepared for the necessary on-premises and cloud infrastructure. A preliminary
+working environment was deployed, implementing three healthcare use cases related to antibiotic
+consumption, risk factors in COPD patients, and vector-borne disease monitoring. Work also began on
+defining Secure Processing Environments (SPE) to comply with the European Health Data Space
+Regulation. Additionally, a user support and incident management tool was launched and tested with
+regional staff. By the end of 2024, funds were successfully transferred to all regions and territories
+except Andalusia and Extremadura, which were finalizing the required documentation. A corporate
+visual identity for the ENDS was also created to support communication and outreach efforts.
+
+According to the 2025 Eurobarometer, 80% Spanish people think that digital technologies will be
+important when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for
+diagnosis diseases) during their daily life by 2030.
+
+ 2024 recommendation on e-health:  (i) Make the data types of medical devices/implants,
+ procedures/operations, and medical images available to citizens in all regions through the online
+ access services; (ii) Increase the supply of health data by onboarding more categories of healthcare
+ providers, especially in the private sector; (iii) Build on existing legal provisions and implement
+ technical functionality for authorised persons to access electronic health data on behalf of others.
+
+ Spain made some efforts to address the recommendation through new policy actions in 2024:
+
+ Spain provided data for each of its 18 health regions. In 2024, Spain improved their eHealth
+ maturity score. More data categories investigated under this framework have become available in
+ more regions, especially data on procedures and operations, laboratory test results, medical
+ imaging reports and hospital discharge reports. However, data on medical devices and implants and
+ medical images are still unavailable in more than half the regions. Of the 11 categories of healthcare
+ providers investigated in this study, all public ones and pharmacies in all regions supply data. In
+ addition, in two regions, some private healthcare providers were supplying data. However, in
+ general, private providers in Spain have their own systems, which are not currently interoperable
+ with the public systems. It remains a significant gap for Spain.
+
+ Regarding access for legal guardians and authorised individual, legal provisions are in place across
+ Spain. In 2024, one additional region introduced functionalities for legal guardians to access the
+ data of their wards (56% of regions in total) and four regions for the first time implemented access
+ for authorised persons as a functional feature (22% of the regions in total).
+
+ In 2024, authentication to the electronic health record systems is done using a (pre)notified eID
+ compliant with the eIDAS regulation in all regions.
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+In Spain, the online participation to political and civic life is growing. In 2024, 23.02% of people used
+the internet to participate to consultation, for voting or sharing opinions online. This share is above
+the EU average and trending upwards (22.13% in 2022), which is in line of the trend observed at the
+EU level (17.59% in 2022 and 20.45% in 2024).
+
+
+
+                                       22  Spain
+
+
+
+In 2023, 59.09% of individuals in Spain reported having encountered information or content on
+internet news sites or social media that they perceived as untrue or doubtful, considerably higher than
+the EU average of 49.25%. Among those exposed to such content, 30.43% engaged in verifying its
+truthfulness, highlighting that a significant proportion of individuals, compared to the EU average, took
+steps to assess the accuracy of the information. Young people aged 16–24 (71.69%) was significantly
+more likely than adults aged 25–64 (60.96%) to report such content, and their verification rates also
+differed, with 40.82% of young people verifying content compared to a significantly lower 31.24% of
+adults. Males (61.33%) and females (56.90%) reported similar levels of exposure, and their verification
+rates were also comparable, at 32.54% for males and 28.36% for females.
+
+The 2023 data on online interactions in Spain reveals a high prevalence of potentially misleading
+information online, with a significant proportion of individuals encountering untrue or doubtful
+content. However, the data also suggests that Spaniards have been taking steps to address this issue,
+with a relatively high proportion of individuals, particularly young people aged 16–24, verifying the
+accuracy of online content. While there is still room for improvement, the findings indicate that Spain
+is making progress in promoting critical thinking and digital literacy, with a higher proportion of
+individuals engaging in fact-checking compared to the EU average.
+
+
+
+
+
+In September 2024, the Spanish government presented the Action Plan for Democracy, which includes
+key tools to combat the spread of disinformation, fake news, and other misleading content. Measures
+include the creation of a media registry and a ‘one-stop shop’ to increase transparency regarding
+media ownership and advertising investments, the introduction of a Law on Journalistic Professional
+Secrecy, and EUR 100 million in funding to strengthen the media sector. Additional actions involve
+establishing a new commission on disinformation in the Congress of deputies and reforming electoral
+law to make electoral debates mandatory. The aim is to promote pluralism, transparency, and political
+party engagement in fighting disinformation.
+
+On protecting the children online, special attention is also being given to protecting minors in the
+digital environment. In December 2024, the Ministry of Youth and Childhood presented the Report of
+the Committee of Experts for the Development of a Safe Digital Environment for Children and
+Adolescents, offering a detailed analysis and 107 proposed measures for government consideration.
+The Council of Ministers approved the first draft of the Organic Law for the Protection of Minors in
+Digital Environments, incorporating 35 of the proposed initiatives, such as age verification systems and
+parental controls. The remaining proposals will be reviewed for possible inclusion during the legislative
+
+                                       23  Spain
+
+
+
+process or through separate initiatives. Additionally, a National Strategy will be launched to guarantee
+children's rights, promote safe internet use, and encourage their participation in decision-making.
+
+Separately, the Ministry for Digital Transformation and Public Service, through Red.es, is collaborating
+with UNICEF, the University of Santiago de Compostela, and the General Council of Computer
+Engineering of Spain to conduct a study on the impact of technology on children and adolescents. This
+study includes a survey of 100 000 of students aged 10 to 20 across 500 schools and 5.000 surveys of
+teachers. The aim is to build strong evidence to guide public policies and educational strategies.
+Supported by a Scientific Committee of 45 internationally recognized experts, the study aspires to
+become a national and international benchmark for understanding and managing the  digital
+challenges faced by younger generations.
+
+According to the Digital Decade Eurobarometer 2025, 95% Spanish people think it should be urgent
+the action of the public authorities to protect children online regarding the negative impact of social
+media on children’s mental health, cyberbullying and online harassment and to put in place age
+assurance mechanisms to restrict age-inappropriate content.
+
+Increasing attention is being paid to the promotion of the Digital Rights and Principles. In 2023,
+Red.es launched a public invitation to partner with nonprofit organizations to promote and implement
+digital rights through awareness and action. As a result, in 2024, seven collaboration agreements were
+signed with over 40 nonprofit organisations, amounting to initiatives valued at EUR 10.8 million, 80%
+of which is funded by Red.es through RRF funds. These agreements aim to deepen understanding of
+digital rights, stimulate public debate, foster consensus, and engage civil society, academia, and public
+and private institutions. The activities involve cooperation with 175 organisations and research groups,
+as well as over 280 experts.
+
+In February 2025, the Spanish Government launched the Digital Rights Observatory as a result of one
+of the aforementioned agreements. It is intended as an open forum to raise awareness and promote
+digital rights at both national and international levels, including public outreach initiatives like
+events, surveys on public perception, and an AI-based digital rights monitoring platform. The other
+six agreements support initiatives related to freedom, protection, and security in the digital world;
+equality and non-discrimination, including accessibility and child protection; digital participation rights
+such as freedom of expression and access to truthful information; labour and business-related digital
+rights; rights in specific areas like health, culture, data access, and public services; and rights in
+emerging digital environments like AI, the metaverse, and neurotechnology. In this context, the
+government had already announced in late 2024 the creation of NEUROTECH, a national centre in
+Madrid dedicated to applied neurotechnologies and the ethical use of brain-computer interfaces.
+These efforts help to build a network of experts and include reflection sessions, research studies, and
+stakeholder discussions. Since their launch, 147 reports, 98 events, and 15 seminars have been
+organized, covering topics like digital equality, neurotechnology, education, industry, AI, and more.
+There have also been in-depth reports on gender perspectives in the workplace, disinformation, online
+appointment systems, and electoral reform recommendations involving AI.
+
+In line with its broader commitment to a secure and human-centric digital environment, Spain is
+incorporating post-quantum privacy and confidentiality of information as part of the Digital Rights
+reflection and advancing these considerations internationally in fora like the UNESCO or the OECD.
+
+In line with that, Spain is also contributing to international efforts on the ethical governance of artificial
+intelligence. Through its active participation in global forums, including the United Nations Global
+Digital Compact and the Dialogue on the Governance on AI, the country supports the development of
+
+                                       24  Spain
+
+
+
+governance frameworks that uphold democratic values, human rights, and inclusive innovation—
+seeking to ensure that the benefits of AI are shared broadly while mitigating cross-border risks.
+
+The 2025 Eurobarometer shows that 82% of Spanish people think that public authorities should
+prioritise shaping the development of Artificial Intelligence and other digital technologies to ensure
+that they respect our rights and values. It represents an increase of three percentage points compared
+to last year and it is in line with the EU average (83%) that has also increased, reflecting the growing
+interest of the citizens at this respect.
+
+
+
+
+
+                                       25  Spain
+
+Leveraging  digital transformation  for a
+smart greening
+
+Spain is progressing in harnessing the digital and green transitions through several initiatives aimed
+at strengthening synergies.
+
+Spain launched the National Green Algorithms Programme to promote the development of
+environmentally friendly AI algorithms. Its goal is to maximise energy efficiency and minimise the
+environmental impact of AI models, particularly during training and inference, thereby reducing
+carbon emissions. The programme follows a dual approach: ‘Green in AI’ focuses on eco-designing AI
+models, and ‘Green by AI’ which promotes sustainable solutions with a positive impact on key sectors
+for the green transition. It is structured around research in green AI through initiatives like the ENIA
+Chairs, including collaborations with UDC-Inditex and Siemens Energy to develop energy-efficient
+algorithms, sustainable robotics, and address the ethical and social implications of green algorithms.
+It also promotes the use of efficient infrastructures and services, currently under development through
+consulting and software services contracts. The integration of green AI into the production sector is
+supported through projects like advanced technologies for sustainable energy transition and AI applied
+to the agricultural production value chain, with a combined investment exceeding EUR 20 million.
+Furthermore, the Spanish market is being stimulated by activities such as hackathons focused on hydro
+predictive energy and biodiversity solutions using generative AI, emphasizing energy-efficient models
+trained on platforms and shared openly. The programme also involves developing tools and standards
+to measure energy consumption during AI training and inference, including collaborations with the
+Spanish Standardisation Agency and European working groups. Upgrades to government data centres
+are underway, aiming for a 45% energy saving, equivalent to preventing more than 10.000 tonnes of
+CO2 emissions annually.
+
+To encourage the business adoption of green AI, voluntary certification schemes following the new
+national standards are being promoted, along with the creation of a green AI ecosystem involving
+academia, large enterprises, SMEs, and startups. Several webinars have been held and more are
+planned to increase awareness and collaboration around sustainable AI practices.
+
+Under the Sectoral Data Spaces Programme, several projects have been selected to create data-
+sharing ecosystems focused on environmental protection and biodiversity. These include initiatives in
+marine science, wetlands conservation, plastic pollution mitigation, hydrological data management,
+and urban environmental sustainability, all aligned with the European Green Deal objectives.
+
+The Spanish government has equipped over 140.000 public administration professionals with next-
+generation digital tools that enable remote work, helping to reduce emissions and support
+sustainable mobility. On plans to address the issue of planned obsolescence, the government will
+collaborate on incorporating Directive (EU) 2024/1799 into national law, which promotes the
+repairability of goods. The deadline for implementation is mid-2026, although it will not lead the
+process.
+
+In the area of sustainable smart cities, the AENOR Technical Standardisation Committee CTN 178,
+promoted by the Secretariat of State for Telecommunications and Digital Infrastructures, is working to
+implement technological infrastructure that supports a new urban management model based on
+efficiency, sustainability, and resilience. The committee will develop and disseminate over 30 standards
+
+
+                                       26  Spain
+
+
+
+covering areas such as energy efficiency, mobility, water management, city platforms, and smart
+destinations.
+
+According to the  Digital Decade Eurobarometer 2025, 76% Spanish people consider  digital
+technologies important to help fight climate change (standing slightly above the EU average of 74%
+and showing an increment of four percentage points since last year), while 84% of Spanish respondents
+think that ensuring that digital technologies serve the green transition should be an important action
+for public authorities (above the EU average of 80%).
+
+ 2024 recommendation: Continue developing and implementing a coherent approach to twinning
+ the digital and green transitions, by leveraging advanced technologies and scaling up successful
+ initiatives that improve the energy and material efficiency of digital infrastructures, in particular
+ data centres, and by proposing decarbonisation measures and supporting the take up of green
+ technologies that reduce the carbon footprint in other sectors, such as energy, transport, buildings,
+ and agriculture.
+
+ Spain has made effort to address the recommendation through new policy actions in 2024:
+
+ As described above, the Spanish authorities have put in place several programmes to address the
+ synergies between the  digital and green transition, in particular, the Sectoral Data Spaces
+ programme, where several projects have been selected to create data-sharing ecosystems focused
+ on environmental protection and biodiversity.
+
+
+ 2024 recommendation: Monitor and quantify the emission reductions of the deployed digital
+ solutions in line with the relevant EU guidance and with the support of the methodology developed
+ by the European Green Digital Coalition, in view of future policy development as well as of attracting
+ relevant financing.
+
+ Spain has made some effort to address the recommendation:
+
+ Although Spain has not put in place a system to monitor and quantify the emission reductions of
+ the digital solutions deployed, the Spanish administration highlights the need for establishing key
+ performance indicators and EU-wide objectives, agreed with Member States, to monitor and reduce
+ the environmental footprint of the digital sector and infrastructures.
+
+
+
+
+
+                                       27  Spain
+
+Annex I – National roadmap analysis
+
+ Spanish’s national Digital Decade strategic roadmap
+
+ Spain did not submit an adjustment to its national Digital Decade roadmap. Spanish authorities
+ expressed their intention to formally adjust the national roadmap, submitted in January 2024, in
+ accordance with Article 8 (3) of the Decision establishing the Digital Decade Policy Programme, but
+ in a later stage The initial roadmap is composed of 67 measures with a budget of EUR 33.8 billion,
+ comprising EUR 26.7 billion from public budgets (equivalent to 1.68 % of GDP).However, Spain has
+ worked on addressing the recommendations made in 2024, modifying existing measures and
+ implementing new ones that will be integrated into a further roadmap adjustment. The Spanish
+ authorities published the initial national roadmap in March 2025.
+                       Measures and budget in national roadmap9
+
+
+
+
+
+9 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       28  Spain
+
+Annex  II – Factsheet on multi-country
+projects (MCPs) and funding
+
+ MCP and EDICs
+ Spain is a member of the three established EDICs; the Alliance for Language Technologies EDIC, the
+ Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. Spain is a candidate host
+ to an EDIC in the making in the area of cancer imaging and is also working towards setting up EIDCs in
+ the area of genomics and mobility and  logistics. Moreover, Spain  is  actively promoting the
+ transformation of the Europe Startup Nations Alliance (ESNA) into an EDIC, aiming to reinforce
+ coordinated support for startup-friendly policies across the EU. Spain is directly participating in the
+ IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in the IPCEI on Next
+ Generation Cloud Infrastructure and Services (IPCEI-CIS). Spain is also a participating state of the
+ EuroHPC Joint Undertaking (JU) and of the Chips JU.
+ Spain has contributed to the Best Practice Accelerator10 by sharing one best practice under the Digital
+  Skills cluster (The Generation D Pact was launched in November 2022).
+
+
+
+ EU funding for digital policies in Spain
+ Spain allocates 26% of its total recovery and resilience plan to digital (EUR 40.4 billion)11. In addition,
+ under cohesion policy, EUR 5.0 billion (representing 14% of the country’s total cohesion policy funding),
+  is dedicated to advancing Spain’s digital transformation12. According to JRC estimates, EUR 42.8 billion
+ directly contribute to achieving Digital Decade targets (of which EUR 39.4 billion comes from the RRF
+ and EUR 3.4 billion from cohesion policy funding)13.
+
+
+
+
+
+10 Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+11 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+12 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+13 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       29  Spain
+
+Annex III – Digital Rights and Principles14
+
+
+
+
+
+Activity on Digital Rights and Principles (figure 1)
+
+Spain has been one of the most active Member States in implementing digital rights and principles,
+with over 100 initiatives overall and 30 new initiatives launched in 2024, showing significant progress
+towards its commitments. Spain is most active in the area of Digital education, training and skills (II),
+however, less activity has been identified regarding Sustainability (VI).
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators developed by the support study illustrate the level of implementation
+of digital rights initiatives on the ground. Based on available data, they estimate the impact of
+measures implemented by key stakeholders in Spain (mainly national government) and how these are
+perceived by citizens.
+
+The indicators suggest that Spain is most successful in implementing commitments related to Solidarity
+and inclusion (II). However, the country could review and strengthen efforts in areas where the impact
+of digital rights initiatives appears to be limited despite relative activity, notably on Participation in the
+digital public space (IV).
+
+According to the Special Eurobarometer on the ‘Digital Decade’ 2025, 40% of citizens in Spain think
+that the EU protects their digital rights well (a 4% increase since 2024). This is below the EU average
+of 44%. Citizens are particularly confident about getting an affordable high-speed internet connection
+for everyone in the EU and getting basic and advanced digital education, training and skills (62%, above
+the EU average of 57% and 60% respectively). They are most worried that their right to a safe digital
+environment and content for children and young people is not well protected (53%, above the EU
+average of 48%).
+
+
+
+
+
+14 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       30

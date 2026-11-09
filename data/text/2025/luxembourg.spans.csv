@@ -1,0 +1,1896 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,111.0,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.9,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.7,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.2,390.9,242.5,PART 18/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,267.0,330.9,284.7, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.5,432.4,328.8,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.3,394.3,360.5,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,379.0,373.6,392.3,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,404.8,525.7,418.1,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,418.6,502.9,431.8,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.3,523.5,457.6,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,475.9,486.6,489.1,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,489.7,487.3,502.9, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,Calibri,11.0,524.5,37.6,527.0,48.6, 
+2,1,0,TimesNewRomanPSMT,12.0,70.8,58.4,73.8,71.7, 
+2,2,0,TimesNewRomanPSMT,12.0,70.8,78.2,73.8,91.5, 
+2,3,0,Calibri,11.0,70.8,99.7,73.3,110.8, 
+2,4,0,Calibri,11.0,70.8,122.2,73.3,133.2, 
+2,5,0,Calibri,11.0,70.8,144.7,73.3,155.8, 
+2,6,0,Calibri,11.0,70.8,167.2,73.3,178.2, 
+2,7,0,Calibri,11.0,70.8,189.7,73.3,200.8, 
+2,8,0,Calibri,11.0,70.8,212.2,73.3,223.2, 
+2,9,0,Calibri,11.0,70.8,234.6,73.3,245.7, 
+2,10,0,Calibri,11.0,70.8,257.2,73.3,268.2, 
+2,10,1,Calibri,11.0,196.2,257.2,198.7,268.2, 
+2,10,2,Calibri,11.0,368.8,257.2,371.3,268.2, 
+2,11,0,Calibri,11.0,70.8,279.6,73.3,290.7, 
+2,12,0,Calibri,11.0,70.8,302.2,73.3,313.2, 
+2,13,0,Calibri,11.0,70.8,324.6,73.3,335.7, 
+2,13,1,Calibri,11.0,341.1,324.6,343.6,335.7, 
+2,14,0,Calibri,11.0,70.8,347.1,73.3,358.1, 
+2,15,0,Calibri-Bold,40.0,146.4,276.0,513.3,315.9,DIGITAL DECADE 2025
+2,15,0,Calibri,40.0,513.6,276.0,522.6,315.9, 
+2,15,1,Calibri,40.0,146.4,328.8,472.6,368.7,COUNTRY REPORTS 
+2,16,0,Calibri-Bold,28.0,179.6,411.2,329.9,439.2,Luxembourg 
+2,17,0,Calibri,11.0,70.8,786.2,73.3,797.3, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+3,2,0,Calibri,11.0,72.0,60.1,74.5,71.2, 
+3,3,0,Calibri,11.0,72.0,86.5,74.5,97.6, 
+3,4,0,Calibri-Light,16.0,72.0,114.2,133.8,130.1,Contents 
+3,6,0,Calibri,11.0,72.0,142.2,523.0,153.3,Executive summary ................................................................................................................................. 1
+3,6,0,Calibri,12.0,523.0,141.5,525.7,153.5, 
+3,7,0,Calibri,11.0,72.0,161.7,523.0,172.7,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,7,0,Calibri,12.0,523.0,160.9,525.7,172.9, 
+3,8,0,Calibri-Light,11.0,83.1,181.2,401.0,192.3,Building technological leadership: digital infrastructure and technologies
+3,8,0,Calibri,11.0,401.1,181.2,523.0,192.3, ......................................... 6
+3,8,0,Calibri,12.0,523.0,180.5,525.7,192.5, 
+3,9,0,Calibri-Light,11.0,94.0,200.7,211.8,211.7,Connectivity infrastructure
+3,9,0,Calibri,11.0,211.9,200.7,523.0,211.7, .............................................................................................................. 6
+3,9,0,Calibri,12.0,523.0,199.9,525.7,211.9, 
+3,10,0,Calibri-Light,11.0,94.0,220.1,164.9,231.1,Semiconductors
+3,10,0,Calibri,11.0,164.8,220.1,523.0,231.1, ............................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,219.4,525.7,231.4, 
+3,11,0,Calibri,11.0,94.0,239.7,523.0,250.7,Edge nodes ...................................................................................................................................... 8
+3,11,0,Calibri,12.0,523.0,239.0,525.7,251.0, 
+3,12,0,Calibri-Light,11.0,94.0,259.1,194.6,270.2,Quantum technologies
+3,12,0,Calibri,11.0,194.6,259.1,523.0,270.2, .................................................................................................................... 9
+3,12,0,Calibri,12.0,523.0,258.4,525.7,270.4, 
+3,13,0,Calibri,11.0,83.1,278.7,523.0,289.7,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,13,0,Calibri,12.0,523.0,278.0,525.7,290.0, 
+3,14,0,Calibri-Light,11.0,94.0,298.1,268.6,309.2,SMEs with at least basic digital intensity
+3,14,0,Calibri,11.0,268.6,298.1,523.0,309.2, ......................................................................................... 9
+3,14,0,Calibri,12.0,523.0,297.4,525.7,309.4, 
+3,15,0,Calibri-Light,11.0,94.0,317.6,242.4,328.6,Take up of cloud/AI/data analytics
+3,15,0,Calibri,11.0,242.4,317.6,523.0,328.6, ................................................................................................. 10
+3,15,0,Calibri,12.0,523.0,316.8,525.7,328.8, 
+3,16,0,Calibri-Light,11.0,94.0,337.1,239.8,348.2,"Unicorns, scale-ups and start-ups"
+3,16,0,Calibri,11.0,239.7,337.1,523.0,348.2, .................................................................................................. 13
+3,16,0,Calibri,12.0,523.0,336.4,525.7,348.4, 
+3,17,0,Calibri-Light,11.0,83.1,356.6,264.2,367.6,Strengthening Cybersecurity & Resilience
+3,17,0,Calibri,11.0,264.2,356.6,523.0,367.6, ......................................................................................... 13
+3,17,0,Calibri,12.0,523.0,355.8,525.7,367.8, 
+3,18,0,Calibri,11.0,72.0,376.1,523.0,387.2,Protecting and empowering EU people and society ............................................................................. 16
+3,18,0,Calibri,12.0,523.0,375.4,525.7,387.4, 
+3,19,0,Calibri-Light,11.0,83.1,395.6,437.2,406.6,Empowering people and bringing the digital transformation closer to their needs
+3,19,0,Calibri,11.0,437.4,395.6,523.0,406.6, .......................... 16
+3,19,0,Calibri,12.0,523.0,394.9,525.7,406.9, 
+3,20,0,Calibri-Light,11.0,94.0,415.1,245.1,426.2,Equipping people with digital skills
+3,20,0,Calibri,11.0,245.1,415.1,523.0,426.2, ................................................................................................ 16
+3,20,0,Calibri,12.0,523.0,414.4,525.7,426.4, 
+3,21,0,Calibri-Bold,28.0,173.4,404.0,323.8,432.0,Luxembourg 
+3,22,0,Calibri-Light,11.0,94.0,434.6,462.5,445.6,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,22,0,Calibri,11.0,462.7,434.6,523.0,445.6, ................. 20
+3,22,0,Calibri,12.0,523.0,433.9,525.7,445.9, 
+3,23,0,Calibri-Light,11.0,83.1,454.0,456.9,465.1,Building a safe and human centric digital environment and preserving our democracy
+3,23,0,Calibri,11.0,457.2,454.0,523.0,465.1, ................... 22
+3,23,0,Calibri,12.0,523.0,453.3,525.7,465.3, 
+3,24,0,Calibri,11.0,72.0,473.6,523.0,484.6,Leveraging digital transformation for a smart greening ....................................................................... 24
+3,24,0,Calibri,12.0,523.0,472.9,525.7,484.9, 
+3,25,0,Calibri,11.0,72.0,493.0,523.0,504.1,Annex I – National roadmap analysis .................................................................................................... 26
+3,25,0,Calibri,12.0,523.0,492.3,525.7,504.3, 
+3,26,0,Calibri,11.0,72.0,512.6,523.0,523.6,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 28
+3,26,0,Calibri,12.0,523.0,511.9,525.7,523.9, 
+3,27,0,Calibri,11.0,72.0,532.0,523.0,543.1,Annex III – Digital Rights and Principles ................................................................................................ 29
+3,27,0,Calibri,12.0,523.0,531.3,525.7,543.3, 
+3,28,0,Calibri,11.0,72.0,551.6,74.5,562.6, 
+3,29,0,Calibri,11.0,72.0,571.1,74.5,582.1, 
+3,30,0,Calibri,11.0,72.0,593.5,74.5,604.5, 
+3,30,1,Calibri,11.0,216.1,593.5,218.5,604.5, 
+3,31,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+4,2,0,Calibri-Bold,26.0,72.0,77.2,287.2,103.2,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,116.4,525.5,127.5,"Luxembourg continues to position itself as a strategic digital hub, backed by strong infrastructure "
+4,4,1,Calibri-Bold,11.0,72.0,130.9,525.5,142.0,but facing persistent challenges in SME digital uptake. The country asserts its role as a European 
+4,4,2,Calibri-Bold,11.0,72.0,145.5,525.8,156.5,"frontrunner in digitalisation, notably through targeted investments in frontier technologies such as "
+4,4,3,Calibri-Bold,11.0,72.0,159.9,284.7,170.9,"AI, quantum computing, and sovereign cloud.  "
+4,5,0,Calibri-Bold,11.0,72.0,182.4,525.6,193.5,Luxembourg shows a high level of ambition in its contribution to the Digital Decade having set 12 
+4,5,1,Calibri-Bold,11.0,72.0,196.9,525.8,208.0,"national targets, 100% of which are aligned with the EU 2030 targets. The country is following its "
+4,5,2,Calibri-Bold,11.0,72.0,211.3,525.5,222.4,trajectories well with 75% of them being on track (on the basis of the 2024 trajectories defined for 
+4,5,3,Calibri-Bold,11.0,72.0,225.9,525.4,236.9,all 8 KPIs analysed). Luxembourg addressed 71% of the 7 recommendations issued by the 
+4,5,4,Calibri-Bold,11.0,72.0,240.4,525.7,251.4,"Commission in 2024, either by implementing significant policy changes (57%) or making some "
+4,5,5,Calibri-Bold,11.0,72.0,254.9,250.3,266.0,changes (14%) through new measures. 
+4,6,0,Calibri,11.0,72.0,277.4,523.6,288.4,"With nearly universal 5G and very high-capacity network (VHCN) coverage, the country sustains a high-"
+4,6,1,Calibri,11.0,72.0,291.9,525.8,302.9,performing digital environment. However significant disparities remain in cloud and data analytics 
+4,6,2,Calibri,11.0,72.0,306.3,525.6,317.3,"adoption, particularly among SMEs. While Luxembourg’s startup ecosystem is expanding, it remains "
+4,6,3,Calibri,11.0,72.0,320.8,525.9,331.8,constrained by limited access to private venture capital and a modest pipeline of scale-ups progressing 
+4,6,4,Calibri,11.0,72.0,335.3,525.7,346.4,"toward unicorn status. In 2024, Luxembourg maintained strong performance in digital public services "
+4,6,5,Calibri,11.0,72.0,349.8,525.6,360.9,"and digital skills, yet persistent gaps remain across age groups, gender, and levels of education. On "
+4,6,6,Calibri,11.0,72.0,364.4,525.9,375.4,"sustainability, Luxembourg has launched targeted measures, but an integrated green-digital strategy "
+4,6,7,Calibri,11.0,72.0,378.8,525.6,389.8,is not yet fully articulated in the revised roadmap. Sovereignty and cybersecurity have emerged as 
+4,6,8,Calibri,11.0,72.0,393.3,525.7,404.4,"central pillars of Luxembourg’s digital strategy, with an increasing focus on sovereign cloud "
+4,6,9,Calibri,11.0,72.0,407.8,412.6,418.9,"infrastructure, open-source security tools, and cross-border data resilience.  "
+4,7,0,Calibri-Bold,7.0,300.7,434.5,338.5,441.5,Luxembourg 
+4,7,1,Calibri-Bold,7.0,423.7,434.5,431.6,441.5,EU
+4,7,1,Calibri,7.0,431.6,434.5,433.2,441.5, 
+4,7,1,TimesNewRomanPSMT,12.0,433.3,429.1,436.3,442.3, 
+4,7,2,Calibri-Bold,7.0,472.5,430.2,515.9,437.2,Digital Decade 
+4,7,3,Calibri-Bold,7.0,470.9,438.8,514.5,445.8,target by 2030 
+4,7,3,Calibri,7.0,514.4,438.8,516.0,445.8, 
+4,7,3,TimesNewRomanPSMT,12.0,516.1,433.4,519.1,446.7, 
+4,8,0,Calibri,7.0,74.3,439.2,75.9,446.2, 
+4,8,0,TimesNewRomanPSMT,12.0,75.9,433.7,78.9,447.0, 
+4,9,0,Calibri,14.0,100.1,449.1,206.5,463.2,Digital Decade KPI 
+4,9,0,Calibri,7.0,206.4,450.5,214.2,457.4,(1)
+4,9,0,Calibri,11.0,214.2,451.4,216.7,462.4, 
+4,9,0,TimesNewRomanPSMT,12.0,216.8,449.0,219.8,462.3, 
+4,10,0,Calibri-Bold,7.0,361.1,448.1,387.5,455.0,National 
+4,10,1,Calibri-Bold,7.0,359.4,456.6,389.5,463.6,trajectory 
+4,11,0,Calibri-Bold,7.0,249.4,452.4,279.6,459.4,DESI 2024 
+4,11,1,Calibri-Bold,7.0,246.5,460.9,279.3,467.9,(year 2023)
+4,11,1,Calibri,7.0,279.4,460.9,281.0,467.9, 
+4,11,1,TimesNewRomanPSMT,12.0,281.1,455.5,284.1,468.7, 
+4,12,0,Calibri-Bold,7.0,287.8,452.4,318.1,459.4,DESI 2025 
+4,12,1,Calibri-Bold,7.0,285.0,460.9,317.7,467.9,(year 2024)
+4,12,1,Calibri,7.0,317.8,460.9,319.4,467.9, 
+4,12,1,TimesNewRomanPSMT,12.0,319.5,455.5,322.5,468.7, 
+4,13,0,Calibri-Bold,7.0,327.4,452.4,349.6,459.4,Annual 
+4,13,1,Calibri-Bold,7.0,324.5,460.9,349.4,467.9,progress
+4,13,1,Calibri,7.0,349.4,460.9,351.0,467.9, 
+4,13,1,TimesNewRomanPSMT,12.0,351.1,455.5,354.1,468.7, 
+4,14,0,Calibri-Bold,7.0,401.6,452.4,416.1,459.4,DESI 
+4,14,1,Calibri-Bold,7.0,400.3,460.9,414.4,467.9,2025
+4,14,1,Calibri,7.0,414.3,460.9,415.9,467.9, 
+4,14,1,TimesNewRomanPSMT,12.0,416.0,455.5,419.0,468.7, 
+4,14,2,Calibri-Bold,7.0,433.4,452.4,455.6,459.4,Annual 
+4,14,3,Calibri-Bold,7.0,430.4,460.9,455.3,467.9,progress
+4,14,3,Calibri,7.0,455.3,460.9,456.8,467.9, 
+4,14,3,TimesNewRomanPSMT,12.0,456.9,455.5,459.9,468.7, 
+4,14,4,Calibri-Bold,7.0,473.0,456.6,483.7,463.6,LU  
+4,14,5,Calibri-Bold,7.0,502.3,456.6,510.2,463.6,EU
+4,14,5,Calibri,7.0,510.2,456.6,511.8,463.6, 
+4,14,5,TimesNewRomanPSMT,12.0,511.9,451.1,514.9,464.4, 
+4,15,0,Calibri-Bold,7.0,360.9,465.2,384.4,472.2,2024 (3)
+4,15,0,Calibri,7.0,384.5,465.2,386.1,472.2, 
+4,15,0,TimesNewRomanPSMT,12.0,386.2,459.8,389.2,473.1, 
+4,16,0,Calibri-Bold,7.0,72.7,477.7,221.9,484.7,Fixed Very High Capacity Network (VHCN) coverage
+4,16,0,Calibri,7.0,222.1,477.7,223.6,484.7, 
+4,16,0,TimesNewRomanPSMT,12.0,223.7,472.3,226.7,485.5, 
+4,16,1,Calibri,7.0,255.1,477.7,274.0,484.7,94.7% 
+4,16,2,Calibri,7.0,293.5,477.7,312.4,484.7,95.2% 
+4,16,3,Calibri,7.0,330.8,477.7,346.3,484.7,0.5% 
+4,16,4,Calibri,7.0,364.9,477.7,383.8,484.7,97.5% 
+4,16,5,Calibri,7.0,399.5,477.7,418.4,484.7,82.5% 
+4,16,6,Calibri,7.0,436.8,477.7,452.3,484.7,4.9% 
+4,16,7,Calibri,7.0,467.0,477.7,489.6,484.7,100.0% 
+4,16,8,Calibri,7.0,499.3,477.7,516.5,484.7,100% 
+4,17,0,Calibri-Bold,7.0,72.7,493.4,181.9,500.4,Fibre to the Premises (FTTP) coverage
+4,17,0,Calibri,7.0,182.0,493.4,183.5,500.4, 
+4,17,0,TimesNewRomanPSMT,12.0,183.6,488.0,186.6,501.3, 
+4,17,1,Calibri,7.0,255.1,493.4,274.0,500.4,78.9% 
+4,17,2,Calibri,7.0,293.5,493.4,312.4,500.4,81.8% 
+4,17,3,Calibri,7.0,330.8,493.4,346.3,500.4,3.7% 
+4,17,4,Calibri,7.0,364.9,493.4,383.8,500.4,89.0% 
+4,17,5,Calibri,7.0,399.5,493.4,418.4,500.4,69.2% 
+4,17,6,Calibri,7.0,436.8,493.4,452.3,500.4,8.4% 
+4,17,7,Calibri,7.0,467.0,493.4,489.6,500.4,100.0% 
+4,17,8,Calibri,7.0,506.0,493.4,509.8,500.4,- 
+4,18,0,Calibri-Bold,7.0,72.7,509.2,131.0,516.1,Overall 5G coverage
+4,18,0,Calibri,7.0,131.1,509.2,132.6,516.1, 
+4,18,0,TimesNewRomanPSMT,12.0,132.7,503.7,135.7,517.0, 
+4,18,1,Calibri,7.0,255.1,509.2,274.0,516.1,99.6% 
+4,18,2,Calibri,7.0,293.5,509.2,312.4,516.1,99.6% 
+4,18,3,Calibri,7.0,330.8,509.2,346.3,516.1,0.0% 
+4,18,4,Calibri,7.0,364.9,509.2,383.8,516.1,97.4% 
+4,18,5,Calibri,7.0,399.5,509.2,418.4,516.1,94.3% 
+4,18,6,Calibri,7.0,436.8,509.2,452.3,516.1,5.9% 
+4,18,7,Calibri,7.0,467.0,509.2,489.6,516.1,100.0% 
+4,18,8,Calibri,7.0,499.3,509.2,516.5,516.1,100% 
+4,19,0,Calibri-Bold,7.0,72.7,525.0,138.1,532.0,Edge Nodes (estimate)
+4,19,0,Calibri,7.0,138.1,525.0,139.7,532.0, 
+4,19,0,TimesNewRomanPSMT,12.0,139.8,519.5,142.8,532.8, 
+4,19,1,Calibri,7.0,260.2,525.0,268.9,532.0,10 
+4,19,2,Calibri,7.0,298.6,525.0,307.3,532.0,20 
+4,19,3,Calibri,7.0,327.3,525.0,349.9,532.0,100.0% 
+4,19,4,Calibri,7.0,372.5,525.0,376.3,532.0,- 
+4,19,5,Calibri,7.0,401.0,525.0,416.8,532.0,2257 
+4,19,6,Calibri,7.0,435.0,525.0,454.0,532.0,90.5% 
+4,19,7,Calibri,7.0,476.5,525.0,480.2,532.0,- 
+4,19,8,Calibri,7.0,498.2,525.0,517.6,532.0,10000 
+4,20,0,Calibri-Bold,7.0,72.7,540.7,226.2,547.7,SMEs with at least a basic level of digital intensity (2)
+4,20,0,Calibri,7.0,226.4,540.7,227.9,547.7, 
+4,20,0,TimesNewRomanPSMT,12.0,228.1,535.3,231.1,548.5, 
+4,20,1,Calibri,7.0,262.7,540.7,266.5,547.7,- 
+4,20,2,Calibri,7.0,293.5,540.7,312.4,547.7,70.3% 
+4,20,3,Calibri,7.0,330.8,540.7,346.3,547.7,3.0% 
+4,20,4,Calibri,7.0,372.5,540.7,376.3,547.7,- 
+4,20,5,Calibri,7.0,399.5,540.7,418.4,547.7,72.9% 
+4,20,6,Calibri,7.0,436.8,540.7,452.3,547.7,2.8% 
+4,20,7,Calibri,7.0,468.8,540.7,487.8,547.7,90.0% 
+4,20,8,Calibri,7.0,501.0,540.7,514.7,547.7,90% 
+4,21,0,Calibri-Bold,7.0,72.7,556.5,89.3,563.4,Cloud
+4,21,0,Calibri,7.0,89.3,556.5,90.9,563.4, 
+4,21,0,TimesNewRomanPSMT,12.0,91.0,551.0,94.0,564.3, 
+4,21,1,Calibri,7.0,255.1,556.5,274.0,563.4,32.6% 
+4,21,2,Calibri,7.0,301.1,556.5,304.9,563.4,- 
+4,21,3,Calibri,7.0,336.7,556.5,340.4,563.4,- 
+4,21,4,Calibri,7.0,372.5,556.5,376.3,563.4,- 
+4,21,5,Calibri,7.0,407.0,556.5,410.8,563.4,- 
+4,21,6,Calibri,7.0,442.7,556.5,446.4,563.4,- 
+4,21,7,Calibri,7.0,468.8,556.5,487.8,563.4,75.0% 
+4,21,8,Calibri,7.0,501.0,556.5,514.7,563.4,75% 
+4,22,0,Calibri-Bold,7.0,72.7,572.2,132.6,579.2,Artificial Intelligence
+4,22,0,Calibri,7.0,132.6,572.2,134.2,579.2, 
+4,22,0,TimesNewRomanPSMT,12.0,134.3,566.7,137.3,580.0, 
+4,22,1,Calibri,7.0,255.1,572.2,274.0,579.2,14.5% 
+4,22,2,Calibri,7.0,293.5,572.2,312.4,579.2,23.7% 
+4,22,3,Calibri,7.0,329.1,572.2,348.1,579.2,64.2% 
+4,22,4,Calibri,7.0,364.9,572.2,383.8,579.2,40.6% 
+4,22,5,Calibri,7.0,399.5,572.2,418.4,579.2,13.5% 
+4,22,6,Calibri,7.0,435.0,572.2,454.0,579.2,67.2% 
+4,22,7,Calibri,7.0,468.8,572.2,487.8,579.2,75.0% 
+4,22,8,Calibri,7.0,501.0,572.2,514.7,579.2,75% 
+4,23,0,Calibri-Bold,7.0,72.7,588.0,113.5,595.0,Data analytics
+4,23,0,Calibri,7.0,113.5,588.0,115.1,595.0, 
+4,23,0,TimesNewRomanPSMT,12.0,115.2,582.6,118.2,595.9, 
+4,23,1,Calibri,7.0,255.1,588.0,274.0,595.0,32.4% 
+4,23,2,Calibri,7.0,301.1,588.0,304.9,595.0,- 
+4,23,3,Calibri,7.0,336.7,588.0,340.4,595.0,- 
+4,23,4,Calibri,7.0,372.5,588.0,376.3,595.0,- 
+4,23,5,Calibri,7.0,407.0,588.0,410.8,595.0,- 
+4,23,6,Calibri,7.0,442.7,588.0,446.4,595.0,- 
+4,23,7,Calibri,7.0,468.8,588.0,487.8,595.0,75.0% 
+4,23,8,Calibri,7.0,501.0,588.0,514.7,595.0,75% 
+4,24,0,Calibri-Bold,7.0,72.7,603.8,155.1,610.7,AI or Cloud or Data analytics
+4,24,0,Calibri,7.0,155.2,603.8,156.8,610.7, 
+4,24,0,TimesNewRomanPSMT,12.0,156.9,598.3,159.9,611.6, 
+4,24,1,Calibri,7.0,255.1,603.8,274.0,610.7,52.0% 
+4,24,2,Calibri,7.0,301.1,603.8,304.9,610.7,- 
+4,24,3,Calibri,7.0,336.7,603.8,340.4,610.7,- 
+4,24,4,Calibri,7.0,372.5,603.8,376.3,610.7,- 
+4,24,5,Calibri,7.0,407.0,603.8,410.8,610.7,- 
+4,24,6,Calibri,7.0,442.7,603.8,446.4,610.7,- 
+4,24,7,Calibri,7.0,476.5,603.8,480.2,610.7,- 
+4,24,8,Calibri,7.0,501.0,603.8,514.7,610.7,75% 
+4,25,0,Calibri-Bold,7.0,72.7,619.5,98.4,626.4,Unicorns
+4,25,0,Calibri,7.0,98.4,619.5,100.0,626.4, 
+4,25,0,TimesNewRomanPSMT,12.0,100.1,614.0,103.1,627.3, 
+4,25,1,Calibri,7.0,262.0,619.5,267.2,626.4,2 
+4,25,2,Calibri,7.0,300.4,619.5,305.6,626.4,2 
+4,25,3,Calibri,7.0,330.8,619.5,346.3,626.4,0.0% 
+4,25,4,Calibri,7.0,372.5,619.5,376.3,626.4,- 
+4,25,5,Calibri,7.0,402.8,619.5,415.1,626.4,286 
+4,25,6,Calibri,7.0,436.8,619.5,452.3,626.4,4.4% 
+4,25,7,Calibri,7.0,476.5,619.5,480.2,626.4,- 
+4,25,8,Calibri,7.0,501.7,619.5,514.0,626.4,500 
+4,26,0,Calibri-Bold,7.0,72.7,635.2,146.4,642.2,At least basic digital skills
+4,26,0,Calibri,7.0,146.4,635.2,148.0,642.2, 
+4,26,0,TimesNewRomanPSMT,12.0,148.1,629.7,151.1,643.0, 
+4,26,1,Calibri,7.0,255.1,635.2,274.0,642.2,60.1% 
+4,26,2,Calibri,7.0,301.1,635.2,304.9,642.2,- 
+4,26,3,Calibri,7.0,336.7,635.2,340.4,642.2,- 
+4,26,4,Calibri,7.0,372.5,635.2,376.3,642.2,- 
+4,26,5,Calibri,7.0,407.0,635.2,410.8,642.2,- 
+4,26,6,Calibri,7.0,442.7,635.2,446.4,642.2,- 
+4,26,7,Calibri,7.0,468.8,635.2,487.8,642.2,80.0% 
+4,26,8,Calibri,7.0,501.0,635.2,514.7,642.2,80% 
+4,27,0,Calibri-Bold,7.0,72.7,651.0,112.8,658.0,ICT specialists
+4,27,0,Calibri,7.0,112.9,651.0,114.5,658.0, 
+4,27,0,TimesNewRomanPSMT,12.0,114.6,645.6,117.6,658.9, 
+4,27,1,Calibri,7.0,256.9,651.0,272.3,658.0,8.0% 
+4,27,2,Calibri,7.0,295.3,651.0,310.8,658.0,8.0% 
+4,27,3,Calibri,7.0,330.8,651.0,346.3,658.0,0.0% 
+4,27,4,Calibri,7.0,366.7,651.0,382.2,658.0,8.3% 
+4,27,5,Calibri,7.0,401.1,651.0,416.6,658.0,5.0% 
+4,27,6,Calibri,7.0,436.8,651.0,452.3,658.0,4.2% 
+4,27,7,Calibri,7.0,468.8,651.0,487.8,658.0,10.0% 
+4,27,8,Calibri,7.0,499.3,651.0,516.5,658.0,~10% 
+4,28,0,Calibri-Bold,7.0,72.7,666.8,141.5,673.7,eID scheme notification
+4,28,0,Calibri,7.0,141.5,666.8,143.1,673.7, 
+4,28,0,TimesNewRomanPSMT,12.0,143.2,661.3,146.2,674.6, 
+4,28,1,Calibri,7.0,263.8,664.5,265.4,671.4, 
+4,28,2,Calibri,7.0,297.7,666.8,308.4,673.7,Yes 
+4,28,3,Calibri,7.0,337.8,664.5,339.3,671.4, 
+4,28,4,Calibri,7.0,373.6,664.5,375.2,671.4, 
+4,28,5,Calibri,7.0,408.1,664.5,409.7,671.4, 
+4,28,6,Calibri,7.0,443.7,664.5,445.3,671.4, 
+4,28,7,Calibri,7.0,477.6,664.5,479.2,671.4, 
+4,28,8,Calibri,7.0,507.1,664.5,508.7,671.4, 
+4,29,0,Calibri-Bold,7.0,72.7,682.5,168.6,689.4,Digital public services for citizens
+4,29,0,Calibri,7.0,168.6,682.5,170.2,689.4, 
+4,29,0,TimesNewRomanPSMT,12.0,170.3,677.0,173.3,690.3, 
+4,29,1,Calibri,7.0,257.6,682.5,271.5,689.4,94.8 
+4,29,2,Calibri,7.0,296.0,682.5,309.9,689.4,97.7 
+4,29,3,Calibri,7.0,330.8,682.5,346.3,689.4,3.0% 
+4,29,4,Calibri,7.0,367.4,682.5,381.3,689.4,96.7 
+4,29,5,Calibri,7.0,402.0,682.5,415.9,689.4,82.3 
+4,29,6,Calibri,7.0,436.8,682.5,452.3,689.4,3.6% 
+4,29,7,Calibri,7.0,469.5,682.5,487.1,689.4,100.0 
+4,29,8,Calibri,7.0,501.7,682.5,514.0,689.4,100 
+4,30,0,Calibri-Bold,7.0,72.7,698.2,178.0,705.2,Digital public services for businesses
+4,30,0,Calibri,7.0,178.1,698.2,179.7,705.2, 
+4,30,0,TimesNewRomanPSMT,12.0,179.8,692.7,182.8,706.0, 
+4,30,1,Calibri,7.0,257.6,698.2,271.5,705.2,96.7 
+4,30,2,Calibri,7.0,294.2,698.2,311.7,705.2,100.0 
+4,30,3,Calibri,7.0,330.8,698.2,346.3,705.2,3.4% 
+4,30,4,Calibri,7.0,367.4,698.2,381.3,705.2,97.9 
+4,30,5,Calibri,7.0,402.0,698.2,415.9,705.2,86.2 
+4,30,6,Calibri,7.0,436.8,698.2,452.3,705.2,0.9% 
+4,30,7,Calibri,7.0,469.5,698.2,487.1,705.2,100.0 
+4,30,8,Calibri,7.0,501.7,698.2,514.0,705.2,100 
+4,31,0,Calibri-Bold,7.0,72.7,714.0,149.4,721.0,Access to e-Health records
+4,31,0,Calibri,7.0,149.5,714.0,151.1,721.0, 
+4,31,0,TimesNewRomanPSMT,12.0,151.2,708.6,154.2,721.9, 
+4,31,1,Calibri,7.0,257.6,714.0,271.5,721.0,76.1 
+4,31,2,Calibri,7.0,296.0,714.0,309.9,721.0,76.1 
+4,31,3,Calibri,7.0,330.8,714.0,346.3,721.0,0.0% 
+4,31,4,Calibri,7.0,367.4,714.0,381.3,721.0,75.0 
+4,31,5,Calibri,7.0,402.0,714.0,415.9,721.0,82.7 
+4,31,6,Calibri,7.0,436.8,714.0,452.3,721.0,4.5% 
+4,31,7,Calibri,7.0,469.5,714.0,487.1,721.0,100.0 
+4,31,8,Calibri,7.0,501.7,714.0,514.0,721.0,100 
+4,32,0,Calibri,7.0,72.7,726.5,320.5,733.5,(1) See the methodological note for the description of the indicators and other metrics 
+4,32,0,TimesNewRomanPSMT,12.0,320.5,721.1,323.5,734.4, 
+4,32,1,Calibri,7.0,72.7,735.1,524.1,742.0,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the calculation "
+4,32,2,Calibri,7.0,72.7,743.6,383.1,750.5,of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,32,2,TimesNewRomanPSMT,12.0,383.1,738.1,386.1,751.4, 
+4,32,3,Calibri,7.0,72.7,752.2,421.0,759.2,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,32,3,TimesNewRomanPSMT,12.0,421.1,746.7,424.1,760.0, 
+4,33,0,Calibri,11.0,294.9,763.8,302.9,774.8,1 
+4,34,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+5,3,0,Calibri-Bold,11.0,72.0,74.2,415.0,85.2,According to the 2025 special Eurobarometer on ‘the Digital Decade’ 2025
+5,3,0,Calibri,11.0,415.3,74.2,525.8,85.2,", 80% of Luxembourgish "
+5,3,1,Calibri,11.0,72.0,88.7,525.7,99.7,citizens consider that the digitalisation of daily public and private services is making their lives easier. 
+5,3,2,Calibri,11.0,72.0,103.2,525.8,114.3,"On the action of the public authorities, 88% consider it important to counter and mitigate the issue of "
+5,3,3,Calibri,11.0,72.0,117.6,525.6,128.7,"fake news and disinformation online. And on competitiveness, 86% consider it important to ensure "
+5,3,4,Calibri,11.0,72.0,132.1,515.3,143.2,that European companies can grow and become ‘European Champions’ able of competing globally. 
+5,4,0,Calibri-Bold,15.0,72.0,155.5,526.5,170.5,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Bold,15.0,72.0,175.2,140.6,190.2,leadership 
+5,5,0,Calibri,11.0,72.0,202.1,525.9,213.1,"Luxembourg’s infrastructure performance remains well above the EU average, with near-universal "
+5,5,1,Calibri,11.0,72.0,216.6,525.9,227.7,"coverage of VHCN, and 5G thanks to early and well-coordinated public strategies. However, the "
+5,5,2,Calibri,11.0,72.0,231.2,525.8,242.2,"digitalisation of enterprises –particularly SMEs –lags behind, hindered by high integration costs and "
+5,5,3,Calibri,11.0,72.0,245.7,525.7,256.7,"limited technical capacity. Despite this, Luxembourg shows leadership in AI and quantum computing, "
+5,5,4,Calibri,11.0,72.0,260.1,525.7,271.1,notably through the deployment of MeluXina-AI and its selection for the EU’s AI Factories initiative. 
+5,5,5,Calibri,11.0,72.0,274.6,525.7,285.6,"The adjusted roadmap includes measures to foster SME adoption of advanced technologies, including "
+5,5,6,Calibri,11.0,72.0,289.1,525.9,300.2,"generative AI. While the startup ecosystem continues to grow, scale-up financing can rely on a number "
+5,5,7,Calibri,11.0,72.0,303.6,525.8,314.7,of public funding schemes but often struggle to access later-stage funding due to the small size of the 
+5,5,8,Calibri,11.0,72.0,318.0,525.8,329.1,market and a limited private risk capital culture. Sovereignty and cybersecurity remain central to 
+5,5,9,Calibri,11.0,72.0,332.6,525.8,343.6,"Luxembourg’s digital strategy, with ongoing efforts to reinforce sovereign cloud capabilities, promote "
+5,5,10,Calibri,11.0,72.0,347.1,525.8,358.1,"open-source cybersecurity tools through the establishment of an Open Source Program Office (OSPO), "
+5,5,11,Calibri,11.0,72.0,361.6,525.7,372.6,"and develop a national cybersecurity tools with dedicated sectoral safeguards, including for "
+5,5,12,Calibri,11.0,72.0,376.1,122.4,387.2,healthcare.
+5,5,12,Calibri-Bold,11.0,122.3,376.1,124.8,387.2, 
+5,6,0,Calibri-Bold,15.0,72.0,399.5,389.3,414.5,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,426.3,525.7,437.4,Luxembourg maintains high digital skills levels and has the second highest shares of ICT specialist 
+5,7,1,Calibri,11.0,72.0,440.8,525.9,451.9,"employment in the EU. However, among people with at least a basic level of digital skills disparities "
+5,7,2,Calibri,11.0,72.0,455.3,525.9,466.4,"persists between demographic groups, particularly by age and education. The country is a front-runner "
+5,7,3,Calibri,11.0,72.0,469.9,525.8,480.9,"in digital public services, supported by mature platforms like MyGuichet.lu and centralised government "
+5,7,4,Calibri,11.0,72.0,484.3,525.8,495.3,IT architecture. Ongoing efforts focus on reducing administrative complexity and promoting sovereign 
+5,7,5,Calibri,11.0,72.0,498.8,525.9,509.8,"digital solutions within the public sector, including GovCloud and open-source adoption. Although "
+5,7,6,Calibri,11.0,72.0,513.3,525.9,524.3,"Luxembourg intends to step up its efforts to improve health data interoperability and availability, it "
+5,7,7,Calibri,11.0,72.0,527.8,385.6,538.9,continues to score below the EU average in access to eHealth records. 
+5,8,0,Calibri-Bold,15.0,72.0,551.1,410.8,566.1,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,578.0,525.7,589.1,Luxembourg is taking initial steps toward aligning digital and environmental transitions. While not yet 
+5,9,1,Calibri,11.0,72.0,592.5,525.9,603.6,"underpinned by a fully integrated green-digital strategy, the country promotes a renewables-based "
+5,9,2,Calibri,11.0,72.0,607.1,525.7,618.1,"and intelligent energy system, supports GovCloud sustainability, and is exploring the role of digital "
+5,9,3,Calibri,11.0,72.0,621.6,525.9,632.6,solutions in reducing emissions in mobility and industry. Participation in EU-level initiatives such as the 
+5,9,4,Calibri,11.0,72.0,636.0,525.6,647.0,Green Digital Coalition and IPCEI projects positions Luxembourg to further develop tools and metrics 
+5,9,5,Calibri,11.0,72.0,650.5,327.5,661.5,to measure and reduce the ICT sector’s carbon footprint. 
+5,10,0,Calibri-Bold,15.0,72.0,673.9,337.7,688.9,National Digital Decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,700.8,525.6,711.8,"Luxembourg submitted a fully revised national Digital Decade roadmap on 2 December 2024, "
+5,11,1,Calibri,11.0,72.0,715.3,525.6,726.3,containing more than 30 new or edited measures and revised trajectories. The roadmap notably 
+5,11,2,Calibri,11.0,72.0,729.7,525.9,740.8,"strengthens the focus on SMEs and AI, with new support tools set to be launched in 2025.  It addresses "
+5,11,3,Calibri,11.0,72.0,744.2,525.8,755.3,a substantial number of roadmap recommendations issued in 2024. A total of 98 measures are now 
+5,12,0,Calibri,11.0,294.9,763.8,302.9,774.8,2 
+5,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+6,2,0,Calibri,11.0,72.0,74.2,525.9,85.2,"part of Luxembourg’s national strategic roadmap with a budget of EUR 515 million, comprising "
+6,2,1,Calibri,11.0,72.0,88.7,495.2,99.7,"EUR 488 million from public sector budgets, equivalent to 0.57% of Luxembourg’s GDP in 2024."
+6,2,1,Calibri,11.0,495.2,88.7,497.7,99.7, 
+6,3,0,Calibri-Bold,15.0,72.0,112.0,256.2,127.0,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,139.0,504.6,150.0,Luxembourg allocates 38% of its total recovery and resilience plan to digital (EUR 24 million)
+6,5,0,Calibri,7.0,504.5,138.1,508.0,145.0,1
+6,5,0,Calibri,11.0,507.9,139.0,525.9,150.0,. In 
+6,5,1,Calibri,11.0,72.0,153.4,525.9,164.4,"addition, under cohesion policy, EUR 6 million, representing 15% of the country’s total Cohesion policy "
+6,5,2,Calibri,11.0,72.0,167.9,389.2,178.9,"funding, is dedicated to advancing Luxembourg’s digital transformation"
+6,5,2,Calibri,7.0,389.2,167.0,392.8,174.0,2
+6,5,2,Calibri,11.0,392.7,167.9,525.8,178.9,. Luxembourg is a member of 
+6,5,3,Calibri,11.0,72.0,182.4,525.6,193.5,"the three established EDICs; the Alliance for Language Technologies EDIC, the Local Digital Twins "
+6,5,4,Calibri,11.0,72.0,196.9,525.7,208.0,towards the CitiVERSE EDIC and of the EUROPEUM EDIC. Luxembourgish entities are indirect partners 
+6,5,5,Calibri,11.0,72.0,211.3,525.9,222.4,in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Luxembourg is also a 
+6,5,6,Calibri,11.0,72.0,225.9,417.7,236.9,participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,6,0,Calibri,11.0,72.0,248.3,343.6,259.4,The country has contributed to the Best Practice Accelerator
+6,6,0,Calibri,7.0,343.5,247.4,347.0,254.4,3
+6,6,0,Calibri,11.0,347.0,248.3,525.8,259.4, by sharing three best practices. Two of 
+6,6,1,Calibri,11.0,72.0,262.9,525.8,273.9,them are part of the Digital Skills cluster: the Girls in ICT Day national awareness action and Girls 
+6,6,2,Calibri,11.0,72.0,277.4,525.9,288.4,Deploy your Digital Talent. One has been shared in the Green IT Cluster: the Creation and promotion 
+6,6,3,Calibri,11.0,72.0,291.9,260.4,302.9,of Product Circularity Data Sheet (PCDS).   
+6,7,0,Calibri-Bold,15.0,72.0,315.2,247.9,330.2,Digital Rights and Principles 
+6,8,0,Calibri,11.0,72.0,342.0,525.7,353.1,"According to a support study, Luxembourg has been one of the most active Member States in "
+6,8,1,Calibri,11.0,72.0,356.6,155.4,367.6,implementing the 
+6,8,1,Calibri-Bold,11.0,156.7,356.6,406.1,367.6,European Declaration on Digital Rights and Principles
+6,8,1,Calibri,11.0,406.3,356.6,525.9,367.6,", with over 100 initiatives "
+6,8,2,Calibri,11.0,72.0,371.1,525.9,382.1,overall and 20 new initiatives launched in 2024. Luxembourg is most active in the area of digital 
+6,8,3,Calibri,11.0,72.0,385.6,525.9,396.6,"education, training and skills. Less activity has been identified with regards to a fair digital "
+6,8,4,Calibri,11.0,72.0,400.1,525.9,411.2,environment. Measures in the area of putting people at the centre of the digital transformation appear 
+6,8,5,Calibri,11.0,72.0,414.5,437.4,425.6,"to have most impact on the ground, in contrast to those addressing sustainability. "
+6,9,0,Calibri-Bold,11.0,77.7,437.6,162.9,448.6,Recommendations
+6,9,0,Calibri-Bold,11.0,163.0,437.6,165.5,448.6, 
+6,9,0,Calibri-Bold,11.0,165.4,437.6,167.9,448.6, 
+6,10,0,Calibri,11.0,82.6,455.1,86.0,466.1,-
+6,10,0,ArialMT,11.0,85.9,453.4,89.0,465.7, 
+6,10,1,Calibri-Bold,11.0,100.6,455.1,161.1,466.1,Digital Skills: 
+6,10,1,Calibri,11.0,161.2,455.1,526.9,466.1,"Scale up targeted programs to reach older citizens, women, and populations with "
+6,10,2,Calibri,11.0,100.6,469.5,233.8,480.5,lower education background. 
+6,10,3,Calibri,11.0,82.6,484.0,86.0,495.1,-
+6,10,3,ArialMT,11.0,85.9,482.3,89.0,494.6, 
+6,10,4,Calibri-Bold,11.0,100.6,484.0,130.7,495.1,SMEs: 
+6,10,4,Calibri,11.0,131.4,484.0,526.9,495.1,"Further support the uptake of advanced digital technologies (cloud, AI, data) by SMEs, "
+6,10,5,Calibri,11.0,100.6,498.5,352.0,509.6,who currently lag significantly behind larger enterprises.
+6,10,5,Calibri-Bold,11.0,352.0,498.5,354.5,509.6, 
+6,10,6,Calibri,11.0,82.6,513.1,86.0,524.1,-
+6,10,6,ArialMT,11.0,85.9,511.4,89.0,523.7, 
+6,10,7,Calibri-Bold,11.0,100.6,513.1,163.0,524.1,Cybersecurity
+6,10,7,Calibri,11.0,163.1,513.1,526.6,524.1,": Continue efforts in cybersecurity to address evolving threats, particularly "
+6,10,8,Calibri,11.0,100.6,527.5,250.3,538.5,regarding employees’ awareness.
+6,10,8,Calibri-Bold,11.0,250.1,527.5,252.6,538.5, 
+6,10,9,Calibri,11.0,82.6,542.0,86.0,553.0,-
+6,10,9,ArialMT,11.0,85.9,540.3,89.0,552.6, 
+6,10,10,Calibri-Bold,11.0,100.6,542.0,128.6,553.0,Green
+6,10,10,Calibri,11.0,128.5,542.0,526.8,553.0,": Adopt an integrated green-digital strategy with measurable targets, leveraging EU tools "
+6,10,11,Calibri,11.0,100.6,556.5,526.7,567.6,"to scale up low-carbon digital solutions, especially for SMEs, and implement a national "
+6,10,12,Calibri,11.0,100.6,571.1,526.9,582.1,"framework to monitor ICT-enabled emission reductions across key sectors like energy, "
+6,10,13,Calibri,11.0,100.6,585.5,209.1,596.5,"transport, and industry. "
+6,10,14,Calibri,11.0,82.6,600.0,86.0,611.0,-
+6,10,14,ArialMT,11.0,85.9,598.3,89.0,610.6, 
+6,10,15,Calibri-Bold,11.0,100.6,600.0,127.9,611.0,FTTP: 
+6,10,15,Calibri,11.0,127.8,600.0,526.8,611.0,Explore targeted measures to increase take-up and extend coverage of FTTP in remaining 
+6,10,16,Calibri,11.0,100.6,614.5,495.5,625.5,"underserved areas, ensuring that high-speed connectivity is accessible to all households."
+6,10,16,Calibri-Bold,11.0,495.5,614.5,498.0,625.5, 
+6,11,0,Calibri,11.0,216.1,648.9,218.5,660.0, 
+6,12,0,Calibri,6.0,72.0,661.8,75.1,667.8,1
+6,12,0,Calibri,9.0,75.0,662.1,525.2,671.1, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,12,1,Calibri,9.0,72.0,673.0,313.5,682.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,12,2,Calibri,6.5,72.0,683.4,75.3,689.9,2
+6,12,2,Calibri,10.0,75.3,684.3,77.5,694.3, 
+6,12,2,Calibri,9.0,77.4,685.0,523.3,694.0,This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,12,3,Calibri,9.0,72.0,696.3,525.0,705.3,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,12,4,Calibri,9.0,72.0,707.2,313.2,716.2,"Fund, the European Social Fund Plus, and the Just Transition Fund."
+6,12,4,Calibri,10.0,313.5,706.5,315.8,716.5, 
+6,12,5,Calibri,6.5,72.0,717.6,75.3,724.1,3
+6,12,5,Calibri,10.0,75.3,718.5,77.5,728.5, 
+6,12,5,Calibri,9.0,77.5,719.2,525.1,728.2,The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,12,6,Calibri,9.0,72.0,730.4,525.5,739.4,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,12,7,Calibri,9.0,72.0,741.4,525.2,750.4,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,12,8,Calibri,9.0,72.0,752.5,248.5,761.5,"Green IT, and the Uptake of Digital Technologies."
+6,12,8,Calibri,10.0,248.7,751.8,250.9,761.7, 
+6,13,0,Calibri,11.0,294.9,763.8,302.9,774.8,3 
+6,14,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+7,2,0,Calibri,11.0,82.6,74.7,86.0,85.7,-
+7,2,0,ArialMT,11.0,85.9,72.9,89.0,85.3, 
+7,2,1,Calibri-Bold,11.0,100.6,74.7,146.6,85.7,Unicorns: 
+7,2,1,Calibri,11.0,146.9,74.7,526.8,85.7,Strengthen the growth pipeline for scale-ups by facilitating greater access to private 
+7,2,2,Calibri,11.0,100.6,89.2,170.7,100.2,venture capital.
+7,2,2,Calibri-Bold,11.0,170.6,89.2,173.1,100.2, 
+7,3,0,Calibri,11.0,72.0,107.2,74.5,118.2, 
+7,5,0,Calibri,11.0,72.0,143.9,74.5,154.9, 
+7,5,1,Calibri-Bold,26.0,216.1,132.6,221.9,158.7, 
+7,6,0,Calibri,11.0,294.9,763.8,302.9,774.8,4 
+7,7,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+8,2,0,Calibri-Bold,26.0,72.0,77.2,529.1,103.2,"A competitive, sovereign and resilient EU "
+8,2,1,Calibri-Bold,26.0,72.0,111.4,444.2,137.4,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,150.7,525.8,161.8,Luxembourg is asserting itself as a strategic contributor to the Digital Decade by capitalising on its 
+8,4,1,Calibri-Bold,11.0,72.0,165.1,525.6,176.2,"strong infrastructure, and targeted investments in emerging technologies such as AI, quantum "
+8,4,2,Calibri-Bold,11.0,72.0,179.7,225.9,190.7,"technologies, and sovereign cloud"
+8,4,2,Calibri,11.0,225.9,179.7,525.9,190.7,". While its small size limits its capacity for achieving industrial scale, "
+8,4,3,Calibri,11.0,72.0,194.2,525.6,205.2,Luxembourg leverages its strengths as a highly connected and trusted environment to conduct a 
+8,4,4,Calibri,11.0,72.0,208.7,525.9,219.7,certain number of best practices and contribute to EU-wide digital resilience and innovation.  The 
+8,4,5,Calibri,11.0,72.0,223.1,525.7,234.1,country’s near-universal 5G and very high-capacity network (VHCN) coverage contributes to a robust 
+8,4,6,Calibri,11.0,72.0,237.6,525.7,248.7,environment for digital innovation. This ecosystem supports advanced initiatives such as the 
+8,4,7,Calibri,11.0,72.0,252.2,140.6,263.2,deployment of 
+8,4,7,Calibri,11.0,140.9,252.2,195.9,263.2,MeluXina-AI
+8,4,7,Calibri,11.0,195.9,252.2,525.9,263.2,", a EUR 126 million supercomputer optimised for artificial intelligence, as "
+8,4,8,Calibri,11.0,72.0,266.7,481.9,277.7,well as the new associated Luxembourg AI Factory. According to the 2025 Eurobarometer
+8,4,8,Calibri,7.0,481.9,265.8,485.4,272.8,4
+8,4,8,Calibri,11.0,485.4,266.7,525.9,277.7,", 87% of "
+8,4,9,Calibri,11.0,72.0,281.1,525.8,292.1,Luxembourgish people think that building efficient and secure digital infrastructures and data 
+8,4,10,Calibri,11.0,72.0,295.6,366.5,306.6,processing facilities should be a priority for the public authorities. 
+8,5,0,Calibri-Bold,11.0,72.0,318.0,525.8,329.1,"While labour productivity is among the highest in the EU, Luxembourg continues to face structural "
+8,5,1,Calibri-Bold,11.0,72.0,332.6,233.6,343.6,challenges in productivity growth.
+8,5,1,Calibri,11.0,233.7,332.6,525.7,343.6, This is largely due to limited private investment in R&D and 
+8,5,2,Calibri,11.0,72.0,347.1,525.8,358.1,"intangible assets, which constrains innovation-driven efficiency gains. Start-ups can rely on a number "
+8,5,3,Calibri,11.0,72.0,361.6,525.8,372.6,of public funding schemes but often struggle to access later-stage funding due to the small size of the 
+8,5,4,Calibri,11.0,72.0,376.1,287.6,387.2,market and a limited private risk capital culture. 
+8,6,0,Calibri-Bold,11.0,72.0,398.6,525.7,409.6,"To address these issues, the start-up ecosystem can rely on existing instruments such as the Digital "
+8,6,1,Calibri-Bold,11.0,72.0,413.1,165.7,424.1,Tech Fund (DTF) and 
+8,6,1,Calibri-Bold,11.0,165.4,413.1,287.1,424.1,Luxembourg Future Fund II
+8,6,1,Calibri,11.0,287.2,413.1,525.9,424.1,. Such instruments have been  complemented by new 
+8,6,2,Calibri,11.0,72.0,427.5,171.3,438.5,initiatives such as the 
+8,6,2,Calibri,11.0,171.6,427.5,262.5,438.5,10-point action plan
+8,6,2,Calibri,11.0,262.5,427.5,525.9,438.5," of March 2025, to further bolster start-ups, with EUR 300 "
+8,6,3,Calibri,11.0,72.0,442.0,525.7,453.1,million over the next five years. It introduces targeted tax credits for investments in young innovative 
+8,6,4,Calibri,11.0,72.0,456.5,525.8,467.6,"firms, co-financing of up to EUR 200 000 for spin-offs, and enhanced employee stock option schemes "
+8,6,5,Calibri,11.0,72.0,471.1,525.9,482.1,"to support scale-up growth. In addition to improving access to financing, the action plan aims to attract "
+8,6,6,Calibri,11.0,72.0,485.5,525.9,496.5,"international talent, aligned with the ‘From Seed to Scale’ roadmap, and related initiatives. These "
+8,6,7,Calibri,11.0,72.0,500.0,525.9,511.0,"include the launch of the Automobility Incubator in Bissen (December 2024), and a national scale-up "
+8,6,8,Calibri,11.0,72.0,514.5,525.9,525.5,programme. The Luxembourg Venture Days 2024 also attracted over 1 800 participants and more than 
+8,6,9,Calibri,11.0,72.0,529.0,309.6,540.1,"200 investors, reflecting growing ecosystem visibility. "
+8,7,0,Calibri-Bold,11.0,72.0,551.5,525.9,562.5,"While the startup ecosystem expands, SMEs still encounter significant barriers to digital adoption "
+8,7,1,Calibri-Bold,11.0,72.0,566.0,155.7,577.1,and AI integration
+8,7,1,Calibri,11.0,155.7,566.0,525.6,577.1,". High entry costs, lack of technical capacity, and limited data interoperability are "
+8,7,2,Calibri,11.0,72.0,580.5,362.1,591.6,"cited as major obstacles. To address this, Luxembourg launched "
+8,7,2,Calibri,11.0,363.1,580.5,435.5,591.6,Fit 4 Digital – AI
+8,7,2,Calibri,11.0,435.5,580.5,525.8,591.6," in early 2025, with "
+8,7,3,Calibri,11.0,72.0,594.9,525.8,606.0,seven consultants already accredited and assisting SMEs with creating tailored digital transformation 
+8,7,4,Calibri,11.0,72.0,609.5,345.1,620.5,plans. The Ministry of the Economy also launched dedicated 
+8,7,4,Calibri,11.0,345.4,609.5,523.5,620.5,‘SME Packages’ for cybersecurity and AI
+8,7,4,Calibri,11.0,523.4,609.5,525.9,620.5, 
+8,7,5,Calibri,11.0,72.0,624.0,525.8,635.0,"in March 2025, to help SMEs implement practical AI solutions and strengthen their resilience against "
+8,7,6,Calibri,11.0,72.0,638.5,437.7,649.5,cyber threats through easy-to-access support covering up to 70% of eligible costs. 
+8,8,0,Calibri,11.0,216.1,729.1,218.5,740.2, 
+8,8,1,Calibri,6.5,72.0,741.5,75.3,748.0,4
+8,8,1,Calibri,10.0,75.3,742.4,77.5,752.4, 
+8,8,1,Calibri,9.0,77.5,743.1,286.0,752.1,Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,8,1,Calibri,9.0,286.1,743.1,515.5,752.1,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,8,1,Calibri,10.0,515.6,742.4,517.9,752.4, 
+8,9,0,Calibri,11.0,294.9,763.8,302.9,774.8,5 
+8,10,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+9,2,0,Calibri-Light,15.0,72.0,75.0,509.7,90.0,Building technological leadership: digital infrastructure and technologies 
+9,4,0,Calibri,11.0,72.0,101.9,525.8,112.9,"Luxembourg is a frontrunner in digital infrastructure deployment, with fibre and 5G networks already "
+9,4,1,Calibri,11.0,72.0,116.4,525.9,127.5,"nearing full national coverage and significantly outperforming EU averages, though recent growth rates "
+9,4,2,Calibri,11.0,72.0,130.9,361.1,142.0,indicate a need to accelerate efforts to reach the target by 2030. 
+9,5,0,Calibri-Light,12.0,72.0,153.6,203.2,165.6,Connectivity infrastructure 
+9,6,0,Calibri-Bold,11.0,72.0,177.3,485.1,188.3,Luxembourg’s VHCN coverage for all households is significantly higher than the EU average.
+9,6,0,Calibri,11.0,485.1,177.3,487.6,188.3, 
+9,6,0,Calibri-Bold,11.0,487.4,177.3,525.9,188.3,"In 2024, "
+9,6,1,Calibri-Bold,11.0,72.0,191.7,525.7,202.7,"it reached 95.2%, while the EU's coverage was 82.49% The country is on track according to its "
+9,6,2,Calibri-Bold,11.0,72.0,206.2,160.3,217.2,national trajectory.
+9,6,2,Calibri,11.0,160.3,206.2,525.9,217.2," However, Luxembourg's growth rate of 0.5% lagged behind the EU’s 4.9%. For "
+9,6,3,Calibri,11.0,72.0,220.7,525.8,231.7,"households in sparsely populated areas, Luxembourg's coverage was 80.3% in 2023 and 82.8% in 2024, "
+9,6,4,Calibri,11.0,72.0,235.2,525.9,246.3,both higher than the respective EU average of 55.59% and 61.89%. Luxembourg’s growth rate of 3.1% 
+9,6,5,Calibri,11.0,72.0,249.6,216.5,260.7,was lower than the EU’s 11.3%.  
+9,7,0,Calibri-Bold,11.0,72.0,272.2,525.8,283.2,Luxembourg is at 81.80% of FTTP coverage after a progression of 3.7% in 2024 and stands above the 
+9,7,1,Calibri-Bold,11.0,72.0,286.7,525.9,297.8,"EU average of 69.24%. However, the growth rate was lower than the EU’s 8.4% and the country is "
+9,7,2,Calibri-Bold,11.0,72.0,301.1,314.7,312.2,lagging behind compared to its national trajectory.
+9,7,2,Calibri,11.0,314.7,301.1,525.8,312.2," For households in sparsely populated areas, "
+9,7,3,Calibri,11.0,72.0,315.6,525.9,326.7,"Luxembourg's coverage was 61.9% in 2023 and 68.0% in 2024, both higher than the respective EU "
+9,7,4,Calibri,11.0,72.0,330.2,525.9,341.2,"averages of 52.55% and 58.78%. At 9.9%, Luxembourg's growth rate was lower than the EU average of "
+9,7,5,Calibri,11.0,72.0,344.7,107.2,355.7,11.9%.  
+9,8,0,Calibri-Bold,11.0,72.0,367.1,525.8,378.2,"Luxembourg’s overall 5G coverage is exceptionally high. In 2024, total 5G coverage in Luxembourg "
+9,8,1,Calibri-Bold,11.0,72.0,381.6,309.0,392.7,"was 99.6%, as in 2023, compared to the EU’s 94.35%."
+9,8,1,Calibri,11.0,309.0,381.6,311.4,392.7, 
+9,8,1,Calibri-Bold,11.0,311.1,381.6,525.9,392.7,The country is on track according to its national 
+9,8,2,Calibri-Bold,11.0,72.0,396.2,118.9,407.2,trajectory.
+9,8,2,Calibri,11.0,118.9,396.2,525.6,407.2,"  For households in sparsely populated areas, Luxembourg's coverage was 96.8% in 2024, "
+9,8,3,Calibri,11.0,72.0,410.6,525.8,421.6,higher than the EU’s 79.57%. Luxembourg’s 5G coverage in the 3.4–3.8 GHz band is also above the EU 
+9,8,4,Calibri,11.0,72.0,425.1,525.9,436.1,"average with 70.6% covered in 2024, while the EU's coverage was 67.72%. Luxembourg’s growth rate "
+9,8,5,Calibri,11.0,72.0,439.6,525.8,450.7,"of 11.9% was significantly lower than the EU's 32.6%. For households in sparsely populated areas, "
+9,8,6,Calibri,11.0,72.0,454.1,525.9,465.2,"Luxembourg's coverage was 14.1% in 2024, lower than the EU's 26.19%. Regarding 5G spectrum, "
+9,8,7,Calibri,11.0,72.0,468.5,525.8,479.6,Luxembourg’s assignment of harmonized spectrum in 5G pioneer bands was 60.83% in 2025 (same 
+9,8,8,Calibri,11.0,72.0,483.1,260.5,494.1,"value as last year), below the EU’s 74.63% "
+9,9,0,Calibri-Bold,11.0,72.0,505.6,525.7,516.7,Luxembourg’s broadband take-up indicators show a mixed performance compared to the EU 
+9,9,1,Calibri-Bold,11.0,72.0,520.0,110.7,531.1,average.
+9,9,1,Calibri,11.0,110.7,520.0,525.7,531.1," In 2023, Luxembourg had 78.81% of fixed broadband subscriptions at speeds of 100 Mbps or "
+9,9,2,Calibri,11.0,72.0,534.5,525.9,545.6,"more, surpassing the EU average of 65.9%. By 2024, this figure rose to 83.11%, still ahead of the EU’s "
+9,9,3,Calibri,11.0,72.0,549.1,525.8,560.1,"71.88%. However, the growth rate for this indicator in Luxembourg was 5.5%, which is lower than the "
+9,9,4,Calibri,11.0,72.0,563.6,525.8,574.7,EU average of 9.1%. Luxembourg’s share of fixed broadband subscriptions at speeds of 1 Gbps or more 
+9,9,5,Calibri,11.0,72.0,578.0,525.7,589.1,"was 9.86% in 2023, below the EU average of 18.47%. In 2024, it increased to 15.14%, still behind the "
+9,9,6,Calibri,11.0,72.0,592.5,525.9,603.6,"EU’s 22.25%. Nevertheless, Luxembourg’s growth rate of 53.5% outpaced the EU’s 20.5%. The share of "
+9,9,7,Calibri,11.0,72.0,607.1,283.8,618.1,the population with 5G SIM cards was 114.71%
+9,9,7,Calibri,7.0,283.9,606.2,287.4,613.1,5
+9,9,7,Calibri,11.0,287.4,607.1,525.8,618.1," in Luxembourg in 2023, significantly higher than the "
+9,9,8,Calibri,11.0,72.0,621.6,525.9,632.6,"EU average of 21.7%. This figure rose to 135.17% in 2024, also above the EU’s 35.56%. However, the "
+9,9,9,Calibri,11.0,72.0,636.0,365.7,647.0,growth rate of 17.8% was significantly lower than the EU’s 63.9%. 
+9,10,0,Calibri-LightItalic,11.0,72.0,658.5,143.4,669.6,VHCN and FTTP 
+9,11,0,Calibri-Bold,11.0,72.0,681.0,520.5,692.0,"Luxembourg’s VHCN and FTTP targets remain at 100%, as per the initial roadmap submitted in 2023"
+9,11,0,Calibri,11.0,520.7,681.0,525.9,692.0,. 
+9,11,1,Calibri,11.0,72.0,695.5,525.8,706.5,"Given the latest good figures and the continued pace of roll-out, both VHCN target appear realistic. "
+9,12,0,Calibri,11.0,216.1,717.2,218.5,728.3, 
+9,12,1,Calibri,6.5,72.0,729.8,75.3,736.3,5
+9,12,1,Calibri,10.0,75.3,730.7,77.5,740.6, 
+9,12,1,Calibri,9.0,77.8,731.4,524.9,740.4,Note that the percentage of the population with 5G SIM cards can exceed 100% because people can have more than one 
+9,12,2,Calibri,9.0,72.0,743.5,106.1,752.5,SIM card.
+9,12,2,Calibri,10.0,106.2,742.8,108.5,752.7, 
+9,13,0,Calibri,11.0,294.9,763.8,302.9,774.8,6 
+9,14,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+10,2,0,Calibri,11.0,72.0,74.2,525.9,85.2,"However, for FTTP the latest performance, suggests that maintaining momentum will be crucial. As the "
+10,2,1,Calibri,11.0,72.0,88.7,525.8,99.7,"current Ultra-high-speed broadband strategy is set to conclude in 2025, additional targeted measures "
+10,2,2,Calibri,11.0,72.0,103.2,328.0,114.3,may be needed to ensure full completion of the roll-out.  
+10,4,0,Calibri-Bold,11.0,72.0,125.7,525.8,136.7,Luxembourg’s national strategy for ultra-high-speed broadband (2021–2025) prioritises closing 
+10,4,1,Calibri-Bold,11.0,72.0,140.2,312.3,151.2,"remaining coverage gaps, particularly in white spots."
+10,4,1,Calibri,11.0,312.4,140.2,525.8,151.2, Authorities are closely monitoring deployment 
+10,4,2,Calibri,11.0,72.0,154.6,525.8,165.6,progress and evaluating potential market failures to determine whether additional public interventions 
+10,4,3,Calibri,11.0,72.0,169.1,525.7,180.1,"will be necessary to achieve full FTTP coverage by 2030. For VHCN deployment, the main challenges "
+10,4,4,Calibri,11.0,72.0,183.6,525.9,194.7,"are geographical — such as difficult topography and remote locations — and economic, particularly in "
+10,4,5,Calibri,11.0,72.0,198.1,525.6,209.2,relation to operator investment incentives. Monitoring efforts are coordinated by the Institut 
+10,4,6,Calibri,11.0,72.0,212.5,525.9,223.6,"Luxembourgeois de Régulation (I.L.R), notably through detailed geographical mapping of VHCN "
+10,4,7,Calibri,11.0,72.0,227.1,117.4,238.1,coverage. 
+10,5,0,Calibri-Bold,11.0,72.0,249.6,525.9,260.7,"The copper network is being progressively phased out, with full migration to fibre expected by 2030. "
+10,5,1,Calibri,11.0,72.0,264.0,198.0,275.1,The I.L.R. has coordinated a 
+10,5,1,Calibri,11.0,198.2,264.0,326.4,275.1,public information campaign
+10,5,1,Calibri,11.0,326.4,264.0,525.8,275.1, with telecom operators to ensure a smooth 
+10,5,2,Calibri,11.0,72.0,278.6,525.8,289.6,"transition. Customers receive advance notice through a two-step letter process, and an online tool "
+10,5,3,Calibri,11.0,72.0,293.1,352.7,304.1,allows them to check switch-off impacts based on postal code. 
+10,6,0,Calibri,11.0,72.0,315.5,525.9,326.6,Highlighting Luxembourg’s broader shift towards automation and next-generation network 
+10,6,1,Calibri,11.0,72.0,330.0,525.8,341.1,"management, POST Luxembourg, the country’s state-owned telecom and postal operator, has "
+10,6,2,Calibri,11.0,72.0,344.6,441.2,355.6,partnered with Nokia to deploy Europe’s first nationwide autonomous fibre network
+10,6,2,Calibri,11.0,441.3,344.6,525.9,355.6,. The full transition 
+10,6,3,Calibri,11.0,72.0,359.1,525.9,370.1,to a software-defined access network is planned by the end of 2025. The aim is to increase operational 
+10,6,4,Calibri,11.0,72.0,373.5,525.8,384.5,"efficiency, enable real-time fault detection, support energy management, and accelerate service "
+10,6,5,Calibri,11.0,72.0,388.0,127.3,399.0,innovation.  
+10,7,0,Calibri-Bold,11.0,72.0,410.6,525.6,421.6,"To boost take-up of fixed connectivity, Luxembourg launched a voucher scheme in 2023 targeting "
+10,7,1,Calibri-Bold,11.0,72.0,425.0,191.8,436.0,beneficiaries of social aid. 
+10,7,1,Calibri,11.0,191.8,425.0,525.9,436.0,"In 2024, approximately 24 000 vouchers were issued, of which around 43% "
+10,7,2,Calibri,11.0,72.0,439.5,525.7,450.5,(10 200) were activated – an increase from 40% in 2023. The initiative has been extended into 2025 
+10,7,3,Calibri,11.0,72.0,454.0,525.9,465.1,and aligns with Luxembourg’s commitment to ensure universal and affordable high-speed digital 
+10,7,4,Calibri,11.0,72.0,468.5,417.0,479.6,connectivity under the European Declaration on Digital Rights and Principles. 
+10,8,0,Calibri,11.0,72.0,491.0,204.0,502.0,"Regarding spectrum policy, a "
+10,8,0,Calibri-Bold,11.0,204.6,491.0,292.0,502.0,public consultation
+10,8,0,Calibri-Bold,11.0,291.9,491.0,356.1,502.0, on key bands
+10,8,0,Calibri,11.0,356.1,491.0,525.9,502.0," (800 MHz, 900 MHz, 1 800 MHz, 2.6 "
+10,8,1,Calibri,11.0,72.0,505.5,525.6,516.5,GHz) ran from April to July 2024. It was open to all stakeholders and is currently under evaluation by 
+10,8,2,Calibri,11.0,72.0,520.0,154.6,531.1,"the I.L.R. For now, "
+10,8,2,Calibri-Bold,11.0,154.6,520.0,417.5,531.1,no new spectrum policy framework or regulatory changes
+10,8,2,Calibri,11.0,417.7,520.0,486.8,531.1, are envisaged. 
+10,9,0,Calibri-LightItalic,11.0,72.0,542.5,87.0,553.5,5G 
+10,10,0,Calibri-Bold,11.0,72.0,564.9,525.9,576.0,"Following the roadmap adjustment, Luxembourg’s 5G target remains at 100% with a completion "
+10,10,1,Calibri-Bold,11.0,72.0,579.5,337.8,590.5,"date by 2030, as per the initial roadmap submitted in 2023"
+10,10,1,Calibri,11.0,338.0,579.5,525.9,590.5,. Given the latest solid figures and pace of 
+10,10,2,Calibri,11.0,72.0,594.0,230.1,605.0,"roll-out, the target seems realistic.  "
+10,11,0,Calibri,11.0,72.0,616.4,525.8,627.5,"Luxembourg continues to address the remaining challenges to achieving 100% 5G coverage by 2030, "
+10,11,1,Calibri,11.0,72.0,630.9,525.9,642.0,notably the difficulties faced in remote or topographically difficult areas and the high deployment costs 
+10,11,2,Calibri,11.0,72.0,645.5,497.7,656.5,for operators. Monitoring is ensured by the I.L.R through detailed regular 5G coverage reports.  
+10,12,0,Calibri,11.0,72.0,667.9,525.7,678.9,"Due to the country’s small market size and limited number of infrastructure players, implementing "
+10,12,1,Calibri,11.0,72.0,682.4,105.7,693.5,certain 
+10,12,1,Calibri,11.0,109.8,682.4,242.8,693.5,EU toolbox for 5G security
+10,12,1,Calibri,11.0,242.9,682.4,525.9,693.5," measures, like multi-vendor strategies, remains complex. "
+10,12,2,Calibri,11.0,72.0,696.9,525.9,708.0,"Nevertheless, all national mobile networks deliver excellent non-HRV (high-risk vendors) connectivity "
+10,12,3,Calibri,11.0,72.0,711.3,108.4,722.4,and the 
+10,12,3,Calibri,11.0,107.9,711.3,271.7,722.4,Comité national des communications
+10,12,3,Calibri,11.0,271.7,711.3,274.2,722.4, 
+10,12,3,Calibri,11.0,273.6,711.3,525.9,722.4,remains committed to liaising with them in order to push 
+10,12,4,Calibri,11.0,72.0,725.9,354.3,736.9,them to a higher level of resilience across all of their networks. 
+10,13,0,Calibri,11.0,294.9,763.8,302.9,774.8,7 
+10,14,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+11,2,0,Calibri,11.0,72.0,74.2,525.9,85.2,"In 2024, the 5G MELUSINA initiative completed its inception study for cross-border rail coverage of the "
+11,2,1,Calibri,11.0,72.0,88.7,525.9,99.7,"North Sea Mediterranean TEN-T corridor between Metz (France) and Luxembourg City (Luxembourg), "
+11,2,2,Calibri,11.0,72.0,103.2,525.8,114.3,with a strong interest by national actors’ in moving toward implementation to enhance rail 
+11,2,3,Calibri,11.0,72.0,117.6,201.3,128.7,connectivity and operations. 
+11,4,0,Calibri-Bold,11.0,72.7,140.9,320.7,151.9,2024 recommendation on connectivity infrastructure
+11,4,0,Calibri,11.0,320.8,140.9,524.9,151.9,: Ensure sufficient access of new players to 
+11,4,1,Calibri,11.0,72.7,155.4,525.1,166.5,spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications and 
+11,4,2,Calibri,11.0,72.7,169.8,452.4,180.9,encourage operators to speed up the deployment of 5G stand-alone core networks.   
+11,5,0,Calibri-Bold,11.0,72.7,193.1,524.9,204.1,"In 2024, Luxembourg continued the implementation of existing measures but did not take any new "
+11,5,1,Calibri-Bold,11.0,72.7,207.6,116.7,218.7,measures
+11,5,1,Calibri,11.0,116.8,207.6,131.8,218.7,. A 
+11,5,1,Calibri,11.0,132.6,207.6,310.6,218.7,public consultation on spectrum access
+11,5,1,Calibri,11.0,310.8,207.6,524.8,218.7," (800 MHz, 900 MHz, 1800 MHz, 2.6 GHz) was "
+11,5,2,Calibri,11.0,72.7,222.1,525.0,233.2,"held between April and July 2024, open to all stakeholders. However, no new spectrum policy "
+11,5,3,Calibri,11.0,72.7,236.6,525.1,247.6,framework or regulatory changes are foreseen at this stage. The consultation notably showed that 
+11,5,4,Calibri,11.0,72.7,251.1,525.0,262.1,"there is still no commercial demand for the 26 GHz band. Regarding 5G standalone, there is no "
+11,5,5,Calibri,11.0,72.7,265.6,525.0,276.6,"evidence of nationwide deployment by operators. Nonetheless, Luxembourg is supporting innovative "
+11,5,6,Calibri,11.0,72.7,280.1,525.1,291.2,"use cases through the 5G MELUSINA project, which aims to deploy 5G along cross-border railway for "
+11,5,7,Calibri,11.0,72.7,294.5,525.1,305.6,enhanced connectivity. Further actions are needed to facilitate access for new players and accelerate 
+11,5,8,Calibri,11.0,72.7,309.0,220.8,320.1,standalone 5G core deployment. 
+11,6,0,Calibri,11.0,72.0,332.3,77.0,343.4,  
+11,7,0,Calibri-Light,12.0,72.0,355.0,151.9,367.0,Semiconductors 
+11,8,0,Calibri-Bold,11.0,72.0,378.6,525.8,389.7,Luxembourg does not have a national semiconductor production strategy but supports EU objectives 
+11,8,1,Calibri-Bold,11.0,72.0,393.0,296.7,404.1,by contributing to niche areas of the value chain.
+11,8,1,Calibri,11.0,297.0,393.0,525.8,404.1, The country currently hosts two companies active 
+11,8,2,Calibri,11.0,72.0,407.6,525.9,418.6,"in semiconductor-related fields, notably in materials and coating technologies, and aims to increase "
+11,8,3,Calibri,11.0,72.0,422.1,525.6,433.1,"this to four by 2030. No new measures were introduced in the 2024 roadmap, and support continues "
+11,8,4,Calibri,11.0,72.0,436.6,286.8,447.7,through monitoring and targeted RD&I funding. 
+11,9,0,Calibri-Light,12.0,72.0,459.3,130.2,471.3,Edge nodes 
+11,10,0,Calibri-Bold,11.0,72.0,482.9,525.7,494.0,"According to the Edge Nodes Observatory, Luxembourg is estimated to have deployed a total of 20 "
+11,10,1,Calibri-Bold,11.0,72.0,497.3,338.3,508.4,"edge nodes by 2024, a progression of +100% since 2023. "
+11,10,1,Calibri,11.0,339.5,497.3,525.9,508.4,This is double the amount estimated for 
+11,10,2,Calibri,11.0,72.0,511.9,274.8,522.9,"2023 (10, number revised since SDDR 2024).  "
+11,11,0,Calibri,11.0,72.0,534.3,525.9,545.3,"In its revised roadmap, Luxembourg did not provide a national target for edge nodes but continues to "
+11,11,1,Calibri,11.0,72.0,548.8,525.9,559.9,monitor the work on the definition of a methodology for the KPI assessment. The revised roadmap 
+11,11,2,Calibri,11.0,72.0,563.4,525.8,574.4,"introduces additional details for the related existing measures. In 2024, Luxembourg advanced its "
+11,11,3,Calibri,11.0,72.0,577.9,525.9,588.9,edge-node deployment by preparing the publication of a full open-source technology and governance 
+11,11,4,Calibri,11.0,72.0,592.3,525.8,603.3,"stack, including APIs, user management systems, contracts, and governance models. This work, "
+11,11,5,Calibri,11.0,72.0,606.8,525.6,617.9,"scheduled for release between 2025 and 2026, aims to lower investment barriers and facilitate the "
+11,11,6,Calibri,11.0,72.0,621.3,525.8,632.4,"large-scale roll-out of secure private, semi-public, and public edge nodes. Progress was also made "
+11,11,7,Calibri,11.0,72.0,635.9,525.8,646.9,under the Important Project of Common European Interest for Next-Generation Cloud Infrastructure 
+11,11,8,Calibri,11.0,72.0,650.4,525.9,661.4,"and Services (IPCEI-CIS), with Luxembourg developing two cybersecurity-focused edge nodes for the "
+11,11,9,Calibri,11.0,72.0,664.8,525.9,675.8,"European cybersecurity data space. Looking ahead, Luxembourg will launch sector-specific R&D&I calls "
+11,11,10,Calibri,11.0,72.0,679.3,525.8,690.3,"aligned with GAIA-X standards to drive uptake in strategic sectors such as health, finance, and mobility. "
+11,11,11,Calibri,11.0,72.0,693.8,525.8,704.9,"These measures, alongside continuous open-source publication efforts, are set to accelerate trusted "
+11,11,12,Calibri,11.0,72.0,708.3,458.8,719.4,edge-cloud deployment and strengthen cross-border interoperability through to 2030. 
+11,12,0,Calibri,11.0,294.9,763.8,302.9,774.8,8 
+11,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+12,2,0,Calibri-Light,12.0,72.0,74.4,184.4,86.4,Quantum technologies 
+12,4,0,Calibri-Bold,11.0,72.0,97.9,525.9,109.0,"Luxembourg’s national quantum strategy, by the beginning of 2025, focuses on integrating quantum "
+12,4,1,Calibri-Bold,11.0,72.0,112.5,525.9,123.5,technologies into its high-performance computing ecosystem and on developing a national quantum 
+12,4,2,Calibri-Bold,11.0,72.0,127.0,146.0,138.0,communication.
+12,4,2,Calibri,11.0,146.1,127.0,525.7,138.0," Following a call launched by the EuroHPC Joint Undertaking in December 2023, "
+12,4,3,Calibri,11.0,72.0,141.5,525.6,152.5,"Luxembourg was selected in 2024 to host a European quantum computer, which will be integrated "
+12,4,4,Calibri,11.0,72.0,155.9,525.7,166.9,"with the national MeluXina supercomputer. In line with this strategic vision, the country also plans to "
+12,4,5,Calibri,11.0,72.0,170.4,312.2,181.5,deploy a quantum simulator connected to MeluXina.  
+12,5,0,Calibri-Light,15.0,72.0,193.8,526.8,208.8,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+12,6,0,Calibri-Bold,11.0,72.0,220.7,525.8,231.7,"Luxembourg hosts a dynamic ecosystem of startups and scaleups, particularly in sectors such as "
+12,6,1,Calibri-Bold,11.0,72.0,235.2,300.1,246.3,"fintech, healthtech, cleantech, and cybersecurity. "
+12,6,1,Calibri,11.0,300.7,235.2,525.9,246.3,"However, a large share of enterprises – especially "
+12,6,2,Calibri,11.0,72.0,249.6,525.8,260.7,SMEs – still lag behind in adopting advanced digital technologies. Strengthening the diffusion of ICT 
+12,6,3,Calibri,11.0,72.0,264.2,525.7,275.2,"capabilities across all firms, notably through tailored support for SMEs, would address structural "
+12,6,4,Calibri,11.0,72.0,278.7,525.6,289.7,bottlenecks in digital uptake and unlock productivity gains critical for sustaining inclusive economic 
+12,6,5,Calibri,11.0,72.0,293.2,109.2,304.2,growth. 
+12,7,0,Calibri-Light,12.0,72.0,315.9,265.2,327.9,SMEs with at least basic digital intensity 
+12,8,0,Calibri-Bold,11.0,72.0,339.5,525.6,350.6,"As of 2024, 70.27% of SMEs in Luxembourg reached at least a basic level of digital intensity, up from "
+12,8,1,Calibri-Bold,11.0,72.0,353.9,143.2,365.0,66.25% in 2022
+12,8,1,Calibri-Bold,7.0,143.2,353.0,146.7,360.0,6
+12,8,1,Calibri-Bold,11.0,146.7,353.9,319.4,365.0,", with an annual growth rate of 3.0%"
+12,8,1,Calibri,11.0,319.5,353.9,525.8,365.0,". Therefore, the degree of digital intensity of "
+12,8,2,Calibri,11.0,72.0,368.4,525.8,379.5,Luxembourgish SMEs was just below the EU average of 72.91%. Looking specifically at more digitally 
+12,8,3,Calibri,11.0,72.0,383.0,525.6,394.0,"engaged SMEs, 34.02% had high or very high digital intensity, slightly exceeding the EU average of "
+12,8,4,Calibri,11.0,72.0,397.5,525.9,408.5,"32.66%. This indicates a relatively good level of digital engagement by SMEs in Luxembourg, though "
+12,8,5,Calibri,11.0,72.0,411.9,484.5,422.9,with room for further improvement to reach the EU averages and the Digital Decade target.  
+12,9,0,Calibri-Bold,11.0,72.0,434.5,525.7,445.5,"Luxembourg still aims for 90% of SMEs to have basic digital intensity, in line with the EU target for "
+12,9,1,Calibri-Bold,11.0,72.0,449.0,97.3,460.0,2030.
+12,9,1,Calibri,11.0,97.3,449.0,525.9,460.0," However, given current levels and uptake trends, this objective might be difficult to achieve, due "
+12,9,2,Calibri,11.0,72.0,463.4,525.9,474.4,"to persistent uptake challenges, especially among the smallest firms. Structural barriers – such as "
+12,9,3,Calibri,11.0,72.0,477.9,525.9,488.9,"limited internal capacity, cost sensitivity, and a lack of familiarity with advanced technologies – "
+12,9,4,Calibri,11.0,72.0,492.4,525.9,503.5,"continue to hold back many SMEs. To address this, the revised roadmap introduces two major new "
+12,9,5,Calibri,11.0,72.0,506.9,463.5,518.0,SME-specific measures in the section related to the take-up of advanced technologies. 
+12,9,5,Calibri,11.0,464.0,506.9,525.9,518.0,Fit 4 Digital – 
+12,9,6,Calibri,11.0,72.0,521.3,81.2,532.4,AI
+12,9,6,Calibri,11.0,81.1,521.3,525.9,532.4," supports SMEs in identifying relevant AI use cases, conducting feasibility studies, and drafting "
+12,9,7,Calibri,11.0,72.0,535.9,525.8,546.9,"tailored implementation roadmaps. Several consultants, accredited by Luxinnovation, are already "
+12,9,8,Calibri,11.0,72.0,550.4,525.8,561.4,"working directly with SMEs under this programme, and public co-funding is available to support "
+12,9,9,Calibri,11.0,72.0,564.9,188.4,576.0,implementation. The new 
+12,9,9,Calibri,11.0,188.0,564.9,394.3,576.0,SME Packages focusing on AI and cybersecurity
+12,9,9,Calibri,11.0,394.3,564.9,525.8,576.0, extends existing aid schemes 
+12,9,10,Calibri,11.0,72.0,579.3,454.4,590.4,by providing financial support for concrete investments in AI and cybersecurity tools.  
+12,10,0,Calibri,11.0,72.0,601.9,320.4,612.9,These measures complement existing tools such as 
+12,10,0,Calibri,11.0,323.7,601.9,380.3,612.9,Fit 4 Digital
+12,10,0,Calibri,11.0,380.4,601.9,525.8,612.9,", which offers digital maturity "
+12,10,1,Calibri,11.0,72.0,616.3,451.4,627.3,"assessments and co-funding for improvements in IT, cybersecurity, and software; and "
+12,10,1,Calibri,11.0,451.4,616.3,520.8,627.3,Fit 4 Innovation
+12,10,1,Calibri,11.0,520.8,616.3,525.9,627.3,", "
+12,10,2,Calibri,11.0,72.0,630.8,525.9,641.9,which covers consultancy costs for operational audits to help SMEs redirect resources towards 
+12,10,3,Calibri,11.0,72.0,645.3,525.8,656.4,"innovation. However, one persistent barrier remains: the fixed EUR 15 000 cost of a full operational "
+12,10,4,Calibri,11.0,72.0,659.9,525.9,670.9,"audit under Fit 4 Innovation, which – despite public co-funding of 50% – can discourage smaller "
+12,10,5,Calibri,11.0,72.0,674.4,428.9,685.4,"companies from participating. To address this, the government launched a "
+12,10,5,Calibri,11.0,431.5,674.4,525.8,685.4,reform of the Fit 4 
+12,10,6,Calibri,11.0,72.0,688.8,128.8,699.8,programmes
+12,10,6,Calibri,11.0,128.7,688.8,525.8,699.8," in 2024 to increase accessibility, improve promotion, and highlight successful use cases "
+12,10,7,Calibri,11.0,72.0,703.3,370.6,714.3,to build trust and engagement. Additional support tools include the 
+12,10,7,Calibri,11.0,370.0,703.3,469.9,714.3,SME Packages – Digital
+12,10,7,Calibri,11.0,469.9,703.3,525.9,714.3, (supporting 
+12,11,0,Calibri,11.0,216.1,729.1,218.5,740.2, 
+12,11,1,Calibri,6.5,72.0,741.5,75.3,748.0,6
+12,11,1,Calibri,10.0,75.3,742.4,77.5,752.4, 
+12,11,1,Calibri,9.0,77.5,743.1,497.7,752.1,2022 is the last comparable year that used a similar methodology for measuring the digital intensity of enterprises. 
+12,11,1,Calibri,10.0,497.9,742.4,500.1,752.4, 
+12,12,0,Calibri,11.0,294.9,763.8,302.9,774.8,9 
+12,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+13,2,0,Calibri,11.0,72.0,74.2,525.8,85.2,"digital marketing, business management tools, and e-invoicing, with guidance from certified advisors) "
+13,2,1,Calibri,11.0,72.0,88.7,236.9,99.7,and the continued operation of the 
+13,2,1,Calibri,11.0,238.1,88.7,288.8,99.7,Letzshop.lu
+13,2,1,Calibri,11.0,288.8,88.7,525.9,99.7," platform, helping local retailers establish an online "
+13,2,2,Calibri,11.0,72.0,103.2,525.9,114.3,presence. Luxembourg is also developing an Open Cybersecurity Dataspace and open-source 
+13,2,3,Calibri,11.0,72.0,117.6,482.1,128.7,"cybersecurity services to give SMEs access to secure, low-cost tools and data environments. "
+13,4,0,Calibri-Bold,11.0,72.7,140.9,293.8,151.9,2024 recommendation on digitalisation of SMEs
+13,4,0,Calibri,11.0,294.0,140.9,525.0,151.9,: Aim to reach the 2030 target by adopting further 
+13,4,1,Calibri,11.0,72.7,155.4,524.7,166.5,"measures, when necessary, to convince less digitalised SMEs to engage in a digital transition to boost "
+13,4,2,Calibri,11.0,72.7,169.8,133.8,180.9,their growth. 
+13,5,0,Calibri-Bold,11.0,72.7,193.1,525.1,204.1,Luxembourg addressed fully the recommendation by putting significant policy actions into place in 
+13,5,1,Calibri-Bold,11.0,72.7,207.6,98.0,218.7,2024.
+13,5,1,Calibri,11.0,98.1,207.6,525.0,218.7, The country notably launched new major SME-focused measures and initiated programme 
+13,5,2,Calibri,11.0,72.7,222.1,524.8,233.2,"reforms to lower access barriers. While these actions show strong commitment, continued attention "
+13,5,3,Calibri,11.0,72.7,236.6,501.8,247.6,will be needed to engage less digitalised SMEs and accelerate progress towards the 2030 target. 
+13,6,0,Calibri,11.0,72.0,259.9,74.5,270.9, 
+13,7,0,Calibri,11.0,72.0,282.3,180.2,293.3,"In 2024, Luxembourg’s "
+13,7,0,Calibri-Bold,11.0,182.7,282.3,341.0,293.3,European Digital Innovation Hub 
+13,7,0,Calibri-Bold,11.0,343.4,282.3,368.3,293.3,L-DIH
+13,7,0,Calibri,11.0,368.4,282.3,525.8,293.3, continued supporting the digital 
+13,7,1,Calibri,11.0,72.0,296.8,525.9,307.8,"transformation of the manufacturing sector, notably through AI and cybersecurity. It offers a "
+13,7,2,Calibri,11.0,72.0,311.3,525.9,322.4,"combination of ’test before invest’ services, training, and digital maturity assessments. Through a "
+13,7,3,Calibri,11.0,72.0,325.8,525.9,336.9,"structured three-level approach – including awareness-raising Tech Talks, hands-on Tech Test "
+13,7,4,Calibri,11.0,72.0,340.4,246.4,351.4,"workshops, and tailor-made support – "
+13,7,4,Calibri,11.0,246.9,340.4,452.2,351.4,manufacturing SMEs can trial digital solutions
+13,7,4,Calibri,11.0,452.3,340.4,525.9,351.4," like AI, IoT, and "
+13,7,5,Calibri,11.0,72.0,354.8,525.8,365.8,"augmented reality before investing, with co-financing options available to lower barriers and reduce "
+13,7,6,Calibri,11.0,72.0,369.3,229.1,380.3,the risks associated with adoption. 
+13,8,0,Calibri-Light,12.0,72.0,392.0,236.8,404.0,Take up of cloud/AI/data analytics 
+13,10,0,Calibri,11.0,523.6,556.9,526.1,567.9, 
+13,11,0,Calibri-Bold,11.0,72.0,576.3,525.5,587.4,"The latest available data shows that in 2024, 23.73% of enterprises in Luxembourg were using AI "
+13,11,1,Calibri-Bold,11.0,72.0,590.9,350.1,601.9,"technology, significantly above the EU average of 13.48%."
+13,11,1,Calibri,11.0,350.1,590.9,352.6,601.9, 
+13,11,1,Calibri-Bold,11.0,355.0,590.9,525.8,601.9,While this is an impressive 74.19% 
+13,11,2,Calibri-Bold,11.0,72.0,605.4,525.8,616.4,"increase from 2023, when AI adoption was 14.45%, the country lags behind its national trajectory "
+13,11,3,Calibri-Bold,11.0,72.0,619.8,117.5,630.8,(40.63%). 
+13,11,3,Calibri,11.0,118.9,619.8,525.6,630.8,"More specifically, 22.96% of SMEs in Luxembourg integrated AI solutions, whereas large "
+13,11,4,Calibri,11.0,72.0,634.3,525.7,645.3,enterprises had a higher uptake rate of 45.6%. This resulted in a 22.64 percentage point gap between 
+13,11,5,Calibri,11.0,72.0,648.8,525.8,659.9,"SMEs and large enterprises, which was narrower than the EU-level gap of 28.53 percentage points. "
+13,11,6,Calibri,11.0,72.0,663.3,525.6,674.4,"While Luxembourg demonstrates strong AI adoption compared to the EU, closing the adoption gap "
+13,11,7,Calibri,11.0,72.0,677.7,516.8,688.8,between SMEs and large enterprises remains crucial to ensuring widespread digital transformation. 
+13,11,7,Calibri-Bold,11.0,516.7,677.7,519.2,688.8, 
+13,12,0,Calibri,11.0,72.0,700.3,518.1,711.3,"Adoption of cloud, data analytics, and the three technologies together were not measured in 2024.  "
+13,13,0,Calibri-Bold,11.0,72.0,722.8,525.5,733.8,"The latest available data shows that in 2023 cloud uptake in Luxembourg was 32.63%, falling short "
+13,13,1,Calibri-Bold,11.0,72.0,737.3,202.2,748.3,of the EU average of 38.97%.
+13,13,1,Calibri,11.0,202.2,737.3,525.9,748.3," More specifically, among SMEs, the adoption rate was 31.6%, while that "
+13,14,0,Calibri,11.0,292.1,763.8,305.8,774.8,10 
+13,15,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+14,2,0,Calibri,11.0,72.0,74.2,525.7,85.2,of large enterprises was almost double (62.71%) used cloud services. This resulted in a difference of 
+14,2,1,Calibri,11.0,72.0,88.7,525.9,99.7,"31.11 percentage points in uptake between SMEs and large enterprises in Luxembourg, which was "
+14,2,2,Calibri,11.0,72.0,103.2,225.3,114.3,consistent with the EU-level gap.   
+14,4,0,Calibri-Bold,11.0,72.0,125.7,525.9,136.7,"In 2023, 32.41% of enterprises in Luxembourg performed data analytics, slightly lower than the EU "
+14,4,1,Calibri-Bold,11.0,72.0,140.2,162.6,151.2,average of 33.25%. 
+14,4,1,Calibri,11.0,163.5,140.2,525.6,151.2," Among these, SMEs had an adoption rate of 31.32%, while the percentage for "
+14,4,2,Calibri,11.0,72.0,154.6,525.9,165.6,large enterprises was significantly higher at 64.33%. This indicates a gap of 33.01 percentage points 
+14,4,3,Calibri,11.0,72.0,169.1,525.9,180.1,"between SMEs and large enterprises, which is lower than the EU average gap of 39.72 percentage "
+14,4,4,Calibri,11.0,72.0,183.6,107.5,194.7,points.  
+14,5,0,Calibri-Bold,11.0,72.0,206.1,525.5,217.1,"According to the latest available data (2023), over 1 out of 2 enterprises (52.01%) in Luxembourg "
+14,5,1,Calibri-Bold,11.0,72.0,220.6,525.6,231.6,"engaged with AI technologies, sophisticated or intermediate cloud computing services, or data "
+14,5,2,Calibri-Bold,11.0,72.0,235.1,307.7,246.2,"analytics, just below the EU level uptake of 54.7%."
+14,5,2,Calibri,11.0,307.8,235.1,525.8,246.2," More specifically, the uptake among SMEs was "
+14,5,3,Calibri,11.0,72.0,249.6,525.6,260.7,"slightly lower at 50.96%, while large enterprises had a notably higher rate of 82.84%. This indicates a "
+14,5,4,Calibri,11.0,72.0,264.0,520.1,275.1,percentage point difference of 31.88 in uptake between SMEs and large enterprises in Luxembourg.  
+14,6,0,Calibri,11.0,72.0,286.6,525.9,297.6,"In conclusion the rate of adoption of cloud computing, data analytics, and AI technologies in "
+14,6,1,Calibri,11.0,72.0,301.1,525.9,312.2,"Luxembourg was mixed compared to the EU averages, with particularly strong uptake of AI but slightly "
+14,6,2,Calibri,11.0,72.0,315.5,525.6,326.6,lower uptake of cloud services and data analytics. A significant disparity in technology adoption was 
+14,6,3,Calibri,11.0,72.0,330.0,525.7,341.1,"observed between SMEs and large enterprises, with the latter exhibiting much higher uptake rates "
+14,6,4,Calibri,11.0,72.0,344.6,525.8,355.6,across all three technologies. Despite SMEs constituting most enterprises with 10 or more employees 
+14,6,5,Calibri,11.0,72.0,359.1,525.9,370.1,(95.6%) and contributing a larger share of the country’s economic value added than large enterprises 
+14,6,6,Calibri,11.0,72.0,373.5,525.7,384.5,"(44.3% vs 40.7%), their comparatively lower adoption rates indicate untapped potential for digital "
+14,6,7,Calibri,11.0,72.0,388.0,525.7,399.0,transformation. Bridging this adoption gap is vital for enhancing the overall digital maturity of 
+14,6,8,Calibri,11.0,72.0,402.5,407.7,413.6,Luxembourg’s economy and sustaining its competitive edge within the EU.  
+14,7,0,Calibri-Bold,11.0,72.0,425.0,525.9,436.0,"In its adjusted roadmap, Luxembourg maintained its ambition for 2030, namely a 75% adoption rate "
+14,7,1,Calibri-Bold,11.0,72.0,439.5,368.5,450.5,"of technologies by enterprises by 2030, in line with the EU target"
+14,7,1,Calibri,11.0,368.6,439.5,525.8,450.5,". While the ambition remains high, "
+14,7,2,Calibri,11.0,72.0,454.0,525.8,465.1,"current uptake levels are significantly below target – particularly for cloud services, where adoption by "
+14,7,3,Calibri,11.0,72.0,468.5,525.7,479.6,"businesses remains limited. The roadmap outlines a gradual acceleration starting from 2024, "
+14,7,4,Calibri,11.0,72.0,482.9,525.9,494.0,"particularly for cloud services, once national platforms and SME-oriented applications are in place, and "
+14,7,5,Calibri,11.0,72.0,497.5,525.9,508.5,"for AI, driven by the launch of Fit 4 Digital – AI and improved SME packages. These initiatives aim to "
+14,7,6,Calibri,11.0,72.0,512.0,525.9,523.0,"lower barriers through feasibility studies, co-funding, and targeted outreach. However, given the slow "
+14,7,7,Calibri,11.0,72.0,526.5,525.6,537.5,"uptake to date and the resource constraints of many SMEs, sustained effort and close monitoring will "
+14,7,8,Calibri,11.0,72.0,540.9,525.9,551.9,be needed to ensure the planned acceleration materialises and to avoid a last-minute push closer to 
+14,7,9,Calibri,11.0,72.0,555.4,99.6,566.5,2030. 
+14,8,0,SymbolMT,11.0,90.0,575.8,95.1,589.3,
+14,8,0,ArialMT,11.0,95.1,576.9,98.1,589.2, 
+14,8,1,Calibri-Bold,11.0,108.0,578.6,134.3,589.7,Cloud
+14,8,1,Calibri,11.0,134.3,578.6,136.8,589.7, 
+14,9,0,Calibri-Bold,11.0,72.0,596.0,525.8,607.1,Luxembourg’s target for Cloud uptake by enterprises remains at 75% by 2030. It is in line with the 
+14,9,1,Calibri-Bold,11.0,72.0,610.5,114.1,621.6,EU target
+14,9,1,Calibri,11.0,114.1,610.5,525.8,621.6,". The updated roadmap confirms that while first implementation steps will begin in 2024, the "
+14,9,2,Calibri,11.0,72.0,625.1,525.6,636.1,"significant impact on SME cloud adoption is only expected in the second half of the decade. By 2025, "
+14,9,3,Calibri,11.0,72.0,639.5,525.8,650.5,"Luxembourg cloud providers will launch the first services adapted to national needs, including "
+14,9,4,Calibri,11.0,72.0,654.0,525.7,665.0,"accounting, ERP, and tax tools. These applications will be designed for interoperability with "
+14,9,5,Calibri,11.0,72.0,668.5,525.9,679.5,"government APIs and will ensure data portability. In parallel, the SME Packages have been extended "
+14,9,6,Calibri,11.0,72.0,683.0,525.9,694.1,"to cover cloud and cybersecurity OPEX by the end of 2024. These foundational measures, while already "
+14,9,7,Calibri,11.0,72.0,697.4,525.9,708.5,"outlined in earlier plans, are now entering an operational phase, with take-up expected to accelerate "
+14,9,8,Calibri,11.0,72.0,711.9,208.2,723.0,markedly from 2026 onwards. 
+14,10,0,Calibri,11.0,72.0,734.5,525.8,745.6,"On 4 February 2025, the CLAUSEN project – linked to the IPCEI-CIS – was formally launched by two "
+14,10,1,Calibri,11.0,72.0,748.9,525.7,760.0,ministers. It will implement an Open Cybersecurity Dataspace and set up a national Open Source 
+14,11,0,Calibri,11.0,292.1,763.8,305.8,774.8,11 
+14,12,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+15,3,0,Calibri,11.0,72.0,74.2,525.9,85.2,Promotion Office (OSPO). These structures will promote open-source tools developed by the 
+15,3,1,Calibri,11.0,72.0,88.7,525.7,99.7,Computer Incident Response Center Luxembourg (CIRCL) and the NC3 Cybersecurity Competence 
+15,3,2,Calibri,11.0,72.0,103.2,525.6,114.3,"Center and facilitate access to trusted cloud and edge services beyond the direct IPCEI participants, "
+15,3,3,Calibri,11.0,72.0,117.6,525.9,128.7,"including to SMEs. In addition, Luxembourg contributes to the IPCEI-CIS with open-source tools for "
+15,3,4,Calibri,11.0,72.0,132.1,525.8,143.2,Security operations centre (SOC) and Computer Security Incident Response Team (CSIRT) functions and 
+15,3,5,Calibri,11.0,72.0,146.7,464.7,157.7,"technologies that preserve privacy and trade secrets, capable of running on edge nodes."
+15,3,5,Calibri,11.0,464.7,146.7,467.2,157.7, 
+15,4,0,SymbolMT,11.0,90.0,166.9,95.1,180.4,
+15,4,0,ArialMT,11.0,95.1,168.0,98.1,180.3, 
+15,4,1,Calibri-Bold,11.0,108.0,169.7,173.5,180.7,Data Analytics
+15,4,1,Calibri,11.0,173.4,169.7,175.9,180.7, 
+15,5,0,Calibri-Bold,11.0,72.0,187.2,525.7,198.3,Luxembourg’s target for Data Analytics take-up by enterprises remains at 75%. It is in line with the 
+15,5,1,Calibri-Bold,11.0,72.0,201.7,152.9,212.8,EU target by 2030
+15,5,1,Calibri,11.0,153.0,201.7,525.9,212.8,. While no new standalone new measure for big data was introduced in the revised 
+15,5,2,Calibri,11.0,72.0,216.1,525.9,227.2,"roadmap, the strategy to integrate it with SME cloud onboarding reflects a horizontal approach aimed "
+15,5,3,Calibri,11.0,72.0,230.7,387.2,241.7,at scaling analytics adoption through digital infrastructure investment. 
+15,6,0,SymbolMT,11.0,90.0,251.0,95.1,264.5,
+15,6,0,ArialMT,11.0,95.1,252.1,98.1,264.4, 
+15,6,1,Calibri-Bold,11.0,108.0,253.9,202.2,264.9,Artificial Intelligence
+15,6,1,Calibri,11.0,202.1,253.9,204.6,264.9, 
+15,7,0,Calibri-Bold,11.0,72.0,271.2,457.1,282.3,Luxembourg’s target for Artificial Intelligence take-up by enterprises remains at 75%. 
+15,7,0,Calibri,11.0,456.9,271.2,525.9,282.3,It is in line with 
+15,7,1,Calibri,11.0,72.0,285.8,171.8,296.8,the EU target by 2030.
+15,7,1,Calibri-Bold,11.0,171.9,285.8,174.4,296.8, 
+15,8,0,Calibri,11.0,72.0,312.2,525.6,323.2,"The adjusted roadmap introduces two new targeted measures to support AI adoption, especially "
+15,8,1,Calibri,11.0,72.0,326.7,294.0,337.7,among SMEs (see section above). The first one is 
+15,8,1,Calibri,11.0,294.4,326.7,368.3,337.7,"Fit 4 Digital – AI,"
+15,8,1,Calibri,11.0,368.4,326.7,525.8,337.7," launched in February 2025, which "
+15,8,2,Calibri,11.0,72.0,341.2,525.9,352.2,"helps SMEs identify AI use cases, conduct feasibility studies, and develop tailored roadmaps. The "
+15,8,3,Calibri,11.0,72.0,355.7,230.3,366.8,second one is the newly introduced 
+15,8,3,Calibri,11.0,229.7,355.7,310.4,366.8,SME Packages – AI
+15,8,3,Calibri,11.0,310.4,355.7,525.9,366.8,", a financial support scheme aimed at co-funding "
+15,8,4,Calibri,11.0,72.0,370.2,525.9,381.3,"concrete investments in AI tools and services, bundled under State aid rules. These two instruments "
+15,8,5,Calibri,11.0,72.0,384.6,525.6,395.7,are strategically coordinated to facilitate the implementation of the action plans emerging from the 
+15,8,6,Calibri,11.0,72.0,399.2,525.9,410.2,"diagnostic phase. It builds on existing programmes and addresses key barriers such as cost, expertise, "
+15,8,7,Calibri,11.0,72.0,413.7,525.8,424.8,"and technical readiness. While the policy shift is notable and well-aligned with the 2030 target, the "
+15,8,8,Calibri,11.0,72.0,428.2,525.9,439.3,"adequacy of the approach will depend on sustained outreach, accessibility for smaller enterprises, and "
+15,8,9,Calibri,11.0,72.0,442.6,345.3,453.7,visible success stories to build trust and confidence in AI use. 
+15,8,9,Calibri,11.0,345.2,442.6,347.7,453.7, 
+15,9,0,Calibri,11.0,72.0,469.1,525.9,480.2,A major milestone was reached in late 2024 with Luxembourg being selected to host one of the 
+15,9,1,Calibri,11.0,72.0,483.7,525.7,494.7,European ’AI Factories’. This will significantly accelerate the country’s AI ambitions through the 
+15,9,2,Calibri,11.0,72.0,498.2,525.9,509.2,deployment of MeluXina-AI – a supercomputer optimised for artificial intelligence – and the creation 
+15,9,3,Calibri,11.0,72.0,512.7,494.5,523.8,of a dedicated AI Factory to drive innovation and application development in the years ahead.  
+15,10,0,Calibri,11.0,72.0,535.1,525.9,546.2,The 2025 Eurobarometer shows that 85% of Luxembourgish people think that public authorities should 
+15,10,1,Calibri,11.0,72.0,549.7,525.6,560.7,prioritise shaping the development of Artificial Intelligence and other digital technologies to ensure 
+15,10,2,Calibri,11.0,72.0,564.1,525.7,575.1,that they respect our rights and values. It represents a big increase of 9 percentage points compared 
+15,10,3,Calibri,11.0,72.0,578.6,401.0,589.7,"to last year, reflecting the growing interest of the citizens at this respect.   "
+15,11,0,Calibri-Bold,11.0,72.7,601.9,310.9,612.9,2024 recommendation on AI and Data Analytics: 
+15,11,0,Calibri,11.0,313.4,601.9,525.0,612.9,Consider further awareness-raising measures 
+15,11,1,Calibri,11.0,72.7,616.4,517.2,627.5,and/or training directed at SMEs to adopt AI and data analytics as means to boost competitiveness. 
+15,12,0,Calibri-Bold,11.0,72.7,652.2,524.7,663.2,Luxembourg addressed fully the recommendation by putting significant policy actions into place in 
+15,12,1,Calibri-Bold,11.0,72.7,666.6,95.1,677.6,2024
+15,12,1,Calibri,11.0,95.2,666.6,524.9,677.6,. The country added two major new measures in its adjusted roadmap to support the adoption 
+15,12,2,Calibri,11.0,72.7,681.1,525.1,692.1,"of AI by enterprises, strengthening SME capacity to adopt AI technologies competitively (described "
+15,12,3,Calibri,11.0,72.7,695.6,108.5,706.7,above). 
+15,13,0,Calibri,11.0,72.7,718.1,505.4,729.1,"On data analytics, no information is available on measures taken to address the recommendation"
+15,13,0,ArialMT,11.0,505.4,716.3,508.5,728.7,.
+15,13,0,Calibri,11.0,508.4,718.1,510.9,729.1, 
+15,14,0,Calibri,11.0,72.0,741.4,77.0,752.4,  
+15,15,0,Calibri,11.0,292.1,763.8,305.8,774.8,12 
+15,16,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+16,2,0,Calibri-Light,12.0,72.0,74.4,233.6,86.4,"Unicorns, scale-ups and start-ups "
+16,4,0,Calibri-Bold,11.0,72.0,102.0,525.9,113.1,"At the beginning of 2025, Luxembourg had two unicorns - the same number as the previous year. "
+16,4,1,Calibri,11.0,72.0,116.4,525.9,127.5,"Luxembourg has not set a national target for unicorns, acknowledging that its small market size and its "
+16,4,2,Calibri,11.0,72.0,130.9,525.8,142.0,role as a testbed for innovation make such forecasting particularly challenging. Many startups launched 
+16,4,3,Calibri,11.0,72.0,145.5,525.9,156.5,"in Luxembourg scale their operations in larger EU markets, limiting the likelihood of unicorns emerging "
+16,4,4,Calibri,11.0,72.0,160.0,104.8,171.0,locally. 
+16,5,0,Calibri,11.0,72.0,182.4,525.9,193.5,"Although, Luxembourg did not introduce new measures in the revised roadmap it advanced on a "
+16,5,1,Calibri,11.0,72.0,196.9,480.3,208.0,"number of existing policy actions, reinforcing their implementation and impact. The flagship "
+16,5,1,Calibri-Bold,11.0,480.0,196.9,523.5,208.0,Fit 4 Start
+16,5,1,Calibri,11.0,523.4,196.9,525.9,208.0, 
+16,5,2,Calibri,11.0,72.0,211.5,525.6,222.5,"acceleration programme, launched in 2015 and running in its 14th edition in 2024, remains a "
+16,5,3,Calibri,11.0,72.0,225.9,525.7,236.9,cornerstone of early-stage start-up support. It provides coaching and grant funding of up to 
+16,5,4,Calibri,11.0,72.0,240.4,525.7,251.4,"EUR 150 000 for start-ups in digital technologies, healthtech, and space. In 2024, the programme "
+16,5,5,Calibri,11.0,72.0,254.9,486.8,266.0,"received 429 applications from across the globe, reflecting its growing international visibility. "
+16,6,0,Calibri-Bold,11.0,72.0,277.4,248.9,288.4,The country continued to implement 
+16,6,0,Calibri-Bold,11.0,250.5,277.4,350.1,288.4,‘From Seed to Scale’ 
+16,6,0,Calibri-Bold,11.0,351.8,277.4,525.9,288.4,its strategic framework to boost the 
+16,6,1,Calibri-Bold,11.0,72.0,291.9,202.6,302.9,national scale-up ecosystem.
+16,6,1,Calibri,11.0,202.6,291.9,525.9,302.9," Rather than duplicating existing support mechanisms like Fit 4 Start, this "
+16,6,2,Calibri,11.0,72.0,306.4,525.9,317.5,roadmap focuses on the next growth phase – helping high-potential start-ups become scale-ups and 
+16,6,3,Calibri,11.0,72.0,320.9,489.3,332.0,eventually global players. Key actions launched under ‘From Seed to Scale’ in 2024 include the 
+16,6,3,Calibri,11.0,489.0,320.9,525.9,332.0,Scaleup 
+16,6,4,Calibri,11.0,72.0,335.3,148.1,346.4,pilot programme
+16,6,4,Calibri,11.0,148.1,335.3,525.7,346.4,", which supports companies with a strong team, proven traction, and international "
+16,6,5,Calibri,11.0,72.0,349.8,525.8,360.9,ambitions. Three Luxembourg-based firms were selected in the pilot’s first round. The roadmap also 
+16,6,6,Calibri,11.0,72.0,364.4,183.5,375.4,guided the launch of the 
+16,6,6,Calibri,11.0,183.4,364.4,287.1,375.4,Automobility Incubator
+16,6,6,Calibri,11.0,287.1,364.4,525.9,375.4," in Bissen, a dedicated facility designed for innovative "
+16,6,7,Calibri,11.0,72.0,378.9,383.2,389.9,"mobility companies, offering 2 500 m² of R&D and co-working space.  "
+16,7,0,Calibri,11.0,72.0,401.3,256.5,412.4,"Furthermore, the roadmap supports the "
+16,7,0,Calibri,11.0,257.1,401.3,375.3,412.4,Luxembourg Venture Days
+16,7,0,Calibri,11.0,375.3,401.3,525.8,412.4,", a major matchmaking event for "
+16,7,1,Calibri,11.0,72.0,415.9,525.9,426.9,"start-ups, scale-ups, and investors. In 2024, the event gathered over 1 800 participants and more than "
+16,7,2,Calibri,11.0,72.0,430.4,525.9,441.4,"200 investors, underlining Luxembourg’s emergence as a venture capital-friendly environment. "
+16,7,3,Calibri,11.0,72.0,444.8,243.7,455.8,Complementary instruments like the 
+16,7,3,Calibri,11.0,245.8,444.8,325.7,455.8,Digital Tech Fund
+16,7,3,Calibri,11.0,325.8,444.8,525.9,455.8," (DTF), with nearly EUR 40 million in seed "
+16,7,4,Calibri,11.0,72.0,459.3,149.6,470.4,"funding, and the "
+16,7,4,Calibri,11.0,150.4,459.3,272.6,470.4,Luxembourg Future Fund II
+16,7,4,Calibri,11.0,272.7,459.3,525.8,470.4, further improve access to financing in strategic sectors 
+16,7,5,Calibri,11.0,72.0,473.8,525.9,484.9,"such as fintech, cybersecurity, and space. In 2024, the DTF provided funding for 17 investments. The "
+16,7,6,Calibri,11.0,72.0,488.3,525.9,499.4,"financed companies employ around 500 people in strategic sectors. However, limited market size, "
+16,7,7,Calibri,11.0,72.0,502.7,525.7,513.8,"challenges in talent attraction, and high living costs continue to act as structural barriers to scaling "
+16,7,8,Calibri,11.0,72.0,517.3,525.8,528.3,"locally. To address this, Luxembourg simplified access to public support in 2024 by standardising the "
+16,7,9,Calibri,11.0,72.0,531.8,344.3,542.8,"Fit 4 programme family, while maintaining central roles for "
+16,7,9,Calibri,11.0,345.5,531.8,408.2,542.8,Luxinnovation
+16,7,9,Calibri,11.0,408.2,531.8,449.7,542.8, and the 
+16,7,9,Calibri,11.0,450.8,531.8,475.4,542.8,L-DIH
+16,7,9,Calibri,11.0,475.3,531.8,525.9,542.8, in guiding 
+16,7,10,Calibri,11.0,72.0,546.3,525.9,557.3,companies through digital and innovation funding opportunities. The national ecosystem now includes 
+16,7,11,Calibri,11.0,72.0,560.7,431.5,571.8,"over 500 start-ups, with international visibility enhanced through platforms like "
+16,7,11,Calibri,11.0,432.2,560.7,523.6,571.8,Startup Luxembourg
+16,7,11,Calibri,11.0,523.4,560.7,525.9,571.8, 
+16,7,12,Calibri,11.0,72.0,575.3,525.7,586.3,"and events such as the Luxembourg Venture Days. Altogether, this coordinated policy mix is steadily "
+16,7,13,Calibri,11.0,72.0,589.8,479.1,600.8,reinforcing the country’s profile as a dynamic and investor-ready innovation hub in Europe. 
+16,8,0,Calibri-Light,15.0,72.0,613.1,329.4,628.1,Strengthening Cybersecurity & Resilience   
+16,9,0,Calibri-Bold,11.0,72.0,640.1,525.7,651.1,"In Luxembourg, 3 out of 4 (75.49%) people took at least one action to protect their data online, "
+16,9,1,Calibri-Bold,11.0,72.0,654.5,237.5,665.5,exceeding the EU average of 69.55% 
+16,9,1,Calibri-Bold,7.0,237.2,653.6,240.7,660.5,7
+16,9,1,Calibri,11.0,240.6,654.5,525.9,665.5,". More specifically, 44.16% took three or more actions (deeming "
+16,9,2,Calibri,11.0,72.0,669.0,525.6,680.0,them as having above basic digital safety skills). Refusing the use of personal data for advertising was 
+16,10,0,Calibri,11.0,216.1,717.2,218.5,728.3, 
+16,10,1,Calibri,6.5,72.0,729.8,75.3,736.3,7
+16,10,1,Calibri,10.0,75.3,730.7,77.5,740.6, 
+16,10,1,Calibri,9.0,77.4,731.4,525.1,740.4,Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+16,10,2,Calibri,9.0,72.0,743.5,230.9,752.5,the State of the Digital Decade report 2025.
+16,10,2,Calibri,10.0,230.9,742.8,233.2,752.7, 
+16,11,0,Calibri,11.0,292.1,763.8,305.8,774.8,13 
+16,12,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+17,2,0,Calibri,11.0,72.0,74.2,525.6,85.2,"the most common measure (49.2%), while reading privacy policy statements was the least frequent "
+17,2,1,Calibri,11.0,72.0,88.7,119.4,99.7,(20.51%).  
+17,5,0,Calibri,11.0,523.6,308.2,526.1,319.2, 
+17,6,0,Calibri,11.0,72.0,327.8,74.5,338.8, 
+17,7,0,Calibri-Bold,11.0,72.0,350.2,525.9,361.2,"Luxembourgish enterprises tend to experience less incidents related to cyberattacks, but employees "
+17,7,1,Calibri-Bold,11.0,72.0,364.7,451.3,375.8,are less aware of their ICT security related obligations compared to the EU average
+17,7,1,Calibri,11.0,451.3,364.7,525.9,375.8,. The number of 
+17,7,2,Calibri,11.0,72.0,379.2,525.9,390.3,enterprises that experienced ICT security incidents leading to unavailability of ICT services due to 
+17,7,3,Calibri,11.0,72.0,393.8,525.9,404.8,"attack from outside (e.g. ransomware attacks, denial of service attacks) dropped slightly from 4.34% in "
+17,7,4,Calibri,11.0,72.0,408.2,525.9,419.2,"2022 to 3.34% in 2024 thus falling below the European average (3.43%). In addition, Luxembourgish "
+17,7,5,Calibri,11.0,72.0,422.7,525.9,433.8,enterprises are less prone to incidents related to hardware or software failures (13.01%) than their EU 
+17,7,6,Calibri,11.0,72.0,437.2,525.7,448.3,"peers (17.97%). In terms of measures, 86.80% of enterprises deployed some ICT security measures "
+17,7,7,Calibri,11.0,72.0,451.7,525.9,462.8,(below the EU average of 92.76%) and only 54.12% made their employees aware of their obligations 
+17,7,8,Calibri,11.0,72.0,466.1,350.2,477.2,"in ICT security related issues, below the EU average (59.97%).  "
+17,8,0,Calibri-Bold,11.0,72.0,488.7,525.7,499.8,Luxembourg is among the EU leaders in the roll-out of the secure Internet Protocol version 6 (IPv6) 
+17,8,1,Calibri-Bold,11.0,72.0,503.2,136.4,514.3,for end users.
+17,8,1,Calibri,11.0,136.3,503.2,525.7,514.3," Concerning the deployment of secure internet standards, Luxembourg is performing "
+17,8,2,Calibri,11.0,72.0,517.6,525.8,528.7,"well in the roll-out of IPv6 for end users (40%, vs an EU average of 36%) and is slightly above the EU "
+17,8,3,Calibri,11.0,72.0,532.1,525.8,543.2,"average on the server side (24%, vs an EU average of 17%). IPv6 is an important protocol as it ensures "
+17,8,4,Calibri,11.0,72.0,546.7,525.9,557.7,"the scalability, stability, and security of the Internet. The deployment of this new version is increasingly "
+17,8,5,Calibri,11.0,72.0,561.2,525.7,572.3,"urgent, as traditional IPv4 addresses have been long depleted. Domain Name System Security "
+17,8,6,Calibri,11.0,72.0,575.6,525.9,586.7,Extensions (DNSSEC) is also an important standard to be rolled out as it introduces security features to 
+17,8,7,Calibri,11.0,72.0,590.1,525.8,601.2,"DNS. In Luxembourg, the DNSSEC validation rate (i.e. verification of the authenticity of responses sent "
+17,8,8,Calibri,11.0,72.0,604.7,525.9,615.7,"by name servers to clients, using a digital signature technology) is 83% (Q3 2024), well above the EU "
+17,8,9,Calibri,11.0,72.0,619.2,145.4,630.2,average of 47%. 
+17,8,9,Calibri-Bold,11.0,145.3,619.2,147.8,630.2, 
+17,8,9,Calibri,11.0,147.7,619.2,150.2,630.2, 
+17,9,0,Calibri,11.0,72.0,641.6,525.9,652.7,"According to the Digital Decade Eurobarometer 2025, 87% of Luxembourgish citizens think that an "
+17,9,1,Calibri,11.0,72.0,656.1,525.6,667.2,"improved cybersecurity, better protection of online data and safety of digital technologies would "
+17,9,2,Calibri,11.0,72.0,670.7,282.0,681.7,facilitate their daily use of digital technologies. 
+17,10,0,Calibri-Bold,11.0,72.0,693.1,525.9,704.1,"Luxembourg’s cybersecurity strategy takes a multi-layered, sector-specific approach, combining "
+17,10,1,Calibri-Bold,11.0,72.0,707.6,460.6,718.7,"regulatory alignment, institutional capacity building, and public-private collaboration."
+17,10,1,Calibri,11.0,460.5,707.6,525.9,718.7," For SMEs, the "
+17,10,2,Calibri,11.0,72.0,722.0,445.0,733.1,strategy relies on awareness-raising campaigns and practical tools such as the 
+17,10,2,Calibri,11.0,447.7,722.0,525.9,733.1,SME Packages – 
+17,10,3,Calibri,11.0,72.0,736.6,133.2,747.6,Cybersecurity
+17,10,3,Calibri,11.0,132.3,736.6,525.8,747.6,", launched in March 2025, to offer subsidised access to secure digital tools. These "
+17,11,0,Calibri,11.0,292.1,763.8,305.8,774.8,14 
+17,12,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+18,2,0,Calibri,11.0,72.0,74.2,525.8,85.2,"packages are deployed in cooperation with the House of Entrepreneurship, the Chambre des Métiers, "
+18,2,1,Calibri,11.0,72.0,88.7,525.9,99.7,"and the Luxembourg House of Cybersecurity (LHC), and are complemented by events such as the "
+18,2,2,Calibri,11.0,72.0,103.2,309.5,114.3,‘Future Ready Days’ focused on AI and cybersecurity. 
+18,4,0,Calibri-Bold,11.0,72.0,125.7,190.7,136.7,"On 4 February 2025, the ‘"
+18,4,0,Calibri-Bold,11.0,190.6,125.7,232.7,136.7,CLAUSEN
+18,4,0,Calibri-Bold,11.0,232.6,125.7,525.7,136.7,"’ project, led by the Luxembourg House of Cybersecurity (LHC), "
+18,4,1,Calibri-Bold,11.0,72.0,140.2,374.3,151.2,was officially launched with two ministers signing the contract
+18,4,1,Calibri,11.0,374.4,140.2,525.9,151.2,. The project will now begin to 
+18,4,2,Calibri,11.0,72.0,154.6,525.9,165.6,implement the Open Cybersecurity Dataspace and establishing the Open Source Promotion Office 
+18,4,3,Calibri,11.0,72.0,169.1,525.9,180.1,"(OSPO), both set to be operational in 2025. The OSPO will promote open-source tools developed by "
+18,4,4,Calibri,11.0,72.0,183.6,525.8,194.7,LHC entities CIRCL and NC3 Cybersecurity Competence Centre and will also play a key role in the 
+18,4,5,Calibri,11.0,72.0,198.1,337.6,209.2,European Cybersecurity AI Factory coordinated by the LHC. 
+18,5,0,Calibri-Bold,11.0,72.0,220.6,525.9,231.6,"In the healthcare sector, Luxembourg’s strategy prioritises alignment with the GDPR, the upcoming "
+18,5,1,Calibri-Bold,11.0,72.0,235.1,525.8,246.2,"European Health Data Space (EHDS) regulation, and the requirements of the NIS2 Directive, whose "
+18,5,2,Calibri-Bold,11.0,72.0,249.6,525.9,260.7,national transposition is currently underway.  This is complemented by strong incident response 
+18,5,3,Calibri-Bold,11.0,72.0,264.0,460.9,275.1,"systems, high-end authentication, encryption of sensitive data, and systematic audits."
+18,5,3,Calibri,11.0,461.1,264.0,525.9,275.1, Collaboration 
+18,5,4,Calibri,11.0,72.0,278.6,525.7,289.6,with cybersecurity entities helps healthcare institutions remain updated on evolving threats. The 
+18,5,5,Calibri,11.0,72.0,293.1,525.8,304.1,"effectiveness of these actions will be measured through indicators such as reduced incident frequency, "
+18,5,6,Calibri,11.0,72.0,307.6,384.8,318.6,"faster response times, and improved compliance and staff awareness. "
+18,6,0,Calibri-Bold,11.0,72.0,330.0,503.2,341.1,"On the skills and awareness front, initiatives range from expert training to public campaigns."
+18,6,0,Calibri,11.0,503.6,330.0,525.9,341.1, The 
+18,6,1,Calibri,11.0,72.0,344.6,111.0,355.6,national 
+18,6,1,Calibri-Bold,11.0,111.0,344.6,165.4,355.6,BEE SECURE
+18,6,1,Calibri,11.0,165.5,344.6,525.9,355.6, programme – highlighted as a best practice in last year’s Digital Decade report – 
+18,6,2,Calibri,11.0,72.0,359.1,525.9,370.1,"continues to provide cyber awareness trainings, activities and resources for children, families, and "
+18,6,3,Calibri,11.0,72.0,373.5,525.6,384.5,"educators. For professionals, cybersecurity skills are developed through programmes embedded in "
+18,6,4,Calibri,11.0,72.0,388.0,378.2,399.0,national digital upskilling strategies and partnerships led by the LHC. 
+18,7,0,Calibri,11.0,72.0,424.9,74.5,435.9, 
+18,7,1,Calibri-Bold,26.0,216.1,413.6,221.9,439.7, 
+18,8,0,Calibri,11.0,292.1,763.8,305.8,774.8,15 
+18,9,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+19,3,0,Calibri-Bold,26.0,72.0,77.2,529.2,103.2,Protecting and empowering EU people 
+19,3,1,Calibri-Bold,26.0,72.0,108.9,194.7,134.9,and society
+19,3,1,Calibri-Bold,26.0,194.6,108.9,200.5,134.9, 
+19,3,2,Calibri-Light,15.0,72.0,138.5,526.4,153.5,Empowering people and bringing the digital transformation closer to their 
+19,3,3,Calibri-Light,15.0,72.0,158.3,111.7,173.3,needs 
+19,4,0,Calibri-Bold,11.0,72.0,189.1,525.6,200.2,"Luxembourg approaches digitalisation with a strong emphasis on inclusiveness, targeting persistent "
+19,4,1,Calibri-Bold,11.0,72.0,203.7,382.7,214.7,"divides in gender, age, education, and socio-economic background. "
+19,4,1,Calibri,11.0,383.2,203.7,525.8,214.7,Although the country performs 
+19,4,2,Calibri,11.0,72.0,218.2,525.8,229.2,"above the EU average in digital skills overall, disparities remain – most notably between men and "
+19,4,3,Calibri,11.0,72.0,232.7,525.8,243.8,"women, and between higher- and lower-educated individuals. In response, the revised roadmap "
+19,4,4,Calibri,11.0,72.0,247.1,525.6,258.2,"includes expanded partnerships with civil society, tailored digital literacy programmes, and new tools "
+19,4,5,Calibri,11.0,72.0,261.6,525.8,272.7,for different learning contexts. The labour market benefits from the Skillsbridges initiative and targeted 
+19,4,6,Calibri,11.0,72.0,276.2,525.6,287.2,"actions to attract more women into ICT careers, yet the stagnation in ICT specialist growth and "
+19,4,7,Calibri,11.0,72.0,290.7,525.9,301.7,declining share of women in tech highlight persisting challenges. Luxembourg is expanding the 
+19,4,8,Calibri,11.0,72.0,305.1,525.7,316.1,accessibility of public services through measures such as the new Digital Mandate and a redesigned 
+19,4,9,Calibri,11.0,72.0,319.6,525.9,330.6,"Guichet.lu interface, structured around life events, simplified language, and inclusive access tools. "
+19,4,10,Calibri,11.0,72.0,334.1,525.8,345.2,Luxembourg also maintains a strong focus on child protection and online safety through structured 
+19,4,11,Calibri,11.0,72.0,348.6,525.9,359.7,"initiatives such as BEE SECURE. While civic engagement online is not explicitly addressed, the country’s "
+19,4,12,Calibri,11.0,72.0,363.0,525.8,374.1,efforts towards digital equity put in a good position to ensure that the benefits of digitalisation are 
+19,4,13,Calibri,11.0,72.0,377.6,525.9,388.6,"shared across all societal groups. Moreover, according to the 2025 Eurobarometer, 84% of "
+19,4,14,Calibri,11.0,72.0,392.1,525.7,403.1,Luxembourgish people think that accessing public services online will be important for their daily life 
+19,4,15,Calibri,11.0,72.0,406.6,525.7,417.7,"in 2030.  Concerning human support to help access and use digital technologies and services, 74% "
+19,4,16,Calibri,11.0,72.0,421.0,525.9,432.1,"consider it would improve their daily use of digital technologies, and 91% think public authorities "
+19,4,17,Calibri,11.0,72.0,435.5,525.9,446.6,should consider it important to ensure that people receive proper human support to help them adapt 
+19,4,18,Calibri,11.0,72.0,450.1,426.4,461.1,to the changes in their lives brought about by digital technologies and services. 
+19,5,0,Calibri-Light,12.0,72.0,472.7,239.6,484.7,Equipping people with digital skills 
+19,6,0,Calibri-LightItalic,11.0,72.0,496.4,152.0,507.4,Basic Digital Skills 
+19,7,0,Calibri-Bold,11.0,72.0,518.8,525.6,529.9,"In 2023, Luxembourg stood above the EU average, with 60.14% of its population proficient in basic "
+19,7,1,Calibri-Bold,11.0,72.0,533.3,130.9,544.4,digital skills.
+19,7,1,Calibri,11.0,131.1,533.3,525.7,544.4," Without updated data for 2024, analysing different demographics offers valuable "
+19,7,2,Calibri,11.0,72.0,547.9,132.5,558.9,information.  
+19,8,0,SymbolMT,10.0,90.0,568.6,94.6,580.8,
+19,8,0,ArialMT,10.0,94.6,569.6,97.4,580.7, 
+19,8,1,Calibri-Bold,11.0,108.0,570.3,165.2,581.4,Gender Gap:
+19,8,1,Calibri,11.0,165.1,570.3,525.7,581.4, Luxembourg has a notable gender gap with 63.60% of men and 56.56% of women 
+19,8,2,Calibri,11.0,108.0,584.9,525.6,595.9,"having basic digital skills, creating a 7.04 percentage point disparity. This gap is significantly "
+19,8,3,Calibri,11.0,108.0,599.4,432.8,610.4,"larger than the EU average (2.23pp), pointing to scope for improvement. "
+19,9,0,SymbolMT,10.0,90.0,620.1,94.6,632.3,
+19,9,0,ArialMT,10.0,94.6,621.1,97.4,632.2, 
+19,9,1,Calibri-Bold,11.0,108.0,621.8,182.6,632.9,Education Level:
+19,9,1,Calibri,11.0,182.6,621.8,525.9,632.9, The correlation between education and digital skills is clear in Luxembourg. 
+19,9,2,Calibri,11.0,108.0,636.3,525.9,647.4,"For those with higher education, the proficiency rate stands at 79.68%, on par with the EU "
+19,9,3,Calibri,11.0,108.0,650.9,525.9,661.9,average (79.83%). Those with no or low formal education have a much lower proficiency rate 
+19,9,4,Calibri,11.0,108.0,665.3,525.6,676.3,"at 31.70%, with a gap of 28.44 percentage points from the national average, which is wider "
+19,9,5,Calibri,11.0,108.0,679.8,270.4,690.8,than the EU average gap (21.95pp).  
+19,10,0,SymbolMT,10.0,90.0,700.5,94.6,712.7,
+19,10,0,ArialMT,10.0,94.6,701.5,97.4,712.6, 
+19,10,1,Calibri-Bold,11.0,108.0,702.2,166.3,713.3,Living Areas:
+19,10,1,Calibri,11.0,166.3,702.2,525.7,713.3, Residents in towns and suburbs of Luxembourg have the lowest levels of basic 
+19,10,2,Calibri,11.0,108.0,716.7,525.7,727.8,"digital skills at 56.42%, still above the EU average for those areas. The gap between these "
+19,10,3,Calibri,11.0,108.0,731.3,525.7,742.3,"residents and the national average is 3.72 percentage points, which is marginally higher than "
+19,10,4,Calibri,11.0,108.0,745.8,435.3,756.8,"the EU average, the country being quite homogeneous in this dimension  "
+19,11,0,Calibri,11.0,292.1,763.8,305.8,774.8,16 
+19,12,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+20,3,0,SymbolMT,10.0,90.0,72.5,94.6,84.6,
+20,3,0,ArialMT,10.0,94.6,73.4,97.4,84.6, 
+20,3,1,Calibri-Bold,11.0,108.0,74.2,167.8,85.2,Age Groups:
+20,3,1,Calibri,11.0,167.8,74.2,525.8,85.2, Interestingly 35-44-year-olds are the most digitally skilled age group in 
+20,3,2,Calibri,11.0,108.0,88.7,525.9,99.7,"Luxembourg, with a 70.80% proficiency rate, surpassing the EU average (65.26%). The "
+20,3,3,Calibri,11.0,108.0,103.2,525.7,114.3,youngest (16-24-year-olds) have a 59.66% proficiency rate and are lagging behind the EU 
+20,3,4,Calibri,11.0,108.0,117.6,525.9,128.7,"average for this age group (69.98%). The least skilled are the 65-74-year-olds at 39.26%, but "
+20,3,5,Calibri,11.0,108.0,132.1,398.4,143.2,this group is above the EU average for their age cohort (28.19%). 
+20,4,0,SymbolMT,10.0,90.0,152.9,94.6,165.0,
+20,4,0,ArialMT,10.0,94.6,153.8,97.4,165.0, 
+20,4,1,Calibri-Bold,11.0,108.0,154.6,254.3,165.6,Digital Skills Index components:
+20,4,1,Calibri,11.0,254.4,154.6,525.8,165.6," Luxembourg excels in the Digital Skills Index competencies, "
+20,4,2,Calibri,11.0,108.0,169.1,525.6,180.1,scoring above the EU average in all five areas. It boasts the highest score in communication 
+20,4,3,Calibri,11.0,108.0,183.6,525.8,194.7,"and collaboration skills at 95.02%, significantly outperforming the EU average. Its lowest score "
+20,4,4,Calibri,11.0,108.0,198.1,391.2,209.2,"is in safety skills at 75.49%, which is still above the EU average.  "
+20,5,0,Calibri,11.0,72.0,220.6,525.9,231.6,"In summary, Luxembourg’s digital skills landscape is strong, particularly in communication and problem "
+20,5,1,Calibri,11.0,72.0,235.1,525.9,246.2,"solving. Despite the high overall digital proficiency, there is a clear need to address the gender gap and "
+20,5,2,Calibri,11.0,72.0,249.6,525.8,260.7,"support lower-educated individuals. With its solid performance across all skill areas, Luxembourg is "
+20,5,3,Calibri,11.0,72.0,264.0,475.3,275.1,well-positioned to tackle these challenges and continue to enhance its digital capabilities.  
+20,6,0,Calibri-Bold,11.0,72.0,286.6,472.2,297.6,"Luxembourg’s target for the basic digital skills of the population remains at 80% by 2030,"
+20,6,0,Calibri,11.0,472.3,286.6,525.9,297.6, in line with 
+20,6,1,Calibri,11.0,72.0,301.1,525.9,312.2,"the EU target. In its revised roadmap, Luxembourg introduces several new measures towards achieving "
+20,6,2,Calibri,11.0,72.0,315.5,525.9,326.6,"this target and expanding access to upskilling opportunities to all population segments, expanding "
+20,6,3,Calibri,11.0,72.0,330.0,278.7,341.1,partnerships and diversifying its training offer. 
+20,7,0,Calibri-Bold,11.0,72.0,352.6,525.5,363.6,Several new or renewed agreements have been introduced to enhance inclusiveness and tailored 
+20,7,1,Calibri-Bold,11.0,72.0,367.0,523.3,378.0,"learning, including cooperation with the non-profit organisations Digital Inclusion and GoldenMe,"
+20,7,1,Calibri,11.0,523.4,367.0,525.9,378.0, 
+20,7,2,Calibri,11.0,72.0,381.5,525.9,392.6,which target vulnerable groups: migrants and older adults respectively. Participants notably learn how 
+20,7,3,Calibri,11.0,72.0,396.1,525.6,407.1,"to use Windows, set up and use an email account, browse the internet and use myGuichet and other "
+20,7,4,Calibri,11.0,72.0,410.6,256.5,421.6,common online services in Luxembourg.  
+20,8,0,Calibri-Bold,11.0,72.0,433.0,525.8,444.1,"To raise awareness and engagement in a variety of settings, Luxembourg has developed new learning "
+20,8,1,Calibri-Bold,11.0,72.0,447.5,369.7,458.6,formats adapted to different age groups and learning contexts
+20,8,1,Calibri,11.0,369.9,447.5,525.9,458.6," These include ‘Big Data Life’, an "
+20,8,2,Calibri,11.0,72.0,461.9,301.7,473.0,interactive tool introducing children and young 
+20,8,3,Calibri,11.0,72.0,476.5,101.9,487.5,adults 
+20,8,4,Calibri,11.0,111.0,476.5,122.9,487.5,to 
+20,8,5,Calibri,11.0,132.0,476.5,162.3,487.5,online 
+20,8,6,Calibri,11.0,171.5,476.5,205.9,487.5,privacy 
+20,8,7,Calibri,11.0,215.0,476.5,247.0,487.5,"issues, "
+20,8,8,Calibri,11.0,256.1,476.5,275.4,487.5,and 
+20,8,9,Calibri,11.0,284.6,476.5,301.8,487.5,the 
+20,8,10,Calibri,11.0,72.0,491.0,301.8,502.0,"‘Changemaker Games’, a hybrid escape game "
+20,8,11,Calibri,11.0,72.0,505.5,301.7,516.5,designed to encourage critical thinking about 
+20,8,12,Calibri,11.0,72.0,520.0,301.7,531.1,responsible consumption among secondary school 
+20,8,13,Calibri,11.0,72.0,534.4,104.0,545.5,pupils. 
+20,10,0,Calibri-Bold,11.0,72.0,557.0,301.8,568.1,"In 2024, Luxembourg’s employment agency ADEM "
+20,10,1,Calibri-Bold,11.0,72.0,571.4,301.7,582.5,ran two full-time digital skills programmes to 
+20,10,2,Calibri-Bold,11.0,72.0,585.9,160.3,597.0,support jobseekers
+20,10,2,Calibri,11.0,160.3,585.9,185.9,597.0,. The 
+20,10,2,Calibri-Italic,11.0,185.9,585.9,267.4,597.0,Basic Digital Skills
+20,10,2,Calibri,11.0,267.4,585.9,301.8,597.0, course 
+20,10,3,Calibri,11.0,72.0,600.5,105.4,611.5,helped 
+20,10,4,Calibri,11.0,122.8,600.5,152.6,611.5,adults 
+20,10,5,Calibri,11.0,170.0,600.5,192.3,611.5,over 
+20,10,6,Calibri,11.0,209.8,600.5,226.2,611.5,"30, "
+20,10,7,Calibri,11.0,243.5,600.5,270.3,611.5,while 
+20,10,7,Calibri-Italic,11.0,270.2,600.5,301.8,611.5,Digital 
+20,10,8,Calibri-Italic,11.0,72.0,615.0,135.2,626.0,Fundamentals
+20,10,8,Calibri,11.0,135.1,615.0,301.7,626.0, targeted those aged 16 to 29. 
+20,10,9,Calibri,11.0,72.0,629.4,301.8,640.4,"Together, they trained nearly 150 participants - with "
+20,10,10,Calibri,11.0,72.0,643.9,301.7,654.9,a female participation of 70% in the former and 
+20,10,11,Calibri,11.0,72.0,658.4,301.8,669.5,45% in the latter - in essential digital tools for 
+20,10,12,Calibri,11.0,72.0,672.9,165.0,684.0,today’s job market.   
+20,11,0,Calibri-Bold,11.0,72.0,695.4,525.9,706.4,"In addition, the Skillsbridges programmes, launched in September 2024, aim to address the shortage "
+20,11,1,Calibri-Bold,11.0,72.0,709.9,525.7,720.9,of qualified labour and support professional transitions with courses covering areas such as artificial 
+20,11,2,Calibri-Bold,11.0,72.0,724.4,347.7,735.5,"intelligence, data analysis, cloud computing, and e-marketing"
+20,11,2,Calibri,11.0,347.7,724.4,525.9,735.5,. The courses show strong early demand 
+20,11,3,Calibri,11.0,72.0,738.8,525.8,749.9,"and promising results, with high registration rates, waiting lists, and completion rates between 71% "
+20,12,0,Calibri,11.0,292.1,763.8,305.8,774.8,17 
+20,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+21,2,0,Calibri,11.0,72.0,74.2,525.9,85.2,"and 92%, indicating effective alignment with labour market needs and strong participant engagement. "
+21,2,1,Calibri,11.0,72.0,88.7,525.8,99.7,"Furthermore, the Ministry for Digitalisation launched an online trainer platform and supports monthly "
+21,2,2,Calibri,11.0,72.0,103.2,176.5,114.3,IT trainer meetups with
+21,2,2,Calibri,11.0,176.4,103.2,254.9,114.3, ErwuesseBildung
+21,2,2,Calibri,11.0,254.8,103.2,525.9,114.3, to foster a national network of digital educators and amplify 
+21,2,3,Calibri,11.0,72.0,117.6,175.8,128.7,local training capacity.  
+21,4,0,Calibri,11.0,72.0,140.2,186.7,151.2,"Finally, the government "
+21,4,0,Calibri,11.0,190.2,140.2,311.6,151.2,Zesummendigital platform
+21,4,0,Calibri,11.0,311.5,140.2,525.8,151.2,", centralises information on digital inclusion "
+21,4,1,Calibri,11.0,72.0,154.6,525.7,165.6,"initiatives, key stakeholders, and educational resources in Luxembourg. It also provides awareness "
+21,4,2,Calibri,11.0,72.0,169.1,406.6,180.1,tools and self-help materials to promote digital inclusion for all audiences.  
+21,5,0,Calibri,11.0,72.0,191.7,525.7,202.7,"While these developments reflect a strong commitment to inclusivity and innovation, the roadmap "
+21,5,1,Calibri,11.0,72.0,206.1,525.7,217.1,also recognises persistent challenges such as the gender digital divide and lower uptake among older 
+21,5,2,Calibri,11.0,72.0,220.6,525.9,231.6,"populations. Ensuring adequacy will thus require continued efforts to scale, evaluate, and adjust these "
+21,5,3,Calibri,11.0,72.0,235.1,362.9,246.2,measures to meet the evolving needs of all demographic groups. 
+21,6,0,Calibri-Bold,11.0,72.7,258.4,283.6,269.5,2024 recommendation on basic digital skills: 
+21,6,0,Calibri,11.0,285.0,258.4,525.0,269.5,Strengthen the strategy to develop the population’s 
+21,6,1,Calibri,11.0,72.7,272.8,154.1,283.8,basic digital skills. 
+21,7,0,Calibri-Bold,11.0,72.7,308.6,524.9,319.6,Luxembourg addressed fully the recommendation by putting significant policy actions into place in 
+21,7,1,Calibri-Bold,11.0,72.7,323.1,95.1,334.1,2024
+21,7,1,Calibri,11.0,95.2,323.1,525.1,334.1,. The country added six new measures on basic digital skills to its revised roadmap. Initiatives 
+21,7,2,Calibri,11.0,72.7,337.6,524.9,348.6,"continue across formal and non-formal education for children and students, including new measures "
+21,7,3,Calibri,11.0,72.7,352.1,525.1,363.2,"on digital responsibility and privacy. For older people, ongoing workshops are under way to support "
+21,7,4,Calibri,11.0,72.7,366.5,377.8,377.6,digital inclusion. The workforce benefits from expanded training via 
+21,7,4,Calibri-Italic,11.0,378.2,366.5,432.9,377.6,Skillsbridges
+21,7,4,Calibri,11.0,432.8,366.5,525.0,377.6,", and jobseekers are "
+21,7,5,Calibri,11.0,72.7,381.0,265.3,392.1,supported through tailored courses such as 
+21,7,5,Calibri-Italic,11.0,264.8,381.0,342.8,392.1,Basic Digital Skills
+21,7,5,Calibri,11.0,342.8,381.0,364.0,392.1, and 
+21,7,5,Calibri-Italic,11.0,363.4,381.0,457.6,392.1,Digital Fundamentals
+21,7,5,Calibri,11.0,457.7,381.0,525.1,392.1,. These actions 
+21,7,6,Calibri,11.0,72.7,395.6,460.8,406.6,are complemented by the implementation of the OECD Skills Strategy for Luxembourg. 
+21,8,0,Calibri,11.0,72.0,418.9,77.0,429.9,  
+21,9,0,Calibri-LightItalic,11.0,72.0,441.3,135.2,452.4,ICT specialists 
+21,10,0,Calibri-Bold,11.0,72.0,463.7,525.6,474.8,"In Luxembourg, the percentage of ICT specialists as a share of total employment was 8.0% in both "
+21,10,1,Calibri-Bold,11.0,72.0,478.3,416.6,489.3,"2023 and 2024, which was higher than the EU’s 4.8% and 5.0% respectively."
+21,10,1,Calibri,11.0,416.7,478.3,419.2,489.3, 
+21,10,1,Calibri-Bold,11.0,419.3,478.3,525.9,489.3,The country is on track 
+21,10,2,Calibri-Bold,11.0,72.0,492.8,235.1,503.8,according to its national trajectory.
+21,10,2,Calibri,11.0,235.2,492.8,525.7,503.8," However, Luxembourg recorded no growth in this area (0.0%), "
+21,10,3,Calibri,11.0,72.0,507.3,239.9,518.3,compared to the EU average of 4.2%. 
+21,11,0,Calibri-Bold,11.0,72.0,529.7,525.9,540.8,"Regarding the gender distribution among ICT specialists, Luxembourg had 22.5% of women ICT "
+21,11,1,Calibri-Bold,11.0,72.0,544.3,334.2,555.3,"specialists in 2023, higher than the EU average of 19.4%."
+21,11,1,Calibri,11.0,334.3,544.3,525.8,555.3," However, by 2024, this figure dropped to "
+21,11,2,Calibri,11.0,72.0,558.8,525.8,569.9,"17.4%, below the EU average of 19.5%. The growth rate for women ICT specialists in Luxembourg was "
+21,11,3,Calibri,11.0,72.0,573.2,525.8,584.3,"-22.7%, significantly lower than the EU average of 0.5%. In 2022, the percentage of enterprises "
+21,11,4,Calibri,11.0,72.0,587.7,525.8,598.8,"providing ICT training was 21.84%, lower than the EU average of 22.37%. However, by 2024, "
+21,11,5,Calibri,11.0,72.0,602.3,525.8,613.3,"Luxembourg’s figure rose to 24.84%, surpassing the EU’s 22.29%. The annual growth rate for "
+21,11,6,Calibri,11.0,72.0,616.8,449.8,627.8,"Luxembourg in this area was 6.6%, significantly higher than the EU average of -0.2%. "
+21,12,0,Calibri-Bold,11.0,72.0,639.2,520.4,650.3,"Luxembourg's ICT training sector is on a positive trajectory, with a robust annual growth rate"
+21,12,0,Calibri,11.0,520.8,639.2,525.9,650.3,. 
+21,12,1,Calibri,11.0,72.0,653.7,525.9,664.8,"However, the stagnation in the growth of ICT specialists and the decline in the percentage of women "
+21,12,2,Calibri,11.0,72.0,668.3,525.5,679.3,ICT specialists are areas of concern. Policies aimed at fostering growth in the ICT specialist sector and 
+21,12,3,Calibri,11.0,72.0,682.7,525.8,693.7,promoting gender diversity are essential to ensure Luxembourg's competitiveness and inclusivity in 
+21,12,4,Calibri,11.0,72.0,697.2,158.5,708.2,the ICT landscape.  
+21,13,0,Calibri,11.0,72.0,719.6,525.7,730.7,"In terms of demand from the labour market, Eurostat experimental statistics based on web scraping "
+21,13,1,Calibri,11.0,72.0,734.2,525.9,745.2,"show that in Luxembourg, the profiles of ‘software and applications developers and analysts’ are the "
+21,13,2,Calibri,11.0,72.0,748.7,525.6,759.7,"most sought after, representing 62.6% of online job advertisements for ICT specialists (58.0% at EU "
+21,14,0,Calibri,11.0,292.1,763.8,305.8,774.8,18 
+21,15,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+22,2,0,Calibri,11.0,72.0,74.2,525.9,85.2,"level). In addition to this dominant group, two other profiles are in higher demand in Luxembourg than "
+22,2,1,Calibri,11.0,72.0,88.7,525.8,99.7,in the EU on average: ‘information and communications technology operations and user support 
+22,2,2,Calibri,11.0,72.0,103.2,400.3,114.3,"technicians’ (14.0%), and ‘Database and network professionals’ (11.6%).   "
+22,4,0,Calibri-Bold,11.0,72.0,125.7,525.8,136.7,"Luxembourg still aims to have 10% of ICT specialists in employment by 2030, in line with the EU "
+22,4,1,Calibri-Bold,11.0,72.0,140.2,104.9,151.2,target. 
+22,4,1,Calibri,11.0,105.5,140.2,525.7,151.2,"In response to challenges such as skills shortages and gender imbalance in the digital sector, "
+22,4,2,Calibri,11.0,72.0,154.6,525.6,165.6,the revised roadmap introduces two targeted measures to strengthen the national pipeline of ICT 
+22,4,3,Calibri,11.0,72.0,169.1,525.7,180.1,"professionals. First, the law of 7 August 2023 (in force since 1 September) introduced key changes to "
+22,4,4,Calibri,11.0,72.0,183.6,525.7,194.7,simplify the employment of third-country nationals already residing in Luxembourg. A central tool is 
+22,4,5,Calibri,11.0,72.0,198.1,195.0,209.2,ADEM’s annually published 
+22,4,5,Calibri-Bold,11.0,194.7,198.1,403.7,209.2,List of Professions Facing Significant Shortages
+22,4,5,Calibri,11.0,403.9,198.1,525.9,209.2,", based on objective labour "
+22,4,6,Calibri,11.0,72.0,212.5,525.7,223.6,"market indicators such as vacancies, jobseeker availability, and unfilled positions. For professions on "
+22,4,7,Calibri,11.0,72.0,227.1,525.9,238.1,"this list, the labour market test is waived, and a certificate is issued within five days – streamlining "
+22,4,8,Calibri,11.0,72.0,241.6,523.6,252.6,recruitment for in-demand roles like ICT specialists. This marks a strategic shift toward more data-
+22,4,9,Calibri,11.0,72.0,256.1,525.7,267.2,"driven and responsive workforce planning, aligning migration and training policies with real economic "
+22,4,10,Calibri,11.0,72.0,270.5,525.7,281.6,"needs. This data-driven approach also marks a strategic shift towards proactive workforce planning, "
+22,4,11,Calibri,11.0,72.0,285.0,525.6,296.1,helping to ensure that ICT education and upskilling efforts translate into tangible labour market 
+22,4,12,Calibri,11.0,72.0,299.6,219.9,310.6,"outcomes. Second, the measure "
+22,4,12,Calibri-Bold,11.0,220.6,299.6,517.4,310.6,ICT specialists and gender convergence: motivate girls for STEM 
+22,4,12,Calibri,11.0,518.0,299.6,523.5,310.6,–
+22,4,12,Calibri-Bold,11.0,523.4,299.6,525.9,310.6, 
+22,4,13,Calibri,11.0,72.0,314.1,525.6,325.1,"co-steered by the Department of Media, Connectivity and Digital Policy (SMC), together with the "
+22,4,14,Calibri,11.0,72.0,328.6,366.8,339.6,"Ministry of Equality (MEGA), the Ministry of Education, the ‘"
+22,4,14,Calibri-Italic,11.0,366.7,328.6,478.4,339.6,Maison de l’orientation’
+22,4,14,Calibri,11.0,478.4,328.6,525.9,339.6, and IMS 
+22,4,15,Calibri,11.0,72.0,343.0,525.9,354.0,Luxembourg - introduces dedicated mentoring and hands-on experiences for girls aged 15–16 through 
+22,4,16,Calibri,11.0,72.0,357.5,525.9,368.6,partnerships between schools and employers. By involving female students in real-world STEM 
+22,4,17,Calibri,11.0,72.0,372.0,525.8,383.1,"challenges under the guidance of professionals, the initiative addresses gendered stereotypes early in "
+22,4,18,Calibri,11.0,72.0,386.6,525.8,397.6,the educational pipeline and seeks to build long-term interest in ICT careers. Both measures respond 
+22,4,19,Calibri,11.0,72.0,401.0,525.7,412.0,directly to gaps identified in past assessments and reflect a maturing strategy that couples structural 
+22,4,20,Calibri,11.0,72.0,415.5,525.9,426.5,"insights with inclusive interventions. Their adequacy will depend on effective implementation, "
+22,4,21,Calibri,11.0,72.0,430.0,525.8,441.1,"particularly in ensuring uptake across sectors and sustained cooperation between ministries, schools, "
+22,4,22,Calibri,11.0,72.0,444.5,160.6,455.6,and industry actors.
+22,4,22,Calibri,11.0,160.5,444.5,163.0,455.6, 
+22,5,0,Calibri,11.0,72.0,467.0,525.9,478.0,"To complement the new measures set out in the roadmap, Luxembourg is stepping up efforts to "
+22,5,1,Calibri,11.0,72.0,481.5,525.8,492.5,address gender disparities in ICT careers. Several initiatives are underway: support sessions for women 
+22,5,2,Calibri,11.0,72.0,496.0,525.9,507.1,"in career transitions (MEGA, WIDEANDCO SIS), Business Intelligence Academy courses for non-tech "
+22,5,3,Calibri,11.0,72.0,510.4,525.7,521.5,"women (WeSTEM+), and women-only groups in the 'Elements of AI' program, where participation by "
+22,5,4,Calibri,11.0,72.0,524.9,303.6,536.0,"women averages around 50%. Moreover, the study ‘"
+22,5,4,Calibri-Italic,11.0,303.5,524.9,525.9,536.0,Identifier les causes de la faible présence des filles 
+22,5,5,Calibri-Italic,11.0,72.0,539.5,319.6,550.5,et des femmes dans les filières et les métiers de l’ICT’
+22,5,5,Calibri,11.0,319.6,539.5,422.5,550.5, presented during the 
+22,5,5,Calibri,11.0,423.9,539.5,520.7,550.5,Girls in ICT Day 2025
+22,5,5,Calibri,11.0,520.8,539.5,525.9,550.5,", "
+22,5,6,Calibri,11.0,72.0,554.0,525.8,565.0,"conducted by WIDEANDCO SIS on behalf of MEGA, highlights the need for role models and inclusive "
+22,5,7,Calibri,11.0,72.0,568.4,525.9,579.5,teaching. MEGA also organises school workshops promoting gender equality in digital fields. As a 
+22,5,8,Calibri,11.0,72.0,582.9,525.6,594.0,"follow-up to the successful Girls in ICT Day 2025 round table, Luxembourg prepares a wider outreach "
+22,5,9,Calibri,11.0,72.0,597.5,150.3,608.5,format entitled ‘
+22,5,9,Calibri-Italic,11.0,150.1,597.5,328.3,608.5,Femmes & Tech: Dialogues inspirants’
+22,5,9,Calibri,11.0,328.3,597.5,525.9,608.5,. This initiative will create structured but 
+22,5,10,Calibri,11.0,72.0,612.0,525.8,623.0,"informal encounters between female professionals and secondary school pupils, including parents and "
+22,5,11,Calibri,11.0,72.0,626.4,525.6,637.4,"teachers, to encourage dialogue and show perspectives on careers in and with ICT. The format draws "
+22,5,12,Calibri,11.0,72.0,640.9,525.9,651.9,inspiration from Digital Decade best practices such as Croatia’s ‘Women in Digital’. Launch is foreseen 
+22,5,13,Calibri,11.0,72.0,655.4,216.0,666.5,during the 2025/26 school year. 
+22,6,0,Calibri,11.0,72.0,677.9,525.7,688.9,Luxembourg also continues to implement targeted measures to expand Luxembourg’s pool of expert 
+22,6,1,Calibri,11.0,72.0,692.4,525.8,703.4,"digital professionals. In 2024, ADEM significantly expanded its training offer for jobseekers aiming to "
+22,6,2,Calibri,11.0,72.0,706.9,420.6,717.9,upskill or reskill into technical ICT roles. One of the flagship programmes is the 
+22,6,2,Calibri-Italic,11.0,420.7,706.9,520.6,717.9,42 Luxembourg School
+22,6,2,Calibri,11.0,520.7,706.9,525.9,717.9,", "
+22,6,3,Calibri,11.0,72.0,721.4,525.7,732.5,"operated by the Digital Learning Hub (DLH), which enabled 130 jobseekers in 2024 to undertake an "
+22,6,4,Calibri,11.0,72.0,735.8,525.9,746.9,"intensive coding training designed to prepare them for careers in software development. Furthermore, "
+22,7,0,Calibri,11.0,292.1,763.8,305.8,774.8,19 
+22,8,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+23,3,0,Calibri,11.0,72.0,74.2,525.7,85.2,"2500 jobseekers participated in various DLH trainings, aimed at increasing access to fast evolving digital "
+23,3,1,Calibri,11.0,72.0,88.7,525.7,99.7,"domains. Overall, in 2024, the DLH delivered 397 courses across key areas such as cybersecurity, "
+23,3,2,Calibri,11.0,72.0,103.2,525.7,114.3,"artificial intelligence, blockchain, data science, programming, and IT administration, attracting over "
+23,3,3,Calibri,11.0,72.0,117.6,525.9,128.7,"4,000 enrolments, with 44% of participants being women. ADEM also collaborated with the CNFPC on "
+23,3,4,Calibri,11.0,72.0,132.1,470.4,143.2,a 4-month Full Stack/Web Developer programme for 30 participants and launched the ‘
+23,3,4,Calibri-Italic,11.0,470.4,132.1,525.9,143.2,e-Services 4 
+23,3,5,Calibri-Italic,11.0,72.0,146.7,114.0,157.7,Inclusion’
+23,3,5,Calibri,11.0,114.0,146.7,523.3,157.7," training with JWAY, supporting 35 jobseekers in low-code/no-code tools for digital services. "
+23,4,0,Calibri,11.0,72.0,169.1,525.8,180.1,Advanced training opportunities are reinforced through master’s programmes at the University of 
+23,4,1,Calibri,11.0,72.0,183.6,525.9,194.7,"Luxembourg in key subjects such as cybersecurity, data science, high-performance computing, and "
+23,4,2,Calibri,11.0,72.0,198.1,525.9,209.2,information systems security. These initiatives aim to strengthen Luxembourg’s strategic capabilities in 
+23,4,3,Calibri,11.0,72.0,212.5,282.1,223.6,high-tech and sovereign digital infrastructures. 
+23,5,0,Calibri-Light,12.0,72.0,235.4,476.9,247.4,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+23,6,0,Calibri-Bold,11.0,72.0,258.9,525.9,269.9,"In 2024, Luxembourg’s total score for digital public services for citizens was 97.66, surpassing the EU "
+23,6,1,Calibri-Bold,11.0,72.0,274.4,417.7,285.4,"average score of 82.32, with a growth rate of 3.0% lower than the EU’s 3.6%."
+23,6,1,Calibri,11.0,417.8,274.4,420.3,285.4, 
+23,6,1,Calibri-Bold,11.0,420.1,274.4,525.9,285.4,The country is on track 
+23,6,2,Calibri-Bold,11.0,72.0,289.9,233.4,300.9,according to its national trajectory.
+23,6,2,Calibri,11.0,233.6,289.9,525.8,300.9," For cross-border digital public services for citizens, Luxembourg "
+23,6,3,Calibri,11.0,72.0,305.2,525.9,316.2,"scored 95.36 in 2023 and 98.57 in 2024, both higher than the EU averages of 68.37 and 71.28, "
+23,6,4,Calibri,11.0,72.0,320.7,525.9,331.7,"respectively. Yet, Luxembourg’s growth rate of 3.4% was lower than the EU average of 4.3%. However, "
+23,6,5,Calibri,11.0,72.0,336.2,525.8,347.2,"the share of people using government internet websites or apps is decreasing in Luxembourg, from "
+23,6,6,Calibri,11.0,72.0,351.5,493.0,362.6,"90.89% in 2022 to 88.38% in 2024, but it remains far above the EU average of 74.71% in 2024. "
+23,7,0,Calibri-Bold,11.0,72.0,373.0,525.9,384.0,"In the realm of digital public services for businesses, Luxembourg’s reached a perfect score of 100.0 "
+23,7,1,Calibri-Bold,11.0,72.0,387.5,525.8,398.6,"in 2024, significantly higher than the EU average score of 86.23. The country is on track according to "
+23,7,2,Calibri-Bold,11.0,72.0,402.1,175.8,413.1,its national trajectory.
+23,7,2,Calibri,11.0,176.0,402.1,525.7,413.1," For cross-border digital public services for businesses, Luxembourg scored "
+23,7,3,Calibri,11.0,72.0,416.5,525.8,427.5,"93.33 in 2023 and a perfect 100.0 in 2024, higher than the EU averages of 73.13 and 73.76, "
+23,7,4,Calibri,11.0,72.0,431.0,493.9,442.0,respectively. Luxembourg’s growth rate of 7.1% significantly exceeded the EU average of 0.9%. 
+23,8,0,Calibri-Bold,11.0,72.0,453.5,525.7,464.6,"Regarding access to e-health records, Luxembourg’s total score was 76.1 in both 2023 and 2024, "
+23,8,1,Calibri-Bold,11.0,72.0,467.9,368.1,479.0,"falling short of the EU averages of 79.12 and 82.7, respectively."
+23,8,1,Calibri,11.0,368.1,467.9,370.6,479.0, 
+23,8,1,Calibri-Bold,11.0,371.7,467.9,525.8,479.0,Although the country is on track 
+23,8,2,Calibri-Bold,11.0,72.0,482.5,238.3,493.5,"according to its national trajectory, "
+23,8,2,Calibri,11.0,239.8,482.5,525.8,493.5,"Luxembourg experienced no growth between 2023 and 2024, "
+23,8,3,Calibri,11.0,72.0,497.0,258.0,508.0,while average growth in the EU was 4.5%.
+23,8,3,Calibri-Bold,11.0,257.9,497.0,260.4,508.0, 
+23,9,0,Calibri-LightItalic,11.0,72.0,519.4,92.4,530.5,e-ID 
+23,10,0,Calibri,11.0,72.0,542.0,525.8,553.0,"In 2023, 75.30% of Luxembourgish people had used their eID to access online services for private "
+23,10,1,Calibri,11.0,72.0,556.4,525.6,567.5,"purpose in the last 12 months (53.97% for the business sector), which is above the EU average "
+23,10,2,Calibri,11.0,72.0,570.9,224.3,582.0,"(41.11%). By the end of 2024, the "
+23,10,2,Calibri,11.0,224.6,570.9,257.6,582.0,GouvID
+23,10,2,Calibri,11.0,257.6,570.9,525.8,582.0," application had been downloaded 91,792 times (or by 14% "
+23,10,3,Calibri,11.0,72.0,585.5,525.9,596.5,"of the country’s population, compared to 9% end of 2023). Luxembourg’s electronic signature "
+23,10,4,Calibri,11.0,72.0,600.0,525.9,611.0,"verification and validation platform has been operational since April 2024, enabling state agents to "
+23,10,5,Calibri,11.0,72.0,614.4,525.7,625.4,"securely verify eIDAS-compliant electronic signatures, stamps, and timestamps, thus supporting the "
+23,10,6,Calibri,11.0,72.0,628.9,441.6,639.9,uptake of end-to-end digital administrative procedures for citizens and businesses. 
+23,11,0,Calibri-Bold,11.0,72.0,651.5,525.7,662.5,Luxembourg is actively advancing on its national implementation of the EU Digital Identity Wallet 
+23,11,1,Calibri-Bold,11.0,72.0,665.9,355.4,676.9,(EUDI Wallet) in line with the amended eIDAS Regulation.
+23,11,1,Calibri,11.0,355.8,665.9,525.8,676.9, Following the strategic decision to 
+23,11,2,Calibri,11.0,72.0,680.4,525.9,691.4,"discontinue the national e-wallet project due to legal and timing constraints, the country now focuses "
+23,11,3,Calibri,11.0,72.0,694.9,525.6,705.9,"on delivering a minimum viable product (MVP) of the EUDI Wallet. This MVP, expected to be tested "
+23,11,4,Calibri,11.0,72.0,709.4,525.7,720.5,"and refined by mid-2025 within the large-scale pilot POTENTIAL, will progressively integrate the full "
+23,11,5,Calibri,11.0,72.0,723.8,525.9,734.9,"set of functionalities required under EU law. Once certified, the Wallet will provide citizens with secure, "
+23,12,0,Calibri,11.0,292.1,763.8,305.8,774.8,20 
+23,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+24,2,0,Calibri,11.0,72.0,74.2,525.6,85.2,interoperable access to electronic identity services and a broad range of attribute attestations across 
+24,2,1,Calibri,11.0,72.0,88.7,109.4,99.7,the EU.  
+24,4,0,Calibri,11.0,72.0,111.1,525.9,122.2,Luxembourg is leading the work on identification for e-government services within the Advanced 
+24,4,1,Calibri,11.0,72.0,125.7,525.6,136.7,Project for Trusted Identity Technologies and Unified Digital Ecosystem (APTITUDE) that will pilot the 
+24,4,2,Calibri,11.0,72.0,140.2,525.9,151.2,"usage of EUDI Wallets. The country is also working on identification for bank account opening, the "
+24,4,3,Calibri,11.0,72.0,154.6,397.8,165.6,mobile driving licence (mDL) and remote qualified electronic signatures.  
+24,5,0,Calibri-LightItalic,11.0,72.0,177.1,327.2,188.2,Digitalisation of public services for citizens and businesses 
+24,6,0,Calibri-Bold,11.0,72.0,199.6,525.7,210.6,Luxembourg still aims to achieve a score of 100 for the digitalisation of public services for citizen and 
+24,6,1,Calibri-Bold,11.0,72.0,214.1,124.0,225.1,businesses.
+24,6,1,Calibri,11.0,124.1,214.1,525.8,225.1," Given the status of ongoing projects and strategic priorities, it is expected that "
+24,6,2,Calibri,11.0,72.0,228.6,329.2,239.7,Luxembourg will reach the Digital Decade target by 2030. 
+24,7,0,Calibri-Bold,11.0,72.0,251.1,424.9,262.1,"In the adjusted roadmap, two genuinely new measures have been introduced."
+24,7,0,Calibri,11.0,425.0,251.1,525.9,262.1," First, the introduction "
+24,7,1,Calibri,11.0,72.0,266.6,92.7,277.6,of a 
+24,7,1,Calibri-Bold,11.0,94.0,266.6,171.0,277.6,Digital Mandate 
+24,7,1,Calibri,11.0,172.2,266.6,525.7,277.6,aims to extend the benefits of digital public services to individuals who face 
+24,7,2,Calibri,11.0,72.0,282.0,525.7,293.1,"barriers to accessing online procedures—whether due to limited digital skills, lack of equipment, or "
+24,7,3,Calibri,11.0,72.0,297.4,525.9,308.5,personal preference—by enabling them to securely delegate administrative tasks to a trusted person 
+24,7,4,Calibri,11.0,72.0,312.9,525.7,323.9,"via MyGuichet.lu. This system, whose first iteration for able adults is planned for the end of 2025, will "
+24,7,5,Calibri,11.0,72.0,328.4,525.6,339.4,"gradually be extended to other user groups, including individuals under guardianship or curatorship "
+24,7,6,Calibri,11.0,72.0,343.7,525.9,354.8,"and surviving relatives, thereby fostering inclusive access to fast, user-friendly, and efficient "
+24,7,7,Calibri,11.0,72.0,359.2,525.8,370.2,"eGovernment services. In parallel, Luxembourg carried out several actions in 2024 to enhance public "
+24,7,8,Calibri,11.0,72.0,374.7,368.1,385.7,"awareness and accessibility of its digital services, including a major "
+24,7,8,Calibri,11.0,367.6,374.7,465.0,385.7,redesign of Guichet.lu
+24,7,8,Calibri,11.0,465.0,374.7,525.9,385.7, with content 
+24,7,9,Calibri,11.0,72.0,390.0,525.7,401.1,structured by life events and easy-to-read sections in simplified French and German. Accessibility 
+24,7,10,Calibri,11.0,72.0,405.5,525.9,416.6,features such as adjustable displays and text readers were added. New tools like a virtual meeting 
+24,7,11,Calibri,11.0,72.0,421.0,525.8,432.1,"room and a chatbot for appointment booking were also deployed. By the end of 2024, Guichet.lu had "
+24,7,12,Calibri,11.0,72.0,436.4,525.9,447.4,recorded 516 182 private spaces (+11.7% compared to the end of 2023) and 130 207 professional 
+24,7,13,Calibri,11.0,72.0,451.9,525.8,462.9,spaces (+15.7%). The MyGuichet.lu application had been downloaded 481 041 times (+28.8% over one 
+24,7,14,Calibri,11.0,72.0,467.3,525.9,478.4,"year). Furthermore, a national consultation involving 7 889 citizens was launched to guide the creation "
+24,7,15,Calibri,11.0,72.0,482.7,525.8,493.8,"of local service desks, ensuring human support remains available for those less comfortable with digital "
+24,7,16,Calibri,11.0,72.0,498.2,116.9,509.2,channels. 
+24,8,0,Calibri-Bold,11.0,72.0,519.7,284.1,530.7,The second new measure in the roadmap is the
+24,8,0,Calibri,11.0,284.1,519.7,286.6,530.7, 
+24,8,0,Calibri-Bold,11.0,286.1,519.7,523.4,530.7,draft law on the use of data in a trusted environment
+24,8,0,Calibri,11.0,523.4,519.7,525.9,530.7, 
+24,8,1,Calibri,11.0,72.0,534.2,525.8,545.2,and focusing on the national implementation of the ’once only’ principle. It complements the 
+24,8,2,Calibri,11.0,72.0,548.6,525.6,559.6,"implementation of the EU Data Governance Act with national provisions, creating a comprehensive "
+24,8,3,Calibri,11.0,72.0,563.1,525.8,574.2,legal and operational framework for the reuse of public sector data in a trusted environment. It 
+24,8,4,Calibri,11.0,72.0,577.7,525.7,588.7,"establishes the basis for a national interoperability programme, including a harmonised public data "
+24,8,5,Calibri,11.0,72.0,592.2,525.6,603.2,"inventory, a semantic repository, and a single point of access to public data. The bill also supports "
+24,8,6,Calibri,11.0,72.0,606.6,525.7,617.6,"flagship projects such as the automation of procedures related to births and deaths, and the "
+24,8,7,Calibri,11.0,72.0,621.1,461.9,632.1,systematisation of the ’Once Only’ approach on the national single digital gateway. 
+24,8,7,Calibri-Bold,11.0,463.8,621.1,525.9,632.1,"Its adoption, "
+24,8,8,Calibri-Bold,11.0,72.0,635.6,523.7,646.7,"expected by end 2025, is expected to significantly reduce administrative burden and accelerate data-"
+24,8,9,Calibri-Bold,11.0,72.0,650.1,212.2,661.2,driven public service delivery.  
+24,9,0,Calibri,11.0,72.0,672.6,525.7,683.6,Luxembourg actively strengthens the sovereignty of its public services by prioritising national and 
+24,9,1,Calibri,11.0,72.0,687.1,216.4,698.1,European digital solutions. The 
+24,9,1,Calibri,11.0,217.9,687.1,409.9,698.1,Luxembourg National Data Service (LNDS)
+24,9,1,Calibri,11.0,409.9,687.1,525.9,698.1,", operational since 2023, "
+24,9,2,Calibri,11.0,72.0,701.6,525.6,712.7,"facilitates the secure secondary use of public sector data for innovation, with over 60 staff and strong "
+24,9,3,Calibri,11.0,72.0,716.0,256.7,727.1,public-private cooperation. The national 
+24,9,3,Calibri,11.0,257.8,716.0,292.0,727.1,Luxchat
+24,9,3,Calibri,11.0,292.0,716.0,525.9,727.1," system, based on open-source French technology, "
+24,9,4,Calibri,11.0,72.0,730.6,525.8,741.6,"enhances secure mobile communication across government, businesses, and citizens. Additionally, the "
+24,10,0,Calibri,11.0,292.1,763.8,305.8,774.8,21 
+24,11,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+25,2,0,Calibri-Bold,11.0,72.0,74.2,182.0,85.2,GovCloud infrastructure
+25,2,0,Calibri,11.0,182.1,74.2,525.9,85.2,", operated by the Government IT Centre, offers a sovereign, energy-efficient "
+25,2,1,Calibri,11.0,72.0,88.7,279.5,99.7,‘as-a-service’ model to public administrations. 
+25,3,0,Calibri-LightItalic,11.0,72.0,111.1,112.2,122.2,e-Health 
+25,5,0,Calibri-Bold,11.0,72.0,133.7,525.5,144.7,"Luxembourg still aims at a score of 100 for the access to medical records, in line with the 2030 EU "
+25,5,1,Calibri-Bold,11.0,72.0,148.1,104.9,159.1,target. 
+25,5,1,Calibri,11.0,104.9,148.1,494.5,159.1,"However, the score hasn't changed since last year, so sustained efforts seem necessary. "
+25,6,0,Calibri-Bold,11.0,72.0,170.7,403.0,181.7,The country did not include any new measures in its adjusted roadmap.  
+25,7,0,Calibri,11.0,72.0,188.2,87.6,199.2,On 
+25,7,0,Calibri,11.0,87.7,188.2,118.3,199.2,eSanté
+25,7,0,Calibri,11.0,118.3,188.2,525.9,199.2,", the number of patient accounts is 209 299 as of 31 March 2025, with an average of 3 749 "
+25,7,1,Calibri,11.0,72.0,202.6,343.3,213.6,activated per month. The agency also lists 1.2 million DSPs (
+25,7,1,Calibri-Italic,11.0,343.4,202.6,453.4,213.6,Dossier de soins partagé
+25,7,1,Calibri,11.0,453.5,202.6,525.9,213.6,"), of which only "
+25,7,2,Calibri,11.0,72.0,217.1,265.8,228.1,half are affiliated to Luxembourg residents. 
+25,8,0,Calibri,11.0,72.0,234.6,525.8,245.7,"According to the 2025 Eurobarometer, 73% of Luxembourgish people think that digital technologies "
+25,8,1,Calibri,11.0,72.0,249.2,525.7,260.2,"will be important when accessing or receiving healthcare services (e.g., telemedicine, artificial "
+25,8,2,Calibri,11.0,72.0,263.6,366.4,274.6,intelligence for diagnosis diseases) during their daily life by 2030.  
+25,9,0,Calibri-Bold,11.0,72.7,286.9,242.2,297.9,2024 recommendation on e-Health: 
+25,9,0,Calibri,11.0,243.6,286.9,525.1,297.9,(i) Make the data types of e-prescription and e-dispensation 
+25,9,1,Calibri,11.0,72.7,301.4,525.0,312.4,available to people through the online access service; (ii) Ensure that all data types are made available 
+25,9,2,Calibri,11.0,72.7,315.9,524.8,326.9,in a timely manner; (iii) Enhance the authentication method for logging into the online access service 
+25,9,3,Calibri,11.0,72.7,330.3,524.9,341.3,by using a notified e-ID; (vi) Increase the supply of health data by onboarding more categories of 
+25,9,4,Calibri,11.0,72.7,344.8,167.2,355.9,healthcare providers 
+25,10,0,Calibri-Bold,11.0,72.7,368.1,525.1,379.1,Luxembourg made some efforts to address the recommendation through new policy actions in 2024. 
+25,10,1,Calibri,11.0,72.7,382.5,525.1,393.5,The roll-out of ePrescription and eDispensation is planned as part of the implementation of the EHDS 
+25,10,2,Calibri,11.0,72.7,397.0,525.0,408.1,"regulation and Luxembourg’s participation in the EU4Health programme. A new digital health strategy, "
+25,10,3,Calibri,11.0,72.7,411.5,525.0,422.6,"still under development, will align with EHDS requirements and prioritise the timely availability of key "
+25,10,4,Calibri,11.0,72.7,426.1,525.0,437.1,"health data categories, such as patient summaries, prescriptions, imaging, and lab results. Work is also "
+25,10,5,Calibri,11.0,72.7,440.5,522.7,451.5,underway to strengthen authentication by allowing patients to access services through a central e-ID-
+25,10,6,Calibri,11.0,72.7,455.0,524.8,466.0,"supported portal. Finally, increasing the supply of health data by onboarding more healthcare "
+25,10,7,Calibri,11.0,72.7,469.5,524.8,480.5,"providers is a key objective of the upcoming strategy. However, as the strategy is still being finalised, "
+25,10,8,Calibri,11.0,72.7,484.0,524.8,495.1,"no concrete outcomes were achieved in 2024, and regular coordination with healthcare providers "
+25,10,9,Calibri,11.0,72.7,498.4,187.3,509.5,continues in preparation. 
+25,11,0,Calibri,11.0,72.0,521.7,74.5,532.8, 
+25,11,0,TimesNewRomanPSMT,12.0,74.5,519.3,77.5,532.6, 
+25,12,0,Calibri-Light,15.0,72.0,545.1,526.5,560.1,Building a safe and human centric digital environment and preserving our 
+25,12,1,Calibri-Light,15.0,72.0,564.8,141.6,579.8,democracy 
+25,13,0,Calibri-Bold,11.0,72.0,591.8,381.6,602.9,"In Luxembourg, online participation in political and civic life is rising."
+25,13,0,Calibri,11.0,381.8,591.8,525.9,602.9," In 2024, 24.36% of people used "
+25,13,1,Calibri,11.0,72.0,606.2,525.9,617.3,"the internet to participate in consultations, to vote or to share opinions online. This share is above the "
+25,13,2,Calibri,11.0,72.0,620.7,343.1,631.8,EU average (20.45%) and trending upward (21.47% in 2022). 
+25,14,0,Calibri,11.0,72.0,643.3,525.7,654.3,"To further improve democratic processes, the government has announced an analysis phase, under "
+25,14,1,Calibri,11.0,72.0,657.7,525.9,668.7,"the 2023-2028 coalition agreement, to explore the secure and simplified implementation of electronic "
+25,14,2,Calibri,11.0,72.0,672.2,525.8,683.3,voting in polling stations. This would mark a significant step towards digital electoral innovation while 
+25,14,3,Calibri,11.0,72.0,686.7,202.0,697.8,preserving election integrity. 
+25,15,0,Calibri,11.0,72.0,709.2,525.8,720.2,"It is worth mentioning that Luxembourg’s Parliament has adopted the Digital Services Act (DSA), "
+25,15,1,Calibri,11.0,72.0,723.7,525.6,734.8,aligning with EU efforts to create a safer and more transparent online environment. The DSA bans 
+25,15,2,Calibri,11.0,72.0,738.2,525.6,749.3,"targeted advertising to minors, strengthens tools to report illegal content, and increases algorithm "
+25,16,0,Calibri,11.0,292.1,763.8,305.8,774.8,22 
+25,17,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+26,2,0,Calibri,11.0,72.0,74.2,525.7,85.2,"transparency. The Luxembourg Competition Authority will oversee enforcement, with powers to "
+26,2,1,Calibri,11.0,72.0,88.7,525.6,99.7,investigate and fine violations up to 6% of global turnover. It will coordinate implementation with 
+26,2,2,Calibri,11.0,72.0,103.2,218.6,114.3,"national authorities, such as the ‘"
+26,2,2,Calibri-Italic,11.0,218.6,103.2,457.8,114.3,Commission nationale pour la protection des données’
+26,2,2,Calibri,11.0,457.8,103.2,463.3,114.3, (
+26,2,2,Calibri,11.0,463.3,103.2,488.7,114.3,CNPD
+26,2,2,Calibri,11.0,488.7,103.2,525.9,114.3,"), under "
+26,2,3,Calibri,11.0,72.0,117.6,308.0,128.7,a cooperation agreement signed on 11 March 2025.  
+26,4,0,Calibri,11.0,72.0,140.2,525.8,151.2,"In 2025, Luxembourg’s central bank and the ECB had to face a surge of disinformation around the "
+26,4,1,Calibri,11.0,72.0,154.6,525.7,165.6,"digital euro, fuelling public confusion and scepticism. This highlighted the urgent need to strengthen "
+26,4,2,Calibri,11.0,72.0,169.1,525.7,180.1,"resilience against disinformation, prompting Luxembourg to launch broader public awareness and "
+26,4,3,Calibri,11.0,72.0,183.6,167.2,194.7,education initiatives. 
+26,5,0,Calibri-Bold,11.0,72.0,206.1,525.7,217.1,"To address such challenges, Luxembourg has continued to take multifaceted measures to target "
+26,5,1,Calibri-Bold,11.0,72.0,220.6,142.3,231.6,disinformation.
+26,5,1,Calibri,11.0,142.2,220.6,288.9,231.6, Luxembourg partners with the 
+26,5,1,Calibri,11.0,290.6,220.6,405.5,231.6,EDMO Belux observatory
+26,5,1,Calibri,11.0,405.6,220.6,523.7,231.6, to ensure access to fact-
+26,5,2,Calibri,11.0,72.0,235.1,525.8,246.2,"checking services and multilingual educational resources. Furthermore, legal instruments like the Press "
+26,5,3,Calibri,11.0,72.0,249.6,525.8,260.7,"Aid Law (2021) and the Law on Freedom of Expression in the Media uphold journalistic integrity, while "
+26,5,4,Calibri,11.0,72.0,264.0,477.8,275.1,the Consumer Code and Criminal Code address misleading content and reputational harm. 
+26,6,0,Calibri-Bold,11.0,72.0,286.6,509.2,297.6,"BEE SECURE, the national Safer Internet Centre, leads large-scale public awareness campaigns."
+26,6,0,Calibri,11.0,509.4,286.6,525.9,297.6, Its 
+26,6,1,Calibri,11.0,72.0,301.1,112.3,312.2,2024/25 
+26,6,1,Calibri,11.0,112.9,301.1,280.7,312.2,campaign ‘Monkey see – monkey do’
+26,6,1,Calibri,11.0,280.7,301.1,525.8,312.2," focused on AI-generated disinformation, especially in "
+26,6,2,Calibri,11.0,72.0,315.5,525.9,326.6,"the context of political elections. Through multimedia content and public displays, it educated citizens "
+26,6,3,Calibri,11.0,72.0,330.0,525.7,341.1,"– particularly youth – on the risks of deepfakes and how to recognize manipulated media. In schools, "
+26,6,4,Calibri,11.0,72.0,344.6,525.8,355.6,"over 1 200 digital safety training sessions were conducted in 2024 alone, including specific modules on "
+26,6,5,Calibri,11.0,72.0,359.1,161.3,370.1,disinformation like ‘
+26,6,5,Calibri,11.0,160.8,359.1,233.7,370.1,check your facts
+26,6,5,Calibri,11.0,233.8,359.1,289.0,370.1,"’, requested "
+26,6,5,Calibri,11.0,289.5,359.1,384.1,370.1,more than 400 times
+26,6,5,Calibri,11.0,384.2,359.1,525.9,370.1, for grades 8 and 9 since 2022. 
+26,6,6,Calibri,11.0,72.0,373.5,525.9,384.5,"Due to the high demand, the training module has been upgraded and updated. It will be offered under "
+26,6,7,Calibri,11.0,72.0,388.0,429.2,399.0,the name Fact Check – Safe and Sound starting with the 2025/2026 school year. 
+26,7,0,Calibri-Bold,11.0,72.0,410.6,273.1,421.6,Protecting minors remains a top priority.
+26,7,0,Calibri,11.0,273.2,410.6,525.9,421.6, Luxembourg implements age-appropriate awareness 
+26,7,1,Calibri,11.0,72.0,425.0,278.8,436.0,"measures, such as the National Action Plan ‘"
+26,7,1,Calibri-Italic,11.0,278.8,425.0,337.4,436.0,sécher.digital
+26,7,1,Calibri,11.0,337.4,425.0,525.8,436.0,"’ launched by the Ministry of Education, "
+26,7,2,Calibri,11.0,72.0,439.5,525.8,450.5,Children and Youth for the 2024/2025 school year. It promotes a balanced and responsible digital 
+26,7,3,Calibri,11.0,72.0,454.0,525.8,465.1,"culture in schools, focusing on digital well-being, AI literacy, digital skills, and administrative "
+26,7,4,Calibri,11.0,72.0,468.5,137.0,479.6,simplification. 
+26,7,4,Calibri,11.0,137.4,468.5,315.8,479.6,BEE SECURE’s Stopline platform enables
+26,7,4,Calibri,11.0,315.8,468.5,525.8,479.6," anonymous reporting of illegal content, and a "
+26,7,5,Calibri,11.0,72.0,482.9,383.4,494.0,"dedicated helpline offers support to parents, educators, and children. "
+26,8,0,Calibri,11.0,72.0,505.5,525.7,516.5,Data from 2023 confirms the relevance of these actions. Nearly half (45.82%) of Luxembourg residents 
+26,8,1,Calibri,11.0,72.0,520.0,525.9,531.1,"encountered hostile or degrading online messages, with youth aged 16-24 particularly affected "
+26,8,2,Calibri,11.0,72.0,534.4,525.6,545.5,"(58.35%). Moreover, 63.4% of individuals reported exposure to dubious online content, and 40.29% "
+26,8,3,Calibri,11.0,72.0,548.9,525.9,560.0,verified its accuracy – indicating a relatively strong culture of critical engagement. Young people not 
+26,8,4,Calibri,11.0,72.0,563.5,525.6,574.5,only experienced more disinformation (74.05%) but also checked sources more often (48.23%) than 
+26,8,5,Calibri,11.0,72.0,578.0,146.8,589.1,adults (41.52%). 
+26,9,0,Calibri,11.0,72.0,600.5,525.8,611.5,"According to the Digital Decade Eurobarometer 2025, Luxembourgish people strongly think that the "
+26,9,1,Calibri,11.0,72.0,615.0,525.8,626.0,action of the public authorities is urgent to protect children online regarding the negative impact of 
+26,9,2,Calibri,11.0,72.0,629.4,525.8,640.4,"social media on children’s mental health (97% of Luxembourgish people), cyberbullying and online "
+26,9,3,Calibri,11.0,72.0,643.9,525.9,654.9,harassment (97%) and to put in place age assurance mechanisms to restrict age-inappropriate content 
+26,9,4,Calibri,11.0,72.0,658.4,103.0,669.5,(95%). 
+26,10,0,Calibri,11.0,72.0,680.9,74.5,691.9, 
+26,11,0,Calibri,11.0,292.1,763.8,305.8,774.8,23 
+26,12,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+27,2,0,Calibri-Bold,26.0,72.0,77.2,529.1,103.2,Leveraging digital transformation for a 
+27,2,1,Calibri-Bold,26.0,72.0,111.4,240.5,137.4,smart greening 
+27,4,0,Calibri,11.0,72.0,150.7,525.7,161.8,"Luxembourg prioritises the green transition, linking it to digitalisation through targeted initiatives. "
+27,4,1,Calibri,11.0,72.0,165.1,525.9,176.2,"Energy, SMEs, and agriculture benefit from digital platforms and tools supporting sustainability, circular "
+27,4,2,Calibri,11.0,72.0,179.7,525.8,190.7,"economy, and climate resilience, reflecting a cross-sectoral approach to a greener, more competitive "
+27,4,3,Calibri,11.0,72.0,194.2,115.1,205.2,economy.
+27,4,3,Calibri-Bold,11.0,115.1,194.2,120.0,205.2,  
+27,5,0,Calibri,11.0,72.0,216.6,525.9,227.7,"Regarding the awareness of its population, in 2024, a quarter of Luxembourg's population (25.73%) "
+27,5,1,Calibri,11.0,72.0,231.2,523.6,242.2,considered energy efficiency to be important when purchasing ICT devices (EU: 19.35%) but the eco-
+27,5,2,Calibri,11.0,72.0,245.7,525.9,256.7,"design of the device was considered important by only 10.81%, below the EU average of 12.04%. "
+27,5,3,Calibri,11.0,72.0,260.1,525.9,271.1,"However, those two eco-friendly criteria are far less important to buyers than the price, the "
+27,5,4,Calibri,11.0,72.0,274.6,283.0,285.6,"performance, and the design of the ICT device. "
+27,6,0,Calibri,11.0,72.0,297.2,525.6,308.2,"Luxembourgers tend to recycle more their laptop (12.84%), mobile phone (11.48%) and desktop "
+27,6,1,Calibri,11.0,72.0,311.6,441.3,322.6,"devices (16.18%) than the EU average (11.31%, 10.93%, and 14.66% respectively).  "
+27,7,0,Calibri,11.0,72.0,334.1,273.7,345.2,"In April 2024, the Ministry for Digitalisation "
+27,7,0,Calibri,11.0,275.0,334.1,389.5,345.2,handed over 334 laptops
+27,7,0,Calibri,11.0,389.4,334.1,475.5,345.2,", collected by the ‘"
+27,7,0,Calibri-Italic,11.0,475.5,334.1,525.9,345.2,Centre des 
+27,7,1,Calibri-Italic,11.0,72.0,348.6,251.1,359.7,technologies de l’information de l’État’
+27,7,1,Calibri,11.0,251.1,348.6,525.8,359.7," (CTIE) from various public entities, to the Digital Inclusion "
+27,7,2,Calibri,11.0,72.0,363.0,525.7,374.1,association. Digital Inclusion will refurbish the devices and distribute them to people who request the 
+27,7,3,Calibri,11.0,72.0,377.6,155.4,388.6,association’s help. 
+27,8,0,Calibri-Bold,11.0,72.0,400.1,525.7,411.2,"In its revised roadmap, Luxembourg has added five new measures in order to twin the green and "
+27,8,1,Calibri-Bold,11.0,72.0,414.5,150.6,425.6,digital transition.
+27,8,1,Calibri,11.0,150.6,414.5,240.4,425.6," Among these, the ‘"
+27,8,1,Calibri,11.0,240.4,414.5,378.0,425.6,SME Packages – Sustainability’
+27,8,1,Calibri,11.0,377.8,414.5,525.9,425.6, programme empowers SMEs to 
+27,8,2,Calibri,11.0,72.0,429.1,525.8,440.1,"lower their environmental footprint by improving energy and water efficiency, enhancing waste "
+27,8,3,Calibri,11.0,72.0,443.6,525.8,454.6,"management, and carrying out carbon assessments. Beneficiaries can access to a state aid of 70% of "
+27,8,4,Calibri,11.0,72.0,458.1,525.8,469.1,"eligible costs between EUR 3 000 excl. VAT and EUR 25 000 excl. VAT, for implementing sustainable "
+27,8,5,Calibri,11.0,72.0,472.5,525.7,483.5,"solutions, often complemented by digital tools to optimise customer communication and internal "
+27,8,6,Calibri,11.0,72.0,487.0,195.0,498.1,"processes. Similarly, the ‘"
+27,8,6,Calibri-Bold,11.0,195.1,487.0,286.4,498.1,Fit 4 Sustainability
+27,8,6,Calibri,11.0,286.4,487.0,525.9,498.1,’ programme provides SMEs with comprehensive 
+27,8,7,Calibri,11.0,72.0,501.5,525.9,512.6,"environmental diagnostics – covering decarbonisation, water use, and product life cycle analysis – "
+27,8,8,Calibri,11.0,72.0,516.1,525.9,527.1,followed by tailored recommendations and potential investment support to implement these changes. 
+27,9,0,Calibri-Bold,11.0,72.0,538.5,498.7,549.5,"Complementing these measures, the Product Circularity Data Sheet (PCDS) initiative led by "
+27,9,0,Calibri-BoldItalic,11.0,499.8,538.5,525.9,549.5,Terra 
+27,9,1,Calibri-BoldItalic,11.0,72.0,553.0,131.6,564.1,Matters G.I.E
+27,9,1,Calibri-Italic,11.0,131.7,553.0,134.4,564.1,.
+27,9,1,Calibri,11.0,134.4,553.0,525.8,564.1,", established by the Ministry of the Economy and the Chamber of Commerce, introduces "
+27,9,2,Calibri,11.0,72.0,567.6,525.9,578.6,a trustworthy system for managing circular product data. By facilitating third-party verification of 
+27,9,3,Calibri,11.0,72.0,582.0,525.7,593.0,"circularity claims, it aims to increase transparency and trust across digital product value chains and "
+27,9,4,Calibri,11.0,72.0,596.5,231.0,607.5,promote responsible consumption. 
+27,10,0,Calibri-Bold,11.0,72.0,618.9,484.2,630.0,"In agriculture, Luxembourg is leveraging digital technology to drive green transformation. "
+27,10,0,Calibri,11.0,484.9,618.9,523.5,630.0,The MA-
+27,10,1,Calibri,11.0,72.0,633.5,525.8,644.5,"eFaST project focuses on integrating databases to optimise nutrient management, reducing nitrogen "
+27,10,2,Calibri,11.0,72.0,648.0,525.8,659.0,"loss and the need for chemical fertilisers, thus cutting greenhouse gas emissions. Meanwhile, the "
+27,10,3,Calibri,11.0,72.0,662.5,525.8,673.5,"ADAPT project explores smart cropping techniques – like intercropping, reduced tillage, and cover "
+27,10,4,Calibri,11.0,72.0,676.9,525.9,687.9,crops – to mitigate emissions and preserve soil carbon. By combining real-world testing with modelling 
+27,10,5,Calibri,11.0,72.0,691.4,523.6,702.5,"and regional climate projections, ADAPT aims to guide farmers with data-driven advice for climate-"
+27,10,6,Calibri,11.0,72.0,705.9,276.6,717.0,resilient farming practices across the country. 
+27,11,0,Calibri-Bold,11.0,72.0,728.4,321.9,739.4,Regarding existing measure in the previous roadmap
+27,11,0,Calibri,11.0,322.0,728.4,525.8,739.4,", on 20 March 2025, Luxembourg launched "
+27,11,1,Calibri-Italic,11.0,72.0,742.9,104.2,754.0,Leneda
+27,11,1,Calibri,11.0,104.2,742.9,106.9,754.0,","
+27,11,1,Calibri,11.0,106.9,742.9,322.3,754.0," its national Energy Data Platform, developed by "
+27,11,1,Calibri,11.0,322.1,742.9,347.3,754.0,Creos
+27,11,1,Calibri,11.0,347.4,742.9,525.9,754.0," Luxembourg. Mandated by law, Leneda "
+27,12,0,Calibri,11.0,292.1,763.8,305.8,774.8,24 
+27,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+28,3,0,Calibri,11.0,72.0,74.2,525.8,85.2,"centralises electricity and gas data, supporting the green-digital transition by improving data "
+28,3,1,Calibri,11.0,72.0,88.7,525.9,99.7,"accessibility, transparency, and efficiency. It offers secure access to near real-time consumption and "
+28,3,2,Calibri,11.0,72.0,103.2,525.7,114.3,"production data, trusted data sharing, and unique Energy IDs for faster procedures. Leneda marks a "
+28,3,3,Calibri,11.0,72.0,117.6,525.9,128.7,"key step towards a more sustainable, competitive energy system. It may also include water and heat "
+28,3,4,Calibri,11.0,72.0,132.1,155.5,143.2,data in the future. 
+28,4,0,Calibri,11.0,72.0,154.6,525.8,165.6,"The country also continued to strengthen its strategy linking the digital and green transitions, in line "
+28,4,1,Calibri,11.0,72.0,169.1,115.1,180.1,with the ‘
+28,4,1,Calibri-Italic,11.0,115.1,169.1,224.1,180.1,Ons Wirtschaft vu muer’
+28,4,1,Calibri,11.0,224.1,169.1,525.7,180.1, roadmap and the National Energy and Climate Plan (PNEC). Efforts 
+28,4,2,Calibri,11.0,72.0,183.6,525.9,194.7,"focus on optimising the energy efficiency and greening the supply of digital infrastructures, such as "
+28,4,3,Calibri,11.0,72.0,198.1,525.7,209.2,"datacentres, through measures like promoting renewable energy adoption, waste heat recovery, "
+28,4,4,Calibri,11.0,72.0,212.5,525.7,223.6,"immersion cooling, and material efficiency. The MeluXina supercomputer, ranked among the most "
+28,4,5,Calibri,11.0,72.0,227.1,525.9,238.1,"energy-efficient globally, highlights this ambition. In addition, Sector-specific initiatives, such as "
+28,4,6,Calibri,11.0,72.0,241.6,525.8,252.6,"funding for smart agriculture solutions and AI-based smart grid projects, further support the "
+28,4,7,Calibri,11.0,72.0,256.1,525.9,267.2,"deployment of digital solutions that reduce carbon footprints across the energy, transport, and "
+28,4,8,Calibri,11.0,72.0,270.5,160.0,281.6,agriculture sectors. 
+28,5,0,Calibri,11.0,72.0,297.0,525.9,308.1,"According to the Digital Decade Eurobarometer 2025, 77% of Luxembourgish people consider digital "
+28,5,1,Calibri,11.0,72.0,311.6,525.9,322.6,"technologies important to help fight climate change, while 81% of Luxembourgish respondents think "
+28,5,2,Calibri,11.0,72.0,326.1,525.9,337.1,that ensuring that digital technologies serve the green transition should be an important action for 
+28,5,3,Calibri,11.0,72.0,340.6,157.9,351.6,public authorities.  
+28,6,0,Calibri-Bold,11.0,72.7,363.8,246.1,374.8,2024 recommendation on green ICT: 
+28,6,0,Calibri,11.0,247.5,363.8,524.9,374.8,(i) Develop a coherent approach to twinning the digital and 
+28,6,1,Calibri,11.0,72.7,378.3,524.8,389.3,"green transitions. First, promote improvements in energy and material efficiency of digital "
+28,6,2,Calibri,11.0,72.7,392.8,525.0,403.9,"infrastructures, in particular datacentres. Second, support the development and deployment of digital "
+28,6,3,Calibri,11.0,72.7,407.2,524.8,418.3,"solutions that reduce the carbon footprint in other sectors, such as energy, transport, buildings, and "
+28,6,4,Calibri,11.0,72.7,421.7,342.5,432.8,"agriculture, including the uptake of such solutions by SMEs.  "
+28,7,0,Calibri,11.0,72.7,444.3,524.8,455.4,(ii) Monitor and quantify the emission reductions of the deployed digital solutions in line with the 
+28,7,1,Calibri,11.0,72.7,458.7,524.8,469.8,relevant EU guidance and with the support of the methodology developed by the European Green 
+28,7,2,Calibri,11.0,72.7,473.2,502.2,484.3,"Digital Coalition, in view of future policy development, as well as of attracting relevant financing."
+28,7,2,Calibri-Bold,11.0,502.2,473.2,504.7,484.3, 
+28,8,0,Calibri-Bold,11.0,72.7,496.5,524.8,507.5,(i) Luxembourg addressed fully the recommendation by putting significant policy actions into place 
+28,8,1,Calibri-Bold,11.0,72.7,511.0,109.4,522.1,in 2024.
+28,8,1,Calibri,11.0,109.5,511.0,524.8,522.1,  Luxembourg added five new measures and continued to strengthen its strategy to twin the 
+28,8,2,Calibri,11.0,72.7,525.4,524.9,536.5,"green and digital transitions through sector-specific initiatives, enhanced SME support, and the "
+28,8,3,Calibri,11.0,72.7,539.9,525.0,551.0,promotion of energy-efficient digital infrastructures such as datacentres and the national 
+28,8,4,Calibri,11.0,72.7,554.5,191.5,565.5,supercomputer MeluXina. 
+28,9,0,Calibri-Bold,11.0,72.7,576.9,453.3,588.0,(ii) No information is available on measures taken to address the recommendation. 
+28,10,0,Calibri,11.0,72.0,600.2,77.0,611.3,  
+28,11,0,Calibri,11.0,72.0,622.7,74.5,633.7, 
+28,11,1,Calibri,11.0,216.1,622.7,218.5,633.7, 
+28,12,0,Calibri,11.0,292.1,763.8,305.8,774.8,25 
+28,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+29,2,0,Calibri-Bold,26.0,72.0,77.2,470.6,103.2,Annex I – National roadmap analysis 
+29,4,0,Calibri-Bold,11.0,77.7,116.9,339.6,127.9,Luxembourg’s national Digital Decade strategic roadmap  
+29,4,1,Calibri,11.0,77.7,131.4,518.0,142.5,"Luxembourg submitted a fully revised national Digital Decade roadmap on 2 December 2024, "
+29,4,2,Calibri,11.0,77.7,145.9,517.8,157.0,containing more than 30 new and edited measures and revised trajectories. The roadmap notably 
+29,4,3,Calibri,11.0,77.7,160.5,518.0,171.5,"strengthens the focus on SMEs and AI, with new support tools set to be launched in 2025. It "
+29,4,4,Calibri,11.0,77.7,174.9,431.2,185.9,addresses a substantial number of roadmap recommendations issued in 2024:  
+29,5,0,SymbolMT,11.0,95.7,195.2,100.7,208.7,
+29,5,0,ArialMT,11.0,100.7,196.3,103.8,208.6, 
+29,5,1,Calibri-Italic,11.0,113.7,198.0,518.0,209.1,"(i) Examine the opportunity of providing a target and trajectory for unicorns, (ii) provide a "
+29,5,2,Calibri-Italic,11.0,113.7,212.4,272.7,223.5,target and trajectory for edge nodes
+29,5,2,Calibri,11.0,272.8,212.4,518.0,223.5,: Luxembourg has not set a national target or trajectory 
+29,5,3,Calibri,11.0,113.7,226.9,517.8,238.0,"for unicorns or edge nodes. For unicorns, Luxembourg highlights the small market size and "
+29,5,4,Calibri,11.0,113.7,241.5,517.9,252.5,its role as a testbed for innovative companies as reasons why setting a target is not feasible. 
+29,5,5,Calibri,11.0,113.7,256.0,518.0,267.0,"For edge nodes, Luxembourg considers that due to its near-complete high-speed internet "
+29,5,6,Calibri,11.0,113.7,270.4,517.7,281.5,"coverage and small territory, the need for edge nodes is limited, and contributions will "
+29,5,7,Calibri,11.0,113.7,284.9,518.0,296.0,mainly occur through participation in EU initiatives like the IPCEI on Next-Generation Cloud 
+29,5,8,Calibri,11.0,113.7,299.4,517.8,310.5,"Infrastructure and Services. In addition, in its revised roadmap, Luxembourg did not "
+29,5,9,Calibri,11.0,113.7,314.0,517.7,325.0,provide a national target for Edge Nodes but continues to monitor the work on the 
+29,5,10,Calibri,11.0,113.7,328.4,347.3,339.4,definition of a methodology for the KPI assessment. 
+29,5,11,SymbolMT,11.0,95.7,340.7,100.7,354.2,
+29,5,11,ArialMT,11.0,100.7,341.8,103.8,354.1, 
+29,5,12,Calibri-Italic,11.0,113.7,343.5,518.0,354.5,"Review and reinforce, if deemed necessary at this stage, measures to contribute to the "
+29,5,13,Calibri-Italic,11.0,113.7,358.0,517.7,369.0,"targets that are the most challenging to reach, such as the digital skills for all, the basic "
+29,5,14,Calibri-Italic,11.0,113.7,372.5,267.1,383.6,level of digital intensity for SMEs: 
+29,5,14,Calibri,11.0,267.6,372.5,518.0,383.6,six new measures were added for digital skills and two 
+29,5,15,Calibri,11.0,113.7,386.9,230.1,398.0,important ones for SMEs. 
+29,5,15,Calibri-Italic,11.0,230.1,386.9,232.6,398.0, 
+29,5,16,SymbolMT,11.0,95.7,399.3,100.7,412.7,
+29,5,16,ArialMT,11.0,100.7,400.4,103.8,412.7, 
+29,5,17,Calibri-Italic,11.0,113.7,402.1,517.8,413.1,"Provide more information on the implementation of digital rights and principles, including "
+29,5,18,Calibri-Italic,11.0,113.7,416.6,296.4,427.6,what national measures contribute to it:
+29,5,18,Calibri,11.0,296.5,416.6,299.0,427.6, 
+29,5,18,Calibri,11.0,299.6,416.6,517.9,427.6,Luxembourg addressed this recommendation in 
+29,5,19,Calibri,11.0,113.7,431.0,517.7,442.0,the roadmap adjustment by mapping national policies and measures to the digital rights 
+29,5,20,Calibri,11.0,113.7,445.5,424.6,456.5,"and principles, ensuring alignment with the Digital Decade objectives."
+29,5,20,Calibri-Italic,11.0,424.7,445.5,427.2,456.5, 
+29,6,0,Calibri-Bold,11.0,197.9,460.0,391.9,471.1,Measures and budget in national roadmap
+29,6,0,Calibri-Bold,7.0,391.8,459.1,395.3,466.1,8
+29,6,0,Calibri,11.0,395.2,460.0,397.7,471.1, 
+29,7,0,Calibri,11.0,504.0,677.4,506.5,688.4, 
+29,7,1,Calibri,11.0,216.1,693.6,218.5,704.6, 
+29,7,2,Calibri,6.5,72.0,706.1,75.3,712.6,8
+29,7,2,Calibri,10.0,75.3,707.0,77.5,716.9, 
+29,7,2,Calibri,9.0,77.9,707.7,525.0,716.7,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+29,7,3,Calibri,9.0,72.0,719.8,525.4,728.8,"roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+29,7,4,Calibri,9.0,72.0,731.7,525.0,740.7,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+29,7,5,Calibri,9.0,72.0,743.5,237.8,752.5,States followed the guidance was carried out.
+29,7,5,Calibri,10.0,238.0,742.8,240.3,752.7, 
+29,8,0,Calibri,11.0,292.1,763.8,305.8,774.8,26 
+29,9,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+30,3,0,Calibri,11.0,77.7,74.7,518.0,85.7,"The revised roadmap continues to prioritise connectivity, cybersecurity, SME digitalisation, and in "
+30,3,1,Calibri,11.0,77.7,89.2,517.9,100.2,general the adoption of advanced technologies such as AI and cloud. A total of 98 measures are 
+30,3,2,Calibri,11.0,77.7,103.7,518.0,114.7,"now part of Luxembourg’s national strategic roadmap with a budget of EUR 515 million, EUR 488 "
+30,3,3,Calibri,11.0,77.7,118.1,518.0,129.1,"million comes from public budgets, equivalent to 0.57% of Luxembourg’s GDP in 2024. It covers all "
+30,3,4,Calibri,11.0,77.7,132.6,517.9,143.7,"objectives of the Digital Decade, including human-centred digital transformation, resilience and "
+30,3,5,Calibri,11.0,77.7,147.1,517.7,158.2,"security, technological sovereignty, the twin green and digital transition, and digital rights and "
+30,3,6,Calibri,11.0,77.7,161.7,126.1,172.7,principles. 
+30,3,7,Calibri-Bold,26.0,72.0,187.6,77.9,213.6, 
+30,3,8,Calibri-Bold,26.0,216.1,187.6,221.9,213.6, 
+30,4,0,Calibri,11.0,292.1,763.8,305.8,774.8,27 
+30,5,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+31,2,0,Calibri-Bold,26.0,72.0,77.2,481.5,103.2,Annex II – Factsheet on multi-country 
+31,2,1,Calibri-Bold,26.0,72.0,111.4,382.6,137.4,projects (MCPs) and funding 
+31,4,0,Calibri-Bold,11.0,77.7,151.2,269.9,162.3,Multi-country projects and best practices  
+31,4,1,Calibri,11.0,77.7,165.6,535.2,176.7,"Luxembourg is a member of the three established EDICs; the Alliance for Language Technologies EDIC, "
+31,4,2,Calibri,11.0,77.7,180.1,535.2,191.2,the Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. It has also offered to 
+31,4,3,Calibri,11.0,77.7,194.7,535.4,205.7,host an EDIC that is being set up in the area of genomics. Luxembourgish entities are indirect partners 
+31,4,4,Calibri,11.0,77.7,209.2,535.4,220.2,in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Luxembourg is also a 
+31,4,5,Calibri,11.0,77.7,223.6,423.3,234.6,participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+31,5,0,Calibri,11.0,77.7,246.2,351.3,257.2,The country has contributed to the Best Practice Accelerator
+31,5,0,Calibri,7.0,351.2,245.3,354.7,252.2,9
+31,5,0,Calibri,11.0,354.7,246.2,535.4,257.2, by sharing three best practices. Two of 
+31,5,1,Calibri,11.0,77.7,260.7,535.2,271.7,them are part of the Digital Skills cluster: Girls in ICT Day national awareness action and Girls Deploy 
+31,5,2,Calibri,11.0,77.7,275.1,535.5,286.1,your Digital Talent. Another best practice - the creation and promotion of a Product Circularity Data 
+31,5,3,Calibri,11.0,77.7,289.6,341.9,300.6,Sheet (PCDS) - has been shared under the Green IT Cluster. 
+31,6,0,Calibri,11.0,72.0,312.6,74.5,323.7, 
+31,7,0,Calibri-Bold,11.0,77.7,335.6,283.8,346.6,EU funding for digital policies in Luxembourg 
+31,7,1,Calibri,11.0,77.7,350.1,510.7,361.1,Luxembourg allocates 38% of its total recovery and resilience plan to digital (EUR 24 million)
+31,7,1,Calibri,7.0,510.6,349.2,517.6,356.1,10
+31,7,1,Calibri,11.0,517.6,350.1,535.5,361.1,. In 
+31,7,2,Calibri,11.0,77.7,364.6,535.3,375.6,"addition, under cohesion policy, EUR 6 million (representing 15% of the country’s total cohesion policy "
+31,7,3,Calibri,11.0,77.7,379.1,398.1,390.2,"funding), is dedicated to advancing Luxembourg’s digital transformation"
+31,7,3,Calibri,7.0,398.1,378.2,405.1,385.2,11
+31,7,3,Calibri,11.0,405.1,379.1,535.5,390.2,". According to JRC estimates, "
+31,7,4,Calibri,11.0,77.7,393.5,535.5,404.6,EUR 28 million directly contribute to achieving Digital Decade targets (of which EUR 24 million comes 
+31,7,5,Calibri,11.0,77.7,408.1,353.2,419.1,from the RRF and EUR 4 million from cohesion policy funding)
+31,7,5,Calibri,7.0,353.4,407.2,360.4,414.1,12
+31,7,5,Calibri,11.0,360.3,408.1,535.4,419.1,.Luxembourg’s RRF and Cohesion Fund 
+31,7,6,Calibri,11.0,77.7,422.6,535.3,433.6,investments for digital policies are modest in volume but strategically focused. The largest share 
+31,7,7,Calibri,11.0,77.7,437.1,535.5,448.1,"supports digital public services, including improvements to electronic health records and digital portals "
+31,7,8,Calibri,11.0,77.7,451.5,535.2,462.5,"for citizens and businesses. Funding also targets emerging technologies such as cloud computing, AI, "
+31,7,9,Calibri,11.0,77.7,466.0,535.4,477.1,"and data analytics, reflecting national efforts to build digital capabilities within the public sector. "
+31,7,10,Calibri,11.0,77.7,480.5,535.4,491.6,"Resources are allocated to support digital late adopters and scale-ups, in line with Luxembourg’s "
+31,7,11,Calibri,11.0,77.7,495.1,535.2,506.1,"roadmap priorities on inclusion and innovation. However, key areas such as 5G, gigabit connectivity, "
+31,7,12,Calibri,11.0,77.7,509.5,290.4,520.5,and e-ID remain without dedicated EU funding. 
+31,7,12,Calibri-Bold,11.0,290.5,509.5,293.0,520.5, 
+31,8,0,Calibri,11.0,216.1,574.7,218.5,585.7, 
+31,8,1,Calibri,6.5,72.0,587.2,75.3,593.7,9
+31,8,1,Calibri,10.0,75.3,588.1,77.5,598.0, 
+31,8,1,Calibri,9.0,77.7,588.8,525.3,597.8,The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+31,8,2,Calibri,9.0,72.0,601.0,525.5,610.0,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+31,8,3,Calibri,9.0,72.0,612.9,525.4,621.9,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+31,8,4,Calibri,9.0,72.0,624.7,250.6,633.7,"Green IT, and the Uptake of Digital Technologies. "
+31,8,4,Calibri,10.0,250.7,624.0,253.0,633.9, 
+31,9,0,Calibri,6.0,72.0,644.3,78.1,650.3,10
+31,9,0,Calibri,9.0,78.0,644.6,525.0,653.6, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+31,9,1,Calibri,9.0,72.0,656.3,313.5,665.3,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+31,10,0,Calibri,6.0,72.0,676.0,78.1,682.0,11
+31,10,0,Calibri,9.0,78.0,676.3,523.3,685.3, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+31,10,1,Calibri,9.0,72.0,688.1,525.0,697.1,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+31,10,2,Calibri,9.0,72.0,699.9,315.5,708.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+31,11,0,Calibri,6.0,72.0,719.6,78.1,725.6,12
+31,11,0,Calibri,9.0,78.0,719.8,525.4,728.8," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+31,11,1,Calibri,9.0,72.0,731.7,525.4,740.7,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+31,11,2,Calibri,9.0,72.0,743.5,94.6,752.5,2025. 
+31,12,0,Calibri,11.0,292.1,763.8,305.8,774.8,28 
+31,13,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+32,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+32,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+32,2,0,Calibri-Bold,26.0,72.0,77.2,490.4,103.2,Annex III – Digital Rights and Principles
+32,2,0,Calibri,17.0,490.5,75.0,507.8,92.0,13
+32,2,0,Calibri-Bold,26.0,507.8,77.2,513.7,103.2, 
+32,6,0,Calibri,11.0,276.0,340.1,278.5,351.2, 
+32,6,1,Calibri-Bold,11.0,523.4,340.1,525.9,351.2, 
+32,6,2,Calibri-Bold,11.0,72.0,351.5,74.5,362.6, 
+32,7,0,Calibri-Bold,11.0,72.0,372.0,252.4,383.1,Activity on Digital Rights and Principles 
+32,7,0,Calibri,11.0,252.5,372.0,293.2,383.1,(figure 1)
+32,7,0,Calibri-Bold,11.0,293.2,372.0,298.1,383.1,  
+32,8,0,Calibri-Bold,11.0,72.0,394.5,525.6,405.5,Luxembourg has been one of the most active Member States in implementing digital rights and 
+32,8,1,Calibri-Bold,11.0,72.0,409.0,116.4,420.1,principles
+32,8,1,Calibri,11.0,116.4,409.0,119.2,420.1,","
+32,8,1,Calibri-Bold,11.0,119.1,409.0,121.6,420.1, 
+32,8,1,Calibri,11.0,121.1,409.0,525.8,420.1,"with over 100 initiatives overall and 20 new initiatives launched in 2024, showing significant "
+32,8,2,Calibri,11.0,72.0,423.5,237.3,434.6,progress towards its commitments. 
+32,8,2,Calibri-Bold,11.0,239.3,423.5,525.7,434.6,"Luxembourg is most active in the area of Digital education, "
+32,8,3,Calibri-Bold,11.0,72.0,437.9,156.8,449.0,training and skills
+32,8,3,Calibri,11.0,156.7,437.9,525.9,449.0," (II). There is room for improvement, especially with regards to A fair digital "
+32,8,4,Calibri,11.0,72.0,452.5,327.3,463.5,environment (III) where less activity has been identified.  
+32,9,0,Calibri-Bold,11.0,72.0,475.0,227.8,486.1,Impact of Digital Rights Initiatives 
+32,9,0,Calibri,11.0,227.9,475.0,271.0,486.1,(figure 2) 
+32,10,0,Calibri,11.0,72.0,497.5,525.8,508.5,Quantitative impact indicators developed by the support study illustrate the level of implementation 
+32,10,1,Calibri,11.0,72.0,512.0,525.7,523.0,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+32,10,2,Calibri,11.0,72.0,526.5,525.8,537.5,measures implemented by key stakeholders in Luxembourg (mainly national government) and how 
+32,10,3,Calibri,11.0,72.0,540.9,216.1,551.9,these are perceived by citizens.  
+32,11,0,Calibri,11.0,72.0,563.5,194.2,574.5,The indicators suggest that 
+32,11,0,Calibri-Bold,11.0,194.1,563.5,525.7,574.5,Luxembourg is most successful in implementing commitments related to 
+32,11,1,Calibri-Bold,11.0,72.0,577.9,353.1,588.9,Putting people at the centre of the digital transformation
+32,11,1,Calibri,11.0,353.1,577.9,525.8,588.9, (I). Luxembourg should review and 
+32,11,2,Calibri,11.0,72.0,592.4,525.8,603.5,strengthen efforts in areas where the impact of digital rights initiatives appears to be limited despite 
+32,11,3,Calibri,11.0,72.0,606.9,280.2,618.0,"relative activity, notably on Sustainability (VI).  "
+32,12,0,Calibri,11.0,72.0,629.4,355.8,640.4,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+32,12,0,Calibri-Bold,11.0,356.5,629.4,525.8,640.4,58% of citizens in Luxembourg think 
+32,12,1,Calibri-Bold,11.0,72.0,643.9,269.7,654.9,that the EU protects their digital rights well
+32,12,1,Calibri,11.0,269.9,643.9,525.8,654.9, (a 2% increase since 2024). This is above the EU average 
+32,12,2,Calibri,11.0,72.0,658.4,525.7,669.5,"of 44%. Citizens are particularly confident about getting access to a trustworthy, diverse and "
+32,12,3,Calibri,11.0,72.0,672.9,525.9,684.0,"multilingual digital environment (77%, above the EU average of 53%). They are most worried that their "
+32,13,0,Calibri,11.0,216.1,717.2,218.5,728.3, 
+32,13,1,Calibri,6.5,72.0,729.8,78.5,736.3,13
+32,13,1,Calibri,10.0,78.5,730.7,80.8,740.6, 
+32,13,1,Calibri,9.0,81.6,731.4,525.0,740.4,"Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+32,13,2,Calibri,9.0,72.0,743.5,106.1,752.5,available 
+32,13,2,Calibri,9.0,106.1,743.5,122.8,752.5,here
+32,13,2,Calibri,9.0,122.8,743.5,376.9,752.5,". For a more detailed country factsheet accompanying the study, click "
+32,13,2,Calibri,9.0,377.1,743.5,393.7,752.5,here
+32,13,2,Calibri,9.0,393.7,743.5,395.9,752.5,.
+32,13,2,Calibri-Italic,10.0,396.1,742.8,398.3,752.7, 
+32,14,0,Calibri,11.0,292.1,763.8,305.8,774.8,29 
+32,15,0,Calibri,11.0,72.0,786.2,74.5,797.3, 
+33,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+33,1,0,Calibri,20.0,85.9,29.5,191.2,49.5,Luxembourg 
+33,2,0,Calibri,11.0,72.0,74.2,525.7,85.2,right to a safe digital environment and content for children and young people is not well protected 
+33,2,1,Calibri,11.0,72.0,88.7,241.0,99.7,"(34%, below the EU average of 48%).  "
+33,4,0,Calibri,11.0,292.1,763.8,305.8,774.8,30 
+33,5,0,Calibri,11.0,72.0,786.2,74.5,797.3, 

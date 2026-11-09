@@ -1,0 +1,2007 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,111.0,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.9,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.7,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.2,390.9,242.5,PART 15/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,267.0,330.9,284.7, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.5,432.4,328.8,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.3,394.3,360.5,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,379.0,373.6,392.3,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,404.8,525.7,418.1,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,418.6,502.9,431.8,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.3,523.5,457.6,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,475.9,486.6,489.1,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,489.7,487.3,502.9, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+2,1,0,Calibri-Bold,40.0,119.4,261.4,486.3,301.4,DIGITAL DECADE 2025
+2,1,0,Calibri,40.0,486.6,261.4,495.6,301.4, 
+2,1,1,Calibri,40.0,119.4,310.3,445.6,350.2,COUNTRY REPORTS 
+2,2,0,Calibri-Bold,28.0,219.3,414.3,276.5,442.3,Italy 
+2,3,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+2,3,1,Arial-BoldMT,24.0,298.9,779.8,305.5,806.5, 
+2,3,2,TimesNewRomanPSMT,12.0,525.7,790.8,528.7,804.1, 
+2,3,3,Arial-BoldMT,24.0,565.9,779.8,572.6,806.5, 
+3,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+3,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+3,2,0,Calibri,11.0,72.0,84.1,74.5,95.2, 
+3,3,0,Calibri,11.0,72.0,106.6,114.6,117.6,Contents 
+3,5,0,Calibri,11.0,72.0,129.1,523.0,140.2,Executive summary ................................................................................................................................. 1
+3,5,0,Calibri,12.0,523.0,128.4,525.7,140.4, 
+3,6,0,Calibri,11.0,72.0,148.6,523.0,159.6,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,6,0,Calibri,12.0,523.0,147.9,525.7,159.9, 
+3,7,0,Calibri,11.0,83.1,168.1,523.0,179.2,Building technological leadership: digital infrastructure and technologies ........................................ 5
+3,7,0,Calibri,12.0,523.0,167.4,525.7,179.4, 
+3,8,0,Calibri,11.0,94.0,187.6,523.0,198.6,Connectivity infrastructure ............................................................................................................. 6
+3,8,0,Calibri,12.0,523.0,186.9,525.7,198.9, 
+3,9,0,Calibri,11.0,94.0,207.0,523.0,218.1,Semiconductors ............................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,206.3,525.7,218.3, 
+3,10,0,Calibri,11.0,94.0,226.6,523.0,237.6,Edge nodes .................................................................................................................................... 10
+3,10,0,Calibri,12.0,523.0,225.9,525.7,237.9, 
+3,11,0,Calibri,11.0,94.0,246.0,523.0,257.1,Quantum technologies .................................................................................................................. 10
+3,11,0,Calibri,12.0,523.0,245.3,525.7,257.3, 
+3,12,0,Calibri,11.0,83.1,265.6,523.0,276.6,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 12
+3,12,0,Calibri,12.0,523.0,264.9,525.7,276.9, 
+3,13,0,Calibri,11.0,94.0,285.0,523.0,296.1,SMEs with at least basic digital intensity ...................................................................................... 12
+3,13,0,Calibri,12.0,523.0,284.3,525.7,296.3, 
+3,14,0,Calibri,11.0,94.0,304.6,523.0,315.6,Take up of cloud/AI/data analytics ................................................................................................ 13
+3,14,0,Calibri,12.0,523.0,303.9,525.7,315.9, 
+3,15,0,Calibri,11.0,94.0,324.0,523.0,335.1,"Unicorns, scale-ups and start-ups ................................................................................................. 15"
+3,15,0,Calibri,12.0,523.0,323.3,525.7,335.3, 
+3,16,0,Calibri,11.0,83.1,343.5,523.0,354.5,Strengthening Cybersecurity & Resilience ........................................................................................ 16
+3,16,0,Calibri,12.0,523.0,342.8,525.7,354.8, 
+3,17,0,Calibri,11.0,72.0,363.0,523.0,374.1,Protecting and empowering EU people and society ............................................................................. 18
+3,17,0,Calibri,12.0,523.0,362.3,525.7,374.3, 
+3,18,0,Calibri,11.0,83.1,382.5,523.0,393.5,Empowering people and bringing the digital transformation closer to their needs ........................ 18
+3,18,0,Calibri,12.0,523.0,381.8,525.7,393.8, 
+3,19,0,Calibri,11.0,94.0,402.1,523.0,413.1,Equipping people with digital skills ............................................................................................... 18
+3,19,0,Calibri,12.0,523.0,401.3,525.7,413.3, 
+3,20,0,Calibri,11.0,94.0,421.5,523.0,432.5,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 22"
+3,20,0,Calibri,12.0,523.0,420.8,525.7,432.8, 
+3,21,0,Calibri,11.0,83.1,441.1,523.0,452.1,Building a safe and human centric digital environment and preserving our democracy ................. 25
+3,21,0,Calibri,12.0,523.0,440.3,525.7,452.3, 
+3,22,0,Calibri,11.0,72.0,460.5,523.0,471.5,Leveraging digital transformation for a smart greening ....................................................................... 26
+3,22,0,Calibri,12.0,523.0,459.8,525.7,471.8, 
+3,23,0,Calibri,11.0,72.0,479.9,523.0,491.0,Annex I – National roadmap analysis .................................................................................................... 28
+3,23,0,Calibri,12.0,523.0,479.2,525.7,491.2, 
+3,24,0,Calibri,11.0,72.0,499.5,523.0,510.5,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 30
+3,24,0,Calibri,12.0,523.0,498.8,525.7,510.8, 
+3,25,0,Calibri,11.0,72.0,518.9,523.0,530.0,Annex III – Digital Rights and Principles ................................................................................................ 31
+3,25,0,Calibri,12.0,523.0,518.2,525.7,530.2, 
+3,26,0,Calibri,11.0,94.0,538.5,96.5,549.5, 
+3,27,0,Calibri,11.0,297.7,558.0,300.2,569.0, 
+3,28,0,Calibri,11.0,72.0,580.4,74.5,591.5, 
+3,29,0,Calibri,11.0,297.7,749.6,300.2,760.7, 
+3,30,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+4,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+4,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+4,2,0,Calibri-Bold,26.0,72.0,87.2,287.2,113.2,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.4,525.5,137.4,"Italy has made remarkable progress in enhancing digital infrastructure and digital public services, "
+4,4,1,Calibri-Bold,11.0,72.0,140.9,525.8,151.9,"but continues to face challenges in AI adoption and startup growth, while maintaining a leading role "
+4,4,2,Calibri-Bold,11.0,72.0,155.4,525.7,166.5,in strategic technologies like quantum and semiconductors. Italy shows a substantial level of 
+4,4,3,Calibri-Bold,11.0,72.0,169.8,525.6,180.9,"ambition in its contribution to the Digital Decade, having set 14 national targets, 79% of which "
+4,4,4,Calibri-Bold,11.0,72.0,184.3,525.4,195.4,aligned with the EU 2030 targets. The country is following its trajectories very well with 100% of 
+4,4,5,Calibri-Bold,11.0,72.0,198.9,525.6,209.9,them being on track (considering the 2024 trajectories defined for 7 key performance indicators 
+4,4,6,Calibri-Bold,11.0,72.0,213.4,525.7,224.4,(KPIs) out of 8 analysed). Italy addressed 69% of the 13 recommendations issued by the Commission 
+4,4,7,Calibri-Bold,11.0,72.0,227.8,334.4,238.8,in 2024 by making some changes through new measures. 
+4,5,0,Calibri,11.0,72.0,250.4,525.8,261.4,"In 2024, Italy made advances in developing its digital infrastructure, particularly through increased "
+4,5,1,Calibri,11.0,72.0,264.8,525.7,275.8,"fibre-to-the-premises (FTTP) coverage, and progressively achieved significant results in the "
+4,5,2,Calibri,11.0,72.0,279.3,525.9,290.3,"digitalisation of public services and in the area of eHealth. However, the country continues to lag "
+4,5,3,Calibri,11.0,72.0,293.8,525.9,304.8,behind in the adoption of advanced digital technologies such as artificial intelligence and its ecosystem 
+4,5,4,Calibri,11.0,72.0,308.3,525.8,319.4,"for innovative start-ups and scale-ups remains relatively underdeveloped. On the other hand, Italy "
+4,5,5,Calibri,11.0,72.0,322.8,525.7,333.9,"holds a leading position in strategic technologies, having launched a Quantum strategy and actively "
+4,5,6,Calibri,11.0,72.0,337.2,517.8,348.3,"working on a semiconductors strategy, highlighting a commitment to gain technological leadership.  "
+4,6,0,Calibri-Bold,7.0,302.0,366.5,316.3,373.4,Italy 
+4,6,1,Calibri-Bold,7.0,414.6,366.5,424.2,373.4,EU 
+4,6,2,Calibri-Bold,7.0,469.3,362.1,512.6,369.1,Digital Decade 
+4,6,3,Calibri-Bold,7.0,469.3,370.8,514.2,377.7,target by 2030  
+4,7,0,Calibri,7.0,77.7,375.2,80.8,382.2,  
+4,8,0,Calibri,14.0,96.5,385.2,202.5,399.2,Digital Decade KPI 
+4,8,0,Calibri,9.0,202.5,383.9,212.5,392.9,(1)
+4,8,0,Calibri,7.0,212.6,390.5,214.1,397.4, 
+4,9,0,Calibri-Bold,7.0,347.8,386.7,374.1,393.7,National 
+4,9,1,Calibri-Bold,7.0,346.0,395.3,375.9,402.2,trajectory 
+4,10,0,Calibri-Bold,7.0,312.2,391.1,334.4,398.0,Annual 
+4,10,1,Calibri-Bold,7.0,310.1,399.6,336.4,406.6,progress 
+4,11,0,Calibri-Bold,7.0,348.4,403.9,373.6,410.9,2024 (3) 
+4,11,1,Calibri-Bold,7.0,385.4,395.3,415.7,402.2,DESI 2025 
+4,11,2,Calibri-Bold,7.0,428.1,391.1,450.3,398.0,Annual 
+4,11,3,Calibri-Bold,7.0,426.1,399.6,452.4,406.6,progress 
+4,11,4,Calibri-Bold,7.0,472.1,395.3,478.9,402.2,IT 
+4,11,5,Calibri-Bold,7.0,503.5,395.3,513.1,402.2,EU 
+4,12,0,Calibri-Bold,7.0,246.3,382.5,260.7,389.5,DESI 
+4,12,1,Calibri-Bold,7.0,245.7,391.1,261.3,398.0,2024 
+4,12,2,Calibri-Bold,7.0,245.2,399.6,261.6,406.6,(year 
+4,12,3,Calibri-Bold,7.0,244.5,408.1,262.4,415.1,2023) 
+4,13,0,Calibri-Bold,7.0,280.1,382.5,294.5,389.5,DESI 
+4,13,1,Calibri-Bold,7.0,279.5,391.1,295.1,398.0,2025 
+4,13,2,Calibri-Bold,7.0,279.2,399.6,295.6,406.6,(year 
+4,13,3,Calibri-Bold,7.0,278.5,408.1,296.4,415.1,2024) 
+4,14,0,Calibri-Bold,7.0,77.7,420.4,227.6,427.3,Fixed Very High Capacity Network (VHCN) coverage 
+4,14,1,Calibri,7.0,244.0,420.4,263.0,427.3,59.6% 
+4,14,2,Calibri,7.0,277.9,420.4,296.8,427.3,70.7% 
+4,14,3,Calibri,7.0,313.8,420.4,332.7,427.3,18.6% 
+4,14,4,Calibri,7.0,351.5,420.4,372.1,427.3,66.0%  
+4,14,5,Calibri,7.0,391.0,420.4,410.0,427.3,82.5% 
+4,14,6,Calibri,7.0,431.5,420.4,447.0,427.3,4.9% 
+4,14,7,Calibri,7.0,464.1,420.4,486.7,427.3,100.0% 
+4,14,8,Calibri,7.0,499.8,420.4,517.0,427.3,100% 
+4,15,0,Calibri-Bold,7.0,77.7,436.0,188.1,442.9,Fibre to the Premises (FTTP) coverage 
+4,15,1,Calibri,7.0,244.0,436.0,263.0,442.9,59.6% 
+4,15,2,Calibri,7.0,277.9,436.0,296.8,442.9,70.7% 
+4,15,3,Calibri,7.0,313.8,436.0,332.7,442.9,18.6% 
+4,15,4,Calibri,7.0,351.5,436.0,372.1,442.9,66.0%  
+4,15,5,Calibri,7.0,391.0,436.0,410.0,442.9,69.2% 
+4,15,6,Calibri,7.0,431.5,436.0,447.0,442.9,8.4% 
+4,15,7,Calibri,7.0,464.1,436.0,486.7,442.9,100.0% 
+4,15,8,Calibri,7.0,506.5,436.0,510.2,442.9,- 
+4,16,0,Calibri-Bold,7.0,77.7,451.4,137.1,458.4,Overall 5G coverage 
+4,16,1,Calibri,7.0,244.0,451.4,263.0,458.4,99.5% 
+4,16,2,Calibri,7.0,277.9,451.4,296.8,458.4,99.5% 
+4,16,3,Calibri,7.0,315.5,451.4,331.0,458.4,0.0% 
+4,16,4,Calibri,7.0,351.5,451.4,372.1,458.4,99.6%  
+4,16,5,Calibri,7.0,391.0,451.4,410.0,458.4,94.3% 
+4,16,6,Calibri,7.0,431.5,451.4,447.0,458.4,5.9% 
+4,16,7,Calibri,7.0,464.1,451.4,486.7,458.4,100.0% 
+4,16,8,Calibri,7.0,499.8,451.4,517.0,458.4,100% 
+4,17,0,Calibri-Bold,7.0,77.7,466.9,144.4,473.9,Edge Nodes (estimate) 
+4,17,1,Calibri,7.0,249.2,466.9,257.8,473.9,74 
+4,17,2,Calibri,7.0,281.2,466.9,293.5,473.9,152 
+4,17,3,Calibri,7.0,312.0,466.9,334.5,473.9,105.4% 
+4,17,4,Calibri,7.0,354.9,466.9,368.7,473.9,158  
+4,17,5,Calibri,7.0,392.7,466.9,408.5,473.9,2257 
+4,17,6,Calibri,7.0,429.7,466.9,448.7,473.9,90.5% 
+4,17,7,Calibri,7.0,469.3,466.9,481.6,473.9,946 
+4,17,8,Calibri,7.0,498.7,466.9,518.1,473.9,10000 
+4,18,0,Calibri-Bold,7.0,77.7,482.4,232.6,489.4,SMEs with at least a basic level of digital intensity (2) 
+4,18,1,Calibri,7.0,251.6,482.4,255.3,489.4,- 
+4,18,2,Calibri,7.0,277.9,482.4,296.8,489.4,70.2% 
+4,18,3,Calibri,7.0,315.5,482.4,331.0,489.4,0.2% 
+4,18,4,Calibri,7.0,359.1,482.4,362.8,489.4,- 
+4,18,5,Calibri,7.0,391.0,482.4,410.0,489.4,72.9% 
+4,18,6,Calibri,7.0,431.5,482.4,447.0,489.4,2.8% 
+4,18,7,Calibri,7.0,465.9,482.4,484.9,489.4,90.0% 
+4,18,8,Calibri,7.0,501.5,482.4,515.2,489.4,90% 
+4,19,0,Calibri-Bold,7.0,77.7,497.9,95.9,504.8,Cloud 
+4,19,1,Calibri,7.0,244.0,497.9,263.0,504.8,55.1% 
+4,19,2,Calibri,7.0,285.5,497.9,289.3,504.8,- 
+4,19,3,Calibri,7.0,321.4,497.9,325.2,504.8,- 
+4,19,4,Calibri,7.0,359.1,497.9,364.4,504.8,-  
+4,19,5,Calibri,7.0,398.7,497.9,402.5,504.8,- 
+4,19,6,Calibri,7.0,437.4,497.9,441.1,504.8,- 
+4,19,7,Calibri,7.0,465.9,497.9,484.9,504.8,74.0% 
+4,19,8,Calibri,7.0,501.5,497.9,515.2,504.8,75% 
+4,20,0,Calibri-Bold,7.0,77.7,513.4,138.9,520.3,Artificial Intelligence 
+4,20,1,Calibri,7.0,245.7,513.4,261.2,520.3,5.1% 
+4,20,2,Calibri,7.0,279.6,513.4,295.2,520.3,8.2% 
+4,20,3,Calibri,7.0,313.8,513.4,332.7,520.3,62.4% 
+4,20,4,Calibri,7.0,353.4,513.4,370.4,520.3,8.0%  
+4,20,5,Calibri,7.0,391.0,513.4,410.0,520.3,13.5% 
+4,20,6,Calibri,7.0,429.7,513.4,448.7,520.3,67.2% 
+4,20,7,Calibri,7.0,465.9,513.4,484.9,520.3,60.0% 
+4,20,8,Calibri,7.0,501.5,513.4,515.2,520.3,75% 
+4,21,0,Calibri-Bold,7.0,77.7,529.0,120.0,535.9,Data analytics 
+4,21,1,Calibri,7.0,244.0,529.0,263.0,535.9,26.6% 
+4,21,2,Calibri,7.0,285.5,529.0,289.3,535.9,- 
+4,21,3,Calibri,7.0,321.4,529.0,325.2,535.9,- 
+4,21,4,Calibri,7.0,359.1,529.0,364.4,535.9,-  
+4,21,5,Calibri,7.0,398.7,529.0,402.5,535.9,- 
+4,21,6,Calibri,7.0,437.4,529.0,441.1,535.9,- 
+4,21,7,Calibri,7.0,465.9,529.0,484.9,535.9,60.0% 
+4,21,8,Calibri,7.0,501.5,529.0,515.2,535.9,75% 
+4,22,0,Calibri-Bold,7.0,77.7,544.5,161.7,551.4,AI or Cloud or Data analytics 
+4,22,1,Calibri,7.0,244.0,544.5,263.0,551.4,63.1% 
+4,22,2,Calibri,7.0,285.5,544.5,289.3,551.4,- 
+4,22,3,Calibri,7.0,321.4,544.5,325.2,551.4,- 
+4,22,4,Calibri,7.0,359.1,544.5,364.4,551.4,-  
+4,22,5,Calibri,7.0,398.7,544.5,402.5,551.4,- 
+4,22,6,Calibri,7.0,437.4,544.5,441.1,551.4,- 
+4,22,7,Calibri,7.0,473.6,544.5,477.4,551.4,- 
+4,22,8,Calibri,7.0,501.5,544.5,515.2,551.4,75% 
+4,23,0,Calibri-Bold,7.0,77.7,560.0,105.0,566.9,Unicorns 
+4,23,1,Calibri,7.0,250.9,560.0,256.0,566.9,8 
+4,23,2,Calibri,7.0,284.8,560.0,290.0,566.9,9 
+4,23,3,Calibri,7.0,313.8,560.0,332.7,566.9,12.5% 
+4,23,4,Calibri,7.0,358.5,560.0,365.2,566.9,2  
+4,23,5,Calibri,7.0,394.4,560.0,406.7,566.9,286 
+4,23,6,Calibri,7.0,431.5,560.0,447.0,566.9,4.4% 
+4,23,7,Calibri,7.0,471.1,560.0,479.8,566.9,16 
+4,23,8,Calibri,7.0,502.2,560.0,514.5,566.9,500 
+4,24,0,Calibri-Bold,7.0,77.7,575.4,152.7,582.4,At least basic digital skills 
+4,24,1,Calibri,7.0,244.0,575.4,263.0,582.4,45.8% 
+4,24,2,Calibri,7.0,285.5,575.4,289.3,582.4,- 
+4,24,3,Calibri,7.0,321.4,575.4,325.2,582.4,- 
+4,24,4,Calibri,7.0,359.1,575.4,364.4,582.4,-  
+4,24,5,Calibri,7.0,398.7,575.4,402.5,582.4,- 
+4,24,6,Calibri,7.0,437.4,575.4,441.1,582.4,- 
+4,24,7,Calibri,7.0,465.9,575.4,484.9,582.4,80.1% 
+4,24,8,Calibri,7.0,501.5,575.4,515.2,582.4,80% 
+4,25,0,Calibri-Bold,7.0,77.7,590.9,119.4,597.9,ICT specialists 
+4,25,1,Calibri,7.0,245.7,590.9,261.2,597.9,4.1% 
+4,25,2,Calibri,7.0,279.6,590.9,295.2,597.9,4.0% 
+4,25,3,Calibri,7.0,314.5,590.9,332.0,597.9,-2.4% 
+4,25,4,Calibri,7.0,359.1,590.9,364.4,597.9,-  
+4,25,5,Calibri,7.0,392.8,590.9,408.4,597.9,5.0% 
+4,25,6,Calibri,7.0,431.5,590.9,447.0,597.9,4.2% 
+4,25,7,Calibri,7.0,467.7,590.9,483.2,597.9,8.4% 
+4,25,8,Calibri,7.0,499.8,590.9,517.0,597.9,~10% 
+4,26,0,Calibri-Bold,7.0,77.7,606.4,147.9,613.4,eID scheme notification 
+4,26,1,Calibri,7.0,252.6,604.1,254.2,611.1, 
+4,26,2,Calibri,7.0,282.0,606.4,292.8,613.4,Yes 
+4,26,3,Calibri,7.0,322.5,604.1,324.1,611.1, 
+4,26,4,Calibri,7.0,360.2,604.1,361.8,611.1, 
+4,26,5,Calibri,7.0,399.8,604.1,401.4,611.1, 
+4,26,6,Calibri,7.0,438.5,604.1,440.0,611.1, 
+4,26,7,Calibri,7.0,474.7,604.1,476.3,611.1, 
+4,26,8,Calibri,7.0,507.6,604.1,509.2,611.1, 
+4,27,0,Calibri-Bold,7.0,77.7,625.7,174.9,632.7,Digital public services for citizens 
+4,27,1,Calibri,7.0,246.5,625.7,260.5,632.7,68.3 
+4,27,2,Calibri,7.0,280.4,625.7,294.3,632.7,83.6 
+4,27,3,Calibri,7.0,313.8,625.7,332.7,632.7,22.4% 
+4,27,4,Calibri,7.0,354.1,625.7,369.7,632.7,69.0  
+4,27,5,Calibri,7.0,393.5,625.7,407.5,632.7,82.3 
+4,27,6,Calibri,7.0,431.5,625.7,447.0,632.7,3.6% 
+4,27,7,Calibri,7.0,466.7,625.7,484.2,632.7,100.0 
+4,27,8,Calibri,7.0,502.2,625.7,514.5,632.7,100 
+4,28,0,Calibri-Bold,7.0,77.7,644.9,184.6,651.9,Digital public services for businesses 
+4,28,1,Calibri,7.0,246.5,644.9,260.5,651.9,76.3 
+4,28,2,Calibri,7.0,280.4,644.9,294.3,651.9,80.9 
+4,28,3,Calibri,7.0,315.5,644.9,331.0,651.9,6.1% 
+4,28,4,Calibri,7.0,354.1,644.9,369.7,651.9,78.0  
+4,28,5,Calibri,7.0,393.5,644.9,407.5,651.9,86.2 
+4,28,6,Calibri,7.0,431.5,644.9,447.0,651.9,0.9% 
+4,28,7,Calibri,7.0,466.7,644.9,484.2,651.9,100.0 
+4,28,8,Calibri,7.0,502.2,644.9,514.5,651.9,100 
+4,29,0,Calibri-Bold,7.0,77.7,660.9,155.8,667.8,Access to e-Health records 
+4,29,1,Calibri,7.0,246.5,660.9,260.5,667.8,82.7 
+4,29,2,Calibri,7.0,280.4,660.9,294.3,667.8,84.1 
+4,29,3,Calibri,7.0,315.5,660.9,331.0,667.8,1.7% 
+4,29,4,Calibri,7.0,354.1,660.9,369.7,667.8,74.0  
+4,29,5,Calibri,7.0,393.5,660.9,407.5,667.8,82.7 
+4,29,6,Calibri,7.0,431.5,660.9,447.0,667.8,4.5% 
+4,29,7,Calibri,7.0,466.7,660.9,484.2,667.8,100.0 
+4,29,8,Calibri,7.0,502.2,660.9,514.5,667.8,100 
+4,30,0,Calibri,7.0,77.7,674.0,326.5,680.9,(1) See the methodological note for the description of the indicators and other metrics. 
+4,30,1,Calibri,7.0,77.7,682.6,518.9,689.6,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,30,2,Calibri,7.0,77.7,691.1,419.2,698.1,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,30,3,Calibri,7.0,77.7,699.6,426.4,706.6,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024). 
+4,31,0,Calibri-Bold,11.0,72.0,716.0,382.1,727.1,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+4,31,0,Calibri,11.0,382.3,716.0,525.9,727.1,", 73% of Italian citizens consider "
+4,31,1,Calibri,11.0,72.0,730.6,525.7,741.6,that the digitalisation of daily public and private services is making their lives easier. 90% consider it 
+4,31,2,Calibri,11.0,72.0,745.0,525.7,756.0,"important to counter and mitigate the issue of fake news and disinformation online, and regarding "
+4,32,0,Calibri,11.0,294.9,795.2,302.9,806.3,1 
+5,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+5,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+5,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"competitiveness, 90% consider it important to ensure that European companies can grow and become "
+5,2,1,Calibri,11.0,72.0,98.7,287.3,109.7,‘European Champions’ able to compete globally.
+5,2,1,Calibri-Light,11.0,287.2,98.7,289.7,109.7, 
+5,3,0,Calibri-Light,15.0,72.0,122.0,526.8,137.0,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,148.8,525.8,159.9,"Italy has made notable progress in fiber-to-the-premises (FTTP), increasing coverage by 11 percentage "
+5,5,1,Calibri,11.0,72.0,163.3,525.7,174.4,points between 2023 and 2024 and reaching the EU average. The country also holds a strong position 
+5,5,2,Calibri,11.0,72.0,177.9,525.8,188.9,"in the digitalization of small and medium enterprises (SMEs), with most achieving at least a basic level "
+5,5,3,Calibri,11.0,72.0,192.4,525.8,203.4,"of digital intensity. However, despite increased adoption of artificial intelligence and being on track "
+5,5,4,Calibri,11.0,72.0,206.8,525.9,217.8,"with the national trajectory set, Italy still falls behind in this area. The start-up ecosystem remains "
+5,5,5,Calibri,11.0,72.0,221.3,525.9,232.3,"underdeveloped, with only nine unicorns — an increase of just one compared to last year — which "
+5,5,6,Calibri,11.0,72.0,235.9,525.8,246.9,does not reflect the size of the Italian economy. The recent announcement of a quantum strategy is 
+5,5,7,Calibri,11.0,72.0,250.4,525.8,261.4,"expected to significantly drive further progress in this sector. Alongside this, ongoing efforts to develop "
+5,5,8,Calibri,11.0,72.0,264.8,525.9,275.8,a semiconductors strategy reflect Italy’s dedication to further strengthening its position in these areas. 
+5,5,9,Calibri,11.0,72.0,279.3,525.6,290.3,"Several initiatives are also in progress to enhance the country’s cybersecurity capabilities, including "
+5,5,10,Calibri,11.0,72.0,293.8,483.2,304.8,"the strengthening of monitoring, analysis and response capabilities, and skills development. "
+5,6,0,Calibri-Light,15.0,72.0,317.1,379.5,332.1,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,344.1,525.7,355.1,"Italy is confronted with issues concerning digital skills, with gaps affecting in particular people with "
+5,7,1,Calibri,11.0,72.0,358.6,525.9,369.6,lower education levels but extending also to young people – a primary target of the national Recovery 
+5,7,2,Calibri,11.0,72.0,373.0,525.8,384.0,and Resilience Plan (RRP) measures in this area. Italy is also faced with a low share of ICT specialists in 
+5,7,3,Calibri,11.0,72.0,387.5,525.8,398.6,"total employment, which stood at 4% in 2024, below the EU's 5%. The digitalisation of public services "
+5,7,4,Calibri,11.0,72.0,402.1,525.8,413.1,"has advanced significantly, with the progressive implementation of key measures and efforts to "
+5,7,5,Calibri,11.0,72.0,416.6,525.9,427.6,"increase interoperability and usability (e.g. better user experience, adoption of PagoPA and the IO app, "
+5,7,6,Calibri,11.0,72.0,431.0,525.9,442.0,deployment of the National Digital Data Platform - PDND). In the framework of the EU Digital Identity 
+5,7,7,Calibri,11.0,72.0,445.5,525.8,456.5,"Wallet, the country has also initiated the development of its IT-Wallet, with the first pilots made "
+5,7,8,Calibri,11.0,72.0,460.0,525.6,471.1,"available to the public through the app IO, where users could access and use some initial documents "
+5,7,9,Calibri,11.0,72.0,474.5,525.8,485.6,"(e.g. driving licence). Furthermore, Italy is working to boost citizens’ basic digital skills through "
+5,7,10,Calibri,11.0,72.0,488.9,525.7,500.0,initiatives such as the network of digital facilitation services and digital civic service (both supported 
+5,7,11,Calibri,11.0,72.0,503.5,525.9,514.5,"by the RRP), combat disinformation, enhance media literacy, and ensure online safety, particularly for "
+5,7,12,Calibri,11.0,72.0,518.0,110.6,529.0,minors.  
+5,8,0,Calibri-Light,15.0,72.0,541.3,399.0,556.3,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,568.3,525.7,579.3,"Green and digital priorities have received increased attention, in part due to the RRP and its "
+5,9,1,Calibri,11.0,72.0,582.7,525.9,593.7,"RePowerEU chapter. In 2024, impulse was given to the implementation of ‘Transition 5.0’, aiming to "
+5,9,2,Calibri,11.0,72.0,597.2,525.9,608.3,"accelerate the industry transition to an energy-efficient, sustainable, and renewable-based production "
+5,9,3,Calibri,11.0,72.0,611.7,417.8,622.8,"model. However, the available data shows a modest take-up of the measure.  "
+5,10,0,Calibri-Light,15.0,72.0,635.0,325.7,650.0,National digital decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,662.0,525.7,673.1,"Italy submitted an adjustment, containing five additional measures and revised trajectories. "
+5,11,1,Calibri,11.0,72.0,676.4,525.7,687.5,Stakeholders were consulted. It addresses a substantial number of the roadmap recommendations 
+5,11,2,Calibri,11.0,72.0,690.9,525.9,702.0,"issued in 2024. All targets align with the EU level goals for 2030, except for the adoption of AI and data "
+5,11,3,Calibri,11.0,72.0,705.5,525.5,716.5,"analytics, where the country aims for 60% adoption (instead of 75%) by 2030. The roadmap is very "
+5,11,4,Calibri,11.0,72.0,720.0,525.7,731.0,"comprehensive, and the focus is on improving digital skills, ICT specialists and digital public services. "
+5,11,5,Calibri,11.0,72.0,734.4,525.8,745.4,"Some areas, such as unicorns and uptake of AI, lack targeted measures. Overall, the Italian roadmap is "
+5,12,0,Calibri,11.0,294.9,795.2,302.9,806.3,2 
+6,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+6,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+6,2,0,Calibri,11.0,72.0,84.1,525.7,95.2,"composed of 67 measures with a budget of EUR 62.3 billion, equivalent to 2.84% of gross domestic "
+6,2,1,Calibri,11.0,72.0,98.7,145.9,109.7,product (GDP).   
+6,3,0,Calibri-Light,15.0,72.0,122.0,249.8,137.0,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,148.8,462.2,159.9,Italy allocates 26% of its total recovery and resilience plan to digital (EUR 46.8 billion)
+6,5,0,Calibri,7.0,462.2,147.9,465.7,154.9,1
+6,5,0,Calibri,11.0,465.7,148.8,525.9,159.9,". In addition, "
+6,5,1,Calibri,11.0,72.0,163.3,525.8,174.4,"under cohesion policy, EUR 4.9 billion, representing 11% of the country’s total cohesion policy funding, "
+6,5,2,Calibri,11.0,72.0,177.9,319.4,188.9,is dedicated to advancing Italy’s digital transformation
+6,5,2,Calibri,7.0,319.5,177.0,323.0,183.9,2
+6,5,2,Calibri,11.0,323.0,177.9,525.8,188.9,. Italy is a member of the three established 
+6,5,3,Calibri,11.0,72.0,192.4,525.6,203.4,"European Digital Infrastructure Consortia (EDICs): the Alliance for Language Technologies EDIC, the "
+6,5,4,Calibri,11.0,72.0,206.8,525.6,217.8,Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. Italy is directly 
+6,5,5,Calibri,11.0,72.0,221.3,525.9,232.3,participating in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in 
+6,5,6,Calibri,11.0,72.0,235.9,525.9,246.9,the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Italy is also a participating 
+6,5,7,Calibri,11.0,72.0,250.4,358.8,261.4,state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,6,0,Calibri,11.0,72.0,272.8,309.2,283.8,Italy has contributed to the Best Practice Accelerator
+6,6,0,Calibri,6.5,309.2,272.8,312.5,279.2,3
+6,6,0,Calibri,11.0,312.4,272.8,525.9,283.8, by sharing three best practices in the frame of 
+6,6,1,Calibri,11.0,72.0,287.3,525.7,298.4,"the Digital Skills cluster (network of digital facilitation services, the digital civic service and fund for "
+6,6,2,Calibri-Italic,11.0,72.0,301.9,158.0,312.9,Repubblica Digitale
+6,6,2,Calibri,11.0,157.9,301.9,166.4,312.9,). 
+6,7,0,Calibri-Light,15.0,72.0,325.2,244.8,340.2,Digital Rights and Principles  
+6,8,0,Calibri,11.0,72.0,347.6,525.7,358.6,"According to a support study, Italy has been one of the most active Member States in implementing "
+6,8,1,Calibri,11.0,72.0,362.1,89.5,373.1,the 
+6,8,1,Calibri-Bold,11.0,89.1,362.1,328.0,373.1,European Declaration on Digital Rights and Principles
+6,8,1,Calibri,11.0,328.1,362.1,525.9,373.1,", with over 100 initiatives overall and 12 new "
+6,8,2,Calibri,11.0,72.0,376.6,525.9,387.6,"initiatives launched in 2024. Italy is most active in the area of digital education, training and skills. Less "
+6,8,3,Calibri,11.0,72.0,391.1,525.8,402.2,activity has been identified with regards to protection and empowerment of children and young 
+6,8,4,Calibri,11.0,72.0,405.5,525.8,416.6,people in the digital environment. Measures in the area of putting people at the centre of the digital 
+6,8,5,Calibri,11.0,72.0,420.1,525.9,431.1,"transformation appear to have most impact on the ground, in contrast to those addressing safety, "
+6,8,6,Calibri,11.0,72.0,434.6,200.9,445.6,security and empowerment. 
+6,9,0,Calibri-Bold,11.0,77.7,457.5,167.9,468.5,Recommendations  
+6,10,0,ArialMT,11.0,82.6,473.3,89.4,485.6,- 
+6,10,1,Calibri-Bold,11.0,100.6,475.0,195.9,486.1,Artificial Intelligence
+6,10,1,Calibri-Italic,11.0,196.0,475.0,201.5,486.1,: 
+6,10,1,Calibri,11.0,202.7,475.0,526.6,486.1,"Step up efforts to acquire a leadership position in the area of AI, also "
+6,10,2,Calibri,11.0,100.6,489.5,526.6,500.6,"leveraging the existing centres of expertise and capabilities, including in the area of "
+6,10,3,Calibri,11.0,100.6,504.1,181.5,515.1,supercomputing.  
+6,11,0,ArialMT,11.0,82.6,519.8,89.4,532.1,- 
+6,11,1,Calibri-Bold,11.0,100.6,521.5,211.4,532.5,Innovation ecosystems: 
+6,11,1,Calibri,11.0,212.1,521.5,526.9,532.5,Boost innovation in the area of digital technologies by enhancing the 
+6,11,2,Calibri,11.0,100.6,536.0,526.9,547.0,"national ecosystem, from research/university to technology transfer centres, start-ups and "
+6,11,3,Calibri,11.0,100.6,550.5,423.4,561.5,"scale-ups, and considering targeted incentives for key strategic sectors.  "
+6,11,4,ArialMT,11.0,82.6,563.3,89.4,575.7,- 
+6,11,5,Calibri-Bold,11.0,100.6,565.1,295.9,576.1,SMEs and Advanced technologies take-up
+6,11,5,Calibri,11.0,295.9,565.1,526.8,576.1,: Support the efforts to build a strong network of 
+6,11,6,Calibri,11.0,100.6,579.6,526.6,590.6,"technology transfer services, maintaining a nationwide presence, increasing the emphasis on "
+6,11,7,Calibri,11.0,100.6,594.0,210.4,605.0,key technologies like AI. 
+6,11,8,ArialMT,11.0,82.6,606.8,89.4,619.1,- 
+6,11,9,Calibri-Bold,11.0,100.6,608.5,182.3,619.5,Basic digital skills
+6,11,9,Calibri,11.0,182.3,608.5,526.7,619.5,: Strengthen training opportunities and support services for all population 
+6,11,10,Calibri,11.0,100.6,623.0,526.9,634.1,"groups, reinforce education on digital skills in schools and incentivise reskilling and upskilling for "
+6,11,11,Calibri,11.0,100.6,637.5,142.0,648.6,workers. 
+6,12,0,Calibri,11.0,216.1,659.9,218.5,670.9, 
+6,12,1,Calibri,6.0,72.0,672.6,75.1,678.6,1
+6,12,1,Calibri,9.0,75.0,672.9,525.2,681.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,12,2,Calibri,9.0,72.0,683.9,313.5,692.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,12,3,Calibri,6.0,72.0,694.7,75.1,700.7,2
+6,12,3,Calibri,9.0,75.0,695.0,523.2,704.0, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,12,4,Calibri,9.0,72.0,705.9,525.0,714.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,12,5,Calibri,9.0,72.0,716.9,315.5,725.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,12,6,Calibri,6.0,72.0,727.6,75.1,733.6,3
+6,12,6,Calibri,9.0,75.0,727.9,525.2,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,12,7,Calibri,9.0,72.0,738.9,525.3,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,12,8,Calibri,9.0,72.0,749.8,525.5,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,12,9,Calibri,9.0,72.0,760.9,250.7,769.9,"Green IT, and the Uptake of Digital Technologies. "
+6,13,0,Calibri,11.0,294.9,795.2,302.9,806.3,3 
+7,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+7,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+7,3,0,ArialMT,11.0,82.6,82.9,89.4,95.2,- 
+7,3,1,Calibri-Bold,11.0,100.6,84.6,165.6,95.7,ICT Specialists
+7,3,1,Calibri,11.0,165.7,84.6,526.6,95.7,": Expand ICT higher education and align it with labour market needs, promote "
+7,3,2,Calibri,11.0,100.6,99.1,526.8,110.2,"women's participation in ICT education and careers, and introduce measures to attract and "
+7,3,3,Calibri,11.0,100.6,113.7,212.9,124.7,retain ICT professionals.  
+7,3,4,ArialMT,11.0,82.6,126.3,89.4,138.7,- 
+7,3,5,Calibri-Bold,11.0,100.6,128.1,163.0,139.1,Cybersecurity
+7,3,5,Calibri-Italic,11.0,163.1,128.1,168.5,139.1,: 
+7,3,5,Calibri,11.0,168.8,128.1,526.6,139.1,"Improve cybersecurity priorities in view of evolving threats, building capacity in "
+7,3,6,Calibri,11.0,100.6,142.6,298.6,153.6,both enterprises and public administrations.
+7,3,6,Calibri-Italic,11.0,298.6,142.6,303.5,153.6,  
+7,3,7,ArialMT,11.0,82.6,155.4,89.4,167.7,- 
+7,3,8,Calibri-Bold,11.0,100.6,157.1,160.7,168.1,Connectivity:
+7,3,8,Calibri,11.0,160.7,157.1,526.9,168.1," Continue the efforts to deploy connectivity infrastructure, particularly FTTP, "
+7,3,9,Calibri,11.0,100.6,171.6,526.7,182.7,"across the whole country and including in sparsely populated areas, and consider using take up "
+7,3,10,Calibri,11.0,100.6,186.0,226.7,197.1,as a driver for deployment.  
+7,3,11,ArialMT,11.0,82.6,198.8,89.4,211.1,- 
+7,3,12,Calibri-Bold,11.0,100.6,200.5,202.0,211.6,Digital Public Services
+7,3,12,Calibri,11.0,202.1,200.5,205.1,211.6,:
+7,3,12,Calibri-Italic,11.0,205.1,200.5,207.6,211.6, 
+7,3,12,Calibri,11.0,208.6,200.5,526.9,211.6,"Maintain momentum in deploying digital public services, focusing on "
+7,3,13,Calibri,11.0,100.6,215.1,261.4,226.1,simplification and take-up by users. 
+7,4,0,Calibri-Bold,11.0,72.0,233.1,74.5,244.1, 
+7,5,0,Calibri,11.0,72.0,255.5,74.5,266.6, 
+7,5,1,Calibri,11.0,216.1,255.5,218.5,266.6, 
+7,6,0,Calibri,11.0,294.9,795.2,302.9,806.3,4 
+8,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+8,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+8,3,0,Calibri-Bold,26.0,72.0,87.2,520.0,113.2,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.4,444.2,147.4,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.6,525.7,171.6,"Italy has significant strengths in key sectors such as semiconductors and quantum technologies, "
+8,4,1,Calibri-Bold,11.0,72.0,175.1,525.8,186.1,which present crucial opportunities also in the context of overall EU competitiveness and strategic 
+8,4,2,Calibri-Bold,11.0,72.0,189.6,123.5,200.7,autonomy. 
+8,5,0,Calibri,11.0,72.0,212.1,525.9,223.1,"The country has made substantial progress in enhancing its connectivity infrastructure, including with "
+8,5,1,Calibri,11.0,72.0,226.6,525.9,237.6,"the expansion of Fibre to the Premises (FTTP) across the country, and outperforms when it comes to "
+8,5,2,Calibri,11.0,72.0,241.1,525.8,252.2,5G coverage. A majority of small and medium-sized enterprises (SMEs) report at least a basic level of 
+8,5,3,Calibri,11.0,72.0,255.6,525.9,266.7,"digital intensity, and there has been a surge in the adoption of AI technologies although uptake "
+8,5,4,Calibri,11.0,72.0,270.0,248.3,281.1,(especially among SMEs) is still limited. 
+8,6,0,Calibri,11.0,72.0,292.6,525.9,303.6,"Challenges persist, however, in achieving widespread digital integration across the economy and in "
+8,6,1,Calibri,11.0,72.0,307.1,525.9,318.2,fostering a robust environment for innovation and start-ups. This is reflected in Italy’s relatively low 
+8,6,2,Calibri,11.0,72.0,321.5,525.8,332.6,"number of unicorns, indicating a need for improved support and access to capital for innovative "
+8,6,3,Calibri,11.0,72.0,336.0,188.7,347.1,companies and scale-ups. 
+8,7,0,Calibri-Bold,11.0,72.0,358.6,502.7,369.6,These gaps are coupled with a stagnating ICT sector and sluggish investment in innovation.
+8,7,0,Calibri,11.0,502.9,358.6,525.9,369.6, The 
+8,7,1,Calibri,11.0,72.0,373.0,525.6,384.0,"Italian ICT sector contributed only 3.21% to the gross value added in 2022, down from 3.34% in 2019 "
+8,7,2,Calibri,11.0,72.0,387.5,525.9,398.6,"and below the EU average of 5.46%, highlighting its limited impact on the national economy. "
+8,7,3,Calibri,11.0,72.0,402.1,525.7,413.1,"Additionally, research and development (R&D) expenditure in the ICT sector accounted for 15.38% of "
+8,7,4,Calibri,11.0,72.0,416.6,525.9,427.6,"total business R&D spending, and ICT R&D personnel comprising 18.23% of the total. Both these "
+8,7,5,Calibri,11.0,72.0,431.0,335.9,442.0,figures experienced slight declines between 2021 and 2022
+8,7,5,Calibri,7.0,335.8,430.1,339.4,437.0,4
+8,7,5,Calibri,11.0,339.3,431.0,344.6,442.0,. 
+8,8,0,Calibri,11.0,72.0,453.5,300.6,464.6,"In 2024, the government launched the green paper"
+8,8,0,Calibri-Italic,11.0,300.7,453.5,306.0,464.6, ‘
+8,8,0,Calibri-Italic,11.0,305.8,453.5,389.3,464.6,Made in Italy 2030
+8,8,0,Calibri-Italic,11.0,389.4,453.5,392.1,464.6,’
+8,8,0,Calibri,11.0,392.1,453.5,525.9,464.6,", which outlines the country’s "
+8,8,1,Calibri,11.0,72.0,467.9,525.9,479.0,"new industrial strategy for the next decade in view of the digital, ecological, and geopolitical "
+8,8,2,Calibri,11.0,72.0,482.5,525.6,493.5,"transitions. It sets 15 strategic goals focused on boosting competitiveness, closing regional economic "
+8,8,3,Calibri,11.0,72.0,497.0,525.9,508.0,"gaps, enhancing employment, and promoting innovation in sectors like space, maritime, and low-cost "
+8,8,4,Calibri,11.0,72.0,511.5,525.8,522.5,"energy. To achieve this, the strategy emphasises the promotion of integrated production chains, "
+8,8,5,Calibri,11.0,72.0,525.9,525.7,536.9,"encouraging collaboration between enterprises, facilitating technology transfer, and improving access "
+8,8,6,Calibri,11.0,72.0,540.4,525.9,551.5,to substantial capital. A key component of this strategy is integrating digital transformation into 
+8,8,7,Calibri,11.0,72.0,554.9,525.8,566.0,"industrial processes, recognising that addressing Italy’s lag in digital adoption is crucial for enhancing "
+8,8,8,Calibri,11.0,72.0,569.5,244.9,580.5,the competitiveness of its enterprises. 
+8,9,0,Calibri,11.0,72.0,591.9,525.9,603.0,"To strengthen its technological sovereignty, at the beginning of 2025 Italy also published the national "
+8,9,1,Calibri,11.0,72.0,606.3,525.8,617.4,strategy on quantum and the national strategy for virtual and augmented realities placing itself among 
+8,9,2,Calibri,11.0,72.0,620.7,465.3,631.8,the leading countries at European level in the definition of applied multi-sector policies. 
+8,10,0,Calibri-Light,15.0,72.0,643.9,509.7,658.9,Building technological leadership: digital infrastructure and technologies 
+8,11,0,Calibri,11.0,72.0,670.9,242.6,681.9,According to the 2025 Eurobarometer
+8,11,0,Calibri,7.0,242.6,670.0,246.1,677.0,5
+8,11,0,Calibri,11.0,246.1,670.9,525.7,681.9,", 88% of Italian people think that building efficient and secure "
+8,11,1,Calibri,11.0,72.0,685.3,508.4,696.3,digital infrastructures and data processing facilities should be a priority for the public authorities.  
+8,12,0,Calibri,11.0,216.1,725.8,218.5,736.8, 
+8,13,0,Calibri,6.0,72.0,738.7,75.1,744.7,4
+8,13,0,Calibri,9.0,75.0,738.9,525.1,747.9, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,13,1,Calibri,9.0,72.0,749.8,235.0,758.8,the State of the Digital Decade report 2025.  
+8,13,2,Calibri,6.0,72.0,760.6,75.1,766.6,5
+8,13,2,Calibri,9.0,75.0,760.9,285.5,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,13,2,Calibri,9.0,285.7,760.9,515.0,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,13,2,Calibri,9.0,515.2,760.9,517.2,769.9, 
+8,14,0,Calibri,11.0,294.9,795.2,302.9,806.3,5 
+9,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+9,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+9,2,0,Calibri,11.0,72.0,84.1,525.7,95.2,Italy made progress in rolling out connectivity infrastructures and can count on a good position in 
+9,2,1,Calibri,11.0,72.0,98.7,362.4,109.7,strategic sectors like semiconductors and quantum technologies. 
+9,4,0,Calibri-Light,12.0,72.0,121.3,203.2,133.3,Connectivity infrastructure 
+9,4,1,Calibri-Bold,11.0,72.0,136.9,92.1,148.0,Italy
+9,4,1,Calibri,11.0,92.1,136.9,94.8,148.0,’
+9,4,1,Calibri-Bold,11.0,94.8,136.9,525.9,148.0,s coverage of Very High Capacity Networks (VHCN) and FTTP reached 70.73% (the 2030 national 
+9,4,2,Calibri-Bold,11.0,72.0,151.5,525.9,162.5,"target is 100%) after increasing by +18.6% in 2024. It surpassed the EU average for FTTP (69.24%), "
+9,4,3,Calibri-Bold,11.0,72.0,165.9,525.8,176.9,although it is still below the overall EU VHCN coverage (82.49%). The country is on track according 
+9,4,4,Calibri-Bold,11.0,72.0,180.4,183.2,191.4,to its national trajectory
+9,4,4,Calibri,11.0,183.3,180.4,525.9,191.4,". For households in sparsely populated areas, coverage in 2024 was 36.79%. "
+9,4,5,Calibri,11.0,72.0,194.9,525.9,205.9,"It should be considered that only a small number of sparsely populated areas are also white areas, "
+9,4,6,Calibri,11.0,72.0,209.4,525.9,220.5,"while the majority of locations are in areas covered by investment plans. However, actual coverage is "
+9,4,7,Calibri,11.0,72.0,223.8,397.4,234.9,still well below the EU averages (61.89% for VHCN and 58.78% for FTTP). 
+9,5,0,Calibri,11.0,72.0,246.4,525.6,257.5,"According to national data, the increase in coverage has been evenly distributed across white areas "
+9,5,1,Calibri,11.0,72.0,260.9,324.1,272.0,"(+32.8%), grey areas (+31.1%) and black areas (+35.2%) "
+9,5,1,Calibri,7.0,324.1,260.0,327.6,267.0,6
+9,5,1,Calibri,11.0,327.5,260.9,525.9,272.0,". Moreover, additional data collected at the "
+9,5,2,Calibri,11.0,72.0,275.3,525.8,286.4,"national level shows that, in 2024, 59% of SMEs were covered by fibre networks, marking a significant "
+9,5,3,Calibri,11.0,72.0,289.9,482.5,300.9,"increase compared to 49% in 2023, and confirming progress in business connectivity as well "
+9,5,3,Calibri,7.0,482.5,288.9,486.0,295.9,7
+9,5,3,Calibri,11.0,486.0,289.9,491.2,300.9,. 
+9,6,0,Calibri-Bold,11.0,72.0,312.3,525.8,323.3,"Overall 5G coverage stood at 99.49% in 2024 (2030 national target is 100%). Being close to 100%, "
+9,6,1,Calibri-Bold,11.0,72.0,326.8,463.1,337.9,"this value remained stable compared to last year, and it is still above the EU’s 94.35%"
+9,6,1,Calibri,11.0,463.2,326.8,468.4,337.9,. 
+9,6,1,Calibri-Bold,11.0,468.7,326.8,525.9,337.9,The country 
+9,6,2,Calibri-Bold,11.0,72.0,341.3,279.2,352.4,is on track according to its national trajectory
+9,6,2,Calibri,11.0,279.4,341.3,525.9,352.4,. Coverage in sparsely populated areas showed a slight 
+9,6,3,Calibri,11.0,72.0,355.8,464.6,366.9,"improvement, reaching 99.1% in 2024, and also in this case was above the EU’s 79.57%. "
+9,7,0,Calibri-Bold,11.0,72.0,378.3,525.9,389.3,"5G coverage in the 3.4-3.8 GHz band, considered strategic for advanced 5G performance, is well "
+9,7,1,Calibri-Bold,11.0,72.0,392.8,176.1,403.9,above the EU average.
+9,7,1,Calibri,11.0,176.2,392.8,525.9,403.9, Italy’s total coverage in these bands rose from 88.29% in 2023 to 93.25% in 
+9,7,2,Calibri,11.0,72.0,407.3,525.9,418.4,"2024, standing above the EU’s 67.72%. For households in sparsely populated areas, Italy’s coverage "
+9,7,3,Calibri,11.0,72.0,421.7,525.9,432.8,"increased from 68.94% in 2023 to 74.36% in 2024, well above the EU’s 26.19%. These results can also "
+9,7,4,Calibri,11.0,72.0,436.3,525.6,447.3,"be attributed to the timely assignment of 5G pioneer bands in Italy, which enabled operators to start "
+9,7,5,Calibri,11.0,72.0,450.8,525.7,461.8,"deployment earlier than in other counties, as well as specific coverage obligations attached to the "
+9,7,6,Calibri,11.0,72.0,465.3,525.8,476.4,"rights of use of the awarded frequences. Indeed, in 2025, Italy’s 5G pioneer bands spectrum "
+9,7,7,Calibri,11.0,72.0,479.7,320.0,490.8,"assignment was 93.33%, compared to the EU’s 74.63%. "
+9,8,0,Calibri-Bold,11.0,72.0,502.3,347.5,513.3,Italy performs well also in the broadband take-up indicators. 
+9,8,0,Calibri,11.0,347.2,502.3,525.9,513.3,"In 2024, Italy’s share of fixed broadband "
+9,8,1,Calibri,11.0,72.0,516.8,525.8,527.8,"subscriptions at 100 Mbps or higher was 75.23%, above the EU’s 71.88%. For fixed broadband "
+9,8,2,Calibri,11.0,72.0,531.2,525.9,542.2,"subscriptions at 1 Gbps or higher, Italy’s performance was also good. In 2024, 25.18% of Italian fixed "
+9,8,3,Calibri,11.0,72.0,545.7,525.9,556.8,"broadband subscriptions were at this speed, outpacing the EU’s 22.25%. This was the result of a "
+9,8,4,Calibri,11.0,72.0,560.3,525.9,571.3,"sustained growth rate of 31.4%. Regarding 5G SIM cards, Italy’s share of the population was 30.56% in "
+9,8,5,Calibri,11.0,72.0,574.8,224.2,585.8,"2024, still below the EU’s 35.56%. "
+9,9,0,Calibri-LightItalic,11.0,72.0,597.2,141.0,608.3,VHCN and FTTP
+9,9,0,Calibri-LightItalic,11.0,140.9,597.2,143.4,608.3, 
+9,9,1,Calibri-Bold,11.0,72.0,611.7,327.3,622.8,"In its roadmap, Italy set the VHCN/FTTP target at 100% "
+9,9,1,Calibri,11.0,327.5,611.7,525.9,622.8,with the completion date moved to 2030 in 
+9,9,2,Calibri,11.0,72.0,626.3,186.2,637.3,the roadmap adjustment.
+9,9,2,Calibri-Bold,11.0,186.1,626.3,188.5,637.3, 
+9,10,0,Calibri-Bold,11.0,72.0,648.7,263.0,659.7,Under the 2023-2026 Broadband Plan (
+9,10,0,Calibri-BoldItalic,11.0,263.1,648.7,381.5,659.7,Piano Banda Ultra-Larga
+9,10,0,Calibri-Bold,11.0,381.5,648.7,525.9,659.7,", BUL), Italy has initiated the "
+9,10,1,Calibri-Bold,11.0,72.0,663.2,525.9,674.3,"implementation of several measures, to enhance connectivity for the 2026 Winter Olympic Games "
+9,11,0,Calibri,11.0,216.1,681.8,218.5,692.9, 
+9,12,0,Calibri,6.0,72.0,694.7,75.1,700.7,6
+9,12,0,Calibri,9.0,75.0,695.0,525.4,704.0," Data from the National Regulatory Authority (Autorità per le Garanzie nelle Comunicazioni, AGCOM). The classification into "
+9,12,1,Calibri,9.0,72.0,705.9,525.1,714.9,"‘white’, ‘grey’, and ‘black’ areas refers to the scheme defined by the European Commission, based on operators’ declarations "
+9,12,2,Calibri,9.0,72.0,716.9,525.5,725.9,"collected and processed by Infratel during the 2021 public consultation, which allowed each address to be assigned a specific "
+9,12,3,Calibri,9.0,72.0,727.9,107.3,736.9,category. 
+9,12,4,Calibri,6.0,72.0,738.7,75.1,744.7,7
+9,12,4,Calibri,9.0,75.0,738.9,139.7,747.9," Broadband Map, "
+9,12,4,Calibri,9.0,139.5,738.9,261.2,747.9,Dashboard Connettività delle PMI
+9,12,4,Calibri,9.0,261.3,738.9,525.4,747.9,. The analysis is based on a sample of 165 490 enterprises – representing 
+9,12,5,Calibri,9.0,72.0,749.8,525.4,758.8,approximately 75% of the total estimated by ISTAT (around 220 000 units in the same size range) – selected based on 
+9,12,6,Calibri,9.0,72.0,760.9,330.1,769.9,georeferenced data made available through precise address matching. 
+9,13,0,Calibri,11.0,294.9,795.2,302.9,806.3,6 
+10,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+10,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+10,3,0,Calibri-Bold,11.0,72.0,84.1,339.6,95.2,and to test hybrid/satellite solutions among other things
+10,3,0,Calibri,11.0,339.7,84.1,525.9,95.2,. Besides constructing a public backhaul 
+10,3,1,Calibri,11.0,72.0,98.7,525.9,109.7,"network (see box with the recommendation below), these measures include the deployment of "
+10,3,2,Calibri,11.0,72.0,113.1,525.8,124.1,connectivity infrastructure along the Milan-Cortina corridor and enhanced connectivity for hospitals 
+10,3,3,Calibri,11.0,72.0,127.6,525.9,138.6,"and medical stations in the area of the 2026 Winter Olympic Games, with the overall goal of improving "
+10,3,4,Calibri,11.0,72.0,142.1,251.2,153.1,the management of logistics and safety. 
+10,4,0,Calibri,11.0,72.0,164.5,525.8,175.6,"Under the umbrella of the BUL 2023-2026, Italy has also launched hybrid/satellite connectivity trials "
+10,4,1,Calibri,11.0,72.0,179.1,525.8,190.1,"in Lombardy, backed by EUR 5 million from the Innovation Fund. The trial is aimed at testing the use "
+10,4,2,Calibri,11.0,72.0,193.6,525.7,204.6,"of space-based networks to provide satellite backhaul capacity in synergy with terrestrial networks, "
+10,4,3,Calibri,11.0,72.0,208.1,525.9,219.1,and developing integrated connectivity solutions. The trial launched in Lombardy will provide 
+10,4,4,Calibri,11.0,72.0,222.5,525.7,233.5,"information on feasibility, costs, implementation timelines, sustainability, and performance, with a "
+10,4,5,Calibri,11.0,72.0,237.0,285.4,248.1,view to possible large-scale future applications. 
+10,5,0,Calibri,11.0,72.0,259.6,525.7,270.6,"Additionally, twelve minor islands will be connected to the mainland through fibre networks, with "
+10,5,1,Calibri,11.0,72.0,274.0,525.9,285.0,interventions that will complement other similar measures in the context of the national Recovery and 
+10,5,2,Calibri,11.0,72.0,288.5,170.3,299.6,Resilience Plan (RRP). 
+10,6,0,Calibri-Bold,11.0,72.0,311.1,461.6,322.1,Specific measures aim to enhance coordination and simplify the issuing of permits.
+10,6,0,Calibri,11.0,461.6,311.1,525.9,322.1, This includes 
+10,6,1,Calibri,11.0,72.0,325.5,525.9,336.5,strengthening the National Federated Infrastructure Information System (SINFI) to improve the 
+10,6,2,Calibri,11.0,72.0,340.0,525.7,351.0,"collection, validation, and accessibility of infrastructure data, ensuring interoperability with public "
+10,6,3,Calibri,11.0,72.0,354.5,525.8,365.6,administrations. A total investment of EUR 62 million is dedicated to streamlining the management of 
+10,6,4,Calibri,11.0,72.0,369.0,525.9,380.1,"network permits, simplifying coordination between entities, and integrating SINFI into the National "
+10,6,5,Calibri,11.0,72.0,383.4,169.7,394.5,Digital Data Platform. 
+10,7,0,Calibri-Bold,11.0,72.0,406.0,525.9,417.1,"The landscape of electronic communication markets is going through significant changes, with some "
+10,7,1,Calibri-Bold,11.0,72.0,420.4,205.7,431.5,consolidation on the market
+10,7,1,Calibri,11.0,205.7,420.4,525.9,431.5,", such as the merger between Fastweb and Vodafone Italia, and the "
+10,7,2,Calibri,11.0,72.0,434.9,467.8,446.0,"network separation of the incumbent TIM, with the network now belonging to Fibercop. "
+10,8,0,Calibri,11.0,72.0,457.5,269.5,468.5,"While the deployment of fibre is increasing, "
+10,8,0,Calibri-Bold,11.0,269.6,457.5,525.9,468.5,"the migration process is slow, and the copper switch-off "
+10,8,1,Calibri-Bold,11.0,72.0,470.8,320.2,481.9,plan for the moment is limited to the primary network
+10,8,1,Calibri,11.0,320.4,470.8,325.6,481.9,. 
+10,8,2,Calibri,11.0,72.0,484.3,74.5,495.3, 
+10,9,0,Calibri-Bold,11.0,77.7,498.2,186.2,509.2,2024 recommendation: 
+10,9,0,Calibri,11.0,185.8,498.2,520.3,509.2,Continue to deploy FTTP ensuring a high growth rate and strengthen efforts 
+10,9,1,Calibri,11.0,77.7,512.7,520.0,523.8,to develop connectivity infrastructures coherently and jointly with cloud and edge computing 
+10,9,2,Calibri,11.0,77.7,527.2,369.8,538.3,"capabilities, exploiting the potential of the country’s 5G network. "
+10,9,2,Calibri-Bold,11.0,369.7,527.2,372.2,538.3, 
+10,10,0,Calibri-Bold,11.0,77.7,550.3,495.9,561.3,Italy made some efforts to address the recommendation through new policy actions in 2024
+10,10,0,Calibri,11.0,496.2,550.3,501.6,561.3,: 
+10,11,0,Calibri,11.0,77.7,572.7,520.2,583.8,"In 2024, Italy recorded significant progress in FTTP coverage, with an increase of 11 percentage "
+10,11,1,Calibri,11.0,77.7,587.3,221.5,598.3,points between 2023 and 2024. 
+10,12,0,Calibri,11.0,77.7,609.7,520.3,620.7,"A good part of this progress can be attributed to the implementation of the RRP measures, which "
+10,12,1,Calibri,11.0,77.7,624.2,520.3,635.3,"are moving towards completion. However, while the implementation of RRP measures–such as "
+10,12,2,Calibri,11.0,77.7,638.7,520.3,649.8,"Connected Schools, Connected Healthcare, and Connected Minor Islands–is progressing as planned "
+10,12,3,Calibri,11.0,77.7,653.1,520.2,664.2,"or ahead of schedule, at the end of January 2025, Italia 1 Giga had reached only 43% of the target "
+10,12,4,Calibri,11.0,77.7,667.7,520.2,678.7,(about 1.5 million addresses connected out of a target of 3.4 million to be reached by June 2026). 
+10,12,5,Calibri,11.0,77.7,682.2,520.2,693.2,"The delays particularly affected the deployment of connectivity networks for scattered households, "
+10,12,6,Calibri,11.0,77.7,696.7,447.8,707.7,where progress was 23% (about 105 000 houses reached out of 450 000 targeted). 
+10,13,0,Calibri,11.0,77.7,719.2,520.3,730.2,"Moreover, in 2024, Italy concluded the mapping of backhaul of mobile network base stations, the "
+10,13,1,Calibri,11.0,77.7,733.7,520.2,744.7,first of its kind in the country. This was a preliminary action to the public initiative of enhancing fixed 
+10,13,2,Calibri,11.0,77.7,748.2,520.3,759.2,"networks, announced in the ‘Italian Strategy for Ultra-Broadband 2023-2026’. The results formed "
+10,14,0,Calibri,11.0,294.9,795.2,302.9,806.3,7 
+11,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+11,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+11,2,0,Calibri,11.0,77.7,84.6,520.3,95.7,"the basis for defining the project to build a public backhauling network, for which the call for tenders "
+11,2,1,Calibri,11.0,77.7,99.1,520.3,110.2,is currently being published. A fixed network mapping was launched in 2025 and requires operators 
+11,2,2,Calibri,11.0,77.7,113.7,440.7,124.7,to report on the state of fixed coverage for approximately 35.5 million addresses. 
+11,4,0,Calibri,11.0,72.0,136.6,74.5,147.6, 
+11,4,1,Calibri-LightItalic,11.0,72.0,152.1,84.6,163.1,5G
+11,4,1,Calibri-LightItalic,11.0,84.5,152.1,87.0,163.1, 
+11,4,2,Calibri-Bold,11.0,72.0,166.6,328.6,177.6,"In its roadmap, Italy set the VHCN/FTTP target at 100%, "
+11,4,2,Calibri,11.0,328.8,166.6,525.8,177.6,with the completion date moved to 2030 in 
+11,4,3,Calibri,11.0,72.0,181.0,525.9,192.0,its roadmap adjustment. This target has almost been achieved and the data observed confirms a solid 
+11,4,4,Calibri,11.0,72.0,195.5,525.9,206.5,"growth trend and positive developments in both technological capacity and territorial distribution, "
+11,4,5,Calibri,11.0,72.0,210.0,525.8,221.1,with progressive expansion of access to high-performance networks even in less densely populated 
+11,4,6,Calibri,11.0,72.0,224.5,101.3,235.6,areas. 
+11,5,0,Calibri-Bold,11.0,72.0,247.0,375.0,258.0,"In 2024, operators continued deployment across different bands. "
+11,5,0,Calibri,11.0,375.7,247.0,525.8,258.0,"While data collection is ongoing, "
+11,5,1,Calibri,11.0,72.0,261.5,525.9,272.6,"progress was observed in deploying the 700 MHz frequencies, for which the objective is to cover 99.4% "
+11,5,2,Calibri,11.0,72.0,275.9,525.9,287.0,"of the population by 2026, including municipalities in the digital divide and all the main transportation "
+11,5,3,Calibri,11.0,72.0,290.4,525.9,301.5,"routes by 2025. In the 3.6-3.8 GHz bands, coverage targets were achieved, including coverage of "
+11,5,4,Calibri,11.0,72.0,305.0,525.9,316.0,municipalities with less than 5 000 residents. The 3.4-3.6 GHz bands (still partly occupied by the 
+11,5,5,Calibri,11.0,72.0,319.5,525.9,330.5,defence sector) are currently used for 5G services. The lower part of the 2.6 GHz band (24.25-26.5 
+11,5,6,Calibri,11.0,72.0,333.9,525.9,344.9,GHz) is now used by Wireless Local Loop FDD systems (with some portions still allocated to the defence 
+11,5,7,Calibri,11.0,72.0,348.4,525.6,359.4,sector). Regulatory action is ongoing to assign also such frequencies for 5G (a proceeding has been 
+11,5,8,Calibri,11.0,72.0,362.9,525.8,374.0,"initiated with decision n. 258/24/CONS), integrating the upper part of the 26 GHz already assigned in "
+11,5,9,Calibri,11.0,72.0,377.4,99.6,388.5,2018. 
+11,6,0,Calibri-Bold,11.0,72.0,399.9,525.9,410.9,The increase in electromagnetic emission limits adopted in 2024 is facilitating network roll-out and 
+11,6,1,Calibri-Bold,11.0,72.0,414.4,214.9,425.5,improving transmission speeds
+11,6,1,Calibri,11.0,215.1,414.4,525.9,425.5,. The government is also monitoring actual usage by operators that 
+11,6,2,Calibri,11.0,72.0,428.9,250.1,440.0,requested higher limits at specific sites. 
+11,7,0,Calibri-Bold,11.0,77.7,451.9,322.3,462.9,2024 recommendation on connectivity infrastructure
+11,7,0,Calibri,11.0,322.3,451.9,520.3,462.9,: Ensure sufficient access of new players to 
+11,7,1,Calibri,11.0,77.7,466.4,520.2,477.4,spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications 
+11,7,2,Calibri,11.0,77.7,480.9,474.2,491.9,and encourage operators to speed up the deployment of 5G stand-alone core networks.  
+11,8,0,Calibri-Bold,11.0,77.7,503.8,496.0,514.9,Italy made some efforts to address the recommendation through new policy actions in 2024
+11,8,0,Calibri,11.0,496.2,503.8,501.3,514.9,. 
+11,9,0,Calibri,11.0,77.7,526.4,520.1,537.4,Incentives for the development of stand-alone 5G services have been introduced through a public 
+11,9,1,Calibri,11.0,77.7,540.9,520.0,551.9,"call targeting vertical sectors such as ports, universities, healthcare, and agritech, aiming to "
+11,9,2,Calibri,11.0,77.7,555.3,520.1,566.3,strengthen demand for specialised services and support the development of the core network. 
+11,9,3,Calibri,11.0,77.7,569.9,341.9,580.9,Funding and experimentation details are yet to be defined. 
+11,10,0,Calibri,11.0,77.7,592.3,520.3,603.3,"Moreover, the Houses of Emerging Technologies (CTEs) continued their activities of promoting "
+11,10,1,Calibri,11.0,77.7,606.8,520.3,617.9,innovative projects using next generation networks and enabling technologies like 5G. According to 
+11,10,2,Calibri,11.0,77.7,621.3,520.3,632.4,"latest data, and the CTEs developed 375 use cases, in the sectors of mobility (11% of the use cases), "
+11,10,3,Calibri,11.0,77.7,635.9,520.3,646.9,"smart cities (21%), Industry 4.0 (13%), smart services (42%), autonomous driving/drones (8%), and "
+11,10,4,Calibri,11.0,77.7,650.4,520.2,661.4,"secure networks and new generation communications (5%). Funding will end in 2025, although "
+11,10,5,Calibri,11.0,77.7,664.8,282.6,675.8,potential extensions are under consideration. 
+11,11,0,Calibri,11.0,72.0,687.8,74.5,698.9, 
+11,12,0,Calibri-Light,12.0,72.0,710.5,151.9,722.5,Semiconductors 
+11,12,1,Calibri-Bold,11.0,72.0,726.1,525.9,737.2,Semiconductors remain a clear priority in Italy’s investment strategy and the key measures are 
+11,12,2,Calibri-Bold,11.0,72.0,740.6,130.2,751.7,progressing. 
+11,12,2,Calibri,11.0,132.5,740.6,525.9,751.7,"While no new measures were presented in the roadmap adjustment this year, the "
+11,13,0,Calibri,11.0,294.9,795.2,302.9,806.3,8 
+12,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+12,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+12,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,government is working on a semiconductors strategy and progress was made in implementing strategic 
+12,2,1,Calibri,11.0,72.0,98.7,120.4,109.7,measures. 
+12,4,0,Calibri-Bold,11.0,72.0,121.1,525.9,132.1,"In 2024, the government successfully launched the incentive scheme for enterprises to strengthen "
+12,4,1,Calibri-Bold,11.0,72.0,135.6,353.0,146.7,manufacturing capacity in the semiconductors supply chain.
+12,4,1,Calibri,11.0,353.2,135.6,525.9,146.7, Leveraging the Microprocessor Fund 
+12,4,2,Calibri,11.0,72.0,150.1,248.1,161.2,"launched in 2023, a funding window – ‘"
+12,4,2,Calibri-Bold,11.0,248.1,150.1,362.2,161.2,Sportello Semiconduttori
+12,4,2,Calibri,11.0,362.4,150.1,367.3,161.2,’ 
+12,4,2,Calibri,7.0,367.3,149.2,370.8,156.2,8
+12,4,2,Calibri,11.0,370.8,150.1,525.9,161.2, – kicked off in 2024 for the award 
+12,4,3,Calibri,11.0,72.0,164.5,209.7,175.6,"of development contracts, i.e. "
+12,4,3,Calibri-Bold,11.0,210.3,164.5,514.9,175.6,incentives to enterprises for large industrial development projects
+12,4,3,Calibri,11.0,515.0,164.5,517.2,175.6, 
+12,4,3,Calibri,7.0,517.2,163.6,520.7,170.6,9
+12,4,3,Calibri,11.0,520.7,164.5,525.9,175.6,. 
+12,4,4,Calibri,11.0,72.0,179.1,525.9,190.1,"Aligning with the objectives of the EU Chips Act, the incentives support projects in introducing "
+12,4,5,Calibri,11.0,72.0,193.6,525.9,204.6,distinctive capabilities in Italy in manufacturing semiconductors or producing key equipment or 
+12,4,6,Calibri,11.0,72.0,208.1,339.2,219.1,"components for the European supply chain. By March 2025, "
+12,4,6,Calibri-Bold,11.0,339.1,208.1,525.9,219.1,seven investment programmes had been 
+12,4,7,Calibri-Bold,11.0,72.0,222.5,118.5,233.5,submitted
+12,4,7,Calibri,11.0,118.5,222.5,525.9,233.5,", amounting to EUR 8 billion in potential investments, with EUR 3.8 billion of requested "
+12,4,8,Calibri,11.0,72.0,237.0,308.3,248.1,"incentives, exceeding the initial capacity of the fund. "
+12,5,0,Calibri-Bold,11.0,72.0,259.6,525.8,270.6,There was progress in supporting important and strategic investments in the semiconductor 
+12,5,1,Calibri-Bold,11.0,72.0,274.0,109.8,285.0,industry
+12,5,1,Calibri,11.0,109.8,274.0,525.9,285.0,". In particular, approved measures under EU State aid rules will support Silicon Box, a firm "
+12,5,2,Calibri,11.0,72.0,288.5,493.8,299.6,specialised in advanced chiplet packaging capabilities (with EUR 1.3 billion in State aid) 
+12,5,2,Calibri,7.0,493.7,287.6,500.7,294.6,10
+12,5,2,Calibri,11.0,500.6,288.5,525.9,299.6, and 
+12,5,3,Calibri,11.0,72.0,303.0,525.7,314.1,"STMicroelectronics, for the construction and operation of an integrated chip manufacturing plant for "
+12,5,4,Calibri,11.0,72.0,317.6,525.8,328.6,"Silicon Carbide (‘SiC’) power devices, focused on high-power electronic devices with applications in "
+12,5,5,Calibri,11.0,72.0,332.0,525.9,343.0,"electric vehicles, fast-charging stations, and renewable energy sectors (about EUR 2 billion in State "
+12,5,6,Calibri,11.0,72.0,346.5,91.2,357.5,aid) 
+12,5,6,Calibri,7.0,91.1,345.6,98.1,352.5,11
+12,5,6,Calibri,11.0,98.1,346.5,525.8,357.5,". Under the Chips Act, Italy is also supporting the pilot line for wide band gap semiconductors, "
+12,5,7,Calibri,11.0,72.0,361.0,525.9,372.0,"dedicated to advancing research on materials for high-power electronics, particularly for the "
+12,5,8,Calibri,11.0,72.0,375.5,242.7,386.6,automotive and aerospace industries. 
+12,6,0,Calibri-Bold,11.0,72.0,398.0,525.6,409.0,"Finally, also in the context of the G7, Italy has actively participated in global discussions on "
+12,6,1,Calibri-Bold,11.0,72.0,412.5,178.3,423.5,semiconductor policies
+12,6,1,Calibri,11.0,178.4,412.5,525.8,423.5,", facilitating the exchange on topics such as energy efficiency, international "
+12,6,2,Calibri,11.0,72.0,427.0,329.4,438.1,"talent exchange, trustworthiness and reliability principles "
+12,6,2,Calibri,7.0,329.4,426.1,336.4,433.1,12
+12,6,2,Calibri,11.0,336.3,427.0,341.6,438.1,. 
+12,7,0,Calibri,11.0,72.0,449.5,525.6,460.5,Italy is also directly participating in the IPCEI on Microelectronics and Communication Technologies 
+12,7,1,Calibri,11.0,72.0,464.0,265.1,475.0,"(IPCEI-ME/CT), with support from the RPP.  "
+12,8,0,Calibri-Bold,11.0,72.0,486.4,525.8,497.5,"Overall, Italy’s efforts in semiconductor production have played a key role in strengthening the "
+12,8,1,Calibri-Bold,11.0,72.0,500.9,359.3,512.0,potential of the EU’s sovereignty and ensuring a secure supply. 
+12,8,1,Calibri,11.0,359.4,500.9,525.9,512.0,Italy remains a key player in Europe’s 
+12,8,2,Calibri,11.0,72.0,515.5,525.9,526.5,"semiconductor industry, driven by leading enterprises and specialised SMEs, while policies to support "
+12,8,3,Calibri,11.0,72.0,529.9,302.7,540.9,this sector have been strengthened in recent years. 
+12,9,0,Calibri-Bold,11.0,77.7,552.9,186.6,563.9,2024 recommendation: 
+12,9,0,Calibri,11.0,186.6,552.9,424.7,563.9,Continue the efforts in the semiconductors sector […]
+12,9,0,Calibri-Bold,11.0,424.8,552.9,427.3,563.9, 
+12,10,0,Calibri-Bold,11.0,77.7,576.0,495.6,587.0,Italy made some efforts to address the recommendation through new policy actions in 2024
+12,10,0,Calibri,11.0,495.7,576.0,520.3,587.0,: The 
+12,10,1,Calibri,11.0,77.7,590.4,520.1,601.4,measures and actions described above underscore Italy’s commitment to strengthening its 
+12,10,2,Calibri,11.0,77.7,604.9,199.0,615.9,semiconductor ecosystem. 
+12,11,0,Calibri,11.0,216.1,648.8,218.5,659.9, 
+12,12,0,Calibri,6.0,72.0,661.7,75.1,667.7,8
+12,12,0,Calibri,9.0,75.0,662.0,77.1,671.0, 
+12,12,0,Calibri,9.0,77.1,662.0,312.4,671.0,Contratti di sviluppo - Nuovo sportello semiconduttori | Incentivi
+12,12,0,Calibri,9.0,312.5,662.0,318.9,671.0,.  
+12,12,1,Calibri,6.0,72.0,672.6,75.1,678.6,9
+12,12,1,Calibri,9.0,75.0,672.9,525.4,681.9," Projects with eligible costs of no less than EUR 20  million, carried out by one or more companies. The support includes "
+12,12,2,Calibri,9.0,72.0,683.9,227.9,692.9,non-repayable loans and subsidised loans. 
+12,12,3,Calibri,6.0,72.0,694.7,78.1,700.7,10
+12,12,3,Calibri,9.0,78.0,695.0,434.3,704.0, Approved by the European Commission on 18 December 2024. Decision in course of publication. 
+12,12,4,Calibri,6.0,72.0,705.6,78.1,711.6,11
+12,12,4,Calibri,9.0,78.0,705.9,80.1,714.9, 
+12,12,4,Calibri,9.0,80.1,705.9,478.7,714.9,https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_2994/IP_24_2994_EN.pdf
+12,12,4,Calibri,9.0,478.3,705.9,484.8,714.9,.  
+12,12,5,Calibri,6.0,72.0,716.7,78.1,722.7,12
+12,12,5,Calibri,9.0,78.0,716.9,525.0,725.9," More specifically, reference is made to: 1. the creation of a G7 Point of Contact Group (POC) to facilitate information "
+12,12,6,Calibri,9.0,72.0,727.9,525.3,736.9,"exchange on industrial research, sustainable production, anti-competitive practices, and supply chain coordination. Future "
+12,12,7,Calibri,9.0,72.0,738.9,525.2,747.9,"discussions will prioritise chip energy efficiency and international talent exchange, aligning with the G7’s Trustworthiness and "
+12,12,8,Calibri,9.0,72.0,749.8,525.1,758.8,Reliability Principles; 2. participation in the OECD Semiconductor Informal Exchange Network (SIEN) and the European 
+12,12,9,Calibri,9.0,72.0,760.9,372.5,769.9,"Semiconductor Board, reinforcing Italy’s role in global semiconductor governance. "
+12,13,0,Calibri,11.0,294.9,795.2,302.9,806.3,9 
+13,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+13,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+13,2,0,Calibri,11.0,72.0,84.1,74.5,95.2, 
+13,4,0,Calibri-Light,12.0,72.0,106.8,130.2,118.8,Edge nodes 
+13,4,1,Calibri-Bold,11.0,72.0,122.4,525.9,133.5,"According to the Edge Node Observatory, Italy is estimated to have deployed a total of 152 edge "
+13,4,2,Calibri-Bold,11.0,72.0,136.9,311.2,148.0,"nodes by 2024, a progression of +105.4% since 2023."
+13,4,2,Calibri,11.0,311.2,136.9,313.7,148.0, 
+13,5,0,Calibri-Bold,11.0,72.0,159.4,423.5,170.4,"In 2024, Italy launched field trials with Edge Cloud Computing (ECC) Platforms"
+13,5,0,Calibri,11.0,423.6,159.4,425.8,170.4, 
+13,5,0,Calibri,7.0,425.6,158.5,432.6,165.4,13
+13,5,0,Calibri,11.0,432.6,159.4,525.9,170.4,", which supports the "
+13,5,1,Calibri,11.0,72.0,173.9,525.7,184.9,experimental development and adoption of solutions leveraging ECC technology. The initiative 
+13,5,2,Calibri,11.0,72.0,188.4,525.8,199.5,specifically aims to assess the advantages of deploying ECC platforms within telecom operators’ access 
+13,5,3,Calibri,11.0,72.0,202.9,525.8,214.0,"networks. Following the public call, four proposals were submitted by consortia comprising "
+13,5,4,Calibri,11.0,72.0,217.3,525.8,228.4,"universities, telecom operators, IT infrastructure providers, consulting firms, broadcasting companies, "
+13,5,5,Calibri,11.0,72.0,231.9,200.6,242.9,and cybersecurity specialists 
+13,5,5,Calibri,7.0,200.6,231.0,207.6,237.9,14
+13,5,5,Calibri,11.0,207.5,231.9,525.9,242.9,". The evaluation of these proposals is now underway, with total funding "
+13,5,6,Calibri,11.0,72.0,246.4,265.3,257.5,of EUR 4 million allocated for the initiative. 
+13,6,0,Calibri-Bold,11.0,77.7,269.3,186.2,280.4,2024 recommendation: 
+13,6,0,Calibri,11.0,185.8,269.3,520.2,280.4,Continue to deploy FTTP ensuring a high growth rate and strengthen efforts 
+13,6,1,Calibri,11.0,77.7,283.9,520.0,294.9,to develop connectivity infrastructures coherently and jointly with cloud and edge computing 
+13,6,2,Calibri,11.0,77.7,298.4,364.5,309.4,capabilities exploiting the potential of the country’s 5G network.
+13,6,2,Calibri-Bold,11.0,364.5,298.4,369.4,309.4,  
+13,7,0,Calibri-Bold,11.0,77.7,321.3,514.9,332.3,Italy made some efforts to address the recommendation through new policy actions in 2024
+13,7,0,Calibri,11.0,514.9,321.3,520.3,332.3,: 
+13,7,1,Calibri,11.0,77.7,335.8,520.3,346.9,"Notably, it published the call for projects for the experimentation of ECC platforms, with the aim of "
+13,7,2,Calibri,11.0,77.7,350.3,274.0,361.4,financing up to four field trials (see above).  
+13,8,0,Calibri,11.0,72.0,373.4,74.5,384.4, 
+13,9,0,Calibri-Light,12.0,72.0,396.1,184.4,408.1,Quantum technologies 
+13,9,1,Calibri-Bold,11.0,72.0,411.7,525.6,422.7,"2025 marked a pivotal step for Italy, which published the draft of its first national quantum "
+13,9,2,Calibri-Bold,11.0,72.0,426.1,108.8,437.1,strategy
+13,9,2,Calibri,11.0,108.9,426.1,111.1,437.1, 
+13,9,2,Calibri,7.0,110.9,425.2,117.9,432.1,15
+13,9,2,Calibri,11.0,117.9,426.1,513.6,437.1,", outlining a set of actions to strengthen the country’s position in quantum technology "
+13,9,2,Calibri,7.0,513.6,425.2,520.6,432.1,16
+13,9,2,Calibri,11.0,520.6,426.1,525.9,437.1,", "
+13,9,3,Calibri,11.0,72.0,440.6,525.9,451.6,with a strong focus on creating a solid industrial ecosystem and involving the private sector. As the 
+13,9,4,Calibri,11.0,72.0,455.1,525.8,466.1,"document highlights, while Italy has strong academic expertise, it lags behind global leaders when it "
+13,9,5,Calibri,11.0,72.0,469.6,525.9,480.7,"comes to funding, industrial adoption, and the possibility for start-ups to scale up and compete "
+13,9,6,Calibri,11.0,72.0,484.1,525.9,495.2,"internationally. Public funding, driven by the Recovery and Resilience Facility (RRF), has played a key "
+13,9,7,Calibri,11.0,72.0,498.5,525.9,509.6,"role in launching initiatives and stimulating private sector involvement. However, its scale "
+13,9,8,Calibri,11.0,72.0,513.1,525.6,524.1,"(EUR 227.4 million between 2021 and 2024, most of which from the RRF) has remained limited and "
+13,9,9,Calibri,11.0,72.0,527.6,525.9,538.6,"lower than the funding allocated by other countries such as Germany and France. Moreover, private "
+13,9,10,Calibri,11.0,72.0,542.1,525.9,553.2,investment remains limited: venture capital investment in Italian quantum start-ups amounted to just 
+13,9,11,Calibri,11.0,72.0,556.5,525.8,567.6,"EUR 12.5 million between 2023 and 2024, very low compared to the funding received by firms in the "
+13,9,12,Calibri,11.0,72.0,571.1,525.9,582.1,"US and other EU countries. Against this background, the draft strategy outlines recommendations to "
+13,9,13,Calibri,11.0,72.0,585.6,525.9,596.6,"reinforce the national quantum ecosystem. Among other things, it proposes measures to improve the "
+13,9,14,Calibri,11.0,72.0,600.1,525.9,611.1,"coordination of investments, technology transfer, public-private partnerships, industry engagement "
+13,9,15,Calibri,11.0,72.0,614.5,525.8,625.5,"and commercialisation, and international collaboration – particularly by strengthening ties with "
+13,9,16,Calibri,11.0,72.0,629.0,525.7,640.1,European Union initiatives. The national strategy also highlights the important role of some of the 
+13,10,0,Calibri,11.0,216.1,648.8,218.5,659.9, 
+13,11,0,Calibri,6.0,72.0,661.7,78.1,667.7,13
+13,11,0,Calibri,9.0,78.0,662.0,246.3,671.0, Part of the Broadband Plan (BUL) 2023-2026. 
+13,11,1,Calibri,6.0,72.0,672.6,78.1,678.6,14
+13,11,1,Calibri,9.0,78.0,672.9,352.4,681.9, The call was published in October 2024 and closed on 31 January 2025 (
+13,11,1,Calibri,9.0,352.4,672.9,525.3,681.9,Edge Cloud Computing: Prorogata la scadenza 
+13,11,2,Calibri,9.0,72.0,683.9,143.5,692.9,dell'avviso pubblico
+13,11,2,Calibri,9.0,143.5,683.9,150.6,692.9,). 
+13,11,3,Calibri,6.0,72.0,694.7,78.1,700.7,15
+13,11,3,Calibri,9.0,78.0,695.0,525.4,704.0, The draft strategy was drawn up by a working group set up by the Ministry of University and Research and including several 
+13,11,4,Calibri,9.0,72.0,705.9,525.1,714.9,"public administrations (Ministry of Enterprises and Made in Italy, National Agency for Cybersecurity, Department of Digital "
+13,11,5,Calibri,9.0,72.0,716.9,525.1,725.9,Transformation) and research centres. The drafting of the strategy was preceded by a consultation for the mapping of the 
+13,11,6,Calibri,9.0,72.0,727.9,525.2,736.9,industrial ecosystem. The draft strategy was published in February 2025 and subject to public consultation. The draft is 
+13,11,7,Calibri,9.0,72.0,738.9,148.1,747.9,available at this link: 
+13,11,7,Calibri,9.0,148.1,738.9,269.4,747.9,QIS_master_for_consultation.pdf
+13,11,7,Calibri,9.0,269.0,738.9,273.4,747.9,. 
+13,11,8,Calibri,6.0,72.0,749.6,78.1,755.6,16
+13,11,8,Calibri,9.0,78.0,749.8,525.4,758.8," The strategy covers: Quantum Computing, Quantum Simulation, Quantum Communication, Quantum Metrology and "
+13,11,9,Calibri,9.0,72.0,760.9,426.0,769.9,"Sensing, Engineering and Enabling Technologies, Fundamental Science and Quantum Mechanics. "
+13,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,10 
+14,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+14,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+14,2,0,Calibri,11.0,72.0,84.1,525.8,95.2,Houses of Emerging Technologies which are working to systematize their skills and laboratories in 
+14,2,1,Calibri,11.0,72.0,98.7,525.8,109.7,order to develop innovative solutions and support experimentations in collaboration with local 
+14,2,2,Calibri,11.0,72.0,113.1,135.2,124.1,communities. 
+14,4,0,Calibri-Bold,11.0,72.0,135.6,525.9,146.7,Italy can count on significant capabilities in the field of quantum technology and is advancing in the 
+14,4,1,Calibri-Bold,11.0,72.0,150.1,523.5,161.2,implementation of measures to strengthen its quantum computing infrastructure and ecosystem.
+14,4,1,Calibri,11.0,523.4,150.1,525.9,161.2, 
+14,4,2,Calibri,11.0,72.0,164.5,525.9,175.6,"Some of the measures are delivering results ahead of time. For example, a 24-qubit superconducting "
+14,4,3,Calibri,11.0,72.0,179.1,421.3,190.1,quantum computer was installed at the University of Naples in May 2024 
+14,4,3,Calibri,7.0,421.2,178.2,428.2,185.1,17
+14,4,3,Calibri,11.0,428.1,179.1,525.9,190.1,", and two additional "
+14,4,4,Calibri,11.0,72.0,193.6,525.9,204.6,"quantum computers will be operational by 2025, through the National Centre for HPC, Big Data, and "
+14,4,5,Calibri,11.0,72.0,208.1,194.8,219.1,Quantum Computing (ICSC)
+14,4,5,Calibri,7.0,194.7,207.2,201.7,214.2,18
+14,4,5,Calibri,11.0,201.6,208.1,204.4,219.1,.
+14,4,5,Calibri,7.0,204.4,207.2,206.0,214.2, 
+14,5,0,Calibri,11.0,72.0,230.5,233.5,241.6,Italy is also among the six countries 
+14,5,0,Calibri,7.0,233.3,229.6,240.3,236.6,19
+14,5,0,Calibri,11.0,240.3,230.5,525.7,241.6," chosen to host quantum systems under the EuroQCS initiative, "
+14,5,1,Calibri,11.0,72.0,245.1,130.4,256.1,with CINECA 
+14,5,1,Calibri,7.0,130.3,244.2,137.3,251.1,20
+14,5,1,Calibri,11.0,137.3,245.1,525.9,256.1, leading efforts to deploy a 140-qubit neutral atom quantum simulator by 2026 and a 
+14,5,2,Calibri,11.0,72.0,259.6,525.7,270.6,"54-qubit superconducting digital quantum computer. Additionally, CINECA plays a key role in "
+14,5,3,Calibri,11.0,72.0,274.0,525.9,285.0,"developing high-performance computing (HPC)-quantum software applications, acting as a Centre of "
+14,5,4,Calibri,11.0,72.0,288.5,123.7,299.6,Excellence. 
+14,6,0,Calibri,11.0,72.0,311.1,525.8,322.1,"Another key player in the Italian landscape is the National Centre for HPC, Big Data, and Quantum "
+14,6,1,Calibri,11.0,72.0,325.5,372.2,336.5,"Computing or ICSC, mentioned above. This large partnership "
+14,6,1,Calibri,7.0,372.1,324.6,379.1,331.5,21
+14,6,1,Calibri,11.0,379.0,325.5,525.9,336.5,", supported by the RRF with "
+14,6,2,Calibri,11.0,72.0,340.0,525.9,351.0,"EUR 320 million for 2022-2025, is strengthening the HPC, cloud and quantum infrastructure, and "
+14,6,3,Calibri,11.0,72.0,354.5,525.8,365.6,boosting private sector and international collaborations. The project will be supported and continued 
+14,6,4,Calibri,11.0,72.0,369.0,310.0,380.1,also after the end of the RRF implementation period. 
+14,7,0,Calibri-Bold,11.0,72.0,391.5,162.9,402.5,These initiatives are
+14,7,0,Calibri,11.0,162.9,391.5,165.4,402.5, 
+14,7,0,Calibri-Bold,11.0,165.1,391.5,404.6,402.5,building a strong public-private quantum community
+14,7,0,Calibri,11.0,404.7,391.5,525.9,402.5,", contributing to advancing "
+14,7,1,Calibri,11.0,72.0,406.0,227.9,417.1,real-world quantum applications 
+14,7,1,Calibri,7.0,227.8,405.1,234.8,412.1,22
+14,7,1,Calibri,11.0,234.8,406.0,525.9,417.1,", pooling expertise, and supporting SMEs and start-ups by "
+14,7,2,Calibri,11.0,72.0,420.4,525.9,431.5,"improving their access to resources. At the same time, these initiatives are laying a robust foundation "
+14,7,3,Calibri,11.0,72.0,434.9,84.9,446.0,for
+14,7,3,Calibri-Bold,11.0,84.9,434.9,525.9,446.0," Italy’s quantum infrastructure, which will be integrated into a broader European network, and "
+14,7,4,Calibri-Bold,11.0,72.0,449.5,276.3,460.5,are crucial to strengthening the EU’s position
+14,7,4,Calibri,11.0,276.3,449.5,281.4,460.5,. 
+14,8,0,Calibri-Bold,11.0,77.7,472.5,186.5,483.5,2024 recommendation: 
+14,8,0,Calibri,11.0,186.3,472.5,520.3,483.5,[…] Increase investments in quantum technologies also within the frame of 
+14,8,1,Calibri,11.0,77.7,486.9,379.2,497.9,EU initiatives and in view of contributing to the European Chips Act.
+14,8,1,Calibri-Bold,11.0,379.1,486.9,381.6,497.9, 
+14,9,0,Calibri-Bold,11.0,77.7,509.9,514.9,521.0,Italy made some efforts to address the recommendation through new policy actions in 2024
+14,9,0,Calibri,11.0,514.9,509.9,520.3,521.0,: 
+14,9,1,Calibri,11.0,77.7,524.5,520.3,535.5,"Regarding additional funding, the draft quantum strategy published in 2025 includes a strong focus "
+14,9,2,Calibri,11.0,77.7,538.9,520.2,549.9,"on mobilising investments, including private investments. The scale of the investment will depend "
+14,9,3,Calibri,11.0,77.7,553.4,354.2,564.4,on the next steps in finalising and implementing the strategy.  
+14,10,0,Calibri,12.0,72.0,576.7,74.7,588.7, 
+14,11,0,Calibri,11.0,216.1,659.9,218.5,670.9, 
+14,11,1,Calibri,6.0,72.0,672.6,78.1,678.6,17
+14,11,1,Calibri,9.0,78.0,672.9,80.1,681.9, 
+14,11,1,Calibri,9.0,80.1,672.9,290.0,681.9,https://agenda.supercomputing-icsc.it/event/5/overview.
+14,11,1,Calibri,9.0,290.0,672.9,292.0,681.9, 
+14,11,2,Calibri,6.0,72.0,683.7,78.1,689.7,18
+14,11,2,Calibri,9.0,78.0,683.9,525.4,692.9," In November 2024 Eni’s new high-performance computing (HPC) system, HPC6 was completed; ranked fifth globally and "
+14,11,3,Calibri,9.0,72.0,695.0,391.9,704.0,"first in Europe, the system is designed with state-of-the-art energy efficiency standards. "
+14,11,4,Calibri,6.0,72.0,705.6,78.1,711.6,19
+14,11,4,Calibri,9.0,78.0,705.9,201.2,714.9," Along with CZ, DE, ES, FR and PL. "
+14,11,5,Calibri,6.0,72.0,716.7,78.1,722.7,20
+14,11,5,Calibri,9.0,78.0,716.9,483.2,725.9, CINECA is a consortium of publicly held entities which represents one of the largest computing centres in Italy. 
+14,11,6,Calibri,6.0,72.0,727.6,78.1,733.6,21
+14,11,6,Calibri,9.0,78.0,727.9,316.6,736.9, Including universities and research institutes and 14 enterprises. 
+14,11,7,Calibri,6.0,72.0,738.7,78.1,744.7,22
+14,11,7,Calibri,9.0,78.0,738.9,525.3,747.9," In this connection, another initiative that is worth mentioning is the EuroHPC Industrial-Grade Supercomputer, which will "
+14,11,8,Calibri,9.0,72.0,749.8,525.4,758.8,"be managed by CINECA and will offer services to businesses, partially funded by the European programme and partially by "
+14,11,9,Calibri,9.0,72.0,760.9,173.6,769.9,the companies themselves. 
+14,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,11 
+15,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+15,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+15,2,0,Calibri-Light,15.0,72.0,85.0,526.8,100.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+15,4,0,Calibri-Light,12.0,72.0,112.1,265.2,124.1,SMEs with at least basic digital intensity 
+15,4,1,Calibri-Bold,11.0,72.0,127.7,525.9,138.7,"In Italy, 70.21% of SMEs had at least a basic level of digital intensity in 2024 (2030 national target "
+15,4,2,Calibri-Bold,11.0,72.0,142.2,390.9,153.3,"90%), after a progression of +0.2%, only slightly below the EU average. "
+15,4,2,Calibri,11.0,390.5,142.2,525.9,153.3,"In 2024, Italy stood at 70.21%, "
+15,4,3,Calibri,11.0,72.0,156.6,237.5,167.7,a slight increase from 69.9% in 2022 
+15,4,3,Calibri,7.0,237.4,155.7,244.4,162.7,23
+15,4,3,Calibri,11.0,244.4,156.6,525.7,167.7,. This placed Italy marginally below the EU average of 72.91%. 
+15,4,4,Calibri,11.0,72.0,171.1,525.7,182.2,"Looking at the data in more detail, only 26.19% of SMEs in Italy achieved high or very high digital "
+15,4,5,Calibri,11.0,72.0,185.7,525.9,196.7,"intensity, falling short of the EU average of 32.66%. As such, there is still room for improvement in the "
+15,4,6,Calibri,11.0,72.0,200.2,507.0,211.2,"digital intensity levels of Italian SMEs, particularly as concerns advanced levels of digital intensity. "
+15,5,0,Calibri-Bold,11.0,72.0,222.6,525.9,233.7,"Key Italian measures for technology adoption, like Transition 4.0 and the network of technology "
+15,5,1,Calibri-Bold,11.0,72.0,237.2,302.2,248.2,"transfer centres, continued to record a high uptake."
+15,5,1,Calibri,11.0,302.1,237.2,525.9,248.2, The demand for Transition 4.0 exceeded the initial 
+15,5,2,Calibri,11.0,72.0,251.7,525.8,262.7,"EUR 18 billion allocation. Between 2020 and 2021, around 170 000 companies benefited from its "
+15,5,3,Calibri,11.0,72.0,266.1,386.3,277.1,"incentives, and participation in 2022 is expected to confirm this trend. "
+15,6,0,Calibri,11.0,72.0,288.6,525.7,299.7,In a context of historically low investment in technology transfer and weak collaboration between 
+15,6,1,Calibri,11.0,72.0,303.2,525.9,314.2,"universities and businesses, the RRF has played a key role in expanding the network of technology "
+15,6,2,Calibri,11.0,72.0,317.6,525.9,328.6,transfer services and improving coordination. Eight Competence Centres have been enhanced and Italy 
+15,6,3,Calibri,11.0,72.0,332.1,525.9,343.1,"can count on 13 European Digital Innovation Hubs (EDIH), 23 hubs with the Seal of Excellence, and two "
+15,6,4,Calibri,11.0,72.0,346.6,525.8,357.6,"Testing and Experimentation Facilities (TEF). Additionally, six Digital Innovation Poles provide services "
+15,6,5,Calibri,11.0,72.0,361.1,442.5,372.2,"such as digital first assessment, orientation, support and promotion of enterprises. "
+15,7,0,Calibri,11.0,72.0,383.6,525.9,394.6,"Among other milestones in 2024, there is the activation of investment under the Strategic Technologies "
+15,7,1,Calibri,11.0,72.0,398.1,525.7,409.1,"for Europe Platform (STEP), via the amendment of the National Research, Innovation, and "
+15,7,2,Calibri,11.0,72.0,412.6,525.9,423.7,"Competitiveness Programme (RIC NP) 2021-2027, which supports initiatives for collaborative "
+15,7,3,Calibri,11.0,72.0,427.0,112.6,438.1,research 
+15,7,3,Calibri,7.0,112.6,426.1,119.6,433.1,24
+15,7,3,Calibri,11.0,119.5,427.0,124.8,438.1,. 
+15,8,0,Calibri,11.0,72.0,449.6,525.9,460.6,"Looking ahead, it remains important to sustain these initiatives and maximise their impact, although "
+15,8,1,Calibri,11.0,72.0,464.1,525.8,475.1,it will be challenging to maintain the same level of investment beyond 2026 as RRF funding phases 
+15,8,2,Calibri,11.0,72.0,478.5,92.5,489.5,out. 
+15,9,0,Calibri-Bold,11.0,77.7,501.5,190.5,512.6,2024 recommendation: 
+15,9,0,Calibri,11.0,194.6,501.5,520.1,512.6,Strengthen measures targeted to the adoption of technologies by 
+15,9,1,Calibri,11.0,77.7,516.1,520.0,527.1,"enterprises, with particular attention to AI and looking at the barriers and drivers specific to the "
+15,9,2,Calibri,11.0,77.7,530.5,152.9,541.5,national context.
+15,9,2,Calibri-Bold,11.0,152.8,530.5,155.3,541.5, 
+15,10,0,Calibri-Bold,11.0,77.7,553.5,493.5,564.5,Italy made some efforts to address the recommendation through new policy actions in 2024
+15,10,0,Calibri,11.0,493.4,553.5,520.3,564.5,: Italy 
+15,10,1,Calibri,11.0,77.7,568.1,520.1,579.1,"has continued implementing important measures, including the network of technology transfer "
+15,10,2,Calibri,11.0,77.7,582.5,396.6,593.5,"centres, but maintaining the efforts over the long term remains crucial. "
+15,11,0,Calibri,11.0,72.0,605.5,74.5,616.5, 
+15,12,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+15,13,0,Calibri,6.0,72.0,727.6,78.1,733.6,23
+15,13,0,Calibri,9.0,78.0,727.9,500.4,736.9, 2022 is the last comparable year that used a similar methodology for measuring the digital intensity of enterprises. 
+15,13,1,Calibri,6.0,72.0,738.7,78.1,744.7,24
+15,13,1,Calibri,9.0,78.0,738.9,359.8,747.9, Supported by the European Regional Development Fund (ERDF). Please see: 
+15,13,1,Calibri,9.0,360.0,738.9,525.3,747.9,The European Commission has approved the 
+15,13,2,Calibri,9.0,72.0,749.8,525.4,758.8,amendment to the RIC NP 21-27 to enable participation in the Strategic Technologies for Europe Platform (‘STEP’) | PN RIC 
+15,13,3,Calibri,9.0,72.0,760.9,95.3,769.9,21-27.
+15,13,3,Calibri,9.0,95.3,760.9,97.3,769.9, 
+15,14,0,Calibri,11.0,292.1,795.2,305.8,806.3,12 
+16,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+16,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+16,2,0,Calibri-Light,12.0,72.0,84.4,236.8,96.4,Take up of cloud/AI/data analytics 
+16,5,0,Calibri,11.0,523.6,242.6,526.1,253.6, 
+16,5,1,Calibri-Bold,11.0,72.0,254.1,525.9,265.1,"According to data collected in 2024, 8.2% of Italian firms adopted AI (2030 national target is 60%), "
+16,5,2,Calibri-Bold,11.0,72.0,268.5,501.8,279.5,"after a significant progression of +62.4% in 2024, despite not reaching the EU average of 13.48%"
+16,5,2,Calibri,11.0,501.8,268.5,507.1,279.5,. 
+16,5,2,Calibri-Bold,11.0,506.6,268.5,525.9,279.5,The 
+16,5,3,Calibri-Bold,11.0,72.0,283.0,324.4,294.0,country is on track according to its national trajectory. 
+16,5,3,Calibri,11.0,325.0,283.0,525.8,294.0,AI uptake among SMEs was slightly lower at 
+16,5,4,Calibri,11.0,72.0,297.5,525.6,308.6,"7.74%, whereas large enterprises had a higher rate, with 32.5% using AI. This corresponds to a gap of "
+16,5,5,Calibri,11.0,72.0,312.0,525.9,323.1,"24.76 percentage points between SMEs and large enterprises, which is significant but lower than the "
+16,5,6,Calibri,11.0,72.0,326.4,308.8,337.5,gap of 28.53 percentage points observed at EU level. 
+16,6,0,Calibri,11.0,72.0,349.0,515.6,360.0,"Adoption of cloud, data analytics, and the three technologies together were not measured in 2024. "
+16,7,0,Calibri-Bold,11.0,72.0,371.4,525.9,382.5,"In 2023, 55.11% of Italian firms had adopted cloud technologies (2030 national target is 74%), well "
+16,7,1,Calibri-Bold,11.0,72.0,386.0,227.5,397.0,above the EU average of 38.97%
+16,7,1,Calibri,11.0,227.4,386.0,525.7,397.0,". SMEs had an uptake of 54.62%, while large enterprises saw a "
+16,7,2,Calibri,11.0,72.0,400.5,525.9,411.5,significantly higher adoption rate of 80.13%. This resulted in a gap of 25.51 percentage points between 
+16,7,3,Calibri,11.0,72.0,414.9,446.4,425.9,"SMEs and large enterprises in Italy, which was lower than the EU-level gap of 31.68. "
+16,8,0,Calibri-Bold,11.0,72.0,437.5,525.9,448.5,Data from 2023 showed that 26.61% of Italian firms adopted data analytics technologies (2030 
+16,8,1,Calibri-Bold,11.0,72.0,452.0,358.0,463.0,"national target is 60%), falling below the EU average of 33.25%"
+16,8,1,Calibri,11.0,358.0,452.0,525.9,463.0,". Among these, 25.69% of SMEs used "
+16,8,2,Calibri,11.0,72.0,466.4,525.8,477.4,"data analytics, whereas 74.13% of large enterprises used them (slightly less than 3 out of 4), illustrating "
+16,8,3,Calibri,11.0,72.0,480.9,525.6,491.9,a significant difference. This indicates a notable gap of 48.44 percentage points between SMEs and 
+16,8,4,Calibri,11.0,72.0,495.4,394.8,506.5,"large enterprises, which exceeds the EU gap of 39.72 percentage points. "
+16,9,0,Calibri-Bold,11.0,72.0,517.9,525.9,528.9,"When taking the three technologies together in 2023, 63.09% of enterprises in Italy engaged with "
+16,9,1,Calibri-Bold,11.0,72.0,532.4,486.6,543.4,"either AI, cloud or data analytics technologies, well ahead of the EU-level average of 54.7%"
+16,9,1,Calibri,11.0,486.6,532.4,525.9,543.4,. Uptake 
+16,9,2,Calibri,11.0,72.0,546.9,525.8,557.9,"among SMEs was slightly lower at 62.56%, while large enterprises demonstrated a significantly higher "
+16,9,3,Calibri,11.0,72.0,561.5,525.7,572.5,adoption rate of 90.52% (over 9 out of 10). This indicates a percentage point difference of 27.96 in 
+16,9,4,Calibri,11.0,72.0,575.9,525.9,586.9,"uptake between SMEs and large enterprises in Italy, which is lower than the EU-level gap of 32.97 "
+16,9,5,Calibri,11.0,72.0,590.4,157.7,601.4,percentage points. 
+16,10,0,Calibri-Bold,11.0,72.0,612.8,525.9,623.9,Italy has a number of measures in place contributing to the adoption of advanced technologies by 
+16,10,1,Calibri-Bold,11.0,72.0,627.3,126.3,638.4,enterprises.
+16,10,1,Calibri,11.0,126.3,627.3,482.2,638.4, In addition to the measures described above and some private initiatives 
+16,10,1,Calibri,7.0,482.0,626.4,489.0,633.4,25
+16,10,1,Calibri,11.0,489.0,627.3,525.9,638.4,", which "
+16,10,2,Calibri,11.0,72.0,641.9,525.8,652.9,"contribute to these results, the Italian roadmap includes various measures to support the adoption "
+16,10,3,Calibri,11.0,72.0,656.4,525.9,667.4,and development of advanced digital technologies by enterprises: from the Houses of Emerging 
+16,10,4,Calibri,11.0,72.0,670.8,129.8,681.8,Technologies
+16,10,4,Calibri,7.0,129.7,669.9,136.7,676.8,26
+16,10,4,Calibri,11.0,136.7,670.8,525.8,681.8,", to the Fund for the development of artificial intelligence, blockchain and Internet of "
+16,10,5,Calibri,11.0,72.0,685.3,247.7,696.3,Things technologies and applications
+16,10,5,Calibri,7.0,247.7,684.4,254.7,691.4,27
+16,10,5,Calibri,11.0,254.7,685.3,525.9,696.3,", and to participation in EU-level cooperation projects, "
+16,11,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+16,12,0,Calibri,6.0,72.0,727.6,78.1,733.6,25
+16,12,0,Calibri,9.0,78.0,727.9,525.2,736.9," To name one, Fastweb + Vodafone and CINECA have announced a strategic agreement to support businesses in the "
+16,12,1,Calibri,9.0,72.0,738.9,428.1,747.9,development and deployment of applications based on Generative Artificial Intelligence (Gen AI). 
+16,12,2,Calibri,6.0,72.0,749.6,78.1,755.6,26
+16,12,2,Calibri,9.0,78.0,749.8,276.8,758.8, Centres for technology transfer and experimentation (
+16,12,2,Calibri,9.0,276.9,749.8,360.2,758.8,portalecte.mimit.gov.it
+16,12,2,Calibri,9.0,360.2,749.8,367.3,758.8,). 
+16,12,3,Calibri,6.0,72.0,760.6,78.1,766.6,27
+16,12,3,Calibri,9.0,78.0,760.9,224.6,769.9, With an endowment of EUR 45 million. 
+16,13,0,Calibri,11.0,292.1,795.2,305.8,806.3,13 
+17,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+17,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+17,2,0,Calibri,11.0,72.0,84.1,365.0,95.2,particularly through the Chips Joint Undertaking (JU) and EuroHPC
+17,2,0,Calibri,7.0,364.9,83.2,371.9,90.2,28
+17,2,0,Calibri,11.0,371.8,84.1,525.9,95.2,. Italy has also achieved significant 
+17,2,1,Calibri,11.0,72.0,98.7,525.8,109.7,"recognition within the framework of the European programme for creating the first AI Factories, as "
+17,2,2,Calibri,11.0,72.0,113.1,336.9,124.1,IT4LIA has been chosen as one of the AI Factories in Europe
+17,2,2,Calibri,7.0,336.8,112.2,343.8,119.1,29
+17,2,2,Calibri,11.0,343.8,113.1,346.5,124.1,.
+17,2,2,Calibri,11.0,346.5,113.1,349.0,124.1, 
+17,4,0,SymbolMT,11.0,89.9,133.4,95.0,146.9,
+17,4,0,ArialMT,11.0,94.9,134.5,98.0,146.8, 
+17,4,1,Calibri-Bold,11.0,107.7,136.2,134.0,147.3,Cloud
+17,4,1,Calibri,11.0,133.9,136.2,136.4,147.3, 
+17,5,0,Calibri,11.0,72.0,153.6,525.9,164.7,Italy is one of the participants in the Important Project of Common European Interest (IPCEI) Cloud 
+17,5,1,Calibri,11.0,72.0,168.1,525.9,179.2,"Infrastructure and Services, and implementation is progressing as planned. In 2024, there was progress "
+17,5,2,Calibri,11.0,72.0,182.7,525.9,193.7,"on allocating the grant to beneficiaries. In Italy, the IPCEI involves both companies and research "
+17,5,3,Calibri,11.0,72.0,197.2,256.8,208.2,"institutions, reaching a broad ecosystem. "
+17,6,0,Calibri,11.0,72.0,219.6,385.8,230.7,The implementation of the IPCEI-CIS in Italy is progressing as planned. 
+17,7,0,SymbolMT,11.0,89.9,240.0,95.0,253.5,
+17,7,0,ArialMT,11.0,94.9,241.1,98.0,253.4, 
+17,7,1,Calibri-Bold,11.0,107.7,242.8,173.1,253.8,Data Analytics
+17,7,1,Calibri,11.0,173.1,242.8,175.6,253.8, 
+17,8,0,Calibri,11.0,72.0,260.2,495.6,271.2,There is no specific update to report beyond what has already been included in other sections. 
+17,9,0,SymbolMT,11.0,89.9,280.6,95.0,294.0,
+17,9,0,ArialMT,11.0,94.9,281.7,98.0,294.0, 
+17,9,1,Calibri-Bold,11.0,107.7,283.4,201.8,294.4,Artificial Intelligence
+17,9,1,Calibri,11.0,201.8,283.4,204.3,294.4, 
+17,10,0,Calibri-Bold,11.0,72.0,300.8,525.9,311.8,"Despite the strong progress over the last year, the adoption of AI among Italian enterprises remains "
+17,10,1,Calibri-Bold,11.0,72.0,315.3,252.5,326.3,limited and difficult especially for SMEs
+17,10,1,Calibri,11.0,252.8,315.3,525.7,326.3,. Recent surveys highlight three main barriers to AI adoption 
+17,10,2,Calibri,11.0,72.0,329.8,525.9,340.9,"among micro and small enterprises: technological and operational challenges, business know-how "
+17,10,3,Calibri,11.0,72.0,344.3,525.7,355.4,"limitations, and investment capacity constraints. Many businesses struggle with inadequate internal "
+17,10,4,Calibri,11.0,72.0,358.7,525.6,369.8,"structures, lack of infrastructure, and difficulty finding reliable technology providers. Additionally, a "
+17,10,5,Calibri,11.0,72.0,373.2,525.9,384.3,"lack of digital culture within management, and employee adaptation to AI technologies pose "
+17,10,6,Calibri,11.0,72.0,387.8,525.7,398.8,"significant challenges. High investment costs, limited government support, and financing difficulties "
+17,10,7,Calibri,11.0,72.0,402.3,184.7,413.4,also hinder AI integration
+17,10,7,Calibri,7.0,184.6,401.4,191.6,408.4,30
+17,10,7,Calibri,11.0,191.6,402.3,196.8,413.4,. 
+17,11,0,Calibri,11.0,72.0,424.7,525.8,435.8,"However, there is an increasing interest in this topic. The 2025 Eurobarometer shows that 87% of "
+17,11,1,Calibri,11.0,72.0,439.3,525.7,450.3,Italian people think that public authorities should prioritise shaping the development of Artificial 
+17,11,2,Calibri,11.0,72.0,453.8,483.7,464.8,Intelligence and other digital technologies to ensure that they respect our rights and values. 
+17,12,0,Calibri-Bold,11.0,72.0,476.2,525.9,487.3,"During 2024, Italy launched new initiatives dedicated to the adoption of AI, also building on HPC "
+17,12,1,Calibri-Bold,11.0,72.0,490.7,195.6,501.8,capabilities and resources.
+17,12,1,Calibri,11.0,195.6,490.7,463.5,501.8, A major initiative started in 2024 is the IT4LIA AI Factory
+17,12,1,Calibri,7.0,463.7,489.8,470.7,496.8,31
+17,12,1,Calibri,11.0,470.6,490.7,525.9,501.8,", which will "
+17,12,2,Calibri,11.0,72.0,505.1,525.9,516.2,represent the evolution of Leonardo (a pre-exascale EuroHPC supercomputer hosted by CINECA and 
+17,12,3,Calibri,11.0,72.0,519.7,523.6,530.7,in the top 10 of the most powerful supercomputers in the world) and will develop a top class AI-
+17,12,4,Calibri,11.0,72.0,534.2,525.8,545.2,optimised supercomputer. The Factory will provide sector-specific and horizontal services to increase 
+17,12,5,Calibri,11.0,72.0,548.7,525.9,559.8,"AI uptake, supporting start-ups, SMEs and key sectors of the Italian economy, such as agribusiness, "
+17,12,6,Calibri,11.0,72.0,563.1,292.5,574.2,"cybersecurity, earth sciences and manufacturing. "
+17,13,0,Calibri,11.0,72.0,585.7,332.3,596.7,Another important initiative is the AI4Industry Foundation
+17,13,0,Calibri,7.0,332.4,584.8,339.4,591.8,32
+17,13,0,Calibri,11.0,339.3,585.7,525.9,596.7," in Turin, which kicked off in May 2024 as "
+17,13,1,Calibri,11.0,72.0,600.2,525.9,611.3,"a national AI centre and which, among other resources, will leverage an on-premise HPC cluster and "
+17,13,2,Calibri,11.0,72.0,614.6,525.9,625.7,"the Leonardo HPC system. These efforts seek to bridge the gap between AI providers – researchers, "
+17,14,0,Calibri,11.0,216.1,648.8,218.5,659.9, 
+17,15,0,Calibri,6.0,72.0,661.7,78.1,667.7,28
+17,15,0,Calibri,9.0,78.0,662.0,525.4,671.0," The support for the Chips JU and EuroHPC, originally funded by the NRRP, is now funded by the Complementary National "
+17,15,1,Calibri,9.0,72.0,672.9,273.9,681.9,"Plan, and aims to complete 32 Innovation Agreements. "
+17,15,2,Calibri,6.0,72.0,683.7,78.1,689.7,29
+17,15,2,Calibri,9.0,78.0,683.9,525.4,692.9," It will provide a world-class AI infrastructure and a cohesive ecosystem to bring together researchers, developers, start-ups "
+17,15,3,Calibri,9.0,72.0,695.0,525.5,704.0,"and SMEs to bridge the gap between AI providers and potential users, such as public administration, students, academia, "
+17,15,4,Calibri,9.0,72.0,705.9,141.1,714.9,SMEs and industry.
+17,15,4,Calibri,10.0,141.3,705.2,143.5,715.1, 
+17,15,5,Calibri,6.0,72.0,716.7,78.1,722.7,30
+17,15,5,Calibri,9.0,78.0,716.9,525.2,725.9," G7 Report on Driving Factors and challenges of AI adoption and development among companies, especially micro and small "
+17,15,6,Calibri,9.0,72.0,727.9,117.9,736.9,enterprises (
+17,15,6,Calibri,9.0,118.0,727.9,335.3,736.9,FINAL_REPORT_AI_MSMEs_Ministerial_10_Oct_2024-1.pdf
+17,15,6,Calibri,9.0,335.5,727.9,525.3,736.9,). The considerations reported above are specific to 
+17,15,7,Calibri,9.0,72.0,738.9,332.5,747.9,the Italian context and the result of a survey among Italian enterprises. 
+17,15,8,Calibri,6.0,72.0,749.6,78.1,755.6,31
+17,15,8,Calibri,9.0,78.0,749.8,80.1,758.8, 
+17,15,8,Calibri,9.0,80.1,749.8,365.0,758.8,IT4LIA AI Factory: A New Pillar for Artificial Intelligence in Europe | HPC Cineca
+17,15,8,Calibri,9.0,365.2,749.8,371.6,758.8,.  
+17,15,9,Calibri,6.0,72.0,760.6,78.1,766.6,32
+17,15,9,Calibri,9.0,78.0,760.9,80.1,769.9, 
+17,15,9,Calibri,9.0,80.1,760.9,101.7,769.9,AI4I.it
+17,15,9,Calibri,9.0,101.7,760.9,106.0,769.9,. 
+17,16,0,Calibri,11.0,292.1,795.2,305.8,806.3,14 
+18,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+18,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+18,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"start-ups, and developers – and potential users across industry and public administration. Italy is also "
+18,2,1,Calibri,11.0,72.0,98.7,399.7,109.7,actively participating in EU-wide AI testing and experimentation networks
+18,2,1,Calibri,7.0,399.7,97.8,406.7,104.7,33
+18,2,1,Calibri,11.0,406.7,98.7,411.9,109.7,. 
+18,4,0,Calibri-Bold,11.0,72.0,121.1,525.8,132.1,"In July 2024, the government published the new AI strategy, emphasising safe, ethical, and inclusive "
+18,4,1,Calibri-Bold,11.0,72.0,135.6,145.7,146.7,AI development
+18,4,1,Calibri,11.0,145.7,135.6,525.9,146.7,". This strategy includes concrete actions to support AI adoption among enterprises, "
+18,4,2,Calibri,11.0,72.0,150.1,525.9,161.2,"such as facilitating AI integration in SMEs, fostering AI start-ups, and establishing industry-focused AI "
+18,4,3,Calibri,11.0,72.0,164.5,151.7,175.6,development labs
+18,4,3,Calibri,7.0,151.6,163.6,158.6,170.6,34
+18,4,3,Calibri,11.0,158.5,164.5,163.8,175.6,. 
+18,5,0,Calibri-Bold,11.0,72.0,187.1,252.3,198.1,"Overall, AI is gaining attention in Italy"
+18,5,0,Calibri,11.0,252.4,187.1,525.9,198.1,", particularly following the country’s presidency of the G7. "
+18,5,1,Calibri,11.0,72.0,201.6,246.9,212.7,Recent initiatives demonstrate Italy’s 
+18,5,1,Calibri-Bold,11.0,249.8,201.6,525.6,212.7,"commitment to progress in this area, also leveraging its "
+18,5,2,Calibri-Bold,11.0,72.0,216.0,523.5,227.1,"strengths in the field of HPC. However, sustained efforts and targeted interventions are still needed"
+18,5,2,Calibri,11.0,523.4,216.0,525.9,227.1, 
+18,5,3,Calibri,11.0,72.0,230.5,434.0,241.6,"to boost development and deployment of AI solutions, particularly among SMEs. "
+18,6,0,Calibri-Bold,11.0,77.7,253.6,190.6,264.6,2024 recommendation: 
+18,6,0,Calibri,11.0,194.7,253.6,520.2,264.6,Strengthen measures targeted at the adoption of technologies by 
+18,6,1,Calibri,11.0,77.7,268.0,520.2,279.0,"enterprises, with particular attention to AI and taking into account the barriers and drivers specific "
+18,6,2,Calibri,11.0,77.7,282.5,184.6,293.6,to the national context. 
+18,7,0,Calibri-Bold,11.0,77.7,305.6,514.8,316.6,Italy made some efforts to address the recommendation through new policy actions in 2024
+18,7,0,Calibri,11.0,514.9,305.6,520.3,316.6,: 
+18,7,1,Calibri,11.0,77.7,320.1,520.2,331.1,"There were some new initiatives launched in 2024 (see above). However, it remains important to "
+18,7,2,Calibri,11.0,77.7,334.5,520.2,345.5,keep the focus high and put in place initiatives that can reach all enterprises and address the specific 
+18,7,3,Calibri,11.0,77.7,349.0,520.0,360.0,needs and barriers. It is also crucial to reflect on initiatives that can allow the country to acquire 
+18,7,4,Calibri,11.0,77.7,363.5,205.7,374.6,leadership in the area of AI.  
+18,8,0,Calibri,11.0,72.0,386.4,74.5,397.5, 
+18,9,0,Calibri-Light,12.0,72.0,409.3,233.6,421.3,"Unicorns, scale-ups and start-ups "
+18,9,1,Calibri-Bold,11.0,72.0,424.9,525.9,435.9,"At the beginning of 2025, Italy had 9 unicorns (2030 national target of 16), which is 1 more than last "
+18,9,2,Calibri-Bold,11.0,72.0,439.3,137.5,450.3,year (+12.5%).
+18,9,2,Calibri,11.0,137.4,439.3,139.9,450.3, 
+18,10,0,Calibri-Bold,11.0,72.0,461.8,525.7,472.9,"In Italy, private sector R&D and Venture Capital (VC) investment remain low, especially in the ICT "
+18,10,1,Calibri-Bold,11.0,72.0,476.2,104.6,487.3,sector. 
+18,10,1,Calibri,11.0,105.4,476.2,525.9,487.3,"Using data from the 2024 EU Industrial R&D Investment Scoreboard, Italian firms accounted "
+18,10,2,Calibri,11.0,72.0,490.7,525.9,501.8,for only 2.3% of total R&D expenditure by the 322 European companies ranked among the top 2 000 
+18,10,3,Calibri,11.0,72.0,505.3,525.9,516.3,"global R&D investors. Of the Italian companies in this group, none operate in digital industries such as "
+18,10,4,Calibri,11.0,72.0,519.8,315.5,530.8,"software, computer services, or technology hardware"
+18,10,4,Calibri,7.0,315.7,518.9,322.7,525.8,35
+18,10,4,Calibri,11.0,322.6,519.8,525.9,530.8,". Moreover, VC investment in the ICT sector "
+18,10,5,Calibri,11.0,72.0,534.2,525.9,545.2,"remained significantly below the EU average in 2023, with just 15% of VC funding allocated to deep "
+18,10,6,Calibri,11.0,72.0,548.7,317.3,559.8,tech (compared to 28% in France and 20% in Germany)
+18,10,6,Calibri,7.0,317.4,547.8,324.4,554.8,36
+18,10,6,Calibri,11.0,324.3,548.7,329.6,559.8,. 
+18,11,0,Calibri-Bold,11.0,72.0,571.3,460.9,582.3,Regulatory barriers hinder the expansion and competitiveness of Italy’s VC market.
+18,11,0,Calibri,11.0,461.3,571.3,525.9,582.3," For example, "
+18,11,1,Calibri,11.0,72.0,585.7,525.9,596.7,"Italy’s bankruptcy laws impose severe penalties on entrepreneurs if they fail, discouraging risk-taking. "
+18,11,2,Calibri,11.0,72.0,600.2,525.9,611.3,There is also room for streamlining and making more attractive the systems of incentives for start-ups 
+18,11,3,Calibri,11.0,72.0,614.7,525.9,625.8,"and innovative SMEs, the process for establishing VC funds and investing in start-ups, the regulations "
+18,11,4,Calibri,11.0,72.0,629.3,300.3,640.3,incentivising new entrants and secondary markets. 
+18,12,0,Calibri,11.0,216.1,692.9,218.5,703.9, 
+18,12,1,Calibri,6.0,72.0,705.6,78.1,711.6,33
+18,12,1,Calibri,9.0,78.0,705.9,80.1,714.9, 
+18,12,1,Calibri,9.0,80.1,705.9,515.9,714.9,Sectorial AI Testing and Experimentation Facilities under the Digital Europe Programme | Shaping Europe’s digital future
+18,12,1,Calibri,9.0,516.4,705.9,518.4,714.9, 
+18,12,2,Calibri,6.0,72.0,716.7,78.1,722.7,34
+18,12,2,Calibri,9.0,78.0,716.9,80.1,725.9, 
+18,12,2,Calibri,9.0,80.1,716.9,423.9,725.9,"IA in Italia, boom di investimenti tech ma PMI al palo: le mosse del Governo - Agenda Digitale. "
+18,12,2,Calibri,9.0,423.9,716.9,426.0,725.9, 
+18,12,3,Calibri,6.0,72.0,727.6,78.1,733.6,35
+18,12,3,Calibri,9.0,78.0,727.9,525.3,736.9," European Semester, country report 2025, using data from the 2024 EU Industrial R&D Investment Scoreboard (data refers "
+18,12,4,Calibri,9.0,72.0,738.9,107.0,747.9,"to 2023), "
+18,12,4,Calibri,9.0,107.1,738.9,401.5,747.9,JRC Publications Repository - The 2024 EU Industrial R&D Investment Scoreboard
+18,12,4,Calibri,9.0,401.6,738.9,406.1,747.9,. 
+18,12,5,Calibri,6.0,72.0,749.6,78.1,755.6,36
+18,12,5,Calibri,9.0,78.0,749.8,472.3,758.8," European Semester, country report 2025. Data based on: Dealroom, The European Deep Tech Report 2023, "
+18,12,5,Calibri,9.0,472.5,749.8,525.4,758.8,The European 
+18,12,6,Calibri,9.0,72.0,760.9,212.1,769.9,Deep Tech Report 2023 | Dealroom.co
+18,12,6,Calibri,9.0,212.2,760.9,351.9,769.9,. Data refers to the period 2018-2023. 
+18,13,0,Calibri,11.0,292.1,795.2,305.8,806.3,15 
+19,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+19,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+19,3,0,Calibri-Bold,11.0,72.0,84.1,398.0,95.2,Italy did not add any new measures related to unicorns in its roadmap
+19,3,0,Calibri,11.0,398.0,84.1,525.9,95.2,. It continued implementing 
+19,3,1,Calibri,11.0,72.0,98.7,257.9,109.7,"the dedicated programmes, such as the "
+19,3,1,Calibri-Bold,11.0,259.4,98.7,400.7,109.7,Smart&Start Italia programme
+19,3,1,Calibri,7.0,400.7,97.8,407.7,104.7,37
+19,3,1,Calibri,11.0,407.6,98.7,525.9,109.7,", with funds managed by "
+19,3,2,Calibri,11.0,72.0,113.1,525.9,124.1,"Cassa Depositi e Prestiti (CDP), including EUR 400 million for the digital transition, targeting "
+19,3,3,Calibri,11.0,72.0,127.6,525.8,138.6,"technologies such as Artificial Intelligence, cloud, health, Industry 4.0, cybersecurity, fintech and "
+19,3,4,Calibri,11.0,72.0,142.1,124.8,153.1,blockchain. 
+19,4,0,Calibri,11.0,72.0,164.5,525.9,175.6,"In 2024, an important development was the action taken under national Competition Law, approved "
+19,4,1,Calibri,11.0,72.0,179.1,525.9,190.1,"in December 2024, where targeted amendments were introduced to increase financial support for "
+19,4,2,Calibri,11.0,72.0,193.6,394.7,204.6,"start-ups, including an enhanced role for pension funds in the VC market"
+19,4,2,Calibri,7.0,394.6,192.7,401.6,199.6,38
+19,4,2,Calibri,11.0,401.6,193.6,406.9,204.6,. 
+19,5,0,Calibri-Bold,11.0,77.7,216.5,187.8,227.5,2024 recommendation: 
+19,5,0,Calibri,11.0,189.1,216.5,520.3,227.5,Strengthen actions to sustain the ecosystem of start-ups and innovative 
+19,5,1,Calibri,11.0,77.7,231.0,520.2,242.1,"enterprises, including boosting the availability of effective financial tools, initiatives to support the "
+19,5,2,Calibri,11.0,77.7,245.6,520.0,256.6,"scale up of enterprises, in particular in strategic sectors, building synergies between research and "
+19,5,3,Calibri,11.0,77.7,260.1,162.6,271.1,industrial systems. 
+19,6,0,Calibri-Bold,11.0,77.7,283.0,520.2,294.0,"In 2024, Italy continued the implementation of existing measures but did not take any new "
+19,6,1,Calibri-Bold,11.0,77.7,297.5,120.3,308.6,measure:
+19,6,1,Calibri,11.0,120.3,297.5,520.3,308.6, the above-mentioned measure under national Competition Law to support start-ups and 
+19,6,2,Calibri,11.0,77.7,312.0,520.3,323.1,"VC represented an important development. However, the need remains for an overall reflection on "
+19,6,3,Calibri,11.0,77.7,326.6,324.3,337.6,whether additional and tailored actions are necessary.  
+19,7,0,Calibri,11.0,72.0,349.5,74.5,360.5, 
+19,8,0,Calibri-Light,15.0,72.0,372.9,322.7,387.9,Strengthening Cybersecurity & Resilience 
+19,11,0,Calibri-Bold,11.0,72.0,399.8,525.5,410.8,"In Italy, 59% of individuals engaged in at least one action to protect their personal data online in "
+19,11,1,Calibri-Bold,11.0,72.0,414.3,253.7,425.4,"2023, below the EU average of 69.55%. "
+19,11,1,Calibri,11.0,254.2,414.3,525.7,425.4,"However, only 34.75% of the population undertook three or "
+19,11,2,Calibri,11.0,72.0,428.7,235.6,439.8,more precautionary actions (and 
+19,11,3,Calibri,11.0,72.0,443.2,235.7,454.3,therefore could be considered as 
+19,11,4,Calibri,11.0,72.0,457.7,235.6,468.8,having above basic digital safety 
+19,11,5,Calibri,11.0,72.0,472.3,101.9,483.3,skills). 
+19,11,6,Calibri,11.0,115.5,472.3,134.5,483.3,The 
+19,11,7,Calibri,11.0,148.2,472.3,173.1,483.3,most 
+19,11,8,Calibri,11.0,186.8,472.3,235.6,483.3,frequently 
+19,11,9,Calibri,11.0,72.0,486.7,235.6,497.7,undertaken measure was refusing 
+19,11,10,Calibri,11.0,72.0,501.2,235.6,512.2,the use of personal data for 
+19,11,11,Calibri,11.0,72.0,515.7,235.6,526.8,"advertising purposes, with 42.16% "
+19,11,12,Calibri,11.0,72.0,530.2,235.6,541.3,"of individuals taking this action, "
+19,11,13,Calibri,11.0,72.0,544.6,235.6,555.7,while changing browser settings to 
+19,11,14,Calibri,11.0,72.0,559.2,235.7,570.2,prevent or limit cookies on any 
+19,11,15,Calibri,11.0,72.0,573.7,235.6,584.7,"device was the least common, "
+19,11,16,Calibri,11.0,72.0,588.2,235.7,599.3,"reported by 23.13%. Moreover, "
+19,11,17,Calibri,11.0,72.0,602.7,235.6,613.8,according to the Digital Decade 
+19,11,18,Calibri,11.0,72.0,617.1,235.6,628.2,"Eurobarometer 2025, 82% of Italian "
+19,11,19,Calibri,11.0,72.0,631.7,235.7,642.7,citizens think that an improved 
+19,11,20,Calibri,11.0,72.0,646.2,235.6,657.2,"cybersecurity, better protection of "
+19,11,21,Calibri,11.0,72.0,660.7,235.6,671.7,online data and safety of digital 
+19,11,22,Calibri,11.0,72.0,675.1,235.7,686.1,technologies would facilitate their 
+19,12,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+19,13,0,Calibri,6.0,72.0,727.6,78.1,733.6,37
+19,13,0,Calibri,9.0,78.0,727.9,525.4,736.9," This initiative supports start-ups (up to 60 months old) through subsidised loans, with partial conversion into non-repayable "
+19,13,1,Calibri,9.0,72.0,738.9,525.4,747.9,"grants if third-party investors – such as VC firms, accelerators, business angels, or authorised fund managers – provide equity "
+19,13,2,Calibri,9.0,72.0,749.8,117.1,758.8,investment. 
+19,13,3,Calibri,6.0,72.0,760.6,78.1,766.6,38
+19,13,3,Calibri,9.0,78.0,760.9,208.0,769.9, Law No 193 of 16 December 2024. 
+19,14,0,Calibri,11.0,292.1,795.2,305.8,806.3,16 
+20,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+20,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+20,2,0,Calibri,11.0,72.0,84.1,525.6,95.2,daily use of digital technologies. It represents a significant increase of 8 percentage points compared 
+20,2,1,Calibri,11.0,72.0,98.7,391.5,109.7,"to last year, reflecting the growing interest of the citizens in this aspect. "
+20,4,0,Calibri-Bold,11.0,72.0,121.1,368.1,132.1,Italian enterprises are keen to take cybersecurity measures. 
+20,4,0,Calibri,11.0,371.2,121.1,525.9,132.1,The number of enterprises that 
+20,4,1,Calibri,11.0,72.0,135.6,525.9,146.7,experienced ICT security incidents leading to ICT services being unavailable due to an attack from the 
+20,4,2,Calibri,11.0,72.0,150.1,525.9,161.2,"outside (e.g. ransomware attacks, denial of service attacks) was 3.13% in 2024, stable compared to "
+20,4,3,Calibri,11.0,72.0,164.5,525.9,175.6,"2022, and below the EU average (3.43%). Italian enterprises are also less prone than their peers in the "
+20,4,4,Calibri,11.0,72.0,179.1,525.9,190.1,"EU to incidents related to hardware or software failures (12.86%, 17.97% in the EU). In terms of "
+20,4,5,Calibri,11.0,72.0,193.6,525.9,204.6,"measures, 92.92% of enterprises deployed some ICT security measures (close to the EU average of "
+20,4,6,Calibri,11.0,72.0,208.1,523.6,219.1,92.76%) and 62.67% of enterprises made their employees aware of their obligations in ICT security-
+20,4,7,Calibri,11.0,72.0,222.5,282.4,233.5,"related issues, above the EU average (59.97%). "
+20,5,0,Calibri,11.0,72.0,245.1,525.8,256.1,"On the deployment of secure internet standards, in Italy the roll-out of Internet Protocol version 6 "
+20,5,1,Calibri,11.0,72.0,259.6,525.9,270.6,"(IPv6) for end users is low (14%, EU average: 36%). It is also low on the server side (6%, against 17% "
+20,5,2,Calibri,11.0,72.0,274.0,525.8,285.0,"for the EU). IPv6 is an important protocol as it ensures the scalability, stability, and security of the "
+20,5,3,Calibri,11.0,72.0,288.5,525.8,299.6,"internet. The deployment of this new version is increasingly urgent, as traditional IPv4 addresses have "
+20,5,4,Calibri,11.0,72.0,303.0,525.8,314.1,been long depleted. Domain Name System Security Extensions (DNSSEC) is also an important standard 
+20,5,5,Calibri,11.0,72.0,317.6,525.9,328.6,to be rolled out as it introduces security features to the domain name system (DNS). The DNSSEC 
+20,5,6,Calibri,11.0,72.0,332.0,525.6,343.0,"validation rate (i.e. verification of the authenticity of responses sent by name servers to clients, using "
+20,5,7,Calibri,11.0,72.0,346.5,435.7,357.5,"a digital signature technology) was 27% (Q3 2024), below the EU average of 47%. "
+20,6,0,Calibri-Bold,11.0,72.0,369.0,357.3,380.1,The number of incidents remained stable and impact limited.
+20,6,0,Calibri,11.0,357.2,369.0,525.9,380.1, According to data from the national 
+20,6,1,Calibri,11.0,72.0,383.4,525.7,394.5,"cybersecurity agency (ACN), from January 2025, there was a decrease in the number of cybersecurity "
+20,6,2,Calibri,11.0,72.0,398.0,525.9,409.0,"events, while the number of incidents remained relatively stable and consistent with the average for "
+20,6,3,Calibri,11.0,72.0,412.5,525.9,423.5,"the six-month period. Central public administration, telecommunications, and technology were the "
+20,6,4,Calibri,11.0,72.0,427.0,525.9,438.1,"most affected sectors. Hacktivism activities in Italy continued at a similar rate to previous months, with "
+20,6,5,Calibri,11.0,72.0,441.4,525.9,452.5,"pro-Russian groups claiming responsibility for several distributed denial of service (DDoS) attacks, "
+20,6,6,Calibri,11.0,72.0,455.9,525.6,467.0,"allegedly motivated by Italy’s military support for Ukraine. However, the impact of these operations "
+20,6,7,Calibri,11.0,72.0,470.5,525.9,481.5,"remained limited. This is in line with the strategy of these groups, which focus on, often vulnerable, "
+20,6,8,Calibri,11.0,72.0,485.0,451.5,496.0,"secondary sites, with the primary goal of amplifying the media impact of the attacks. "
+20,7,0,Calibri-Bold,11.0,72.0,507.4,469.9,518.5,Many initiatives are underway to strengthen Italy’s cybersecurity capabilities and skills.
+20,7,0,Calibri,11.0,469.9,507.4,525.9,518.5, To enhance 
+20,7,1,Calibri,11.0,72.0,521.9,525.8,533.0,"the cyber resilience of public administrations, the ACN has launched financing initiatives supporting "
+20,7,2,Calibri,11.0,72.0,536.5,525.9,547.5,"security event monitoring, analysis, and response capabilities. Under the RRP, 216 projects have been "
+20,7,3,Calibri,11.0,72.0,550.9,525.9,561.9,"funded across 142 public entities, focusing on perimeter security, cyber risk monitoring capabilities, "
+20,7,4,Calibri,11.0,72.0,565.4,245.5,576.5,and incident response improvements.  
+20,8,0,Calibri-Bold,11.0,72.0,587.9,366.5,598.9,Another focus area is related to developing cybersecurity skills.
+20,8,0,Calibri,11.0,366.5,587.9,525.9,598.9," To address the ICT talent gap, the "
+20,8,1,Calibri,11.0,72.0,602.4,525.8,613.4,ACN has partnered with the Ministry of Education and the network of tertiary technical education 
+20,8,2,Calibri,11.0,72.0,616.9,525.9,627.9,institutions – International Talent Support (ITS) Foundation Network – to integrate cybersecurity 
+20,8,3,Calibri,11.0,72.0,631.4,525.7,642.5,"training into technical and higher education. National competitions, scholarships, and incentives aim "
+20,8,4,Calibri,11.0,72.0,645.8,525.9,656.9,"to foster talent, promote Science Technology Engineering and Mathematics (STEM) careers, and "
+20,8,5,Calibri,11.0,72.0,660.3,525.9,671.4,"support workforce inclusion, including incentives for professionals returning from abroad. Specifically, "
+20,8,6,Calibri,11.0,72.0,674.9,525.9,685.9,"the ACN is working alongside schools and universities to reduce the gender gap in ICT skills, to increase "
+20,8,7,Calibri,11.0,72.0,689.4,525.8,700.4,"cyber awareness among the population, SMEs and other entities. The ACN is conducting these "
+20,8,8,Calibri,11.0,72.0,703.8,525.8,714.8,activities through collaboration with public and private entities in implementation of the provisions of 
+20,8,9,Calibri,11.0,72.0,718.3,285.8,729.3,the National Cybersecurity Strategy 2022-2026. 
+20,9,0,Calibri,11.0,292.1,795.2,305.8,806.3,17 
+21,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+21,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+21,3,0,Calibri-Bold,26.0,72.0,87.2,493.4,113.2,Protecting and empowering EU people 
+21,3,1,Calibri-Bold,26.0,72.0,121.4,200.5,147.4,and society 
+21,4,0,Calibri-Light,15.0,72.0,161.5,526.4,176.5,Empowering people and bringing the digital transformation closer to their 
+21,4,1,Calibri-Light,15.0,72.0,181.2,111.7,196.2,needs 
+21,5,0,Calibri,11.0,72.0,208.1,525.9,219.1,"Italy continues to face significant digital skills gaps, leaving parts of the population more vulnerable to "
+21,5,1,Calibri,11.0,72.0,222.6,525.6,233.7,"online risks and less equipped to benefit from digital transformation. However, the country has made "
+21,5,2,Calibri,11.0,72.0,237.2,525.6,248.2,strong progress in digital public services and is a frontrunner in developing the EU Digital Identity 
+21,5,3,Calibri,11.0,72.0,251.7,439.0,262.7,"Wallet, simplifying access for citizens and encouraging take-up of digital solutions. "
+21,6,0,Calibri,11.0,72.0,274.1,525.9,285.2,"Italy is also actively tackling disinformation, media literacy, and online safety – particularly for minors "
+21,6,1,Calibri,11.0,72.0,288.6,525.9,299.7,"– through targeted campaigns, school-based education, and evolving regulation, including initiatives "
+21,6,2,Calibri,11.0,72.0,303.2,303.4,314.2,addressing fake news and influencer accountability. 
+21,7,0,Calibri-Light,12.0,72.0,325.8,182.3,337.8,Equipping people with 
+21,7,0,Calibri,12.0,182.4,325.8,240.7,337.8,digital skills 
+21,8,0,Calibri-LightItalic,11.0,72.0,343.5,152.0,354.5,Basic Digital Skills 
+21,8,1,Calibri-Bold,11.0,72.0,357.9,525.9,368.9,"In 2023, only 45.8% of people in Italy had at least basic digital skills (national target for 2030 is "
+21,8,2,Calibri-Bold,11.0,72.0,372.4,525.8,383.4,"80.1%), against an EU average of 55.6%. In the last two years, there has been no significant "
+21,8,3,Calibri-Bold,11.0,72.0,386.9,489.6,398.0,improvement overall (the value increased by only 0.2% annually compared to 2021)
+21,8,3,Calibri,11.0,489.8,386.9,525.9,398.0,. Some 
+21,8,4,Calibri,11.0,72.0,401.3,315.0,412.4,breakdowns show the national digital skills landscape. 
+21,9,0,SymbolMT,10.0,90.0,422.2,94.6,434.3,
+21,9,0,ArialMT,10.0,94.6,423.2,97.4,434.3, 
+21,9,1,Calibri-Bold,11.0,108.0,423.9,165.3,434.9,Gender Gap:
+21,9,1,Calibri,11.0,165.3,423.9,525.8,434.9," The difference in digital skills between Italian men and women is noticeable, with "
+21,9,2,Calibri,11.0,108.0,438.4,525.8,449.5,47.36% of men and 44.16% women having at least basic digital skills. The resulting 3.20 
+21,9,3,Calibri,11.0,108.0,452.8,525.9,463.9,"percentage point gap is slightly wider than the EU average (2.23 pp.), indicating a more "
+21,9,4,Calibri,11.0,108.0,467.3,525.8,478.4,"significant disparity between genders in Italy. This gap, however, mainly concerns the older "
+21,9,5,Calibri,11.0,108.0,481.9,525.9,492.9,"age groups: up to 59 years of age, there are no gender differences, while in the 60-64 years of "
+21,9,6,Calibri,11.0,108.0,496.4,377.2,507.4,age group men have an advantage of 4.3 percentage points. 
+21,10,0,SymbolMT,10.0,90.0,517.1,94.6,529.3,
+21,10,0,ArialMT,10.0,94.6,518.1,97.4,529.2, 
+21,10,1,Calibri-Bold,11.0,108.0,518.8,181.7,529.9,Education Level:
+21,10,1,Calibri,11.0,181.7,518.8,525.9,529.9," A correlation between education and digital skills is widely confirmed. In Italy, "
+21,10,2,Calibri,11.0,108.0,533.3,525.7,544.4,"74.09% of those with higher education levels have at least basic digital skills, which is still less "
+21,10,3,Calibri,11.0,108.0,547.9,525.9,558.9,than the EU average (79.83%). Those with lower education levels are particularly 
+21,10,4,Calibri,11.0,108.0,562.3,525.9,573.3,"disadvantaged, with only 22.57% having at least basic digital skills, i.e. a gap of 23.18 "
+21,10,5,Calibri,11.0,108.0,576.8,525.9,587.9,"percentage points compared with the national average, just above the average gap for the EU "
+21,10,6,Calibri,11.0,108.0,591.3,161.9,602.4,(21.95 pp.). 
+21,11,0,SymbolMT,10.0,90.0,612.1,94.6,624.2,
+21,11,0,ArialMT,10.0,94.6,613.0,97.4,624.2, 
+21,11,1,Calibri-Bold,11.0,108.0,613.8,165.7,624.8,Living Areas:
+21,11,1,Calibri,11.0,165.7,613.8,525.8,624.8," Rural Italians are less likely to have at least basic digital skills, with proficiency at "
+21,11,2,Calibri,11.0,108.0,628.3,525.6,639.3,"40.64%, which is below the EU average for rural areas (47.50%). The gap between rural "
+21,11,3,Calibri,11.0,108.0,642.8,525.9,653.9,"residents and the national average is 5.11 percentage points, which is somewhat smaller than "
+21,11,4,Calibri,11.0,108.0,657.3,244.5,668.4,the EU average gap (8.06 pp.). 
+21,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,18 
+22,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+22,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+22,3,0,SymbolMT,10.0,90.0,82.4,94.6,94.6,
+22,3,0,ArialMT,10.0,94.6,83.4,97.4,94.5, 
+22,3,1,Calibri-Bold,11.0,108.0,84.1,166.6,95.2,Age Groups:
+22,3,1,Calibri,11.0,166.6,84.1,289.4,95.2," Italian youth, specifically "
+22,3,2,Calibri,11.0,108.0,98.7,289.3,109.7,"those aged 16 to 24, are the most "
+22,3,3,Calibri,11.0,108.0,113.1,289.4,124.1,"digitally skilled group at 59.07%, yet this "
+22,3,4,Calibri,11.0,108.0,127.6,289.4,138.6,is still below the EU average (69.98%). 65 
+22,3,5,Calibri,11.0,108.0,142.1,289.4,153.1,to 74-year-olds have the least digital 
+22,3,6,Calibri,11.0,108.0,156.6,289.3,167.7,"skills at 19.33%, also falling short of the "
+22,3,7,Calibri,11.0,108.0,171.0,205.2,182.1,EU average (28.19%). 
+22,5,0,SymbolMT,10.0,90.0,191.9,94.6,204.0,
+22,5,0,ArialMT,10.0,94.6,192.8,97.4,204.0, 
+22,5,1,Calibri-Bold,11.0,108.0,193.6,262.1,204.6,Digital Skills Index components:
+22,5,1,Calibri,11.0,262.2,193.6,289.5,204.6, Italy 
+22,5,2,Calibri,11.0,108.0,208.1,289.4,219.1,falls below the EU average in all five 
+22,5,3,Calibri,11.0,108.0,222.5,289.4,233.5,areas of the Digital Skills Index. Its best 
+22,5,4,Calibri,11.0,108.0,237.0,289.4,248.1,performance is in communication and 
+22,5,5,Calibri,11.0,108.0,251.6,289.3,262.6,"collaboration skills at 83.98%, but even "
+22,5,6,Calibri,11.0,108.0,266.1,289.3,277.1,this score is below the EU average. The 
+22,5,7,Calibri,11.0,108.0,280.5,289.4,291.5,area needing the most improvement is 
+22,5,8,Calibri,11.0,108.0,295.0,289.4,306.0,"safety skills, with a score of 59.00%, also "
+22,5,9,Calibri,11.0,108.0,309.5,199.7,320.6,below the EU norm. 
+22,6,0,Calibri,11.0,72.0,332.0,525.9,343.0,"Overall, Italy faces important challenges, with the gaps in gender and education levels being areas of "
+22,6,1,Calibri,11.0,72.0,346.5,308.0,357.5,"particular concern, with significant room for growth. "
+22,7,0,Calibri-Bold,11.0,72.0,369.0,525.8,380.1,"Italy set an ambitious target in its roadmap that, as part of the 2024 adjustment, was revised and "
+22,7,1,Calibri-Bold,11.0,72.0,383.4,271.5,394.5,"increased to 80.1%, to be achieved by 2030."
+22,7,1,Calibri,11.0,271.5,383.4,274.0,394.5, 
+22,8,0,Calibri-Bold,11.0,72.0,406.0,525.8,417.1,"In its roadmap adjustment, Italy also strengthened key measures for the improvement of basic "
+22,8,1,Calibri-Bold,11.0,72.0,420.4,523.4,431.5,"digital skills, building on the actions started with the RRP and ensuring their continuation after 2026."
+22,8,1,Calibri,11.0,523.4,420.4,525.9,431.5, 
+22,8,2,Calibri,11.0,72.0,434.9,525.9,446.0,"More specifically, the adjustment extends and reinforces the two main measures aimed at providing "
+22,8,3,Calibri,11.0,72.0,449.5,525.9,460.5,citizens with at least basic digital skills and helping them use digital services. These are: (i) the digital 
+22,8,4,Calibri,11.0,72.0,464.0,525.9,475.0,"civic service (EUR 60 million), which, as of the beginning of 2025, involves more than 9 000 young "
+22,8,5,Calibri,11.0,72.0,478.4,525.9,489.4,"volunteers, who, in turn, have implemented about 81 000 initiatives; and (ii) the network of digital "
+22,8,6,Calibri,11.0,72.0,492.9,462.5,503.9,"facilitation services (EUR 135 million), with the opening of 3 000 facilitation services ("
+22,8,6,Calibri-Italic,11.0,462.5,492.9,525.9,503.9,Punti Digitale 
+22,8,7,Calibri-Italic,11.0,72.0,507.4,97.5,518.5,Facile
+22,8,7,Calibri,11.0,97.5,507.4,528.5,518.5,") across the country in 2025, which supported about 660 000 people in using digital services.  "
+22,8,8,Calibri,11.0,72.0,521.9,525.9,533.0,"Both measures, together the with the Fund for ‘Repubblica Digitale’, were also presented by Italy in "
+22,8,9,Calibri,11.0,72.0,536.5,525.8,547.5,"the context of the ‘best practice accelerator’, a platform that enables Member States to share "
+22,8,10,Calibri,11.0,72.0,550.9,525.8,561.9,successful measures and challenges encountered in their efforts to meet their Digital Decade targets 
+22,8,11,Calibri,11.0,72.0,565.4,510.8,576.5,"and objectives. For more details, see the box below on implementing the 2024 recommendations. "
+22,9,0,Calibri,11.0,72.0,587.9,525.9,598.9,"This adjustment is supported by the reinforcement of Repubblica Digitale, another key initiative in the "
+22,9,1,Calibri,11.0,72.0,602.4,525.7,613.4,Italian landscape launched in 2019 and part of the European network of Digital Skills and Jobs 
+22,9,2,Calibri,11.0,72.0,616.9,525.9,627.9,"Coalitions. As of the beginning of 2025, Repubblica Digitale had reached over 350 initiatives promoted "
+22,9,3,Calibri,11.0,72.0,631.4,525.9,642.5,"by civil society, public administration and the private sector, most of them (241) targeting basic digital "
+22,9,4,Calibri,11.0,72.0,645.8,525.9,656.9,skills and digital citizenship. The new operational plan for 2025-2026 put EUR 100 million on the table 
+22,9,5,Calibri,11.0,72.0,660.3,525.8,671.4,"for the two-year period, following a new Memorandum of Understanding signed between the "
+22,9,6,Calibri,11.0,72.0,674.9,395.7,685.9,government and the Association of Foundations and Savings Banks (Acri)
+22,9,6,Calibri,7.0,395.7,674.0,402.7,680.9,39
+22,9,6,Calibri,11.0,402.7,674.9,408.1,685.9,. 
+22,10,0,Calibri,11.0,72.0,697.3,525.8,708.3,"Regarding the education sector, the improvement of basic digital skills is implemented through the "
+22,10,1,Calibri,11.0,72.0,711.8,525.9,722.9,"following RRP measures: School 4.0 (EUR 2.1 billion), Digital education and teacher training (EUR 800 "
+22,11,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+22,12,0,Calibri,6.0,72.0,760.6,78.1,766.6,39
+22,12,0,Calibri,9.0,78.0,760.9,80.1,769.9, 
+22,12,0,Calibri,9.0,80.1,760.9,357.3,769.9,Approvato il Piano Strategico 2025-2026 – Fondo per la Repubblica Digitale. 
+22,12,0,Calibri,9.0,357.4,760.9,359.5,769.9, 
+22,13,0,Calibri,11.0,292.1,795.2,305.8,806.3,19 
+23,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+23,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+23,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"million), New Skills and Languages-STEM (EUR 1.1 billion). These measures reach a total of 8.5 million "
+23,2,1,Calibri,11.0,72.0,98.7,280.6,109.7,"citizens, including both students and teachers. "
+23,4,0,Calibri-Bold,11.0,77.7,121.6,282.2,132.6,2024 recommendation on basic digital skills: 
+23,4,0,Calibri,11.0,282.5,121.6,520.1,132.6,Increase efforts to boost digital skills across all target 
+23,4,1,Calibri,11.0,77.7,136.1,520.0,147.1,"groups with tailored interventions, including by: (i) strengthening services to accompany citizens in "
+23,4,2,Calibri,11.0,77.7,150.6,520.2,161.7,the use of digital tools; (ii) expanding digital educational programmes in schools and increasing 
+23,4,3,Calibri,11.0,77.7,165.1,520.0,176.2,interest in STEM (Science Technology Engineering and Mathematics) and ICT disciplines; (iii) and 
+23,4,4,Calibri,11.0,77.7,179.5,322.0,190.6,incentivising reskilling and upskilling paths for workers.
+23,4,4,Calibri-Bold,11.0,322.0,179.5,324.5,190.6, 
+23,5,0,Calibri-Bold,11.0,77.7,202.6,501.6,213.6,Italy made some efforts to address the recommendation through new policy actions in 2024: 
+23,5,1,Calibri-Italic,11.0,77.7,216.0,80.2,227.1, 
+23,5,2,Calibri-Italic,11.0,77.7,229.5,166.0,240.5,Regarding point (i): 
+23,5,3,Calibri,11.0,77.7,242.9,225.1,254.0,The adjustment of the roadmap: 
+23,6,0,SymbolMT,11.0,95.7,263.2,100.7,276.6,
+23,6,0,ArialMT,11.0,100.7,264.3,103.8,276.6, 
+23,6,1,Calibri,11.0,113.7,266.0,520.3,277.0,"extends the digital civic Service until 2030 (previous end date was 2026), with a target of "
+23,6,2,Calibri,11.0,113.7,280.5,265.1,291.5,250 000 citizens trained per year. 
+23,6,3,SymbolMT,11.0,95.7,292.7,100.7,306.2,
+23,6,3,ArialMT,11.0,100.7,293.8,103.8,306.1, 
+23,6,4,Calibri,11.0,113.7,295.5,520.2,306.5,strengthens the network of digital facilitation services through two measures: one is based 
+23,6,5,Calibri,11.0,113.7,310.0,520.3,321.0,on launching competitive calls with the objective of training around 500 000 citizens and 
+23,6,6,Calibri,11.0,113.7,324.5,520.3,335.6,involving at least 1 200 Digital Facilitation Points; the other aims to continue the activities 
+23,6,7,Calibri,11.0,113.7,339.0,520.3,350.1,"of the digital facilitation services after the end of the related RRP measure, training "
+23,6,8,Calibri,11.0,113.7,353.4,520.2,364.5,approximately 450 000 persons per year (with a forecast of 2 500 Digital Facilitation Points 
+23,6,9,Calibri,11.0,113.7,368.0,160.1,379.0,involved). 
+23,6,10,SymbolMT,11.0,95.7,380.3,100.7,393.8,
+23,6,10,ArialMT,11.0,100.7,381.4,103.8,393.7, 
+23,6,11,Calibri,11.0,113.7,383.1,517.9,394.1,adds a new horizontal measure which aims to extend and further develop the use of the e-
+23,6,12,Calibri,11.0,113.7,397.5,520.1,408.5,learning platform and to train the facilitators and volunteers involved in the digital civil 
+23,6,13,Calibri,11.0,113.7,412.0,520.2,423.1,service and in the network of digital facilitation points. The platform is expected to evolve 
+23,6,14,Calibri,11.0,113.7,426.5,325.0,437.6,and expand the category and number of users. 
+23,7,0,Calibri-Italic,11.0,77.7,444.1,80.2,455.1, 
+23,7,1,Calibri-Italic,11.0,77.7,457.4,166.1,468.4,Regarding point (ii):
+23,7,1,Calibri,11.0,166.0,457.4,168.5,468.4, 
+23,7,2,Calibri,11.0,77.7,470.8,520.2,481.9,"In 2024, the implementation of existing measures, also supported by the RRP, continued (e.g. the "
+23,7,3,Calibri,11.0,77.7,484.3,520.3,495.3,"platform for the digital education of teachers and trainers; the investment ‘School 4.0’, the national "
+23,7,4,Calibri,11.0,77.7,497.7,520.3,508.8,"plan for digital school). According to 2024 data, 94% of schools are implementing projects for the "
+23,7,5,Calibri,11.0,77.7,511.1,207.4,522.2,development of digital skills. 
+23,7,6,Calibri,11.0,77.7,524.6,80.2,535.6, 
+23,7,7,Calibri-Italic,11.0,77.7,538.0,168.5,549.1,Regarding point (iii):
+23,7,7,Calibri,11.0,168.5,538.0,171.0,549.1, 
+23,7,8,Calibri,11.0,77.7,551.5,520.2,562.5,"In 2024, the implementation of existing measures for reskilling and upskilling continued (e.g. actions "
+23,7,9,Calibri,11.0,77.7,564.9,520.3,576.0,"by the competence centres and the initiatives of Repubblica Digitale, which, at the beginning of "
+23,7,10,Calibri,11.0,77.7,578.4,520.2,589.4,"2025, included 76 initiatives to strengthen digital skills for businesses and the labour market, out of "
+23,7,11,Calibri,11.0,77.7,591.7,240.3,602.7,a total of more than 350 initiatives). 
+23,7,12,Calibri,11.0,77.7,605.1,520.2,616.2,"In connection with the reskilling and upskilling of public administrations, the Syllabus continues to "
+23,7,13,Calibri,11.0,77.7,618.6,520.3,629.6,"be the key initiative in this area. In 2024/2025, training was extended to AI Literacy, included in the "
+23,7,14,Calibri,11.0,77.7,632.0,520.2,643.1,list of basic digital competences for public employees. The training was developed according to the 
+23,7,15,Calibri,11.0,77.7,645.5,509.6,656.5,guidelines for the adoption of AI in public administration (under consultation until March 2025).  
+23,7,16,Calibri,11.0,72.0,659.4,74.5,670.4, 
+23,8,0,Calibri-LightItalic,11.0,72.0,681.9,135.2,693.0,ICT specialists 
+23,8,1,Calibri-Bold,11.0,72.0,696.3,525.9,707.4,The share of ICT specialists compared to total employment in Italy stood at 4% in 2024 (national 
+23,8,2,Calibri-Bold,11.0,72.0,710.9,525.9,721.9,"target for 2030 is 8.4%), against an EU average of 5%. There was no progress compared to 2023. The "
+23,8,3,Calibri-Bold,11.0,72.0,725.4,346.1,736.4,country did not provide a national trajectory point for 2024. 
+23,8,3,Calibri,11.0,346.0,725.4,525.9,736.4,The percentage of female ICT specialists 
+23,8,4,Calibri,11.0,72.0,739.9,525.9,751.0,"in Italy was 17.1%, still below the EU’s 19.5%, but with a significant growth rate of 8.9%. The share of "
+23,8,5,Calibri,11.0,72.0,754.3,525.9,765.4,women among ICT specialists should be seen also in the context of a persisting low labour market 
+23,9,0,Calibri,11.0,292.1,795.2,305.8,806.3,20 
+24,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+24,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+24,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"participation of women in Italy. The female employment rate was 56.5% in 2023 in Italy, one of the "
+24,2,1,Calibri,11.0,72.0,98.7,525.8,109.7,"lowest values in the EU (70.2%); at the same time, the gender employment gap is nearly twice the EU "
+24,2,2,Calibri,11.0,72.0,113.1,340.4,124.1,average (19.5 percentage points vs 10.2 percentage points). 
+24,4,0,Calibri-Bold,11.0,72.0,135.6,525.8,146.7,"In its roadmap, Italy set an ambitious target for 2030 of 8.4% (this target was increased in the "
+24,4,1,Calibri-Bold,11.0,72.0,150.1,174.5,161.2,roadmap adjustment).
+24,4,1,Calibri,11.0,174.4,150.1,176.9,161.2, 
+24,5,0,Calibri-Bold,11.0,72.0,172.6,525.5,183.6,"The demand for digital professionals remains high and widespread across businesses in all sectors, "
+24,5,1,Calibri-Bold,11.0,72.0,187.1,239.6,198.1,with a growing emphasis on AI skills.
+24,5,1,Calibri,11.0,239.7,187.1,242.2,198.1, 
+24,6,0,Calibri,11.0,72.0,209.5,525.7,220.6,"In terms of demand from the labour market, Eurostat experimental statistics based on web scraping "
+24,6,1,Calibri,11.0,72.0,224.1,525.6,235.1,"show that in Italy, like in the rest of the EU, the profiles of ‘software and applications developers and "
+24,6,2,Calibri,11.0,72.0,238.6,525.9,249.6,"analysts’ are the most sought after, representing 48.8% of online job advertisements for ICT specialists "
+24,6,3,Calibri,11.0,72.0,253.0,525.6,264.0,(58.0% at EU level). This is followed by the profile ‘Electronics and telecommunications installers and 
+24,6,4,Calibri,11.0,72.0,267.5,503.1,278.6,"repairers’, which in Italy represents 16.4% of online job advertisements (6.6% is the EU average). "
+24,7,0,Calibri,11.0,72.0,290.1,525.9,301.1,"According to the findings of the reports of the Observatory on Digital competences, the demand for "
+24,7,1,Calibri,11.0,72.0,304.5,525.8,315.5,ICT professionals in Italy increased steadily between 2019 and 2022 (from about 20 000 in early 2019 
+24,7,2,Calibri,11.0,72.0,319.0,217.5,330.0,to about 60 000 in April 2023) 
+24,7,2,Calibri,7.0,219.3,318.1,226.3,325.1,40
+24,7,2,Calibri,11.0,226.2,319.0,525.9,330.0,". This growth seemed to halt from 2023 to 2024, pointing to a "
+24,7,3,Calibri,11.0,72.0,333.5,525.9,344.6,"stabilisation of the demand, except for AI-related skills which, instead, have seen continuous growth "
+24,7,4,Calibri,11.0,72.0,348.0,525.9,359.1,"since early 2023. The demand concerns all industries, not only the ICT sector, and – despite reaching "
+24,7,5,Calibri,11.0,72.0,362.4,451.5,373.5,"a stable point –remains high, and above the offer of ICT specialists on the job market "
+24,7,5,Calibri,7.0,451.4,361.5,458.4,368.5,41
+24,7,5,Calibri,11.0,458.4,362.4,463.6,373.5,. 
+24,8,0,Calibri,11.0,72.0,385.0,525.9,396.0,Skills mismatches and shortages may be also further exacerbated by brain drain and the increasing 
+24,8,1,Calibri,11.0,72.0,399.5,497.7,410.6,"number of graduates emigrating, which sharply increased from 28.5% in 2012 to 45.7% in 2021 "
+24,8,1,Calibri,7.0,497.5,398.6,504.5,405.6,42
+24,8,1,Calibri,11.0,504.5,399.5,509.7,410.6,. 
+24,9,0,Calibri-Bold,11.0,72.0,422.0,523.5,433.0,Reinforcing the academic offer remains a priority. Measures are ongoing to reinforce the non-
+24,9,1,Calibri-Bold,11.0,72.0,436.5,502.5,447.5,academic tertiary education sector for the development of high-level technical skills. 
+24,9,1,Calibri,11.0,507.0,436.5,525.9,447.5,The 
+24,9,2,Calibri,11.0,72.0,451.0,525.8,462.1,government has implemented a series of reforms to boost the vocationally oriented tertiary education 
+24,9,3,Calibri,11.0,72.0,465.4,525.9,476.5,"system, reinforcing the links between secondary education and tertiary non-University Education (ITS "
+24,9,4,Calibri,11.0,72.0,479.9,525.9,491.0,"academies), strengthening the involvement of the industry and focusing on internships and training "
+24,9,5,Calibri,11.0,72.0,494.5,492.1,505.5,"on the job. For more details, see the box below on implementing the 2024 recommendations. "
+24,10,0,Calibri-Bold,11.0,77.7,517.4,279.1,528.4,2024 recommendation on ICT specialists: 
+24,10,0,Calibri,11.0,282.4,517.4,520.2,528.4,"(i) Increase ICT programmes in higher education, "
+24,10,1,Calibri,11.0,77.7,531.9,520.1,542.9,"including the strengthening of ITS Academies, in connection with the job market needs and in "
+24,10,2,Calibri,11.0,77.7,546.4,519.9,557.5,collaboration with industry; (ii) take specific measures to increase participation of women in ICT 
+24,10,3,Calibri,11.0,77.7,561.0,485.7,572.0,education and in the ICT careers; (iii) consider measures to attract and retain ICT specialists.
+24,10,3,Calibri-Bold,11.0,485.7,561.0,488.2,572.0, 
+24,11,0,Calibri-Bold,11.0,77.7,583.9,496.0,594.9,Italy made some efforts to address the recommendation through new policy actions in 2024
+24,11,0,Calibri,11.0,496.2,583.9,501.6,594.9,: 
+24,11,1,Calibri,11.0,77.7,597.3,80.2,608.4, 
+24,11,2,Calibri-Italic,11.0,77.7,610.8,166.0,621.8,Regarding point (i): 
+24,12,0,SymbolMT,11.0,95.7,622.0,100.7,635.5,
+24,12,0,ArialMT,11.0,100.7,623.1,103.8,635.4, 
+24,12,1,Calibri,11.0,113.7,624.8,389.0,635.9,"In 2024, the government established a new training pathway ("
+24,12,1,Calibri-Italic,11.0,389.0,624.8,517.7,635.9,filiera formativa tecnologico-
+24,12,2,Calibri-Italic,11.0,113.7,639.3,196.4,650.4,professionale 4+2)
+24,12,2,Calibri,11.0,196.2,639.3,198.7,650.4, 
+24,12,2,Calibri,7.0,199.2,638.4,206.3,645.4,43
+24,12,2,Calibri,11.0,206.2,639.3,520.1,650.4, to equip students with technological skills aligned with the needs of 
+24,12,3,Calibri,11.0,113.7,653.7,520.3,664.8,the workforce and to facilitate the transition towards tertiary non-University education (ITS 
+24,12,4,Calibri,11.0,113.7,668.3,520.1,679.3,"Academies). The programme, starting in the 2024/2025 school year as a national pilot, "
+24,12,5,Calibri,11.0,113.7,682.8,517.9,693.8,"offers four-year technical and vocational secondary education courses, emphasising on-"
+24,13,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+24,14,0,Calibri,6.0,72.0,716.7,78.1,722.7,40
+24,14,0,Calibri,9.0,78.0,716.9,484.3,725.9," AICA, Anitec-Assinform, Assintel, Osservatorio sulle Competenze Digitali, ‘ICT: Talenti Cercasi’, December 2023. "
+24,14,1,Calibri,6.0,72.0,727.6,78.1,733.6,41
+24,14,1,Calibri,9.0,78.0,727.9,525.5,736.9," AICA, Anitec-Assinform, Assintel, Osservatorio sulle Competenze Digitali, ‘Competenze Digitali: un’opportunità per il Paese’, "
+24,14,2,Calibri,9.0,72.0,738.9,179.1,747.9,last update on January 2025. 
+24,14,3,Calibri,6.0,72.0,749.6,78.1,755.6,42
+24,14,3,Calibri,9.0,78.0,749.8,122.6,758.8," Eurofound, "
+24,14,3,Calibri,9.0,122.7,749.8,376.4,758.8,Role of human capital inequalities in social cohesion and convergence
+24,14,3,Calibri,9.0,376.5,749.8,403.4,758.8,", 2024. "
+24,14,4,Calibri,6.0,72.0,760.6,78.1,766.6,43
+24,14,4,Calibri,9.0,78.0,760.9,80.1,769.9, 
+24,14,4,Calibri,9.0,80.1,760.9,187.2,769.9,Law n. 121 of 8 August 2024. 
+24,14,4,Calibri,9.0,187.4,760.9,189.4,769.9, 
+24,15,0,Calibri,11.0,292.1,795.2,305.8,806.3,21 
+25,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+25,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+25,3,0,Calibri,11.0,113.7,84.6,520.1,95.7,"the-job training and STEM subjects, with industry experts involved in both curriculum "
+25,3,1,Calibri,11.0,113.7,99.1,520.1,110.2,"design and teaching. After passing the final state exam, students can pursue university "
+25,3,2,Calibri,11.0,113.7,113.7,399.8,124.7,"education, continue at an ITS Academy, or enter the workforce. "
+25,3,3,SymbolMT,11.0,95.7,125.8,100.7,139.3,
+25,3,3,ArialMT,11.0,100.7,126.9,103.8,139.3, 
+25,3,4,Calibri,11.0,113.7,128.7,520.3,139.7,Resources of EUR 35 million were planned for strengthening the ITS Academies between 
+25,3,5,Calibri,11.0,113.7,143.2,185.4,154.2,2025 and 2026. 
+25,3,6,SymbolMT,11.0,95.7,155.5,100.7,169.0,
+25,3,6,ArialMT,11.0,100.7,156.6,103.8,168.9, 
+25,3,7,Calibri,11.0,113.7,158.3,520.2,169.3,The initiatives undertaken under Repubblica Digitale also target ICT specialists (at the 
+25,3,8,Calibri,11.0,113.7,171.6,520.3,182.7,"beginning of 2025, Repubblica Digitale included 34 initiatives relating to ICT specialised "
+25,3,9,Calibri,11.0,113.7,185.1,332.7,196.1,"skills, out of a total of more than 350 initiatives). "
+25,3,10,Calibri-Italic,11.0,77.7,198.5,165.5,209.5,Regarding point (ii):
+25,3,10,Calibri,11.0,165.4,198.5,520.3,209.5, the initiatives undertaken under Repubblica Digitale also specifically target girls 
+25,3,11,Calibri,11.0,77.7,211.9,106.7,223.0,in ICT. 
+25,3,12,Calibri-Italic,11.0,77.7,225.4,168.6,236.4,Regarding point (iii):
+25,3,12,Calibri,11.0,168.6,225.4,335.8,236.4, no specific new measures to report.  
+25,3,13,Calibri,11.0,72.0,239.3,74.5,250.4, 
+25,4,0,Calibri-Light,12.0,72.0,262.1,476.9,274.1,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+25,5,0,Calibri-Bold,11.0,72.0,283.6,525.8,294.6,"Regarding digital public services for citizens, in 2024 Italy scored 83.57 (2030 national target of 100) "
+25,5,1,Calibri-Bold,11.0,72.0,299.1,525.9,310.1,"after significant progress of +22.4%, above the EU average of 82.32. The country is on track according "
+25,5,2,Calibri-Bold,11.0,72.0,314.6,185.9,325.6,to its national trajectory. 
+25,5,2,Calibri,11.0,185.6,314.6,523.6,325.6,The overall progress made by Italy is a remarkable achievement. In the cross-
+25,5,3,Calibri,11.0,72.0,329.9,525.9,341.0,"border category for digital public services for citizens, Italy started at 46.97 in 2023, below the EU’s "
+25,5,4,Calibri,11.0,72.0,345.4,525.9,356.4,"68.37, but climbed to 72.71 in 2024, exceeding the EU’s 71.28. Italy’s growth rate of 54.8% in this area "
+25,5,5,Calibri,11.0,72.0,360.9,270.0,371.9,was substantially higher than the EU’s 4.3%. 
+25,6,0,Calibri-Bold,11.0,72.0,382.2,525.9,393.3,"Regarding digital public services for businesses, the score was 80.93 in 2024 (2030 national target of "
+25,6,1,Calibri-Bold,11.0,72.0,397.7,437.1,408.8,"100), showing good progress (+6.1%) but falling below the EU average of 86.23"
+25,6,1,Calibri,11.0,437.1,397.7,442.4,408.8,. 
+25,6,1,Calibri-Bold,11.0,443.0,397.7,525.9,408.8,The country is on 
+25,6,2,Calibri-Bold,11.0,72.0,413.2,262.4,424.3,track according to its national trajectory. 
+25,6,2,Calibri,11.0,263.3,413.2,525.8,424.3,In the cross-border category for digital public services for 
+25,6,3,Calibri,11.0,72.0,428.6,525.9,439.6,"businesses, Italy’s score was 63.11 in 2024, below the EU’s 73.76. Italy’s growth rate of 9.0% was higher "
+25,6,4,Calibri,11.0,72.0,444.1,160.8,455.1,than the EU’s 0.9%. 
+25,7,0,Calibri-Bold,11.0,72.0,465.5,243.1,476.6,In terms of access to e-Health records
+25,7,0,Calibri,11.0,243.2,465.5,248.3,476.6,", "
+25,7,0,Calibri-Bold,11.0,248.3,465.5,525.8,476.6,"in 2024 Italy scored 84.11 (2030 national target of 100), after "
+25,7,1,Calibri-Bold,11.0,72.0,480.1,525.9,491.1,progress of +1.7% and above the EU average of 82.7. The country is on track according to its national 
+25,7,2,Calibri-Bold,11.0,72.0,494.5,121.4,505.5,trajectory. 
+25,7,2,Calibri,11.0,122.1,494.5,525.9,505.5,"This result confirms the good performance of Italy as early as in 2023, when the country "
+25,7,3,Calibri,11.0,72.0,509.0,367.2,520.0,had already reached a score of 82.69 compared to the EU’s 79.12. 
+25,8,0,Calibri,11.0,72.0,531.5,525.6,542.6,"Moreover, according to the 2025 Eurobarometer, 85% of Italian people think that accessing public "
+25,8,1,Calibri,11.0,72.0,545.9,525.7,557.0,services online will be important for their daily life in 2030. An equal percentage considers that digital 
+25,8,2,Calibri,11.0,72.0,560.5,525.8,571.5,"technologies will be important when accessing or receiving healthcare services (e.g., telemedicine, "
+25,8,3,Calibri,11.0,72.0,575.0,407.4,586.1,artificial intelligence for diagnosis diseases) during their daily life by 2030.   
+25,9,0,Calibri-LightItalic,11.0,72.0,597.5,89.0,608.5,eID 
+25,9,1,Calibri-Bold,11.0,72.0,612.0,525.7,623.0,"Italy has two certified eIDAS digital identity schemes, SPID and CIE, which are widely adopted across "
+25,9,2,Calibri-Bold,11.0,72.0,626.5,125.4,637.5,the country
+25,9,2,Calibri,11.0,125.4,626.5,525.8,637.5,". The number of SPID and CIE credentials issued continues to grow. As of early 2025, the "
+25,9,3,Calibri,11.0,72.0,640.9,331.8,651.9,total number of SPID identities issued surpassed 40 million 
+25,9,3,Calibri,7.0,331.8,640.0,338.8,647.0,44
+25,9,3,Calibri,11.0,338.7,640.9,525.9,651.9,", while the number of CIE identities stands "
+25,9,4,Calibri,11.0,72.0,655.4,131.8,666.5,at 51 million 
+25,9,4,Calibri,7.0,131.7,654.5,138.7,661.5,45
+25,9,4,Calibri,11.0,138.6,655.4,525.8,666.5,". Additionally, an increasing number of public administrations are integrating their "
+25,9,5,Calibri,11.0,72.0,669.9,465.3,681.0,"services with SPID and CIE, with 18 800 public administrations supporting both systems. "
+25,10,0,Calibri-Bold,11.0,72.0,692.4,525.9,703.4,"In its adjustment of the roadmap, Italy added the IT Wallet, an area of action where the country is "
+25,10,1,Calibri-Bold,11.0,72.0,706.9,477.6,717.9,making significant progress with the development of its Digital Identity Wallet (IT Wallet). 
+25,10,1,Calibri,11.0,477.1,706.9,525.9,717.9,The Italian 
+25,10,2,Calibri,11.0,72.0,721.4,525.9,732.5,"government has initiated the development of a national wallet, the IT Wallet, in line with the EU’s "
+25,11,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+25,11,1,Calibri,6.0,72.0,749.6,78.1,755.6,44
+25,11,1,Calibri,9.0,78.0,749.8,80.1,758.8, 
+25,11,1,Calibri,9.0,80.1,749.8,355.4,758.8,Stato di avanzamento Trasformazione Digitale | Avanzamento Digitale AgID.
+25,11,1,Calibri,9.0,355.5,749.8,357.5,758.8, 
+25,11,2,Calibri,6.0,72.0,760.6,78.1,766.6,45
+25,11,2,Calibri,9.0,78.0,760.9,80.1,769.9, 
+25,11,2,Calibri,9.0,80.1,760.9,189.3,769.9,Federazione erogatori servizi. 
+25,11,2,Calibri,9.0,189.4,760.9,191.4,769.9, 
+25,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,22 
+26,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+26,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+26,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,regulatory and technological framework and aimed at streamlining the country’s digital identity 
+26,2,1,Calibri,11.0,72.0,98.7,525.7,109.7,ecosystem. This initiative seeks to simplify citizens’ and businesses’ access to services while ensuring 
+26,2,2,Calibri,11.0,72.0,113.1,425.6,124.1,secure storage of essential documents and full user control over personal data. 
+26,4,0,Calibri,11.0,72.0,135.6,525.9,146.7,"In preparation for the full deployment of the IT Wallet System, Italy launched ‘Documenti su IO’ in "
+26,4,1,Calibri,11.0,72.0,150.1,525.8,161.2,"December 2024, a new feature within the IO app (the public services app). This feature enables citizens "
+26,4,2,Calibri,11.0,72.0,164.5,525.9,175.6,"to store digital versions of key three documents: mobile driving licence, health insurance card and the "
+26,4,3,Calibri,11.0,72.0,179.1,186.7,190.1,European Disability Card. 
+26,5,0,Calibri,11.0,72.0,201.6,525.9,212.7,Adoption numbers in the first three months following its general release (December 2024 – March 
+26,5,1,Calibri,11.0,72.0,216.0,525.9,227.1,"2025) are very positive, with 4.5 million users activating the service and 7.5 million digital documents "
+26,5,2,Calibri,11.0,72.0,230.5,103.7,241.6,in use. 
+26,6,0,Calibri-Bold,11.0,72.0,253.0,525.8,264.0,Italy is also actively contributing to developing the European Digital Identity Wallet (EUDI Wallet) by 
+26,6,1,Calibri-Bold,11.0,72.0,267.5,394.0,278.6,participating in all four large-scale pilots working on various use cases
+26,6,1,Calibri,11.0,394.0,267.5,523.6,278.6,": NOBID, focusing on a large-"
+26,6,2,Calibri,11.0,72.0,282.0,525.9,293.1,"scale pilot for EU Digital Wallet payments; POTENTIAL, a consortium working on six key use cases (e.g. "
+26,6,3,Calibri,11.0,72.0,296.6,525.9,307.6,"e-Prescriptions, bank account opening, SIM card registration); the EU Digital Wallet Consortium (EWC), "
+26,6,4,Calibri,11.0,72.0,311.1,525.9,322.1,"focused on digital travel credentials; and Digital Credentials for Europe (DC4EU), focused on the "
+26,6,5,Calibri,11.0,72.0,325.5,245.5,336.5,educational and social security sectors 
+26,6,5,Calibri,7.0,245.3,324.6,252.3,331.5,46
+26,6,5,Calibri,11.0,252.3,325.5,257.5,336.5,. 
+26,7,0,Calibri-LightItalic,11.0,72.0,348.0,327.2,359.1,Digitalisation of public services for citizens and businesses 
+26,7,1,Calibri-Bold,11.0,72.0,362.4,525.5,373.5,Italy made significant progress in ensuring availability of digital public services to citizens and 
+26,7,2,Calibri-Bold,11.0,72.0,377.0,126.5,388.0,businesses. 
+26,8,0,Calibri-Bold,11.0,72.0,399.5,525.7,410.6,"In its roadmap, Italy aims to reach the EU-level target of 100% of key digital public services available "
+26,8,1,Calibri-Bold,11.0,72.0,413.9,233.3,425.0,to citizens and businesses by 2030.
+26,8,1,Calibri,11.0,233.4,413.9,525.8,425.0," Italy did not add any new measures in its roadmap adjustment, "
+26,8,2,Calibri,11.0,72.0,428.5,525.9,439.5,but revised the progress of milestones and provided a higher level of detail for some activities. This 
+26,8,3,Calibri,11.0,72.0,443.0,525.9,454.0,"approach is explained by the overall progress achieved in implementing the existing measures, and the "
+26,8,4,Calibri,11.0,72.0,457.5,525.9,468.5,comprehensive set of initiatives to digitalise the public administration and its services under the RRP. 
+26,8,5,Calibri,11.0,72.0,471.9,525.8,482.9,"The implementation of key RRP measures (e.g. citizens’ experience, digitalisation of central "
+26,8,6,Calibri,11.0,72.0,486.4,525.9,497.5,"administrations, adoption of PagoPA and the IO app) is progressing as expected and efforts have been "
+26,8,7,Calibri,11.0,72.0,500.9,317.4,512.0,made to increase system interoperability and usability. 
+26,9,0,Calibri-Bold,11.0,72.0,523.4,525.9,534.4,Simplification and interoperability are at the heart of key measures in the area of e-Government 
+26,9,1,Calibri-Bold,11.0,72.0,537.9,140.4,548.9,taken by Italy. 
+26,9,1,Calibri,11.0,141.4,537.9,525.9,548.9,A particularly important initiative in this regard is the National Digital Data Platform 
+26,9,2,Calibri,11.0,72.0,552.4,525.9,563.5,"(PDND). The platform plays a crucial role in enhancing interoperability in public administration, "
+26,9,3,Calibri,11.0,72.0,567.0,525.9,578.0,specifically by connecting information systems and databases and ensuring compliance with the Once 
+26,9,4,Calibri,11.0,72.0,581.4,525.8,592.4,"Only principle. The platform supports and is being integrated into a number of ecosystems, such as "
+26,9,5,Calibri,11.0,72.0,595.9,525.9,606.9,"procurement, social security, population registries and education databases. To exchange data, each "
+26,9,6,Calibri,11.0,72.0,610.4,523.6,621.5,"entity must complete the PDND enrolment process. Once registered, it can both provide its own e-"
+26,9,7,Calibri,11.0,72.0,624.9,525.8,636.0,Services – digital services granting data access – and use those offered by other entities. Since its 
+26,9,8,Calibri,11.0,72.0,639.3,525.9,650.4,"launch in October 2022, the PDND has expanded significantly, with 7 900 entities onboarded, 11 000 "
+26,9,9,Calibri,11.0,72.0,653.9,415.3,664.9,e-Services published and over 480 million data exchange sessions conducted 
+26,9,9,Calibri,7.0,415.2,653.0,422.2,659.9,47
+26,9,9,Calibri,11.0,422.1,653.9,427.5,664.9,. 
+26,10,0,Calibri-Bold,11.0,72.0,676.4,497.8,687.5,"On the sovereignty of the digital administration, a key measure is the National Strategic Hub"
+26,10,0,Calibri,11.0,497.7,676.4,525.9,687.5, (Polo 
+26,10,1,Calibri,11.0,72.0,690.8,525.9,701.9,"Strategico Nazionale or PSN), also part of the RRP and of the Digital Decade roadmap. The PSN is the "
+26,10,2,Calibri,11.0,72.0,705.3,262.9,716.4,infrastructure designed to ensure the 
+26,10,2,Calibri-Bold,11.0,268.4,705.3,471.0,716.4,security and technological independence
+26,10,2,Calibri,11.0,471.1,705.3,525.9,716.4, of public 
+26,10,3,Calibri,11.0,72.0,719.9,362.6,730.9,"administration data and services, by promoting the transition to "
+26,10,3,Calibri-Bold,11.0,363.2,719.9,525.8,730.9,"secure, reliable, and scalable cloud "
+26,11,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+26,11,1,Calibri,6.0,72.0,749.6,78.1,755.6,46
+26,11,1,Calibri,9.0,78.0,749.8,80.1,758.8, 
+26,11,1,Calibri,9.0,80.1,749.8,320.9,758.8,What are the Large Scale Pilot Projects - EU Digital Identity Wallet.
+26,11,1,Calibri,9.0,321.1,749.8,323.1,758.8, 
+26,11,2,Calibri,6.0,72.0,760.6,78.1,766.6,47
+26,11,2,Calibri,9.0,78.0,760.9,80.1,769.9, 
+26,11,2,Calibri,9.0,80.1,760.9,246.6,769.9,I numeri della PDND | PDND Interoperabilità. 
+26,11,2,Calibri,9.0,246.8,760.9,248.8,769.9, 
+26,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,23 
+27,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+27,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+27,3,0,Calibri-Bold,11.0,72.0,84.1,113.6,95.2,solutions
+27,3,0,Calibri,11.0,113.7,84.1,202.2,95.2,. As outlined in the 
+27,3,0,Calibri-Bold,11.0,202.7,84.1,301.4,95.2,Italian Cloud Strategy
+27,3,0,Calibri,11.0,301.5,84.1,472.9,95.2,", the PSN builds on four data centres, "
+27,3,0,Calibri-Bold,11.0,473.4,84.1,523.6,95.2,distributed
+27,3,0,Calibri,11.0,523.4,84.1,525.9,95.2, 
+27,3,1,Calibri,11.0,72.0,98.7,438.2,109.7,across four locations in Italy. The final target (supported by the RRP) is to migrate 
+27,3,1,Calibri-Bold,11.0,438.7,98.7,525.9,109.7,12 464 local public 
+27,3,2,Calibri-Bold,11.0,72.0,113.1,143.4,124.1,administrations
+27,3,2,Calibri,11.0,143.4,113.1,432.7,124.1," to qualified cloud environments by Q2 2026. In Q3 2024, "
+27,3,2,Calibri-Bold,11.0,436.5,113.1,525.8,124.1,4 083 local public 
+27,3,3,Calibri-Bold,11.0,72.0,127.6,143.4,138.6,administrations
+27,3,3,Calibri,11.0,143.4,127.6,273.1,138.6, were migrated (about 32%). 
+27,4,0,Calibri-Bold,11.0,77.7,150.6,187.1,161.7,2024 recommendation: 
+27,4,0,Calibri,11.0,187.6,150.6,520.1,161.7,"Continue efforts to digitalise public services, focusing on user friendliness "
+27,4,1,Calibri,11.0,77.7,165.1,520.2,176.2,and interoperability to further increase simplification and re-use of information available to public 
+27,4,2,Calibri,11.0,77.7,179.5,152.3,190.6,administrations. 
+27,5,0,Calibri-Bold,11.0,77.7,202.6,517.5,213.6,Italy made some efforts to address the recommendation through new policy actions in 2024:
+27,5,0,Calibri,11.0,517.8,202.6,520.3,213.6, 
+27,5,1,Calibri,11.0,77.7,217.1,520.0,228.1,Progress is being made on the numerous and significant measures that are already in place and 
+27,5,2,Calibri,11.0,77.7,231.5,284.7,242.6,benefit from RRP support (see above/below).  
+27,6,0,Calibri,11.0,72.0,254.6,74.5,265.6, 
+27,7,0,Calibri-LightItalic,11.0,72.0,277.0,112.2,288.0,e-Health 
+27,7,1,Calibri-Bold,11.0,72.0,291.5,525.7,302.6,"In access to electronic health records, Italy maintained its lead in 2024 with a score of 84.11 against "
+27,7,2,Calibri-Bold,11.0,72.0,306.0,136.6,317.1,the EU’s 82.7. 
+27,8,0,Calibri,11.0,72.0,328.5,525.9,339.5,Italy has worked to increase the availability of health data by integrating more categories of healthcare 
+27,8,1,Calibri,11.0,72.0,343.0,525.9,354.0,"providers into the Electronic Health Record (EHR, or Fascicolo Sanitario Elettronico – FSE). Many "
+27,8,2,Calibri,11.0,72.0,357.5,525.8,368.6,"documents are made available (laboratory reports, patient summaries, first aid reports, hospital "
+27,8,3,Calibri,11.0,72.0,372.0,525.8,383.1,"discharge letters, radiology reports, specialists’ reports), produced both within and outside the "
+27,8,4,Calibri,11.0,72.0,386.4,342.2,397.5,National Health Service (Sistema Sanitario Nazionale – SSN). 
+27,9,0,Calibri,11.0,72.0,409.0,525.7,420.1,"The Delegation Management Platform (DMP) will enable guardians, curators, support administrators, "
+27,9,1,Calibri,11.0,72.0,423.5,525.8,434.6,and those with parental responsibility to exercise their powers via national digital identity; the general 
+27,9,2,Calibri,11.0,72.0,437.9,525.9,449.0,availability of these functionalities will also apply to EHR online services. The Platform is planned to be 
+27,9,3,Calibri,11.0,72.0,452.5,199.6,463.5,completed by 30 June 2026. 
+27,10,0,Calibri-Bold,11.0,77.7,475.5,187.8,486.5,2024 recommendation: 
+27,10,0,Calibri,11.0,188.9,475.5,520.1,486.5,(i) Increase the supply of health data by onboarding more categories of 
+27,10,1,Calibri,11.0,77.7,489.9,520.2,500.9,healthcare providers; (ii) build on existing legal provisions and implement access opportunities for 
+27,10,2,Calibri,11.0,77.7,504.4,520.2,515.5,"legal guardians, authorised persons and disadvantaged groups; (iii) make all types of medical images "
+27,10,3,Calibri,11.0,77.7,518.9,520.2,530.0,"available to citizens in a timely manner and in all regions through the online access service, including "
+27,10,4,Calibri,11.0,77.7,533.5,208.1,544.5,through mobile applications. 
+27,11,0,Calibri-Bold,11.0,77.7,556.4,501.6,567.5,Italy made some efforts to address the recommendation through new policy actions in 2024: 
+27,11,1,Calibri,11.0,77.7,569.9,519.9,580.9,"Compared to last year, more data categories are made available for citizens in several regions, "
+27,11,2,Calibri,11.0,77.7,584.4,520.1,595.4,"especially in Calabria, Molise, and Puglia. Specifically, data on allergies, current problems, medical "
+27,11,3,Calibri,11.0,77.7,598.9,520.1,609.9,"devices/implants, procedures/operations, current/relevant past, and medical images increased in "
+27,11,4,Calibri,11.0,77.7,613.3,120.6,624.3,maturity. 
+27,12,0,Calibri,11.0,77.7,635.9,520.3,646.9,"Of the 13 data categories investigated in this study, 7 are available in a timely manner in all regions. "
+27,12,1,Calibri,11.0,77.7,650.4,435.8,661.4,"Nonetheless, data on medical images is still not available in most of the regions. "
+27,13,0,Calibri,11.0,77.7,672.8,520.3,683.9,"In 2024, Liguria, Basilicata and Sardinia reported, for the first time, that they had a mobile "
+27,13,1,Calibri,11.0,77.7,687.3,520.3,698.4,application alongside their existing online portals. Only four regions have only an online portal. More 
+27,13,2,Calibri,11.0,77.7,701.9,424.3,712.9,regions are providing technical functionalities to assist disadvantaged groups. 
+27,14,0,Calibri,11.0,77.7,724.3,520.0,735.4,"While more categories of healthcare providers are supplying data in some regions, this number is "
+27,14,1,Calibri,11.0,77.7,738.8,285.1,749.9,"still limited, affecting Italy’s e-Health maturity. "
+27,15,0,Calibri,11.0,292.1,795.2,305.8,806.3,24 
+28,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+28,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+28,2,0,TimesNewRomanPSMT,12.0,72.0,82.4,75.0,95.7, 
+28,2,1,Calibri-Light,15.0,72.0,102.9,526.4,117.9,Building a safe and human centric digital environment and preserving our 
+28,2,2,Calibri-Light,15.0,72.0,122.7,141.6,137.7,democracy 
+28,4,0,Calibri-Bold,11.0,72.0,149.5,379.8,160.6,"In Italy, online participation in political and civic life is relatively high"
+28,4,0,Calibri,11.0,379.8,149.5,525.9,160.6,". In 2024, 25.77% of people used "
+28,4,1,Calibri,11.0,72.0,164.1,525.9,175.1,"the internet to participate in consultations, to vote or share opinions online. This share is above the "
+28,4,2,Calibri,11.0,72.0,178.6,525.8,189.6,"EU average, despite Italy’s downward trend (while in the EU, this share was 17.59% in 2022 and "
+28,4,3,Calibri,11.0,72.0,193.0,206.4,204.0,increased to 20.45% in 2024). 
+28,5,0,Calibri-Bold,11.0,72.0,215.5,525.9,226.6,"In 2023, only 1 out of 4 of Italian internet users declared that they checked the truthfulness of "
+28,5,1,Calibri-Bold,11.0,72.0,229.0,200.4,240.0,doubtful online information
+28,5,1,Calibri,11.0,200.4,229.0,525.9,240.0,". In 2023, 37.42% of Italian people declared that they had encountered "
+28,5,2,Calibri,11.0,72.0,242.3,525.9,253.4,"untrue or doubtful information or content on internet news sites or social media. Of these individuals, "
+28,5,3,Calibri,11.0,72.0,255.8,525.9,266.8,"20.95% checked its truthfulness, demonstrating a modest level of critical evaluation among those who "
+28,5,4,Calibri,11.0,72.0,269.2,525.9,280.2,"perceived such content as misleading. Moreover, this share declined compared to 2021, when it was "
+28,5,5,Calibri,11.0,72.0,282.6,525.9,293.7,"24.39%, and is below the EU average of 24.29%. Young people between 16 and 24 years of age "
+28,5,6,Calibri,11.0,72.0,296.1,525.8,307.1,emerged as those more likely to report having encountered untrue or doubtful information or content 
+28,5,7,Calibri,11.0,72.0,309.5,525.9,320.6,(46.19% vs 39.55% of adults between 25 and 64 years of age) and to check truthfulness (29.63% vs 
+28,5,8,Calibri,11.0,72.0,323.0,155.0,334.0,21.81% of adults). 
+28,6,0,Calibri,11.0,72.0,344.3,177.3,355.4,The latest report of the 
+28,6,0,Calibri-Bold,11.0,177.2,344.3,364.0,355.4,Italian Digital Media Observatory (IDMO)
+28,6,0,Calibri,11.0,364.1,344.3,525.9,355.4, provides some insights on the most 
+28,6,1,Calibri,11.0,72.0,357.8,525.9,368.8,frequent topics subject to disinformation. It reports data from a total of 193 fact-checking articles 
+28,6,2,Calibri,11.0,72.0,371.2,525.6,382.2,"issued in February 2025. Of these, 16 articles (8.2%) addressed misinformation related to the war in "
+28,6,3,Calibri,11.0,72.0,384.6,525.5,395.7,"Ukraine, 16 (8.2%) focused on the pandemic, 8 (4.1%) on climate change, 16 (8.2%) on the European "
+28,6,4,Calibri,11.0,72.0,398.1,525.8,409.1,"Union, 10 (5.1%) on immigration, 5 (2.5%) on the war in the Middle East, and 5 (2.5%) on gender or "
+28,6,5,Calibri,11.0,72.0,411.5,138.5,422.6,LGBTQ+ issues 
+28,6,5,Calibri,7.0,138.4,410.6,145.4,417.6,48
+28,6,5,Calibri,11.0,145.3,411.5,150.6,422.6,. 
+28,7,0,Calibri-Bold,11.0,72.0,433.0,525.7,444.1,"Looking at policy responses, in May 2024, the Italian government launched a broad campaign "
+28,7,1,Calibri-Bold,11.0,72.0,447.4,423.4,458.5,entitled ‘Liberati dalla disinformazione’ (‘Free Yourself from Disinformation’)
+28,7,1,Calibri,11.0,423.3,447.4,525.9,458.5, to combat the spread 
+28,7,2,Calibri,11.0,72.0,461.9,525.7,473.0,of false information. This initiative aims to raise awareness about the dangers of disinformation and 
+28,7,3,Calibri,11.0,72.0,476.5,525.7,487.5,"promote critical thinking among citizens. Additionally, efforts to increase media literacy in schools are "
+28,7,4,Calibri,11.0,72.0,491.0,358.1,502.0,"ongoing, such as those under Italy’s National Digital School Plan "
+28,7,4,Calibri,7.0,357.9,490.1,364.9,497.0,49
+28,7,4,Calibri,11.0,364.9,491.0,370.2,502.0,. 
+28,8,0,Calibri,11.0,72.0,513.4,525.9,524.5,"Furthermore, in December 2024, the Ministry of Education and Merit (Ministero dell’Istruzione e del "
+28,8,1,Calibri,11.0,72.0,527.9,525.6,539.0,"Merito, MIM) and the Italian Communications Authority (AGCOM) signed a memorandum of "
+28,8,2,Calibri,11.0,72.0,542.3,151.8,553.4,understanding to 
+28,8,2,Calibri-Bold,11.0,152.7,542.3,466.6,553.4,promote and develop digital and media literacy activities in schools
+28,8,2,Calibri,11.0,466.9,542.3,525.9,553.4,", particularly "
+28,8,3,Calibri,11.0,72.0,556.9,525.9,567.9,targeting lower and upper secondary education. This agreement includes integrating digital citizenship 
+28,8,4,Calibri,11.0,72.0,571.4,525.9,582.5,"training into the civic education curriculum, with programmes such as the ‘Patentino Digitale’ (‘Digital "
+28,8,5,Calibri,11.0,72.0,585.9,525.9,597.0,"Licence’) already active in regions such as Tuscany and Lazio, and set to expand to other regions in "
+28,8,6,Calibri,11.0,72.0,600.3,96.7,611.4,2025 
+28,8,6,Calibri,7.0,96.5,599.4,103.5,606.4,50
+28,8,6,Calibri,11.0,103.5,600.3,108.7,611.4,. 
+28,9,0,Calibri-Bold,11.0,72.0,622.9,525.5,633.9,These initiatives play an important role in supporting the implementation of EU campaigns and the 
+28,9,1,Calibri-Bold,11.0,72.0,637.4,419.8,648.5,"enforcement of relevant legislation, such as the Digital Services Act (DSA)"
+28,9,1,Calibri,11.0,420.1,637.4,525.9,648.5,. Article 53 of the DSA 
+28,9,2,Calibri,11.0,72.0,651.8,525.7,662.9,"grants service recipients, as well as organisations acting on their behalf, the right to lodge complaints "
+28,9,3,Calibri,11.0,72.0,666.3,525.8,677.4,about alleged DSA violations by intermediary service providers. These complaints can be submitted to 
+28,9,4,Calibri,11.0,72.0,680.9,525.9,691.9,"the Digital Services Coordinator (DSC) of the Member State where the recipients are located. In Italy, "
+28,9,5,Calibri,11.0,72.0,695.4,525.7,706.4,"AGCOM serves as the DSC, overseeing the implementation and enforcement of the DSA. Since "
+28,10,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+28,11,0,Calibri,6.0,72.0,727.6,78.1,733.6,48
+28,11,0,Calibri,9.0,78.0,727.9,80.1,736.9, 
+28,11,0,Calibri,9.0,80.1,727.9,286.9,736.9,L'effetto Trump sulla disinformazione di febbraio - IDMO.
+28,11,0,Calibri,9.0,286.9,727.9,288.9,736.9, 
+28,11,1,Calibri,6.0,72.0,738.7,78.1,744.7,49
+28,11,1,Calibri,9.0,78.0,738.9,80.1,747.9, 
+28,11,1,Calibri,9.0,81.1,738.9,525.5,747.9,Liberati Dalla Disinformazione – La nuova campagna della Farnesina per contrastare la diffusione delle false notizie. – 
+28,11,2,Calibri,9.0,72.0,749.8,182.8,758.8,Ambasciata d'Italia La Valletta.
+28,11,2,Calibri,9.0,182.8,749.8,184.8,758.8, 
+28,11,3,Calibri,6.0,72.0,760.6,78.1,766.6,50
+28,11,3,Calibri,9.0,78.0,760.9,80.1,769.9, 
+28,11,3,Calibri,9.0,80.1,760.9,516.9,769.9,Protocollo di intesa tra il Ministero dell'Istruzione e del Merito e l'Autorità per le Garanzie nelle Comunicazioni | Agcom.
+28,11,3,Calibri,9.0,517.0,760.9,519.0,769.9, 
+28,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,25 
+29,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+29,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+29,3,0,Calibri,11.0,72.0,84.1,525.7,95.2,"implementation, approximately ten complaints have been received, mainly concerning misleading "
+29,3,1,Calibri,11.0,72.0,98.7,525.8,109.7,"advertising. Furthermore, in 2024, AGCOM adopted two important regulations concerning, "
+29,3,2,Calibri,11.0,72.0,113.1,525.7,124.1,"respectively, the procedure for awarding trusted flaggers, according to Article 22 DSA, and the "
+29,3,3,Calibri,11.0,72.0,127.6,525.8,138.6,"procedure for certifying out-of-court dispute settlement bodies, derived from Article 21 DSA. Since the "
+29,3,4,Calibri,11.0,72.0,142.1,525.7,153.1,"adoption of these regulations, AGCOM has awarded the status of trusted flaggers to several entities "
+29,3,5,Calibri,11.0,72.0,156.6,332.4,167.7,and designated one out-of-court dispute settlement body. 
+29,4,0,Calibri,11.0,72.0,179.1,105.1,190.1,"Finally, "
+29,4,0,Calibri-Bold,11.0,109.1,179.1,282.1,190.1,regarding the protection of minors
+29,4,0,Calibri,11.0,282.0,179.1,525.8,190.1,", Italy has implemented obligations for electronic "
+29,4,1,Calibri,11.0,72.0,193.6,525.8,204.6,communication service providers and device manufacturers to ensure the availability of parental 
+29,4,2,Calibri,11.0,72.0,208.1,525.7,219.1,"control applications. Service providers must offer these applications to the public, while device "
+29,4,3,Calibri,11.0,72.0,222.5,525.9,233.5,manufacturers are required to enable their pre-installed activation. Cases of attempted violations are 
+29,4,4,Calibri,11.0,72.0,237.0,437.7,248.1,"increasing, with most linked to the use of anonymisers to by-pass the restrictions. "
+29,5,0,Calibri,11.0,72.0,259.6,525.7,270.6,"In October 2024, AGCOM adopted a draft regulation outlining technical and procedural standards for "
+29,5,1,Calibri,11.0,72.0,274.0,162.2,285.0,verifying users’ age 
+29,5,1,Calibri,7.0,162.0,273.1,169.0,280.1,51
+29,5,1,Calibri,11.0,169.0,274.0,525.9,285.0,". This is currently being consulted to ensure compatibility with EU regulation, "
+29,5,2,Calibri,11.0,72.0,288.5,525.9,299.6,"particularly concerning the ‘mini-wallet’. Moreover, in the context of deploying the IT Wallet (discussed "
+29,5,3,Calibri,11.0,72.0,303.0,525.9,314.1,"under the eID section above), one of the use cases being considered is age verification. This work is "
+29,5,4,Calibri,11.0,72.0,317.6,464.6,328.6,being done in coordination with the structures/work groups established at the EU level. 
+29,6,0,Calibri,11.0,72.0,340.0,525.9,351.0,Acting on these issues is perceived as very important by Italian citizens. According to the Digital Decade 
+29,6,1,Calibri,11.0,72.0,354.5,525.9,365.6,"Eurobarometer 2025, Italian people strongly think that the action of the public authorities is urgent to "
+29,6,2,Calibri,11.0,72.0,369.0,525.8,380.1,protect children online regarding the negative impact of social media on children’s mental health (93% 
+29,6,3,Calibri,11.0,72.0,383.4,525.6,394.5,"of Italian people), cyberbullying and online harassment (93%) and to put in place age assurance "
+29,6,4,Calibri,11.0,72.0,398.0,326.7,409.0,mechanisms to restrict age-inappropriate content (95%). 
+29,6,5,Calibri-Bold,26.0,72.0,423.5,490.5,449.5,Leveraging digital transformation for a 
+29,6,6,Calibri-Bold,26.0,72.0,457.8,240.5,483.8,smart greening 
+29,7,0,Calibri-Bold,11.0,72.0,497.0,525.8,508.0,"The RRP, including its RePowerEU chapter, has driven forward numerous projects leveraging digital "
+29,7,1,Calibri-Bold,11.0,72.0,511.5,280.0,522.5,technologies to support the green transition.
+29,7,1,Calibri,11.0,280.0,511.5,525.8,522.5, These initiatives also integrate digital technologies to 
+29,7,2,Calibri,11.0,72.0,525.9,525.9,536.9,"enhance their impact, while reflecting the country’s strong industrial base – for example, by focusing "
+29,7,3,Calibri,11.0,72.0,540.4,280.1,551.5,on helping enterprises adapt to the transition. 
+29,8,0,Calibri-Bold,11.0,72.0,563.0,401.5,574.1,The Italian population recycles only a small part of its ICT equipment
+29,8,0,Calibri,11.0,401.6,563.0,525.9,574.1,". In general, Italian people "
+29,8,1,Calibri,11.0,72.0,577.4,525.9,588.5,recycled their electronic devices less than the EU average. 6.55% of Italians recycle their laptops and 
+29,8,2,Calibri,11.0,72.0,591.9,525.9,603.0,"tablets and 10.11% recycle their desktops, against an EU average of 11.31% and 14.66%, respectively. "
+29,8,3,Calibri,11.0,72.0,606.5,450.2,617.5,"10.04% recycled their mobile phones, broadly in line with the EU average of 10.93%. "
+29,9,0,Calibri,11.0,72.0,628.9,525.6,639.9,"According to the Digital Decade Eurobarometer 2025, 82% of Italian respondents think that ensuring "
+29,9,1,Calibri,11.0,72.0,643.4,525.8,654.5,that digital technologies serve the green transition should be an important action for public 
+29,9,2,Calibri,11.0,72.0,657.9,125.9,669.0,authorities. 
+29,10,0,Calibri-Bold,11.0,72.0,680.4,525.9,691.4,"In its adjustment, Italy added to the roadmap the measure ‘Transition 5.0’, a tax credit scheme "
+29,10,1,Calibri-Bold,11.0,72.0,694.9,458.2,705.9,supporting investments in digitalisation and the green transition of businesses.
+29,10,1,Calibri,11.0,458.4,694.9,525.9,705.9," In 2024, the "
+29,10,2,Calibri,11.0,72.0,709.4,525.9,720.5,"government gave impulse to the implementation of the measures, already part of the REPowerEU "
+29,11,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+29,11,1,Calibri,6.0,72.0,749.6,78.1,755.6,51
+29,11,1,Calibri,9.0,78.0,749.8,437.6,758.8, Implementing Law No 159 of 13 November 2023 (‘Decreto Caivano’). See press release at this link: 
+29,11,1,Calibri,9.0,437.6,749.8,525.4,758.8,Comunicato stampa del 
+29,11,2,Calibri,9.0,72.0,760.9,165.3,769.9,07 Ottobre 2024 | Agcom
+29,11,2,Calibri,9.0,165.4,760.9,169.6,769.9,. 
+29,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,26 
+30,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+30,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+30,3,0,Calibri,11.0,72.0,84.1,525.9,95.2,"chapter of the RRP, aiming to accelerate the productive system’s transition to an energy-efficient, "
+30,3,1,Calibri,11.0,72.0,98.7,525.9,109.7,"sustainable, and renewable-based production model. Investments under ‘Transition 5.0’ have to "
+30,3,2,Calibri,11.0,72.0,113.1,525.7,124.1,achieve at least a 3% reduction in energy consumption at the production unit level or a minimum of 
+30,3,3,Calibri,11.0,72.0,127.6,525.9,138.6,5% if calculated specifically on the affected process. Eligible investments under the scheme include: 
+30,3,4,Calibri,11.0,72.0,142.1,525.9,153.1,"technologically advanced tangible and intangible assets (including software, platforms, applications); "
+30,3,5,Calibri,11.0,72.0,156.6,525.8,167.7,"material assets for the self-production and self-consumption of renewable energy, including energy "
+30,3,6,Calibri,11.0,72.0,171.0,525.8,182.1,storage systems; and training activities aimed at acquiring or strengthening skills in technologies 
+30,3,7,Calibri,11.0,72.0,185.5,380.3,196.6,relevant to the digital and energy transition of production processes. 
+30,4,0,Calibri,11.0,72.0,208.1,525.9,219.1,"Available data shows a generally low take-up of the measure. So far, EUR 500 million have been "
+30,4,1,Calibri,11.0,72.0,222.5,275.5,233.5,assigned (out of the EUR 6.3 billion planned). 
+30,5,0,Calibri,11.0,72.0,245.1,525.9,256.1,Another noteworthy initiative is the launch of a Technical Working Group involving the Department of 
+30,5,1,Calibri,11.0,72.0,259.6,525.9,270.6,"Digital Transformation, ARERA (the Regulatory Authority for Energy, Networks, and Environment) and "
+30,5,2,Calibri,11.0,72.0,274.0,525.9,285.0,AGCOM. The aim of the Working Group is to identify synergies between the digitalisation and energy 
+30,5,3,Calibri,11.0,72.0,288.5,525.9,299.6,"transition sectors. Specifically, the objective is to facilitate the deployment of fibre optic infrastructures "
+30,5,4,Calibri,11.0,72.0,303.0,525.9,314.1,and increase technology adoption. The Working Group has concluded hearings during which the views 
+30,5,5,Calibri,11.0,72.0,317.6,525.9,328.6,"of multiple stakeholders were collected, and activities are currently underway to organise and "
+30,5,6,Calibri,11.0,72.0,332.0,241.5,343.0,summarise the information gathered. 
+30,6,0,Calibri-Bold,11.0,77.7,355.0,181.1,366.0,2024 recommendation
+30,6,0,Calibri,11.0,181.1,355.0,186.5,366.0,: 
+30,7,0,Calibri,11.0,77.7,377.4,520.2,388.5,"- Continue and intensify the efforts to join up the twin green and digital transitions, also leveraging "
+30,7,1,Calibri,11.0,77.7,392.0,344.0,403.0,advanced technologies and scaling up successful initiatives. 
+30,8,0,Calibri,11.0,77.7,414.5,520.0,425.6,"- Develop a coherent approach to twinning the digital and green transitions. First, promote "
+30,8,1,Calibri,11.0,77.7,428.9,520.3,440.0,"improvements in energy and the material efficiency of digital infrastructures, in particular data "
+30,8,2,Calibri,11.0,77.7,443.5,520.1,454.5,"centres. Second, support the development and deployment of digital solutions that reduce the "
+30,8,3,Calibri,11.0,77.7,458.0,520.2,469.0,"carbon footprint in other sectors, such as energy, transport, buildings, and agriculture, including the "
+30,8,4,Calibri,11.0,77.7,472.5,230.8,483.5,uptake of such solutions by SMEs. 
+30,9,0,Calibri,11.0,77.7,494.9,520.3,506.0,- Monitor and quantify the emission reductions of the digital solutions deployed in line with the 
+30,9,1,Calibri,11.0,77.7,509.5,520.0,520.5,relevant EU guidance and with the support of the methodology developed by the European Green 
+30,9,2,Calibri,11.0,77.7,523.9,517.5,534.9,"Digital Coalition, with a view to future policy development, as well as attracting relevant financing. "
+30,10,0,Calibri-Bold,11.0,77.7,546.9,433.8,557.9,No information available on measures taken to address the recommendation. 
+30,11,0,Calibri,11.0,72.0,584.3,74.5,595.3, 
+30,11,1,Calibri,26.0,216.1,573.0,221.9,599.0, 
+30,12,0,Calibri,11.0,292.1,795.2,305.8,806.3,27 
+31,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+31,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+31,2,0,Calibri-Bold,26.0,72.0,87.2,470.6,113.2,Annex I – National roadmap analysis 
+31,4,0,Calibri-Bold,11.0,77.7,126.9,517.8,137.9,The adjusted roadmap addresses a substantial number of roadmap recommendations issued in 
+31,4,1,Calibri-Bold,11.0,77.7,141.4,105.4,152.4,2024. 
+31,5,0,Calibri,11.0,77.7,158.9,517.8,169.9,"Italy revised the trajectories and the list of measures that contribute to their achievement, while "
+31,5,1,Calibri,11.0,77.7,173.3,517.7,184.3,submitting an explanation of the revisions made and of the reactions to the 2024 
+31,5,2,Calibri,11.0,77.7,187.8,365.9,198.9,recommendations. The Italian roadmap has not been published. 
+31,5,3,Calibri,11.0,77.7,202.3,150.8,213.4,The adjustment 
+31,5,3,Calibri-Bold,11.0,151.5,202.3,348.6,213.4,adapted some of the 2030 national targets
+31,5,3,Calibri,11.0,348.7,202.3,517.9,213.4, to respond to the recommendations 
+31,5,4,Calibri,11.0,77.7,216.9,517.7,227.9,"issued in 2024. In particular, the 2030 targets on basic digital skills and ICT specialists were "
+31,5,5,Calibri,11.0,77.7,231.3,517.9,242.3,"increased, respectively, to 80.1% and 8.4%, and some of the measures in place were extended and "
+31,5,6,Calibri,11.0,77.7,245.8,517.8,256.8,"reinforced. On the other hand, the adjustment did not revise the targets for the uptake of AI and "
+31,5,7,Calibri,11.0,77.7,260.3,517.8,271.4,"data analytics. However, it should be noted that those targets, although remaining below the EU "
+31,5,8,Calibri,11.0,77.7,274.9,517.7,285.9,"ones, are set at ambitious levels, i.e. 60% by 2030 (the EU targets are 75%). Overall, the Italian "
+31,5,9,Calibri,11.0,77.7,289.2,384.9,300.3,roadmap covers all targets and provides related trajectories to 2030. 
+31,5,10,Calibri,11.0,77.7,303.8,198.3,314.8,"As part of the adjustment, "
+31,5,10,Calibri-Bold,11.0,198.5,303.8,512.5,314.8,Italy revised several existing measures and introduced five new ones
+31,5,10,Calibri,11.0,512.8,303.8,518.0,314.8,. 
+31,5,11,Calibri,11.0,77.7,318.3,517.8,329.3,"Among the new measures, three focus on enhancing basic digital skills, reinforcing efforts to "
+31,5,12,Calibri,11.0,77.7,332.8,432.7,343.9,promote digital competence across all population groups and target audiences. 
+31,5,13,Calibri,11.0,77.7,347.3,80.2,358.4, 
+31,6,0,Calibri-Bold,11.0,195.1,361.7,389.0,372.8,Measures and budget in national roadmap
+31,6,0,Calibri,11.0,389.0,361.7,391.2,372.8, 
+31,6,0,Calibri,7.0,391.1,360.8,398.2,367.8,52
+31,6,0,Calibri-Bold,11.0,398.1,361.7,400.6,372.8, 
+31,7,0,Calibri,11.0,510.1,570.3,512.6,581.4, 
+31,7,1,Calibri,11.0,77.7,584.9,80.2,595.9, 
+31,8,0,Calibri,11.0,77.7,602.3,517.9,613.3,The adjustment also incorporates two major national policy initiatives into the roadmap for 
+31,8,1,Calibri,11.0,77.7,616.8,517.7,627.8,business digitalisation: transition 4.0 (on the uptake of 4.0 technologies) and transition 5.0 (which 
+31,8,2,Calibri,11.0,77.7,631.3,453.1,642.3,supports investments in technologies for the green transition of Italian enterprises). 
+31,8,3,Calibri,11.0,77.7,645.8,518.0,656.9,"Finally, it adds the measure for the development of the IT Wallet to the roadmap, supporting the "
+31,8,4,Calibri,11.0,77.7,660.2,200.9,671.3,roll-out of the EUDI Wallet. 
+31,8,5,Calibri,11.0,77.7,674.7,517.8,685.8,"Additionally, the addendum offers further details on implementation and outlines several new "
+31,8,6,Calibri,11.0,77.7,689.3,517.8,700.3,"initiatives. However, these are not formally included in the repository of measures (e.g. policies to "
+31,9,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+31,10,0,Calibri,6.0,72.0,727.6,78.1,733.6,52
+31,10,0,Calibri,9.0,78.0,727.9,525.3,736.9," When referring to national roadmaps, data used in this report is that declared by the Member States in their national "
+31,10,1,Calibri,9.0,72.0,738.9,525.3,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+31,10,2,Calibri,9.0,72.0,749.8,525.0,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+31,10,3,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+31,11,0,Calibri,11.0,292.1,795.2,305.8,806.3,28 
+32,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+32,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+32,3,0,Calibri,11.0,77.7,84.6,517.8,95.7,support unicorns). Some of these initiatives are still under development (e.g. the quantum 
+32,3,1,Calibri,11.0,77.7,99.1,122.2,110.2,strategy). 
+32,3,2,Calibri,11.0,77.7,113.7,476.4,124.7,"As part of the adjustment, Italy also extensively revised the set of measures to ensure the "
+32,3,2,Calibri-Bold,11.0,476.3,113.7,518.0,124.7,accuracy 
+32,3,3,Calibri-Bold,11.0,77.7,128.1,276.2,139.1,of the information reported and the budget
+32,3,3,Calibri,11.0,276.3,128.1,461.8,139.1, (in line with the 2024 recommendation). 
+32,3,4,Calibri,11.0,77.7,142.6,517.7,153.6,Measures included in the roadmap were also linked to the relevant parts of the declaration on 
+32,3,5,Calibri-Bold,11.0,77.7,157.1,200.8,168.1,digital rights and principles
+32,3,5,Calibri,11.0,200.9,157.1,390.9,168.1, and the digital decade general objectives. 
+32,3,6,Calibri,11.0,77.7,171.6,197.4,182.7,Several stakeholders were 
+32,3,6,Calibri-Bold,11.0,197.9,171.6,242.5,182.7,consulted
+32,3,6,Calibri,11.0,242.4,171.6,517.9,182.7," for the adjustment of the roadmaps, including Italian public "
+32,3,7,Calibri,11.0,77.7,186.0,517.7,197.1,"administrations in charge of the different areas of action, members of the Italian Digital Skills and "
+32,3,8,Calibri,11.0,77.7,200.5,201.7,211.6,"Jobs Coalition, and regions. "
+32,3,9,Calibri,11.0,77.7,215.1,132.2,226.1,"Overall, the "
+32,3,9,Calibri-Bold,11.0,132.4,215.1,517.8,226.1,"roadmap reflects a solid effort. It remains highly ambitious, both in terms of targets "
+32,3,10,Calibri-Bold,11.0,77.7,229.6,414.4,240.6,"set, financial resources mobilised and the scope of measures introduced"
+32,3,10,Calibri,11.0,414.5,229.6,517.9,240.6,. The inclusion of new 
+32,3,11,Calibri,11.0,77.7,244.0,517.8,255.0,initiatives and the strengthening of existing ones demonstrate commitment to accelerating 
+32,3,12,Calibri,11.0,77.7,258.5,517.7,269.6,"progress towards the targets. At the same time, there is room to further consolidate the roadmap "
+32,3,13,Calibri,11.0,77.7,273.0,518.0,284.1,initiatives in certain areas – such as artificial intelligence and support for unicorns – to enhance 
+32,3,14,Calibri,11.0,77.7,287.6,222.7,298.6,coherence and strategic impact. 
+32,3,15,Calibri-Bold,26.0,72.0,305.6,77.9,331.6, 
+32,3,16,Calibri-Bold,26.0,216.1,305.6,221.9,331.6, 
+32,4,0,Calibri,11.0,292.1,795.2,305.8,806.3,29 
+33,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+33,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+33,3,0,Calibri-Bold,26.0,72.0,87.2,481.5,113.2,Annex II – Factsheet on multi-country 
+33,3,1,Calibri-Bold,26.0,72.0,121.4,382.6,147.4,projects (MCPs) and funding 
+33,4,0,Calibri-Light,11.0,77.7,163.2,261.6,174.3,Multi-country projects and best practices 
+33,4,1,Calibri,11.0,77.7,177.6,535.5,188.7,Italy is a member of the three established European Digital Infrastructure Consortia (EDICs): the Alliance 
+33,4,2,Calibri,11.0,77.7,192.1,535.5,203.2,"for Language Technologies EDIC, the Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM "
+33,4,3,Calibri,11.0,77.7,206.7,535.4,217.7,EDIC. Italy is also working towards setting up EDICs in the area of agri-food and mobility and logistics. 
+33,4,4,Calibri,11.0,77.7,221.1,533.2,232.1,Italy is directly participating in the IPCEI on Microelectronics and Communication Technologies (IPCEI-
+33,4,5,Calibri,11.0,77.7,235.6,535.5,246.6,ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Italy is also a 
+33,4,6,Calibri,11.0,77.7,250.1,423.3,261.2,participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+33,5,0,Calibri,11.0,77.7,267.6,311.3,278.7,Italy has contributed to the Best Practice Accelerator 
+33,5,0,Calibri,7.0,311.2,266.7,318.2,273.7,53
+33,5,0,Calibri,11.0,318.2,267.6,535.5,278.7, by sharing three best practices in the framework 
+33,5,1,Calibri,11.0,77.7,282.0,535.4,293.1,"of the Digital Skills cluster (network of digital facilitation services, the digital civic service and fund for "
+33,5,2,Calibri-Italic,11.0,77.7,296.6,163.6,307.6,Repubblica Digitale
+33,5,2,Calibri,11.0,163.6,296.6,172.1,307.6,). 
+33,6,0,Calibri,11.0,72.0,314.6,74.5,325.6, 
+33,7,0,Calibri-Light,11.0,77.7,339.6,240.6,350.7,EU funding for digital policies in Italy 
+33,7,1,Calibri,11.0,77.7,354.0,468.2,365.1,Italy allocates 26% of its total recovery and resilience plan to digital (EUR 46.8 billion)
+33,7,1,Calibri,7.0,468.2,353.1,475.2,360.1,54
+33,7,1,Calibri,11.0,475.2,354.0,535.5,365.1,". In addition, "
+33,7,2,Calibri,11.0,77.7,368.6,535.4,379.6,"under cohesion policy, EUR 4.9 billion (representing 11% of the country’s total cohesion policy funding), "
+33,7,3,Calibri,11.0,77.7,383.1,318.9,394.1,is dedicated to advancing Italy’s digital transformation
+33,7,3,Calibri,7.0,318.9,382.2,325.9,389.1,55
+33,7,3,Calibri,11.0,325.9,383.1,535.5,394.1,". According to JRC estimates, EUR 45.04 billion "
+33,7,4,Calibri,11.0,77.7,397.5,535.5,408.5,directly contribute to achieving Digital Decade targets (of which EUR 41.88 billion comes from the RRF 
+33,7,5,Calibri,11.0,77.7,412.0,302.8,423.1,and EUR 3.16 billion from cohesion policy funding)
+33,7,5,Calibri,7.0,302.7,411.1,309.7,418.1,56
+33,7,5,Calibri,11.0,309.7,412.0,315.0,423.1,. 
+33,8,0,Calibri,11.0,77.7,434.5,535.2,445.5,The RRF and Cohesion funding provide balanced support across the different Digital Decade targets. 
+33,8,1,Calibri,11.0,77.7,449.0,535.3,460.0,"Notably, the Italian RRP makes a significant contribution to the targets related to the digitalisation of "
+33,8,2,Calibri,11.0,77.7,463.5,535.4,474.5,"businesses, thanks to the large ‘Transition 4.0’ measure. The plan also includes important reforms and "
+33,8,3,Calibri,11.0,77.7,478.0,535.3,489.1,"investments aimed at transforming the public administration, such as the deployment and uptake of "
+33,8,4,Calibri,11.0,77.7,492.4,535.5,503.5,"Electronic Health Records and e-ID. Furthermore, the RRP addresses digital skills development through "
+33,8,5,Calibri,11.0,77.7,506.9,535.3,518.0,"measures focused on improving basic digital skills, increasing training on advanced digital skills, and "
+33,8,6,Calibri,11.0,77.7,521.5,251.2,532.5,upskilling and reskilling the workforce. 
+33,9,0,Calibri,11.0,72.0,544.5,74.5,555.5, 
+33,10,0,Calibri,11.0,72.0,567.0,74.5,578.0, 
+33,10,1,Calibri,11.0,216.1,567.0,218.5,578.0, 
+33,11,0,Calibri,11.0,216.1,626.9,218.5,637.9, 
+33,12,0,Calibri,6.0,72.0,639.8,78.1,645.8,53
+33,12,0,Calibri,9.0,78.0,640.0,525.1,649.0, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+33,12,1,Calibri,9.0,72.0,650.9,525.4,659.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are available to all Member 
+33,12,2,Calibri,9.0,72.0,662.0,525.5,671.0,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+33,12,3,Calibri,9.0,72.0,672.9,250.7,681.9,"Green IT, and the Uptake of Digital Technologies. "
+33,12,4,Calibri,6.0,72.0,683.7,78.1,689.7,54
+33,12,4,Calibri,9.0,78.0,683.9,525.2,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+33,12,5,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+33,12,6,Calibri,6.0,72.0,705.6,78.1,711.6,55
+33,12,6,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+33,12,7,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+33,12,8,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+33,12,9,Calibri,6.0,72.0,738.7,78.1,744.7,56
+33,12,9,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+33,12,10,Calibri,9.0,72.0,749.8,525.4,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+33,12,11,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+33,13,0,Calibri,11.0,292.1,795.2,305.8,806.3,30 
+34,0,0,Calibri,20.0,93.0,24.9,132.2,45.0,Italy 
+34,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+34,2,0,Calibri-Bold,26.0,72.0,87.2,490.4,113.2,Annex III – Digital Rights and Principles
+34,2,0,Calibri,17.0,490.5,84.9,507.8,102.0,57
+34,2,0,Calibri,26.0,507.8,87.2,513.7,113.2, 
+34,6,0,Calibri,11.0,258.0,329.2,278.0,340.2,        
+34,6,1,Calibri,11.0,467.1,329.2,469.6,340.2, 
+34,6,1,Calibri-Bold,11.0,469.7,329.2,472.2,340.2, 
+34,7,0,Calibri-Bold,11.0,72.0,352.6,252.4,363.6,Activity on Digital Rights and Principles 
+34,7,0,Calibri,11.0,252.5,352.6,293.2,363.6,(figure 1)
+34,7,0,Calibri-Bold,11.0,293.2,352.6,298.1,363.6,  
+34,8,0,Calibri,11.0,72.0,375.2,525.8,386.2,"Italy has been one of the most active Member States in implementing digital rights and principles, with "
+34,8,1,Calibri,11.0,72.0,389.6,525.9,400.6,"over 100 initiatives overall and 12 new initiatives launched in 2024, showing notable progress towards "
+34,8,2,Calibri,11.0,72.0,404.1,525.5,415.1,"its commitments. Italy is most active in the area of Digital education, training and skills (II). There is "
+34,8,3,Calibri,11.0,72.0,418.6,525.8,429.7,"room for improvement, especially with regards to Protection and empowerment of children and young "
+34,8,4,Calibri,11.0,72.0,433.1,414.2,444.2,people in the digital environment (V) where less activity has been identified. 
+34,9,0,Calibri-Bold,11.0,72.0,455.6,227.8,466.6,Impact of Digital Rights Initiatives 
+34,9,0,Calibri,11.0,227.9,455.6,271.0,466.6,(figure 2) 
+34,10,0,Calibri,11.0,72.0,478.0,525.9,489.1,"Quantitative impact indicators, developed by the support study, illustrate the level of implementation "
+34,10,1,Calibri,11.0,72.0,492.5,525.8,503.6,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+34,10,2,Calibri,11.0,72.0,507.1,525.6,518.1,measures implemented by key stakeholders in Italy (mainly national government) and how these are 
+34,10,3,Calibri,11.0,72.0,521.6,169.7,532.6,perceived by citizens. 
+34,11,0,Calibri,11.0,72.0,544.0,525.7,555.1,The indicators suggest that Italy is most successful in implementing commitments related to Putting 
+34,11,1,Calibri,11.0,72.0,558.6,525.8,569.6,people at the centre of the digital transformation (I). Italy should review and strengthen efforts in areas 
+34,11,2,Calibri,11.0,72.0,573.1,525.6,584.1,"where the impact of digital rights initiatives appears to be limited despite relative activity, notably on "
+34,11,3,Calibri,11.0,72.0,587.5,248.2,598.5,"Safety, security and empowerment (V). "
+34,12,0,Calibri,11.0,72.0,610.1,525.8,621.1,"According to the Special Eurobarometer 'Digital Decade 2025’, 48% of citizens in Italy think that the EU "
+34,12,1,Calibri,11.0,72.0,624.6,525.6,635.6,protects their digital rights well (a 1% decrease since 2024). This is above the EU average of 44%. 
+34,12,2,Calibri,11.0,72.0,639.0,525.9,650.0,Citizens are particularly confident about getting digital products and services that minimise damage to 
+34,12,3,Calibri,11.0,72.0,653.5,525.6,664.5,"the environment and society (64%, above the EU average of 50%). They are most worried that their "
+34,12,4,Calibri,11.0,72.0,668.0,525.6,679.1,right to a safe digital environment and content for children and young people is not well protected 
+34,12,5,Calibri,11.0,72.0,682.5,238.5,693.6,"(44%, below the EU average of 48%). "
+34,13,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+34,13,1,Calibri,6.0,72.0,749.6,78.1,755.6,57
+34,13,1,Calibri,9.0,78.0,749.8,525.3,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+34,13,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+34,13,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+34,13,2,Calibri,9.0,122.8,760.9,376.9,769.9,". For a more detailed country factsheet accompanying the study, click "
+34,13,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+34,13,2,Calibri,9.0,393.7,760.9,395.9,769.9,.
+34,13,2,Calibri-Italic,9.0,396.1,760.9,398.1,769.9, 
+34,14,0,Calibri,11.0,292.1,795.2,305.8,806.3,31 

@@ -1,0 +1,1652 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 22/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,TimesNewRomanPSMT,12.0,70.8,49.3,73.8,62.6, 
+2,1,0,Calibri,11.0,70.8,70.8,73.3,81.9, 
+2,2,0,Calibri,11.0,70.8,93.4,73.3,104.4, 
+2,3,0,Calibri-Bold,40.0,134.4,273.1,501.3,313.0,DIGITAL DECADE 2025
+2,3,0,Calibri,40.0,501.6,273.1,510.6,313.0, 
+2,3,1,Calibri,40.0,134.4,321.9,460.6,361.9,COUNTRY REPORTS 
+2,4,0,Calibri-Bold,28.0,202.4,403.4,306.4,431.4,Portugal 
+2,5,0,Calibri,11.0,70.8,795.2,73.3,806.3, 
+3,0,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,1,Calibri,11.0,72.0,51.0,74.5,62.0, 
+3,2,0,Calibri,11.0,72.0,91.6,74.5,102.6, 
+3,4,0,Calibri-Light,16.0,72.0,119.2,133.8,135.2,Contents 
+3,4,1,Calibri,11.0,72.0,139.1,523.0,150.1,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,138.4,525.7,150.4, 
+3,5,0,Calibri,11.0,72.0,158.7,523.0,169.7,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,157.9,525.7,169.9, 
+3,6,0,Calibri,11.0,83.1,178.1,523.0,189.1,Building technological leadership: digital infrastructure and technologies ........................................ 5
+3,6,0,Calibri,12.0,523.0,177.4,525.7,189.4, 
+3,7,0,Calibri,11.0,94.0,197.7,523.0,208.7,Connectivity infrastructure ............................................................................................................. 6
+3,7,0,Calibri,12.0,523.0,196.9,525.7,208.9, 
+3,8,0,Calibri,11.0,94.0,217.1,523.0,228.1,Semiconductors ............................................................................................................................... 8
+3,8,0,Calibri,12.0,523.0,216.4,525.7,228.4, 
+3,9,0,Calibri,11.0,94.0,236.7,523.0,247.7,Edge nodes ...................................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,236.0,525.7,248.0, 
+3,10,0,Calibri,11.0,94.0,256.1,523.0,267.2,Quantum technologies .................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,255.4,525.7,267.4, 
+3,11,0,Calibri,11.0,83.1,275.6,523.0,286.6,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,11,0,Calibri,12.0,523.0,274.8,525.7,286.8, 
+3,12,0,Calibri,11.0,94.0,295.1,523.0,306.2,SMEs with at least basic digital intensity ........................................................................................ 9
+3,12,0,Calibri,12.0,523.0,294.4,525.7,306.4, 
+3,13,0,Calibri,11.0,94.0,314.6,523.0,325.6,Take-up of cloud/AI/data analytics ............................................................................................... 10
+3,13,0,Calibri,12.0,523.0,313.8,525.7,325.8, 
+3,14,0,Calibri,11.0,94.0,334.1,523.0,345.2,"Unicorns, scale-ups and start-ups ................................................................................................. 12"
+3,14,0,Calibri,12.0,523.0,333.4,525.7,345.4, 
+3,15,0,Calibri,11.0,83.1,353.6,523.0,364.6,Strengthening Cybersecurity & Resilience ........................................................................................ 13
+3,15,0,Calibri,12.0,523.0,352.8,525.7,364.8, 
+3,16,0,Calibri,11.0,72.0,373.0,523.0,384.0,Protecting and empowering EU people and society ............................................................................. 15
+3,16,0,Calibri,12.0,523.0,372.3,525.7,384.3, 
+3,17,0,Calibri,11.0,83.1,392.6,523.0,403.6,Empowering people and bringing the digital transformation closer to their needs ........................ 15
+3,17,0,Calibri,12.0,523.0,391.8,525.7,403.8, 
+3,18,0,Calibri-Bold,28.0,190.0,395.0,294.0,423.0,Portugal 
+3,19,0,Calibri,11.0,94.0,412.0,523.0,423.1,Equipping people with digital skills ............................................................................................... 15
+3,19,0,Calibri,12.0,523.0,411.3,525.7,423.3, 
+3,20,0,Calibri,11.0,94.0,431.6,523.0,442.6,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 18"
+3,20,0,Calibri,12.0,523.0,430.9,525.7,442.9, 
+3,21,0,Calibri,11.0,83.1,451.0,523.0,462.1,Building a safe and human centric digital environment and preserving our democracy ................. 20
+3,21,0,Calibri,12.0,523.0,450.3,525.7,462.3, 
+3,22,0,Calibri,11.0,72.0,470.6,523.0,481.6,Leveraging digital transformation for a smart greening ....................................................................... 22
+3,22,0,Calibri,12.0,523.0,469.9,525.7,481.9, 
+3,23,0,Calibri,11.0,72.0,490.0,523.0,501.1,Annex I – National roadmap analysis .................................................................................................... 24
+3,23,0,Calibri,12.0,523.0,489.3,525.7,501.3, 
+3,24,0,Calibri,11.0,72.0,509.5,523.0,520.5,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 26
+3,24,0,Calibri,12.0,523.0,508.8,525.7,520.8, 
+3,25,0,Calibri,11.0,72.0,529.0,523.0,540.1,Annex III – Digital rights and principles ................................................................................................. 27
+3,25,0,Calibri,12.0,523.0,528.3,525.7,540.3, 
+3,26,0,Calibri,11.0,72.0,548.5,74.5,559.5, 
+3,27,0,Calibri,11.0,72.0,571.1,74.5,582.1, 
+3,27,1,Calibri,11.0,216.1,571.1,218.5,582.1, 
+3,28,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+4,2,0,Calibri-Bold,26.0,72.0,90.6,287.2,116.7,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,129.9,525.9,140.9,Portugal records stable growth in digital public services and performs particularly well on access to 
+4,4,1,Calibri-Bold,11.0,72.0,144.4,525.7,155.4,e-health records. It faces challenges with artificial intelligence (AI) adoption by enterprises and their 
+4,4,2,Calibri-Bold,11.0,72.0,158.8,497.4,169.8,capacity to innovate as well as basic digital skills but can rely on solid connectivity networks.  
+4,5,0,Calibri-Bold,11.0,72.0,181.3,525.8,192.4,Portugal shows a high level of ambition in its contribution to the Digital Decade having set 12 
+4,5,1,Calibri-Bold,11.0,72.0,195.7,525.5,206.8,"national targets, 92% of which aligned with the EU 2030 targets. The country is following its "
+4,5,2,Calibri-Bold,11.0,72.0,210.3,525.6,221.3,trajectories very well with 100% of them being on track (considering 2024 trajectories defined for 7 
+4,5,3,Calibri-Bold,11.0,72.0,224.8,525.8,235.8,KPIs out of 8 analysed). Portugal addressed 77% of the 13 recommendations issued by the 
+4,5,4,Calibri-Bold,11.0,72.0,239.3,392.6,250.4,Commission in 2024 by making some changes through new measures. 
+4,6,0,Calibri,11.0,72.0,261.8,525.6,272.8,"In 2024 Portugal noted progress in all measured indicators, with its digital networks almost covering "
+4,6,1,Calibri,11.0,72.0,276.3,167.0,287.3,the full territory. The 
+4,6,1,Calibri,11.0,166.9,276.3,274.4,287.3,National Digital Strategy
+4,6,1,Calibri,11.0,274.5,276.3,525.8,287.3, adopted in December 2024 announced ambitious plans 
+4,6,2,Calibri,11.0,72.0,290.8,525.7,301.8,"regarding AI, data sharing, sovereign cloud and simplification through digital tools. However, while at "
+4,6,3,Calibri,11.0,72.0,305.2,525.9,316.2,"least basic digital intensity of SMEs is slightly above the EU average, AI adoption by enterprises remains "
+4,6,4,Calibri,11.0,72.0,319.7,525.9,330.8,"weak, and the scale-up support for start-ups is limited. On the other hand, the growing availability and "
+4,6,5,Calibri,11.0,72.0,334.2,525.9,345.3,"use of digital public services for citizens and businesses, as well as the significant improvement in "
+4,6,6,Calibri,11.0,72.0,348.8,525.9,359.8,access to e-health records create a blueprint to build on. While basic digital skills remain unevenly 
+4,6,7,Calibri,11.0,72.0,363.2,525.6,374.2,"distributed across society, more people acquired advanced digital skills, including in areas such as "
+4,6,8,Calibri,11.0,72.0,377.7,525.8,388.7,cybersecurity. Portugal is also involved in EU-wide cooperation in semiconductors and quantum 
+4,6,9,Calibri,11.0,72.0,392.2,134.2,403.2,technologies. 
+4,7,0,Calibri-Bold,7.0,297.9,421.4,324.0,428.4,Portugal 
+4,7,1,Calibri-Bold,7.0,417.0,421.4,426.6,428.4,EU 
+4,7,2,Calibri-Bold,7.0,470.5,417.1,513.8,424.1,Digital Decade 
+4,7,3,Calibri-Bold,7.0,470.5,425.6,515.4,432.6,target by 2030  
+4,8,0,Calibri,7.0,77.7,430.2,80.8,437.2,  
+4,9,0,Calibri,14.0,97.1,440.1,203.1,454.2,Digital Decade KPI 
+4,9,0,Calibri,9.0,203.1,438.9,213.1,447.9,(1)
+4,9,0,Calibri,7.0,213.2,445.4,214.7,452.4, 
+4,10,0,Calibri-Bold,7.0,348.3,441.7,374.6,448.7,National 
+4,10,1,Calibri-Bold,7.0,346.5,450.2,376.4,457.2,trajectory 
+4,11,0,Calibri-Bold,7.0,309.9,445.9,332.1,452.9,Annual 
+4,11,1,Calibri-Bold,7.0,307.9,454.6,334.2,461.5,progress 
+4,12,0,Calibri-Bold,7.0,348.8,458.8,374.0,465.7,2024 (3) 
+4,12,1,Calibri-Bold,7.0,387.9,450.2,418.2,457.2,DESI 2025 
+4,12,2,Calibri-Bold,7.0,430.7,445.9,452.9,452.9,Annual 
+4,12,3,Calibri-Bold,7.0,428.6,454.6,454.9,461.5,progress 
+4,12,4,Calibri-Bold,7.0,472.8,450.2,481.6,457.2,PT 
+4,12,5,Calibri-Bold,7.0,504.1,450.2,513.7,457.2,EU 
+4,13,0,Calibri-Bold,7.0,247.5,437.4,261.9,444.4,DESI 
+4,13,1,Calibri-Bold,7.0,246.9,445.9,262.5,452.9,2024 
+4,13,2,Calibri-Bold,7.0,246.5,454.6,263.0,461.5,(year 
+4,13,3,Calibri-Bold,7.0,245.8,463.1,263.7,470.0,2023) 
+4,14,0,Calibri-Bold,7.0,279.2,437.4,293.6,444.4,DESI 
+4,14,1,Calibri-Bold,7.0,278.6,445.9,294.2,452.9,2025 
+4,14,2,Calibri-Bold,7.0,278.2,454.6,294.6,461.5,(year 
+4,14,3,Calibri-Bold,7.0,277.5,463.1,295.4,470.0,2024) 
+4,15,0,Calibri-Bold,7.0,77.7,475.3,227.6,482.3,Fixed Very High Capacity Network (VHCN) coverage 
+4,15,1,Calibri,7.0,245.2,475.3,264.2,482.3,94.2% 
+4,15,2,Calibri,7.0,276.9,475.3,295.9,482.3,94.6% 
+4,15,3,Calibri,7.0,313.3,475.3,328.8,482.3,0.4% 
+4,15,4,Calibri,7.0,351.2,475.3,373.4,482.3, 94.2%  
+4,15,5,Calibri,7.0,393.5,475.3,412.6,482.3,82.5% 
+4,15,6,Calibri,7.0,434.0,475.3,449.5,482.3,4.9% 
+4,15,7,Calibri,7.0,465.8,475.3,488.4,482.3,100.0% 
+4,15,8,Calibri,7.0,500.4,475.3,517.6,482.3,100% 
+4,16,0,Calibri-Bold,7.0,77.7,490.8,188.1,497.8,Fibre to the Premises (FTTP) coverage 
+4,16,1,Calibri,7.0,245.2,490.8,264.2,497.8,92.3% 
+4,16,2,Calibri,7.0,276.9,490.8,295.9,497.8,93.2% 
+4,16,3,Calibri,7.0,313.3,490.8,328.8,497.8,0.9% 
+4,16,4,Calibri,7.0,351.2,490.8,373.4,497.8, 92.3%  
+4,16,5,Calibri,7.0,393.5,490.8,412.6,497.8,69.2% 
+4,16,6,Calibri,7.0,434.0,490.8,449.5,497.8,8.4% 
+4,16,7,Calibri,7.0,465.8,490.8,488.4,497.8,100.0% 
+4,16,8,Calibri,7.0,507.1,490.8,510.8,497.8,- 
+4,17,0,Calibri-Bold,7.0,77.7,506.3,137.1,513.2,Overall 5G coverage 
+4,17,1,Calibri,7.0,245.2,506.3,264.2,513.2,98.1% 
+4,17,2,Calibri,7.0,276.9,506.3,295.9,513.2,98.7% 
+4,17,3,Calibri,7.0,313.3,506.3,328.8,513.2,0.6% 
+4,17,4,Calibri,7.0,351.2,506.3,373.4,513.2, 98.1%  
+4,17,5,Calibri,7.0,393.5,506.3,412.6,513.2,94.3% 
+4,17,6,Calibri,7.0,434.0,506.3,449.5,513.2,5.9% 
+4,17,7,Calibri,7.0,465.8,506.3,488.4,513.2,100.0% 
+4,17,8,Calibri,7.0,500.4,506.3,517.6,513.2,100% 
+4,18,0,Calibri-Bold,7.0,77.7,521.9,144.4,528.8,Edge Nodes (estimate) 
+4,18,1,Calibri,7.0,250.4,521.9,259.0,528.8,14 
+4,18,2,Calibri,7.0,282.0,521.9,290.7,528.8,27 
+4,18,3,Calibri,7.0,311.5,521.9,330.4,528.8,92.9% 
+4,18,4,Calibri,7.0,358.8,521.9,365.6,528.8, -  
+4,18,5,Calibri,7.0,395.1,521.9,410.9,528.8,2257 
+4,18,6,Calibri,7.0,432.2,521.9,451.2,528.8,90.5% 
+4,18,7,Calibri,7.0,475.3,521.9,479.0,528.8,- 
+4,18,8,Calibri,7.0,499.3,521.9,518.7,528.8,10000 
+4,19,0,Calibri-Bold,7.0,77.7,537.4,232.6,544.3,SMEs with at least a basic level of digital intensity (2) 
+4,19,1,Calibri,7.0,252.9,537.4,256.6,544.3,- 
+4,19,2,Calibri,7.0,276.9,537.4,295.9,544.3,74.3% 
+4,19,3,Calibri,7.0,313.3,537.4,328.8,544.3,2.7% 
+4,19,4,Calibri,7.0,358.8,537.4,365.6,544.3, -  
+4,19,5,Calibri,7.0,393.5,537.4,412.6,544.3,72.9% 
+4,19,6,Calibri,7.0,434.0,537.4,449.5,544.3,2.8% 
+4,19,7,Calibri,7.0,467.6,537.4,486.6,544.3,90.0% 
+4,19,8,Calibri,7.0,502.1,537.4,515.8,544.3,90% 
+4,20,0,Calibri-Bold,7.0,77.7,552.8,95.9,559.8,Cloud 
+4,20,1,Calibri,7.0,245.2,552.8,264.2,559.8,32.3% 
+4,20,2,Calibri,7.0,284.6,552.8,288.3,559.8,- 
+4,20,3,Calibri,7.0,319.1,552.8,322.9,559.8,- 
+4,20,4,Calibri,7.0,358.8,552.8,365.6,559.8, -  
+4,20,5,Calibri,7.0,401.1,552.8,404.9,559.8,- 
+4,20,6,Calibri,7.0,439.9,552.8,443.6,559.8,- 
+4,20,7,Calibri,7.0,467.6,552.8,486.6,559.8,75.0% 
+4,20,8,Calibri,7.0,502.1,552.8,515.8,559.8,75% 
+4,21,0,Calibri-Bold,7.0,77.7,568.4,138.9,575.3,Artificial Intelligence 
+4,21,1,Calibri,7.0,247.0,568.4,262.5,575.3,7.9% 
+4,21,2,Calibri,7.0,278.7,568.4,294.2,575.3,8.6% 
+4,21,3,Calibri,7.0,313.3,568.4,328.8,575.3,9.8% 
+4,21,4,Calibri,7.0,358.8,568.4,365.6,575.3, -  
+4,21,5,Calibri,7.0,393.5,568.4,412.6,575.3,13.5% 
+4,21,6,Calibri,7.0,432.2,568.4,451.2,575.3,67.2% 
+4,21,7,Calibri,7.0,467.6,568.4,486.6,575.3,75.0% 
+4,21,8,Calibri,7.0,502.1,568.4,515.8,575.3,75% 
+4,22,0,Calibri-Bold,7.0,77.7,583.8,120.0,590.8,Data analytics 
+4,22,1,Calibri,7.0,245.2,583.8,264.2,590.8,38.6% 
+4,22,2,Calibri,7.0,284.6,583.8,288.3,590.8,- 
+4,22,3,Calibri,7.0,319.1,583.8,322.9,590.8,- 
+4,22,4,Calibri,7.0,358.8,583.8,365.6,590.8, -  
+4,22,5,Calibri,7.0,401.1,583.8,404.9,590.8,- 
+4,22,6,Calibri,7.0,439.9,583.8,443.6,590.8,- 
+4,22,7,Calibri,7.0,475.3,583.8,479.0,590.8,- 
+4,22,8,Calibri,7.0,502.1,583.8,515.8,590.8,75% 
+4,23,0,Calibri-Bold,7.0,77.7,599.3,161.7,606.3,AI or Cloud or Data analytics 
+4,23,1,Calibri,7.0,245.2,599.3,264.2,606.3,54.4% 
+4,23,2,Calibri,7.0,284.6,599.3,288.3,606.3,- 
+4,23,3,Calibri,7.0,319.1,599.3,322.9,606.3,- 
+4,23,4,Calibri,7.0,358.8,599.3,365.6,606.3, -  
+4,23,5,Calibri,7.0,401.1,599.3,404.9,606.3,- 
+4,23,6,Calibri,7.0,439.9,599.3,443.6,606.3,- 
+4,23,7,Calibri,7.0,475.3,599.3,479.0,606.3,- 
+4,23,8,Calibri,7.0,502.1,599.3,515.8,606.3,75% 
+4,24,0,Calibri-Bold,7.0,77.7,614.9,105.0,621.9,Unicorns 
+4,24,1,Calibri,7.0,252.2,614.9,257.3,621.9,1 
+4,24,2,Calibri,7.0,283.9,614.9,289.0,621.9,1 
+4,24,3,Calibri,7.0,313.3,614.9,328.8,621.9,0.0% 
+4,24,4,Calibri,7.0,358.8,614.9,365.6,621.9, -  
+4,24,5,Calibri,7.0,396.9,614.9,409.2,621.9,286 
+4,24,6,Calibri,7.0,434.0,614.9,449.5,621.9,4.4% 
+4,24,7,Calibri,7.0,474.6,614.9,479.8,621.9,2 
+4,24,8,Calibri,7.0,502.8,614.9,515.1,621.9,500 
+4,25,0,Calibri-Bold,7.0,77.7,630.4,152.7,637.4,At least basic digital skills 
+4,25,1,Calibri,7.0,245.2,630.4,264.2,637.4,56.0% 
+4,25,2,Calibri,7.0,284.6,630.4,288.3,637.4,- 
+4,25,3,Calibri,7.0,319.1,630.4,322.9,637.4,- 
+4,25,4,Calibri,7.0,358.8,630.4,365.6,637.4, -  
+4,25,5,Calibri,7.0,401.1,630.4,404.9,637.4,- 
+4,25,6,Calibri,7.0,439.9,630.4,443.6,637.4,- 
+4,25,7,Calibri,7.0,467.6,630.4,486.6,637.4,80.0% 
+4,25,8,Calibri,7.0,502.1,630.4,515.8,637.4,80% 
+4,26,0,Calibri-Bold,7.0,77.7,645.9,119.4,652.8,ICT specialists 
+4,26,1,Calibri,7.0,247.0,645.9,262.5,652.8,4.6% 
+4,26,2,Calibri,7.0,278.7,645.9,294.2,652.8,5.2% 
+4,26,3,Calibri,7.0,311.5,645.9,330.4,652.8,13.0% 
+4,26,4,Calibri,7.0,353.0,645.9,371.6,652.8, 4.5%  
+4,26,5,Calibri,7.0,395.2,645.9,410.8,652.8,5.0% 
+4,26,6,Calibri,7.0,434.0,645.9,449.5,652.8,4.2% 
+4,26,7,Calibri,7.0,469.4,645.9,484.9,652.8,7.0% 
+4,26,8,Calibri,7.0,500.4,645.9,517.6,652.8,~10% 
+4,27,0,Calibri-Bold,7.0,77.7,661.4,146.9,668.3,Eid scheme notification 
+4,27,1,Calibri,7.0,253.1,661.4,256.3,668.3,  
+4,27,2,Calibri,7.0,281.1,661.4,291.8,668.3,Yes 
+4,27,3,Calibri,7.0,319.4,661.4,322.5,668.3,  
+4,27,4,Calibri,7.0,359.8,661.4,363.0,668.3,  
+4,27,5,Calibri,7.0,401.5,661.4,404.6,668.3,  
+4,27,6,Calibri,7.0,440.1,661.4,443.3,668.3,  
+4,27,7,Calibri,7.0,475.5,661.4,478.7,668.3,  
+4,27,8,Calibri,7.0,507.3,661.4,510.5,668.3,  
+4,28,0,Calibri-Bold,7.0,77.7,680.7,174.9,687.6,Digital public services for citizens 
+4,28,1,Calibri,7.0,247.7,680.7,261.7,687.6,81.5 
+4,28,2,Calibri,7.0,279.4,680.7,293.4,687.6,84.5 
+4,28,3,Calibri,7.0,313.3,680.7,328.8,687.6,3.6% 
+4,28,4,Calibri,7.0,353.7,680.7,370.9,687.6, 81.5  
+4,28,5,Calibri,7.0,396.1,680.7,410.0,687.6,82.3 
+4,28,6,Calibri,7.0,434.0,680.7,449.5,687.6,3.6% 
+4,28,7,Calibri,7.0,468.3,680.7,485.9,687.6,100.0 
+4,28,8,Calibri,7.0,502.8,680.7,515.1,687.6,100 
+4,29,0,Calibri-Bold,7.0,77.7,699.9,184.6,706.8,Digital public services for businesses 
+4,29,1,Calibri,7.0,247.7,699.9,261.7,706.8,81.9 
+4,29,2,Calibri,7.0,279.4,699.9,293.4,706.8,84.3 
+4,29,3,Calibri,7.0,313.3,699.9,328.8,706.8,2.9% 
+4,29,4,Calibri,7.0,353.7,699.9,370.9,706.8, 81.9  
+4,29,5,Calibri,7.0,396.1,699.9,410.0,706.8,86.2 
+4,29,6,Calibri,7.0,434.0,699.9,449.5,706.8,0.9% 
+4,29,7,Calibri,7.0,468.3,699.9,485.9,706.8,100.0 
+4,29,8,Calibri,7.0,502.8,699.9,515.1,706.8,100 
+4,30,0,Calibri-Bold,7.0,77.7,715.7,155.8,722.7,Access to e-Health records 
+4,30,1,Calibri,7.0,247.7,715.7,261.7,722.7,86.0 
+4,30,2,Calibri,7.0,279.4,715.7,293.4,722.7,88.1 
+4,30,3,Calibri,7.0,313.3,715.7,328.8,722.7,2.4% 
+4,30,4,Calibri,7.0,353.7,715.7,370.9,722.7, 86.0  
+4,30,5,Calibri,7.0,396.1,715.7,410.0,722.7,82.7 
+4,30,6,Calibri,7.0,434.0,715.7,449.5,722.7,4.5% 
+4,30,7,Calibri,7.0,468.3,715.7,485.9,722.7,100.0 
+4,30,8,Calibri,7.0,502.8,715.7,515.1,722.7,100 
+4,31,0,Calibri,7.0,77.7,728.9,324.7,735.9,(1) See the methodological note for the description of the indicators and other metrics 
+4,31,1,Calibri,7.0,77.7,737.5,519.3,744.4,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,31,2,Calibri,7.0,77.7,746.0,419.2,752.9,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,31,3,Calibri,7.0,77.7,754.6,424.6,761.6,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,32,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,32,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+5,3,0,Calibri-Bold,11.0,72.0,87.6,393.9,98.7,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+5,3,0,Calibri,11.0,394.1,87.6,525.8,98.7,", 71% of Portuguese citizens "
+5,3,1,Calibri,11.0,72.0,102.0,525.7,113.1,consider that the digitalisation of daily public and private services is making their lives easier. On the 
+5,3,2,Calibri,11.0,72.0,116.5,525.7,127.6,"action of the public authorities, 89% consider it important to counter and mitigate the issue of fake "
+5,3,3,Calibri,11.0,72.0,131.1,525.7,142.1,"news and disinformation online, and on competitiveness, 89% consider it important to ensure that "
+5,3,4,Calibri,11.0,72.0,145.6,507.5,156.6,European companies can grow and become ‘European Champions’ capable of competing globally.
+5,3,4,Calibri-Light,11.0,507.6,145.6,510.1,156.6, 
+5,4,0,Calibri-Light,15.0,72.0,168.9,526.8,183.9,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,195.7,525.6,206.8,"Portugal enjoys robust connectivity infrastructure, with stable progress across the indicators and "
+5,5,1,Calibri,11.0,72.0,210.3,525.9,221.3,"almost full 5G coverage. However, broadband and mobile take up are mostly lower than the EU average "
+5,5,2,Calibri,11.0,72.0,224.8,525.8,235.8,and so is 5G pioneer bands spectrum assignment. To engage more under the ‘Chips for Europe’ 
+5,5,3,Calibri,11.0,72.0,239.3,525.7,250.4,"initiative, Portugal has set up a national chips competence centre. The country provides some "
+5,5,4,Calibri,11.0,72.0,253.7,525.9,264.8,contribution to European quantum initiatives. SMEs record at least basic digital intensity slightly above 
+5,5,5,Calibri,11.0,72.0,268.2,525.7,279.3,"the EU average, but the take-up of AI by enterprises remains modest. Ambitious plans regarding "
+5,5,6,Calibri,11.0,72.0,282.8,525.8,293.8,"sovereign digital solutions, such as AI development and cloud, and boosting the innovation ecosystem "
+5,5,7,Calibri,11.0,72.0,297.3,525.8,308.3,are partly supported by funding under the recovery and resilience plan. The country plans to increase 
+5,5,8,Calibri,11.0,72.0,311.7,525.8,322.7,the number of start-ups from just over 4 700 in 2024 to 6 000 by 2030 with anticipated spillover on 
+5,5,9,Calibri,11.0,72.0,326.2,525.9,337.2,"the number of unicorns, as Portugal currently hosts only one such company. For Portuguese start-ups, "
+5,5,10,Calibri,11.0,72.0,340.7,525.6,351.8,access to funding at further growth stages remains an issue. The cybersecurity awareness of people 
+5,5,11,Calibri,11.0,72.0,355.2,525.6,366.3,"and companies is growing, in part thanks to strong efforts by and the collaborative spirit of the "
+5,5,12,Calibri,11.0,72.0,369.8,520.4,380.8,"authorities. However, NIS2 Directive still awaits transposition and implementation into national law.  "
+5,6,0,Calibri-Light,15.0,72.0,393.1,379.5,408.1,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,419.9,525.6,431.0,"Basic digital skills remain in the EU average, with significant gaps for people with lower levels of "
+5,7,1,Calibri,11.0,72.0,434.5,525.7,445.5,"education and older people. However, in 2024 Portugal noted promising progress in the share of ICT "
+5,7,2,Calibri,11.0,72.0,449.0,525.7,460.0,"specialists, including female ones. Some programmes are starting to promote gender convergence in "
+5,7,3,Calibri,11.0,72.0,463.5,525.9,474.5,"this area but advanced digital skills are not prominent in Portugal’s roadmap. Robust digital skills are, "
+5,7,4,Calibri,11.0,72.0,477.9,525.8,488.9,"however, promoted in public administration, notably due to investments from Portugal’s recovery and "
+5,7,5,Calibri,11.0,72.0,492.4,525.9,503.5,"resilience plan. The country shows good progress on digital government, with visibly more people "
+5,7,6,Calibri,11.0,72.0,506.9,525.8,518.0,using such solutions and digital public services for citizens remain at high level. With a single Gov.pt 
+5,7,7,Calibri,11.0,72.0,521.5,525.8,532.5,"app, digital identity might gain momentum. In addition, access to e-health records progressed rapidly "
+5,7,8,Calibri,11.0,72.0,535.9,525.9,546.9,"over the last years, making Portugal one of the frontrunners. This might also be linked to the RRF "
+5,7,9,Calibri,11.0,72.0,550.4,525.7,561.4,"investment in digital health transition. However, some challenges persist as digital services for "
+5,7,10,Calibri,11.0,72.0,564.9,525.8,576.0,"businesses are below the EU average, in particular in cross-border context. Media literacy and child "
+5,7,11,Calibri,11.0,72.0,579.5,240.4,590.5,protection receive growing attention. 
+5,8,0,Calibri-Light,15.0,72.0,602.8,399.0,617.8,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,629.6,525.9,640.7,"Green and digital priorities are slowly gaining attention. With RRF support, Portugal is implementing a "
+5,9,1,Calibri,11.0,72.0,644.1,525.6,655.2,"Digital and Smart Nation agenda, which envisages the creation of Urban Management Platforms and "
+5,9,2,Calibri,11.0,72.0,658.7,525.6,669.7,"digital twins. These will leverage vast data on territories, as well as connectivity solutions, to respond "
+5,9,3,Calibri,11.0,72.0,673.2,373.0,684.2,"to territorial challenges, including environmental and climate ones. "
+5,10,0,Calibri-Light,15.0,72.0,696.5,325.7,711.5,National digital decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,723.4,525.8,734.4,"Portugal submitted a fully revised national Digital Decade roadmap in December 2024, (with targeted "
+5,11,1,Calibri,11.0,72.0,737.9,525.8,748.9,"adjustments until March 2025) containing more than 150 measures, including many new ones, revised "
+5,11,2,Calibri,11.0,72.0,752.4,525.9,763.4,"targets and, for the first time, more than half of the required trajectories. It is largely based on the "
+5,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+6,3,0,Calibri,11.0,72.0,87.6,180.8,98.7,National Digital Strategy
+6,3,0,Calibri,11.0,180.8,87.6,525.7,98.7," and its action plan, on which stakeholders were consulted. The updates are "
+6,3,1,Calibri,11.0,72.0,102.0,525.8,113.1,"aligned with the new Commission’s priorities on AI, sovereignty and digital skills. The revised roadmap "
+6,3,2,Calibri,11.0,72.0,116.5,525.8,127.6,includes reporting on the consultation of stakeholders and addresses a substantial number of roadmap 
+6,3,3,Calibri,11.0,72.0,131.1,525.6,142.1,"recommendations issued in 2024. Most targets align with the EU level goals for 2030, except for 7% "
+6,3,4,Calibri,11.0,72.0,145.6,525.6,156.6,target for ICT specialists (instead of 10%) by 2030. The revised roadmap continues to prioritise digital 
+6,3,5,Calibri,11.0,72.0,160.0,525.9,171.0,"skills, digital public administration and the digitalisation of businesses. It is composed of 157 measures "
+6,3,6,Calibri,11.0,72.0,174.5,525.8,185.5,"with a budget of EUR 2.15 billion, equivalent to 0.75% of GDP. The roadmap responds to majority of "
+6,3,7,Calibri,11.0,72.0,189.0,525.8,200.1,"objectives, such as human-centred digital transformation, simplification, sovereignty and resilience. "
+6,3,8,Calibri,11.0,72.0,203.5,525.7,214.6,"However, areas such as sustainability and inclusion lack specific focus, while competitiveness is not "
+6,3,9,Calibri,11.0,72.0,217.9,191.2,229.0,comprehensively covered. 
+6,4,0,Calibri-Light,15.0,72.0,241.4,249.8,256.4,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,268.2,463.8,279.3,Portugal allocates 21% of its total recovery and resilience plan to digital (EUR 4.5 billion)
+6,5,0,Calibri,7.0,463.8,267.4,467.3,274.3,1
+6,5,0,Calibri,11.0,467.3,268.2,525.9,279.3,". In addition, "
+6,5,1,Calibri,11.0,72.0,282.8,525.9,293.8,"under cohesion policy, EUR 2.4 billion, representing 11% of the country’s total cohesion policy funding, "
+6,5,2,Calibri,11.0,72.0,297.3,333.3,308.3,is dedicated to advancing Portugal’s digital transformation
+6,5,2,Calibri,7.0,333.4,296.4,337.0,303.3,2
+6,5,2,Calibri,11.0,336.9,297.3,525.8,308.3,.Portugal is a member of the Local Digital 
+6,5,3,Calibri,11.0,72.0,311.7,525.8,322.7,Twins towards the Citi VERSE EDIC and of the EUROPEUM EDIC. Portuguese entities are indirect and/or 
+6,5,4,Calibri,11.0,72.0,326.2,528.4,337.2,associated partners in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT).  
+6,5,5,Calibri,11.0,72.0,340.7,494.8,351.8,Portugal is also a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,6,0,Calibri,11.0,72.0,363.2,324.3,374.2,Portugal has contributed to the Best Practice Accelerator
+6,6,0,Calibri,7.0,324.2,362.3,327.7,369.2,3
+6,6,0,Calibri,11.0,327.7,363.2,525.9,374.2, by sharing one best practice in the frame of 
+6,6,1,Calibri,11.0,72.0,377.7,346.2,388.7,the Green IT cluster (National Strategy for Smart Territories).  
+6,7,0,Calibri-Light,15.0,72.0,401.1,238.3,416.1,Digital rights and principles 
+6,8,0,Calibri,11.0,72.0,428.0,525.7,439.0,"According to a support study, Portugal has been one of the most active Member States in "
+6,8,1,Calibri,11.0,72.0,442.5,155.4,453.5,implementing the 
+6,8,1,Calibri-Bold,11.0,156.7,442.5,406.1,453.5,European Declaration on Digital Rights and Principles
+6,8,1,Calibri,11.0,406.3,442.5,525.9,453.5,", with over 100 initiatives "
+6,8,2,Calibri,11.0,72.0,456.9,410.6,467.9,overall and 14 new initiatives launched in 2024. Portugal is most active in the 
+6,8,2,Calibri,11.0,410.1,456.9,461.2,467.9,Declaration
+6,8,2,Calibri,11.0,461.3,456.9,525.9,467.9, area of digital 
+6,8,3,Calibri,11.0,72.0,471.4,525.9,482.5,"education, training and skills. Less activity has been identified with regards to privacy and individual "
+6,8,4,Calibri,11.0,72.0,485.9,525.7,497.0,control over data. Measures in the area of freedom of choice appear to have most impact on the 
+6,8,5,Calibri,11.0,72.0,500.5,426.7,511.5,"ground, in contrast to those addressing participation in the digital public space. "
+6,9,0,Calibri,11.0,216.1,659.9,218.5,670.9, 
+6,9,1,Calibri,6.0,72.0,672.6,75.1,678.6,1
+6,9,1,Calibri,9.0,75.0,672.9,524.9,681.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,9,2,Calibri,9.0,72.0,683.9,313.5,692.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,9,3,Calibri,6.0,72.0,694.7,75.1,700.7,2
+6,9,3,Calibri,9.0,75.0,695.0,523.2,704.0, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,9,4,Calibri,9.0,72.0,705.9,525.0,714.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,9,5,Calibri,9.0,72.0,716.9,315.5,725.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,9,6,Calibri,6.0,72.0,727.6,75.1,733.6,3
+6,9,6,Calibri,9.0,75.0,727.9,525.1,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,9,7,Calibri,9.0,72.0,738.9,525.5,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,9,8,Calibri,9.0,72.0,749.8,525.2,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,9,9,Calibri,9.0,72.0,760.9,248.5,769.9,"Green IT, and the Uptake of Digital Technologies."
+6,9,9,Calibri,10.0,248.7,760.2,250.9,770.1, 
+6,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+7,2,0,Calibri-Bold,11.0,77.7,88.1,165.4,99.1,Recommendations 
+7,3,0,ArialMT,11.0,95.7,103.9,102.5,116.2,- 
+7,3,1,Calibri-Bold,11.0,113.7,105.6,212.9,116.7,Artificial Intelligence: 
+7,3,1,Calibri,11.0,213.1,105.6,535.5,116.7,"Support AI take-up and thus enable innovation by enterprises, including "
+7,3,2,Calibri,11.0,113.7,120.0,387.8,131.1,by timely implementation of ongoing and planned measures. 
+7,5,0,ArialMT,11.0,95.7,135.8,102.5,148.1,- 
+7,5,1,Calibri-Bold,11.0,113.7,137.5,193.1,148.6,Basic digital skills
+7,5,1,Calibri,11.0,193.1,137.5,535.5,148.6,: Evaluate the take-up of the current measures and identify ways to address 
+7,5,2,Calibri,11.0,113.7,152.1,428.6,163.1,"the remaining needs, notably to tackle the digital divide in the society. "
+7,6,0,ArialMT,11.0,95.7,167.9,102.5,180.2,- 
+7,6,1,Calibri-Bold,11.0,113.7,169.6,375.1,180.6,Basic digital intensity of SMEs and advanced technologies
+7,6,1,Calibri,11.0,375.2,169.6,535.5,180.6,: Support the adoption of advanced 
+7,6,2,Calibri,11.0,113.7,184.0,535.4,195.0,digital technologies by businesses by fostering enhanced collaboration between public and 
+7,6,3,Calibri,11.0,113.7,198.5,507.8,209.5,private sector and academia and by identifying support measures for the medium-term. 
+7,7,0,ArialMT,11.0,95.7,214.3,102.5,226.6,- 
+7,7,1,Calibri-Bold,11.0,113.7,216.0,143.0,227.1,Cloud:
+7,7,1,Calibri,11.0,142.9,216.0,535.5,227.1," Encourage cloud take-up, in particular implement the plans for sovereign cloud "
+7,7,2,Calibri,11.0,113.7,230.5,180.1,241.6,infrastructure. 
+7,8,0,ArialMT,11.0,95.7,246.3,102.5,258.6,- 
+7,8,1,Calibri-Bold,11.0,113.7,248.0,183.4,259.0,ICT specialists: 
+7,8,1,Calibri,11.0,184.5,248.0,535.5,259.0,"Identify ways to attract ICT specialists, promote ICT studies, digital upskilling "
+7,8,2,Calibri,11.0,113.7,262.5,449.7,273.5,"and reskilling options, and continue reinforcing gender balance in the field. "
+7,9,0,ArialMT,11.0,95.7,278.3,102.5,290.6,- 
+7,9,1,Calibri-Bold,11.0,113.7,280.0,144.5,291.0,Green:
+7,9,1,Calibri,11.0,144.5,280.0,535.5,291.0, Consider introducing a coherent approach to twinning the digital and green transitions. 
+7,10,0,ArialMT,11.0,95.7,295.8,102.5,308.1,- 
+7,10,1,Calibri-Bold,11.0,113.7,297.5,222.1,308.6,Scale-ups and unicorns:
+7,10,1,Calibri,11.0,222.1,297.5,535.4,308.6, Continue improving the business environment and access to finance 
+7,10,2,Calibri,11.0,113.7,311.9,535.5,323.0,"for digital start-ups to grow into scale-ups, including by targeting business R&D with public "
+7,10,3,Calibri,11.0,113.7,326.4,154.0,337.5,support. 
+7,11,0,ArialMT,11.0,95.7,342.3,102.5,354.6,- 
+7,11,1,Calibri-Bold,11.0,113.7,344.0,189.7,355.0,Semiconductors:
+7,11,1,Calibri,11.0,189.6,344.0,537.9,355.0, Continue efforts in semiconductors and strive towards leadership at EU level.  
+7,12,0,ArialMT,11.0,95.7,359.8,102.5,372.1,- 
+7,12,1,Calibri-Bold,11.0,113.7,361.5,129.4,372.5,5G:
+7,12,1,Calibri,11.0,129.4,361.5,471.4,372.5, Consider assigning remaining 5G pioneer bands and promoting 5G take-up.  
+7,13,0,Calibri-Bold,11.0,72.0,379.5,74.5,390.5, 
+7,14,0,Calibri,11.0,72.0,396.9,74.5,407.9, 
+7,15,0,Calibri,11.0,72.0,433.7,74.5,444.8, 
+7,15,1,Calibri-Bold,26.0,216.1,422.5,221.9,448.5, 
+7,16,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+8,3,0,Calibri-Bold,26.0,72.0,90.6,529.1,116.7,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,124.9,444.2,150.9,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,164.1,525.8,175.1,Portugal’s policymakers are paying increasing attention to digital technologies as an enabler for 
+8,4,1,Calibri-Bold,11.0,72.0,178.6,149.5,189.6,competitiveness.
+8,4,1,Calibri,11.0,149.5,178.6,525.9,189.6, The recent National Digital Strategy stresses the need for innovative companies 
+8,4,2,Calibri,11.0,72.0,193.1,525.9,204.1,"driven by digital technologies, in particular trustworthy artificial intelligence (AI). In addition, Portugal’s "
+8,4,3,Calibri,11.0,72.0,207.5,525.9,218.5,national recovery and resilience plan (RRP) gives significant attention to the digitalisation of 
+8,4,4,Calibri,11.0,72.0,222.0,410.5,233.1,"businesses, the digitalisation of science, and boosting innovation potential.  "
+8,5,0,Calibri-Bold,11.0,72.0,244.6,260.3,255.6,"However, there remain some challenges."
+8,5,0,Calibri,11.0,260.3,244.6,525.9,255.6, Portuguese enterprises have only average levels of digital 
+8,5,1,Calibri,11.0,72.0,259.0,525.9,270.0,"intensity and uptake of advanced digital technologies, with modest growth in AI in 2024. In 2023, "
+8,5,2,Calibri,11.0,72.0,273.5,501.7,284.6,"spending on national research and development (R&D) was 1.7% of GDP, up from 1.3% in 2017"
+8,5,2,Calibri,7.0,501.6,272.6,505.1,279.6,4
+8,5,2,Calibri,11.0,505.1,273.5,525.9,284.6, but 
+8,5,3,Calibri,11.0,72.0,288.0,243.6,299.1,far below Portugal’s 2030 goal of 3%
+8,5,3,Calibri,7.0,243.6,287.1,247.2,294.1,5
+8,5,3,Calibri,11.0,247.1,288.0,525.9,299.1,. Such level R&D spending results in limited innovation and 
+8,5,4,Calibri,11.0,72.0,302.6,173.8,313.6,productivity potential. 
+8,6,0,Calibri-Bold,11.0,72.0,325.0,525.9,336.0,The characteristics of Portuguese enterprises may account for some of their challenges in adopting 
+8,6,1,Calibri-Bold,11.0,72.0,339.5,164.6,350.6,digital technologies.
+8,6,1,Calibri,11.0,164.7,339.5,525.9,350.6, SMEs account for approximately 97.8% of the country’s enterprises with more 
+8,6,2,Calibri,11.0,72.0,354.0,525.9,365.1,"than 10 employees, while large enterprises make up only 2.2% of such enterprises. Portugal’s ICT "
+8,6,3,Calibri,11.0,72.0,368.4,397.0,379.5,sector accounted for 4.47% of gross value added in 2021 (no newer data)
+8,6,3,Calibri,7.0,396.9,367.5,400.4,374.5,6
+8,6,3,Calibri,11.0,400.4,368.4,525.9,379.5,", lower than the EU average "
+8,6,4,Calibri,11.0,72.0,383.0,113.2,394.0,of 5.46%
+8,6,4,Calibri-Italic,11.0,113.3,383.0,116.1,394.0,.
+8,6,4,Calibri,11.0,115.9,383.0,525.9,394.0, R&D in the ICT sector accounted for 24.21% of total R&D expenditure by Portuguese 
+8,6,5,Calibri,11.0,72.0,397.5,525.9,408.5,"businesses in 2023, slightly more than in 2022. Also in 2023, 25.7% of total R&D personnel in Portugal "
+8,6,6,Calibri,11.0,72.0,412.0,441.3,423.1,"worked in the ICT sector, similar to 2022 (25.74%) but down from 27.27% in 2021.  "
+8,7,0,Calibri-Bold,11.0,72.0,434.5,499.5,445.5,"Despite these tendencies, other factors contribute to Portugal’s growing digital leadership"
+8,7,0,Calibri,11.0,499.7,434.5,525.9,445.5,. The 
+8,7,1,Calibri,11.0,72.0,449.0,525.9,460.0,"country’s digital infrastructures are a solid asset for citizens and businesses, and citizens and "
+8,7,2,Calibri,11.0,72.0,463.5,525.9,474.5,"businesses could be incentivised to rely on these to build innovative business applications. In addition, "
+8,7,3,Calibri,11.0,72.0,477.9,525.8,488.9,Portugal is engaged in some actions and pilot lines under the European Chips Act and European 
+8,7,4,Calibri,11.0,72.0,492.4,525.9,503.5,"quantum initiatives. Cybersecurity culture is also growing among enterprises, the general public, and "
+8,7,5,Calibri,11.0,72.0,506.9,525.9,518.0,"the public administration. Finally, the number of Portuguese start-ups has risen, however, the country "
+8,7,6,Calibri,11.0,72.0,521.5,340.5,532.5,"still has one unicorn, with two potential ones on the horizon"
+8,7,6,Calibri,7.0,340.4,520.6,343.9,527.5,7
+8,7,6,Calibri,11.0,343.9,521.5,351.6,532.5,.  
+8,8,0,Calibri-Light,15.0,72.0,544.8,509.7,559.8,Building technological leadership: digital infrastructure and technologies 
+8,9,0,Calibri-Bold,11.0,72.0,571.7,525.9,582.7,"Portugal excels in VHCN, FTTP, and overall 5G coverage, both measured nationally and when looking "
+8,9,1,Calibri-Bold,11.0,72.0,586.2,269.1,597.2,at households in sparsely populated areas.
+8,9,1,Calibri,11.0,269.2,586.2,525.8,597.2, 5G coverage in the 3.4–3.8 GHz band is higher than the 
+8,9,2,Calibri,11.0,72.0,600.7,525.9,611.7,"EU average, but the assignment of pioneer bands spectrum is below that average. On take-up, the "
+8,9,3,Calibri,11.0,72.0,615.2,525.9,626.3,"country leads in fixed broadband subscriptions at speeds of 100 Mbps or more, but remains behind "
+8,9,4,Calibri,11.0,72.0,629.6,371.1,640.7,the EU average in 1 Gbps subscriptions and 5G SIM card adoption.  
+8,10,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+8,11,0,Calibri,6.0,72.0,716.7,75.1,722.7,4
+8,11,0,Calibri,9.0,75.0,716.9,450.1,725.9," 2025 European Semester Portugal country report, Innovation, business environment and productivity. "
+8,11,1,Calibri,6.0,72.0,727.6,75.1,733.6,5
+8,11,1,Calibri,9.0,75.0,727.9,77.1,736.9, 
+8,11,1,Calibri,9.0,77.1,727.9,256.5,736.9,2024 European Semester Portugal country report
+8,11,1,Calibri,9.0,256.6,727.9,378.2,736.9,", ‘Further priorities ahead’, p. 15. "
+8,11,2,Calibri,6.0,72.0,738.7,75.1,744.7,6
+8,11,2,Calibri,9.0,75.0,738.9,525.1,747.9, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,11,3,Calibri,9.0,72.0,749.8,235.0,758.8,the State of the Digital Decade report 2025.  
+8,11,4,Calibri,6.0,72.0,760.6,75.1,766.6,7
+8,11,4,Calibri,9.0,75.0,760.9,413.3,769.9," On the date of data extraction in March 2025, see the DESI Methodological Note for details. "
+8,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+9,2,0,Calibri-Light,12.0,72.0,87.9,203.2,99.9,Connectivity infrastructure 
+9,4,0,Calibri-Bold,11.0,72.0,111.4,525.9,122.4,In 2024 Portugal’s VHCN coverage for all households was at 94.59% and increased by 0.4% compared 
+9,4,1,Calibri-Bold,11.0,72.0,125.9,503.0,136.9,"with 2023, significantly higher than the EU average of 82.49% (2030 national target 100%)."
+9,4,1,Calibri,11.0,502.9,125.9,525.9,136.9, The 
+9,4,2,Calibri,11.0,72.0,140.4,525.8,151.5,"country is on track according to its national trajectory. For households in sparsely populated areas, "
+9,4,3,Calibri,11.0,72.0,154.8,525.9,165.9,"Portugal’s VHCN coverage of 73.2% was also higher than the EU average of 61.89%, although Portugal’s "
+9,4,4,Calibri,11.0,72.0,169.3,525.8,180.4,rate of year-on-year growth for VHCN coverage in sparsely populated areas from 2023 to 2024 of 2.5% 
+9,4,5,Calibri,11.0,72.0,183.9,318.3,194.9,was slower than the EU average growth rate of 11.3%.  
+9,5,0,Calibri-Bold,11.0,72.0,206.3,525.9,217.3,"FTTP coverage stood at 93.18% in 2024 (2030 national target: 100%), after a progression of 0.9%. "
+9,5,1,Calibri-Bold,11.0,72.0,220.8,312.6,231.9,This was much higher than the EU average of 69.24%.
+9,5,1,Calibri,11.0,312.7,220.8,525.9,231.9, The country is on track according to its national 
+9,5,2,Calibri,11.0,72.0,235.4,525.9,246.4,"trajectory. For households in sparsely populated areas, Portugal’s FTTP coverage was also higher than "
+9,5,3,Calibri,11.0,72.0,249.9,525.9,260.9,"the EU average, at 70.13% in 2024, compared with the EU’s 58.78%. However, here too Portugal’s "
+9,5,4,Calibri,11.0,72.0,264.3,525.9,275.3,growth rate in FTTP coverage for households in sparsely populated areas was only 2.1% between 2023 
+9,5,5,Calibri,11.0,72.0,278.8,271.0,289.8,"and 2024, much lower than the EU’s 11.9%.  "
+9,6,0,Calibri-Bold,11.0,72.0,301.2,525.8,312.3,"At 98.72% in 2024 (2030 national target 100%), after a progression of 0.6%, Portugal’s 5G coverage "
+9,6,1,Calibri-Bold,11.0,72.0,315.8,267.0,326.8,was higher than the EU average of 94.35%. 
+9,6,1,Calibri,11.0,266.8,315.8,525.9,326.8,The country is on track according to its national trajectory. 
+9,6,2,Calibri,11.0,72.0,330.3,525.9,341.3,"For households in sparsely populated areas, 5G coverage was also higher than the EU average, at "
+9,6,3,Calibri,11.0,72.0,344.8,525.9,355.9,"92.26% in 2024, compared with the EU’s 79.57%. Portugal’s growth rate for 5G coverage in sparsely "
+9,6,4,Calibri,11.0,72.0,359.2,525.9,370.2,populated areas between 2023 and 2024 of 5.5% was lower than the EU’s 11.9%. 5G coverage in the 
+9,6,5,Calibri,11.0,72.0,373.7,525.9,384.8,"3.4–3.8 GHz band for all Portuguese households was higher than the EU average, at 71.38% in 2024, "
+9,6,6,Calibri,11.0,72.0,388.2,525.9,399.3,compared with the EU’s 67.72% but grew more slowly between 2023 and 2024 at only 9.5% (compared 
+9,6,7,Calibri,11.0,72.0,402.8,525.9,413.8,"with the EU growth rate of 32.6%). For households in sparsely populated areas, Portugal’s 5G coverage "
+9,6,8,Calibri,11.0,72.0,417.3,525.9,428.4,"in the 3.4–3.8 GHz band was lower than the EU average, at 21.45% in 2024, compared with the EU’s "
+9,6,9,Calibri,11.0,72.0,431.7,525.9,442.8,"26.19%, showing similar growth rate (PT: 61.6%, EU: 65.1%). In 2025, the country’s assignment of 5G "
+9,6,10,Calibri,11.0,72.0,446.2,528.3,457.3,"pioneer bands spectrum was at 61.11% (unchanged from 2024), lower than the EU average of 74.63%.  "
+9,7,0,Calibri-Bold,11.0,72.0,468.7,525.9,479.7,Indicators of broadband and mobile take-up show a mixed performance compared with the EU 
+9,7,1,Calibri-Bold,11.0,72.0,483.2,110.7,494.2,average.
+9,7,1,Calibri,11.0,110.7,483.2,525.9,494.2," In 2024, 91.62% of fixed broadband subscriptions in Portugal were at speeds of 100 Mbps or "
+9,7,2,Calibri,11.0,72.0,497.7,525.9,508.8,"more, ahead of the EU’s 71.88%. Nevertheless, the growth rate for this indicator between 2023 and "
+9,7,3,Calibri,11.0,72.0,512.2,525.9,523.3,"2024 in Portugal was 2.1%, which is lower than the EU’s 9.1%. For fixed broadband subscriptions at "
+9,7,4,Calibri,11.0,72.0,526.6,525.9,537.7,"speeds of 1 Gbps or more, Portugal’s take-up in 2024 was at 15.15%, below the EU’s 22.25%. Portugal’s "
+9,7,5,Calibri,11.0,72.0,541.1,525.9,552.2,"growth rate of 67.0% in this area outperformed the EU’s 20.5%. On the share of 5G SIM cards, these "
+9,7,6,Calibri,11.0,72.0,555.7,525.9,566.7,"constituted 27.49% of all SIM cards in Portugal in 2024, lower than the EU’s 35.56%. Portugal’s growth "
+9,7,7,Calibri,11.0,72.0,570.2,373.6,581.3,rate of 54.7% on this indicator was also lower than the EU’s 63.9%.  
+9,8,0,Calibri-LightItalic,11.0,72.0,592.7,143.4,603.7,VHCN and FTTP 
+9,9,0,Calibri-Bold,11.0,72.0,615.2,525.9,626.3,"In its adjusted roadmap, Portugal proposed new targets to reach 100% coverage for VHCN and FTTP "
+9,9,1,Calibri-Bold,11.0,72.0,629.6,520.6,640.7,"by 2030, in line with the recommendation set out in the 2024 State of the Digital Decade report"
+9,9,1,Calibri,11.0,520.8,629.6,525.9,640.7,. 
+9,9,2,Calibri,11.0,72.0,644.1,525.9,655.2,"Given the good rate of progress and the measures put in place by Portugal, this target seems "
+9,9,3,Calibri,11.0,72.0,658.7,124.8,669.7,achievable. 
+9,10,0,Calibri-Bold,11.0,72.0,681.1,415.5,692.1,Portugal’s revised roadmap includes some measures on fixed connectivity. 
+9,10,0,Calibri,11.0,415.9,681.1,525.9,692.1,"As reported last year, to "
+9,10,1,Calibri,11.0,72.0,695.6,525.9,706.7,"achieve gigabit connectivity for all, in late 2023 the Portuguese government launched a public tender "
+9,10,2,Calibri,11.0,72.0,710.1,525.8,721.2,"for the installation, management and operation of VHCN providing download speeds of at least 1 Gbps "
+9,10,3,Calibri,11.0,72.0,724.7,525.9,735.7,and upload speeds of at least 150 Mbps in white areas. More than 400 000 residences and business 
+9,10,4,Calibri,11.0,72.0,739.1,525.8,750.1,establishments should be covered by this investment which seeks to achieve full coverage of these 
+9,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+10,2,0,Calibri,11.0,72.0,87.6,525.9,98.7,"areas by 2026/2027. Work on the project began in 2025, and the total investment of EUR 425 million "
+10,2,1,Calibri,11.0,72.0,102.0,209.1,113.1,is co-financed by public funds. 
+10,4,0,Calibri-Bold,11.0,72.0,124.6,300.9,135.6,Portugal’s copper switch-off process is underway. 
+10,4,0,Calibri,11.0,301.5,124.6,525.9,135.6,It started in 2019 and will end in 2030. According 
+10,4,1,Calibri,11.0,72.0,139.1,525.8,150.1,"to the most recent data provided by ANACOM, Portugal’s regulatory authority for electronic "
+10,4,2,Calibri,11.0,72.0,153.5,468.6,164.5,"communications, active copper lines account for 2% of total broadband lines in Portugal. "
+10,5,0,Calibri-Bold,11.0,72.0,176.1,525.9,187.1,"With its Atlantic coastline and two outermost regions (Azores and Madeira), submarine cables are "
+10,5,1,Calibri-Bold,11.0,72.0,190.6,523.5,201.6,important digital infrastructures to ensure the security and sovereignty of Portugal and the EU.
+10,5,1,Calibri,11.0,523.4,190.6,525.9,201.6, 
+10,5,2,Calibri,11.0,72.0,205.0,525.9,216.0,"These autonomous regions are served by a domestic system of submarine cables known as CAM Ring, "
+10,5,3,Calibri,11.0,72.0,219.5,525.8,230.5,"which are becoming obsolete and need to be replaced. To address this structural need, the Atlantic "
+10,5,4,Calibri,11.0,72.0,234.0,523.5,245.1,"CAM (Global Project) is being planned, comprising a ring system of submarine cables with six fibre-"
+10,5,5,Calibri,11.0,72.0,248.6,525.8,259.6,"optic pairs, including innovative integrated SMART component for seismic detection, environmental "
+10,5,6,Calibri,11.0,72.0,263.0,525.9,274.0,"monitoring, underwater nautical activity detection and data transmission for scientific purposes. Its "
+10,5,7,Calibri,11.0,72.0,277.5,525.9,288.5,"deployment, supported in 2024 with EUR 14.3 million from the Connecting Europe Facility (CEF), will "
+10,5,8,Calibri,11.0,72.0,292.0,525.9,303.0,contribute these goals while simultaneously: providing high-speed data-transfer capabilities and 
+10,5,9,Calibri,11.0,72.0,306.5,525.9,317.6,secure and reliable communication channels and reducing the dependence of the outermost regions 
+10,5,10,Calibri,11.0,72.0,320.9,339.9,332.0,on non-European countries for critical digital infrastructure. 
+10,6,0,Calibri-LightItalic,11.0,72.0,343.5,87.0,354.5,5G 
+10,7,0,Calibri-Bold,11.0,72.0,365.9,525.9,377.0,"In its adjusted roadmap, Portugal proposed a new target to achieve 100% 5G coverage by 2030, in "
+10,7,1,Calibri-Bold,11.0,72.0,380.4,453.6,391.5,line with the recommendation set out in the 2024 State of the Digital Decade report.
+10,7,1,Calibri,11.0,453.7,380.4,525.9,391.5, Given the good 
+10,7,2,Calibri,11.0,72.0,395.0,469.0,406.0,"rate of progress and the measures put in place by Portugal, this target seems achievable. "
+10,8,0,Calibri-Bold,11.0,72.0,417.4,369.5,428.5,Recent market dynamics have worked to the benefit of end users. 
+10,8,0,Calibri,11.0,369.1,417.4,525.9,428.5,"In November 2024, a new operator "
+10,8,1,Calibri,11.0,72.0,431.9,525.9,443.0,"entered the mobile market, pressuring the three major incumbent operators to provide a similar "
+10,8,2,Calibri,11.0,72.0,446.5,525.9,457.5,"service by offering subscriptions with larger data volumes and lower prices, adjusting their bundled "
+10,8,3,Calibri,11.0,72.0,460.9,317.3,471.9,"offers, and shortening their minimum contract periods."
+10,8,3,Calibri-Bold,11.0,317.4,460.9,319.8,471.9, 
+10,9,0,Calibri-Bold,11.0,72.0,483.4,525.9,494.5,"The country is working on unleashing the full potential of 5G, including in rural areas and for specific "
+10,9,1,Calibri-Bold,11.0,72.0,497.9,107.4,509.0,sectors.
+10,9,1,Calibri,11.0,107.3,497.9,525.9,509.0," In February 2025, ANACOM, , published a public consultation report on future procedures for "
+10,9,2,Calibri,11.0,72.0,512.3,525.9,523.4,allocating spectrum band. The report concluded that it may be justified to soon make available the 
+10,9,3,Calibri,11.0,72.0,526.9,525.9,537.9,"spectrum that remained unallocated in the 5G auction (2x5 MHz), and possibly make it available before "
+10,9,4,Calibri,11.0,72.0,541.4,525.7,552.4,other frequency bands. The country is also involved in projects using connectivity for social 
+10,9,5,Calibri,11.0,72.0,555.9,413.8,566.9,"empowerment. For example, ‘5G for rural smart communities of tomorrow’ ("
+10,9,5,Calibri,11.0,413.9,555.9,459.2,566.9,5G.RURAL
+10,9,5,Calibri,11.0,459.2,555.9,525.9,566.9,) is an ongoing 
+10,9,6,Calibri,11.0,72.0,570.3,525.9,581.4,CEF-supported project (with EUR 4 million) to deploy smart 5G-based community services in six 
+10,9,7,Calibri,11.0,72.0,584.9,525.7,595.9,"municipalities of the Alentejo region, with a focus on healthcare, education, energy efficiency, "
+10,9,8,Calibri,11.0,72.0,599.4,525.9,610.4,"agriculture, art, culture and tourism. Healthcare connectivity is also being supported through ‘5G in "
+10,9,9,Calibri,11.0,72.0,613.9,236.3,624.9,Healthcare – Northern Region (PT) (
+10,9,9,Calibri,11.0,236.3,613.9,321.9,624.9,5G Healthcare (PT)
+10,9,9,Calibri,11.0,322.0,613.9,525.7,624.9,")’, a CEF project to unleash 5G in this sector "
+10,9,10,Calibri,11.0,72.0,628.3,525.9,639.3,"through actions such as connected emergency vehicles, remote training, and support for diagnosis and "
+10,9,11,Calibri,11.0,72.0,642.8,364.6,653.9,the internet of things (IoT) for a health-monitoring environment.  
+10,10,0,Calibri-Bold,11.0,72.7,666.1,320.7,677.1,2024 recommendation on connectivity infrastructure
+10,10,0,Calibri,11.0,320.8,666.1,524.9,677.1,: Ensure sufficient access of new players to 
+10,10,1,Calibri,11.0,72.7,680.6,525.0,691.7,spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications and 
+10,10,2,Calibri,11.0,72.7,695.0,447.4,706.1,encourage operators to speed up the deployment of 5G stand-alone core networks. 
+10,11,0,Calibri-Bold,11.0,72.7,716.4,519.6,727.4,Portugal made some efforts to address the recommendation through new policy actions in 2024
+10,11,0,Calibri,11.0,520.0,716.4,525.1,727.4,. 
+10,11,1,Calibri,11.0,72.7,730.8,525.1,741.8,"ANACOM is in discussions with operators to identify specific 5G use cases, and the public consultation "
+10,11,2,Calibri,11.0,72.7,745.3,525.0,756.4,report referred to above also helped businesses to better understand possible use cases for certain 
+10,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+11,2,0,Calibri,11.0,72.7,88.3,331.0,99.4,"5G spectra. In 2024, one of Portugal’s telecoms operators "
+11,2,0,Calibri,11.0,331.0,88.3,439.0,99.4,launched 5G standalone
+11,2,0,Calibri,11.0,439.1,88.3,525.1,99.4," as part of its offer, "
+11,2,1,Calibri,11.0,72.7,102.9,186.3,113.9,while another installed a 
+11,2,1,Calibri,11.0,186.4,102.9,358.5,113.9,5G standalone private mobile network
+11,2,1,Calibri,11.0,358.6,102.9,525.0,113.9, to bring digitalisation to the cement 
+11,2,2,Calibri,11.0,72.7,117.3,107.0,128.3,sector.  
+11,4,0,Calibri-Light,12.0,72.0,143.8,151.9,155.8,Semiconductors 
+11,5,0,Calibri-Bold,11.0,72.0,167.4,313.6,178.5,Semiconductors are becoming a priority for Portugal. 
+11,5,0,Calibri,11.0,313.1,167.4,358.8,178.5,The 2023  
+11,5,0,Calibri,11.0,358.5,167.4,523.5,178.5,National Strategy for Semiconductors
+11,5,0,Calibri,11.0,523.4,167.4,525.9,178.5, 
+11,5,1,Calibri,11.0,72.0,181.8,525.9,192.9,"aims to empower Portugal in this sector through involving all interested parties, such as researchers "
+11,5,2,Calibri,11.0,72.0,196.3,525.9,207.4,"and industry, and identify complementarities and synergies at national level. The country is involved "
+11,5,3,Calibri,11.0,72.0,210.9,525.9,221.9,"under the European Chips Act. For example, Portuguese stakeholders participate in two of the EU’s "
+11,5,4,Calibri,11.0,72.0,225.4,525.9,236.4,"Chips Joint Undertaking pilot lines (APECS and PIXEurope). In addition, Portugal’s national Foundation "
+11,5,5,Calibri,11.0,72.0,239.8,525.9,250.8,for Science and Technology (FCT) continues to co-fund the research and innovation (R&I) projects of 
+11,5,6,Calibri,11.0,72.0,254.3,525.9,265.4,the Electronic Components and Systems (ECS) component of the Chips Joint Undertaking and will also 
+11,5,7,Calibri,11.0,72.0,268.9,525.9,279.9,co-fund the Portuguese Competence Centre in Semiconductors of the Initiative component of the 
+11,5,8,Calibri,11.0,72.0,283.4,185.4,294.4,Chips Joint Undertaking.  
+11,6,0,Calibri-Bold,11.0,72.0,305.8,525.9,316.8,"To build sovereignty, Portugal is setting up a national competence centre in semiconductors under "
+11,6,1,Calibri-Bold,11.0,72.0,320.3,89.8,331.4,the 
+11,6,1,Calibri-Bold,11.0,89.9,320.3,208.2,331.4,Chips for Europe Initiative
+11,6,1,Calibri-Bold,11.0,208.2,320.3,211.2,331.4,.
+11,6,1,Calibri,11.0,211.1,320.3,525.9,331.4," Following a 2024 call, POEMS, a Portuguese consortium was awarded "
+11,6,2,Calibri,11.0,72.0,334.7,525.9,345.8,the contract to coordinate the centre. The consortium is led by the Braga-based International Iberian 
+11,6,3,Calibri,11.0,72.0,349.2,525.9,360.3,"Nanotechnology Laboratory and is composed of 17 national entities such as universities, research "
+11,6,4,Calibri,11.0,72.0,363.8,525.9,374.8,"centres and companies. Already operational, the competence centre provides access to technical "
+11,6,5,Calibri,11.0,72.0,378.3,525.9,389.3,"expertise and experimentation in the area of semiconductors, helping companies to improve design "
+11,6,6,Calibri,11.0,72.0,392.8,525.9,403.9,"capabilities and develop their skills. It offers or will offer services to semiconductor stakeholders, "
+11,6,7,Calibri,11.0,72.0,407.2,525.8,418.3,"including start-ups and SMEs, and form part of the European network of competence centres in "
+11,6,8,Calibri,11.0,72.0,421.7,148.1,432.8,semiconductors. 
+11,7,0,Calibri-Bold,11.0,72.7,445.0,265.6,456.1,2024 recommendation on semiconductors
+11,7,0,Calibri,11.0,265.6,445.0,524.9,456.1,: Continue efforts in the area of semiconductors including 
+11,7,1,Calibri,11.0,72.7,459.4,525.1,470.5,by proposing concrete actions and exploring synergies between the national strategy and the EU-level 
+11,7,2,Calibri,11.0,72.7,473.9,131.9,485.0,cooperation. 
+11,8,0,Calibri-Bold,11.0,72.7,495.2,519.7,506.2,Portugal made some efforts to address the recommendation through new policy actions in 2024
+11,8,0,Calibri,11.0,520.0,495.2,525.1,506.2,. 
+11,8,1,Calibri,11.0,72.7,509.7,525.1,520.8,"Notably, the country has established the national chips competence centre and participates in calls "
+11,8,2,Calibri,11.0,72.7,524.2,299.0,535.3,issued by the Chips Joint Undertaking (see above). 
+11,9,0,Calibri-Light,12.0,72.0,550.8,130.2,562.8,Edge nodes 
+11,10,0,Calibri-Bold,11.0,72.0,574.3,525.9,585.3,"According to the EU’s Edge Node Observatory, Portugal is estimated to have deployed 27 edge nodes "
+11,10,1,Calibri-Bold,11.0,72.0,588.8,231.5,599.9,"by 2024, 92.9% more than in 2023. "
+11,10,1,Calibri,11.0,231.3,588.8,525.9,599.9,This is almost twice the amount that Portugal is estimated to have 
+11,10,2,Calibri,11.0,72.0,603.3,525.9,614.4,"deployed in 2023 (Portugal had originally been estimated to have deployed 14 edge nodes in 2023, "
+11,10,3,Calibri,11.0,72.0,617.7,525.9,628.8,although this number was revised since the 2024 State of the Digital Decade report). The country did 
+11,10,4,Calibri,11.0,72.0,632.3,525.9,643.3,"not propose a 2030 target in this regard, nor did it suggest a strategy for the deployment of edge "
+11,10,5,Calibri,11.0,72.0,646.8,104.4,657.8,nodes. 
+11,11,0,Calibri-Light,12.0,72.0,669.5,184.4,681.5,Quantum technologies 
+11,12,0,Calibri-Bold,11.0,72.0,693.1,525.9,704.1,"Portuguese stakeholders are engaged in projects related to quantum technologies, including at "
+11,12,1,Calibri-Bold,11.0,72.0,707.5,142.9,718.5,European level.
+11,12,1,Calibri,11.0,142.9,707.5,525.9,718.5," EuroHPC supercomputer Deucalion, based in Guimarães, became fully operational in "
+11,12,2,Calibri,11.0,72.0,722.0,525.9,733.1,"May 2024 and received approximately 100 projects by and the end of 2024. In addition, the first users "
+11,12,3,Calibri,11.0,72.0,736.6,525.9,747.6,are now testing the quantum computing simulator software installed at Deucalion. With the 
+11,12,4,Calibri,11.0,72.0,751.1,311.1,762.1,Portuguese quantum communications project/PTQCI
+11,12,4,Calibri,11.0,311.1,751.1,366.8,762.1,", led by the "
+11,12,4,Calibri,11.0,368.1,751.1,504.9,762.1,National Security Office (GNS)
+11,12,4,Calibri,11.0,504.9,751.1,525.9,762.1, the 
+11,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+12,2,0,Calibri,11.0,72.0,87.6,525.9,98.7,"country is active in the European Quantum Communication Infrastructure (EuroQCI) initiative, which "
+12,2,1,Calibri,11.0,72.0,102.0,444.9,113.1,aims to implement secure communications networks for EU public administrations. 
+12,4,0,Calibri-Bold,11.0,72.0,124.6,491.2,135.6,"Portugal’s roadmap adjustment refers to the country’s participation in EuroQCS-Spain, "
+12,4,0,Calibri,11.0,494.0,124.6,523.6,135.6,a new
+12,4,0,Calibri-Bold,11.0,523.4,124.6,525.9,135.6, 
+12,4,1,Calibri,11.0,72.0,139.1,525.9,150.1,quantum system to complement the existing quantum computer installed in the Barcelona 
+12,4,2,Calibri,11.0,72.0,153.5,525.9,164.5,"Supercomputing Centre. In addition, Portugal’s national Foundation for Science and Technology (FCT) "
+12,4,3,Calibri,11.0,72.0,168.0,525.9,179.1,will help Portuguese researchers apply for resources in the EuroHPC Quantum Computers network. 
+12,4,4,Calibri,11.0,72.0,182.5,177.0,193.6,FCT also participates in 
+12,4,4,Calibri,11.0,177.1,182.5,222.5,193.6,QuantERA
+12,4,4,Calibri,11.0,222.6,182.5,465.7,193.6,", a project dedicated to R&I in quantum technologies.  "
+12,5,0,Calibri-Light,15.0,72.0,205.8,526.8,220.8,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+12,6,0,Calibri-Bold,11.0,72.0,232.9,525.9,243.9,"Businesses in Portugal are making greater use of digital technology, but the acceleration of this "
+12,6,1,Calibri-Bold,11.0,72.0,247.2,357.6,258.3,process could bring further benefits to the country’s economy.
+12,6,1,Calibri,11.0,357.7,247.2,525.9,258.3, The basic digital intensity of SMEs in 
+12,6,2,Calibri,11.0,72.0,261.8,525.9,272.8,"Portugal has grown steadily in recent years. The adoption of cloud computing, data analytics, and AI "
+12,6,3,Calibri,11.0,72.0,276.3,525.9,287.3,"technologies in Portugal has been mixed compared with EU averages. For example, the adoption of "
+12,6,4,Calibri,11.0,72.0,290.8,525.9,301.8,data analytics in Portugal has exceeded the EU average but AI adoption – trailed behind the EU average 
+12,6,5,Calibri,11.0,72.0,305.2,525.9,316.2,and annual growth. There is also a clear disparity in technology adoption between Portuguese SMEs 
+12,6,6,Calibri,11.0,72.0,319.7,525.8,330.8,"and the country’s large enterprises, with large enterprises exhibiting significantly higher adoption rates "
+12,6,7,Calibri,11.0,72.0,334.2,525.9,345.3,"across all three technologies. With SMEs representing the vast majority of enterprises in Portugal, their "
+12,6,8,Calibri,11.0,72.0,348.8,525.7,359.8,comparatively lower uptake rates for digital tools point to a need for targeted initiatives to accelerate 
+12,6,9,Calibri,11.0,72.0,363.2,525.9,374.2,"digital transformation. The number of start-ups is growing, but innovation funding remains an issue. "
+12,6,10,Calibri,11.0,72.0,377.7,267.9,388.7,"On a positive note, the 2025 Eurobarometer"
+12,6,10,Calibri,7.0,267.9,376.8,271.4,383.7,8
+12,6,10,Calibri,11.0,271.4,377.7,525.9,388.7, showed that 87% of Portuguese people think that public 
+12,6,11,Calibri,11.0,72.0,392.2,525.8,403.2,authorities should prioritise shaping the development of AI and other digital technologies to ensure 
+12,6,12,Calibri,11.0,72.0,406.7,525.8,417.8,that they respect our rights and values. It represents an increase of 8 percentage points compared to 
+12,6,13,Calibri,11.0,72.0,421.1,380.2,432.2,"last year, reflecting the growing interest of the citizens at this aspect. "
+12,7,0,Calibri-Light,12.0,72.0,443.9,265.2,455.9,SMEs with at least basic digital intensity 
+12,8,0,Calibri-Bold,11.0,72.0,467.5,525.9,478.5,"In 2024, 3 out of 4 (74.26%) SMEs in Portugal had at least a basic level of digital intensity (2030 "
+12,8,1,Calibri-Bold,11.0,72.0,482.0,359.8,493.0,"national target 90%), thus outpacing the EU average of 72.91%."
+12,8,1,Calibri,11.0,360.1,482.0,525.8,493.0, This followed an annual growth rate 
+12,8,2,Calibri,11.0,72.0,496.5,525.9,507.5,"of 2.7% between 2022 and 2024. More specifically, 36.98% of SMEs in Portugal in 2024 had high or "
+12,8,3,Calibri,11.0,72.0,511.0,525.7,522.1,"very high digital intensity, above the EU average of 32.66%. Overall, this reveals good digital "
+12,8,4,Calibri,11.0,72.0,525.4,415.9,536.5,engagement and steady growth in digital intensity among Portuguese SMEs.  
+12,9,0,Calibri-Bold,11.0,72.0,548.0,525.9,559.0,"Portugal still aims for 90% of its SMEs to reach at-least-basic digital intensity by 2030, in line with "
+12,9,1,Calibri-Bold,11.0,72.0,562.4,179.8,573.5,the EU target for 2030. 
+12,9,1,Calibri,11.0,180.1,562.4,525.9,573.5,"The country continues to implement investments under its RRP, in particular "
+12,9,2,Calibri,11.0,72.0,576.9,525.9,588.0,under component 16 on the digitalisation of enterprises. Examples of these investments include Digital 
+12,9,3,Calibri,11.0,72.0,591.5,525.9,602.5,"Commerce Neighbourhoods, Digital Innovation Hubs and digital test beds (mostly in specific business "
+12,9,4,Calibri,11.0,72.0,606.0,525.9,617.0,"sectors). A noteworthy measure, also highlighted in the roadmap, is ‘More Digital Leader’, supported "
+12,9,5,Calibri,11.0,72.0,620.5,525.9,631.5,with EUR 9 million in EU funding. This project aims to give digital training to managers and senior staff 
+12,9,6,Calibri,11.0,72.0,634.9,525.9,645.9,"in SMEs, in particular women, and bundle this training with an implementation plan for the digital "
+12,9,7,Calibri,11.0,72.0,649.4,204.3,660.5,transformation of companies.
+12,9,7,Calibri-Bold,11.0,204.3,649.4,206.8,660.5, 
+12,9,7,Calibri,11.0,206.7,649.4,209.2,660.5, 
+12,10,0,Calibri-Bold,11.0,72.0,671.9,525.9,682.9,Portugal’s revised roadmap gathers existing and upcoming initiatives to encourage enterprises to 
+12,10,1,Calibri-Bold,11.0,72.0,686.4,525.9,697.4,make greater use of digital technology as part of broader efforts to increase competitiveness while 
+12,10,2,Calibri-Bold,11.0,72.0,700.9,367.2,711.9,simplifying and reducing administrative burden for companies. 
+12,10,2,Calibri,11.0,368.4,700.9,429.6,711.9,"For example, "
+12,10,2,Calibri,11.0,430.7,700.9,504.2,711.9,Espaço Empresa
+12,10,2,Calibri,11.0,504.1,700.9,525.9,711.9, is a 
+12,10,3,Calibri,11.0,72.0,715.4,525.9,726.5,support service for companies that also involves assistance in digital public services. Portugal plans for 
+12,10,4,Calibri,11.0,72.0,729.8,525.9,740.9,"it to become a single point of access to information, including on EU funds, that can also promote "
+12,11,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+12,12,0,Calibri,6.0,72.0,760.6,75.1,766.6,8
+12,12,0,Calibri,9.0,75.0,760.9,285.5,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+12,12,0,Calibri,9.0,285.7,760.9,515.0,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+12,12,0,Calibri,9.0,515.2,760.9,517.2,769.9, 
+12,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+13,3,0,Calibri,11.0,72.0,87.6,525.9,98.7,simplified online communication between public administrations and businesses. Another measure 
+13,3,1,Calibri,11.0,72.0,102.0,254.7,113.1,referred to the in revised roadmap is the 
+13,3,1,Calibri,11.0,254.6,102.0,334.7,113.1,Entrepreneur App
+13,3,1,Calibri,11.0,334.6,102.0,525.9,113.1,", a mobile application for entrepreneurs to "
+13,3,2,Calibri,11.0,72.0,116.5,525.9,127.6,help them find resources and participate in a community that promotes growth and the sharing of 
+13,3,3,Calibri,11.0,72.0,131.1,231.0,142.1,"knowledge, contacts and feedback. "
+13,4,0,Calibri-Bold,11.0,72.0,153.5,448.3,164.5,"In addition, Portugal has 17 digital innovation hubs in place across the country, "
+13,4,0,Calibri-Bold,11.0,449.5,153.5,525.9,164.5,16 of which are 
+13,4,1,Calibri-Bold,11.0,72.0,168.0,384.5,179.1,connected within the European Digital Innovation Hubs network
+13,4,1,Calibri-Bold,11.0,384.5,168.0,387.5,179.1,.
+13,4,1,Calibri,11.0,387.4,168.0,525.9,179.1," These hubs provide testing, "
+13,4,2,Calibri,11.0,72.0,182.5,525.9,193.6,"training, funding and incubation support across sectors and technologies, e.g. in mobility, health, AI "
+13,4,3,Calibri,11.0,72.0,197.1,155.6,208.1,and cybersecurity. 
+13,5,0,Calibri-Bold,11.0,72.7,220.2,311.8,231.3,2024 recommendation on the digitalisation of SMEs
+13,5,0,Calibri,11.0,312.0,220.2,524.9,231.3,: Intensify the existing measures in view of the 
+13,5,1,Calibri,11.0,72.7,234.8,524.9,245.8,ambitious target on the basic digital intensity of enterprises and the need to ensure continuity of 
+13,5,2,Calibri,11.0,72.7,249.3,160.3,260.3,support until 2030. 
+13,6,0,Calibri-Bold,11.0,72.7,270.5,525.1,281.6,"Portugal continued to implement existing measures in this area in 2024, but did not take any new "
+13,6,1,Calibri-Bold,11.0,72.7,285.0,267.1,296.1,measures to address the recommendation
+13,6,1,Calibri,11.0,267.2,285.0,525.0,296.1,. The adjusted roadmap provided a more comprehensive 
+13,6,2,Calibri,11.0,72.7,299.6,525.0,310.6,picture of existing support. It also suggested some wider measures to facilitate access to information 
+13,6,3,Calibri,11.0,72.7,314.0,525.1,325.0,"on digitalisation and enable unbureaucratic, digital interaction between the State and companies (see "
+13,6,4,Calibri,11.0,72.7,328.5,525.1,339.5,"above). However, the potential effect of these measures on the digitalisation of SMEs remains to be "
+13,6,5,Calibri,11.0,72.7,343.0,399.5,354.0,fully evaluated over time and the existing measures were not intensified. 
+13,7,0,Calibri-Light,12.0,72.0,369.5,237.7,381.5,Take-up of cloud/AI/data analytics 
+13,8,0,Calibri-Bold,11.0,72.0,393.0,525.9,404.1,"According to 2024 data, 8.63% of enterprises in Portugal adopted AI (2030 national target 75%), "
+13,8,1,Calibri-Bold,11.0,72.0,407.6,525.9,418.6,"remaining behind the EU average (13.48%). Portugal saw only modest increase since last year (9.8%), "
+13,8,2,Calibri-Bold,11.0,72.0,422.0,384.9,433.0,especially in the light of the average EU-level growth rate of 67.2%.
+13,8,2,Calibri,11.0,384.9,422.0,525.8,433.0, The country did not provide a 
+13,8,3,Calibri,11.0,72.0,436.5,525.9,447.5,"national trajectory point for 2024. While SMEs’ uptake of AI in 2024 was 7.87%, large enterprises "
+13,8,4,Calibri,11.0,72.0,451.0,525.6,462.1,reported a significantly higher rate of 41.89%. This corresponds to a gap of 34.02 percentage points 
+13,8,5,Calibri,11.0,72.0,465.5,462.7,476.6,"(pp.) between SMEs and large enterprises, which is higher than the EU gap of 28.53 pp. "
+13,9,0,Calibri,11.0,72.0,488.0,525.7,499.0,"Adoption by enterprises of cloud, data analytics, and the three technologies together were not "
+13,9,1,Calibri,11.0,72.0,502.5,160.0,513.5,measured in 2024.  
+13,10,0,Calibri-Bold,11.0,72.0,524.9,525.9,536.0,"In 2023, the uptake of cloud in Portugal reached 32.29% of all businesses (2030 national target 75%), "
+13,10,1,Calibri-Bold,11.0,72.0,539.5,244.0,550.5,below the EU-level uptake of 38.97%.
+13,10,1,Calibri,11.0,244.0,539.5,525.8,550.5," More specifically, SMEs exhibited an adoption rate of 31.44%, "
+13,10,2,Calibri,11.0,72.0,554.0,525.9,565.0,while large enterprises had a higher uptake of 70.46%. This created a gap of 39.02 pp. in uptake 
+13,10,3,Calibri,11.0,72.0,568.5,498.2,579.6,"between SMEs and large enterprises in Portugal, which exceeded the EU-level gap of 31.68 pp.  "
+13,11,0,Calibri-Bold,11.0,72.0,591.0,525.8,602.0,"Data analytics was performed by 38.56% of enterprises in 2023, surpassing the EU average of "
+13,11,1,Calibri-Bold,11.0,72.0,605.5,108.3,616.5,33.25%.
+13,11,1,Calibri,11.0,108.4,605.5,525.9,616.5," Among these, 37.81% SMEs used data analytics, compared with a much higher share of large "
+13,11,2,Calibri,11.0,72.0,619.9,525.8,630.9,enterprises (71.73%). This corresponds to a gap of 33.92 pp. in engagement between SMEs and large 
+13,11,3,Calibri,11.0,72.0,634.4,394.8,645.5,"enterprises, which is lower than the EU gap of 39.72 percentage points.  "
+13,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+14,4,0,Calibri,11.0,523.6,230.2,526.1,241.2, 
+14,5,0,Calibri-Bold,11.0,72.0,249.6,525.8,260.7,"When taking the three technologies together in 2023, 54.4% of enterprises in Portugal engaged with "
+14,5,1,Calibri-Bold,11.0,72.0,264.2,472.7,275.2,"either AI, cloud, or data analytics, which was roughly in line with the EU average of 54.7%."
+14,5,1,Calibri,11.0,472.8,264.2,525.9,275.2, The uptake 
+14,5,2,Calibri,11.0,72.0,278.7,525.6,289.7,"among SMEs was slightly lower at 53.68%, while large enterprises had a higher rate of 86.53%. This "
+14,5,3,Calibri,11.0,72.0,293.1,525.8,304.1,"indicates a difference of 32.85 pp. in uptake between SMEs and large enterprises in Portugal, which is "
+14,5,4,Calibri,11.0,72.0,307.6,204.3,318.6,in line with the EU-level gap.  
+14,6,0,SymbolMT,11.0,89.9,328.0,95.0,341.4,
+14,6,0,ArialMT,11.0,94.9,329.1,98.0,341.4, 
+14,6,1,Calibri-Bold,11.0,107.7,330.8,134.0,341.8,Cloud
+14,6,1,Calibri,11.0,133.9,330.8,136.4,341.8, 
+14,7,0,Calibri-Bold,11.0,72.0,348.2,525.8,359.2,"Following the 2024 recommendation, Portugal has set a target of 75% enterprises adopting cloud "
+14,7,1,Calibri-Bold,11.0,72.0,362.7,284.4,373.7,"solutions by 2030, in line with the EU target. "
+14,7,1,Calibri,11.0,285.3,362.7,525.9,373.7,This goal remains ambitious given Portugal’s current 
+14,7,2,Calibri,11.0,72.0,377.2,223.7,388.2,pace of development in this area. 
+14,8,0,Calibri-Bold,11.0,72.0,399.7,525.7,410.7,The revised roadmap included some new measures to support the achievement of this ambitious 
+14,8,1,Calibri-Bold,11.0,72.0,414.2,102.3,425.2,target.
+14,8,1,Calibri,11.0,102.4,414.2,525.9,425.2," In 2025, the government will prepare a development plan on sovereign cloud infrastructure to "
+14,8,2,Calibri,11.0,72.0,428.7,525.9,439.8,provide national cloud services to public administration and businesses. Another important measure 
+14,8,3,Calibri,11.0,72.0,443.1,525.9,454.1,planned by Portugal is its ‘Collaborative Hub for Digital’ platform to facilitate interaction between 
+14,8,4,Calibri,11.0,72.0,457.6,525.9,468.7,public clients and innovation suppliers of digital solutions. This RRF-funded platform will build on both 
+14,8,5,Calibri,11.0,72.0,472.1,155.6,483.2,Portugal’s existing 
+14,8,5,Calibri,11.0,156.6,472.1,234.1,483.2,Innovation Portal
+14,8,5,Calibri,11.0,234.2,472.1,525.8,483.2,", where 1 200+ entities from the national innovation ecosystem "
+14,8,6,Calibri,11.0,72.0,486.7,313.1,497.7,are already listed; and the Portuguese platform for the 
+14,8,6,Calibri,11.0,312.4,486.7,460.4,497.7,public procurement of innovation
+14,8,6,Calibri,11.0,460.4,486.7,525.9,497.7,. Starting from 
+14,8,7,Calibri,11.0,72.0,501.1,525.9,512.1,"March 2025, the Collaborative Hub for Digital will create the infrastructure to enable comprehensive "
+14,8,8,Calibri,11.0,72.0,515.6,525.9,526.6,matchmaking of digital innovation procurement needs in the public sector with technology offerings 
+14,8,9,Calibri,11.0,72.0,530.1,525.9,541.2,from the private sector. The Collaborative Hub for Digital should also foster collaborations and 
+14,8,10,Calibri,11.0,72.0,544.6,525.9,555.7,"synergies with Portugal’s collaborative laboratories (CoLABs; see below), technology and innovation "
+14,8,11,Calibri,11.0,72.0,559.2,494.5,570.2,"centres (CTIs), technological free zones (ZLTs), test beds, sandboxes, and common data spaces. "
+14,9,0,SymbolMT,11.0,90.0,579.4,95.1,592.9,
+14,9,0,ArialMT,11.0,95.1,580.5,98.1,592.8, 
+14,9,1,Calibri-Bold,11.0,108.0,582.2,173.5,593.3,Data Analytics
+14,9,1,Calibri,11.0,173.4,582.2,175.9,593.3, 
+14,10,0,Calibri-Bold,11.0,72.0,599.7,366.7,610.8,Portugal has not set a 2030 target for the usage of data analytics. 
+14,10,0,Calibri,11.0,366.4,599.7,525.9,610.8,No measures in Portugal’s roadmap 
+14,10,1,Calibri,11.0,72.0,614.1,525.9,625.2,"directly targeted the promotion of data analytics solutions among enterprises. However, because data "
+14,10,2,Calibri,11.0,72.0,628.7,525.8,639.7,"analytics provide the tools and methodologies necessary to harness the power of data, it will be "
+14,10,3,Calibri,11.0,72.0,643.2,525.8,654.2,"indispensable for the development, implementation, and refinement of AI systems, actions which are "
+14,10,4,Calibri,11.0,72.0,657.7,274.6,668.7,at the heart of Portugal’s new digital agenda. 
+14,10,4,Calibri-Bold,11.0,274.5,657.7,277.0,668.7, 
+14,11,0,SymbolMT,11.0,90.0,677.9,95.1,691.4,
+14,11,0,ArialMT,11.0,95.1,679.0,98.1,691.3, 
+14,11,1,Calibri-Bold,11.0,108.0,680.7,202.2,691.8,Artificial Intelligence
+14,11,1,Calibri,11.0,202.1,680.7,204.6,691.8, 
+14,12,0,Calibri-Bold,11.0,72.0,698.3,525.9,709.3,"Following the 2024 recommendation, Portugal has set a target of 75% of its enterprises using AI by "
+14,12,1,Calibri-Bold,11.0,72.0,712.7,99.8,723.7,2030. 
+14,12,1,Calibri,11.0,99.9,712.7,424.2,723.7,"Looking at the current rate of progress, this target seems very ambitious."
+14,12,1,Calibri-Bold,11.0,424.2,712.7,426.7,723.7, 
+14,12,1,Calibri,11.0,426.6,712.7,429.1,723.7, 
+14,13,0,Calibri-Bold,11.0,72.0,735.2,525.9,746.3,"However, both the roadmap adjustment and the National Digital Strategy give attention to the "
+14,13,1,Calibri-Bold,11.0,72.0,749.8,268.3,760.8,development and implementation of AI.
+14,13,1,Calibri,11.0,268.4,749.8,525.9,760.8, One new flagship initiative set out in the roadmap 
+14,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+15,3,0,Calibri,11.0,72.0,87.6,237.0,98.7,adjustment is the development of a 
+15,3,0,Calibri-Bold,11.0,237.8,87.6,457.1,98.7,Portuguese large language model called Amalia
+15,3,0,Calibri,11.0,457.1,87.6,525.9,98.7,", which will: (i) "
+15,3,1,Calibri,11.0,72.0,102.0,525.9,113.1,help preserve national sovereignty; (ii) distinguish the different variants of the Portuguese language; 
+15,3,2,Calibri,11.0,72.0,116.5,525.9,127.6,and (iii) recognise aspects of the culture and history of Portugal. Amalia will also make it possible to 
+15,3,3,Calibri,11.0,72.0,131.1,525.8,142.1,"control the data used for training the AI, and ensure conditions for the storage and use of sensitive "
+15,3,4,Calibri,11.0,72.0,145.6,525.9,156.6,"data. Another AI project in which Portugal is involved, are AI Factories. In this context, Portuguese "
+15,3,5,Calibri,11.0,72.0,160.0,525.9,171.0,"stakeholders, including businesses, will be able to access computing capacity on the Mare Nostrum 5 "
+15,3,6,Calibri,11.0,72.0,174.5,525.9,185.5,supercomputer in Barcelona. Both actions (the development of Amalia and Portugal’s participation in 
+15,3,7,Calibri,11.0,72.0,189.0,525.9,200.1,the AI Factory) will be supported through the RRF under the ‘More Digital Science’ component thanks 
+15,3,8,Calibri,11.0,72.0,203.5,292.5,214.6,to the revision of the plan adopted in May 2025.  
+15,4,0,Calibri-Bold,11.0,72.0,226.0,525.7,237.0,Some of the initiatives taken in recent years bring opportunities to build up the AI ecosystem in 
+15,4,1,Calibri-Bold,11.0,72.0,240.5,110.4,251.6,Portugal
+15,4,1,Calibri,11.0,110.4,240.5,162.4,251.6,. Portugal’s 
+15,4,1,Calibri,11.0,162.7,240.5,276.6,251.6,Centre for Responsible AI
+15,4,1,Calibri,11.0,276.6,240.5,525.9,251.6," is a consortium of start-ups, R&D centres and industry "
+15,4,2,Calibri,11.0,72.0,255.0,525.9,266.1,"leaders that seeks to create synergies, benefit from the sharing knowledge on AI and develop products "
+15,4,3,Calibri,11.0,72.0,269.4,525.9,280.5,"that respond to real market needs. In addition, the RRP investment ‘Interface mission’ (RE-C05-i02) "
+15,4,4,Calibri,11.0,72.0,284.0,525.9,295.0,"aims to increase cooperation between academia and companies, in particular through support for the "
+15,4,5,Calibri,11.0,72.0,298.5,525.9,309.5,revitalisation of infrastructures that promote the transfer of knowledge and technology. As part of this 
+15,4,6,Calibri,11.0,72.0,313.0,300.2,324.0,"RRP investment, funding is being directed to three "
+15,4,6,Calibri,11.0,300.3,313.0,417.6,324.0,Collaborative Laboratories
+15,4,6,Calibri,11.0,417.7,313.0,525.9,324.0, focused on data and AI 
+15,4,7,Calibri,11.0,72.0,327.4,525.9,338.4,"(Data CoLAB, DTx, Vortex) and 17 collaborative laboratories using AI in sectoral applications; and (iii) "
+15,4,8,Calibri,11.0,72.0,341.9,324.2,353.0,to 16 Interface Centres using AI in sectoral applications.  
+15,5,0,Calibri-Bold,11.0,72.7,365.2,301.6,376.2,2024 recommendation on AI/cloud/data analytics
+15,5,0,Calibri,11.0,301.8,365.2,525.0,376.2,: (i) Envisage specific measures for the take up of 
+15,5,1,Calibri,11.0,72.7,379.7,524.9,390.8,"cloud, AI and data analytics, such as reinforced collaboration between public and private sector and "
+15,5,2,Calibri,11.0,72.7,394.1,483.7,405.2,with academia to better match the potential of these technologies with the business needs. 
+15,6,0,Calibri-Bold,11.0,72.7,415.5,511.6,426.5,Portugal made some efforts to address the recommendation through new policy actions in 2024.
+15,6,0,Calibri,11.0,511.7,415.5,525.1,426.5, In 
+15,6,1,Calibri,11.0,72.7,429.9,525.1,440.9,"addition to implementing its RRP, Portugal has put AI innovation and data infrastructures on its agenda "
+15,6,2,Calibri,11.0,72.7,444.4,525.1,455.5,"by making use of existing funding possibilities. However, the effects of these actions remain to be seen. "
+15,6,3,Calibri,11.0,72.7,458.9,399.8,470.0,Cooperation between businesses and academia remains underexploited
+15,6,3,Calibri,7.0,399.8,458.0,403.3,465.0,9
+15,6,3,Calibri,11.0,403.3,458.9,525.1,470.0,", although there are some "
+15,6,4,Calibri,11.0,72.7,473.5,464.2,484.5,"opportunities in this area, for example the AI Factory and the future collaborative hubs. "
+15,7,0,Calibri-Light,12.0,72.0,500.0,233.6,512.0,"Unicorns, scale-ups and start-ups "
+15,8,0,Calibri-Bold,11.0,72.0,523.5,525.8,534.5,"At the start of 2025, Portugal hosted one unicorn company which is the same number as in previous "
+15,8,1,Calibri-Bold,11.0,72.0,537.9,94.0,548.9,year.
+15,8,1,Calibri,11.0,94.0,537.9,525.9,548.9, Two companies were identified as potential unicorns. The country has maintained its target to 
+15,8,2,Calibri,11.0,72.0,552.4,525.9,563.5,double this number by 2030. As the National Digital Strategy includes a target to have at least 6 000 
+15,8,3,Calibri,11.0,72.0,567.0,525.9,578.0,"start-ups by that year, this might also support the emergence of potential unicorns. The number of "
+15,8,4,Calibri,11.0,72.0,581.5,520.9,592.5,"mapped start-ups in Portugal has increased strongly, rising from 3 700 in 2022 to over 4 700 in 2024. "
+15,9,0,Calibri-Bold,11.0,72.0,603.9,525.9,615.0,"The revised roadmap introduced a new measure, namely, in November 2024 the Deep2Start "
+15,9,1,Calibri-Bold,11.0,72.0,618.5,206.6,629.5,programme was announced.
+15,9,1,Calibri,11.0,206.7,618.5,525.9,629.5, This programme aims to promote the development of ‘deep tech’ 
+15,9,2,Calibri,11.0,72.0,633.0,525.9,644.0,projects and start-ups with high potential for disruptive technological innovation in Portugal. The 
+15,9,3,Calibri,11.0,72.0,647.4,525.8,658.4,"programme consists of two parts, one aimed at early-stage research and the other aimed at "
+15,9,4,Calibri,11.0,72.0,661.9,525.9,672.9,commercialising slightly more mature research. The first part is a deep-tech fund with EUR 50 million 
+15,9,5,Calibri,11.0,72.0,676.4,525.9,687.5,"in public funding, with private investment expected to add another EUR 50 million to reach a total of "
+15,9,6,Calibri,11.0,72.0,690.9,162.7,702.0,100 million through 
+15,9,6,Calibri,11.0,162.9,690.9,294.7,702.0,Banco Português de Fomento
+15,9,6,Calibri,11.0,294.7,690.9,525.9,702.0,", the major promoter of financing programmes and "
+15,9,7,Calibri,11.0,72.0,705.3,525.9,716.4,co-investment initiatives. This first part seeks to fund early-stage research in technology. The second 
+15,9,8,Calibri,11.0,72.0,719.9,464.3,730.9,"part is EUR 10.6 million of additional public funding, distributed in conjunction with the "
+15,9,8,Calibri,11.0,464.6,719.9,480.8,730.9,ANI
+15,9,8,Calibri,11.0,480.8,719.9,525.9,730.9,", Portugal "
+15,10,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+15,11,0,Calibri,6.0,72.0,760.6,75.1,766.6,9
+15,11,0,Calibri,9.0,75.0,760.9,375.9,769.9," 2025 European Semester Portugal country report, Annex ‘Innovation to business’. "
+15,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+16,3,0,Calibri,11.0,72.0,87.6,134.9,98.7,Ventures and 
+16,3,0,Calibri,11.0,136.1,87.6,366.5,98.7,Startup Portugal. This second part seeks to attract
+16,3,0,Calibri,11.0,366.7,87.6,525.9,98.7, private investment from ‘ignition’ 
+16,3,1,Calibri,11.0,72.0,102.0,525.8,113.1,funds which seek to: (i) transfer and increase the flow of technological and scientific knowledge from 
+16,3,2,Calibri,11.0,72.0,116.5,525.9,127.6,academia to the business ecosystem; and (ii) support start-ups in the early stages of financing. This 
+16,3,3,Calibri,11.0,72.0,131.1,525.9,142.1,second part will also distribute ‘vouchers’ to help deep-tech projects to apply for funding from the 
+16,3,4,Calibri,11.0,72.0,145.6,525.9,156.6,European Innovation Council Accelerator. Another measure identified in the revised roadmap is Lisbon 
+16,3,5,Calibri,11.0,72.0,160.0,210.3,171.0,City Council’s flagship initiative 
+16,3,5,Calibri,11.0,209.9,160.0,313.4,171.0,"Unicorn Factory Lisboa,"
+16,3,5,SegoeUI,9.0,313.3,158.5,315.7,170.2, 
+16,3,5,Calibri,11.0,315.3,160.0,523.7,171.0,which supports technology start-ups and scale-
+16,3,6,Calibri,11.0,72.0,174.5,315.5,185.5,ups through incubation and acceleration programmes.
+16,3,6,Calibri-Bold,11.0,315.4,174.5,317.9,185.5, 
+16,3,6,Calibri,11.0,318.0,174.5,320.4,185.5, 
+16,4,0,Calibri-Bold,11.0,72.0,197.1,266.0,208.1,Funding for innovation remains an issue.
+16,4,0,Calibri,11.0,266.1,197.1,361.6,208.1, A report looking at 
+16,4,0,Calibri,11.0,363.4,197.1,497.6,208.1,Portugal’s start-up ecosystem
+16,4,0,Calibri,11.0,497.6,197.1,525.9,208.1, from 
+16,4,1,Calibri,11.0,72.0,211.5,525.9,222.5,November 2024 showed that Portugal excels in implementing a favourable tax regime for stock options 
+16,4,2,Calibri,11.0,72.0,226.0,525.9,237.0,"and has solid digital public services. However, it has struggled with updating its regulatory framework "
+16,4,3,Calibri,11.0,72.0,240.5,525.8,251.6,"to foster innovation and ensure sufficient funding for start-ups. Nevertheless, most of the available "
+16,4,4,Calibri,11.0,72.0,255.0,525.8,266.1,"funding for innovation in Portugal is directed to start-ups, with only a small portion allocated to later "
+16,4,5,Calibri,11.0,72.0,269.4,525.9,280.5,development stages (9.4% of funding for innovation in Portugal is directed to later-stage innovative 
+16,4,6,Calibri,11.0,72.0,284.0,525.9,295.0,"start-ups, compared with an EU average of 48.7%). Significant financial instruments have been put in "
+16,4,7,Calibri,11.0,72.0,298.5,525.9,309.5,"place, both within the RRP and elsewhere, to support equity investments in Portuguese venture firms. "
+16,4,8,Calibri,11.0,72.0,313.0,441.7,324.0,"Nevertheless, most of these investments are anticipated to occur in 2025 and 2026"
+16,4,8,Calibri,7.0,441.8,312.1,448.8,319.1,10
+16,4,8,Calibri,11.0,448.8,313.0,454.0,324.0,. 
+16,5,0,Calibri-Bold,11.0,72.7,336.2,243.0,347.2,2024 recommendation on unicorns
+16,5,0,Calibri,11.0,243.1,336.2,525.1,347.2,: Continue reinforcing the country's start-up and scale-up 
+16,5,1,Calibri,11.0,72.7,350.7,465.1,361.7,"ecosystem, in particular by ensuring availability and effectiveness of adopted measures. "
+16,6,0,Calibri-Bold,11.0,72.7,378.2,483.6,389.2,Portugal made efforts to address the recommendation through new policy actions in 2024
+16,6,0,Calibri,11.0,483.9,378.2,525.1,389.2,. Work is 
+16,6,1,Calibri,11.0,72.7,392.7,525.1,403.7,"ongoing to recognise start-ups (see above) and raise awareness of the benefits of investing in them, "
+16,6,2,Calibri,11.0,72.7,407.2,257.6,418.3,such as tax incentives introduced by the 
+16,6,2,Calibri,11.0,258.4,407.2,319.5,418.3,Start-ups Law
+16,6,2,Calibri,11.0,318.8,407.2,525.1,418.3,". Beyond this, tech and start-ups, visas are in "
+16,6,3,Calibri,11.0,72.7,421.7,422.0,432.8,"place, and Portugal continues to implement the RRP, in part by implementing "
+16,6,3,Calibri,11.0,422.4,421.7,500.5,432.8,start-up vouchers
+16,6,3,Calibri,11.0,500.5,421.7,525.1,432.8,. The 
+16,6,4,Calibri,11.0,72.7,436.1,525.0,447.2,"Deep2Start programme has set out a vision to strengthen Portugal’s start-up sector, although its "
+16,6,5,Calibri,11.0,72.7,450.7,190.8,461.7,effects remain to be seen. 
+16,7,0,Calibri-Light,15.0,72.0,477.8,329.4,492.8,Strengthening Cybersecurity & Resilience   
+16,8,0,Calibri-Bold,11.0,72.0,504.7,525.6,515.7,"In Portugal, 73.07% of individuals reported engaging in at least one action to protect their data "
+16,8,1,Calibri-Bold,11.0,72.0,519.2,288.7,530.2,"online, slightly above the EU average of 69.55%."
+16,8,1,Calibri,11.0,288.9,519.2,525.9,530.2," More specifically, at national level, 56.11% of people "
+16,8,2,Calibri,11.0,72.0,533.7,525.8,544.8,took three or more actions to protect their data (see the six types of digital safety actions in the graph’s 
+16,8,3,Calibri,11.0,72.0,548.1,525.9,559.2,"legend), and therefore could be considered as having above-basic digital safety skills. Restricting or "
+16,8,4,Calibri,11.0,72.0,562.7,525.9,573.7,"refusing access to the user’s geographical location was the action most commonly taken (54.96%), "
+16,8,5,Calibri,11.0,72.0,577.2,525.8,588.2,while the least commonly taken action was changing browser settings to block or limit cookies 
+16,8,6,Calibri,11.0,72.0,591.7,113.9,602.7,(31.5%).  
+16,9,0,Calibri,11.0,216.1,747.7,218.5,758.8, 
+16,10,0,Calibri,6.0,72.0,760.6,78.1,766.6,10
+16,10,0,Calibri,9.0,78.0,760.9,453.1,769.9," 2025 European Semester Portugal country report, Innovation, business environment and productivity. "
+16,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+17,4,0,Calibri,11.0,523.6,283.0,526.1,294.0, 
+17,5,0,Calibri-Bold,11.0,72.0,302.6,525.9,313.6,"Portuguese enterprises tend to experience fewer incidents related to cyberattacks, and Portuguese "
+17,5,1,Calibri-Bold,11.0,72.0,317.0,503.1,328.0,employees are more aware of their obligations related to ICT security than the EU average.
+17,5,1,Calibri,11.0,503.0,317.0,525.9,328.0, The 
+17,5,2,Calibri,11.0,72.0,331.5,525.9,342.5,number of enteprises in Portugal that experienced ICT security incidents leading to the unavailability 
+17,5,3,Calibri,11.0,72.0,346.0,525.9,357.0,"of ICT services due to attack from outside (e.g. Ransomware attacks, Denial of Service attacks) has "
+17,5,4,Calibri,11.0,72.0,360.5,525.9,371.6,"increased slightly, rising from 2.46% in 2022 to 3.12% in 2024, slightly below the EU average of 3.43%. "
+17,5,5,Calibri,11.0,72.0,374.9,525.8,386.0,Portuguese enterprises are also much less prone to incidents related to hardware or software failures 
+17,5,6,Calibri,11.0,72.0,389.4,525.9,400.5,"(10.31%) than their EU peers (17.97%). In terms of measures, the vast majority (95.62%) of enterprises "
+17,5,7,Calibri,11.0,72.0,404.0,525.9,415.0,in Portugal deployed some ICT security measures in 2024 (against the EU average of 92.76%). In 
+17,5,8,Calibri,11.0,72.0,418.5,525.8,429.5,"addition, two thirds of Portuguese enterprises (65.63%) made their employees aware of their "
+17,5,9,Calibri,11.0,72.0,432.9,445.2,443.9,"obligations related to ICT security, above the EU average for this measure (59.97%). "
+17,6,0,Calibri-Bold,11.0,72.0,455.5,525.7,466.5,Portugal shows a mixed performance in the roll out of the secure Internet Protocol version 6 (IPv6) 
+17,6,1,Calibri-Bold,11.0,72.0,470.0,171.7,481.0,protocol for end users
+17,6,1,Calibri,11.0,171.8,470.0,277.1,481.0,. On the deployment of 
+17,6,1,Calibri,11.0,276.9,470.0,390.4,481.0,secure internet standards
+17,6,1,Calibri,11.0,390.4,470.0,525.9,481.0,", Portugal is performing above "
+17,6,2,Calibri,11.0,72.0,484.4,525.9,495.4,"the EU average in IPv6 for end users (40% of users vs EU average of 36%), but is significantly below the "
+17,6,3,Calibri,11.0,72.0,498.9,525.8,509.9,"EU average on the server side (2%, against 17% for the EU). IPv6 is an important protocol as it ensures "
+17,6,4,Calibri,11.0,72.0,513.4,525.9,524.5,"the scalability, stability, and security of the Internet. The deployment of this new version is increasingly "
+17,6,5,Calibri,11.0,72.0,527.9,525.8,539.0,"urgent, as traditional IPv4 addresses have been long depleted. Domain Name System Security "
+17,6,6,Calibri,11.0,72.0,542.3,525.9,553.4,Extensions (DNSSEC) is also an important standard to be rolled out as it introduces security features to 
+17,6,7,Calibri,11.0,72.0,556.9,525.7,567.9,"DNS. In Portugal, the DNSSEC validation rate (i.e. verification of the authenticity of responses sent by "
+17,6,8,Calibri,11.0,72.0,571.4,525.8,582.5,"name servers to clients, using a digital signature technology) is 11% (Q3 2024), below the EU average "
+17,6,9,Calibri,11.0,72.0,585.9,385.4,597.0,of 47% and significantly lower than two years ago (34.8% in Q3 2022). 
+17,7,0,Calibri-Bold,11.0,72.0,608.4,525.9,619.4,"Intense work is ongoing to transpose the NIS 2 Directive into the Portuguese legal system, after "
+17,7,1,Calibri-Bold,11.0,72.0,622.9,343.4,633.9,which the national cybersecurity strategy will be adopted.
+17,7,1,Calibri,11.0,343.6,622.9,525.9,633.9, Following the adoption of the national 
+17,7,2,Calibri,11.0,72.0,637.4,525.9,648.5,"cybersecurity strategy, Portugal is expected to announce a plan to increase the cybersecurity of its 5G "
+17,7,3,Calibri,11.0,72.0,651.8,121.3,662.9,networks.  
+17,8,0,Calibri-Bold,11.0,72.0,674.4,525.9,685.4,Public and private stakeholders recognise the value of raising both general cybersecurity awareness 
+17,8,1,Calibri-Bold,11.0,72.0,688.9,238.5,699.9,and specialised cybersecurity skills.
+17,8,1,Calibri,11.0,238.6,688.9,525.8,699.9, Portugal’s National Cybersecurity Centre (CNCS; the national 
+17,8,2,Calibri,11.0,72.0,703.3,525.9,714.3,cybersecurity authority and national cybersecurity certification authority) is responsible for multiple 
+17,8,3,Calibri,11.0,72.0,717.8,525.9,728.9,initiatives in the field funded under the RRP. Many of these initiatives began full operations in 2024 
+17,8,4,Calibri,11.0,72.0,732.4,235.5,743.4,"and early 2025. For example, the "
+17,8,4,Calibri,11.0,238.4,732.4,288.6,743.4,C-Academy
+17,8,4,Calibri,11.0,288.7,732.4,525.9,743.4, provides training in cybersecurity skills in public 
+17,8,5,Calibri,11.0,72.0,746.9,268.7,757.9,"administration and private sector, while the "
+17,8,5,Calibri,11.0,268.6,746.9,466.4,757.9,Cybersecurity Competence Centres Network
+17,8,5,Calibri,11.0,466.5,746.9,525.9,757.9, (C-Network) 
+17,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+18,3,0,Calibri,11.0,72.0,87.6,525.8,98.7,"gathers ‘one stop shops’ spread across regions, which are designed to provide local guidance and "
+18,3,1,Calibri,11.0,72.0,102.0,378.4,113.1,"services to the public administration, SMEs and other entities. The "
+18,3,1,Calibri,11.0,379.5,102.0,525.8,113.1,Cybersecurity Digital Innovation 
+18,3,2,Calibri,11.0,72.0,116.5,90.4,127.6,Hub
+18,3,2,Calibri,11.0,90.4,116.5,525.9,127.6, (C-Hub) fosters R&D and introduces cybersecurity innovation in the country. Large Portuguese 
+18,3,3,Calibri,11.0,72.0,131.1,286.1,142.1,tech companies continue cooperating under the 
+18,3,3,Calibri,11.0,285.5,131.1,386.5,142.1,"Cybersecurity Alliance,"
+18,3,3,Calibri,11.0,386.5,131.1,525.9,142.1, and the general public can stay 
+18,3,4,Calibri,11.0,72.0,145.6,272.6,156.6,informed about cybersecurity thanks to the 
+18,3,4,Calibri,11.0,273.6,145.6,392.9,156.6,Cybersecurity Observatory
+18,3,4,Calibri,11.0,392.2,145.6,525.9,156.6,. Portugal is now planning to 
+18,3,5,Calibri,11.0,72.0,160.0,497.2,171.0,launch a ‘Safer Digital’ campaign to raise awareness about cybersecurity among young people.  
+18,3,6,Calibri-Bold,26.0,72.0,185.6,493.4,211.6,Protecting and empowering EU people 
+18,3,7,Calibri-Bold,26.0,72.0,219.8,200.5,245.8,and society 
+18,4,0,Calibri-Light,15.0,72.0,259.9,526.4,274.9,Empowering people and bringing the digital transformation closer to their 
+18,4,1,Calibri-Light,15.0,72.0,279.7,111.7,294.7,needs 
+18,5,0,Calibri-Bold,11.0,72.0,306.5,525.9,317.6,The share of the Portuguese population with at least basic digital skills is roughly the same as the 
+18,5,1,Calibri-Bold,11.0,72.0,321.0,525.9,332.1,"EU average, although digital skills are less common among people with lower levels of education, "
+18,5,2,Calibri-Bold,11.0,72.0,335.6,333.0,346.6,"older people, people living in rural areas, and women."
+18,5,2,Calibri,11.0,333.1,335.6,525.9,346.6," However, the annual growth rate in the "
+18,5,3,Calibri,11.0,72.0,350.1,525.9,361.1,"number of enterprises providing ICT training; and the increase in the share of ICT specialists, including "
+18,5,4,Calibri,11.0,72.0,364.5,525.7,375.5,"women indicate a positive trend. In addition, some programmes are starting to promote gender "
+18,5,5,Calibri,11.0,72.0,379.0,525.9,390.0,convergence in the area of ICT skills. Robust digital skills are also being promoted through investments 
+18,5,6,Calibri,11.0,72.0,393.5,304.1,404.6,"in Portugal’s RRP, including in public administration. "
+18,6,0,Calibri-Light,12.0,72.0,416.2,182.3,428.2,Equipping people with 
+18,6,0,Calibri,12.0,182.4,416.2,240.7,428.2,digital skills 
+18,7,0,Calibri-LightItalic,11.0,72.0,439.9,152.0,450.9,Basic Digital Skills 
+18,8,0,Calibri-Bold,11.0,72.0,462.3,525.9,473.4,"In 2023, 55.97% (2030 national target 80%) of Portugal’s population had at- least basic digital skills, "
+18,8,1,Calibri-Bold,11.0,72.0,476.8,224.4,487.9,close to the EU average (55.56%).
+18,8,1,Calibri,11.0,224.6,476.8,525.8,487.9," Although these data were not updated in 2024, examining specific "
+18,8,2,Calibri,11.0,72.0,491.3,525.8,502.4,demographics provides a clearer picture of the digital skills landscape. The points below give some 
+18,8,3,Calibri,11.0,72.0,505.7,255.4,516.8,insight into these specific demographics. 
+18,9,0,SymbolMT,11.0,90.0,526.1,95.1,539.6,
+18,9,0,ArialMT,11.0,95.1,527.2,98.1,539.5, 
+18,9,1,Calibri-Bold,11.0,108.0,528.9,165.6,539.9,Gender Gap:
+18,9,1,Calibri,11.0,165.6,528.9,525.9,539.9," Portugal’s gender gap in digital skills was similar to the EU average in 2023, with "
+18,9,2,Calibri,11.0,108.0,543.3,525.9,554.3,"57.21% of men and 54.84% of women proficient in digital skills, resulting in a gap of 2.37 pp. "
+18,9,3,Calibri,11.0,108.0,557.9,303.0,568.9,(this gap is 2.23 pp. for the EU on average). 
+18,9,4,SymbolMT,11.0,90.0,570.2,95.1,583.6,
+18,9,4,ArialMT,11.0,95.1,571.3,98.1,583.6, 
+18,9,5,Calibri-Bold,11.0,108.0,573.0,182.7,584.0,Education Level:
+18,9,5,Calibri,11.0,182.7,573.0,525.9,584.0, Educational attainment is significantly correlated with digital proficiency. Of 
+18,9,6,Calibri,11.0,108.0,587.5,525.9,598.5,"those with higher education in Portugal, 88.72% had at least basic digital skills, well above the "
+18,9,7,Calibri,11.0,108.0,601.9,525.9,612.9,"EU average (79.83%). However, there was a steep drop for those with lower education, only "
+18,9,8,Calibri,11.0,108.0,616.4,525.9,627.5,"23.16% of whom had at least basic digital skills, leading to a gap of 32.81 pp. from the national "
+18,9,9,Calibri,11.0,108.0,630.9,525.9,642.0,average. This was considerably larger than the EU average disparity between the digital skills 
+18,9,10,Calibri,11.0,108.0,645.5,525.8,656.5,of those with higher education and the digital skills of those with lower levels of education 
+18,9,11,Calibri,11.0,108.0,659.9,161.9,670.9,(21.95 pp.). 
+18,9,12,SymbolMT,11.0,90.0,672.2,95.1,685.6,
+18,9,12,ArialMT,11.0,95.1,673.3,98.1,685.6, 
+18,9,13,Calibri-Bold,11.0,108.0,675.0,165.6,686.0,Living Areas:
+18,9,13,Calibri,11.0,165.6,675.0,525.9,686.0," In rural Portugal, 43.70% of people have at least basic level of digital skills, which "
+18,9,14,Calibri,11.0,108.0,689.5,525.9,700.5,is below the EU average for rural areas (47.50%). The gap between rural areas and the national 
+18,9,15,Calibri,11.0,108.0,704.0,525.9,715.1,"average is 12.27 pp., indicating that Portugal has a more pronounced digital divide compared "
+18,9,16,Calibri,11.0,108.0,718.4,200.7,729.5,to the EU (8.06 pp.). 
+18,9,17,SymbolMT,11.0,90.0,730.7,95.1,744.2,
+18,9,17,ArialMT,11.0,95.1,731.8,98.1,744.2, 
+18,9,18,Calibri-Bold,11.0,108.0,733.6,165.3,744.6,Age Groups:
+18,9,18,Calibri,11.0,165.3,733.6,525.7,744.6," Young people aged16-24 years in Portugal are highly skilled digitally, with an "
+18,9,19,Calibri,11.0,108.0,748.1,523.7,759.1,"82.64% proficiency rate, significantly above the EU average (69.98%). In stark contrast, the 65-"
+18,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+19,3,0,Calibri,11.0,108.0,87.6,309.8,98.7,to 74-year-old demographic has a low 
+19,3,1,Calibri,11.0,108.0,102.0,309.9,113.1,"proficiency rate of 18.52%, well below the EU "
+19,3,2,Calibri,11.0,108.0,116.5,274.5,127.6,average for that age group (28.19%). 
+19,3,3,SymbolMT,11.0,90.0,128.8,95.1,142.3,
+19,3,3,ArialMT,11.0,95.1,129.9,98.1,142.3, 
+19,3,4,Calibri-Bold,11.0,108.0,131.7,258.2,142.7,Digital Skills Index components:
+19,3,4,Calibri,11.0,258.3,131.7,309.9,142.7, Portugal’s 
+19,3,5,Calibri,11.0,108.0,146.2,309.8,157.2,performance in the Digital Skills Index is 
+19,3,6,Calibri,11.0,108.0,160.6,309.7,171.6,"mixed, with safety skills being the only "
+19,3,7,Calibri,11.0,108.0,175.1,309.9,186.1,"category where, with a score of 73.07, it is "
+19,3,8,Calibri,11.0,108.0,189.6,309.9,200.7,above the EU average (69.72%). The 
+19,3,9,Calibri,11.0,108.0,204.1,307.5,215.2,country’s weakest area is digital-content-
+19,3,10,Calibri,11.0,108.0,218.5,309.8,229.6,"creation skills, with a score of 62.10%, below "
+19,3,11,Calibri,11.0,108.0,233.1,223.2,244.1,the EU average (68.28%). 
+19,5,0,Calibri-Bold,11.0,72.0,250.6,309.6,261.6,Portugal shows strengths in digital safety skills and 
+19,5,1,Calibri-Bold,11.0,72.0,265.1,309.7,276.2,"among younger individuals, but faces significant "
+19,5,2,Calibri-Bold,11.0,72.0,279.5,471.5,290.6,"challenges, particularly in supporting older adults and those with less formal education."
+19,5,2,Calibri,11.0,471.8,279.5,525.9,290.6, Addressing 
+19,5,3,Calibri,11.0,72.0,294.0,525.9,305.1,"these gaps, especially in rural areas and in digital-content creation, could improve overall digital "
+19,5,4,Calibri,11.0,72.0,308.6,338.3,319.6,proficiency and further bridge the digital divide in Portugal. 
+19,6,0,Calibri-Bold,11.0,72.0,331.0,525.9,342.0,The revised roadmap sets out multiple existing and planned measures to increase the digital skills 
+19,6,1,Calibri-Bold,11.0,72.0,345.5,155.7,356.6,of the population.
+19,6,1,Calibri,11.0,155.8,345.5,525.9,356.6," Among the new measures, the Digital Skills Curriculum is a plan to develop both "
+19,6,2,Calibri,11.0,72.0,360.0,525.9,371.1,micro credentials in digital skills and ways to certify these micro credentials. The aim of this measure 
+19,6,3,Calibri,11.0,72.0,374.6,525.9,385.6,is to respond to labour market needs by giving the population reliable digital training and a tool to 
+19,6,4,Calibri,11.0,72.0,389.0,525.8,400.0,prove they have reached a certain level of proficiency. Another planned measure is the Digital Skills 
+19,6,5,Calibri,11.0,72.0,403.5,525.9,414.5,Index for use in primary and secondary education. Implementation of a pilot version of this index in 
+19,6,6,Calibri,11.0,72.0,418.0,525.8,429.1,"10 representative public schools will start in September 2025, with the index being applied to the last "
+19,6,7,Calibri,11.0,72.0,432.5,525.8,443.6,academic year of each cycle. Expansion of the project to 200 schools is planned to start in September 
+19,6,8,Calibri,11.0,72.0,446.9,525.9,458.0,2026. This pilot will identify five critical areas of intervention to mitigate gaps in students’ digital skills. 
+19,6,9,Calibri,11.0,72.0,461.5,525.9,472.5,"In addition, an important part of the country’s approach to digital skills is the continuous training of "
+19,6,10,Calibri,11.0,72.0,476.0,449.1,487.0,public administration on digital skills. This training is receiving support from the RRF. 
+19,7,0,Calibri-Bold,11.0,72.0,498.4,525.8,509.5,Portugal’s adjusted roadmap retained its earlier target of 80% of its population having at least basic 
+19,7,1,Calibri-Bold,11.0,72.0,512.9,167.9,524.0,digital skills by 2030. 
+19,7,1,Calibri,11.0,167.8,512.9,525.8,524.0,This target remains ambitious but seems achievable with concerted effort across 
+19,7,2,Calibri,11.0,72.0,527.5,125.4,538.5,the society. 
+19,8,0,Calibri-Bold,11.0,72.7,550.6,273.5,561.7,2024 recommendation on basic digital skills
+19,8,0,Calibri,11.0,273.6,550.6,525.1,561.7,: Intensify efforts including by evaluating the take-up of 
+19,8,1,Calibri,11.0,72.7,565.2,287.4,576.2,the current measures and the remaining needs. 
+19,9,0,Calibri-Bold,11.0,72.7,591.2,495.6,602.3,Portugal made efforts to address the recommendation through new policy actions in 2024
+19,9,0,Calibri,11.0,495.9,591.2,525.1,602.3,. New 
+19,9,1,Calibri,11.0,72.7,605.7,525.0,616.8,"actions targeting children and the population in general are planned, with results to be evaluated at a "
+19,9,2,Calibri,11.0,72.7,620.3,525.1,631.3,"later stage. In addition, many measures reported last year appear to remain in place. However, it is "
+19,9,3,Calibri,11.0,72.7,634.8,525.1,645.8,"difficult to assess the take-up of these measures. Moreover, there remains a need to improve digital "
+19,9,4,Calibri,11.0,72.7,649.2,403.4,660.2,"skills – especially given age-related, educational and territorial disparities. "
+19,10,0,Calibri-LightItalic,11.0,72.0,675.5,135.2,686.5,ICT specialists 
+19,11,0,Calibri-Bold,11.0,72.0,698.0,525.9,709.1,Portugal shows promising trends in its share of ICT specialists. ICT specialists as a percentage of total 
+19,11,1,Calibri-Bold,11.0,72.0,712.4,525.9,723.5,"employment in Portugal increased to 5.2% in 2024 (2030 national target 7%), exceeding the EU’s "
+19,11,2,Calibri-Bold,11.0,72.0,727.0,97.2,738.0,5.0%.
+19,11,2,Calibri,11.0,97.1,727.0,525.9,738.0, The country is now on track according to its national trajectory. As the value in 2023 was 4.6% 
+19,11,3,Calibri,11.0,72.0,741.5,525.9,752.5,"(number revised from last year), the yearly growth rate of 13.0% for Portugal in this category was "
+19,11,4,Calibri,11.0,72.0,756.0,319.1,767.0,substantially higher than the EU’s growth rate of 4.2%.  
+19,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+20,3,0,Calibri-Bold,11.0,72.0,87.6,401.5,98.7,Portugal also shows a positive trend in its share of female ICT specialists
+20,3,0,Calibri,11.0,401.7,87.6,525.9,98.7,. This figure increased from 
+20,3,1,Calibri,11.0,72.0,102.0,525.9,113.1,"20.2% of ICT specialists in 2023 to 22.7% in 2024, remaining above the EU’s 19.5% in 2024. Portugal’s "
+20,3,2,Calibri,11.0,72.0,116.5,525.8,127.6,"growth rate of 12.4% in this area is far higher than the EU’s 0.5%. In 2022, 23.66% of enterprises with "
+20,3,3,Calibri,11.0,72.0,131.1,525.8,142.1,"10 or more employees in Portugal provided ICT training, slightly surpassing the EU average of 22.37%. "
+20,3,4,Calibri,11.0,72.0,145.6,525.9,156.6,"By 2024, this figure rose to 27.79%, while the EU average decreased slightly to 22.29%. Portugal’s "
+20,3,5,Calibri,11.0,72.0,160.0,417.7,171.0,annual growth rate of 8.4% in this area significantly outpaces the EU’s -0.2%.  
+20,4,0,Calibri-Bold,11.0,72.0,182.5,223.8,193.6,On demand in the labour market
+20,4,0,Calibri,11.0,223.9,182.5,229.1,193.6,", "
+20,4,0,Calibri,11.0,229.5,182.5,369.7,193.6,Eurostat experimental statistics
+20,4,0,Calibri,11.0,369.8,182.5,525.8,193.6, based on web scraping show that 
+20,4,1,Calibri,11.0,72.0,197.1,525.9,208.1,"‘software and applications developers and analysts’ are the most sought after IT profile in Portugal, "
+20,4,2,Calibri,11.0,72.0,211.5,525.9,222.5,representing 51.5% of online job advertisements for ICT specialists (against 58.0% at EU level). In 
+20,4,3,Calibri,11.0,72.0,226.0,525.9,237.0,"addition, 29.5% of online job advertisements for ICT specialists in the country are for ‘information and "
+20,4,4,Calibri,11.0,72.0,240.5,525.9,251.6,"communications technology operations and user support technicians’, making this role in more "
+20,4,5,Calibri,11.0,72.0,255.0,318.9,266.1,demand in Portugal than in the EU on average (10.4%). 
+20,5,0,Calibri-Bold,11.0,72.0,277.5,525.8,288.5,"The 2030 target set by Portugal for ICT specialists as a share of total employment is 7%, which is "
+20,5,1,Calibri-Bold,11.0,72.0,292.0,274.3,303.0,lower than the 10% target value for the EU.
+20,5,1,Calibri,11.0,274.5,292.0,525.9,303.0," However, given the good rate of progress this national "
+20,5,2,Calibri,11.0,72.0,306.5,525.8,317.6,"target seems achievable, and the authorities expressed initial openness to an upward revision of the "
+20,5,3,Calibri,11.0,72.0,320.9,162.5,332.0,target in the future. 
+20,6,0,Calibri-Bold,11.0,72.0,343.5,504.6,354.5,The revised roadmap included some existing measures to address the 2024 recommendation. 
+20,6,0,Calibri,11.0,504.9,343.5,525.9,354.5,One 
+20,6,1,Calibri,11.0,72.0,358.0,298.3,369.0,example of this is the + Digital Trainer programme (
+20,6,1,Calibri-Italic,11.0,298.3,358.0,381.3,369.0,Formador + Digital
+20,6,1,Calibri,11.0,381.3,358.0,525.9,369.0,"), which started in late 2023 and "
+20,6,2,Calibri,11.0,72.0,372.4,525.9,383.4,plans to train 4 000 professional digital trainers by the end of Q3 2025. Part of the RRF investment on 
+20,6,3,Calibri,11.0,72.0,386.9,357.8,398.0,"the digital empowerment of enterprises, Employment + Digital ("
+20,6,3,Calibri-Italic,11.0,357.9,386.9,437.7,398.0,Emprego + Digital
+20,6,3,Calibri,11.0,437.6,386.9,525.9,398.0,"), this RRF initiative "
+20,6,4,Calibri,11.0,72.0,401.5,525.9,412.5,aims to attract technology-sector professionals and specialists to help them improve their pedagogical 
+20,6,5,Calibri,11.0,72.0,416.0,525.8,427.0,"skills, enabling them to obtain certification to work as trainers in their areas of expertise. It also focuses "
+20,6,6,Calibri,11.0,72.0,430.4,525.8,441.4,on reorienting professionals who already hold certification in teaching skills and wish to develop 
+20,6,7,Calibri,11.0,72.0,444.9,285.3,455.9,specialised skills in specific digital technologies. 
+20,7,0,Calibri-Bold,11.0,72.0,467.3,525.8,478.4,"Tackling gender balance in the field of ICT specialists and in science, technology engineering and "
+20,7,1,Calibri-Bold,11.0,72.0,481.9,464.2,492.9,mathematics (STEM) has become more visible in the Portuguese political agenda. 
+20,7,1,Calibri,11.0,466.2,481.9,525.9,492.9,The recently 
+20,7,2,Calibri,11.0,72.0,496.4,525.9,507.4,"launched ‘Girls in STEM’ National Programme encompasses, first, an ‘Ambassadors Network’, through "
+20,7,3,Calibri,11.0,72.0,510.9,525.9,521.9,which women working in STEM fields meet female high school and university students to mentor and 
+20,7,4,Calibri,11.0,72.0,525.4,525.8,536.5,"inspire them by sharing academic and professional experiences. The second, future strand of this "
+20,7,5,Calibri,11.0,72.0,539.8,525.8,550.9,"programme will be governmental support for projects by all stakeholders (e.g. academia, private "
+20,7,6,Calibri,11.0,72.0,554.3,525.7,565.4,"sector, NGOs) which will promote the interest, attraction and retention of girls and women in STEM "
+20,7,7,Calibri,11.0,72.0,568.9,320.4,579.9,fields throughout education and on the labour market.  
+20,8,0,Calibri-Bold,11.0,72.0,591.3,237.7,602.4,Other initiatives are still underway.
+20,8,0,Calibri,11.0,237.8,591.3,525.9,602.4," One example is the requalification programme UpSkill, which "
+20,8,1,Calibri,11.0,72.0,605.9,525.9,616.9,involves intense theoretical courses and hands-on training in companies and aims to train 7 500 people 
+20,8,2,Calibri,11.0,72.0,620.4,525.9,631.4,"by 2030. Importantly, increasing the number of students graduating from tertiary education courses "
+20,8,3,Calibri,11.0,72.0,634.8,525.9,645.8,"in STEAM fields is also one of the targets under the RRF (RE-C06-i04), with 10 000 additional graduates "
+20,8,4,Calibri,11.0,72.0,649.3,389.3,660.3,"in the school year 2023/2024, compared to the school year 2019/2020."
+20,8,4,Calibri-Bold,11.0,389.5,649.3,392.0,660.3, 
+20,8,4,Calibri,11.0,391.9,649.3,394.4,660.3, 
+20,9,0,Calibri-Bold,11.0,72.7,672.6,261.8,683.6,2024 recommendation on ICT specialists
+20,9,0,Calibri,11.0,261.8,672.6,525.0,683.6,": Adopt additional measures for ICT specialists, including "
+20,9,1,Calibri,11.0,72.7,687.1,426.8,698.1,cybersecurity talent and promoting ICT studies and gender balance in the field. 
+20,10,0,Calibri-Bold,11.0,72.7,705.5,519.7,716.5,Portugal made some efforts to address the recommendation through new policy actions in 2024
+20,10,0,Calibri,11.0,520.0,705.5,525.1,716.5,. 
+20,10,1,Calibri,11.0,72.7,720.0,525.0,731.0,"Specific action was taken to promote gender balance in ICT and STEM, for example through Girls in "
+20,10,2,Calibri,11.0,72.7,734.5,525.1,745.6,"STEM. In addition, earlier launched initiatives, such as the + Digital Trainer programme were added to "
+20,10,3,Calibri,11.0,72.7,748.9,224.4,760.0,the revised roadmap (see above). 
+20,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+21,2,0,Calibri-Light,12.0,72.0,87.9,476.9,99.9,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+21,4,0,Calibri-Bold,11.0,72.0,111.4,525.9,122.4,"On digital public services for citizens, Portugal scored 84.48 (2030 national target: 100), after a "
+21,4,1,Calibri-Bold,11.0,72.0,125.9,437.2,136.9,"progression of 3.6%, putting the country above the EU average for 2024 of 82.32."
+21,4,1,Calibri,11.0,437.3,125.9,525.9,136.9, The country is now 
+21,4,2,Calibri,11.0,72.0,140.4,525.9,151.5,"on track according to its national trajectory, and its year-on-year growth rate of 3.6% between 2023 "
+21,4,3,Calibri,11.0,72.0,154.8,525.9,165.9,"and 2024 mirrored the EU’s growth rate. For cross-border digital public services for citizens, the "
+21,4,4,Calibri,11.0,72.0,169.3,525.9,180.4,"country scored 71.67, exceeding the EU’s 71.28. Portugal's growth rate of 9.0% the EU's 4.3%. The "
+21,4,5,Calibri,11.0,72.0,183.9,525.9,194.9,"share of Portuguese people using government internet websites or apps has increased significantly, "
+21,4,6,Calibri,11.0,72.0,198.4,509.7,209.4,"rising from 80.61% in 2023 to 85.25% in 2024, well above the 2024 EU average of 74.71% in 2024. "
+21,5,0,Calibri-Bold,11.0,72.0,220.8,525.9,231.9,"On digital public services for businesses, Portugal’s score was 84.31 in 2024 (2030 national target "
+21,5,1,Calibri-Bold,11.0,72.0,235.4,525.9,246.4,"100), after a progression of 2.9%, but this means Portugal was still below the EU’s score of 86.23 for "
+21,5,2,Calibri-Bold,11.0,72.0,249.9,116.2,260.9,that year.
+21,5,2,Calibri,11.0,116.2,249.9,525.9,260.9, The country is on track according to its national trajectory. On cross-border digital public 
+21,5,3,Calibri,11.0,72.0,264.3,525.9,275.3,"services for businesses, Portugal lagged behind the EU’s score of 73.76 with a score of 68.61. "
+21,5,4,Calibri,11.0,72.0,278.8,525.9,289.8,"Nevertheless, Portugal’s year-on-year growth rate between 2023 and 2024 of 7.4% was significantly "
+21,5,5,Calibri,11.0,72.0,293.3,205.9,304.4,higher than the EU’s of 0.9%.  
+21,6,0,Calibri-Bold,11.0,72.0,315.8,525.9,326.8,"Access to e-Health records in Portugal is continuously improving, and with a score of 88.07 in 2024 "
+21,6,1,Calibri-Bold,11.0,72.0,330.3,353.0,341.3,"(2030 national target: 100), exceeding the EU average of 82.7. "
+21,6,1,Calibri,11.0,352.8,330.3,525.9,341.3,The country is on track according to its 
+21,6,2,Calibri,11.0,72.0,344.8,525.9,355.9,"national trajectory. However, Portugal’s growth rate of 2.4% between 2023 and 2024 on this measure "
+21,6,3,Calibri,11.0,72.0,359.2,244.8,370.2,was slightly lower than the EU’s 4.5%.  
+21,7,0,Calibri-LightItalic,11.0,72.0,381.8,89.0,392.8,eID 
+21,8,0,Calibri-Bold,11.0,72.0,404.2,525.9,415.3,"In its adjusted roadmap, Portugal made reference to GOV.PT app, a new measure to build a single "
+21,8,1,Calibri-Bold,11.0,72.0,418.7,159.9,429.8,public-services app
+21,8,1,Calibri,11.0,159.9,418.7,525.9,429.8,". In December 2024, GOV.PT app replaced the two public-services apps that had "
+21,8,2,Calibri,11.0,72.0,433.3,525.9,444.3,been in use. Further plans for this app include implementation of push notifications to proactively 
+21,8,3,Calibri,11.0,72.0,447.8,525.9,458.8,inform citizens about the services available and design changes to gradually integrate more proactive 
+21,8,4,Calibri,11.0,72.0,462.2,112.9,473.2,services. 
+21,9,0,Calibri-Bold,11.0,72.0,484.7,525.9,495.8,National stakeholders remain active in piloting the usage of EUDI Wallets through four large-scale 
+21,9,1,Calibri-Bold,11.0,72.0,499.3,376.1,510.3,pilots before EUDIW becomes fully operational by the end of 2026
+21,9,1,Calibri,11.0,376.3,499.3,525.9,510.3,. One of the most recent pilots is 
+21,9,2,Calibri,11.0,72.0,513.7,525.9,524.7,the Advanced Project for Trusted Identity Technologies and Unified Digital Ecosystem (APTITUDE). The 
+21,9,3,Calibri,11.0,72.0,528.2,525.9,539.2,"participants in the APTITUDE consortium, of which Portugal is one, focus on advancing the use of "
+21,9,4,Calibri,11.0,72.0,542.7,525.9,553.8,"wallets for travel and payment purposes across four use cases: payments, mobile vehicle-registration "
+21,9,5,Calibri,11.0,72.0,557.3,525.9,568.3,"certificates, digital travel credentials, and tickets and travel check-in. Another new project is also being "
+21,9,6,Calibri,11.0,72.0,571.7,525.8,582.7,"implemented in Portugal by the consortium Wallet Ecosystem for Business & Payment Use cases, "
+21,9,7,Calibri,11.0,72.0,586.2,343.7,597.2,"Identification, Legal person representation and Data sharing"
+21,9,7,Calibri-Italic,11.0,343.8,586.2,346.2,597.2, 
+21,9,7,Calibri,11.0,347.1,586.2,525.8,597.2,"(WE BUILD), jointly led by Sweden and "
+21,9,8,Calibri,11.0,72.0,600.7,525.8,611.7,the Netherlands. WE BUILD aims to pilot the usage of EUDI Wallets across 13 use cases in the areas of 
+21,9,9,Calibri,11.0,72.0,615.2,452.7,626.3,"business, supply chain, and payments, and will become operational in autumn 2025.  "
+21,10,0,Calibri-LightItalic,11.0,72.0,637.7,327.2,648.7,Digitalisation of public services for citizens and businesses 
+21,11,0,Calibri-Bold,11.0,72.0,660.1,525.9,671.1,"Following the 2024 recommendations, Portugal has set national targets for digital public services for "
+21,11,1,Calibri-Bold,11.0,72.0,674.6,525.9,685.7,"citizens and businesses by 2030. These targets are to reach scores of 100 by 2030, and are "
+21,11,2,Calibri-Bold,11.0,72.0,689.1,307.2,700.2,accompanied by trajectories to reach these values. 
+21,11,2,Calibri,11.0,307.5,689.1,525.9,700.2,"Given Portugal’s overall progress rate so far, and "
+21,11,3,Calibri,11.0,72.0,703.7,382.2,714.7,"if roadmap measures are implemented, this target seems achievable. "
+21,12,0,Calibri-Bold,11.0,72.0,726.1,525.7,737.2,The adjusted roadmap includes new measures to support the digitalisation of public services and 
+21,12,1,Calibri-Bold,11.0,72.0,740.6,342.4,751.7,the digital transformation of the national administration
+21,12,1,Calibri,11.0,342.4,740.6,525.9,751.7,". For example, Portugal plans to make "
+21,12,2,Calibri,11.0,72.0,755.2,525.9,766.2,available authentication processes in autenticação.gov.pt (a citizen card and digital mobile key) the 
+21,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+22,3,0,Calibri,11.0,72.0,87.6,525.9,98.7,"exclusive means of authentication for all digital public services. Additionally, a guide with "
+22,3,1,Calibri,11.0,72.0,102.0,525.9,113.1,recommendations for drafting digital-ready legislation will be prepared in 2025. The 2025-2026 action 
+22,3,2,Calibri,11.0,72.0,116.5,525.9,127.6,plan for the National Digital Strategy contains plans to create a national digital agency to harmonise 
+22,3,3,Calibri,11.0,72.0,131.1,506.7,142.1,the implementation of public policies related to digital public services and make it more efficient. 
+22,4,0,Calibri-Bold,11.0,72.0,153.5,525.9,164.5,"GOV.PT, the Portuguese single digital gateway (formerly known as ePortugal) has been undergoing "
+22,4,1,Calibri-Bold,11.0,72.0,168.0,330.7,179.1,changes since the 2024 State of the Digital Decade report.
+22,4,1,Calibri,11.0,330.8,168.0,525.9,179.1, The new version of the generative AI virtual 
+22,4,2,Calibri,11.0,72.0,182.5,525.9,193.6,"assistant, launched in December 2024, uses the most advanced generative AI technology, based on "
+22,4,3,Calibri,11.0,72.0,197.1,525.7,208.1,"OpenAI’s ChatGPT model, and has a knowledge base specifically developed to offer information on "
+22,4,4,Calibri,11.0,72.0,211.5,525.9,222.5,"more than 2 300 public services. The interface for GOV.PT, available in text and voice, facilitates direct "
+22,4,5,Calibri,11.0,72.0,226.0,525.9,237.0,and personalised interaction and offers support in 12 languages. An AI virtual assistant is also 
+22,4,6,Calibri,11.0,72.0,240.5,525.8,251.6,"integrated into more than 5 000 GOV.PT pages, with plans to expand its capabilities. The project "
+22,4,7,Calibri,11.0,72.0,255.0,525.6,266.1,"foresees new transactional functionalities from 2025, including the monitoring of processes and "
+22,4,8,Calibri,11.0,72.0,269.4,525.9,280.5,services such as scheduling appointments. The development of the national large-language model 
+22,4,9,Calibri,11.0,72.0,284.0,221.3,295.0,Amalia can support this process.  
+22,5,0,Calibri-Bold,11.0,72.7,307.2,336.5,318.3,2024 recommendation on digital public services/e-ID
+22,5,0,Calibri,11.0,336.5,307.2,522.9,318.3,: Continue developing user-friendly e-
+22,5,1,Calibri,11.0,72.7,321.8,525.0,332.8,"Government solutions and intensify efforts to promote their take-up, with particular attention to the "
+22,5,2,Calibri,11.0,72.7,336.2,96.1,347.2,e-ID. 
+22,6,0,Calibri-Bold,11.0,72.7,357.5,499.3,368.6,Portugal made efforts to address the recommendation through new policy actions in 2024
+22,6,0,Calibri,11.0,499.5,357.5,525.1,368.6,. The 
+22,6,1,Calibri,11.0,72.7,371.9,525.1,383.0,"country is expanding its network of RRF-funded ‘citizen spots’ (dedicated desks, for example in "
+22,6,2,Calibri,11.0,72.7,386.4,525.1,397.5,"hospitals and parish councils, city councils and other public facilities) which advertise e-ID and "
+22,6,3,Calibri,11.0,72.7,401.0,525.1,412.0,"increasingly provide training on digital public services, within the scope of the National Digital Strategy. "
+22,6,4,Calibri,11.0,72.7,415.5,525.1,426.5,"A single app (see above) will contribute to this goal. Currently, a public procurement procedure is being "
+22,6,5,Calibri,11.0,72.7,429.9,525.1,440.9,"carried out to promote the dissemination and activation of e-ID at several summer events, thereby "
+22,6,6,Calibri,11.0,72.7,444.4,327.4,455.5,achieving a higher rate of usage among younger people.  
+22,7,0,Calibri-LightItalic,11.0,72.0,470.7,112.2,481.8,e-Health 
+22,8,0,Calibri-Bold,11.0,72.0,493.1,525.9,504.2,"Following the 2024 recommendation, Portugal has set a target for access to e-health records with a "
+22,8,1,Calibri-Bold,11.0,72.0,507.7,169.9,518.7,score of 100 by 2030. 
+22,8,1,Calibri,11.0,169.6,507.7,525.9,518.7,"Given the continuous progress in recent years, this target seems achievable. The "
+22,8,2,Calibri,11.0,72.0,522.2,525.9,533.2,"country did not add any new measures on e-health in its adjusted roadmap, but it continues "
+22,8,3,Calibri,11.0,72.0,536.6,525.9,547.6,"implementing the large RRF investment on the digital health transition, which is also included in its "
+22,8,4,Calibri,11.0,72.0,551.1,462.6,562.2,"roadmap, and might explain Portugal’s remarkable progress in this area in recent years. "
+22,9,0,Calibri-Bold,11.0,72.0,573.7,469.5,584.7,The country continues to collaborate on e-health solutions in a cross-border context
+22,9,0,Calibri,11.0,469.4,573.7,525.9,584.7,". In 2024, it "
+22,9,1,Calibri,11.0,72.0,588.1,208.1,599.1,expanded participation in the 
+22,9,1,Calibri,11.0,208.9,588.1,275.1,599.1,MyHealth@EU
+22,9,1,Calibri,11.0,275.1,588.1,525.8,599.1," initiative by sharing health data with Latvia, Lithuania, "
+22,9,2,Calibri,11.0,72.0,602.6,525.9,613.7,"and Ireland, raising the number of countries with which health data can be exchanged to 13, one of "
+22,9,3,Calibri,11.0,72.0,617.1,525.8,628.2,the highest in Europe. This expansion strengthens the initiative’s goal of improving healthcare 
+22,9,4,Calibri,11.0,72.0,631.7,253.8,642.7,collaboration and access across Europe.  
+22,10,0,Calibri-Bold,11.0,72.7,654.8,233.4,665.9,2024 recommendation on e-health
+22,10,0,Calibri,11.0,233.3,654.8,524.9,665.9,: Make the data types of medical images and hospital discharge 
+22,10,1,Calibri,11.0,72.7,669.3,525.1,680.4,"reports available to citizens through the online access service and, building on existing legal provisions, "
+22,10,2,Calibri,11.0,72.7,683.9,524.8,694.9,implement technical functionality for legal guardians and authorised persons to access electronic 
+22,10,3,Calibri,11.0,72.7,698.4,216.4,709.4,health data on behalf of others. 
+22,11,0,Calibri-Bold,11.0,72.7,716.6,524.9,727.7,Portugal made significant efforts to address the recommendation through new policy actions in 
+22,11,1,Calibri-Bold,11.0,72.7,731.0,95.1,742.1,2024
+22,11,1,Calibri,11.0,95.2,731.0,524.9,742.1,". The country has worked to provide citizens with access to hospital discharge reports, which are "
+22,11,2,Calibri,11.0,72.7,745.6,525.1,756.6,now available through the National Health System portal (SNS24) for several public hospitals. As part 
+22,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+23,3,0,Calibri,11.0,72.7,88.3,525.1,99.4,"of the actions under its RRP, Portugal has drawn up plans to implement the remaining "
+23,3,1,Calibri,11.0,72.7,102.9,525.0,113.9,recommendations. These include plans to: (i) make medical images available in various formats 
+23,3,2,Calibri,11.0,72.7,117.3,525.1,128.3,through the ‘Exames Sem Papel’ (paperless medical exams) initiative; and (ii) develop technical 
+23,3,3,Calibri,11.0,72.7,131.8,524.9,142.8,"solutions that will enable legal representatives and guardians to access health data, in line with "
+23,3,4,Calibri,11.0,72.7,146.3,525.0,157.3,"existing legal provisions. In this regard, Portugal is developing a dedicated platform to provide citizens "
+23,3,5,Calibri,11.0,72.7,160.8,525.1,171.9,"with access to medical images. The final draft of the platform’s legal framework has been completed, "
+23,3,6,Calibri,11.0,72.7,175.2,424.3,186.3,and technical developments are currently being decided on and implemented. 
+23,4,0,Calibri-Light,15.0,72.0,202.4,526.4,217.4,Building a safe and human centric digital environment and preserving our 
+23,4,1,Calibri-Light,15.0,72.0,222.2,141.6,237.2,democracy 
+23,5,0,Calibri-Bold,11.0,72.0,249.0,354.6,260.1,Online participation in political and civic life is slowly growing.
+23,5,0,Calibri,11.0,354.7,249.0,525.9,260.1," In 2024, 22.12% of people in Portugal "
+23,5,1,Calibri,11.0,72.0,263.6,525.7,274.6,"used the internet to participate in consultations, for voting or sharing opinions online. This share is "
+23,5,2,Calibri,11.0,72.0,278.1,525.9,289.1,"slightly above the EU average and trending upward (20.58% in 2022), in line with the trend observed "
+23,5,3,Calibri,11.0,72.0,292.5,290.0,303.5,at EU level (17.59% in 2022 and 20.45% in 2024).
+23,5,3,Calibri-Bold,11.0,290.0,292.5,292.5,303.5, 
+23,6,0,Calibri-Bold,11.0,72.0,315.0,460.2,326.1,Portugal’s revised roadmap includes a measure to increase digital civic participation. 
+23,6,0,Calibri,11.0,460.4,315.0,525.9,326.1,As planned by 
+23,6,1,Calibri,11.0,72.0,329.6,220.9,340.6,"the National Digital Strategy, the "
+23,6,1,Calibri,11.0,221.4,329.6,290.4,340.6,Participa.gov.pt
+23,6,1,Calibri,11.0,290.4,329.6,525.9,340.6," platform, which is used for participatory processes, "
+23,6,2,Calibri,11.0,72.0,344.0,525.9,355.0,"will gain new functionalities and capabilities to make it simpler to use and more interactive. In addition, "
+23,6,3,Calibri,11.0,72.0,358.5,436.9,369.5,awareness-raising actions are planned to promote this democratic activity online. 
+23,7,0,Calibri-Bold,11.0,72.0,381.0,482.8,392.1,Less than 1 in 4 of those who encounter doubtful information online check its accuracy.
+23,7,0,Calibri,11.0,482.9,381.0,525.9,392.1," In 2023, "
+23,7,1,Calibri,11.0,72.0,395.5,525.6,406.5,51.73% of individuals in Portugal reported having encountered untrue or doubtful information or 
+23,7,2,Calibri,11.0,72.0,410.0,525.9,421.0,"content on internet news sites or social media, slightly above the EU average of 49.25%. Of those "
+23,7,3,Calibri,11.0,72.0,424.5,525.9,435.5,"exposed, according to the survey, 23.45% checked the truthfulness of the information or content, "
+23,7,4,Calibri,11.0,72.0,439.0,525.9,450.1,reflecting a modest effort to verify the reliability of the information. Young people (those aged 16-24) 
+23,7,5,Calibri,11.0,72.0,453.4,525.9,464.5,reported more exposure to this doubtful information (64.5% said they had been exposed) than adults 
+23,7,6,Calibri,11.0,72.0,467.9,525.8,479.0,"(those aged 25-64) (55.58% of whom said they had been exposed), with verification rates being "
+23,7,7,Calibri,11.0,72.0,482.5,525.9,493.5,substantially higher for young people (37.71% checked the information they encountered) than was 
+23,7,8,Calibri,11.0,72.0,497.0,525.9,508.0,"among adults (only 24.68%). Men (53.75%) reported slightly more exposure than women (49.87%), "
+23,7,9,Calibri,11.0,72.0,511.4,485.8,522.4,and also showed a slightly higher verification rate (24.94% for men and 22.09% for women).  
+23,8,0,Calibri-Bold,11.0,72.0,533.9,525.9,545.0,"A high share of Portugal’s population, especially young people, encounters hostile and degrading "
+23,8,1,Calibri-Bold,11.0,72.0,548.3,115.8,559.4,messages
+23,8,1,Calibri,11.0,115.8,548.3,118.3,559.4, 
+23,8,1,Calibri-Bold,11.0,118.8,548.3,147.5,559.4,online
+23,8,1,Calibri,11.0,147.5,548.3,525.7,559.4,". In 2023, 35.48% of individuals encountered online messages considered hostile or "
+23,8,2,Calibri,11.0,72.0,562.9,525.9,573.9,"degrading towards groups of people, such as those based on LGBTIQ identities or religion. This was "
+23,8,3,Calibri,11.0,72.0,577.4,525.8,588.5,slightly above the EU average of 33.5%. Young people (aged 16-24) reported significantly higher 
+23,8,4,Calibri,11.0,72.0,591.9,525.9,603.0,exposure (52.69% said they had been exposed) than adults (aged 25-64) (37.5% of whom said they 
+23,8,5,Calibri,11.0,72.0,606.5,525.9,617.5,"had been exposed), indicating a marked age-related gap. Women (36.16%) and men (34.74%) "
+23,8,6,Calibri,11.0,72.0,620.9,385.8,631.9,"experienced very similar rates, with no significant gender differences.  "
+23,9,0,Calibri-Bold,11.0,72.0,643.4,456.9,654.5,Digital and media literacy is receiving growing attention from the authorities. 
+23,9,0,Calibri,11.0,460.2,643.4,525.9,654.5,Following the 
+23,9,1,Calibri,11.0,72.0,657.8,525.9,668.9,publication of the 2023 Guidelines for a National Plan on Media Literacy the government presented in 
+23,9,2,Calibri,11.0,72.0,672.3,525.8,683.4,October 2024 a comprehensive Media Action Plan that sets out 30 measures to combat disinformation 
+23,9,3,Calibri,11.0,72.0,686.9,525.9,697.9,"(e.g. through a strengthened role for publicly funded media) and promote media literacy, responsible "
+23,9,4,Calibri,11.0,72.0,701.4,525.9,712.4,"media consumption and informed citizenship. The measures, which are in the early stages of "
+23,9,5,Calibri,11.0,72.0,715.8,525.9,726.8,"implementation, include discounts and free access to news-media digital subscriptions in specific age "
+23,9,6,Calibri,11.0,72.0,730.3,525.9,741.4,"groups, as well as pilot projects on media literacy in schools. A wider strategy the National Plan on "
+23,9,7,Calibri,11.0,72.0,744.8,304.6,755.9,Media Literacy for 2025-2029 is under preparation.  
+23,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+24,3,0,Calibri-Bold,11.0,72.0,87.6,418.9,98.7,Portugal is also giving increasing attention to the protection of minors.
+24,3,0,Calibri,11.0,419.1,87.6,525.9,98.7, The revised roadmap 
+24,3,1,Calibri,11.0,72.0,102.0,525.8,113.1,proposes a future ‘Safer Digital’ campaign. This campaign will involve pinpointing key areas for 
+24,3,2,Calibri,11.0,72.0,116.5,525.9,127.6,"intervention to: (i) increase awareness among young people about the safe use of digital technologies, "
+24,3,3,Calibri,11.0,72.0,131.1,525.9,142.1,including online services and social networks; and (ii) adapt the message by using communication 
+24,3,4,Calibri,11.0,72.0,145.6,228.0,156.6,channels most favoured by youth.  
+24,4,0,Calibri-Bold,11.0,72.0,168.0,378.4,179.1,"In addition, according to the Digital Decade Eurobarometer 2025"
+24,4,0,Calibri,11.0,378.5,168.0,525.9,179.1,", Portuguese people consider it "
+24,4,1,Calibri,11.0,72.0,182.5,525.8,193.6,urgent that public authorities act to protect children online regarding the negative impact of social 
+24,4,2,Calibri,11.0,72.0,197.1,525.9,208.1,"media on children’s mental health (95% of Portuguese respondents), cyberbullying and online "
+24,4,3,Calibri,11.0,72.0,211.5,525.9,222.5,harassment (94%) and to put in place age assurance mechanisms to restrict age-inappropriate content 
+24,4,4,Calibri,11.0,72.0,226.0,103.0,237.0,(96%). 
+24,5,0,Calibri,11.0,72.0,248.6,74.5,259.6, 
+24,6,0,Calibri,11.0,72.0,277.2,74.5,288.3, 
+24,6,1,Calibri-Bold,26.0,216.1,266.0,221.9,292.0, 
+24,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+25,3,0,Calibri-Bold,26.0,72.0,90.6,529.1,116.7,Leveraging digital transformation for a 
+25,3,1,Calibri-Bold,26.0,72.0,124.9,240.5,150.9,smart greening 
+25,4,0,Calibri-Bold,11.0,72.0,164.1,400.7,175.1,Sustainability is becoming more important for Portuguese authorities.
+25,4,0,Calibri,11.0,400.8,164.1,525.9,175.1, Examples can be found in 
+25,4,1,Calibri,11.0,72.0,178.6,525.9,189.6,Portugal’s drive to build territorial cohesion and smart cities through digital tools and the digitalisation 
+25,4,2,Calibri,11.0,72.0,193.1,525.9,204.1,"of administrative procedures. However, a comprehensive approach to addressing both the digital and "
+25,4,3,Calibri,11.0,72.0,207.5,525.9,218.5,"green transitions is missing. According to the Digital Decade Eurobarometer 2025, 75% of Portuguese "
+25,4,4,Calibri,11.0,72.0,222.0,525.9,233.1,people consider digital technologies important to help fight climate change (increase by 18 pp. since 
+25,4,5,Calibri,11.0,72.0,236.6,525.8,247.6,"last year), while 83% of Portuguese respondents think that ensuring that digital technologies serve the "
+25,4,6,Calibri,11.0,72.0,251.1,381.4,262.1,green transition should be an important action for public authorities. 
+25,5,0,Calibri-Bold,11.0,72.0,273.5,525.9,284.6,"Portugal’s population recycles only a small part of its ICT equipment, but makes sustainable choices "
+25,5,1,Calibri-Bold,11.0,72.0,288.0,205.9,299.1,when buying this equipment
+25,5,1,Calibri,11.0,206.0,288.0,525.9,299.1,". In 2024, the country’s inhabitants recycled their laptop and desktop "
+25,5,2,Calibri,11.0,72.0,302.6,525.8,313.6,"devices less (9.26% for laptops and tablets, 10.49% for desktops) than the EU average (11.31% and "
+25,5,3,Calibri,11.0,72.0,317.0,525.9,328.0,"14.66%, respectively). This lower rate of recycling in Portugal was also the case for mobile phones "
+25,5,4,Calibri,11.0,72.0,331.5,525.9,342.5,"(9.74% against 10.93% for the EU). However, in another 2024 survey, 38.27% of people in Portugal said "
+25,5,5,Calibri,11.0,72.0,346.0,525.9,357.0,"that they considered energy efficiency as an important factor when purchasing ICT devices, the highest "
+25,5,6,Calibri,11.0,72.0,360.5,525.9,371.6,number in the EU (EU average: 19.35%) and 24.6% said they considered the eco-design of the device 
+25,5,7,Calibri,11.0,72.0,374.9,525.9,386.0,"to be important, which is also well above the EU average (12.04%). However, those two eco-friendly "
+25,5,8,Calibri,11.0,72.0,389.4,525.9,400.5,"criteria were less important for Portuguese consumers than the price, performance, and design of the "
+25,5,9,Calibri,11.0,72.0,404.0,125.2,415.0,ICT device.  
+25,6,0,Calibri-Bold,11.0,72.0,426.4,525.9,437.5,Significant actions to unleash the potential of digital technologies for a greener future are covered 
+25,6,1,Calibri-Bold,11.0,72.0,440.9,135.1,452.0,by Portugal’s 
+25,6,1,Calibri-Bold,11.0,137.1,440.9,318.6,452.0,National Strategy for Smart Territories
+25,6,1,Calibri-Bold,11.0,318.8,440.9,461.9,452.0, (ENTI) launched in late 2023.
+25,6,1,Calibri,11.0,462.1,440.9,525.9,452.0, The strategy 
+25,6,2,Calibri,11.0,72.0,455.5,525.9,466.5,"focuses on transforming data into actionable insights to enable efficient, sustainable, and transparent "
+25,6,3,Calibri,11.0,72.0,470.0,525.9,481.0,management of territories. The goal is for this strategy to improve decision-making and services for 
+25,6,4,Calibri,11.0,72.0,484.4,525.9,495.4,citizens and businesses. It is supported by RRF investment on intelligent territories (TD-C19-i08) and 
+25,6,5,Calibri,11.0,72.0,498.9,525.9,509.9,covered under the ‘Digital and Smart Nation’ initiative of the National Digital Strategy. Specific 
+25,6,6,Calibri,11.0,72.0,513.4,525.9,524.5,measures under those initiatives seek to interconnect territories and share data and good practices on 
+25,6,7,Calibri,11.0,72.0,527.9,525.9,539.0,"the country’s future Smart Territories Portal, National Data Management System for Smart Territories, "
+25,6,8,Calibri,11.0,72.0,542.3,525.9,553.4,Public Policies Dashboard and the Local Government Observatory. The strategy will rely on high-speed 
+25,6,9,Calibri,11.0,72.0,556.9,525.9,567.9,"connectivity and interoperable digital services. Other actions under the strategy, the Urban "
+25,6,10,Calibri,11.0,72.0,571.4,525.9,582.5,Management Platforms can serve sustainability through: (i) integrated data management; (ii) 
+25,6,11,Calibri,11.0,72.0,585.9,525.7,597.0,"digitalised procedures; and (iii) the promotion of smart energy grids, efficient mobility solutions, and "
+25,6,12,Calibri,11.0,72.0,600.3,525.9,611.4,"environmental monitoring through the internet of things and AI, taking into account local challenges. "
+25,6,13,Calibri,11.0,72.0,614.9,525.9,625.9,Five ‘Digital Twins’ (computer-based virtual representations of real-world systems such as water or 
+25,6,14,Calibri,11.0,72.0,629.4,525.9,640.4,"transport systems) will be created to tackle the issues most prioritised by Portugal, such as climate "
+25,6,15,Calibri,11.0,72.0,643.9,279.7,654.9,"resilience, water, mobility and civil protection. "
+25,7,0,Calibri-Bold,11.0,72.0,666.3,525.8,677.4,The revised roadmap also includes measures linking digital tools with environmental objectives. 
+25,7,1,Calibri,11.0,72.0,680.9,449.4,691.9,"However, they do not explore the full potential of digital technologies in this regard."
+25,7,1,Calibri,11.0,449.5,680.9,525.9,691.9, One example of 
+25,7,2,Calibri,11.0,72.0,695.4,160.7,706.4,these tools is iFAMA
+25,7,2,Calibri,11.0,160.7,695.4,525.9,706.4,", a centralised online portal for reporting environmental violations. This tool makes "
+25,7,3,Calibri,11.0,72.0,709.8,525.9,720.8,it possible to promptly submit evidence and ensure transparency in tracking complaints. It also 
+25,7,4,Calibri,11.0,72.0,724.3,490.9,735.4,empowers citizens to report environmental violations and promotes administrative efficiency. 
+25,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+26,3,0,Calibri-Bold,11.0,72.7,88.3,246.1,99.4,2024 recommendation on green ICT: 
+26,3,0,Calibri,11.0,247.5,88.3,256.7,99.4,(i)
+26,3,0,Calibri-Bold,11.0,256.7,88.3,259.2,99.4, 
+26,3,0,Calibri,11.0,260.5,88.3,524.9,99.4,Develop a coherent approach to twinning the digital and 
+26,3,1,Calibri,11.0,72.7,102.9,524.8,113.9,"green transitions. First, promote improvements in energy and material efficiency of digital "
+26,3,2,Calibri,11.0,72.7,117.3,525.0,128.3,"infrastructures, in particular data centres. Second, support the development and deployment of digital "
+26,3,3,Calibri,11.0,72.7,131.8,524.8,142.8,"solutions that reduce the carbon footprint in other sectors, such as energy, transport, buildings, and "
+26,3,4,Calibri,11.0,72.7,146.3,525.0,157.3,"agriculture, including the uptake of such solutions by SMEs. (ii) Monitor and quantify the emission "
+26,3,5,Calibri,11.0,72.7,160.8,525.1,171.9,reductions of the deployed digital solutions in line with the relevant EU guidance and with the support 
+26,3,6,Calibri,11.0,72.7,175.2,524.8,186.3,"of the methodology developed by the European Green Digital Coalition, in view of future policy "
+26,3,7,Calibri,11.0,72.7,189.7,324.2,200.8,"development, as well as of attracting relevant financing. "
+26,4,0,Calibri-Bold,11.0,72.7,208.0,525.0,219.0,"In 2024, Portugal continued to implement existing measures, but did not take any new "
+26,4,1,Calibri-Bold,11.0,72.7,222.5,119.7,233.5,measures.
+26,4,1,Calibri,11.0,119.7,222.5,525.0,233.5, The relationship between sustainability and digital solutions is receiving some attention 
+26,4,2,Calibri,11.0,72.7,237.0,525.0,248.1,but has not been approached in a comprehensive way. Some work is ongoing as indicated in the 
+26,4,3,Calibri,11.0,72.7,251.4,396.4,262.5,"roadmap, for example through the publicly supported industry initiative "
+26,4,3,Calibri,11.0,396.5,251.4,525.1,262.5,Agenda for Ecoceramics and 
+26,4,4,Calibri,11.0,72.7,266.0,161.3,277.0,Crystal of Portugal
+26,4,4,Calibri,11.0,161.3,266.0,525.1,277.0,", which aims to improve the competitiveness of this sector through more "
+26,4,5,Calibri,11.0,72.7,280.5,525.1,291.5,"sustainable and digitally enabled production and value chains. However, a comprehensive approach "
+26,4,6,Calibri,11.0,72.7,295.0,120.7,306.0,is missing. 
+26,5,0,Calibri,11.0,72.0,327.5,74.5,338.6, 
+26,5,1,Calibri-Bold,26.0,216.1,316.3,221.9,342.3, 
+26,6,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,6,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+27,2,0,Calibri-Bold,26.0,72.0,90.6,470.6,116.7,Annex I – National roadmap analysis 
+27,4,0,Calibri-Bold,11.0,77.7,130.3,321.2,141.4,Portugal’s national Digital Decade strategic roadmap  
+27,5,0,Calibri,11.0,77.7,152.1,520.3,163.1,Portugal submitted a fully revised national Digital Decade roadmap in December 2024 (with targeted 
+27,5,1,Calibri,11.0,77.7,166.5,520.3,177.5,"adjustments until March 2025), containing 157 measures, 12 targets (up from 5 reported last year) "
+27,5,2,Calibri,11.0,77.7,181.0,520.3,192.0,and 8 trajectories (compared to none in the previous roadmap). The roadmap is largely based on 
+27,5,3,Calibri,11.0,77.7,195.5,124.0,206.5,Portugal’s 
+27,5,3,Calibri,11.0,124.2,195.5,232.5,206.5,National Digital Strategy
+27,5,3,Calibri,11.0,232.6,195.5,520.3,206.5," also from December 2024 and its action plan, which were both "
+27,5,4,Calibri,11.0,77.7,210.0,520.3,221.1,put out for consultation with stakeholders as reported in the roadmap. The updates are aligned with 
+27,5,5,Calibri,11.0,77.7,224.4,520.2,235.5,"the new Commission’s priorities on AI, sovereignty, simplification and digital skills, as well as "
+27,5,6,Calibri,11.0,77.7,239.0,501.6,250.0,"addresses a substantial number of roadmap recommendations issued in 2024, as listed below.  "
+27,6,0,SymbolMT,11.0,95.7,258.5,100.7,272.0,
+27,6,0,ArialMT,11.0,100.7,259.6,103.8,271.9, 
+27,6,1,Calibri-Italic,11.0,113.7,261.3,520.0,272.3,"Propose targets and trajectories concerning VHCN, FTTP, 5G coverage, edge nodes, cloud, "
+27,6,2,Calibri-Italic,11.0,113.7,275.8,520.2,286.8,"AI and data analytics separately, accessibility of key public services for citizens and "
+27,6,3,Calibri-Italic,11.0,113.7,290.2,520.1,301.2,"businesses, access to e-health records and set trajectories for basic digital skills, ICT "
+27,6,4,Calibri-Italic,11.0,113.7,304.7,448.2,315.8,"specialists, digital intensity of SMEs, unicorns using correct baseline values. "
+27,6,4,Calibri,11.0,447.9,304.7,520.3,315.8,Portugal largely 
+27,6,5,Calibri,11.0,113.7,319.2,520.3,330.3,"addressed this recommendation. Targets for edge nodes and data analytics are missing, as "
+27,6,6,Calibri,11.0,113.7,333.8,402.7,344.8,are target trajectories related to the digitalisation of businesses. 
+27,6,7,SymbolMT,11.0,95.7,346.0,100.7,359.4,
+27,6,7,ArialMT,11.0,100.7,347.1,103.8,359.4, 
+27,6,8,Calibri-Italic,11.0,113.7,348.8,450.5,359.8,Align the level of ambition of the target for ICT specialists with the EU target
+27,6,8,Calibri,11.0,450.7,348.8,520.2,359.8,: The 7% target 
+27,6,9,Calibri,11.0,113.7,363.3,337.4,374.3,"was not raised, and no explanation was provided. "
+27,6,10,SymbolMT,11.0,95.7,375.6,100.7,389.1,
+27,6,10,ArialMT,11.0,100.7,376.7,103.8,389.0, 
+27,6,11,Calibri-Italic,11.0,113.7,378.4,520.2,389.4,"Consider establishing national ambitions for technological leadership, competitiveness, and "
+27,6,12,Calibri-Italic,11.0,113.7,392.8,477.2,403.9,resilience to support EU-wide targets regarding semiconductors and quantum:
+27,6,12,Calibri,11.0,477.1,392.8,520.3,403.9, No new 
+27,6,13,Calibri,11.0,113.7,407.3,371.3,418.4,"ambitions were introduced, but reporting was expanded. "
+27,6,14,SymbolMT,11.0,95.7,419.7,100.7,433.1,
+27,6,14,ArialMT,11.0,100.7,420.8,103.8,433.1, 
+27,6,15,Calibri-Italic,11.0,113.7,422.5,408.1,433.5,Supplement the roadmap with measures related to connectivity:
+27,6,15,Calibri,11.0,408.1,422.5,520.3,433.5, information was added 
+27,6,16,Calibri,11.0,113.7,437.0,444.0,448.0,"related to 5G and VHCN tenders, as well as submarine cable investments. "
+27,6,17,SymbolMT,11.0,95.7,449.2,100.7,462.7,
+27,6,17,ArialMT,11.0,100.7,450.3,103.8,462.6, 
+27,6,18,Calibri-Italic,11.0,113.7,452.0,520.2,463.0,"Review the measures contributing to targets on skills and digitalisation of enterprises, "
+27,6,19,Calibri-Italic,11.0,113.7,466.5,520.0,477.5,consider setting up additional measures for ICT specialists and basic digital intensity of 
+27,6,20,Calibri-Italic,11.0,113.7,481.0,166.1,492.1,enterprises:
+27,6,20,Calibri,11.0,166.1,481.0,520.3,492.1," National measures were listed and described more extensively, but both the "
+27,6,21,Calibri,11.0,113.7,495.4,520.3,506.5,attribution of these measures to concrete targets – and the novelty of these measures – is 
+27,6,22,Calibri,11.0,113.7,509.9,152.3,521.0,unclear. 
+27,6,23,SymbolMT,11.0,95.7,522.3,100.7,535.7,
+27,6,23,ArialMT,11.0,100.7,523.4,103.8,535.7, 
+27,6,24,Calibri-Italic,11.0,113.7,525.1,520.2,536.1,"Review the budget description of all presented measures, highlighting both national and EU "
+27,6,25,Calibri-Italic,11.0,113.7,539.6,150.1,550.6,sources:
+27,6,25,Calibri,11.0,150.1,539.6,355.7,550.6, A more comprehensive overview was added. 
+27,6,26,SymbolMT,11.0,95.7,551.8,100.7,565.3,
+27,6,26,ArialMT,11.0,100.7,552.9,103.8,565.2, 
+27,6,27,Calibri-Italic,11.0,113.7,554.6,520.2,565.6,Provide more information on the implementation of digital rights and principles (and Digital 
+27,6,28,Calibri-Italic,11.0,113.7,569.1,476.0,580.2,"Decade general objectives), including what national measures contribute to it:"
+27,6,28,Calibri,11.0,475.9,569.1,520.3,580.2, Portugal 
+27,6,29,Calibri,11.0,113.7,583.7,340.8,594.7,provided a comprehensive mapping in this regard. 
+27,6,30,SymbolMT,11.0,95.7,596.0,100.7,609.4,
+27,6,30,ArialMT,11.0,100.7,597.1,103.8,609.4, 
+27,6,31,Calibri-Italic,11.0,113.7,598.8,517.8,609.8,"Incorporate, where appropriate, measures reported through other channels in the roadmap:"
+27,6,31,Calibri,11.0,517.8,598.8,520.3,609.8, 
+27,6,32,Calibri,11.0,113.7,613.2,495.7,624.2,"Portugal addressed this recommendation, except for some areas (e.g. cybersecurity). "
+27,6,33,SymbolMT,11.0,95.7,625.5,100.7,639.0,
+27,6,33,ArialMT,11.0,100.7,626.6,103.8,638.9, 
+27,6,34,Calibri-Italic,11.0,113.7,628.3,520.0,639.3,"Consult key stakeholders, as outlined in the DDPP, before proposing the adjustment to the "
+27,6,35,Calibri-Italic,11.0,113.7,642.8,197.9,653.9,national roadmap:
+27,6,35,Calibri,11.0,197.9,642.8,520.2,653.9, Stakeholder consultations were conducted in the context of National 
+27,6,36,Calibri,11.0,113.7,657.2,187.1,668.3,Digital Strategy. 
+27,7,0,Calibri,11.0,77.7,678.9,520.1,690.0,"Overall, Portugal presented a non-exhaustive selected set of the main policies and measures "
+27,7,1,Calibri,11.0,77.7,693.5,520.2,704.5,contributing to the achievement of most of the Digital Decade targets. The measures presented also 
+27,7,2,Calibri,11.0,77.7,708.0,520.3,719.0,"cover several types of objectives: technological leadership, sovereignty, competitiveness and "
+27,7,3,Calibri,11.0,77.7,722.4,520.2,733.4,"human-centred digital transformation. The roadmap responds to most of the objectives, such as "
+27,7,4,Calibri,11.0,77.7,736.9,520.2,748.0,"human-centred digital transformation, simplification, sovereignty and resilience. However, areas "
+27,7,5,Calibri,11.0,77.7,751.4,520.2,762.5,"such as sustainability and inclusion lack specific focus, while competitiveness is not comprehensively "
+27,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+28,3,0,Calibri,11.0,77.7,88.1,520.2,99.1,articulated. The revised roadmap continues to prioritise digital skills (but not across all 
+28,3,1,Calibri,11.0,77.7,102.6,520.2,113.7,"demographics), digital public administration and the digitalisation of businesses, in particular "
+28,3,2,Calibri,11.0,77.7,117.0,520.2,128.1,"through information sharing and improving the skills of employees. In total, the measures presented "
+28,3,3,Calibri,11.0,77.7,131.5,520.2,142.6,"amount to EUR 2.15 billion, or 0.75% of GDP, with a significant share of the funding for this coming "
+28,3,4,Calibri,11.0,77.7,146.1,264.3,157.1,from the Recovery and Resilience Facility. 
+28,4,0,Calibri-Bold,11.0,197.3,167.8,391.3,178.8,Measures and budget in national roadmap
+28,4,0,Calibri-Bold,7.0,391.1,166.9,398.2,173.8,11
+28,4,0,Calibri,11.0,398.1,167.8,400.6,178.8, 
+28,5,0,Calibri,11.0,72.0,412.9,74.5,423.9, 
+28,5,1,Calibri-Bold,26.0,216.1,401.6,221.9,427.7, 
+28,6,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+28,7,0,Calibri,6.0,72.0,727.6,78.1,733.6,11
+28,7,0,Calibri,9.0,78.0,727.9,525.3,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+28,7,1,Calibri,9.0,72.0,738.9,525.3,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+28,7,2,Calibri,9.0,72.0,749.8,525.3,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+28,7,3,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+28,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+29,3,0,Calibri-Bold,26.0,72.0,90.6,481.5,116.7,Annex II – Factsheet on multi-country 
+29,3,1,Calibri-Bold,26.0,72.0,124.9,382.6,150.9,projects (MCPs) and funding 
+29,4,0,Calibri-Bold,11.0,77.7,164.5,267.4,175.6,Multi-country projects and best practices 
+29,5,0,Calibri,11.0,77.7,182.1,535.4,193.1,Portugal is a member of the Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. 
+29,5,1,Calibri,11.0,77.7,196.6,535.3,207.6,"It is also an observer to the Alliance for Language Technologies EDIC, and is leading efforts to set up an "
+29,5,2,Calibri,11.0,77.7,211.1,535.4,222.1,EDIC in the area of startups. Portuguese entities are indirect and/or associated partners in the IPCEI on 
+29,5,3,Calibri,11.0,77.7,225.5,535.4,236.5,Microelectronics and Communication Technologies (IPCEI-ME/CT). Portugal is also a participating state 
+29,5,4,Calibri,11.0,77.7,240.0,340.0,251.1,of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+29,6,0,Calibri,11.0,77.7,262.6,330.2,273.6,Portugal has contributed to the Best Practice Accelerator
+29,6,0,Calibri,7.0,330.1,261.7,337.1,268.7,12
+29,6,0,Calibri,11.0,337.0,262.6,535.5,273.6, by sharing one best practice in the frame of 
+29,6,1,Calibri,11.0,77.7,277.0,351.9,288.0,the Green IT cluster (National Strategy for Smart Territories).  
+29,7,0,Calibri,11.0,72.0,295.0,74.5,306.0, 
+29,8,0,Calibri-Bold,11.0,77.7,318.0,265.6,329.1,EU funding for digital policies in Portugal 
+29,9,0,Calibri,11.0,77.7,335.6,469.8,346.6,Portugal allocates 21% of its total recovery and resilience plan to digital (EUR 4.5 billion)
+29,9,0,Calibri,7.0,469.8,334.7,476.8,341.6,13
+29,9,0,Calibri,11.0,476.7,335.6,535.5,346.6,". In addition, "
+29,9,1,Calibri,11.0,77.7,350.0,535.4,361.0,"under cohesion policy, EUR 2.4 billion (representing 11% of the country’s total cohesion policy funding), "
+29,9,2,Calibri,11.0,77.7,364.5,345.7,375.5,is dedicated to advancing Portugal’s digital transformation
+29,9,2,Calibri,7.0,345.8,363.6,352.8,370.5,14
+29,9,2,Calibri,11.0,352.8,364.5,535.5,375.5,". According to JRC estimates, EUR 6.09 "
+29,9,3,Calibri,11.0,77.7,379.0,535.5,390.0,billion directly contribute to achieving Digital Decade targets (of which EUR 4.42 billion comes from the 
+29,9,4,Calibri,11.0,77.7,393.5,322.2,404.6,RRF and EUR 1.67 billion from cohesion policy funding)
+29,9,4,Calibri,7.0,322.3,392.6,329.3,399.6,15
+29,9,4,Calibri,11.0,329.2,393.5,334.5,404.6,. 
+29,10,0,Calibri,11.0,77.7,410.9,535.4,422.0,The biggest digital measures of the plan are investments in the ‘Digital transition of education’ 
+29,10,1,Calibri,11.0,77.7,425.5,535.5,436.5,(EUR 614 million) and ‘Modernisation of supply and vocational education and training institutions – 
+29,10,2,Calibri,11.0,77.7,440.0,535.3,451.0,"Equipment for digital skills’ (EUR 521 million), followed by the ‘Digital Transition of Enterprises’ "
+29,10,3,Calibri,11.0,77.7,454.5,535.3,465.5,"(EUR 399 million), ‘Digital Health Transition’ (EUR 300 million) and several measures related to "
+29,10,4,Calibri,11.0,77.7,468.9,275.5,479.9,digitalisation of the national administration. 
+29,11,0,Calibri,11.0,72.0,486.9,74.5,497.9, 
+29,12,0,Calibri,11.0,72.0,509.5,74.5,520.5, 
+29,12,1,Calibri,11.0,216.1,509.5,218.5,520.5, 
+29,13,0,Calibri,11.0,216.1,626.9,218.5,637.9, 
+29,14,0,Calibri,6.0,72.0,639.8,78.1,645.8,12
+29,14,0,Calibri,9.0,78.0,640.0,525.1,649.0, Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+29,14,1,Calibri,9.0,72.0,650.9,525.3,659.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+29,14,2,Calibri,9.0,72.0,662.0,525.5,671.0,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+29,14,3,Calibri,9.0,72.0,672.9,250.7,681.9,"Green IT, and the Uptake of Digital Technologies. "
+29,14,4,Calibri,6.0,72.0,683.7,78.1,689.7,13
+29,14,4,Calibri,9.0,78.0,683.9,525.0,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+29,14,5,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+29,14,6,Calibri,6.0,72.0,705.6,78.1,711.6,14
+29,14,6,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+29,14,7,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+29,14,8,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+29,14,9,Calibri,6.0,72.0,738.7,78.1,744.7,15
+29,14,9,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+29,14,10,Calibri,9.0,72.0,749.8,525.1,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+29,14,11,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+29,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,158.4,49.4,Portugal 
+30,2,0,Calibri-Bold,26.0,72.0,90.6,485.2,116.7,Annex III – Digital rights and principles
+30,2,0,Calibri,17.0,485.3,88.4,502.5,105.4,16
+30,2,0,Calibri-Bold,26.0,502.5,90.6,508.4,116.7, 
+30,4,0,Calibri,11.0,77.7,130.3,82.7,141.4,  
+30,7,0,Calibri-Bold,11.0,244.4,332.2,246.9,343.2, 
+30,7,1,Calibri-Bold,11.0,77.7,346.6,254.7,357.6,Activity on digital rights and principles 
+30,7,1,Calibri-Italic,11.0,254.8,346.6,295.7,357.6,(figure 1)
+30,7,1,Calibri-Bold,11.0,295.6,346.6,298.1,357.6, 
+30,8,0,Calibri-Bold,11.0,77.7,364.1,519.9,375.2,Portugal has been one of the most active Member States in implementing digital rights and 
+30,8,1,Calibri-Bold,11.0,77.7,378.6,122.0,389.7,principles
+30,8,1,Calibri,11.0,122.1,378.6,124.8,389.7,","
+30,8,1,Calibri-Bold,11.0,124.7,378.6,127.2,389.7, 
+30,8,1,Calibri,11.0,126.7,378.6,520.2,389.7,"with over 100 initiatives overall and 14 new initiatives launched in 2024, showing notable "
+30,8,2,Calibri,11.0,77.7,393.0,235.9,404.1,progress towards its commitments. 
+30,8,2,Calibri-Bold,11.0,235.5,393.0,520.2,404.1,"Portugal is most active in the area of Digital education, training "
+30,8,3,Calibri-Bold,11.0,77.7,407.6,121.0,418.6,and skills
+30,8,3,Calibri,11.0,121.1,407.6,520.3,418.6," (II). There is room for improvement, especially with regards to Privacy and individual "
+30,8,4,Calibri,11.0,77.7,422.1,347.3,433.1,control over data (V) where less activity has been identified. 
+30,9,0,Calibri-Bold,11.0,77.7,444.5,230.0,455.6,Impact of digital rights initiatives 
+30,9,0,Calibri-Italic,11.0,230.1,444.5,270.8,455.6,(figure 2)
+30,9,0,Calibri-Bold,11.0,270.8,444.5,273.3,455.6, 
+30,10,0,Calibri,11.0,77.7,462.1,520.2,473.1,Quantitative impact indicators developed by the support study illustrate the level of implementation 
+30,10,1,Calibri,11.0,77.7,476.6,520.0,487.6,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+30,10,2,Calibri,11.0,77.7,491.1,520.2,502.1,measures implemented by key stakeholders in Portugal (mainly national government) and how 
+30,10,3,Calibri,11.0,77.7,505.5,219.4,516.5,these are perceived by citizens. 
+30,11,0,Calibri,11.0,77.7,528.1,201.4,539.1,The indicators suggest that 
+30,11,0,Calibri-Bold,11.0,202.0,528.1,520.1,539.1,Portugal is most successful in implementing commitments related to 
+30,11,1,Calibri-Bold,11.0,77.7,542.5,162.4,553.5,Freedom of choice
+30,11,1,Calibri,11.0,162.4,542.5,520.1,553.5, (III). Portugal could review and strengthen efforts in areas where the impact of 
+30,11,2,Calibri,11.0,77.7,557.0,520.3,568.1,"digital rights initiatives appears to be limited despite relative activity, notably on Participation in the "
+30,11,3,Calibri,11.0,77.7,571.5,186.0,582.6,digital public space (IV). 
+30,12,0,Calibri,11.0,77.7,594.0,353.8,605.0,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+30,12,0,Calibri-Bold,11.0,353.5,594.0,520.2,605.0,45% of citizens in Portugal think that 
+30,12,1,Calibri-Bold,11.0,77.7,608.5,258.8,619.5,the EU protects their digital rights well
+30,12,1,Calibri,11.0,259.0,608.5,520.1,619.5, (a 2% increase since 2024). This is slightly above the EU 
+30,12,2,Calibri,11.0,77.7,623.0,520.1,634.1,average of 44%. Citizens are particularly confident about getting more freedom of expression and 
+30,12,3,Calibri,11.0,77.7,637.5,520.1,648.6,"information online (56%, below the EU average of 60%). They are most worried that their right to a "
+30,12,4,Calibri,11.0,77.7,651.9,520.2,663.0,"safe digital environment and content for children and young people is not well protected (49%, "
+30,12,5,Calibri,11.0,77.7,666.5,218.8,677.5,above the EU average of 48%).  
+30,13,0,Calibri,11.0,72.0,688.7,74.5,699.7, 
+30,14,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+30,14,1,Calibri,6.0,72.0,749.6,78.1,755.6,16
+30,14,1,Calibri,9.0,78.0,749.8,525.1,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+30,14,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+30,14,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+30,14,2,Calibri,9.0,122.8,760.9,377.1,769.9,". For a more detailed country factsheet accompanying the study, click "
+30,14,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+30,14,2,Calibri,9.0,393.7,760.9,398.1,769.9,. 
+30,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

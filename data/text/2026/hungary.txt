@@ -1,0 +1,1258 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 17.6.2026
+                                              SWD(2026) 155 final
+
+                                       PART 13/27
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2026 country report
+
+                                Accompanying the document
+
+         COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN
+       PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+             COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+
+         State of the Digital Decade 2026: Closing structural gaps and mobilising investments for
+                                      2030 and beyond
+
+             {COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+                                 {SWD(2026) 157 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE
+COUNTRY REPORT
+2026
+
+     HungaryHungary
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+  Hungary in the Digital Decade ............................................................................................................ 1
+
+  Funding for digital and multi-country projects ................................................................................... 1
+
+  A competitive, sovereign and resilient EU based on technological leadership .................................. 2
+
+   Protecting and empowering EU people and society ........................................................................... 2
+
+  Recommendations .............................................................................................................................. 3
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 4
+
+   Building technological leadership: digital infrastructure and technologies ........................................ 4
+
+     Connectivity infrastructure ............................................................................................................. 4
+
+     Semiconductors............................................................................................................................... 6
+
+    Edge nodes ...................................................................................................................................... 6
+
+    Quantum technologies .................................................................................................................... 7
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 8
+
+    SMEs with at least basic digital intensity ........................................................................................ 8
+
+     Take up of advanced technologies .................................................................................................. 9
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 11
+
+   Strengthening Cybersecurity & Resilience ........................................................................................ 11
+
+Protecting and empowering EU people and society ............................................................................. 13
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 13
+
+     Equipping people with digital skills ............................................................................................... 13
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 17
+
+Leveraging digital transformation for a smart greening ....................................................................... 20
+
+Annex I: National roadmap analysis ...................................................................................................... 22
+
+Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 24Hungary
+
+Executive summary
+
+Hungary boasts a good fibre infrastructure and a strong position in digital public services for citizens,
+especially in the area of access to e-Health records. However, the country continues to lag in business
+digitalisation and the uptake of key technologies, especially in the case of small to medium size
+enterprises (SMEs), as well as in basic digital skills of the population.
+
+The weaknesses identified in business  digitalisation undermine Hungary’s competitiveness, as
+enterprises with low digital intensity are less able to achieve productivity gains from both basic and
+advanced digital tools and to expand into new business opportunities. Moreover, limited digital literacy
+constrains citizens’ effective use of technology and e-services, weakens labour productivity growth,
+and reduces businesses’ capacity to reap the full benefits of digital adoption.
+
+In order to improve its digital leadership assets, Hungary will host one of the European AI Factory
+Antennas, under the AI Factory programme of the European High Performance Computing Joint
+Undertaking (EuroHPC JU). This will give access to the computational capacity of the existing EU AI
+Factory, without the need to build a stand-alone national infrastructure. There are currently no digital
+unicorns in Hungary, which represents a serious gap in the development of the digital economy.
+
+Hungary in the Digital Decade
+
+Hungary shows a moderate level of ambition in its contribution to the Digital Decade having set 14
+national targets (out of 14 possible), 71% of which are aligned with the EU 2030 targets. In its national
+roadmap, Hungary provided 12 trajectory points for 2025 (out of 13 analysed). The country is
+progressing towards them moderately well with 50% considered on track. Hungary addressed 33% of
+the 9 recommendations issued by the Commission in 2025 by introducing new measures. According
+to the national roadmap, by the end of 2026, 48% of the measures will come to an end. The total
+public budget associated with these measures is EUR 575 million, representing 32% of the total public
+budget provided for in the roadmap. According to the special 2026 Eurobarometer on ‘the Digital
+Decade’, 85% of Hungarian respondents consider that digital policy should have a very high/high
+priority for the EU in shaping our future in Europe. They are also of the opinion that, in the next ten
+years, the EU should cooperate with Member States to reinforce cybersecurity and protection from
+online threats (92%), promote digital education and skills programmes (90%) and strengthen the
+regulation of online platforms (e.g. online social networks, marketplaces, app stores, etc.) (89%).
+
+In addition, 81% of Hungarian respondents think that the EU should reduce its digital dependencies
+on non-EU countries, and 89% are of the opinion that EU should prioritise investments in digital
+infrastructure and services that are developed and controlled in Europe. Meanwhile, 56% would be
+willing to switch to an EU-based digital service provider even if it means slightly higher costs.
+
+Funding for digital and multi-country projects
+
+Hungary allocates 29% of its total funding under the recovery and resilience plan (RRP) to digital (EUR
+1.7 billion). In addition, under cohesion policy, EUR 2.8 billion, representing 13% of the country’s total
+cohesion policy funding, is dedicated to advancing Hungary’s digital transformation.
+
+Hungary is a member of the Alliance for Language Technologies, a European Digital Infrastructure
+Consortium (EDIC) and of the IMPACTS EDIC. Hungary is directly participating in the Important Project
+of Common European Interest (IPCEI) on Next Generation Cloud Infrastructure and Services (IPCEI-CIS)
+
+
+                                        1Hungary
+
+
+
+and in the Tech4Cure IPCEI. Hungarian entities are indirect and/or associated partners in the IPCEI on
+Microelectronics and Communication Technologies (IPCEI-ME/CT). Hungary is a participating state of
+the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+                                      Hungary               EU               Digital Decade
+ Digital Decade KPI (1)                                                                                       target by 2030
+                                           Last       DESI 2026     Annual    National     DESI     Annual    HU      EU
+                                         available     (year 2025)    progress   trajectory    2026     progress
+  Fixed Very High-Capacity Network      86.0%       87.4%        1.7%      88.0%     85.5%     3.7%     97.0%    100%
+
+  Fibre to the Premises (FTTP)           79.9%       81.8%        2.4%      83.0%     74.1%      7.1%     95.0%          -
+
+  Overall 5G coverage                 85.6%        94.0%       9.9%      76.0%     96.8%     2.6%     99.0%    100%
+
+  Edge Nodes (estimate)                            -          152                 -         28       7451            -        82     10000
+
+  SMEs with at least a basic level of                                   53.2%       59.8%        6.1%      61.5%     71.4%     11.0%     89.0%    90%
+  digital intensity *
+
+  Cloud *                           37.1%       40.8%        4.9%      48.0%     46.7%     9.5%     75.0%    75%
+
+   Artificial Intelligence                  7.4%        10.4%       39.9%      9.0%      20.0%     48.0%     24.0%    75%
+
+  Data analytics *                     53.2%       40.6%       -12.7%     59.5%     39.9%     9.5%     75.0%    75%
+
+  AI or Cloud or Data analytics *         65.6%       59.7%        -4.7%             -        63.2%     7.5%            -      75%
+
+  Unicorns                            0           0                   -                -        324      10.2%      2       500
+
+  At least basic digital skills *            58.9%       57.3%        -1.3%      66.0%     60.4%     4.3%     70.0%    80%
+
+  ICT specialists                       4.5%        4.6%        2.2%       5.3%      5.0%      2.0%      8.3%    ~10%
+
+  e-ID scheme notification                       No
+
+  Digital public services for citizens        77.7          85.6        10.3%       77.3        84.6      2.8%       96.3      100
+
+  Digital public services for businesses     80.0          80.0        0.0%       84.7        88.6      2.7%       97.2      100
+
+  Access to electronic health records       86.0          88.1        2.4%        96.4       86.5      4.6%      100.0     100
+
+  (1) Indicators full description, metadata and sources in the DESI 2026 methodological note
+  (2) Last available data is DESI2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year
+  2023)
+  (3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap
+
+
+A competitive, sovereign and resilient EU based on technological
+leadership
+
+Hungary is performing well in connectivity, being above the EU average in fibre coverage and slightly
+below for 5G. Coverage of last premises, especially in rural areas, will be key to achieving full coverage
+by 2030.
+
+Hungary has achieved mixed progress in the digitalisation of businesses. While there have been
+improvements in certain areas, such as the adoption of AI among SMEs and large enterprises,
+Hungarian enterprises, particularly SMEs, continue to lag behind their EU counterparts in most areas
+of technology adoption. The growth rates in most areas are also lower than the EU averages, indicating
+that while Hungary is making strides, it is not keeping pace with the broader EU trends.
+
+Protecting and empowering EU people and society
+
+Hungary’s digital skills profile reveals several areas of concern. While performance in urban areas and
+among young adults is good, the county’s overall digital skills rate has declined. The gender gap,
+educational disparities, and the urban-rural divide are notable challenges. Targeted interventions are
+necessary to address these disparities, especially in rural areas and among populations with lower
+
+
+
+                                        2Hungary
+
+
+
+education. Strengthening digital education and training programmes could help Hungary close the gap
+with the EU average and ensure more inclusive digital participation.
+
+Even though Hungary is performing well in terms of digital public services for citizens, especially in e-
+Health, further improvement in cross-border services and the notification of an e-ID scheme would
+further contribute to the improvement of these indicators.
+
+
+
+
+ Recommendations
+
+       -   Digitalisation of SMEs: Improve SMEs basic digitalisation by designing dedicated public support
+        measures, including training programmes, diagnostics and targeted financial support, to assist
+         businesses in cybersecurity, digital business management, and AI.
+       -   ICT specialists: Continue to improve the job market relevance of ICT specialist training pathways
+         (higher education, vocational training, and re- and upskilling), aligning them with industry
+         needs, with particular attention to AI and cybersecurity specialists. Encourage people to pursue
+         ICT training pathways including via raising awareness at earlier stages of education, career
+         guidance, validating prior learning, identifying and reducing barrier to entry, and advertising
+         campaigns. Intensify efforts to increase women’s participation in ICT studies and careers.
+       -   Uptake of AI: Continue to support the adoption of AI by businesses by ensuring the proper
+        implementation of current national measures. Strengthen access to AI infrastructures for SMEs,
+          including AI factories, and promote AI adoption by SMEs via the sectoral flagships initiatives of
+         the Apply AI strategy and skills development.
+       -   Basic digital skills: Accelerate the country’s efforts to bridge the digital divide by developing
+        and investing in inclusion policies that focus on vulnerable groups, such as those with lower
+          levels of formal education and those living in rural areas.
+       -   Cybersecurity: Accelerate efforts to implement cybersecurity legislation measures necessary to
+         strengthen the cybersecurity position of the country. Increase efforts in ICT security for
+          enterprises, particularly by raising employees’ awareness and improving their preparedness
+        amid the ever-changing cyber threat and technology landscape.
+       -   Digital Public Services: Accelerate the implementation of cross-border capabilities of public
+          services, prioritising high-volume cross-border procedures.
+       -   e-Health: Continue to cooperate and invest in digitalisation of its health systems to achieve the
+        2030 eHealth target and advance the adoption and integration of AI in healthcare. A key focus
+         should be making the data type of medical images available to citizens through the online access
+          service.
+       -  5G coverage: Hungary should accelerate 5G rollout in the 3.4–3.8 GHz band. It should also
+        promote the deployment of 5G SA networks while enabling advanced use cases. In addition,
+        Hungary should take advantage of the upcoming expiry of rights of use to promote pro-
+        investment authorisation.
+
+
+
+
+
+                                        3Hungary
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Building technological leadership: digital infrastructure and technologies
+
+Connectivity infrastructure
+Performance assessment
+
+In 2025, Hungary achieved a coverage rate of 87.43% by Very High-Capacity Networks (VHCN),
+surpassing the EU’s 85.54%, after an increase of 1.7% from the previous year. However, in terms of
+annual growth, Hungary’s rate of 1.7% was lower than the EU’s 3.7%. Hungary’s VHCN coverage in
+sparsely populated areas increased to 77.63%, while the EU’s coverage reached 66.66%. Hungary’s
+annual growth rate of 2.3% was also lower than the EU’s 7.7%. The country is on track according to its
+trajectory presented in the Digital Decade national roadmap.
+
+Hungary’s  fibre-to-the-premises  (FTTP)  coverage  increased  to 81.76% (+2.4%  since  2024),
+significantly higher than the EU’s 74.13%. However, Hungary’s annual growth rate was lower than the
+EU’s 7.1%, as the coverage is already at a relatively high baseline value. In sparsely populated areas,
+Hungary’s coverage increased to 71.35%, again above the EU’s coverage of 62.61%. Hungary’s annual
+growth rate of 4.1% was also lower than the EU’s 6.5%. The country is on track according to its
+trajectory presented in the Digital Decade national roadmap.
+
+
+
+
+
+In 2025, Hungary’s 5G coverage increased to 94.04% (+9.9% since 2024), while the EU’s coverage
+reached 96.79%. Hungary’s annual growth rate of 9.9% was higher than the EU’s 2.6%. In sparsely
+populated areas, Hungary’s 5G coverage increased to 81.95%, while the EU’s coverage reached
+88.88%. However, the annual growth rate of 41.5% in these areas was significantly higher than the
+EU’s 11.7%. The country is on track according to its trajectory presented in the Digital Decade national
+roadmap.
+
+
+
+
+                                        4Hungary
+
+
+
+Hungary’s 5G coverage in the 3.4-3.8 GHz band was 60.12% in 2025, below the EU’s coverage of
+74.75%. However, the annual growth rate of 12.6% was higher than the EU’s 10.6%. In sparsely
+populated areas, Hungary’s coverage in the 3.4-3.8 GHz band increased to 12.63%, while the EU’s
+coverage reached 33.71%. However, Hungary’s annual growth rate of 97.2% in these areas was
+significantly higher than the EU’s 32.9%.
+
+Hungary has performed consistently in VHCN and FTTP coverage, surpassing the EU average in both
+years. However, the country’s growth rates in these areas have been lower than the EU’s. For overall
+5G coverage and 5G coverage in the 3.4-3.8 GHz band, Hungary was below the EU average. However,
+the country’s growth rates in these areas have been significantly higher than the EU’s, indicating rapid
+progress. In conclusion, while Hungary’s coverage levels in certain areas are commendable, there is a
+need for improved growth rates in VHCN and FTTP coverage.
+
+The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in
+Hungary and shows that the main regions facing coverage challenges are Nyugat and Dél-Dunántúl.
+
+
+
+
+
+In terms of take-up, Hungary is at 44.53% of fixed broadband subscriptions >= 1 Gbps, after an
+increase of 11.9% in 2025, which places it above the EU average of 26.97%. In 2024, Hungary’s share
+was 39.81%, which was higher than the EU average of 22.25%. The annual growth rate for Hungary in
+2025 was 11.9%, which was lower than the EU’s growth rate of 21.2%, achieved from a lower baseline.
+
+Despite an increase of 39.6% in 2025, only 29.01% of the Hungarian population have a 5G SIM
+card, significantly below the EU average of 55.55%. In 2024, Hungary’s share was 20.79%, which was
+also below the EU average of 35.56%. The annual growth rate for Hungary in 2025 was 39.6%, which
+is lower than the EU’s growth rate of 56.2%. This indicates that while Hungary shows progress in
+fixed broadband subscriptions >= 1 Gbps, it lags behind the EU in the adoption of 5G SIM cards.
+
+Policy context and assessment of recommendations
+
+Hungary is focusing on covering the remaining households with fibre by directing public and private
+investment into this area. The state aid program DIMOP Plusz 3.1.2 (Gigabit Hungary) is based on the
+construction of gigabit capable connections via optical fibre and 5G Fixed Wireless Access (FWA)
+supported by an address database for households, businesses, governmental institutions and 5G base
+tower stations (BTS). The database, created with the help of a public consultation, contains information
+on uncovered (white and grey) areas.
+
+
+
+
+                                        5Hungary
+
+
+
+The new Gigabit Hungary Program, announced in 2025 aims to provide gigabit network coverage for
+approximately 600 000 currently not covered access points in all the 174 districts of Hungary (with the
+exception of Budapest) with financing from European Union funds. The new programme takes into
+account the special requirements of rural areas, adding more financial and technical support for those
+connections. It plans to provide fibre and 5G FWA connections to households not yet connected to
+Gigabit speeds, with a deadline of the end of 2028. Provided the programme  is successfully
+implemented, Hungary will be able to fulfil its trajectory presented in the Digital Decade national
+roadmap. The results of applications for participation in the programme were announced in two
+phases, adding 452 000 addresses to be covered with gigabit speed and 3 604 5G BTSs to be connected
+with fibre with a total state support of HUF 84.13 billion. To guarantee that the connectivity targets of
+the Digital Decade and the National Digital Strategy are met, public funding has been increased to HUF
+95.46 billion HUF, enabling the country to launch a third phase, covering the remaining addresses.
+
+The decommissioning of older networks (copper cable and 2G/3G) is progressing well. Regarding the
+switching-off of copper networks, operators have not set a target date for completion. However, the
+main players are progressing on the basis of batches of municipalities that are already covered with
+fibre or with a pilot project. Thanks to the high take-up of >=1Gbps subscriptions, the country is well
+positioned to complete the decommissioning in the near future. Based on the experiences of the
+successful switch-off of 3G networks in 2024, the mobile operators are already planning the 2G
+network switch-off on a commercial basis. One example is Magyar Telekom, one of the three mobile
+network operators in Hungary, which is gradually transferring its customers’ 2G traffic to the national
+radio access network of another mobile operators (Yettel). However, the complete switch-off of 2G
+networks will not be possible before 2030, due to the large number of commercial (cashier or other
+machine-to-machine) devices currently in operation.
+
+In 2025, Hungary did not receive any recommendation under the Digital Decade on connectivity
+matters (VHCN, FTTP, 5G).
+
+Semiconductors
+Hungary does not currently have a significant domestic industry for semiconductor production.
+However, some of the major industrial players in the European automotive semiconductor ecosystem,
+such as BOSCH, Infineon Technologies and NXP Semiconductors, are present in the country. As these
+Hungarian entities are indirect and/or associated partners in the IPCEI on Microelectronics and
+Communication Technologies (IPCEI-ME/CT), the country can contribute to the European automotive
+semiconductor value chain, relying on a strong research base and a growing industrial presence in the
+semiconductor industry.
+
+Edge nodes
+
+Performance assessment
+
+According to the Edge Node Observatory, Hungary is estimated to have deployed a total of 152 edge
+nodes by 2025. Although due to a change in methodology, this number cannot be compared to
+previous estimations, according to the 2025 figure, Hungary has already fulfilled its 2030 target
+presented in the Digital Decade national roadmap
+
+Policy context and assessment of recommendations
+
+Hungary participates in the IPCEI-CIS (Important Project of Common European Interest – Cloud
+Infrastructure and Services). Bringing together seven Member States (France, Germany, Hungary, Italy,
+
+
+                                        6Hungary
+
+
+
+the Netherlands, Poland, and Spain), the IPCEI-CIS aims to support projects contributing to the
+development of a multi-provider cloud-to-edge continuum in the EU, with a maximum public
+investment of EUR 1.2 billion.
+
+Quantum technologies
+Hungary builds on a strong science base in the field of quantum technologies and is actively linked
+to European and global initiatives in this area. Hungary established the Hungarian Research Network
+(HUN-REN) in 2025, as its leading national research organization and a central pillar of the domestic
+research and innovation ecosystem. The network brings together 15 research institutions and two
+business entities and employs more than 5 000 staff members, including approximately 3 400
+researchers conducting research across a broad spectrum of STEM fields, life sciences, and frontier
+science. The research teams of the HUN-REN Wigner Physics Research Centre, HUN-REN Institute for
+Computer Science and Control (SZTAKI), the Budapest University of Technology and Economics, the
+Eötvös Loránd University and Pro-M Zrt. (Hungarian NREN) are actively engaged in research and
+development activities in the fields of quantum information, quantum communication and quantum
+simulation, which is increasingly linked to industrial collaborations and EU research programmes.
+Hungary is also actively contributing to the deployment of the European Quantum Communication
+Infrastructure, in particular through the EuroQCI programme, which aims to create a quantum-proof
+communication network in Europe to support the secure transmission of data across government
+systems, the financial sector and critical infrastructures. In support of these objectives, Hungary is
+participating in the QCIHungary and CEQCI projects, within which the HUN-REN Wigner Research
+Centre for Physics, the Budapest University of Technology and Economics, the Eötvös Loránd
+University, and Pro-M Ltd. are carrying out key research, development, and infrastructure deployment
+activities related to quantum communication technologies.
+
+The Hungarian National Quantum Strategy is currently being prepared; it will provide a long-term
+framework for research, development and industrial deployment of quantum technologies. The
+strategy  is expected to focus on strengthening quantum computing, quantum communication,
+quantum sensors and deep tech developments.
+
+Hungarian researchers are also involved in global quantum initiatives. The Hungarian research group
+Gibbs Samplers, from the HUN-REN Alfréd Rényi Mathematics Research Institute, was among the
+seven finalists in the XPRISE Quantum Applications competition launched by Google Quantum AI,
+GESDA and XPRISE. The project aims to develop quantum algorithms that can significantly accelerate
+the discovery of new materials and the simulation of complex quantum systems.
+
+In parallel with Hungarian research and ongoing projects, the National Media and Infocommunications
+Authority (NMHH) has developed its quantum strategy and begun expanding its communications
+measurement complex with a quantum laboratory with such capabilities that by the time quantum-
+based key sharing systems are built it will be able to measure and examine the necessary devices, test
+interoperability capabilities, and authenticate quantum-based devices installed in networks.
+
+
+
+
+
+                                        7Hungary
+
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+SMEs with at least basic digital intensity
+Performance assessment
+
+Hungary is at 59.81% of SMEs with at least a basic level of digital intensity after an increase of 6.1%
+annually between 2023 and 2025, which places it below the EU average of 71.39%. In 2023, Hungary
+was at 53.16%, which was also below the EU average of 57.9%. While Hungary has shown
+improvement, its annual growth rate of 6.1% is lower than the EU’s 11.0%, indicating that Hungarian
+SMEs are digitalising at a slower pace than their EU counterparts. The country is on track according to
+its trajectory presented in the Digital Decade national roadmap.
+
+Regarding SMEs with a very high digital intensity index, Hungary is at 5.54% after an increase of 24.2%
+annually between 2023 and 2025, which places it significantly below the EU average of 9.07%. In 2023,
+the figure for Hungary was 3.59%, also lower than the EU average of 4.38%. As with basic digital
+intensity, for this indicator too, Hungary is making progress, but continues to lag behind average EU
+levels, particularly in achieving advanced levels of digital intensity among SMEs.
+
+Policy context and assessment of recommendations
+
+Low levels of digitalisation of SMEs prevent Hungary from benefiting from the global productivity
+gains from digital. SMEs face challenges in innovation readiness and capabilities, due to the lack of
+digital skills of managers and staff. Foreign companies investing in Hungary bring only a small portion
+of their R&D activities to Hungary, which are typically managed at parent company level. Consequently,
+there is minimal foreign support for the SME sector in this regard. Broken down by company size
+category, there is a significant difference between small enterprises with 10-49 employees and
+medium-sized enterprises with 50-249 employees. While 79.97 % of medium-sized enterprises with
+50-249 employees reach at least a basic level of digital intensity (EU: 86.67 %), only slightly more than
+half of small enterprises with 10-49 employees reach at least a basic level of digitalisation (HU:
+56.78 %; EU: 68.85 %). According to the latest Eurostat data1, 63.5 % of domestic small businesses have
+a website (EU: 76.67 %), 43.96 % use cloud computing services (EU: 49.3 %), 24.35 % use an ERP
+solution (EU: 41.08 %) and 24.81 % send electronic invoices suitable for automatic processing (EU:
+37.01 %), 27.35 % held remote (online) meetings (EU: 47.04 %), 44.38 % use social media (EU: 60.59 %)
+and 9.56 % have documentation recording ICT security measures or practices (EU: 30.31 %).
+
+The Demjan programme, introduced in 2024 to address the digitalisation of SMEs and aimed
+specifically at developing the internet presence of Hungarian micro and small enterprises, has had
+mixed results. Another important measure, the second round of the call (DIMOP Plus-1.2.6/B -26) on
+supporting growth opportunities for SMEs to foster digital infrastructure and transformation was
+launched in 2026 to improve companies’ position on the Digital Intensity Index. The programme
+supports domestic companies in procuring tools, services and training (e.g. related to the development
+of employees’ digital skills, the development of ICT security or the effective use of social media). In
+order to be eligible for aid, companies must reach at least a basic level of digital intensity by the end
+of the project, but those undertaking to reach a high level of digital intensity by the end of the project
+
+
+1 Data for years 2023, 2024 and 2025 vary based on the latest measured data: Website (2025); Cloud computing service
+(2025); ERP solution (2025); Electronic invoice suitable for automatic processing (2023); Remote (online) meetings (2024);
+Social media (2025); Documentation recording ICT security measures, practices (2024).
+
+                                        8Hungary
+
+
+
+receive additional points in the selection procedure. Participating companies are required to
+participate in input and output measurements, which are designed on the basis of the Digital Intensity
+Index. The implementation was planned with the involvement of Hungarian telecommunication and
+IT service providers; however the implementation is progressing slowly due to administrative reasons.
+
+Additionally, as part of the strategic program EDIOP Plus-3.2.1-21 strategic programme, aimed at
+providing sub-granting to eligible companies for on-the-job training, thereby increasing their
+productivity, only 23% of the trainings courses for which funding was applied for were in the area of
+ICT; consequently, the programme has had only a moderate impact on the digitalisation of the SMEs.
+
+ 2025 recommendation on  digitalisation  of SMEs: Continue  efforts through new support
+ programmes and incentives to accelerate the digital transformation of SMEs, no matter what their
+  size, and increase resources for existing schemes.
+
+  In 2025, Hungary continued the implementation of existing measures but did not take any new
+ measure. The performance figures are slightly improving, but the gap between Hungary and the EU
+ average  is growing, which shows that the current initiatives are not sufficient. The country
+ introduced a new measure just after the closing of the monitoring period, which aims to increase
+ the competitiveness of micro and small enterprises with very low digital intensity in less developed
+ regions by supporting the digital transformation, through the deployment and operation of digital
+  solutions available on the market and, the strengthening of basic digital infrastructures. The DIMOP
+  Plusz call, funded from the European Regional Development Fund and co-financed by Hungary, aims
+ to strengthen the efficiency and income-generating capacity of these SMEs.
+
+
+Take up of advanced technologies
+
+Performance assessment
+
+
+
+
+
+40.56% of enterprises in Hungary adopted data analytics, following a decrease of 12.7% annually
+between 2023 and 2025, which places the country slightly above the EU average of 39.85%. In 2023,
+the figure for Hungary was 53.21%, significantly above the EU average of 33.25%. The decline in
+Hungary’s adoption rate might be considered as the 2023 figure was extreme, probably due to
+
+
+                                        9Hungary
+
+
+
+methodological misalignment and this year’s figure represents the reality. For SMEs, Hungary’s
+adoption rate in 2025 is 39.62%, slightly above the EU average of 38.59%, but this follows a decline of
+-13.2% annually since 2023, whereas the EU saw an annual growth of 9.7%. Large enterprises in
+Hungary also experienced a slight decline, with an adoption rate of 75.04% in 2025, below the EU
+average of 82.04%, and an annual growth rate of -0.5% compared to the EU’s 6.9%. The country is
+lagging behind its trajectory presented in the Digital Decade national roadmap.
+
+40.82% of enterprises in Hungary adopted cloud technologies after an increase of 4.9% annually
+between 2023 and 2025, which places the country below the EU average of 46.69%. In 2023, the
+figure for Hungary was 37.12%, slightly below the EU average of 38.97%. For SMEs, Hungary’s adoption
+rate in 2025 is 39.8%, below the EU average of 45.74%, with an annual growth rate of 4.9% compared
+to the EU’s 9.7%. Large enterprises in Hungary, however, have an adoption rate of 78.56% in 2025,
+slightly above the EU average of 78.32%, following an annual growth of 4.6% compared to the EU’s
+6.0%. The country is lagging behind compared to its trajectory presented in the Digital Decade national
+roadmap.
+
+10.37% of enterprises in Hungary adopted artificial intelligence after an increase of 67.9% between
+2024 and 2025. This is below the EU average of 19.95%, which grew at an annual rate of 48.0%. In
+2024, the figure for Hungary was 7.4%, lower than the EU average of 13.48%. Despite Hungary’s growth
+rate outpacing the EU’s growth rate of 48.0%, Hungarian enterprises  still lag behind their EU
+counterparts in AI adoption. For SMEs, Hungary is at 9.57%, below the EU average of 18.9%, but with
+a higher annual growth rate of 70.0% compared to the EU’s 60.0%. Large enterprises in Hungary have
+an adoption rate of 39.99% in 2025, below the EU average of 55.03%, but with a higher annual growth
+rate of 51.5% compared to the EU’s 34.4%. The country is on track according to its trajectory presented
+in the Digital Decade national roadmap.
+
+When considering the adoption of AI, cloud, or data analytics technologies together, Hungary is at
+59.66% in 2025, following a decline of -4.7% annually since 2023. This is below the EU average of
+63.2%, which grew at an annual rate of 7.5%. In 2023, Hungary’s adoption rate was 65.63%, above the
+EU’s 54.7%. For SMEs, Hungary’s adoption rate in 2025 is 58.78%, below the EU average of 62.32%,
+with an annual decline of -4.8% compared to the EU’s annual growth of 7.7%. Large enterprises in
+Hungary have an adoption rate of 92.19% in 2025, slightly below the EU average of 92.78%, with no
+growth between 2023 and 2025, compared to the EU’s annual growth of 3.4%. The country did not
+provide a national trajectory point for 2025 in the Digital Decade national roadmap.
+
+Hungary has shown mixed progress in the digitalisation of businesses. While there have been
+improvements in certain areas, such as the adoption of AI among SMEs and large enterprises,
+Hungarian enterprises, particularly SMEs, continue to lag behind their EU counterparts in most areas
+of technology adoption. Hungary’s annual growth rates in digitalisation are often lower than the EU
+averages, indicating a need for accelerated efforts to keep pace with EU peers.
+
+Policy context and assessment of recommendations
+
+Hungary launched new initiatives to facilitate the uptake of advanced digital technologies beyond
+the measures included in the Digital Decade national roadmap. The call on Establishing services to
+ensure the usability of data assets in the economy and making available the available data for re-use
+(DIMOP Plus-1.2.5-26) facilitates the use of AI and support for data-driven operations by businesses.
+The aim is to develop a service data platform and related services with AI-based analytics and data
+processing  functions  –  based  on  administrative  records,  high-value  public  sector  data,
+
+
+                                       10Hungary
+
+
+
+market/economic sources, and SMEs’ own data – providing businesses with tailor-made decision
+support solutions responsive to specific situations. Project DIMOP Plus -1.2.2-24 provides digital
+infrastructure and other IT services with a sectoral approach; it involves industry non-profit actors,
+creating model solutions applicable to sectoral type problems.
+
+Hungary is planning to join the EU’s AI Factory ecosystem, having successfully applied to join the
+EuroHPC JU with a six-member consortium. The consortium, named Hunaifa, will be connected to
+the JUPITER AI Factory in Jülichi (Germany), Europe’s largest AI plant with its largest exaflops-grade
+European supercomputer. Hunaifa’s main objective is to develop a sustainable HPC-accelerated AI
+infrastructure in Hungary. It provides sector-specific support in areas such as healthcare, energy,
+agriculture and manufacturing, as well as access to local HUN-REN Cloud and remote HPC resources.
+A key partner in the partnership will be Forschungszentrum Jülich in Germany, which will provide
+access to the German research network and to the continent’s most powerful supercomputer.
+
+Assessment of the recommendation 2025
+
+ 2025 recommendation on the adoption of advanced technologies: Support the adoption of
+ advanced digital technologies (with a particular attention to AI and cloud) by enterprises via the
+ creation of local ecosystems that enables technologies and best practices to be spread across the
+ whole business sector.
+
+ Hungary made some efforts to address the recommendation through new policy actions in
+ 2025. As the new policy actions were introduced recently, the impact is expected by next year.
+
+
+Unicorns, scale-ups and start-ups
+
+Performance assessment
+
+At the beginning of 2026, Hungary had no unicorns (2030 national target of 2). There are no measures
+planned on unicorns in Hungary’s updated roadmap. As there are two potential future unicorns that
+have been identified in Hungary, the national target seems achievable.
+
+Strengthening Cybersecurity & Resilience
+
+As  for  general  digitalisation, Hungarian  enterprises  lag behind EU  peers  concerning  the
+implementation of cybersecurity measures. In 2024, 41.93% of enterprises applies at least 5
+cybersecurity measures (out of 11 measures as measured by Eurostat), lower than the EU average of
+56.85%. The gap with the EU is particularly pronounced in the use of authentication via biometric
+methods (13.10% in Hungary, 18.27% in the EU), ICT risk assessment (14.85%, EU: 34.10%), and ICT
+security tests (18.16%, EU: 34.64%). The Eurostat indicators of ICT security in enterprises 2024 also
+show that Hungary is lagging behind in the EU in the case of 4 ICT security indicators, being among the
+three worst performing countries (use at least one ICT security measure - ranked 25th; make persons
+employed aware of their obligation in ICT security - ranked 25th; have documents on measures,
+practices or procedures on ICT security - ranked 26th; the enterprise’s ICT security documents were
+defined or reviewed with the last 12 months - ranked 19th from 20 responding MS).
+
+Based on the results of the Digital Decade Eurobarometer 2026, 94% of Hungarian citizens believe that
+the EU should pursue the objective of protecting privacy and security online and 92% of them also
+agree that in the next 10 years, the EU should cooperate with EU Member States to reinforce
+cybersecurity and protection from online threats.
+
+
+                                       11Hungary
+
+
+
+Hungary has restructured its strategic cybersecurity governance model. The leading authority is the
+National Cybersecurity Task Force, headed by the Commissioner for Cybersecurity, who is also the
+Government’s State Secretary for Cybersecurity. The purpose of the reorganisation was to involve the
+political level in legislative and other strategic decisions on cybersecurity. The operational level of
+cybersecurity in the central state administration is represented by the National Cybersecurity Centre
+(NKI). Its mission is to provide network and information security support for the entire central
+administration, local governments and critical infrastructure. The NKI operates the ‘National Contact
+Point for cybersecurity’, which is responsible for coordinating with other national contact points in the
+EU on serious cybersecurity incidents within the European Union, receiving incident reports and
+forwarding them to international partner organisations. On 7 May 2025 the Commission sent a
+reasoned opinion to Hungary for failure to notify full transposition of the NIS2 Directive.
+
+The second round of the call (DIMOP Plus-1.2.6/B -26) on supporting growth opportunities for SMEs
+to foster digital infrastructure and transformation has several elements targeting the development of
+ICT security, as the following development objectives are eligible for support: informing employees
+about their ICT security-related obligations; implementing at least three ICT security measures; and
+ensuring the availability of documented ICT security practices and procedures.
+
+In 2025, Hungary performed a total of 116 vulnerability checks and follow-up audits of 44 entities.
+1307 vulnerabilities were identified, of which 92 were critical, 194 high, 323 medium and 489 low -
+ranked, and 209 were informally flagged as non-risk defects.
+
+Hungary progressed in the rollout of the secure Internet Protocol version 6 (IPv6) for end users. On the
+deployment of secure internet standards, Hungary is above the EU average in the roll-out of IPv6 for
+the end users (52% EU average: 33%) but below the EU average on the server side (8%, against 23%
+for the EU). As regards public networks, the availability of the IPv6 service for educational, research
+and public collection institutions exceeds 95 %, as IPv6 is widely provided to these institutions as part
+of the national research and education network (NREN)
+
+ 2025 recommendation on cybersecurity: Continue efforts in cybersecurity to address evolving
+  threats, particularly for enterprises and administration.
+
+  In 2025, Hungary continued the implementation of existing measures but did not take any
+ new measure. The country rrestructured its cybersecurity governance model based National Cyber
+  Security Strategy and continued its cybersecurity awareness-raising activities and continued the
+ implementation of several DIMOP Plus projects with ICT security related actions.
+
+
+
+
+
+                                       12Hungary
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Equipping people with digital skills
+
+Basic digital skills
+Performance assessment
+
+
+
+
+
+Overall, 81% of Hungarian people think that digitalisation of daily public and private services is
+making their life easier, the same ratio as last year, based on the Digital Decade Eurobarometer 2026.
+
+Hungary is at 57.32% of individuals aged 16-74 with at least basic digital skills after a decrease of
+1.3% annually since 2023, and now stands below the EU average of 60.39%. %. This decline is notable,
+as Hungary’s 2023 figure of 58.89% was above the EU average of 55.56% for the same year. This trend
+indicates a reversal in Hungary’s performance relative to the EU, with its annual growth rate lagging
+significantly behind the EU’s 4.3% increase. The country is lagging behind its trajectory presented in
+the Digital Decade national roadmap.
+
+Regarding the gender gap, Hungary exhibits a discrepancy of 2.89 percentage points in favour of men,
+with 58.79% of men and 55.90% of women possessing at least basic digital skills. This gap is slightly
+wider than the EU average of 2.74 percentage points.
+
+Education level significantly influences digital proficiency in Hungary. Individuals with no or low formal
+education have a digital skills rate of 35.48%, which is below the EU average of 37.56% but represents
+
+
+                                       13Hungary
+
+
+
+a 21.84 percentage point gap relative to the national average, slightly narrower than the EU’s 22.83
+percentage point gap.
+
+In urban areas, Hungary performs well, with 69.25% of individuals in cities possessing basic digital
+skills, surpassing the EU average of 66.49%. The urban-rural divide in Hungary is pronounced, with a
+gap of 24.42 percentage points, significantly wider than the EU average of 13.66 percentage points.
+Rural areas in Hungary have a digital skills rate of 44.83%, which is below the EU average of 52.83%.
+
+Young adults aged 16 to 24 in Hungary demonstrate strong digital skills, with a proficiency rate of
+76.32%, surpassing the EU average of 74.53%. The gap between young adults and older individuals
+(aged 55 to 74) in Hungary is 40.54 percentage points, wider than the EU average of 31.93 percentage
+points. The digital skills rate for the older age group in Hungary is 35.78%, below the EU average of
+42.6%.
+
+In terms of digital safety skills, Hungary performs well, with 80.01% of individuals possessing at least
+basic safety skills, above the EU average of 74.63%. This indicates that Hungary is effective in promoting
+digital safety, though its growth rate in this area is marginally slower than the EU average.
+
+Regarding the use of generative AI, 29.56% of people in Hungary used it in 2025, which is below the
+EU average of 32.66%. A lower share of Hungarians – 14.86%% used generative AI for professional
+purposes,  slightly lower than the EU average  of 15.36%.  According to the  Digital Decade
+Eurobarometer 2026, when asked about the most important obstacles to use more generative AI tools,
+Hungarian citizens pointed out ‘concerns about privacy or data protection’ (31%), ‘concerns about
+accuracy or incorrect information’ (31%) and ‘concerns about ethical issues or misuse of generative AI
+tools’ (25%).
+
+In summary, Hungary’s digital skills profile reveals several areas of concern. While the country
+performs well in urban areas and among young adults, its overall digital skills score has slightly
+decreased, and its growth rate lags behind the EU. The gender gap, educational disparities, and urban-
+rural divide are notable challenges. Hungary’s performance in digital safety skills is good, but its slow
+adoption of generative AI, indicates a need for targeted interventions to enhance digital literacy and
+technological integration across all demographics.
+
+
+
+
+
+                                       14Hungary
+
+
+
+67.64% of individuals in Hungary were exposed to untrue or doubtful content online in 2025, marking
+an increase of 14.8% annually since 2023, when the figure was 51.35%. This places Hungary above the
+EU average, which stood at 55.90% in 2025 and at 49.25% in 2023. The annual growth rate for Hungary
+(14.8%) is significantly higher than that of the EU (6.5%). When looking at different age groups, the
+situation in Hungary is different from that in the EU, as working-age individuals (aged 25-64) are slightly
+more exposed to such content compared to those aged 16-24 (70.60% compared to 68.67% in 2025).
+This age gap of 1.93 percentage points in Hungary is in favour of core working-age individuals, in
+contrast to the EU where the 7.77 percentage points gap Is in favour of younger individuals.
+
+However, 34.01% of individuals verified the truthfulness of online content in 2025, following an
+increase of 13.8% annually from 2023, when this figure was 26.27%. This places Hungary above the EU
+average of 29.16% in 2025 and 24.29% in 2023. The annual growth rate for Hungary (13.8%) also
+exceeds that of the EU (9.6%). Younger individuals (16-24) are more likely to verify online content, with
+44.06% doing so in 2025 compared to 35.73% of those aged 25-64. The gap between these age
+categories is 8.33 percentage points, which is slightly lower than the EU average gap of 9.09 percentage
+points.
+
+Concerning individuals exposed to hostile or degrading messages online, Hungary reached 56.48% in
+2025, reflecting an increase of 13.7% annually from 2023, when this figure was 43.72%. This places
+Hungary significantly above the EU average of 39.72% in 2025 and 33.50% in 2023. Hungary’s growth
+rate also outpaces the EU average, which rose from 33.5% to 39.72% over the same period, at an
+annual rate of 8.9%. Younger individuals (16-24) are more exposed to such content, with 61.81% in
+2025 compared to 57.77% for those aged 25-64. The gap between these age categories in Hungary is
+4.04 percentage points, which is smaller than the EU gap of 11.85 percentage points.
+
+According to the Digital Decade Eurobarometer 2026, 88% of Hungarians agree that online
+manipulation (such as disinformation, foreign interference, AI-generated content, deepfakes) poses a
+threat to the democratic processes. In addition, when asked which online issues had the biggest
+personal impact on them, Hungarian citizens highlighted ‘fake news and disinformation’ (55%), ‘misuse
+of personal data’ (48%), and ‘insufficient protections for minors’ (41%). In relation to the latter, 94%
+are of the view that further strengthening the protection of children and young people online should
+be a priority for the EU.
+
+The data reveals that Hungary consistently exceeds the EU average across all key performance
+indicators (KPIs) related to online content behaviour. In particular, Hungary’s annual growth rates for
+exposure to untrue or doubtful content, verification of information, and exposure to hostile or
+degrading messages are significantly higher than the EU averages. However, the age group disparities
+in Hungary differ from the EU trends, with smaller gaps between the youngest (16-24) and older adults
+(25-64) in most cases. This suggests that while Hungary’s population is increasingly engaged with and
+affected by online content, the differences in behaviour between age groups are less pronounced than
+in the EU.
+
+Policy context and assessment of the recommendations
+The main objective of the policy actions taken by Hungary in 2025 was to improve the less developed
+regions by strengthening people’s digital skills. An important step in this regard is the upskilling of
+educators in vocational education and training school in the field of AI, introducing AI education in VET
+programmes in all economic sectors, tailored to the specificities of each sector and profession. Another
+key issue is exploring the role that AI can play in improving educational outcomes, especially through
+providing differentiated learning support to pupils’ levels of competences as well as special educational
+
+
+                                       15Hungary
+
+
+
+needs. The aim is for pupils to understand that AI is a technology that is integrated into our daily lives
+and that we need to learn to apply them responsibly and critically. The programme will be part of the
+curriculum in 60 vocational education institutions in the first phase and then progressively in all
+vocational education institutions in the next phases. The trainers will be specifically prepared to teach
+the AI related subject. In November 2025, Logiscool prepared 95 trainers from 60 Hungarian vocational
+training institutions to teach the AI related subject. More than 1700 pupils started the pilot program,
+which will be completed in Q2 2025.
+
+he DROP Plus (DROP+ priority 4) with a total allocation of over EUR 140 million European Social Fund
+Plus (ESF+) support target basic digital skills development. These include a set of interventions aimed
+at strengthening basic digital skills as well as advanced digital skills across Hungary. Collectively, these
+projects address the widening digital divide by targeting both the general population and particularly
+vulnerable groups, with a strong emphasis on less developed regions. DROP Plus 4.2.3 focuses on
+developing digital skills for those not yet having at least overall basic digital skills among adults,
+prioritising those with low educational attainment and limited digital skills. Its goals are to involve
+188,025 participants in trainings to obtain micro-credentials. DROP Plus 4.2.7 key project already
+running and DROP+ 4.2.9 calls published in autumn 2025 are to provide entry level digital skills
+development, prioritises Hungary’s least developed regions and specifically targets working age adults
+from disadvantaged backgrounds. The  projects  will  offer a mentor-based, community-driven
+approaches. DROP Plus 4.2.8 mirrors this methodology in Budapest, adapting it to the urban context,
+while maintaining its focus on socially disadvantaged groups. These measures are complemented with
+DROP Plus 4.2.2 that aims to implement the EU’s DigComp 2.2.
+
+ 2025 recommendation on Basic digital skills: Accelerate the country’s efforts to bridge the digital
+  divide by developing and investing in inclusion policies that focus on vulnerable groups, such as
+ those with lower levels of formal education and those living in rural areas.
+
+  Hungary made some efforts to address the recommendation through new policy actions in
+ 2025. A call for proposal (DROP+ 4.2.9) to provide financial support for the development of digital
+  skills of vulnerable groups was published in autumn 2025.
+
+
+
+ICT specialists
+Performance assessment
+Hungary is at 4.6% of ICT specialists in total employment (2030 national target 8.3%) after an
+increase of 2.2% in 2025, which places it below the EU average of 5.0%. Hungary’s growth rate was
+higher than the EU’s (2.0% in 2025), showing that Hungary is making progress and getting closer to the
+EU average. The country is lagging behind its trajectory presented in the Digital Decade national
+roadmap.
+
+The share of Hungarian women working as ICT specialists and participating in ICT training shows a
+concerning trend. The share of female ICT specialists in Hungary was 15.2% in 2024, lower than the
+EU’s 19.5%. By 2025, this figure decreased slightly to 15.0%, while the EU’s share remained at 19.5%.
+This suggests that Hungary is not effectively retaining or attracting female talent in the ICT sector. At
+the same time, in 2024, Hungary was one of the Member States with the highest share of ICT
+graduates, representing 6.80% of all graduates. This relatively good graduation rate might contribute
+to ensuring more ICT specialists in the labour market in the future. Still in 2024, 6.35% of Hungarian
+enterprises recruited or tried to recruit personnel with ICT specialists’ skills (EU average: 9.55%).
+
+
+
+                                       16Hungary
+
+
+
+Policy context and assessment of the recommendations
+To tackle the shortages of digital skills and specialists, Hungary is investing over EUR 230 million of ESF+
+funds in digital skills development at different levels, aiming to reach above 500 000 participants,
+including 180 000 disadvantaged adults. In addition, Hungary allocated EUR 135 million ESF+ funding,
+within the Digital Renewal Operational Programme Plus 2021-2027, to develop digital skills in specific
+digital technologies contributing to the Strategic Technologies for Europe Platform (STEP). STEP digital
+skills academies are planned to be set up in various domains to develop and deliver trainings. 80% of
+the total financial allocation is planned to be spent on learning vouchers for individuals.
+
+To effectively ensure a skilled workforce, the Vocational Training 4.0 2030 strategy aims to renew and
+further develop vocational training and adult learning at system level. This also includes supporting
+the digital and green transition in VET. In vocational education and training the number of students in
+the IT and telecommunications sector ranks second on the list of training courses. According to Sir-
+STAT (national) statistics, in the 2025/2026 school year, 10.6 % of VET learners (219 352) are studying
+in the ‘IT and telecommunications’ sector (23.351 in student status).
+
+The objective related to the ‘ICT specialists’, would also be supported by the career guidance planned
+in the EDIOP Plus cohesion policy programme.
+
+ 2025 recommendation on ICT specialists and advanced skills: Closely monitor implementation of
+  existing measures to boost the number of ICT specialists in the shorter term and continue measures
+ to increase the percentage of women in ICT careers; increase efforts to reduce the cybersecurity
+  skills gap.
+
+  In 2025, Hungary continued the implementation of existing measures but did not take any new
+ measure. Until EU funds are made available, there is limited progress expected in this field.
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Performance assessment
+In 2025, Hungary’s total digital public services score for citizens (which covers both national and
+cross-border users) reached 85.65/100 points. This represents a 10.3% increase compared to 2024.
+As such, Hungary is above the EU average of 84.64/100 points. The country is on track according to
+its trajectory presented in the Digital Decade national roadmap. When looking specifically at digital
+public services for national citizens, Hungary reached 96.36/100 points in 2025. This is above the EU
+average of 94.01/100 points, and it marks a 1.5% increase from 2024. However, for cross-border
+digital public services for citizens, Hungary’s 2025 score was 74.94/100 points, which is slightly below
+the EU average of 75.28/100 points. Compared to 2024, this reflects a 24.0% increase.
+
+Citizen related life events that score particularly well include Health (95.0), Family (92.69), and
+Transport (88.75). Conversely, Starting a small claims procedure (75.0), Career (77.27), and Studying
+(85.0) show the most room for improvement. Across levels of government for digital public services
+for national citizens, central government services scored 88.73/100 points, regional government
+services scored 100.0/100 points, and local government services scored 66.11/100 points.
+
+Hungary’s total digital public services score for businesses (covering both national and
+cross‑border businesses) was 80.0/100 points in 2025, standing below the EU average of 88.59/100
+points. This represents no change from 2024. The country is lagging behind its trajectory presented
+in the Digital Decade national roadmap. Among Business‑related life events, Business Start-Up scores
+particularly well (82.5), whereas Regular Business Operations (77.5) show the most room for
+
+
+                                       17Hungary
+
+
+
+improvement. Hungary’s cross‑border digital public services score for businesses reached 60.0/100
+points in 2025, reflecting no change compared with 2024. These results are below the EU average of
+78.37/100 points. On the other hand, digital public services for businesses available to national users
+in Hungary scored 100.0/100 points, which was already the case in 2024 and places the country
+above the EU average of 98.81/100 points.
+
+Overall, digital public services for businesses lag behind EU levels, while citizen-facing services
+remain closer to EU norms. A similar pattern appears across government  tiers, where local
+administrations are showing the greatest need for improvement. Despite these gaps, the underlying
+direction of change indicates that Hungary is on a positive upward trajectory toward achieving the
+2030 digitalisation targets.
+
+In terms of access to e-Health records, in 2025, Hungary scored 88.1, (2030 national target of 100),
+after an increase of 2.4% from 2024 and it is above the EU average of 86.5. Hungary’s growth rate in
+this area is below the EU’s 4.6%. The country is lagging behind its trajectory presented in the Digital
+Decade national roadmap.
+
+Hungary has not yet notified an e-ID scheme to the Commission under the eIDAS Regulation;
+however, Hungary’s roadmap still sets a 2030 target of 100% for access to e-ID. Hungary continued
+implementing the measures presented in  its national roadmap.  The Digital Citizenship (DÁP)
+application launched in September 2024, which will be the basis for Hungary’s eID notification, is
+constantly gaining popularity. The application has been downloaded by more than three million
+Hungarian citizens to their smartphones. With the launch of the Hungarian eIDAS node in late
+December 2025, eIDAS authentication also became available on the Magyarorszag.hu portal.
+
+Policy context and assessment of the recommendations
+
+
+The digitalisation of public services for businesses, including the implementation of cross-border
+capabilities and the once-only principle, could foster the digitalisation of SMEs. Access to efficient
+digital public services which provide a tangible benefit (e.g. reduced administrative burden, gain of
+time) could incentivise smaller businesses to digitalise and close the gap in the basic digitalisation of
+Hungarian SMEs.
+
+Hungary is progressing towards achieving universal citizen access to their electronic health records
+(EHRs) by 2030, as this year’s improved score demonstrates. However, medical images are  still
+unavailable to citizens due to the large storage and bandwidth requirements needed for a central
+repository. Public and private geriatric nursing homes are not yet connected or supplying data, and the
+online portal is not fully compliant with web accessibility guidelines, although plans are underway to
+design a new portal. In 2025, Hungary adopted its national AI Strategy, which recognises the potential
+of AI in healthcare. Health is also a crucial sector recognised in the Apply AI Strategy, yet AI adoption
+and integration in healthcare remain limited and uneven. To date, two organisations have joined the
+Network of AI-powered Advanced Medical Centres, which aims to speed up the introduction of
+innovative solutions for prevention, early detection and diagnosis in cancer and cardiovascular disease.
+Moreover, the cross-border harmonisation, secure storage, processing, and analysis of health data for
+high-impact use cases  is supported by federated infrastructures and governance. Hungary has
+appointed a representative both in the Genome EDIC Working Group and the EUCAIM EDIC Working
+Group.
+
+A key focus should be making the data type of medical images available to citizens through the online
+access service, increasing the supply of health data by onboarding public and private geriatric nursing
+
+
+                                       18Hungary
+
+
+
+homes, and ensuring that all access modes comply with web accessibility guidelines. To further
+advance the development of safe and trustworthy AI in healthcare, Hungary could build on existing
+work to develop up-to-date investment roadmaps for priority use cases aligned with its national
+strategy. This could include supporting healthcare organisations to participate in the Network of AI-
+Powered Advanced Medical Centres, by establishing co-funding schemes for piloting and deploying AI
+solutions in clinical environments.
+
+ 2025 recommendation on Digital Public Services: Speed up the digitalisation of public services for
+  citizens and businesses.
+
+  In 2025, Hungary continued the implementation of existing measures but did not take any
+ new measure. The latest achievement was that eIDAS authentication became available on the
+ Magyarorszag.hu portal.
+
+
+ 2025 recommendation on e-ID: Notify an e-ID scheme under the eIDAS Regulation to the
+ Commission.
+
+  In 2025, Hungary continued the implementation of existing measures but did not take any
+ new measure. The latest achievement was that the Hungarian eIDAS Node has been launched in
+  live environment and the eIDAS authentication became available on the Magyarorszag.hu portal in
+ December 2025. The pre-notification of the Digital Citizenship (DÁP) mobile application as the LoA
+ High level Hungarian e-ID scheme has been officially initiated in February 2026, and in April 2026
+ the Commission services confirmed its completeness and took the required actions to initiate the
+ peer-review process of the pre-notified e-ID scheme.
+
+
+ 2025 recommendation on e-Health: Make the data type of medical images available to citizens
+ through the country’s online access service, expand the availability of health data by onboarding
+  public and private geriatric nursing homes, strengthen the authentication method for logging in to
+ the online access service by using a notified or pre-notified eID scheme and ensure that all access
+ modes comply with web accessibility guidelines.
+
+  In 2025, Hungary continued the implementation of existing measures but did not take any
+ new measure.
+
+
+
+
+
+                                       19Hungary
+
+Leveraging  digital transformation  for a
+smart greening
+
+As noted in previous State of the Digital Decade reports, none of the measures planned in Hungary’s
+roadmap are specifically aimed at the green transition. However, Hungary still plans to leverage the
+digital transformation for smart greening as all the planned measures can contribute indirectly to the
+uptake of greener technologies due to the nature of digitalisation. Priority will be given to integrating
+future-proof, energy-efficient technologies into digital infrastructures, which can contribute to the
+sustainable functioning of the digital sector in the longer term.
+
+Regarding citizens’ perceptions, according to the Digital Decade Eurobarometer 2026, 84% of
+Hungarian people think AI should be developed as a priority in an environmentally sustainable way
+(e.g. using renewable and clean energy). In addition, 47% of them consider ‘green digital technology
+(e.g. energy-saving tech)’ as the technology likely to have the most positive impact in the next ten
+years.
+
+Relevant funding opportunities are being explored to support the green transition of  digital
+infrastructures. DROP+ projects support the uptake of digital solutions and the transition to a climate-
+neutral, circular and more resilient economy through the use of data under the Green and Hi-Tech
+Transition priority. Its priority areas are energy systems and networks, energy management systems
+and digital developments related to energy communities (e.g. development of AI energy management
+systems, IT decision support systems; the introduction of IT solutions to support the efficient use of
+energy; putting district heating systems on a renewable footing; it developments related to electricity
+systems); digitalisation of environmental parameter monitoring and disaster management systems
+(e.g. ICT infrastructure, development of IT systems supporting disaster risk reduction; development of
+IT systems for data collection and monitoring); and the monitoring of waste reuse and recovery (e.g.
+supporting IT, data collection and data processing solutions to help track waste reuse and recovery and
+detect illegal dumping).
+
+The objectives include the development and implementation of energy management systems for
+municipalities (DIMOP Plus-2.1.1), the development of cyber defense systems for renewable and
+decentralised  electricity producers (DIMOP  Plus-2.2.1), the development of solutions  for the
+development of smart capabilities in the electricity grid (DIMOP Plus-2.2.2), the development of
+decentralised operation of the electricity system, the integration of renewable energy producers and
+the effectiveness of balancing (DIMOP Plus-2.2.3/A and DROP Plus-2.2.3/B), the development of an
+environmental monitoring system using installed data collection systems and a climate protection data
+repository (DIMOP Plus-2.3.1), the development of advanced digital specialised systems in the water
+sector (DIMOP Plus-2.3.2), the development of IT systems supporting disaster risk reduction (DIMOP
+Plus-2.3.3), the development of water monitoring systems (DIMOP Plus-2.3.5), the system supporting
+the elimination of illegal landfills and IT development based on aerial remote sensing technology
+(DIMOP Plus-2.4.1).
+
+The DataCity Platform and Pilot (DIMOP Plus-1.3.15-25) aims to (i) support data-based operational
+frameworks for municipalities with a view to ensuring a healthy, sustainable living environment and
+good local quality of life, and (ii) improve the efficiency, accessibility and quality of public services
+through the use of smart service solutions. More specifically, the project aims to (i) develop a central
+data space using AI-based solutions that take into account local needs, ensuring the structured
+
+                                       20Hungary
+
+
+
+provision of data and the possibility of complex data analysis for different user groups; (ii) facilitate
+efficient, sustainable and resilient management of energy, water, transport and other resources
+through data-driven support for key use cases;  (iii) support evidence-based, transparent and
+responsible municipal decision-making; (iv) ensure the involvement of local citizens in decision-making
+and provide access to open data for local businesses.
+
+ 2025 recommendation on Smart greening: Support digital players to accelerate the transition of
+  their network infrastructure to greener, less energy intensive solutions.
+
+ Hungary made some efforts to address the recommendation through new policy actions in 2025.
+ However, most of the smart greening initiatives of the digital players are based on commercial
+  practices, focusing on energy optimization.
+
+
+
+
+
+                                       21Hungary
+
+Annex I: National roadmap analysis
+
+ Hungary’s national Digital Decade strategic roadmap
+
+ Hungary submitted a fully revised national Digital Decade roadmap on 16 May 2025, which
+ contained two additional measures and revised trajectories. The revised roadmap continues to
+  prioritise digital skills and digital infrastructure, and it includes reporting on the consultation of
+ stakeholders. It still covers all objectives of the Digital Decade such as those relating to the green
+  transition, competitiveness, sovereignty, leadership, resilience, and cybersecurity.
+
+ The adjusted roadmap addresses a substantial number of roadmap recommendations issued in
+ 2024, which are described below along with the corresponding action taken by Hungary.
+
+       -   Propose national target values and trajectories for edge nodes and formalise the trajectory
+          for FTTP. Based on the methodology provided by the European Commission and the second
+        Edge Observatory report published in 2024, Hungary’s proposed national trajectory was
+         indicated in the revised document together with an objective of deploying 82 edge nodes
+        by 2030. However, Hungary maintains the position that it is not yet possible to determine
+       how many edge nodes are realistically needed to achieve sufficiently low latency, given its
+          relatively advanced domestic network infrastructure and current and expected user needs.
+        Hungary also added a separate formal trajectory for FTTP, with a target of 95% coverage by
+         2030.
+       -   Increase the VHCN target to be closer to the EU’s target, given the country’s good starting
+         point and its current rate of progress. Based on the current rate of progress Hungary revised
+         the trajectory of VHCN network development. The country considers it possible to increase
+         the 2030 national target from 95% to 97% with the existing measures in place.
+       -   Consider more ambitious targets for the cloud and data analytics technologies take-up by
+          enterprises to be closer to the EU’s targets, as the current performance of these indicators
+             is already above the targets defined in the roadmap of Hungary. Based on the current rate
+         of progress Hungary revised the trajectories for both cloud uptake and data analytics
+        uptake and increased both to 75%, the same as the EU’s Digital Decade targets.
+       -   Define a more ambitious target for digital skills closer to the EU’s target, as the current
+         national target is almost achieved according to the 2023 value. Based on the current rate
+         of progress Hungary revised the trajectory for digital skills. The country considers it possible
+         to increase the 2030 national target from 60% to 70% with the existing measures in place.
+       -   Provide more information on the implementation of digital rights and principles (and Digital
+        Decade general objectives), including what national measures contribute to it. Hungary
+         provided more information on initiatives and their implementation during the second
+         monitoring study of the Declaration on Digital Rights and Principles. The country states that
+        most of the measures in the revised roadmap contribute to the values of the Declaration.
+
+ The revised roadmap has 44 measures, which are backed by a budget of EUR 2.489 billion, 1.2% of
+ GDP.
+
+
+
+
+
+                                       22Hungary
+
+
+
+                       Measures and budget in national roadmap2
+
+
+
+
+
+2 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       23Hungary
+
+Annex  II: Funding, economic impacts &
+Multi-Country Projects
+
+
+
+ Country results from the study ‘Assessing the Economic Impact of Digital Investments under the
+ Recovery and Resilience Facility’
+
+ A modelling study conducted by the European Commission services, with the FIDELIO model,
+ assesses the economic impact of the digital component of the Recovery and Resilience Facility (RRF).
+ As of November 2025, the digital part of Hungary’s Recovery and Resilience Plan (RRP) was
+ evaluated to EUR 1.70 billion with EUR, of which 552 million for digital skills, EUR 126 million for the
+  digitalisation of businesses, EUR 540 million for the digitalisation of public services, and EUR 478
+  million for other digital priorities.
+
+ The total economic impact of RRF digital measures is estimated to EUR 1.91 billion for the national
+ economy. Of this, EUR 1.05 billion stems from the direct effects of Hungary’s own RRP and EUR 859
+  million corresponds to spillover effects from the implementation of other EU Member States’ plans.
+ Hungary benefited the most from spillover effects from RRPs of Spain (EUR 199 million), Italy (EUR
+ 160 million), Germany (EUR 131 million). The most impacted sectors are Manufacturing (EUR 523
+  million), ICT Services (EUR 411 million), and Construction (EUR 217 million).
+
+
+
+
+
+                                    RRF spillover effects to Hungary
+
+
+
+
+
+                                       24Hungary
+
+
+
+ Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy
+ Hungary allocates 29% of its total RRP to digital (EUR 1.7 billion)3. In addition, under cohesion policy,
+ EUR 2.8 billion, representing 13% of the country’s total cohesion policy funding, is dedicated to
+ advancing Hungary’s digital transformation4.
+
+
+
+ Multi-Country Projects
+ Hungary is a member of the Alliance for Language Technologies EDIC and of the IMPACTS EDIC and
+  is an observer to the Digital Commons EDIC. Hungary is directly participating in the IPCEI on Next
+ Generation Cloud Infrastructure and Services (IPCEI-CIS) and in the Tech4Cure IPCEI. Hungarian
+  entities are indirect and/or associated partners in the IPCEI on Microelectronics and Communication
+ Technologies (IPCEI-ME/CT). Hungary is a participating state of the EuroHPC Joint Undertaking (JU)
+ and of the Chips JU.
+
+
+
+
+
+3 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 23 April 2026.
+4 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including
+Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+
+                                       25

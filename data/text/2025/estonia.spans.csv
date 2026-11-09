@@ -1,0 +1,1567 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,111.0,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.9,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.7,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.2,384.9,242.5,PART 8/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,267.0,330.9,284.7, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.5,432.4,328.8,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.3,394.3,360.5,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,379.0,373.6,392.3,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,404.8,525.7,418.1,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,418.6,502.9,431.8,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.3,523.5,457.6,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,475.9,486.6,489.1,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,489.7,487.3,502.9, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+2,1,0,Calibri-Bold,40.0,144.0,275.0,510.9,315.0,DIGITAL DECADE 2025
+2,1,0,Calibri,40.0,511.2,275.0,520.2,315.0, 
+2,1,1,Calibri,40.0,144.0,323.8,470.2,363.8,COUNTRY REPORTS 
+2,2,0,Calibri-Bold,28.0,209.9,411.7,301.0,439.7,Estonia 
+2,3,0,Calibri,22.0,135.4,763.2,140.3,785.1, 
+2,4,0,Arial-BoldMT,24.0,28.3,779.8,35.0,806.5, 
+2,4,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+2,4,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+2,4,3,Arial-BoldMT,24.0,567.0,779.8,573.7,806.5, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,86.2,30.3,149.7,50.4,Estonia 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri-Light,11.0,83.1,174.5,401.0,185.5,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.5,523.0,185.5, ......................................... 6
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri-Light,11.0,94.0,194.1,211.8,205.1,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.1,523.0,205.1, .............................................................................................................. 6
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri-Light,11.0,94.0,213.5,164.9,224.5,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.5,523.0,224.5, ............................................................................................................................... 8
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 9
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri-Light,11.0,94.0,252.5,194.6,263.6,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.5,523.0,263.6, .................................................................................................................... 9
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 10
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri-Light,11.0,94.0,291.5,268.6,302.6,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.5,523.0,302.6, ....................................................................................... 10
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri-Light,11.0,94.0,311.0,242.4,322.0,Take up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,242.4,311.0,523.0,322.0, ................................................................................................. 11
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri-Light,11.0,94.0,330.5,239.8,341.6,"Unicorns, scale-ups and start-ups"
+3,14,0,Calibri,11.0,239.7,330.5,523.0,341.6, .................................................................................................. 13
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri-Light,11.0,83.1,350.0,264.2,361.0,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.0,523.0,361.0, ......................................................................................... 14
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 15
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri-Light,11.0,83.1,389.0,437.2,400.0,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.0,523.0,400.0, .......................... 15
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Light,11.0,94.0,408.4,195.2,419.5,Equipping people with 
+3,18,0,Calibri,11.0,195.3,408.4,523.0,419.5,digital skills ............................................................................................... 16
+3,18,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,19,0,Calibri-Light,11.0,94.0,428.0,462.5,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,19,0,Calibri,11.0,462.7,428.0,523.0,439.0, ................. 18
+3,19,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,20,0,Calibri-Light,11.0,83.1,447.4,457.0,458.5,Building a safe and human centric digital environment and preserving our democracy
+3,20,0,Calibri,11.0,457.2,447.4,523.0,458.5, ................... 20
+3,20,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,21,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 22
+3,21,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,22,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 24
+3,22,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,23,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 25
+3,23,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,24,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 26
+3,24,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,25,0,Calibri-Bold,11.0,72.0,544.9,74.5,555.9, 
+3,26,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,86.2,30.3,149.7,50.4,Estonia 
+4,2,0,Calibri-Bold,26.0,72.0,79.4,287.2,105.4,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,118.6,525.4,129.6,"Estonia is positioning itself as a leader in the digitalisation of public services. However, the country "
+4,4,1,Calibri-Bold,11.0,72.0,133.1,523.6,144.1,"lags EU average in connectivity and the digitalisation of SMEs, while has achieved full access to e-"
+4,4,2,Calibri-Bold,11.0,72.0,147.6,204.5,158.7,Health records before 2030.  
+4,5,0,Calibri-Bold,11.0,72.0,170.1,525.8,181.1,"In its national roadmap adjustment, Estonia shows a high level of ambition in its contribution to the "
+4,5,1,Calibri-Bold,11.0,72.0,184.6,525.5,195.6,"Digital Decade having set 14 national targets, of which 93% are aligned with the EU 2030 targets. "
+4,5,2,Calibri-Bold,11.0,72.0,199.1,525.8,210.1,The country is following its trajectories very well with 100% of them being on track (considering 
+4,5,3,Calibri-Bold,11.0,72.0,213.6,525.8,224.7,2024 trajectories defined for 8 KPIs out of 8 analysed). Estonia addressed 100 % of the 12 
+4,5,4,Calibri-Bold,11.0,72.0,228.0,525.7,239.1,"recommendations issued by the Commission in 2024, either by implementing significant policy "
+4,5,5,Calibri-Bold,11.0,72.0,242.6,386.3,253.6,changes (8%) or making some changes (92%) through new measures.
+4,5,5,Calibri,11.0,386.2,242.6,388.7,253.6, 
+4,6,0,Calibri-Bold,11.0,72.0,265.1,250.6,276.2,"Estonia focuses on digital sovereignty, "
+4,6,0,Calibri,11.0,251.3,265.1,525.8,276.2,through its emphasis on government resilience. The country 
+4,6,1,Calibri,11.0,72.0,279.5,525.6,290.6,has put measures in place to ensure that it can continue to be digitally governed beyond its 
+4,6,2,Calibri,11.0,72.0,294.0,525.8,305.1,geographical borders in various disaster scenarios. Estonia’s roadmap recognises that the country’s 
+4,6,3,Calibri,11.0,72.0,308.6,523.6,319.6,"current challenges require not only introducing new digital measures, but also making sure that well-"
+4,6,4,Calibri,11.0,72.0,323.1,525.8,334.1,established digital services function well and are secure. Although Estonia lags behind the EU in terms 
+4,6,5,Calibri,11.0,72.0,337.5,525.7,348.5,"of overall very high capacity (VHCN) and 5G coverage, it excels in 5G coverage in sparsely populated "
+4,6,6,Calibri,11.0,72.0,352.0,525.6,363.0,"areas. Cybersecurity continues to be important, as demonstrated by the country’s new National "
+4,6,7,Calibri,11.0,72.0,366.5,525.9,377.6,"Cybersecurity strategy 2024-2030. This strategy prioritises safeguarding digital infrastructure, "
+4,6,8,Calibri,11.0,72.0,381.0,453.1,392.1,protecting the country from cyber threats and increasing cybersecurity cooperation.  
+4,7,0,Calibri-Bold,7.0,299.7,410.0,320.9,417.0,Estonia
+4,7,0,Calibri,7.0,321.1,410.0,322.6,417.0, 
+4,7,1,Calibri-Bold,7.0,417.0,410.0,424.9,417.0,EU
+4,7,1,Calibri,7.0,425.0,410.0,426.6,417.0, 
+4,7,2,Calibri-Bold,7.0,470.5,405.4,513.9,412.3,Digital Decade 
+4,7,3,Calibri-Bold,7.0,470.5,414.6,514.0,421.6,target by 2030 
+4,7,3,Calibri,7.0,514.2,414.6,515.8,421.6, 
+4,8,0,Calibri,14.0,97.2,421.4,203.6,435.5,Digital Decade KPI 
+4,8,0,Calibri,9.0,203.6,420.2,213.6,429.2,(1)
+4,8,0,Calibri,11.0,213.5,423.7,216.0,434.7, 
+4,9,0,Calibri-Bold,7.0,348.2,430.9,374.6,437.9,National 
+4,9,1,Calibri-Bold,7.0,346.4,440.2,376.5,447.1,trajectory 
+4,10,0,Calibri-Bold,7.0,309.9,435.6,332.1,442.6,Annual 
+4,10,1,Calibri-Bold,7.0,307.8,444.8,332.6,451.8,progress
+4,10,1,Calibri,7.0,332.7,444.8,334.3,451.8, 
+4,11,0,Calibri-Bold,7.0,348.8,449.4,372.3,456.4,2024 (3)
+4,11,0,Calibri,7.0,372.4,449.4,374.0,456.4, 
+4,11,1,Calibri-Bold,7.0,387.8,440.2,416.5,447.1,DESI 2025
+4,11,1,Calibri,7.0,416.6,440.2,418.2,447.1, 
+4,11,2,Calibri-Bold,7.0,430.7,435.6,452.9,442.6,Annual 
+4,11,3,Calibri-Bold,7.0,428.5,444.8,453.4,451.8,progress
+4,11,3,Calibri,7.0,453.5,444.8,455.0,451.8, 
+4,11,4,Calibri-Bold,7.0,473.0,440.2,479.8,447.1,EE
+4,11,4,Calibri,7.0,479.9,440.2,481.4,447.1, 
+4,11,5,Calibri-Bold,7.0,504.1,440.2,512.0,447.1,EU
+4,11,5,Calibri,7.0,512.2,440.2,513.7,447.1, 
+4,12,0,Calibri-Bold,7.0,247.7,426.4,262.3,433.3,DESI 
+4,12,1,Calibri-Bold,7.0,247.1,435.6,262.7,442.6,2024 
+4,12,2,Calibri-Bold,7.0,246.6,444.8,263.2,451.8,(year 
+4,12,3,Calibri-Bold,7.0,246.1,454.0,262.3,460.9,2023)
+4,12,3,Calibri,7.0,262.4,454.0,263.9,460.9, 
+4,13,0,Calibri-Bold,7.0,279.3,426.4,293.8,433.3,DESI 
+4,13,1,Calibri-Bold,7.0,278.7,435.6,294.3,442.6,2025 
+4,13,2,Calibri-Bold,7.0,278.2,444.8,294.8,451.8,(year 
+4,13,3,Calibri-Bold,7.0,277.6,454.0,293.8,460.9,2024)
+4,13,3,Calibri,7.0,294.0,454.0,295.5,460.9, 
+4,14,0,Calibri-Bold,7.0,77.7,466.6,226.8,473.5,Fixed Very High Capacity Network (VHCN) coverage
+4,14,0,Calibri,7.0,227.0,466.6,228.5,473.5, 
+4,14,1,Calibri,7.0,245.4,466.6,264.4,473.5,76.9% 
+4,14,2,Calibri,7.0,277.0,466.6,296.0,473.5,76.3% 
+4,14,3,Calibri,7.0,312.3,466.6,329.8,473.5,-0.9% 
+4,14,4,Calibri,7.0,351.2,466.6,373.4,473.5, 77.0%  
+4,14,5,Calibri,7.0,393.5,466.6,412.6,473.5,82.5% 
+4,14,6,Calibri,7.0,434.0,466.6,449.5,473.5,4.9% 
+4,14,7,Calibri,7.0,465.9,466.6,488.5,473.5,100.0% 
+4,14,8,Calibri,7.0,500.4,466.6,517.6,473.5,100% 
+4,15,0,Calibri-Bold,7.0,77.7,482.2,186.8,489.1,Fibre to the Premises (FTTP) coverage
+4,15,0,Calibri,7.0,187.0,482.2,188.6,489.1, 
+4,15,1,Calibri,7.0,245.4,482.2,264.4,489.1,76.9% 
+4,15,2,Calibri,7.0,277.0,482.2,296.0,489.1,76.3% 
+4,15,3,Calibri,7.0,312.3,482.2,329.8,489.1,-0.9% 
+4,15,4,Calibri,7.0,351.2,482.2,373.4,489.1, 77.0%  
+4,15,5,Calibri,7.0,393.5,482.2,412.6,489.1,69.2% 
+4,15,6,Calibri,7.0,434.0,482.2,449.5,489.1,8.4% 
+4,15,7,Calibri,7.0,465.9,482.2,488.5,489.1,100.0% 
+4,15,8,Calibri,7.0,507.1,482.2,510.8,489.1,- 
+4,16,0,Calibri-Bold,7.0,77.7,497.6,135.9,504.6,Overall 5G coverage
+4,16,0,Calibri,7.0,136.1,497.6,137.7,504.6, 
+4,16,1,Calibri,7.0,245.4,497.6,264.4,504.6,87.5% 
+4,16,2,Calibri,7.0,277.0,497.6,296.0,504.6,91.5% 
+4,16,3,Calibri,7.0,313.3,497.6,328.8,504.6,4.6% 
+4,16,4,Calibri,7.0,351.2,497.6,373.4,504.6, 90.0%  
+4,16,5,Calibri,7.0,393.5,497.6,412.6,504.6,94.3% 
+4,16,6,Calibri,7.0,434.0,497.6,449.5,504.6,5.9% 
+4,16,7,Calibri,7.0,465.9,497.6,488.5,504.6,100.0% 
+4,16,8,Calibri,7.0,500.4,497.6,517.6,504.6,100% 
+4,17,0,Calibri-Bold,7.0,77.7,513.1,143.0,520.1,Edge Nodes (estimate)
+4,17,0,Calibri,7.0,143.2,513.1,144.8,520.1, 
+4,17,1,Calibri,7.0,252.4,513.1,257.6,520.1,5 
+4,17,2,Calibri,7.0,282.2,513.1,290.8,520.1,10 
+4,17,3,Calibri,7.0,309.8,513.1,332.4,520.1,100.0% 
+4,17,4,Calibri,7.0,358.1,513.1,366.4,520.1, 0  
+4,17,5,Calibri,7.0,395.1,513.1,410.9,520.1,2257 
+4,17,6,Calibri,7.0,432.3,513.1,451.3,520.1,90.5% 
+4,17,7,Calibri,7.0,474.7,513.1,479.9,520.1,5 
+4,17,8,Calibri,7.0,499.3,513.1,518.7,520.1,10000 
+4,18,0,Calibri-Bold,7.0,77.7,528.6,231.1,535.6,SMEs with at least a basic level of digital intensity (2)
+4,18,0,Calibri,7.0,231.4,528.6,233.0,535.6, 
+4,18,1,Calibri,7.0,253.1,528.6,256.9,535.6,- 
+4,18,2,Calibri,7.0,277.0,528.6,296.0,535.6,71.2% 
+4,18,3,Calibri,7.0,313.3,528.6,328.8,535.6,3.1% 
+4,18,4,Calibri,7.0,358.8,528.6,365.6,535.6, -  
+4,18,5,Calibri,7.0,393.5,528.6,412.6,535.6,72.9% 
+4,18,6,Calibri,7.0,434.0,528.6,449.5,535.6,2.8% 
+4,18,7,Calibri,7.0,467.7,528.6,486.7,535.6,90.0% 
+4,18,8,Calibri,7.0,502.1,528.6,515.8,535.6,90% 
+4,19,0,Calibri-Bold,7.0,77.7,544.1,94.2,551.0,Cloud
+4,19,0,Calibri,7.0,94.3,544.1,95.9,551.0, 
+4,19,1,Calibri,7.0,245.4,544.1,264.4,551.0,52.6% 
+4,19,2,Calibri,7.0,284.7,544.1,288.4,551.0,- 
+4,19,3,Calibri,7.0,319.1,544.1,322.9,551.0,- 
+4,19,4,Calibri,7.0,358.8,544.1,365.6,551.0, -  
+4,19,5,Calibri,7.0,401.1,544.1,404.9,551.0,- 
+4,19,6,Calibri,7.0,439.9,544.1,443.6,551.0,- 
+4,19,7,Calibri,7.0,467.7,544.1,486.7,551.0,75.0% 
+4,19,8,Calibri,7.0,502.1,544.1,515.8,551.0,75% 
+4,20,0,Calibri-Bold,7.0,77.7,559.6,137.5,566.6,Artificial Intelligence
+4,20,0,Calibri,7.0,137.7,559.6,139.2,566.6, 
+4,20,1,Calibri,7.0,247.2,559.6,262.7,566.6,5.2% 
+4,20,2,Calibri,7.0,277.0,559.6,296.0,566.6,13.9% 
+4,20,3,Calibri,7.0,309.8,559.6,332.4,566.6,167.6% 
+4,20,4,Calibri,7.0,351.2,559.6,373.4,566.6, 14.0%  
+4,20,5,Calibri,7.0,393.5,559.6,412.6,566.6,13.5% 
+4,20,6,Calibri,7.0,432.3,559.6,451.3,566.6,67.2% 
+4,20,7,Calibri,7.0,467.7,559.6,486.7,566.6,75.0% 
+4,20,8,Calibri,7.0,502.1,559.6,515.8,566.6,75% 
+4,21,0,Calibri-Bold,7.0,77.7,575.2,118.4,582.2,Data analytics
+4,21,0,Calibri,7.0,118.6,575.2,120.2,582.2, 
+4,21,1,Calibri,7.0,245.4,575.2,264.4,582.2,25.6% 
+4,21,2,Calibri,7.0,284.7,575.2,288.4,582.2,- 
+4,21,3,Calibri,7.0,319.1,575.2,322.9,582.2,- 
+4,21,4,Calibri,7.0,358.8,575.2,365.6,582.2, -  
+4,21,5,Calibri,7.0,401.1,575.2,404.9,582.2,- 
+4,21,6,Calibri,7.0,439.9,575.2,443.6,582.2,- 
+4,21,7,Calibri,7.0,467.7,575.2,486.7,582.2,75.0% 
+4,21,8,Calibri,7.0,502.1,575.2,515.8,582.2,75% 
+4,22,0,Calibri-Bold,7.0,77.7,590.7,160.0,597.6,AI or Cloud or Data analytics
+4,22,0,Calibri,7.0,160.2,590.7,161.8,597.6, 
+4,22,1,Calibri,7.0,245.4,590.7,264.4,597.6,60.6% 
+4,22,2,Calibri,7.0,284.7,590.7,288.4,597.6,- 
+4,22,3,Calibri,7.0,319.1,590.7,322.9,597.6,- 
+4,22,4,Calibri,7.0,358.8,590.7,365.6,597.6, -  
+4,22,5,Calibri,7.0,401.1,590.7,404.9,597.6,- 
+4,22,6,Calibri,7.0,439.9,590.7,443.6,597.6,- 
+4,22,7,Calibri,7.0,475.4,590.7,479.2,597.6,- 
+4,22,8,Calibri,7.0,502.1,590.7,515.8,597.6,75% 
+4,23,0,Calibri-Bold,7.0,77.7,606.2,103.4,613.1,Unicorns
+4,23,0,Calibri,7.0,103.5,606.2,105.0,613.1, 
+4,23,1,Calibri,7.0,252.4,606.2,257.6,613.1,2 
+4,23,2,Calibri,7.0,284.0,606.2,289.2,613.1,2 
+4,23,3,Calibri,7.0,313.3,606.2,328.8,613.1,0.0% 
+4,23,4,Calibri,7.0,358.8,606.2,365.6,613.1, -  
+4,23,5,Calibri,7.0,396.9,606.2,409.2,613.1,286 
+4,23,6,Calibri,7.0,434.0,606.2,449.5,613.1,4.4% 
+4,23,7,Calibri,7.0,474.7,606.2,479.9,613.1,5 
+4,23,8,Calibri,7.0,502.8,606.2,515.1,613.1,500 
+4,24,0,Calibri-Bold,7.0,77.7,621.6,151.3,628.6,At least basic digital skills
+4,24,0,Calibri,7.0,151.5,621.6,153.0,628.6, 
+4,24,1,Calibri,7.0,245.4,621.6,264.4,628.6,62.6% 
+4,24,2,Calibri,7.0,284.7,621.6,288.4,628.6,- 
+4,24,3,Calibri,7.0,319.1,621.6,322.9,628.6,- 
+4,24,4,Calibri,7.0,358.8,621.6,365.6,628.6, -  
+4,24,5,Calibri,7.0,401.1,621.6,404.9,628.6,- 
+4,24,6,Calibri,7.0,439.9,621.6,443.6,628.6,- 
+4,24,7,Calibri,7.0,467.7,621.6,486.7,628.6,80.0% 
+4,24,8,Calibri,7.0,502.1,621.6,515.8,628.6,80% 
+4,25,0,Calibri-Bold,7.0,77.7,637.1,117.7,644.1,ICT specialists
+4,25,0,Calibri,7.0,117.9,637.1,119.4,644.1, 
+4,25,1,Calibri,7.0,247.2,637.1,262.7,644.1,6.7% 
+4,25,2,Calibri,7.0,278.8,637.1,294.3,644.1,7.2% 
+4,25,3,Calibri,7.0,313.3,637.1,328.8,644.1,7.5% 
+4,25,4,Calibri,7.0,353.0,637.1,371.6,644.1, 7.0%  
+4,25,5,Calibri,7.0,395.2,637.1,410.8,644.1,5.0% 
+4,25,6,Calibri,7.0,434.0,637.1,449.5,644.1,4.2% 
+4,25,7,Calibri,7.0,467.7,637.1,486.7,644.1,10.0% 
+4,25,8,Calibri,7.0,500.4,637.1,517.6,644.1,~10% 
+4,26,0,Calibri-Bold,7.0,77.7,653.8,146.4,660.8,eID scheme notification
+4,26,0,Calibri,7.0,146.5,653.8,148.1,660.8, 
+4,26,1,Calibri,7.0,243.9,649.7,247.0,656.7,  
+4,26,2,Calibri,7.0,281.0,653.8,292.2,660.8,Yes 
+4,26,3,Calibri,7.0,306.9,649.7,310.0,656.7,  
+4,26,4,Calibri,7.0,344.5,649.7,347.6,656.7,  
+4,26,5,Calibri,7.0,387.7,649.7,390.8,656.7,  
+4,26,6,Calibri,7.0,427.7,649.7,430.8,656.7,  
+4,26,7,Calibri,7.0,465.2,649.7,468.4,656.7,  
+4,26,8,Calibri,7.0,498.6,649.7,501.7,656.7,  
+4,27,0,Calibri-Bold,7.0,77.7,674.1,173.5,681.0,Digital public services for citizens
+4,27,0,Calibri,7.0,173.7,674.1,175.3,681.0, 
+4,27,1,Calibri,7.0,248.0,674.1,261.9,681.0,95.8 
+4,27,2,Calibri,7.0,279.5,674.1,293.5,681.0,96.1 
+4,27,3,Calibri,7.0,313.3,674.1,328.8,681.0,0.3% 
+4,27,4,Calibri,7.0,353.7,674.1,370.9,681.0, 99.0  
+4,27,5,Calibri,7.0,396.1,674.1,410.0,681.0,82.3 
+4,27,6,Calibri,7.0,434.0,674.1,449.5,681.0,3.6% 
+4,27,7,Calibri,7.0,468.5,674.1,486.0,681.0,100.0 
+4,27,8,Calibri,7.0,502.8,674.1,515.1,681.0,100 
+4,28,0,Calibri-Bold,7.0,77.7,693.4,183.0,700.4,Digital public services for businesses
+4,28,0,Calibri,7.0,183.2,693.4,184.7,700.4, 
+4,28,1,Calibri,7.0,248.0,693.4,261.9,700.4,98.8 
+4,28,2,Calibri,7.0,279.5,693.4,293.5,700.4,97.5 
+4,28,3,Calibri,7.0,312.3,693.4,329.8,700.4,-1.3% 
+4,28,4,Calibri,7.0,351.9,693.4,372.6,700.4, 100.0  
+4,28,5,Calibri,7.0,396.1,693.4,410.0,700.4,86.2 
+4,28,6,Calibri,7.0,434.0,693.4,449.5,700.4,0.9% 
+4,28,7,Calibri,7.0,468.5,693.4,486.0,700.4,100.0 
+4,28,8,Calibri,7.0,502.8,693.4,515.1,700.4,100 
+4,29,0,Calibri-Bold,7.0,77.7,709.2,154.3,716.2,Access to e-Health records
+4,29,0,Calibri,7.0,154.5,709.2,156.0,716.2, 
+4,29,1,Calibri,7.0,248.0,709.2,261.9,716.2,97.5 
+4,29,2,Calibri,7.0,277.7,709.2,295.3,716.2,100.0 
+4,29,3,Calibri,7.0,313.3,709.2,328.8,716.2,2.6% 
+4,29,4,Calibri,7.0,353.7,709.2,370.9,716.2, 99.0  
+4,29,5,Calibri,7.0,396.1,709.2,410.0,716.2,82.7 
+4,29,6,Calibri,7.0,434.0,709.2,449.5,716.2,4.5% 
+4,29,7,Calibri,7.0,468.5,709.2,486.0,716.2,100.0 
+4,29,8,Calibri,7.0,502.8,709.2,515.1,716.2,100 
+4,30,0,Calibri,7.0,77.7,722.2,323.4,729.2,(1) See the methodological note for the description of the indicators and other metrics
+4,30,0,Calibri,11.0,323.8,719.2,326.3,730.2, 
+4,30,1,Calibri,7.0,77.7,731.5,502.2,738.4,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,30,2,Calibri,7.0,77.7,740.7,418.2,747.7,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+4,30,2,Calibri,11.0,418.8,737.6,421.3,748.7, 
+4,30,3,Calibri,7.0,77.7,749.9,425.9,756.9,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,31,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,31,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+5,3,0,Calibri-Bold,11.0,72.0,76.3,402.5,87.4,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+5,3,0,Calibri,11.0,402.8,76.3,525.8,87.4,", 79% of Estonian citizens "
+5,3,1,Calibri,11.0,72.0,90.7,525.7,101.8,consider that the digitalisation of daily public and private services is making their lives easier. On the 
+5,3,2,Calibri,11.0,72.0,105.1,525.7,116.2,"action of the public authorities, 88% consider it important to counter and mitigate the issue of fake "
+5,3,3,Calibri,11.0,72.0,119.5,525.9,130.6,"news and disinformation online, and on competitiveness, 69% consider it important to ensure that "
+5,3,4,Calibri,11.0,72.0,133.9,512.0,145.0,European companies can grow and become ‘European Champions’ capable of competing globally. 
+5,4,0,Calibri-Light,15.0,72.0,157.1,468.7,172.1,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Light,15.0,72.0,176.9,138.3,191.9,leadership 
+5,5,0,Calibri,11.0,72.0,203.8,525.8,214.8,"Estonia is falling behind the EU average in infrastructure indicators (VHCN, 5G), but shows impressive "
+5,5,1,Calibri,11.0,72.0,218.2,525.7,229.2,5G coverage in sparsely populated areas. It is one of the Member States that experienced the biggest 
+5,5,2,Calibri,11.0,72.0,232.6,525.9,243.6,expansion of coverage in the 3.4-3.8 GHz band in 2024. Estonia has relied on Recovery and Resilience 
+5,5,3,Calibri,11.0,72.0,247.0,525.6,258.0,Facility (RRF) measures to expand VHCN coverage (to be completed in 2025). The country is taking 
+5,5,4,Calibri,11.0,72.0,261.3,525.6,272.3,initiatives to increase rural coverage by completing the identification of their white areas (areas 
+5,5,5,Calibri,11.0,72.0,275.7,525.6,286.7,"without connectivity), which will serve as the foundation for a public consultation (expected to be "
+5,5,6,Calibri,11.0,72.0,290.1,525.6,301.1,launched mid-2025). The adoption of advanced technologies by Estonian enterprises paints a mixed 
+5,5,7,Calibri,11.0,72.0,304.5,525.8,315.5,"picture: the share of those taking up cloud or AI is higher than the EU average, but the share of those "
+5,5,8,Calibri,11.0,72.0,318.9,525.6,329.9,"taking up data analytics is lower. Across the three technologies, large enterprises consistently "
+5,5,9,Calibri,11.0,72.0,333.3,307.5,344.3,reported higher levels of uptake compared to SMEs. 
+5,6,0,Calibri-Light,15.0,72.0,356.5,380.6,371.5,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,383.3,525.8,394.4,Estonia is prioritising the development of its citizens’ digital skills through its Digital Agenda 2030. The 
+5,7,1,Calibri,11.0,72.0,397.7,525.8,408.8,"country performs well in basic digital skills, with small gaps in gender and education levels, and notable "
+5,7,2,Calibri,11.0,72.0,412.1,525.8,423.2,digital skills among rural residents and younger generations. Estonia has developed an action plan to 
+5,7,3,Calibri,11.0,72.0,426.5,525.8,437.6,equip people with basic digital skills and has focused on educating civil servants and increasing digital 
+5,7,4,Calibri,11.0,72.0,440.9,525.7,452.0,"skills training, particularly in rural areas. Estonia has identified that managers who lack an "
+5,7,5,Calibri,11.0,72.0,455.2,525.7,466.3,"understanding of their responsibilities in cybersecurity and risk assessment, and who do not "
+5,7,6,Calibri,11.0,72.0,469.6,525.6,480.7,"sufficiently align their digitalisation initiatives with the strategic aims of their respective areas, can "
+5,7,7,Calibri,11.0,72.0,484.0,525.8,495.1,hinder overall digital transformation. The country’s share of ICT specialists in employment is one of 
+5,7,8,Calibri,11.0,72.0,498.4,525.8,509.5,"the highest in the EU, and its share of female ICT specialists is the highest in the EU. Estonia is well on "
+5,7,9,Calibri,11.0,72.0,512.8,525.6,523.9,its way to achieving its digital transformation goal with initiatives such as research on future digital 
+5,7,10,Calibri,11.0,72.0,527.2,525.8,538.3,skills needs and collaboration with the University of Tartu to ensure future ICT specialists are enrolled 
+5,7,11,Calibri,11.0,72.0,541.5,525.8,552.5,"in relevant training. However, the demand for ICT professionals continues to grow, and there is a lack "
+5,7,12,Calibri,11.0,72.0,555.9,525.9,566.9,of highly skilled and advanced digital specialists across sectors. Estonia’s performance on digital public 
+5,7,13,Calibri,11.0,72.0,570.3,525.7,581.4,"services and access to e-Health records continues to surpass the EU average, and has reached the "
+5,7,14,Calibri,11.0,72.0,584.7,525.8,595.8,"Digital Decade 2030 target. Despite this, Estonia will face the challenge of ensuring its digitalised "
+5,7,15,Calibri,11.0,72.0,599.1,305.3,610.2,services are up to date with the latest technologies. 
+5,8,0,Calibri-Light,15.0,72.0,622.3,401.4,637.3,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,649.3,525.8,660.3,"According to Estonia’s Digital Agenda 2030, the country aspires to become the world’s greenest digital "
+5,9,1,Calibri,11.0,72.0,663.6,525.8,674.6,"government; however, it currently lacks a systematic approach or strategy to achieve this goal. Estonia "
+5,9,2,Calibri,11.0,72.0,678.0,525.6,689.0,launched a Sustainability Reporting Tool and relies on private sector initiatives that aim to increase 
+5,9,3,Calibri,11.0,72.0,692.4,385.5,703.4,the lifespan of ICT devices and to reduce overall energy consumption. 
+5,10,0,Calibri-Light,15.0,72.0,715.7,327.5,730.7,National digital decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,742.6,525.7,753.6,Estonia submitted a fully revised national Digital Decade roadmap on 27 March 2025. It reports on the 
+5,11,1,Calibri,11.0,72.0,757.0,525.6,768.0,consultation of stakeholders and addresses a limited number of the roadmap recommendations 
+5,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+6,3,0,Calibri,11.0,72.0,76.3,525.8,87.4,"issued in 2024. In the updated roadmap, Estonia includes 13 new targets and one revised target, all in "
+6,3,1,Calibri,11.0,72.0,90.7,525.5,101.8,line with the EU's level of ambition. Although it provides some information on planned activities to 
+6,3,2,Calibri,11.0,72.0,105.1,525.9,116.2,"achieve the country's targets, it lacks detailed information on the budget allocated to each area and "
+6,3,3,Calibri,11.0,72.0,119.5,525.6,130.6,the specific aims and scope of the different activities. The roadmap puts a strong emphasis on 
+6,3,4,Calibri,11.0,72.0,133.9,523.5,145.0,"quantum computing, EU-level cooperation and digital skills and puts a new emphasis on high-"
+6,3,5,Calibri,11.0,72.0,148.2,525.9,159.3,"performance computing, resilience and security. However, the green transition is reflected less in the "
+6,3,6,Calibri,11.0,72.0,162.6,117.8,173.7,roadmap. 
+6,4,0,Calibri-Light,15.0,72.0,185.9,250.6,200.9,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,212.8,463.8,223.8,Estonia allocates 24% of its total recovery and resilience plan to digital (EUR 208 million)
+6,5,0,Calibri,7.0,463.9,211.9,467.4,218.8,1
+6,5,0,Calibri,11.0,467.4,212.8,525.9,223.8,". In addition, "
+6,5,1,Calibri,11.0,72.0,227.2,525.8,238.2,"under cohesion policy, EUR 373 million, representing 11% of the country’s total cohesion policy "
+6,5,2,Calibri,11.0,72.0,241.6,367.4,252.6,"funding, is dedicated to advancing Estonia’s digital transformation"
+6,5,2,Calibri,7.0,367.4,240.7,370.9,247.7,2
+6,5,2,Calibri,11.0,370.9,241.6,376.1,252.6,. 
+6,6,0,Calibri,11.0,72.0,263.9,525.6,275.0,Estonia is a member of the Local Digital Twins towards a CitiVERSE European Digital Infrastructure 
+6,6,1,Calibri,11.0,72.0,278.3,525.8,289.4,Consortium (EDIC). The country is a participating state of the EuroHPC Joint Undertaking (JU) and of 
+6,6,2,Calibri,11.0,72.0,292.7,132.0,303.8,the Chips JU. 
+6,7,0,Calibri,11.0,72.0,315.0,525.6,326.1,Estonia has not yet presented any measure in the framework of Digital Decade’s Best Practice 
+6,7,1,Calibri,11.0,72.0,329.6,123.7,340.6,Accelerator
+6,7,1,Calibri,7.0,123.6,328.7,127.1,335.6,3
+6,7,1,Calibri,11.0,127.1,329.6,132.4,340.6,. 
+6,8,0,Calibri-Light,15.0,72.0,353.0,238.6,368.0,Digital rights and principles 
+6,9,0,Calibri,11.0,72.0,379.7,479.9,390.8,"According to a support study, Estonia has shown rather limited activity in implementing the "
+6,9,0,Calibri-Bold,11.0,479.7,379.7,525.9,390.8,European 
+6,9,1,Calibri-Bold,11.0,72.0,394.1,268.1,405.2,Declaration on Digital Rights and Principles
+6,9,1,Calibri,11.0,268.2,394.1,525.9,405.2,", with 39 initiatives overall and 6 new initiatives launched "
+6,9,2,Calibri,11.0,72.0,408.7,525.9,419.7,"in 2024. Estonia is most active in the area of protected, safe and secure digital environment. Less "
+6,9,3,Calibri,11.0,72.0,423.2,525.9,434.2,activity has been identified with regards to fair digital environment. Measures in the area of freedom 
+6,9,4,Calibri,11.0,72.0,437.7,525.9,448.8,"of choice appear to have most impact on the ground, in contrast to those addressing Participation in "
+6,9,5,Calibri,11.0,72.0,452.1,179.7,463.1,the digital public space. 
+6,9,6,Calibri,11.0,321.2,452.1,323.7,463.1, 
+6,10,0,Calibri,11.0,216.1,658.7,218.5,669.7, 
+6,10,1,Calibri,6.0,72.0,671.4,75.1,677.4,1
+6,10,1,Calibri,9.0,75.0,671.7,524.9,680.7, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,10,2,Calibri,9.0,72.0,682.8,313.5,691.8,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,10,3,Calibri,6.0,72.0,693.4,75.1,699.4,2
+6,10,3,Calibri,9.0,75.0,693.7,523.2,702.7, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,10,4,Calibri,9.0,72.0,704.7,525.0,713.7,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,10,5,Calibri,9.0,72.0,715.6,315.5,724.6,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,10,6,Calibri,6.0,72.0,726.4,75.1,732.4,3
+6,10,6,Calibri,9.0,75.0,726.7,525.2,735.7, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,10,7,Calibri,9.0,72.0,737.7,525.4,746.7,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,10,8,Calibri,9.0,72.0,748.6,525.5,757.6,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,10,9,Calibri,9.0,72.0,760.6,248.5,769.6,"Green IT, and the Uptake of Digital Technologies."
+6,10,9,Calibri,10.0,248.6,759.9,255.5,769.9,   
+6,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+7,2,0,Calibri,11.0,72.0,76.3,74.5,87.4, 
+7,3,0,Calibri-Bold,11.0,77.7,99.4,165.8,110.4,Recommendations 
+7,3,1,Calibri-Bold,11.0,77.7,112.8,80.2,123.9, 
+7,5,0,ArialMT,11.0,95.7,124.5,102.5,136.9,- 
+7,5,1,Calibri-Bold,11.0,113.7,126.3,170.8,137.3,Connectivity
+7,5,1,Calibri,11.0,170.9,126.3,513.0,137.3,": Continue and establish new measures that target enhancing VHCN, and 5G "
+7,5,2,Calibri,11.0,113.7,140.7,159.6,151.7,coverage. 
+7,5,3,ArialMT,11.0,95.7,153.5,102.5,165.8,- 
+7,5,4,Calibri-Bold,11.0,113.7,155.2,167.8,166.2,Digital skills
+7,5,4,Calibri,11.0,167.9,155.2,521.1,166.2,: Introduce digital skills measures targeted to mid-level managers to be able to 
+7,5,5,Calibri,11.0,113.7,169.7,414.7,180.7,lead the digitalisation process for their employees and enterprises. 
+7,5,6,ArialMT,11.0,95.7,182.5,102.5,194.8,- 
+7,5,7,Calibri-Bold,11.0,113.7,184.2,176.9,195.3,ICT specialists
+7,5,7,Calibri,11.0,177.1,184.2,492.1,195.3,: Continue to implement measures to educate ICT specialists to fill the 
+7,5,8,Calibri,11.0,113.7,198.6,173.2,209.7,current gap.  
+7,5,9,ArialMT,11.0,95.7,211.4,102.5,223.7,- 
+7,5,10,Calibri-Bold,11.0,113.7,213.1,138.3,224.2,SMEs
+7,5,10,Calibri,11.0,138.3,213.1,520.7,224.2,: Sustain and complement activities to improve digitalisation and uptake of advanced 
+7,5,11,Calibri,11.0,113.7,227.7,334.2,238.7,technologies and give special attention to SMEs.  
+7,5,12,ArialMT,11.0,95.7,240.5,102.5,252.8,- 
+7,5,13,Calibri-Bold,11.0,113.7,242.2,258.7,253.2,Digitalisation for public services
+7,5,13,Calibri,11.0,258.9,242.2,505.5,253.2,: Improve the useability of the digital public services to 
+7,5,14,Calibri,11.0,113.7,256.7,510.2,267.8,ensure that they are accessible to all as well as to ensure that its services are up to date. 
+7,5,15,ArialMT,11.0,95.7,269.4,102.5,281.7,- 
+7,5,16,Calibri-Bold,11.0,113.7,271.1,141.6,282.2,Green
+7,5,16,Calibri,11.0,141.6,271.1,513.5,282.2,: Implement a coherent green digitalisation strategy to be able to keep up with the 
+7,5,17,Calibri,11.0,113.7,285.6,426.2,296.7,country’s ambition of being the world’s greenest digital government.  
+7,5,18,ArialMT,11.0,95.7,298.5,102.5,310.8,- 
+7,5,19,Calibri-Bold,11.0,113.7,300.2,181.6,311.2,Cybersecurity: 
+7,5,19,Calibri,11.0,181.7,300.2,503.8,311.2,Continue efforts in cybersecurity to address the evolving and increasing 
+7,5,20,Calibri,11.0,113.7,314.7,456.3,325.7,threats. Ensure continuation in the implementation of cybersecurity classes. 
+7,5,21,Calibri,11.0,72.0,329.6,74.5,340.6, 
+7,5,22,Calibri,11.0,216.1,329.6,218.5,340.6, 
+7,6,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,6,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+8,3,0,Calibri-Bold,26.0,72.0,79.4,529.1,105.4,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,113.7,444.2,139.7,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,152.9,300.4,163.9,Estonia is progressing beyond mere digitalisation. 
+8,4,0,Calibri,11.0,300.5,152.9,525.8,163.9,To remain competitive Estonia recognises that the 
+8,4,1,Calibri,11.0,72.0,167.3,525.6,178.3,"country’s current challenges require not only introducing new digital measures, but also making sure "
+8,4,2,Calibri,11.0,72.0,181.6,525.9,192.6,that digital services that are already well-established function well and are secure. To continue offering 
+8,4,3,Calibri,11.0,72.0,196.0,525.7,207.0,high-quality digital services Estonia intends to introduce a management model that will ensure 
+8,4,4,Calibri,11.0,72.0,210.4,525.7,221.4,continuous updates and maintenance of its digital services (it is currently attempting to achieve this 
+8,4,5,Calibri,11.0,72.0,224.8,330.5,235.8,"with the latest national e-services design system, VEERA). "
+8,5,0,Calibri-Bold,11.0,72.0,247.1,175.7,258.2,Government resilience
+8,5,0,Calibri,11.0,175.7,247.1,525.7,258.2, has become a clear priority for Estonia. The majority of Estonia’s services are 
+8,5,1,Calibri,11.0,72.0,261.5,525.9,272.6,digitalised and this has also created a mutual interdependency between different (non-digital and 
+8,5,2,Calibri,11.0,72.0,275.9,525.8,287.0,digital) services. It has raised new challenges: what is the cause of action if the digital solutions fail? As 
+8,5,3,Calibri,11.0,72.0,290.3,111.2,301.4,"a result, "
+8,5,3,Calibri-Bold,11.0,112.0,290.3,329.0,301.4,Estonia is analysing disaster recovery scenarios
+8,5,3,Calibri,11.0,329.1,290.3,525.9,301.4, (including low-probability and high-impact 
+8,5,4,Calibri,11.0,72.0,304.7,525.9,315.8,"scenarios) and improving understanding of operational issues. Based on this, Estonia is looking how to "
+8,5,5,Calibri,11.0,72.0,319.1,525.7,330.2,provide critical services and ensure safe digital infrastructure from beyond its geographical borders to 
+8,5,6,Calibri,11.0,72.0,333.4,525.9,344.4,its citizens both within the country and abroad. To promote its government resilience Estonia is setting 
+8,5,7,Calibri,11.0,72.0,347.8,525.9,358.9,"up data embassies in foreign countries to store critical information, including back-ups, outside the "
+8,5,8,Calibri,11.0,72.0,362.2,326.3,373.2,country in case its critical infrastructure is compromised. 
+8,6,0,Calibri-Bold,11.0,72.0,384.6,178.2,395.7,The Estonian ICT sector
+8,6,0,Calibri,11.0,178.4,384.6,517.2,395.7," represented 5.97% of GDP in 2022, which is a decrease from 6.72% in 2020"
+8,6,0,Calibri,7.0,517.2,383.7,520.7,390.7,4
+8,6,0,Calibri,11.0,520.7,384.6,525.9,395.7,. 
+8,6,1,Calibri,11.0,72.0,399.1,525.9,410.1,"R&D personnel in the ICT sector represented 45.29%, making them a leader in the EU despite a decline "
+8,6,2,Calibri,11.0,72.0,413.6,336.8,424.6,compared to the previous year measured (49.42% in 2021).
+8,6,2,Calibri,11.0,336.7,413.6,339.2,424.6, 
+8,7,0,Calibri-Bold,11.0,72.0,436.0,525.8,447.1,The use of AI among Estonia’s businesses more than doubled in 2024 from the previous year (from 
+8,7,1,Calibri-Bold,11.0,72.0,450.4,227.9,461.5,5.19% in 2023 to 13.89% in 2024).
+8,7,1,Calibri,11.0,228.2,450.4,525.9,461.5, Estonia relies on AI start-up accelerators which have launched 30 
+8,7,2,Calibri,11.0,72.0,464.8,525.9,475.9,enterprises; more than 19 new AI-based products/enterprises have entered the market. In addition to 
+8,7,3,Calibri,11.0,72.0,479.2,525.8,490.3,"accelerators numerous workshops, tech validations, demos and awareness raising activities have been "
+8,7,4,Calibri,11.0,72.0,493.6,525.9,504.7,carried out to foster the uptake and development of Ai in the private sector. Estonia is also promoting 
+8,7,5,Calibri,11.0,72.0,508.0,220.3,519.1,the use of AI in the public sector. 
+8,8,0,Calibri-Bold,11.0,72.0,530.3,525.6,541.4,"Estonia has a very strong start-up scene but in 2024 it saw a decline in funding, fewer people "
+8,8,1,Calibri-Bold,11.0,72.0,544.7,366.8,555.8,establishing start-ups and fewer people employed by start-ups
+8,8,1,Calibri,11.0,366.7,544.7,525.8,555.8,; which can be attributed broader 
+8,8,2,Calibri,11.0,72.0,559.2,525.8,570.2,macroeconomic challenges like inflationary pressures and rising interest rates that have raised the 
+8,8,3,Calibri,11.0,72.0,573.6,525.9,584.6,"price of money, including venture capital (VC). Europe has overall witnessed venture capital pullback "
+8,8,4,Calibri,11.0,72.0,587.9,525.9,598.9,and the trend of becoming more conservative as well as focusing on some specific tech domains. The 
+8,8,5,Calibri,11.0,72.0,602.3,525.9,613.3,"situation is aggravated by a talent shortage in the sector. On the other hand, VC investments into deep "
+8,8,6,Calibri,11.0,72.0,616.7,525.7,627.7,tech including AI is showing promising trend. Deep Tech now accounts for 28% of all VC funding in 
+8,8,7,Calibri,11.0,72.0,631.1,525.8,642.1,"Europe, a record high, novel AI, LLMs, AI chips etc being the leading tech domains. Estonia is the leader "
+8,8,8,Calibri,11.0,72.0,645.5,290.3,656.5,in deep tech VC investments in the Baltic states.  
+8,9,0,Calibri,11.0,72.0,667.8,239.4,678.8,According to the 2025 Eurobarometer
+8,9,0,Calibri,7.0,239.3,666.9,242.9,673.8,5
+8,9,0,Calibri,11.0,242.8,667.8,525.9,678.8,", 86% of Estonians think that building efficient and secure digital "
+8,9,1,Calibri,11.0,72.0,682.3,476.1,693.3,infrastructures and data processing facilities should be a priority for the public authorities. 
+8,10,0,Calibri,11.0,216.1,723.4,218.5,734.4, 
+8,10,1,Calibri,6.5,72.0,735.9,75.3,742.4,4
+8,10,1,Calibri,10.0,75.3,736.8,525.2,746.7, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note 
+8,10,2,Calibri,10.0,72.0,748.9,311.2,758.8,accompanying the State of the Digital Decade report 2025  
+8,10,3,Calibri,6.0,72.0,760.6,75.1,766.6,5
+8,10,3,Calibri,9.0,75.0,760.9,285.5,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,10,3,Calibri,9.0,285.7,760.9,517.3,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227.
+8,10,3,Calibri,9.0,517.4,760.9,519.5,769.9, 
+8,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+9,2,0,Calibri,11.0,72.0,76.3,74.5,87.4, 
+9,3,0,Calibri-Light,15.0,72.0,99.8,509.7,114.8,Building technological leadership: digital infrastructure and technologies 
+9,5,0,Calibri,11.0,72.0,126.6,525.8,137.7,"Estonia lags behind the EU in total very high capacity networks (VHCN) and overall 5G coverage, yet it "
+9,5,1,Calibri,11.0,72.0,141.0,525.8,152.1,excels in 5G coverage in sparsely populated areas and 5G spectrum assignment. Estonia’s growth rates 
+9,5,2,Calibri,11.0,72.0,155.4,525.9,166.5,"in these areas are generally lower than the EU’s, except for 5G coverage in the 3.4-3.8 GHz band. "
+9,5,3,Calibri,11.0,72.0,169.8,258.0,180.9,Estonia has a very active communication. 
+9,6,0,Calibri-Light,12.0,72.0,192.4,203.2,204.4,Connectivity infrastructure 
+9,7,0,Calibri-Bold,11.0,72.0,215.9,525.4,226.9,Estonia is at 76.27% of VHCN and fibre to the premises (FTTP) coverage for all households (its 
+9,7,1,Calibri-Bold,11.0,72.0,230.4,525.5,241.5,national target is to reach 100% by 2030) and stands below the EU average for VHCN (82.49%) and 
+9,7,2,Calibri-Bold,11.0,72.0,245.0,525.9,256.0,above the EU average for FTTP (69.24%). In Estonia VHCN coverage equates to FTTP coverage. The 
+9,7,3,Calibri-Bold,11.0,72.0,259.5,319.1,270.5,country is on track according to its national trajectory
+9,7,3,Calibri,11.0,319.3,259.5,525.9,270.5,. Estonia showed a decline of -0.9% for VHCN 
+9,7,4,Calibri,11.0,72.0,273.9,525.7,284.9,"and FTTP coverage. This decline can be attributed to drops in DSL, VDSL, VSDL 2 vectoring caused by "
+9,7,5,Calibri,11.0,72.0,288.4,525.8,299.5,"network decommissioning. For households in sparsely populated areas, Estonia's FTTP coverage was "
+9,7,6,Calibri,11.0,72.0,302.9,525.6,314.0,"67.79% in 2023 and 71.84% in 2024, both higher than the EU's 52.55% and 58.78%, respectively. "
+9,7,7,Calibri,11.0,72.0,317.4,525.9,328.5,Estonia's growth rate of 6.0% for this category is lower than the EU's 11.9%. For households in sparsely 
+9,7,8,Calibri,11.0,72.0,332.0,525.7,343.0,"populated areas, Estonia's VHCN coverage was 67.79% in 2023 and 71.84% in 2024, both higher than "
+9,7,9,Calibri,11.0,72.0,346.4,525.8,357.4,"the EU's 55.59% and 61.89%, respectively. Estonia's growth rate of 6.0% for this category is lower than "
+9,7,10,Calibri,11.0,72.0,360.9,143.8,371.9,the EU's 11.3%. 
+9,8,0,Calibri-Bold,11.0,72.0,383.3,525.7,394.4,Estonia’s 5G coverage is at 91.50.% (with a national target of 100% by 2030) after growth of 4.6% in 
+9,8,1,Calibri-Bold,11.0,72.0,397.9,523.4,408.9,2024; it is below the EU average (94.35%). The country is on track according to its national trajectory.
+9,8,1,Calibri,11.0,523.4,397.9,525.9,408.9, 
+9,8,2,Calibri,11.0,72.0,412.4,525.9,423.4,Estonia's growth rate of 4.6% for total 5G coverage is lower than the EU's 6.0% in 2024. For households 
+9,8,3,Calibri,11.0,72.0,426.9,525.6,437.9,"in sparsely populated areas, Estonia's 5G coverage was 86.99% in 2023 and 92.31% in 2024, both "
+9,8,4,Calibri,11.0,72.0,441.3,525.9,452.4,"higher than the EU's 71.10% and 79.57%, respectively. Estonia's growth rate of 6.1% for this category "
+9,8,5,Calibri,11.0,72.0,455.8,203.9,466.9,is lower than the EU's 11.9%. 
+9,9,0,Calibri-Bold,11.0,72.0,478.4,525.7,489.4,Estonia's 5G coverage in the 3.4–3.8 GHz band for all households was 43.68% in 2023 and 69.53% in 
+9,9,1,Calibri-Bold,11.0,72.0,492.8,326.5,503.8,"2024, with the latter being higher than the EU's 67.72%"
+9,9,1,Calibri,11.0,326.7,492.8,525.8,503.8,. Estonia's growth rate of 59.2% for total 5G 
+9,9,2,Calibri,11.0,72.0,507.3,525.8,518.3,"coverage in this band is higher than the EU's 32.6%. For households in sparsely populated areas, "
+9,9,3,Calibri,11.0,72.0,521.8,525.7,532.9,"Estonia's 5G coverage in the 3.4–3.8 GHz band was 40.62% in 2023 and 49.24% in 2024, both higher "
+9,9,4,Calibri,11.0,72.0,536.3,525.8,547.4,than the EU's 15.86% and 26.19% respectively. Estonia's growth rate of 21.2% for this category is lower 
+9,9,5,Calibri,11.0,72.0,550.7,166.7,561.8,than the EU's 65.1%. 
+9,10,0,Calibri-Bold,11.0,72.0,573.3,293.8,584.4,Estonia's 5G pioneer bands spectrum assignment
+9,10,0,Calibri,11.0,294.0,573.3,525.9,584.4," was 99.17% in both 2023 and 2024, higher than the "
+9,10,1,Calibri,11.0,72.0,587.9,525.9,598.9,"EU's 73.4% and 74.63% respectively. Estonia had no growth between 2023 and 2024, while the EU's "
+9,10,2,Calibri,11.0,72.0,602.3,153.4,613.3,growth was 1.7%. 
+9,11,0,Calibri-Bold,11.0,72.0,624.8,349.2,635.9,Estonia’s broadband take-up indicators show a mixed picture.
+9,11,0,Calibri,11.0,349.1,624.8,525.8,635.9," In 2023, only 35.5% of fixed broadband "
+9,11,1,Calibri,11.0,72.0,639.2,525.8,650.3,"subscriptions were at speeds of 100 Mbps or higher, compared to the EU’s 65.9%. By 2024 this figure "
+9,11,2,Calibri,11.0,72.0,653.5,525.8,664.5,"had risen to 48.29%, still below the EU’s 71.88%. However, Estonia’s growth rate of 36.0% outpaced "
+9,11,3,Calibri,11.0,72.0,667.9,525.9,678.9,"the EU’s 9.1%. For subscriptions at speeds of 1 Gbps or higher, Estonia’s share was much lower than "
+9,11,4,Calibri,11.0,72.0,682.3,525.8,693.3,"the EU’s. In 2023 it was 0.17%, rising to 0.31% in 2024, compared to the EU’s 18.47% and 22.25% "
+9,11,5,Calibri,11.0,72.0,696.7,525.9,707.7,respectively. Estonia’s growth rate of 82.4% was higher than the EU’s 20.5%. The share of 5G SIM cards 
+9,11,6,Calibri,11.0,72.0,711.1,525.9,722.1,"in the population in Estonia was 6.64% in 2023, rising to 23.42% in 2024, both lower than the EU’s "
+9,11,7,Calibri,11.0,72.0,725.5,503.0,736.6,21.7% and 35.56% respectively. Estonia’s growth rate of 252.7% was higher than the EU’s 63.9%. 
+9,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+10,2,0,Calibri-Bold,11.0,72.0,76.3,368.5,87.4,Estonia’s broadband take-up indicators are below the EU average
+10,2,0,Calibri,11.0,368.6,76.3,525.8,87.4,", but the country is showing strong "
+10,2,1,Calibri,11.0,72.0,90.7,525.8,101.8,growth in all areas. The share of 5G SIM cards in the population and the share of fixed broadband 
+10,2,2,Calibri,11.0,72.0,105.1,525.8,116.2,"subscriptions at speeds of 100 Mbps or higher, and 1 Gbps or higher, are all lower than the EU average. "
+10,2,3,Calibri,11.0,72.0,119.5,393.6,130.6,"However, Estonia’s growth rates in these areas are higher than the EU’s. "
+10,4,0,Calibri,11.0,72.0,141.9,525.8,152.9,The Estonian Consumer Protection and Technical Regulatory Authority (ECPTRA) addresses 
+10,4,1,Calibri,11.0,72.0,156.3,310.9,167.3,competition in the telecoms market by implementing 
+10,4,1,Calibri-Italic,11.0,310.8,156.3,343.0,167.3,ex ante
+10,4,1,Calibri,11.0,342.9,156.3,525.9,167.3, regulation. According to its last round of 
+10,4,2,Calibri,11.0,72.0,170.7,525.6,181.7,"market analysis, ECPTRA regulates the market for physical infrastructure access (PIA) at national level "
+10,4,3,Calibri,11.0,72.0,185.1,525.6,196.1,"and the markets for wholesale local and central access (WLA/WCA) at subnational level, with one "
+10,4,4,Calibri,11.0,72.0,199.5,525.7,210.5,telecom operator enjoying significant market power. The ECPTRA plans to deregulate the fixed call 
+10,4,5,Calibri,11.0,72.0,213.7,487.7,224.8,termination rate (FTR) and mobile call termination rate (MTR) markets in 2025 (currently 
+10,4,5,Calibri-Italic,11.0,489.6,213.7,523.4,224.8,ex ante
+10,4,5,Calibri,11.0,523.4,213.7,525.9,224.8, 
+10,4,6,Calibri,11.0,72.0,228.1,123.2,239.2,regulated). 
+10,5,0,Calibri,11.0,72.0,250.6,74.5,261.6, 
+10,5,1,Calibri-LightItalic,11.0,72.0,265.0,143.4,276.0,VHCN and FTTP 
+10,6,0,Calibri-Bold,11.0,72.0,287.6,525.9,298.6,"In its adjusted roadmap Estonia proposed a new target and trajectory for VHCN, and FTTP in line "
+10,6,1,Calibri-Bold,11.0,72.0,302.1,199.7,313.1,with the EU target of 100%. 
+10,6,1,Calibri,11.0,199.7,302.1,202.2,313.1, 
+10,7,0,Calibri,11.0,72.0,324.5,525.8,335.6,"In Estonia, the main measures to support VHCN development have been the RRF support scheme "
+10,7,1,Calibri,11.0,72.0,339.0,525.8,350.1,"(2022-2025), and the Local initiative village networks (2023-2025). The RRF support scheme received "
+10,7,2,Calibri,11.0,72.0,353.6,525.9,364.6,"EUR 23 million to cover 11 184 addresses (598 addresses were covered during 2024), and the Local "
+10,7,3,Calibri,11.0,72.0,368.0,525.9,379.0,initiative village network received EUR 800 000 for 5 projects and 100 addresses (1 project with 25 
+10,7,4,Calibri,11.0,72.0,382.5,187.2,393.5,addresses was finalised).  
+10,8,0,Calibri,11.0,72.0,405.1,167.8,416.1,In 2024 Estonia did a 
+10,8,0,Calibri-Bold,11.0,168.0,405.1,275.8,416.1,mapping of white areas
+10,8,0,Calibri,11.0,275.9,405.1,525.8,416.1, (in collaboration with the national regulatory authority 
+10,8,1,Calibri,11.0,72.0,419.3,525.8,430.4,and telecom operators) and prepared the launch of its new support VHCN support scheme. This 
+10,8,2,Calibri,11.0,72.0,433.7,525.9,444.8,scheme will have a budget of EUR 45 million (funded by the ERDF) and will launch a public consultation 
+10,8,3,Calibri,11.0,72.0,448.1,489.4,459.2,with operators to define white areas; it will have its first calls for proposals in May-June 2025. 
+10,9,0,Calibri,11.0,72.0,470.6,525.8,481.6,Estonia also launched a study of the cost of broadband infrastructure in market failure areas. The study 
+10,9,1,Calibri,11.0,72.0,484.9,525.7,495.9,"identified that 122 990 addresses were without 100 Mbit/s fixed network coverage, and that to cover "
+10,9,2,Calibri,11.0,72.0,499.3,525.8,510.3,"them all with fibre would cost EUR 828 million (EUR 6 730 per address), while covering them with 5G "
+10,9,3,Calibri,11.0,72.0,513.7,525.9,524.7,"fixed wireless, using 4 987 towers, would cost EUR 1.5 billion (11 881 per address). The study put "
+10,9,4,Calibri,11.0,72.0,528.1,525.9,539.1,"forward an optimal scenario to cover 85 349 of the addresses (69%) with fibre (costing EUR 403 million, "
+10,9,5,Calibri,11.0,72.0,542.5,525.9,553.5,or EUR 5 000 per address) or with 5G fixed wireless only at efficient sites covering 109 079 addresses 
+10,9,6,Calibri,11.0,72.0,556.8,525.9,567.8,"(88.69%), requiring 665 new towers for a total EUR 215 million, or EUR 1 897 per address. In both "
+10,9,7,Calibri,11.0,72.0,571.2,356.1,582.2,"scenarios, 31% (FTTH) or 15% (5G FWA) would not be covered.  "
+10,10,0,Calibri-Bold,11.0,77.7,594.3,320.5,605.4,2024 recommendation on connectivity infrastructure
+10,10,0,Calibri,11.0,320.5,594.3,520.4,605.4,: (i) Continue the ongoing efforts to support 
+10,10,1,Calibri,11.0,77.7,608.9,520.5,619.9,"VHCN, FTTP and 5G rollout, including by fostering private investment and by stimulating take-up. (ii) "
+10,10,2,Calibri,11.0,77.7,623.4,520.5,634.4,Ensure sufficient access of new players to spectrum for innovative business-to-business (B2B) and 
+10,10,3,Calibri,11.0,77.7,637.8,520.5,648.8,business-to-consumer (B2C) applications and encourage operators to speed up the deployment of 
+10,10,4,Calibri,11.0,77.7,652.3,216.7,663.3,5G stand-alone core networks. 
+10,11,0,Calibri-Bold,11.0,77.7,675.6,480.3,686.6,Estonia made efforts to address the recommendation through new policy actions in 2024
+10,11,0,Calibri,11.0,480.5,675.6,520.5,686.6,. Estonia 
+10,11,1,Calibri,11.0,77.7,690.0,520.3,701.0,"has made progress through its mapping, the study and the RRF measures mentioned above. "
+10,11,2,Calibri,11.0,77.7,704.5,520.3,715.5,"However, there is still work left to do to continue efforts to ensure spectrum access for innovative "
+10,11,3,Calibri,11.0,77.7,719.0,195.9,730.1,B2B and B2C applications. 
+10,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+11,2,0,Calibri,11.0,72.0,76.5,323.6,87.5,The ECPTRA reported that it will not be involved in the 
+11,2,0,Calibri-Bold,11.0,324.5,76.5,407.1,87.5,copper switch-off 
+11,2,0,Calibri,11.0,407.9,76.5,444.6,87.5,process.
+11,2,0,Calibri-Bold,11.0,444.6,76.5,447.1,87.5, 
+11,2,0,Calibri,11.0,447.8,76.5,525.9,87.5,The low-capacity 
+11,2,1,Calibri,11.0,72.0,90.7,525.8,101.8,wholesale market is not regulated and the switching-off process will a decision for the incumbent 
+11,2,2,Calibri,11.0,72.0,105.1,525.8,116.2,"operator. However, it is expected that the technical switch-off will be achieved by 2030, with the "
+11,2,3,Calibri,11.0,72.0,119.5,450.6,130.6,copper areas that have been upgraded to vectoring being the last to be switched off. 
+11,4,0,Calibri,11.0,72.0,141.9,525.6,152.9,"The ECPTRA reports a competitive market with 4 active operators, one of which is dominant. The "
+11,4,1,Calibri,11.0,72.0,156.3,525.6,167.3,"largest operator’s cable internet subscriber base is declining, while the second largest operator’s is "
+11,4,2,Calibri,11.0,72.0,170.7,525.8,181.7,"increasing. Adjusted for purchasing power, the price of Estonian internet access is below the average "
+11,4,3,Calibri,11.0,72.0,185.1,525.8,196.1,"in the EU (despite a general increase of 6% in telecom service prices, driven by general inflation). From "
+11,4,4,Calibri,11.0,72.0,199.5,525.6,210.5,the low number of complaints to the ECPTRA (around 100) it can be inferred that the quality is quite 
+11,4,5,Calibri,11.0,72.0,213.7,96.6,224.8,high. 
+11,5,0,Calibri,11.0,72.0,236.2,181.5,247.2,Estonia relies on several 
+11,5,0,Calibri-Bold,11.0,181.2,236.2,318.8,247.2,submarine connectivity cables
+11,5,0,Calibri,11.0,318.9,236.2,525.8,247.2,. In 2024 it experienced 3 incidents with these 
+11,5,1,Calibri,11.0,72.0,250.6,284.3,261.6,"cables, but none led to any lasting disturbance. "
+11,6,0,Calibri-LightItalic,11.0,72.0,272.9,87.0,284.0,5G 
+11,7,0,Calibri-Bold,11.0,72.0,295.5,525.5,306.5,In its adjusted roadmap Estonia proposed a new target and trajectory for 5G in line with the EU 
+11,7,1,Calibri-Bold,11.0,72.0,309.8,144.3,320.8,target of 100%. 
+11,7,1,Calibri,11.0,144.5,309.8,525.6,320.8,"Despite Estonia’s below EU average performance, the growth in its progress makes it "
+11,7,2,Calibri,11.0,72.0,324.2,255.1,335.2,likely that it can reach its target by 2030. 
+11,8,0,Calibri,11.0,72.0,346.6,518.0,357.6,"The ECPTRA reports a competitive market with 3 active operators, each with a similar market share. "
+11,9,0,Calibri,11.0,72.0,368.9,274.6,380.0,Estonian operators are on track to close their 
+11,9,0,Calibri-Bold,11.0,274.6,368.9,332.3,380.0,3G networks
+11,9,0,Calibri,11.0,332.4,368.9,525.8,380.0,". One operator closed 3G in 2023, a second "
+11,9,1,Calibri,11.0,72.0,383.3,525.8,394.4,"in 2024, and the last operator is expected to close its 3G network in 2025. It is expected that 2G will "
+11,9,2,Calibri,11.0,72.0,397.7,155.2,408.8,be closed in 2030. 
+11,10,0,Calibri,11.0,72.0,420.1,525.7,431.1,All main 5G spectrum licences have been issued. The ECPTRA reports that there will be an increase of 
+11,10,1,Calibri,11.0,72.0,434.5,298.2,445.5,private networks in the 3.8 GHz and 26GHz bands. 
+11,11,0,Calibri,11.0,72.0,456.9,371.0,467.9,The ECPTRA reports that there are no concrete plans to launch 6G. 
+11,12,0,Calibri-Bold,11.0,77.7,479.9,320.5,491.0,2024 recommendation on connectivity infrastructure
+11,12,0,Calibri,11.0,320.5,479.9,520.4,491.0,: (i) Continue the ongoing efforts to support 
+11,12,1,Calibri,11.0,77.7,494.5,520.5,505.5,"VHCN, FTTP and 5G rollout, including by fostering private investment and by stimulating take-up. (ii) "
+11,12,2,Calibri,11.0,77.7,509.0,520.5,520.0,Ensure sufficient access of new players to spectrum for innovative business-to-business (B2B) and 
+11,12,3,Calibri,11.0,77.7,523.5,520.3,534.5,business-to-consumer (B2C) applications and encourage operators to speed up the deployment of 
+11,12,4,Calibri,11.0,77.7,537.9,216.7,548.9,5G stand-alone core networks. 
+11,13,0,Calibri-Bold,11.0,77.7,561.2,496.5,572.3,Estonia has made efforts to address the recommendation through new policy actions in 2024
+11,13,0,Calibri,11.0,496.5,561.2,520.5,572.3,. The 
+11,13,1,Calibri,11.0,77.7,575.7,520.3,586.8,"5G stand-alone networks are undergoing testing and development, and the groundwork has been "
+11,13,2,Calibri,11.0,77.7,590.3,520.5,601.3,laid (including the deployment of edge nodes for latency-sensitive applications). Operators estimate 
+11,13,3,Calibri,11.0,77.7,604.7,343.4,615.7,that stand-alone networks will be deployed within 2 years.  
+11,14,0,Calibri-Light,12.0,72.0,636.2,151.9,648.2,Semiconductors 
+11,15,0,Calibri,11.0,72.0,659.7,379.8,670.8,In its adjusted roadmap Estonia does not report on semiconductors.  
+11,16,0,Calibri-Bold,11.0,77.7,683.0,270.1,694.1,2024 recommendation on semiconductors
+11,16,0,Calibri,11.0,270.2,683.0,519.0,694.1,: Develop strategies and measures for semiconductors.  
+11,17,0,Calibri-Bold,11.0,77.7,706.3,520.2,717.3,Estonia has made effort to address the recommendation through new policy actions in 2024. 
+11,17,1,Calibri,11.0,77.7,720.7,520.3,731.8,Estonia follows a market-driven approach and therefore does not intend to develop a national 
+11,17,2,Calibri,11.0,77.7,735.2,515.3,746.3,strategy on semiconductors. March 2025 Estonia launched a semiconductor competence centre
+11,17,2,Calibri,11.0,515.4,735.2,518.2,746.3,","
+11,17,2,Calibri,11.0,518.0,735.2,520.5,746.3, 
+11,17,3,Calibri,11.0,77.7,749.8,520.5,760.8,"based in a state-owned company, but the centre composes of a consortium of partners. The project "
+11,18,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,18,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+12,3,0,Calibri,11.0,77.7,77.2,520.4,88.2,will finish in 2029. The centre’s target audience will be beneficiaries of all kinds of technical product 
+12,3,1,Calibri,11.0,77.7,91.6,520.3,102.6,developer that use semiconductors in their products. The centre will verify compliance with 
+12,3,2,Calibri,11.0,77.7,106.1,520.5,117.1,technical requirements for semiconductors and provide testing. The project budget over the next 
+12,3,3,Calibri,11.0,77.7,120.6,520.4,131.7,four years is EUR 2.4 million and is 50% funded by the State budget and 50% from the Digital Europe 
+12,3,4,Calibri,11.0,77.7,135.1,135.2,146.2,Programme. 
+12,4,0,Calibri-Light,12.0,72.0,166.6,130.2,178.6,Edge nodes 
+12,5,0,Calibri-Bold,11.0,72.0,190.1,525.9,201.1,"According to the Edge Node Observatory, Estonia is estimated to have deployed a total of 10 edge "
+12,5,1,Calibri-Bold,11.0,72.0,204.5,295.1,215.5,"nodes by 2024, an increase of 100% since 2023. "
+12,5,1,Calibri,11.0,295.9,204.5,525.8,215.5,This is a doubling (5 additional edge nodes) of the 
+12,5,2,Calibri,11.0,72.0,218.9,477.2,229.9,amount estimated for 2023 (which was 5; this number has been revised since SDDR 2024). 
+12,6,0,Calibri,11.0,72.0,241.2,525.5,252.3,"In its new roadmap, Estonia states that it is monitoring the development of data centres to report on "
+12,6,1,Calibri,11.0,72.0,255.6,525.7,266.7,"the progress of edge nodes. The country repots to have three operational sites in Tallinn, Suurupi, and "
+12,6,2,Calibri,11.0,72.0,270.0,525.8,281.1,"Hüüru. At this stage country keeps monitoring the situation, additional national initiatives are not "
+12,6,3,Calibri,11.0,72.0,284.4,298.4,295.5,planned to allow for organic market development. 
+12,7,0,Calibri-Bold,11.0,77.7,307.6,249.2,318.6,2024 recommendation on edge nodes
+12,7,0,Calibri,11.0,249.2,307.6,520.4,318.6,": As edge computing is an important component of AI, future "
+12,7,1,Calibri,11.0,77.7,322.0,520.4,333.0,"network deployment, and the Internet of Things, consider edge node deployment when creating "
+12,7,2,Calibri,11.0,77.7,336.5,321.5,347.6,investment programmes and strategies in these areas. 
+12,8,0,Calibri-Bold,11.0,77.7,359.8,520.2,370.9,Estonia made some efforts to address the recommendation through new policy actions in 2024 
+12,8,1,Calibri,11.0,77.7,374.2,204.9,385.2,(see also the section on 5G).
+12,8,1,Calibri-Bold,11.0,205.0,374.2,207.5,385.2, 
+12,8,1,Calibri,11.0,207.8,374.2,520.3,385.2,"In 2024 Estonia completed a study on the topic, researching how and "
+12,8,2,Calibri,11.0,77.7,388.6,520.5,399.6,where to deploy edge nodes. The study determined that due to Estonia’s size and geographical 
+12,8,3,Calibri,11.0,77.7,402.9,495.7,413.9,"location, edge nodes would only be necessary in 2 or 3 bigger cities within the next 5-6 years. "
+12,9,0,Calibri-Light,12.0,72.0,434.3,184.4,446.3,Quantum technologies 
+12,10,0,Calibri,11.0,72.0,457.9,525.9,468.9,"For the next three years Estonia will prioritise increasing access to high-performance computing (HPC), "
+12,10,1,Calibri,11.0,72.0,472.3,525.6,483.3,"improving user training and advancing computational capacity to support the country’s scientific, "
+12,10,2,Calibri,11.0,72.0,486.7,525.8,497.7,technological and economic goals. In its new roadmap Estonia states that investing in the development 
+12,10,3,Calibri,11.0,72.0,501.1,525.8,512.1,of HPC capacity and the academic network is an important goal for the upcoming years. As a 
+12,10,4,Calibri,11.0,72.0,515.3,525.8,526.4,"consequence, Estonia intends to enhance the societal and economic impact of research, development "
+12,10,5,Calibri,11.0,72.0,529.7,525.7,540.8,"and innovation by supporting progress with modern data infrastructure, to increase awareness and "
+12,10,6,Calibri,11.0,72.0,544.1,523.6,555.2,"skills related to HPC services among public and private sector stakeholders, to bring service to end-"
+12,10,7,Calibri,11.0,72.0,558.6,525.7,569.6,"users, to expand HPC in the public and private sectors, and to combine international resources with "
+12,10,8,Calibri,11.0,72.0,573.0,203.1,584.0,Estonia’s local infrastructure. 
+12,11,0,Calibri-Bold,11.0,77.7,596.1,239.7,607.2,2024 recommendation on quantum
+12,11,0,Calibri,11.0,239.7,596.1,508.8,607.2,: Develop strategies and measures for quantum computing.  
+12,12,0,Calibri-Bold,11.0,77.7,619.3,520.2,630.3,"In 2024, Estonia continued the implementation of existing measures but did not take any new "
+12,12,1,Calibri-Bold,11.0,77.7,633.8,127.1,644.9,measures. 
+12,12,1,Calibri,11.0,128.9,633.8,518.1,644.9,Estonia continues to be an active member of the EuroQCI initiative to build a pan-
+12,12,2,Calibri,11.0,77.7,648.3,518.1,659.4,"European quantum infrastructure, a partner in the Nordic-Estonian Quantum Computing e-"
+12,12,3,Calibri,11.0,77.7,662.7,520.3,673.8,"Infrastructure Quest (NordiQuest), and a participant in the Estonian Scientific Computing "
+12,12,4,Calibri,11.0,77.7,677.3,520.3,688.3,Infrastructure (ETAIS). Estonia has adopted a cybersecurity strategy that sets out goals for the 
+12,12,5,Calibri,11.0,77.7,691.8,455.6,702.8,adoption of quantum technologies and the development of a supporting ecosystem. 
+12,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+13,2,0,Calibri-Light,15.0,72.0,77.3,526.8,92.3,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+13,4,0,Calibri-Bold,11.0,72.0,104.2,525.8,115.2,"In Estonia, digital transformation among small and medium-sized enterprises (SMEs) has been "
+13,4,1,Calibri-Bold,11.0,72.0,118.6,439.0,129.6,steadily advancing. However it still does not match the overall EU performance. 
+13,4,1,Calibri,11.0,439.3,118.6,525.9,129.6,Estonia is ahead of 
+13,4,2,Calibri,11.0,72.0,133.1,421.6,144.1,the EU average in the uptake of cloud but lags behind in AI and data analytics
+13,4,2,Calibri-Bold,11.0,421.7,133.1,427.2,144.1,. 
+13,4,2,Calibri,11.0,427.5,133.1,525.9,144.1,Improving the overall 
+13,4,3,Calibri,11.0,72.0,147.6,525.6,158.7,"take-up of AI, cloud, and data analytics could give Estonia its competitiveness an edge and have a "
+13,4,4,Calibri,11.0,72.0,162.1,306.6,173.2,spillover effect on the digitalisation of its businesses.
+13,4,4,Calibri-Bold,11.0,306.4,162.1,308.9,173.2, 
+13,5,0,Calibri-Light,12.0,72.0,184.8,262.4,196.8,SMEs with at least basic digital intensity
+13,5,0,Calibri,11.0,262.5,185.5,265.0,196.6, 
+13,6,0,Calibri-Bold,11.0,72.0,208.5,525.8,219.5,"In Estonia, 71.2% of SMEs showed at least a basic level of digital intensity after growth of 3.1% "
+13,6,1,Calibri-Bold,11.0,72.0,222.7,470.5,233.8,annually between 2022 and 2024; this figure is slightly below the EU average of 72.91%.
+13,6,1,Calibri,11.0,470.7,222.7,525.9,233.8, Estonia has 
+13,6,2,Calibri,11.0,72.0,237.2,525.5,248.2,an annual growth rate of 3.1% (2022 is the last comparable year that used a similar methodology for 
+13,6,3,Calibri,11.0,72.0,251.6,525.8,262.6,measuring the digital intensity of enterprises). This uptick positioned Estonia marginally below the EU 
+13,6,4,Calibri,11.0,72.0,266.0,525.5,277.0,"average of 72.91% in 2024. However, 35.42% of SMEs in Estonia reached a high or very high digital "
+13,6,5,Calibri,11.0,72.0,280.4,525.9,291.4,"intensity, a figure somewhat higher than the EU average of 32.66%. This indicates solid progress in "
+13,6,6,Calibri,11.0,72.0,294.6,208.1,305.7,advanced digital engagement. 
+13,7,0,Calibri-Bold,11.0,72.0,317.1,525.7,328.1,In its new adjusted roadmap Estonia proposed a new target and trajectory for the digitalisation of 
+13,7,1,Calibri-Bold,11.0,72.0,331.5,279.0,342.5,businesses in line with the EU target of 90%. 
+13,7,1,Calibri,11.0,279.6,331.5,525.8,342.5,The digitalisation of businesses in Estonia is showing a 
+13,7,2,Calibri,11.0,72.0,345.9,525.8,356.9,"positive trend, putting it slightly above its EU peers. Based on its current progress and performance it "
+13,7,3,Calibri,11.0,72.0,360.2,276.5,371.2,seems likely that Estonia will reach its target.  
+13,8,0,Calibri,11.0,72.0,382.6,88.7,393.6,The
+13,8,0,Calibri-Bold,11.0,88.7,382.6,523.5,393.6," Estonian Research and Development, Innovation and Entrepreneurship Strategy 2021—2035"
+13,8,0,Calibri,11.0,523.4,382.6,525.9,393.6, 
+13,8,1,Calibri,11.0,72.0,397.0,525.9,408.1,and the Estonia 2035 report lay the framework for the future digitalisation of businesses. The Estonian 
+13,8,2,Calibri,11.0,72.0,411.4,525.9,422.5,"Research and Development, Innovation and Entrepreneurship Strategy 2021—2035 has the objective "
+13,8,3,Calibri,11.0,72.0,425.7,224.3,436.8,to dedicate 1% of its GDP to R&D. 
+13,9,0,Calibri-Bold,11.0,72.0,448.1,525.6,459.2,The Estonian digital innovation hub AI and Robotics Estonia (AIRE) continues to play a relevant role 
+13,9,1,Calibri-Bold,11.0,72.0,462.5,290.4,473.6,in supporting the digitalisation of businesses.
+13,9,1,Calibri,11.0,290.6,462.5,525.9,473.6, AIRE provides a test-before-invest service to the 
+13,9,2,Calibri,11.0,72.0,476.9,525.8,488.0,Estonian manufacturing sector and its value chain. It receives EUR 2 million annually (combined 
+13,9,3,Calibri,11.0,72.0,491.2,525.9,502.3,"national State and EU funding), has 270 clients and impacts 15% of the total Estonian industry turnover. "
+13,10,0,Calibri-Bold,11.0,72.0,513.7,525.6,524.7,Estonian government focuses on providing grants for businesses to achieve economic impact 
+13,10,1,Calibri-Bold,11.0,72.0,528.1,417.6,539.1,through strategic digitalization and accelerate their digitalisation process. 
+13,10,1,Calibri,11.0,419.1,528.1,525.9,539.1,The Digital Action Plan 
+13,10,2,Calibri,11.0,72.0,542.3,525.8,553.4,grant helps companies create strategic plans for digital transformation. Applications for Digital Action 
+13,10,3,Calibri,11.0,72.0,556.8,525.9,567.8,"Plan grants began in 2024. Since the launch of the measure, 210 companies (110 micro and small "
+13,10,4,Calibri,11.0,72.0,571.2,525.7,582.2,"enterprises, 59 medium-sized enterprise and 41 large enterprises) have prepared a digital action plan "
+13,10,5,Calibri,11.0,72.0,585.6,525.7,596.6,"with the help of grants in total of 1,5 million euros. According to the initial assessment, the support "
+13,10,6,Calibri,11.0,72.0,600.0,525.6,611.0,"measure should remain open until 2027 with the total budget of 2,5 million euros. Digital "
+13,10,7,Calibri,11.0,72.0,614.4,525.9,625.4,Transformation Support assist automating and integrating advanced technologies and robotics with 
+13,10,8,Calibri,11.0,72.0,628.7,525.6,639.7,"the total budget of 56 million euros. The support is available for all sectors, but the focus is on "
+13,10,9,Calibri,11.0,72.0,643.1,525.8,654.1,"industries such as manufacturing, mining and logistics. The main beneficiaries of the grant scheme are "
+13,10,10,Calibri,11.0,72.0,657.5,525.8,668.5,SMEs. Approximately 220 SME digital investments have been financed under the measure. The grants 
+13,10,11,Calibri,11.0,72.0,671.9,525.6,682.9,scheme was terminated in May 2025 due to the budget running out. The eCMR Development grant 
+13,10,12,Calibri,11.0,72.0,686.3,525.7,697.3,"promotes the creation of electronic consignment notes for logistics, improves efficiency and "
+13,10,13,Calibri,11.0,72.0,700.7,525.7,711.7,"compliance. Grant focused on both software platform development and service delivery. In 2022, six "
+13,10,14,Calibri,11.0,72.0,714.9,525.9,726.0,SMEs were supported with a total of €1 million to develop electronic consignment note (e-CMR) data 
+13,10,15,Calibri,11.0,72.0,729.4,525.8,740.4,"exchange platforms. The e-waybill integration support has been available since 2024, and so far, 120 "
+13,10,16,Calibri,11.0,72.0,743.8,525.6,754.8,companies have been supported with a total of €1.8 million. The call for applications is open until 
+13,10,17,Calibri,11.0,72.0,758.2,525.7,769.2,September 2025. The Real-Time Economy Solutions for Piloting grant support large scale pilots and 
+13,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+14,2,0,Calibri,11.0,72.0,76.3,525.8,87.4,"software development, enabling business to create innovative, real-time digital solutions tailored to "
+14,2,1,Calibri,11.0,72.0,90.7,525.6,101.8,their needs. Piloting grant was closed in the end of 2024 and 41 companies were supported in total 
+14,2,2,Calibri,11.0,72.0,105.1,194.2,116.2,"grant of 3,4 million euros.   "
+14,4,0,Calibri,11.0,72.0,127.5,525.8,138.5,A new support measure covering real-time economy solutions will be launched in the second half of 
+14,4,1,Calibri,11.0,72.0,141.9,525.6,152.9,2025 to promote innovation and digitalisation among businesses of varying digital maturity. With a 
+14,4,2,Calibri,11.0,72.0,156.3,525.8,167.3,"total budget of approximately €11 million, the measure targets both SMEs and larger companies. SMEs "
+14,4,3,Calibri,11.0,72.0,170.7,525.7,181.7,"will receive support for adopting and implementing their first digital solutions, with the help of "
+14,4,4,Calibri,11.0,72.0,185.1,525.8,196.1,"digitalisation mentors. For mid-level digitally capable companies, the focus is on process digitalisation "
+14,4,5,Calibri,11.0,72.0,199.5,525.8,210.5,and automation. Larger companies or companies with higher digital maturity will be supported in 
+14,4,6,Calibri,11.0,72.0,213.7,525.6,224.8,developing interoperable integrated solutions within and between companies. Software and service 
+14,4,7,Calibri,11.0,72.0,228.1,525.7,239.2,providers will be supported in creating and deploying new business software solutions. The measure 
+14,4,8,Calibri,11.0,72.0,242.6,525.9,253.6,also supports data-driven reporting tools as well as the development and application of data economy 
+14,4,9,Calibri,11.0,72.0,257.0,116.9,268.0,use cases.
+14,4,9,Calibri-Bold,11.0,116.8,257.0,121.7,268.0,  
+14,5,0,Calibri-Bold,11.0,77.7,280.1,295.5,291.2,2024 recommendation on digitalisation of SMEs
+14,5,0,Calibri,11.0,295.6,280.1,520.5,291.2,: Continue work on digitalising SMEs especially for 
+14,5,1,Calibri,11.0,77.7,294.5,175.1,305.6,data analytics and AI. 
+14,6,0,Calibri-Bold,11.0,77.7,317.8,517.9,328.8,Estonia made some efforts to address the recommendation through new policy actions in 2024
+14,6,0,Calibri,11.0,518.0,317.8,520.5,328.8, 
+14,6,1,Calibri,11.0,77.7,332.3,520.2,343.4,"For the digitalisation of SMEs, and increased uptake of data analytics and AI, Estonia relies on "
+14,6,2,Calibri,11.0,77.7,346.8,520.2,357.9,"policies and measures previously introduced, many of which were completed in 2024. See each "
+14,6,3,Calibri,11.0,77.7,361.2,225.3,372.3,separate section for more detail. 
+14,7,0,Calibri-Light,12.0,72.0,392.8,236.8,404.8,Take up of cloud/AI/data analytics 
+14,9,0,Calibri-Bold,11.0,72.0,570.3,525.5,581.4,"According to the latest data available (2023), 3 out of 5 enterprises (60.59%) in Estonia used AI "
+14,9,1,Calibri-Bold,11.0,72.0,584.7,525.5,595.8,"technologies, cloud computing services or data analytics technologies, exceeding the EU average of "
+14,9,2,Calibri-Bold,11.0,72.0,599.1,105.2,610.2,54.7%. 
+14,9,2,Calibri,11.0,105.9,599.1,525.7,610.2,"Drilling deeper into the figures, the uptake among SMEs was slightly lower, at 59.83%, while "
+14,9,3,Calibri,11.0,72.0,613.4,525.8,624.5,large enterprises had a significantly higher adoption rate of 90.3%. This indicates a difference in uptake 
+14,9,4,Calibri,11.0,72.0,627.8,525.8,638.9,"of 30.47 percentage points between SMEs and large enterprises in Estonia, which is in line with the "
+14,9,5,Calibri,11.0,72.0,642.2,142.9,653.3,gap at EU level. 
+14,10,0,Calibri,11.0,72.0,664.7,525.6,675.7,The adoption of cloud and data analytics was not measured in 2024 and nor was there a figure 
+14,10,1,Calibri,11.0,72.0,678.9,334.6,690.0,available for the three technologies combined in that year. 
+14,11,0,Calibri-Bold,11.0,72.0,701.4,525.6,712.4,"In 2023, Estonia recorded a cloud uptake of 52.6%, significantly above the EU average of 38.97%. "
+14,11,1,Calibri,11.0,72.0,715.9,525.8,726.9,"Among SMEs, a little more than one in two enterprises (51.77%) used cloud services, whereas a much "
+14,11,2,Calibri,11.0,72.0,730.3,525.8,741.4,"higher share of large enterprises, 85.45%, adopted such services. This accounts for the gap in uptake "
+14,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+15,2,0,Calibri,11.0,72.0,76.3,525.6,87.4,"of 33.68 percentage points between SMEs and large enterprises in Estonia, which is consistent with "
+15,2,1,Calibri,11.0,72.0,90.9,148.9,101.9,the EU level gap. 
+15,4,0,Calibri-Bold,11.0,72.0,113.4,525.9,124.5,"The latest available data shows that 25.57% of enterprises in Estonia adopted data analytics in 2023, "
+15,4,1,Calibri-Bold,11.0,72.0,127.7,266.2,138.7,which is below the EU average of 33.25%. 
+15,4,1,Calibri,11.0,266.8,127.7,525.8,138.7,"However, there was a relatively discrepancy between the "
+15,4,2,Calibri,11.0,72.0,142.1,525.6,153.1,adoption rate among SMEs (24.45%) when compared with large enterprises (69.7%). This resulted in 
+15,4,3,Calibri,11.0,72.0,156.5,525.8,167.5,"a difference of 45.25 percentage points between SMEs and large enterprises, which was higher than "
+15,4,4,Calibri,11.0,72.0,170.9,247.8,181.9,the EU gap of 39.72 percentage points. 
+15,5,0,Calibri-Bold,11.0,72.0,193.2,502.3,204.3,"In 2024, 13.89% of enterprises in Estonia used AI technology, in line the EU average of 13.48%."
+15,5,0,Calibri,11.0,502.8,193.2,525.9,204.3, This 
+15,5,1,Calibri,11.0,72.0,207.6,525.9,218.7,"was more than double the figure for 2023 (5.19%), thus marking a very considerable increase in AI use "
+15,5,2,Calibri,11.0,72.0,222.0,525.6,233.1,"among Estonian enterprises. A notable fact was that, in 2024, SMEs had an uptake rate of 13.28%, "
+15,5,3,Calibri,11.0,72.0,236.4,525.8,247.5,whereas large enterprises had a higher rate: 38.99%. This resulted in a difference of 25.71 percentage 
+15,5,4,Calibri,11.0,72.0,250.9,525.8,261.9,"points between SMEs and large enterprises, which was lower than the difference of 28.53 percentage "
+15,5,5,Calibri,11.0,72.0,265.1,192.1,276.2,points for EU-level figures. 
+15,6,0,Calibri-Bold,11.0,72.0,287.6,525.5,298.6,"In 2022 SMEs in Estonia generated 48.2% of the total value added in the economy, whereas large "
+15,6,1,Calibri-Bold,11.0,72.0,302.0,212.7,313.0,enterprises contributed 20.8%.
+15,6,1,Calibri,11.0,212.8,302.0,525.7,313.0," In particular, SMEs constituted about 97.7% of enterprises with more "
+15,6,2,Calibri,11.0,72.0,316.4,350.1,327.4,"than 10 employees, while large enterprises represented 2.3%. "
+15,7,0,Calibri-Bold,11.0,72.0,338.7,131.9,349.7,In conclusion
+15,7,0,Calibri,11.0,131.9,338.7,525.7,349.7,", Estonia demonstrated mixed results in the adoption of cloud computing, data analytics "
+15,7,1,Calibri,11.0,72.0,353.1,525.8,364.1,"and artificial intelligence technologies. While cloud uptake was significantly above the EU average, the "
+15,7,2,Calibri,11.0,72.0,367.5,525.7,378.5,"adoption of data analytics and artificial intelligence lagged behind. Across all three technologies, large "
+15,7,3,Calibri,11.0,72.0,381.9,525.8,392.9,"enterprises consistently reported higher levels of uptake compared to SMEs, in line with broader EU "
+15,7,4,Calibri,11.0,72.0,396.2,525.6,407.2,trends. Considering the high number of SMEs relative to large enterprises and the fact that they 
+15,7,5,Calibri,11.0,72.0,410.6,525.6,421.6,"contribute nearly half of the country’s economic value added, these disparities in adoption rates "
+15,7,6,Calibri,11.0,72.0,425.0,525.8,436.0,underline the importance of addressing digital transformation among smaller businesses to support 
+15,7,7,Calibri,11.0,72.0,439.4,260.1,450.4,their integration into the digital economy. 
+15,8,0,SymbolMT,11.0,90.0,459.5,95.1,473.0,
+15,8,0,ArialMT,11.0,95.1,460.6,98.1,472.9, 
+15,8,1,Calibri-Bold,11.0,108.0,462.3,134.3,473.4,Cloud
+15,8,1,Calibri,11.0,134.3,462.3,136.8,473.4, 
+15,9,0,Calibri-Bold,11.0,72.0,479.8,525.8,490.9,In its adjusted roadmap Estonia proposed a new target and trajectory for cloud in line with the EU 
+15,9,1,Calibri-Bold,11.0,72.0,494.3,135.8,505.4,target of 75%.
+15,9,1,Calibri,11.0,135.7,494.3,138.2,505.4, 
+15,10,0,Calibri,11.0,72.0,516.8,525.7,527.8,"In its roadmap Estonian does not present any measures specifically dedicated to cloud, only measures "
+15,10,1,Calibri,11.0,72.0,531.2,525.8,542.2,targeted towards the digitalisation of businesses that may include cloud; see the section on SMEs with 
+15,10,2,Calibri,11.0,72.0,545.6,204.9,556.6,at least basic digital intensity. 
+15,11,0,SymbolMT,11.0,90.0,565.7,95.1,579.2,
+15,11,0,ArialMT,11.0,95.1,566.8,98.1,579.1, 
+15,11,1,Calibri-Bold,11.0,108.0,568.5,173.5,579.6,Data Analytics
+15,11,1,Calibri,11.0,173.4,568.5,175.9,579.6, 
+15,12,0,Calibri-Bold,11.0,72.0,586.1,525.7,597.1,In its new adjusted roadmap Estonia proposed a new target and trajectory for the digitalisation of 
+15,12,1,Calibri-Bold,11.0,72.0,600.6,276.1,611.6,businesses in line with the EU target of 75%. 
+15,12,1,Calibri,11.0,276.0,600.6,278.5,611.6, 
+15,13,0,Calibri,11.0,72.0,623.0,525.7,634.1,"In its roadmap Estonian does not present any measures specifically dedicated to data analytics, only "
+15,13,1,Calibri,11.0,72.0,637.4,525.7,648.5,measures targeted towards the digitalisation of businesses that may include data analytics; see the 
+15,13,2,Calibri,11.0,72.0,651.8,302.6,662.9,section on SMEs with at least basic digital intensity. 
+15,14,0,SymbolMT,11.0,90.0,671.9,95.1,685.4,
+15,14,0,ArialMT,11.0,95.1,673.0,98.1,685.3, 
+15,14,1,Calibri-Bold,11.0,108.0,674.7,202.2,685.8,Artificial Intelligence
+15,14,1,Calibri,11.0,202.1,674.7,204.6,685.8, 
+15,15,0,Calibri-Bold,11.0,72.0,692.3,525.9,703.3,In its adjusted roadmap Estonia proposed a new target and trajectory for the adoption of AI in line 
+15,15,1,Calibri-Bold,11.0,72.0,706.8,194.3,717.8,with the EU target of 75%. 
+15,15,1,Calibri,11.0,194.2,706.8,196.7,717.8, 
+15,16,0,Calibri-Bold,11.0,72.0,729.2,525.8,740.3,"As mentioned in Estonia’s adjusted roadmap, The Technopol AI Development Programme, launched "
+15,16,1,Calibri-Bold,11.0,72.0,743.6,286.9,754.7,"in 2022-2025, continues to guide the AI scene. "
+15,16,1,Calibri,11.0,287.4,743.6,306.5,754.7,The 
+15,16,1,Calibri-Bold,11.0,306.8,743.6,438.6,754.7,AI development programme 
+15,16,1,Calibri,11.0,438.9,743.6,525.9,754.7,has been launched 
+15,16,2,Calibri,11.0,72.0,758.0,525.8,769.1,"and will focus on industrial companies and start-ups in the environmental, health and energy sectors. "
+15,17,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,17,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+16,2,0,Calibri,11.0,72.0,76.3,525.9,87.4,"The AI start-up incubator has launched 30 enterprises, and more than 19 new AI-based "
+16,2,1,Calibri,11.0,72.0,90.7,525.7,101.8,products/enterprises have entered the market. The programme will continue until 2027 with another 
+16,2,2,Calibri,11.0,72.0,105.1,130.3,116.2,30 start-ups. 
+16,4,0,Calibri,11.0,72.0,127.5,525.7,138.5,Estonia is promoting the use of AI in the public sector. AI adoption support was provided to over 30 
+16,4,1,Calibri,11.0,72.0,141.9,525.9,152.9,"public sector organisations, and 172 AI-based solutions have been implemented in the public sector. "
+16,4,2,Calibri,11.0,72.0,156.3,525.9,167.3,In the public sector the adoption of generative AI was prioritised through more than 15 pilot projects. 
+16,5,0,Calibri,11.0,72.0,178.7,224.5,189.7,Estonia is placing an emphasis on 
+16,5,0,Calibri-Bold,11.0,224.9,178.7,511.4,189.7,preserving its language by integrating Estonian into AI models.
+16,5,0,Calibri,11.0,511.5,178.7,525.9,189.7, AI 
+16,5,1,Calibri,11.0,72.0,193.0,525.7,204.0,language models are facing difficulties in learning small languages as there is not enough data. To 
+16,5,2,Calibri,11.0,72.0,207.4,525.8,218.4,"combat this issue, Estonia has shared nearly four billion linguistic datasets with a leading tech company "
+16,5,3,Calibri,11.0,72.0,221.8,510.3,232.8,"in the digital sphere to improve functions such as voice assistants, chatbots and translations tools. "
+16,6,0,Calibri-Light,12.0,72.0,244.5,233.6,256.5,"Unicorns, scale-ups and start-ups "
+16,7,0,Calibri-Bold,11.0,72.0,268.0,525.7,279.0,"At the beginning of 2025, Estonia had 2 unicorns, which is the same number as last year. Estonia has "
+16,7,1,Calibri-Bold,11.0,72.0,282.4,191.5,293.5,given birth to 10 unicorns.
+16,7,1,Calibri,11.0,191.6,282.4,194.1,293.5, 
+16,8,0,Calibri-Bold,11.0,72.0,304.7,525.8,315.8,"In its adjusted roadmap Estonia proposed a new target and trajectory for unicorns, aiming to have 5 "
+16,8,1,Calibri-Bold,11.0,72.0,319.1,152.4,330.2,unicorns by 2030.
+16,8,1,Calibri,11.0,152.4,319.1,154.9,330.2, 
+16,9,0,Calibri-Bold,11.0,72.0,341.6,525.8,352.6,"In 2024 the start-up scene in Estonia was characterised by DeepTech’s continued momentum, but at "
+16,9,1,Calibri-Bold,11.0,72.0,355.8,392.9,366.9,the same time a decline in investment in the Estonian start-up sector. 
+16,9,1,Calibri,11.0,393.1,355.8,525.8,366.9,DeepTech accounted for 63% 
+16,9,2,Calibri,11.0,72.0,370.2,525.8,381.3,of the Estonian start-up sector in 2024 and 17% of the sector’s workforce. DeepTech companies raised 
+16,9,3,Calibri,11.0,72.0,384.6,525.6,395.7,EUR 206.2 million (63% of investment in the sector) across 20 deals. The Estonian government 
+16,9,4,Calibri,11.0,72.0,399.1,523.6,410.1,launched a EUR 100 million defence tech fund that will increase the development of new defence-
+16,9,5,Calibri,11.0,72.0,413.5,282.6,424.5,"oriented DeepTech start-ups. At the same time, "
+16,9,5,Calibri,11.0,282.2,413.5,352.8,424.5,Start-up Estonia
+16,9,5,Calibri,11.0,352.8,413.5,525.9,424.5, reports a decline in investment of 23% 
+16,9,6,Calibri,11.0,72.0,427.9,525.9,438.9,from 2023 to 2024 for Estonian start-ups; the annual investment volume in 2024 was the lowest in the 
+16,9,7,Calibri,11.0,72.0,442.1,525.9,453.2,last five years. This decline is partly due to the general trend of less venture capital activity worldwide. 
+16,10,0,Calibri,11.0,72.0,464.6,144.3,475.6,Start-up Estonia
+16,10,0,Calibri-Bold,11.0,144.3,464.6,525.9,475.6," states in its yearly report that 14 396 individuals were employed by start-ups, a "
+16,10,1,Calibri-Bold,11.0,72.0,479.0,204.2,490.0,decrease of 1.4% from 2023. 
+16,10,1,Calibri,11.0,204.2,479.0,477.6,490.0,Estonia continues to report a shortage of talent in the sector. 
+16,11,0,Calibri-Bold,11.0,72.0,501.3,525.8,512.3,Estonia also reports a decrease in the formation of new start-ups (four times fewer were established 
+16,11,1,Calibri-Bold,11.0,72.0,515.7,239.6,526.8,compared to the previous 3-4 years).
+16,11,1,Calibri,11.0,239.7,515.7,525.8,526.8, As a result the Estonian government has focused on supporting 
+16,11,2,Calibri,11.0,72.0,530.1,525.8,541.2,"certain sector-specific accelerator programmes in areas such as health, DeepTech and clean tech, "
+16,11,3,Calibri,11.0,72.0,544.5,525.7,555.5,"through initiatives such as NATO Diana (launched last year). Additionally, Estonia has chosen to look "
+16,11,4,Calibri,11.0,72.0,558.8,525.8,569.9,"beyond its national ecosystem and to prioritise collaboration with the Nordic countries, mainly Sweden "
+16,11,5,Calibri,11.0,72.0,573.2,384.6,584.3,"and Finland, to launch a pre-accelerator (expected to launch in 2025). "
+16,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+17,2,0,Calibri-Light,15.0,72.0,77.2,326.0,92.2,Strengthening Cybersecurity & Resilience  
+17,5,0,Calibri,11.0,522.7,300.8,525.2,311.8, 
+17,5,1,Calibri-Bold,11.0,72.0,312.2,477.1,323.2,In Estonia almost three quarters of people have digital safety skills above a basic level. 
+17,5,1,Calibri,11.0,478.2,312.2,525.9,323.2,74.97% of 
+17,5,2,Calibri,11.0,72.0,326.4,525.8,337.5,"individuals reported taking at least one action to protect their personal data online in 2023, exceeding "
+17,5,3,Calibri,11.0,72.0,340.8,525.6,351.9,the EU average of 69.55%. Of note was the fact that 50% engaged in three or more actions (and 
+17,5,4,Calibri,11.0,72.0,355.2,525.6,366.3,therefore could be considered as having digital safety skills beyond a basic level). The most common 
+17,5,5,Calibri,11.0,72.0,369.6,525.7,380.7,"action was restricting or refusing access to geographical location, with 50.51% of individuals taking this "
+17,5,6,Calibri,11.0,72.0,384.0,525.6,395.1,measure; limiting access to social media profiles or shared online content was the least frequent 
+17,5,7,Calibri,11.0,72.0,398.5,239.7,409.5,"measure taken, by 36.89% of people. "
+17,6,0,Calibri-Bold,11.0,72.0,420.8,525.8,431.8,Estonian enterprises tend to experience more cyberattack-related incidents but employees are less 
+17,6,1,Calibri-Bold,11.0,72.0,435.2,442.7,446.2,aware of their ICT security-related obligations compared to the EU average
+17,6,1,Calibri,11.0,442.8,435.2,525.9,446.2,. The number of 
+17,6,2,Calibri,11.0,72.0,449.6,525.9,460.6,enterprises that experienced ICT security incidents leading to unavailability of ICT services as a result 
+17,6,3,Calibri,11.0,72.0,464.0,525.8,475.0,"of attacks from outside (such as ransomware or denial-of-service attacks) increased slightly in Estonia, "
+17,6,4,Calibri,11.0,72.0,478.3,525.6,489.3,"from 3.06% in 2022 to 3.53% in 2024. This is marginally above the EU average (3.43%). However, "
+17,6,5,Calibri,11.0,72.0,492.7,525.8,503.7,Estonian enterprises are more prone to incidents resulting from hardware or software failures 
+17,6,6,Calibri,11.0,72.0,507.1,525.6,518.1,"(18.63%) than their EU peers (17.97%). In terms of measures taken, 90.85% of enterprises deployed "
+17,6,7,Calibri,11.0,72.0,521.5,525.9,532.5,some ICT security measures (compared with the EU average of 92.76%) but only 54.89% of enterprises 
+17,6,8,Calibri,11.0,72.0,535.9,525.8,546.9,"made their employees aware of their obligations in ICT security-related issues, which was below the "
+17,6,9,Calibri,11.0,72.0,550.1,169.2,561.2,EU average (59.97%). 
+17,7,0,Calibri-Bold,11.0,72.0,572.6,525.8,583.7,Estonia is slightly above the EU average in the rollout of the secure Internet Protocol version 6 (IPv6) 
+17,7,1,Calibri-Bold,11.0,72.0,587.0,133.1,598.1,for end-users
+17,7,1,Calibri,11.0,133.1,587.0,276.1,598.1,. As regards the deployment of 
+17,7,1,Calibri,11.0,276.8,587.0,392.0,598.1,secure internet standards
+17,7,1,Calibri,11.0,392.1,587.0,525.8,598.1,", Estonia is slightly above the "
+17,7,2,Calibri,11.0,72.0,601.4,525.9,612.5,"EU in the rollout of IPv6 for end-users (39%, compared with an EU average of 36%) and is significantly "
+17,7,3,Calibri,11.0,72.0,615.7,525.5,626.7,"below the EU average on the server side (6%, compared with 17% for the EU). IPv6 is an important "
+17,7,4,Calibri,11.0,72.0,630.1,525.8,641.1,"protocol as it ensures the scalability, stability and security of the internet. The deployment of this new "
+17,7,5,Calibri,11.0,72.0,644.5,525.7,655.5,"version is increasingly urgent, as traditional IPv4 addresses have been long depleted. Domain Name "
+17,7,6,Calibri,11.0,72.0,658.9,525.6,669.9,System Security Extensions (DNSSEC) is also an important standard to be rolled out as it introduces 
+17,7,7,Calibri,11.0,72.0,673.3,525.9,684.3,"security features to DNS. In Estonia, the DNSSEC validation rate (i.e. verification of the authenticity of "
+17,7,8,Calibri,11.0,72.0,687.7,525.8,698.7,"responses sent by name servers to clients, using a digital signature technology) is 67% (Q3 2024), above "
+17,7,9,Calibri,11.0,72.0,702.0,177.6,713.0,the EU average of 47%. 
+17,8,0,Calibri,11.0,72.0,724.4,525.6,735.5,"According to the Digital Decade Eurobarometer 2025, 80% of Estonians think that an improved "
+17,8,1,Calibri,11.0,72.0,739.0,525.7,750.0,"cybersecurity, better protection of online data and safety of digital technologies would facilitate their "
+17,8,2,Calibri,11.0,72.0,753.4,217.3,764.4,daily use of digital technologies. 
+17,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+18,2,0,Calibri-Bold,11.0,72.0,76.3,525.8,87.4,"Estonia’s new national cybersecurity strategy for 2024-2030, ‘Cyber-conscious Estonia’, places a new "
+18,2,1,Calibri-Bold,11.0,72.0,90.7,525.8,101.8,"emphasis on safeguarding digital infrastructure, protecting its institutions and citizens from cyber "
+18,2,2,Calibri-Bold,11.0,72.0,105.1,299.9,116.2,"threats, and increasing cybersecurity cooperation."
+18,2,2,Calibri,11.0,300.0,105.1,302.4,116.2, 
+18,4,0,Calibri-Bold,11.0,72.0,127.5,525.7,138.5,In its adjusted roadmap Estonia identifies increasing cyber risks as one of its main challenges for the 
+18,4,1,Calibri-Bold,11.0,72.0,141.9,264.6,152.9,country’s overall progress in digitalisation.
+18,4,1,Calibri,11.0,264.5,141.9,267.0,152.9, 
+18,5,0,Calibri,11.0,72.0,159.3,91.2,170.3,The 
+18,5,0,Calibri,11.0,94.3,159.3,303.7,170.3,Estonian Information System Authority (RIA)
+18,5,0,Calibri,11.0,303.8,159.3,525.8,170.3, reports almost a doubling in the number of 
+18,5,1,Calibri,11.0,72.0,173.7,525.8,184.7,"cybersecurity incidents, increasing from 3 314 in 2023 to 6 515 in 2024. Phishing and scam websites "
+18,5,2,Calibri,11.0,72.0,188.1,491.1,199.1,made up most of the incidents (4 224) and increased by 250% compared to the previous year. 
+18,6,0,Calibri,11.0,72.0,210.4,525.9,221.4,In February 2024 Estonia had its largest data breach in history. An Estonia-based pharmacy company 
+18,6,1,Calibri,11.0,72.0,224.8,525.8,235.8,"had its loyalty card systems hacked and the leak included nearly 700 000 personal identification codes, "
+18,6,2,Calibri,11.0,72.0,239.2,525.7,250.2,"over 400 000 email addresses, and tens of thousands phone numbers and home addresses. Despite "
+18,6,3,Calibri,11.0,72.0,253.6,309.0,264.6,"the breach, no lasting impact has been documented. "
+18,7,0,Calibri-Bold,11.0,72.0,275.9,449.1,287.0,Estonia’s geographical and geopolitical situation affects Estonian cybersecurity.
+18,7,0,Calibri,11.0,449.4,275.9,451.9,287.0, 
+18,7,0,Calibri,11.0,454.5,275.9,507.3,287.0,RIA reports
+18,7,0,Calibri,11.0,507.3,275.9,525.9,287.0, an 
+18,7,1,Calibri,11.0,72.0,290.3,525.8,301.4,"increased number of incidents targeting government institutions, local authorities and the security "
+18,7,2,Calibri,11.0,72.0,304.7,166.4,315.8,and defence sectors. 
+18,8,0,Calibri,11.0,72.0,327.0,386.8,338.1,Estonia reports that it has implemented the 5G Cybersecurity toolbox. 
+18,8,1,Calibri-Bold,26.0,72.0,352.5,493.4,378.6,Protecting and empowering EU people 
+18,8,2,Calibri-Bold,26.0,72.0,386.7,200.5,412.8,and society 
+18,9,0,Calibri-Light,15.0,72.0,426.8,526.4,441.8,Empowering people and bringing the digital transformation closer to their 
+18,9,1,Calibri-Light,15.0,72.0,446.6,111.7,461.6,needs 
+18,10,0,Calibri-Bold,11.0,72.0,473.5,458.0,484.5,Estonia is putting a lot of attention on the development of its citizens’ digital skills. 
+18,10,0,Calibri,11.0,459.0,473.5,525.9,484.5,In its renewed 
+18,10,1,Calibri,11.0,72.0,487.9,525.9,498.9,digital agenda (intending to be published during the summer of 2025) Estonia is identifying four target 
+18,10,2,Calibri,11.0,72.0,502.3,525.6,513.3,"groups: vulnerable people (the young, those who are unemployed and not in education or training, "
+18,10,3,Calibri,11.0,72.0,516.7,525.8,527.7,"the older population and people with low digital literacy), civil servants and general workforce "
+18,10,4,Calibri,11.0,72.0,531.1,525.7,542.1,"(identifying the needs for a digitalised workforce), ICT professionals and leaders (people in senior "
+18,10,5,Calibri,11.0,72.0,545.3,304.8,556.4,positions in either the public and the private fields). 
+18,11,0,Calibri,11.0,72.0,567.8,525.8,578.9,"According to the 2025 Eurobarometer, 84% of Estonians think that accessing public services online will "
+18,11,1,Calibri,11.0,72.0,582.3,525.7,593.4,be important for their daily life in 2030. Concerning human support to help access and use digital 
+18,11,2,Calibri,11.0,72.0,596.7,525.7,607.8,"technologies and services, 76% consider it would improve their daily use of digital technologies, and "
+18,11,3,Calibri,11.0,72.0,611.3,525.9,622.3,82% think public authorities should consider it important to ensure that people receive proper human 
+18,11,4,Calibri,11.0,72.0,625.8,525.6,636.8,support to help them adapt to the changes in their lives brought about by digital technologies and 
+18,11,5,Calibri,11.0,72.0,640.3,112.9,651.3,services. 
+18,12,0,Calibri,11.0,72.0,662.7,74.5,673.8, 
+18,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+19,2,0,Calibri-Light,12.0,72.0,76.6,182.3,88.6,Equipping people with 
+19,2,0,Calibri,12.0,182.4,76.6,240.7,88.6,digital skills 
+19,3,0,Calibri-LightItalic,11.0,72.0,100.2,152.0,111.3,Basic Digital Skills 
+19,5,0,Calibri-Bold,11.0,72.0,127.6,525.8,138.6,"Estonia’s digital skills profile is strong, with evidence of inclusive growth across different dimensions. "
+19,5,1,Calibri-Bold,11.0,72.0,141.0,525.6,152.1,"According to data from 2023, 62.61% of Estonia’s population has basic digital skills (the national "
+19,5,2,Calibri-Bold,11.0,72.0,154.5,398.3,165.5,"target for 2030 is 80%), which is higher than the EU average of 55.56%"
+19,5,2,Calibri,11.0,398.6,154.5,525.9,165.5,. While there are no figures 
+19,5,3,Calibri,11.0,72.0,167.9,113.9,178.9,available 
+19,5,4,Calibri,11.0,131.1,167.9,146.3,178.9,for 
+19,5,5,Calibri,11.0,163.3,167.9,190.9,178.9,"2024, "
+19,5,6,Calibri,11.0,208.0,167.9,246.8,178.9,detailed 
+19,5,7,Calibri,11.0,72.0,181.3,246.8,192.4,breakdowns of the 2023 data provide a 
+19,5,8,Calibri,11.0,72.0,194.8,197.3,205.8,more granular perspective.  
+19,7,0,SymbolMT,11.0,90.0,219.9,95.1,233.4,
+19,7,0,ArialMT,11.0,95.1,221.0,98.1,233.3, 
+19,7,1,Calibri-Bold,11.0,108.0,222.7,163.5,233.8,Gender gap:
+19,7,1,Calibri,11.0,163.5,222.7,246.8,233.8, there is almost no 
+19,7,2,Calibri,11.0,108.0,236.2,246.8,247.2,gender gap in digital skills in 
+19,7,3,Calibri,11.0,108.0,249.6,246.7,260.7,Estonia: 63.16% of men and 
+19,7,4,Calibri,11.0,108.0,263.1,246.7,274.1,62.09% of women are digitally 
+19,7,5,Calibri,11.0,108.0,276.5,141.5,287.6,skilled. 
+19,7,6,Calibri,11.0,160.7,276.5,179.7,287.6,The 
+19,7,7,Calibri,11.0,199.0,276.5,246.8,287.6,difference 
+19,7,8,Calibri,11.0,108.0,290.0,246.8,301.0,between these figures is 1.07 
+19,7,9,Calibri,11.0,108.0,303.4,246.8,314.5,"percentage points, which is "
+19,7,10,Calibri,11.0,108.0,316.7,246.9,327.8,half the 2.23 percentage-point 
+19,7,11,Calibri,11.0,108.0,330.2,246.7,341.2,difference for the EU as a 
+19,7,12,Calibri,11.0,108.0,343.6,143.3,354.6,whole.  
+19,7,13,SymbolMT,11.0,90.0,354.8,95.1,368.3,·
+19,7,13,ArialMT,11.0,95.1,355.9,98.1,368.2, 
+19,7,14,Calibri-Bold,11.0,108.0,357.6,181.7,368.7,Education level:
+19,7,14,Calibri,11.0,181.7,357.6,246.8,368.7, among those 
+19,7,15,Calibri,11.0,108.0,371.1,130.4,382.1,with 
+19,7,16,Calibri,11.0,139.6,371.1,170.6,382.1,higher 
+19,7,17,Calibri,11.0,179.8,371.1,226.9,382.1,education 
+19,7,18,Calibri,11.0,236.0,371.1,246.8,382.1,in 
+19,7,19,Calibri,11.0,108.0,384.5,246.8,395.6,"Estonia, 71.81% have at least "
+19,7,20,Calibri,11.0,108.0,398.0,246.8,409.0,"basic digital skills, which is less "
+19,7,21,Calibri,11.0,108.0,411.4,246.8,422.5,than the EU average of 
+19,7,22,Calibri,11.0,108.0,424.7,246.9,435.8,79.83%. Of those individuals 
+19,7,23,Calibri,11.0,108.0,438.2,525.7,449.2,"with a medium level of education, 54.58% have a basic level of skills; the difference between "
+19,7,24,Calibri,11.0,108.0,451.6,525.7,462.7,"this group and the national average is only 8.03 percentage points, much less than the "
+19,7,25,Calibri,11.0,108.0,465.1,525.7,476.1,corresponding figure of 21.95 percentage points for the EU overall. This small variation 
+19,7,26,Calibri,11.0,108.0,478.5,499.9,489.5,suggests that education level is a less significant driving factor in digital skills in Estonia. 
+19,7,27,SymbolMT,11.0,90.0,489.7,95.1,503.2,·
+19,7,27,ArialMT,11.0,95.1,490.8,98.1,503.1, 
+19,7,28,Calibri-Bold,11.0,108.0,492.5,164.2,503.6,Living areas:
+19,7,28,Calibri,11.0,164.2,492.5,525.8,503.6," 56.99% of rural dwellers in Estonia have at least basic digital skills, which is higher "
+19,7,29,Calibri,11.0,108.0,506.0,525.7,517.0,"than the EU average for rural areas, at 47.50%. The gap between rural areas and the overall "
+19,7,30,Calibri,11.0,108.0,519.4,475.9,530.5,"national level is 5.62 percentage points, which is less than average gap for the EU. "
+19,7,31,SymbolMT,11.0,90.0,530.5,95.1,544.0,·
+19,7,31,ArialMT,11.0,95.1,531.6,98.1,543.9, 
+19,7,32,Calibri-Bold,11.0,108.0,533.3,162.9,544.4,Age groups:
+19,7,32,Calibri,11.0,162.9,533.3,525.8,544.4," of the different age groups in Estonia, 16 to 24-year-olds have the most digital "
+19,7,33,Calibri,11.0,108.0,546.8,525.9,557.8,"skills at 86.84%, well above the EU average of 69.98%. Those in the 65 to 74-year-old range "
+19,7,34,Calibri,11.0,108.0,560.3,470.4,571.3,"have fewer skills, coming in at 22.67%, which is under the EU average of 28.19%. "
+19,7,35,SymbolMT,11.0,90.0,571.5,95.1,585.0,·
+19,7,35,ArialMT,11.0,95.1,572.6,98.1,584.9, 
+19,7,36,Calibri-Bold,11.0,108.0,574.3,254.7,585.3,Digital Skills Index components:
+19,7,36,Calibri,11.0,254.8,574.3,525.8,585.3," Estonia scores well in the Digital Skills Index, above the EU "
+19,7,37,Calibri,11.0,108.0,587.7,525.8,598.8,"average in all five skill areas. It does best in communication and collaboration skills, at 89.99%, "
+19,7,38,Calibri,11.0,108.0,601.2,525.7,612.2,which is close to the EU average. The area with the lowest score is digital content creation at 
+19,7,39,Calibri,11.0,108.0,614.6,388.2,625.7,"70.54%, but this is still above the 68.28% in the EU as a whole. "
+19,7,40,Calibri,11.0,72.0,628.1,74.5,639.1, 
+19,7,41,Calibri,11.0,72.0,641.4,525.9,652.4,"Estonia exhibits a high level of digital skills across its population, with particularly good communication "
+19,7,42,Calibri,11.0,72.0,654.8,525.7,665.9,"and collaboration abilities. The country shows small gaps in gender and education levels, and while "
+19,7,43,Calibri,11.0,72.0,668.3,525.6,679.3,"there is room to help older Estonians improve their digital skills, the overall picture is one of solid "
+19,7,44,Calibri,11.0,72.0,681.7,158.8,692.7,digital competency.
+19,7,44,Calibri-Bold,11.0,158.8,681.7,161.3,692.7, 
+19,7,44,Calibri,11.0,161.2,681.7,163.7,692.7, 
+19,8,0,Calibri-Bold,11.0,72.0,709.2,525.8,720.2,"In its adjusted roadmap, Estonia increased its target for the basic digital skills of the population from "
+19,8,1,Calibri-Bold,11.0,72.0,722.6,244.5,733.7,60% to 80% in line with the EU target.
+19,8,1,Calibri,11.0,244.6,722.6,247.1,733.7, 
+19,8,2,Calibri-Bold,11.0,72.0,736.1,74.5,747.1, 
+19,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+20,2,0,Calibri-Bold,11.0,72.0,76.3,308.4,87.4,Estonia is in the process of developing an action plan
+20,2,0,Calibri,11.0,308.5,76.3,525.9,87.4, focusing on basic digital skills and ICT specialists. 
+20,2,1,Calibri,11.0,72.0,89.8,525.9,100.8,The plan will set out to ensure that there are no overlaps of initiatives between different ministries nor 
+20,2,2,Calibri,11.0,72.0,103.2,499.4,114.3,any uncovered areas. It is estimated that the action plan will be launched by late summer 2025. 
+20,4,0,Calibri-Bold,11.0,72.0,124.7,525.6,135.7,"An emphasis is put on educating people with low digital skills, and people living in rural and remote "
+20,4,1,Calibri-Bold,11.0,72.0,139.1,102.1,150.1,areas. 
+20,4,1,Calibri,11.0,102.3,139.1,525.6,150.1,"At the end of 2024, as a part of the Estonian government’s action plan (in cooperation with an "
+20,4,2,Calibri,11.0,72.0,153.4,525.8,164.4,"external training partner), e-learning material was created and will be introduced in autumn 2025 "
+20,4,3,Calibri,11.0,72.0,167.8,487.5,178.8,through 20 one-day seminars will be held across the country for people with low digital skills.
+20,4,3,Calibri-Bold,11.0,487.7,167.8,525.9,178.8, Estonia 
+20,4,4,Calibri-Bold,11.0,72.0,182.2,391.1,193.2,is putting an emphasis on educating civil servants in digital skills. 
+20,4,4,Calibri,11.0,393.7,182.2,525.9,193.2,Digital skills development is 
+20,4,5,Calibri,11.0,72.0,196.6,525.8,207.6,"fragmented, and lacking coordination across the government sector to address gaps and to create "
+20,4,6,Calibri,11.0,72.0,211.0,525.9,222.0,"basic literacy and advanced skills of the civil servants. To tackle this, Estonia has published Digital State "
+20,4,7,Calibri,11.0,72.0,225.3,525.8,236.3,Academy learning hub and organised training sessions to specifically strengthen ICT management 
+20,4,8,Calibri,11.0,72.0,239.7,525.9,250.7,"skills, digital services management and development competencies and improve the skills of IT project "
+20,4,9,Calibri,11.0,72.0,254.1,525.9,265.1,"managers. In 2024, 2 500 central government employees received training in data and AI, and a data "
+20,4,10,Calibri,11.0,72.0,268.5,349.1,279.5,sector training programme for internal trainers was launched. 
+20,5,0,Calibri-Bold,11.0,72.0,290.8,525.7,301.8,Estonia identifies mid-level managers competencies on planning and managing comprehensive 
+20,5,1,Calibri-Bold,11.0,72.0,305.2,301.4,316.2,digital transformation should be strengthened.  
+20,5,1,Calibri,11.0,303.5,305.2,525.8,316.2, Managers who lack an understanding of their 
+20,5,2,Calibri,11.0,72.0,319.6,525.7,330.6,"responsibilities in cybersecurity and risk assessment, and who do not sufficiently align their "
+20,5,3,Calibri,11.0,72.0,334.0,525.8,345.0,"digitalisation initiatives with the strategic aims of their respective areas, can hinder overall digital "
+20,5,4,Calibri,11.0,72.0,348.4,525.9,359.4,transformation. This is because they may not fully understand how emerging technologies and smarter 
+20,5,5,Calibri,11.0,72.0,362.8,409.9,373.9,use of data can be implemented and how these solutions can be beneficial. 
+20,6,0,Calibri-Bold,11.0,77.7,385.8,278.4,396.9,2024 recommendation on basic digital skills
+20,6,0,Calibri,11.0,278.6,385.8,520.5,396.9,: Continue implementing initiatives to improve digital 
+20,6,1,Calibri,11.0,77.7,400.4,270.9,411.4,skills and ensure that no one is left behind. 
+20,7,0,Calibri-Bold,11.0,77.7,423.7,520.2,434.7,The MS made some efforts to address the recommendation through new policy actions in 2024. 
+20,7,1,Calibri,11.0,77.7,438.1,520.5,449.1,Through the measures discussed above Estonia is implementing initiatives to further improve digital 
+20,7,2,Calibri,11.0,77.7,452.6,205.2,463.6,skills among various groups. 
+20,8,0,Calibri-Bold,11.0,72.0,483.9,525.6,494.9,An emphasis on is put on educating people with low digital skills and people who live in rural and 
+20,8,1,Calibri-Bold,11.0,72.0,498.2,138.5,509.2,remote areas. 
+20,8,1,Calibri,11.0,139.1,498.2,525.7,509.2,"At the end of 2024, as a part of the Estonian government action plan (in cooperation "
+20,8,2,Calibri,11.0,72.0,512.6,525.9,523.6,"with an external training partner), e-learning material was created. In Autumn 2025 there will be 20 "
+20,8,3,Calibri,11.0,72.0,527.0,437.7,538.0,one-day seminars will be held across the country for people with low digital skills. 
+20,9,0,Calibri-LightItalic,11.0,72.0,549.4,135.2,560.5,ICT specialists 
+20,10,0,Calibri-Bold,11.0,72.0,571.9,525.7,582.9,The number of ICT specialists in Estonia represents 7.2% of total employment in the country (with a 
+20,10,1,Calibri-Bold,11.0,72.0,586.3,525.5,597.3,national target of 10% by 2030) after a growth of 7.46% in 2024; this stands above the EU average 
+20,10,2,Calibri-Bold,11.0,72.0,600.7,390.0,611.7,of 5.0%. The country is on track according to its national trajectory.
+20,10,2,Calibri,11.0,390.3,600.7,525.8,611.7, In 2023 the figure was 6.7% 
+20,10,3,Calibri,11.0,72.0,615.0,525.8,626.0,nationally and 4.8% at EU level. The growth rate is almost double that observed at EU level (4.2% in 
+20,10,4,Calibri,11.0,72.0,629.4,525.6,640.4,"2024). This trend is particularly visible among female ICT specialists. In 2023, 26.8% of ICT specialists "
+20,10,5,Calibri,11.0,72.0,643.8,525.7,654.8,"in Estonia were female, higher than the EU’s 19.4%. The figure rose to 27.6% in 2024, which is the "
+20,10,6,Calibri,11.0,72.0,658.2,525.9,669.2,highest proportion in the EU (where the average was 19.5%). Estonia’s growth rate of 3.0% in this area 
+20,10,7,Calibri,11.0,72.0,672.6,203.5,683.6,outperformed the EU’s 0.5%. 
+20,11,0,Calibri-Bold,11.0,72.0,694.9,525.5,705.9,"In 2022, 18.78% of enterprises with 10 or more employees in Estonia provided ICT training, lagging "
+20,11,1,Calibri-Bold,11.0,72.0,709.3,177.5,720.3,behind the EU’s 22.37%
+20,11,1,Calibri,11.0,177.5,709.3,525.9,720.3,". By 2024, this figure had risen to 21.05%, still below the EU’s 22.29%. However, "
+20,11,2,Calibri,11.0,72.0,723.7,525.8,734.8,Estonia’s annual growth rate of 5.9% outpaced the EU’s -0.2%. This indicates a positive trajectory in 
+20,11,3,Calibri,11.0,72.0,738.1,341.3,749.2,"ICT training provision, albeit one starting from a lower base. "
+20,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+21,3,0,Calibri-Bold,11.0,72.0,76.3,441.1,87.4,Estonia’s ICT training provision and ICT specialist workforce show a mixed picture.
+21,3,0,Calibri,11.0,441.3,76.3,525.9,87.4, While the country 
+21,3,1,Calibri,11.0,72.0,90.7,525.8,101.8,"lags behind the EU average in terms of enterprises providing ICT training, it has a higher annual growth "
+21,3,2,Calibri,11.0,72.0,105.1,525.8,116.2,"rate. Estonia’s ICT specialist workforce, particularly the share of female ICT specialists, is notably higher "
+21,3,3,Calibri,11.0,72.0,119.5,525.6,130.6,than the EU average and shows a higher growth rate. This suggests a strong potential for Estonia to 
+21,3,4,Calibri,11.0,72.0,133.9,205.7,145.0,further develop its ICT sector. 
+21,4,0,Calibri,11.0,72.0,156.3,525.9,167.3,"In terms of labour market demand, Eurostat experimental statistics based on web scraping show that "
+21,4,1,Calibri,11.0,72.0,170.7,525.8,181.7,"in Estonia, the profiles of ‘software and applications developers and analysts’ are the most sought after, "
+21,4,2,Calibri,11.0,72.0,185.1,525.7,196.1,representing 47.3% of online job advertisements for ICT specialists (58.0% at EU level). Three types of 
+21,4,3,Calibri,11.0,72.0,199.5,525.6,210.5,profile are more wanted more frequently in Estonia than in the EU in average: ‘information and 
+21,4,4,Calibri,11.0,72.0,213.7,525.7,224.8,"communications technology service managers’ (20.2% of online job advertisements for ICT specialists, "
+21,4,5,Calibri,11.0,72.0,228.1,525.9,239.2,"versus an EU average of 3.8%), ‘information and communications technology operations and user "
+21,4,6,Calibri,11.0,72.0,242.6,431.2,253.6,"support technicians’ (13.5%), and ‘database and network professionals’ (10.2%). "
+21,5,0,Calibri-Bold,11.0,72.0,265.0,502.9,276.0,Estonia is working to anticipate the digital skills needed across various sectors in the future.
+21,5,0,Calibri,11.0,503.4,265.0,523.5,276.0, The
+21,5,0,Calibri-Bold,11.0,523.4,265.0,525.9,276.0, 
+21,5,1,Calibri,11.0,72.0,279.3,525.9,290.3,country is preparing a study to determine what digital skills will be needed in the labour market (e.g. 
+21,5,2,Calibri,11.0,72.0,293.7,525.8,304.7,supporting the adoption of generative AI solution for SMEs) and the results will inform plans and 
+21,5,3,Calibri,11.0,72.0,308.1,230.3,319.1,measures to address this skills gap. 
+21,6,0,Calibri-Bold,11.0,72.0,330.5,525.8,341.6,In its roadmap Estonia identifies the shortage of highly skilled digital specialists across the sector as 
+21,6,1,Calibri-Bold,11.0,72.0,344.9,265.8,356.0,a hindrance to achieving a digital society.
+21,6,1,Calibri,11.0,265.9,344.9,525.8,356.0, This scarcity is seen as leading to high competition and 
+21,6,2,Calibri,11.0,72.0,359.4,525.6,370.5,slowing down digitalisation efforts. In 2024 a survey found that if Estonia does not prioritise the 
+21,6,3,Calibri,11.0,72.0,374.0,440.8,385.0,"upskilling of its workforce, this will ultimately harm the country’s competitiveness. "
+21,7,0,Calibri-Bold,11.0,77.7,397.1,263.1,408.2,2024 recommendation on ICT-specialists
+21,7,0,Calibri,11.0,263.1,397.1,520.4,408.2,: Continue measures aiming at increasing the number of 
+21,7,1,Calibri,11.0,77.7,411.7,504.9,422.7,more senior ICT specialists (higher level of experience) and continue improving gender balance. 
+21,8,0,Calibri-Bold,11.0,77.7,434.9,520.2,446.0,The MS made some efforts to address the recommendation through new policy actions in 2024. 
+21,8,1,Calibri,11.0,77.7,449.3,520.3,460.4,"Through the measures discussed above and in the chapter on digital skills, Estonia has fulfilled this "
+21,8,2,Calibri,11.0,77.7,463.7,520.4,474.8,recommendation. Measures are being taken to increase the number of more senior ICT specialists; 
+21,8,3,Calibri,11.0,77.7,478.0,520.2,489.1,"it is too soon to be able to determine whether these have led to any results, however. Estonia is "
+21,8,4,Calibri,11.0,77.7,492.4,462.0,503.5,relying on previously introduced measures to continue improving the gender balance. 
+21,9,0,Calibri-Light,12.0,72.0,523.9,476.9,535.9,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+21,10,0,Calibri-Bold,11.0,72.0,547.4,525.8,558.4,Estonia's digital public services and access to e-health records continue to outperform the EU 
+21,10,1,Calibri-Bold,11.0,72.0,562.9,380.9,573.9,average. The country is on track according to its national trajectory. 
+21,10,1,Calibri,11.0,381.1,562.9,525.9,573.9,"In 2023, Estonia’s total score for "
+21,10,2,Calibri-Bold,11.0,72.0,578.3,221.8,589.3,digital public services for citizens
+21,10,2,Calibri,11.0,222.1,578.3,525.7,589.3," was 95.83, surpassing the EU’s 79.44; in 2024 it reached 96.12, still "
+21,10,3,Calibri,11.0,72.0,593.7,525.9,604.8,above the EU’s 82.32. The country is on track to its target according to its national trajectory. The 
+21,10,4,Calibri,11.0,72.0,609.2,525.8,620.3,"growth in this figure in Estonia in 2024 was 0.3%. For cross-border digital public services for citizens, "
+21,10,5,Calibri,11.0,72.0,624.6,525.9,635.6,"Estonia scored 97.38 in 2023 and 94.64 in 2024, in both cases higher than the EU’s 68.37 and 71.28 "
+21,10,6,Calibri,11.0,72.0,640.1,349.0,651.1,respectively. But Estonia’s performance did decrease by 2.8%. 
+21,11,0,Calibri-Bold,11.0,72.0,661.5,525.7,672.6,"In the realm of digital public services for businesses, Estonia’s total score was 98.75 in 2023 and 97.5 "
+21,11,1,Calibri-Bold,11.0,72.0,676.9,525.9,687.9,"in 2024, in both years exceeding the EU’s 85.42 and 86.23. The country is on track to meet its target "
+21,11,2,Calibri-Bold,11.0,72.0,692.4,235.0,703.4,according to its national trajectory.
+21,11,2,Calibri,11.0,235.1,692.4,525.7,703.4," However, the figure in Estonia decreased by 1.3% in 2024. For "
+21,11,3,Calibri,11.0,72.0,707.9,525.6,718.9,"cross-border digital public services for businesses, Estonia scored 97.5 in 2023 and 95.0 in 2024, both "
+21,11,4,Calibri,11.0,72.0,723.4,454.3,734.4,higher than the EU’s 73.13 and 73.76. This represented a decrease of 2.6% in Estonia. 
+21,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+22,2,0,Calibri-Bold,11.0,72.0,76.3,525.7,87.4,"Regarding access to e-health records, Estonia’s total score was 97.5 in 2023 and reached the EU "
+22,2,1,Calibri-Bold,11.0,72.0,91.8,385.3,102.9,"target of 100.0 in 2024, both higher than the EU’s 79.12 and 82.70."
+22,2,1,Calibri,11.0,385.4,91.8,387.9,102.9, 
+22,2,1,Calibri-Bold,11.0,388.8,91.8,525.8,102.9,The country is on track to its 
+22,2,2,Calibri-Bold,11.0,72.0,107.3,260.7,118.3,target according to its national trajectory.
+22,2,2,Calibri,11.0,260.8,107.3,265.8,118.3,  
+22,4,0,Calibri-LightItalic,11.0,72.0,128.7,92.4,139.7,e-ID 
+22,5,0,Calibri-Bold,11.0,72.0,151.2,525.7,162.3,Estonian authorities are aligned with the European framework of the eIDAS regulation with a view 
+22,5,1,Calibri-Bold,11.0,72.0,165.6,215.6,176.7,to offering an EU Digital Wallet.
+22,5,1,Calibri,11.0,215.6,165.6,218.1,176.7, 
+22,6,0,Calibri-Bold,11.0,72.0,187.9,365.2,199.0,Estonia has notified six eID items under the Estonian eID scheme
+22,6,0,Calibri,11.0,365.4,187.9,523.6,199.0,": the ID card, the RP card, Digi-ID, e-"
+22,6,1,Calibri,11.0,72.0,202.3,525.9,213.4,"Residency, Mobiil-ID and Diplomatic ID. In 2023, 89.43% of Estonians used their eID to access online "
+22,6,2,Calibri,11.0,72.0,216.7,525.6,227.8,"services for private purpose in the previous 12 months, which is significantly above the EU average "
+22,6,3,Calibri,11.0,72.0,231.2,525.9,242.2,"(41.11%). Estonia is working toward introducing its ID, passport and driving licence into the national "
+22,6,4,Calibri,11.0,72.0,245.4,380.2,256.5,mobile application eesti.eeto be able to access government services. 
+22,7,0,Calibri,11.0,72.0,267.9,308.8,278.9,Estonia reports of no new measures in the roadmap. 
+22,8,0,Calibri,11.0,72.0,290.2,525.6,301.2,"Estonian stakeholders, both public and private, are present in one of the consortia of LSPs (known as "
+22,8,1,Calibri,11.0,72.0,304.6,525.8,315.6,POTENTIAL) that is in the grant agreement preparation stage. The consortium comprises a government 
+22,8,2,Calibri,11.0,72.0,319.0,525.6,330.0,ministry and a two private companies. EE overall costs for involvement in proposals is approximately 
+22,8,3,Calibri,11.0,72.0,333.4,525.9,344.4,EUR 0.4 million with the grants requested by Estonian entities amounting to approximately EUR 0.2 
+22,8,4,Calibri,11.0,72.0,347.8,499.5,358.9,million. The kinds of case that EE will be involved in include POTENTIAL: Mobile Driving Licence. 
+22,9,0,Calibri-LightItalic,11.0,72.0,370.1,327.2,381.2,Digitalisation of public services for citizens and businesses 
+22,10,0,Calibri-Bold,11.0,72.0,392.7,525.9,403.7,In its adjusted roadmap Estonia proposed a new target and trajectory for digitalisation of public 
+22,10,1,Calibri-Bold,11.0,72.0,407.0,431.5,418.0,"services for citizens and businesses, both in line with the EU target of 100%. "
+22,10,1,Calibri,11.0,432.8,407.0,525.9,418.0,Given the measures 
+22,10,2,Calibri,11.0,72.0,421.4,357.2,432.4,adopted and current rate of progress this target is within reach. 
+22,11,0,Calibri-Bold,11.0,72.0,443.8,512.1,454.9,In 2024 Estonia continued its work on integrating digital solutions into all important life events. 
+22,11,0,Calibri,11.0,512.9,443.8,525.9,454.9,By 
+22,11,1,Calibri,11.0,72.0,458.2,525.7,469.3,"the end of 2024 Estonia had 8 life-event services: marriage, childbirth, military service, relocation to "
+22,11,2,Calibri,11.0,72.0,472.5,525.8,483.5,"Estonia, bereavement, pension, support for a child with a severe diagnosis (new), and divorce (new). "
+22,11,3,Calibri,11.0,72.0,486.9,525.5,497.9,"Across all life events, there were in total 301 497 visits in total on the eesti.ee site, of which 104 312 "
+22,11,4,Calibri,11.0,72.0,501.3,525.9,512.3,visits were related to marriage information (averaging 8 700 times per month). 58% of all marriage 
+22,11,5,Calibri,11.0,72.0,515.7,288.4,526.8,applications were submitted through the portal. 
+22,12,0,Calibri-Bold,11.0,72.0,538.0,475.0,549.1,The Estonian national mobile application of eesti.ee was launched at the end of 2024
+22,12,0,Calibri,11.0,475.2,538.0,525.9,549.1,", providing "
+22,12,1,Calibri,11.0,72.0,552.4,525.9,563.5,access to government services from any location. In its first month it had more than 28 000 downloads. 
+22,13,0,Calibri-Bold,11.0,72.0,574.9,523.0,585.9,"In 2024, Estonia showed initiative in the area of data consent by providing insight into data usage."
+22,13,0,Calibri,11.0,523.4,574.9,525.9,585.9, 
+22,13,1,Calibri,11.0,72.0,589.2,525.6,600.2,Estonia made it obligatory to the adopt the ‘Data Tracker’ across all governmental administrations by 
+22,13,2,Calibri,11.0,72.0,603.6,525.8,614.6,2025. The Data Tracker provides citizens with a clear overview of the use of their data and in 2024 the 
+22,13,3,Calibri,11.0,72.0,618.0,525.9,629.0,service was used over 1 000 000 times to facilitate data-sharing between the state and private sectors. 
+22,13,4,Calibri,11.0,72.0,632.4,365.0,643.4,Efforts to establish a legal framework for data consent continued. 
+22,14,0,Calibri,11.0,72.0,654.7,525.8,665.7,Estonia also showed progress in the availability and usability of open data. The number of data sets in 
+22,14,1,Calibri,11.0,72.0,669.1,525.6,680.1,"the Open Data Portal increased by 905, and as a result reached the 2025 Recovery and Resilience "
+22,14,2,Calibri,11.0,72.0,683.5,525.9,694.5,Facility target one year ahead of schedule. Preparations are also underway to launch the Data 
+22,14,3,Calibri,11.0,72.0,697.9,306.5,708.9,Information Gateway in the second quarter of 2025. 
+22,15,0,Calibri-LightItalic,11.0,72.0,720.2,112.2,731.3,e-Health 
+22,16,0,Calibri-Bold,11.0,72.0,737.8,505.5,748.8,Estonia reached the EU 2030 target of having a score of 100 for access to medical records. 
+22,16,0,Calibri,11.0,507.0,737.8,525.9,748.8,The 
+22,16,1,Calibri,11.0,72.0,752.2,525.9,763.2,country is on track according to its national trajectory because it has already reached the target. 
+22,17,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,17,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+23,2,0,Calibri,11.0,72.0,76.3,525.8,87.4,Estonia reports in their roadmap that older people and people with disabilities may experience 
+23,2,1,Calibri,11.0,72.0,90.7,281.1,101.8,difficulty accessing their digital health records. 
+23,4,0,Calibri,11.0,72.0,108.1,525.7,119.2,"According to the 2025 Eurobarometer, 81% Estonians think that digital technologies will be important "
+23,4,1,Calibri,11.0,72.0,122.7,525.7,133.7,"when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for diagnosis "
+23,4,2,Calibri,11.0,72.0,137.1,250.8,148.1,diseases) during their daily life by 2030. 
+23,5,0,Calibri-Bold,11.0,77.7,160.3,239.1,171.4,2024 recommendation on e-Health:
+23,5,0,Calibri,11.0,239.1,160.3,520.5,171.4, Offer a mobile application for citizens to access their electronic 
+23,5,1,Calibri,11.0,77.7,174.9,147.2,185.9,health records. 
+23,6,0,Calibri-Bold,11.0,77.7,198.1,520.1,209.2,The MS addressed fully the recommendation by putting significant policy actions into place in 
+23,6,1,Calibri-Bold,11.0,77.7,212.5,105.5,223.6,2024. 
+23,6,1,Calibri,11.0,107.5,212.5,520.5,223.6,"Estonia has launched a national mobile app, eesti.ee, that also includes health data. In "
+23,6,2,Calibri,11.0,77.7,227.1,451.2,238.1,"addition, the browser version of the e-Health portal is accessible to mobile devices. "
+23,7,0,Calibri-Light,15.0,72.0,259.3,526.4,274.3,Building a safe and human centric digital environment and preserving our 
+23,7,1,Calibri-Light,15.0,72.0,279.0,141.6,294.0,democracy 
+23,8,0,Calibri-Bold,11.0,72.0,305.8,378.0,316.8,In Estonia online participation in political and civic life is declining.
+23,8,0,Calibri,11.0,378.0,305.8,525.8,316.8," In 2024, 18.28% of people used "
+23,8,1,Calibri,11.0,72.0,320.3,525.6,331.4,"the internet to participate in consultations, to vote or to share their opinions online. This proportion "
+23,8,2,Calibri,11.0,72.0,334.8,525.6,345.9,"is below the EU average and is falling (it was 30.44% in 2022), which is the opposite of the trend "
+23,8,3,Calibri,11.0,72.0,349.4,353.8,360.4,observed at the EU level (17.59% in 2022 and 20.45% in 2024). 
+23,9,0,Calibri-Bold,11.0,72.0,369.8,525.5,380.8,"In 2023 in Estonia, 49.67% of individuals came across online messages that were considered hostile "
+23,9,1,Calibri-Bold,11.0,72.0,384.3,247.4,395.3,or degrading towards groups of people
+23,9,1,Calibri,11.0,247.4,384.3,525.8,395.3,", such as those defined by LGBTIQ identities or religion, placing "
+23,9,2,Calibri,11.0,72.0,398.8,525.9,409.9,Estonia well above the EU average of 33.5%. A substantial 65.77% of young people (16-24) reported 
+23,9,3,Calibri,11.0,72.0,413.3,525.8,424.4,"encountering such messages, compared to 51.47% of adults (25-64), highlighting a significant "
+23,9,4,Calibri,11.0,72.0,427.7,525.8,438.8,"difference, with the youth experiencing markedly higher exposure. Males (46.99%) had slightly lower "
+23,9,5,Calibri,11.0,72.0,442.3,525.6,453.3,"rates of exposure compared to females (52.21%). Overall, Estonia experienced one of the highest "
+23,9,6,Calibri,11.0,72.0,456.8,420.7,467.8,"overall exposure rates in the EU, driven particularly by its youth demographic. "
+23,10,0,Calibri-Bold,11.0,72.0,477.3,525.8,488.4,"In 2023, 59.91% of individuals in Estonia stated that they had come across untrue or dubious "
+23,10,1,Calibri-Bold,11.0,72.0,491.8,349.2,502.9,information or content on internet news sites or social media
+23,10,1,Calibri,11.0,349.3,491.8,525.9,502.9,", noticeably higher than the EU average "
+23,10,2,Calibri,11.0,72.0,506.2,525.9,517.3,"of 49.25%. Of these individuals, according to the survey, 26.13% took steps to verify the content, "
+23,10,3,Calibri,11.0,72.0,520.7,525.6,531.8,representing a moderate level of critical engagement in assessing the truthfulness of such material. 
+23,10,4,Calibri,11.0,72.0,535.3,525.9,546.3,Young people (aged 16-24) were more likely than adults (25-64) to report encountering such content 
+23,10,5,Calibri,11.0,72.0,549.8,525.8,560.8,(69.64% compared with 62.71%). A significant difference existed in verification rates: 46.73% of young 
+23,10,6,Calibri,11.0,72.0,564.2,525.6,575.3,"people verified the truthfulness of content, compared with 26.45% of adults. Males (61.28%) and "
+23,10,7,Calibri,11.0,72.0,578.7,525.9,589.8,"females (58.61%) reported similar exposure rates, though males were relatively more likely to verify "
+23,10,8,Calibri,11.0,72.0,593.3,308.9,604.3,"content, at 30.15% compared to 22.33% for females. "
+23,11,0,Calibri-Bold,11.0,72.0,613.8,525.7,624.8,"The 2023 data on online interactions in Estonia reveals a concerning picture, with a high proportion "
+23,11,1,Calibri-Bold,11.0,72.0,628.2,525.9,639.2,"of individuals, particularly young people (16-24), coming across hostile and degrading online "
+23,11,2,Calibri-Bold,11.0,72.0,642.7,118.7,653.7,messages.
+23,11,2,Calibri,11.0,118.8,642.7,525.8,653.7," Additionally, a significant proportion of individuals in Estonia encountered potentially "
+23,11,3,Calibri,11.0,72.0,657.2,525.7,668.3,"misleading information online. However, the data also suggests that Estonians, especially young "
+23,11,4,Calibri,11.0,72.0,671.7,525.8,682.8,"people, took steps to address this issue, with a moderate to high level of critical engagement in "
+23,11,5,Calibri,11.0,72.0,686.1,525.7,697.2,verifying the accuracy of online content compared to EU averages. The findings highlight the need for 
+23,11,6,Calibri,11.0,72.0,700.7,525.8,711.7,"continued efforts to promote a safe and informed online environment, with a focus on supporting the "
+23,11,7,Calibri,11.0,72.0,715.2,369.4,726.2,population in developing critical thinking and digital literacy skills.  
+23,12,0,Calibri,11.0,72.0,735.7,525.8,746.8,"According to the Digital Decade Eurobarometer 2025, 89% Estonians think it should be urgent the "
+23,12,1,Calibri,11.0,72.0,750.1,525.9,761.2,action of the public authorities to protect children online regarding the negative impact of social media 
+23,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+24,2,0,Calibri,11.0,72.0,76.3,525.9,87.4,"on children’s mental health, 88% to protect against cyberbullying and online harassment. Additionally, "
+24,2,1,Calibri,11.0,72.0,90.9,523.7,101.9,87% Estonians believe it to be urgent to put in place age assurance mechanisms to restrict age-
+24,2,2,Calibri,11.0,72.0,105.4,182.7,116.4,inappropriate content.    
+24,4,0,Calibri,11.0,72.0,127.8,130.1,138.9,In 2024 the ‘
+24,4,0,Calibri,11.0,130.1,127.8,375.1,138.9,France and Estonia – Together Against Disinformation’
+24,4,0,Calibri,11.0,375.1,127.8,525.9,138.9, project was launched. It aims to 
+24,4,1,Calibri,11.0,72.0,142.3,525.9,153.4,respond to disinformation campaigns and strengthen democratic resilience by raising public awareness 
+24,4,2,Calibri,11.0,72.0,156.9,525.7,167.9,"and fostering cross-border collaboration between Estonian and French academia, public institutions, "
+24,4,3,Calibri,11.0,72.0,171.4,146.9,182.4,and civil society. 
+24,5,0,Calibri,11.0,72.0,191.8,74.5,202.8, 
+24,6,0,Calibri,11.0,72.0,214.3,74.5,225.4, 
+24,6,1,Calibri-Bold,26.0,72.0,236.8,77.9,262.9, 
+24,6,2,Calibri-Bold,26.0,216.1,236.8,221.9,262.9, 
+24,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+25,3,0,Calibri-Bold,26.0,72.0,79.4,490.5,105.4,Leveraging digital transformation for a 
+25,3,1,Calibri-Bold,26.0,72.0,113.7,240.5,139.7,smart greening 
+25,4,0,Calibri-Bold,11.0,72.0,152.9,209.8,163.9,Estonia is still aiming to be the 
+25,4,0,Calibri-Bold,11.0,209.4,152.9,393.1,163.9,greenest digital government in the world
+25,4,0,Calibri-Bold,11.0,393.1,152.9,525.8,163.9," with its Digital Agenda 2030, "
+25,4,1,Calibri-Bold,11.0,72.0,167.3,366.2,178.3,but a systematic approach to the area is yet to be introduced. 
+25,4,1,Calibri,11.0,367.5,167.3,525.8,178.3,"Despite having this high ambition, "
+25,4,2,Calibri,11.0,72.0,181.6,360.9,192.6,Estonia has not yet introduced a strategy to accomplish the feat. 
+25,5,0,Calibri-Bold,11.0,72.0,204.0,404.2,215.1,The Estonian population recycles only a small part of its ICT equipment
+25,5,0,Calibri,11.0,404.5,204.0,525.9,215.1,. Estonian people recycled 
+25,5,1,Calibri,11.0,72.0,218.5,525.9,229.6,"more their laptop and desktop devices (8.60% for laptops and tablets, 10.34% for desktops) than the "
+25,5,2,Calibri,11.0,72.0,233.1,525.9,244.1,"EU average (11.31% and 14.66%, respectively) but recycled less their mobile phones (8.11%, 10.93% "
+25,5,3,Calibri,11.0,72.0,247.5,525.7,258.5,"for the EU). Moreover, 22.80% of people considered the energy efficiency as important when "
+25,5,4,Calibri,11.0,72.0,262.0,525.8,273.0,purchasing ICT devices (EU: 19.35%) but the eco-design of the device was considered important by 
+25,5,5,Calibri,11.0,72.0,276.5,525.9,287.6,"13.29%, which is above the EU average (12.04%). However, those two eco-friendly criteria take on less "
+25,5,6,Calibri,11.0,72.0,291.0,483.3,302.1,"importance for the buyer than the price, the performance, and the design of the ICT device. "
+25,6,0,Calibri-Bold,11.0,72.0,313.5,420.8,324.5,The Estonian population recycles only a small proportion of its ICT equipment
+25,6,0,Calibri,11.0,420.9,313.5,525.9,324.5,. More Estonian people 
+25,6,1,Calibri,11.0,72.0,327.9,525.7,338.9,"recycled their laptop and desktop devices (8.60% for laptops and tablets, 10.34% for desktops) than "
+25,6,2,Calibri,11.0,72.0,342.3,525.7,353.3,the EU average (11.31% and 14.66% respectively) but fewer recycled their mobile phones (8.11% 
+25,6,3,Calibri,11.0,72.0,356.6,525.8,367.6,"compared with 10.93% for the EU as a whole). Moreover, 22.80% of people considered energy "
+25,6,4,Calibri,11.0,72.0,371.0,525.9,382.0,efficiency to be important when purchasing ICT devices (EU: 19.35%) but the eco-design of the device 
+25,6,5,Calibri,11.0,72.0,385.4,525.9,396.4,"was considered important by 13.29%, which is above the EU average (12.04%). However, these two "
+25,6,6,Calibri,11.0,72.0,399.8,525.6,410.8,"environmental criteria are of less importance to the buyer than the price, performance and design of "
+25,6,7,Calibri,11.0,72.0,414.2,140.0,425.2,the ICT device. 
+25,7,0,Calibri,11.0,72.0,436.5,525.8,447.5,"According to the Digital Decade Eurobarometer 2025, 59% Estonians consider digital technologies "
+25,7,1,Calibri,11.0,72.0,451.0,525.8,462.1,"important to help fight climate change (below the EU average of 74%), and only 56% of Estonian "
+25,7,2,Calibri,11.0,72.0,465.5,525.6,476.6,respondents think that ensuring that digital technologies serve the green transition should be an 
+25,7,3,Calibri,11.0,72.0,479.9,387.5,491.0,important action for public authorities (below the EU average of 80%). 
+25,8,0,Calibri-Bold,11.0,72.0,502.5,414.0,513.5,The private sector is taking initiatives to increase the lifespan of ICT devices
+25,8,0,Calibri,11.0,414.3,502.5,525.9,513.5,. The organisation Green 
+25,8,1,Calibri,11.0,72.0,516.9,525.8,527.9,"Dice collects old ICT equipment from government and the private sector, refurbishes it and rents it out "
+25,8,2,Calibri,11.0,72.0,531.3,174.2,542.3,at an affordable price. 
+25,8,2,Calibri,11.0,174.8,531.3,525.7,542.3,More than 2 000 devices have been transferred to schools and to almost 500 
+25,8,3,Calibri,11.0,72.0,545.6,122.6,556.6,individuals.
+25,8,3,Calibri,11.0,122.5,545.6,125.0,556.6, 
+25,9,0,Calibri-Bold,11.0,72.0,568.1,492.4,579.1,Estonia is also prioritising the right of future generations and children to a clean environment.
+25,9,0,Calibri,11.0,492.5,568.1,525.9,579.1, A legal 
+25,9,1,Calibri,11.0,72.0,582.5,525.7,593.5,"act, which entered into force in 2024, emphasises that all individuals and institutions are required to "
+25,9,2,Calibri,11.0,72.0,596.9,525.9,607.9,avoid harming the environment in their activities in order not to violate the right of current and unborn 
+25,9,3,Calibri,11.0,72.0,611.1,280.7,622.2,"children to a full life, health and development. "
+25,10,0,Calibri-Bold,11.0,72.0,633.6,192.7,644.6,In 2023 Estonia launched a
+25,10,0,Calibri,11.0,192.8,633.6,195.3,644.6, 
+25,10,0,Calibri-Bold,11.0,195.1,633.6,324.8,644.6,Sustainability Reporting Tool
+25,10,0,Calibri,11.0,324.9,633.6,525.9,644.6, which aims to be a digital reporting tool that 
+25,10,1,Calibri,11.0,72.0,648.1,525.8,659.1,provides guidance on what data to submit to fulfil reporting and produce recommendations on how 
+25,10,2,Calibri,11.0,72.0,662.5,525.6,673.5,to improve SMEs performance in the area of sustainability. This project will run until the end of 2025 
+25,10,3,Calibri,11.0,72.0,677.0,223.3,688.1,with a budget of EUR 3.5 million.  
+25,11,0,Calibri-Bold,11.0,72.0,699.6,525.8,710.6,The Estonian telecom industry is showing initiative in reducing its energy consumption and carbon 
+25,11,1,Calibri-Bold,11.0,72.0,714.0,118.5,725.0,footprint. 
+25,11,1,Calibri,11.0,119.8,714.0,525.9,725.0,"Several of the telecommunication operators have programs to reduce e-waste, by offers "
+25,11,2,Calibri,11.0,72.0,728.5,525.9,739.6,"mobile phone, and digital equipment recycling programs, as well as encouraging circular economy "
+25,11,3,Calibri,11.0,72.0,743.0,202.7,754.1,through refurbished devices. 
+25,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+26,2,0,Calibri,11.0,72.0,76.3,525.8,87.4,Estonia does not present any measures in its roadmap adjustment dedicated to the green and digital 
+26,2,1,Calibri,11.0,72.0,90.9,120.1,101.9,transition. 
+26,4,0,Calibri-Bold,11.0,77.7,114.1,238.4,125.2,2024 recommendation on green ICT
+26,4,0,Calibri,11.0,238.5,114.1,520.4,125.2,: Develop a coherent approach to twinning the digital and green 
+26,4,1,Calibri,11.0,77.7,128.7,520.4,139.7,"transitions. First, promote improvements in energy and material efficiency of digital infrastructures, "
+26,4,2,Calibri,11.0,77.7,143.1,520.3,154.1,"in particular data centres. Second, support the development and deployment of digital solutions "
+26,4,3,Calibri,11.0,77.7,157.6,520.4,168.6,"that reduce the carbon footprint in other sectors, such as energy, transport, buildings, and "
+26,4,4,Calibri,11.0,77.7,172.1,347.4,183.1,"agriculture, including the uptake of such solutions by SMEs.  "
+26,5,0,Calibri,11.0,77.7,194.5,520.2,205.6,Monitor and quantify the emission reductions of the deployed digital solutions in line with the 
+26,5,1,Calibri,11.0,77.7,209.1,520.4,220.1,relevant EU guidance and with the support of the methodology developed by the European Green 
+26,5,2,Calibri,11.0,77.7,223.6,509.6,234.6,"Digital Coalition, in view of future policy development, as well as of attracting relevant financing. "
+26,6,0,Calibri-Bold,11.0,77.7,246.8,520.3,257.8,Estonia made some efforts to address the recommendation through new policy actions in 2024. 
+26,6,1,Calibri,11.0,77.7,261.2,520.3,272.2,"Estonia demonstrates a high ambition to implement a green digital government, as reflected in its "
+26,6,2,Calibri,11.0,77.7,275.6,520.4,286.6,"legal acts, private enterprises and ambition. However, there is no concrete framework or policies "
+26,6,3,Calibri,11.0,77.7,290.0,145.3,301.0,and measures. 
+26,7,0,Calibri,11.0,72.0,327.4,74.5,338.4, 
+26,7,1,Calibri-Bold,26.0,216.1,316.2,221.9,342.2, 
+26,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+27,2,0,Calibri-Bold,26.0,72.0,79.4,470.6,105.4,Annex I – National roadmap analysis 
+27,3,0,Calibri-Bold,11.0,77.7,119.2,313.5,130.2,Estonia’s national Digital Decade strategic roadmap 
+27,3,0,Calibri-Bold,11.0,313.5,119.2,316.0,130.2, 
+27,5,0,Calibri-Bold,11.0,77.7,136.6,517.7,147.6,Estonia submitted a fully revised national Digital Decade roadmap on 27 March 2025. The 
+27,5,1,Calibri-Bold,11.0,77.7,151.0,497.1,162.0,"roadmap contains 13 new targets, 13 trajectories and an update of its intended actions. "
+27,5,1,Calibri,11.0,498.8,151.0,518.0,162.0,The 
+27,5,2,Calibri,11.0,77.7,165.4,518.0,176.4,"adjusted roadmap shows a stronger emphasis on quantum computing (including HPC), EU-level "
+27,5,3,Calibri,11.0,77.7,179.8,517.8,190.8,cooperation and digital skills. It includes clear reporting on the public consultation of stakeholders. 
+27,5,4,Calibri,11.0,77.7,194.2,517.7,205.2,"However, the green transition is not very well incorporated. The roadmap includes measures that "
+27,5,5,Calibri,11.0,77.7,208.5,518.0,219.5,"provide an insight to the state of play, but most of the activities described lack detail – such as "
+27,5,6,Calibri,11.0,77.7,222.9,518.0,233.9,"budget, timeline and expected impact – that would give a better understanding of planned actions. "
+27,6,0,Calibri-Bold,11.0,77.7,240.3,517.9,251.3,The adjusted roadmap/new roadmap addresses a limited number of roadmap recommendations 
+27,6,1,Calibri-Bold,11.0,77.7,254.8,150.4,265.8,issued in 2024:  
+27,7,0,SymbolMT,11.0,95.7,270.1,100.7,283.6,
+27,7,0,ArialMT,11.0,100.7,271.2,103.8,283.5, 
+27,7,1,Calibri-Italic,11.0,113.7,272.9,517.8,284.0,"Establish a national target and trajectory on VHCN coverage, FTTP coverage, 5G coverage, "
+27,7,2,Calibri-Italic,11.0,113.7,287.3,517.7,298.4,"edge nodes, SMEs with at least a basic level of digital intensity, cloud, AI, data analytics, "
+27,7,3,Calibri-Italic,11.0,113.7,301.9,518.0,312.9,"unicorns, ICT specialists, digital public services for citizens, digital public services for "
+27,7,4,Calibri-Italic,11.0,113.7,316.4,517.7,327.4,"business, and access to health records. Align the level of ambition of the national target "
+27,7,5,Calibri-Italic,11.0,113.7,330.9,359.2,341.9,and propose a trajectory for at least basic digital skills: 
+27,7,5,Calibri,11.0,359.2,330.9,517.9,341.9,the new roadmap includes a target 
+27,7,6,Calibri,11.0,113.7,345.3,517.9,356.3,and trajectory for all these key performance indicators (KPIs) except edge nodes. Estonia 
+27,7,7,Calibri,11.0,113.7,359.8,518.0,370.9,has chosen to not set a target in this area because it is following a market-driven approach. 
+27,7,8,Calibri,11.0,113.7,374.3,517.7,385.4,Estonia has aligned the level of ambition of the target for digital skills of at least a basic 
+27,7,9,Calibri,11.0,113.7,388.8,450.1,399.9,level with the EU target (80%) and has proposed a trajectory for this target.
+27,7,9,Calibri-Italic,11.0,450.1,388.8,452.6,399.9, 
+27,7,10,SymbolMT,11.0,95.7,401.1,100.7,414.5,
+27,7,10,ArialMT,11.0,100.7,402.2,103.8,414.5, 
+27,7,11,Calibri-Italic,11.0,113.7,403.9,517.7,414.9,"Clearly present measures dedicated to VHCN coverage, FTTP coverage, 5G coverage, edge "
+27,7,12,Calibri-Italic,11.0,113.7,418.4,517.9,429.4,"nodes, SMEs with at least a basic level of digital intensity, cloud, AI, data analytics, unicorns, "
+27,7,13,Calibri-Italic,11.0,113.7,432.9,517.8,443.9,"ICT specialists, at least basic digital skills, digital public services for citizens, digital public "
+27,7,14,Calibri-Italic,11.0,113.7,447.3,517.8,458.4,"services for business, and access to health records considering the Digital decade objectives. "
+27,7,15,Calibri-Italic,11.0,113.7,461.8,518.0,472.9,"When presenting the measures in the roadmap provide a description of the measures, "
+27,7,16,Calibri-Italic,11.0,113.7,476.3,517.7,487.4,"describe its intended effects and results, state the budget of the measure differentiating "
+27,7,17,Calibri-Italic,11.0,113.7,490.9,276.9,501.9,"from public, EU and private funding: "
+27,7,17,Calibri,11.0,276.8,490.9,517.9,501.9,Estonia has presented its planned activities dedicated 
+27,7,18,Calibri,11.0,113.7,505.3,515.5,516.3,"to the KPIs mentioned above. However, these activities have not been presented as clear-"
+27,7,19,Calibri,11.0,113.7,519.8,517.8,530.8,"cut measures with budget, timeline and expected impact giving a better understanding of "
+27,7,20,Calibri,11.0,113.7,534.3,187.4,545.3,planned actions.
+27,7,20,Calibri-Italic,11.0,187.2,534.3,189.7,545.3, 
+27,8,0,SymbolMT,11.0,95.7,549.6,100.7,563.1,
+27,8,0,ArialMT,11.0,100.7,550.7,103.8,563.0, 
+27,8,1,Calibri-Italic,11.0,113.7,552.4,517.9,563.5,Consult stakeholders in the drafting of the roadmap. Report on the consideration of 
+27,8,2,Calibri-Italic,11.0,113.7,566.9,304.1,577.9,stakeholders' feedback in the roadmap: 
+27,8,2,Calibri,11.0,307.3,566.9,517.9,577.9,Estonia has consulted and reported on the 
+27,8,3,Calibri,11.0,113.7,581.4,517.8,592.4,stakeholders’ feedback process. Estonia initiated a review involving contributors from the 
+27,8,4,Calibri,11.0,113.7,595.9,517.8,606.9,"public and private sectors and civil society. Additionally, Estonia also conducted surveys, "
+27,8,5,Calibri,11.0,113.7,610.4,517.9,621.5,participated in networking forums and held workshops. The roadmap lacks information on 
+27,8,6,Calibri,11.0,113.7,624.8,366.4,635.9,how stakeholder feedback was taken into consideration. 
+27,9,0,Calibri,11.0,77.7,642.3,517.7,653.4,"Overall, Estonia presents a selected set of main policies and measures contributing to the "
+27,9,1,Calibri,11.0,77.7,656.9,517.9,667.9,achievement of some Digital Decade targets. The measures presented cover several types of 
+27,9,2,Calibri,11.0,77.7,671.4,517.7,682.4,"objectives: technological leadership, sovereignty, competitiveness and cybersecurity. It is not "
+27,9,3,Calibri,11.0,77.7,685.8,354.2,696.8,possible to determine the budget of the measures presented. 
+27,10,0,Calibri,11.0,72.0,718.1,74.5,729.1, 
+27,10,1,Calibri-Bold,26.0,216.1,706.8,221.9,732.8, 
+27,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+28,3,0,Calibri-Bold,26.0,72.0,79.4,481.5,105.4,Annex II – Factsheet on multi-country 
+28,3,1,Calibri-Bold,26.0,72.0,113.7,382.6,139.7,projects (MCPs) and funding 
+28,4,0,Calibri-Bold,11.0,77.7,153.4,267.5,164.4,Multi-country projects and best practices 
+28,4,0,Calibri-Bold,11.0,267.4,153.4,269.9,164.4, 
+28,5,0,Calibri,11.0,77.7,170.9,535.4,181.9,"Estonia is a member of the Local Digital Twins towards the CitiVERSE EDIC, is an observer to the Alliance "
+28,5,1,Calibri,11.0,77.7,185.4,538.0,196.5,for Language Technologies EDIC and is also working towards setting up an EDIC in the area of genomics.  
+28,5,2,Calibri,11.0,77.7,199.8,475.4,210.9,Estonia is a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+28,6,0,Calibri,11.0,77.7,217.3,535.3,228.4,Estonia has not yet presented any project in the framework of Digital Decade’s Best Practice 
+28,6,1,Calibri,11.0,77.7,231.9,128.9,242.9,Accelerator
+28,6,1,Calibri,7.0,128.8,231.0,132.3,237.9,6
+28,6,1,Calibri,11.0,132.3,231.9,142.6,242.9,.   
+28,7,0,Calibri,11.0,72.0,249.9,74.5,260.9, 
+28,8,0,Calibri-Bold,11.0,77.7,272.8,260.5,283.8,EU funding for digital policies in Estonia 
+28,9,0,Calibri,11.0,77.7,290.3,472.9,301.4,Estonia allocates 24% of its total recovery and resilience plan to digital (EUR 208 million)
+28,9,0,Calibri,7.0,473.1,289.4,476.7,296.4,7
+28,9,0,Calibri,11.0,476.6,290.3,535.5,301.4,". In addition, "
+28,9,1,Calibri,11.0,77.7,304.9,535.2,315.9,"under cohesion policy, EUR 373 million (representing 11% of the country’s total cohesion policy "
+28,9,2,Calibri,11.0,77.7,319.4,378.1,330.4,"funding), is dedicated to advancing Estonia’s digital transformation"
+28,9,2,Calibri,7.0,378.1,318.5,381.6,325.4,8
+28,9,2,Calibri,11.0,381.5,319.4,535.4,330.4,". According to JRC estimates, EUR "
+28,9,3,Calibri,11.0,77.7,333.8,535.2,344.8,541 million directly contribute to achieving Digital Decade targets (of which EUR 208 million comes 
+28,9,4,Calibri,11.0,77.7,348.3,364.0,359.3,from the RRF and EUR 333 million from cohesion policy funding)
+28,9,4,Calibri,7.0,364.0,347.4,367.6,354.3,9
+28,9,4,Calibri,11.0,367.5,348.3,372.8,359.3,. 
+28,10,0,Calibri,11.0,77.7,365.8,535.5,376.9,The RRF and Cohesion Funding provide balanced support across the different Digital Decade targets. In 
+28,10,1,Calibri,11.0,77.7,380.3,535.4,391.4,"particular, the Estonian Recovery and Resilience Plan (RRP) is making significant contributions to the "
+28,10,2,Calibri,11.0,77.7,394.7,535.3,405.8,targets related to the digitalisation of public services. The plan also includes important reforms and 
+28,10,3,Calibri,11.0,77.7,409.3,343.8,420.3,investments aimed at increasing gigabit network coverage.  
+28,11,0,Calibri,11.0,216.1,622.1,218.5,633.1, 
+28,11,1,Calibri,6.5,72.0,634.5,75.3,641.0,6
+28,11,1,Calibri,10.0,75.3,635.3,525.4,645.3, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and 
+28,11,2,Calibri,10.0,72.0,647.6,525.6,657.5,challenges encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are 
+28,11,3,Calibri,10.0,72.0,659.8,525.3,669.8,"made available to Member States via the BPA Repository and showcased in regular workshops, currently focused "
+28,11,4,Calibri,10.0,72.0,672.0,439.2,681.9,"on three thematic clusters: Digital Skills, Green IT, and the Uptake of Digital Technologies.   "
+28,11,5,Calibri,6.0,72.0,683.7,75.1,689.7,7
+28,11,5,Calibri,9.0,75.0,683.9,524.9,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+28,11,6,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+28,11,7,Calibri,6.0,72.0,705.6,75.1,711.6,8
+28,11,7,Calibri,9.0,75.0,705.9,523.2,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+28,11,8,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+28,11,9,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+28,11,10,Calibri,6.0,72.0,738.7,75.1,744.7,9
+28,11,10,Calibri,9.0,75.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+28,11,11,Calibri,9.0,72.0,749.8,525.4,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+28,11,12,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+28,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,149.5,49.4,Estonia 
+29,2,0,Calibri-Bold,26.0,72.0,79.6,490.4,105.6,Annex III – Digital Rights and Principles
+29,2,0,Calibri,17.0,490.5,77.4,507.8,94.4,10
+29,2,0,Calibri-Bold,26.0,507.8,79.6,513.7,105.6, 
+29,6,0,Calibri,11.0,72.0,317.0,89.5,328.0,       
+29,6,1,Calibri-Bold,11.0,72.0,328.4,252.4,339.4,Activity on Digital Rights and Principles 
+29,6,1,Calibri,11.0,252.5,328.4,293.2,339.4,(figure 1)
+29,6,1,Calibri-Bold,11.0,293.2,328.4,298.1,339.4,  
+29,7,0,Calibri-Bold,11.0,72.0,354.8,477.6,365.8,Estonia has shown rather limited activity in implementing digital rights and principles
+29,7,0,Calibri,11.0,477.9,354.8,480.7,365.8,","
+29,7,0,Calibri-Bold,11.0,480.6,354.8,483.1,365.8, 
+29,7,0,Calibri,11.0,484.7,354.8,525.9,365.8,with the 
+29,7,1,Calibri,11.0,72.0,369.0,389.5,380.1,overall number of initiatives of around a half or less of the EU average
+29,7,1,Calibri-Bold,11.0,389.7,369.0,392.2,380.1, 
+29,7,1,Calibri,11.0,392.6,369.0,525.8,380.1,(77). Estonia launched 6 new 
+29,7,2,Calibri,11.0,72.0,383.4,394.4,394.5,"initiatives in 2024, showing notable progress towards its commitments. "
+29,7,2,Calibri-Bold,11.0,395.0,383.4,525.8,394.5,Estonia is most active in the 
+29,7,3,Calibri-Bold,11.0,72.0,397.9,349.0,408.9,"area of A protected, safe and secure digital environment "
+29,7,3,Calibri,11.0,351.4,397.9,525.9,408.9,"(V). There is room for improvement, "
+29,7,4,Calibri,11.0,72.0,412.3,499.3,423.3,especially with regards to A fair digital environment (III) where less activity has been identified.  
+29,8,0,Calibri-Bold,11.0,72.0,434.6,227.8,445.6,Impact of Digital Rights Initiatives 
+29,8,0,Calibri,11.0,227.9,434.6,271.0,445.6,(figure 2) 
+29,9,0,Calibri,11.0,72.0,457.0,525.7,468.1,"Quantitative impact indicators, developed by the support study, illustrate the level of implementation "
+29,9,1,Calibri,11.0,72.0,471.4,525.8,482.5,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+29,9,2,Calibri,11.0,72.0,485.8,525.8,496.9,measures implemented by key stakeholders in Estonia (mainly national government) and how these 
+29,9,3,Calibri,11.0,72.0,500.1,189.0,511.1,are perceived by citizens.  
+29,10,0,Calibri,11.0,72.0,522.5,199.8,533.6,The indicators suggest that 
+29,10,0,Calibri-Bold,11.0,201.8,522.5,525.9,533.6,Estonia is most successful in implementing commitments related to 
+29,10,1,Calibri-Bold,11.0,72.0,536.9,159.9,548.0,Freedom of choice 
+29,10,1,Calibri,11.0,160.6,536.9,525.8,548.0,(III). Estonia should strengthen efforts in areas where the impact of digital rights 
+29,10,2,Calibri,11.0,72.0,551.3,465.7,562.4,"initiatives appears to be limited, notably on Participation in the digital public space (IV).  "
+29,11,0,Calibri,11.0,72.0,573.7,356.4,584.7,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+29,11,0,Calibri-Bold,11.0,357.1,573.7,525.9,584.7,45% of citizens in Estonia think that 
+29,11,1,Calibri-Bold,11.0,72.0,588.1,244.2,599.1,the EU protects their digital rights well
+29,11,1,Calibri,11.0,244.4,588.1,525.8,599.1, (a 3% increase since 2024). This is slightly above the EU average 
+29,11,2,Calibri,11.0,72.0,602.5,525.7,613.5,of 44%. Citizens are particularly confident about getting easy online access to all key public services in 
+29,11,3,Calibri,11.0,72.0,616.8,525.6,627.8,"the EU (68%, above the EU average of 58%). They are most worried that their right to a safe digital "
+29,11,4,Calibri,11.0,72.0,631.2,525.7,642.2,"environment and content for children and young people is not well protected (49%, above the EU "
+29,11,5,Calibri,11.0,72.0,645.6,151.1,656.6,average of 48%).  
+29,12,0,Calibri,11.0,72.0,669.9,74.5,681.0, 
+29,12,1,Calibri,11.0,72.0,684.5,74.5,695.5, 
+29,13,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+29,13,1,Calibri,6.0,72.0,749.6,78.1,755.6,10
+29,13,1,Calibri,9.0,78.0,749.8,525.1,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+29,13,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+29,13,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+29,13,2,Calibri,9.0,122.8,760.9,377.1,769.9,". For a more detailed country factsheet accompanying the study, click "
+29,13,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+29,13,2,Calibri,9.0,393.7,760.9,395.9,769.9,.
+29,13,2,Calibri,10.0,396.1,760.2,398.3,770.1, 
+29,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

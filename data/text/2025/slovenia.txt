@@ -1,0 +1,1449 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 25/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+      Slovenia  Slovenia
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 5
+
+     Connectivity infrastructure .............................................................................................................. 5
+
+    Semiconductors ............................................................................................................................... 7
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 8
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ......................................................................................... 9
+
+    Take-up of cloud/AI/data analytics ................................................................................................ 10
+
+     Unicorns, scale-ups and start-ups .................................................................................................. 12
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 13
+
+Protecting and empowering EU people and society ............................................................................. 15
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 15
+
+     Equipping people with digital skills ............................................................................................... 15
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 19
+
+  Building a safe and human centric digital environment and preserving our democracy ................... 21
+
+Leveraging digital transformation for a smart greening ....................................................................... 22
+
+Annex I – National roadmap analysis .................................................................................................... 24
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 26
+
+Annex III – Digital Rights and Principles ................................................................................................ 27  Slovenia
+
+Executive summary
+
+Slovenia can rely on a well-developed digital infrastructure but lags behind in digital skills. The
+country  is very active in several cutting-edge technology projects, particularly in quantum,
+semiconductors, cloud and Artificial Intelligence (AI). Slovenia shows a high level of ambition in its
+contribution to the Digital Decade having set 13 national targets, 100% of which are aligned with
+the EU 2030 targets.1 The country is following its trajectories moderately well with 63% of them
+being on track (considering 2024 trajectories defined for 8 KPIs out of 8 analysed). Slovenia
+addressed 82% of the 11 recommendations issued by the Commission in 2024 by making some
+changes through new measures.
+
+In 2024, 5G coverage increased considerably, including in rural areas. However, the country lags
+behind in basic digital skills and ICT specialists, which may also be one of the factors limiting the uptake
+of advanced technologies in SMEs. An exception is AI adoption by enterprises, which has recently
+shown considerable progress. Often in collaboration with other EU Member States, the country takes
+an active role in several pioneering technology projects, including those focused on quantum
+computing, semiconductors, cloud computing and AI.
+
+
+                                                                                                                                                     Digital Decade
+                                                                          Slovenia                        EU
+                                                                                                                                        target by 2030
+
+                                                                                         National Digital Decade KPI (1)               2024DESI      2025DESI      Annual                                                                                                         Annual
+                                                                                                 trajectory    DESI 2025                       SI      EU
+                                                          (year       (year     progress                              progress
+                                                                               2024 (4)
+                                                     2023)      2024)
+
+  Fixed Very High Capacity Network (VHCN) coverage     78.5%     79.6%      1.5%       80.0%       82.5%       4.9%     100.0%   100%
+
+  Fibre to the Premises (FTTP) coverage                 78.5%     79.6%      1.5%       82.0%       69.2%       8.4%     100.0%         -
+
+  Overall 5G coverage                               82.1%     96.7%      17.8%      74.0%       94.3%       5.9%     100.0%   100%
+
+  Edge Nodes (estimate) (2)                            8        16      100.0%            -         2257       90.5%            -      10000
+
+ SMEs with at least a basic level of digital intensity
+                                                                                    -       67.6%      0.4%              -         72.9%       2.8%      90.0%    90%
+  (3)
+
+  Cloud                                            36.0%            -                -                 -                  -                  -        75.0%    75%
+
+  Artificial Intelligence                               11.4%     20.9%      83.7%      33.0%       13.5%      67.2%      75.0%    75%
+
+  Data analytics                                     19.1%            -                -                 -                  -                  -        75.0%    75%
+
+  AI or Cloud or Data analytics                        44.7%            -                -                 -                  -                  -                -      75%
+
+  Unicorns                                          0         0                                  -          286        4.4%        7       500
+
+  At least basic digital skills                           46.7%            -                -                 -                  -                  -        80.0%    80%
+
+  ICT specialists                                     3.8%      4.3%      13.2%       6.0%        5.0%        4.2%      10.0%    ~10%
+
+  eID scheme notification                                           Yes
+
+
+  Digital public services for citizens                        77.0       78.6       2.0%        76.0         82.3        3.6%       100.0     100
+
+
+  Digital public services for businesses                     84.0       85.0       1.2%        90.0         86.2        0.9%       100.0     100
+
+  Access to e-Health records                              87.6       87.5       -0.1%        83.0         82.7        4.5%       100.0     100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) Slovenia aims to contribute to this target through the deployment of edge nodes by 200 companies.
+  (3) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+  calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+  (4) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+
+
+
+
+1 While the KPI on edge nodes measures the number of edge nodes deployed, Slovenia intends to contribute to the target of
+10 000 edge nodes with 200 companies deploying edge nodes.
+
+                                        1  Slovenia
+
+
+
+According to the special Eurobarometer on ‘the Digital Decade’ 2025, 78% of Slovenian citizens
+consider that the digitalisation of daily public and private services  is making their lives easier.
+Concerning the action of the public authorities, 90% consider it important to counter and mitigate the
+issue of fake news and disinformation online, and regarding competitiveness, 82% consider  it
+important to ensure that European companies can grow and become “European Champions” able to
+compete globally.
+
+A competitive, sovereign, and resilient EU based on technological
+leadership
+
+The fibre to the premises coverage is relatively high in Slovenia and very high capacity network
+coverage is gradually increasing, although some rural gaps remain. The country is taking action to
+reduce these gaps. 5G coverage increased significantly, including in rural areas, and fibre-to-the-
+premises coverage remains strong. The country is actively advancing strategic technologies such as
+quantum computing, semiconductors, cloud computing and AI. To strengthen its ecosystem and
+capacities, it is establishing Competence Centres for semiconductors and AI, and will host an AI Factory
+featuring a supercomputer. With the exception of the businesses’ uptake of AI, where Slovenia has
+made significant progress recently, the uptake of more accessible digital technologies that could
+enhance competitiveness on a larger scale for SMEs is relatively low. This limitation may partly stem
+from a shortage of sufficiently skilled employees. For the start-up sector, initial steps are being taken
+to enhance framework conditions, such as through legislative changes. However, several initiatives
+are still under development, and venture capital expenditure and funding via capital markets remain
+relatively low. Slovenia is developing cyber awareness and capabilities across multiple areas, including
+securing infrastructure and providing trainings in the public sector, safeguarding healthcare systems
+and launching pilot training programmes within the education system.
+
+Protecting and empowering EU people and society
+
+Slovenia lags behind in digital skills. Its population has a relatively low level of basic digital skills.
+Despite ongoing efforts to improve basic digital skills across various demographic groups, it remains
+to be seen whether these initiatives will effectively bridge the significant gaps. The current education
+reform presents an opportunity to integrate digital skills into the curriculum, which will be crucial in
+addressing this issue. Although Slovenia has made good progress in increasing its proportion of ICT
+specialists within the workforce, it still lags behind the EU average. The relatively low share of ICT
+specialists may be one of the factors limiting businesses’ adoption of advanced digital technologies.
+While training programmes for acquiring advanced digital skills in specific technologies are available,
+they appear to be insufficient to meet the demand for ICT specialists. Additionally, despite Slovenia’s
+efforts in anticipating future job market trends and the demand for ICT specialists, addressing these
+dynamic needs remains challenging. In this regard, integrating digital skills into the ongoing higher
+education reform will be crucial. The availability of digital public services in Slovenia is a bit less
+widespread than in the EU, especially when it comes to cross-border services. However, their uptake
+is higher than the EU average. Slovenia plans to enhance the digital transformation of public
+authorities, in particular on data access and on municipality level. Furthermore, the country is
+preparing the Digital Healthcare Act, a major project that aims to drive digital transformation in the
+healthcare sector.
+
+
+
+
+
+                                        2  Slovenia
+
+
+Leveraging digital transformation for a smart greening
+
+Slovenia is taking steps to support the green transition through digital technologies, building on its
+existing measures and introducing new ones as part of its adjusted roadmap. Initiatives range from
+modernising green public procurement and creating digital twins to establishing circular and digital
+business models. However, current efforts still appear to be fragmented and there does not yet seem
+to be a systematic approach to fully leverage their potential together.
+
+National Digital Decade strategic roadmap
+
+Following a public consultation, Slovenia submitted a fully revised national Digital Decade roadmap
+on 31 January 20252. This document will also serve as the Action Plan for the Digital Slovenia 2030
+strategy, which was adopted in 2023. The roadmap contains some new or changed measures
+compared to the initial roadmap submission in 2023 and maintains its ambitious national target
+values. However, several measures have been removed from the adjusted roadmap, especially those
+linked to Digital Decade objectives and  all measures linked to start-ups. The revised roadmap
+addresses a limited number of the roadmap recommendations issued in 2024. All national target
+values were kept in line with the EU’s 2030 ambition level and the additional target on e-ID uptake,
+the quantitative estimates on how Slovenia will contribute to the semiconductor and the edge nodes
+targets were maintained. The update is composed of 81 measures with a budget of EUR 685 million,
+which represents 1.02% of Slovenia’s GDP. While it brings some new impulses in line with the new
+Commission’s priorities in areas like green ICT, AI and semiconductors, the update does not sufficiently
+address the country’s challenges and is not fully aligned with its very ambitious national targets,
+especially in the areas of basic and advanced digital skills and digitalisation of businesses.
+
+Funding & projects for digital
+
+Slovenia allocates 20% of its total recovery and resilience plan to digital (EUR 513 million)3. In addition,
+under cohesion policy, EUR 287 million, representing 9% of the country’s total cohesion policy funding,
+is dedicated to advancing Slovenia’s digital transformation4.
+
+Slovenia is a member of the three established EDICs; the Alliance for Language Technologies EDIC, the
+Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC on blockchain. Slovenian
+entities are indirect and/or associated partners in the IPCEI on Microelectronics and Communication
+Technologies (IPCEI-ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services
+(IPCEI-CIS).5 Slovenia is also a participating state in the EuroHPC Joint Undertaking (JU) and in the Chips
+JU.
+
+
+
+
+
+2 Government approval pending due to some changes linked to the Digital Slovenia 2030 Action Plan. For the purpose of the
+Digital Decade Policy Programme, the content of the roadmap submitted on 31 January 2025 can be considered final.
+Corrigendum to Digital Decade Country Report Slovenia 2024: The initial national roadmap was adopted by the Slovenian
+Government in December 2023, before its publication and submission to the European Commission.
+3 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+4 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the
+Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+5 Corrigendum to Digital Decade Country Report Slovenia 2024: Slovenian entities are indirect partners in the Important
+Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS).
+
+                                        3  Slovenia
+
+
+
+Slovenia leads the Digital Skills cluster of the Best Practice Accelerator6. In this context, it led the
+organisation of five workshops and shared four Slovenian best practices on digi info points, an adult
+digital literacy program, mobile heroes (for older people) and digital training for children and young
+people).
+
+Digital Rights and Principles
+
+According to a support study, Slovenia has shown rather limited activity in implementing the European
+Declaration on Digital Rights and Principles, with 38 initiatives overall and 3 new initiatives launched
+in 2024. Slovenia is most active in the area of Solidarity and inclusion. Less activity has been identified
+with regards to privacy and individual control over data. Measures in the area of putting people at the
+centre of the digital transformation appear to have most impact on the ground, in contrast to those
+addressing participation in the digital public space.
+
+ Recommendations
+  -  ICT specialists: Improve the early identification of labour market needs and address them
+     accordingly through training offers and with the help of the higher education reform.
+  -  Basic digital skills: Increase and intensify education and training offers and integrate digital skills
+     into the education curricula from an early age.
+  -  SME take up: Provide continuous support to SMEs and create enabling framework conditions for
+     their uptake of digital technologies.
+  -  Advanced technologies: Quickly implement measures to increase the uptake of advanced
+    technologies by businesses, with a focus on SMEs.
+  -  Cybersecurity: Sustain and enhance activities to increase cybersecurity in the sectors of public
+     services and education and introduce these with activities to support businesses.
+  -  Unicorns/startups: Quickly implement measures to improve framework conditions and access to
+    funding for start-ups.
+  -  Green: Enhance digital technologies to support the green transition, in particular by addressing the
+     interaction between green and digital initiatives in a more systematic manner.
+
+
+
+
+
+6 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+
+                                        4  Slovenia
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Slovenia lags behind the EU in innovation performance, particularly in areas such as business’
+investment in innovation7. Surveys suggest that this  is related to the lack of skilled labour8.
+Furthermore, companies invest a high share of their capital in machinery (54% compared to 48% in
+the EU) and relatively less in areas like employee training, ICT and R&D9. The ICT sector in Slovenia is
+among the smallest in the EU (accounting for 4.3% of GDP, compared with an EU average of 5.5%).10
+Moreover, expenditure on R&D and the share of R&D personnel in the ICT sector are the lowest in the
+EU (9.3% of total R&D expenditure and 15.1% of total R&D personnel).
+
+While the country is very active in several cutting-edge technology projects, the adoption of digital
+technologies by SMEs remains limited. Slovenia is contributing to the development of advanced
+technologies  in  several projects  (e.g. on quantum, semiconductors, cloud and  AI), often  in
+collaboration with other EU Member States. Slovenia has included two projects in its adjusted
+roadmap that are intended to enhance cooperation and knowledge transfer between businesses,
+research organisations and other stakeholders (‘Establishment of RDI junction’ and ‘Support for
+strategic development innovation partnerships’). Such initiatives are important, considering that the
+broader adoption of more accessible digital technologies, which could enhance competitiveness on a
+larger scale for SMEs, is comparatively limited. This limitation may partly stem from a shortage of
+sufficiently skilled employees. An exception is the AI adoption by enterprises, which has recently
+shown considerable progress. For the start-up sector, initial steps are about to be taken to improve
+framework conditions (e.g. legislative changes), but several initiatives are still in development, and
+venture capital expenditure and funding from capital markets remain low. According to the 2025
+Eurobarometer11, 86% of Slovenians think that building efficient and secure digital infrastructures and
+data processing facilities should be a priority for the public authorities.
+
+Slovenia’s digital infrastructure is well-developed, although some gaps in rural connectivity still
+remain. Recent improvements have led to a significant increase in 5G coverage, including in rural areas.
+
+Building technological leadership: digital infrastructure and technologies
+
+Connectivity infrastructure
+Slovenia’s Very High Capacity Network (VHCN) coverage stood at 79.65% in 2024 (2030 national
+target 100%) after an increase of 1.5% and remained below the EU average of 82.49% (growth rate
+of 4.9%). The country is on track according to its national trajectory. For households in sparsely
+populated areas, Slovenia’s VHCN coverage was 58.58%, below the EU’s 61.89%. The coverage growth
+rate of 3.1% for these households was significantly lower than the EU’s 11.3%. For broadband take-up,
+Slovenia’s share of fixed broadband subscriptions at 1 Gbps or higher was 10.89% in 2024, below the
+EU’’s 22.25%. The growth rate for this indicator in Slovenia was 14.9%, lower than the EU’’s 20.5%.
+
+
+
+7 See European Innovation Scoreboard 2024, European innovation scoreboard - European Commission.
+8 See European Investment Bank Investment Survey 2023, EIB Investment Survey 2023: European Union overview.
+9 See European Investment Bank Investment Survey 2023, EIB Investment Survey 2023: European Union overview.
+10 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note
+accompanying the State of the Digital Decade report 2025.
+11 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5  Slovenia
+
+
+
+Slovenia was at 79.65% Fibre to the Premises (FTTP) coverage (2030 national target 100%) following
+an increase of 1.5% in 2024 and stood above the EU average of 69.24% (growth rate of 8.4%)12. The
+country is on track according to its national trajectory. For households in sparsely populated areas,
+Slovenia’s FTTP coverage was 58.58% in 2024 in line with the EU average of 58.78%. The growth rate
+of 3.1% was lower than the EU’’s 11.9%.
+
+Slovenia’s 5G coverage reached 96.72% after a significantly faster increase than the EU in 2024
+(17.8% vs 6.0%) and stood above the EU’’s 94.35%. The country is on track according to its national
+trajectory. For households in sparsely populated areas, Slovenia’s 5G coverage was at 87.65% in 2024,
+exceeding the EU’s 79.57%. The growth rate of 92.4% was substantially higher than the EU’s 11.9%,
+which also reflects Slovenia’s low starting point. Slovenia’s 5G coverage in the 3.4 -3.8 GHz band was
+at 92.85%, compared to the EU’s 67.72%. The growth rate of 36.3% was again higher than the EU’s
+32.6%. For households in sparsely populated areas, Slovenia’s 5G coverage in the 3.4 -3.8 GHz band
+was 75.77% after a considerable increase of 239.2%, significantly higher than the EU’s coverage of
+26.19%. Furthermore, Slovenia has  fully assigned 100.0% of  its 5G pioneer bands spectrum,
+outperforming the EU’s 74.63%. Yet, the 5G uptake remains low compared to the high 5G coverage
+throughout the country. The number of 5G SIM cards expressed as the share of the population was
+30.97%, below the EU average of 35.56%.
+
+VHCN and FTTP
+
+Slovenia’s VHCN and FTTP targets remain at 100% in its adjusted roadmap. However, this may be a
+challenge in rural areas, where low connectivity has been a persistent issue, related to the country’s
+topography. Almost all gigabit connectivity measures in the initial Slovenian roadmap were already
+focused on this challenge. But in the roadmap adjustment, some initiatives have been reduced in
+budget and no new initiatives have been introduced.
+
+A key initiative for enhancing connectivity in rural areas was the launch of a public tender in summer
+2024 to co-finance the construction or upgrade of high-capacity fixed broadband networks. This
+tender is part of an investment under the Slovenian Recovery and Resilience Plan (RRP) and will be
+completed by a second public tender, scheduled to be launched before this summer. Together, the
+tenders are expected to bring gigabit connectivity to more than 6800 additional households in white
+areas (i.e. areas with limited or no high-speed internet access). Given that connecting the remaining
+rural households will become increasingly more expensive, AKOS, the national regulatory authority for
+telecommunications, is collaborating with the Ministry of Digital Transformation to develop a tool for
+assessing the costs of building gigabit infrastructure in Slovenia. The aim is to propose various
+connection scenarios and identifying the most cost-effective solution by locating the closest manhole,
+which serves as an access point for digital infrastructure, thereby minimising the distance to be
+covered to set up additional connections. Additionally, again in the context of its RRP, Slovenia has
+taken steps to improve connectivity in the education sector, specifically providing high-speed internet
+access to educational institutions and ensuring that public research institutes are connected to each
+other with very high-speed connectivity.
+
+Moreover, AKOS is laying the groundwork to future-proof Slovenia’s connectivity networks. For
+example, AKOS has begun preparations for the country’s copper switch off. A proposal for a ‘Strategy
+of regulatory measures to accelerate the copper switch off’ is currently under public consultation.
+Additionally, following the floods in 2023, AKOS has launched a project to build a resilient network that
+
+
+12 The VHCN coverage is defined as the combination of FTTP and DOCSIS 3.1 coverage. As Slovenia has not upgraded its
+DOCSIS 3.0 infrastructure to DOCSIS 3.1, the VHCN coverage equals the FTTP coverage.
+
+                                        6  Slovenia
+
+
+
+will cover approximately 95% of Slovenian households, ensuring the availability of at least voice calls
+and critical communications in the event of a major outages caused by floods or other natural hazards.
+
+5G
+
+Slovenia’s 5G target remains at 100% in its adjusted roadmap. Given the significant recent progress
+and the measures outlined in the adjusted roadmap, this target is within reach. In addition to the
+measures already included, such as spectrum management and co-financing open base stations (i.e.
+open passive 5G mobile networks), Slovenia has added a new initiative, which will co-finance open
+base stations in flood-affected areas, with EUR 4.2 million allocated from the national reconstruction
+fund. The first tender has been launched, and a second one will follow soon. These efforts are expected
+to further boost Slovenia’s already high level of 5G coverage.
+
+With the 5G pioneer bands spectrum  fully assigned, Slovenia  is now preparing for future
+technological advancements as part of its radio spectrum development strategy 2024-2026. This
+strategy will also support businesses in maximising the benefits of 5G. According to AKOS, companies,
+municipalities and the operator who acquired spectrum for private 5G networks, have begun using
+their allocated spectrum, focusing on industrial automation, IoT applications and public safety
+projects. A separate auction for 700 MHz bands, intended for machine-to-machine communication
+networks, failed to attract any bids and was subsequently cancelled. As part of the radio spectrum
+development strategy, AKOS  will also be harmonising the methodology for implementing 5G
+standalone networks in 2025.
+
+ 2024 recommendation on connectivity infrastructure: (i) Continue and supplement measures to
+ tackle 5G connectivity challenges, especially in rural areas.  (ii) Ensure sufficient access of new
+ players to spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C)
+ applications and encourage operators to speed up the deployment of 5G standalone core networks.
+
+  (i) Slovenia made some efforts to address the recommendation through new policy actions in
+ 2024. 5G coverage, including in rural areas, increased significantly (by 14.6 percentage points (pp)
+ overall and 42.1 pp in rural areas). Besides continuing the implementation of existing measures to
+ prepare for future advancements of the 5G technology, a new measure was introduced in the
+ adjusted roadmap. This measure will co-finance open passive 5G mobile networks in flood-affected
+ areas, further enhancing Slovenia’s 5G coverage.
+
+  (ii) Slovenia made some efforts to address the recommendation through new policy actions in
+ 2024. Slovenia auctioned spectrum for private 5G networks, reporting that the successful bidders
+ begin to use their allocated spectrum. Additionally, an auction for spectrum on machine-to-machine
+ communication was initiated (but did not attract any bids).
+
+
+Semiconductors
+
+In its adjusted roadmap, Slovenia maintains its commitment to contribute to the semiconductor
+target, projecting that 10 R&D companies with a focus on semiconductors and 25 manufacturing
+companies will be involved. The country currently reports having two R&D enterprises and eight active
+manufacturing companies in the semiconductor sector (as well identical to its initial roadmap).
+
+Slovenia continues to take action to develop its semiconductor ecosystem. The adjusted roadmap
+maintains key initiatives (see below) and has added a new initiative on providing a supportive
+environment for semiconductors. This new measure aims to create a supportive framework for R&D&I
+efforts and chips prototyping. Under the Slovenian RRP, two Slovenian companies continue to be
+
+
+                                        7  Slovenia
+
+
+
+involved as indirect or associated partners in the IPCEI on Microelectronics and Communication
+Technologies. The country also reported that it has started to collaborate with direct partners of this
+IPCEI.
+
+After a considerable preparatory phase, a draft of the Semiconductor Strategy was published in July
+2024 and publicly consulted afterwards. The draft strategy includes three major actions: the
+establishment of the Chips.si Competence Centre and the Centre of Excellence for Chips and
+Semiconductor Technologies as well as activities for strengthening the existing capacities in the
+semiconductor ecosystem. The Chips.si Competence Centre has been operational since April 2025 and
+is expected to begin providing access to technical expertise and experimentation to support
+companies, especially SMEs, in developing relevant design capabilities and skills. Chips.si is among the
+centres selected by the EU Commission to collaborate in a European network of semiconductor
+competence centres, aiming to strengthen the European semiconductor industry and to address the
+needs of local ecosystems in the broader context of the European Chips Act. Furthermore, Slovenia is
+reinforcing  its innovation environment with strategic research and development  in electronic
+components and systems.
+
+ 2024 recommendation on semiconductors: Sustain activities on semiconductors and quickly
+ implement them on the ground.
+
+ Slovenia made some efforts to address the recommendation through new policy actions in 2024.
+ Slovenia continues to take action to develop its semiconductor ecosystem and some acceleration
+ can be perceived. Moreover, the roadmap adjustment introduces new impulses.
+
+
+Edge nodes
+According to the Edge Node Observatory, Slovenia is estimated to have deployed a total of 16 edge
+nodes by 2024, an increase of 100% since 2023. In its adjusted roadmap, Slovenia maintains its
+ambition to contribute to this target through the deployment of edge nodes by 200 companies. The
+country reports having approximately 20 companies, in particular telecommunication companies,
+working on the deployment of edge nodes (identical to its initial roadmap).
+
+Slovenia’s main activity in this area remains that Slovenian entities are indirect partners in the IPCEI
+on Next Generation Cloud Infrastructure and Services. The multi-country project will support the
+development of software and data processing capabilities for the exploitation of edge nodes. One of
+the  recently launched  projects which  is part of  this  initiative involves the development of
+decentralised, edge-based data storage (see cloud section for more details).
+
+Quantum technologies
+Slovenia continues to engage in EU-level initiatives and to develop a national framework for
+quantum technologies, although most of these activities are not reflected in its adjusted roadmap.
+Given the early stage of development for quantum technologies, Slovenia’s efforts are currently
+focused on basic technology research and exploring proof of concept schemes to assess technical
+feasibility in the near future.
+
+The successful bid for the AI Factory, including a new supercomputer, underpinned Slovenia’s well-
+developed infrastructure and expertise in this field (see AI section for more details). The project
+exemplifies  Slovenia’s  contribution  to  several EU  initiatives.  Additionally,  after an  extensive
+preparatory phase, the national quantum strategy is expected to be published by September 2025.
+The strategy was developed through a participatory process involving stakeholders at various stages.
+
+
+                                        8  Slovenia
+
+
+
+The strategy will focus on research and innovation, talent development, quantum infrastructure and
+industrialisation. According to the Government Information Security Office, the country is in the
+process of connecting several government bodies across six locations through a quantum key
+distribution network as part of the Slovenian Quantum Communication Infrastructure Demonstration
+(SiQUID) project which is part of the Slovenian RRP.
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+SMEs with at least basic digital intensity
+In Slovenia 67.63% of SMEs had at least a basic level of digital intensity in 2024 (2030 national target
+90%), after a limited growth of 0.4% compared to 202213 and the country stands below the EU
+average (72.91% and growth rate of 2.8%). Nonetheless, among all SMEs, 31.78% achieved high or
+very high digital intensity, close to the EU average of 32.66%. The data on the adoption of AI/cloud/data
+analytics by enterprises across all sizes also indicate relatively low take-up among SMEs (see more
+details in dedicated section). While Slovenian SMEs lag in these areas, its large enterprises outperform
+the EU average, with the exception of AI.
+
+Slovenia still aims to reach the 90% target for SMEs with basic digital intensity in its adjusted
+roadmap. However, given the current adoption levels and growth trends in Slovenia, additional
+measures may be needed to meet these targets. No new measures have been added and a few
+measures targeted specifically to SMEs have been removed from the adjusted roadmap, though they
+are still being implemented. For example, after a pause, the Slovene Enterprise voucher system to
+support SMEs in digitalising products or services will be relaunched with a focus on cybersecurity and
+some other specific topics, including AI. Slovenia reported that for some topics, the relaunch is already
+ongoing. Furthermore, Slovenia continues to support the uptake of digital technologies in SMEs with
+two European Digital Innovation Hubs, the Digital Emergency Response for Slovenia (EDIH DIGI-SI) and
+the Smart, Resilient and Sustainable Communities - European Digital Innovation Hub (SRC EDIH) as well
+as projects to support SMEs’ investments in (in)tangible assets (‘incentives for digital transformation’)
+and  in the twin  transition  (‘circular and  digital  business  models’). However,  following the
+implementation of the RRP measure ‘Industrial/business digital transformation programme’ (see
+details in take-up of cloud/AI/data analytics section), it seems important for Slovenia to transfer and
+maximise the impacts of this measure, as there are currently no plans for new comparable projects in
+terms of size and scope.
+
+ 2024 recommendation on digitalisation of SMEs: Accelerate policies to increase the uptake of
+ digital  technologies  by  SMEs.  In  particular  by  quickly  implementing,  maintaining  and
+ complementing the efforts to provide supportive framework conditions, including a highly skilled
+ workforce, in a continuous manner and by paying particular attention to the specificities of
+ industries.
+
+ In 2024, Slovenia continued the implementation of existing measures but did not take any new
+ measure. Apart from moving forward with the RRP consortia project on digital transformation for
+ SMEs and large companies, which is a key measure in this area, Slovenia did not report any
+ significant progress on other measures and no substantial new measures have been reported.
+
+
+
+
+
+13 2022 is the last comparable year that used a similar methodology for measuring the digital intensity of enterprises.
+
+                                        9  Slovenia
+
+
+
+Take-up of cloud/AI/data analytics
+
+
+
+
+
+In 2024, 20.89% enterprises in Slovenia adopted AI (2030 national target is 75%), following an
+increase of 83.73%, considerably outpacing the EU average of 13.48%. However, the country is
+lagging behind compared to its national trajectory. Among SMEs, the uptake rate was 19.81%, while
+large enterprises showed a significantly higher rate of 59.7%. This corresponds to a gap of 39.89
+percentage points between SMEs and large enterprises, which considerably exceeds the EU gap of
+28.53 percentage points.
+
+In 2023, cloud uptake in Slovenia reached 36% (2030 national target is 75%), slightly below the EU-
+level uptake of 38.97%. However, SMEs exhibited a 34.9% uptake, while large enterprises adopted
+cloud services at a much higher rate of 74.89%. This resulted in a gap of 39.99 percentage points in
+uptake between SMEs and large enterprises in Slovenia, which was higher than the EU-level gap of
+31.68.
+
+Similarly in 2023, 19.06% of enterprises utilised data analytics in Slovenia (2030 national target is
+75%), falling short of the EU average of 33.25%. However, SMEs had a lower uptake at 17.54%, while
+72.77% of large enterprises engaged in these activities. This led to a notable gap of 55.23 percentage
+points between SMEs and large enterprises, which exceeded the EU gap of 39.72 percentage points.
+
+When taking the three technologies together, 44.71% of enterprises in Slovenia engaged with either
+AI, cloud or data analytics, which was considerably below the EU average (54.7%) in 2023. The uptake
+among SMEs was slightly lower at 43.41%, while large enterprises had a higher engagement rate of
+91.06%. This indicates a percentage point difference of 47.65 in uptake between SMEs and large
+enterprises in Slovenia, which was again higher than the EU-level gap of 32.97.
+
+In its adjusted roadmap, Slovenia still targets a 75% adoption rate for each of the three technologies
+in enterprises by 2030. Meanwhile, the EU target is for at least one of the three technologies to be
+used by 75% of enterprises. However, given the current adoption levels and growth trends in Slovenia,
+additional measures may be needed to meet these targets. While the adjusted roadmap maintained a
+few measures to promote the broader uptake of advanced technologies, which can also contribute to
+increase the basic digital intensity of SMEs, Slovenia remains particularly focused on the development
+and uptake of AI.
+
+In February 2025, Slovenia reported the implementation of the ‘Industrial/business  digital
+transformation programme’, a key measure for promoting  digital innovation and advanced
+technologies in businesses. This RRP measure, also part of the adjusted roadmap, supported 23
+consortia, comprising 42 large companies and 84 SMEs. Funded projects focused on areas previously
+identified as relevant to the digital transformation, e.g., to introduce AI to decision-making and
+
+
+                                       10  Slovenia
+
+
+
+planning processes. This initiative is expected to have contributed to bridging the gap between SMEs
+and large enterprises in the uptake of advanced technologies, while also positively impacting the value
+chains of the participating companies.
+
+      Cloud
+
+The key action to increase the uptake of cloud computing services remains that Slovenian entities
+are indirect partners in the IPCEI on Next Generation Cloud Infrastructure and Services14. In the
+context of this RRP-funded project Slovenia launched ‘SIChain EIPS’. This project focuses on developing
+blockchain infrastructure and decentralised, edge-based data storage, with the goal of integrating it
+into a common European data and services infrastructure. The project aims to enhance the
+interoperability and security of European data and services infrastructure, potentially boosting cloud
+service  adoption by  businesses,  while  also  contributing  to  the development  of  integrated
+infrastructure that links cloud computing with other advanced technologies. Slovenia reported that
+Slovenian companies collaborate with direct partners of this IPCEI, in particular in the field of digital
+infrastructures and platforms, including through use cases focused on establishing different types of
+cloud infrastructure and services networks.
+
+      Data Analytics
+
+There is not specific update to report beyond what is already included in other sections.
+
+       Artificial Intelligence
+
+AI continues to be a central priority for Slovenia in advanced technologies. With the successful bid
+to host an ‘AI Factory‘ and the launch of the ‘Machine Learning for Science and Humanities – SMASH’
+project, the country is poised to contribute to the further development of AI. The AI Factory will
+primarily provide AI tools and computing power to support businesses and the public sector. More
+concretely, building on the achievements of the Vega supercomputer, a new supercomputing
+infrastructure is expected to boost research and industrial use of advanced technologies like AI (e.g.
+for climate change prediction) and accelerated process simulation in areas like manufacturing. The
+project SMASH aims to enhance the use of machine learning in research, fostering the development
+of new scientific methods and strengthening research infrastructure.
+
+Moreover, the implementation of other measures is gaining momentum. After a considerable
+preparatory and scoping phase starting in 2023, the first call for tender for the AI Competence Centre
+with a budget of EUR 3.6 million will be published in 2025. The Competence Centre’s activities will
+cover a broad range of areas, including supporting AI skills, facilitating AI adoption by businesses, and
+creating an AI ecosystem and international cooperation. In alignment with the Digital Decade target,
+the Centre will focus on helping businesses embrace and develop AI through training, consultancy
+services and practical information on the use of AI tools. Stakeholders appear to agree on scope and
+aim of the Centre. Additional calls for tenders will follow in subsequent years.
+
+The 2025 Eurobarometer shows that 80% of Slovenians think that public authorities should prioritise
+shaping the development of Artificial Intelligence and other digital technologies to ensure that they
+respect our rights and values.
+
+The adjusted roadmap introduces a new initiative focused on ‘Support for low-value AI applied
+projects’, while removing a previously planned measures on support for vocational training
+
+
+
+14 Corrigendum to Digital Decade Country Report Slovenia 2024: Slovenian entities are indirect partners in the Important
+Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS).
+
+                                       11  Slovenia
+
+
+
+programmes. Trainings for employees will instead be delivered through the AI Competence Centre.
+With EUR 6.4 million, Slovenia aims to assist around 70 companies in developing AI-based solutions,
+from initial testing to full commercial deployment. This initiative is expected to expand the availability
+of AI solutions and increase AI capabilities within funded companies, thereby indirectly boosting AI
+adoption across the broader business landscape.
+
+ 2024 recommendations on advanced technologies: Accelerate policies to increase and speed up
+ the uptake of advanced technologies. In particular by stepping up actions on data analytics, and by
+ speeding up and further targeting preparation and implementation of measures on AI.
+
+ Slovenia made some efforts to address the recommendation through new policy actions in 2024.
+ Slovenia is implementing projects to increase the adoption of advanced technologies, with a strong
+ emphasis on AI and new activities are planned, including in the adjusted roadmap.
+
+
+Unicorns, scale-ups and start-ups
+Slovenia is one of the six EU Member States without a unicorn company15 and there is also no
+potential future unicorn in the country16. In its adjusted roadmap, Slovenia maintains its very
+ambitious goal of seven unicorns by 2030. Given the current situation in Slovenia, additional measures
+may be needed to meet this target.
+
+Slovenia continues to take action to improve access to funding and framework conditions for start-
+ups, although these initiatives are no longer part of its adjusted roadmap. A key development is the
+start-up strategy currently under preparation. The draft strategy from May 2024 outlines several
+objectives closely linked to the Digital Decade target. To support the achievement of these objectives,
+the strategy proposes actions in five key areas: strengthening the supportive environment for start-
+ups, attracting global talent, developing the venture capital market, introducing employee stock option
+remuneration and creating a new legal business entity to simplify company creation and management.
+At the Slovenian Start-up event in January 2025, stakeholders emphasized the need for the swift
+finalisation and implementation of the strategy, alongside strong support and collaboration across
+ministries.
+
+In terms of framework conditions, the Foreigners’ Act and the Employment, Self-employment and
+Work of Foreigners Act have been amended to streamline the procedures for employing foreign
+workers. Closely aligned with the draft start-up strategy, additional legislative changes are being
+developed, including introducing new legal entities and of employee stock option remuneration. These
+changes are expected to be implemented later in 2025.
+
+On access to funding, venture capital expenditure remains low and Slovenian businesses rely less on
+funding from capital markets than the EU. Venture capital amounts to only 0.005% of GDP in Slovenia,
+which is the second lowest in the EU. Shares and bonds only represented 7.4% of Slovenian non-
+financial corporations fundings sources (compared 23.8% in the EU). In this context, one key initiative
+is the Slovene Early Stage Innovation Fund, which will fund around 70 projects of innovative deep-tech
+start-ups and scale-ups with a budget of EUR 25 million (this measure was included in the initial
+roadmap with a total budget of EUR 125 million). The launch was already announced last year but is
+
+
+15 Based on data from Dealroom (extracted on 24.03.2025). A unicorn is a company that has been valued at over USD 1 billion
+in an initial public offering or trade sale or a company that has been valued at over USD 1 billion in its last private venture
+funding round. Only companies headquartered in the EU are considered. In its adjusted roadmap, Slovenia reports one
+unicorn, which was acquired in 2017 by a non-Slovene company.
+16 Based on data from Dealroom (extracted on 31.01.2025). A potential future unicorn is a company with a market valuation
+between USD 250 million and USD 999 million, headquartered in the EU.
+
+                                       12  Slovenia
+
+
+
+currently still being prepared. In the meantime, a call for proposals with a total budget of EUR 2.2
+million has been launched to fund the innovative start-ups in their development of minimum viable
+products and product launches.
+
+Strengthening Cybersecurity & Resilience
+
+In Slovenia, 56% of people have at least basic digital safety skills, well below the EU average of
+69.55%. Moreover, only 28.98% of individuals are engaged in three or more precautionary actions (and
+therefore could be considered as having above basic digital safety skills). The most frequent measure
+was refusal of the use of personal data for advertising purposes (34.21%), while limiting access to social
+media profiles and content was the least common (20.71%).
+
+Slovenian enterprises tend to experience fewer incidents
+related to cyberattacks and employees are less aware of
+their ICT security related obligations compared to the EU.
+The number of enterprises that experienced ICT security
+incidents leading to unavailability of ICT services due to
+attack from outside (e.g. Ransomware attacks, Denial of
+Service attacks) slightly increased in Slovenia, from 2.15%
+in 2022 to 2.58% in 2024. It remains below the EU average
+(3.43%). Furthermore, Slovenian enterprises are less prone
+to  incidents related to hardware or software  failures
+(8.13%) which is one of the lowest figures in the EU. In
+terms of security measures, the proportion of enterprises
+implementing them  is below the EU average (86.12%
+compared to 92.76%). Similarly, the share of enterprises
+that made their employees aware of their obligations in ICT
+security related issues is also lower than the EU average
+(55.08% vs 59.97%).
+
+Slovenia is significantly lagging behind in the adoption of
+the secure IPv6 protocol, both among end users and on
+the server side. In deploying secure internet standards, only 12% of end users in Slovenia have adopted
+Internet Protocol version 6 (IPv6), compared to the EU average of 36%. Similarly, for the internet
+services that can operate over IPv6, Slovenia stands at 4%, while the EU average is 17%. IPv6 is an
+important protocol as it ensures the scalability, stability, and security of the Internet. Its deployment
+has become increasingly urgent, as traditional IPv4 addresses have been exhausted for some time.
+Domain Name System Security Extensions (DNSSEC) is another important standard that introduces
+security features to DNS. In Slovenia, the DNSSEC validation rate is 65% in Q3 2024, much higher than
+the EU average of 47%.
+
+According to the Government Information Security Office, the transposition of the Network and
+Information Systems (NIS) 2 directive through the new Information Security Act  is close to
+finalisation. The NIS 2 directive seeks to strengthen cybersecurity in 18 critical sectors, including public
+electronic communications and manufacturing.  Industry  stakeholders expect  that, while the
+implementation may pose challenges for businesses – such as the need for specialised skills – it could
+also help drive the adoption of digital technologies in Slovenian businesses. The planned cybersecurity
+voucher (see SME with at least basic digital intensity section) may provide additional support to
+businesses in this regard.
+
+
+                                       13  Slovenia
+
+
+
+With increasing cyber threats, Slovenia develops cyber awareness and capabilities on several fronts.
+However, in its adjusted roadmap, Slovenia has maintained existing measures without introducing any
+new ones. For its public services, Slovenia is working on connecting several government bodies via a
+quantum key distribution network to secure their communications (see also quantum section) and is
+providing cybersecurity trainings to its civil servants. As part of the Digital Healthcare Act, which is still
+to be adopted, the digitalisation of healthcare infrastructure, including cybersecurity, will be managed
+by an independent agency that is still to be established. According to the Digital Decade Eurobarometer
+2025, 80% of Slovenians think that an improved cybersecurity, better protection of online data and
+safety of digital technologies would facilitate their daily use of digital technologies.
+
+In terms of integrating cybersecurity into education, Slovenia is creating a network to conduct
+cybersecurity trainings in schools. This initiative, maintained in its adjusted roadmap, started in
+summer 2024, with training for teachers set to continue in 2025. So far, 22 schools are involved, with
+plans to expand the network to a total of up to 80 schools. Additionally, a pilot project of cybersecurity
+training for girls has been launched, with around 80 girls trained so far.
+
+
+
+
+
+                                       14  Slovenia
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Slovenia lags behind in digital skills. Although its population has a relatively low level of basic digital
+skills, the disparities across gender, education level, living areas and age groups are less pronounced
+compared to the EU and the country is actively working to enhance digital inclusion. Despite making
+good progress in increasing its proportion of ICT specialists within the workforce, Slovenia still falls
+below the EU average. The relatively low share of ICT specialists may be one of the factors limiting the
+adoption of advanced digital technologies by businesses. For example, in 2023, 58.3% of companies
+expressed interest in adopting AI technologies, but refrained due to the lack of relevant skills17. In this
+context, it will be crucial to see how digital skills will be integrated into the ongoing higher education
+reform and the education curricula reform. The availability of digital public services is less widespread
+than in the EU, but their uptake is higher than on EU average. According to the Ministry of Public
+Administration, providing cross-border services remains challenging, but is expected to be improved
+with the implementation of the Single Digital Gateway. Moreover, the country intends to enhance the
+digital transformation of public authorities, in particular for data access and use and on municipality
+level. A relatively high share of Slovenians encounters hostile and degrading messages online and is
+exposed to misinformation, which they are less likely to verify compared to their EU peers. Despite
+leading in using the internet to express opinions on political issues online, Slovenians are the least
+likely to participate in online consultations or voting on political issues, such as signing a petition.
+
+Equipping people with digital skills
+Basic Digital Skills
+
+
+In 2023, Slovenia’s population with at least basic digital skills stood at 46.70% (2030 national target
+is 80%) after a decline of -3.0% compared to 202118, lagging behind the EU average of 55.56%. While
+there are no figures available for 2024, detailed breakdowns of the 2023 data provide a more granular
+perspective.
+
+
+
+
+
+17 IMAD Development Report 2024 (SURS, 2024b).
+18 The decrease could be explained by post-COVID-19 effects, with a decreased digital activity of the population, e.g., with
+less teleworking or online purchases. Looking at some indicators focused on one specific activity, e.g., use of cloud services,
+internet use, use of ICT at work and doing financial activities online, Slovenia mainly scores around the EU average.
+
+                                       15  Slovenia
+
+
+     •  Gender Gap: The gender disparity in Slovenia
+             is minimal, with 46.92% of men and 46.47% of
+      women having basic digital skills. This gap is
+          also  lower  than  the EU  average  (0.45
+        percentage points (pp) compared to 2.23 pp).
+     •   Education Level: Slovenia scores below the
+       EU average across all education levels, but the
+            skills gap between these levels is narrower
+        compared  to  the  EU  average.  Among
+          individuals with a high formal education,
+        68.69% have basic digital skills (EU average:
+         79.83%). The group with no or low formal
+         education is most affected, with only 32.61%
+         possessing basic digital  skills (EU average:
+         33.61%). However, the gap between  this
+         group’s digital skills and the national average is 14.09 pp, smaller than the EU average gap
+         of 21.95 pp.
+     •   Living Areas: 42.41% of the rural residents in Slovenia have basic digital skills, which is under
+         the EU rural average of 47.50%. However, the gap between rural residents and the Slovenian
+         national average is 4.29pp and narrower than the EU average gap of 8.06pp.
+     •  Age Groups: The age group analysis shows that 16 to 24-year-olds are the most skilled
+           digitally, with 73.07%, which is the only age group where Slovenia is surpassing the EU
+        average (69.98%). Conversely, the 65 to 74-year-olds demonstrate the lowest digital skills
+           level, at a mere 17.06%, which is far below the EU average of 28.19%.
+     •   Digital Skills Index components: Looking at the five Digital Skills Index’s individual areas,
+         Slovenia is above the EU average only in one of them: information and data literacy, scoring
+        85.83%. Moreover, the level of safety skills is concerning, with Slovenia scoring only 56.34%,
+          substantially lower than the EU average of 69.55%.
+
+Although Slovenia lags behind in basic digital skills, the disparities across gender, education level, living
+areas and age groups are less pronounced compared to the EU.
+
+Slovenia’s target for the basic digital skills of its population remains at 80% in its adjusted roadmap.
+To support this, Slovenia has introduced two new measures in its roadmap focusing on digital inclusion:
+one aimed at assisting NGOs in the use of digital technologies and another one on monitoring digital
+inclusion to inform future initiatives. However, two measures in formal education and digital inclusion
+have been removed (one of them has been removed due to the pending legal basis for implementing
+a train-the-trainer concept for digital literacy).
+
+A key initiative in this area is the modernisation of education curricula, with the goal of integrating
+digital skills more comprehensively into pre-school, primary, and secondary education. A broad
+group of experts from academia, public development institutions, and practitioners has been involved
+in the reform, and the work on updating the curricula is about to be finalised. The updated curricula
+are expected to be processed for government adoption by the end of 2025., Slovenia reported that it
+plans to integrate digital skills at all levels, including in primary and secondary schools. However, it
+remains to be seen how extensively digital skills will be integrated. Although acquiring digital skills is
+not mandatory in teacher training programmes, digital skills for teachers are being incorporated into
+various educational projects. Additionally, new IT solutions in teaching are being supported through
+dedicated projects, such as an app for pupils on learning to read, already used by over 4 000 teachers
+in their classes.
+
+                                       16  Slovenia
+
+
+
+Slovenia continues to implement measures  to support  basic  digital  skills across  different
+demographic groups, including young people, adults, older people, and vulnerable groups. However,
+it remains to be seen if these efforts will be sufficient to address the low level of basic digital skills
+across the population overall. Since 2022, people aged 55 and older have been able to develop basic
+digital skills through the ‘classroom on wheels’ project. By now, the project mobile heroes has reached
+over 5 000 participants throughout the country and Slovenia has also shared this project as one of four
+best practices for the Digital Decade Best Practice Accelerator on basic and advanced digital skills. Since
+2024, more than 15 000 young people have improved their digital skills in the project Youth 2024
+through workshops and courses, with a focus on encouraging girls into ICT, teaching advanced digital
+technologies like AI and blockchain, and building competencies such as information and data literacy
+and problem-solving. The project will be continued, with a new call for tender already underway.
+Furthermore, over 10 000 participants aged 30 and more have taken part in non-formal training
+courses to acquire basic and advanced digital skills, as well as increased awareness about responsible
+and safe technology use. By October 2025, the number of adults trained is expected to exceed 25 000.
+Moreover, ongoing training programmes are enhancing the digital competencies of civil servants,
+covering both basic and advanced digital skills as well as digital leadership skills. In total, at least 40
+000 participations will be provided by 2026, with Slovenia reporting that more than half of these have
+already been completed.
+
+According to the 2025 Eurobarometer, 78% of Slovenians think that human support to help accessing
+and using digital technologies and services would facilitate their daily use of digital technologies. 86%
+of Slovenian respondents think that public authorities should prioritise ensuring that people receive
+proper human support to accompany the transformation brought by digital technologies and services.
+
+ 2024 recommendation on basic digital skills: Accelerate efforts in the area of basic digital skills. In
+ particular, by increasing the level of these skills to allow its population and economy to make full
+ use of the potential of digital transformation. This can be done through an increased and intensified
+ offer and collaboration between public and private actors.
+
+ Slovenia made some efforts to address the recommendation through new policy actions in 2024.
+ Slovenia continues to implement measures to support basic digital skills across various demographic
+ groups and added two new measures in its adjusted roadmap to promote digital inclusion. The
+ curricula reform, a vital component for integrating digital skills more broadly throughout the
+ population, is currently still ongoing and it remains to be seen how digital skills will be reflected
+ exactly.
+
+
+ICT specialists
+In 2024, Slovenia is at 4.3% of ICT specialists in total employment (2030 national target is 10%) after
+a considerable increase of 13.2% but remains below the EU average of 5.0%. The country is lagging
+behind compared to its national trajectory. Nonetheless, Slovenia is making progress in narrowing the
+gap with the EU, with its share of ICT specialists increasing from 3.8% in 2023 (EU-level share: 4.8%) at
+a notably higher growth rate of 13.2% compared to the EU’s 4.2%. The percentage of female ICT
+specialists in Slovenia is now 19.2%, slightly below the EU average of 19.5%, yet marked by a growth
+rate of 12.3% which exceeds the EU’s 0.5%. In 2023, Slovenia’s female ICT specialist share was 17.1%
+compared to 19.4% at the EU level, indicating a positive trend in improving gender diversity within the
+sector. In 2024, 26.94% of enterprises with 10 or more employees in Slovenia provided ICT training,
+surpassing the EU’s 22.29%. However, while the EU’s share of enterprises providing ICT training
+stagnated, Slovenia’s share declined compared to 2022 (28.86% in Slovenia vs 22.37% on EU level).
+
+
+                                       17  Slovenia
+
+
+
+Slovenia’s target for ICT specialists remains at 10% in employment in its adjusted roadmap. Despite
+the considerable efforts required to meet this target, Slovenia has not introduced any new measures
+in its adjusted roadmap. In fact, it has reduced the budget for most of the existing initiatives, which
+are often narrowly focused in scope and appear suitable for providing targeted support in specific
+technology areas (cybersecurity and quantum). Additionally, a range of shorter programmes for
+reskilling or -upskilling focused on different topics, will continue. These programmes will primarily be
+targeted at women. However, these efforts do not seem sufficient to address the need for ICT
+specialists in the country sufficiently.
+
+A key initiative in this context is the reform of the higher education curricula, aimed at integrating
+digital skills more comprehensively into higher education. The proposal for this curricula update is
+currently in interministerial consultation and is expected to be introduced next year. Against the
+background of the current needs, it remains to be seen how extensively advanced digital skills will be
+integrated. At the same time, pilot projects are being carried out to test solutions for integrating digital
+skills into higher education curricula, with a focus on improving labour market outcomes. Given the
+strong interest from both employers and employees, micro-credential courses in digital skills have also
+been launched in this context. The OECD’s mid-term evaluation of several pilot projects, presented in
+February 2025, confirms that digital transformation - often linked to upgrading digital infrastructure -
+and the development of micro-credentials are key focus areas of the pilot projects. The OECD also
+highlighted that identifying  skill shortages and predicting the competencies needed remains a
+significant challenge, and that interdisciplinary approaches are crucial for embedding digital skills.
+
+Efforts to anticipate the demand for ICT specialists and future job market trends are ongoing.
+However, the latest skills forecast data from the Labour Market Platform dates back to June 2023, with
+an update expected by 2028. Furthermore, Slovenia has conducted pilot projects in both the public
+and pharmaceutical sectors to explore how sector-specific changes, such as increased production in
+the pharmaceutical industry, can be factored into the higher education system. The key findings from
+these projects suggest that addressing the dynamic needs of various economic sectors remains
+challenging and that updating educational offers to match these needs can still take long (several years
+in this case). Reports suggest that Slovenia does not yet have an integrated mechanism for knowing
+and forecasting human resources needs or competences19.
+
+ 2024 recommendation on ICT specialists: Strengthen the early identification of labour market
+ needs and further complement them for a swift reaction, especially in the area of digital upskilling
+ and reskilling, adapt the (higher) education curricula to the latest digital needs and addressing the
+ gender gap. Strengthened collaboration between industries, (higher) education institutions, public
+ administration and relevant stakeholders can increase the effectiveness of those measures.
+
+ In 2024, Slovenia continued the implementation of existing measures but did not take any new
+ measures. Slovenia continues to implement previously existing measures (no new measures have
+ been added to the adjusted roadmap). Some of these measures aim to address a critical issue: the
+ swift adaptation to labour market demand. However, they have yet to result in significant
+ improvements. The ongoing higher education reform will be crucial in this context. Additionally, the
+ roadmap continues to primarily focus on measures that enhance skills for specific technologies. This
+ approach is unlikely to substantially expand the pool of ICT specialists, also given the budget
+ reductions in the adjusted roadmap for those measures.
+
+
+
+
+19 IMAD (Institute of Macroeconomic Analysis and Development): Development Report 2024
+
+                                       18  Slovenia
+
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+For digital public services for citizens, in 2024 Slovenia scored at 78.58 (2030 national target is 100)
+after a growth of 2.0%, which is still below the EU average of 82.32. The country is on track according
+to its national trajectory. However, Slovenia’s growth rate of 2.0% fell short of the EU’s 3.6%. Looking
+at cross-border digital public services for citizens specifically, Slovenia scored lower than the EU (64.29
+compared to 71.28) and had a lower growth rate than the EU (2.8% compared to 4.3%). The share of
+e-Government users, i.e. people using the internet to interact with public authorities on website or
+apps was higher than the EU average (80.56% compared to 74.71%).
+
+For digital public services for businesses, Slovenia scored at 85.0 in 2024 (2030 national target is 100)
+after a growth of 1.2%, although still below the EU average of 86.23. The country is lagging behind
+compared to its national trajectory. Slovenia’s growth rate of 1.2% outpaced the EU’s 0.9%. For cross-
+border digital public services for businesses, Slovenia scored 70.0 in 2024, lower than the EU’s 73.76,
+but again with a higher growth rate than the EU (1.2% vs 0.9%).
+
+For access to e-health records, Slovenia scored at 87.47 (2030 national target of 100) with no
+significant change compared to 2023 (growth rate of 0.1%)20, which is still higher than the EU’s 82.7.
+The country is on track according to its national trajectory. However, Slovenia’s growth rate of -0.1%
+was significantly lower than the EU’s 4.5%.
+
+e-ID
+Slovenia’s e-ID card scheme was notified under the eIDAS regulation and the country is contributing
+to the development of an EU Digital Wallet. In its adjusted roadmap, Slovenia maintains the
+additional, self-set target of having at least 80% of people using their e-ID for public services. In 2023,
+the share of the population who reported having used their e-ID to access online services in the last
+12 months was below the EU average (35.7% vs 41.1%). More recent data is not available, but
+according to the Ministry of Public Administration, the e-ID penetration has remained relatively low.
+In response, the Ministry plans to simplify the authentication process for mobile applications by
+summer 2025.
+
+Slovenia is also actively contributing to the development of the European Digital Identity Wallet
+(EUDI Wallet) by participating in two large scale pilots working on various use cases: POTENTIAL, a
+consortium working on six key use cases, including bank account opening, qualified electronic
+signature’ to sign documents remotely and ‘e-government services’ to prove user’s identity quickly
+and securely. The country is also involved in the pilot Digital Credentials for Europe (DC4EU) focused
+on the educational and social security sectors. Furthermore, Slovenia is involved in the set-up of the
+consortium Wallet Ecosystem for Business & Payment Use cases,  Identification, Legal person
+representation and Data sharing (WE BUILD). The project is set to begin later in 2025 and aims to pilot
+the use of EUDI Wallets across various use cases in business, supply chain and payments.
+
+Digitalisation of public services for citizens and businesses
+Slovenia’s targets for digital public services for people and businesses remain at 100% in its adjusted
+roadmap. Several ministries are involved in implementing the Action Plan of the Digital Public Services
+Strategy 2030, which was adopted in summer 2023. An update on the progress of the Action Plan’s
+implementation is expected to be published by autumn 2025. Additionally, the country launched a
+European Social Fund Plus-funded project in July 2024 to digitalise employment services. The new
+employment platform and e-services will support jobseekers in their search and provide career
+
+
+20 The slight decrease can be explained by adjustments in the definition of health facilities supplying data compared to the
+previous reporting period.
+
+                                       19  Slovenia
+
+
+
+guidance and orientation. According to the 2025 Eurobarometer, 82% of Slovenians people think that
+accessing public services online will be important for their daily life by 2030.
+
+In its roadmap adjustment, Slovenia has introduced several new measures to accelerate the digital
+transformation of public authorities. The measures focus primarily on two areas: enhancing data
+access, use and quality, and supporting the digital transformation at local level. To improve data quality
+and exchange within public sector organisations, Slovenia is in the process of establishing data
+administrators in different organisations. At the local level, the measures include assessing the digital
+maturity of Slovenian municipalities, developing digital transformation plans to strengthen the digital
+capacities of local communities and the creation of a smart community data space.
+
+ 2024 recommendation on key digital public services: Continue efforts to digitalise public services.
+ Slovenia should continue to pay particular attention to the participatory development and user-
+ friendliness of these services.
+
+ Slovenia made some efforts to address the recommendation through new policy actions in 2024.
+ Slovenia did not provide sufficiently detailed information to allow an assessment of the action taken
+ since last year’s report. A progress report on the Action Plan of the Digital Public Services Strategy
+ will not be provided before autumn 2025. However, new measures have been incorporated in the
+ adjusted roadmap, specifically targeting the digitalisation of public authorities on municipality level
+ and the improvement of data access and usage.
+
+
+e-Health
+Slovenia’s target for citizens’ access to e-health records remains at 100% in its adjusted roadmap.
+The preparation of the Digital Healthcare Act, which includes the standardisation of data across
+national registries to enhance healthcare access and quality, remains a key activity in this area (see
+also Cybersecurity section). In this context, an important milestone for 2025 is enhancing the patient
+portal zVem to a one-stop portal which allows safe and reliable communication with all healthcare
+providers via this channel. In this context, the patient portal of the National Health Insurance Institute
+has merged with zVEM, leading to patients having access to both electronic health records and their
+health insurance data through a single service.
+
+According to the 2025 Eurobarometer, 77% of Slovenians people think that digital technologies will be
+important when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for
+diagnosis diseases) for their daily life by 2030.
+
+ 2024 recommendation on e-Health: Make the data types of medical imaging reports and medical
+ images available to citizens through the online access service and build on existing legal provisions
+ as well as technical solutions for authorised persons to access electronic health data on behalf of
+ others.
+
+ Slovenia made some efforts to address the recommendation through new policy actions in 2024.
+ While the number of registered users has increased and more sub-categories of health records are
+ available to patients, data on medical devices and medical images are still not available to citizens.
+ Regarding access for authorised persons, Slovenia is developing proxy authorisation that will enable
+ individuals to authorise persons to use patient access services, but this is not yet implemented for
+ citizens.
+
+
+
+
+
+                                       20  Slovenia
+
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+Slovenia shows a varied landscape in the internet use for civic or political participation. In 2024,
+34.08% of people used the internet for civic or political participation, marking a significant increase
+from 21.41% in 2023, and positioning Slovenia as the highest scoring EU country. However, a closer
+look at the types of participation reveals a more nuanced situation. Slovenia leads the EU in using the
+internet to express opinions on civic or political issues on websites or in social media, with 32.13% of
+people engaging in this activity, compared to the EU average of 16.48%. On the other hand, Slovenia
+has the lowest participation rate in the EU for activities like online consultations or voting on civic or
+political issues, with only 5.63% of people taking part, well below the EU average of 10.05%.
+
+Slovenia continues to actively address disinformation and hate speech through various initiatives.
+The Government Communication Office, the Ministry of Digital Transformation and AKOS, the national
+regulatory authority for telecommunications, are leading those activities. Under the reREAD, reTHINK,
+RECHECK campaign, Slovenia implements a range of communication activities, including additional
+campaigns, webportals, social media accounts, podcasts21, events (e.g. for government and non-
+government communicators) and enlists Slovenian celebrities as testimonials in  its activities to
+broaden their impact. Moreover, the country also trains civil servants (especially relevant for teachers)
+and the Slovenian Press Agency offers a fact-checker. In 2024, AKOS published 98 articles, and 108
+social media posts aimed at increasing awareness about disinformation and hate speech.
+
+A high share of the Slovenian population, especially young people, is often encountering hostile and
+degrading messages online. In 2023, in Slovenia, 43.76% of individuals encountered online messages
+that were considered hostile or degrading towards groups based on factors such as political views,
+disability, ethnical origin or LGBTIQ identities. This figure was significantly above the EU average of
+33.5%. Young people aged 16–24 were more exposed than adults aged 25–64 (52.89% compared to
+46.30%), reflecting a moderate age-related difference. Males (42.01%) and females (45.61%) reported
+similar rates of exposure, indicating balanced impacts across genders. According to the Digital Decade
+Eurobarometer 2025, Slovenians think that the action of public authorities is urgent to protect children
+online regarding the negative impact of social media on children’s mental health (97% of Slovenians),
+cyberbullying and online harassment (96%) and to put in place age assurance mechanisms to restrict
+age-inappropriate content (96%).
+
+Slovenian internet users report higher exposure to untrue or doubtful information online compared
+to their EU peers, but they are less prone to check its truthfulness. In 2023, 52.77% of people reported
+having encountered untrue or doubtful information or content on internet news sites or social media,
+surpassing the EU average of 49.25%. However, only 18.86% of these individuals checked  its
+truthfulness. While the percentage of people who did not check because they already knew the
+information, content or source was not reliable is nearly twice as high as in the EU (24.05% compared
+to 12.55%), this still reflects a relatively low level of critical evaluation among those who recognised
+misleading content. Looking at different age groups, younger users, aged 16-24, were more exposed
+to untrue or doubtful information online (72.55%) than adults, aged 24-64 (55.66%), which could be
+due to different patterns of internet usage. Verification rates also differed significantly, with 36.26% of
+younger users checking the accuracy of content, compared to just 18.52% of adults.
+
+
+
+21 E.g. GOVSI Podcast: »Democracy is under attack« | GOV.SI or https://www.gov.si/en/news/2024-05-24-govsi-podcast-
+lets-stop-disinformation/.
+
+                                       21  Slovenia
+
+Leveraging  digital transformation  for a
+smart greening
+
+The new green budgeting framework that Slovenia is developing under the RRP will help authorities
+to better address climate and environmental challenges. Furthermore, municipalities have begun
+using land mass data to monitor the effect of climate change. More broadly, the activities of Slovenian
+municipalities on green and digital transition are currently being identified and mapped with the aim
+of preparing a country-wide matrix and increasing coordination with municipalities in a public
+consultation.
+
+The population recycles only a small part of its ICT equipment. Slovenians recycled laptops, desktops
+or mobile devices (9.44% for laptops and tablets, 13.55% for desktop computers and 9.43% for mobile
+phones) less frequently than the EU average (11.31%, 14.66% and 10.93%, respectively). Overall, a
+higher percentage of Slovenians either never purchase new devices, continue to use old ones or
+choose to sell or give them away compared to the EU average. Similar to the EU, eco-friendly criteria
+are less important when purchasing a new ICT device than factors like price, performance and design.
+Looking more closely at these criteria, Slovenia falls below the EU average in considering energy
+efficiency and eco-design as important when buying ICT devices (13.39% compared to 19.35% for
+energy efficiency and 10.00% compared to 12.04% for eco-design). One key player in digital equipment
+reuse and redistribution is the Slovenian NGO Duh Časa.
+
+Slovenia is taking steps to leverage the green transition through digital technologies. The adjusted
+roadmap includes two new measures: one on modernising green public procurement and another one
+on creating a digital twin. The Green Public Procurement Regulation will be updated to pursue the
+‘energy efficiency first’ objective in public procurement, specifically targeting data centres, server
+rooms, cloud services and electronic devices. The digital twin project will establish a national
+infrastructure for spatial information, offering applications to visualise property values or monitor
+environmental parameters. Although green and digital transition are sometimes addressed in the same
+projects and tenders (e.g. circular and digital business models), there does not yet seem to be a
+systematic approach on how to consider their interaction or leveraging each other. According to the
+Digital Decade Eurobarometer 2025, 64% of Slovenians consider digital technologies important to help
+fight climate change, while 79% of Slovenian respondents think that ensuring that digital technologies
+serve the green transition should be an important action for public authorities. 
+
+ 2024 recommendation on green ICT: (i) Develop a coherent approach to twinning the digital and
+ green transitions.  First, promote improvements in energy and material efficiency of  digital
+ infrastructures, in particular data centres. Second, support the development and deployment of
+ digital solutions that reduce the carbon footprint in other sectors, such as energy, transport,
+ buildings, and agriculture, including the uptake of such solutions by SMEs.
+
+  (ii) Monitor and quantify the emission reductions of the deployed digital solutions in line with the
+ relevant EU guidance and with the support of the methodology developed by the European Green
+ Digital Coalition, in view of future policy development, as well as of attracting relevant financing.
+
+ Slovenia made some efforts to address the recommendation through new policy actions in 2024.
+ Slovenia is taking steps to leverage the green transition through digital technologies, including new
+
+
+
+                                       22 Slovenia
+
+
+
+measures in its adjusted roadmap. These measures include monitoring activities and using digital
+technologies to leverage the green transition.
+
+
+
+
+
+                                      23  Slovenia
+
+Annex I – National roadmap analysis
+
+ Slovenia’s national Digital Decade strategic roadmap
+ Slovenia submitted a revised national Digital Decade roadmap on 31 January 202522 which brings it
+ together with the Digital Slovenia 2030 Action Plan. While the update brings some new impulses in
+ line with the new Commission’s priorities in areas like green IC, AI and semiconductors, the update
+ does not sufficiently address the challenges the country is facing, especially in the areas of basic and
+ advanced digital skills and digitalisation of businesses.
+ The new roadmap responds to a limited number of the recommendations issued in last year’s
+ report:
+
+        All national target values were kept in line with the EU’s 2030 ambition level. The additional
+         targets on e-ID uptake by 80% of users of public services was also maintained, along with
+        the quantitative estimates on how Slovenia will contribute to achieving the semiconductor
+         target through companies involved in semiconductor R&D and manufacturing and the edge
+       node target with companies deploying edge nodes.
+       The roadmap contains some new or changed measures compared to the initial roadmap
+        submission  in 2023. New measures were added  for  several  areas,  especially  for
+          digitalisation of public administration. However, several measures, especially linked to
+          Digital Decade objectives and all measures linked to startups have been removed from the
+         adjusted roadmap.
+       The adjusted roadmap was consulted with stakeholders23. The Slovenian national network
+         of non-governmental organisations for an inclusive information society has continued to
+         systematically monitor the implementation of the national roadmap through the project
+         ‘Co-creating digital policies in Slovenia 2 – CODIS 2’, led by the Institute for Electronic
+          Participation. This project received funding from the European Citizen Action Service
+          (ECAS)24. Key outcomes of the project include the development of a dashboard monitoring
+        the roadmap implementation, the production of monitoring reports and the organisation
+         of  workshops.  Based  on  these   activities,  the NGO  network  has  formulated
+        recommendations on the roadmap adjustment, which were shared with the Ministry of
+          Digital Transformation and also reflected in the NGO network’s feedback in the context of
+        the national roadmap adjustment consultation. The follow-up project ‘CODIS 3’, also
+        funded by ECAS, will continue these monitoring activities with a focus on good governance
+          principles.
+
+
+
+
+
+22 Government approval pending due to some changes linked to the Digital Slovenia 2030 Action Plan. For the purpose of the
+Digital Decade Policy Programme, the content of the roadmap submitted on 31 January 2025 can be considered final.
+Corrigendum to Digital Decade Country Report Slovenia 2024: The initial national roadmap was adopted by the Slovenian
+Government in December 2023, before its publication and submission to the European Commission.
+23 Roadmap was published on 20 December 2024 for public consultation by 20 January 2025. Written consultation period 20
+December 2024 until 20 January 2025.
+24 ECAS regranting scheme of the European Citizenship Accelerator project 2024, co-funded by the Citizenship, Equality, Rights
+and Values programme of the European Union.
+
+                                       24  Slovenia
+
+
+
+                      Measures and budget in national roadmap25
+
+
+
+
+
+ In total, the measures presented amount to EUR 685 million for 81 measures which represents 1%
+ of Slovenia’s GDP. Basic digital skills and digital public services are the targets with the highest
+ number of measures. In terms of budget, the highest shares are allocated to basic digital skills and
+ AI uptake.
+
+
+
+
+
+25 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       25  Slovenia
+
+Annex II – Factsheet on multi-country
+projects (MCPs) and funding
+
+ Multi-country projects and best practices
+
+ Slovenia is a member of the three established EDICs: the Alliance for Language Technologies EDIC, the
+ Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM EDIC on blockchain. Slovenia is also
+ working towards setting up an EDIC in the area of cybersecurity skills. Slovenian entities are indirect
+ and/or associated partners in the IPCEI on Microelectronics and Communication Technologies (IPCEI-
+ ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS).26 Slovenia is
+ also a participating state in the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+ Slovenia is leading a working group of the Digital Decade’s Best Practice Accelerator27 aimed at
+ improving basic and advanced digital skills. The Slovenian authorities have carried out extensive
+ coordination work and shared their best practices and experience from different initiatives, in particular
+ on digi info points, an adult digital literacy programme, mobile heroes (for older people) and digital
+ training for children and youth. So far, five workshops have been organised by Slovenia to establish an
+ exchange with the Members of Digital Skills and Jobs Coalitions, on digital skills in formal and non-
+ formal education, on girls and women in ICT and on digital skills for employment.
+
+ EU funding for digital policies in Slovenia
+ Slovenia allocates 20% of its total recovery and resilience plan to digital (EUR 513 million)28. In addition,
+ under cohesion policy, EUR 287 million (representing 9% of the country’s total cohesion policy funding),
+  is dedicated to advancing Slovenia’s digital transformation29. According to JRC estimates, EUR 636
+ million directly contribute to achieving Digital Decade targets (of which EUR 439 million comes from
+ the RRF and EUR 197 million from cohesion policy funding)30.
+
+ For the RRF, the largest amounts are dedicated to digitalisation of key public services, including to
+ remove obstacles to support the provision of digital public services and processes (e.g. enlarge the
+ scope of electronic procedures in administrative processes), and e-Health, including to integrate new
+ digital services into healthcare and to implement telemedicine. The third payment request was
+ disbursed to Slovenia in October 2024. So far, the country received EUR 1.1 billion in RRF grants and
+ loans. The Slovenian Cohesion  Policy Programme 2021–2027 supports,  inter  alia, the  digital
+ transformation of public administration and SMEs.
+
+
+
+
+
+26 Corrigendum to Digital Decade Country Report Slovenia 2024: Slovenian entities are indirect partners in the Important
+Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS).
+27 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+28 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+29 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+30 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       26  Slovenia
+
+Annex III – Digital Rights and Principles31
+
+
+
+
+
+Activity on Digital Rights and Principles (figure 1)
+
+Slovenia has shown rather limited activity in implementing digital rights and principles, with the overall
+number of initiatives of around a half or less of the EU average (77). Slovenia launched 3 new initiatives
+in 2024, showing limited progress towards its commitments. Slovenia is most active in the area of
+Solidarity and inclusion (II). There is room for improvement, especially with regards to Privacy and
+individual control over data (V) where less activity has been identified.
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators developed by the support study illustrate the level of implementation
+of digital rights initiatives on the ground. Based on available data, they estimate the impact of
+measures implemented by key stakeholders in Slovenia (mainly national government) and how these
+are perceived by citizens.
+
+The indicators suggest that Slovenia is most successful in implementing commitments related to
+Putting people at the centre of the digital transformation (I). Slovenia should strengthen efforts in areas
+where the impact of digital rights initiatives appears to be limited, notably on Participation in the digital
+public space (IV).
+
+According to the Special Eurobarometer 'Digital Decade 2025’, 48% of citizens in Slovenia think that
+the EU protects their digital rights well (a 2% increase since 2024). This is above the EU average of 44%.
+Citizens are particularly confident about getting freedom of assembly and of association in the digital
+environment (64%, above the EU average of 59%). They are most worried that their right to a safe
+digital environment and content for children and young people is not well protected (54%, above the
+EU average of 48%).
+
+
+
+
+
+31 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       27

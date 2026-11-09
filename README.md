@@ -23,9 +23,17 @@ python3 -m venv .venv
 
 ## Data
 
-Download the English PDFs yourself from the
-[landing page](https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-country-reports)
-and save them as `data/raw/2026/<country>.pdf`, using these exact file names:
+All data is committed, so the analysis can be rerun straight after cloning:
+
+- `data/raw/<year>/` holds the original English PDFs, one per Member State, from the
+  European Commission's [2025](https://digital-strategy.ec.europa.eu/en/library/digital-decade-2025-country-reports)
+  and [2026](https://digital-strategy.ec.europa.eu/en/library/digital-decade-2026-country-reports)
+  country reports (© European Union, reused under the Commission's reuse policy).
+- `data/text/<year>/` and `data/clean/<year>/` are generated from the PDFs by `extract.py`
+  and `clean.py`. Rerun those scripts after changing them, so the committed files stay in sync.
+
+To start from a fresh download, save the PDFs as `data/raw/<year>/<country>.pdf`,
+using these exact file names:
 
 ```
 austria   belgium  bulgaria  croatia     cyprus      czechia  denmark
@@ -33,9 +41,6 @@ estonia   finland  france    germany     greece      hungary  ireland
 italy     latvia   lithuania luxembourg  malta       netherlands
 poland    portugal romania   slovakia    slovenia    spain    sweden
 ```
-
-The [2025 edition](https://digital-strategy.ec.europa.eu/en/library/digital-decade-2025-country-reports)
-goes in `data/raw/2025/` with the same names.
 
 ## Pipeline
 

@@ -1,0 +1,1457 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 23/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+
+    Romania Romania
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 6
+
+     Connectivity infrastructure .............................................................................................................. 6
+
+    Semiconductors ............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 8
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ......................................................................................... 9
+
+     Take up of cloud/AI/data analytics ................................................................................................. 10
+
+     Unicorns, scale-ups and start-ups .................................................................................................. 11
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 12
+
+Protecting and empowering EU people and society ............................................................................. 15
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 15
+
+     Equipping people with digital skills ................................................................................................ 15      ROMANIA
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 18
+
+  Building a safe and human centric digital environment and preserving our democracy ................... 21
+
+Leveraging digital transformation for a smart greening ....................................................................... 23
+
+Annex I – National roadmap analysis .................................................................................................... 25
+
+Annex II – Multi-country projects and best practices ........................................................................... 27
+
+Annex III – Digital Rights and Principles ................................................................................................ 28 Romania
+
+Executive summary
+
+Romania can rely on a well-developed fixed connectivity infrastructure and is strengthening its role
+in critical technologies like semiconductors, but persistent R&D gaps, weak SME and start-up
+innovation and slow emerging tech uptake limit its competitiveness. While the country is advancing
+in digital public services, challenges remain in digital skills, inclusion, and integrating sustainability
+into its digital infrastructure. Romania shows a low level of ambition in its contribution to the Digital
+Decade having set 11 national targets, 36% of which are aligned with the EU 2030 targets. The
+country is fully following its trajectories (on the basis of the 2024 trajectories defined for 1 KPI out
+of 8 analysed). Romania addressed 40% of the 15 recommendations issued by the Commission in
+2024 by making some changes through new measures.
+
+Romania remains an EU leader when it comes to fixed connectivity, but more efforts are needed on
+5G. Despite recent efforts, Romanians have very low levels of digital skills. Efforts have been made to
+strengthen Romania’s position regarding semiconductor manufacturing. The country is also taking
+major steps to improve the digitalisation of public services, including a new Governmental cloud and
+the notification of an eID scheme. Romania struggles with integrating digital technology into business
+activities. AI and data analytics are not used to their full potential. Lack of access to capital both for
+start-ups and scale-ups remains an important issue hampering digital innovation.
+
+
+
+
+                                                                                                                                                Digital Decade target
+                                                          Romania                         EU
+                                                                                                                   by 2030
+   Digital Decade KPI (1)        2024DESI       2025DESI      Annual     National      DESI      Annual                                                                                              trajectory                      RO       EU
+                                                      (year       (year     progress                2025      progress
+                                                                             2024 (3)
+                                                  2023)      2024)
+  Fixed Very High Capacity Network (VHCN)
+                                               95.0%      95.9%      0.9%               -        82.5%       4.9%       99.0%     100%
+  coverage
+
+  Fibre to the Premises (FTTP) coverage              95.0%      95.7%      0.8%               -        69.2%       8.4%       99.0%            -
+
+  Overall 5G coverage                            32.8%      46.8%     42.7%       33.0%     94.3%       5.9%       62.0%     100%
+
+  Edge Nodes (estimate)                            5         11      120.0%              -        2257      90.5%              -       10000
+
+ SMEs with at least a basic level of digital
+                                                                               -        69.1%     14.7%              -        72.9%       2.8%       75.0%     90%
+  intensity (2)
+
+  Cloud                                        15.5%             -                -                  -                -                 -         40.0%     75%
+
+  Artificial Intelligence                            1.5%       3.1%     103.3%              -        13.5%      67.2%       10.0%     75%
+
+  Data analytics                                 21.9%             -                -                  -                -                 -         15.0%     75%
+
+  AI or Cloud or Data analytics                     28.7%             -                -                  -                -                 -                  -       75%
+
+  Unicorns                                       0         0                                  -        286        4.4%               -        500
+
+  At least basic digital skills                        27.7%             -                -                  -                -                 -         50.0%     80%
+
+  ICT specialists                                  2.6%       2.8%      7.7%               -        5.0%       4.2%        4.0%      ~10%
+
+  eID scheme notification                                        Yes
+
+  Digital public services for citizens                    52.2        62.7      20.2%              -         82.3       3.6%        100.0      100
+
+  Digital public services for businesses                 50.0        55.1      10.2%              -         86.2       0.9%        100.0      100
+
+  Access to e-Health records                           58.6        75.1      28.2%              -         82.7       4.5%               -        100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) DESI 2025 reports the version 4 of the Digital Intensity Index, which is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+  calculation of the annual progress. It is not comparable to the national trajectory, which is based on version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024).
+
+
+
+
+
+                                        1 Romania
+
+
+
+According to the 2025 special Eurobarometer on ‘the Digital Decade’, 62% of Romanians consider
+that the digitalisation of daily public and private services is making their lives easier. 77% consider the
+action of the public authorities important to counter and mitigate the issue of fake news and
+disinformation online. 77% consider competitiveness important to ensure that European companies
+can grow and become ‘European Champions’ capable of competing globally.
+
+A competitive, sovereign, and resilient EU based on technological leadership
+
+Romania remains an EU leader in connectivity, including in sparsely populated areas, has the highest
+take-up of high-speed Internet in the EU for >100 Mbps and ranks 3rd in the EU for >1 Gbps
+connections. However, despite strong year-on-year growth, Romania continues to underperform on
+5G, both in terms of coverage and spectrum assignment. Significant growth potential exists here and
+a lot more could be done to promote the benefits of 5G connectivity, particularly how it could support
+the country’s manufacturing and B2B sectors.
+
+Romania is slowly strengthening its position in critical technologies. Recently, it has adopted its
+national quantum technology strategy and announced an initiative that will lead to an investment of
+EUR 420 million (NRRP) for auto industry semiconductor R&D and manufacturing. The approach,
+which involves European companies, universities and SMEs, has the potential to build a strong
+semiconductor ecosystem in the medium and long term.
+
+Romania does not have unicorn companies in ICT and digital. Its start-up ecosystem would benefit
+from better conditions for access to capital, in particular risk, in order to develop further. Regarding
+cybersecurity, Romanians take fewer steps than the EU average to protect their data online. Romania
+has transposed the NIS2 Directive in its national legislation via an Emergency Ordinance.
+
+Protecting and empowering EU people and society
+
+Romania is investing significantly in digitalising its public services and raising the overall level of digital
+skills. This is a long-term process that needs strong political will, a clear agenda and renewed
+commitment in terms of efforts and resources in order to achieve success.
+
+Romania continues to rank last in basic digital skills, but it is taking significant steps to address this,
+with a higher budget for education and schemes in place to train teachers and optimise the education
+process.  It  is important that the concept of acquiring the necessary digital skills  is integrated
+throughout the curricula and represents a key KPIs for investments throughout the entire learning
+cycle.
+
+Regarding ICT specialists, Romania has a high number of graduates but is not able to retain this talent
+in the country. The number of ICT specialists appears to be stagnating, which could put the country’s
+2030 target at risk.
+
+Romania demonstrates a consistent pattern of robust growth for the digitalisation of public services,
+but the absolute scores for Romania remain below the EU average. Major projects are currently being
+announced or implemented and should transform how public services are delivered but will require
+the appropriate degree of development and maintenance over time. The public entities running these
+projects should be given the necessary resources (finance, project management, ICT specialists) to
+continue them after the original contract is finalised. Streamlining of the multiple existing projects
+that have been promoted as ‘single point of contact’ could also be envisaged.
+
+
+
+
+                                        2 Romania
+
+
+
+For eHealth, Romania has gradually improved its performance, but not all data types are available and
+less than 50% of the healthcare providers are connected and supplying data. A new strategy for the
+digitalisation of the health system is being prepared. A new health insurance platform, which should
+replace the current one, is expected for 2026.
+
+Leveraging digital transformation for a smart greening
+
+Regarding progress in its twin transition, Romania is slowly advancing on an integrated approach to
+making digital infrastructure greener and tracking emission reductions.
+
+National Digital Decade strategic roadmap
+
+Romania has not submitted an update to its national Digital Decade roadmap. Taking into account
+Romania’s starting point, the roadmap puts forward ambitious objectives, particularly for the use of
+digital services and the number of ICT specialists.
+
+Overall, the roadmap is a key document in ensuring ownership and oversight of the necessary steps
+to meet the national targets. It was formally adopted by the Romanian Government in October 2024.
+
+The roadmap consists of 98 measures with a budget of EUR 3.6 billion (equivalent to 1.01% of GDP) of
+which a substantial share stems from the National Recovery and Reform Plan. The main focus is on
+the digitalisation of public services and increasing digital skills. A lower priority seems to be given to
+the digitalisation of businesses and advanced technologies (semiconductors, quantum, edge nodes).
+Similarly to 2023, Romania has not indicated targets for eHealth, quantum, edge nodes and
+semiconductors. None of the existing targets were revised.
+
+Funding & projects for digital
+
+Romania allocates 22% of its total recovery and resilience plan to digital (EUR 5.8 billion)1. In addition,
+under cohesion policy, EUR 2.7 billion, representing 9% of the country’s total cohesion policy funding,
+is dedicated to advancing Romania’s digital transformation2. Romania is a member of the EUROPEUM
+EDIC. Romania  is  directly participating  in the IPCEI on Microelectronics and Communication
+Technologies (IPCEI-ME/CT). Romania is also a participating state in the EuroHPC Joint Undertaking
+(JU) and in the Chips JU.
+
+Romania has contributed to the Best Practice Accelerator3 by sharing one best practice in the frame
+of the Digital Skills cluster (Skills in Advanced Technologies for SMEs).
+
+Digital Rights and Principles
+
+According to a support study, Romania has been relatively active in implementing the European
+Declaration on Digital Rights and Principles, with 62 initiatives overall and 2 new initiatives launched
+in 2024. Romania  is most active in the area of putting people at the centre of the  digital
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the
+Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and
+challenges encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available
+to Member States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters:
+Digital Skills, Green IT, and the Uptake of Digital Technologies. 
+
+                                        3 Romania
+
+
+
+transformation. Less activity has been identified with regards to a fair digital environment and
+sustainability. Measures in the area of putting people at the centre of the digital transformation
+appear to have most impact on the ground, in contrast to those addressing freedom of choice.
+
+ Recommendations
+   -   Digital public services: Continue to dedicate the necessary resources  (finance, project
+     management, ICT specialists) for the digitalisation of public services, including after the initial
+      set-up (maintenance and support). Streamlining of the multiple existing projects that have been
+     promoted as ‘single point of contact’ could also be envisaged.
+   -   Basic digital skills: Continue to integrate basic digital skills as a core component of the education
+      process, both for teachers and students. Make upskilling, particularly of employees in the private
+      sector and older population, a priority.
+   -   eHealth: Continue to expand the data sources available online. Adopt and implement the new
+      strategy on the digitalisation of health system, taking into account user needs and ease of use.
+   -   ICT specialists and advanced skills: boost SME digital skills by simplifying support measures and
+      engaging stakeholders to identify market needs. Identify ways to attract and retain ICT talent.
+   -   Unicorns: Building on existing programmes, Romania should identify ways to support company
+      scale-up and diversify funding opportunities for innovative companies.
+   -   Advance technologies take-up Continue efforts, including via EDIHs, to increase the uptake of
+      cloud and AI services by companies of all sizes. Continue to increase the number of edge nodes
+     deployed and ensure links with work done on semiconductors, quantum and the internet of
+       things.
+   -   5G: increase overall 5G coverage, including in the 3.4–3.8 GHz band, and spectrum assignment.
+   -   Twin digital-green transition: Develop a comprehensive strategy to align digitalisation with
+      environmental goals.
+
+
+
+
+
+                                        4 Romania
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Romania has struggled to maintain its competitiveness, although  it is currently implementing
+reforms and initiatives aimed at strengthening its economic and digital infrastructure. Over the past
+three years, Romania has registered constant, albeit slowing, GDP growth, with around 0.8% real
+GDP growth in 2024 compared to 2023. This growth trajectory reflects both the challenges and
+opportunities faced by the country, particularly as it seeks to leverage EU funds for ambitious reform
+plans. However, delays in project implementation across multiple sectors remain a significant hurdle.
+
+In terms of digital competitiveness, Romania offers a landscape of contrasts. The country boasts
+some of the fastest internet connectivity in the world and a strong pipeline of ICT specialists trained at
+its universities. Despite these strengths, Romania struggles with low digital skills among the general
+population, a low, albeit growing level of available digital public services and faces difficulties in
+retaining ICT talent within its borders. In 2022, the ICT sector contributed 4.44% to the gross value
+added4, mirroring the figures from 2021 but below the EU average of 5.46%. Nonetheless, Romania is
+making strides to bridge this gap. ICT personnel make up 3.26% of total employment, which is close to
+the EU average.
+
+In 2022, R&D spending on ICT constituted 23.86% of total R&D business expenditures, one of the
+lowest in the EU. Moreover, the proportion of R&D personnel in the ICT sector was 23.4% of the total
+R&D workforce, down 5.6 percentage points compared to the previous year. These figures highlight
+the need for enhanced R&D investment and personnel retention strategies.
+
+Efforts to digitalize Romania's public sector are ongoing, with initiatives such as transitioning public
+activity to the cloud, ensuring interoperability between the databases of different authorities,
+implementing the national eID scheme, and setting up a new single point of contact at the forefront.
+Successful projects like ghiseul.ro demonstrate the potential for digital transformation, as well as the
+appetite of Romanians to use digital technology to simplify their interaction with public administration.
+At the same time, some of the systems built previously have not been updated and maintained
+properly, for example for health insurance, and now require complete overhauls. Ensuring the success
+of this digitalisation effort requires effective coordination between institutions, backed by sufficient
+political commitment and resources allocated.
+
+The start-up ecosystem is hampered by issues that affect entrepreneurship in Romania more
+broadly. Access to capital remains a major issue. Start-up funds are available, but scaling up remains
+very difficult and, as a consequence, no unicorn-level companies exist. At the same time, Romanian
+businesses are slow to take up cloud, AI and data analytics in their activities.
+
+With the help of EU funding, Romania has taken steps to revitalise its semiconductors industry and
+is trying to become a key supplier of semiconductors for the country’s car manufacturing production.
+However, overall R&D spending was only 0.52% of GDP in 2023, with stakeholders pointing to limited
+strategic vision and fragmentation of efforts as factors that further weaken efficiency of funding.
+
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying
+the State of the Digital Decade report 2025
+
+                                        5 Romania
+
+
+
+According to the 2025 Eurobarometer5, 78% of Romanians think that building efficient and secure
+digital infrastructures and data processing facilities should be a priority for the public authorities.
+
+Building technological leadership: digital infrastructure and technologies
+
+Romania continues to have one of the highest levels of connectivity infrastructure in the EU for both
+very high-capacity networks (VHCN) and fibre to the premises (FTTP). It leads the EU in high-speed
+internet. The country, however, is slow in taking up 5G technology, which could hamper the future
+competitiveness of the country’s strong manufacturing sector. Romania is taking steps to strengthen
+its semiconductor capacity and quantum communication capabilities.
+
+Connectivity infrastructure
+
+Romania’s VHCN coverage is 95.9% (2030 national target: 99%), an increase of +0.9% in 2024 and a
+figure significantly higher than the EU average of 82.5%. The country did not provide a national
+trajectory point for 2024. The growth rate for 2024 is lower than the EU’s, 0.9% compared to 4.9%,
+but that is to be expected given the very high starting point. For households in sparsely populated
+areas, Romania's coverage is also notably higher, at 93.6% in 2024, against the EU's 61.9%. The growth
+rate of 1.3% is lower than the EU's 11.3%. The country also has the highest take up of high-speed
+internet in the EU: 96.85% of internet connections are at speeds of 100Mbps or above, with 34.17%
+of broadband subscriptions being over 1 Gbps.
+
+Romania FTTP coverage is 95.7% of (2030 national target: 99%), an increase of +0.8% in 2024 and far
+above the EU average of 69.24%. The country did not provide a national trajectory point for 2024.
+Similarly to the VHCN indicator, Romania’s year-on-year growth rate was lower than the EU’s (8.4%),
+again explained by the high starting point. For households in sparsely populated areas, Romania's
+coverage is also notably higher, at 93.5% in 2024, against the EU's 58.9%.
+
+Romania 5G coverage is 46.8% (2030 national target: 62%), an increase of +42.7% in 2024, well below
+the EU average of 94.35%. The country is on track with its national trajectory. For households in
+sparsely populated areas, Romania's coverage is also notably lower, at 14.5% in 2024, against the EU's
+79.57%. The growth rate of 128.4% is significantly higher than the EU's 11.9%. Romania's 5G coverage
+in the 3.4–3.8 GHz band is lower than the EU average, with 32.8% in 2024, compared to the EU's 67.7%.
+Romania's 5G spectrum assignment for pioneer bands is lower than the EU average, with 38.33% in
+2025, compared to the EU's 74.6%.
+
+Romania's performance in broadband take-up indicators is mixed compared to the EU average. In
+2023, Romania’s share of fixed broadband subscriptions at 100 Mbps or higher was 94.04%, above the
+EU’s figure of 65.9%. This figure increased to 96.85% in 2024, still significantly above the EU’s 71.88%.
+The growth rate for this indicator in Romania was 3.0%, which is lower than the EU’s 9.1%. Romania's
+share of fixed broadband subscriptions at 1 Gbps or higher was 30.45% in 2023, exceeding the EU's
+18.47%. In 2024, this figure rose to 34.17%, well above the EU's figure of 22.25%. The growth rate for
+this indicator in Romania was 12.2%, which is lower than the EU’s 20.5%. Romania’s share of the
+population with 5G SIM cards was 7.91% in 2023, below the EU average of 21.7%. This figure increased
+to 15.0% in 2024, still well below the EU’s 35.56%. The growth rate for this indicator in Romania was
+89.6%, which is higher than the EU’s 63.9%.
+
+
+
+
+
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        6 Romania
+
+
+
+VHCN and FTTP
+
+Even though the growth rate is slow, progress for both VHCN and FTTP coverage is sufficient to
+indicate that the 99% coverage target will be met by 2030 provided that the current growth rate
+remains stable.
+
+To further facilitate network deployment, Romania has adopted the indicative tariffs for access to
+road physical infrastructures via Decision No. 58/2025. The indicative (nonbinding) tariffs set by the
+Romanian telecom regulator ANCOM are more than 90% lower than the actual tariffs set in the Order
+of the Ministry of Transport No. 1836/2018. While it is too early to observe positive effects attributable
+to this decision, it is expected to contribute to further network deployment. ANCOM has also gathered
+geolocated data to obtain a clearer view of the level of development of high-speed networks and
+services across the country’s various regions and communities, with a study and a map made public.
+
+5G
+
+Overall, analysis suggests that Romania is generally performing well on digital infrastructure, with one
+of the highest levels of high-speed Internet connectivity in the EU. However, there are some areas,
+such as overall 5G coverage, 5G coverage in the 3.4-3.8 GHz band and 5G SIM card adoption, where
+Romania has  significant potential to improve  its performance to further enhance  its  digital
+infrastructure and support its manufacturing and B2B sectors.
+
+In 2025, the Romanian National Authority for Management and Regulation in Communications intends
+to consult the market again on the potential interest in the 26 GHz band, and in other millimetric bands
+(such as the 40.5 - 43.5 GHz frequency band). No specific requests or enquiries involving these bands
+have been received by Romanian authorities to date, which indicates a low level of interest for
+industrial use cases.
+
+Additionally, to further gauge market needs, ANCOM intends to carry out measurements along main
+railway lines and will perform measurements on the data transfer rate across Romania (5 sampling
+counties from each relevant region), with a specific focus on less populated areas.
+
+A list of authorised equipment manufacturers under the 5G Networks Security Law (Law 163/2021)
+was adopted and published during 2023. According to a draft law submitted to the Romanian
+Parliament by the Government amending Law 163/2021, the software programmes, technologies and
+equipment from non-authorised producers for core networks can be used until 30 June 2028 at the
+latest.
+
+2024 recommendation on connectivity infrastructure: (i) Undertake additional efforts to support a
+higher level of ambition for the 5G target, including possible support for use cases and pilots, in view
+of the importance for the EU and Romania’s future competitiveness and building on the current
+positive trend; (ii) Ensure sufficient access of new players to spectrum for innovative business-to-
+business (B2B) and business-to-consumer (B2C) applications and encourage operators to speed up the
+deployment of 5G stand-alone core networks.
+
+Romania made some efforts to address the recommendation through new policy actions in 2024.
+There is limited demand for 5G currently in the country. The national regulator plans to further gage
+market interest for the 26GHz band and map 5G connectivity needs on the country’s main railway
+lines.
+
+
+
+
+
+                                        7 Romania
+
+
+
+Semiconductors
+
+Romania does not currently have any semiconductor production capacity, a situation acknowledged
+in its roadmap. The Romanian Government has been taking steps to remedy the situation. In 2023
+three companies had already been selected to benefit from RRP funding and in 2024 a contract was
+signed with the companies to build a national ecosystem of semiconductors. The total National
+Recovery and Resilience Plan (NRRP) funding is EUR 400 million, from which the three companies are
+receiving EUR 195 million, while indirect participants will receive EUR 205 million. This project,
+combined with the recently announced BMW TechWorks Centre in Romania has the potential to make
+Romania an important ICT ecosystem for the European car industry.
+
+Furthermore, a National Platform of Technologies and Semiconductors was launched in December
+2024 and is expected to revitalise the national semiconductor industry. A partnership of 6 Romanian
+research organisations and 21 SMEs, the project benefits from EUR 130 million funding, EUR 65 million
+of which from the ERDF. The project aims to create three production lines for manufacturing and
+testing semiconductors, as well as new tech services and semiconductor systems that could be
+integrated by existing industry.
+
+Edge nodes
+
+According to the Edge Node Observatory, Romania is among the Member States adopting edge
+technology at a slower pace: it counted 11 of the estimated 2257 edge nodes deployed in the EU at
+the end of 2024, or 6 additional units compared to the end of the previous reporting period.
+According to the roadmap, the number of edge nodes is expected to reach 113 by 2030. However, very
+limited measures are in place to support this objective, so the target does not seem to have adequate
+support.
+
+The Romanian authorities plan to set up a working group with various  ministries, regional
+development agencies, and the national regulatory authority to assess the current situation and
+identify and adopt a policy and concrete measures that could support  this national  target.
+Nevertheless, recent institutional developments have made this difficult.
+
+Quantum technologies
+
+Romania’s interest in quantum technology continues to grow, both in terms of quantum computing
+and quantum communication infrastructure. The roadmap does not set a specific target for quantum
+but describes the ongoing work to develop a policy in this area.
+
+The Romanian Government adopted its quantum technology strategy in August 2024. The Strategy
+includes key objectives such as ensuring the necessary resources, stimulate R&D, create an essential
+quantum infrastructure, develop a quantum industry in Romania and consolidate Romania’s position
+in the broader international quantum architecture.
+
+The Politehnica University of Bucharest launched the RoNaQCI (Romanian National Quantum
+Communication Infrastructure) project in 2023. With EUR 10 million of funding under the Digital
+Europe Programme, the project aims to develop a quantum communication infrastructure in Romania
+by deploying a 1500+km QCI network that would include 6 Romanian metropolitan networks.
+Implementation of the project is ongoing.
+
+2024 recommendation on quantum/semiconductors/edge nodes: Develop a policy and further
+measures to support the semiconductors, quantum, and edge nodes targets, building on the growing
+
+
+                                        8 Romania
+
+
+
+national interest and existing assets, as well as multi-country cooperation. Consider edge node
+deployment when creating investment programmes and strategies in these areas of AI, future network
+deployment, and the Internet of Things, as edge computing is an important component of those.
+
+Romania made efforts to address the recommendation through new policy actions in 2024. It plans
+to build a national ecosystem of semiconductors, in a partnership between large manufacturers, SMEs
+and universities. Interest in quantum is growing, with the RoNaQCI project an important driver to
+raise awareness of the potential of quantum communications. Low demand and limited public
+authority involvement impacts the development of edge nodes in the country.
+
+Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+
+Romanian SMEs have closed the gap with the EU average in terms of basic level of digital intensity.
+This could positively impact the country’s competitiveness in the medium and long term. However,
+Romanian companies are still reluctant to integrate new technologies, such as AI, cloud and data
+analytics in their activities. The start-up ecosystem is hampered by issues that affect entrepreneurship
+in Romania more broadly, with access to finance and risk capital remaining major issues to be tackled,
+particularly for scaling up.
+
+SMEs with at least basic digital intensity
+
+In Romania, 69.1% of SMEs reached at least a basic level of digital intensity (2030 national target
+75%), with growth of +14.7% per year, from 52.49% in 2022. This brought Romania closer to the EU
+average of 72.91%. However, looking at SMEs with high or very high digital intensity, only 21.69%
+achieved that level, falling short of the EU average of 32.66%. Overall, Romania has shown progress,
+but there is still room for improvement in the digital intensity of its SMEs, particularly in terms of
+advanced digital intensity.
+
+The Romanian Authority for Digitalisation is running a training scheme for nine emerging and
+advanced technologies targeting interested Romanian SMEs. The total financing available is EUR 36
+million (NRRP funds), with an additional EUR 6.8 million as ineligible VAT. The training is available via a
+de minimis aid funding of a maximum EUR 17.000 per eligible SME. At the end of 2024, 15% of the
+SMEs that registered for the scheme had been approved and the evaluation process is ongoing. Some
+SMEs may be reluctant to  fully engage with the current application process, possibly due to
+perceptions that the resources required for participating may not match the benefits gained.
+Streamlining the procedure further (the Government clearly indicates the documentation needed and
+steps required) and promoting the benefits and high quality of the training could potentially encourage
+greater participation and maximize the scheme's impact. One way forward could be an enhanced
+cooperation between public authorities and European Digital Innovation Hubs (EDIHs), as key players
+at regional and local level that have a very good understanding of SME needs and capacities.
+
+Overall, SMEs in Romania seem eager to adopt digital solutions and technology in their activities,
+but they often face constraints such as access to finance or procedures they deem too bureaucratic.
+Room for improvement persists in terms of advanced digital engagement.
+
+2024 recommendation on digitalisation of SMEs: Intensify action on digitalisation of business,
+starting with providing a comprehensive overview of the available support measures and identifying
+potential gaps in terms of meeting existing needs, as well as with ensuring the good functioning of
+the EDIHs.
+
+Romania made some efforts to address the recommendation through new policy actions in 2024.
+The training scheme for nine emerging and advanced technologies is promising, but some SMEs
+
+
+                                        9 Romania
+
+
+
+continue to flag cumbersome procedures. A stronger cooperation with EDIHs could improve the
+situation further, as well as linking support measures to improved access to finance.
+
+Take up of cloud/AI/data analytics
+
+
+
+
+
+In 2024, only 3.1% of enterprises in Romania were using AI technology, after growth of 103.3%,
+significantly below the EU average of 13.48%. The country did not provide a national trajectory point
+for 2024. However, large enterprises demonstrated a relatively higher rate of AI use (11.26%)
+compared to SMEs (2.78%). This corresponds to a gap of 8.48 percentage points between SMEs and
+large enterprises, which is much lower than the average EU gap of 28.53 percentage points. While the
+national target set in the roadmap of 10% is very low compared to the EU level target of 75%, it could
+prove difficult to reach at the current pace.
+
+Adoption of cloud, data analytics, and the three technologies together were not measured in 2024.
+
+In 2023, only 15.52% of Romanian firms adopted cloud technologies, significantly below the EU
+average of 38.97%. More specifically, SMEs had a lower adoption rate of 14.8%, while 36.03% of large
+enterprises utilised cloud services. This resulted in a 21.23 percentage point difference in uptake
+between SMEs and large enterprises in Romania, which was lower than the EU level gap of 31.68.
+Nevertheless, cloud adoption by large enterprises in Romania ranked last in the EU 2023.
+
+The 2023 data indicates that 21.87% of Romanian enterprises adopted data analytics technologies,
+below the EU average of 33.25%. Of these, uptake reached 20.95% among SMEs (approximately 1 in
+5), while the uptake among large enterprises was significantly higher at 48.36% (but still the lowest in
+the EU). This reflects a gap of 27.41 percentage points between SMEs and large enterprises, which is
+lower than the EU gap of 39.72 percentage points.
+
+When taking the three technologies together in 2023, 28.74% of enterprises in Romania engaged
+with either AI, cloud, or data analytics technologies (no 2030 target was presented), a figure which
+is significantly lower than the EU average of 54.7%. More specifically, uptake among SMEs was slightly
+lower at 27.63%, while large enterprises demonstrated a notably higher rate of 60.42%. This indicates
+a percentage point difference of 32.79 in uptake between SMEs and large enterprises in Romania,
+which is in line with the EU level gap.
+
+AI
+
+The Romanian Government adopted the National Artificial Intelligence Strategy in July 2024. The
+Strategy should support the Romanian Government with  standardising,  operationalising and
+regulating AI development in Romania and manage the risks that the technology can bring.
+
+
+
+                                       10 Romania
+
+
+
+In September 2024, Romania announced the launch of the Romanian AI Hub (HRIA). The five-year, EUR
+65.25 million project, coordinated by the National University for Science and Technology (Politehnica)
+Bucharest, along with six other universities and eight private companies, will develop advanced
+research infrastructures, will attract researchers and will train AI specialists and facilitate technological
+transfer from research to market.
+
+Cloud
+
+No new development relevant to the 2025 Digital Decade report.
+
+Data analytics
+
+No new development relevant to the 2025 Digital Decade report.
+
+2024 recommendation on cloud: Stimulate the adoption of next generation cloud infrastructure and
+services by companies of all sizes, including by liaising with the Cloud IPCEI Exploitation office and/or
+the Member States participating in the IPCEI-CIS;
+
+Romania did not make progress in addressing the recommendation in 2024.
+
+Unicorns, scale-ups and start-ups
+
+Romania is among the 6 EU Member States without a unicorn type company in the digital sector.
+However, in recent years, Romania has seen the emergence of several successful start-ups in areas
+such as robotics and process automation, cybersecurity, fintech and e-commerce.
+
+The country has significant potential in the ICT field, with the start-up ecosystem in Bucharest valued
+at EUR 35 billion in 2023, making it one of the top 10 emerging cities for entrepreneurship value
+creation, according to a Startup Genome report. More generally, the Romanian ICT sector is one of the
+most important sectors in the economy in terms of employment, accounting for 7.1% of GDP in 2023.
+According to the Romanian roadmap, the ICT sector is increasingly specialised in areas such as
+cybersecurity and process automation, and more and more considered as an engine of business
+growth in Romania.
+
+The other key factor that could negatively impact the Romanian ICT industry in the medium term is
+the elimination of fiscal incentives for the sector. This measure has direct implications on the ICT
+employee salaries and the profitability of ICT companies in Romania. Based on data from the ANIS
+2024 Report on the impact of the ICT Industry on Romania’s economy indicates a potential negative
+impact of over 26% on company profitability for 2024 and 2025.
+
+Among key barriers to innovation, stakeholders mentioned a lack of fiscal incentives for R&D
+activities, a lack of innovation centres and incubators in the country and lack of knowledge and
+support for registering intellectual property. Key support measures here could include dedicated
+public/EU funding, increased industry/academia cooperation and stronger involvement of public
+authorities, including at local level, to stimulate innovation.
+
+Most of the ICT activity in Romania is outsourcing for international companies, which can put the
+sector at risk both in the short term, based on how international demand fluctuates, and the long-
+term, if salaries increase and low labour cost is no longer a key competitive advantage.
+
+Yet the sector still has significant untapped potential in terms of R&D intensity, which remains lower
+than EU averages. While the Start-up Nation programme (EUR 446 000 000 via the European Social
+Fund) aims to stimulate digital entrepreneurship, access to capital, and in particular to risk capital, also
+
+
+                                       11 Romania
+
+
+
+remains difficult and below the EU average. Romanian companies still predominantly rely on internal
+financing to support their investments and operations (73% of total investment finance), with external
+financing representing only 26%. This heavy reliance on internal funds raises major challenges for
+companies, especially SMEs which account for over 99% of the companies in the country. Most
+external financing comes from bank loans, with companies reluctant to explore non-traditional
+financing options. In addition to recent measures promoted by the state for a more dynamic
+investment environment, greater participation from institutional investors as well as improving the
+promotion of available financing schemes and increasing financial literacy overall could also help
+bridge the financing gap.
+
+The 2030 targets set in the Romanian roadmap in relation to unicorns, scale-ups and start-ups include
+5 000 innovative digital SMEs, a 2% contribution to GDP of all innovations realised in Romania and four
+unicorns founded in Romania and active globally, with either headquarters or secondary offices in
+Romania. Achieving these targets will be challenging and will require an intensification of the measures
+to support the Romanian business environment as a whole, with a focus on start-ups, simplification
+and access to capital.
+
+2024 recommendation on unicorns: Extend the measures to support an innovative, R&D driven ICT
+sector, as part of the competitiveness and technological leadership objectives in the roadmap.
+
+Romania made limited progress in addressing the recommendation in 2024. The Start-up Nation
+programme is well known and has continuously increased the available funds (100% EU funding in
+2024). Nevertheless, problems persist, particularly in the scale-up phase, essential for achieving
+unicorn status. Romanian companies continue to rely on own resources to invest, which hampers
+growth. Because of the lack of funding, the ICT market remains outsource driven and averse to risk.
+
+Strengthening Cybersecurity & Resilience
+
+In Romania, 46.81% of individuals undertook at least one measure to protect their data online,
+considerably below the EU average of 69.55%. In addition, only 21.72% of Romanians took three or
+more actions (and therefore could be considered as having above basic digital safety skills). Reading
+privacy policy statements was the most common action (30.73%), while checking if websites where
+personal data was provided were secure was the least common (6.78%).
+
+
+
+
+
+                                       12 Romania
+
+
+
+The number of enterprises that experienced ICT security incidents leading to unavailability of ICT
+services due to an external attack (e.g. ransomware attacks, denial of service attacks) slightly
+decreased in Romania, from 3.64% in 2022 to 3.41% in 2024, virtually the same as the EU average
+(3.43%). However, Romanian enterprises are more prone to incidents leading to the destruction or
+corruption of data due to hardware or software failures (12.09%) than their EU peers (3.87%),
+indicating that attacks on Romanian entities tend to be data-driven and likely financially motivated.
+
+91.67% of Romanian enterprises deployed some ICT security measures (near the EU average of
+92.76%), with 67.51% of enterprises making their employees aware of their obligations in ICT security
+related issues, well above the EU average (59.97%).
+
+Romania is below the EU average for deploying of secure internet standards, such as the roll-out of
+Internet Protocol version 6 (IPv6) for the end users (28%, EU average: 36%), actually decreasing
+compared to 2023. On the server side, Romania is well below the EU average (6%, against 17% for the
+EU). IPv6 is an important protocol as it ensures the scalability, stability, and security of the internet.
+The deployment of this new version is increasingly urgent, as traditional IPv4 addresses have been long
+depleted. Domain Name System Security Extensions (DNSSEC) is also an important standard to be
+rolled out as it introduces security features to DNS. In Romania, the DNSSEC validation rate is 4% (Q3
+2024), significantly below the EU average of 47% and last in the EU.
+
+Overall, Romania performs near the EU average in certain cybersecurity indicators, but gaps persist
+in getting individual users to protect their data online and the use of DNSSEC validation.
+
+According to the Digital Decade Eurobarometer 2025, 71% of Romanian citizens think that an improved
+cybersecurity, better protection of online data and safety of digital technologies would facilitate their
+daily use of digital technologies. An increase of five percentage points compared to last year, reflects
+the growing concern of Romanians about this subject.
+
+A study from Mordor intelligence estimates the size of the Romanian cybersecurity market at EUR
+175 million and an estimated growth to EUR 293 million by 2030. This increase could be the result of
+a higher demand for cybersecurity solutions, changes in legislation (see below) and increased pace of
+digitalisation in both the public and private sectors. The biggest gaps faced by Romania’s cyber industry
+are access to trained cybersecurity professionals and the hesitance of small companies to invest in
+adequate cybersecurity solutions, mainly due to cost reasons.
+
+Romania has transposed the NIS2 Directive in its national legislation in December 2024, via an
+Emergency Government Ordinance no. 155/2024. Transposing NIS2  is a key step in improving
+Romania’s cyber preparedness, taking into account the increased level of digitalisation and the
+intensification of cyber incidents that the country faces (for example in the first quarter of 2024, 26
+Romanian hospitals nationwide were affected by an attack on a managed service provider, with a direct
+impact on hospital operations. Most of the hospitals were able to resume normal operations within a
+few days).
+
+Romania has a National Cybersecurity Strategy in place, as well as an accompanying Action Plan
+covering the 2022-2027 period. The strategy mainly aims to strengthen the security and resilience of
+ICT networks and systems, to strengthen the regulatory and institutional framework for cybersecurity,
+including  international cooperation, and to  build  public-private  partnerships. The  strategy  is
+coordinated and implemented by various governmental bodies including the Romanian National Cyber
+Security Directorate, set up in 2021 under the responsibility of the Prime Minister, and ANCOM.
+Preparations are underway for a new national cyber security strategy.
+
+
+                                       13 Romania
+
+
+
+Both the Romanian National Cyber Security Directorate (DNSC) and the National Coordination
+Centre (NCC RO) applied to multiple projects funded by the European Cybersecurity Competence
+Centre, including an EUR 7.2 million project dedicated to strengthening the administrative capacity of
+the NCC RO. The two institutions are also active in projects that aim to improve the preparedness and
+cyber resilience of SMEs (Cybersecurity Deployment Preparedness Support, Capacity and Capabilities
+– CYSSDE and SECURE  - Strengthening EU SMEs Cyber Resilience). NCC RO also supports the
+registration of the Romanian cyber community, in line with the European Cybersecurity Competence
+Centre decision on community guidelines. This is expected to build a stronger community of cyber
+experts, including SMEs, academia and NGOs.
+
+Other notable activities concern awareness raising campaigns and support measures for cybersecurity
+skills: the National Cyber Security Olympiad, started in 2024, is continuing in 2025, leading to a
+bootcamp that prepares the national team for the European Cybersecurity Challenge; the first batch
+of authorized cybersecurity trainers has been published; several new university programmes on cyber
+skills; an annual cyber security conference; participation in several cybersecurity related projects under
+Horizon Europe and Digital Europe Programme.
+
+2024 recommendation on cybersecurity: (i) Extend the roadmap to better reflect the growing interest
+in and activities related to cybersecurity, setting clear objectives in this respect; (ii) Continue the
+implementation of the 5G Cybersecurity Toolbox to ensure secure and resilient 5G networks.
+
+Romania made significant progress in addressing the recommendation in 2024. Romania transposed
+the NIS2 Directive in the national legislation, which should foster a higher level of cybersecurity overall
+for the country. It has continued to implement the 5G Toolbox and improved the cybersecurity
+posture of its 5G networks.
+
+
+
+
+
+                                       14 Romania
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Romania continues to struggle with basic and advanced digital skills. Significant resources have been
+allocated to remedy the issue, including by promoting digital skills throughout the education process,
+but this is a systemic problem that can only be addressed in the long term. Fewer resources are
+allocated to training those already employed, although there is now a comprehensive strategy in place
+to enhance the digital capabilities of civil servants. At the same time, Romania performs well in
+educating ICT specialists but struggles with retaining talent in the country.
+
+A large share of NRRP resources have been allocated to the digitalisation of the public sector. New
+initiatives such as the Governmental cloud, ROeID and the Single Digital Portal have the potential to
+radically change the  current low performance  levels.  Considerable scope  for  simplification,
+interoperability and improving user centricity remains.
+
+According to the 2025 Eurobarometer, 67% of Romanians think that accessing public services online
+will be important for their daily life in 2030. Concerning human support to help access and use digital
+technologies and services, 67% consider it would improve their daily use of digital technologies, and
+79% think public authorities should consider it important to ensure that people receive proper human
+support to help them adapt to the changes in their lives brought about by digital technologies and
+services.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+Romania continues to underperform on basic digital skills. According to data from 2023, 27.7% of
+Romania’s population had basic digital skills (2030 national target of 50%), significantly below the
+EU average of 55.56%.
+
+While there is no data for 2024, a breakdown by demographic factors provides for the following
+insights:
+
+     -   Gender gap: Romania’s gender gap in digital skills is average, with a 2.59 percentage point
+        difference between men at 29.06% and women at 26.47%. This gap is just over the EU average
+        (2.23pp), suggesting some discrepancy in digital skills between genders.
+     -   Education level: Educational attainment in Romania correlates with digital skill levels. Among
+       those with higher education, 63.93% have at least basic digital skills, notably less than the EU
+       average (79.83%). The situation is more pronounced for those with the least formal education,
+       only 12.58% of whom have at least basic digital skills (33.61% for the EU).
+     -   Living areas: Rural residents in Romania have the lowest levels of at least basic digital skills at
+       20.99%, far below the EU average for rural areas (47.50%).
+     -  Age groups: The 16 to 24-year-old age group in Romania is the most digitally skilled, yet their
+        proficiency rate of 47.19% is still far below the EU average (69.98%). The 65 to 74-year-old
+
+
+                                       15 Romania
+
+
+
+       group demonstrate very few digital skills at 6.17%, considerably lower than the EU average
+        for their age group (28.19%).
+
+Overall, there are clear indications of a digital skills gap that preponderantly affects people living in
+rural areas and the elder population.
+
+Romania underperforms  in the  Digital
+Skills Index competencies, lagging behind
+the EU average in all categories. Its best
+performance  is  in  communication  and
+collaboration skills at 87.71%, just shy of the
+EU average. The area most  in need of
+improvement  is  digital content creation,
+with a low score of 40.89%, substantially
+below the EU average (68.28%).
+
+Extensive efforts are ongoing to address the
+issue, part of the broader education reform
+in the country. Some positive developments
+indicate that the importance of integrating
+digital technology in the education system
+is widely acknowledged and a key feature in
+improving formal education at all levels.
+
+In 2025, the Ministry of Education and
+Research’s budget has been increased by 9.58% compared to 2024, with education as a whole now
+receiving an estimated 4.5% of GDP. Part of this increase is directly correlated with NRRP investments,
+including early school leave prevention, endowing schools with necessary materials and dual learning.
+It is important that the concept of acquiring the necessary digital skills is integrated continuously in
+the curriculum and represents a key KPIs for investments throughout the entire learning cycle. This
+needs to be accompanied by clear training programmes for teachers, so that they have the necessary
+competences to teach the necessary digital skills to their students. To this end, a recent announcement
+from the Romanian Ministry of Education intending to train over 100 000 educators and give them the
+necessary skills they need  is a positive development. Another recently announced pilot-project
+between the Ministry of Education and Microsoft will aim to integrate AI in educational institutions,
+aiming to streamline teacher’s work and optimise the students’ learning process.
+
+Legislative measures have  also been adopted,  including the National Framework  for  Digital
+Competence of Education Professionals (DigCompEdu) and the National Framework for Digital
+Competence of Students. These frameworks provide a structured approach to developing digital skills
+and offer clear guidelines for teachers to integrate technology into their teaching practices.
+
+Furthermore, Romania’s accession process to the OECD has reached a significant milestone, with the
+country receiving the formal opinion in December 2024. This step confirms the completion of the
+evaluation process and the alignment of Romania’s policies with OECD standards in education and
+skills and demonstrates the country's commitment to improving its education system and aligning it
+with international best practices.
+
+The Romanian workforce continues to have low digital skills, with important consequences for the
+labour market and the country’s digital transition objectives. With a shrinking working population,
+
+
+                                       16 Romania
+
+
+
+projected to decline by 23.7% by 2050, there are strong indications that skills gaps will lead to growing
+labour shortages, potentially threatening competitiveness.
+
+While there appears to be increasing support for education and active labour market policies
+(integrating the unemployed, training them to acquire digital skills), training activities for the active
+workforce largely seem to be left in the hands of the private sector. At the same time, Romania’s
+roadmap outlines a comprehensive strategy to enhance the digital capabilities of its public sector
+workforce, supporting both the  digital  skills and public service digitalisation objectives. Three
+authorities have a dedicated role in building a digital competence framework for civil servants – the
+Authority for Digitalisation of Romania, the National Authority for Civil Servants and the National
+Institute for Administration. The Project, which benefits from financial assistance from the EU under
+the Technical Support Instrument, will map what digital competencies are needed by the Romanian
+civil service; develop a general digital competency framework and issue recommendations for its
+operationalisation.
+
+The section of the roadmap dedicated to digital skills is notably detailed, comprising 14 distinct
+measures that primarily focus on educational reforms and investments. Although specific budget
+allocations are not provided, it is clear that this objective receives substantial funding, with the
+Recovery and Resilience Facility being the primary contributor, followed by cohesion policy funds.
+
+In summary, Romania’s digital skills profile has significant room for improvement and is well below
+the EU average, with glaring societal divides based on age, education level and living areas.
+
+2024 recommendation on basic digital skills: (i) Intensify the measures related to upskilling and
+reskilling of the workforce; (ii) Continue to improve the quality and the relevance of courses, teaching
+
+digital skills not only as a separate subject but also integrating digital skills and digital education into
+all levels, while taking a cross curricular approach.
+
+Romania made good progress in addressing the recommendation in 2024. Multiple programmes to
+stimulate basic digital skills acquisition are in place and will likely lead to an increase of basic digital
+skills. The measures to support education could have a major impact in the medium and long term,
+but sufficient political will and careful implementation will be required. The digital gaps affecting rural
+areas as well as the older population needs to be addressed, as it could hamper efforts to digitalise
+public service (primarily limited uptake).
+
+Romania still needs to do more to support the upskilling and reskilling of workers. Key potential
+measures could include integrating life-long learning policies in upskilling and reskilling schemes and
+constant dialogue between the education and private sectors to understand the market needs and
+adapt the school curricula accordingly.
+
+ICT specialists
+
+ICT specialists represent 2.8% of total employment in Romania (2030 national target of 4%), with a
+growth rate per year of 7.7%, above the EU rate of 4.2%. The country did not provide a national
+trajectory point for 2024. While this number suggest the sector is growing at a faster rate than the EU,
+the percentage has remained stagnant (2.8% in 2022, 2.6% in 2023).
+
+When examining the gender breakdown of ICT specialists, Romania shows a higher percentage of
+female ICT specialists compared to the EU average. In 2023, 26.0% of ICT specialists in Romania were
+female, compared to the EU's 19.4%. This figure rose to 27.3% in 2024, while the EU's percentage
+
+
+
+                                       17 Romania
+
+
+
+increased marginally to 19.5%. Romania's growth rate of 5.0% in female ICT specialists outpaces the
+EU's 0.5%, indicating a positive trend in gender diversity within the ICT sector.
+
+Overall, however, there is considerable scope and reason to improve the situation. 6.9% of all post-
+secondary education graduates are ICT specialists, putting Romania among the EU’s leaders. The
+discrepancy between the share of ICT graduates and employed specialists is explained to a large extent
+by the difficulty in retaining talent in Romania, but also by other aspects of the wider context, such as
+the low rate of post-secondary education graduates across the entire population.
+
+Nevertheless, the ICT sector is a growth engine for the Romanian economy, with the sector’s turnover
+increasing by double digits every year (Romania’s ICT sector turnover passed EUR 15.5 billion in 2023,
+with a 12,16% growth compared to 2022). At the same time, Romania’s ICT sector is primarily based
+on outsourcing, which makes it vulnerable to demand shifts globally. A slowing down of the ICT market
+worldwide is one of the factors that led to a lower growth rate in Romania, as well as the decrease in
+the number of ICT employees.
+
+In terms of labour market demand, Eurostat experimental statistics based on web scraping show that
+in Romania, the profiles of ‘software and applications developers and analysts’ are the most sought
+after, representing 57.2% of online job advertisements for ICT specialists (58.0% at EU level). Two types
+of profiles are more actively sought in Romania than in the EU in average: ‘information and
+communications technology service managers’ (6.4% of online job advertisements for ICT specialists),
+and ‘telecommunications and broadcasting technicians’ (2.3%).
+
+2024 recommendation on ICT specialists: Consider additional measures targeting to retain ICT
+specialists in the country.
+
+Romania made no progress in addressing the recommendation in 2024. Romania has eliminated all
+fiscal benefits previously offered to ICT employees. This, combined with broader uncertainty in the
+Romanian ICT market and fluctuating trends on international markets, could impact a key growth
+driver of the Romanian economy.
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+For digital public services, Romania scored 62.75 (2030 national target of 100), with a growth rate of
+20.2% compared to 2023, well above the EU average of 3.6%. The country did not provide a national
+trajectory point for 2024. For cross-border digital public services for individuals, Romania’s score was
+35.04 in 2023 and 50.85 in 2024, compared to the EU’s 68.37 and 71.28, respectively. Romania’s
+growth rate of 45.1% significantly exceeded the EU’s 4.3%. The share of people using government
+internet websites or apps is increasing year after year in Romania, from 23.55% in 2022 to 26.91% in
+2024. This remains far below the EU average of 74.71% in 2024, however.
+
+For digital public services for businesses, Romania’s total score was 55.14 (2030 national target of
+100), with a growth of +10.2% compared to 2023 but well below the EU’s score of 86.2. The country
+did not provide a national trajectory point for 2024. For cross-border digital public services for
+businesses, Romania’s score was 17.5 in 2024, significantly below the EU’s 73.76, respectively.
+Romania’s growth rate of 26.0% was substantially higher than the EU’s 0.9%.
+
+Romania’s total score for access to e-health records was 75.1 in 2024 (no target for 2030), below the
+EU’s score of 82.7. The country did not provide a national trajectory point for 2024. Romania’s growth
+rate of 28.2% compared to 2023 in this category was notably higher than the EU’s 4.5%.
+
+
+
+                                       18 Romania
+
+
+
+Romania’s digital public services landscape shows clear improvement, with significant growth rates
+across various sectors and a clear catching-up trend, although the absolute scores remain below the
+EU average.
+
+In the national roadmap, the Romanian authorities committed themselves to target scores of 100 for
+both digital services for individuals and for businesses, aligning the national targets to the EU level of
+ambition. While these targets are ambitious given Romania’s starting point, if the current level of
+progress is maintained, they could be reached by 2030. A significant number of reforms and measures
+have been carried out in recent years and are still ongoing. The roadmap estimates that these will start
+showing impact on the ground, and implicitly on the KPI performance of Romania, as of 2026.
+
+eID
+
+In 2024, the European Commission recognized ROeID as the eID system used by the Romanian
+Government, after testing on the system’s conformity according to the eIDAS Regulation. Following
+this approval, the ROeID system can be used cross-border in all relevant EU IT systems via the eIDAS
+nodes. The official application, also entitled ROeID, is now out of beta testing and fully available on
+mobile application stores. According to the latest data, the app already has over 110 000 active users.
+
+The Romanian NRRP includes a EUR 150 000 000 investment supporting the eID target. The project
+aims to provide 5 million citizens with electronic identity cards and digital signatures by 2026. The
+issuing of the new electronic identity cards was formally approved in March 2025 and a pilot project
+started in the County of Cluj, with the national distribution of the new cards already underway.
+Additionally, the new cards will also be available for children under 14 years old (not currently the
+case), for whom the new identity cards could also be used as travel documents.
+
+Digitalisation of public services for citizens and businesses
+
+April 2025 saw the start of the National Interoperability Platform’s implementation. This is a key
+element in the success of the digitalisation process, as the platform will enable public and private
+entities to exchange data in a secure and standardised environment, allowing for the implementation
+of the ‘once-only principle’. A sound operationalisation of the Platform could lead to significant
+simplification of existing procedures, reduce fragmentation between existing eGovernment solutions
+and increase interinstitutional cooperation and data exchange.
+
+A key development in 2024 was the physical installation of the dedicated cloud government
+infrastructure in December. The system has been built in partnership between the Romanian
+Digitalisation Authority, the Special Telecommunications Service and the Romanian Intelligence
+Service. Financed via the NRRP (EUR 100 million), this is deemed by the Romanian Government as a
+foundational step to digitising public services nationally, with 30 public institutions connected to the
+dedicated cloud component. The infrastructure is also believed to offer sufficient security, scalability
+and data processing power to meet the growing digital services demands of both users and public
+entities. The procurement process for the migration of public authorities’ applications has been
+launched in February 2025, supported by an EUR 170 million budget (NRRP resources), with technical
+and procurement support from the World Bank and the European Investment Bank. Because of the
+transition to the governmental cloud, Romanian authorities expect that over 30 public services will be
+available online by the end of 2025.
+
+The NRRP also envisages the creation of a Single Digital Portal (PDURo) aiming to help individuals
+and businesses access information on administrative procedures online, with the important
+administrative procedures for cross-border users being available online. The contract for implementing
+
+                                       19 Romania
+
+
+
+the project was signed in March 2024. The portal will replace the current Single electronic contact
+point and will be compatible with the Single Digital Gateway requirements. The new platform should
+be available starting from September 2025.
+
+One of the most advanced public platforms is ghiseul.ro, where taxpayers can pay their fiscal
+obligations online. An important measure to stimulate uptake of this means of payment is the 10% tax
+reduction that is offered by the Romanian state for those using the platform. According to the
+Romanian authorities, ghiseul.ro has over 2.6 million active users, with 1600 public institutions and
+400 payment procedures available, including payments for ID, passports and driving licenses.
+
+Another notable project, ‘Digitalisation of Employment Services’, has received EUR 17.4 million in
+funding to develop a new system that enables the online submission of documents, registration for
+benefits, and access to professional training programmes. The PULS project allows Romanian
+employers to access the Romanian National Employment Agency’s services digitally and declare job
+vacancies, request subsidies and submit documents.
+
+These major projects should considerably transform how public services are delivered in Romania.
+This is essential moving forward, as digitalisation can be a significant factor in how the public and the
+business environment perceive the interactions with the state.  If implemented correctly, digital
+technology can demonstrably simplify existing procedures and lead to win-win situations, particularly
+if they are not used to simply mirror what exists in the real world, but rather lead to streamlining
+existing procedures, taking into account users’ needs.
+
+2024 recommendation on digital public services: Maintain the efforts needed to implement the
+ambitious ongoing agenda for the digitalisation of public services, including by ensuring sufficient
+levels of funding, project management capacity and ICT specialists, and extensive/strong coordination
+across the various relevant authorities.
+
+Romania made significant progress in addressing the recommendation in 2024. Overall, it is essential
+that the announced and ongoing projects become reality and are maintained and developed over
+time. The public entities running these projects should have the necessary resources (finance, project
+management, ICT specialists) to continue them after the original contract is finalised. Streamlining of
+the multiple existing projects that have been announced as the ‘single point of contact’ could also be
+envisaged.
+
+e-Health
+
+Romania improved its e-health performance in 2024. More data has been made available digitally
+and more people gained the technical ability of access their electronic health records in 2024.
+Nevertheless, less than 50% of the categories of healthcare providers are connected and supplying
+data.
+
+While individuals can access their electronic health records via an online portal, a mobile application
+does not seem to be available. Individuals can authenticate themselves with the national eID scheme,
+based on two factor authentication. Online access services do not seem to follow the guidelines on
+web accessibility.
+
+The current Health Insurance Information Platform (PIAS) is outdated (set up in 2002) and frequently
+prone to ICT system failures (in February 2025, the platform encountered difficulties for extended
+periods of time due to technical issues, which led to multiple delays in patient treatment and
+difficulties in purchasing prescription medicine). The Romanian NRRP includes a project for the
+
+
+
+                                       20 Romania
+
+
+
+introduction and operationalisation of a new health insurance IT platform. The current platform will
+have to be kept functional until then.
+
+A new Strategy for the digitalisation of the health system was presented for public consultation in
+November 2024. The Strategy, which supports the broader National health strategy 2023-2030, is
+meant to use digital technology to ensure better integrated care for people. The digitalisation Strategy
+is built on four pillars – public policy, digital  skills, infrastructure and simulating industry and
+innovation. The NRRP is a core component of the strategy, financing the new PIAS, the digitalisation of
+public health entities, public hospitals and the development of remote medicine solutions.
+
+According to the 2025 Eurobarometer, 71% of Romanians think that digital technologies will be
+important when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for
+diagnosis diseases) during their daily life by 2030. This is a 9 percentage points increase compared to
+2024, reflecting the growing importance of this issue for Romanians.
+
+2024 recommendation on e-health: Expand the coverage of the online access service, make the data
+regarding medical devices/implants, laboratory tests, and medical images available to citizens through
+this online access service and onboard more categories of healthcare providers to it.
+
+Romania made good progress in addressing the recommendation in 2024. This momentum needs
+to be maintained. Furthermore, when implementing the new strategy for the digitalisation of the
+health system and the relevant projects, it is essential to take into account the main issues that are
+flagged by the platform users. On the citizens’ side, ease of use and extending coverage as much as
+possible are key priorities, particularly driven by the low level of digital skills and broad reluctance on
+taking up public  digital solutions. On the health practitioners' side,  priorities should include
+interoperability, standardisation, availability of multiple data types. On the platform operator’s side,
+sufficient computing and data storage power, maintenance and continuous platform upgrade should
+be key features going forward.
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+Romania's political landscape in 2024 rendered it an attractive target for disinformation campaigns,
+particularly in the context of the country's parliamentary and presidential elections in the second
+half of the year. Romania experienced a surge in political messages and advertisements on social
+media platforms, a phenomenon exacerbated by the high usage of social media among the population.
+
+To mitigate the risks associated with disinformation and ensure the integrity of democratic processes,
+Romanian authorities have been taking steps to ensure a better coordination between the Romanian
+digital  service  coordinator  (the  National  Authority  for Management  and  Regulation  in
+Communications) and all relevant institutions.
+
+Maintaining a constant dialogue with online platforms, taking into account the measures and tools
+provided by the Digital Services Act, needs to remain a priority. Such efforts are crucial in preserving
+the integrity of democratic processes in the face of increasing online political participation and
+opinion expression, which saw a significant spike in 2024 due to the electoral context. While under
+the EU average for all categories, Romanians were more active online in online consultations (8.82%),
+expressing their opinions on social media (15.89%) and using the Internet for political participation in
+general (18.59%) (EU averages of 10.05%, 16.48% and 20.45% respectively).
+
+
+
+
+                                       21 Romania
+
+
+
+The 2025 Eurobarometer shows that 78% of Romanians think that public authorities should prioritise
+shaping the development of Artificial Intelligence and other digital technologies to ensure that they
+respect our rights and values.
+
+Regarding online  safety, Romania reported the lowest share of the population  in the EU
+encountering hostile or degrading online messages (20.81%), well below the EU average (33.5%).
+Young people aged 16-24 reported higher exposure (26.64%) to such messages than adults (21.94%).
+Women reported the lowest figure in the EU, at 19.66%, which may indicate different trends in internet
+usage, but also possible underreporting.
+
+In spite of the positive measures adopted in 2023, including the National Strategy for the protection
+and promotion of children’s rights, cyber bullying remains an issue, with a recent survey from Save
+the Children Romania showing that 42% of children (6-17 years) experienced being offended or
+humiliated on social media, with 47% indicating that this happens at least once a month. The survey
+also indicates that 6 out of 10 children indicate that they have felt personally affected by negative
+experiences online. Such findings illustrate the need to strengthen media literacy training at all levels
+of education.
+
+According to the Digital Decade Eurobarometer 2025, 83% of Romanians think public authorities
+should take urgent action to protect children online regarding the negative impact of social media on
+children’s mental health.
+
+
+
+
+
+                                       22 Romania
+
+Leveraging  digital transformation  for a
+smart greening
+
+Romania adopted its national strategy on education and climate change in 2023. A positive
+development has been the development of the Action Plan to implement the strategy, which
+structures implementation activities on four objectives: a national education programme for the
+environment and climate, investing in sustainable school infrastructure, identifying the necessary
+educational resources and training education personnel in climate change and environmental
+concepts. Financing for the Action plan are planned to be obtained from the Ministry of Environment,
+Water and Forestry, NRRP projects, MFF projects, other financing mechanisms (public-private
+partnerships, etc.).
+
+Romania recently adopted a Sustainability Code, which comes with a dedicated platform to facilitate
+sustainability reporting that should improve how outcomes of measures taken are measured.
+
+The Romanian roadmap underlines that the major digitalisation efforts in the areas of public
+services, including the digitalisation of environmental services, have strong synergies with climate
+action. For example, the Start-up Nation Romania programme for 2024 covers the purchase of digital
+equipment/solutions with impact on resource savings and sustainability, including technology for
+waste collecting, recycle and reuse.
+
+The concept of energy efficiency is important for 19.43% of Romanians when purchasing electronic
+devices by the wider population, a percentage slightly higher than the EU average (19,35%). Similarly,
+the possibility of extending the lifespan of the product is also deemed more important by Romanians
+(14.59%) than the EU average (9.53%). However, both of these criteria are far less important than the
+device price (73.41%), performance (43.85%) and design (51.8%).
+
+Romanians tend to recycle their mobile, laptop and desktop devices at about the same rate as the
+EU average. Romania scores higher than the EU for selling old devices, particularly mobile phones
+(25.67% sold or given away by Romanians compared to the EU average of 18.05%) and laptops (18.47%
+sold or given away by Romanians compared to the EU average of 11.78%).
+
+According to the Digital Decade Eurobarometer 2025, 69% of Romanians consider digital technologies
+important to help fight climate change (below the EU average of 74%, but with an increase of 9
+percentage points compared to last year), while 68% of Romanian respondents think that ensuring
+that  digital technologies serve the green transition should be an important action for public
+authorities.
+
+2024 recommendation on leveraging digital transformation for smart greening: Develop a coherent
+approach to twinning the digital and green transitions. First, promote improvements in energy and
+material  efficiency of  digital infrastructures,  in particular data centres. Second, support the
+development and deployment of digital solutions that reduce the carbon footprint in other sectors,
+such as energy, transport, buildings, and agriculture, including the uptake of such solutions by SMEs.
+
+Monitor and quantify the emission reductions of the deployed digital solutions in line with the
+relevant EU guidance and with the support of the methodology developed by the European Green
+Digital Coalition, in view of future policy development, as well as of attracting relevant financing.
+
+
+
+                                       23 Romania
+
+
+
+Romania made limited progress in addressing the recommendation in 2024. More has been done to
+promote green objectives in funding programmes, such as Start-up Nation. The national strategy on
+education and climate change should lead to results long term, as well. Nevertheless, there is
+considerable scope to improve the situation. More can be done by studying and implementing
+appropriate existing best practices in terms of using digital technology to reduce carbon footprint,
+such as digital twins for buildings or smart farming techniques for agriculture.
+
+
+
+
+
+                                       24 Romania
+
+Annex I – National roadmap analysis
+
+ Romania’s national Digital Decade strategic roadmap
+ Romania adopted its national Digital Decade roadmap on 14 October 2024. The country report
+ published in July 2024, relied on the draft roadmap, shared in December 2023 by the Romanian
+ authorities. The difference between this draft and the formally endorsed document were not
+ substantial and do not alter the relevant findings of the above-mentioned report.
+
+ Romanian authorities have not submitted an adjustment to the roadmap. They declared their
+ intention to do so in line with article 8 (3) of the decision establishing the Digital Decade Policy
+ Programme, but at the time of writing, neither a formally endorsed document, nor its draft, has
+ been shared with the Commission.
+
+ There  is hence no  information  available on measures  taken  to  address  the  following
+ recommendation issued in 2024:
+
+       -   TARGETS: (i) propose targets and trajectories for edge nodes and e-health; (ii) revise the
+         unicorns target in line with the current KPI definition; (ii) Raise the level of ambition for 5G,
+         basic digital skills, ICT specialists, digitalisation of SMEs and the take up of advanced digital
+         technologies.
+       -  MEASURES: (i) review the measures supporting the targets for the digitalisation of business
+       and take up of advanced digital technologies, to ensure a more comprehensive overview,
+         as well as the objectives of the programme;  (ii) continue the institutional process to
+        develop policies in the areas of semiconductors, edge, and quantum; (iii) review the budget
+         description of the measures funded by national budget and cohesion policy; (iv) classify the
+        measures according to the target and/or objective that they contribute to; (v) Provide more
+         information on the implementation of digital rights and principles (and Digital Decade
+         general objectives), including on contributing measures.
+                          Measures and budget in national roadmap6
+
+
+
+
+
+6 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       25 Romania
+
+
+
+The roadmap includes 97 measures, with a total value of almost EUR 3.59 billion (about 1.01% of
+GDP). They cover all Digital Decade targets, but some measures are deemed to contribute to more
+than one target (e.g. measures related to digitalisation of businesses), making precise attribution
+difficult.
+
+
+
+
+
+                                      26 Romania
+
+Annex II – Multi-country projects and best
+practices
+
+ MCP and EDICs
+
+ Romania is a member of the EUROPEUM EDIC. Romania is also an observer to the Alliance for Language
+ Technologies EDIC and is working towards setting up an EDIC on agri-food.  Romania is directly
+ participating  in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT).
+ Romania is also a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+ Romania has contributed to the Best Practice Accelerator7 by sharing one case of best practice in the
+ Digital Skills cluster (Skills in Advanced Technologies for SMEs).
+
+
+
+ EU funding for digital policies in Romania
+ Romania allocates 22% of its total recovery and resilience plan to digital (EUR 5.8 billion)8. In addition,
+ under cohesion policy, EUR 2.7 billion (representing 9% of the country’s total cohesion policy funding),
+  is dedicated to advancing Romania’s digital transformation9. According to JRC estimates, EUR 6.5 billion
+ directly contribute to achieving Digital Decade targets (of which EUR 4.8 billion comes from the RRF
+ and EUR 1.7 billion from cohesion policy funding)10.
+
+
+
+
+
+7 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and
+challenges encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available
+to Member States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters:
+Digital Skills, Green IT, and the Uptake of Digital Technologies.
+8 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+9 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+10 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       27 Romania
+
+Annex III – Digital Rights and Principles11
+
+
+
+
+
+Activity on Digital Rights and Principles (figure 1)
+
+Romania has been relatively active in implementing digital rights and principles, with 62 initiatives
+overall and 2 new initiatives launched in 2024, showing limited progress towards its commitments.
+Romania is most active in the area of Putting people at the centre of the digital transformation (I).
+There is room for improvement, especially with regards to A fair digital environment (III) and
+Sustainability (VI) where less activity has been identified.
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators developed by the support study illustrate the level of implementation
+of digital rights initiatives on the ground. Based on available data, they estimate the impact of
+measures implemented by key stakeholders in Romania (mainly national government) and how these
+are perceived by citizens.
+
+The indicators suggest that Romania is most successful in implementing commitments related to
+Putting people at the centre of the digital transformation (I). Romania should strengthen efforts in
+areas where the impact of digital rights initiatives appears to be limited, notably on Freedom of
+choice (III).
+
+According to the Special Eurobarometer 'Digital Decade 2025’, 46% of citizens in Romania think that
+the EU protects their digital rights well (a 1% increase since 2024). This is above the EU average of
+44%. Citizens are particularly confident about getting an affordable high-speed internet connection
+for everyone in the EU (65%, above the EU average of 57%). They are most worried that their right to
+a safe digital environment and content for children and young people is not well protected (44%,
+below the EU average of 48%).
+
+
+
+11 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       28

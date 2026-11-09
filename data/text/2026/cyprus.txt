@@ -1,0 +1,1537 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 17.6.2026
+                                              SWD(2026) 155 final
+
+                                       PART 5/27
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2026 country report
+
+                                Accompanying the document
+
+         COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN
+       PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+             COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+
+         State of the Digital Decade 2026: Closing structural gaps and mobilising investments for
+                                      2030 and beyond
+
+             {COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+                                 {SWD(2026) 157 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE
+COUNTRY REPORT
+2026
+
+      CyprusCyprus
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+  Cyprus in the Digital Decade ............................................................................................................... 1
+
+  Funding for digital and multi-country projects ................................................................................... 2
+
+  A competitive, sovereign and resilient EU based on technological leadership .................................. 2
+
+   Protecting and empowering EU people and society ........................................................................... 3
+
+  Recommendations .............................................................................................................................. 3
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+   Building technological leadership: digital infrastructure and technologies ........................................ 5
+
+     Connectivity infrastructure ............................................................................................................. 5
+
+     Semiconductors............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 9
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ........................................................................................ 9
+
+     Take up of advanced technologies ................................................................................................ 10
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 12
+
+   Strengthening Cybersecurity & Resilience ........................................................................................ 13
+
+Protecting and empowering EU people and society ............................................................................. 16
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 16
+
+     Equipping people with digital skills ............................................................................................... 16
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 20
+
+Leveraging digital transformation for a smart greening ....................................................................... 26
+
+Annex I: National roadmap analysis ...................................................................................................... 28
+
+Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 30Cyprus
+
+Executive summary
+
+Cyprus possesses a strong foundation for its digital transition with its extensive gigabit connectivity
+coverage across the territory, performing well in all key connectivity indicators. A significant proportion
+of SMEs in Cyprus have reached at least a basic level of digital intensity, but few have achieved a higher
+level of digital intensity. In terms of AI uptake, Cypriot enterprises are lagging behind the EU average
+overall. At the same time, the share of ICT specialists in employment in the country is around the EU
+average, albeit with no signs of progress.
+
+The slow adoption of AI by enterprises in Cyprus may limit their ability to  fully harness the
+transformative potential of this technology across all economic sectors and enhance competitiveness.
+Additionally, while the share of the population with at least basic digital skills is improving, the current
+level remains a constraint, limiting access to digital opportunities, public services, and professional
+development. This skills gap could further hinder participation in the labour market and reduce the
+broader benefits of a digital economy and society. Online access to public services for people has
+improved, but it is still below the EU average.
+
+Cyprus demonstrates digital leadership in strategic areas, for example, by participating in a major
+European project to strengthen digital sovereignty. Cyprus’s Quantum Communication infrastructure
+(CYQCI) initiative is part of a pan-European project to develop a secure, scalable quantum network
+connecting the national quantum communication infrastructures of four EU countries. The project will
+provide ultra-secure communication channels reinforcing Europe’s cybersecurity resilience. In terms
+of cross-border cybersecurity cooperation, Cyprus is also hosting one of the three EU Cyber Hubs
+established under the Cyber Solidarity Act. Through its federated and standards-based approach, the
+project contributes to the broader European vision of interconnected and resilient cross-border
+security operation centre (SOC) ecosystems. Furthermore, with its dynamic start-up ecosystem, Cyprus
+has implemented measures to attract and facilitate the relocation of start-ups, reinforcing its position
+as an emerging start-up ecosystem.
+
+Cyprus in the Digital Decade
+
+Cyprus shows a substantial level of ambition in its contribution to the Digital Decade having set 14
+national targets (out of a possible 14), 86% of which are aligned with the EU 2030 targets. In its national
+roadmap, Cyprus provided 13 trajectory points for 2025 (out of 13 analysed). The country is following
+them well with 77% considered on track. Cyprus addressed 40% of the five recommendations issued
+by the Commission in 2025, either by implementing significant policy changes (20%) or making some
+changes (20%) through new measures. According to the national roadmap, 50% of the measures will
+come to an end by the end of 2026. The total public budget associated with these measures is
+EUR 117 million, representing 16% of the total public budget outlined in the roadmap.
+
+According to the special Eurobarometer on ‘the Digital Decade 2026’, 89% of people in Cyprus consider
+that digital policy should have a very high/high priority for the EU in shaping Europe’s future. They also
+think that, in the next 10 years, the EU should cooperate with Member States to:  (i) reinforce
+cybersecurity and protection from online threats (93%);  (ii) promote digital education and skills
+programmes (91%); and (iii) strengthen the regulation of online platforms (e.g. online social media
+networks, marketplaces, app stores, etc.) (88%). In addition, 76% of Cypriot respondents think that the
+EU should reduce its dependencies on digital services from third countries, and 85% that the EU should
+prioritise investments in digital infrastructure and services that are developed and controlled in
+
+
+
+                                        1Cyprus
+
+
+
+Europe. Meanwhile, 49% would be willing to switch to an EU-based digital service provider even if it
+meant slightly higher costs.
+
+Funding for digital and multi-country projects
+
+Cyprus is allocating 30% of its total recovery and resilience plan (RRP) to digital (EUR 0.3 billion). In
+addition, under cohesion policy, EUR 0.1 billion – representing 12% of the country’s total cohesion
+policy funding – is also being dedicated to advancing Cyprus’s digital transformation.
+
+Cyprus is a member of the EUROPEUM-EDIC (European Digital Infrastructure Consortium) set up to
+deepen cooperation on blockchain services. Cyprus is also a participating state in the EuroHPC Joint
+Undertaking (JU) and of the Chips JU.
+
+                                          Cyprus                 EU                Digital Decade
+ Digital Decade KPI (1)                                                                                           target by 2030
+                                              Last       DESI 2026     Annual     National      DESI     Annual     CY      EU
+                                           available     (year 2025)    progress    trajectory    2026     progress
+  Fixed Very High Capacity Network        89.1%        95.5%       7.2%      84.0%     85.5%      3.7%     100.0%    100%
+
+  Fibre to the Premises (FTTP)             89.1%        95.5%       7.2%      84.0%     74.1%      7.1%     100.0%          -
+
+  Basic 5G coverage                    100.0%       100.0%       0.0%      100.0%     96.8%      2.6%     100.0%    100%
+
+  Edge Nodes (estimate, new                         -           14                 -          2        7451             -        10     10 000
+  methodology)
+
+  SMEs with at least a basic level of        67.3%        74.4%       5.1%      75.6%      71.4%     11.0%     90.1%    90%
+  digital intensity *
+  Cloud *                             45.5%        48.5%       3.2%      54.2%      46.7%      9.5%     75.0%    75%
+
+   Artificial Intelligence                    7.9%         9.3%       17.3%      11.0%      20.0%     48.0%     75.0%    75%
+
+  Data analytics *                       33.5%        42.8%       13.1%      37.2%      39.9%      9.5%     75.0%    75%
+
+  AI or Cloud or Data analytics *           58.0%        64.7%       5.6%              -        63.2%      7.5%            -      75%
+
+  Unicorns                              4           4         0.0%        0        324      10.2%       5       500
+
+  At least basic digital skills *              49.5%        55.8%       6.2%      55.0%      60.4%      4.3%     80.0%    80%
+
+  ICT specialists                         5.0%         4.9%        -2.0%      6.1%       5.0%      2.0%     10.0%    ~10%
+
+  e-ID scheme notification                                  Yes
+
+  Digital public services for citizens           77.6          80.3        3.5%        80.0        84.6      2.8%      100.0     100
+
+  Digital public services for businesses        86.0          85.9        -0.1%       89.3        88.6      2.7%      100.0     100
+
+  Access to electronic health records         75.4          78.8        4.4%        78.2        86.5      4.6%      100.0     100
+
+  (1) Indicators full description, metadata and sources in the DESI 2026 methodological note
+  (2) Last available data is DESI2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year
+  2023)
+  (3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap
+
+A competitive, sovereign and resilient EU based on technological
+leadership
+
+Cyprus continues to deploy its fixed gigabit network at a rapid pace. A very efficient symmetrical access
+regime has helped develop the networks, as has – in underserved areas – the implementation of a
+major investment project funded by the recovery and resilience facility (RRF), with full network
+deployment scheduled for mid-2026. The country also demonstrates strong performance in 5G
+coverage. Regarding digital infrastructure, Cyprus is active in all aspects of the security and resilience
+of submarine cables, which is increasingly important in the current geopolitical environment. It is
+intensifying its efforts to enhance the submarine ecosystem, having a strategic target to become a
+regional  connectivity hub. On the business  side, Cyprus shows promising advancements  in
+digitalisation of SMEs and uptake of cloud and data analytics by businesses, but there is room for
+
+
+
+                                        2Cyprus
+
+
+
+improvement in the adoption of artificial intelligence. Policies and initiatives aimed at enhancing these
+areas could further bolster Cyprus’s digital competitiveness, in particular the implementation of the
+upcoming new national AI strategy. Continued focus on digital transformation and investment in
+advanced technologies will be crucial for sustaining and enhancing Cyprus’s position in the digital
+landscape.
+
+Protecting and empowering EU people and society
+
+Cyprus continues to work towards narrowing the digital skills gap, although it demonstrates a positive
+trend in digital skills acquisition. Significant disparities based on education level and age, persist,
+particularly among older adults and those with low formal education. Cyprus is making progress in
+digital public services but still lags behind EU averages, particularly in cross-border services (including
+judicial services) and local government digitalisation, as well as in the digitalisation of its justice system.
+However, Cyprus is actively advancing the practical deployment of artificial intelligence in the public
+sector through its programme ‘AI-in-Government’ to support the development and implementation of
+innovative AI-driven solutions in key domains such as meteorology, labour market monitoring, and
+transport, contributing to improved public service delivery and enhanced decision-making. Cyprus is
+also developing an integrated national digital health ecosystem and participate in the European cross-
+border e-health services network. Currently, people have access to their health data through an online
+portal, but the mobile Health application is under development. Cyprus reached all major preparatory
+milestones and started the implementation phase in early 2026, but the project’s completion is
+expected by the end of 2027.
+
+ Recommendations
+
+ -   Adoption of AI by businesses: Swiftly turn the new national AI strategy into concrete support
+    measures for greater AI adoption by businesses, including SMEs, by: (i) developing targeted AI
+     capacity-building initiatives, particularly for traditional, non-ICT sectors; (ii) taking advantage of
+    the sectoral approach outlined in the EU Apply AI Strategy;  (iii) addressing cross-cutting
+     challenges, such as enabling an AI-ready workforce and attracting and retaining top AI talent; (iv)
+    promoting access for all types of enterprises (incl. SMEs, start-ups) to the recently created AI
+    Factory Antenna in Cyprus; (v) leveraging the widespread fixed high-speed broadband coverage
+    to accelerate efforts to create a local ecosystem of AI excellence around the AI Factory Antenna.
+
+ -   Building technological leadership: With a view to the sovereignty of the digital backbone
+     infrastructure of the island and the EU, secure investment to enhance Cyprus’s submarine cable
+    ecosystem, and to participate in the Team Europe strategy on Submarine cable security and
+     resilience for the Mediterranean regional sea basin.
+
+ -   Cybersecurity: Strengthen Cyprus’s cybersecurity resilience in response to ever-increasing risks,
+     especially to critical infrastructure (in particular submarine cables); further explore the use of an
+    experimental national quantum communication infrastructure to enhance protection of critical
+     assets.
+
+ -   Digital public services: Accelerate implementation of the digital transformation strategy for the
+     public sector, prioritising seamless and inclusive access to digital services for all citizens, with a
+    focus on weaker areas, such as: (i) boosting cross-border digital services, especially for Transport,
+     Health, Business Start-Ups, and Justice; and  (ii) supporting central and local authorities in
+     digitalising services. Improve the efficiency of the justice system by leveraging innovative digital
+    technologies to introduce well-functioning digital tools and procedures.
+
+
+
+
+                                        3Cyprus
+
+
+
+ -   Basic digital skills: Strengthen and expand targeted initiatives to enhance the digital skills of the
+    population. Provide accessible and tailored training programmes, especially for groups presenting
+    a lower percentage of at least basic digital skills, such as people with no or low formal education
+    and older people, and targeted awareness raising actions to help ensure inclusive development
+     of digital skills across all population groups.
+
+ -   E-health: Ensure swift implementation of ongoing projects to provide: (i) access to e-health
+    records through a mobile application ; (ii) timely availability of medical images and hospital
+    discharge reports, (iii) equality of access to electronic health records (EHRs) for all demographic
+    groups (e.g. by providing a legal basis and technical features for authorised persons to access
+    EHRs on behalf of others; an online access service that fully complies with web accessibility
+     guidelines and by promoting the use of e-health solutions also by people with no or low formal
+     education).
+
+
+
+
+
+                                        4Cyprus
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Building technological leadership: digital infrastructure and technologies
+
+Connectivity infrastructure
+Performance assessment
+
+
+
+
+
+Cyprus achieved coverage of 95.49% for fixed very high-capacity networks (VHCN) in 2025,
+surpassing the EU average of 85.54%. The country is on track according to its trajectory presented in
+the Digital Decade national roadmap. In 2024, Cyprus had 89.05% coverage and was already above the
+EU average of 82.49%. In terms of progress, this represents a 7.2% increase in one year, outperforming
+the EU’s growth of 3.7%. In sparsely populated areas, Cyprus’s VHCN coverage stood at 89.50% in 2025,
+exceeding the EU’s 66.66%. In 2024, Cyprus had 78.10% coverage and was already above the EU
+average of 61.87%. This represents an annual growth rate of 14.6% in Cyprus, compared to the EU’s
+7.7%.
+
+Cyprus’s fibre to the premises (FTTP) coverage was 95.49% in 2025, above the EU’s 74.13%. The
+country is on track according to its trajectory. In 2024, Cyprus had 89.05% coverage and was already
+above the EU’s 69.24%. This represents an annual growth rate of 7.2%, around the same as the EU’s
+7.1%. In sparsely populated areas, Cyprus’s FTTP coverage was 78.10% in 2024, compared to the EU’s
+58.76%. This figure rose to 89.50% in 2025, still above the EU’s 62.61%. The annual growth rate was
+14.6% in Cyprus, surpassing the EU’s 6.5%.
+
+Internet take-up is very high in Cyprus overall (97.48%) and is above the EU average (94.74%). The
+share of fixed broadband subscriptions for services of at least 100 Mbps (86.19%) exceeded the EU
+average (76.24%) in 2025.For fixed broadband subscriptions with speeds of 1 Gbps or more, Cyprus
+was lagging behind the EU average in 2025, with only 9.78% of subscriptions at this speed, compared
+to the EU’s 26.97%. Nevertheless, this reflects substantial annual growth up from 3.32% in 2024.
+
+
+
+
+
+                                        5Cyprus
+
+
+
+Cyprus already achieved full 5G coverage in 2024. In 2025, the figure remains 100%, above the EU’s
+96.79%, which is an increase of 2.6%. In comparison to full 5G coverage in sparsely populated areas in
+Cyprus, the EU average is 88.88% which is an increase of 11.7%.
+
+Cyprus’s 5G coverage in the 3.4-3.8 GHz band increased significantly in 2025 to reach 87.5%,
+surpassing the EU’s 74.75%. In 2024, Cyprus was only at 35.00%, below the EU’s 67.60%. This
+represents an annual growth rate of 150.0% in Cyprus, far exceeding the EU’s 10.6%. In sparsely
+populated areas, Cyprus’s coverage in this band was 28.0% in 2024, slightly above the EU’s 25.36%.
+This figure rose to 87.5% in 2025, significantly above the EU’s 33.71%, representing an annual growth
+rate of 212.5% compared to the EU’s 32.9%.
+
+Cyprus has demonstrated strong performance in all connectivity areas, fixed very high-capacity
+network (VHCN) coverage, fibre to the premises (FTTP) coverage, and 5G coverage. The country has
+consistently surpassed EU averages, with particularly impressive growth rates in sparsely populated
+areas. This suggests effective strategic planning and implementation, with a focus on sparsely
+populated areas which is commendable.
+
+There is no table for Cyprus presenting VHCN, FTTP and 5G coverage across NUTS-2 regions (the
+standard EU statistical nomenclature for regions in territorial analysis), since the country does not have
+administrative subdivisions classified under the NUTS system.
+
+Policy context and assessment of recommendations
+
+Cyprus remains committed to its national target of 100% gigabit connectivity coverage by 2030. The
+latest 2025 figures for both VHCN and FTTP are even above Cyprus’s forecast for that year in its national
+trajectory. Alongside targeted public investment projects, Cyprus’s planned reforms to facilitate and
+accelerate VHCN deployment, as outlined in the national strategic roadmap are producing significant
+and measurable improvements, highly contributing overall to the country’s digital transformation
+goals.
+
+In Cyprus, most of the obligations of the Gigabit Infrastructure Act (GIA) which entered into force in
+November 2025 are already embedded in national legislation. A very efficient symmetrical access
+regime, highly used by the telecom operators, has helped develop the networks. Collocation is widely
+used by operators and leads to cost reduction in deployment of the fibre networks over the years.
+Nonetheless, the National Regulatory Authority (NRA) – the Office of the Commissioner for Electronic
+Communications and Postal Regulation (OCECPR) – has launched a process to scrutinise the legislation
+and assess if additional adjustments are necessary to align it with the GIA. The NRA has also engaged
+in discussions with other authorities involved in implementing the symmetrical access regime (e.g. the
+Department of Public Works) to simplify procedures, remove access restrictions and contribute to
+reducing costs, also for the benefit of small-scale projects.
+
+The implementation of the major investment project for deploying VHCN in underserved areas in
+Cyprus is advancing very successfully. By the end of 2025, substantial progress had been achieved in
+all three intervention areas reaching 40 000 premises, with full network deployment scheduled for
+completion by mid-2026. A small number of households may remain unserved in particularly remote
+or geographically challenging areas where fixed infrastructure deployment is not feasible. These
+residual gaps will be fully addressed through targeted 5G Fixed Wireless Access (FWA) solutions
+delivering at least 100 Mbps, ensuring 100% coverage of all populated areas.
+
+
+
+
+
+                                        6Cyprus
+
+
+
+The second major investment project under the Recovery and Resilience Plan (RRP), the voucher
+scheme supporting uptake of VHCN services, was successfully completed in June 2025. In total,
+91 025 households benefited from the scheme. This significantly improved digital inclusion by
+providing more people, including those in remote and rural areas, with affordable access to high speed
+and secure broadband services.
+
+The switch-off of copper networks is progressing well. In June 2025, only 12.6% of the customers
+were still on copper networks in Cyprus. The current plan of the operator holding significant market
+power (SMP) is a full switch-off by the end of 2029.
+
+In 5G connectivity, Cyprus has already reached the EU 2030 5G coverage target, namely 100% of
+households covered by at least one 5G mobile network. The country is therefore on track according
+to its national trajectory.
+
+The decision to proceed with formal authorisation of the 26 GHz band has been taken by the Deputy
+Ministry of Research, Innovation and Digital Policy (DMRID). In 2025, pilot licences were granted to
+interested operators to  facilitate field-testing and evaluation of 26 GHz-compatible equipment.
+Consequently, a public consultation lasting one month was launched in February 2026, outlining the
+proposed award process based on a competitive auction procedure. After review of the stakeholder
+submissions, it is anticipated that the auction contest will be concluded within the fourth quarter of
+2026.
+
+Regarding the transition to 5G Standalone (SA) networks, market readiness currently varies among
+providers. A provider has already confirmed that the deployment of a 5G SA network is part of its
+immediate plans. Other operators are currently more cautious, citing limited equipment availability
+and a lack of immediate use cases, which could have an impact on investment. As one of the industries
+with the biggest electricity consumption (mobile, fixed infrastructure, data centre), investing in green
+energy is a key aspect of cost reduction for telecom operators. This depends not only on the telecom
+sector, but also on certain legal and infrastructure challenges in the domestic electricity system.
+
+Regarding the sovereignty and security of digital infrastructure Cyprus’s strategic target is to become
+a regional connectivity hub and data gateway in the Northeastern Mediterranean Sea. The objective
+is to attract investments in digital technologies and foster collaborations with international high-impact
+technology companies. The country is intensifying its efforts to enhance its submarine cable ecosystem
+in terms of performance, availability, diversity, resilience and security. Cyprus regularly exploits
+opportunities for (i) new agreements with neighbouring countries to deploy new submarine cables
+and upgrade existing ones; or (ii) participation in large-scale connectivity projects.
+
+The BlueMed East submarine cable reached Cyprus on 31 October 2025, landing at Cyta’s Yeroskipos
+station. This strengthens Cyprus’s strategic role as a digital hub and provides high-speed, low-latency
+connectivity linking Cyprus to Greece, Italy, Western Europe, and the wider Middle East.
+
+Cyprus is interested in participating in the Medusa Submarine Cable System, which is led by AFR-IX
+Telecom. The Medusa Cable is an 8 700-km long digital interconnection with a total capacity of
+480 Tbps. It aims to link the Atlantic coast, Mediterranean Sea, and Red Sea through 21 landing
+stations, forming a new high-speed data corridor that enhances connectivity between Europe and
+Africa. The project is partly financed by the EU, through an investment grant of EUR 40 million from
+GÉANT and the European Investment Bank. In addition, an EUR 11.9 million funding grant has been
+awarded by CEF-DIGITAL for the deployment of the Cyprus-Crete-Sicily branch. Based on the current
+
+
+
+
+
+                                        7Cyprus
+
+
+
+implementation plan, the Medusa cable is expected to reach Cyprus at the Yeroskipou landing station
+by the end of 2026.
+
+Cyprus is also investing in upgrading existing connectivity links with neighbouring countries, with
+the implementation of new submarine cables with higher capabilities. As part of this effort, Cyta
+signed an agreement with the Lebanese Ministry of Telecommunications for the construction and
+maintenance of CADMOS-2, which aims to gradually replace the CADMOS cable and upgrade
+connectivity capabilities between Cyprus and Lebanon. In October 2025, the environmental impact
+assessment study for the project was completed, while the implementation phase is expected to start
+in 2026.
+
+Improving the security and resilience of submarine cable systems is also of significant importance
+for Cyprus. The country aims to participate in the initiative of the EU Action Plan on cable security for
+the creation of the Mediterranean Regional Cable Hub, whose role will be to enhance threat detection
+and security of submarine cables in the region. The project aims to establish and operationalise the
+hub as an integrated, secure, and interoperable surveillance and coordination platform that enhances
+the protection, resilience, and rapid response capacity for undersea cables across the Mediterranean
+basin.
+
+Currently, the Deputy Ministry of Research, Innovation and Digital Policy (DMRID) is preparing the
+new national Broadband Plan, which will be included in Cyprus’s cohesive new forthcoming Digital
+Strategy (five-year horizon).
+
+Semiconductors
+
+Cyprus’s new digital strategy will include a policy paper on the National Strategy for Semiconductors
+(five-year horizon), focusing on identifying and strengthening roles that can be developed in the
+semiconductor sector, as well as enhancing the country’s position in this field.
+
+A competence centre for semiconductor technologies will be established in Cyprus under the
+European Chips Act. It will provide access to technical expertise in the semiconductor sector, support
+SMEs and start-ups in enhancing their design capabilities and skills, and guide users in accessing other
+infrastructures developed under the initiative. The funding was approved following the selection of
+Cyprus’s proposal to establish a Chips JU Competence Centre. The DMRID will support it with up to
+EUR 1.94 million over a period of four years, with EU co-funding.
+
+Edge nodes
+Performance assessment
+
+According to the Edge Node Observatory report, Cyprus is estimated to have 14 edge nodes by 2025.
+Due to a change in the methodology, this number cannot be compared to previous estimates.
+
+Policy context and assessment of recommendations
+
+The development of edge nodes in Cyprus is at a very early stage and will require a collective focus on
+setting up a whole ecosystem, based on a mix of skills, infrastructure, security, innovation and public
+and private cooperation. Cyprus is following closely the work of the EU Edge Node Observatory and
+assessing the market for the development of edge nodes in Cyprus.
+
+
+
+
+
+                                        8Cyprus
+
+
+
+Quantum technologies
+
+In 2025, Cyprus made significant progress in the development of its Quantum Communication
+Infrastructure (CYQCI). Phase A of the project has been extended until October 2026. This involves the
+development of experimental national quantum communication infrastructure in Cyprus to protect
+critical  national  infrastructures from  cyberattacks through Quantum Key  Distribution (QKD)
+technologies. The infrastructure will be interconnected with the broader European EuroQCI initiative
+through an optical gateway.
+
+Following the progress made in Phase A, Cyprus and the CYQCI consortium joined the cross-border
+consortium ‘South-East European to Western European Quantum Communication Infrastructure’
+(SEEWQCI). The consortium  is expanding  into Phase B of European quantum  infrastructure
+development. The consortium is coordinated by Greece, with the Netherlands, Bulgaria and Cyprus.
+This project is significant in terms of digital sovereignty. It will (i) develop the first cross-border satellite-
+based link between CYQCI and EuroQCI; (ii) establish the first terrestrial QKD network in Cyprus,
+interconnecting government ministries and departments with other EU entities; (iii) position Cyprus
+as a European hub for research and testing in secure optical satellite communications; (iv) create cross-
+border space links via an Optical Ground Station (OGS) connecting initially with the Netherlands,
+Greece, and Bulgaria; (v) set up an initial interconnection of national Security Operations Centres
+(SOCs); and  (vi)  install an Optical Ground Station (OGS) at CYTA, giving Cyprus an additional
+communication gateway beyond submarine cables. Completion of Phase B is expected in 2029.
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+SMEs with at least basic digital intensity
+
+Performance assessment
+
+In 2025, 74.35% of SMEs in Cyprus had at least a basic level of digital intensity1, up from 67.28% in
+20232, representing an annual growth rate of 5.1%. In 2025, Cyprus remained above the EU average
+of 71.39%, although its annual growth rate was lower than the EU’s 11.0%. The country is lagging
+behind compared to its national trajectory.
+
+Only 6.87% of SMEs in Cyprus have a very high digital intensity, according to the index3 despite
+annual growth of 24.0% since 2023. Cyprus is below the EU average of 9.07% and the EU’s annual
+growth rate, which is significantly higher at 43.9%. In 2023, 4.47% of SMEs in Cyprus were at this level,
+slightly above the EU’s 4.38%. Despite progress in Cyprus, there  is a clear need for further
+improvement, particularly in achieving a very high digital intensity among SMEs.
+
+Policy context and assessment of recommendations
+
+In 2025, Cyprus continued to implement the ‘Digital Upgrade of Enterprises’ programme (2021-2027)
+with the launch of a third call. Overall, in the past three calls, approximatively 66% of proposals
+
+
+1 The digital intensity score is based on counting how many out of 12 selected technologies are used by
+enterprises. A basic level requires a usage of at least 4 technologies.
+2 The Digital Intensity Index (DII) composition varies between different survey years, depending on the
+questions included in the survey. The exact composition can be found at Digital Intensity Index composition.
+3 A very high level of digital intensity requires a usage of at least 10 technologies out of 12 selected in the DII
+
+
+                                        9Cyprus
+
+
+
+involved the use of advanced digital technologies (including AI, cloud, blockchain or extended reality
+(XR) technologies, robotic process automation (RPA), data analytics). In terms of budget, the current
+results allow the possibility to launch a new call in the future.
+
+Cyprus’s Digital Innovation Hub, DiGiNN, delivered 148 digital maturity assessments and helped
+create 40 roadmaps in 2025. The Hub organised more than 60 training sessions for 443 participants
+and helped find investment and supported networking for 37 entities. In 2025, funding for the
+continuation of the Hub was approved by the European Commission. DiGiNN 2.0 is expected to start
+in September 2026.
+
+Take up of advanced technologies
+
+Performance assessment
+
+
+
+
+
+In terms of cloud computing services, enterprises in Cyprus had an adoption rate of 48.45% in 2025,
+higher than the EU average of 46.69%. The country is lagging behind compared to its trajectory, with
+an annual increase of 3.2%, which is slower than the EU’s annual growth rate of 9.5%. In 2023, Cypriot
+enterprises already had an adoption rate (45.47%) surpassing the EU’s 38.97%. Looking specifically at
+SMEs in 2025, their adoption rate was 47.74%, presenting a steady annual increase of 3.2% since 2023.
+This result also exceeds the EU average of 45.74% for SMEs. However, the EU’s annual growth rate for
+SMEs is three time higher (9.7%). The adoption rate for large enterprises in Cyprus is 81.03% surpassing
+the EU average of 78.32%, although the annual increase of 3.6% since 2023 is lower than the EU’s
+6.0%. In 2023, Cyprus already had an adoption rate for large enterprises (75.51%) higher than the EU’s
+69.72%.
+
+The adoption rate for data analytics in Cyprus is 42.84% for enterprises, also surpassing the EU
+average of 39.85%. The country is on track according to its national trajectory. It has had an annual
+increase of 13.1% since 2023, while the EU’s annual growth rate is 9.5%. In 2023, Cyprus had an
+adoption rate of 33.5%, marginally higher than the EU’s 33.25%. Focusing on SMEs, Cyprus has a 42.0%
+adoption rate after an annual increase of 13.3% since 2023 and exceed the EU average of 38.59%. The
+EU’s annual growth rate for SMEs is 9.7%. In 2023, Cyprus already had an adoption rate (32.73%)
+slightly above the EU’s 32.09%. For large enterprises, Cyprus has an 81.7% adoption rate, after an
+annual increase of 7.5% since 2023, slightly below the EU average of 82.03%. The EU’s annual growth
+
+
+
+                                       10Cyprus
+
+
+
+rate for large enterprises is 6.9%. In 2023, Cyprus had an adoption rate of 70.66%, marginally lower
+than the EU’s 71.81%.
+
+Regarding enterprises using AI technologies, Cyprus has a 9.27% adoption rate, after an annual
+increase of 17.3% since 2024, which is below the EU average of 19.95%. The country is lagging behind
+compared to its trajectory. The EU’s annual growth rate for this indicator is 48.0%. In 2024, Cyprus had
+an adoption rate of 7.9%, lower than the EU’s 13.48%. For SMEs, Cyprus has an 8.72% adoption rate
+after an annual increase of 19.3% since 2024, which is below the EU average of 18.9%. The EU’s annual
+growth rate for SMEs in this area is 49.5%. In 2024, Cyprus had an adoption rate of 7.31%, lower than
+the EU’s 12.64%. For large enterprises, Cyprus has a 35.07% adoption rate, after an annual increase of
+0.5% since 2024, significantly lower than the EU average of 55.03%. The EU’s annual growth rate for
+large enterprises is 33.7%. In 2024, Cyprus had an adoption rate of 34.91%, lower than the EU’s 41.17%.
+
+When considering the adoption of AI, cloud and data analytics technologies together, Cyprus is at
+64.71% after an annual increase of 5.6% since 2023, surpassing the EU average of 63.2%. The EU’s
+annual growth rate for this indicator is 7.5%. In 2023, Cyprus had an adoption rate of 57.98%, higher
+than the EU’s 54.7%. For SMEs, Cyprus has a 64.08% adoption rate after an annual increase of 5.8%
+since 2023, exceeding the EU average of 62.32%. The EU’s annual growth rate for SMEs in this area is
+7.7%. In 2023, Cyprus had an adoption rate of 57.3%, higher than the EU’s 53.74%. For large
+enterprises, Cyprus has a 93.69% adoption rate after an annual increase of 1.7% since 2023, surpassing
+the EU average of 92.78%. The EU’s annual growth rate for large enterprises is 3.4%. In 2023, Cyprus
+had an adoption rate of 90.52%, higher than the EU’s 86.71%.
+
+Cyprus demonstrates a high level of digitalisation among its businesses, particularly in the adoption of
+cloud technologies and data analytics. The country is above the EU average in several key performance
+indicators, including the percentage of SMEs with at least a basic level of digital intensity and the
+adoption rates of data analytics and cloud technologies. However, Cyprus lags behind the EU average
+in the adoption of artificial intelligence, as well as in the achievement of a very high digital intensity
+among SMEs. The annual growth rates for Cyprus in these areas are also lower than the EU averages,
+indicating a slower trend in progress than the EU average.
+
+Policy context and assessment of recommendations
+
+Significant initiatives have been implemented in Cyprus regarding Artificial Intelligence (AI). The new
+national AI Strategy, a high-level strategic roadmap for AI adoption across the public and private
+sectors, prepared by the National AI Taskforce is expected in Q2 2026. The national AI strategy has
+been developed in line with the EU Apply AI Strategy.
+
+The European Digital Innovation Hub DiGiNN facilitates the uptake of AI in Cyprus through the
+provision of specialised capacity-building, testing and advisory services to enterprises and public
+sector organisations. It delivers structured AI training programmes and provides ‘test before invest’
+services, including access to dedicated facilities, data analytics and AI experimentation, as well as
+tailored consultancy covering AI maturity assessments and responsible adoption.
+
+In October 2025, funding for the creation of an AI Factory Antenna in Cyprus was approved. The AI
+Factory Antenna will provide AI services to the local ecosystem through its connection with ‘Pharos’,
+the AI Factory in Greece. National funding will amount to EUR 3 million, matched by an equal
+contribution from EU sources. The project is expected to start in Q1 2026 (duration: up to three years).
+
+
+
+
+
+                                       11Cyprus
+
+
+
+Cyprus is investing in the development of a national High-Performance Computing (HPC) and AI
+infrastructure, building on and upgrading existing public research capacities. This initiative will form
+a core component of the national digital ecosystem, aligning available resources with the requirements
+of the AI era and ensuring that researchers, innovators, enterprises and the public sector have access
+to modern, high-performance computational capabilities.
+
+The establishment of a National AI Centre of Excellence (CoE) in Cyprus aims to strengthen national
+capabilities in artificial intelligence. The objective is to accelerate the implementation of AI use cases
+across government and promote research and innovation in AI. The AI CoE will act as a dedicated
+capability hub providing: (i) advanced AI services for government organisations, including the design,
+development, and deployment of AI use cases; (ii) research and development (R&D) activities in AI,
+aligned with emerging EU and global technological trends; and (iii) specialised technical expertise
+hosted permanently in Cyprus to support long-term capacity building within the public sector.
+
+Alongside these measures, Cyprus is advancing the practical uptake of AI by mobilising the national
+research and innovation ecosystem to develop and implement innovative and data-driven initiatives
+in the public sector. The ‘AI in Government’ programme, implemented by the DMRID in collaboration
+with the Research and Innovation Foundation (RIF), is a demand-driven initiative aimed at accelerating
+the adoption of AI within the public sector. The programme operates through a challenge-based
+funding mechanism, whereby public authorities define specific, high-impact use cases that can be
+addressed through AI solutions. Competitive calls are mobilising the national research and innovation
+ecosystem to develop tailored, data-driven applications that directly respond to public administration
+needs. The first wave of projects is in the domain of meteorology, agrometeorology, forecast of labour
+market needs and skills demand, and smart traffic management and mobility optimisation. The
+supported solutions focus on predictive analytics, advanced data modelling, process optimisation and
+improved decision-support systems.
+
+Through the Strategic Technologies for Europe Platform (STEP) funding scheme, Cyprus provides
+financial support for establishing or upgrading facilities and production lines for the development
+and manufacturing of innovative products and services, particularly in strategic areas such as digital
+and deep technologies. The programme aims to strengthen the innovative and productive capacity of
+the business sector and enhance competitiveness and market expansion.
+
+ 2025 recommendation on the adoption of AI by businesses: Sustain the efforts, with a special
+  attention to SMEs’ uptake of AI in the design of the AI strategy.
+
+ Cyprus addressed fully the recommendation by putting significant policy actions into place in
+ 2025. As described above, in 2025 the national AI Taskforce elaborated the new strategy for AI
+ adoption across the public and private sectors in Cyprus, in line with the EU Apply AI Strategy.
+ However, this is a high-level strategy, which will require a particular focus on implementation, in
+  particular to facilitate and accelerate the uptake of AI technologies by SMEs.
+
+
+Unicorns, scale-ups and start-ups
+Performance assessment
+
+At the beginning of 2026, Cyprus had four unicorns, the same number as in 2025 (however, the 2025
+figure was revised from three to four after last year’s country report). In its national Digital Decade
+roadmap, Cyprus estimated the number of unicorns at zero by end of 2025, with a 2030 target of five
+unicorns. The country is on track according to its trajectory.
+
+
+
+                                       12Cyprus
+
+
+
+Policy context and assessment of recommendations
+
+Cyprus continues to develop its start-ups ecosystem with measures adopted to facilitate relocation
+of start-ups. The revision of the ‘Startup Visa’ scheme was approved by the Council of Ministers in
+December 2024 to enhance its attractiveness. It allows owners and executives of start-ups from third
+countries to enter, reside, and work in Cyprus for the purpose of establishing or relocating a business.
+In 2025, 38 applications were submitted within 12 months, of which 12 were approved, and 11
+residence permits were issued. In terms of investment, the Cyprus Equity Fund established in
+collaboration with the European Investment Fund (EIF) invested in seven start-ups, providing total
+funding of EUR 2.3 million by the first quarter of 2026.
+
+An incubation programme in space technologies - Space BIC - has been funded by the Deputy Ministry
+of Research, Innovation and Digital Policy (DMRID) since March 2025 and provides incubation,
+acceleration and advisory services to four start-ups. The incubation programme is currently ongoing,
+supporting the development and scaling of innovative digital solutions.
+
+Cyprus is in the process of preparing a new national strategy for Research and Innovation for 2027-
+2033. The new strategy will place particular emphasis on  Artificial Intelligence, which will be
+introduced as a horizontal priority across the strategy.
+
+Strengthening Cybersecurity & Resilience
+
+Regarding the implementation of cybersecurity measures by enterprises, Cyprus is almost at the EU
+average. In 2024, 56.41% of enterprises applied at least 5 cybersecurity measures (out of 11 measures
+measured by Eurostat), while the EU average was 56.85%. However, a gap remains with the EU average
+in terms of use of biometric authentication methods implemented by enterprises (5.80% in Cyprus,
+18.27% in the EU), while encryption techniques for data, documents or e-mails are used in 36.29% of
+enterprises (the EU average is 39.72%).
+
+Cyprus transposed the NIS 2 Directive into national law in April 2025, and the legislative phase of
+the process is complete. It is now dedicating effort to the practical implementation of the framework.
+
+To strengthen the  cybersecurity  capacity  of  enterprises and accelerate  their adoption of
+cybersecurity certification schemes, the National Cybersecurity Coordination Centre (NCC-CY), in
+collaboration with the Research and Innovation Foundation (RIF), implemented two calls for
+proposals, one targeting SMEs and a dedicated call for enterprises in the tourism sector in 2025.
+New funding schemes for the Programme ‘Enhancing Cybersecurity for Small and Medium Enterprises
+(SMEs) and in the Tourism Sector (Hotels and Travel Agencies)’ were announced on 15 September
+2025. A total of 51 proposals were submitted, of which 35 were approved for funding. The total
+allocated budget is EUR 2.5 million, with EUR 1.5 million for SMEs and EUR 1 million for the tourism
+sector.
+
+The NCC-CY is also planning a call in 2026 for cybersecurity in start-ups and innovative companies.
+A survey is currently being conducted to assess the needs of start-ups and innovative companies in
+the field of cybersecurity. The budget is EUR 1 million. A further call is planned to help organisations
+comply with NIS2.
+
+Regarding the cybersecurity resilience of the healthcare sector, a national risk assessment was
+carried out in 2025 to help e-health entities identify the critical aspects of business continuity. The
+results showed that most entities did not identify their system correctly. Subsequently, a workshop on
+
+
+
+                                       13Cyprus
+
+
+
+those aspects was held and specific training courses were organised for the health sector. Additionally,
+the Digital Security Authority (DSA) is also working with the health authorities to review their system
+and advise them on cybersecurity aspects. With the NIS2 Directive, the DSA will expand the entities
+under its supervision to nearly 40. It plans to support the implementation of the European Health
+Action Plan, aiming to enhance sectoral maturity through the ENISA Support Mechanism and its
+Service Catalogue, by coordinating the dissemination of specialised guidance and preparedness tools
+across the national health ecosystem. Awareness raising in the sector allowed cybersecurity to be
+included as a risk for Cyprus’s health sector.
+
+In terms of cross-border collaboration, Cyprus is hosting one of the three Cyber Hubs in the EU under
+the Cyber Solidarity Act to improve cyber-threat detection, analysis and response. Alongside the
+hubs in Spain and in the Baltic region, the ATHENA project contributes to strengthening the EU’s
+collective cyber defence capabilities and coordinated response to cyber threats and incidents across
+participating Member States. Coordinated by Cyprus, the ATHENA consortium brings together Cyprus,
+Greece, Bulgaria, Malta and recently Belgium. The objective is to improve collective situational
+awareness and national-level cyber resilience through secure intelligence sharing to be able to respond
+to threat at country level.
+
+The NCC-CY is active in reinforcing people’s cybersecurity skills and awareness. In 2025, numerous
+initiatives to reach the whole of society were implemented, such as educational material for junior
+and high school students, activities to promote cybersecurity professions, and also information for
+parents and people over 65. Many events took place in 2025. The ICT Academy of the Office of the
+Commissioner of Communications, in collaboration with the NCC-CY hosted events for children (with
+storytelling and songs) and visited junior schools and summer camps. For the second year, a
+cybersecurity festival took place during the EU cybersecurity month (more than 2000 visitors). The
+first dedicated cybersecurity career fair took place with 20 exhibitors (university, cybersecurity
+companies). They also built relationships with the Cyprus Computer Society, to organise contests with
+students. The winners are awarded two-week internships in member enterprises of the NCC
+community.
+
+Regarding businesses, the NCC created a cyber hygiene framework for SMEs: a certification scheme
+containing 11 control measures. To be eligible for the programmes, companies need to be certified
+first and meet a minimum standard of cybersecurity. Joint events with the chambers of commerce took
+place. During the Cybersecurity weekend, taking place every year in collaboration with the Cyprus
+Chamber of Commerce and Industry, SMEs covered by the NIS2 Directive were hosted to inform them
+and put them in contact with NCC community members to assist with their compliance requirements.
+In 2025, this weekend was dedicated to the healthcare sector. For the first time in 2025, the NCC
+organised a business visit to Cyprus from abroad, with NCC Malta: the first Cyprus-Malta forum.
+
+The cybersecurity industry in Cyprus is bigger than was anticipated some years ago. The NCC
+community in Cyprus currently has 106 members. These are any companies or governmental body
+whose main operation is cybersecurity (start-ups, software, certification business, etc). The NCC will
+capitalise on this.
+
+Various training courses to enhance the cybersecurity skills of public servants have also been
+implemented as part of the National Action Plan for Digital Skills. Cybersecurity training programmes
+with varying difficulty levels were conducted by the Cyprus Academy of Public Administration (CAPA)
+to match the different  skill levels of public sector employees. The Department of Information
+Technology Services (DITS) offered asynchronous training for public sector employees, from June 2023
+
+
+
+                                       14Cyprus
+
+
+
+to June 2025. Approximately 10 000 users registered on the platform. The Ministry’s Cybersecurity
+Directorate has taken a cross-cutting role in employee training and awareness and is currently
+implementing a platform for 15 000 users that will offer structured training programmes, conduct
+phishing campaigns, and provide specialised workshops for targeted groups. In addition, the
+Cybersecurity Directorate is also planning in-person training sessions, focusing on compliance with
+legislation, organisational policies, and best practices in cybersecurity.
+
+
+
+
+
+                                       15Cyprus
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Equipping people with digital skills
+
+Basic digital skills
+
+Performance assessment
+
+
+
+
+
+In Cyprus, 55.75% of individuals aged 16-74 have at least basic digital skills. This figure has increased
+by 6.2% annually since 2023, but it remains below the EU average of 60.40%. In 2023, the figure for
+Cyprus was 49.46%, which was also lower than the EU’s 55.56%. However, the growth rate outpaces
+the EU’s annual growth of 4.3%, indicating a positive trend in digital skills acquisition in Cyprus. The
+country is on track according to the national trajectory as defined in its Digital Decade national
+roadmap.
+
+Regarding the gender gap, Cyprus presents a different profile from the rest of the EU. In 2025, 56.8%
+of women in Cyprus possessed basic digital skills, slightly higher than the 54.68% of men, resulting in
+a gap of 2.12 percentage points in favour of women. This contrasts with the EU, where the gap favours
+men by 2.75 percentage points. The annual growth rates for both genders in Cyprus—5.6% for women
+and 6.9% for men — exceed the EU averages of 4.1% and 4.4%, respectively.
+
+Education level significantly influences digital proficiency in Cyprus. Individuals with no or low formal
+education face considerable challenges, with only 30.06% possessing basic digital skills in 2025. This
+
+
+
+                                       16Cyprus
+
+
+
+represents a 25.69 percentage point gap relative to the national average, which is larger than the EU
+average gap of 22.84 percentage points.
+
+In 2025, 57.53% of individuals in cities had basic digital skills, while the figure for towns and suburbs
+was 52.24%, resulting in a gap of 5.29 percentage points. At the EU level, the highest gap is instead
+observed between cities and rural areas, where the gap stood at 13.67 percentage points in 2025.
+
+Age is another critical factor in digital skills proficiency. In Cyprus, 66.98% of individuals aged 25 to 54
+had basic digital skills in 2025, the highest amongst the age cohorts analysed. For the older age group
+of 55 to 74, only 30.73% reached at least basic digital skills, which is lower than the EU average of
+42.6%.
+
+In the area of digital safety skills, 66.43% of individuals in Cyprus reported taking action to protect
+their personal data online in 2025, which is lower than the EU average of 74.63%. The annual growth
+rate for this indicator in Cyprus was 0.9%, lagging behind the EU’s 3.6%.
+
+Regarding the use of generative AI, 44.2% of people in Cyprus used this technology in 2025 for all
+purposes, surpassing the EU average of 32.66%. For professional purposes, 22.65% of people in Cyprus
+used generative AI, again higher than the EU average of 15.36%.
+
+In summary, there is a positive trend in digital skills acquisition in Cyprus, with growth rates outpacing
+the EU averages in most areas. However, there are significant disparities based on education level and
+age, particularly among older adults and those with low formal education. The gender gap in Cyprus
+favours women, contrary to the EU trend. Cyprus also shows strong adoption of generative AI,
+particularly for professional use. Targeted measures to support less-educated individuals and older
+adults could further enhance Cyprus’s digital skills profile.
+
+
+
+
+
+54.88% of individuals in Cyprus were exposed to untrue or doubtful content online in 2025, marking
+an increase of 26.5% annually since 2023, when the figure stood at 34.27%. This still places Cyprus
+below the EU average, which was 49.25% in 2023 and 55.90% in 2025, with the EU experiencing an
+annual growth rate of 6.5%. Focusing on the 16-24 age group, 57.79% of individuals in Cyprus were
+exposed to such content in 2025, compared to 66.34% in the EU. This represents an annual growth
+rate of 22.8% in Cyprus and 3.7% in the EU since 2023. In Cyprus, the gap between the youngest age
+group and those aged 25-64 is minimal with the figure for the core working-age group being 0.34
+
+
+                                       17Cyprus
+
+
+
+percentage points higher. By contrast, the gap in the EU is 7.77 percentage points, with a higher figure
+for the younger group. For individuals aged 25-64 in Cyprus, the figure was 58.13% in 2025, slightly
+below the EU average of 58.57%, with Cyprus experiencing a higher annual growth rate of 26.6%
+compared to the EU’s 6.4%.
+
+19.07% of individuals in Cyprus verified the truthfulness of online content in 2025, following an
+annual increase of 45.2% since 2023, when the figure was 9.04%. This remains below the EU average,
+which rose from 24.29% in 2023 to 29.16% in 2025, with an annual growth rate of 9.6%. For the 16-24
+age group, 13.5% of individuals in Cyprus verified online content in 2025, compared to 39.49% in the
+EU. This reflects an annual growth rate of 17.5% in Cyprus and 6.7% in the EU since 2023. The gap
+between the youngest age group and those aged 25-64 in Cyprus is 8.06 percentage points, with a
+higher figure for the core working-age group. By contrast, the gap in the EU is 9.09 percentage points,
+with a higher figure for the younger group. For individuals aged 25-64, the figure in Cyprus was 21.56%
+in 2025, below the EU average of 30.4%, with Cyprus experiencing a higher annual growth rate of
+47.8% compared to the EU’s 9.9%.
+
+The data reveals that Cyprus is experiencing significant annual growth rates in exposure to untrue or
+doubtful content and in the verification of online information, but it remains below the EU average in
+both areas. Notably, the figures are higher for the core working-age group in Cyprus, whereas in the
+EU, the youngest age group is more exposed to these online phenomena. Additionally, Cyprus shows
+a lower exposure to hostile or degrading messages compared to the EU, with a decreasing trend among
+the youngest age group. These insights highlight the need for targeted measures to address the
+information landscape in Cyprus, particularly among younger individuals.
+
+36.56% of individuals in Cyprus were exposed to hostile or degrading messages online in 2025,
+reflecting an annual increase of 2.1% since 2023, when the figure was 35.07%. This places Cyprus
+below the EU average, which rose from 33.5% in 2023 to 39.72% in 2025, with an annual growth rate
+of 8.9%. For the 16-24 age group, 35.32% of individuals in Cyprus were exposed to such content in
+2025, compared to 52.99% in the EU. This represents an annual decrease of 9.3% in Cyprus and an
+increase of 5.6% in the EU since 2023. The gap between the youngest age group and those aged 25-
+64 in Cyprus is 4.42 percentage points with a higher figure fort the core working-age group. By contrast,
+the gap in the EU is 11.85 percentage points, with a higher figure for the younger group. For individuals
+aged 25-64, the figure in Cyprus was 39.74% in 2025, slightly below the EU average of 41.14%, with
+Cyprus experiencing a lower annual growth rate of 3.3% compared to the EU’s 9.2%.
+
+Policy context and assessment of the recommendations
+
+The national Action Plan for Digital Skills has been extended until the end of 2026. The new Action
+Plan will be incorporated into the forthcoming Digital Strategy (five-year horizon). In December 2025,
+a communication plan for digital skills was approved. The plan comprises a series of actions, including
+the production of promotional material for use in TV, radio and social media.
+
+In 2025, the Government launched a targeted initiative to assess and strengthen the digital skills of
+women living in rural and remote areas. This initiative is part of the Action Plan for digital skills and
+the national Gender Equality Strategy (2024–2026). A needs assessment survey was carried out in 2025
+to identify the specific digital literacy gaps and training preferences of the target group, forming the
+basis for the design of tailored educational programmes. The Cyprus Productivity Centre (CPC) is
+responsible for delivering the trainings across rural communities (from September 2025 onwards).
+
+
+
+
+
+                                       18Cyprus
+
+
+
+One of the new initiatives, led by the Deputy Ministry, aims to support citizens - particularly older
+adults  - in conducting digital transactions with public authorities and other essential service
+providers. As part of a pilot programme, selected municipalities will receive grants to procure services
+for one-to-one digital assistance and training on their premises. This action is expected to enhance
+digital inclusion and strengthen the autonomy of vulnerable groups, especially older people.
+
+In the revised National Strategy and Fourth National Action Plan on Disability 2024-2028, as well as
+in the Action Plan for Digital Skills, the Deputy Ministry has included an action on assessing the
+specific digital skills needs of persons with disabilities. The new initiative aims to strengthen their
+digital skills and, consequently, their autonomy and participation. Focus groups will be organised to
+identify needs, forming the basis  for designing tailored  digital  skills training programmes  in
+cooperation with relevant social partners. The objective is to map needs and deliver targeted training,
+on a pilot basis. Additionally, the Deputy Ministry has introduced a new initiative for assessing digital
+needs of third country nationals. This initiative also includes the organisation of two focus groups that
+will form the basis for tailored digital skills training programmes, on a pilot basis.
+
+Training on the use of AI tools in the public sector started in October 2025, after AI tools were
+allocated to public servants. This was part of a national pilot and was accompanied by initial user
+training in October and December 2025. In February 2026,  full day trainings began to further
+strengthen user readiness. This project is funded through the Recovery and Resilience Facility (RRF).
+
+In 2025, for the first time, the Human Resource Development Authority (HRDA) began to cover not
+only training costs but also certification exam fees. Through training programmes, participants were
+able to obtain globally accredited certifications which are internationally recognised.
+
+ 2025 recommendation on basic digital skills: strengthen and expand targeted initiatives to enhance
+  digital literacy among vulnerable groups. Provide accessible and tailored training programmes, and
+ targeted awareness raising actions to bridge the digital gap.
+
+ Cyprus made some efforts to address the recommendation through new policy actions in 2025.
+ As described above, new actions targeted to vulnerable people were implemented in 2025. Training
+ on the use of AI was also organised for public servants.
+
+
+
+ICT specialists
+Performance assessment
+
+In Cyprus, ICT specialists account for 4.9% of total employment which is slightly below the EU
+average of 5.0% in 2025. The country is lagging behind compared to its trajectory presented in the
+Digital Decade national roadmap. Women account for 20.1% of ICT specialists in employment in
+Cyprus, above the EU average (19.5%). However, there is a negative growth rate of 19.1% compared
+to the year before, while the EU average is stagnating at 19.5%.
+
+Policy context and assessment of the recommendations
+
+Regarding labour-market alignment, the Department of Higher Education uses evidence from the
+National Graduate Tracking Survey (CY Graduates) to monitor the employment outcomes and career
+pathways of ICT graduates. The monitoring also allows gender differences in labour market outcomes
+to be identified and informs evidence-based policy decisions on the prioritisation of ICT study
+programmes. It also provides information to the Ministry’s career counselling and guidance services,
+supporting gender equality in ICT fields.
+
+
+
+                                       19Cyprus
+
+
+
+In 2025, Cyprus modified the access frameworks for Public Higher Education in ICT studies. The
+entrance examination framework for ICT-related studies has been modified, allowing candidates with
+advanced mathematics as a sufficient prerequisite to gain access to ICT undergraduate programmes at
+public universities. This adjustment aims to broaden access to ICT studies by expanding the pool of
+eligible candidates.
+
+As mentioned above, under the cybersecurity chapter, the Cybersecurity Directorate of DMRID is
+responsible for cybersecurity across the public service and has acquired a platform, scheduled to be
+launched in June 2026, offering short training modules (asynchronous training) and phishing-
+simulation exercises to strengthen staff awareness and preparedness.
+
+Cyprus places the protection of minors online at the core of its digital agenda. Cyprus has established
+a dedicated team, working across several strands, tasked with developing an integrated approach to
+safeguarding minors online, including the development of a dedicated action plan focusing on: (i)
+Policy Formulation, (ii) Technological Solutions, and (iii) Education & Awareness Raising. Additionally,
+Cyprus, among other forerunner Member States, has joined efforts to support the scaling of the pilot
+EU Verification Solution for the development of an age verification mechanism. The preparation of the
+National Action Plan for the protection of minors online is progressing, with stakeholder consultations
+and proposed measures assessment underway, and is scheduled to be adopted in 2026.
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+Performance assessment
+
+For digital public services for citizens (national and cross-border), Cyprus scored 80.34/100 points in
+2025, a 3.5% increase compared to 2024, exceeding the EU average increase (2.8%). The country is
+on track according to its national trajectory. However, it is below the EU average of 84.64/100 points.
+
+Looking at domestic online services for citizens, Cyprus scored 87.71/100 points – below the EU
+average (94.01/100), but still a 5.2% increase from 2024. For cross-border services, Cyprus scored
+72.98/100, below the EU average (75.28/100). This reflects a 1.5% increase compared to 2024. Overall,
+the services for citizens that score particularly well related are related to the following life events:
+Moving (95.0), Career (83.09), and Studying (81.94), while services related to Transport (70.54), Health
+(71.43), and starting a small claims procedure (79.19) are the least digitalised. In terms of performance
+by level of government, in the domestic online services for citizens, central government services scored
+81.46/100, regional government services scored 93.75/100, and local government services scored
+75.0/100.
+
+For digital public services for businesses (national and cross-border), Cyprus scored 85.94/100 in
+2025, a marginal 0.1% decrease from 2024. The country is on track according to its national trajectory
+and lies below the EU average of 88.6/100. The Business-related life event scoring particularly well is
+‘Regular Business Operations’ (97.2), whereas ‘Business Start-Up’ (74.65) show the most room for
+improvement.
+
+Notably, digital public services for businesses available to national users in Cyprus scored 96.9/100.
+This represents a 0.2% increase since 2024 and places the country below the EU average of 98.81/100.
+Meanwhile, cross-border digital public services score for businesses reached 75.0/100 in 2025,
+reflecting a 0.5% decrease compared with 2024. These results are below the EU average of 78.37/100.
+
+Across the two Digital Decade KPIs, Cyprus’s Digital Public Services for Businesses indicator performs
+better than its counterpart for citizens. This stronger performance is underpinned by digital public
+
+
+
+                                       20Cyprus
+
+
+
+services for businesses available to national users, which forms the most mature component of the
+KPI, even as cross-border digital public services for businesses remains less developed. Recent progress
+has been driven primarily by improvements in cross-border digital public services for businesses,
+indicating that progress is uneven across the different components of the KPI. While life events such
+as ‘Regular Business Operations’, ‘Moving’, and ‘Career’ perform best, lower-scoring areas such as
+‘Transport’, ‘Health’, and ‘Business Start-Up’ do not yet exhibit the same level of maturity.
+
+Overall, both Digital Decade KPIs and their underlying components lag behind EU levels, with cross-
+border digital public services representing the area where further progress is most needed. A similar
+pattern appears across government tiers, where local administrations are showing the greatest need
+for improvement. Despite these gaps, the underlying direction of change indicates that Cyprus is on a
+positive upward trajectory toward achieving the 2030 digitalisation targets. Furthermore, according to
+the indicator related to the digitalisation of the justice system in the 2026 EU Justice Scoreboard,
+Cyprus is not performing well, although innovative digital technologies can play an important role in
+contributing to the quality and efficiency of justice systems. Notably, Cyprus has suffered difficulties
+and delays with deploying the necessary decentralised IT systems that form the basis for the ‘Justice
+Digital Exchange system’, a key reform for the digitalisation of cross-border public judicial services.
+
+Regarding access to e-health records, Cyprus had a score of 78.75 in 2025, with an increase of 4.4%
+since 2024, remaining below the EU average score of 86.51. The country is on track according to the
+national trajectory presented in its Digital Decade roadmap.
+
+Policy context and assessment of the recommendations
+
+Regarding electronic identity (e-ID), Cyprus continues to promote the adoption of digital trust
+services, with a series of actions. The e-ID can be used to e-sign a range of governmental forms. A
+process has been established; 33 public applications and forms have been converted to accept e-ID
+submission, thereby eliminating the need for physical presence and facilitating remote access to
+services for citizens. To further promote digital trust and a more paperless approach across the public
+sector, the use of e-signatures is being progressively reinforced. Coordinated measures have been
+introduced to ensure the use of e-signatures by public authorities notably within internal document
+management, with further rollout planned during 2026. In parallel, from the second quarter of 2026,
+the Ippodamus IT system will expand mandatory usage of e-signatures  - where applicable - to
+additional professional users (such as architects and consultants).
+
+The central focus of the digital programme is citizen-focused channels and applications. The goal is
+to provide modern, simple tools that transform the way citizens interact with the State. Within this
+framework, alongside the upgraded central government portal gov.cy, the Ministry offers three key
+citizen-focused channels/applications:  (i) the Digital Citizen App: this application focuses on the
+digitisation of documents and, gradually, services and interactions with the public sector. It already
+counts over 153 000 registered users;  (ii) the Smart Citizen App: this app will enable citizens to
+communicate directly with local authorities and access services within the framework of smart city
+tools; and (iii) the myHealth@CY: this application will provide access to healthcare services, primarily
+focusing on the patient’s electronic health record.
+
+With the introduction of the Digital Citizen app, Cypriot citizens (over 18) can issue and store in the
+app their Identity Card, Driving Licence, and Vehicle Roadworthiness Certificate (MOT). In March
+2025, the application became available to young people aged 14 and above, allowing them to add their
+Identity Card to the app.
+
+
+
+
+                                       21Cyprus
+
+
+
+Since May 2025, Cyprus’s wallet has been interoperable with the corresponding application of the
+Greek government. The Digital Citizen app and the Greek Gov.gr Wallet are now interconnected,
+enabling mutual recognition and verification of document authenticity. Cypriot citizens can now use
+the Digital Citizen app in Greece as well, presenting the digital form of their Identity Card and Driving
+Licence in the same way they use them in Cyprus. The Fan Card was also added as an additional
+document, both for issuing the card and for validating its authenticity for entry to a stadium. Moreover,
+in February 2026, the English version of the application went live. During 2026, more documents are
+expected to be added, primarily tickets for entry to sport events, as well as the resident permits for
+third-country nationals, the registration certificates for EU citizens and the Identity Card for each
+dependent person in the parent’s mobile application. Additional functionalities, such as automatic
+revocation of expired documents, are also expected.
+
+Cyprus is progressing in the development of its EUDI Wallet, building on its existing national digital
+identity ecosystem. The country demonstrates engagement at EU level, including participation in
+Large-Scale Pilots and initial steps towards certification and procurement. The existing wallet also
+benefits  from  cross-border  usability  in  specific  contexts,  reflecting  early  efforts  towards
+interoperability.
+
+Regarding gov.cy, phase A of the project’s development has been completed. 86 websites have been
+designed and developed. Phase B has started and is to include 150 more websites to be designed and
+developed by March 2027. The gov.cy portal hosts 156 digital services, 246 old generation services and
+161 non-digital services.
+
+An AI-powered chatbot, the digital assistant, was launched in 2025 to simplify people’s access to
+public services through a single, user-friendly digital channel. It allows users to type or speak their
+questions in natural language, in both Greek and English. Since its introduction, it has responded to
+around 280 000 user queries, supporting citizens across core areas of public administration, such as:
+(i) social welfare and benefits, (ii) social insurance and employment-related services, (iii) taxation and
+financial obligations, (iv) transport and mobility services, (v) justice and legal procedures, (vi) public
+procurement, (vii) education-related administration, (viii) digital government tools, and (ix) consular
+and foreign affairs. The Digital Assistant is continuously being enhanced with new topics, services, and
+functionalities, with the aim of progressively covering the full range of citizen and government services
+available through gov.cy. The high volume of interactions highlights the Digital Assistant’s growing role
+as a practical and trusted entry point for everyday interaction with government services.
+
+The ‘AI in Government’ programme, described above, enables public authorities to bridge policy
+priorities with technological implementation.  It ensures the alignment with national strategic
+objectives on digital transformation and data-driven governance. The programme is currently focusing
+on identifying and maturing additional AI challenges across more public authorities. Several authorities
+have expressed interest in participating and targeted engagement is underway to support them in
+refining and structuring their proposed challenges in line with data readiness, feasibility and policy
+priorities. By embedding AI into public sector functions, the initiative contributes to institutional
+resilience, improved service delivery and evidence-based policymaking. It supports Cyprus’s broader
+digital transformation and aligns with the objectives of the Digital Decade by fostering practical,
+scalable and sustainable AI adoption across public administration.
+
+The DMRID is releasing AI Guidelines for the public service, which establish the policy framework
+and acceptable-use rules for generative Artificial Intelligence across government. The guidelines
+define approved AI tools and core principles such as safety, transparency, human accountability and
+
+
+
+                                       22Cyprus
+
+
+
+data protection, and set out clear restrictions on prohibited uses. Importantly, they also introduce a
+controlled process for the acquisition and use of new AI systems, requiring justification, risk and data
+protection  assessments, and  formal  approval,  so  that  public  sector  organisations  cannot
+independently procure or deploy AI tools without oversight. The purpose of the guidelines is to enable
+responsible and secure innovation while protecting citizens’ rights, safeguarding government data and
+ensuring full compliance with the EU AI Act and the General Data Protection Regulation.
+
+The DMRID is planning to introduce AI technologies in various information systems, such as
+Hippodamus and iJustice. The main purpose is to introduce AI technologies in repetitive daily tasks
+usually initiated by citizens. These tasks are normally handled by public servants and appear to involve
+delays in responses to applicants. AI technologies can automate the procedure, even at the stage
+where the citizens submit their application, reducing response times and public services workloads.
+
+Cyprus is in the process of evaluating G-cloud tenders with implementation to start in September
+2026. Early deliverables include the completion of the cloud architecture design by December 2026
+and the migration of three initial applications by March 2027. Once implemented, the G-Cloud will
+provide a fully governed, hybrid cloud foundation, supported by the two existing government data
+centres.
+
+The National Cloud Policy was adopted by the Council of Ministers in March 2026. It provides the
+framework within which the G-Cloud will operate, setting the standards for governance, security,
+compliance, hosting regions, disaster recovery, procurement, and lifecycle management.
+
+The DMRID has hired expert services to formulate the National Data Policy and Governance
+Framework. Following the completion of the tender in December 2025, a contract was signed to
+support the design and implementation of a comprehensive, futureproof, and legally compliant data
+governance regime for the Republic of Cyprus. The project begins with an in-depth analysis of national
+and European legislation to identify obligations, institutional mandates, and compliance gaps, forming
+the evidence base for subsequent policy and governance design. The work also includes the
+preparation of legal instruments to transpose the framework into national law alongside the
+development of implementation guides, operational protocols, compliance  tools, and training
+programmes to ensure consistent adoption across the public sector. The expert will also define roles
+and processes, assess resource needs, and propose new or enhanced structures. The project
+additionally covers the formulation of the National Data Policy, setting out principles for quality,
+interoperability, access, ethics, security, and monitoring. A practical Action Plan and Roadmap will
+guide implementation beyond the project’s completion, while a dedicated report will address national
+preparedness and compliance obligations arising from the EU Data Governance Act (DGA), including
+recommendations for its effective operationalisation.
+
+Over the past year, Cyprus is advancing in the implementation of its digital transformation strategy
+for the public sector by strengthening the delivery of high-quality citizen-centred digital services.
+Key initiatives include the adoption of accessibility-by-design principles, reusable digital tools, and
+interoperable solutions. Cyprus has established a framework agreement for ‘Digital Transformation of
+Government Services’ to streamline procurement mechanism by reducing administrative burden and
+accelerating project implementation. Complementing  this, the ‘Express Service’ tool has been
+introduced to expedite simple and high-demand digital services. A centralised hosting platform has
+been developed to support public organisations lacking their own infrastructure, enabling secure data
+management and online service provision.
+
+
+
+
+
+                                       23Cyprus
+
+
+
+ 2025 recommendation on digital public services: Accelerate the implementation of the digital
+ transformation strategy for the public sector, prioritising seamless and inclusive access to digital
+  services for all citizens.
+
+ Cyprus continued the implementation of existing measures but did not take any new measure in
+ 2025. Phase A of the gov.cy project was completed. 86 websites have been designed and developed.
+ Phase B has started. After a pilot phase in 2024, an AI-powered chatbot, has been added to simplify
+ people’s access to public services. The Digital Citizen app continues to be upgraded with new
+  services and is now interoperable with the corresponding Greek government app.
+
+
+Regarding access to e-health records, in 2025 Cyprus completed all major preparatory milestones
+for the mobile Health application, myHealth@CY. As of the first quarter of 2026, the project has
+formally entered the analysis and requirements phase marking the beginning of implementation
+activities. Work is now centred on defining functional and technical specifications by engaging the
+relevant stakeholders and validating cross-system interoperability requirements. The first functional
+release is expected by the end of 2026 and full implementation of the entire tender scope will follow
+with completion anticipated by the end of 2027. In Cyprus, access to e-health records reveals
+inequalities. Residents with higher education levels are more than twice as likely to seek health
+information online as those with lower levels. Limited digital skills also hinder access to personal e-
+health records.
+
+In 2025, a tender for the provision of the Single electronic Health Records Bank (SeHRB) was
+prepared as a part of the integrated national digital health ecosystem. After a preliminary public
+market consultation, updates were carried out. Once the required approvals by different authorities
+are obtained, the tender will be launched (estimation by mid-2026). In parallel, a series of meetings
+were held with medical scientific societies to discuss and define interoperability with existing
+healthcare provider registries and how these will be integrated into both the SeHRB and the mobile
+app.
+
+Regarding cross-border healthcare services, Cyprus is connected with several EU countries through
+the MyHealth@EU cross-border electronic healthcare network, allowing the secure exchange of
+Patient Summaries and electronic prescriptions. Through this network, which includes Greece,
+Luxembourg, Croatia, Estonia, The Netherlands, Poland, Ireland, Portugal, and Spain, Cypriot citizens
+can access healthcare services and medications abroad more efficiently, while healthcare professionals
+can securely retrieve essential medical information to support safer and more continuous patient care
+across borders. The National Contact Point has been in production since 12 May 2025, with Cyprus
+operating both as Country A (data-sending country) and Country B (data-receiving country) within the
+cross-border healthcare framework.
+
+Cyprus aims to establish an H-Cloud as a fully governed and well-defined hybrid cloud environment
+dedicated to hosting and deploying all health-related projects. The H-Cloud will operate under the
+same framework of governance, security, compliance, hosting regions, disaster recovery as defined for
+the national cloud ecosystem (G-Cloud). The project is expected to be procured in 2026.
+
+ 2025 recommendation on access to e-health records: Ensure a comprehensive approach and swift
+ implementation of on-going projects to allow access to e-health records.
+
+  In 2025, Cyprus continued the implementation of existing measures but did not take any new
+ measure. Although people have access to their health data through an online portal, a mobile
+  application is still under development. As described above, Cyprus completed all major preparatory
+
+
+
+                                       24Cyprus
+
+
+
+ milestones for the mobile Health application, myHealth@CY, and started the implementation phase
+  in the first quarter of 2026.
+
+
+
+
+
+                                       25Cyprus
+
+Leveraging  digital transformation  for a
+smart greening
+
+In Cyprus, air emissions from the ICT sector are low, and the recycling of electronic equipment is
+relatively high. Sectoral data on the air emissions show that the ICT sector in Cyprus emitted 17.1 kg
+CO2 eq per capita, which is below the EU average of 22.8 kg CO2 eq (data from 2022). Almost all
+emissions come from the ICT services activities (99.7%). The ICT sector represented 0.23% of air
+emissions in the total economy (EU average: 0.35%). In 2023, 88.87% of ICT-related waste collected
+(corresponding to two categories of waste electrical and electronic equipment) are recycled or
+prepared for reuse while in the EU on average 80.23% are recycled or prepared for reuse. According
+to the Digital Decade Eurobarometer 2026, 64% of Cypriot people consider that green digital
+technologies will have the most positive impact in the next 10 years (EU average is at 50%).
+
+The DMRID continues to develop the project ‘Smart Cities’ to support the green transition of cities
+through the use of digital technologies that optimise resource use, reduce emissions and improve
+quality of life for people. The objective is the creation of a national Smart Cities platform, and the
+implementation of three vertical solutions, initially: Smart Street Lighting; Smart Parking and Smart
+Waste Management. Mobile applications will be developed for the management of the solutions by
+the Municipalities, as well as a single mobile app for citizens, which can be used on a national basis.
+The project has a production milestone in August 2026. The Smart Lighting solution will deliver
+significant energy savings through the real-time monitoring and adjustment of lighting levels. The
+Smart Parking solution will contribute to reduce traffic congestion and associated emissions by
+enabling  drivers to  locate  available parking spaces more  efficiently, while the Smart Waste
+Management solution will optimize waste collection routes and schedules based on real-time data,
+thus supporting circular economy practices. The project also includes provisions to support the
+development of additional smart solutions in the future.
+
+The launch of the new e-procurement system early 2026 will contribute to enhance the goals of the
+Green Public Procurement (GPP) strategy of Cyprus to promote environmentally friendly purchases.
+It integrates digital tools for monitoring and evaluating the environmental impact of products and
+services procured by public authorities, aligning with EU directives and fostering sustainable
+consumption.
+
+In the development of the future Digital strategy (five-year horizon), specific objectives will focus on
+leveraging digital technologies and policies to support smart greening. It is foreseen to integrate
+horizontal European policies, such as the green transition, influencing the strategic direction of the
+country’s digital transformation.
+
+Regarding the sustainability of the telecom sector, although the OCECPR, the NRA, does not have a
+legal mandate,  it  is acting towards the industry and the public to promote environmental
+sustainability. Every 3-6 months, information  is collected on the measures taken by operators
+regarding their environmental footprint. The OCECPR also launched a study to assess the current
+environmental footprint of the sector and any services related to electronic communications. The
+study also plans to benchmark Cyprus’s performance either against other EU countries situation or
+regarding international standards. It should also identify regulatory or voluntary measures that could
+be introduced by the OCECPR to the electronic communication sector. In 2025, the OCECPR also made
+
+
+
+
+                                       26Cyprus
+
+
+
+awareness campaign addressed to the public through social media to encourage people to recycle
+their devices.
+
+ 2025 recommendation on smart greening: enhance efforts to develop and integrate approach for
+ the digital and green transition, specifically to improve the energy efficiency of digital infrastructure,
+ and to accelerate the deployment of digital solutions to reduce the carbon footprint in other sectors.
+
+  In 2025, Cyprus continued the implementation of existing measures but did not take any new
+ measure. The main on-going measure is the implementation of the ‘Smart cities’ project (as
+ described above).
+
+
+
+
+
+                                       27Cyprus
+
+Annex I: National roadmap analysis
+
+
+ Cyprus’s national Digital Decade strategic roadmap
+
+ Cyprus submitted an adjustment of its national roadmap on 13th January 2025. It includes
+ 11 additional measures, six measures were revised, as well as one trajectory. Two targets and
+  trajectories were added for unicorns and edge nodes. The adjustment aligns with the current
+ Commission’s priorities such as cybersecurity and increasing the efficiency of public services using
+  digital technologies.
+
+ The revised roadmap addresses a substantial number of 2024 roadmap recommendations:
+
+ The revised roadmap includes a target and a trajectory for edge nodes and unicorns. Cyprus also
+ revised its national target for ICT specialists to align it with the EU’s 2030 target of 10%.
+
+ Cyprus significantly upgraded a programme implemented by the Cyprus Productivity Centre (CPC)
+  for the development of digital skills, putting emphasis on designing customised training programmes
+  for specific vulnerable groups including individuals aged 55 and above. In the initial roadmap, the
+ budget was EUR 300 000; the revised roadmap provides for an additional budget of EUR 1.75 million
+  for 2024-2026 period with the support of the RRP. In terms of business take-up of AI, no additional
+ measures have been included in the roadmap, but Cyprus is working on designing a national AI
+  strategy to leverage the potential of AI for growth, and on a funding scheme for the provision of AI
+  solutions.
+
+ While there has been no systematic contribution to the implementation of the digital rights and
+  principles was not carried out, the revised roadmap includes additional information on some
+  initiatives contributing directly to the implementation of digital rights and principles (e.g. Cyprus’s
+ involvement in international discussions on digital rights), and indirectly, such as the measures for
+  digital skills helping to empower people and protect them online. Regarding the general objectives,
+ while the adjustment of the roadmap includes a measure to boost cybersecurity capacity, the
+ implementation of the objective of greening digital has not been addressed.
+
+
+                       Measures and budget in national roadmap9
+
+
+
+
+
+                                       28Cyprus
+
+
+
+ Cyprus’s revised roadmap reinforces the already mostly complete roadmap submitted in 2023. In
+  total, the national roadmap includes 62 measures totalling EUR 988.4 million (equivalent to 2.96%
+ of Cyprus’s GDP). It remains high in ambition in terms of the targets set and the inclusion of
+  additional measures demonstrates the commitment to reach the objectives and targets of the
+  Digital Decade. At the same time, there is room to further consolidate the action in some areas,
+ such as digital skills for all and digital public services for businesses. The stakeholders, included in
+ the roadmap have been consulted.
+
+
+
+
+
+                                       29Cyprus
+
+Annex  II: Funding, economic impacts &
+Multi-Country Projects
+
+ Country results from the study ‘Assessing the Economic Impact of Digital Investments under the
+ Recovery and Resilience Facility’
+
+ A modelling study conducted by the European Commission services, with the FIDELIO model,
+ assesses the economic impact of the digital component of the RRF. As of November 2025, the digital
+ part of the Recovery and Resilience Plan of Cyprus was evaluated to EUR 264 million with
+ EUR 45 million for digital infrastructures, EUR 24 million for digital skills, EUR 73 million for the
+  digitalisation  of  businesses, EUR 101 million  for the  digitalisation  of  public  services, and
+ EUR 21 million for other digital priorities.
+
+ The total economic impact of RRF digital measures is estimated to EUR 189 million for the national
+ economy. Of  this, EUR 117 million stems from the direct effects of Cyprus’s own RRP and
+ EUR 72 million corresponds to spillover effects from the implementation of other EU Member
+  States’ plans. Cyprus benefited the most from spillover effects from RRPs of Greece (EUR 36
+  million), Romania (EUR 8 million), Italy (EUR 6 million). The most impacted sectors are ICT Services
+ (EUR 66 million), Finance & Insurance (EUR 27 million), and Construction (EUR 21 million).
+
+
+
+
+
+                                     RRF spillover effects to Cyprus
+
+
+
+
+
+                                       30Cyprus
+
+
+
+ Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy
+
+ Cyprus allocates 30% of its total recovery and resilience plan to digital (EUR 0.3 billion)4. In addition,
+ under cohesion policy, EUR 0.1 billion, representing 12% of the country’s total cohesion policy
+ funding, is dedicated to advancing Cyprus’s digital transformation5.
+
+
+
+ Multi-Country Projects
+
+ Cyprus  is a member of the EUROPEUM-EDIC and  is observer to the Alliance for Language
+ Technologies EDIC. The country is a member of the consortium that aims to set up the EDIC in the
+ area of cybersecurity skills. Cyprus is a participating state of the EuroHPC Joint Undertaking (JU) and
+ of the Chips JU.
+
+
+
+
+
+4 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the
+Recovery and Resilience Facility Regulation. Last data update: 23 April 2026.
+5 This amount includes all investment specifically aimed at or substantially contributing to digital transformation
+in the 2021 - 2027 Cohesion policy programming period. The source funds are the European Regional
+Development Fund (including Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just
+Transition Fund.
+
+
+                                       31

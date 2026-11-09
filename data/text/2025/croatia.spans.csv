@@ -1,0 +1,2202 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,384.7,242.7,PART 4/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+2,1,0,Calibri-Bold,40.0,132.5,250.4,499.4,290.4,DIGITAL DECADE 2025
+2,1,0,Calibri,40.0,499.7,250.4,508.7,290.4, 
+2,1,1,Calibri,40.0,132.5,299.2,458.7,339.2,COUNTRY REPORTS 
+2,2,0,Calibri-Bold,28.0,199.0,389.6,288.6,417.6,Croatia 
+2,3,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+2,3,1,Arial-BoldMT,24.0,298.9,779.8,305.5,806.5, 
+2,3,2,TimesNewRomanPSMT,12.0,525.7,790.8,528.7,804.1, 
+2,3,3,Arial-BoldMT,24.0,565.9,779.8,572.6,806.5, 
+3,0,0,Calibri,20.0,88.3,24.2,150.8,44.2,Croatia 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,3,0,Calibri,16.0,72.0,115.5,130.6,131.4,Contents
+3,3,0,Calibri,11.0,130.7,119.2,133.2,130.2, 
+3,5,0,Calibri,11.0,72.0,143.5,523.0,154.6,Executive summary ................................................................................................................................. 1
+3,5,0,Calibri,12.0,523.0,142.8,525.7,154.8, 
+3,6,0,Calibri,11.0,72.0,163.0,523.0,174.0,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,6,0,Calibri,12.0,523.0,162.3,525.7,174.3, 
+3,7,0,Calibri,11.0,83.1,182.5,523.0,193.6,Building technological leadership: digital infrastructure and technologies ........................................ 6
+3,7,0,Calibri,12.0,523.0,181.8,525.7,193.8, 
+3,8,0,Calibri-Light,11.0,94.0,202.0,212.4,213.0,Connectivity infrastructure
+3,8,0,Calibri,11.0,212.4,202.0,523.0,213.0, .............................................................................................................. 6
+3,8,0,Calibri,12.0,523.0,201.3,525.7,213.3, 
+3,9,0,Calibri-Light,11.0,94.0,221.5,162.7,232.6,VHCN and FTTP
+3,9,0,Calibri,11.0,162.6,221.5,523.0,232.6, ................................................................................................................................ 7
+3,9,0,Calibri,12.0,523.0,220.8,525.7,232.8, 
+3,10,0,Calibri,11.0,94.0,241.0,523.0,252.0,Semiconductors ............................................................................................................................... 9
+3,10,0,Calibri,12.0,523.0,240.3,525.7,252.3, 
+3,11,0,Calibri,11.0,94.0,260.6,523.0,271.6,Edge nodes ...................................................................................................................................... 9
+3,11,0,Calibri,12.0,523.0,259.8,525.7,271.8, 
+3,12,0,Calibri,11.0,94.0,280.0,523.0,291.0,Quantum technologies .................................................................................................................. 10
+3,12,0,Calibri,12.0,523.0,279.3,525.7,291.3, 
+3,13,0,Calibri,11.0,83.1,299.4,523.0,310.5,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 11
+3,13,0,Calibri,12.0,523.0,298.7,525.7,310.7, 
+3,14,0,Calibri,11.0,94.0,319.0,523.0,330.0,SMEs with at least basic digital intensity ...................................................................................... 11
+3,14,0,Calibri,12.0,523.0,318.3,525.7,330.3, 
+3,15,0,Calibri,11.0,94.0,338.4,523.0,349.5,Take-up of cloud/AI/data analytics ............................................................................................... 12
+3,15,0,Calibri,12.0,523.0,337.7,525.7,349.7, 
+3,16,0,Calibri,11.0,94.0,358.0,523.0,369.0,"Unicorns, scale-ups and start-ups ................................................................................................. 14"
+3,16,0,Calibri,12.0,523.0,357.3,525.7,369.3, 
+3,17,0,Calibri,11.0,83.1,377.4,523.0,388.5,Strengthening Cybersecurity & Resilience ........................................................................................ 15
+3,17,0,Calibri,12.0,523.0,376.7,525.7,388.7, 
+3,18,0,Calibri,11.0,72.0,397.0,523.0,408.1,Protecting and empowering EU people and society ............................................................................. 17
+3,18,0,Calibri,12.0,523.0,396.3,525.7,408.3, 
+3,19,0,Calibri-Bold,28.0,197.2,381.6,286.8,409.5,Croatia 
+3,20,0,Calibri,11.0,83.1,416.5,523.0,427.5,Empowering people and bringing the digital transformation closer to their needs ........................ 17
+3,20,0,Calibri,12.0,523.0,415.7,525.7,427.7, 
+3,21,0,Calibri,11.0,94.0,435.9,523.0,446.9,Equipping people with digital skills ............................................................................................... 17
+3,21,0,Calibri,12.0,523.0,435.2,525.7,447.2, 
+3,22,0,Calibri,11.0,94.0,455.5,523.0,466.5,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 20"
+3,22,0,Calibri,12.0,523.0,454.7,525.7,466.7, 
+3,23,0,Calibri,11.0,83.1,474.9,523.0,485.9,Building a safe and human centric digital environment and preserving our democracy ................. 22
+3,23,0,Calibri,12.0,523.0,474.2,525.7,486.2, 
+3,24,0,Calibri,11.0,72.0,494.5,523.0,505.5,Leveraging digital transformation for a smart greening ....................................................................... 25
+3,24,0,Calibri,12.0,523.0,493.7,525.7,505.7, 
+3,25,0,Calibri,11.0,72.0,513.9,523.0,524.9,Annex I – National roadmap analysis .................................................................................................... 27
+3,25,0,Calibri,12.0,523.0,513.2,525.7,525.2, 
+3,26,0,Calibri,11.0,72.0,533.5,523.0,544.5,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 29
+3,26,0,Calibri,12.0,523.0,532.8,525.7,544.8, 
+3,27,0,Calibri,11.0,72.0,552.9,523.0,563.9,Annex IIΙ – Digital rights and principles ................................................................................................. 30
+3,27,0,Calibri,12.0,523.0,552.2,525.7,564.2, 
+3,28,0,Calibri,11.0,72.0,572.4,74.5,583.4, 
+3,29,0,Calibri,11.0,72.0,594.9,74.5,606.0, 
+3,29,1,Calibri,11.0,216.1,594.9,218.5,606.0, 
+3,30,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.9,137.3,Croatia has made significant strides in strategic technological sectors but still faces challenges in the 
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.9,151.8,"widespread adoption of advanced digital technologies. Progress in areas, such as quantum "
+4,4,2,Calibri-Bold,11.0,72.0,155.2,525.9,166.2,"communication, semiconductors, and cybersecurity has strengthened its growing contribution to EU "
+4,4,3,Calibri-Bold,11.0,72.0,169.7,229.0,180.7,competitiveness and sovereignty.  
+4,5,0,Calibri-Bold,11.0,72.0,193.2,525.7,204.3,"Croatia shows a substantial level of ambition in its contribution to the Digital Decade, having set 13 "
+4,5,1,Calibri-Bold,11.0,72.0,207.7,525.6,218.8,"national targets, 77% of which are well aligned with the EU's 2030 targets. The country is following "
+4,5,2,Calibri-Bold,11.0,72.0,222.1,525.9,233.2,its trajectories moderately well with 63% of them being on track (on the basis of the 2024 
+4,5,3,Calibri-Bold,11.0,72.0,236.7,525.8,247.7,trajectories defined for all 8 KPIs analysed). Croatia addressed 50% of the 12 recommendations 
+4,5,4,Calibri-Bold,11.0,72.0,251.2,455.1,262.2,issued by the Commission in 2024 by making some changes through new measures. 
+4,6,0,Calibri,11.0,72.0,274.7,525.8,285.8,"In 2024, the government continued its strategic reforms, with digitalisation efforts increasingly linked "
+4,6,1,Calibri,11.0,72.0,289.1,525.9,300.2,"to strengthening industrial competitiveness, fostering innovation, and boosting technological "
+4,6,2,Calibri,11.0,72.0,303.6,525.9,314.7,"sovereignty. To make the most of the digital transition, Croatia must tackle persistent gaps in edge "
+4,6,3,Calibri,11.0,72.0,318.2,525.9,329.2,"infrastructure, SME digitalisation, the uptake of advanced technologies, and support for high-growth "
+4,6,4,Calibri,11.0,72.0,332.7,127.6,343.7,enterprises. 
+4,7,0,Calibri-Bold,7.0,299.2,362.9,321.6,369.8,Croatia 
+4,7,1,Calibri-Bold,7.0,417.7,362.9,427.3,369.8,EU 
+4,7,2,Calibri-Bold,7.0,471.3,358.5,514.6,365.5,Digital Decade 
+4,7,3,Calibri-Bold,7.0,471.3,367.1,514.7,374.0,target by 2030 
+4,8,0,Calibri,7.0,77.7,371.6,79.2,378.6, 
+4,8,1,Calibri,14.0,77.7,381.6,183.7,395.6,Digital Decade KPI 
+4,8,1,Calibri,9.0,183.6,380.3,193.7,389.3,(1)
+4,8,1,Calibri,7.0,193.7,386.9,195.3,393.8, 
+4,9,0,Calibri-Bold,7.0,350.0,383.1,376.3,390.1,National 
+4,9,1,Calibri-Bold,7.0,348.2,391.7,378.1,398.6,trajectory 
+4,10,0,Calibri-Bold,7.0,314.1,387.3,336.3,394.3,Annual 
+4,10,1,Calibri-Bold,7.0,312.1,396.0,338.4,402.9,progress 
+4,11,0,Calibri-Bold,7.0,350.6,400.2,375.8,407.2,2024 (3) 
+4,11,1,Calibri-Bold,7.0,387.7,391.7,418.0,398.6,DESI 2025 
+4,11,2,Calibri-Bold,7.0,431.3,387.3,453.5,394.3,Annual 
+4,11,3,Calibri-Bold,7.0,429.2,396.0,455.5,402.9,progress 
+4,11,4,Calibri-Bold,7.0,472.9,391.7,482.9,398.6,HR 
+4,11,5,Calibri-Bold,7.0,504.0,391.7,513.6,398.6,EU 
+4,12,0,Calibri-Bold,7.0,246.9,378.8,261.3,385.8,DESI 
+4,12,1,Calibri-Bold,7.0,246.3,387.3,261.9,394.3,2024 
+4,12,2,Calibri-Bold,7.0,245.8,396.0,262.2,402.9,(year 
+4,12,3,Calibri-Bold,7.0,245.1,404.5,263.0,411.5,2023) 
+4,13,0,Calibri-Bold,7.0,281.5,378.8,295.9,385.8,DESI 
+4,13,1,Calibri-Bold,7.0,280.9,387.3,296.5,394.3,2025 
+4,13,2,Calibri-Bold,7.0,280.5,396.0,296.9,402.9,(year 
+4,13,3,Calibri-Bold,7.0,279.8,404.5,297.7,411.5,2024) 
+4,14,0,Calibri-Bold,7.0,77.7,416.8,227.6,423.7,Fixed Very High Capacity Network (VHCN) coverage 
+4,14,1,Calibri,7.0,244.6,416.8,263.6,423.7,67.8% 
+4,14,2,Calibri,7.0,279.2,416.8,298.2,423.7,78.9% 
+4,14,3,Calibri,7.0,315.7,416.8,334.6,423.7,16.4% 
+4,14,4,Calibri,7.0,353.7,416.8,372.7,423.7,68.0% 
+4,14,5,Calibri,7.0,393.3,416.8,412.3,423.7,82.5% 
+4,14,6,Calibri,7.0,434.6,416.8,450.1,423.7,4.9% 
+4,14,7,Calibri,7.0,466.7,416.8,489.2,423.7,100.0% 
+4,14,8,Calibri,7.0,500.1,416.8,517.3,423.7,100% 
+4,15,0,Calibri-Bold,7.0,77.7,432.2,188.1,439.2,Fibre to the Premises (FTTP) coverage 
+4,15,1,Calibri,7.0,244.6,432.2,263.6,439.2,62.1% 
+4,15,2,Calibri,7.0,279.2,432.2,298.2,439.2,75.4% 
+4,15,3,Calibri,7.0,315.7,432.2,334.6,439.2,21.4% 
+4,15,4,Calibri,7.0,353.7,432.2,372.7,439.2,66.0% 
+4,15,5,Calibri,7.0,393.3,432.2,412.3,439.2,69.2% 
+4,15,6,Calibri,7.0,434.6,432.2,450.1,439.2,8.4% 
+4,15,7,Calibri,7.0,466.7,432.2,489.2,439.2,100.0% 
+4,15,8,Calibri,7.0,506.9,432.2,510.6,439.2,- 
+4,16,0,Calibri-Bold,7.0,77.7,447.7,137.1,454.7,Overall 5G coverage 
+4,16,1,Calibri,7.0,244.6,447.7,263.6,454.7,83.4% 
+4,16,2,Calibri,7.0,279.2,447.7,298.2,454.7,94.2% 
+4,16,3,Calibri,7.0,315.7,447.7,334.6,454.7,12.9% 
+4,16,4,Calibri,7.0,353.7,447.7,372.7,454.7,85.7% 
+4,16,5,Calibri,7.0,393.3,447.7,412.3,454.7,94.3% 
+4,16,6,Calibri,7.0,434.6,447.7,450.1,454.7,5.9% 
+4,16,7,Calibri,7.0,468.5,447.7,487.4,454.7,99.0% 
+4,16,8,Calibri,7.0,500.1,447.7,517.3,454.7,100% 
+4,17,0,Calibri-Bold,7.0,77.7,463.3,144.4,470.3,Edge Nodes (estimate) 
+4,17,1,Calibri,7.0,251.4,463.3,256.6,470.3,3 
+4,17,2,Calibri,7.0,286.1,463.3,291.3,470.3,6 
+4,17,3,Calibri,7.0,313.9,463.3,336.4,470.3,100.0% 
+4,17,4,Calibri,7.0,361.3,463.3,365.0,470.3,- 
+4,17,5,Calibri,7.0,394.1,463.3,411.5,470.3,2 257 
+4,17,6,Calibri,7.0,432.8,463.3,451.8,470.3,90.5% 
+4,17,7,Calibri,7.0,476.0,463.3,479.8,470.3,- 
+4,17,8,Calibri,7.0,498.3,463.3,519.3,470.3,10 000 
+4,18,0,Calibri-Bold,7.0,77.7,478.8,232.6,485.8,SMEs with at least a basic level of digital intensity (2) 
+4,18,1,Calibri,7.0,252.2,478.8,255.9,485.8,- 
+4,18,2,Calibri,7.0,279.2,478.8,298.2,485.8,63.5% 
+4,18,3,Calibri,7.0,317.5,478.8,333.0,485.8,4.8% 
+4,18,4,Calibri,7.0,361.3,478.8,365.0,485.8,- 
+4,18,5,Calibri,7.0,393.3,478.8,412.3,485.8,72.9% 
+4,18,6,Calibri,7.0,434.6,478.8,450.1,485.8,2.8% 
+4,18,7,Calibri,7.0,468.5,478.8,487.4,485.8,90.0% 
+4,18,8,Calibri,7.0,501.9,478.8,515.7,485.8,90% 
+4,19,0,Calibri-Bold,7.0,77.7,494.3,95.9,501.2,Cloud 
+4,19,1,Calibri,7.0,244.6,494.3,263.6,501.2,40.7% 
+4,19,2,Calibri,7.0,279.2,494.3,298.2,501.2,38.6% 
+4,19,3,Calibri,7.0,316.4,494.3,333.9,501.2,-5.4% 
+4,19,4,Calibri,7.0,361.3,494.3,365.0,501.2,- 
+4,19,5,Calibri,7.0,401.0,494.3,404.8,501.2,- 
+4,19,6,Calibri,7.0,440.5,494.3,444.2,501.2,- 
+4,19,7,Calibri,7.0,468.5,494.3,487.4,501.2,75.0% 
+4,19,8,Calibri,7.0,501.9,494.3,515.7,501.2,75% 
+4,20,0,Calibri-Bold,7.0,77.7,509.8,138.9,516.7,Artificial Intelligence 
+4,20,1,Calibri,7.0,246.3,509.8,261.8,516.7,7.9% 
+4,20,2,Calibri,7.0,279.2,509.8,298.2,516.7,11.8% 
+4,20,3,Calibri,7.0,315.7,509.8,334.6,516.7,49.0% 
+4,20,4,Calibri,7.0,353.7,509.8,372.7,516.7,13.0% 
+4,20,5,Calibri,7.0,393.3,509.8,412.3,516.7,13.5% 
+4,20,6,Calibri,7.0,432.8,509.8,451.8,516.7,67.2% 
+4,20,7,Calibri,7.0,468.5,509.8,487.4,516.7,20.0% 
+4,20,8,Calibri,7.0,501.9,509.8,515.7,516.7,75% 
+4,21,0,Calibri-Bold,7.0,77.7,525.2,120.0,532.2,Data analytics 
+4,21,1,Calibri,7.0,244.6,525.2,263.6,532.2,51.7% 
+4,21,2,Calibri,7.0,286.9,525.2,290.6,532.2,- 
+4,21,3,Calibri,7.0,323.4,525.2,327.1,532.2,- 
+4,21,4,Calibri,7.0,361.3,525.2,365.0,532.2,- 
+4,21,5,Calibri,7.0,401.0,525.2,404.8,532.2,- 
+4,21,6,Calibri,7.0,440.5,525.2,444.2,532.2,- 
+4,21,7,Calibri,7.0,468.5,525.2,487.4,532.2,30.0% 
+4,21,8,Calibri,7.0,501.9,525.2,515.7,532.2,75% 
+4,22,0,Calibri-Bold,7.0,77.7,540.7,161.7,547.7,AI or Cloud or Data analytics 
+4,22,1,Calibri,7.0,244.6,540.7,263.6,547.7,65.6% 
+4,22,2,Calibri,7.0,286.9,540.7,290.6,547.7,- 
+4,22,3,Calibri,7.0,323.4,540.7,327.1,547.7,- 
+4,22,4,Calibri,7.0,361.3,540.7,365.0,547.7,- 
+4,22,5,Calibri,7.0,401.0,540.7,404.8,547.7,- 
+4,22,6,Calibri,7.0,440.5,540.7,444.2,547.7,- 
+4,22,7,Calibri,7.0,476.0,540.7,479.8,547.7,- 
+4,22,8,Calibri,7.0,501.9,540.7,515.7,547.7,75% 
+4,23,0,Calibri-Bold,7.0,77.7,556.3,105.0,563.3,Unicorns 
+4,23,1,Calibri,7.0,251.4,556.3,256.6,563.3,2 
+4,23,2,Calibri,7.0,286.1,556.3,291.3,563.3,2 
+4,23,3,Calibri,7.0,317.5,556.3,333.0,563.3,0.0% 
+4,23,4,Calibri,7.0,360.5,556.3,365.7,563.3,2 
+4,23,5,Calibri,7.0,396.7,556.3,409.0,563.3,286 
+4,23,6,Calibri,7.0,434.6,556.3,450.1,563.3,4.4% 
+4,23,7,Calibri,7.0,475.3,556.3,480.5,563.3,4 
+4,23,8,Calibri,7.0,502.7,556.3,514.9,563.3,500 
+4,24,0,Calibri-Bold,7.0,77.7,571.8,152.7,578.8,At least basic digital skills 
+4,24,1,Calibri,7.0,244.6,571.8,263.6,578.8,59.0% 
+4,24,2,Calibri,7.0,286.9,571.8,290.6,578.8,- 
+4,24,3,Calibri,7.0,323.4,571.8,327.1,578.8,- 
+4,24,4,Calibri,7.0,361.3,571.8,365.0,578.8,- 
+4,24,5,Calibri,7.0,401.0,571.8,404.8,578.8,- 
+4,24,6,Calibri,7.0,440.5,571.8,444.2,578.8,- 
+4,24,7,Calibri,7.0,468.5,571.8,487.4,578.8,80.0% 
+4,24,8,Calibri,7.0,501.9,571.8,515.7,578.8,80% 
+4,25,0,Calibri-Bold,7.0,77.7,587.3,119.4,594.3,ICT specialists 
+4,25,1,Calibri,7.0,246.3,587.3,261.8,594.3,4.3% 
+4,25,2,Calibri,7.0,281.0,587.3,296.5,594.3,5.0% 
+4,25,3,Calibri,7.0,315.7,587.3,334.6,594.3,16.3% 
+4,25,4,Calibri,7.0,355.4,587.3,370.9,594.3,4.5% 
+4,25,5,Calibri,7.0,395.1,587.3,410.6,594.3,5.0% 
+4,25,6,Calibri,7.0,434.6,587.3,450.1,594.3,4.2% 
+4,25,7,Calibri,7.0,470.1,587.3,485.6,594.3,7.0% 
+4,25,8,Calibri,7.0,500.1,587.3,517.3,594.3,~10% 
+4,26,0,Calibri-Bold,7.0,77.7,602.8,147.9,609.8,eID scheme notification 
+4,26,1,Calibri,7.0,253.2,600.5,254.8,607.5, 
+4,26,2,Calibri,7.0,283.4,602.8,294.1,609.8,Yes 
+4,26,3,Calibri,7.0,324.4,600.5,326.0,607.5, 
+4,26,4,Calibri,7.0,362.4,600.5,363.9,607.5, 
+4,26,5,Calibri,7.0,402.1,600.5,403.7,607.5, 
+4,26,6,Calibri,7.0,441.6,600.5,443.2,607.5, 
+4,26,7,Calibri,7.0,477.1,600.5,478.7,607.5, 
+4,26,8,Calibri,7.0,507.9,600.5,509.5,607.5, 
+4,27,0,Calibri-Bold,7.0,77.7,618.3,174.9,625.2,Digital public services for citizens 
+4,27,1,Calibri,7.0,247.1,618.3,261.1,625.2,67.2 
+4,27,2,Calibri,7.0,281.7,618.3,295.6,625.2,75.2 
+4,27,3,Calibri,7.0,315.7,618.3,334.6,625.2,11.9% 
+4,27,4,Calibri,7.0,356.2,618.3,370.2,625.2,75.0 
+4,27,5,Calibri,7.0,395.8,618.3,409.8,625.2,82.3 
+4,27,6,Calibri,7.0,434.6,618.3,450.1,625.2,3.6% 
+4,27,7,Calibri,7.0,469.2,618.3,486.7,625.2,100.0 
+4,27,8,Calibri,7.0,502.7,618.3,514.9,625.2,100 
+4,28,0,Calibri-Bold,7.0,77.7,633.9,184.6,640.8,Digital public services for businesses 
+4,28,1,Calibri,7.0,247.1,633.9,261.1,640.8,66.2 
+4,28,2,Calibri,7.0,281.7,633.9,295.6,640.8,65.3 
+4,28,3,Calibri,7.0,316.4,633.9,333.9,640.8,-1.3% 
+4,28,4,Calibri,7.0,356.2,633.9,370.2,640.8,75.0 
+4,28,5,Calibri,7.0,395.8,633.9,409.8,640.8,86.2 
+4,28,6,Calibri,7.0,434.6,633.9,450.1,640.8,0.9% 
+4,28,7,Calibri,7.0,469.2,633.9,486.7,640.8,100.0 
+4,28,8,Calibri,7.0,502.7,633.9,514.9,640.8,100 
+4,29,0,Calibri-Bold,7.0,77.7,649.7,155.8,656.7,Access to e-Health records 
+4,29,1,Calibri,7.0,247.1,649.7,261.1,656.7,85.6 
+4,29,2,Calibri,7.0,281.7,649.7,295.6,656.7,86.6 
+4,29,3,Calibri,7.0,317.5,649.7,333.0,656.7,1.2% 
+4,29,4,Calibri,7.0,356.2,649.7,370.2,656.7,95.0 
+4,29,5,Calibri,7.0,395.8,649.7,409.8,656.7,82.7 
+4,29,6,Calibri,7.0,434.6,649.7,450.1,656.7,4.5% 
+4,29,7,Calibri,7.0,469.2,649.7,486.7,656.7,100.0 
+4,29,8,Calibri,7.0,502.7,649.7,514.9,656.7,100 
+4,30,0,Calibri,7.0,77.7,662.9,326.5,669.9,(1) See the methodological note for the description of the indicators and other metrics. 
+4,30,1,Calibri,7.0,77.7,671.4,519.0,678.4,"(2) DESI 2025 reports Version 4 of the Digital Intensity Index, which is comparable with the DII value from DESI 2023 (referring to year 2022) for the calculation "
+4,30,2,Calibri,7.0,77.7,680.0,382.8,686.9,"of annual progress. It is not comparable to the national trajectory, which is based on Version 3 of the index. "
+4,30,3,Calibri,7.0,77.7,688.6,427.9,695.6,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI 2025 (year 2024). 
+4,30,4,Calibri,11.0,72.0,698.9,74.5,709.9, 
+4,31,0,Calibri-Bold,11.0,72.0,721.4,377.8,732.5,According to the 2025 special Eurobarometer on the Digital Decade
+4,31,0,Calibri,11.0,378.0,721.4,522.2,732.5,", 81% of Croatians consider that "
+4,31,1,Calibri,11.0,72.0,736.0,518.3,747.0,the digitalisation of daily public and private services is making their lives easier. On the action of the 
+4,31,2,Calibri,11.0,72.0,750.4,500.9,761.4,"public authorities, 90% consider it important to counter and mitigate the issue of fake news and "
+4,32,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,32,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+5,2,0,Calibri,11.0,72.0,84.0,514.9,95.1,"disinformation online. And on competitiveness, 91% consider it important to ensure that European "
+5,2,1,Calibri,11.0,72.0,98.4,462.1,109.5,companies can grow and become ‘European Champions’ capable of competing globally.
+5,2,1,Calibri-Bold,11.0,462.1,98.4,464.6,109.5, 
+5,3,0,Calibri-Light,15.0,72.0,121.8,526.8,136.8,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,148.7,525.9,159.7,"Croatia has made significant progress in FTTP and 5G deployment, surpassing the average EU growth "
+5,5,1,Calibri,11.0,72.0,163.2,525.9,174.3,"rates. VHCN, although still below the EU average, progresses at a swift pace, driven by infrastructure "
+5,5,2,Calibri,11.0,72.0,177.7,525.9,188.8,"programmes backed by the Recovery and Resilience Facility (RRF). However, Croatia faces challenges "
+5,5,3,Calibri,11.0,72.0,192.1,525.9,203.2,"in deploying stand-alone 5G networks, with limited progress and no specific measures in place to "
+5,5,4,Calibri,11.0,72.0,206.7,525.7,217.7,"speed up the roll-out. Rural mid-band 5G coverage also remains well below the EU average, and a "
+5,5,5,Calibri,11.0,72.0,221.2,458.8,232.2,comprehensive demand-side strategy to stimulate uptake is only expected after 2027.  
+5,6,0,Calibri,11.0,72.0,244.7,525.7,255.8,The country also holds a strong position in the adoption of data analytics. Although the basic digital 
+5,6,1,Calibri,11.0,72.0,259.1,525.8,270.2,"intensity of SMEs grew faster than in the rest of the EU, it remains well below the EU average. Croatia "
+5,6,2,Calibri,11.0,72.0,273.6,525.9,284.7,"continues to face challenges in the uptake of AI and cloud services, where adoption is lower than EU "
+5,6,3,Calibri,11.0,72.0,288.2,525.9,299.2,"average. The start-up and scale-up ecosystem also remains weak, with only two unicorns recorded and "
+5,6,4,Calibri,11.0,72.0,302.7,214.0,313.7,limited venture capital activity.  
+5,7,0,Calibri,11.0,72.0,326.1,525.9,337.1,The launch of a national quantum communication project and the launch of a semiconductor 
+5,7,1,Calibri,11.0,72.0,340.6,525.8,351.6,competence centre are expected to strengthen Croatia’s position in strategic technologies. The country 
+5,7,2,Calibri,11.0,72.0,355.1,525.8,366.2,has also started taking steps towards decentralising ICT infrastructure with the deployment of six edge 
+5,7,3,Calibri,11.0,72.0,369.6,525.8,380.7,"nodes. However, the edge computing ecosystem remains underdeveloped and lacks a dedicated "
+5,7,4,Calibri,11.0,72.0,384.2,525.7,395.2,national strategy. The country's cybersecurity capacity has improved with the adoption of the 
+5,7,5,Calibri,11.0,72.0,398.6,525.9,409.6,"Cybersecurity Act and the launch of the National Coordination Centre for Industry, Technology, and "
+5,7,6,Calibri,11.0,72.0,413.1,525.9,424.1,"Research in Cybersecurity; however, key standards like Internet Protocol version 6 and Domain Name "
+5,7,7,Calibri,11.0,72.0,427.6,525.9,438.7,"System Security Extensions remain far below the EU average, signalling persistent vulnerabilities in the "
+5,7,8,Calibri,11.0,72.0,442.1,207.4,453.2,national digital infrastructure. 
+5,8,0,Calibri-Light,15.0,72.0,466.4,379.5,481.4,Protecting and empowering EU people and society 
+5,9,0,Calibri,11.0,72.0,493.4,525.9,504.4,"Despite solid digital skills among young people, Croatia continues to face major challenges in digital "
+5,9,1,Calibri,11.0,72.0,507.8,525.9,518.8,"inclusion, with persistent skill gaps affecting older adults, people with lower education levels, and the "
+5,9,2,Calibri,11.0,72.0,522.3,525.7,533.3,rural population. While the share of ICT specialists in employment has improved and matches the EU 
+5,9,3,Calibri,11.0,72.0,536.8,525.7,547.9,"average, shortages remain, labour market mismatches persist, and brain drain continues to weaken "
+5,9,4,Calibri,11.0,72.0,551.3,191.5,562.4,the digital talent pipeline.  
+5,10,0,Calibri,11.0,72.0,574.8,525.7,585.8,"Public digital services for citizens have improved steadily and are broadly on track, but digital public "
+5,10,1,Calibri,11.0,72.0,589.3,525.9,600.3,"services for businesses shows negative trends, including a decline in cross-border service availability. "
+5,10,2,Calibri,11.0,72.0,603.8,525.9,614.9,"Preparations for the national Digital Identity Wallet are advancing, which will reinforce secure access "
+5,10,3,Calibri,11.0,72.0,618.3,525.9,629.4,"frameworks. Access to health records is strong, but some key gaps remain: medical images are "
+5,10,4,Calibri,11.0,72.0,632.7,525.9,643.8,"unavailable, some healthcare providers are not connected, and delegated access is not possible. "
+5,10,5,Calibri,11.0,72.0,647.3,525.8,658.3,"Supporting a more inclusive and trusted digital transition, Croatia has intensified efforts to promote "
+5,10,6,Calibri,11.0,72.0,661.8,525.9,672.8,"media literacy, cybersecurity awareness, and protection against online risks, particularly among young "
+5,10,7,Calibri,11.0,72.0,676.3,108.1,687.3,people. 
+5,11,0,Calibri-Light,15.0,72.0,700.6,399.0,715.6,Leveraging digital transformation for a smart greening 
+5,12,0,Calibri,11.0,72.0,727.6,525.8,738.6,"Green and digital priorities are receiving greater attention in Croatia, supported by major investments "
+5,12,1,Calibri,11.0,72.0,742.1,525.9,753.1,from the RRF. Croatia has made progress in digitalising its energy infrastructure and improving water 
+5,12,2,Calibri,11.0,72.0,756.5,525.6,767.5,"management systems with digital monitoring solutions. However, the country still lacks a coherent "
+5,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+6,3,0,Calibri,11.0,72.0,84.0,525.7,95.1,"national strategy linking digitalisation to climate objectives, and systematic monitoring of emission "
+6,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,reductions through digital technologies has not yet been put in place. Consumer awareness of the 
+6,3,2,Calibri,11.0,72.0,112.9,525.6,124.0,"environmental impact of ICT devices remains low, and voluntary sustainability efforts in the digital "
+6,3,3,Calibri,11.0,72.0,127.5,194.4,138.5,sector are still fragmented. 
+6,4,0,Calibri-Light,15.0,72.0,151.8,328.3,166.8,National Digital Decade strategic roadmap 
+6,5,0,Calibri,11.0,72.0,178.7,525.9,189.7,"Croatia submitted an adjustment to its national roadmap in January 2025, refining its set of measures "
+6,5,1,Calibri,11.0,72.0,193.2,525.9,204.3,and updating key connectivity targets. The adjustment was prepared with broad stakeholder 
+6,5,2,Calibri,11.0,72.0,207.7,525.6,218.8,consultation and addresses a substantial number of 2024 recommendations. The roadmap maintains 
+6,5,3,Calibri,11.0,72.0,222.1,525.8,233.2,"a strong focus on strengthening digital infrastructure, SME digitalisation, digital skills development, "
+6,5,4,Calibri,11.0,72.0,236.7,525.7,247.7,"and digital public services. However, gaps persist in the widespread adoption of advanced "
+6,5,5,Calibri,11.0,72.0,251.2,525.8,262.2,"technologies, scaling up innovation-driven enterprises, and fully closing inclusion gaps in digital skills, "
+6,5,6,Calibri,11.0,72.0,265.7,525.8,276.8,"particularly for older adults and rural areas. Overall, the Croatian roadmap includes 31 measures with "
+6,5,7,Calibri,11.0,72.0,280.1,492.6,291.2,"a combined budget of 634.73 million, representing approximately 0.74% of the country's GDP. "
+6,6,0,Calibri-Light,15.0,72.0,304.5,249.8,319.5,Funding & projects for digital 
+6,7,0,Calibri,11.0,72.0,331.4,463.2,342.4,Croatia allocates 20% of its total recovery and resilience plan to digital (EUR 1.4 billion)
+6,7,0,Calibri,7.0,463.2,330.5,466.7,337.4,1
+6,7,0,Calibri,11.0,466.7,331.4,525.9,342.4,". In addition, "
+6,7,1,Calibri,11.0,72.0,345.9,525.7,356.9,"under cohesion policy, EUR 755 million, representing 9% of the country’s total cohesion policy funding, "
+6,7,2,Calibri,11.0,72.0,360.4,325.0,371.4,is dedicated to advancing Croatia’s digital transformation
+6,7,2,Calibri,7.0,325.0,359.5,328.6,366.5,2
+6,7,2,Calibri,11.0,328.5,360.4,336.2,371.4,.  
+6,8,0,Calibri,11.0,72.0,383.9,525.9,395.0,Croatia is a member of the three European Digital Infrastructure Consortia (EDICs): the Alliance for 
+6,8,1,Calibri,11.0,72.0,398.3,525.6,409.4,"Language Technologies EDIC, the Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM "
+6,8,2,Calibri,11.0,72.0,412.9,525.8,423.9,EDIC. Croatian organisations are indirect partners in the Important Project of Common European 
+6,8,3,Calibri,11.0,72.0,427.4,525.8,438.4,Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Croatia is a participating 
+6,8,4,Calibri,11.0,72.0,441.9,358.8,452.9,state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,9,0,Calibri,11.0,72.0,465.3,317.3,476.4,Croatia has contributed to the Best Practice Accelerator
+6,9,0,Calibri,7.0,317.4,464.4,320.9,471.4,3
+6,9,0,Calibri,11.0,320.8,465.3,525.9,476.4, by sharing one best practice under the Digital 
+6,9,1,Calibri,11.0,72.0,479.8,281.4,490.9,Skills cluster (‘Women in Digital – Girls in ICT’). 
+6,10,0,Calibri-Light,15.0,72.0,504.2,238.3,519.2,Digital rights and principles 
+6,11,0,Calibri,11.0,72.0,531.1,144.0,542.1,According to a 
+6,11,0,Calibri,11.0,146.8,531.1,211.2,542.1,support study
+6,11,0,Calibri,11.0,211.2,531.1,525.9,542.1, Croatia has been relatively active in implementing the European 
+6,11,1,Calibri,11.0,72.0,545.6,525.8,556.6,"Declaration on Digital Rights and Principles, with 48 initiatives overall and 7 new initiatives launched "
+6,11,2,Calibri,11.0,72.0,560.1,525.9,571.2,in 2024. Croatia is most active in the area of solidarity and inclusion. Less activity has been identified 
+6,11,3,Calibri,11.0,72.0,574.7,525.6,585.7,with regards to a fair digital environment. Measures in the area of sustainability appear to have most 
+6,11,4,Calibri,11.0,72.0,589.1,525.7,600.1,"impact on the ground, in contrast to those addressing putting people at the centre of the digital "
+6,11,5,Calibri,11.0,72.0,603.6,146.8,614.6,transformation.  
+6,11,6,Calibri,11.0,288.3,603.6,290.8,614.6, 
+6,12,0,Calibri,11.0,216.1,659.9,218.5,670.9, 
+6,12,1,Calibri,6.0,72.0,672.6,75.1,678.6,1
+6,12,1,Calibri,9.0,75.0,672.9,524.9,681.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,12,2,Calibri,9.0,72.0,683.9,313.5,692.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,12,3,Calibri,6.0,72.0,694.7,75.1,700.7,2
+6,12,3,Calibri,9.0,75.0,695.0,523.2,704.0, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,12,4,Calibri,9.0,72.0,705.9,525.0,714.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,12,5,Calibri,9.0,72.0,716.9,315.5,725.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,12,6,Calibri,6.0,72.0,727.6,75.1,733.6,3
+6,12,6,Calibri,9.0,75.0,727.9,525.1,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,12,7,Calibri,9.0,72.0,738.9,525.3,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,12,8,Calibri,9.0,72.0,749.8,525.5,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,12,9,Calibri,9.0,72.0,760.9,250.7,769.9,"Green IT, and the Uptake of Digital Technologies. "
+6,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+7,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+7,3,0,Calibri-Bold,11.0,77.7,108.0,165.4,119.1,Recommendations 
+7,5,0,Calibri,10.0,95.7,126.2,98.7,136.2,-
+7,5,0,ArialMT,10.0,98.8,124.7,101.6,135.8, 
+7,5,1,Calibri-Bold,11.0,113.7,125.4,188.0,136.5,Public services: 
+7,5,1,Calibri,11.0,190.2,125.4,535.4,136.5,Strengthen the interoperability and user-friendliness of public services to 
+7,5,2,Calibri,11.0,113.7,139.9,351.3,151.0,encourage people and businesses to use them more. 
+7,6,0,Calibri,10.0,95.7,158.3,98.7,168.2,-
+7,6,0,ArialMT,10.0,98.8,156.7,101.6,167.8, 
+7,6,1,Calibri-Bold,11.0,113.7,157.5,155.9,168.5,e-Health:
+7,6,1,Calibri,11.0,155.9,157.5,535.3,168.5, Introduce a comprehensive legal and technical framework for enabling authorised 
+7,6,2,Calibri,11.0,113.7,172.0,535.2,183.0,individuals’ access to electronic health data on behalf of others; make medical imaging 
+7,6,3,Calibri,11.0,113.7,186.4,535.2,197.4,accessible to individuals via the national online health access service; and ensure that all 
+7,6,4,Calibri,11.0,113.7,200.9,535.5,211.9,"healthcare providers, including geriatric nursing homes and mental health facilities, are "
+7,6,5,Calibri,11.0,113.7,215.4,291.4,226.5,connected and actively supplying data.  
+7,7,0,Calibri,10.0,95.7,233.8,98.7,243.7,-
+7,7,0,ArialMT,10.0,98.8,232.2,101.6,243.3, 
+7,7,1,Calibri-Bold,11.0,113.7,233.0,200.5,244.0,Basic digital skills:
+7,7,1,Calibri,11.0,200.4,233.0,535.4,244.0," Intensify targeted action to bridge the digital skills divide across age, "
+7,7,2,Calibri,11.0,113.7,247.4,294.2,258.4,"education, and rural-urban populations. "
+7,8,0,Calibri,10.0,95.7,270.7,98.7,280.7,-
+7,8,0,ArialMT,10.0,98.8,269.2,101.6,280.3, 
+7,8,1,Calibri-Bold,11.0,113.7,269.9,179.5,281.0,ICT specialists
+7,8,1,Calibri,11.0,179.6,269.9,535.5,281.0,": Expand training, upskilling, and retention programmes for ICT specialists, "
+7,8,2,Calibri,11.0,113.7,284.4,535.4,295.5,"strengthen alignment with labour market needs, and tackle brain drain to safeguard Croatia’s "
+7,8,3,Calibri,11.0,113.7,298.9,213.4,309.9,digital talent pipeline. 
+7,9,0,Calibri,10.0,95.7,322.2,98.7,332.2,-
+7,9,0,ArialMT,10.0,98.8,320.7,101.6,331.8, 
+7,9,1,Calibri-Bold,11.0,113.7,321.4,196.0,332.5,SME digitalisation
+7,9,1,Calibri,11.0,196.0,321.4,535.5,332.5,: Develop targeted programmes and incentives to increase SMEs’ adoption 
+7,9,2,Calibri,11.0,113.7,335.9,535.3,347.0,"of cloud, AI, and data analytics solutions, narrowing the gap between digitally advanced "
+7,9,3,Calibri,11.0,113.7,350.3,283.8,361.4,enterprises and those lagging behind. 
+7,10,0,Calibri,10.0,95.7,373.7,98.7,383.7,-
+7,10,0,ArialMT,10.0,98.8,372.2,101.6,383.3, 
+7,10,1,Calibri-Bold,11.0,113.7,372.9,171.2,383.9,Edge nodes:
+7,10,1,Calibri,11.0,171.2,372.9,535.3,383.9, Increase efforts in the area of edge nodes in view of their importance for 
+7,10,2,Calibri,11.0,113.7,387.3,380.8,398.3,"competitiveness, resilience, sovereignty and climate action. "
+7,11,0,Calibri,10.0,95.7,410.7,98.7,420.6,-
+7,11,0,ArialMT,10.0,98.8,409.1,101.6,420.2, 
+7,11,1,Calibri-Bold,11.0,113.7,409.9,126.3,420.9,5G
+7,11,1,Calibri,11.0,126.3,409.9,535.2,420.9,": Accelerate full gigabit and 5G coverage, especially by addressing operational bottlenecks "
+7,11,2,Calibri,11.0,113.7,424.4,446.2,435.4,"(planning, permitting) and expanding mid-band 5G spectrum deployment. "
+7,12,0,Calibri,10.0,95.7,447.6,98.7,457.6,-
+7,12,0,ArialMT,10.0,98.8,446.1,101.6,457.2, 
+7,12,1,Calibri-Bold,11.0,113.7,446.8,176.0,457.9,Cybersecurity
+7,12,1,Calibri,11.0,176.1,446.8,535.5,457.9,": Develop targeted cybersecurity support programmes for SMEs, expand "
+7,12,2,Calibri,11.0,113.7,461.3,535.5,472.4,"resilience testing, and strengthen national capacity to address cyber incidents in the public and "
+7,12,3,Calibri,11.0,113.7,475.9,186.9,486.9,private sectors.  
+7,13,0,Calibri-Bold,11.0,72.0,498.8,74.5,509.8, 
+7,14,0,Calibri,11.0,72.0,521.3,74.5,532.4, 
+7,15,0,Calibri,11.0,72.0,558.1,74.5,569.1, 
+7,15,1,Calibri-Bold,26.0,216.1,546.8,221.9,572.9, 
+7,16,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.6,171.5,"Croatia continues to strengthen its digital competitiveness, making notable progress in enhancing "
+8,4,1,Calibri-Bold,11.0,72.0,175.0,452.4,186.0,its digital infrastructure and accelerating the digital transformation of its economy
+8,4,1,Calibri,11.0,452.7,175.0,525.8,186.0,. The ICT sector 
+8,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,"plays an increasingly important role, contributing 5.32% to the country’s gross value added in 2021 – "
+8,4,3,Calibri,11.0,72.0,203.9,172.2,214.9,above the EU average 
+8,4,3,Calibri,7.0,172.0,203.0,175.5,210.0,4
+8,4,3,Calibri,11.0,175.5,203.9,525.7,214.9,". This contribution stems primarily from the dominance of ICT services, which "
+8,4,4,Calibri,11.0,72.0,218.4,525.6,229.5,"represent around 70% of the sector’s activity, followed by equipment sales and, to a lesser extent, "
+8,4,5,Calibri,11.0,72.0,233.0,525.8,244.0,"hardware manufacturing. The sector has experienced steady growth in recent years, driven by strong "
+8,4,6,Calibri,11.0,72.0,247.5,525.7,258.5,"government modernisation efforts and robust enterprise investments, particularly in digital "
+8,4,7,Calibri,11.0,72.0,261.9,355.8,272.9,technologies such as software development and ICT services 
+8,4,7,Calibri,7.0,355.6,261.0,359.2,267.9,5
+8,4,7,Calibri,11.0,359.1,261.9,525.9,272.9,". These services, including software "
+8,4,8,Calibri,11.0,72.0,276.4,525.6,287.5,"development and IT consulting, are increasingly contributing to Croatia’s export growth and "
+8,4,9,Calibri,11.0,72.0,290.9,147.2,302.0,competitiveness 
+8,4,9,Calibri,7.0,147.0,290.0,150.5,297.0,6
+8,4,9,Calibri,11.0,150.5,290.9,155.8,302.0,. 
+8,5,0,Calibri-Bold,11.0,72.0,313.4,316.9,324.4,The broader economic context remains favourable
+8,5,0,Calibri,11.0,317.0,313.4,525.8,324.4,". In 2025, Croatia maintains robust growth "
+8,5,1,Calibri,11.0,72.0,327.9,523.6,338.9,"supported by EU funds, eurozone membership, and Schengen integration, with a steady rise in export-"
+8,5,2,Calibri,11.0,72.0,342.4,232.9,353.4,oriented services and digital trade 
+8,5,2,Calibri,7.0,232.9,341.5,236.4,348.5,7
+8,5,2,Calibri,11.0,236.3,342.4,525.7,353.4,". The digital sector plays a growing role in this trend, notably "
+8,5,3,Calibri,11.0,72.0,356.9,525.9,368.0,through Croatia’s active participation in European initiatives to boost research and development (R&D) 
+8,5,4,Calibri,11.0,72.0,371.3,525.6,382.4,and innovation. ICT R&D personnel represented 36.75% of the national total in 2021 and 35.26% in 
+8,5,5,Calibri,11.0,72.0,385.8,525.7,396.9,"2022. However, structural constraints – including labour shortages and fragmentation in the R&D "
+8,5,6,Calibri,11.0,72.0,400.4,418.5,411.4,landscape – continue to weigh on the economy’s long-term growth potential. 
+8,6,0,Calibri-Bold,11.0,72.0,422.8,525.7,433.9,"R&D intensity reached 1.39% of gross domestic product (GDP) in 2023, up from 0.95% in 2018, "
+8,6,1,Calibri-Bold,11.0,72.0,437.3,514.7,448.4,largely driven by investments from the Recovery and Resilience Plan (RRP) and cohesion policy
+8,6,1,Calibri,11.0,515.2,437.3,517.4,448.4, 
+8,6,1,Calibri,7.0,517.2,436.4,520.7,443.4,8
+8,6,1,Calibri,11.0,520.7,437.3,525.9,448.4,. 
+8,6,2,Calibri-Bold,11.0,72.0,451.9,369.9,462.9,Business R&D in the ICT sector accounted for 26.7% of total R&D
+8,6,2,Calibri,11.0,370.0,451.9,525.8,462.9," spending, highlighting its growing "
+8,6,3,Calibri,11.0,72.0,466.4,525.6,477.4,"role in driving innovation. Nonetheless, public research remains fragmented, and further reforms are "
+8,6,4,Calibri,11.0,72.0,480.8,363.8,491.8,needed to ensure stronger institutional coordination and impact. 
+8,7,0,Calibri-Bold,11.0,72.0,503.3,428.6,514.4,"Digital innovation is gaining momentum, and the start-up ecosystem is evolving"
+8,7,0,Calibri,11.0,428.7,503.3,525.9,514.4,. Croatia outperforms 
+8,7,1,Calibri,11.0,72.0,517.9,525.9,528.9,"the EU average in the adoption of cloud technologies and data analytics; however, the uptake of "
+8,7,2,Calibri,11.0,72.0,532.3,525.9,543.3,artificial intelligence remains modest. While the number of unicorns remains limited and venture 
+8,7,3,Calibri,11.0,72.0,546.8,525.9,557.8,"capital investment (0.028% of GDP) falls below the EU average (0.078%), new measures – including "
+8,7,4,Calibri,11.0,72.0,561.3,525.9,572.4,the Vesna Deep Tech Venture Fund and improved R&D tax incentives – aim to improve access to 
+8,7,5,Calibri,11.0,72.0,575.9,402.5,586.9,finance and strengthen the innovation environment for high-growth firms 
+8,7,5,Calibri,7.0,402.3,575.0,405.9,581.9,9
+8,7,5,Calibri,11.0,405.8,575.9,411.1,586.9,. 
+8,8,0,Calibri-Bold,11.0,72.0,598.3,470.7,609.3,Croatia’s performance in digital infrastructure and business digitalisation is improving
+8,8,0,Calibri,11.0,471.1,598.3,525.9,609.3,. Significant 
+8,8,1,Calibri,11.0,72.0,612.8,525.8,623.9,investments have been made to expand high-capacity network connectivity and accelerate the digital 
+8,8,2,Calibri,11.0,72.0,627.3,525.8,638.4,transformation of small and medium-sized enterprises (SMEs) – both essential for strengthening the 
+8,8,3,Calibri,11.0,72.0,641.7,386.8,652.8,business environment and boosting overall economic competitiveness 
+8,8,3,Calibri,7.0,386.6,640.8,393.6,647.8,10
+8,8,3,Calibri,11.0,393.5,641.7,398.8,652.8,. 
+8,9,0,Calibri,11.0,216.1,679.7,218.5,690.7, 
+8,9,1,Calibri,6.0,72.0,690.8,75.1,696.8,4
+8,9,1,Calibri,9.0,75.0,691.0,525.2,700.0, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,9,2,Calibri,9.0,72.0,699.8,233.0,708.8,the State of the Digital Decade report 2025. 
+8,9,3,Calibri,6.0,72.0,708.3,75.1,714.3,5
+8,9,3,Calibri,9.0,75.0,708.5,404.5,717.5," International Trade Administration, Croatia Country Commercial Guide. Available here: "
+8,9,3,Calibri,9.0,405.7,708.5,523.6,717.5,https://www.trade.gov/country-
+8,9,4,Calibri,9.0,72.0,717.3,334.8,726.3,commercial-guides/croatia-information-and-communication-technology
+8,9,4,Calibri,9.0,334.9,717.3,336.9,726.3, 
+8,9,5,Calibri,6.0,72.0,725.9,75.1,731.9,6
+8,9,5,Calibri,9.0,75.0,726.2,418.2,735.2, European Commission. (2025). European Semester Annex on Innovation to Business: Croatia. 
+8,9,6,Calibri,6.0,72.0,734.7,75.1,740.7,7
+8,9,6,Calibri,9.0,75.0,735.0,279.8,744.0," Economist Intelligence, One-click report: Croatia, 2025. "
+8,9,7,Calibri,6.0,72.0,743.5,75.1,749.5,8
+8,9,7,Calibri,9.0,75.0,743.7,94.9,752.7, ibid. 
+8,9,8,Calibri,6.0,72.0,752.2,75.1,758.2,9
+8,9,8,Calibri,9.0,75.0,752.5,94.9,761.5, ibid. 
+8,9,9,Calibri,6.0,72.0,761.1,78.1,767.1,10
+8,9,9,Calibri,9.0,78.0,761.4,409.5,770.4, European Commission (2025). European Semester Annex Making Business Easier: Croatia. 
+8,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+9,2,0,Calibri-Light,15.0,72.0,84.9,509.7,99.9,Building technological leadership: digital infrastructure and technologies 
+9,4,0,Calibri,11.0,72.0,111.7,525.9,122.8,"Croatia is making strong progress in rolling out digital infrastructure, with some of the fastest growth "
+9,4,1,Calibri,11.0,72.0,126.3,525.9,137.3,"rates in fibre and very high-capacity network (VHCN) coverage across the EU, particularly in rural areas, "
+9,4,2,Calibri,11.0,72.0,140.8,525.8,151.8,where coverage remains low but is catching up rapidly. The country is also advancing in strategic 
+9,4,3,Calibri,11.0,72.0,155.2,525.7,166.2,"domains such as semiconductors and quantum technologies, though challenges remain in edge "
+9,4,4,Calibri,11.0,72.0,169.7,352.4,180.7,"computing, mid-band 5G coverage, and gigabit service uptake. "
+9,5,0,Calibri-Light,12.0,72.0,192.4,204.0,204.4,Connectivity infrastructure 
+9,6,0,Calibri-Bold,11.0,72.0,216.0,525.9,227.1,Croatia is at 78.93% of VHCN coverage (2030 national target: 100%) after an increase of +16.4% in 
+9,6,1,Calibri-Bold,11.0,72.0,230.5,525.8,241.6,2024 and stands just below the EU average of 82.49%. The country is on track according to its 
+9,6,2,Calibri-Bold,11.0,72.0,245.0,161.4,256.0,national trajectory. 
+9,6,2,Calibri,11.0,161.2,245.0,525.9,256.0,"However, Croatia’s growth rate notably outperformed the EU average of 4.9%. For "
+9,6,3,Calibri,11.0,72.0,259.5,525.8,270.5,"households in rural areas, VHCN coverage reached 49.09%, under the EU rural average of 61.89%, but "
+9,6,4,Calibri,11.0,72.0,274.0,525.9,285.0,"with a very high annual growth rate of 92.8%, significantly exceeding the EU’s 11.3%. These results "
+9,6,5,Calibri,11.0,72.0,288.5,371.4,299.6,suggest that Croatia exceeded its expected 2024 trajectory of 66%. 
+9,7,0,Calibri-Bold,11.0,72.0,311.0,525.7,322.0,"Fibre to the premises (FTTP) coverage in Croatia reached 75.39% in 2024 (national target: 100%), up "
+9,7,1,Calibri-Bold,11.0,72.0,325.5,525.7,336.5,+21.4% from 2023 and above the EU average of 69.24%. The country is on track according to its 
+9,7,2,Calibri-Bold,11.0,72.0,340.0,160.3,351.0,national trajectory.
+9,7,2,Calibri,11.0,160.2,340.0,162.7,351.0, 
+9,8,0,Calibri-Bold,11.0,72.0,362.4,525.6,373.5,"In rural areas, FTTP coverage stood at 44.43%, still below the EU’s 58.78%, but Croatia recorded "
+9,8,1,Calibri-Bold,11.0,72.0,377.0,383.1,388.0,"exceptional annual growth of 126.0%, compared to the EU’s 11.9%."
+9,8,1,Calibri,11.0,383.4,377.0,525.8,388.0, Although no separate national 
+9,8,2,Calibri,11.0,72.0,391.4,525.9,402.4,"FTTP trajectory has been reported, the observed pace of deployment is aligned with the country’s "
+9,8,3,Calibri,11.0,72.0,405.9,164.6,416.9,broader VHCN goals.
+9,8,3,Calibri-Bold,11.0,164.4,405.9,166.9,416.9, 
+9,9,0,Calibri-Bold,11.0,72.0,428.5,525.9,439.5,"Croatia reached 94.20% of 5G coverage in 2024 (national target: 99%), showing an increase of "
+9,9,1,Calibri-Bold,11.0,72.0,442.9,525.7,453.9,"+12.9%, just below the EU average of 94.35%. The country is on track according to its national "
+9,9,2,Calibri-Bold,11.0,72.0,457.4,117.1,468.4,trajectory
+9,9,2,Calibri,11.0,117.1,457.4,525.6,468.4,". In rural areas, 5G coverage was 86.35%, exceeding the EU rural average of 79.57%. "
+9,9,3,Calibri,11.0,72.0,471.9,525.8,482.9,"However, rural growth of 7.8% was below the EU’s 11.9%, indicating that further acceleration is needed "
+9,9,4,Calibri,11.0,72.0,486.4,199.0,497.5,in sparsely populated areas. 
+9,10,0,Calibri-Bold,11.0,72.0,508.9,367.6,519.9,Coverage in the strategic 3.4-3.8 GHz band remains a challenge.
+9,10,0,Calibri,11.0,367.8,508.9,525.9,519.9, Croatia’s national coverage in this 
+9,10,1,Calibri,11.0,72.0,523.4,125.0,534.4,band stood 
+9,10,1,Calibri-Bold,11.0,125.2,523.4,525.5,534.4,"at 45.18% in 2024, compared to the EU average of 67.72%, with a growth rate of 13.0% "
+9,10,2,Calibri-Bold,11.0,72.0,537.9,157.8,548.9,vs the EU’s 32.6%.
+9,10,2,Calibri,11.0,157.8,537.9,525.7,548.9," In rural areas, coverage reached only 8.48%, far below the EU rural average of "
+9,10,3,Calibri,11.0,72.0,552.3,524.4,563.3,"26.19%, and with a modest increase of 5.7%, signalling the need for intensified mid-band 5G roll-out. "
+9,11,0,Calibri,11.0,72.0,574.9,135.2,585.9,"On spectrum, "
+9,11,0,Calibri-Bold,11.0,135.1,574.9,525.7,585.9,Croatia has assigned 100% of the harmonised spectrum in the 5G pioneer bands as of 
+9,11,1,Calibri-Bold,11.0,72.0,589.4,140.1,600.5,2024 and 2025
+9,11,1,Calibri,11.0,140.2,589.4,525.8,600.5,", standing well above the EU averages of 73.4% and 74.63%, respectively. This places "
+9,11,2,Calibri,11.0,72.0,603.8,334.5,614.9,Croatia among the top performers in regulatory readiness. 
+9,12,0,Calibri-Bold,11.0,72.0,626.4,482.3,637.4,"In terms of fixed broadband take-up, 43.64% of subscriptions were ≥ 100 Mbps in 2024 "
+9,12,0,Calibri,11.0,483.5,626.4,525.9,637.4,(up from 
+9,12,1,Calibri,11.0,72.0,640.9,525.9,651.9,"38.62% in 2023), below the EU average of 71.88%, but with a growth rate of 13.0%, outpacing the EU’s "
+9,12,2,Calibri,11.0,72.0,655.3,525.9,666.3,"9.1%. For 1 Gbps subscriptions, Croatia rose from 3.22% to 5.81% year-on-year, while the EU increased "
+9,12,3,Calibri,11.0,72.0,669.8,525.7,680.9,"from 18.47% to 22.25%. Though the absolute share remains low, Croatia’s 80.4% growth far exceeded "
+9,12,4,Calibri,11.0,72.0,684.3,303.5,695.4,"the EU’s 20.5%, reflecting rising consumer demand. "
+9,13,0,Calibri-Bold,11.0,72.0,706.8,290.2,717.8,5G SIM card penetration reached 34.8% in 2024 
+9,13,0,Calibri,11.0,290.2,706.8,525.8,717.8,"(up from 17.38% in 2023), just below the EU average "
+9,13,1,Calibri,11.0,72.0,721.3,525.6,732.4,"of 35.56%. With a growth rate of 100.2% compared to the EU’s 63.9%, Croatia shows strong "
+9,13,2,Calibri,11.0,72.0,735.8,292.8,746.9,momentum in consumer adoption of 5G services.
+9,13,2,Calibri-Bold,11.0,292.8,735.8,295.2,746.9, 
+9,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+10,2,0,Calibri-Light,12.0,72.0,84.3,149.6,96.3,VHCN and FTTP 
+10,4,0,Calibri-Bold,11.0,72.0,107.8,525.6,118.8,"Croatia’s target for VHCN and FTTP coverage remains at 100% by 2030, as defined in the initial "
+10,4,1,Calibri-Bold,11.0,72.0,122.3,197.3,133.3,roadmap submitted in 2023
+10,4,1,Calibri,11.0,197.3,122.3,525.9,133.3,. Given the strong public investment and improved FTTP roll-out observed 
+10,4,2,Calibri,11.0,72.0,136.8,199.7,147.9,"in 2024, the target appears "
+10,4,2,Calibri-Bold,11.0,200.9,136.8,236.5,147.9,realistic
+10,4,2,Calibri,11.0,236.4,136.8,525.8,147.9,". The strong growth already achieved, combined with Croatia’s "
+10,4,3,Calibri,11.0,72.0,151.2,481.2,162.3,"consistent alignment with or outperformance of EU benchmarks, supports this assessment. "
+10,5,0,Calibri-Bold,11.0,72.0,173.8,362.1,184.8,The strategy is underpinned by significant funding from the RRP
+10,5,0,Calibri,11.0,362.2,173.8,525.9,184.8,", with EUR 125.7 million allocated to "
+10,5,1,Calibri,11.0,72.0,188.3,525.8,199.3,the national broadband infrastructure programme targeting areas with insufficient commercial 
+10,5,2,Calibri,11.0,72.0,202.7,525.9,213.7,"interest (ONP), enabling the roll-out of FTTP coverage to approximately 124 000 households and "
+10,5,3,Calibri,11.0,72.0,217.2,525.9,228.3,700 000 residents. A further EUR 19.6 million was secured under the RRP to support the construction 
+10,5,4,Calibri,11.0,72.0,231.8,411.8,242.8,"of passive infrastructure in rural areas, improving access to VHCN networks. "
+10,6,0,Calibri-Bold,11.0,72.0,254.2,525.9,265.2,"To complement these supply-side investments, Croatia plans to introduce a demand-side voucher "
+10,6,1,Calibri-Bold,11.0,72.0,268.7,419.8,279.8,scheme post-2027 to support gigabit uptake for up to 125 000 households
+10,6,1,Calibri,11.0,419.9,268.7,525.9,279.8,. This dual approach is 
+10,6,2,Calibri,11.0,72.0,283.2,524.0,294.3,"essential to ensuring both availability and adoption, particularly in less commercially attractive areas. "
+10,7,0,Calibri,11.0,72.0,305.7,525.9,316.7,Croatia is also investing in its future backhaul capacities for underserved areas through the national 
+10,7,1,Calibri,11.0,72.0,320.2,525.8,331.2,"programme for broadband backhaul infrastructure (NP-BBI), expected to be completed by 2030. "
+10,7,2,Calibri,11.0,72.0,334.7,525.8,345.8,"However, implementation has faced significant delays. The design phase is underway, but progress "
+10,7,3,Calibri,11.0,72.0,349.1,340.0,360.2,"remains limited, and outcomes are yet to be demonstrated. "
+10,8,0,Calibri-Bold,11.0,72.0,371.7,435.5,382.7,No new fibre roll-out measures were included in the 2024 roadmap adjustment.
+10,8,0,Calibri,11.0,435.7,371.7,525.9,382.7," However, given the "
+10,8,1,Calibri,11.0,72.0,386.2,525.7,397.2,"strong performance to date and the comprehensive programme structure already in place, this "
+10,8,2,Calibri,11.0,72.0,400.6,525.8,411.7,"omission appears justified. The roadmap continues to prioritise rural deployment, demand "
+10,8,3,Calibri,11.0,72.0,415.1,273.9,426.2,"stimulation, and administrative streamlining. "
+10,9,0,Calibri-Bold,11.0,72.0,437.7,326.0,448.8,The copper switch-off process remains at an early stage. 
+10,9,0,Calibri,11.0,325.6,437.7,525.8,448.8,"As of early 2025, no formal decommissioning "
+10,9,1,Calibri,11.0,72.0,452.1,525.9,463.1,"plan has been submitted by the incumbent operator, although conditions for partial switch-offs are "
+10,9,2,Calibri,11.0,72.0,466.6,525.9,477.7,"met in several FTTP-covered areas. Croatia’s electronic communications regulator, HAKOM, has "
+10,9,3,Calibri,11.0,72.0,481.1,525.9,492.2,confirmed that any future switch-offs will be subject to case-by-case approval under the Electronic 
+10,9,4,Calibri,11.0,72.0,495.7,169.6,506.7,Communications Act. 
+10,10,0,Calibri,11.0,72.0,518.1,525.8,529.2,"Recent market developments, including the emergence of a new operator now leading over half of the "
+10,10,1,Calibri,11.0,72.0,532.6,525.7,543.7,"co-financed projects, have increased implementation capacity and enhanced competitive pressure. "
+10,10,2,Calibri-Bold,11.0,72.0,547.0,230.5,558.1,"Nonetheless, key barriers remain"
+10,10,2,Calibri,11.0,230.4,547.0,525.8,558.1,", such as high construction costs in sparsely populated areas, "
+10,10,3,Calibri,11.0,72.0,561.6,525.8,572.6,"affordability gaps among elderly and low-income populations, and heterogeneous fee regimes "
+10,10,4,Calibri,11.0,72.0,576.1,513.5,587.1,"imposed by local authorities. To address these, Croatia is preparing legislative updates in Q3 2025 "
+10,10,4,Calibri-Bold,11.0,514.0,576.1,525.9,587.1,to 
+10,10,5,Calibri-Bold,11.0,72.0,590.6,258.9,601.7,transpose the General Infrastructure Act.
+10,10,5,Calibri,11.0,258.9,590.6,261.4,601.7, 
+10,11,0,Calibri,11.0,72.0,613.1,523.6,624.1,"In summary, Croatia’s strategy to achieve universal VHCN and FTTP coverage by 2030 is credible, well-"
+10,11,1,Calibri,11.0,72.0,627.6,525.9,638.6,"supported, and advancing steadily. Key next steps include putting into operation the gigabit broadband "
+10,11,2,Calibri,11.0,72.0,642.1,525.8,653.1,"voucher scheme, improving affordability, and maintaining momentum through proactive regulatory "
+10,11,3,Calibri,11.0,72.0,656.5,207.1,667.5,and stakeholder engagement. 
+10,12,0,Calibri-Bold,11.0,77.7,679.5,188.3,690.6,2024 recommendation: 
+10,12,0,Calibri,11.0,190.0,679.5,520.3,690.6,"Continue and expand the measures aimed at supporting FTTP roll-out, "
+10,12,1,Calibri,11.0,77.7,694.1,504.6,705.1,"aiming to fully close the rural-urban divide, including by supporting demand for gigabit services."
+10,12,1,Calibri-Bold,11.0,504.5,694.1,507.0,705.1, 
+10,13,0,Calibri-Bold,11.0,77.7,712.1,517.9,723.1,"In 2024, Croatia continued implementing existing measures but did not take any new measures."
+10,13,0,Calibri,11.0,517.8,712.1,520.3,723.1, 
+10,13,1,Calibri,11.0,77.7,726.5,520.2,737.5,The country continued implementing major RRP-funded infrastructure programmes and confirmed 
+10,13,2,Calibri,11.0,77.7,741.0,520.0,752.0,the upcoming launch of a voucher scheme targeting gigabit uptake in underserved areas. 
+10,13,3,Calibri,11.0,77.7,755.5,520.2,766.6,Preparatory work is also ongoing on legislative updates to support cost-effective roll-out. While no 
+10,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+11,2,0,Calibri,11.0,77.7,84.5,520.0,95.5,"new measures were introduced in the 2024 roadmap adjustment, the scope and scale of ongoing "
+11,2,1,Calibri,11.0,77.7,99.0,520.3,110.1,investments justify this. Further efforts may be needed to accelerate demand-side measures before 
+11,2,2,Calibri,11.0,77.7,113.4,323.7,124.5,2027 and to ensure affordability for vulnerable groups. 
+11,4,0,Calibri-LightItalic,11.0,72.0,133.5,87.0,144.5,5G 
+11,5,0,Calibri-Bold,11.0,72.0,160.0,525.9,171.0,"In its 2024 roadmap adjustment, Croatia updated its 5G target to reach 99% coverage of inhabited "
+11,5,1,Calibri-Bold,11.0,72.0,174.4,322.9,185.4,areas and 75% coverage in the 3.4-3.8 GHz band by 2030
+11,5,1,Calibri,11.0,323.0,174.4,525.8,185.4,. These targets reflect a moderate but realistic 
+11,5,2,Calibri,11.0,72.0,188.9,525.9,199.9,"ambition, taking into account Croatia’s fragmented geography, smaller market size, and existing "
+11,5,3,Calibri,11.0,72.0,203.4,525.9,214.5,spectrum allocation. With full spectrum availability across all pioneer bands and the steady 
+11,5,4,Calibri,11.0,72.0,217.9,525.6,229.0,"deployment pace observed in 2024, the country remains broadly on track to meet its national "
+11,5,5,Calibri,11.0,72.0,232.4,525.9,243.4,"objectives, although continued focus will be required in mid-band deployment and rural coverage. "
+11,5,6,Calibri,11.0,72.0,246.9,411.0,257.9,"General 5G coverage is progressing well, but standalone 5G remains limited."
+11,5,6,Calibri-Bold,11.0,411.1,246.9,413.6,257.9, 
+11,6,0,Calibri,11.0,72.0,269.4,525.6,280.5,"To support these targets, Croatia introduced new measures in its 2024 roadmap adjustment aimed at "
+11,6,1,Calibri-Bold,11.0,72.0,283.9,336.4,294.9,improving coordination and addressing roll-out barriers
+11,6,1,Calibri,11.0,336.4,283.9,525.8,294.9,", especially for standalone 5G and rural "
+11,6,2,Calibri,11.0,72.0,298.4,290.1,309.4,coverage. A key development is the creation of a 
+11,6,2,Calibri-Bold,11.0,290.1,298.4,411.1,309.4,national 5G working group
+11,6,2,Calibri,11.0,411.1,298.4,525.9,309.4,", coordinated by HAKOM, "
+11,6,3,Calibri,11.0,72.0,312.9,525.9,323.9,"which brings together telecom operators, industry, and academia. This group facilitates information "
+11,6,4,Calibri,11.0,72.0,327.4,495.9,338.4,"exchange, identifies regulatory obstacles, and supports preparation for industrial 5G use cases. "
+11,7,0,Calibri,11.0,72.0,349.8,227.1,360.9,Another important measure is the 
+11,7,0,Calibri-Bold,11.0,227.3,349.8,372.2,360.9,Digital Connectivity Programme
+11,7,0,Calibri,11.0,372.3,349.8,525.8,360.9,", financed under the RRP. In 2024, "
+11,7,1,Calibri,11.0,72.0,364.4,525.8,375.4,"Croatia made progress with procurement procedures, and the national broadcasting infrastructure "
+11,7,2,Calibri,11.0,72.0,378.9,113.6,389.9,operator 
+11,7,2,Calibri-Bold,11.0,113.7,378.9,191.1,389.9,OiV was selected
+11,7,2,Calibri,11.0,191.1,378.9,400.5,389.9, to deploy passive infrastructure in rural areas. 
+11,8,0,Calibri,11.0,72.0,401.3,523.6,412.4,"While these actions demonstrate progress, the roadmap signals that a more comprehensive demand-"
+11,8,1,Calibri,11.0,72.0,415.9,525.8,426.9,"side strategy is not expected until after 2027, following a funding gap assessment planned for 2026. "
+11,8,2,Calibri,11.0,72.0,430.4,525.8,441.4,"This delay may limit near-term uptake, particularly for standalone 5G. Operators reported that market "
+11,8,3,Calibri,11.0,72.0,444.8,525.6,455.8,"readiness and clear industrial use cases are still lacking. As of early 2025, there is no regulatory "
+11,8,4,Calibri,11.0,72.0,459.3,525.8,470.4,"pressure to accelerate standalone deployment, although the authorities are monitoring market signals "
+11,8,5,Calibri,11.0,72.0,473.8,351.5,484.9,and may consider intervention as industrial demand develops. 
+11,9,0,Calibri,11.0,72.0,496.3,303.1,507.3,Croatia is one of the few EU Member States to have 
+11,9,0,Calibri-Bold,11.0,303.1,496.3,525.8,507.3,fully assigned 100% of the harmonised spectrum 
+11,9,1,Calibri-Bold,11.0,72.0,510.8,212.4,521.8,in all three 5G pioneer bands
+11,9,1,Calibri,11.0,212.6,510.8,525.7,521.8,": 700 MHz, 3.6 GHz, and 26 GHz. These bands were fully allocated "
+11,9,2,Calibri,11.0,72.0,525.3,525.8,536.3,"through public auctions concluded in 2021 and 2023. In the 3.4-3.8 GHz band specifically, all national "
+11,9,3,Calibri,11.0,72.0,539.8,525.9,550.9,"operators have been granted 100 MHz blocks, while the 3.4-3.48 GHz sub-band is allocated for regional "
+11,9,4,Calibri,11.0,72.0,554.2,92.9,565.3,use. 
+11,10,0,Calibri,11.0,72.0,576.8,523.6,587.9,"These allocations provide the basis for high-capacity 5G deployment nationwide. However, rural mid-"
+11,10,1,Calibri,11.0,72.0,591.2,525.8,602.3,"band coverage remains limited, and Croatia will need to accelerate deployment in this frequency range "
+11,10,2,Calibri,11.0,72.0,605.7,179.5,616.8,to meet its 2030 target. 
+11,11,0,Calibri-Bold,11.0,77.7,628.8,184.6,639.8,2024 recommendation:
+11,11,0,Calibri,11.0,184.6,628.8,520.3,639.8, Ensure that new players have sufficient access to spectrum for innovative 
+11,11,1,Calibri,11.0,77.7,643.3,520.0,654.3,B2B and B2C applications and encourage operators to speed up the deployment of 5G standalone 
+11,11,2,Calibri,11.0,77.7,657.7,146.4,668.7,core networks. 
+11,12,0,Calibri-Bold,11.0,77.7,675.7,514.8,686.7,Croatia made some efforts to address the recommendation through new policy actions in 2024
+11,12,0,Calibri,11.0,515.2,675.7,520.3,686.7,. 
+11,12,1,Calibri,11.0,77.7,690.2,520.2,701.3,While the 2024 roadmap does not include new spectrum access schemes for alternative or vertical 
+11,12,2,Calibri,11.0,77.7,704.7,520.1,715.8,"players, Croatia has fully assigned all harmonised 5G pioneer bands, ensuring spectrum availability "
+11,12,3,Calibri,11.0,77.7,719.2,520.0,730.2,for future demand. The establishment of a national 5G working group coordinated by HAKOM 
+11,12,4,Calibri,11.0,77.7,733.7,520.1,744.7,"provides a structured forum for identifying regulatory and market barriers, including access issues "
+11,12,5,Calibri,11.0,77.7,748.2,188.9,759.2,for innovative use cases. 
+11,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+12,3,0,Calibri,11.0,77.7,84.5,520.2,95.5,"Regarding 5G standalone deployment, progress remains limited. The roadmap adjustment does not "
+12,3,1,Calibri,11.0,77.7,99.0,520.3,110.1,"introduce direct incentives or targets for standalone core roll-outs, but Croatia has confirmed that "
+12,3,2,Calibri,11.0,77.7,113.4,520.0,124.5,the current market environment does not yet justify regulatory intervention. The authorities are 
+12,3,3,Calibri,11.0,77.7,127.9,520.0,139.0,"monitoring developments closely and anticipate further action once industrial demand emerges, "
+12,3,4,Calibri,11.0,77.7,142.5,347.8,153.5,supported by the funding gap assessment planned for 2026. 
+12,4,0,Calibri-Light,12.0,72.0,168.7,151.9,180.7,Semiconductors 
+12,5,0,Calibri-Bold,11.0,72.0,192.3,525.6,203.3,"Semiconductors are gaining strategic importance in Croatia’s digital industrial policy, with national "
+12,5,1,Calibri-Bold,11.0,72.0,206.8,382.6,217.8,"efforts focused on chip design, characterisation, and SME support."
+12,5,1,Calibri,11.0,382.8,206.8,525.8,217.8, While no new measures were 
+12,5,2,Calibri,11.0,72.0,221.2,525.7,232.2,"introduced in the 2024 roadmap update, the planned implementation of the Croatian Competence "
+12,5,3,Calibri,11.0,72.0,235.7,525.6,246.8,Centre for Semiconductors (CROCCS) has progressed. CROCCS is coordinated by the University of 
+12,5,4,Calibri,11.0,72.0,250.2,525.8,261.3,Zagreb’s Faculty of Electrical Engineering and Computing and was positively evaluated under the 
+12,5,5,Calibri,11.0,72.0,264.8,525.9,275.8,"DIGITAL-chips-2024-SG-CCC-1 call. A grant agreement is under preparation, with expected co-funding "
+12,5,6,Calibri,11.0,72.0,279.2,525.6,290.2,of EUR 1million annually from 2025 to 2028 through the Digital Europe Programme and national 
+12,5,7,Calibri,11.0,72.0,293.7,111.2,304.7,sources. 
+12,6,0,Calibri-Bold,11.0,72.0,316.2,388.3,327.3,The centre brings together a consortium of eight national partners
+12,6,0,Calibri,11.0,388.5,316.2,525.8,327.3,", including Rimac Technology, "
+12,6,1,Calibri,11.0,72.0,330.6,525.7,341.7,"KONČAR, and the Ruđer Bošković Institute. CROCCS will provide SMEs and academic institutions with "
+12,6,2,Calibri,11.0,72.0,345.2,525.8,356.2,"access to chip design tools, advanced characterisation and measurement infrastructure, and services "
+12,6,3,Calibri,11.0,72.0,359.7,525.7,370.7,for testing and validation. These capabilities will be supported by both existing facilities and newly 
+12,6,4,Calibri,11.0,72.0,374.2,355.8,385.2,acquired equipment distributed across the partner institutions. 
+12,7,0,Calibri-Bold,11.0,72.0,396.7,520.8,407.7,The chip characterisation laboratory in Zagreb is expected to serve as a national and EU-level facility
+12,7,0,Calibri,11.0,520.9,396.7,525.9,407.7,", "
+12,7,1,Calibri,11.0,72.0,411.2,525.6,422.2,with particular expertise in power device testing and electrostatic discharge (ESD) simulations. SME 
+12,7,2,Calibri,11.0,72.0,425.7,525.9,436.8,"users will be supported in accessing EU pilot lines and preparing market-ready demonstrators, with "
+12,7,3,Calibri,11.0,72.0,440.1,245.2,451.1,services offered at no or reduced cost. 
+12,8,0,Calibri-Bold,11.0,72.0,462.7,506.8,473.7,While Croatia does not currently host fabrication plants or large-scale manufacturing capacity
+12,8,0,Calibri,11.0,507.0,462.7,525.9,473.7,", its "
+12,8,1,Calibri,11.0,72.0,477.1,525.7,488.1,"role in the semiconductor value chain is anchored in design, prototyping, and research infrastructure. "
+12,8,2,Calibri,11.0,72.0,491.6,523.6,502.6,"CROCCS also aims to attract investment, strengthen talent retention, and promote innovation in high-"
+12,8,3,Calibri,11.0,72.0,506.1,271.7,517.2,tech sectors such as automotive and energy. 
+12,9,0,Calibri-Bold,11.0,72.0,528.5,502.3,539.6,No direct policy link has been established between semiconductors and critical raw materials
+12,9,0,Calibri,11.0,502.5,528.5,525.9,539.6,", but "
+12,9,1,Calibri,11.0,72.0,543.1,525.8,554.1,"Croatia is developing broader circular economy initiatives, including material reuse measures financed "
+12,9,2,Calibri,11.0,72.0,557.6,522.0,568.7,through the RRP. These may provide a foundation for future alignment with raw materials strategies. 
+12,10,0,Calibri-Bold,11.0,72.0,580.1,525.9,591.1,"Croatia’s contribution to European semiconductor sovereignty lies in research, design, and advanced "
+12,10,1,Calibri-Bold,11.0,72.0,594.6,319.2,605.6,infrastructure rather than industrial-scale production.
+12,10,1,Calibri,11.0,319.3,594.6,525.8,605.6, CROCCS represents a significant step toward 
+12,10,2,Calibri,11.0,72.0,609.1,444.0,620.1,integrating national capabilities into EU-level efforts under the European Chips Act. 
+12,11,0,Calibri-Light,12.0,72.0,631.8,130.2,643.8,Edge nodes 
+12,12,0,Calibri,11.0,72.0,655.4,262.7,666.5,"According to the Edge Node Observatory, "
+12,12,0,Calibri-Bold,11.0,263.5,655.4,520.6,666.5,Croatia had deployed a total of six edge nodes by 2024
+12,12,0,Calibri,11.0,520.8,655.4,525.9,666.5,", "
+12,12,1,Calibri,11.0,72.0,669.8,525.9,680.9,doubling the number from 2023 but still placing Croatia among the countries with the lowest number 
+12,12,2,Calibri,11.0,72.0,684.3,525.9,695.4,of edge nodes. This increase highlights the initial steps toward decentralising ICT infrastructure but 
+12,12,3,Calibri,11.0,72.0,698.9,389.3,709.9,also reflects the absence of a strategic national framework in this area. 
+12,13,0,Calibri,11.0,72.0,721.3,111.8,732.4,"In 2024, "
+12,13,0,Calibri-Bold,11.0,112.9,721.3,394.8,732.4,no field trials or dedicated funding measures were launched
+12,13,0,Calibri,11.0,395.0,721.3,525.9,732.4, to support edge computing 
+12,13,1,Calibri,11.0,72.0,735.8,525.8,746.9,infrastructure. Croatia currently lacks a strategy specifically targeting the development and 
+12,13,2,Calibri,11.0,72.0,750.4,414.2,761.4,deployment of edge nodes. Public ICT resources remain concentrated in 
+12,13,2,Calibri-Bold,11.0,416.6,750.4,525.9,761.4,centralised state cloud 
+12,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+13,3,0,Calibri-Bold,11.0,72.0,84.0,134.8,95.1,infrastructure
+13,3,0,Calibri,11.0,134.8,84.0,269.9,95.1,", operated by entities such as "
+13,3,0,Calibri-Bold,11.0,270.5,84.0,305.1,95.1,APIS IT 
+13,3,0,Calibri,11.0,305.8,84.0,525.8,95.1,(Agency for Support to Information Systems and 
+13,3,1,Calibri,11.0,72.0,98.4,194.7,109.5,"Information Technologies),"
+13,3,1,Calibri-Bold,11.0,194.7,98.4,225.0,109.5, FINA 
+13,3,1,Calibri,11.0,228.5,98.4,317.9,109.5,"(Financial Agency), "
+13,3,1,Calibri-Bold,11.0,321.4,98.4,360.6,109.5,CARNET 
+13,3,1,Calibri,11.0,364.1,98.4,525.8,109.5,(Croatian Academic and Research 
+13,3,2,Calibri,11.0,72.0,112.9,138.3,124.0,"Network), and"
+13,3,2,Calibri-Bold,11.0,138.3,112.9,165.1,124.0, AKD 
+13,3,2,Calibri,11.0,167.3,112.9,525.8,124.0,(Agency for Commercial Activities). While some of these providers maintain 
+13,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"physical decentralisation across facilities, the operational set-up does not align with the architectural "
+13,3,4,Calibri,11.0,72.0,142.0,436.5,153.0,"principles of edge computing, which brings compute capacity closer to end users. "
+13,4,0,Calibri,11.0,72.0,164.4,91.2,175.5,The 
+13,4,0,Calibri-Bold,11.0,91.9,164.4,313.6,175.5,Act on Digital Information Infrastructure (ZODII)
+13,4,0,Calibri,11.0,313.9,164.4,525.9,175.5,", regulates access to the State cloud for public "
+13,4,1,Calibri,11.0,72.0,178.9,124.9,190.0,and private 
+13,4,1,Calibri,11.0,124.8,178.9,291.8,190.0,actors has been adopted in May 2025
+13,4,1,Calibri,11.0,291.9,178.9,525.9,190.0,". However, the legislative scope currently focuses on "
+13,4,2,Calibri-Bold,11.0,72.0,193.5,245.7,204.5,interoperability and cloud governance
+13,4,2,Calibri,11.0,245.7,193.5,495.8,204.5,", without addressing edge-specific infrastructure needs. "
+13,5,0,Calibri,11.0,72.0,215.9,525.8,226.9,"In this context, Croatia’s edge node ecosystem remains underdeveloped and disconnected from "
+13,5,1,Calibri,11.0,72.0,230.4,432.5,241.5,ongoing broadband and 5G deployment efforts. A clear strategy – including 
+13,5,1,Calibri-Bold,11.0,434.9,230.4,525.9,241.5,"defined objectives, "
+13,5,2,Calibri-Bold,11.0,72.0,245.0,191.1,256.0,"timelines, and incentives "
+13,5,2,Calibri,11.0,192.5,245.0,525.7,256.0,– will be essential to integrate edge computing into the broader digital 
+13,5,3,Calibri,11.0,72.0,259.4,185.8,270.4,infrastructure landscape. 
+13,6,0,Calibri-Bold,11.0,77.7,282.4,186.8,293.5,2024 recommendation: 
+13,6,0,Calibri,11.0,187.1,282.4,520.1,293.5,"Increase efforts in the area (…) of edge nodes, in view of their importance "
+13,6,1,Calibri,11.0,77.7,296.9,438.2,308.0,"for competitiveness, resilience, sovereignty, European values and climate action. "
+13,7,0,Calibri-Bold,11.0,77.7,314.9,431.0,326.0,No information available on measures taken to address the recommendation. 
+13,7,0,Calibri,11.0,430.7,314.9,520.3,326.0,There is no national 
+13,7,1,Calibri,11.0,77.7,329.3,520.0,340.4,"monitoring framework, no dedicated roadmap measures, and no national funding instruments to "
+13,7,2,Calibri,11.0,77.7,343.8,520.0,354.9,support edge computing development. Public ICT infrastructure remains highly centralised in the 
+13,7,3,Calibri,11.0,77.7,358.4,506.2,369.4,"State cloud, and there is currently no national strategy or deployment trajectory for edge nodes."
+13,7,3,Calibri-Bold,11.0,506.3,358.4,508.8,369.4, 
+13,8,0,Calibri-Light,12.0,72.0,384.6,184.4,396.6,Quantum technologies 
+13,9,0,Calibri-Bold,11.0,72.0,408.2,525.8,419.2,"In 2024, Croatia continued its engagement in quantum technologies with the Croatian Quantum "
+13,9,1,Calibri-Bold,11.0,72.0,422.7,291.1,433.8,Communication Infrastructure (CroQCI) project.
+13,9,1,Calibri,11.0,291.3,422.7,525.9,433.8," Supported by EU funding since 2023, the project’s "
+13,9,2,Calibri,11.0,72.0,437.1,525.9,448.1,total value backed is EUR 10 million and is implemented by a national consortium of eight partners. It 
+13,9,3,Calibri,11.0,72.0,451.6,525.8,462.7,"aims to deploy terrestrial and space-based quantum communication technologies, contributing to the "
+13,9,4,Calibri,11.0,72.0,466.1,525.8,477.2,EU-wide quantum infrastructure and enabling ultra-secure data transmission for public and scientific 
+13,9,5,Calibri,11.0,72.0,480.7,112.9,491.7,services. 
+13,10,0,Calibri-Bold,11.0,72.0,503.1,525.7,514.1,"The CroQCI project includes activities to demonstrate quantum key distribution (QKD), build testing "
+13,10,1,Calibri-Bold,11.0,72.0,517.6,301.4,528.7,"environments, and strengthen domestic expertise."
+13,10,1,Calibri,11.0,301.5,517.6,525.8,528.7, It is expected to facilitate secure communications 
+13,10,2,Calibri,11.0,72.0,532.1,525.7,543.2,"and support training, research, and knowledge transfer within Croatia. The initiative was "
+13,10,3,Calibri,11.0,72.0,546.5,525.9,557.6,acknowledged during the 2025 fact-finding mission as a key measure for advancing quantum 
+13,10,4,Calibri,11.0,72.0,561.1,211.2,572.1,communication in the country. 
+13,11,0,Calibri-Bold,11.0,72.0,583.5,525.7,594.6,"In parallel, Croatia is investing in quantum computing development through a dedicated measure in "
+13,11,1,Calibri-Bold,11.0,72.0,598.1,188.3,609.1,its 2024 digital roadmap.
+13,11,1,Calibri,11.0,188.4,598.1,525.7,609.1," Led by the University of Zagreb’s Computing Centre (SRCE), the measure "
+13,11,2,Calibri,11.0,72.0,612.6,525.8,623.6,"focuses on establishing a test environment for quantum and hybrid computing simulations, integrated "
+13,11,3,Calibri,11.0,72.0,627.1,525.9,638.1,within the national high-performance computing (HPC) ecosystem. SRCE’s role includes facilitating 
+13,11,4,Calibri,11.0,72.0,641.6,525.6,652.7,access for academic and industrial users and contributing to the advancement of strategic computing 
+13,11,5,Calibri,11.0,72.0,656.0,138.5,667.1,infrastructure. 
+13,12,0,Calibri-Bold,11.0,72.0,678.6,525.9,689.6,"While Croatia’s quantum ecosystem remains research-oriented, these initiatives show substantial "
+13,12,1,Calibri-Bold,11.0,72.0,693.0,446.5,704.0,progress in building up national capabilities and aligning with broader EU efforts.
+13,12,1,Calibri,11.0,446.7,693.0,525.9,704.0, Both the CroQCI 
+13,12,2,Calibri,11.0,72.0,707.5,525.9,718.5,and quantum computing measures form the foundation for Croatia’s long-term participation in secure 
+13,12,3,Calibri,11.0,72.0,722.0,228.7,733.1,and advanced digital technologies. 
+13,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+14,2,0,Calibri-Bold,11.0,77.7,84.5,187.9,95.5,2024 recommendation: 
+14,2,0,Calibri,11.0,189.2,84.5,520.1,95.5,"Increase efforts in the area of quantum computing […], in view of their "
+14,2,1,Calibri,11.0,77.7,99.0,492.2,110.1,"importance for competitiveness, resilience, sovereignty, European values and climate action. "
+14,4,0,Calibri-Bold,11.0,77.7,117.0,517.6,128.1,Croatia made some efforts to address the recommendation through new policy actions in 2024.
+14,4,0,Calibri,11.0,517.8,117.0,520.3,128.1, 
+14,4,1,Calibri,11.0,77.7,131.4,520.1,142.5,"The measures, led by SRCE, aim to develop a test environment for quantum and hybrid computing "
+14,4,2,Calibri,11.0,77.7,145.9,520.0,157.0,simulations integrated into the national HPC ecosystem. While this constitutes a first step toward 
+14,4,3,Calibri,11.0,77.7,160.5,520.3,171.5,"strengthening institutional and research capacity, there is no evidence of a broader strategic "
+14,4,4,Calibri,11.0,77.7,175.0,520.0,186.0,framework or targeted support for industry and commercial applications. Efforts in quantum 
+14,4,5,Calibri,11.0,77.7,189.4,520.2,200.4,"communication were more advanced, with the launch of the EU-funded CroQCI project, "
+14,4,6,Calibri,11.0,77.7,203.9,520.3,214.9,"implemented by a national consortium to support secure quantum infrastructure. Overall, Croatia’s "
+14,4,7,Calibri,11.0,77.7,218.4,520.1,229.5,"engagement remains research-focused and at an early stage, and further efforts will be needed to "
+14,4,8,Calibri,11.0,77.7,233.0,515.7,244.0,"scale up investment, define long-term governance, and ensure alignment with EU-level initiatives. "
+14,5,0,Calibri-Light,15.0,72.0,259.8,526.8,274.8,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+14,6,0,Calibri,11.0,72.0,286.6,525.7,297.6,"The digitalisation of Croatian enterprises continued to improve in 2024, with notable advances in "
+14,6,1,Calibri,11.0,72.0,301.1,525.9,312.2,adopting advanced technologies but persisting challenges in the digital intensity of SMEs and 
+14,6,2,Calibri,11.0,72.0,315.6,525.8,326.7,"innovation scaling. Building on the Draghi report’s emphasis on competitiveness, this chapter analyses "
+14,6,3,Calibri,11.0,72.0,330.2,525.7,341.2,"Croatia’s progress in enterprise digitalisation, uptake of cloud, AI and data analytics, and the "
+14,6,4,Calibri,11.0,72.0,344.7,311.4,355.7,development of the start-up and scale-up ecosystem. 
+14,7,0,Calibri-Light,12.0,72.0,367.4,265.2,379.4,SMEs with at least basic digital intensity 
+14,8,0,Calibri,11.0,72.0,390.9,120.1,401.9,"In Croatia, "
+14,8,0,Calibri-Bold,11.0,120.0,390.9,424.3,401.9,63.45% of SMEs had at least a basic level of digital intensity in 2024
+14,8,0,Calibri,11.0,424.7,390.9,525.9,401.9, (2030 national target: 
+14,9,0,Calibri,11.0,234.1,405.4,525.8,416.5,"90%), following an increase of +4.8% since 2022. This remains "
+14,9,1,Calibri-Bold,11.0,234.1,419.9,437.1,431.0,significantly below the EU average of 72.91%
+14,9,1,Calibri,11.0,437.3,419.9,525.9,431.0,", despite one of the "
+14,9,2,Calibri,11.0,234.1,434.5,499.4,445.5,"fastest improvement rates in the EUMore specifically, "
+14,9,2,Calibri-Bold,11.0,503.6,434.5,525.9,445.5,only 
+14,9,3,Calibri-Bold,11.0,234.1,448.9,357.4,459.9,27.62% of Croatian SMEs
+14,9,3,Calibri,11.0,357.5,448.9,525.9,459.9, reached high or very high digital 
+14,9,4,Calibri,11.0,234.1,463.4,525.7,474.4,"intensity, also below the EU average of 32.66%. This reflects "
+14,9,5,Calibri,11.0,234.1,477.9,525.8,488.9,ongoing structural weaknesses in the digital transformation of 
+14,9,6,Calibri,11.0,234.1,492.4,525.9,503.5,"Croatia’s enterprise sector, particularly among micro- and small "
+14,9,7,Calibri,11.0,234.1,506.8,287.3,517.9,businesses. 
+14,11,0,Calibri,11.0,234.1,529.4,525.7,540.4,Croatia continues to rely on a wide range of investment schemes 
+14,11,1,Calibri,11.0,234.1,543.9,438.4,554.9,"to promote SME digitalisation. Under the RRP, "
+14,11,1,Calibri-Bold,11.0,438.0,543.9,525.9,554.9,EUR 29.7 million in 
+14,11,2,Calibri-Bold,11.0,234.1,558.3,343.1,569.4,non-refundable support
+14,11,2,Calibri,11.0,343.1,558.3,525.9,569.4, has been allocated specifically for digital 
+14,11,3,Calibri,11.0,234.1,572.9,400.0,583.9,"transformation of SMEs, alongside "
+14,11,3,Calibri-Bold,11.0,403.7,572.9,478.4,583.9,EUR 62.2 million
+14,11,3,Calibri,11.0,478.4,572.9,525.9,583.9, awarded 
+14,11,4,Calibri,11.0,234.1,587.4,473.0,598.4,"under the cohesion programme, covering a total of "
+14,11,4,Calibri-Bold,11.0,474.3,587.4,525.9,598.4,over 2 500 
+14,11,5,Calibri-Bold,11.0,72.0,601.9,161.1,612.9,contracts by 2023
+14,11,5,Calibri,11.0,161.2,601.9,370.3,612.9,. Additional funding under the 2021-2027 
+14,11,5,Calibri-Bold,11.0,374.6,601.9,525.8,612.9,Competitiveness and Cohesion 
+14,11,6,Calibri-Bold,11.0,72.0,616.3,153.3,627.3,Programme (PKK)
+14,11,6,Calibri,11.0,153.4,616.3,195.8,627.3, includes 
+14,11,6,Calibri-Bold,11.0,196.6,616.3,366.8,627.3,earmarked funding of EUR 74 million
+14,11,6,Calibri,11.0,366.8,616.3,437.3,627.3,", of which over "
+14,11,6,Calibri-Bold,11.0,438.1,616.3,525.9,627.3,EUR 51 million has 
+14,11,7,Calibri-Bold,11.0,72.0,630.8,170.0,641.9,already been granted
+14,11,7,Calibri,11.0,170.0,630.8,525.7,641.9,". These programmes target business process automation, digital tool adoption, "
+14,11,8,Calibri,11.0,72.0,645.3,176.8,656.4,and innovation scaling. 
+14,12,0,Calibri,11.0,72.0,667.8,525.9,678.8,Croatia continues to rely on a wide range of investment schemes to promote SME digitalisation. Under 
+14,12,1,Calibri,11.0,72.0,682.3,525.9,693.3,"the RRP, component related to digital economy EUR 29.7 million in non-refundable support has been "
+14,12,2,Calibri,11.0,72.0,696.8,401.5,707.9,"allocated specifically for the digital transformation of SMEs, alongside "
+14,12,2,Calibri-Bold,11.0,403.9,696.8,525.9,707.9,EUR 63.6 million awarded 
+14,12,3,Calibri-Bold,11.0,72.0,711.3,387.0,722.4,under the RRP and the European Regional Development Fund (ERDF)
+14,12,3,Calibri,11.0,387.1,711.3,525.9,722.4,", covering a total of over 2 500 "
+14,12,4,Calibri,11.0,72.0,725.8,158.6,736.8,contracts by 2023. 
+14,12,4,Calibri-Bold,11.0,159.7,725.8,525.9,736.8,One example of additional funding under the 2021-2027 Competitiveness and 
+14,12,5,Calibri-Bold,11.0,72.0,740.3,525.8,751.3,Cohesion Programme includes EUR 60 million allocated to the Croatian Venture Capital Initiative 2 
+14,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+15,2,0,Calibri-Bold,11.0,72.0,84.0,153.8,95.1,(CVCi 2) initiative.
+15,2,0,Calibri,11.0,153.9,84.0,525.7,95.1," These programmes target business process automation, digital tool adoption, and "
+15,2,1,Calibri,11.0,72.0,98.4,157.4,109.5,innovation scaling. 
+15,4,0,Calibri,11.0,72.0,121.0,455.5,132.0,The national support framework has been reinforced through the establishment of 
+15,4,0,Calibri-Bold,11.0,457.1,121.0,525.9,132.0,four European 
+15,4,1,Calibri-Bold,11.0,72.0,135.5,214.4,146.5,Digital Innovation Hubs (EDIHs)
+15,4,1,Calibri,11.0,214.5,135.5,525.8,146.5,", which became operational between late 2022 and early 2023. These "
+15,4,2,Calibri,11.0,72.0,149.9,109.9,160.9,include: 
+15,5,0,SymbolMT,10.0,89.9,170.7,94.5,182.9,
+15,5,0,ArialMT,10.0,94.5,171.7,97.2,182.8, 
+15,5,1,Calibri-Bold,11.0,107.7,172.5,172.1,183.5,CROBOHUB++
+15,5,1,Calibri,11.0,172.1,172.5,525.7,183.5," at the University of Zagreb, focusing on services in artificial intelligence, "
+15,5,2,Calibri,11.0,107.7,185.9,525.9,196.9,"cybersecurity, and HPC, including pre-investment testing, training, and support to SMEs for "
+15,5,3,Calibri,11.0,107.7,199.3,210.0,210.4,product development; 
+15,6,0,SymbolMT,10.0,89.9,219.0,94.5,231.1,
+15,6,0,ArialMT,10.0,94.5,220.0,97.2,231.1, 
+15,6,1,Calibri-Bold,11.0,107.7,220.7,157.1,231.7,Adria EDIH
+15,6,1,Calibri,11.0,157.0,220.7,485.4,231.7," in Rijeka, promoting digital solutions in the maritime and energy sectors; "
+15,7,0,SymbolMT,10.0,89.9,240.5,94.5,252.6,
+15,7,0,ArialMT,10.0,94.5,241.5,97.2,252.6, 
+15,7,1,Calibri-Bold,11.0,107.7,242.2,171.5,253.2,AI4Health.Cro
+15,7,1,Calibri,11.0,171.5,242.2,525.9,253.2,", coordinated by the Ruđer Bošković Institute, specialised in e-Health innovation "
+15,7,2,Calibri,11.0,107.7,255.6,348.9,266.7,and support for the European Health Data Space; and 
+15,8,0,SymbolMT,10.0,89.9,275.3,94.5,287.4,
+15,8,0,ArialMT,10.0,94.5,276.3,97.2,287.4, 
+15,8,1,Calibri-Bold,11.0,107.7,277.0,155.4,288.0,JURK EDIH
+15,8,1,Calibri,11.0,155.4,277.0,525.8,288.0,", coordinated by the Regional Coordinator of Sisak-Moslavina (RK SMŽ), supporting "
+15,8,2,Calibri,11.0,107.7,290.4,438.4,301.5,"digitalisation in the fields of artificial intelligence, blockchain, and gaming. "
+15,9,0,Calibri,11.0,72.0,311.9,525.8,323.0,"Together, they act as regional competence centres, providing SMEs with access to digital maturity "
+15,9,1,Calibri,11.0,72.0,326.3,525.6,337.4,"assessments, pre-investment testing environments, training, and guidance in securing both national "
+15,9,2,Calibri,11.0,72.0,340.8,525.9,351.9,and EU-level financing. Their role is particularly important in underserved areas and for sectors with 
+15,9,3,Calibri,11.0,72.0,355.4,371.8,366.4,"low digital maturity, ensuring more balanced support at local level. "
+15,10,0,Calibri,11.0,72.0,377.8,525.8,388.9,"Looking ahead, it will be essential to sustain the momentum of these support schemes, especially as "
+15,10,1,Calibri,11.0,72.0,392.3,525.9,403.4,Croatia moves towards bridging the digital intensity gap with the EU average. While Croatia’s structural 
+15,10,2,Calibri,11.0,72.0,406.9,525.7,417.9,"funding pipeline remains strong, fragmentation across instruments and limited technical support "
+15,10,3,Calibri,11.0,72.0,421.4,525.6,432.4,"services for SMEs continue to pose challenges. Strengthening advisory services, enhancing "
+15,10,4,Calibri,11.0,72.0,435.8,523.6,446.8,"coordination between national and regional schemes, and ensuring inclusive access for micro-"
+15,10,5,Calibri,11.0,72.0,450.3,345.2,461.4,enterprises will be key to raising overall SME digital maturity. 
+15,11,0,Calibri-Light,12.0,72.0,473.1,237.7,485.1,Take-up of cloud/AI/data analytics 
+15,12,0,Calibri,11.0,72.0,496.6,190.9,507.7,"According to 2023 data, "
+15,12,0,Calibri-Bold,11.0,194.3,496.6,525.6,507.7,65.59% of Croatian enterprises used at least one of the following 
+15,12,1,Calibri-Bold,11.0,72.0,511.1,130.1,522.2,technologies
+15,12,1,Calibri,11.0,130.1,511.1,502.7,522.2,": cloud computing, data analytics, and artificial intelligence, placing the country "
+15,12,1,Calibri-Bold,11.0,504.5,511.1,525.9,522.2,well 
+15,12,2,Calibri-Bold,11.0,72.0,525.5,218.3,536.6,above the EU average of 54.7%
+15,12,2,Calibri,11.0,218.3,525.5,382.7,536.6,". Among SMEs, the uptake stood at "
+15,12,2,Calibri-Bold,11.0,384.0,525.5,417.3,536.6,64.88%
+15,12,2,Calibri,11.0,417.3,525.5,450.2,536.6,", while "
+15,12,2,Calibri-Bold,11.0,451.3,525.5,525.8,536.6,89.74% of large 
+15,12,3,Calibri-Bold,11.0,72.0,540.1,123.3,551.1,enterprises
+15,12,3,Calibri,11.0,123.4,540.1,262.7,551.1," reported usage, resulting in a "
+15,12,3,Calibri-Bold,11.0,263.6,540.1,390.2,551.1,24.86 percentage point gap
+15,12,3,Calibri,11.0,390.2,540.1,525.9,551.1, – significantly narrower than 
+15,12,4,Calibri,11.0,72.0,554.6,525.8,565.6,the EU gap of 32.97. These results confirm Croatia’s position as one of the stronger performers in digital 
+15,12,5,Calibri,11.0,72.0,569.1,525.7,580.2,"technology uptake among enterprises, with progress driven by both structural funding and an "
+15,12,6,Calibri,11.0,72.0,583.5,229.5,594.6,increasingly supportive ecosystem. 
+15,13,0,Calibri,11.0,72.0,606.1,131.4,617.1,According to 
+15,13,0,Calibri,11.0,131.9,606.1,350.2,617.1,2022 data from the Croatian Bureau of Statistics
+15,13,0,Calibri,11.0,350.2,606.1,525.8,617.1,", SMEs in Croatia account for 60.2% of "
+15,13,1,Calibri,11.0,72.0,620.6,525.9,631.7,"the total value added in the non-financial business economy, while large enterprises contributed "
+15,13,2,Calibri,11.0,72.0,635.0,195.8,646.1,39.8%. SMEs accounted for 
+15,13,2,Calibri-Bold,11.0,196.0,635.0,442.0,646.1,97.4% of all enterprises with more than 10 employees
+15,13,2,Calibri,11.0,442.3,635.0,525.9,646.1,", compared to just "
+15,13,3,Calibri,11.0,72.0,649.5,373.0,660.6,2.6% for large firms. This structure underscores the importance of 
+15,13,3,Calibri-Bold,11.0,373.8,649.5,525.9,660.6,boosting digital adoption among 
+15,13,4,Calibri-Bold,11.0,72.0,664.1,96.6,675.1,SMEs
+15,13,4,Calibri,11.0,96.6,664.1,525.7,675.1,", not only to close uptake gaps but also to fully realise the transformative potential of advanced "
+15,13,5,Calibri,11.0,72.0,678.6,412.0,689.6,technologies in a business environment dominated by small-scale operators 
+15,13,5,Calibri,7.0,411.8,677.7,418.8,684.6,11
+15,13,5,Calibri,11.0,418.8,678.6,424.0,689.6,. 
+15,14,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+15,14,1,Calibri,6.0,72.0,761.1,78.1,767.1,11
+15,14,1,Calibri,9.0,78.0,761.4,411.8,770.4, European Commission. (2025). European Semester Annex Making Business Easier: Croatia. 
+15,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+16,4,0,Calibri,11.0,523.6,225.1,526.1,236.2, 
+16,5,0,SymbolMT,11.0,90.0,242.4,95.1,255.9,
+16,5,0,ArialMT,11.0,95.1,243.5,98.1,255.8, 
+16,5,1,Calibri-Bold,11.0,108.0,245.2,134.3,256.2,Cloud
+16,5,1,Calibri,11.0,134.3,245.2,136.8,256.2, 
+16,6,0,Calibri,11.0,72.0,267.6,525.9,278.7,Cloud computing remains the most widely adopted advanced technology among Croatian enterprises. 
+16,6,1,Calibri,11.0,72.0,282.2,111.1,293.2,"In 2023, "
+16,6,1,Calibri-Bold,11.0,111.5,282.2,183.3,293.2,40.73% of firms
+16,6,1,Calibri,11.0,183.4,282.2,525.9,293.2," used cloud services, slightly outperforming the EU average of 38.97%. SME "
+16,6,2,Calibri,11.0,72.0,296.7,154.2,307.7,adoption stood at 
+16,6,2,Calibri-Bold,11.0,154.5,296.7,187.7,307.7,39.96%
+16,6,2,Calibri,11.0,187.7,296.7,219.8,307.7,", while "
+16,6,2,Calibri-Bold,11.0,220.0,296.7,344.6,307.7,66.87% of large enterprises
+16,6,2,Calibri,11.0,344.7,296.7,525.7,307.7," made use of cloud services, resulting in "
+16,6,3,Calibri,11.0,72.0,311.2,79.8,322.2,a 
+16,6,3,Calibri-Bold,11.0,79.9,311.2,233.9,322.2,26.91 percentage point difference
+16,6,3,Calibri,11.0,233.9,311.2,525.9,322.2," – a gap smaller than the EU average of 31.68. However, updated "
+16,6,4,Calibri,11.0,72.0,325.6,202.0,336.6,2024 figures show a modest 
+16,6,4,Calibri-Bold,11.0,202.7,325.6,359.7,336.6,decline in overall usage to 38.55%
+16,6,4,Calibri,11.0,359.8,325.6,486.7,336.6,", with SME uptake falling to "
+16,6,4,Calibri-Bold,11.0,487.4,325.6,520.7,336.6,37.72%
+16,6,4,Calibri,11.0,520.7,325.6,525.9,336.6,", "
+16,6,5,Calibri,11.0,72.0,340.1,310.7,351.2,while large enterprise adoption continued to grow to 
+16,6,5,Calibri-Bold,11.0,310.6,340.1,344.0,351.2,68.96%
+16,6,5,Calibri,11.0,344.0,340.1,440.3,351.2,", widening the gap to "
+16,6,5,Calibri-Bold,11.0,440.4,340.1,496.6,351.2,29.15 points
+16,6,5,Calibri,11.0,496.7,340.1,501.9,351.2,. 
+16,7,0,Calibri,11.0,72.0,362.7,525.7,373.7,"This dip among SMEs may reflect cost pressures or implementation barriers, though support remains "
+16,7,1,Calibri,11.0,72.0,377.1,193.7,388.1,available through a mix of 
+16,7,1,Calibri-Bold,11.0,194.7,377.1,335.1,388.1,RRP-funded investment grants
+16,7,1,Calibri,11.0,335.2,377.1,340.5,388.1,", "
+16,7,1,Calibri-Bold,11.0,341.5,377.1,455.4,388.1,cohesion policy schemes
+16,7,1,Calibri,11.0,455.5,377.1,525.9,388.1,", and access to "
+16,7,2,Calibri,11.0,72.0,391.6,225.7,402.6,public cloud infrastructure via the 
+16,7,2,Calibri-Bold,11.0,226.0,391.6,375.8,402.6,Centre for Shared Services (CDU)
+16,7,2,Calibri,11.0,375.9,391.6,381.0,402.6,. 
+16,7,2,Calibri-Bold,11.0,381.3,391.6,406.7,402.6,ZODII
+16,7,2,Calibri,11.0,406.7,391.6,525.9,402.6, in 2025 is expanding SME 
+16,7,3,Calibri,11.0,72.0,406.1,221.9,417.2,access to national cloud services. 
+16,8,0,Calibri,11.0,72.0,428.6,185.6,439.6,Croatian entities are also 
+16,8,0,Calibri-Bold,11.0,185.8,428.6,525.8,439.6,indirectly involved in the Important Project of Common European Interest 
+16,8,1,Calibri-Bold,11.0,72.0,443.1,384.9,454.1,(IPCEI) on Next Generation Cloud Infrastructure and Services
+16,8,1,Calibri,11.0,385.1,443.1,525.9,454.1,", although no national-level "
+16,8,2,Calibri,11.0,72.0,457.6,354.2,468.7,dissemination or coordination actions have yet been launched. 
+16,9,0,SymbolMT,11.0,89.9,477.9,95.0,491.3,
+16,9,0,ArialMT,11.0,94.9,479.0,98.0,491.3, 
+16,9,1,Calibri-Bold,11.0,107.7,480.7,173.1,491.7,Data Analytics
+16,9,1,Calibri,11.0,173.1,480.7,175.6,491.7, 
+16,10,0,Calibri,11.0,72.0,503.2,186.4,514.3,Croatia has emerged as a 
+16,10,0,Calibri-Bold,11.0,186.5,503.2,295.3,514.3,top performer in the EU
+16,10,0,Calibri,11.0,295.4,503.2,490.3,514.3," for the adoption of data analytics. In 2023, "
+16,10,0,Calibri-Bold,11.0,490.2,503.2,525.9,514.3,51.68% 
+16,10,1,Calibri-Bold,11.0,72.0,517.6,136.5,528.7,of enterprises
+16,10,1,Calibri,11.0,136.6,517.6,349.8,528.7," reported using data analytics, well above the "
+16,10,1,Calibri-Bold,11.0,351.1,517.6,453.2,528.7,EU average of 33.25%
+16,10,1,Calibri,11.0,453.2,517.6,525.9,528.7,. SME adoption 
+16,10,2,Calibri,11.0,72.0,532.1,110.8,543.2,reached 
+16,10,2,Calibri-Bold,11.0,111.9,532.1,145.2,543.2,50.72%
+16,10,2,Calibri,11.0,145.2,532.1,178.3,543.2,", while "
+16,10,2,Calibri-Bold,11.0,179.6,532.1,307.2,543.2,83.91% of large enterprises
+16,10,2,Calibri,11.0,307.4,532.1,442.3,543.2," used such tools, reflecting a "
+16,10,2,Calibri-Bold,11.0,443.6,532.1,525.9,543.2,33.19 percentage 
+16,10,3,Calibri-Bold,11.0,72.0,546.7,115.6,557.7,point gap
+16,10,3,Calibri,11.0,115.6,546.7,525.8,557.7, – narrower than the EU average of 39.72. The high level of uptake is partly attributable to 
+16,10,4,Calibri,11.0,72.0,561.2,525.7,572.3,"the growing availability of real-time public data services, the mobilisation of EU funds for analytics "
+16,10,5,Calibri,11.0,72.0,575.6,496.0,586.7,"software adoption, and the active role of EDIHs in providing training and testing environments. "
+16,11,0,SymbolMT,11.0,89.9,596.0,95.0,609.4,
+16,11,0,ArialMT,11.0,94.9,597.1,98.0,609.4, 
+16,11,1,Calibri-Bold,11.0,107.7,598.8,204.3,609.8,Artificial Intelligence 
+16,12,0,Calibri,11.0,72.0,621.2,456.6,632.3,"In contrast, AI adoption in Croatia remains at an earlier stage of development and "
+16,12,0,Calibri-Bold,11.0,458.0,621.2,525.9,632.3,the country is 
+16,12,1,Calibri-Bold,11.0,72.0,635.7,309.5,646.8,lagging behind compared to its national trajectory.
+16,12,1,Calibri,11.0,309.7,635.7,353.3,646.8," In 2024, "
+16,12,1,Calibri-Bold,11.0,354.4,635.7,525.8,646.8,11.76% of Croatian enterprises used 
+16,12,2,Calibri-Bold,11.0,72.0,650.3,164.7,661.3,artificial intelligence
+16,12,2,Calibri,11.0,164.8,650.3,237.3,661.3,", just below the "
+16,12,2,Calibri-Bold,11.0,237.6,650.3,337.2,661.3,EU average of 13.48%
+16,12,2,Calibri,11.0,337.3,650.3,525.7,661.3,". Compared to 2023 (7.89%), this marks a "
+16,12,3,Calibri-Bold,11.0,72.0,664.7,146.3,675.7,49.05% increase
+16,12,3,Calibri,11.0,146.3,664.7,410.9,675.7,", though the EU grew faster at 67.2%. SME usage stood at "
+16,12,3,Calibri-Bold,11.0,411.5,664.7,444.8,675.7,11.31%
+16,12,3,Calibri,11.0,444.8,664.7,477.2,675.7,", while "
+16,12,3,Calibri-Bold,11.0,477.8,664.7,525.9,675.7,28.36% of 
+16,12,4,Calibri-Bold,11.0,72.0,679.2,148.9,690.2,large enterprises
+16,12,4,Calibri,11.0,148.8,679.2,325.6,690.2," had adopted AI solutions, producing a "
+16,12,4,Calibri-Bold,11.0,326.1,679.2,451.4,690.2,17.05 percentage point gap
+16,12,4,Calibri,11.0,451.4,679.2,525.9,690.2, – much smaller 
+16,12,5,Calibri,11.0,72.0,693.7,498.0,704.7,"than the EU’s 28.53 gap, indicating relatively balanced uptake across different-sized companies. "
+16,13,0,Calibri,11.0,72.0,716.1,329.2,727.2,Recent policy efforts are beginning to address this lag. The 
+16,13,0,Calibri-Bold,11.0,328.8,716.1,441.3,727.2,‘Grants for Digitalisation’
+16,13,0,Calibri,11.0,441.5,716.1,525.9,727.2, (EUR 27.3 million) 
+16,13,1,Calibri,11.0,72.0,730.7,99.4,741.7,and a 
+16,13,1,Calibri-Bold,11.0,99.6,730.7,383.3,741.7,voucher scheme for SME digitalisation worth EUR 9.95 million
+16,13,1,Calibri,11.0,383.4,730.7,525.9,741.7," support AI-related investment, "
+16,13,2,Calibri,11.0,72.0,745.2,125.1,756.2,alongside a 
+16,13,2,Calibri-Bold,11.0,125.3,745.2,302.3,756.2,national AI-capable data infrastructure
+16,13,2,Calibri,11.0,302.4,745.2,525.8,756.2," launched in 2023. Still, the current national 2030 "
+16,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+17,2,0,Calibri,11.0,72.0,84.0,370.3,95.1,target of 30% AI uptake – far below the EU target of 75% – reflects a 
+17,2,0,Calibri-Bold,11.0,369.7,84.0,464.6,95.1,low level of ambition
+17,2,0,Calibri,11.0,464.6,84.0,525.9,95.1, and suggests 
+17,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,"the need for stronger public-private partnerships, demonstration pilots, and sector-specific adoption "
+17,2,2,Calibri,11.0,72.0,112.9,120.5,124.0,strategies. 
+17,4,0,Calibri-Bold,11.0,77.7,136.0,189.4,147.0,2024 recommendation: 
+17,4,0,Calibri,11.0,192.4,136.0,520.2,147.0,Increase the level of effort […] by supporting the development and 
+17,4,1,Calibri,11.0,77.7,150.5,520.2,161.5,"deployment of trustworthy, secure and sovereign advanced technologies and solutions "
+17,4,2,Calibri,11.0,77.7,164.9,148.9,175.9,(AI/cloud/data).
+17,4,2,Calibri-Bold,11.0,148.8,164.9,151.3,175.9, 
+17,5,0,Calibri-Bold,11.0,77.7,182.9,520.0,193.9,Croatia made some efforts to address the recommendation through new policy actions in 2024. 
+17,5,1,Calibri,11.0,77.7,197.4,520.3,208.5,The roll-out of RRP-funded measures – including EUR 27.3 million for Grants for Digitalisation and 
+17,5,2,Calibri,11.0,77.7,211.9,520.1,223.0,"EUR 9.95 million for the voucher programme – helped to stimulate uptake of cloud and AI tools, "
+17,5,3,Calibri,11.0,77.7,226.3,520.1,237.4,"particularly among SMEs. In addition, the launch of a secure, sovereign AI data infrastructure at the "
+17,5,4,Calibri,11.0,77.7,240.9,411.3,251.9,CDU provides a national platform for AI model development and analytics. 
+17,6,0,Calibri,11.0,77.7,258.4,519.9,269.5,"Despite this, AI adoption remains modest (11.76% vs 13.48% EU average), and the 2030 targets for "
+17,6,1,Calibri,11.0,77.7,272.9,520.0,284.0,AI and data analytics remain well below EU benchmarks. There is currently no dedicated national 
+17,6,2,Calibri,11.0,77.7,287.3,520.2,298.4,"strategy to stimulate widespread adoption across sectors, nor are there targeted initiatives to "
+17,6,3,Calibri,11.0,77.7,301.9,520.1,312.9,deepen digital integration beyond basic uptake. Further efforts will be needed to scale deployment 
+17,6,4,Calibri,11.0,77.7,316.4,406.2,327.4,and ensure SMEs move from early adoption to full digital transformation. 
+17,7,0,Calibri-Light,12.0,72.0,342.6,233.6,354.6,"Unicorns, scale-ups and start-ups "
+17,8,0,Calibri,11.0,72.0,366.2,190.4,377.2,"At the beginning of 2025, "
+17,8,0,Calibri-Bold,11.0,191.1,366.2,307.8,377.2,Croatia had two unicorns
+17,8,0,Calibri,11.0,307.9,366.2,525.7,377.2,", with a 2030 national target of four. This figure "
+17,8,1,Calibri,11.0,72.0,380.7,525.6,391.7,"remains unchanged from the previous year. While the ambition level remains limited, 2024 saw a "
+17,8,2,Calibri,11.0,72.0,395.2,523.6,406.3,broadening of national efforts to strengthen the investment landscape for high-growth and innovation-
+17,8,3,Calibri,11.0,72.0,409.6,158.3,420.7,driven enterprises. 
+17,9,0,Calibri,11.0,72.0,432.2,91.2,443.2,The 
+17,9,0,Calibri-Bold,11.0,91.3,432.2,401.3,443.2,ICT sector in Croatia represents 5.26% of national gross value added
+17,9,0,Calibri,11.0,401.5,432.2,525.8,443.2,", close to the EU average of "
+17,9,1,Calibri,11.0,72.0,446.6,141.1,457.6,"5.5%. Notably, "
+17,9,1,Calibri-Bold,11.0,143.7,446.6,525.9,457.6,business R&D expenditure in the ICT sector accounts for 34.27% of total R&D 
+17,9,2,Calibri-Bold,11.0,72.0,461.1,127.5,472.1,expenditure
+17,9,2,Calibri,11.0,127.5,461.1,525.7,472.1,", reflecting the sector’s growing role in driving innovation. However, broader access to "
+17,9,3,Calibri,11.0,72.0,475.6,309.1,486.7,equity and venture capital financing remains limited. 
+17,9,3,Calibri-Bold,11.0,309.1,475.6,525.8,486.7,Venture capital investment as a share of GDP is 
+17,9,4,Calibri-Bold,11.0,72.0,490.1,171.0,501.2,below the EU average
+17,9,4,Calibri,11.0,171.1,490.1,525.8,501.2,", and private equity investment fell sharply in recent years, indicating persistent "
+17,9,5,Calibri,11.0,72.0,504.5,267.3,515.6,financing constraints for high-growth firms. 
+17,10,0,Calibri,11.0,72.0,527.1,488.4,538.2,"To address these structural gaps, Croatia launched several financing instruments in 2024. "
+17,10,0,Calibri-Bold,11.0,490.2,527.1,520.6,538.2,CVCi 2
+17,10,0,Calibri,11.0,520.7,527.1,525.9,538.2,", "
+17,10,1,Calibri,11.0,72.0,541.6,359.5,552.7,"supported by the European Investment Fund, combines "
+17,10,1,Calibri-Bold,11.0,365.7,541.6,495.2,552.7,EUR 60 million from ERDF
+17,10,1,Calibri,11.0,495.2,541.6,525.9,552.7, with 
+17,10,2,Calibri-Bold,11.0,72.0,556.1,249.1,567.1,EUR 20 million in national co-financing
+17,10,2,Calibri,11.0,249.2,556.1,312.0,567.1,", while a new "
+17,10,2,Calibri-Bold,11.0,312.5,556.1,435.4,567.1,EUR 80 million programme
+17,10,2,Calibri,11.0,435.3,556.1,525.9,567.1, was introduced for 
+17,10,3,Calibri,11.0,72.0,570.6,437.2,581.6,"start-up support. These efforts complement existing instruments, including "
+17,10,3,Calibri-Bold,11.0,441.6,570.6,525.9,581.6,EUR 70 million in 
+17,10,4,Calibri-Bold,11.0,72.0,585.1,155.4,596.1,innovation grants
+17,10,4,Calibri,11.0,155.4,585.1,180.7,596.1, and 
+17,10,4,Calibri-Bold,11.0,184.2,585.1,318.0,596.1,EUR 210 million in vouchers
+17,10,4,Calibri,11.0,318.1,585.1,525.9,596.1, promoting business R&D collaboration. In 
+17,10,5,Calibri,11.0,72.0,599.6,131.5,610.7,"addition, the "
+17,10,5,Calibri-Bold,11.0,131.2,599.6,270.5,610.7,Vesna Deep Tech Venture Fund
+17,10,5,Calibri,11.0,270.5,599.6,523.6,610.7,", with a budget of EUR 40 million, aims to stimulate early-"
+17,10,6,Calibri,11.0,72.0,614.0,242.4,625.1,stage investment in deep tech sectors 
+17,10,6,Calibri,7.0,242.2,613.1,249.2,620.1,12
+17,10,6,Calibri,11.0,249.2,614.0,254.4,625.1,. 
+17,11,0,Calibri,11.0,72.0,636.6,392.9,647.6,"To support long-term capital development, Croatia initiated work on a "
+17,11,0,Calibri-Bold,11.0,393.8,636.6,525.8,647.6,Strategic Framework for the 
+17,11,1,Calibri-Bold,11.0,72.0,651.1,283.6,662.1,Development of Capital Markets 2025-2030
+17,11,1,Calibri,11.0,283.6,651.1,525.8,662.1,", backed by diagnostic and benchmarking reviews "
+17,11,2,Calibri,11.0,72.0,665.5,525.9,676.5,completed in 2024. The draft framework and its accompanying action plans aim to improve investor 
+17,11,3,Calibri,11.0,72.0,680.0,525.8,691.1,"incentives, legal certainty, and access to non-bank finance such as crowdfunding and equity "
+17,11,4,Calibri,11.0,72.0,694.5,131.0,705.6,instruments. 
+17,12,0,Calibri,11.0,72.0,717.0,127.3,728.0,"Meanwhile, "
+17,12,0,Calibri-Bold,11.0,129.0,717.0,303.7,728.0,R&D tax incentives are being revised
+17,12,0,Calibri,11.0,303.8,717.0,525.9,728.0, to increase take-up by innovative firms and to 
+17,12,1,Calibri,11.0,72.0,731.5,525.8,742.6,simplify access for start-ups. A separate reform is targeting the development of a national acceleration 
+17,13,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+17,13,1,Calibri,6.0,72.0,761.1,78.1,767.1,12
+17,13,1,Calibri,9.0,78.0,761.4,421.2,770.4, European Commission. (2025). European Semester Annex on Innovation to Business: Croatia. 
+17,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+18,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,ecosystem and providing grant-based support for deep tech ventures. These are reinforced by the 
+18,2,1,Calibri-Bold,11.0,72.0,98.4,219.1,109.5,Vesna Deep Tech Venture Fund
+18,2,1,Calibri,11.0,219.2,98.4,525.9,109.5,", which is offering EUR 40 million to early-stage firms in high-tech "
+18,2,2,Calibri,11.0,72.0,112.9,109.1,124.0,sectors. 
+18,4,0,Calibri,11.0,72.0,135.5,255.0,146.5,"Despite progress, Croatia still lacks a "
+18,4,0,Calibri-Bold,11.0,259.0,135.5,525.9,146.5,dedicated national strategy for scale-ups and unicorn 
+18,4,1,Calibri-Bold,11.0,72.0,149.9,132.7,160.9,development
+18,4,1,Calibri,11.0,132.7,149.9,525.8,160.9,", and financing conditions remain well below the EU average. Venture capital penetration "
+18,4,2,Calibri,11.0,72.0,164.4,525.8,175.5,"is still limited in scope, and regulatory hurdles – particularly around fund formation and investor "
+18,4,3,Calibri,11.0,72.0,178.9,422.7,190.0,participation – continue to affect the growth of the venture capital ecosystem. 
+18,5,0,Calibri,11.0,72.0,201.4,525.9,212.4,"Entrepreneurial activity remains relatively high, supported by RRP-funded initiatives, targeted business "
+18,5,1,Calibri,11.0,72.0,215.9,236.5,226.9,"support schemes, and platforms like "
+18,5,1,Calibri-Bold,11.0,236.7,215.9,264.6,226.9,START
+18,5,1,Calibri,11.0,264.5,215.9,525.8,226.9," for digital company registration. However, the absence of "
+18,5,2,Calibri,11.0,72.0,230.4,525.6,241.5,a fully integrated policy framework for scaling firms may continue to hinder Croatia’s capacity to 
+18,5,3,Calibri,11.0,72.0,245.0,395.9,256.0,"produce high-growth, innovation-driven champions in the medium term "
+18,5,3,Calibri,7.0,395.8,244.1,402.8,251.0,13
+18,5,3,Calibri,11.0,402.8,245.0,408.1,256.0,. 
+18,6,0,Calibri-Bold,11.0,77.7,267.9,185.6,278.9,2024 recommendation:
+18,6,0,Calibri,11.0,185.6,267.9,520.1,278.9," Increase the level of effort to support the unicorns target, including by "
+18,6,1,Calibri,11.0,77.7,282.4,519.9,293.5,"increasing the level of R&D in the ICT sector, improving access to finance and supporting the "
+18,6,2,Calibri,11.0,77.7,296.9,520.3,308.0,"development and deployment of trustworthy, secure and sovereign advanced technologies and "
+18,6,3,Calibri,11.0,77.7,311.3,121.0,322.4,solutions.
+18,6,3,Calibri-Bold,11.0,120.9,311.3,123.4,322.4, 
+18,7,0,Calibri-Bold,11.0,77.7,329.3,509.0,340.4,Croatia made some efforts to address the recommendation through new policy actions in 2024.
+18,7,0,Calibri,11.0,509.1,329.3,520.3,340.4, It 
+18,7,1,Calibri,11.0,77.7,343.8,520.1,354.9,continued implementing existing investment schemes and introduced several new financial 
+18,7,2,Calibri,11.0,77.7,358.4,352.7,369.4,instruments to support start-ups and deep tech ventures.
+18,7,2,Calibri-Bold,11.0,352.8,358.4,355.2,369.4, 
+18,7,2,Calibri,11.0,358.0,358.4,520.2,369.4,"However, the country still lacks a "
+18,7,3,Calibri,11.0,77.7,372.9,520.3,383.9,"dedicated strategy for scale-ups and unicorn development, and structural barriers to late-stage "
+18,7,4,Calibri,11.0,77.7,387.3,257.8,398.3,financing and innovation scaling persist. 
+18,8,0,Calibri-Light,15.0,72.0,414.2,322.7,429.2,Strengthening Cybersecurity & Resilience 
+18,9,0,Calibri,11.0,72.0,441.1,111.2,452.1,"In 2023, "
+18,9,0,Calibri-Bold,11.0,111.6,441.1,289.7,452.1,63.9% of individuals in Croatia took at 
+18,9,1,Calibri-Bold,11.0,72.0,455.6,289.7,466.6,least one precautionary action to protect their 
+18,9,2,Calibri-Bold,11.0,72.0,470.1,173.3,481.1,personal data online
+18,9,2,Calibri,11.0,173.3,470.1,289.8,481.1,", slightly below the EU "
+18,9,3,Calibri,11.0,72.0,484.6,202.2,495.7,"average of 69.55%. Of these, "
+18,9,3,Calibri-Bold,11.0,202.1,484.6,289.8,495.7,47.06% engaged in 
+18,9,4,Calibri-Bold,11.0,72.0,499.0,175.9,510.1,three or more actions
+18,9,4,Calibri,11.0,176.0,499.0,289.8,510.1,", suggesting above-basic "
+18,9,5,Calibri,11.0,72.0,513.5,289.8,524.6,digital safety skills. The most common action was 
+18,9,6,Calibri-Bold,11.0,72.0,528.1,289.8,539.1,refusing the use of personal data for advertising 
+18,9,7,Calibri-Bold,11.0,72.0,542.6,113.9,553.6,purposes
+18,9,7,Calibri,11.0,113.9,542.6,189.2,553.6," (47.98%), while "
+18,9,7,Calibri-Bold,11.0,189.8,542.6,289.8,553.6,only 25.62% changed 
+18,9,8,Calibri-Bold,11.0,72.0,557.0,237.9,568.1,browser settings to manage cookies
+18,9,8,Calibri,11.0,238.0,557.0,289.8,568.1,", indicating "
+18,9,9,Calibri,11.0,72.0,571.5,279.5,582.6,gaps in more advanced protective behaviours. 
+18,13,0,Calibri,11.0,72.0,594.1,289.7,605.1,Croatian enterprises report a relatively high 
+18,13,1,Calibri,11.0,72.0,608.5,289.7,619.5,"incidence of cyber-related disruptions. In 2024, "
+18,13,2,Calibri-Bold,11.0,72.0,623.0,289.7,634.1,26.1% of enterprises experienced at least one 
+18,13,3,Calibri-Bold,11.0,72.0,637.5,173.9,648.6,ICT security incident
+18,13,3,Calibri,11.0,173.9,637.5,289.8,648.6,", compared to the EU "
+18,13,4,Calibri,11.0,72.0,652.1,384.1,663.1,average of 21.54%. The most frequent causes of unavailability were 
+18,13,4,Calibri-Bold,11.0,385.4,652.1,523.4,663.1,hardware or software failures
+18,13,4,Calibri,11.0,523.4,652.1,525.9,663.1, 
+18,13,5,Calibri,11.0,72.0,666.5,144.6,677.5,"(23.54%), while "
+18,13,5,Calibri-Bold,11.0,145.8,666.5,218.7,677.5,external attacks
+18,13,5,Calibri,11.0,218.8,666.5,525.7,677.5, (e.g. ransomware or denial of service) were reported by 3.34% of 
+18,13,6,Calibri,11.0,72.0,681.0,300.4,692.0,"enterprises, slightly below the EU average (3.43%). "
+18,14,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+18,14,1,Calibri,6.0,72.0,761.1,78.1,767.1,13
+18,14,1,Calibri,9.0,78.0,761.4,348.8,770.4, European Commission. (2025). ES Annex Making Business Easier: Croatia. 
+18,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+19,2,0,Calibri,11.0,72.0,84.0,490.3,95.1,"Data destruction or corruption due to malware or unauthorised access was rare (1.25%), and "
+19,2,0,Calibri-Bold,11.0,490.8,84.0,525.9,95.1,Croatia 
+19,2,1,Calibri-Bold,11.0,72.0,98.4,439.1,109.5,recorded one of the lowest overall rates of incidents involving data disclosure
+19,2,1,Calibri,11.0,439.4,98.4,525.9,109.5,", whether through "
+19,2,2,Calibri,11.0,72.0,112.9,284.5,124.0,"internal or external actions (2.01%, EU: 2.28%). "
+19,4,0,Calibri,11.0,72.0,135.5,438.7,146.5,"From a legal perspective, Croatia has now fully transposed the NIS2 Directive. The "
+19,4,0,Calibri-Bold,11.0,439.1,135.5,525.9,146.5,new Cybersecurity 
+19,4,1,Calibri-Bold,11.0,72.0,149.9,87.2,160.9,Act
+19,4,1,Calibri,11.0,87.1,149.9,525.8,160.9," entered into force on 7 February 2024, repealing Article 41 of the Electronic Communications Act "
+19,4,2,Calibri,11.0,72.0,164.4,458.9,175.5,and updating the earlier 2021 legislation. It was followed by the adoption of the 
+19,4,2,Calibri-Bold,11.0,461.1,164.4,525.9,175.5,Cybersecurity 
+19,4,3,Calibri-Bold,11.0,72.0,178.9,121.1,190.0,Regulation
+19,4,3,Calibri,11.0,121.1,178.9,525.8,190.0," (Official Gazette No 135/2024) on 30 November 2024, which establishes detailed "
+19,4,4,Calibri,11.0,72.0,193.5,140.2,204.5,obligations for 
+19,4,4,Calibri-Bold,11.0,141.6,193.5,525.7,204.5,"cybersecurity risk management, reporting, and the identification of essential and "
+19,4,5,Calibri-Bold,11.0,72.0,207.9,155.5,218.9,important entities
+19,4,5,Calibri,11.0,155.5,207.9,525.6,218.9,. This marks a major step forward in aligning Croatia’s regulatory framework with 
+19,4,6,Calibri,11.0,72.0,222.4,152.5,233.4,EU requirements. 
+19,5,0,Calibri-Bold,11.0,72.0,245.0,525.6,256.0,The national approach to cyber awareness and capacity building had also evolved by the end of 
+19,5,1,Calibri-Bold,11.0,72.0,259.4,99.8,270.4,2024. 
+19,5,1,Calibri,11.0,99.5,259.4,525.9,270.4,"In late 2023, the Croatian government designated the Croatian Academic and Research Network "
+19,5,2,Calibri,11.0,72.0,273.9,525.7,284.9,"(CARNET) as the National Coordination Centre for Industry, Technology, and Research in Cybersecurity "
+19,5,3,Calibri,11.0,72.0,288.4,525.8,299.5,"(NCC-HR), in line with Regulation (EU) 2021/887. In an earlier step, the Information Systems Security "
+19,5,4,Calibri,11.0,72.0,302.9,303.4,314.0,Bureau (ZSIS) had already been designated as the 
+19,5,4,Calibri,11.0,304.9,302.9,523.6,314.0,national authority for cybersecurity certification
+19,5,4,Calibri,11.0,523.4,302.9,525.9,314.0, 
+19,5,5,Calibri,11.0,72.0,317.3,308.8,328.4,under Regulation (EU) 2019/881 (Cybersecurity Act). 
+19,6,0,Calibri,11.0,72.0,339.9,525.9,350.9,"In parallel, the national approach to cybersecurity awareness and capacity building was reinforced. In "
+19,6,1,Calibri,11.0,72.0,354.4,525.9,365.4,"late 2023, CARNET was designated as the NCC-HR, in line with Regulation (EU) 2021/887. The NCC-HR "
+19,6,2,Calibri,11.0,72.0,368.8,341.9,379.9,coordinates a range of nationally and EU-funded initiatives
+19,6,2,Calibri,11.0,342.0,368.8,525.9,379.9,", including the ‘Deployment of NCC-HR’ "
+19,6,3,Calibri,11.0,72.0,383.3,525.9,394.4,"project, co-financed under the Digital Europe Programme with a total value of EUR 7.87 million. The "
+19,6,4,Calibri,11.0,72.0,397.9,525.8,408.9,"project runs until 2028 and supports the development of professional cybersecurity skills, stakeholder "
+19,6,5,Calibri,11.0,72.0,412.4,525.8,423.4,"coordination through a newly created Cybersecurity Competence Community, and cascade funding for "
+19,6,6,Calibri,11.0,72.0,426.8,525.9,437.8,"innovation in cybersecurity. To ensure wide engagement, the NCC-HR also plans to organise regional "
+19,6,7,Calibri,11.0,72.0,441.3,525.7,452.4,"Cyber Meet-ups in collaboration with local and regional authorities, targeting SMEs, institutions and "
+19,6,8,Calibri,11.0,72.0,455.8,525.6,466.9,academia. Croatia is also working with other Member States towards the development of the 
+19,6,9,Calibri,11.0,72.0,470.3,466.4,481.4,European Digital Infrastructure Consortia (EDIC) European Cybersecurity Skills Academy. 
+19,7,0,Calibri,11.0,72.0,492.8,525.6,503.8,Additional national efforts include a cybersecurity voucher scheme and targeted SME support via the 
+19,7,1,Calibri,11.0,72.0,507.3,516.8,518.3,"EDIH CROBOHUB++ centre, offering training, threat detection tools, and test-before-invest services. "
+19,8,0,Calibri,11.0,72.0,529.7,525.7,540.8,"Despite these efforts, Croatia still faces challenges in achieving widespread security readiness. The "
+19,8,1,Calibri-Bold,11.0,72.0,544.3,342.0,555.3,relatively high incidence of service disruption in businesses
+19,8,1,Calibri,11.0,342.3,544.3,417.1,555.3,", combined with "
+19,8,1,Calibri-Bold,11.0,417.5,544.3,525.9,555.3,low adoption of critical 
+19,8,2,Calibri-Bold,11.0,72.0,558.8,162.3,569.9,standards like IPv6
+19,8,2,Calibri,11.0,162.4,558.8,525.9,569.9,", signals the need for continued investment in enterprise-level cybersecurity "
+19,8,3,Calibri,11.0,72.0,573.2,315.9,584.3,"infrastructure, staff training, and public digital literacy. "
+19,9,0,Calibri-Bold,11.0,72.0,595.8,328.0,606.8,Concerning the deployment of secure internet standards
+19,9,0,Calibri,11.0,328.1,595.8,525.9,606.8,", Croatia remains significantly behind the EU "
+19,9,1,Calibri,11.0,72.0,610.3,426.7,621.3,"average in the roll-out of Internet Protocol version 6 (IPv6). In Q3 2024, only "
+19,9,1,Calibri-Bold,11.0,427.8,610.3,511.5,621.3,4.0% of end users
+19,9,1,Calibri,11.0,511.5,610.3,525.9,621.3, in 
+19,9,2,Calibri,11.0,72.0,624.7,525.8,635.7,"Croatia connected via IPv6, compared to the EU average of 37%. Server-side adoption is even lower: "
+19,9,3,Calibri,11.0,72.0,639.2,93.6,650.3,only 
+19,9,3,Calibri-Bold,11.0,93.3,639.2,161.6,650.3,1.0% of servers
+19,9,3,Calibri,11.0,161.5,639.2,525.9,650.3," supported IPv6, against an EU average of 16%. Moreover, Croatia has experienced "
+19,9,4,Calibri,11.0,72.0,653.7,79.8,664.8,a 
+19,9,4,Calibri-Bold,11.0,80.5,653.7,214.2,664.8,declining trend in IPv6 usage
+19,9,4,Calibri,11.0,214.4,653.7,525.9,664.8," among end users, down from 5.8% in Q3 2022. This stagnation and "
+19,9,5,Calibri,11.0,72.0,668.3,525.7,679.3,"regression pose risks for scalability, security and interoperability, especially given the exhaustion of "
+19,9,6,Calibri,11.0,72.0,682.7,525.9,693.7,IPv4 addresses. Accelerating the deployment of IPv6 is essential to future-proof the national internet 
+19,9,7,Calibri,11.0,72.0,697.2,383.1,708.2,infrastructure and ensure compatibility with EU-wide digital services. 
+19,9,7,Calibri-Bold,11.0,383.2,697.2,525.8,708.2,Domain Name System Security 
+19,9,8,Calibri-Bold,11.0,72.0,711.7,165.7,722.7,Extensions (DNSSEC)
+19,9,8,Calibri,11.0,165.6,711.7,525.9,722.7, is another important standard introducing authentication and integrity checks in 
+19,9,9,Calibri,11.0,72.0,726.2,166.1,737.3,"DNS. In Croatia, the "
+19,9,9,Calibri-Bold,11.0,167.5,726.2,394.4,737.3,DNSSEC validation rate was just 13% in Q3 2024
+19,9,9,Calibri,11.0,394.5,726.2,525.9,737.3,", substantially below the EU "
+19,9,10,Calibri,11.0,72.0,740.6,525.9,751.7,"average of 43%, underscoring the need for internet providers and public platforms to further "
+19,9,11,Calibri,11.0,72.0,755.2,180.6,766.2,incentivise its adoption. 
+19,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+20,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Protecting and empowering EU people 
+20,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+20,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+20,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+20,5,0,Calibri,11.0,72.0,208.0,525.9,219.0,"Croatia continues to face important digital inclusion challenges, with divides persisting on the basis of "
+20,5,1,Calibri,11.0,72.0,222.5,525.8,233.5,"education level, age group, and rural-urban areas. However, strong progress has been made in "
+20,5,2,Calibri,11.0,72.0,237.0,525.7,248.1,"expanding basic digital skills, promoting women’s participation in ICT, and improving the accessibility "
+20,5,3,Calibri,11.0,72.0,251.4,525.9,262.5,"of public digital services. Croatia is also reinforcing its efforts on media literacy, cybersecurity "
+20,5,4,Calibri,11.0,72.0,266.0,525.8,277.0,"awareness, and protection against online risks, particularly for young people. Initiatives promoting safe "
+20,5,5,Calibri,11.0,72.0,280.5,525.7,291.5,use of digital technologies in schools and campaigns addressing disinformation have been 
+20,5,6,Calibri,11.0,72.0,295.0,525.9,306.0,"strengthened, supporting a more inclusive and resilient digital transition. [Eurobarometer data on fake "
+20,5,7,Calibri,11.0,72.0,309.4,168.2,320.5,"news, concerns, etc.] "
+20,6,0,Calibri-Light,12.0,72.0,332.2,239.6,344.2,Equipping people with digital skills 
+20,7,0,Calibri-LightItalic,11.0,72.0,355.7,152.3,366.8,Basic Digital Skills 
+20,8,0,Calibri,11.0,72.0,382.2,128.0,393.3,Croatia is at 
+20,8,0,Calibri-Bold,11.0,128.5,382.2,161.8,393.3,58.95%
+20,8,0,Calibri,11.0,161.8,382.2,494.9,393.3," of population with at least basic digital skills (2030 national target: 80%), "
+20,8,0,Calibri-Bold,11.0,495.7,382.2,525.9,393.3,above 
+20,8,1,Calibri-Bold,11.0,72.0,396.8,142.0,407.8,the EU average
+20,8,1,Calibri,11.0,142.0,396.8,525.7,407.8," of 55.56%. The value has improved steadily in recent years, but the pace of growth "
+20,8,2,Calibri,11.0,72.0,411.3,525.9,422.4,"must be maintained to stay on track. Based on the 2023 level, Croatia would need to increase the share "
+20,8,3,Calibri,11.0,72.0,425.7,525.9,436.8,of digitally skilled individuals by approximately three percentage points per year to meet its 2030 goal. 
+20,8,4,Calibri,11.0,72.0,440.2,272.1,451.3,"While this pace aligns with recent progress, "
+20,8,4,Calibri-Bold,11.0,272.8,440.2,462.6,451.3,reaching the target is not yet guaranteed
+20,8,4,Calibri,11.0,462.7,440.2,525.9,451.3,", especially in "
+20,8,5,Calibri,11.0,72.0,454.7,220.2,465.8,light of persistent inclusion gaps. 
+20,9,0,SymbolMT,10.0,89.9,475.5,94.5,487.6,
+20,9,0,ArialMT,10.0,94.5,476.5,97.2,487.6, 
+20,9,1,Calibri-Bold,11.0,107.7,477.2,165.6,488.2,Gender Gap
+20,9,1,Calibri,11.0,165.6,477.2,272.7,488.2,: 60.22% of men and 
+20,9,2,Calibri,11.0,107.7,491.7,143.2,502.8,57.71% 
+20,9,3,Calibri,11.0,152.3,491.7,164.0,502.8,of 
+20,9,4,Calibri,11.0,173.1,491.7,209.2,502.8,women 
+20,9,5,Calibri,11.0,218.3,491.7,229.1,502.8,in 
+20,9,6,Calibri,11.0,238.3,491.7,272.7,502.8,Croatia 
+20,9,7,Calibri,11.0,107.7,506.2,272.7,517.3,"reported at least basic digital skills, "
+20,9,8,Calibri,11.0,107.7,520.7,247.4,531.8,resulting in a gender gap of 
+20,9,8,Calibri-Bold,11.0,250.6,520.7,272.8,531.8,2.51 
+20,9,9,Calibri-Bold,11.0,107.7,535.1,194.5,546.2,percentage points
+20,9,9,Calibri,11.0,194.6,535.1,272.7,546.2,", slightly above "
+20,9,10,Calibri,11.0,107.7,549.7,227.9,560.7,the EU average of 2.33 pp. 
+20,11,0,SymbolMT,10.0,89.9,570.4,94.5,582.6,
+20,11,0,ArialMT,10.0,94.5,571.4,97.2,582.5, 
+20,11,1,Calibri-Bold,11.0,107.7,572.1,183.1,583.2,Education Level
+20,11,1,Calibri,11.0,183.2,572.1,272.7,583.2,: Digital skills are 
+20,11,2,Calibri,11.0,107.7,586.7,272.7,597.7,strongly correlated with education. 
+20,11,3,Calibri,11.0,107.7,601.2,272.8,612.2,Among individuals with a higher 
+20,11,4,Calibri,11.0,107.7,615.7,185.5,626.7,"education level, "
+20,11,4,Calibri-Bold,11.0,190.4,615.7,223.7,626.7,81.46%
+20,11,4,Calibri,11.0,223.6,615.7,272.8,626.7, reported 
+20,11,5,Calibri,11.0,107.7,630.1,272.7,641.1,basic digital skills (above the EU 
+20,11,6,Calibri,11.0,107.7,644.6,272.7,655.7,"average of 79.83%), while among "
+20,11,7,Calibri,11.0,107.7,659.1,272.8,670.2,"those with a low education level, "
+20,11,8,Calibri,11.0,107.7,673.7,129.3,684.7,only 
+20,11,8,Calibri-Bold,11.0,129.1,673.7,162.4,684.7,26.12%
+20,11,8,Calibri,11.0,162.4,673.7,272.8,684.7, did. This results in a gap 
+20,11,9,Calibri,11.0,107.7,688.2,119.4,699.2,of 
+20,11,10,Calibri-Bold,11.0,132.3,688.2,159.9,699.2,32.83 
+20,11,11,Calibri-Bold,11.0,172.8,688.2,226.0,699.2,percentage 
+20,11,12,Calibri-Bold,11.0,238.9,688.2,267.4,699.2,points
+20,11,12,Calibri,11.0,267.5,688.2,272.8,699.2,", "
+20,11,13,Calibri,11.0,107.7,702.6,272.7,713.6,considerably above the EU average 
+20,11,14,Calibri,11.0,107.7,717.1,182.2,728.1,gap of 21.95 pp. 
+20,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+21,2,0,SymbolMT,10.0,89.9,82.3,94.5,94.5,
+21,2,0,ArialMT,10.0,94.5,83.3,97.2,94.4, 
+21,2,1,Calibri-Bold,11.0,107.7,84.0,162.1,95.1,Living Areas
+21,2,1,Calibri,11.0,162.0,84.0,230.3,95.1,": In rural areas, "
+21,2,1,Calibri-Bold,11.0,229.9,84.0,263.2,95.1,50.13%
+21,2,1,Calibri,11.0,263.2,84.0,525.9,95.1," of Croatians have at least basic digital skills, which is above "
+21,2,2,Calibri,11.0,107.7,98.4,448.5,109.5,"the EU rural average (47.50%). However, the rural-national gap remains at "
+21,2,2,Calibri-Bold,11.0,449.4,98.4,525.9,109.5,8.82 percentage 
+21,2,3,Calibri-Bold,11.0,107.7,112.9,136.3,124.0,points
+21,2,3,Calibri,11.0,136.3,112.9,291.0,124.0,", closely mirroring the EU average. "
+21,4,0,SymbolMT,10.0,89.9,133.8,94.5,145.9,
+21,4,0,ArialMT,10.0,94.5,134.8,97.2,145.9, 
+21,4,1,Calibri-Bold,11.0,107.7,135.5,161.2,146.5,Age Groups
+21,4,1,Calibri,11.0,161.3,135.5,431.7,146.5,": Croatian youth (16-24) are highly digitally proficient, with "
+21,4,1,Calibri-Bold,11.0,432.8,135.5,466.2,146.5,86.33%
+21,4,1,Calibri,11.0,466.1,135.5,525.9,146.5, reporting at 
+21,4,2,Calibri,11.0,107.7,149.9,451.8,160.9,"least basic digital skills, well above the EU average of 69.98%. In contrast, "
+21,4,2,Calibri-Bold,11.0,453.5,149.9,510.3,160.9,only 17.86%
+21,4,2,Calibri,11.0,510.2,149.9,525.9,160.9, of 
+21,4,3,Calibri,11.0,107.7,164.4,497.6,175.5,individuals aged 65-74 have these skills – significantly below the EU average of 28.19%. 
+21,5,0,SymbolMT,10.0,89.9,185.3,94.5,197.4,
+21,5,0,ArialMT,10.0,94.5,186.2,97.2,197.4, 
+21,5,1,Calibri-Bold,11.0,107.7,187.0,252.2,198.0,Digital Skills Index components
+21,5,1,Calibri,11.0,252.4,187.0,525.7,198.0,: Croatia performs below the EU average in four out of five 
+21,5,2,Calibri,11.0,107.7,201.4,280.3,212.4,"competence areas, but stands out in "
+21,5,2,Calibri-Bold,11.0,281.9,201.4,391.0,212.4,digital content creation
+21,5,2,Calibri,11.0,391.0,201.4,435.3,212.4,", with an "
+21,5,2,Calibri-Bold,11.0,436.9,201.4,498.4,212.4,81.55% score
+21,5,2,Calibri,11.0,498.5,201.4,525.9,212.4,", well "
+21,5,3,Calibri,11.0,107.7,215.9,333.7,226.9,above the EU’s 68.28%. The weakest area remains 
+21,5,3,Calibri-Bold,11.0,333.9,215.9,386.1,226.9,safety skills
+21,5,3,Calibri,11.0,386.2,215.9,525.8,226.9,", where Croatia scores 63.90%, "
+21,5,4,Calibri,11.0,107.7,230.4,286.7,241.5,compared to the EU average of 69.55%. 
+21,6,0,Calibri,11.0,72.0,252.9,525.7,263.9,Croatia continues to implement a comprehensive set of policy actions to support digital upskilling. A 
+21,6,1,Calibri,11.0,72.0,267.4,158.6,278.5,key initiative is the 
+21,6,1,Calibri-Bold,11.0,159.0,267.4,385.4,278.5,voucher system for adult education and reskilling
+21,6,1,Calibri,11.0,385.6,267.4,525.8,278.5,", in operation since April 2022. "
+21,6,2,Calibri,11.0,72.0,281.9,153.4,293.0,"As of early 2025, "
+21,6,2,Calibri-Bold,11.0,154.9,281.9,254.8,293.0,over 19 000 vouchers
+21,6,2,Calibri,11.0,254.8,281.9,499.8,293.0," have been granted for digital skills acquisition, with "
+21,6,2,Calibri-Bold,11.0,501.3,281.9,525.9,293.0,100+ 
+21,6,3,Calibri-Bold,11.0,72.0,296.3,219.4,307.4,accredited training programmes
+21,6,3,Calibri,11.0,219.4,296.3,288.8,307.4, offered across 
+21,6,3,Calibri-Bold,11.0,289.6,296.3,366.8,307.4,150+ institutions
+21,6,3,Calibri,11.0,366.8,296.3,525.8,307.4, nationwide. Particular attention is 
+21,6,4,Calibri,11.0,72.0,310.9,190.3,321.9,given to the inclusion of 
+21,6,4,Calibri-Bold,11.0,192.4,310.9,276.7,321.9,vulnerable groups
+21,6,4,Calibri,11.0,276.8,310.9,525.9,321.9,", such as the long-term unemployed, persons not in "
+21,6,5,Calibri,11.0,72.0,325.4,373.2,336.4,"education, employment, or training (NEETs), and low-skilled adults. "
+21,7,0,Calibri,11.0,72.0,347.8,235.9,358.9,The government is also reforming 
+21,7,0,Calibri-Bold,11.0,238.9,347.8,439.2,358.9,"primary, secondary, and higher education"
+21,7,0,Calibri,11.0,439.3,347.8,525.9,358.9, to embed digital 
+21,7,1,Calibri,11.0,72.0,362.3,525.9,373.4,competences more systematically. The national curriculum is being updated to reflect AI-driven 
+21,7,2,Calibri,11.0,72.0,376.8,525.7,387.9,"learning environments and smart recommendation systems. In schools, teacher training includes "
+21,7,3,Calibri,11.0,72.0,391.4,171.5,402.4,practical modules on 
+21,7,3,Calibri-Bold,11.0,173.6,391.4,234.3,402.4,online safety
+21,7,3,Calibri,11.0,234.4,391.4,239.5,402.4,", "
+21,7,3,Calibri-Bold,11.0,241.6,391.4,282.6,402.4,AI ethics
+21,7,3,Calibri,11.0,282.6,391.4,525.8,402.4,", and the responsible use of digital tools. In higher "
+21,7,4,Calibri,11.0,72.0,405.8,525.9,416.8,"education, institutions are being equipped with new digital infrastructure, and staff are receiving "
+21,7,5,Calibri,11.0,72.0,420.3,202.8,431.4,support to design and deliver 
+21,7,5,Calibri-Bold,11.0,202.2,420.3,308.2,431.4,modular digital content
+21,7,5,Calibri,11.0,308.2,420.3,495.7,431.4,", contributing to a system-wide increase in "
+21,7,5,Calibri-Bold,11.0,495.1,420.3,525.9,431.4,digital 
+21,7,6,Calibri-Bold,11.0,72.0,434.8,111.7,445.9,maturity
+21,7,6,Calibri,11.0,111.7,434.8,116.9,445.9,. 
+21,8,0,Calibri,11.0,72.0,457.3,485.8,468.3,"To further support lifelong learning, Croatia is aligning its voucher system with the "
+21,8,0,Calibri-Bold,11.0,489.9,457.3,525.9,468.3,Council 
+21,8,1,Calibri-Bold,11.0,72.0,471.8,305.7,482.8,Recommendation on Individual Learning Accounts
+21,8,1,Calibri,11.0,305.8,471.8,525.8,482.8, and is actively monitoring inclusion and equity 
+21,8,2,Calibri,11.0,72.0,486.3,525.8,497.4,metrics as part of labour market reforms. These initiatives are supported through a substantial 
+21,8,3,Calibri-Bold,11.0,72.0,500.8,261.2,511.9,EUR 211 million allocation under the RRP
+21,8,3,Calibri,11.0,261.2,500.8,525.8,511.9,", covering components related to tourism, education, R&D "
+21,8,4,Calibri,11.0,72.0,515.2,329.0,526.3,and labour market. The plan includes reforms to improve 
+21,8,4,Calibri-Bold,11.0,329.1,515.2,440.7,526.3,basic skills among pupils
+21,8,4,Calibri,11.0,440.9,515.2,525.9,526.3, through extended 
+21,8,5,Calibri,11.0,72.0,529.7,320.5,540.8,"instruction time, and to strengthen the link between "
+21,8,5,Calibri-Bold,11.0,322.5,529.7,469.2,540.8,vocational and adult education
+21,8,5,Calibri,11.0,469.2,529.7,525.9,540.8, and labour 
+21,8,6,Calibri,11.0,72.0,544.3,273.9,555.3,market needs. Dedicated actions also aim to 
+21,8,6,Calibri-Bold,11.0,274.4,544.3,525.7,555.3,increase the attractiveness of ICT studies and research 
+21,8,7,Calibri-Bold,11.0,72.0,558.8,105.1,569.9,careers
+21,8,7,Calibri,11.0,105.1,558.8,525.7,569.9,", including through improved working conditions, simplified procedures, and enhanced "
+21,8,8,Calibri,11.0,72.0,573.2,365.7,584.3,promotion opportunities. Complementary investments promote 
+21,8,8,Calibri-Bold,11.0,367.3,573.2,525.9,584.3,upskilling and reskilling across all 
+21,8,9,Calibri-Bold,11.0,72.0,587.7,125.9,598.8,generations
+21,8,9,Calibri,11.0,125.9,587.7,186.9,598.8,", including in "
+21,8,9,Calibri-Bold,11.0,188.1,587.7,223.6,598.8,tourism
+21,8,9,Calibri,11.0,223.6,587.7,228.7,598.8,", "
+21,8,9,Calibri-Bold,11.0,229.9,587.7,255.8,598.8,green
+21,8,9,Calibri,11.0,255.8,587.7,281.4,598.8,", and "
+21,8,9,Calibri-Bold,11.0,282.5,587.7,346.5,598.8,digital sectors
+21,8,9,Calibri,11.0,346.6,587.7,523.6,598.8,", helping build an inclusive and future-"
+21,8,10,Calibri,11.0,72.0,602.3,147.2,613.3,ready workforce 
+21,8,10,Calibri,7.0,147.0,601.4,154.0,608.3,14
+21,8,10,Calibri,11.0,154.0,602.3,159.2,613.3,. 
+21,9,0,Calibri-Bold,11.0,77.7,625.3,186.0,636.3,2024 recommendation:
+21,9,0,Calibri,11.0,186.1,625.3,520.3,636.3, Continue the efforts on digital basic skills […] with a view to ensuring 
+21,9,1,Calibri,11.0,77.7,639.7,278.9,650.7,sufficient progress towards the 2030 targets. 
+21,10,0,Calibri-Bold,11.0,77.7,657.7,478.6,668.7,Croatia continued implementing existing measures but did not take any new measures.
+21,10,0,Calibri,11.0,478.7,657.7,520.2,668.7," In 2024, "
+21,10,1,Calibri,11.0,77.7,672.2,520.3,683.3,"the national voucher scheme for reskilling remained active and exceeded 19 000 beneficiaries, while "
+21,10,2,Calibri,11.0,77.7,686.7,520.2,697.8,curriculum reform and teacher training in digital competence continued to advance. Inclusion 
+21,10,3,Calibri,11.0,77.7,701.1,520.2,712.2,"remains a key focus, particularly for low-skilled adults and older citizens. Sustained investment will "
+21,10,4,Calibri,11.0,77.7,715.7,356.2,726.7,be needed to maintain momentum and close persistent gaps.  
+21,11,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+21,11,1,Calibri,6.0,72.0,761.1,78.1,767.1,14
+21,11,1,Calibri,9.0,78.0,761.4,165.9,770.4," European Commission, "
+21,11,1,Calibri,9.0,166.0,761.4,464.8,770.4,Recovery and Resilience Scoreboard: Thematic analysis Digital skills and education
+21,11,1,Calibri,9.0,465.0,761.4,491.9,770.4,", 2024. "
+21,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+22,2,0,Calibri-LightItalic,11.0,72.0,84.0,135.4,95.1,ICT specialists 
+22,4,0,Calibri,11.0,72.0,110.4,346.9,121.5,"In its roadmap, Croatia set an indicative 2030 target of around "
+22,4,0,Calibri-Bold,11.0,346.5,110.4,525.8,121.5,10% of ICT specialists as a share of total 
+22,4,1,Calibri-Bold,11.0,72.0,124.9,130.3,136.0,employment
+22,4,1,Calibri,11.0,130.3,124.9,259.7,136.0,", with the figure standing at "
+22,4,1,Calibri-Bold,11.0,260.7,124.9,320.2,136.0,5.0% in 2024
+22,4,1,Calibri,11.0,320.4,124.9,525.8,136.0,", on a par with the EU average. This marks a "
+22,4,2,Calibri,11.0,72.0,139.5,369.2,150.5,"significant increase from 4.3% in 2023, reflecting a growth rate of "
+22,4,2,Calibri-Bold,11.0,369.8,139.5,403.0,150.5,+16.3%
+22,4,2,Calibri,11.0,403.1,139.5,525.9,150.5,", far above the EU’s +4.2%, "
+22,4,3,Calibri,11.0,72.0,154.0,120.7,165.0,which puts
+22,4,3,Calibri-Bold,11.0,120.7,154.0,320.0,165.0, Croatia on track with its national trajectory
+22,4,3,Calibri,11.0,320.1,154.0,325.2,165.0,. 
+22,5,0,Calibri,11.0,72.0,176.4,482.6,187.5,"The demand for digital professionals is expanding across sectors. As in other EU countries, "
+22,5,0,Calibri-Bold,11.0,483.5,176.4,525.9,187.5,software 
+22,5,1,Calibri-Bold,11.0,72.0,190.9,195.4,202.0,and application developers
+22,5,1,Calibri,11.0,195.5,190.9,525.8,202.0," are the most sought-after ICT profile. However, Croatia diverges from the "
+22,5,2,Calibri,11.0,72.0,205.5,287.6,216.5,EU trend with exceptionally high demand for 
+22,5,2,Calibri-Bold,11.0,290.0,205.5,457.3,216.5,field-based and infrastructure roles
+22,5,2,Calibri,11.0,457.4,205.5,525.9,216.5,. According to 
+22,5,3,Calibri,11.0,72.0,219.9,196.2,230.9,"Eurostat web scraping data, "
+22,5,3,Calibri-Bold,11.0,195.8,219.9,223.5,230.9,27.1%
+22,5,3,Calibri,11.0,223.4,219.9,360.5,230.9, of ICT-related job ads targeted 
+22,5,3,Calibri-Bold,11.0,360.1,219.9,525.9,230.9,electronics and telecommunications 
+22,5,4,Calibri-Bold,11.0,72.0,234.4,179.7,245.4,installers and repairers
+22,5,4,Calibri,11.0,179.7,234.4,268.8,245.4," (vs 6.6% EU), and "
+22,5,4,Calibri-Bold,11.0,270.6,234.4,298.4,245.4,18.5%
+22,5,4,Calibri,11.0,298.3,234.4,344.4,245.4, were for 
+22,5,4,Calibri-Bold,11.0,346.3,234.4,525.8,245.4,telecommunications and broadcasting 
+22,5,5,Calibri-Bold,11.0,72.0,248.9,123.3,260.0,technicians
+22,5,5,Calibri,11.0,123.4,248.9,324.0,260.0, (vs 1.7% EU). These shares indicate a 
+22,5,5,Calibri-Bold,11.0,328.6,248.9,525.8,260.0,strong domestic emphasis on technical 
+22,5,6,Calibri-Bold,11.0,72.0,263.4,170.3,274.5,implementation roles
+22,5,6,Calibri,11.0,170.3,263.4,424.8,274.5,", in addition to standard software and support functions. "
+22,6,0,Calibri,11.0,72.0,285.9,317.9,296.9,"In parallel, Croatia has recorded significant progress in "
+22,6,0,Calibri-Bold,11.0,318.4,285.9,410.5,296.9,gender convergence
+22,6,0,Calibri,11.0,410.5,285.9,474.6,296.9,. The share of 
+22,6,0,Calibri-Bold,11.0,475.1,285.9,525.9,296.9,female ICT 
+22,6,1,Calibri-Bold,11.0,72.0,300.4,118.5,311.5,specialists
+22,6,1,Calibri,11.0,118.6,300.4,191.1,311.5, increased from 
+22,6,1,Calibri-Bold,11.0,191.3,300.4,334.6,311.5,17.5% in 2023 to 21.5% in 2024
+22,6,1,Calibri,11.0,334.9,300.4,525.8,311.5,", surpassing the EU average of 19.5%. This "
+22,6,2,Calibri,11.0,72.0,314.9,525.9,326.0,"represents a year-on-year growth of +22.9%, compared to just +0.5% at EU level. These gains reflect "
+22,6,3,Calibri,11.0,72.0,329.3,525.9,340.4,"the impact of targeted campaigns and scholarships, as well as national initiatives promoting women’s "
+22,6,4,Calibri,11.0,72.0,343.8,315.7,354.9,"participation in ICT. In 2025, Croatia presented the ‘"
+22,6,4,Calibri-Bold,11.0,315.7,343.8,464.1,354.9,Women in Digital – Girls in ICT
+22,6,4,Calibri,11.0,464.3,343.8,525.9,354.9,’ programme 
+22,6,5,Calibri,11.0,72.0,358.4,130.5,369.4,through the 
+22,6,5,Calibri-Bold,11.0,133.5,358.4,252.3,369.4,Best Practice Accelerator
+22,6,5,Calibri,11.0,252.4,358.4,254.6,369.4, 
+22,6,5,Calibri,7.0,254.4,357.5,261.5,364.4,15
+22,6,5,Calibri,11.0,261.4,358.4,525.7,369.4,", inspiring other Member States to adopt similar early "
+22,6,6,Calibri,11.0,72.0,372.9,167.4,383.9,engagement actions. 
+22,7,0,Calibri,11.0,72.0,395.3,405.9,406.4,"While employment in the ICT sector is growing, Croatia continues to face "
+22,7,0,Calibri-Bold,11.0,406.7,395.3,525.8,406.4,structural skills shortages 
+22,7,1,Calibri-Bold,11.0,72.0,409.9,186.8,420.9,and emigration pressures
+22,7,1,Calibri,11.0,186.9,409.9,318.1,420.9,. Employer surveys show that 
+22,7,1,Calibri-Bold,11.0,317.8,409.9,525.8,420.9,43% of Croatian firms report difficulties hiring 
+22,7,2,Calibri-Bold,11.0,72.0,424.4,216.6,435.4,candidates with the right skills
+22,7,2,Calibri,11.0,216.8,424.4,525.7,435.4,", above the EU average of 38%. In the ICT field, this is linked to a "
+22,7,3,Calibri,11.0,72.0,438.8,422.3,449.8,"mismatch between education output and labour market needs, and to the "
+22,7,3,Calibri-Bold,11.0,424.3,438.8,525.9,449.8,continued outflow of 
+22,7,4,Calibri-Bold,11.0,72.0,453.3,148.9,464.4,skilled graduates
+22,7,4,Calibri,11.0,148.8,453.3,229.4,464.4, from the country 
+22,7,4,Calibri,7.0,229.4,452.4,236.4,459.4,16
+22,7,4,Calibri,11.0,236.3,453.3,241.6,464.4,. 
+22,8,0,Calibri,11.0,72.0,475.7,474.0,486.8,"Croatia’s training and upskilling infrastructure remains underdeveloped. In 2024, only "
+22,8,0,Calibri-Bold,11.0,476.1,475.7,525.9,486.8,20.44% of 
+22,8,1,Calibri-Bold,11.0,72.0,490.3,123.3,501.3,enterprises
+22,8,1,Calibri,11.0,123.4,490.3,525.7,501.3," provided ICT training to their employees, slightly below the EU average (22.29%) and "
+22,8,2,Calibri,11.0,72.0,504.8,525.6,515.8,declining from 2022. This downward trend could further exacerbate the mismatch between supply 
+22,8,3,Calibri,11.0,72.0,519.3,239.7,530.3,and demand for digital professionals. 
+22,9,0,Calibri,11.0,72.0,541.7,525.9,552.8,"To address these challenges, Croatia continues to implement several supporting measures such as "
+22,9,1,Calibri-Bold,11.0,72.0,556.3,432.8,567.3,"science, technology, engineering and mathematics (STEM) scholarship schemes"
+22,9,1,Calibri,11.0,432.9,556.3,525.9,567.3, to support students 
+22,9,2,Calibri,11.0,72.0,570.8,525.9,581.9,"enrolling in priority areas such as ICT and engineering, while public universities are encouraged to "
+22,9,3,Calibri,11.0,72.0,585.2,100.3,596.3,adapt 
+22,9,3,Calibri-Bold,11.0,100.3,585.2,181.9,596.3,enrolment quotas
+22,9,3,Calibri,11.0,182.0,585.2,307.5,596.3, based on sectoral demand. 
+22,10,0,Calibri-Bold,11.0,72.0,607.8,502.0,618.8,"Despite these efforts, challenges remain in stabilising the domestic digital talent pipeline."
+22,10,0,Calibri,11.0,502.3,607.8,525.9,618.8, The 
+22,10,1,Calibri,11.0,72.0,622.3,525.8,633.3,country still lacks a dedicated strategy to attract and retain international digital talent. A reform is 
+22,10,2,Calibri,11.0,72.0,636.7,178.1,647.7,under way through the 
+22,10,2,Calibri-Bold,11.0,178.5,636.7,412.9,647.7,new Act on Scientific Activity and Higher Education
+22,10,2,Calibri,11.0,413.0,636.7,525.9,647.7,", which will allow quality "
+22,10,3,Calibri,11.0,72.0,651.2,525.7,662.3,"scientists to be attracted from the EU and globally (including the diaspora), but this focuses on "
+22,10,4,Calibri,11.0,72.0,665.7,313.3,676.8,researchers rather than the broader digital workforce
+22,10,4,Calibri-Bold,11.0,313.3,665.7,318.8,676.8,. 
+22,10,4,Calibri,11.0,319.4,665.7,525.8,676.8,The country still lacks a dedicated strategy to 
+22,10,5,Calibri,11.0,72.0,680.3,298.8,691.3,"attract and retain international digital talent, and "
+22,10,5,Calibri-Bold,11.0,300.1,680.3,445.3,691.3,brain drain of ICT professionals
+22,10,5,Calibri,11.0,445.4,680.3,525.9,691.3, remains a major 
+22,11,0,Calibri,11.0,216.1,705.9,218.5,717.0, 
+22,11,1,Calibri,6.0,72.0,717.0,78.1,723.0,15
+22,11,1,Calibri,9.0,78.0,717.3,525.3,726.3, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+22,11,2,Calibri,9.0,72.0,726.2,525.0,735.2,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are available to all Member 
+22,11,3,Calibri,9.0,72.0,735.0,525.2,744.0,"States via the BPA Repository and are showcased in regular workshops, currently focused on three thematic clusters: Digital "
+22,11,4,Calibri,9.0,72.0,743.7,272.9,752.7,"Skills, Green IT, and the Uptake of Digital Technologies. "
+22,11,5,Calibri,6.0,72.0,752.2,78.1,758.2,16
+22,11,5,Calibri,9.0,78.0,752.5,399.3,761.5, European Commission. (2025). European Semester Annex Education and Skills: Croatia. 
+22,11,6,Calibri,9.0,72.0,761.4,74.1,770.4, 
+22,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+23,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,obstacle. While Croatia has succeeded in growing its base of ICT specialists and improving gender 
+23,2,1,Calibri,11.0,72.0,98.4,150.1,109.5,"diversity, a more "
+23,2,1,Calibri-Bold,11.0,151.0,98.4,339.2,109.5,systematic and demand-driven approach
+23,2,1,Calibri,11.0,339.2,98.4,525.8,109.5, will be needed to consolidate gains and 
+23,2,2,Calibri,11.0,72.0,112.9,187.0,124.0,achieve the 2030 targets. 
+23,4,0,Calibri-Bold,11.0,77.7,136.0,183.9,147.0,2024 recommendation:
+23,4,0,Calibri,11.0,183.9,136.0,520.3,147.0, Continue the efforts on […] ICT specialists with a view to ensuring sufficient 
+23,4,1,Calibri,11.0,77.7,150.5,235.3,161.5,progress towards the 2030 targets. 
+23,5,0,Calibri-Bold,11.0,77.7,168.4,517.9,179.4,"In 2024, Croatia continued implementing existing measures but did not take any new measures."
+23,5,0,Calibri,11.0,517.8,168.4,520.3,179.4, 
+23,5,1,Calibri,11.0,77.7,182.9,520.0,193.9,"The country recorded strong growth in the share of ICT specialists and in female participation, and "
+23,5,2,Calibri,11.0,77.7,197.4,520.1,208.5,"reinforced incentives for ICT studies. However, challenges persist regarding the provision of ICT "
+23,5,3,Calibri,11.0,77.7,211.9,520.1,223.0,"training, brain drain, and labour market mismatches, requiring sustained attention to fully meet the "
+23,5,4,Calibri,11.0,77.7,226.3,138.7,237.4,2030 targets. 
+23,6,0,Calibri-Light,12.0,72.0,252.6,476.9,264.6,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+23,7,0,Calibri-Bold,11.0,72.0,276.2,525.4,287.2,"Regarding digital public services for citizens, in 2024 Croatia scored 75.16 (2030 national target of "
+23,7,1,Calibri-Bold,11.0,72.0,290.7,525.8,301.7,100) after significant progress of +11.9%. The country is on track according to its national trajectory. 
+23,7,2,Calibri,11.0,72.0,305.2,525.9,316.2,"In the cross-border category for digital public services for citizens, Croatia improved from 47.02 in 2023 "
+23,7,3,Calibri,11.0,72.0,319.7,525.6,330.8,"to 53.81 in 2024, recording a growth rate of 14.4%, substantially higher than the EU’s 4.3%. "
+23,7,4,Calibri,11.0,72.0,334.1,324.2,345.2,"Nevertheless, it remains below the EU average of 71.28. "
+23,8,0,Calibri-Bold,11.0,72.0,356.7,525.6,367.7,"Regarding digital public services for businesses, Croatia scored 65.31 in 2024 (2030 national target "
+23,8,1,Calibri-Bold,11.0,72.0,371.2,525.9,382.2,"of 100), showing negative growth of -1.3% and remaining well below the EU average of 86.23. The "
+23,8,2,Calibri-Bold,11.0,72.0,385.6,353.2,396.6,country is lagging behind compared to its national trajectory.
+23,8,2,Calibri,11.0,353.5,385.6,525.9,396.6, In cross-border digital public services 
+23,8,3,Calibri,11.0,72.0,400.1,525.5,411.2,"for businesses, the score declined from 36.11 in 2023 to 32.5 in 2024, contrasting with the EU’s slight "
+23,8,4,Calibri,11.0,72.0,414.7,146.6,425.7,positive growth. 
+23,9,0,Calibri,11.0,72.0,437.1,525.9,448.1,"In terms of access to e-Health records, Croatia scored 86.55 in 2024 (2030 national target of 100), after "
+23,9,1,Calibri,11.0,72.0,451.6,525.8,462.7,"modest growth of +1.2%, standing above the EU average of 82.7. This result confirms the good "
+23,9,2,Calibri,11.0,72.0,466.1,525.7,477.2,performance already observed in 2023 (85.57 compared to the EU’s 79.12). Croatia is broadly on track 
+23,9,3,Calibri,11.0,72.0,480.7,194.4,491.7,with its national trajectory. 
+23,10,0,Calibri-Bold,11.0,77.7,503.6,184.1,514.6,2024 recommendation:
+23,10,0,Calibri,11.0,184.1,503.6,520.2,514.6, Take measures to increase the digitalisation of public services and improve 
+23,10,1,Calibri,11.0,77.7,518.1,431.5,529.2,the accessibility and user-friendliness of its services to citizens and enterprises. 
+23,11,0,Calibri-Bold,11.0,77.7,536.1,515.1,547.2,"In 2024, Croatia continued implementing existing measures but did not take any new measures"
+23,11,0,Calibri,11.0,515.2,536.1,520.3,547.2,. 
+23,11,1,Calibri,11.0,77.7,550.6,520.3,561.7,"Progress was recorded in the digitalisation of citizens' services, improvements in access to e-Health "
+23,11,2,Calibri,11.0,77.7,565.1,520.0,576.1,"records, and the advancement of interoperability initiatives supported by RRP funding. No new "
+23,11,3,Calibri,11.0,77.7,579.6,520.2,590.6,"dedicated measures were introduced in the 2024 roadmap adjustment, and further efforts are "
+23,11,4,Calibri,11.0,77.7,594.1,520.1,605.1,needed to ensure comprehensive user-centric service delivery and to close remaining gaps with EU 
+23,11,5,Calibri,11.0,77.7,608.6,122.2,619.7,averages. 
+23,12,0,Calibri-LightItalic,11.0,72.0,628.7,89.0,639.7,eID 
+23,13,0,Calibri,11.0,72.0,655.1,525.6,666.1,"Croatia has a nationally certified eID scheme, the eOI (electronic identity card), widely adopted for "
+23,13,1,Calibri,11.0,72.0,669.6,525.6,680.6,"accessing public services. According to Eurostat, 36.7% of Croatian citizens used their eID to access "
+23,13,2,Calibri,11.0,72.0,684.1,525.6,695.1,"online public services in 2023, close to the EU average of 36.14%. Usage is mainly focused on national "
+23,13,3,Calibri,11.0,72.0,698.5,307.2,709.5,"services, with cross-border functionality still limited. "
+23,14,0,Calibri,11.0,72.0,721.1,525.9,732.1,"In the 2024 roadmap adjustment, Croatia reinforced its preparatory work to develop a national Digital "
+23,14,1,Calibri,11.0,72.0,735.5,525.8,746.5,"Identity Wallet aligned with EU standards. A dedicated working group has been operational since 2021, "
+23,14,2,Calibri,11.0,72.0,750.0,525.9,761.0,"coordinating legal, technical, and organisational aspects. Preparations include enhancing the eOI "
+23,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+24,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"system, expanding mobile-based access via the Certilia app, and promoting qualified electronic "
+24,2,1,Calibri,11.0,72.0,98.4,123.2,109.5,signatures. 
+24,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,"As of early 2025, Croatia is not participating in the EU large-scale pilots for the European Digital Identity "
+24,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"Wallet but continues to align its infrastructure with EU standards, planning future cross-border "
+24,4,2,Calibri,11.0,72.0,149.9,112.3,160.9,support. 
+24,5,0,Calibri-Italic,11.0,72.0,172.5,330.9,183.5,Digitalisation of public services for citizens and businesses 
+24,6,0,Calibri-Bold,11.0,72.0,194.9,525.9,205.9,Croatia is making steady progress towards the EU 2030 target of 100% availability of key digital 
+24,6,1,Calibri-Bold,11.0,72.0,209.4,138.7,220.5,public services
+24,6,1,Calibri,11.0,138.7,209.4,144.0,220.5,. 
+24,6,1,Calibri-Bold,11.0,144.0,209.4,525.7,220.5,Although the share of e-Government users declined slightly from 88.46% in 2023 to 
+24,6,2,Calibri-Bold,11.0,72.0,223.9,412.6,235.0,"82.86% in 2024, it remains significantly above the EU average of 74.71%. "
+24,6,2,Calibri,11.0,413.7,223.9,525.9,235.0,While no new measures 
+24,6,3,Calibri,11.0,72.0,238.4,525.9,249.4,"were introduced in the 2024 roadmap adjustment, Croatia confirmed that major initiatives supported "
+24,6,4,Calibri,11.0,72.0,252.9,525.7,263.9,"under the RRP would continue, including the expansion of the State Cloud, the creation of a national "
+24,6,5,Calibri,11.0,72.0,267.4,424.6,278.5,"digital mobile platform, and the enhancement of public sector interoperability. "
+24,7,0,Calibri,11.0,72.0,289.9,525.9,300.9,Simplification and interoperability remain central pillars. The development of a central register for 
+24,7,1,Calibri,11.0,72.0,304.4,525.7,315.4,"public authorities is under way to improve data quality, promote the Once Only principle, and enable "
+24,7,2,Calibri,11.0,72.0,318.9,432.1,329.9,"efficient information exchange, also supporting Common European Data Spaces. "
+24,8,0,Calibri,11.0,72.0,341.3,525.9,352.4,"Additionally, a one-stop-shop platform has been established through the Croatian RRF to harmonise "
+24,8,1,Calibri,11.0,72.0,355.8,525.7,366.9,"helpdesk services for citizens and businesses, promoting the use of electronic signatures and national "
+24,8,2,Calibri,11.0,72.0,370.4,148.7,381.4,digital identities. 
+24,9,0,Calibri,11.0,72.0,392.8,525.9,403.9,"In terms of digital sovereignty, Croatia is strengthening its public sector cloud infrastructure under the "
+24,9,1,Calibri,11.0,72.0,407.3,525.7,418.4,RRP (EUR 1.3 billion investment) to ensure secure data management and trusted connections with 
+24,9,2,Calibri,11.0,72.0,421.9,165.4,432.9,European platforms. 
+24,10,0,Calibri,11.0,72.0,444.3,525.9,455.4,"Despite this progress, challenges persist regarding full system integration and user-centric service "
+24,10,1,Calibri,11.0,72.0,458.8,348.2,469.9,"design, which will be critical to achieving the 2030 objectives. "
+24,11,0,Calibri-LightItalic,11.0,72.0,481.3,112.2,492.3,e-Health 
+24,12,0,Calibri-Bold,11.0,72.0,507.8,525.8,518.8,"Croatia maintained strong performance in 2024 in access to e-Health records, scoring 86.55, above "
+24,12,1,Calibri-Bold,11.0,72.0,522.3,380.5,533.3,"the EU average of 82.7. However, with modest growth of +1.2%,"
+24,12,1,Calibri-Bold,11.0,380.6,522.3,383.1,533.3, 
+24,12,1,Calibri-Bold,11.0,384.8,522.3,525.7,533.3,the country is lagging behind 
+24,12,2,Calibri-Bold,11.0,72.0,536.8,235.6,547.9,compared to its national trajectory. 
+24,13,0,Calibri-Bold,11.0,72.0,559.3,420.1,570.3,No new e-Health measures were introduced in the 2024 roadmap adjustment
+24,13,0,Calibri,11.0,420.2,559.3,525.9,570.3,. Efforts continue under 
+24,13,1,Calibri,11.0,72.0,573.8,323.9,584.9,"major RRP-funded projects, notably the upgrade of the "
+24,13,1,Calibri-Bold,11.0,324.8,573.8,520.6,584.9,Central Health Information System (CEZIH)
+24,13,1,Calibri,11.0,520.8,573.8,525.9,584.9,", "
+24,13,2,Calibri,11.0,72.0,588.3,175.3,599.4,the expansion of the 
+24,13,2,Calibri-Bold,11.0,178.4,588.3,242.1,599.4,e-Prescription
+24,13,2,Calibri,11.0,242.1,588.3,266.9,599.4, and 
+24,13,2,Calibri-Bold,11.0,269.9,588.3,317.3,599.4,e-Referral 
+24,13,2,Calibri,11.0,320.4,588.3,525.9,599.4,"platforms, and the deployment of hospital "
+24,13,3,Calibri,11.0,72.0,602.7,525.9,613.8,information systems. Croatia is also aligning its e-Health infrastructure with the European Health Data 
+24,13,4,Calibri,11.0,72.0,617.3,344.7,628.3,"Space, preparing for future cross-border healthcare services. "
+24,14,0,Calibri,11.0,72.0,639.8,257.7,650.9,Croatia’s score increased slightly in 2024. 
+24,14,0,Calibri-Bold,11.0,257.9,639.8,385.4,650.9,12 of the 13 data categories
+24,14,0,Calibri,11.0,385.4,639.8,525.8,650.9, investigated in the benchmark 
+24,14,1,Calibri,11.0,72.0,654.2,299.1,665.3,study are now made available in a timely manner – 
+24,14,1,Calibri-Bold,11.0,298.9,654.2,414.1,665.3,all except medical images
+24,14,1,Calibri,11.0,414.2,654.2,525.9,665.3,. Citizens can now access 
+24,14,2,Calibri,11.0,72.0,668.7,184.9,679.8,their health data via a 
+24,14,2,Calibri-Bold,11.0,188.0,668.7,276.2,679.8,mobile application
+24,14,2,Calibri,11.0,276.2,668.7,525.8,679.8,", improving user accessibility. While previously only "
+24,14,3,Calibri-Bold,11.0,72.0,683.3,193.6,694.3,outpatient psychiatric care
+24,14,3,Calibri,11.0,193.5,683.3,525.9,694.3," was included under mental health services, a new project is under way to "
+24,14,4,Calibri-Bold,11.0,72.0,697.8,364.3,708.8,expand the scope to additional mental health service providers
+24,14,4,Calibri,11.0,364.5,697.8,507.6,708.8," Due to this broader definition, "
+24,14,4,Calibri-Bold,11.0,508.3,697.8,525.9,708.8,the 
+24,14,5,Calibri-Bold,11.0,72.0,712.2,366.5,723.2,overall connectivity rate of the category has dropped below 60%
+24,14,5,Calibri,11.0,366.7,712.2,525.8,723.2,", as many newly included providers "
+24,14,6,Calibri,11.0,72.0,726.7,389.9,737.8,are not yet connected or supplying data to the national access service. 
+24,14,6,Calibri-Bold,11.0,390.1,726.7,520.5,737.8,All other provider categories
+24,14,6,Calibri,11.0,520.7,726.7,525.9,737.8,", "
+24,14,7,Calibri,11.0,72.0,741.2,103.9,752.3,except 
+24,14,7,Calibri-Bold,11.0,106.5,741.2,218.5,752.3,geriatric nursing homes
+24,14,7,Calibri,11.0,218.6,741.2,525.9,752.3,", are connected and supplying relevant health data. In terms of "
+24,14,8,Calibri,11.0,72.0,755.8,156.1,766.8,"authorised access, "
+24,14,8,Calibri-Bold,11.0,155.7,755.8,223.6,766.8,legal guardians
+24,14,8,Calibri,11.0,223.7,755.8,399.3,766.8," may access the data of their wards, but "
+24,14,8,Calibri-Bold,11.0,398.9,755.8,525.9,766.8,citizens cannot yet delegate 
+24,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+25,2,0,Calibri-Bold,11.0,72.0,84.0,253.4,95.1,access to another person of their choice
+25,2,0,Calibri,11.0,253.5,84.0,525.9,95.1,", as there is no general legal or technical framework enabling "
+25,2,1,Calibri,11.0,72.0,98.4,151.6,109.5,this functionality. 
+25,4,0,Calibri-Bold,11.0,77.7,121.5,186.8,132.5,2024 recommendation:
+25,4,0,Calibri,11.0,186.8,121.5,520.1,132.5, (i) Introduce a legal basis and provide the technical functionality for 
+25,4,1,Calibri,11.0,77.7,136.0,519.9,147.0,authorised persons to access electronic health data on behalf of others; (ii) Make the medical 
+25,4,2,Calibri,11.0,77.7,150.5,520.2,161.5,images data type available to citizens through the online access service; (iii) Offer a mobile 
+25,4,3,Calibri,11.0,77.7,164.9,363.2,175.9,application for citizens to access their electronic health records. 
+25,5,0,Calibri-Bold,11.0,77.7,182.9,516.1,193.9,"In 2024, Croatia continued implementing existing measures but did not take any new measures. "
+25,6,0,Calibri,11.0,77.7,200.4,89.4,211.5,(i) 
+25,6,0,Calibri-Bold,11.0,89.5,200.4,176.3,211.5,Partially addressed
+25,6,0,Calibri,11.0,176.3,200.4,520.2,211.5,". Legal guardians can access the data of their wards, but no legal or technical "
+25,6,1,Calibri,11.0,77.7,214.9,344.0,226.0,functionality exists for broader delegation by data subjects. 
+25,7,0,Calibri,11.0,77.7,232.4,91.9,243.4,(ii) 
+25,7,0,Calibri-Bold,11.0,91.9,232.4,158.2,243.4,Not addressed
+25,7,0,Calibri,11.0,158.2,232.4,431.8,243.4,. Medical images are still not accessible via the Health Portal. 
+25,8,0,Calibri,11.0,77.7,249.9,94.4,260.9,(iii) 
+25,8,0,Calibri-Bold,11.0,95.1,249.9,182.3,260.9,Partially addressed
+25,8,0,Calibri,11.0,182.3,249.9,520.2,260.9,. A mobile-friendly solution exists and citizens can access their health data 
+25,8,1,Calibri,11.0,77.7,264.4,409.8,275.5,"via an app, but no unified national mobile application has been rolled out. "
+25,9,0,Calibri-Light,15.0,72.0,291.3,526.4,306.3,Building a safe and human centric digital environment and preserving our 
+25,9,1,Calibri-Light,15.0,72.0,311.0,142.0,326.0,democracy 
+25,10,0,Calibri-Bold,11.0,72.0,338.0,520.7,349.0,"In Croatia, online participation in political and civic life is relatively high and shows an upward trend"
+25,10,0,Calibri,11.0,520.8,338.0,525.9,349.0,. 
+25,10,1,Calibri,11.0,72.0,352.4,525.9,363.4,"In 2024, 27.86% of people used the internet to participate in consultations, vote, or share opinions on "
+25,10,2,Calibri,11.0,72.0,366.9,525.8,377.9,"civic or political issues. This share is above the EU average (20.45%), and marks a steady improvement "
+25,10,3,Calibri,11.0,72.0,381.4,295.6,392.4,compared to 23.38% in 2022 and 20.08% in 2023. 
+25,11,0,Calibri-Bold,11.0,72.0,403.9,525.9,414.9,"In 2023, more than half of Croatian internet users declared that they had encountered untrue or "
+25,11,1,Calibri-Bold,11.0,72.0,418.4,209.0,429.4,doubtful information online
+25,11,1,Calibri,11.0,209.0,418.4,525.8,429.4,". According to the latest data, 57.77% of individuals reported "
+25,11,2,Calibri,11.0,72.0,432.9,525.6,443.9,"encountering such content on internet news sites or social media, a figure significantly above the EU "
+25,11,3,Calibri,11.0,72.0,447.4,525.6,458.5,"average of 49.25%. Among these individuals, 27.27% checked the truthfulness of the information, "
+25,11,4,Calibri,11.0,72.0,461.8,525.7,472.9,suggesting a moderate level of critical evaluation. Young people between 16 and 24 years of age 
+25,11,5,Calibri,11.0,72.0,476.3,525.9,487.4,emerged as those more likely to report exposure (80.52% vs 60.92% of adults between 25 and 64 years 
+25,11,6,Calibri,11.0,72.0,490.9,525.9,501.9,"of age) and to verify information (57.13% vs 25.55% of adults). In terms of gender, males (65.28%) "
+25,11,7,Calibri,11.0,72.0,505.4,525.6,516.4,"reported a higher exposure to doubtful content than females (50.46%), but verification rates were "
+25,11,8,Calibri,11.0,72.0,519.8,300.6,530.8,similar (28.45% for males and 26.12% for females). 
+25,12,0,Calibri-Bold,11.0,72.0,542.3,525.9,553.4,"Available data also show that in Croatia, the proportion of individuals encountering hostile or "
+25,12,1,Calibri-Bold,11.0,72.0,556.8,364.2,567.8,degrading messages online remains below the EU average
+25,12,1,Calibri,11.0,364.4,556.8,525.8,567.8,". In 2023, 24.13% of individuals "
+25,12,2,Calibri,11.0,72.0,571.3,525.7,582.3,"encountered such content, compared to an EU average of 33.5%. An interesting pattern is observed in "
+25,12,3,Calibri,11.0,72.0,585.8,525.9,596.9,the age breakdown: exposure among youth (16-24) was lower (21.47%) than among adults (25-64) 
+25,12,4,Calibri,11.0,72.0,600.3,525.8,611.4,"(27.72%), contrary to trends observed in most other Member States. A modest gender gap was noted, "
+25,12,5,Calibri,11.0,72.0,614.9,436.3,625.9,with 26.13% of males and 22.18% of females reporting exposure to such content. 
+25,13,0,Calibri,11.0,72.0,637.3,525.6,648.3,2024 reports of the Adria Digital Media Observatory (ADMO) provide detailed insights into the most 
+25,13,1,Calibri,11.0,72.0,651.8,415.1,662.9,frequent topics subject to disinformation in Croatia. Research shows that 
+25,13,1,Calibri-Bold,11.0,417.1,651.8,525.9,662.9,Russian disinformation 
+25,13,2,Calibri,11.0,72.0,666.2,525.9,677.3,"efforts have been particularly prominent in narratives about Russia’s war of aggression against Ukraine, "
+25,13,3,Calibri,11.0,72.0,680.7,525.7,691.8,with disinformation ecosystems involving 21 supranational clusters across Croatia and neighbouring 
+25,13,4,Calibri,11.0,72.0,695.3,359.6,706.3,"countries, significantly influenced by Serbian pro-Russian media "
+25,13,4,Calibri,7.0,359.6,694.4,366.6,701.3,17
+25,13,4,Calibri,11.0,366.5,695.3,525.8,706.3,". Moreover, systematic information "
+25,13,5,Calibri,11.0,72.0,709.8,525.8,720.8,"manipulation was observed through the Facebook profiles of Russian embassies, including the Russian "
+25,13,6,Calibri,11.0,72.0,724.2,525.9,735.2,"Embassy in Croatia, which particularly intensified following the start of the full-scale invasion of "
+25,14,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+25,14,1,Calibri,6.0,72.0,761.1,78.1,767.1,17
+25,14,1,Calibri,9.0,78.0,761.4,135.6,770.4, ADMO Report: 
+25,14,1,Calibri,9.0,135.6,761.4,397.3,770.4,Mapping Ukraine War Disinformation Ecosystem in Croatia and Slovenia
+25,14,1,Calibri,9.0,397.5,761.4,440.1,770.4,", 2024. p. 3 "
+25,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+26,2,0,Calibri,11.0,72.0,84.0,109.0,95.1,Ukraine 
+26,2,0,Calibri,7.0,109.0,83.1,116.0,90.1,18
+26,2,0,Calibri,11.0,115.9,84.0,525.8,95.1,". In addition, a considerable share of anti-Ukraine disinformation disseminated in Croatia "
+26,2,1,Calibri,11.0,72.0,98.4,360.8,109.5,"originates from fringe news sites, predominantly based in Serbia "
+26,2,1,Calibri,7.0,360.8,97.5,367.8,104.5,19
+26,2,1,Calibri,11.0,367.8,98.4,373.0,109.5,. 
+26,4,0,Calibri-Bold,11.0,72.0,121.0,525.6,132.0,"In the climate domain, a separate mapping exercise revealed the existence of 10 supranational "
+26,4,1,Calibri-Bold,11.0,72.0,135.5,453.0,146.5,"clusters disseminating climate-related disinformation, including Croatian actors"
+26,4,1,Calibri,11.0,453.1,135.5,525.9,146.5,. Although the 
+26,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,number of actors involved in climate disinformation was lower compared to COVID-19 and the military 
+26,4,3,Calibri,11.0,72.0,164.4,513.6,175.5,"aggression in Ukraine, the presence of pseudo-media at the centre of the ecosystem was confirmed "
+26,4,3,Calibri,7.0,513.5,163.5,520.5,170.5,20
+26,4,3,Calibri,11.0,520.4,164.4,525.9,175.5,. 
+26,5,0,Calibri,11.0,72.0,187.0,225.1,198.0,Research into the reporting on the 
+26,5,0,Calibri-Bold,11.0,224.6,187.0,319.1,198.0,Israel-Hamas conflict
+26,5,0,Calibri,11.0,319.1,187.0,525.9,198.0, found that Croatian mainstream media largely 
+26,5,1,Calibri,11.0,72.0,201.4,525.8,212.4,"relied on reputable international and national sources such as AFP, Reuters, BBC, and HINA during the "
+26,5,2,Calibri,11.0,72.0,215.9,525.9,226.9,"first three days of the conflict. However, a small number of cases were found where sources previously "
+26,5,3,Calibri,11.0,72.0,230.4,296.8,241.5,labelled as purveyors of disinformation were used 
+26,5,3,Calibri,7.0,296.6,229.5,303.6,236.5,21
+26,5,3,Calibri,11.0,303.5,230.4,308.8,241.5,. 
+26,6,0,Calibri,11.0,72.0,252.9,525.6,263.9,"Looking at policy responses, Croatia’s initiatives mainly focus on promoting media literacy and "
+26,6,1,Calibri,11.0,72.0,267.4,262.1,278.5,strengthening fact-checking ecosystems. 
+26,6,1,Calibri-Bold,11.0,266.1,267.4,525.8,278.5,"In 2024, several digital platforms (Google, YouTube, "
+26,6,2,Calibri-Bold,11.0,72.0,281.9,520.5,293.0,"Facebook, TikTok) maintained or introduced fact-checking and media literacy campaigns in Croatia"
+26,6,2,Calibri,11.0,520.7,281.9,525.9,293.0,", "
+26,6,3,Calibri,11.0,72.0,296.3,525.8,307.4,"including Google’s Fact Check Explorer and YouTube’s Hit Pause campaign. However, ADMO highlighted "
+26,6,4,Calibri,11.0,72.0,310.9,525.9,321.9,that these global initiatives had limited local adaptation and that user engagement with fact-checking 
+26,6,5,Calibri,11.0,72.0,325.4,384.0,336.4,tools remained low. Croatia’s primary fact-checking partner remains 
+26,6,5,Calibri-Bold,11.0,385.0,325.4,439.9,336.4,Faktograf.hr
+26,6,5,Calibri,11.0,440.0,325.4,525.9,336.4,", with cooperation "
+26,6,6,Calibri,11.0,72.0,339.9,290.3,350.9,expanding only moderately to other institutions. 
+26,7,0,Calibri,11.0,72.0,362.3,205.0,373.4,"At the institutional level, the "
+26,7,0,Calibri-Bold,11.0,206.1,362.3,236.8,373.4,ADMO
+26,7,0,Calibri,11.0,236.8,362.3,525.7,373.4,", coordinated by the University of Dubrovnik and supported by "
+26,7,1,Calibri,11.0,72.0,376.8,525.8,387.9,"partners including GONG, AFP, and several faculties of the University of Zagreb, plays a significant role "
+26,7,2,Calibri,11.0,72.0,391.4,525.9,402.4,in fostering media literacy and research activities against disinformation. These efforts contribute to 
+26,7,3,Calibri,11.0,72.0,405.8,364.4,416.8,Croatia’s implementation of the Digital Services Act (DSA). The 
+26,7,3,Calibri-Bold,11.0,366.1,405.8,525.8,416.8,Croatian Regulatory Authority for 
+26,7,4,Calibri-Bold,11.0,72.0,420.3,207.4,431.4,Network Industries (HAKOM) 
+26,7,4,Calibri,11.0,207.5,420.3,525.8,431.4,"has been officially designated as the Digital Services Coordinator (DSC), "
+26,7,5,Calibri,11.0,72.0,434.8,308.7,445.9,responsible for overseeing the application of the DSA
+26,7,5,Calibri-Bold,11.0,308.6,434.8,525.8,445.9,". Nonetheless, ADMO monitoring revealed that "
+26,7,6,Calibri-Bold,11.0,72.0,449.3,525.7,460.4,public awareness of DSA-related user rights remains low and that further outreach efforts are 
+26,7,7,Calibri-Bold,11.0,72.0,463.7,119.2,474.8,necessary.
+26,7,7,Calibri,11.0,119.3,463.7,121.8,474.8, 
+26,8,0,Calibri-Bold,11.0,72.0,486.3,525.9,497.4,"Finally, regarding the protection of minors, Croatia has not yet introduced specific legislation on "
+26,8,1,Calibri-Bold,11.0,72.0,500.8,326.0,511.9,mandatory online age verification or parental controls.
+26,8,1,Calibri,11.0,326.2,500.8,525.8,511.9," However, ongoing media literacy initiatives "
+26,8,2,Calibri,11.0,72.0,515.2,525.8,526.3,supported by ADMO and its partners target younger audiences and aim to strengthen critical thinking 
+26,8,3,Calibri,11.0,72.0,529.7,231.2,540.8,skills to better resist disinformation 
+26,8,3,Calibri,7.0,231.2,528.8,238.2,535.8,22
+26,8,3,Calibri,11.0,238.1,529.7,245.9,540.8,.  
+26,9,0,Calibri,11.0,72.0,552.3,313.1,563.3,Croatia has transposed the relevant obligations of the 
+26,9,0,Calibri-Bold,11.0,313.1,552.3,481.0,563.3,Audiovisual Media Services Directive
+26,9,0,Calibri,11.0,480.9,552.3,525.9,563.3, (AVMSD) 
+26,9,1,Calibri,11.0,72.0,566.7,379.3,577.8,into its national legislation. Under the Electronic Media Act and the 
+26,9,1,Calibri-Bold,11.0,380.1,566.7,525.9,577.8,Ordinance on the Protection of 
+26,9,2,Calibri-Bold,11.0,72.0,581.3,217.2,592.3,Minors in the Electronic Media
+26,9,2,Calibri,11.0,217.2,581.3,224.3,592.3, (
+26,9,2,Calibri-Italic,11.0,224.3,581.3,297.9,592.3,Narodne Novine
+26,9,2,Calibri,11.0,297.9,581.3,525.8,592.3, (NN); Official Gazette of the Republic of Croatia) 
+26,9,3,Calibri,11.0,72.0,595.8,525.8,606.8,"No 106/2022), video-sharing platforms under Croatian jurisdiction are required to implement user age "
+26,9,4,Calibri,11.0,72.0,610.3,525.8,621.3,verification systems or other technical measures to restrict access to content that could seriously harm 
+26,9,5,Calibri,11.0,72.0,624.7,525.8,635.7,"minors’ physical, mental, or moral development, such as gratuitous violence or pornography. However, "
+26,9,6,Calibri,11.0,72.0,639.2,525.9,650.3,"in practice, most age verification systems rely primarily on basic methods, such as self-declared date "
+26,9,7,Calibri,11.0,72.0,653.7,525.9,664.8,"of birth, with limited use of more secure technologies like ID verification or AI-based age estimation. "
+26,9,8,Calibri,11.0,72.0,668.3,525.7,679.3,"Moreover, while parental control tools exist on some platforms, their availability and quality vary "
+26,9,9,Calibri,11.0,72.0,682.7,525.7,693.7,"considerably, and no harmonised national requirements have been introduced so far. Unlike other "
+26,10,0,Calibri,11.0,216.1,697.2,218.5,708.2, 
+26,10,1,Calibri,6.0,72.0,708.3,78.1,714.3,18
+26,10,1,Calibri,9.0,78.0,708.5,136.7,717.5, ADMO Report: 
+26,10,1,Calibri,9.0,137.2,708.5,525.0,717.5,Russian State Actors on Facebook and Foreign Information Manipulation and Interference in the Adriatic 
+26,10,2,Calibri,9.0,72.0,717.3,142.5,726.3,and Balkan Regions
+26,10,2,Calibri,9.0,142.5,717.3,194.2,726.3,", 2024. p. 3–5 "
+26,10,3,Calibri,6.0,72.0,725.9,78.1,731.9,19
+26,10,3,Calibri,9.0,78.0,726.2,135.6,735.2, ADMO Report: 
+26,10,3,Calibri,9.0,135.6,726.2,427.4,735.2,Content Analysis of Disinformation and Narratives Related to the War in Ukraine
+26,10,3,Calibri,9.0,427.5,726.2,470.1,735.2,", 2024. p. 3 "
+26,10,4,Calibri,6.0,72.0,734.7,78.1,740.7,20
+26,10,4,Calibri,9.0,78.0,735.0,135.6,744.0, ADMO Report: 
+26,10,4,Calibri,9.0,135.6,735.0,379.5,744.0,Mapping Climate Disinformation Ecosystem in Croatia and Slovenia
+26,10,4,Calibri,9.0,379.6,735.0,429.6,744.0,", 2024. p. 3-5 "
+26,10,5,Calibri,6.0,72.0,743.5,78.1,749.5,21
+26,10,5,Calibri,9.0,78.0,743.7,133.6,752.7, ADMO Report:
+26,10,5,Calibri,9.0,133.6,743.7,393.8,752.7, Journalistic Sources on the Israel/Hamas Conflict in the Croatian Media
+26,10,5,Calibri,9.0,394.0,743.7,452.5,752.7,", 2024. p. 3–55. "
+26,10,6,Calibri,6.0,72.0,752.2,78.1,758.2,22
+26,10,6,Calibri,9.0,78.0,752.5,138.7,761.5, ADMO Report: 
+26,10,6,Calibri,9.0,140.3,752.5,523.2,761.5,"Report about Social Media Initiatives for Empowering Users, the Research Community and the Fact-"
+26,10,7,Calibri,9.0,72.0,761.4,186.3,770.4,Checking Community in Croatia
+26,10,7,Calibri,9.0,186.4,761.4,238.6,770.4,", 2024. p. 4-7. "
+26,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+27,3,0,Calibri,11.0,72.0,84.0,525.7,95.1,"Member States that are moving toward detailed technical standards for age verification, Croatia has "
+27,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"not yet adopted additional regulations or frameworks, such as mandatory pre-installed parental "
+27,3,2,Calibri,11.0,72.0,112.9,310.8,124.0,controls or coordination with the development of the 
+27,3,2,Calibri-Bold,11.0,310.5,112.9,455.7,124.0,European Digital Identity Wallet
+27,3,2,Calibri,11.0,455.7,112.9,525.9,124.0, (‘mini-wallet’). 
+27,3,3,Calibri,11.0,72.0,127.5,525.6,138.5,"The minimum age for providing valid consent to digital services remains set at 16 years, in line with "
+27,3,4,Calibri,11.0,72.0,142.0,410.2,153.0,Croatia’s implementation of the General Data Protection Regulation (GDPR) 
+27,3,4,Calibri,7.0,410.0,141.1,417.0,148.0,23
+27,3,4,Calibri,11.0,417.0,142.0,422.2,153.0,. 
+27,4,0,Calibri,11.0,72.0,164.4,525.8,175.5,"The 2023 data on online interactions in Croatia reveal a mixed picture, with a lower proportion of "
+27,4,1,Calibri,11.0,72.0,178.9,525.7,190.0,"individuals perceiving hostile and degrading online messages compared to the EU average. However, "
+27,4,2,Calibri,11.0,72.0,193.5,525.7,204.5,a significant proportion of individuals in Croatia still encountered potentially misleading information 
+27,4,3,Calibri,11.0,72.0,207.9,525.9,218.9,"online. On a positive note, a notable share of young people (16-24) has been taking steps to verify the "
+27,4,4,Calibri,11.0,72.0,222.4,352.3,233.4,"accuracy of online content. Overall, the findings suggest that "
+27,4,4,Calibri-Bold,11.0,353.5,222.4,525.8,233.4,Croatia has been making progress in 
+27,4,5,Calibri-Bold,11.0,72.0,236.9,525.7,248.0,promoting digital literacy and critical thinking and highlight the importance of continued efforts to 
+27,4,6,Calibri-Bold,11.0,72.0,251.4,525.5,262.5,support individuals in developing these skills and to promote a safe and informed online 
+27,4,7,Calibri-Bold,11.0,72.0,265.9,131.1,276.9,environment
+27,4,7,Calibri,11.0,131.1,265.9,136.2,276.9,. 
+27,5,0,Calibri,11.0,72.0,288.4,74.5,299.5, 
+27,5,1,Calibri,11.0,216.1,288.4,218.5,299.5, 
+27,6,0,Calibri,11.0,216.1,741.1,218.5,752.2, 
+27,6,1,Calibri,6.0,72.0,752.2,78.1,758.2,23
+27,6,1,Calibri,9.0,78.0,752.5,286.5,761.5," European Audiovisual Observatory (Council of Europe), "
+27,6,1,Calibri,9.0,287.5,752.5,525.2,761.5,The protection of minors on VSPs: age verification and parental 
+27,6,2,Calibri,9.0,72.0,761.4,98.1,770.4,control
+27,6,2,Calibri,9.0,98.1,761.4,154.8,770.4,", 2023. p.76-78 "
+27,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+28,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+28,3,1,Calibri-Bold,26.0,72.0,121.2,240.9,147.3,smart greening 
+28,4,0,Calibri,11.0,72.0,160.5,112.9,171.5,Croatia’s 
+28,4,0,Calibri-Bold,11.0,112.3,160.5,130.7,171.5,RRP
+28,4,0,Calibri,11.0,130.7,160.5,322.0,171.5, includes major investments to support the 
+28,4,0,Calibri-Bold,11.0,321.5,160.5,525.8,171.5,"revitalisation, construction and digitalisation "
+28,4,1,Calibri-Bold,11.0,72.0,175.0,166.3,186.0,of the energy system
+28,4,1,Calibri,11.0,166.3,175.0,257.2,186.0,", contributing to the "
+28,4,1,Calibri-Bold,11.0,257.0,175.0,423.4,186.0,decarbonisation of the energy sector
+28,4,1,Calibri,11.0,423.5,175.0,523.7,186.0," (Component C1.2, R1-"
+28,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,"I1). These measures aim to modernise the electricity transmission network, enabling a better balance "
+28,4,3,Calibri,11.0,72.0,203.9,525.7,214.9,between generation and consumption points. The digitalisation of the energy infrastructure is 
+28,4,4,Calibri,11.0,72.0,218.4,128.7,229.5,expected to 
+28,4,4,Calibri-Bold,11.0,130.2,218.4,309.7,229.5,increase the security of energy supply
+28,4,4,Calibri,11.0,309.9,218.4,333.0,229.5, and 
+28,4,4,Calibri-Bold,11.0,334.5,218.4,491.3,229.5,reduce the environmental impact
+28,4,4,Calibri,11.0,491.4,218.4,525.9,229.5, of the 
+28,4,5,Calibri,11.0,72.0,233.0,202.2,244.0,accompanying infrastructure 
+28,4,5,Calibri,7.0,202.1,232.0,209.1,239.0,24
+28,4,5,Calibri,11.0,209.1,233.0,214.3,244.0,. 
+28,5,0,Calibri,11.0,72.0,255.4,525.7,266.5,"In addition, Croatia is also modernising water management systems, aiming to improve resilience to "
+28,5,1,Calibri,11.0,72.0,269.9,525.9,281.0,"climate change through digital monitoring and leakage reduction measures. However, systematic "
+28,5,2,Calibri,11.0,72.0,284.4,525.9,295.5,"nature-based solutions and large-scale climate-proofing measures are not yet widely applied, and "
+28,5,3,Calibri,11.0,72.0,299.0,449.4,310.0,comprehensive monitoring and evaluation frameworks remain to be fully developed 
+28,5,3,Calibri,7.0,449.4,298.1,456.4,305.0,25
+28,5,3,Calibri,11.0,456.3,299.0,466.8,310.0,?. 
+28,6,0,Calibri,11.0,72.0,321.4,101.6,332.5,In the 
+28,6,0,Calibri-Bold,11.0,102.9,321.4,171.3,332.5,telecom sector
+28,6,0,Calibri,11.0,171.4,321.4,525.8,332.5,", sustainability and energy efficiency are increasingly recognised as priorities. "
+28,6,1,Calibri,11.0,72.0,335.9,181.2,347.0,Operators have initiated 
+28,6,1,Calibri-Bold,11.0,180.6,335.9,332.9,347.0,voluntary green transition actions
+28,6,1,Calibri,11.0,333.0,335.9,406.0,347.0,", including using "
+28,6,1,Calibri-Bold,11.0,405.5,335.9,523.5,347.0,renewable energy sources
+28,6,1,Calibri,11.0,523.4,335.9,525.9,347.0, 
+28,6,2,Calibri,11.0,72.0,350.4,91.3,361.5,and 
+28,6,2,Calibri-Bold,11.0,92.3,350.4,212.0,361.5,afforestation programmes
+28,6,2,Calibri,11.0,212.1,350.4,262.5,361.5,". However, "
+28,6,2,Calibri-Bold,11.0,263.5,350.4,525.7,361.5,these efforts are not yet coordinated under a dedicated 
+28,6,3,Calibri-Bold,11.0,72.0,364.8,214.0,375.9,national green telecom policy
+28,6,3,Calibri,11.0,214.0,364.8,525.8,375.9, or a broader strategic framework linking digitalisation to climate 
+28,6,4,Calibri,11.0,72.0,379.4,122.4,390.4,objectives. 
+28,7,0,Calibri,11.0,72.0,401.9,525.8,413.0,"In addition, measures already mentioned in previous chapters also contribute to supporting the green "
+28,7,1,Calibri,11.0,72.0,416.3,199.5,427.4,and digital transitions. The 
+28,7,1,Calibri-Bold,11.0,201.9,416.3,256.3,427.4,State Cloud
+28,7,1,Calibri,11.0,256.2,416.3,525.8,427.4, includes enhanced functionalities for more efficient and 
+28,7,2,Calibri,11.0,72.0,430.9,372.8,441.9,"sustainable data management. Similarly, the establishment of the "
+28,7,2,Calibri-Bold,11.0,373.9,430.9,525.9,441.9,Croatian Competence Centre for 
+28,7,3,Calibri-Bold,11.0,72.0,445.4,191.2,456.4,Semiconductors (CROCCS)
+28,7,3,Calibri,11.0,191.3,445.4,525.7,456.4,"is expected to foster the development of greener ICT hardware solutions, "
+28,7,4,Calibri,11.0,72.0,459.9,310.8,470.9,supporting energy efficiency in the digital ecosystem. 
+28,8,0,Calibri,11.0,72.0,482.3,124.5,493.4,In terms of 
+28,8,0,Calibri-Bold,11.0,125.2,482.3,219.7,493.4,consumer behaviour
+28,8,0,Calibri,11.0,219.8,482.3,525.8,493.4," towards environmentally friendly ICT usage, Croatia’s performance "
+28,8,1,Calibri,11.0,72.0,496.9,209.3,507.9,"remains mixed. In 2024, only "
+28,8,1,Calibri-Bold,11.0,211.0,496.9,244.4,507.9,12.51%
+28,8,1,Calibri,11.0,244.4,496.9,365.2,507.9, of individuals considered 
+28,8,1,Calibri-Bold,11.0,366.9,496.9,445.3,507.9,energy efficiency
+28,8,1,Calibri,11.0,445.4,496.9,525.9,507.9, important when 
+28,8,2,Calibri,11.0,72.0,511.3,322.4,522.3,"purchasing ICT devices (EU average: 19.35%), and only "
+28,8,2,Calibri-Bold,11.0,323.5,511.3,351.2,522.3,0.70%
+28,8,2,Calibri,11.0,351.2,511.3,406.3,522.3, considered 
+28,8,2,Calibri-Bold,11.0,407.1,511.3,456.2,522.3,eco-design
+28,8,2,Calibri,11.0,456.2,511.3,525.9,522.3, important (EU 
+28,8,3,Calibri,11.0,72.0,525.8,194.3,536.8,"average: 12.04%). Instead, "
+28,8,3,Calibri-Bold,11.0,195.6,525.8,262.1,536.8,price (58.33%)
+28,8,3,Calibri,11.0,262.2,525.8,285.3,536.8, and 
+28,8,3,Calibri-Bold,11.0,286.5,525.8,422.5,536.8,device performance (54.74%)
+28,8,3,Calibri,11.0,422.6,525.8,525.9,536.8, remain the dominant 
+28,8,4,Calibri,11.0,72.0,540.3,160.2,551.3,purchasing criteria. 
+28,9,0,Calibri,11.0,72.0,562.8,329.6,573.8,"Concerning device end-of-life practices, Croatia reported "
+28,9,0,Calibri-Bold,11.0,330.3,562.8,425.4,573.8,lower recycling rates
+28,9,0,Calibri,11.0,425.4,562.8,525.9,573.8, than the EU average: 
+28,9,1,Calibri-Bold,11.0,72.0,577.3,99.8,588.3,12.4%
+28,9,1,Calibri,11.0,99.7,577.3,221.9,588.3," of old desktop computers, "
+28,9,1,Calibri-Bold,11.0,222.2,577.3,249.9,588.3,7.99%
+28,9,1,Calibri,11.0,249.9,577.3,373.1,588.3," of old laptops/tablets, and "
+28,9,1,Calibri-Bold,11.0,373.4,577.3,401.1,588.3,5.59%
+28,9,1,Calibri,11.0,401.0,577.3,525.9,588.3, of old mobile phones were 
+28,9,2,Calibri,11.0,72.0,591.8,431.5,602.9,"recycled (EU averages: 14.66%, 11.31%, and 10.93%, respectively). However, "
+28,9,2,Calibri-Bold,11.0,433.9,591.8,504.3,602.9,reuse practices
+28,9,2,Calibri,11.0,504.3,591.8,525.9,602.9, are 
+28,9,3,Calibri,11.0,72.0,606.3,114.9,617.4,stronger: 
+28,9,3,Calibri-Bold,11.0,115.5,606.3,148.7,617.4,33.56%
+28,9,3,Calibri,11.0,148.7,606.3,250.4,617.4, of Croatians reported 
+28,9,3,Calibri-Bold,11.0,250.9,606.3,349.3,617.4,selling or giving away
+28,9,3,Calibri,11.0,349.4,606.3,525.8,617.4," their old mobile phones, compared to "
+28,9,4,Calibri,11.0,72.0,620.7,460.0,631.8,"an EU average of 18.05%, reflecting an emerging culture of circular economy practices. "
+28,10,0,Calibri,11.0,72.0,643.3,525.9,654.3,"Overall, Croatia’s digital contribution to the green transition is becoming stronger, particularly through "
+28,10,1,Calibri,11.0,72.0,657.8,525.9,668.9,"large infrastructure investments in the energy sector and early telecom green actions. However, "
+28,10,2,Calibri,11.0,72.0,672.2,207.2,683.3,further progress is needed in 
+28,10,2,Calibri-Bold,11.0,208.2,672.2,363.5,683.3,coordinating sustainability efforts
+28,10,2,Calibri,11.0,363.7,672.2,368.9,683.3,", "
+28,10,2,Calibri-Bold,11.0,369.8,672.2,500.2,683.3,raising consumer awareness
+28,10,2,Calibri,11.0,500.4,672.2,525.9,683.3,", and "
+28,10,3,Calibri-Bold,11.0,72.0,686.7,316.2,697.8,embedding environmental criteria into digital policies
+28,10,3,Calibri,11.0,316.4,686.7,321.6,697.8,. 
+28,11,0,Calibri,11.0,216.1,741.1,218.5,752.2, 
+28,11,1,Calibri,6.0,72.0,752.2,78.1,758.2,24
+28,11,1,Calibri,9.0,78.0,752.5,165.9,761.5," European Commission, "
+28,11,1,Calibri,9.0,166.0,752.5,447.9,761.5,"Recovery and Resilience Scoreboard, Digital Public Services Thematic Analysis"
+28,11,1,Calibri,9.0,448.1,752.5,475.1,761.5,", 2024. "
+28,11,2,Calibri,6.0,72.0,761.1,78.1,767.1,25
+28,11,2,Calibri,9.0,78.0,761.4,356.6,770.4," European Commission. (2025). European Semester, Annex Climate: Croatia. "
+28,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+29,2,0,Calibri-Bold,11.0,77.7,84.5,186.5,95.5,2024 recommendation: 
+29,2,0,Calibri,11.0,186.4,84.5,520.3,95.5,Develop a coherent approach to twinning the digital and green transitions: 
+29,3,0,Calibri,11.0,77.7,102.0,520.0,113.1,"- Promote improvements in energy and material efficiency of digital infrastructures, in particular "
+29,3,1,Calibri,11.0,77.7,116.4,138.1,127.5,data centres. 
+29,5,0,Calibri,11.0,77.7,133.9,520.0,145.0,- Support the development and deployment of digital solutions that reduce the carbon footprint in 
+29,5,1,Calibri,11.0,77.7,148.5,520.1,159.5,"other sectors, such as energy, transport, buildings, and agriculture, including the uptake of such "
+29,5,2,Calibri,11.0,77.7,163.0,163.2,174.0,solutions by SMEs. 
+29,6,0,Calibri,11.0,77.7,180.4,520.0,191.4,- Monitor and quantify the emission reductions of the deployed digital solutions in line with the 
+29,6,1,Calibri,11.0,77.7,194.9,520.2,205.9,relevant EU guidance and with the support of the methodology developed by the European Green 
+29,6,2,Calibri,11.0,77.7,209.4,500.2,220.5,"Digital Coalition, in view of future policy development, as well as attracting relevant financing.  "
+29,7,0,Calibri-Bold,11.0,77.7,227.4,520.2,238.5,"In 2024, Croatia made some efforts to address the recommendation through new policy actions "
+29,7,1,Calibri-Bold,11.0,77.7,242.0,117.5,253.0,in 2024. 
+29,7,1,Calibri,11.0,118.5,242.0,520.3,253.0,"Croatia made some efforts through RRP-supported digitalisation of the energy network, "
+29,7,2,Calibri,11.0,77.7,256.4,520.0,267.4,but no coherent national strategy or monitoring framework has been established yet. Voluntary 
+29,7,3,Calibri,11.0,77.7,270.9,520.1,281.9,green actions in the telecom sector remain fragmented. Further efforts are needed to fully address 
+29,7,4,Calibri,11.0,77.7,285.4,177.4,296.5,the recommendation. 
+29,8,0,Calibri-Bold,11.0,72.0,303.4,74.5,314.5, 
+29,9,0,Calibri,11.0,72.0,340.1,74.5,351.2, 
+29,9,1,Calibri-Bold,26.0,216.1,328.9,221.9,354.9, 
+29,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+30,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+30,3,0,Calibri-Bold,11.0,77.7,126.7,313.0,137.8,Croatia’s national Digital Decade strategic roadmap 
+30,5,0,Calibri,11.0,77.7,144.3,520.2,155.3,"Croatia submitted an adjustment to its national roadmap in January 2025, following the 2024 "
+30,5,1,Calibri,11.0,77.7,158.7,520.0,169.7,"recommendations. The adjustment clarified the national approach, updated 5G coverage targets, "
+30,5,2,Calibri,11.0,77.7,173.2,520.0,184.2,"and refined the measure set, without fundamentally revising the strategic directions. It also "
+30,5,3,Calibri,11.0,77.7,187.7,520.1,198.7,"improved alignment with the Digital Decade objectives, enhanced stakeholder consultations, and "
+30,5,4,Calibri,11.0,77.7,202.2,182.7,213.3,updated links to policy. 
+30,6,0,SymbolMT,11.0,95.7,217.4,100.7,230.9,
+30,6,0,ArialMT,11.0,100.7,218.5,103.8,230.8, 
+30,6,1,Calibri-Bold,11.0,113.7,220.2,153.0,231.3,Targets: 
+30,6,1,Calibri,11.0,152.4,220.2,520.1,231.3,Croatia partially addressed the recommendation to raise ambition. The 2030 target 
+30,6,2,Calibri,11.0,113.7,234.8,520.3,245.8,"for overall 5G coverage remains aligned with the EU target (100%), while a new mid-band "
+30,6,3,Calibri,11.0,113.7,249.3,520.0,260.3,5G coverage target (75% by 2030) was introduced. This is below the EU ambition but 
+30,6,4,Calibri,11.0,113.7,263.8,520.0,274.8,reflects national circumstances. No changes were made to targets for ICT specialists or 
+30,6,5,Calibri,11.0,113.7,278.2,520.1,289.2,"AI/data analytics adoption. A target for edge node deployment, required under the Digital "
+30,6,6,Calibri,11.0,113.7,292.7,218.3,303.8,"Decade, is still missing. "
+30,6,7,SymbolMT,11.0,95.7,305.0,100.7,318.5,
+30,6,7,ArialMT,11.0,100.7,306.1,103.8,318.4, 
+30,6,8,Calibri-Bold,11.0,113.7,307.9,163.9,318.9,Measures: 
+30,6,8,Calibri,11.0,165.4,307.9,520.1,318.9,"The measure repository was strengthened, with updated and more detailed "
+30,6,9,Calibri,11.0,113.7,322.4,520.3,333.4,"descriptions across connectivity, skills, AI/data, cloud, and digital public services. However, "
+30,6,10,Calibri,11.0,113.7,336.8,296.3,347.8,no fully new measures were introduced. 
+30,6,11,SymbolMT,11.0,95.7,349.1,100.7,362.6,
+30,6,11,ArialMT,11.0,100.7,350.2,103.8,362.5, 
+30,6,12,Calibri-Bold,11.0,113.7,351.9,244.3,362.9,Digital Rights and Principles: 
+30,6,12,Calibri,11.0,244.0,351.9,520.2,362.9,Mapping of measures to the Digital Decade objectives and the 
+30,6,13,Calibri,11.0,113.7,366.4,421.3,377.4,European Declaration on Digital Rights and Principles was improved. 
+30,6,14,SymbolMT,11.0,95.7,378.6,100.7,392.1,
+30,6,14,ArialMT,11.0,100.7,379.7,103.8,392.0, 
+30,6,15,Calibri-Bold,11.0,113.7,381.4,177.3,392.4,Consultation: 
+30,6,15,Calibri,11.0,179.4,381.4,520.3,392.4,"The stakeholder consultation process was enhanced, including a kick-off "
+30,6,16,Calibri,11.0,113.7,395.9,520.2,407.0,conference in September 2024 and continuous coordination with relevant state bodies and 
+30,6,17,Calibri,11.0,113.7,410.5,520.1,421.5,"associations, such as the Croatian Employers’ Association and the Croatian Chamber of "
+30,6,18,Calibri,11.0,113.7,425.0,160.1,436.0,Economy. 
+30,7,0,Calibri,11.0,77.7,442.4,520.1,453.4,"While Croatia’s adjusted roadmap covers the majority of Digital Decade targets, the absence of a "
+30,7,1,Calibri,11.0,77.7,456.9,520.1,467.9,"target for edge node deployment highlights an important gap. Overall, the Croatian roadmap "
+30,7,2,Calibri,11.0,77.7,471.4,459.3,482.5,includes 31 measures with a budget of EUR 635 million (equivalent to 0.74% of GDP). 
+30,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+31,2,0,Calibri-Bold,11.0,77.7,84.5,271.7,95.5,Measures and budget in national roadmap
+31,2,0,Calibri,11.0,271.6,84.5,273.8,95.5, 
+31,2,0,Calibri,7.0,273.8,83.6,280.8,90.6,26
+31,2,0,Calibri,11.0,280.7,84.5,283.2,95.5, 
+31,4,0,Calibri,11.0,77.7,316.4,80.2,327.4, 
+31,5,0,Calibri,11.0,77.7,333.8,520.2,344.8,Croatia’s adjustment improves the structure and clarity of the roadmap. The strengthened measure 
+31,5,1,Calibri,11.0,77.7,348.3,520.1,359.3,"descriptions, enhanced mapping to objectives, and update of 5G targets are positive developments. "
+31,5,2,Calibri,11.0,77.7,362.8,520.1,373.9,"However, the lack of new measures, the limited ambition for key digital transformation areas such "
+31,5,3,Calibri,11.0,77.7,377.3,520.0,388.4,"as AI/data adoption and ICT specialists, and the absence of an edge node target remain significant "
+31,5,4,Calibri,11.0,77.7,391.7,520.2,402.8,"challenges. Funding levels also remain modest relative to the scale of needs, notably for AI, cloud, "
+31,5,5,Calibri,11.0,77.7,406.3,520.1,417.3,"and rural connectivity. While the adjustment confirms a solid baseline, further efforts are needed "
+31,5,6,Calibri,11.0,77.7,420.8,520.0,431.8,"to maintain momentum, particularly in driving the twin transition, SME digitalisation, and the "
+31,5,7,Calibri,11.0,77.7,435.3,239.5,446.4,adoption of advanced technologies. 
+31,6,0,Calibri,11.0,72.0,467.6,74.5,478.6, 
+31,6,1,Calibri-Bold,26.0,216.1,456.3,221.9,482.4, 
+31,7,0,Calibri,11.0,216.1,723.6,218.5,734.6, 
+31,7,1,Calibri,6.0,72.0,734.7,78.1,740.7,26
+31,7,1,Calibri,9.0,78.0,735.0,525.2,744.0," When referring to national roadmaps, the data used in this report are those declared by the Member States in their national "
+31,7,2,Calibri,9.0,72.0,743.7,525.4,752.7,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+31,7,3,Calibri,9.0,72.0,752.5,525.0,761.5,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+31,7,4,Calibri,9.0,72.0,761.4,258.9,770.4,States followed the guidance has been carried out. 
+31,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+31,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+32,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+32,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+32,3,0,Calibri-Bold,26.0,72.0,87.0,529.3,113.1,Annex II – Factsheet on multi-country 
+32,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+32,4,0,Calibri-Bold,11.0,77.7,160.9,267.4,172.0,Multi-country projects and best practices 
+32,5,0,Calibri,11.0,77.7,178.5,535.4,189.5,"Croatia is a member of the three established EDICs: the Alliance for Language Technologies EDIC, the "
+32,5,1,Calibri,11.0,77.7,193.0,535.5,204.0,"Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM EDIC. In addition, Croatia is working "
+32,5,2,Calibri,11.0,77.7,207.5,535.5,218.5,"towards setting up EDICs in the area of connected public administration, cybersecurity skills, agri-food "
+32,5,3,Calibri,11.0,77.7,221.9,535.2,232.9,and genomics. Croatian entities are indirect partners in the IPCEI on Next Generation Cloud 
+32,5,4,Calibri,11.0,77.7,236.4,535.4,247.5,Infrastructure and Services (IPCEI-CIS). Croatia is a participating state of the EuroHPC Joint Undertaking 
+32,5,5,Calibri,11.0,77.7,251.0,176.5,262.0,(JU) and the Chips JU. 
+32,6,0,Calibri,11.0,77.7,268.5,332.0,279.5,Croatia has contributed to the Best Practice Accelerator 
+32,6,0,Calibri,7.0,332.0,267.6,339.0,274.5,27
+32,6,0,Calibri,11.0,339.0,268.5,535.5,279.5, by sharing a measure in the framework of 
+32,6,1,Calibri,11.0,77.7,282.9,186.2,293.9,the Digital Skills cluster (
+32,6,1,Calibri-Bold,11.0,186.3,282.9,324.1,293.9,Women in Digital – Girls in ICT
+32,6,1,Calibri,11.0,324.2,282.9,332.7,293.9,). 
+32,7,0,Calibri,11.0,72.0,300.9,74.5,311.9, 
+32,8,0,Calibri-Bold,11.0,77.7,318.9,259.9,329.9,EU funding for digital policies in Croatia 
+32,9,0,Calibri,11.0,77.7,336.4,469.2,347.4,Croatia allocates 20% of its total recovery and resilience plan to digital (EUR 1.4 billion)
+32,9,0,Calibri,7.0,469.2,335.5,476.2,342.5,28
+32,9,0,Calibri,11.0,476.1,336.4,535.5,347.4,". In addition, "
+32,9,1,Calibri,11.0,77.7,350.9,535.3,362.0,"under cohesion policy, EUR 755 million (representing 9% of the country’s total cohesion policy funding), "
+32,9,2,Calibri,11.0,77.7,365.4,330.8,376.5,is dedicated to advancing Croatia’s digital transformation
+32,9,2,Calibri,7.0,330.9,364.5,337.9,371.5,29
+32,9,2,Calibri,11.0,337.9,365.4,535.5,376.5,". According to JRC estimates, EUR 1.4 billion "
+32,9,3,Calibri,11.0,77.7,379.8,535.5,390.9,directly contribute to achieving Digital Decade targets (of which EUR 0.9 billion comes from the RRF 
+32,9,4,Calibri,11.0,77.7,394.4,297.1,405.4,and EUR 0.5 billion from cohesion policy funding)
+32,9,4,Calibri,7.0,297.2,393.5,304.2,400.4,30
+32,9,4,Calibri,11.0,304.1,394.4,306.9,405.4,.
+32,9,4,Calibri-Bold,11.0,306.9,394.4,309.4,405.4, 
+32,10,0,Calibri,11.0,77.7,411.9,535.4,422.9,"Digital investments are focused on digital skills, digitalisation of public services, connectivity, and "
+32,10,1,Calibri,11.0,77.7,426.4,233.5,437.5,support for business digitalisation. 
+32,11,0,Calibri,11.0,77.7,443.8,535.3,454.9,"The total amount of funding mobilised remains consistent with the 2024 report, confirming the strong "
+32,11,1,Calibri,11.0,77.7,458.3,440.2,469.4,alignment between EU financial support and Croatia’s digital transition priorities. 
+32,12,0,Calibri,11.0,72.0,476.3,74.5,487.4, 
+32,13,0,Calibri,11.0,72.0,498.8,74.5,509.8, 
+32,14,0,Calibri,11.0,72.0,521.3,74.5,532.4, 
+32,14,1,Calibri,11.0,216.1,521.3,218.5,532.4, 
+32,15,0,Calibri,11.0,216.1,653.3,218.5,664.3, 
+32,15,1,Calibri,6.0,72.0,664.4,78.1,670.4,27
+32,15,1,Calibri,9.0,78.0,664.6,525.3,673.6, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+32,15,2,Calibri,9.0,72.0,673.4,525.0,682.4,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are available to all Member 
+32,15,3,Calibri,9.0,72.0,682.1,525.3,691.1,"States via the BPA Repository and are showcased in regular workshops, currently focused on three thematic clusters: Digital "
+32,15,4,Calibri,9.0,72.0,691.0,272.9,700.0,"Skills, Green IT, and the Uptake of Digital Technologies. "
+32,15,5,Calibri,6.0,72.0,699.5,78.1,705.5,28
+32,15,5,Calibri,9.0,78.0,699.8,525.0,708.8, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+32,15,6,Calibri,9.0,72.0,708.5,313.5,717.5,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+32,15,7,Calibri,6.0,72.0,717.0,78.1,723.0,29
+32,15,7,Calibri,9.0,78.0,717.3,523.3,726.3, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+32,15,8,Calibri,9.0,72.0,726.2,525.4,735.2,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+32,15,9,Calibri,9.0,72.0,735.0,315.5,744.0,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+32,15,10,Calibri,6.0,72.0,743.5,78.1,749.5,30
+32,15,10,Calibri,9.0,78.0,743.7,525.4,752.7," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+32,15,11,Calibri,9.0,72.0,752.5,525.2,761.5,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+32,15,12,Calibri,9.0,72.0,761.4,94.6,770.4,2025. 
+32,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,29 
+32,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+33,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+33,1,0,Calibri,20.0,85.9,29.4,148.4,49.4,Croatia 
+33,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+33,2,1,Calibri-Bold,26.0,72.0,109.5,485.2,135.5,Annex IIΙ – Digital rights and principles
+33,2,1,Calibri,17.0,485.3,107.2,502.5,124.3,31
+33,2,1,Calibri-Bold,26.0,502.5,109.5,508.4,135.5, 
+33,4,0,Calibri,11.0,462.5,149.2,465.0,160.2, 
+33,5,0,Calibri-Bold,11.0,462.5,166.7,465.0,177.7, 
+33,6,0,Calibri-Bold,11.0,462.5,184.2,465.0,195.3, 
+33,7,0,Calibri-Bold,11.0,462.5,201.7,465.0,212.8, 
+33,8,0,Calibri-Bold,11.0,462.5,219.1,465.0,230.2, 
+33,9,0,Calibri-Bold,11.0,462.5,236.7,465.0,247.7, 
+33,10,0,Calibri-Bold,11.0,462.5,254.2,465.0,265.2, 
+33,11,0,Calibri-Bold,11.0,462.5,271.7,465.0,282.8, 
+33,12,0,Calibri-Bold,11.0,462.5,289.1,465.0,300.2, 
+33,14,0,Calibri-Bold,11.0,462.5,306.6,465.0,317.7, 
+33,15,0,Calibri-Bold,11.0,260.1,324.2,262.6,335.2, 
+33,17,0,Calibri-Bold,11.0,77.7,341.7,252.3,352.7,Activity on digital rights and principles
+33,17,0,Calibri-Bold,11.0,252.3,341.7,254.8,352.7, 
+33,17,0,Calibri,11.0,254.8,341.7,297.9,352.7,(figure 1) 
+33,18,0,Calibri,11.0,77.7,364.1,520.0,375.2,"Croatia has been relatively active in implementing digital rights and principles, with 48 initiatives "
+33,18,1,Calibri,11.0,77.7,378.6,520.1,389.7,"overall and 7 new initiatives launched in 2024, showing notable progress towards its commitments. "
+33,18,2,Calibri,11.0,77.7,393.2,520.2,404.2,"Croatia is most active in the area of solidarity and inclusion. There is room for improvement, "
+33,18,3,Calibri,11.0,77.7,407.6,483.7,418.6,especially with regards to a fair digital environment where less activity has been identified. 
+33,19,0,Calibri-Bold,11.0,77.7,430.1,227.4,441.2,Impact of digital rights initiatives
+33,19,0,Calibri,11.0,227.6,430.1,273.1,441.2, (figure 2) 
+33,20,0,Calibri,11.0,77.7,452.6,520.3,463.6,"Quantitative impact indicators, developed by a support study, illustrate the level of implementation "
+33,20,1,Calibri,11.0,77.7,467.1,263.4,478.1,of digital rights initiatives on the ground.  
+33,21,0,Calibri,11.0,77.7,484.6,520.1,495.7,"Based on available data, they estimate the impact of measures implemented by key stakeholders in "
+33,21,1,Calibri,11.0,77.7,499.0,432.4,510.1,Croatia (mainly national government) and how these are perceived by citizens.  
+33,22,0,Calibri,11.0,77.7,521.6,520.1,532.6,The indicators suggest that Croatia is most successful in implementing commitments related to 
+33,22,1,Calibri,11.0,77.7,536.1,520.0,547.2,sustainability. Croatia should review and strengthen efforts in areas where the impact of digital 
+33,22,2,Calibri,11.0,77.7,550.5,520.2,561.5,"rights initiatives appears to be limited despite relative activity, notably on putting people at the "
+33,22,3,Calibri,11.0,77.7,565.1,242.5,576.1,centre of the digital transformation.  
+33,23,0,Calibri,11.0,77.7,587.6,254.9,598.7,According to the Special Eurobarometer
+33,23,0,Calibri,7.0,254.8,586.7,261.8,593.7,32
+33,23,0,Calibri,11.0,261.8,587.6,520.2,598.7," 'Digital Decade 2025’, 58% of citizens in Croatia think that "
+33,23,1,Calibri,11.0,77.7,602.0,520.2,613.1,the EU protects their digital rights well (a 2% increase since 2024). This is above the EU average of 
+33,23,2,Calibri,11.0,77.7,616.5,520.0,627.6,44%. Citizens are particularly confident about getting more freedom of expression and information 
+33,23,3,Calibri,11.0,77.7,631.1,519.9,642.1,"online (73%, above the EU average of 60%). They are most worried that their right to a safe digital "
+33,23,4,Calibri,11.0,77.7,645.6,520.1,656.6,"environment and content for children and young people is not well protected (47%, below EU "
+33,23,5,Calibri,11.0,77.7,660.0,156.7,671.0,average of 48%).  
+33,24,0,Calibri,11.0,72.0,683.0,74.5,694.1, 
+33,25,0,Calibri,11.0,216.1,730.2,218.5,741.2, 
+33,25,1,Calibri,6.0,72.0,741.3,78.1,747.3,31
+33,25,1,Calibri,9.0,78.0,741.6,525.5,750.6," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+33,25,2,Calibri,9.0,72.0,750.3,106.1,759.3,available 
+33,25,2,Calibri,9.0,106.1,750.3,122.8,759.3,here
+33,25,2,Calibri,9.0,122.8,750.3,376.9,759.3,". For a more detailed country factsheet accompanying the study, click "
+33,25,2,Calibri,9.0,377.1,750.3,393.7,759.3,here
+33,25,2,Calibri,9.0,393.7,750.3,398.1,759.3,. 
+33,25,3,Calibri,6.0,72.0,760.6,78.1,766.6,32
+33,25,3,Calibri,9.0,78.0,760.9,288.6,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+33,25,3,Calibri,9.0,288.7,760.9,518.0,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+33,25,3,Calibri,9.0,518.2,760.9,520.2,769.9, 
+33,26,0,Calibri,11.0,292.1,781.9,305.8,793.0,30 
+33,26,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

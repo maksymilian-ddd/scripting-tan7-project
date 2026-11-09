@@ -1,0 +1,1707 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 6/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+      Czechia Czechia
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 4
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 5
+
+     Connectivity infrastructure .............................................................................................................. 5
+
+    Semiconductors ............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 9
+
+    Quantum technologies .................................................................................................................. 10
+
+  Supporting EU-wide digital ecosystems and scaling-up innovative enterprises ............................... 10
+
+    SMEs with at least basic digital intensity ....................................................................................... 11
+
+     Take up of cloud/AI/data analytics ................................................................................................. 12
+
+     Unicorns, scale-ups and start-ups .................................................................................................. 15
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 17
+
+Protecting and empowering EU people and society ............................................................................. 18
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 18
+
+     Equipping people with digital skills ............................................................................................... 19
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 22
+
+  Building a safe and human centric digital environment and preserving our democracy ................... 25
+
+Leveraging digital transformation for a smart greening ....................................................................... 25
+
+Annex I – National roadmap analysis .................................................................................................... 28
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 30
+
+Annex III – Digital Rights and Principles ................................................................................................ 31 Czechia
+
+
+Executive summary
+
+Czechia benefits from a strong performance in digital skills and nationwide 5G coverage, but still lags
+in the rollout of very high-capacity networks (VHCNs) and the digital transformation of businesses.
+At the same time,  its dynamic start-up ecosystem, deepening AI  capabilities, and growing
+investments in strategic technologies like quantum and semiconductors underpin its ambition to
+strengthen digital sovereignty and resilience.
+
+Czechia shows a low level of ambition in its contribution to the Digital Decade, having set 14 national
+targets, only 43% of which are fully aligned with the EU 2030 targets. Nonetheless, the country is
+following its trajectories well, with 75% of them currently on track (on the basis of the 2024
+trajectories defined for all 8 KPIs analysed). Czechia addressed 82% of the 11 recommendations
+issued by the Commission in 2024, either by implementing significant policy changes (9%) or making
+some changes (73%) through new measures.
+
+The 2024 adjustment to Czechia’s national Digital Decade strategic roadmap reflects a more coherent
+and strategically aligned approach. It introduces new targets (e.g. for fibre to the premises (FTTP), edge
+nodes), strengthens SME support measures, and reaffirms the country’s priorities for, semiconductors,
+and start-ups. Gaps remain - for instance, no explicit measures were introduced for edge node
+deployment or accelerating stand-alone 5G and eID uptake. Overall, the adjusted roadmap represents
+a meaningful improvement in terms of policy clarity, sectoral depth, and alignment with EU objectives.
+However, several measures could benefit from stronger financial commitment and more ambitious
+targets.
+
+
+                                                                                                                                                      Digital Decade
+                                                                            Czechia                        EU
+                                                                                                                                         target by 2030
+                                                         DESI       DESI
+                                                                                             National
+                                                    2024      2025     Annual                                                                                                      DESI     Annual      Digital Decade KPI (1)                                                                                                    trajectory                                                                                                                  CZ      EU
+                                                             (year       (year     progress               2025     progress
+                                                                                  2024 (3)
+                                                        2023)      2024)
+
+  Fixed Very High Capacity Network (VHCN) coverage        50.5%     53.9%      6.7%      63.7%     82.5%     4.9%      95.0%    100%
+
+  Fibre to the Premises (FTTP) coverage                   36.0%     40.6%     12.6%      39.4%     69.2%     8.4%      60.0%           -
+
+  Overall 5G coverage                                  94.6%     99.1%      4.7%      87.3%     94.3%     5.9%     100.0%    100%
+
+  Edge Nodes (estimate)                                 10        21      110.0%       21       2 257     90.5%      144     10000
+
+  SMEs with at least a basic level of digital intensity (2)              -        70.8%      2.0%              -       72.9%     2.8%      80.0%    90%
+
+  Cloud                                              35.2%            -                -                 -               -               -        60.0%    75%
+
+  Artificial Intelligence                                  5.9%      11.3%     90.8%      8.6%      13.5%     67.2%      21.0%    75%
+
+  Data analytics                                       19.5%            -                -                 -               -               -        35.0%    75%
+
+  AI or Cloud or Data analytics                           43.1%            -                -                 -               -               -        60.0%    75%
+
+  Unicorns                                            4         4        0.0%        4        286      4.4%        6       500
+
+  At least basic digital skills                             69.1%            -                -                 -               -               -        80.0%    80%
+
+  ICT specialists                                       4.3%       4.5%      4.7%       5.1%      5.0%      4.2%       7.0%     ~10%
+
+  eID scheme notification                                                Yes
+
+  Digital public services for citizens                           76.3        81.5       6.7%        80.2       82.3      3.6%       100.0     100
+
+  Digital public services for businesses                       83.8        86.3       3.0%        87.3       86.2      0.9%       100.0     100
+
+  Access to e-Health records                                 51.1        77.4      51.6%       54.6       82.7      4.5%       100.0     100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+  calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+                                        1 Czechia
+
+
+
+
+
+According to the special 2025 Eurobarometer on the Digital Decade, 73% of Czechs consider that the
+digitalisation of daily public and private services is making their lives easier. On the action of the public
+authorities, 78% consider  it important to counter and mitigate the issue of fake news and
+disinformation online. And on competitiveness, 81% consider it important to ensure that European
+companies can grow and become ‘European Champions’ capable of competing globally.
+
+A competitive, sovereign and resilient EU based on technological leadership
+
+Czechia is steadily advancing in strategic digital sectors such as AI, semiconductors, and quantum
+technologies, backed by increased public investment and consistent national strategies. While 5G
+coverage is nearly universal, broadband infrastructure (FTTP, VHCN) still lags behind EU averages.
+Despite a vibrant start-up scene and strong R&D potential, SMEs face barriers to adopting digital
+technologies and securing financing. Addressing gaps in infrastructure, scale-up finance, and digital
+tech uptake will be key to boosting Czechia’s competitiveness and digital sovereignty.
+
+Protecting and empowering EU people and society
+
+Digital inclusion is a strong point for Czechia, with widespread basic digital skills and minimal gender
+or rural-urban gaps. Reforms in digital education and support for ICT careers are progressing, with a
+growing focus on women and older learners. Public services are improving rapidly, particularly eHealth
+access and citizen-facing services. Digital civic participation and resilience against disinformation are
+still weak points and need stronger engagement policies.
+
+Leveraging digital transformation for a smart greening
+
+While Czechia has begun to acknowledge the importance of the twin green and digital transition, this
+area remains underdeveloped. A new energy efficiency law for data centres is a notable step, but the
+roadmap lacks fully-fledged digital sustainability measures. Scattered initiatives exist - in smart grids,
+soil monitoring, and recycling  - but there  is  still no comprehensive national strategy for green
+digitalisation.
+
+National Digital Decade strategic roadmap
+
+Czechia submitted  its adjusted  national  Digital Decade roadmap  in January 2025,  featuring
+strengthened targets and revised measures, particularly in the areas of enterprise digitalisation and
+emerging technologies. The update reflects an improved strategic alignment with EU priorities. It also
+addresses several recommendations issued in the 2024 State of the Digital Decade Report by
+introducing missing targets for FTTP and edge nodes, and clarifying uptake trajectories for AI, cloud,
+and data analytics. However, some targets remain relatively cautious compared to EU benchmarks -
+such as 60% FTTP coverage and 7% ICT specialists by 2030, but 5G targets are well-aligned. The
+roadmap retains national priorities around AI, quantum, and semiconductors. It consolidates the
+number of measures supporting the Digital Decade targets and objectives at 58 with a total budget of
+EUR 2.26 billion, equivalent to 0.71% of Czechia’s GDP in 2024. While the roadmap demonstrates
+progress in depth, sectoral scope, and coherence, continued efforts are needed to improve rural
+connectivity, raise the level of ambition of workforce targets, and strengthen support to the digital and
+green transition.
+
+
+
+
+
+                                        2 Czechia
+
+
+
+Funding & projects for digital
+
+Czechia allocates 23% of its total recovery and resilience plan to digital (EUR 1.9 billion)1. In addition,
+under cohesion policy, EUR 1.9 billion, representing 9% of the country’s total cohesion policy funding,
+is dedicated to advancing Czechia’s digital transformation2.Czechia is a member of the Alliance for
+Language Technologies European Digital Infrastructure Consortium (EDIC) and of the Local Digital
+Twins towards the CitiVERSE EDIC. The country is directly participating in the Important Project of
+Common European Interest on Microelectronics and Communication Technologies (IPCEI-ME/CT) and
+is a participating state in the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+Czechia also contributes to the Digital Decade’s Best Practices Accelerator3 through its flagship
+initiative, Czech Digital Week 2023, presented as part of the Digital Skills Cluster.
+
+Digital rights and principles
+
+According to a support study, Czechia has been relatively active in implementing the European
+Declaration on Digital Rights and Principles, with 76 initiatives overall and 9 new initiatives launched
+in 2024. Czechia is most active in the area of digital education, training and skills. Less activity has been
+identified with regards to fair and just working conditions and a fair digital environment. Measures in
+the area of putting people at the centre of the digital transformation appear to have most impact on
+the ground, in contrast to those addressing participation in the digital public space.
+
+ Recommendations
+       -  VHCN and FTTP: Accelerate the rollout of fibre (FTTP) and Very High-Capacity Networks
+        (VHCN), particularly in rural areas, and streamline permitting procedures and raising
+        awareness about gigabit connectivity benefits among businesses and households.
+       -   Edge computing: Introduce concrete measures to support the deployment of edge
+        nodes and operationalise the national 2030 target. Ensure dedicated funding and public-
+         private coordination mechanisms are in place.
+       -  SMEs and advanced technologies: Continue and expand targeted support for the digital
+         transformation of SMEs, with particular focus on reducing the adoption gap for AI, cloud,
+       and data analytics between SMEs and large enterprises. Increase the visibility of support
+         tools and foster regional innovation ecosystems to diffuse digital solutions.
+       -   ICT specialists: Strengthen the attractiveness and labour market relevance of ICT
+         careers, with a special focus on boosting the number of female ICT professionals. Further
+          align digital education and reskilling programmes with business needs, especially in
+         cybersecurity, AI, and advanced digital technologies.
+       -   Cybersecurity: Strengthen cybersecurity preparedness, particularly in critical
+         infrastructure sectors. Finalise the new National Cybersecurity Strategy and clarify
+         funding mechanisms to support implementation across public and private sectors.
+
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the
+Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to
+Member States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters:
+Digital Skills, Green IT, and the Uptake of Digital Technologies.
+
+                                        3 Czechia
+
+
+
+
+       -   Digital and green transition: Develop a comprehensive strategy to align digitalisation
+        with environmental goals.
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Czechia’s digital competitiveness is an essential component of its broader economic strength,
+particularly as the country seeks to leverage digital transformation to boost innovation, productivity,
+and global market positioning. Czechia’s economy remains export-driven, with strong industrial
+foundations  particularly  in automotive manufacturing, machinery,  electronics, and  ICT-related
+products. Recently, the digital sector has gained greater prominence, supported by significant strategic
+investments,  notably  in  areas  such  as   artificial  intelligence  (AI),  quantum  technologies,
+microelectronics, and advanced digital services.
+
+The updated National Artificial Intelligence Strategy 2030 represents a cornerstone of Czechia’s
+digital ambitions. Developed by the Ministry of Industry and Trade, this strategy aligns closely with
+the broader Digital Czechia Strategy, designating AI as a strategic technology under the TWIST
+programme, which boasts a substantial budget of approximately EUR 200 million (CZK 5 billion ). TWIST
+prioritises not only AI but also quantum technologies and microelectronics, with a strong emphasis on
+translating research and development (R&D) into practical commercial applications. Initiatives under
+this programme include subsidy schemes, retraining courses, and direct support for SMEs adopting
+innovative AI solutions.
+
+Quantum research also forms an important element in Czechia’s push for digital competitiveness.
+The continued development of its National Strategy for Quantum Technologies (NKS) aims at nurturing
+the quantum ecosystem - from fundamental research and education to commercial applications.
+Despite some delays, such as postponing the deployment of the LUMI-Q quantum computer, Czechia
+maintains its ambitious role within the broader European quantum research landscape.
+
+Czechia’s start-up ecosystem, although vibrant, faces ongoing challenges. Currently hosting four
+unicorns, Czechia shows potential in scaling innovative digital enterprises. However, small and
+medium-sized enterprises (SMEs) and start-ups continue to encounter significant barriers, including
+limited access to venture capital, particularly during critical scale-up phases. To address these
+challenges, Czechia has intensified its efforts through multiple programmes, including the Technology
+Incubation initiatives supporting 250 start-ups, the EUSPA Business Incubation Centre, as well as
+dedicated acceleration programmes aimed at facilitating international market expansion. Efforts have
+also been directed at bolstering local venture capital infrastructure through a dedicated ‘Fund of
+Funds’ initiative, aimed specifically at increasing investment in deep tech and improving the availability
+of angel investment.
+
+Despite considerable progress, digital infrastructure remains a mixed picture. While the coverage of
+high-speed broadband and 5G has experienced robust growth rates surpassing EU averages, overall
+penetration levels of Very-High Capacity Networks (VHCN) and Fibre remain below EU benchmarks.
+Similarly, the adoption by enterprise of key digital technologies, including cloud computing (35.23%),
+data analytics (19.49%), and AI (11.26%), trails behind EU averages. The gap between SMEs and large
+
+
+
+
+                                        4 Czechia
+
+
+
+enterprises  in adopting these technologies  further  highlights  structural  challenges, which,  if
+addressed, could significantly elevate Czechia’s competitive standing.
+
+From a broader economic perspective, the ICT sector in Czechia accounted for 4.93% of Gross Value
+Added in 2022, standing marginally below the EU average of 5.46%.4 Moreover, the ICT sector
+significantly contributes to the country’s R&D activities, accounting for 26.91% of business expenditure
+on R&D and employing 26.21% of total R&D personnel. This strong involvement suggests a solid
+foundation for further digital innovation, reinforcing Czechia’s potential to grow its digital economy
+and reduce reliance on external technology providers.
+
+Overall, Czechia’s strategic focus on advanced digital technologies, robust investment frameworks,
+and targeted support for start-ups positions the country to enhance its digital competitiveness
+significantly.  Continued  policy emphasis on  addressing  infrastructure  gaps,  improving SME
+digitalisation, and fostering a more dynamic start-up ecosystem will be crucial for sustained progress.
+
+According to the 2025 Eurobarometer5, a large majority of Czech respondents (76%) consider
+building efficient and secure digital infrastructures, including connectivity and data processing
+facilities, to be an important priority for public authorities. While this is slightly lower than the EU
+average of 86%, it still reflects strong public support for investment in robust digital infrastructure.
+
+Building technological leadership: digital infrastructure and technologies
+
+Czechia is rapidly expanding its digital infrastructure, with strong progress in 5G coverage, which
+now reaches nearly all households, including in rural areas. While Fibre-To-The-Premises (FTTP) and
+VHCN coverage still lag behind EU averages, both are growing at above-average rates. The country is
+also advancing in emerging strategic technologies. It has adopted a National Semiconductor Strategy,
+increased investments in AI, and plays an active role in quantum computing through the EuroHPC Joint
+Undertaking (JU). Overall, Czechia is steadily enhancing its digital foundation while stepping up efforts
+to contribute to EU technological leadership.
+
+Connectivity infrastructure
+Czechia’s VHCN coverage, both in total and for households in sparsely populated areas, remains
+among the lowest in the EU despite recent improvements. In 2023, total VHCN coverage in Czechia
+was 50.54%, compared to the EU’s 78.64%, while in 2024, it reached 53.91%, remaining below the EU’s
+82.49%.
+
+The growth rate for total VHCN coverage in Czechia stood at 6.7%, exceeding the EU’s 4.9%, which
+signals positive momentum but has yet to compensate for the significant gap in absolute coverage
+levels. For households in sparsely populated areas, Czechia’s coverage in 2023 was 7.22% and in 2024
+it was 10.04%, lower than the EU’s 55.59% and 61.89%, respectively. The growth rate for this category
+stood at 39.1%, outperforming the EU’s 11.3%, but from a very low baseline, underscoring persistent
+disparities in rural access. Overall, the country is lagging behind compared to its national trajectory.
+
+Czechia’s FTTP coverage is also below the EU average. In 2023, total FTTP coverage in Czechia was
+36.05%, compared to the EU’s 63.87%, while in 2024, it reached 40.58%, remaining below the EU’s
+69.24%. The growth rate for total FTTP coverage in Czechia was 12.6%, exceeding the EU’s 8.4%. For
+households in sparsely populated areas, Czechia’s coverage in 2023 was 7.2% and in 2024 it was
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note
+accompanying the State of the Digital Decade report 2025
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5 Czechia
+
+
+
+10.04%, lower than the EU’s 52.55% and 58.78%, respectively. The growth rate for this category stood
+at 39.4%, outperforming the EU’s 11.9%. Both urban and rural areas continue to face structural
+challenges in Fibre roll-out, which may also constrain the digitalisation of businesses, particularly SMEs
+operating outside major hubs. Overall, the country is on track with its national trajectory.
+
+Czechia’s overall 5G coverage exceeds the EU average. In 2023, total 5G coverage in Czechia was
+94.6%, compared to the EU’s 89.05%, while in 2024, it reached 99.08%, remaining above the EU’s
+94.35%. The growth rate for total 5G coverage in Czechia was 4.7%, below the EU’s 6.0%. For
+households in sparsely populated areas, Czechia’s coverage in 2023 was 72.7% and in 2024 it was
+95.3%, higher than the EU’s 71.10% and 79.57%, respectively. The growth rate for this category stood
+at 31.1%, outperforming the EU’s 11.9%.
+
+Czechia’s 5G coverage in the 3.4-3.8 GHz band is below the EU average. In 2023, total 5G coverage in
+this band in Czechia was 39.3%, compared to the EU’s 51.06%, while in 2024, it reached 42.36%,
+remaining below the EU’s 67.72%. The growth rate for total 5G coverage in this band was 7.8%, below
+the EU's 32.6%. For households in sparsely populated areas, Czechia’s coverage in 2023 was 32.28%
+and in 2024 it was 32.3%, higher than the EU's 15.86% and 26.19%, respectively. The growth rate for
+this category stood at 0.1%, below the EU's 65.1%.%.
+
+Czechia’s 5G spectrum assignment for pioneer bands  is below the EU average. In 2024, the
+percentage of harmonised spectrum assigned in Czechia was 66.67%, compared to the EU’s 73.4%. It
+remained at 66.67% in 2025, while the EU’s grew to 74.63%. Czechia saw no growth between 2024
+and 2025, while the EU’s growth stood at 1.7%.
+
+Czechia’s digital economy and society index shows a mixed performance. While the country excels in
+overall 5G coverage and growth in sparsely populated areas for VHCN and FTTP, it continues to lag
+behind in overall Fibre and VHCN deployment which may hinder the digitalisation of enterprises. The
+5G coverage in the 3.4-3.8 GHz band and the 5G spectrum assignment for pioneer bands also need
+improvements.
+
+VHCN and FTTP
+
+In its adjustment to the national strategic roadmap, Czechia proposed a new target for FTTP coverage
+of 60% by 2030. This new target is a step forward from the previous roadmap, which did not define
+any specific FTTP goal. Although the new FTTP target is below the EU ambition, it appears realistic
+given Czechia’s starting point and recent growth trends. Coverage stood at 36.1% in 2023, standing
+significantly below the EU average of 64%. However, the country has demonstrated increasing
+momentum with almost a 17% annual increase in installed FTTP lines during the first half of 2024
+alone. Considering this accelerated pace, alongside the adoption of EU-level measures such as the
+Gigabit Infrastructure Act and the Action Plan to implement certain measures to support the planning
+and construction of electronic communications networks, designed explicitly to simplify network roll-
+out procedures and promote Fibre-ready constructions, the 60% target by 2030 seems attainable,
+though continued efforts and proactive policy support remain necessary.
+
+On VHCN, Czechia’s target of 95% remains unchanged from the original 2023 roadmap. While this
+target aligns closely with the EU ambition, it remains a challenging target to achieve. In 2024, VHCN
+coverage stood  at approximately 53.91%,  facing  persistent  barriers including slow  roll-out  -
+attributable to low consumer take-up of high-speed broadband,- and lengthy permit processes for
+infrastructure deployment. Further measures may be required to ensure the 95% target remains
+achievable within the timeframe.
+
+
+                                        6 Czechia
+
+
+
+In terms of market developments, 2024 saw notable consolidations with significant mergers and
+acquisitions impacting the competitive landscape. CETIN, the incumbent operator, undertook major
+acquisitions, including Nej.cz and Nordic Telecom Regional, increasing its market share.
+
+Investments in fixed networks continue, with annual investments rising by approximately 3.7% to
+EUR €362  million (CZK  8.93  billion)  according  to the  National  Regulatory  Authority  for
+telecommunications. The continued deployment by both major and local operators indicates a
+positive market dynamic supporting the expansion of Fibre coverage.
+
+According to Czech authorities there is currently no formal or official plan to switch-off the copper
+network, and no specific timeline has been established for this transition. The authorities refer to
+investments already made in Digital Subscriber Line (DSL) networks, which still play an important role
+in certain rural areas. As a result, a complete copper switch-off by 2030 does not seem to be realistic.
+
+5G
+
+Czechia maintains its ambitious target of 100% 5G coverage by 2030, which is contingent on satellite
+technology capable of delivering comparable performance to terrestrial 5G networks. Given the
+observed coverage of 99.08% in 2024, this target remains very realistic and aligns with the EU’s
+ambitions for comprehensive coverage. Overall, it appears that Czechia is on track according to its
+national trajectory.
+
+The national adjusted roadmap includes seven measures supporting 5G deployment, ranging from
+spectrum auctions to subsidies for underserved areas.
+
+Despite recommendations from the 2023 State of the Digital Decade report, Czechia did not
+introduce specific measures to assign the 26 GHz band in its adjusted roadmap. Nonetheless,
+preparations for allocating this band have advanced, with the national regulatory authority for
+telecommunications, the Czech Telecommunication Office (CTU) planning a public discussion in 2025
+focused on implementing an improved authorisation approach, particularly facilitating Fixed Wireless
+Access (FWA) and indoor applications.
+
+Czechia has partially addressed previous recommendations by setting conditions within the licensing
+framework to encourage operator-driven deployment in the 3.4-3.8 GHz band. However, the
+roadmap still lacks specific new measures on promoting the widespread deployment of business-to-
+business (B2B) and business-to-consumer (B2C) applications and accelerating stand-alone 5G core
+network development.
+
+In parallel, Czechia has already completed the allocation of the 700 MHz band, which was fully
+assigned during a spectrum auction launched in August 2020. The authorisations became effective at
+the beginning of 2021 and were granted to three mobile network operators (MNOs).
+
+Investment in mobile networks saw significant growth, with total investments increasing annually
+by approximately 23.6% to approximately EUR 422.1 million (CZK 10.5 billion). All MNOs actively
+upgraded and broadened their radio access network (RAN) infrastructure to support comprehensive
+5G deployment. Particular attention has been given to coverage of rail corridors, tunnels, and
+identified ‘white spots’ areas.
+
+Despite robust overall coverage, the deployment of 5G in the critical 3.4-3.8 GHz band has
+progressed slowly.
+
+
+
+
+                                        7 Czechia
+
+
+
+
+2024 recommendation on connectivity infrastructure: (i) Accelerate the rollout of FTTP, among others
+by raising awareness on the benefits of Gigabit networks, by simplifying processes and permits for
+rolling out networks, and by promoting the construction of fibre-ready buildings. (ii) Ensure sufficient
+access of new players to spectrum for innovative business-to-business (B2B) and business-to-
+consumer (B2C) applications and encourage operators to speed up the deployment of 5G stand-alone
+core networks.
+
+The Czechia made some efforts to address the recommendation through new policy actions in 2024.
+Czechia’s adjusted roadmap introduces new policy targets and continues  efforts to improve
+connectivity, particularly in the roll-out of Fibre networks. The adoption of a new FTTP coverage target
+of 60% by 2030 is a notable step forward. However, despite this progress, VHCN roll-out remains
+significantly below the EU average and lags behind the national trajectory. On 5G, while total coverage
+has nearly reached 100%, progress on the critical 3.4-3.8 GHz band remains limited, and no specific
+measures have been introduced to promote deployment of B2B/B2C applications or accelerate the
+development of stand-alone 5G core networks. Czechia plans to consult on the assignment of the 26
+GHz band in 2025, but the roadmap lacks concrete new actions in this area. Overall, while some
+important actions have been taken, further policy efforts are needed to fully address the 2024
+recommendation.
+
+
+
+Semiconductors
+Czechia aims at significantly advancing its strategic positioning in the semiconductor sector. A central
+pillar of Czechia’s semiconductor ambitions and one of the central elements of the adjusted national
+strategic roadmap, relates to the implementation of the National Semiconductor Strategy, adopted in
+October 2024.
+
+The Strategy sets out a clear vision to substantially upscale national semiconductor production
+capacity  - targeting a 300% increase by 2029  - and mobilise 9 000  skilled semiconductor
+professionals. Moreover, it sets out detailed measures to improve research, commercialisation of
+technologies, and international collaboration, underpinning Czechia’s contribution to the European
+Chips Act and broader EU technological sovereignty.
+
+The Strategy highlights the urgency of reducing dependence on global supply chains, particularly
+those concentrated in geopolitically sensitive regions such as Southeast Asia and seeks to reinforce
+Europe’s - and by extension Czechia’s - strategic autonomy. It builds on five strategic pillars (i) aligning
+with the European Chips Act through the establishment of a national competence centre and
+investment incentives; (ii) boosting Czech exports of advanced technologies by 200% relative to 2022
+levels;  (iii) supporting cutting-edge R&D and strengthening funding for applied semiconductor
+research; (iv) expanding the national talent pool through education and targeted migration policies;
+and  (v) promoting entrepreneurship and the  internationalisation of Czech SMEs within the
+semiconductor field.
+
+The Strategy is also firmly embedded in the broader national innovation agenda, alongside the
+National AI and National Quantum Strategies, forming a cohesive framework for advancing
+emerging and key technologies. The strategy also includes a detailed implementation roadmap with
+measurable targets, risk assessments, and long-term budgetary impact estimates, reflecting a systemic
+and  results-oriented  approach. By  focusing on enhancing human  capital,  improving  export
+performance, and enabling innovation ecosystems, the National Semiconductor Strategy positions
+
+
+                                        8 Czechia
+
+
+
+Czechia as a growing contributor to the European semiconductor landscape and an emerging player in
+this sector.
+
+Moreover, Czechia can count on a dynamic ecosystem of actors operating in semiconductors: a key
+actor in this area is the Czech National Semiconductor Cluster (CNSC), created in 2022. The CNSC acts
+as a national coordination body linking universities, major semiconductor companies, start-ups, and
+public  institutions,  focusing on  joint  research  initiatives,  innovation  projects, and  practical
+commercialisation. Czechia is also actively involved in regional collaboration through the Alliance of
+European Semiconductor Regions, connecting 12 key European regions to foster an integrated
+semiconductor value chain aligned with EU strategic objectives.
+
+The measures adopted are well-aligned with the overarching EU objectives and are set to make a clear
+and direct contribution to enhancing EU technological sovereignty. Czechia’s active engagement within
+the European Semiconductors ecosystem, combined with  strategic domestic investments and
+coordinated research initiatives, directly contributes to reducing the EU’s dependency on external
+semiconductor suppliers.
+
+
+
+Edge nodes
+According to the latest Edge Nodes Observatory report, Czechia has shown positive momentum in
+edge-node deployment, with the number of edge nodes increasing sharply from 10 in 2023 to 21 in
+2024. However, it remains at an early stage of development relative to the ambitious national goal set
+for 2030.
+
+Previously, Czechia had not established a specific target or trajectory for edge nodes in its original
+2023 roadmap. The adjusted roadmap addresses this gap, proposing a notably ambitious target of
+reaching 144 edge nodes by 2030. Given the current status of 21 nodes, achieving this target will
+require sustained acceleration and strong commitment from both public and private actors.
+
+While the adjusted roadmap clearly identifies the 144-node target, it does not set out specific
+measures or mechanisms for achieving this increase. According to Czech authorities edge-node
+development is currently taking place largely within private sector initiatives, notably driven by mobile
+network operators.
+
+At this stage, the primary forum for policy discussion and coordination is the 5G Alliance, where
+Czechia plans to discuss and define further strategic actions. Feedback from mobile operators during
+these consultations suggests a continuing momentum, with an anticipated addition of 10-20 new edge
+nodes by private actors during 2025. While engagement by private sector is encouraging, the roadmap
+currently lacks detailed plans for public sector involvement or specific policy incentives that might be
+required to significantly accelerate deployments.
+
+At present, Czech authorities have not finalised a national monitoring framework for edge-node
+deployment, which remains under consideration. Given the substantial planned growth, quickly
+establishing a clear monitoring mechanism will be essential for evaluating progress and adjusting
+policy interventions as necessary.
+
+2024 recommendation on Edge nodes: as edge computing is an important component of AI, future
+network deployment, and the Internet of Things, Member States should consider edge-node
+deployment when creating investment programmes and strategies in these areas.
+
+
+
+                                        9 Czechia
+
+
+
+
+No  information  available on measures taken  to address the recommendation. While the
+establishment of a clear and ambitious numeric target in the roadmap is commendable, Czechia has
+not communicated any measure to support the deployment of edge nodes across the country and the
+absence of explicit accompanying measures raises concerns attainability of the goal.
+
+
+
+Quantum technologies
+Czechia continues to prioritise quantum technologies as a strategic domain within its broader digital
+and innovation policies. Work is ongoing to finalise the National Strategy for Quantum Technologies
+(NKS), designed to strengthen the national quantum ecosystem across fundamental research,
+education,  commercialisation,  and   application  domains,   including  quantum  computing,
+communication, sensors, metrology, and materials.
+
+Czechia remains actively engaged in key European initiatives through the IT4Innovations National
+Supercomputing Centre in Ostrava, which operates the Karolina supercomputer and supports AI
+development. As reported in the 2024 Digital Decade report, Czechia is set to host one of Europe’s
+first quantum-accelerated computers through the LUMI-Q consortium. Co-funded by EuroHPC JU and
+nine partner countries with a EUR 5 million budget, the system will be connected to Karolina and
+available to academia, industry, and public sector users. Its installation is expected by September 2025.
+
+In addition, Czechia has expanded its support for strategic digital technologies through the TWIST
+Programme, launched in December 2024 with approximately EUR 200.88 million (CZK 5 billion)
+budget. The Programme targets the development and commercialisation of emerging technologies,
+including quantum, AI, and semiconductors.
+
+Czechia also  participates  in the AI  Factories  initiative through the LUMI AI  Factory, with
+IT4Innovations joining the broader LUMI consortium. The project, with a EUR 602.65 million overall
+budget (CZK 15 billion) and a Czech contribution of over EUR 22.10 million (CZK 550 million), aims to
+create a comprehensive ecosystem providing access to high-performance computing infrastructure,
+datasets, and AI expertise. Co-funded by the Ministry of Education, Youth and Sports and the European
+Union, the initiative is expected to significantly enhance AI adoption in both science and industry.
+
+
+Supporting EU-wide digital ecosystems and scaling-up innovative
+enterprises
+
+Czechia continues to make gradual but meaningful progress in scaling-up digital transformation
+across its enterprise landscape. In 2024, 70.81% of SMEs reached at least a basic level of digital
+intensity  - just short of the EU average. As highlighted in the Draghi Report, deepening digital
+capabilities is essential for Europe’s competitiveness, and Czechia’s SME digitalisation path will be
+pivotal for the resilience of its export-oriented economy. While adoption of advanced technologies like
+AI, cloud, and data analytics has significantly improved - especially with AI use among businesses
+nearly doubling in 2024 - gaps remain, particularly for smaller firms.
+
+On the innovation front, Czechia’s start-up ecosystem remains active and expanding, supported by a
+growing range of  tailored funding instruments, incubation schemes, and  internationalisation
+initiatives. Nonetheless, challenges around scale-up financing and technology transfer persist, making
+continued strategic support and private investment mobilisation critical for future growth.
+
+
+
+
+                                       10 Czechia
+
+
+
+SMEs with at least basic digital intensity
+In 2024, 70.81% of SMEs in Czechia had at least a basic level of digital intensity, reflecting a relatively
+modest increase from 68.02% in 2022, with a growth rate of 2% per year. This growth rate has led
+Czechia to fall just short of the EU average of 72.91% in 2024. Notably, among all Czech SMEs, 32.61%
+had a high or very high  digital  intensity,  aligning  closely with the EU average of 32.66%.
+Overall, positioning itself slightly below EU standards, Czechia still has room for improvement in the
+digitalisation of its SMEs.
+
+Czechia’s national target for SME digitalisation remains unchanged from the previous roadmap, set
+at 80% by 2030. Given the observed digitalisation trends and current measures in place, the target
+remains ambitious but achievable, provided that consistent and targeted support is maintained and
+expanded in the coming years.
+
+Czechia’s adjusted roadmap introduces notable measures to bolster SME digitalisation, particularly
+through two flagship calls under the Operational Programme Technologies and Application for
+Competitiveness (OP TAC), funded by the European Regional Development Fund.
+
+       ‘Digital Enterprise – Call I’: Allocating approximately EUR 39.8 million (CZK 1 billion) to support
+      SMEs in implementing Industry 4.0 elements. The measure covers non-production digital
+        technologies, including software, hardware, cybersecurity solutions, logistics technologies,
+       sensor networks, and digital twins. Demonstrating high demand, 679 applications were
+        received in 2024 requesting approximately EUR 167 million, indicating strong interest among
+       Czech SMEs. Due to this success, a follow-up call (Digital Enterprise – Call II) with EUR 47.7
+        million (CZK 1.2 billion) will launch in Q4 2025, explicitly targeting SMEs outside Prague.
+
+       ‘Application – DEEP TECH – Call III’: With EUR 119 million (CZK 3 billion), this measure supports
+        innovative  industrial  research and  experimental  development  projects  in  advanced
+        technological areas including AI, Big Data, 5G, and semiconductors. The expected outcome
+        includes prototypes, validated technologies, digital solutions, and other practical innovations,
+        targeting between 120 and 160 projects.
+
+Both measures demonstrate an  effective  strategy towards  achieving  the  ambitious SME
+digitalisation target. Nonetheless, continued monitoring, expanded outreach, and additional clarity
+on long-term funding and implementation mechanisms will be critical for maintaining momentum and
+fully realising these objectives.
+
+Despite robust funding and strategic initiatives, Czech SMEs  still face substantial barriers to
+digitalisation and scale-up. A key challenge highlighted by Czech authorities is the complex and
+lengthy authorisation processes for deploying digital infrastructure. Authorities have responded by
+preparing an Action Plan focused on simplifying permits and accelerating infrastructure deployment,
+aiming for its approval by late 2025.
+
+Access to finance, particularly for digital start-ups and SMEs scaling up their businesses, is another
+critical issue. Czech authorities have implemented targeted programmes such as the Technology
+Incubation Programme, which currently supports 150 start-ups (with a total target of 250), offering
+funding, mentoring, and investor networking. Also, the EUSPA Business Incubation Centre provides
+additional tailored support. Furthermore, Czechia’s ‘Funds of Funds’ Programme, coordinated under
+the Deputy Prime Minister’s office, aims to improve venture capital availability and address gaps in
+angel investment, particularly for deep tech ventures.
+
+
+
+                                       11 Czechia
+
+
+
+
+2024 recommendation on digitalisation of SMEs: Continue and scale up the subsidy calls for
+digitalisation of SMEs to increase their capacity building through supporting services  in the
+implementation of their project.
+
+The Czechia made some efforts to address the recommendation through new policy actions in 2024.
+Czechia has positively responded to the 2024 recommendation by launching clearly defined, well-
+funded programmes, specifically designed to address SMEs’ needs and enhance their technological
+readiness. This particularly applies to the ‘Digital Enterprise – Call I’ measure. While these actions
+directly  address  previous  recommendations,  ensuring  sustained  engagement  and  proper
+implementation will be essential to maintain this progress.
+
+
+
+Take up of cloud/AI/data analytics
+The latest available data reveals that in 2023, 35.23% of Czech enterprises used cloud services,
+slightly below the EU average of 38.97%. More specifically, SMEs had a similar uptake of more than
+1 out of 3 (34.29%), while nearly 3 out of 5 (58.39%) large enterprises adopted cloud services. This
+indicates a gap of 24.1 percentage points between SMEs and large enterprises in Czechia, which is
+below the EU-level gap of 31.68.
+
+In 2023, in Czechia, 19.49% of enterprises used data analytics, lagging behind the EU average of
+33.25%. SMEs showed lower uptake at 18.2% (approximately 1 out of 5), while 51.47% (approximately
+1 out of 2) of large enterprises engaged in data analytics. This indicates a gap of 33.27 percentage
+points between SMEs and large enterprises, which is lower than the EU gap of 39.72 percentage points.
+
+In 2024, 11.26% of enterprises in Czechia used AI technology, only slightly lower than the EU average
+of 13.48%. Czechia thus experienced a very large increase in uptake of AI by its enterprises, almost
+doubling its value (a 90.85% increase) compared to 2023, when the uptake was at 5.9%. Notably, in
+2024, SMEs had an uptake rate of 10.1%, while large enterprises exhibited a notably higher usage rate
+of 40.48%. This indicates a gap of 30.38 percentage points between SMEs and large enterprises, which
+is in line with the EU gap.
+
+
+
+
+
+43.11% of enterprises in Czechia used AI technologies, sophisticated or intermediate cloud
+computing services, or performed data analytics in 2023, which reveals a lag compared to the EU
+average of 54.7%. More specifically, the uptake among SMEs was slightly lower at 41.77%, while large
+enterprises exhibited a higher engagement of 76.33%. This indicates a percentage point difference of
+34.56 in uptake between SMEs and large enterprises in Czechia, which is in line with the EU-level gap.
+
+
+                                       12 Czechia
+
+
+
+In 2022, SMEs in Czechia produced 39.6% of the value added in the economy, while large enterprises
+contributed 37.4% to the total. Notably, SMEs accounted for roughly 96.2% of the enterprises with
+more than 10 employees, while large enterprises represented 3.8%.
+
+The adoption of cloud computing, data analytics, and AI technologies in Czechia showed a mixed
+performance. The country lags behind EU averages in all three areas, particularly with respect to data
+analytics and AI adoption. In line with EU trends, a notable disparity also existed in technology
+adoption between SMEs and large enterprises. While large enterprises demonstrated relatively high
+levels of adoption, SMEs trailed behind in the adoption of all technologies. This mirrors broader EU
+trends, where large enterprises consistently outpace SMEs in technology adoption, with significant
+implications for Czechia’s economy, given that SMEs account for nearly 96% of enterprises with more
+than 10 employees and produce nearly 40% of the country’s value added.
+
+      Cloud
+
+Czechia’s national cloud adoption target remains unchanged at 60% by 2030. The latest data shows
+that 35.23% of Czech enterprises used cloud services in 2023, standing slightly below the EU average
+(38.97%). However, significant progress is still needed to achieve the target of 60%.
+
+To facilitate reaching the 60% cloud adoption target, Czechia has reinforced several comprehensive
+measures outlined in its roadmap. Notably, these include initiatives broadly targeting cloud adoption
+among enterprises, research organisations, and public authorities under the measure ‘Reaping the
+Benefits of Digitalisation’. In addition, explicit support for cloud solutions among SMEs and enterprises
+is provided through measures such as ‘Support for Industry 4.0 investments’ and ‘Direct support for
+digital transformation’. These measures are designed to significantly enhance cloud solution uptake,
+addressing existing barriers through targeted funding, strategic guidance, and improved access to
+digital infrastructure. Continued monitoring and targeted outreach, particularly towards SMEs, will be
+important to fully achieve the intended impact of these policies.
+
+These measures are sufficiently broad and relevant; however, to achieve the target close monitoring
+in terms of their impact will be required. Additional targeted support may also be needed, particularly
+addressing SMEs’ unique barriers to cloud uptake.
+
+      Data Analytics
+
+The adjusted roadmap increased Czechia’s national data analytics adoption target from 25% to 35%
+by 2030, influenced by the expected positive impacts of the European Data Act. Currently, Czechia
+remains behind the EU average, with only 19.49% of enterprises using data analytics in 2023. SMEs
+show a low adoption rate of 18.2%, compared to 51.47% among large enterprises. However, the gap
+of 33.27 percentage points is lower than the EU average gap (39.72 points), indicating the potential for
+moderate progress.
+
+Czechia’s roadmap addresses data analytics uptake through comprehensive support measures.
+Notably, data analytics within enterprise digitalisation is explicitly promoted under the measures
+‘Reaping the Benefits of Digitalisation’ and ‘Direct support for digital transformation’. Furthermore,
+cohesion-funded initiatives such as ‘Digital Enterprise – Call I & II’ and ‘DEEP TECH – Call III’ provide
+significant support for advanced data analytics projects among SMEs.
+
+In addition, the ongoing implementation of the ‘RIS3 Strategy for New Technologies in Business  ‘,
+introduced with the 2023 roadmap, plays an important role in promoting digitalisation. Digitalisation
+is through formative measures and training is aimed at fostering the use of technologies such as data
+analytics. Its implementation between 2023 and 2027 should supports the emergence of ICT-driven
+
+                                       13 Czechia
+
+
+
+firms and aims to expand digital technology uptake among businesses, particularly at regional and local
+levels.
+
+Czech authorities anticipate positive impacts from the new EU Data Act Regulation, which should
+significantly facilitate data sharing and analytics, boosting adoption rates across enterprises.
+
+       Artificial Intelligence
+
+Czechia revised its national AI adoption target upwards, from 16% to 21% by 2030, in response to
+positive developments. The country recorded significant recent progress, with enterprise AI usage
+nearly doubling to 11.26% in 2024, closely approaching the EU average (13.48%). Nonetheless, the
+adoption gap between SMEs and large enterprises reflects EU-level disparities.
+
+To support the ambitious AI adoption goal, Czechia introduced several targeted measures. Notably,
+the implementation of the ‘National AI Strategy’ explicitly addresses barriers such as limited SME
+awareness, high implementation costs, and skill shortages, providing tailored information tools,
+training, and affordable AI experimentation platforms for SMEs.
+
+On AI, Czechia contributes to the OpenEuroLLM project, coordinated by Charles University, a flagship
+consortium funded under the Digital Europe Programme (EUR 37.4 million), which aims to develop
+multilingual open-source large language models. The project has received the prestigious Strategic
+Technologies for Europe Platform (STEP) Seal.
+
+In addition, dedicated initiatives under ‘OP TAC ‘, including the Digital Enterprise Calls and DEEP TECH
+initiatives introduced by the adjusted roadmap, offer substantial incentives to support innovative AI
+solutions within SMEs and enterprises. Digital Enterprise – Call I targets the digital transformation of
+SMEs through investments in Industry 4.0 technologies, including ICT systems, cybersecurity, intra-
+company connectivity, and digital twins - enablers that lay the groundwork for broader AI adoption.
+With EUR 40.18 million (CZK 1 billion) allocated under this call and significant interest shown by over
+670 applicants in 2024, the measure has proven to be particularly attractive within the OP TAC
+framework.
+
+Meanwhile, ‘DEEP TECH – Call III’ explicitly supports AI-focused industrial research and experimental
+development, alongside other deep tech areas such as Big Data, 5G, and semiconductors. Backed by
+EUR 120.53 million (CZK 3 billion), it aims to fund up to 160 high-impact projects delivering prototypes,
+functional samples, or digital solutions. This initiative is instrumental in driving the uptake of AI within
+Czech industry, with the potential for additional funding increases depending on demand. Together,
+these measures reinforce Czechia’s ambition to strengthen its innovation base and accelerate AI
+deployment across the business sector.
+
+These measures are strongly aligned with Czechia’s ambitious AI objectives and sufficiently address
+the barriers that have been identified. Sustained momentum and targeted SME engagement are
+critical for success.
+
+2024 recommendation on AI/Cloud/Data analytics uptake: review the mix of measures to support
+the adoption of advanced digital technologies, including AI, Cloud and big data to understand the
+decline in adoption. Stimulate the adoption of next generation cloud infrastructure and services by
+companies of all sizes, including by liaising with the Cloud IPCEI Exploitation office and/or the
+coordinators and the Member States participating in the IPCEI-CIS.
+
+Czechia made some efforts to address the recommendation through new policy actions in 2024.
+Czechia has taken steps to strengthen the adoption of AI, cloud, and data analytics, particularly among
+
+                                       14 Czechia
+
+
+
+
+SMEs, through a more coherent mix of support measures introduced in the adjusted roadmap. While
+the country still lags behind the EU average in all three areas, recent progress - especially in AI uptake,
+which nearly doubled in 2024 - is noteworthy. In response to the 2024 recommendation, Czechia
+introduced targeted measures such as the Digital Enterprise Calls and DEEP TECH initiatives under OP
+TAC, offering substantial financial incentives for projects involving AI, cloud computing, and data
+analytics. These calls are expected to generated high interest among SMEs and accelerate digital
+transformation, particularly through the adoption of Industry 4.0 technologies and support for
+advanced R&D. While no specific reference was made to engagement with the Cloud IPCEI Exploitation
+Office, measures addressing cloud uptake were clarified and reinforced within the roadmap. Overall,
+the actions taken in 2024 demonstrate a positive, albeit partial, response to the recommendation.
+
+
+
+Unicorns, scale-ups and start-ups
+In 2024, Czechia maintained a stable ecosystem of four unicorn companies. The roadmap sets out a
+realistic target aiming at the emergence of 6 unicorns by 2030. This figure reflects both the current
+situation and the strength of the domestic innovation ecosystem.
+
+Over the years, Czechia’s has introduced support programmes indirectly and directly supporting the
+reinforcement of the country’s start-up environment and digital innovation capabilities. Notably,
+CzechInvest, the government’s business and investment development agency, remains central to the
+country’s support framework.  Since 2011,  CzechInvest has supported around 680  start-ups
+domestically and 232 abroad, providing comprehensive assistance including funding, mentoring,
+consulting,  training, networking, and  facilitating connections between  local and  international
+investors.
+
+Under the ongoing ‘Technology Incubation Programme’ (2022-2027), CzechInvest is targeting to
+support at least 250 innovative start-ups, with an allocated budget of EUR 25.6 million. As of early
+2025, the programme has already supported 137 start-ups, reflecting solid implementation progress.
+
+At the same time, the ‘Akcelerace startupů’ Programme, launched in 2024 specifically aims at the
+expansion of start-ups. The programme has a budget of EUR 8.5 million, intended to support at least
+100 companies across diverse sectors. CzechInvest further promotes sector-specific innovation, such
+as through the European Space Agency Business Incubation Centre (ESA BIC), and the NATO’s DIANA
+initiative, which fosters emerging and disruptive dual-use technologies.
+
+In response to longstanding concerns regarding access to finance - particularly the shortage of angel
+investors and venture capital funding - Czech authorities introduced targeted financing instruments.
+A notable measure is the Fund of Funds under the Recovery and Resilience Facility (RRF), launched in
+2024 to catalyse private investments by reducing risks and improving access to pre-seed and seed
+funding, especially in strategic technology areas such as AI, Big Data, quantum computing, and Edge
+computing.
+
+In addition, the ‘Internationalisation Programme’, launched in June 2024 under CzechInvest,
+supports Czech start-ups in entering international markets, providing financial resources, tailored
+mentoring, and strategic assistance to facilitate their global expansion.
+
+Despite these initiatives, barriers remain prominent. Czechia continues to exhibit a relatively shallow
+venture capital market, limiting domestic start-ups’ access to critical growth-stage financing. In 2023,
+total venture capital investments in Czech start-ups amounted to EUR 456 million, while the average
+
+
+                                       15 Czechia
+
+
+
+median pre-seed investment stood at EUR 960 000, highlighting modest  initial funding  levels
+compared to more developed ecosystems. Moreover, Czech entrepreneurs consistently identify a
+substantial gap between fundamental research and market-ready product development, often
+resulting in innovative projects remaining confined to research institutions due to insufficient early-
+stage funding.
+
+The Czech start-up environment nonetheless shows strong fundamentals and attractiveness for
+investors. With over 3 000 active start-ups, representing about 5% of national GDP, and approximately
+100 venture capital funds operating domestically, the ecosystem remains vibrant and internationally
+connected. According to the Startup Blink Global Ranking 2023, Czechia ranked 35th globally,
+demonstrating   international  competitiveness  despite  acknowledged  financing   challenges.
+Governmental efforts, supported by EU funds, regional aid programmes, and targeted initiatives such
+as the Technology Incubation Programme continue to enhance the business climate and investment
+appeal.
+
+2024 recommendation on Unicorns: Support applied research for patents and ideas to be adapted to
+the market and create a business case for innovation; Facilitate access to capital for startups, including
+venture and growth capital.
+
+Czechia made some efforts to address the recommendation through new policy actions in 2024.
+Czechia maintains a dynamic start-up ecosystem with solid fundamentals, though it continues to
+confront  structural  challenges,  particularly  related  to  access  to  scaling-up  finance. Ongoing
+governmental measures effectively address some barriers, but continued strategic engagement,
+targeted support measures, and intensified efforts to attract private and international venture capital
+investments remain essential in achieving Czechia’s full innovation potential by 2030.
+
+
+
+
+
+                                       16 Czechia
+
+
+
+Strengthening Cybersecurity & Resilience
+
+In Czechia, approximately 4 out of 5 (81.98%) individuals reported taking at least one action to
+safeguard their personal data online in 2023, standing considerably above the EU average of 69.55%.
+More specifically, at national level, over half (57.31%) undertook three or more actions (and therefore
+could be considered as having above basic digital safety skills). Refusing the use of personal data for
+advertising purposes was the most common action, indicated by 58.19% of individuals, while reading
+privacy policy statements was the least common, undertaken by 35.75% of individuals.
+
+
+
+
+
+In terms of enterprise cybersecurity, Czech businesses face a slightly higher occurrence of ICT-
+related security incidents compared to the EU average. In 2024, approximately 4.49% of Czech
+enterprises experienced ICT security incidents leading to unavailability of services due to external
+attacks such as ransomware or denial-of-service, compared to the EU average of 3.43%. Despite this
+challenge, Czech enterprises demonstrate strong awareness and preparedness. Around 92.08% of
+enterprises implement some form of ICT security measures (EU: 92.76%), and notably, 77.47% actively
+educate their employees on ICT security obligations, significantly exceeding the EU average of 59.97%.
+In addition, Czechia continues to make progress in deploying critical internet standards, with IPv6
+deployment reaching 22% among end users and 37% on servers as of Q3-2024, demonstrating positive
+steps towards ensuring scalable and secure internet infrastructure.
+
+When it comes to EU legislation, Czechia has not yet completed the transposition of the NIS2
+Directive.
+
+Czechia continues to emphasise cybersecurity as a strategic priority, particularly in the light of
+increased threats stemming from the geopolitical context, notably Russia’s war of aggression
+against Ukraine. The overall cybersecurity policy framework is currently guided by the National
+Cybersecurity Strategy and  its associated Action Plan. This strategy comprehensively targets
+cybersecurity resilience across public administration, enterprises, and  critical sectors including
+healthcare and infrastructure. Recognising the evolving threat landscape, Czech authorities started
+work in 2023 to update the National Cybersecurity Strategy. Contributions have been gathered from
+both private and public stakeholders, and the strategy is currently under preparation, with adoption
+expected by the end of 2025. An accompanying Action Plan detailing specific measures and timelines
+is planned following the adoption of the Strategy.
+
+
+
+                                       17 Czechia
+
+
+
+In addition, Czechia continues the implementation of the EU 5G Cybersecurity Toolbox, identified in
+the 2024 report as an essential step for safeguarding digital infrastructure. This effort contributes
+significantly to securing resilient communication networks and mitigating risks associated with
+emerging technologies and threats.
+
+The adjusted roadmap recognises the growing cybersecurity challenges Czechia faces, particularly
+in healthcare and  critical public  infrastructure  sectors. Increased budget  allocations  signify
+responsiveness to the heightened risk landscape. Nonetheless, more transparent and clearly defined
+funding mechanisms, explicitly tied to identified priorities and threats, are necessary to ensure robust
+cybersecurity defences.
+
+Czechia exhibits a strong overall cybersecurity awareness among its population and enterprises,
+coupled with proactive policy measures and strategic foresight. However, timely transposition of the
+NIS2 Directive and increased clarity regarding cybersecurity budget allocations remain  critical.
+Continued vigilance, comprehensive stakeholder engagement in the ongoing strategy development,
+and alignment with EU cybersecurity initiatives will be pivotal in reinforcing Czechia’s digital resilience
+by 2030.
+
+The 2025 Eurobarometer shows that 71% of Czech respondents believe that improved cybersecurity
+and better protection of online data would significantly facilitate their daily use of digital
+technologies, below the EU average of 81.
+
+2024 recommendation on cybersecurity: Continue the implementation of the 5G Cybersecurity
+Toolbox to ensure secure and resilient 5G networks.
+
+In 2024, Czechia continued the implementation of existing measures but did not take any new
+measures.
+
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Czechia’s digital transition strategy places strong emphasis on inclusiveness, with notable progress
+in digital skills across most population groups and limited gender, geographic, and educational
+divides. While younger and formally educated individuals show high levels of digital proficiency, older
+populations remain underserved, prompting targeted outreach through libraries and community-
+based training. The adjusted roadmap continues to prioritise digital education reforms and ICT
+workforce development, with expanded programmes for upskilling and initiatives to boost women’s
+participation in tech.
+
+Digital public services are becoming increasingly user-friendly and accessible, and the eID and e-
+Health ecosystems are advancing, albeit from a lower base. At the same time, Czechia’s digital
+democracy indicators remain below the EU average, with low civic participation online and limited
+
+                                       18 Czechia
+
+
+
+fact-checking of disinformation. These challenges point to the need for further efforts to foster trust,
+resilience, and critical thinking in the digital environment.
+
+According to the 2025 Eurobarometer, 79% of respondents in Czechia believe that  digital
+technologies will be important for accessing public services online by 2030 (EU average of 84%). The
+2025 Eurobarometer also shows that 69% of people in Czechia believe that human support to help
+access and use digital technologies and services would significantly facilitate their daily digital use -
+compared to 77% at EU level. In line with this, 81% of respondents in Czechia consider it important
+that public authorities ensure proper human support to accompany the digital transformation in
+people's lives.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+In 2023, Czechia stood out with a robust 69.11% of its population possessing at least basic digital
+skills, comfortably ahead of the EU average of 55.56%. There will be no new data collection in 2024
+but a closer look at the data reveals:
+
+   Gender Gap: The gender gap in digital skills is remarkably narrow in Czechia, with 69.48% of males
+    and 68.77% of females equipped with at least basic digital skills, creating a minor gap of only 0.71
+    percentage points. This is significantly lower than the EU average gap of 2.23pp.
+
+    Education Level: Impressive strides have been made in education, as those with high formal
+    education have a digital proficiency rate of 92.39%, which is well above the EU average of 79.83%.
+    For those with no or low formal education, the rate stands at 58.58%, and the gap between this
+    group and the national average is a modest 10.53pp, smaller than the EU average gap of 21.95pp.
+
+       Living Areas: In rural areas, 65.52% of residents have at least basic digital skills, surpassing the
+      EU average for
+        rural  areas  of
+       47.50%.   The
+        difference
+      between   rural
+      and other areas
+         in  Czechia   is
+       3.59pp,
+        indicating a less
+       pronounced
+         digital    divide
+      compared   to
+       the EU average
+       gap of 8.06pp.
+
+      Age   Groups:
+       Youth     digital
+        proficiency    is
+        exceptionally
+        high,      with
+      92.71% of 16 to
+        24-year-olds having at least basic digital skills, way over the EU average of 69.98%. However,
+
+
+                                       19 Czechia
+
+
+
+       the older age group of 65 to 74 years has a lower proficiency at 25.63%, which is below the EU
+       average of 28.19%.
+
+       Digital Skills Index Components: Czechia's performance in the Digital Skills Index is very good,
+        scoring above the EU average in all five skills. Communication and collaboration skills are at
+       90.11%, nearly on par with the EU average of 89.33%, and even the lowest score in digital
+       content creation at 73.77% beats the EU average of 68.28%.
+
+In summary, Czechia’s digital literacy is strong across various demographics, with minimal gaps in
+gender and rural-urban distribution, and high levels of digital skills among those with formal education.
+While the older population’s digital proficiency lags, Czechia’s overall performance in the Digital Skills
+Index suggests a solid foundation on which to build even more inclusive digital competency initiatives
+for all age groups.
+
+
+Czechia continues to demonstrate strong progress toward the Digital Decade target for basic digital
+skills. While the adjusted roadmap did not introduce new measures, the government has opted to
+continue implementing existing initiatives - particularly within the education sector - while exploring
+targeted solutions for digitally excluded groups.
+
+Efforts in the formal education system remain central to Czechia’s approach. A relevant overhaul of
+the national curricula  is underway. The aim  is to embed  digital  skills, including AI  literacy,
+cybersecurity, and digital well-being into primary education. Czech authorities plan a compulsory
+introduction of the changes as of the 2027-2028 academic year.
+
+Alongside  this,  teachers  are  being  supported  through  methodological  guidance,  training
+opportunities, and consultations, all with the goal of fostering long-term, system-wide digital
+capacity in schools.
+
+In terms of inclusion, Czechia has acknowledged the persistent digital divide affecting older age
+groups. To address this, new initiatives have emerged beyond the formal education system. In 2024,
+a memorandum of cooperation was signed between libraries, universities, and public institutions,
+aiming to deliver digital skills training through accessible community spaces such as public libraries.
+These actors are well positioned to reach older and digitally excluded populations, which are
+estimated to number around one million.
+
+While these measures do not yet constitute a comprehensive new strategy, they mark a growing
+recognition of the need for targeted inclusion policies. This is especially the case for older people and
+other underserved groups. Czechia’s strong baseline performance provides a solid foundation, but
+sustained outreach will be needed to ensure that digital proficiency becomes universal and future-
+proof across all layers of society.
+
+ICT specialists
+Czechia’s performance in ICT training and ICT specialists shows a mixed picture when compared to
+the EU average.
+
+Regarding ICT specialists, Czechia’s total percentage of ICT specialists as a share of total employment
+was 4.3% in 2023 and 4.5% in 2024, both standing lower than the EU’s 4.8% and 5.0%, respectively.
+However, Czechia’s growth rate of 4.7% outpaced the EU’s 4.2%. The percentage of women ICT
+specialists in Czechia was 12.4% in 2023 and 13.0% in 2024, below the EU’s 19.4% and 19.5%,
+respectively. That said, Czechia’s growth rate of 4.8% for women ICT specialists was notably higher
+than the EU’s 0.5%.
+
+
+
+                                       20 Czechia
+
+
+
+In 2022, 23.08% of enterprises with 10 or more employees in Czechia provided ICT training,
+surpassing the EU’s 22.37%. This trend continued in 2024, with 26.74% of Czech enterprises offering
+ICT training, compared to the EU’s 22.29%. The annual growth rate for enterprises providing ICT
+training in Czechia was 7.6%, significantly higher than the EU’s -0.2%.
+
+Czechia demonstrates a strong commitment to ICT training, with a higher percentage of enterprises
+offering such training compared to the EU average and a robust annual growth rate. However, the
+country lags behind the EU in the overall percentage of ICT specialists and the representation of
+women ICT specialists. Despite this, Czechia’s growth rates in these areas are encouraging, indicating
+a positive trajectory. Czechia’s efforts in promoting ICT training are commendable, with a higher
+percentage of enterprises engaged in this activity and a strong annual growth rate.
+
+To date, the country falls short of its national trajectory. To further enhance its ICT landscape, Czechia
+should focus on increasing the overall percentage of ICT specialists and, more importantly, the
+representation of women ICT specialists. The country’s higher growth rates in these areas suggest that
+targeted initiatives could yield significant improvements, aligning Czechia more closely with the EU
+average.
+
+Labour market demand for ICT professionals in Czechia is overall in line with the EU average across
+nearly all occupational profiles with some exceptions. For instance, 11% of online job postings in
+Czechia targeted ICT service managers, compared to just 3.8% EU-wide, indicating a high demand for
+leadership and strategic ICT roles. Similarly, software and applications developers and analysts
+accounted for 64.5% of job postings, slightly above the EU average of 58%. While demand for database
+and network professionals and ICT support technicians is slightly below EU averages (7.9% and 10.3%,
+respectively), the difference is marginal. However, Czechia has low demand for telecommunications
+and broadcasting technicians (0.2%) and electronics and telecom installers and repairers (0.7%).
+
+Czechia’s target for ICT specialists remains set at 7% of the employed population by 2030, below the
+EU-level target of 10%. While this reflects a cautious approach in the light of a relatively low starting
+point (4.3% in 2023), it also illustrates a missed opportunity to align with rising demand trends.
+
+The adjusted roadmap strengthens the focus on ICT workforce development, especially in higher
+education. Measures aim to reduce dropout rates in ICT tertiary programmes and encourage closer
+collaboration between secondary schools and higher education institutions.
+
+Furthermore, reskilling and upskilling measures have been expanded through national employment
+support programmes. An important initiative is the Ministry of Labour and Social Affairs’ (MPSV) ‘e-
+shop for digital skills’, offering individuals direct access to certified training opportunities, from basic
+to specialised ICT skills. Another tool, ‘NPO – Digi for a firm’, supports company-level digital skills
+development. These programmes aim to reach at least 130 000 individuals by 2025, with a total
+allocation of approximately €261 million (CZK 6.5 billion). While these are promising developments,
+long-term success depends on systemic integration and sustained funding.
+
+The 2024 report highlighted the need for a more ambitious approach to meet EU targets. While
+Czechia continues to lag in terms of target setting, it has acted on recommendations by enhancing
+flexibility in continuing education, deploying new training programmes, and preparing curriculum
+updates in regional and secondary education. These reforms are expected to show more clearly their
+impact closer to 2030.
+
+The adjusted roadmap updates Measure on ‘Taking into account ICT/Cybersecurity’, introducing
+awareness campaigns and school outreach  to  increase women’s  participation  in  ICT and
+
+                                       21 Czechia
+
+
+
+cybersecurity. Initiatives such as summer camps led by non-profits, coordination with organisations
+like ‘Czechitas’, and events like ‘Digital Czech Week’ are designed to boost visibility and interest among
+girls and young women. Additional actions include the ‘IT  is for Girls’ programme, where ICT
+professionals visit schools to inspire the next generation.
+
+Several measures in the adjusted roadmap and ongoing programmes also target high-level digital
+professionals. The expansion of professionally oriented higher education programmes, including in
+cybersecurity and AI, and in synergy with the upcoming National Cybersecurity Strategy, which is
+expected to prioritise cybersecurity skills and capacity building.
+
+Beyond the formal roadmap, Czechia is seeing a broader mobilisation of actors around ICT talent
+development. The establishment of regional training centres under the Czech Labour Office marks a
+decentralised approach to boosting digital capabilities.
+
+2024 recommendation on ICT Specialists: increase the attractiveness of science, technology,
+engineering and mathematics (STEM) studies and ICT careers especially among women.
+
+The country addressed fully the recommendation by putting significant policy actions into place in
+2024. Czechia has put in place multiple initiatives specifically aimed at increasing the attractiveness of
+STEM disciplines, placing particular effort in targeting women.
+
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Czechia’s digital public services and access to e-Health records have shown a mixed performance
+compared to the EU average, with notable improvements in growth rates across various categories.
+In 2023, Czechia’s total score for digital public services for its population was 76.33, lagging behind the
+EU’s 79.44. However, by 2024, Czechia’s score improved to 81.46, still below the EU’s 82.32. The growth
+rate for this category in Czechia was 6.7%, significantly higher than the EU’s 3.6%. For cross-border
+digital public services for its population, Czechia’s score was 63.78 in 2023 and 72.9 in 2024, surpassing
+the EU’s 71.28 in 2024. Czechia’s growth rate of 14.3% in this area outpaced the EU’s 4.3%.
+
+In the realm of digital public services for businesses, Czechia’s total score was 83.75 in 2023 and
+86.25 in 2024, slightly below the EU’s 85.42 in 2023 but higher than the EU’s 86.23 in 2024. Czechia’s
+growth rate of 3.0% exceeded the EU’s 0.9%. For cross-border digital public services for businesses,
+Czechia’s score was 67.5 in 2023 and 72.5 in 2024, both standing lower than the EU’s 73.13 and 73.76,
+respectively. However, Czechia’s growth rate of 7.4% was substantially higher than the EU’s 0.9%.
+
+Regarding access to e-Health records, Czechia’s total score was 51.06 in 2023 and 77.38 in 2024, both
+significantly lower than the EU’s 79.12 and 82.70, respectively. Nevertheless, Czechia’s growth rate
+of 51.6% was remarkably higher than the EU’s 4.5%.
+
+Czechia’s digital public services and access to e-Health records have shown a path of improvement,
+with growth rates consistently outpacing the EU average. While Czechia’s scores in these areas are
+generally lower than the EU average, the country’s rapid growth rates indicate a promising direction.
+The most significant improvements are seen in cross-border digital public services for its population
+and access to e-Health records, where Czechia’s growth rates are substantially higher than the EU’s.
+
+To further enhance digital public services and access to e-Health records, Czechia should focus on
+leveraging its strong growth rates to close the gap with the EU average. Policies aimed at sustaining
+
+
+                                       22 Czechia
+
+
+
+and accelerating this growth could lead to significant improvements in these areas. In addition,
+targeted investments in cross-border digital public services for businesses could help Czechia achieve
+higher scores in this category. Overall, Czechia’s digital public services and access to e-Health records
+are on a positive path, with growth rates indicating a promising future.
+
+e-ID
+There have been no significant changes regarding the overall implementation approach for the EU
+Digital Identity Wallet (EUDIW) since the previous roadmap. However, the adjusted roadmap
+introduces a new measure aimed at creating a platform to support the deployment of the EUDIW
+across Czechia. The platform is expected to facilitate the adaptation of government systems and ensure
+interoperability with the EUDIW framework, with deployment planned between 2025 and 2026.
+
+Parallel to this, Czechia continues to pilot its own national wallet solution, which currently has
+around 600 active users. While this application is still limited in scope - supporting only specific types
+of verifications - it forms the foundation for future integration with the European wallet ecosystem.
+
+Overall, Czechia registered a negative trend in the share of e-Government users within the
+population, which fell from 86.02% in 2022, to 78.52% in 2024.
+
+Digitalisation of public services for citizens and businesses
+The adjusted roadmap introduces several new measures aimed at enhancing digital public services
+and addressing administrative complexity. The newly established Competence Centres under the
+Digital Information Agency (DIA) play a central role in supporting public sector bodies in their digital
+transformation efforts. These centres provide expert guidance, promote reusable solutions, and offer
+methodological and project management assistance - primarily at the central level - but open to all
+levels of public administration. This systemic approach  is expected to improve the quality and
+efficiency of digital service provision.
+
+Complementing  this,  the ROPIM  reform  (Reform  for  optimisation,  implementation  and
+methodological management  of  digitalised  services  including  their  capacity  planning and
+communication of information to client public administration) aims to streamline service design and
+delivery through better capacity planning and enhanced communication with end users. Other
+notable initiatives include the creation of a Dataset Management System (DSMS) for improved data
+governance, and the Election Management Information System (ISSV), which aims to digitalise
+election-related administrative procedures, laying the groundwork for a common digital electoral
+process.
+
+Overall, Czechia remains committed to the modernisation of its digital public services. Digitalisation
+is also seen as a key enabler of administrative simplification. The ‘Only Once’ principle and
+interoperable system development are actively promoted through the national legal framework and
+supported by the architectural planning team within the Digital and Information Agency (DIA). A
+growing network of ‘Czech Points’ provides in-person assistance across the country to promote uptake,
+particularly among digitally less engaged populations. In addition, efforts are underway to federate
+local and sectoral portals, and although not all activities are formalised in the roadmap, they contribute
+significantly to service accessibility and coherence.
+
+While progress is uneven across different ministries and user groups, the strategic direction is
+increasingly aligned with Digital Decade goals. Continued support for local governments, broader
+public engagement, and further mobile access expansion - particularly via the Citizen’s Portal - will be
+critical to maintaining momentum and fostering inclusive access to digital public services.
+
+
+                                       23 Czechia
+
+
+
+
+2024 recommendation on Digitalisation of public services: Accelerate efforts for the digitalisation of
+public services, also ensuring sufficient administrative resources to support these.
+
+Czechia made some efforts to address the recommendation through new policy actions in 2024.
+Czechia continued its steady advancement in the digitalisation of public services in 2024, with
+measurable improvements in services for both businesses and citizens. Several new policy actions
+were introduced in the adjusted roadmap. Most notably, the establishment of Competence Centres
+under the Digital Information Agency (DIA) and the launch of the ROPIM reform signal a stronger
+institutional focus on service quality, administrative capacity, and user-centric design.
+
+
+
+e-Health
+Czechia continues to show notable progress in the digitalisation of healthcare services, albeit from
+a relatively low baseline. While the overall level of development in this area remains below the EU
+average, recent improvements - particularly in access to electronic health records - demonstrate a
+clear upward trajectory.
+
+Despite this encouraging trend, challenges remain. Czechia’s decentralised healthcare system, where
+hospitals retain responsibility for their own digital infrastructure, poses limitations in terms of
+interoperability and consistent data quality.
+
+To address these remaining challenges  - particularly the limitations posed by a decentralised
+healthcare system and fragmented data infrastructure - Czechia plans to channel part of the EU
+Recovery and Resilience Facility (RRF) funds to the National Health Information Portal, managed by
+the Ministry of Health. These funds will support both central digitalisation projects (NPO) and regional
+initiatives (NPO/IROP), including those led by hospitals and emergency medical services. A key focus is
+on strengthening interoperability and improving access to medical records for both patients and
+healthcare providers.
+
+The adjusted roadmap does not introduce any new e-Health-specific measures. However, the
+implementation of measures focused on developing Czechia’s central e-Health infrastructure is nearing
+completion and considered a critical enabler for broader digital transformation in healthcare. The
+infrastructure is expected to provide the computing power and secure data storage needed for key
+health data use cases. In 2025-2026, it is expected to support further digitalisation efforts across the
+healthcare system. Success  will be assessed through  operational  indicators such as system
+responsiveness and integration capacity.
+
+Looking ahead, Czechia’s rapid growth in e-Health metrics - particularly in cross-border services and
+e-Health Records access  - signals a positive direction. To sustain this momentum, continued
+investment, stronger system interoperability, and user-friendly access for citizens will be essential.
+
+2024 recommendation on e-Health: Expand the coverage of the online access service to ensure that
+all citizens can access their electronic health data online. Expand the data types made available to
+citizens through the online access service. Increase the supply of health data by onboarding more
+categories of healthcare providers.
+
+In 2024, Czechia continued the implementation of existing measures but did not take any new
+measure. Czechia has demonstrated notable progress in expanding access to electronic health data.
+While no new  e-Health-specific measures were  introduced  in  the  adjusted roadmap,  key
+implementation steps are underway to enhance system-wide access to e-Health records.
+
+
+
+
+                                       24 Czechia
+
+
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+In terms of digital participation, Czechia shows relatively limited engagement compared to the EU
+average. In 2024, 8.64% of Czechs took part in online consultations or voted to define civic or political
+issues - such as urban planning or signing petitions - compared to 10.05% across the EU. This marks a
+slight increase from 8.10% in 2023 but remains well below the EU average. When  it comes to
+expressing opinions on civic or political matters via websites or social media platforms like Facebook
+or X, only 8.02% of Czechs engaged in such activities in 2024, significantly below the EU average of
+16.48%. This continues a downward trend from 9.00% in 2022 and 7.88% in 2023.
+
+As a result, overall online civic or political participation in Czechia - defined as the combination of
+these two forms of engagement - stood at just 12.43% in 2024, substantially lower than the EU
+average of 20.45%. While participation has remained relatively stable in Czechia over the past three
+years (12.16% in 2022 and 11.87% in 2023), the widening gap with the EU average points to the need
+for stronger national efforts to foster digital civic engagement, particularly among underrepresented
+groups.
+
+According to the 2025 Eurobarometer, a strong majority of Czech respondents believe that
+protecting children online is a matter of high urgency. Specifically, 89% consider urgent action
+necessary to address the negative impact of social media on children’s mental health, and 87% say the
+same regarding cyberbullying and online harassment. Furthermore, 86% support urgent action to
+implement age assurance mechanisms to restrict access to age-inappropriate content.
+
+At the same time, 75% of Czech respondents consider it important for public authorities to shape the
+development of artificial intelligence and new digital technologies in a way that respects fundamental
+rights and values (EU average of 83%).
+
+In 2023, 61.44% of individuals in Czechia reported having encountered untrue or doubtful content
+online, a figure well above the EU average of 49.25%. However, only 23.75% of these individuals fact-
+checked the information. Therefore, according to the survey, although quite a significant share of
+Czechs came across dubious content, their efforts to verify it were relatively low. Young people (16-24)
+(67%) and adults (25-64) (66.42%) had the same likelihood of identifying untrue or doubtful content,
+though their verification rates varied, at 35.98% for young people and 25.28% for adults.
+
+In conclusion, the 2023 data on online interactions in Czechia reveals a high prevalence of potentially
+misleading information, with a significant proportion of individuals encountering perceived untrue
+or doubtful content online. However, despite this, most individuals did not verify the accuracy of the
+information, highlighting a gap in critical thinking and digital literacy skills.
+
+Leveraging  digital transformation  for a
+smart greening
+
+Czechia has increasingly recognised the need to link the green and digital transitions. While the topic
+is gradually gaining visibility, it has yet to become a clearly prioritised dimension across national digital
+policy. A dedicated section has been added under the general objectives of the Digital Decade
+
+                                       25 Czechia
+
+
+
+roadmap, but the adjusted roadmap does not introduce fully-fledged measures in this area. Efforts
+remain fragmented, and no structured or coherent strategy specifically addresses the environmental
+impact of digitalisation, as already recommended in the 2024 Digital Decade report.
+
+One key development is the adoption of new energy efficiency obligations for data centres, which
+entered into force in 2024. These obligations, outlined in Act No 469/2023 Coll. (Energy Act), introduce
+differentiated requirements for data centres based on their power input. Facilities over 500 kW must
+report data on energy and water consumption and the reuse of waste heat, while those exceeding 1
+MW are required to ensure the recovery of waste heat for district heating or other energy purposes.
+These provisions represent an important step towards aligning digital infrastructure with sustainability
+goals. Their implementation will help generate the first consistent datasets on the environmental
+footprint of digital infrastructures in Czechia. However, there are no dedicated studies or observatories
+tracking the  digital  sector’s  full environmental  footprint,  leaving room  for more  systematic
+assessments.
+
+At the level of households, Czechia ranks significantly above the EU average in recycling ICT
+equipment. According to the 2024 data, 23.27% of individuals reported recycling old desktop
+computers (compared to the EU average of 14.66%), while 17.81% recycled mobile phones or
+smartphones (EU: 10.93%), and 15.07% recycled laptops or tablets (EU: 11.31%). These figures suggest
+a relatively strong culture of device recycling among Czechs, an important trend given that most the
+digital sector’s carbon footprint stems from the production and disposal of devices.
+
+Despite these positive signals, the adjusted roadmap does not include any new policy measures or
+targets related to digital sustainability. Czechia has yet to adopt a structured policy to monitor
+emissions, energy use, or life cycle impacts of digital technologies beyond the newly introduced
+obligations for data centres.
+
+That said, several initiatives highlight the potential of digital technologies in supporting the green
+transition. These include the 2025-2030 National Action Plan for Smart Grids, which promotes the
+integration of ICT into energy systems to enhance efficiency and integrate renewables, as well as AI
+mapping tools to identify optimal locations for renewable infrastructure. Digital tools are also being
+used to improve environmental monitoring. For instance, the SoilPAss knowledge portal simulates
+expert surveys to assess soil hygiene, and a new interactive database developed by the Czech
+University of Life Sciences will support climate adaptation planning based on geospatial data and risk
+assessments.
+
+Although promising, these examples remain scattered. To fully leverage the twin transitions, Czechia
+will need to put into practice these initiatives through a comprehensive digital sustainability strategy
+and ensure that digitalisation is systematically integrated into the green transition, as recommended
+in the 2024 Digital Decade report.
+
+According to the 2025 Eurobarometer, 62% of Czech respondents believe that digital technologies
+will play an important role in helping to fight climate change - such as through apps tracking personal
+emissions or supporting online meetings compared to the EU average of 74%. At the same time, 70%
+of Czech respondents believe that ensuring digital technologies support the green transition should be
+an important priority for public authorities, as compared to 80% of the EU average.
+
+
+
+
+
+                                       26Czechia
+
+
+
+2024 recommendation on Leveraging digital transformation for a smart greening: Develop a
+coherent approach to twinning the digital and green transitions. First, promote improvements in
+energy and material efficiency of digital infrastructures, in particular data centres; Second, support
+the development and deployment of digital solutions that reduce the carbon footprint in other
+sectors, such as energy, transport, buildings, and agriculture, including the uptake of such solutions
+by SMEs. Monitor and quantify the emission reductions of the deployed digital solutions in line with
+the relevant EU guidance and the methodology developed by the European Green Digital Coalition,
+in view of future policy development, as well as of attracting relevant financing.
+
+Czechia made some efforts to address the recommendation through new policy actions in 2024.
+Czechia adopted binding energy efficiency obligations for data centres in 2024, marking a first step
+towards aligning digital infrastructure with sustainability goals. However, the adjusted roadmap
+does not introduce a coherent set of measures to operationalise the twin transition. Efforts remain
+fragmented, with no systematic monitoring of the environmental footprint of digital technologies
+or support measures to scale green digital solutions across sectors, as recommended.
+
+
+
+
+
+                                      27 Czechia
+
+
+Annex I – National roadmap analysis
+
+ Czechia’s national Digital Decade strategic roadmap
+
+
+ Czechia’s 2025 roadmap adjustment presents a more mature and strategically grounded approach
+ compared to the 2023 version. It introduces new and revised targets, strengthens measures across
+ key areas such as enterprise digitalisation and emerging technologies, and shows improved
+ alignment with EU strategic priorities including the Digital Decade and broader sovereignty
+ objectives. While not all gaps are closed, the update marks clear progress in terms of policy depth,
+ sectoral coverage, and political commitment.
+
+ The  adjusted  Czech roadmap  demonstrates  tangible  progress  in  addressing  several  key
+ recommendations outlined in the 2024 State of the Digital Decade Report, particularly in the areas
+ of target setting, SME digitalisation, and support for advanced technologies. Czechia has now
+ formalised important missing targets such as for FTTP and edge nodes, directly responding to the
+ recommendation to clarify trajectories and better align ambitions with EU goals.
+
+ The roadmap also strengthens its support for the digitalisation of enterprises - especially SMEs -
+ through the introduction of substantial and well-targeted funding measures.
+
+ In terms of ambition, some new or adjusted targets remain relatively cautious when compared to
+ EU-level objectives. For instance, the FTTP coverage target is now set at 60% by 2030 - well below
+ the EU ambition of full gigabit coverage - but appears realistic given Czechia’s relatively low starting
+ point and recent acceleration in roll-out. Similarly, the ICT specialists target remains modest at 7%
+ of the workforce (versus the EU’s 10%), reflecting a pragmatic view of national constraints but also
+ signalling limited ambition in this area. By contrast, the targets related to 5G (100% coverage by
+ 2030), shows stronger alignment with the EU benchmark.
+
+ Overall, Czechia can count on 58 measures introduced by 2023 and adjusted version of its national
+ strategic roadmap, representing a total financial commitment of EUR 2.26 billion (0.71% of
+ Czechia’s GDP in 2024).
+
+
+
+
+
+                                       28 Czechia
+
+
+
+                     Measures and budget in the national roadmap6
+
+
+
+
+
+ In terms of adequacy, the roadmap shows important strengths, notably the strong alignment with
+ EU objectives in emerging technologies (AI, quantum), and a reinforced support structure for SME
+ digitalisation. However, several weaknesses persist. There is insufficient coverage of lagging areas
+ such as FTTP in rural zones, the ambition remains low in key targets like ICT specialists and additional
+ efforts could be made in supporting the twin digital-green transition. While most measures are well
+ designed, their successful implementation  will hinge on sustained funding,  inter-ministerial
+ coordination, and strong local engagement.
+
+
+
+
+
+6 When referring to national roadmaps, data used in this report are those declared by the Member States in their national roadmaps, on
+the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting practices and
+methodological choices across Member States. No systematic assessment of the extent to which Member States followed the guidance
+was carried out.
+
+                                       29 Czechia
+
+
+Annex II – Factsheet on multi-country
+projects (MCPs) and funding
+
+
+
+ Multi-country projects and best practices
+
+ Czechia is a member of the Alliance for Language Technologies EDIC and of the Local Digital Twins
+ towards the CitiVERSE EDIC. Czechia is also working towards setting up an EDIC in the area of genomics.
+ Czechia is directly participating in the IPCEI on Microelectronics and Communication Technologies
+ (IPCEI-ME/CT). Czechia is a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips
+ JU.
+
+ Czechia also contributes to the Digital Decade’s Best Practices Accelerator through its flagship
+ initiative Czech Digital Week 2023, presented within the Digital Skills Cluster. The nationwide event
+ mobilised over 120 public activities across all 13 regions, including lectures, workshops, and seminars
+ tailored to different audiences - ranging from youth to seniors. Focusing on topics such as AI, internet
+ safety, and women in ICT, the initiative demonstrated a strong commitment to digital inclusion,
+ empowerment, and civic participation.
+
+
+
+ EU funding for digital policies in Czechia
+ Czechia allocates 23% of its total recovery and resilience plan to digital (EUR 1.9 billion)7. In addition,
+ under cohesion policy, EUR 1.9 billion (representing 9% of the country’s total cohesion policy funding),
+  is dedicated to advancing Czechia’s digital transformation8. According to JRC estimates, EUR 3.2 billion
+ directly contribute to achieving Digital Decade targets (of which EUR 1.9 billion comes from the RRF
+ and EUR 1.3 billion from cohesion policy funding)9.This funding is relatively well distributed across key
+ priority areas. Notably, the largest investments support digital public services (EUR 758 million),
+ followed by measures supporting digital late adopters and the development of unicorns and scale-ups
+ (each receiving EUR 411 million). Significant contributions also target basic digital skills (EUR 276
+ million), ICT specialists (EUR 184 million), and gigabit network coverage (EUR 409 million), supporting
+ both infrastructure and human capital development. Meanwhile, smaller but strategic allocations
+ support cloud computing, AI, and data analytics, as well as e-Health records.
+
+
+
+
+
+7 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+8 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the
+Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+9 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10
+March 2025.
+
+                                       30 Czechia
+
+Annex III – Digital Rights and Principles10
+
+
+
+
+
+Activity on Digital Rights and Principles (figure 1)
+
+Czechia has been relatively active in implementing digital rights and principles, with 76 initiatives
+overall and 9 new initiatives launched in 2024, showing notable progress towards its commitments.
+Czechia is most active in the area of Digital education, training and skills  (II). There is room for
+improvement, especially with regards to Fair and just working conditions  (II) and A fair digital
+environment (III) where less activity has been identified.
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators, developed by the support study, illustrate the level of implementation
+of digital rights initiatives on the ground. Based on available data, they estimate the impact of
+measures implemented by key stakeholders in Czechia (mainly national government) and how these
+are perceived by citizens.
+
+The indicators suggest that Czechia is most successful in implementing commitments related to Putting
+people at the centre of the digital transformation (I). Czechia should strengthen efforts in areas where
+the impact of digital rights initiatives appears to be limited, notably on Participation in the digital public
+space (IV).
+
+According to the Special Eurobarometer 'Digital Decade 2025’, 44% of citizens in Czechia think that the
+EU protects their digital rights well (no evolution since 2024). This corresponds to the EU average of
+44%. Citizens are particularly confident about getting basic and advanced digital education, training
+and skills and getting more freedom of expression and information online (55%, below the EU average
+of 60% for both). They are most worried that their right to a safe digital environment and content for
+children and young people is not well protected (52%, above the EU average of 48%).
+
+
+
+
+
+10 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       31

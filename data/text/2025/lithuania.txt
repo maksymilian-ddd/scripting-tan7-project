@@ -1,0 +1,1344 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 17/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+
+     Lithuania  Lithuania
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 6
+
+     Connectivity infrastructure .............................................................................................................. 6
+
+    Semiconductors ............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 8
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ......................................................................................... 9
+
+     Take up of cloud/AI/data analytics ................................................................................................. 10
+
+     Unicorns, scale-ups and start-ups .................................................................................................. 12
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 12
+
+Protecting and empowering EU people and society ............................................................................. 15
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 15
+
+    Equipping people with digital skills ............................................................................................... 15         Lithuania
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 18
+
+  Building a safe and human centric digital environment and preserving our democracy ................... 19
+
+Leveraging digital transformation for a smart greening ....................................................................... 21
+
+Annex I – National roadmap analysis .................................................................................................... 23
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 25
+
+Annex III – Digital Rights and Principles ................................................................................................ 26  Lithuania
+
+Executive summary
+
+Lithuania benefits from excellent 5G coverage and a dynamic start-up ecosystem but continues to
+face challenges in expanding fixed Very High-Capacity Networks (VHCN) coverage, particularly in
+rural areas. The country is positioning itself as a niche player in semiconductor and quantum-related
+technologies, leveraging its strong laser industry.
+
+Lithuania shows a high level of ambition in its contribution to the Digital Decade having set 12
+national targets, 92% of which are aligned with the EU 2030 targets. The country is following its
+trajectories moderately well with 71% of them being on track (on the basis of the 2024 trajectories
+defined for 7 KPIs out of 8 analysed). Lithuania addressed 25% of the 8 recommendations issued by
+the Commission in 2024 by making some changes through new measures.
+
+Lithuania demonstrates strong performance in mobile connectivity, with near universal 5G coverage
+and continued infrastructure investment. However, fixed broadband deployment remains uneven,
+particularly in rural areas. SME adoption of advanced digital technologies such as cloud, AI, and data
+analytics continues to lag despite targeted support schemes. The start-up ecosystem is growing,
+though scale-up activity and access to private capital remain modest. In 2024, Lithuania maintained
+high digital public service availability, supported by centralised platforms and a mature eHealth system.
+Digital skills development is supported through national programmes focused on vulnerable and
+underrepresented groups. On sustainability, the country is piloting digital tools for climate action
+through startup funding and cleantech initiatives, though a comprehensive green-digital strategy has
+yet to emerge. In Lithuania cybersecurity is a strategic priority, reinforced by the national programme
+and the implementation of 5G Toolbox.
+
+
+                                                                                                                                                      Digital Decade
+                                                                              Lithuania                       EU
+                                                                                                                                        target by 2030
+                                                                                             National
+                                                       DESI 2024   DESI 2025   Annual                                                                                                      DESI      Annual     Digital Decade KPI (1)                                                                                                     trajectory                                                                                                                             LT     EU
+                                                          (year 2023)  (year 2024)  progress              2025     progress
+                                                                                  2024 (3)
+
+Fixed Very High Capacity Network (VHCN) coverage          78.1%      78.3%      0.3%      84.0%     82.5%      4.9%     98.0%   100%
+
+Fibre to the Premises (FTTP) coverage                     78.1%      78.3%      0.3%             -       69.2%      8.4%            -             -
+
+Overall 5G coverage                                    98.9%      99.7%      0.9%      92.0%     94.3%      5.9%     100.0%   100%
+
+Edge Nodes (estimate)                                   5         10      100.0%           -       2257      90.5%           -      10000
+
+SMEs with at least a basic level of digital intensity (2)                 -        66.3%      2.0%             -       72.9%      2.8%     90.0%    90%
+
+Cloud                                                33.6%              -                -                -               -                -       75.0%    75%
+
+Artificial Intelligence                                    4.9%       8.8%      80.2%     12.0%     13.5%     67.2%     75.0%    75%
+
+Data analytics                                         40.5%              -                -                -               -                -       75.0%    75%
+
+AI or Cloud or Data analytics                             53.5%              -                -                -               -                -               -      75%
+
+Unicorns                                              3          3        0.0%        3        286       4.4%       6      500
+
+At least basic digital skills                               52.9%              -                -                -               -                -       80.0%    80%
+
+ICT specialists                                          4.9%       5.3%      8.2%      5.3%      5.0%      4.2%      6.9%    ~10%
+
+eID scheme notification                                                    Yes
+
+Digital public services for citizens                             86.7         87.9       1.3%       86.0       82.3       3.6%      100.0     100
+
+Digital public services for businesses                          95.9         92.5       -3.6%       95.0       86.2       0.9%      100.0     100
+
+Access to e-Health records                                   95.4         95.4       0.0%       100.0       82.7       4.5%      100.0     100
+
+(1) See the methodological note for the description of the indicators and other metrics
+(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+                                        1  Lithuania
+
+
+
+According to the 2025 special Eurobarometer on ‘the Digital Decade’, 77% of Lithuanian citizens
+consider that the digitalisation of daily public and private services is making their lives easier. On the
+action of the public authorities, 90% consider it important to counter and mitigate the issue of fake
+news and disinformation online. And on competitiveness, 79% consider it important to ensure that
+European companies can grow and become ‘European Champions’ capable of competing globally.
+
+A competitive, sovereign, and  resilient EU based on technological
+leadership
+
+In 2024, Lithuania reinforced its position as a regional frontrunner in mobile connectivity, reaching
+near-universal 5G coverage across households. However, fixed Very High-Capacity Network (VHCN)
+deployment, particularly fibre in rural areas, continues to require targeted public investment. Two
+major state-funded projects, supported by the RRF and ERDF, are underway to expand VHCN
+infrastructure, with over 2 000 km of fibre and 60 new towers planned. To accelerate enterprise
+digitalisation, Lithuania scaled up support through Measure VST-1. (‘To encourage the digitalisation of
+businesses’) notably relying on digital vouchers for SMEs, accelerators, and the national network of
+EDIHs. However, adoption of AI, cloud, and data analytics remains uneven, with surveys highlighting
+procedural complexity and lack of digital awareness. The country deepened its role in emerging
+technologies through the GreenTech Hub and laser-based contributions to semiconductors and
+quantum, as well as its commitment to the ALT-EDIC. Cybersecurity was significantly strengthened with
+the full transposition of NIS2, a national programme focused on 5G network trustworthiness, and
+growing investment in public sector cyber resilience.
+
+Protecting and empowering EU people and society
+
+Lithuania continues to perform strongly in digital public services, with high levels of availability for
+both citizens and businesses. Access to eHealth records remains among the highest in the EU, and
+ongoing reforms to the Electronic Health Services system aim to expand coverage and improve data
+interoperability. While ICT specialist employment rose in 2024, demographic pressures and reliance
+on foreign talent remain key structural challenges. Measures supporting talent development include
+vocational retraining, the Talent-Reach initiative, and Diaspora Youth Traineeships. On digital inclusion,
+Lithuania has significantly invested in programmes targeting older adults and vulnerable groups,
+including the national “No One Left Behind” campaign and education efforts led by NGOs and
+Universities of the Third Age. These are complemented by training initiatives under the roadmap, such
+as EdTech for teachers and skills development schemes for low-skilled adults, yet further acceleration
+is needed to reach the digital skills target by 2030.
+
+Leveraging digital transformation for a smart greening
+
+Lithuania is at an early stage in aligning its digital and environmental transitions. While it lacks a fully
+integrated green-digital strategy, targeted efforts are emerging, particularly through support for
+startups developing climate-relevant digital solutions. Measure VST-3 ‘To encourage businesses to
+move towards a climate-neutral economy’ has enabled 170 startups to work on tools like AI-based
+smart housing systems and automated workflow platforms.
+
+
+
+
+
+                                        2  Lithuania
+
+
+
+The GreenTech Hub is actively strengthening the cleantech ecosystem by guiding companies working
+on technologies such as smart grids, e-mobility, and IoT toward EDIH services. Further coordination is
+expected under the upcoming National Digital Agenda.
+
+National Digital Decade strategic roadmap
+
+Lithuania submitted its initial national Digital Decade roadmap on 13 March 2024. At the time, digital
+policy lacked centralised coordination, with each ministry responsible for its own domain. In response
+to challenges identified while preparing the roadmap and the 2024 country report, the government
+adopted a resolution in July 2024 to establish a National Digital Agenda for 2026 –2040. This new cross-
+cutting strategy aims to centralise governance, align funding, and address gaps in areas such as
+semiconductors and edge nodes. An in-depth analysis is being carried out in Q1-Q3 2025 to guide the
+Agenda’s development. National authorities intend to adjust the roadmap at a later stage.
+
+A total of 26 measures are part of Lithuanian’s national strategic roadmap with a budget of EUR 1.5
+billion (1.9 % of Lithuanian’s GDP in 2024).
+
+Funding & projects for digital
+
+Lithuania allocates 23% of its total recovery and resilience plan to digital (EUR 724 million)1. In addition,
+under cohesion policy, EUR 280 million, representing 4% of the country’s total Cohesion policy funding,
+is dedicated to advancing Lithuania’s digital transformation2. Lithuania is a member of the Alliance for
+Language Technologies EDIC. Lithuania is also a participating state in the EuroHPC Joint Undertaking
+(JU) and in the Chips JU.
+
+The country has engaged with the Best Practice Accelerator3 by its presence in the workshops.
+
+Digital Rights and Principles
+
+According to a support study, Lithuania has been relatively active in implementing the European
+Declaration on Digital Rights and Principles, with 45 initiatives overall but no new initiatives launched
+in 2024. Lithuania is most active in the area of protection and empowerment of children and young
+people in the digital environment. Less activity has been identified with regards to a fair digital
+environment and a protected, safe and secure digital environment. Measures in the area of putting
+people at the centre of the digital transformation appear to have most impact on the ground, in
+contrast to those addressing safety, security and empowerment.
+
+ Recommendations
+
+   -   SMEs: Simplify access to SME digitalisation funding by reducing bureaucratic complexity,
+      improving guidance, and targeting support to low-digital-intensity sectors.
+
+
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the
+Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies
+
+                                        3Lithuania
+
+
+
+-   AI: Step up targeted support for the adoption of artificial intelligence, especially among SMEs,
+   by raising awareness of business-relevant use cases, improving access to advisory services, and
+    simplifying funding procedures.
+
+-   ICT Specialists: Scale efforts in relation to retraining programmes, and female participation in
+    ICT.
+-   Cybersecurity: Continue work on cybersecurity to address evolving threats,  particularly
+    regarding citizens awareness.
+-  VHCN: Expand public support for VHCN deployment, notably in rural areas.
+
+-   Green: Adopt an integrated green-digital strategy with measurable targets, establish mechanisms
+    to monitor environmental impacts, and scale up digital solutions that support climate goals.
+
+
+
+
+
+                                      4  Lithuania
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Lithuania’s digital competitiveness is gaining momentum, anchored in strong 5G coverage, an
+increasingly ambitious start-up ecosystem, and new investments  in advanced technologies.
+However, challenges persist in high-speed broadband rollout, adoption of AI and cloud technologies
+and the availability of ICT specialists.
+
+The country  is recognised for  its niche excellence in laser technologies, which are used in
+semiconductor and quantum systems. The Lithuanian ICT sector represented 4.59% of the gross value
+added in 20224. It rose continuously from 2013 (2.42%) but remains below the EU average of 5.46%.
+R&D in the ICT sector represented 24.57% of total R&D expenditure by businesses and 24.84% of total
+R&D personnel. Lithuania is also taking steps to contribute to Europe’s digital sovereignty, as seen in
+its involvement in ALT-EDIC and its preparatory work for IPCEI-CIS.
+
+On 4 April 2025, the Seimas adopted key legislative amendments to accelerate AI development.
+These include the launch of one of the EU’s first AI regulatory sandboxes, enabling companies to test
+AI solutions safely before market entry. The Innovation Agency and Communications Regulatory
+Authority were designated to support implementation of the EU AI Act – ensuring both conformity
+assessment and market surveillance. In parallel, EUR 22.5 million was committed through national calls
+in 2024 to support AI deployment and development.
+
+In deep tech, a government-backed reform approved in April 2025 seeks to extend the age cap for
+public support to start-ups from  five to ten years. This  aligns with European Commission
+recommendations and aims to reflect the longer maturity cycles required by research-intensive
+companies – especially in strategic sectors like life sciences and advanced manufacturing.
+
+Lithuania’s start-up ecosystem is among the fastest growing in the region, with three unicorns and
+over 1 000 start-ups. The government allocated EUR 132.8 million to support innovation, including the
+Early Stage and Development Fund III (EUR 42.8 million) and Accelerator3 (EUR 20 million). These
+instruments build on the success of Accelerator2, which financed 74 companies.
+
+Digital infrastructure remains a mixed picture. Lithuania is among the EU leaders in 5G rollout, with
+near-universal coverage and over 20 active pilot projects supported by a national sandbox. Very
+High-Capacity Networks (VHCN) coverage, however, remains below the EU average. Two major public
+projects funded by RRF and ERDF aim to extend fibre to rural and underserved areas, yet additional
+investment will be necessary to reach full coverage. According to the 2025 Eurobarometer5, 84% of
+Lithuanians think that building efficient and secure digital infrastructures and data processing facilities
+should be a priority for the public authorities.
+
+Efforts to support SME digitalisation include digital vouchers, targeted consulting through regional
+‘hives’ and accelerators. Nonetheless, persistent obstacles remain, including limited digital literacy
+and low awareness of available tools.
+
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying
+the State of the Digital Decade report 2025
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5  Lithuania
+
+
+
+Lithuania’s strategic direction is being consolidated under a forthcoming National Digital Agenda
+(2026-2040), which will integrate inter-ministerial efforts and coordinate long-term planning for
+digital transformation. However, Lithuania has not submitted a revised Digital Decade roadmap in
+2024, pending the outcome of this broader strategic review. These latest reforms signal a turning
+point in Lithuania’s approach-one that ties digital ambition to concrete legislative action and targeted
+support for future-facing innovation.
+
+Building technological leadership: digital infrastructure and technologies
+
+Lithuania’s digital infrastructure presents a mixed picture: while the country leads in overall 5G and
+FTTP coverage compared to the EU average, it continues to lag behind in fixed VHCN rollout and 5G
+spectrum assignment, particularly in sparsely populated areas, highlighting persistent territorial and
+investment challenges.
+
+Connectivity infrastructure
+Lithuania reached 78.29% fixed VHCN coverage in 2024 (2030 national target: 100%), remaining
+slightly below the EU average of 82.49%. The country is lagging behind compared to its national
+trajectory. The annual growth rate was 0.3%, well below the EU’s 4.9%, indicating a slower rollout
+pace. For households in sparsely populated areas, coverage stood at 39.78% in 2024, significantly
+below the EU average of 61.89%. The rural growth rate was sluggish, with a small increase of +0.5%,
+contrasting sharply with the EU’s +11.3%. Lithuania’s fixed VHCN deployment continues to lag behind
+the EU trajectory, particularly in rural areas, where coverage remains a key challenge.
+
+Lithuania reached 78.29% FTTP coverage in 2024 (2030 national target: 100%), significantly above
+the EU average of 69.24%. The country did not provide a national trajectory point for 2024. The
+annual growth rate was just +0.3%, well below the EU’s 8.4%. For households in sparsely populated
+areas, Lithuania’s FTTP coverage was 39.78% in 2024, below the EU's 58.78%. The growth rate for rural
+areas was +0.5% compared to the EU's +11.9%. Despite high overall FTTP availability, Lithuania faces a
+rural deployment gap and slow rollout momentum.
+
+Lithuania reached 99.71% overall 5G coverage in 2024 (2030 national target: 100%), above the EU
+average of 94.35%. The country is on track according to its national trajectory. The annual growth
+rate was +0.9%, lagging behind the EU’s 6.0%. For sparsely populated areas, Lithuania achieved 99.06%
+in 2024, outperforming the EU average of 79.57%. However, the rural growth rate of +2.8% was far
+below the EU's 11.9%. Lithuania reached 75.13% 5G coverage in the 3.4-3.8 GHz band in 2024, above
+the EU average of 67.72%. The annual growth rate of +22.3% was nonetheless lower than the EU’s
+32.6%. In rural areas, Lithuania’s coverage stood at 20.25%, still below the EU’s 25.98%, but with a
+strong growth rate of +145.5%, outperforming the EU’s 65.1%. Lithuania’s assignment of harmonised
+spectrum in the 5G pioneer bands stood at 47.22% in both 2024 and 2025, significantly below the EU
+averages of 73.4% and 74.63%, respectively. The country recorded no progress between 2024 and
+2025, compared to a +1.7% increase at EU level.
+
+In Lithuania, fixed broadband take-up indicators are mixed, while mobile performance remains well
+below the EU average. In 2023, 67.10% of fixed broadband subscriptions were at speeds of 100 Mbps
+or higher, above the EU’s 65.9%. This increased to 73.87% in 2024, again surpassing the EU average of
+71.88%. Lithuania’s annual growth rate of 10.1% outperformed the EU’s 9.1%. However, for
+subscriptions at speeds above 1 Gbps, Lithuania remains significantly behind: only 2.82% in 2024,
+compared to the EU’s 22.25%, with a growth rate of just 10.2% (vs. the EU’s 20.5%). The share of the
+
+
+
+                                        6  Lithuania
+
+
+
+population using 5G SIM cards was 8.49% in 2024, far below the EU average of 35.56%. Lithuania's
+growth rate in this area was 46.1%, trailing the EU’s 63.9%.
+
+VHCN and FTTP
+
+In its roadmap Lithuania sets its VHCN target at 98% by 2030, which is not fully aligned with the EU
+one of 100%. The current value for VHCN is slightly below the trajectories expected in 2024. Lithuania
+does not plan a separate FTTP target, arguing that full fibre (FTTP) rollout would be economically
+disproportionate given the country’s population density. Nonetheless, according to the DDPP KPI
+Lithuania faces persistent challenges in extending VHCN coverage, particularly in sparsely populated
+rural areas where deployment costs are high and private investment remains limited.
+
+To address this gap, two publicly funded projects are underway: an RRF-financed initiative aiming to
+connect 5 000 socio-economic sites via 2 000 km of new fibre lines by mid-2026, and an ERDF-
+supported programme to build 60 telecom towers in underserved regions by 2027. However,
+authorities acknowledge that these measures may not be sufficient to meet the target without
+additional public investment and faster implementation.
+
+In addition, Lithuania continues to rely primarily on the Ultra-fast Broadband Development Plan
+2021-2027, the main strategic framework adopted in 2021, and measure R-1 to extend VHCN
+coverage. This plan, partially supported by the Recovery and Resilience Facility and national funding,
+aims to introduce ultra-fast broadband, notably in underserved areas.
+
+Lithuania has made some progress regarding its copper switch-off process. However, there  is
+currently no publicly announced national plan or deadline for a complete copper switch-off and this
+could hinder the long-term sustainability and uptake of full fibre solutions.
+
+Lithuania’s broadband market remains moderately concentrated, with three main operators
+providing nationwide coverage. While competition has helped drive the rapid rollout of 5G, FTTP
+growth is low, reflecting a need for market-driven investment or stronger state support, so the last-
+mile fibre challenge is unlikely to be resolved.
+
+ 2024 recommendation on connectivity infrastructure: Intensify efforts in the deployment of
+ gigabit network, promoting public and private investments, especially in rural areas.
+
+ In 2024, Lithuania continued the implementation of existing measures but did not take any new
+ measures. Lithuania pursued the rollout of two major publicly funded projects supporting rural
+ VHCN deployment, but these had already been planned previously. No new initiatives were
+ launched to intensify efforts as recommended. Instead, Lithuania plans to reassess its connectivity
+ strategy as part of the forthcoming National Digital Agenda, with results expected only in 2026.
+
+
+5G
+
+Lithuania sets its 5G target at 100% by 2030 in its roadmap, which is fully aligned with the EU one.
+The main strategic framework for 5G deployment remains the national Digital Decade roadmap 2024,
+complemented by actions outlined in the national 5G roadmap 2020-2025. The 5G policy is supported
+by regulatory reforms adopted in 2023 and earlier, including measures to facilitate access to public
+infrastructure and deployment of base stations along national roads. Given the good overall
+performance, the absence of new measures in the adjusted roadmap is justified at this stage.
+
+
+
+
+                                        7  Lithuania
+
+
+
+The main mobile network operators (Telia, Bite, Tele2) have continued expanding networks, and two
+of them (Telia and Bite) are in the process of shutting down their 3G networks. This is expected to be
+fully complete by end-2025.
+
+Lithuania successfully assigned the 700 MHz and 3.5 GHz bands for 5G use. However, cross-border
+coordination issues with the Russian Federation remain unresolved, limiting deployment flexibility
+near border areas. Lithuania plans to prepare guidelines and national technical conditions for private
+5G networks in the 3.8-4.2 GHz band, once the EU implementing decision on the shared use of that
+band is adopted.
+
+ 2024 recommendation on connectivity infrastructure: Ensure sufficient access of new players to
+ spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications
+ and encourage operators to speed up the deployment of 5G stand-alone core networks.
+
+ In 2024, the Member State continued the implementation of existing measures but did not take
+ any new measures. The country held public consultations on local access to 3.8-4.2 GHz spectrum,
+ and continued applying the 5G cybersecurity toolbox measures, such as vetting of 5G suppliers
+ according to national security laws. However, no concrete steps were taken to facilitate access to
+ spectrum for new players, nor were specific incentives introduced to accelerate the deployment of
+ 5G stand-alone (SA) core networks. As such, the recommendation remains only partially addressed.
+
+
+
+Lithuania launched the 5G sandbox regime to stimulate early adoption of 5G use cases across
+sectors. By April 2025, 23 pilot projects were underway, including initiatives for 5G-based smart
+transport systems, remote healthcare, and urban drone management. The first pilot project was
+completed in early 2025, with several others nearing completion.
+
+
+Semiconductors
+Lithuania contributes modestly to the EU semiconductor value chain, primarily through component
+manufacturing and advanced laser technologies used in chip production. While companies like
+Teltonika are planning local facilities, no large-scale manufacturing exists. The country has not yet
+implemented dedicated measures but is preparing a study in 2025 under the upcoming National Digital
+Agenda to assess its potential and define a targeted strategy for semiconductors.
+
+Edge nodes
+According to the Edge Node Observatory, Lithuania is estimated to have deployed a total of ten edge
+nodes by 2024, a progression of +100% since 2023. This doubles the amount estimated for 2023 (five,
+number revised since SDDR 2024).
+
+Lithuania has not launched specific initiatives for deploying edge nodes, arguing that the average
+mobile internet latency in the country already meets the Digital Decade goal of being under 20
+milliseconds. However, Lithuania is preparing a study in 2025 as part of its National Digital Agenda to
+assess whether additional measures or deployments of edge nodes are needed to support future
+digital infrastructure demands.
+
+Quantum technologies
+Lithuania does not plan to develop quantum computers domestically but contributes to the EU’s
+quantum objectives through research activities, particularly in quantum communication and laser
+technologies. Lithuania joined the EuroQCI  initiative and established the Lithuanian Quantum
+Technologies Association in 2023. In June 2024, Lithuania signed the European Declaration on
+
+
+                                        8  Lithuania
+
+
+
+Quantum Technologies, committing to closer R&D and ecosystem collaboration across Europe. A study
+is ongoing under the 2025 National  Digital Agenda to assess national potential  in quantum
+development.
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+Lithuania’s growing innovation ecosystem contrasts with persistent gaps in SME digitalisation. Despite
+strong activity in data analytics and a vibrant start-up scene, adoption of advanced technologies like
+cloud and AI remains limited. Accelerating digital uptake among SMEs will be essential to strengthen
+productivity and ensure the country’s competitiveness in an increasingly technology-driven EU
+economy.
+
+SMEs with at least basic digital intensity
+In 2024, two out of three (66.27%) SMEs in Lithuania had at least a basic level of digital intensity, an
+increase from 63.7% in 20226, reflecting an annual growth rate of 2%, positioning Lithuania below
+the EU average of 72.91%. At the same time, among all SMEs, only 27.58% of SMEs in Lithuania
+achieved high or very high digital intensity, also trailing behind the EU average of 32.66%. Overall, the
+data reveals that despite some growth, there is still significant room for improvement in the digital
+intensity of Lithuanian SMEs.
+
+Lithuania still aims at 90% of SMEs with basic digital intensity, in line with the EU target for 2030.
+However, growth has plateaued, and deeper adoption remains limited and uneven. Feedback surveys
+and mid-term review of implementation measures highlights that many SMEs still struggle to identify
+suitable technologies or clarify digitalisation goals, with some cancelling or declining project contracts
+after initial approval. This reflects underlying capacity gaps and limited digital maturity in smaller
+enterprises.
+
+Lithuania has continued implementing pre-2024 support schemes to support the adoption of tools
+such as e-commerce solutions, CRM systems, cloud services, and AI consultancy. The main
+programmes are notably the ‘Digitalisation of SMEs’ measure (EUR 17.3 million, 510 projects) and the
+‘Digital SME Vouchers’ scheme with a EUR 1 million call launched in Q3 2024 to strengthen SMEs’
+digital competences in AI, cybersecurity, and high-performance computing (HPC) – co-funded by EU
+and  national budgets. However,  their impact has been constrained by low awareness and
+administrative complexity.
+
+Complementary efforts led by regional offices (‘hives’), such as e.comGO and SME accelerator
+programmes, have offered individualised consulting and business grants to support targeted digital
+skills development and process optimisation. For example, e.comGO reached 152 SMEs with 265
+individual consultations, and a grant programme provided support of up to EUR 15000 per SME, with
+76 applications received for a total of EUR 1.02 million, of which EUR 565 000 was available for funding.
+
+Lithuania hosts three European Digital Innovation Hubs (EDIHs): EDIH LT, EDIH Vilnius, and EDIH4LT.
+In 2024, they provided over 1 000 digital maturity assessments and consulted more than 1 000
+companies and public sector organisations. Their services include ‘test before invest’ training, and
+investment support. Mid-term reviews confirm strong engagement, especially by EDIH LT, which alone
+delivered 953 DMAs and 646 services, positioning EDIHs as key enablers of SME digital transformation.
+
+
+
+6 2022 is the last comparable year that used a similar methodology for measuring the digital intensity of enterprises
+
+                                        9  Lithuania
+
+
+
+Take up of cloud/AI/data analytics
+
+
+
+
+
+In Lithuania 8.76% of enterprises reported using AI technology in 2024, falling significantly below
+the EU level use of 13.48%. The country is lagging behind compared to its national trajectory (12%)
+However, while the uptake rate among SMEs was 8.01%, large enterprises demonstrated a higher rate
+of 31.21%. This corresponds to a gap of 23.2 percentage points between SMEs and large enterprises,
+which is lower than the EU gap of 28.53 percentage points. Compared to 2023, Lithuania experienced
+a significant increase in AI uptake of 80.25%, from 4.86%.
+
+Adoption of cloud, data analytics, and the three technologies together were not measured in 2024.
+
+Cloud uptake in Lithuania reached 33.6% (slightly over one out of three) in 2023, lagging behind the
+EU average of 38.97%. However, SMEs had an adoption rate of 32.61%, while more than two in three
+(67.73%) large enterprises adopted cloud services. This indicates a gap of 35.12 percentage points in
+uptake between SMEs and large enterprises in Lithuania, which is higher than the EU level gap of
+31.68.
+
+In 2023, more than two in five out of 5 enterprises (40.53%) in Lithuania used data analytics, ahead
+of the EU level uptake of 33.25%. More specifically, among SMEs, 39.34% adopted data analytics,
+while this was the case for more than four in five large enterprises (81.6%). This reflects a gap of 42.26
+percentage points between SMEs and large enterprises, which is in line with the EU gap.
+
+When taking the three technologies together in 2023, 53.54% of enterprises in Lithuania adopted AI
+technologies, sophisticated or intermediate cloud computing services, or performed data analytics,
+just below the EU average of 54.7%. More specifically, the uptake among SMEs was slightly lower at
+52.48%, while large enterprises showed a notably higher engagement rate of 90.13%. This indicates a
+percentage point difference of 37.65 in uptake between SMEs and large enterprises in Lithuania, which
+is higher than the EU level gap of 32.97.
+
+In conclusion, Lithuania showed a mixed performance, with data analytics adoption exceeding the EU
+average but lagging behind in cloud computing and artificial intelligence. Large enterprises consistently
+outpaced SMEs across all technologies, reflecting a notable disparity in adoption rates. SMEs, which
+constitute the majority of enterprises and contribute significantly to the value added to the economy,
+remain less equipped to capitalise on digital opportunities. Bridging this gap is critical to fostering
+inclusive digital development and ensuring the competitiveness of enterprises across all sectors.
+
+      Cloud
+
+In its roadmap, Lithuania sets a target of 75% for cloud take-up by enterprises, in line with the EU
+target by 2030. The country continues to rely on existing SME support tools such as the ‘Digitalisation
+
+
+                                       10  Lithuania
+
+
+
+of SMEs’ and ‘Digital SME Vouchers’ schemes, which include eligible expenditures for cloud services.
+While these instruments contribute indirectly, they were not specifically designed to accelerate cloud
+adoption. The lack of a dedicated national strategy or targeted incentives limits the effectiveness of
+current efforts.
+
+It worth mentioning that, in 2024, Lithuania implemented a national measure titled ‘Facility to
+promote the readiness of undertakings to participate in the IPCEIs’, which included support for
+participation in IPCEI-CIS. Out of six applications, three were funded, including one from an ICT
+association specifically aiming to explore entry into IPCEI-CIS. This association, backed by public
+funding, conducted a dedicated study on how Lithuanian ICT companies could join the cloud IPCEI,
+and held several meetings with IPCEI-CIS coordinators from Germany. Concrete planning steps were
+outlined, although the key issue of funding proportions between business and government remains
+under discussion.
+
+      Data Analytics
+
+In its roadmap, Lithuania sets a target of 75% for data analytics take-up by enterprises, in line with
+the EU target by 2030. Given that adoption already exceeded 40% in 2023 and is above the EU average,
+the target appears realistic – provided that support measures are scaled and better coordinated.
+
+While no specific measure is dedicated to data analytics in the roadmap, some activities indirectly
+support it. Under Measure VST-1, Lithuania funds digitalisation vouchers and technology services for
+SMEs, which may include data-related tools. In parallel, Accelerators, a programme targeted for start-
+up, offers foundational support in data management and analysis, with 85 participants receiving over
+175 hours of consultation in 2024. Moreover, several 5G sandbox pilot projects launched in 2024 focus
+on advanced data processing and analytics in sectors like energy, transport, and health, including
+initiatives using 5G for large-scale data collection and optimisation.
+
+The absence of a national framework or incentive scheme focused specifically on big data or advanced
+analytics tools limits scalability and long-term impact
+
+       Artificial Intelligence
+
+In its roadmap, Lithuania sets a target at 75% for AI take-up by enterprises, in line with the EU target
+by 2030. While no updated roadmap was submitted in 2024, Lithuania has taken notable steps to
+support AI adoption. The government approved two new funding calls totalling EUR 22.5 million to
+support AI deployment (EUR 7.5 million) and AI creation (EUR 15 million); however, these measures
+are still awaiting European Commission approval and have not yet been implemented.
+
+In parallel, Lithuania has stepped up national efforts through several initiatives co-funded by the EU’s
+Recovery and Resilience Facility. In early 2025, EUR 2.45 million was granted for AI projects focused on
+Lithuanian language resources, aiming to enhance AI-based services in healthcare, education, defence,
+and e-government. Additional funding was allocated to 12 start-up projects developing AI, blockchain,
+and robotics solutions, from virtual assistants to autonomous recognition systems. Legislative changes
+adopted in January 2025 also introduced the legal framework for Lithuania’s AI sandbox, positioning
+the country among the first in the EU to implement a pilot regulatory environment. The Innovation
+Agency and Communications Regulatory Authority have been designated to support companies in
+complying with the EU AI Act, including market surveillance and conformity assessment for high-risk
+systems. In May 2025, Lithuania also announced plans to establish the first artificial intelligence
+competence and technology centre in the Baltic region, with an estimated project value of EUR 110
+million. The project will dedicate EUR 72 million to computing infrastructure, EUR 16 million to
+
+
+                                       11  Lithuania
+
+
+
+engineering, and EUR 25 million to talent development. Half of the funding is expected from EU
+support, and the rest from national and private investments. The 2025 Eurobarometer shows that 77%
+of Lithuanians think that public authorities should prioritise shaping the development of Artificial
+Intelligence and other digital technologies to ensure that they respect our rights and values.
+
+ 2024 recommendation on advanced technologies: Review the mix of measures to support the
+ adoption of advanced digital technologies to guarantee the achievement of the ambitious targets.
+
+ Lithuania made some efforts to address the recommendation through new policy actions in 2024,
+ launching a preparatory analysis for the upcoming Digital Agenda and proposing new support
+ measures, though none have been implemented or adopted yet.
+
+
+Unicorns, scale-ups and start-ups
+At the end of 2024, Lithuania had three unicorns - Nord Security having joined Vinted and Baltic
+Classifieds Group - which is one more than last year according to the Digital Decade KPIs. In its
+roadmap Lithuania sets a target of six unicorns by 2030, contributing to the EU-level objective of 500.
+Reaching this target will require sustained progress in scaling and investment readiness across the
+start-up ecosystem.
+
+To support this ambition, Lithuania has continued expanding its scale-up financing toolbox. In 2024,
+preparatory work advanced on the Early Stage and Development Fund  III (EUR 40 million) and
+Accelerator3 (EUR 20 million), with fund manager selection underway. Although investments from
+these new funds are not expected to begin until 2025, Accelerator2 has already supported 74 SMEs,
+mobilising EUR 7.4 million, including EUR 2.8 million from private capital. The Co-Investment Fund,
+which was topped up with EU funds, resumed activity in autumn 2024 and made its first investment
+of EUR 380 000 – nearly half from private sources. Since 2018, the fund has supported 49 SMEs,
+investing EUR 24.6 million, including EUR 10 million in private funding. These instruments reflect
+growing use of blended finance to address early-stage needs, but their long-term impact on unicorn
+creation remains to be seen.
+
+Lithuania’s start-up ecosystem is dynamic, hosting over 1 000 start-ups, primarily in B2B ICT, FinTech,
+cybersecurity, health, and gaming. Public support includes RRF-funded accelerators, state-backed VC
+funds, and innovation-friendly schemes such as the GovTech and Bank of Lithuania sandboxes. Despite
+this, late-stage venture capital remains limited, and some promising start-ups – such as Ondato and
+TransferGo – have relocated abroad to benefit from more favourable investment and regulatory
+environments.
+
+Lithuania’s accelerator landscape continues to evolve. Privately and publicly backed accelerators
+typically offer EUR 50 000-100 000 in early equity investment in exchange for 3-8% equity, over a short
+acceleration period (90-120 days). These programmes focus on start-ups with validated MVPs, aiming
+to help them raise larger follow-on capital and build investor-ready business models. While this
+contributes to early-stage growth, it is not a substitute for the deeper structural reforms and funding
+scale needed to retain and scale high-potential ventures domestically.
+
+Strengthening Cybersecurity & Resilience
+
+In Lithuania, 62.68% of individuals reported taking steps to safeguard their data online, below the
+EU average of 69.55%. Notably, at national level, 40.1% engaged in three or more actions (and
+therefore could be considered as having above basic digital safety skills). Refusing the use of personal
+
+
+                                       12  Lithuania
+
+
+
+data for advertising purposes was the most frequent measure (42.54%), while changing browser
+settings to limit cookies was the least common (23.8%).
+
+
+
+
+
+Lithuanian enterprises face fewer ICT incidents than the EU average, and more often raise employee
+awareness, despite a recent rise in external cyberattacks. The number of enterprises that experienced
+ICT security incidents leading to unavailability of ICT services due to attack from outside (e.g.
+ransomware attacks, denial-of-service attacks) increased in Lithuania, from 0.82% in 2022 to 2.55% in
+2024. It remains below the EU average (3.43%). Lithuanian’s enterprises are less prone to incidents
+related to hardware or software failures (11.87%) than their EU peers (17.97%).
+
+In terms of measures, 90.92% of enterprises deployed some ICT security measures (slightly below the
+EU average of 92.76%) but 62.41% of enterprises made their employees aware of their obligations in
+ICT security related issues, above the EU average (59.97%).
+
+Lithuania shows limited progress in IPv6 deployment, despite its importance for a secure, scalable
+internet. Concerning the deployment of secure internet standards, Lithuania is performing well below
+the EU average in the rollout of IPv6 for the end users (13%, against 36% for the EU) but is above the
+EU average on the server side (27%, against 17% for the EU). IPv6 is an important protocol as it ensures
+the scalability, stability, and security of the Internet. The deployment of this new version is increasingly
+urgent, as traditional IPv4 addresses have long been depleted. Domain Name System Security
+Extensions (DNSSEC) is also an important standard to be rolled out as it introduces security features to
+DNS. In Lithuania the DNSSEC validation rate (i.e. verification of the authenticity of responses sent by
+name servers to clients, using a digital signature technology) is 35% (Q3 2024), below the EU average
+of 47%.
+
+According to the Digital Decade Eurobarometer 2025, 75% of Lithuanians think that an improved
+cybersecurity, better protection of online data and safety of digital technologies would facilitate their
+daily use of digital technologies.
+
+Lithuania’s cybersecurity policy is guided by the National Cybersecurity Development Programme
+2023-2030, which aims to strengthen cyber resilience across public institutions, critical infrastructure,
+and enterprises. In 2024, Lithuania fully transposed the NIS2 Directive into national law. The new
+
+
+
+                                       13  Lithuania
+
+
+
+cybersecurity framework, which applies across sectors including healthcare, requires entities to
+implement standards in 12 operational fields, ensuring a common baseline for risk management.
+
+The National Cyber Security Centre (NCSC) plays a central role, delivering training and awareness
+campaigns such as ‘Cyber Breakfast’ events, reaching over 52 000 participants in 2024, including SMEs,
+seniors, and critical infrastructure staff.
+
+Lithuania also made progress under Measure SĮ-4 (‘Strengthen cyber resilience’), offering free online
+training for vulnerable groups and SME staff. In total, 46 376 individuals completed NCSC online
+courses in 2024.
+
+In addition, Lithuania remains an active participant in EU cybersecurity cooperation, including PESCO’s
+Cyber Rapid Response Teams and the International Counter Ransomware Initiative (CRI).
+
+In the healthcare sector, while no separate cybersecurity regulations exist, the general NIS2-based legal
+framework applies, and Lithuania is currently discussing how to implement the EU action plan for the
+cybersecurity of hospitals.
+
+In addition, Lithuania continues to implement the 5G Cybersecurity Toolbox, as recommended in
+2024, to enhance network security. While no major domestic cybersecurity breach was reported,
+politically motivated cyberattacks – particularly DDoS – intensified in 2024, in connection with the
+regional fallout from the war in Ukraine. These developments underline the need for continued
+investment in cybersecurity infrastructure and resilience. Overall, the policy mix has expanded
+meaningfully, but additional targeted measures – especially to support SMEs and healthcare-specific
+protocols – would improve adequacy amid an increasingly hostile cyber landscape.
+
+
+
+
+
+                                       14  Lithuania
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Lithuania’s digital transition strategy recognises key inclusion challenges related to age, socio-
+economic status, education level, and geography. Seniors, people with disabilities, and residents of
+rural areas are priority groups in initiatives such as the ‘No One is Left Behind’ campaign and other
+public service accessibility projects. Gender gaps in ICT persist; the roadmap notes significantly lower
+participation of women in the field due to social stereotypes and educational patterns. Access to digital
+public services continues to improve through the modernisation of the e-Government portal and the
+development of inclusive service design. While digital civic participation remains limited, Lithuania
+supports safer digital environments, particularly for older adults and vulnerable users. According to
+the 2025 Eurobarometer, 81% of Lithuanians think that accessing public services online will be
+important for their daily life in 2030. Concerning human support to help access and use digital
+technologies and services, 76% consider it would improve their daily use of digital technologies, and
+88% think public authorities should consider it important to ensure that people receive proper human
+support to help them adapt to the changes in their lives brought about by digital technologies and
+services.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+
+In 2023, Lithuania reported that 52.91% of its population had basic digital skills, trailing slightly
+behind the EU average of 55.56%. While there is no new data for 2024, a breakdown by demographic
+factors provides some insights:
+
+      Gender Gap: Contrary to what is observed in most EU countries, Lithuania shows a sizeable
+       gender gap in digital skills in favour of women (4.86 pp), with 50.38% of men and 55.24% of
+     women proficient in basic skills. In comparison, the EU average gap in favour of men is 2.23 pp.
+
+       Education Level: The level of formal education correlates with digital skill levels. In Lithuania,
+       72.33% of individuals with high formal education have basic skills, falling short of the EU
+       average (79.83%). Interestingly, those with medium levels of formal education are the least
+         skilled, at 36.09%, and the gap between this group and the national average  is 16.82
+       percentage points.
+
+       Living Areas: Residents of towns and suburbs in Lithuania have the lowest levels of digital skills
+        at 45.98%, which is below the EU average for similar areas (53.25%). The gap within Lithuania
+      between rural areas and the national average is 5.5 percentage points, smaller than the EU
+       average (8.06 pp).
+
+      Age Groups: The youngest age bracket, 16 to 24-year-olds, are the most digitally skilled in
+        Lithuania, with an 81.28% proficiency rate that significantly surpasses the EU average
+
+
+
+                                       15  Lithuania
+
+
+
+        (69.98%). In stark contrast, only 15.15% of 65 to 74-year-olds possess basic digital skills, which
+           is well below the EU norm for that age group (28.19%).
+
+       Digital Skills Index components: Within the five areas of the Digital Skills Index, Lithuania only
+       exceeds the EU average in information and data literacy skills, with a score of 86.59%.
+       However, the country’s weakest area
+           is digital content creation, with a score
+        of 62.20%, which  is below the EU
+       average (68.28%).
+
+In summary, Lithuania’s digital  skills profile
+shows exceptional performances among the
+young,  but  there  are  areas  that  need
+attention, particularly in elevating the  skill
+levels of those with medium formal education
+and the older population. The digital skills of
+men are noticeably lower than of those of
+women.  Improving   these   areas   could
+significantly enhance Lithuania’s overall digital
+proficiency, moving it closer to, or beyond, EU
+averages.
+
+In its roadmap, Lithuania sets a target at 80% of its population having at least basic digital skills.
+Given the sharp generational divide, Measure SĮ-1 plays a critical role in addressing gaps among socially
+vulnerable groups. While direct impact on skills is still being assessed, the Index of Information
+Accessibility rose significantly – from 8.50 in 2020 to 37.51 in 2024 – indicating broader progress in
+reaching excluded populations.
+
+Complementary efforts are underway through Erasmus+ projects which will deliver inclusive digital
+skills curricula by 2026. Lithuania has also intensified its focus on older adults. The Ministry of Social
+Security and Labour funds NGO-led intergenerational projects where young people train seniors in ICT
+skills.  These  include  tailored  learning  activities, needs  assessments, and  training  material
+development, supported through initiatives like the Universities of the Third Age, which provide digital
+literacy training across municipalities.
+
+Additionally, the Communications Regulatory Authority (RRT) advanced its flagship initiative, ‘No
+One is Left Behind’, a senior-focused digital literacy campaign under the patronage of the President.
+In 2024 alone, 46 training sessions were held for 6 100 participants, including 4 600 seniors, with
+participation from over 150 public and private partners. These initiatives demonstrate strong outreach
+and inclusion efforts. However, in the absence of new measures or a comprehensive framework,
+challenges remain in scaling efforts, especially in tracking long-term impact and integrating digital skills
+development more closely with labour market strategies.
+
+ 2024 recommendation on digital skills: Continue implementing initiatives to improve digital skills
+ to ensure that no one is left behind.
+
+ In 2024, Lithuania continued the implementation of existing measures but did not take any new
+ measure. Lithuania maintained its national digital skills programme, launched in late 2022, which
+ targets vulnerable groups such as older  adults, people with  disabilities, and low-income
+ populations. Key initiatives like Measure SĮ-1, the ‘No One is Left Behind’ campaign, and NGO-led
+
+
+                                       16  Lithuania
+
+
+
+ training efforts continued to support digital inclusion. In parallel, Lithuania launched a preparatory
+ analysis for the National Digital Agenda (expected in 2026), which may lead to future policy
+ enhancements.
+
+
+
+ICT specialists
+Lithuania is at 5.3% of ICT specialists in total employment (2030 national target: 10%) after a
+progression of +8.2% in 2024, standing above the EU average of 5.0%. The country was already at
+4.9% in 2023, also higher than the EU’s 4.8%. Lithuania’s annual growth rate clearly outpaced the EU
+average (+8.2% vs +4.2%), indicating strong momentum in the expansion of its ICT workforce.
+
+However, Lithuania’s share of female ICT specialists and the provision of ICT training show more
+mixed results. In 2023, 20.0% of ICT specialists in Lithuania were women, slightly above the EU’s 19.4%.
+But this share declined to 18.2% in 2024, falling below the EU average of 19.5%. The annual growth
+rate of -9.0% was significantly lower than the EU’s +0.5%, suggesting challenges in retaining or
+attracting women in ICT careers.
+
+In terms of ICT training, only 13.07% of enterprises with ten or more employees in Lithuania provided
+such training in 2022, well below the EU average of 22.37%. By 2024, this figure had only marginally
+increased to 13.24%, still trailing the EU average of 22.29%. Nevertheless, Lithuania’s growth rate of
++0.6% outpaced the EU’s slight decline of -0.2%, indicating some effort to improve in this area.
+
+Overall, while Lithuania performs well in growing its overall ICT workforce, the gender imbalance and
+limited business investment in ICT training remain key issues to address for inclusive and sustainable
+digital development.
+
+In term of demand from the labour market, Eurostat experimental statistics based on web scraping
+show that in Lithuania, the profiles ‘software and applications developers and analysts’ are the most
+sought-after, representing 58.3% of online job advertisements for ICT specialists (58.0% at EU level). In
+addition to this dominant group, ‘electronics and telecommunications installers and repairers’ are
+slightly in higher demand in the country than in the EU on average (7.0% vs 6.6%).
+
+Lithuania still aims at reaching the target of 10% of ICT specialists in employment by 2030. To address
+the growing gap between labour market demand and the supply of qualified ICT workers, the roadmap
+outlines a mix of long- and medium-term measures. These include investments in vocational education
+(Measure ST-1), the modernisation of educational infrastructure and technical classroom equipment
+(ST-2), and support for international student retention and foreign talent attraction. In 2024, Lithuania
+continued the ‘Acquisition of Qualifications and Competences’ programme under Measure ST-5, which
+supports unemployed and employed persons in acquiring high-value-added skills, including in digital
+fields. By January 2025, over 12 800 people had participated, of whom 11 000 in digital training, and
+more than 8 400 had successfully completed a qualification.
+
+A major new development was the launch of the Talent Reach 1 programme, implemented by Invest
+Lithuania, which aims to establish innovative models for recruiting ICT professionals from abroad.
+The project includes a tested entry algorithm for targeting foreign labour markets, a teleworking
+marketing campaign, and the design of public-private talent partnerships to be piloted under Talent
+Reach 2 in 2025. In parallel, Lithuania introduced practical facilitation tools such as a one-off relocation
+allowance for employers and foreign ICT recruits, and a legal framework that allows professional
+experience to be recognised in place of formal qualifications, aligning with and going beyond the Blue
+Card Directive.
+
+
+                                       17  Lithuania
+
+
+
+Complementary actions target the diaspora, including the Diaspora-Friendly Employer Badge, grants
+for diaspora-led professional initiatives, and the Diaspora Youth Traineeships. Those traineeships
+brought 49 high-achieving participants from global universities to Lithuanian companies in 2024. As of
+late 2024, 36 companies and organisations across Lithuania had joined the Diaspora-Friendly Employer
+initiative, offering remote interviews, relocation assistance, and integration support to attract
+Lithuanian  professionals from abroad. The planned study-work path  pilot  will  also support
+international student integration into the Lithuanian labour market through employer matchmaking
+and mentoring schemes.
+
+ 2024 recommendation on ICT specialists: Continue implementing its efforts to increase the
+ number of ICT specialists.
+
+ Lithuania made some efforts to address the recommendation through new policy actions in 2024.
+ Lithuania advanced its existing policy mix to grow the ICT workforce, while also launching the Talent
+ Reach 1 project – a new initiative aimed at attracting highly qualified professionals from foreign
+ markets through innovative recruitment models, teleworking campaigns, and pilot tools for labour
+ market integration. The follow-up programme, Talent Reach 2, is planned for 2025.
+
+
+
+No national measure with specific targets, funding, or programming for women in ICT was identified
+in 2024. Only an NGO-driven initiative that supports gender inclusion: the ‘Women Go Tech’ mentoring
+programme from 2016 to 2021 is mentioned in the roadmap. Further policy action may be needed to
+bridge this gap.
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+For digital public services for citizens, Lithuania scored 87.86 in 2024 (2030 national target: 100),
+after a modest increase of +1.3%, above the EU average of 82.32. The country is on track according
+to its national trajectory. The country also outperformed the EU in 2023, with a score of 86.7 compared
+to the EU’s 79.44. However, Lithuania’s growth rate in 2024 (+1.3%) was significantly lower than the
+EU’s (3.6%). A similar trend is seen in cross-border digital public services for citizens, where Lithuania
+scored 80.13 in 2024, higher than the EU average of 71.28. Yet the country experienced a negative
+growth rate of -3.5%, while the EU improved by +4.3%.
+
+For digital public services for businesses, Lithuania reached a score of 92.5 in 2024 (2030 national
+target: 100), after a decline of -3.6%, still well above the EU average of 86.23. The country is on track
+according to its national trajectory. In 2023, Lithuania’s score was 95.94, again outperforming the EU
+(85.42). However, the decline in 2024 contrasts with the EU’s positive growth of 0.9%. The same
+pattern can be observed in cross-border digital public services for businesses, where Lithuania scored
+85.0 in 2024 (vs 73.76 in the EU), but with a steep drop of -7.5% compared to the EU’s +0.9%.
+
+Regarding access to e-health records, Lithuania maintained a high score of 95.42 in both 2023 and
+2024, significantly above the EU’s 79.12 and 82.43, respectively. The country is on track according to
+its national trajectory. Nevertheless, Lithuania showed no growth in this area, whereas the EU
+improved by +4.2%.
+
+e-ID
+In 2023, 66.80% of Lithuanian people have used their eID to access online services for private
+purpose in the last 12 months, which is above the EU average (41.11%).
+
+Lithuania offers multiple eID solutions, including a state-issued ID card (EU-notified under the eIDAS
+Regulation), and private methods like Mobile ID, Smart-ID, and bank logins. However, only the ID card
+
+                                       18  Lithuania
+
+
+
+currently supports cross-border recognition, limiting seamless access to EU e-services. To improve
+performance, the eID module is being technically separated from the national e-Government portal,
+enhancing efficiency and security. Lithuania is preparing for the rollout of the European Digital Identity
+Wallet (EUDI Wallet) and is actively participating in the ATPITTUDE large-scale pilot, which will support
+its implementation. Challenges persist, especially for socially vulnerable groups and users with non-
+Latin characters in their names, who face issues when authenticating via eIDAS. Improving accessibility
+and cross-border usability remain key priorities.
+
+Digitalisation of public services for citizens and businesses
+In its roadmap, Lithuania aims at reaching a score of 100 for the digitalisation of public services for
+citizen and businesses. Lithuania’s national digital services portal continues to see high levels of
+adoption, with over 70 million visits annually, more than 35 million services requested, and over
+200,000 services provided through the platform. These figures reflect strong uptake and usage by both
+citizens and businesses. Efforts to improve accessibility include the introduction of a mobile application
+and a new digital services catalogue. While overall engagement is high, challenges remain in reaching
+specific groups – particularly socially vulnerable populations – who may require targeted awareness
+and digital skills support to fully benefit from online public services. A new project launched in October
+2024 aims to improve citizens’ ability to use digital solutions and increase take-up of e-services, with
+a focus on remote, older, unemployed, and disabled populations. It is implemented by the State Digital
+Solutions Agency (VSSA) in partnership with ‘Langas į ateitį’ and the Lithuanian National Library and
+will run until April 2026.
+
+Reducing administrative burden is also a policy priority. Lithuania is investing EUR 17.6 million into a
+unified public sector data management model to enable interoperable systems and ‘only-once’
+principles. This reform is expected to save 17 000 person-hours per year and EUR 110 million by
+allowing better data sharing between institutions. The e-Government Portal (epaslaugos.lt) now
+groups services by life cases, supports electronic signatures, and is being modernised to improve
+navigation and accessibility.
+
+On sovereignty and infrastructure, Lithuania has adopted a hybrid cloud model. Critical state
+information must be stored in national public data centres, with backups in foreign facilities. Non-
+critical data can be held in private clouds but must also be mirrored in public infrastructure. This model
+ensures resilience while supporting flexibility and compliance with EU standards.
+
+e-Health
+In its roadmap, Lithuania aims at reaching a score of 100 for the access to medical records, in line
+with the 2030 EU target. With a current high score, this objective appears realistic, with a total budget
+of 115.59 million dedicated to improving the quality and accessibility of healthcare services and to
+implement the Digital Health System Development Action Plan for 2023-2027. However, no notable
+progress was recorded in 2024, suggesting the need for further action. Strengthening the integration
+of medical imaging, expanding access to mental health and maternal health records, and increasing
+public awareness of the e-health portal could help accelerate progress.
+
+According to the 2025 Eurobarometer, 81% of Lithuanians think that digital technologies will be
+important when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for
+diagnosis diseases) during their daily life by 2030.
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+
+                                       19  Lithuania
+
+
+
+In Lithuania, online participation in political and civic life is rising faster than the EU average. In 2024,
+20.17% of people used the internet to participate in consultation, or for voting or sharing opinions
+online. This share is around the EU average and trending upward (16.44% in 2022), as of the trend
+observed at the EU level (17.59% in 2022 and 20.45% in 2024).
+
+Building on this momentum, Lithuania has expanded its use of digital tools to strengthen civic
+engagement. In 2024, during presidential, EU Parliament, and constitutional referendum elections, the
+‘Voter’s Page’ remained a key platform for voters and candidates. A new virtual electoral assistant was
+launched to provide targeted information throughout the electoral process, with plans to integrate
+generative AI capabilities. Additionally, electoral commission members were trained using a dedicated
+digital platform tailored to their roles. These tools enhanced transparency, improved communication
+with voters, and demonstrated Lithuania’s efforts to digitise electoral processes while safeguarding
+democratic participation.
+
+In 2024, 43.12% of Lithuanians reported encountering untrue or doubtful content online, below the
+EU average of 49.25%. Despite this relatively low exposure, only 12.92% of those exposed checked
+the truthfulness of the content. Youth aged 16-24 experienced significantly more exposure (60.54%)
+than adults (45.10%), but both groups showed low  verification rates – 21.67% and 13.47%,
+respectively. Women (45.73%) reported more exposure than men (40.29%), with similarly low fact-
+checking engagement. In the same year, 30.04% of individuals came across hostile or degrading
+messages online (EU average: 33.5%), with young people (46.71%) and women (32.81%) more affected
+than other groups.
+
+In response, Lithuania has taken initial steps to strengthen resilience. In May 2024, the Government
+Office and Debunk.org led a national awareness campaign, reaching nearly 2 000 students from 61
+schools through lectures and an interactive exam. The public can also access Debunk.org’s ‘InfoSkydas’
+course to improve media literacy. The Communications Regulatory Authority (RRT) plans to grant
+Debunk trusted flagger status and advises schools and libraries on filtering tools to protect minors.
+However, Lithuania does not plan to develop a national age verification mechanism, instead awaiting
+the EU-wide solution under the Digital Identity Wallet. While these initiatives show momentum,
+further scaling and long-term strategy will be needed to reinforce critical thinking and online safety
+across all segments of the population.
+According to the Digital Decade Eurobarometer 2025, Lithuanians strongly think that the action of the
+public authorities is urgent to protect children online regarding the negative impact of social media on
+children’s mental health (97% of Lithuanians), cyberbullying and online harassment (97%) and to put
+in place age assurance mechanisms to restrict age-inappropriate content (95%).
+
+
+
+
+
+                                       20  Lithuania
+
+Leveraging  digital transformation  for a
+smart greening
+
+The green transition is a recognised but still emerging priority in Lithuania’s policy agenda. While
+several national actions address climate and environmental goals, the integration of digital tools to
+accelerate this transition remains at an early stage.
+
+The Lithuanian population recycles a substantial part of its ICT equipment compared to the EU
+average. Lithuanian people tend to recycle their laptop and desktop devices (10.03% for laptops and
+tablets, 13.92% for desktops and 12.78 for mobile phones) more than the EU average (11.31%, 14.66%
+and 10.93, respectively) but recycle their mobile phones less (7.83%, 10.93% for the EU).
+
+In 2024, 29.86% of people considered energy efficiency important when purchasing ICT devices (EU:
+19.35%) and the eco-design of the device was considered important for 18.45%, which is above the
+EU average (12.04%). However, those two eco-friendly criteria are of less importance to the buyer than
+the price, the performance, and the design of the ICT device.
+
+Lithuania’s roadmap does not yet outline clear digital-green synergies, but several ongoing and
+upcoming initiatives signal growing momentum toward a smart and sustainable transition. The
+GreenTech Hub, under the Innovation Agency, is expanding its role in supporting cleantech companies
+working on digital solutions for decarbonisation – such as smart grids, AI-driven infrastructure, IoT-
+based waste management, and e-mobility tools – by guiding them to test and adopt EDIH services.
+Under measure VST-3, by mid-2024, 170 contracts were signed with start-ups developing AI,
+blockchain, and RPA solutions; some of these projects contribute to sustainability goals, for instance
+through smart housing management or automation in environmental monitoring.
+
+In parallel, a EUR 54.89 million call launched in 2024 supports industrial enterprises in adopting energy-
+efficient technologies and green production processes, reinforcing the technological backbone of
+Lithuania’s green transition.
+
+While methodologies to quantify the environmental benefits of digital solutions are  still under
+consideration, these developments highlight a gradual shift toward leveraging digital innovation for
+climate action.
+
+According to the Digital Decade Eurobarometer 2025, only 59% of Lithuanians consider digital
+technologies important to help fight climate change, while 78% of Lithuanians think that ensuring that
+digital technologies serve the green transition should be an important action for public authorities.
+
+ 2024 recommendation on green and digital: Lithuania should be more ambitious in synergising the
+ digital and green transitions, focusing on the contribution that digital can bring to sustainability,
+ and also leveraging advanced technologies and scaling up successful initiatives, as well as proposing
+ decarbonisation measures and encouraging initiatives in responsible green technologies. - Develop
+ a coherent approach to twinning the digital and green transitions. First, promote improvements in
+ energy and material efficiency of digital infrastructures, in particular data centres. Second, support
+ the development and deployment of digital solutions that reduce the carbon footprint in other
+ sectors, such as energy, transport, buildings, and agriculture, including the uptake of such solutions
+ by SMEs. - Monitor and quantify the emission reductions of the deployed digital solutions in line
+ with the relevant EU guidance and with the support of the methodology developed by the
+
+
+                                       21 Lithuania
+
+
+
+European Green Digital Coalition, in view of future policy development, as well as of attracting
+relevant financing.
+
+No information available on measures taken to address the recommendation.
+
+
+
+
+
+                                      22  Lithuania
+
+Annex I – National roadmap analysis
+
+ Lithuania’s national Digital Decade strategic roadmap
+
+ Lithuania submitted its initial national Digital Decade roadmap on 13 March 2024. At the time, digital
+ policy lacked centralised coordination, with each ministry responsible for its own domain. In
+ response to challenges identified during roadmap preparation and the 2024 country report, the
+ government adopted a resolution in July 2024 to establish a National Digital Agenda for 2026-2040.
+ This new horizontal strategy aims to centralise governance, align funding, and address gaps in areas
+ such as semiconductors and edge nodes. An in-depth analysis is underway in Q1-Q3 2025 to guide
+ the Agenda’s development. National authorities intend to adjust the roadmap at a later stage.
+
+ There  is hence no information  available on measures taken  to address the  following
+ recommendation issued in 2024:
+       -   TARGETS: (i) Propose a target and develop a trajectory for edge nodes. (ii) Clarify whether
+        the target and trajectory of the ‘Ultra-fast broadband coverage’ corresponds to FTTP
+        networks only or if it includes other types of VHCN. If so, please formalise and develop a
+         trajectory for the missing technologies. (iii) Align the level of ambition of target for the
+       number of ICT specialists with the EU target.
+       -   MEASURES: (i) Strengthen or better tailor the measures contributing to targets that are the
+       most difficult to achieve especially as regards skills, ICT specialists, take up of AI and big
+        data analytics;  (ii) Propose measures in semiconductors, edge nodes and quantum
+        computing;  (iii) Review the budget description of  all presented measures, ensuring
+        completeness and accuracy; (iv) Review description of measures to provide information on
+        expected impacts; (v) Provide more information on the implementation of digital rights and
+          principles (and Digital Decade general objectives), including what national measures
+         contribute  to  it.  - CONSULTATION:  Provide more  details on the  consultation  of
+         stakeholders.
+
+
+
+
+
+                                       23  Lithuania
+
+
+
+                          Measures and budget in national roadmap7
+
+
+
+
+
+ A total of 26 measures make up of Lithuania’s national strategic roadmap with a budget of EUR 1.5
+ billion (1.9% of Lithuanian’s GDP in 2024).
+
+
+
+
+
+7 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       24  Lithuania
+
+Annex II – Factsheet on multi-country
+projects (MCPs) and funding
+
+
+
+ Multi-country projects and best practices
+
+ Lithuania is a member of the Alliance for Language Technologies EDIC. Lithuania is also a participating
+ state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+ The country has engaged with the Best Practice Accelerator8 by its presence to the workshops.
+
+
+
+ EU funding for digital policies in Lithuania
+ Lithuania allocates 23% of its total recovery and resilience plan to digital (EUR 724 million)9. In addition,
+ under cohesion policy, EUR 280 million (representing 4% of the country’s total cohesion policy funding),
+  is dedicated to advancing Lithuania’s digital transformation10. According to JRC estimates, EUR 896
+ million directly contribute to achieving Digital Decade targets (of which EUR 684 million comes from
+ the RRF and EUR 212 million cohesion policy funding)11.
+
+
+ Lithuania’s RRF and Cohesion Fund allocations prioritise digital public services, with major investments
+ in electronic health records and the development of a national e-health architecture. Funding also
+ supports cloud computing, AI, and data analytics for public administration, alongside basic and
+ advanced digital skills training. Connectivity investments focus on extending VHCN and supporting 5G
+ rollout in underserved areas. While key areas like semiconductors and e-ID remain unfunded, the
+ overall strategy reflects a strong emphasis on digital inclusion and public sector transformation, aligned
+ with the national Digital Decade roadmap.
+
+
+
+
+
+8 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+9 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+10 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+11 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       25  Lithuania
+
+Annex III – Digital Rights and Principles12
+
+
+
+
+
+Activity on Digital Rights and Principles (figure 1)
+
+Lithuania has been relatively active in implementing digital rights and principles, with 45 initiatives
+overall. No information is available on new initiatives launched in 2024. Lithuania is most active in the
+area of Protection and empowerment of children and young people in the digital environment (V).
+There is room for improvement, especially with regards to A fair digital environment  (III) and A
+protected, safe and secure digital environment (V) where less activity has been identified.
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators, developed by the support study, illustrate the level of implementation
+of digital rights initiatives on the ground. Based on available data, they estimate the impact of
+measures implemented by key stakeholders in Lithuania (mainly national government) and how these
+are perceived by citizens.
+
+The indicators suggest that Lithuania is most successful in implementing commitments related to
+Putting people at the centre of the digital transformation (I). Lithuania should review and strengthen
+efforts in areas where the impact of digital rights initiatives appears to be limited despite relative
+activity, notably on Safety, security and empowerment (V).
+
+According to the Special Eurobarometer 'Digital Decade 2025’, 52% of citizens in Lithuania think that
+the EU protects their digital rights well (a 5% decrease since 2024). This is above the EU average of
+44%. Citizens are particularly confident about getting basic and advanced digital education, training
+and skills and getting easy online access to all key public services in the EU (64%, above the EU average
+of 60% and 58% respectively). They are most worried that their right to a safe digital environment and
+content for children and young people is not well protected (45%, below the EU average of 48%).
+
+
+
+12 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+
+                                       26

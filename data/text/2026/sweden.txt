@@ -1,0 +1,1094 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 17.6.2026
+                                              SWD(2026) 155 final
+
+                                       PART 27/27
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2026 country report
+
+                                Accompanying the document
+
+         COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN
+       PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+             COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+
+         State of the Digital Decade 2026: Closing structural gaps and mobilising investments for
+                                      2030 and beyond
+
+             {COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+                                 {SWD(2026) 157 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE
+COUNTRY REPORT
+2026
+
+     SwedenSweden
+
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+  Sweden in the Digital Decade ............................................................................................................. 1
+
+  Funding for digital and multi-country projects ................................................................................... 2
+
+  A competitive, sovereign and resilient EU based on technological leadership .................................. 2
+
+   Protecting and empowering EU people and society ........................................................................... 3
+
+  Recommendations .............................................................................................................................. 4
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+   Building technological leadership: digital infrastructure and technologies ........................................ 5
+
+     Connectivity infrastructure ............................................................................................................. 5
+
+     Semiconductors............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 8
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ........................................................................................ 9
+
+     Take-up of advanced technologies .................................................................................................. 9
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 12
+
+   Strengthening cybersecurity & resilience ......................................................................................... 12
+
+Protecting and empowering EU people and society ............................................................................. 13
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 13
+
+     Equipping people with digital skills ............................................................................................... 13
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 16
+
+Leveraging digital transformation for a smart greening ....................................................................... 19
+
+Annex I: National roadmap analysis ...................................................................................................... 20
+
+Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 21Sweden
+
+Executive summary
+
+Sweden is one of the front runners and is above the EU average on almost all indicators. The country
+has the ambition to become one of the global leaders in the digital field. Sweden remains attractive
+for start-ups, as the high number of unicorns shows. Sweden has performed and continues to perform
+particularly well on digital skills, with a population with good ICT skills and a highly skilled workforce.
+Individuals and business benefit from high-quality fixed and mobile connectivity. Operators have
+started to roll out 5G stand-alone (SA) networks. The country has improved fixed and mobile
+connectivity in the most populated areas. However, connecting the very last buildings to the fibre
+network remains an issue.
+
+The country is actively working on its weaknesses. 5G coverage has increased substantially over the
+last years and is now close to 100% in many regions. However, to ensure that all rural areas can also
+fully benefit from increased digitalisation, Sweden needs to continue deploying fibre and 5G SA
+networks. For several years, Sweden has scored below the EU average on electronic access to health
+records but is now catching up with the EU average.
+
+While Sweden is among the leaders in the EU and has taken action to increase the uptake of AI, more
+needs to be done to promote the widespread adoption of AI technologies among enterprises. Over
+the last year, Sweden has updated several of its digital policies. This includes the presentation in May
+2025 of a 2025-2030 national strategy on digitalisation based on five pillars: digital skills, digitalisation
+of businesses, digitalisation of public services, and digitalisation of welfare and connectivity. In
+February 2026, Sweden presented an AI strategy in which it announced its ambition to be one of the
+top 10 global leaders in AI. The AI strategy was accompanied by an action plan with a list of initiatives.
+
+Sweden in the Digital Decade
+
+Sweden demonstrates a moderate level of ambition in its contribution to the Digital Decade, having
+set 13 national targets out of a possible 14, 54% of which are aligned with the EU 2030 targets. In its
+national roadmap, Sweden provided 12 trajectory points for 2025 out of 13 analysed. The country is
+following them moderately well, with 58% considered to be on track. Sweden addressed 67% of the
+six recommendations issued by the Commission in 2025, either by implementing significant policy
+changes (17%) or making some changes (50%) through new measures.
+
+Sweden submitted an updated Digital Decade national roadmap on 24 February 2026. The roadmap
+contains 68 measures, of which 27 are new. The total budget is EUR 3.55 billion, with EUR 2.89 billion
+coming from public budgets (equivalent to approximately 0.49% of Sweden’s GDP in 2025). According
+to the national roadmap, by the end of 2026, 46% of the measures will come to an end. The total public
+budget associated with these measures is EUR 1.18 billion, representing 41% of the total public budget
+outlined in the roadmap.
+
+According to the special Eurobarometer on ‘the Digital Decade’ 2026, 83% of Swedish people consider
+that digital policy should have a very high/high priority for the EU in shaping our future in Europe. They
+also think that, in the next 10 years, the EU should cooperate with Member States to improve
+cybersecurity and protection from online threats (98%), build an independent European digital
+infrastructure (broadband, 5G, cloud computing, semiconductors) (88%) and promote  digital
+education and skills programmes/develop shared digital public services (e.g. digital ID, e-Health) (both
+on 86%).
+
+
+                                        1Sweden
+
+
+
+In addition, 88% of Swedish respondents think that the EU should reduce its dependencies on digital
+solutions from non-EU countries, and 94% consider that EU should prioritise investments in digital
+infrastructure and services that are developed and controlled in Europe. Meanwhile, 73% would be
+willing to switch to an EU-based digital service provider even if it means slightly higher costs.
+
+Funding for digital and multi-country projects
+
+Sweden allocates 21% of its total recovery and resilience plan to digital technology (EUR 0.6 billion). In
+addition, under cohesion policy, EUR 0.2 billion, representing 13% of the country’s total cohesion
+policy funding, is dedicated to advancing Sweden’s digital transformation.
+
+Sweden is a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+                                   Sweden                EU               Digital Decade
+ Digital Decade KPI (1)                                                                                       target by 2030
+                                            Last       DESI 2026    Annual    National     DESI     Annual      SE      EU
+                                          available     (year 2025)   progress   trajectory    2026     progress
+  Fixed Very High-Capacity Network       89.7%       89.8%       0.1%             -       85.5%     3.7%     98.5%    100%
+  coverage
+  Fibre to the Premises (FTTP)            85.6%       85.6%       0.0%      98.0%     74.1%     7.1%     98.5%          -
+
+  Basic 5G coverage                    98.6%       98.7%       0.1%      100.0%     96.8%     2.6%     100.0%   100%
+
+  Edge Nodes (estimate)                              -          226               -                -        7 451            -               -      10 000
+
+  SMEs with at least a basic level of
+                                    79.9%       86.5%       4.0%      89.9%     71.4%     11.0%     95.0%    90%
+  digital intensity *
+
+  Cloud *                            66.0%       67.6%       1.2%      89.0%     46.7%     9.5%     94.0%    75%
+
+   Artificial Intelligence                  25.1%       35.0%      39.7%     18.0%     20.0%     48.0%     39.5%    75%
+
+  Data analytics *                      35.0%       38.6%       5.1%      41.5%     39.9%     9.5%     56.5%    75%
+
+  AI or Cloud or Data analytics *          73.1%       76.5%       2.3%             -        63.2%     7.5%            -      75%
+
+  Unicorns                            41          48        17.1%       49        324      10.2%      64      500
+
+  At least basic digital skills *             66.4%       70.0%       2.6%      76.8%     60.4%     4.3%     89.7%    80%
+
+  ICT specialists                        8.6%        8.9%       3.5%      10.2%      5.0%      2.0%     12.9%    ~10%
+
+  eID scheme notification                                 Yes
+
+
+  Digital public services for citizens          85.9          84.2        -2.1%       87.5        84.6      2.8%       90.0      100
+
+  Digital public services for businesses      90.4          90.4        0.0%       89.0        88.6      2.7%       90.5      100
+
+  Access to electronic health records        77.9          86.5       10.9%       76.0        86.5      4.6%       78.5      100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) The latest available data are from DESI 2025 (reference year 2024) except for indicators marked with a star * which come from DESI 2024
+  (reference year 2023)
+  (3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap
+
+
+A competitive, sovereign and resilient EU based on technological
+leadership
+
+Sweden is performing well in connectivity, being above the EU average in fibre and 5G coverage.
+Coverage of last premises, in particular, in sparsely populated areas will be key to achieving full
+coverage by 2030. The average support per building for connecting to the fibre network was
+SEK 80 643 in 2025, which is an increase compared with SEK 36 749 per building in 2022. This indicates
+that the remaining buildings are becoming increasingly expensive to connect, which Sweden has
+pointed out in its roadmap. At the same time, the differences in broadband access between urban and
+rural areas continue to decrease. Sweden is dependent on international fibre-optic submarine cables
+
+
+                                        2Sweden
+
+
+
+for connectivity with the rest of the world. On quantum technologies, Sweden is committed to work
+with European partners to secure existing submarine cable connectivity, and to develop alternative
+submarine cable routes to enhance resilience, for example. The work on quantum continues based on
+the flagship project, quantum agenda that was issued in 2024, by the Wallenberg Centre main
+quantum technology actors in Sweden. Conclusions are the need for Quantum Technology (WACQT),
+deepening international relations and collaborations, and a continuation of the work done in the
+quantum flagship WAQCT. During 2025, Sweden has prepared for and organised  itself for the
+integration of quantum flagship activities into the EuroHPC JU.
+
+Sweden has improved on AI and Swedish businesses are leading in terms of private sector AI uptake.
+There are reasons, however, to continue to strengthen its AI infrastructure and to further promote the
+integration of its AI ecosystem into the wider EU ecosystem, also through Testing and Experimentation
+Facilities (TEFs) and European Digital Innovation Hubs (EDIHs), and also through the EuroHPC JU, for
+example through the Swedish AI Factory MIMER which are key support infrastructures for business
+adoption of AI technologies. The country remains just below the EU average on data analytics.
+
+Protecting and empowering EU people and society
+
+The population’s level of basic digital skills is well above the EU average. The proportion of ICT
+specialists is also above the EU average. However, vacancies remain as there is a skills shortage and
+high competition for the right digital skills, especially for AI use and for SMEs. A further increase in the
+supply of ICT specialists to the job market should continue to relieve skills shortages in other sectors
+of the economy.
+
+Sweden has acted to further digitalise its public services. Sweden has lagged behind on access to e-
+Health records in particular, but has recently improved compared with previous years. The setting up
+of a government electronic identity will also support access to e-Health records. An important measure
+as regards the digitalisation of public services is Ena, which is Sweden’s digital infrastructure. It sets up
+a common infrastructure for exchanging information between public administrations and coordinated
+with sector specific infrastructure, for example health and social welfare. Sweden scores below the EU
+average in the latest EU justice scoreboard on digital access to court judgments, and the digitalisation
+of public judicial services still lags behind as concerns the deployment of the necessary IT solutions
+which are indispensable for cross-border judicial cooperation as a key reform of digital public services.
+
+Sweden already attracts data processing centres, also in the north of the country. To better understand
+the environmental impact of the energy-consuming data centres, Sweden should collect facts and
+figures.
+
+The Swedish  National  Cybersecurity  Strategy  highlights  that the  cybersecurity  landscape  is
+characterised by ‘inadequate incident management’ and ‘insufficient information sharing between the
+private and public sector’. One of the targets set out in the strategy is ‘strengthened public-private
+management of cybersecurity incidents’.
+
+
+
+
+
+                                        3Sweden
+
+
+
+
+ Recommendations
+
+       -   Fixed broadband: Sweden should complete the networks to bridge the urban-rural divide.
+       -   Mobile broadband: Sweden should accelerate 5G roll-out in rural areas. It should also
+        promote the deployment of 5G SA networks while enabling advanced use cases.
+       -   e-Health: Continue efforts to increase the availability of electronic health records.
+       -   AI: Sweden should sustain  its efforts to promote the widespread adoption of AI
+         technologies among enterprises, with a particular focus on SMEs. To that end, Sweden
+         should continue to strengthen its AI infrastructure while improving access to critical EU-
+        wide AI infrastructures, including AI factories and Gigafactories, particularly for SMEs,
+          start-ups, and mid-cap businesses. To further accelerate AI adoption across key sectors,
+       Sweden should actively participate in and promote the sectoral flagship initiatives set up
+        under the Apply AI strategy and should continue promoting the integration of its AI
+        ecosystem into the wider EU ecosystem including through TEFs and EDIHs, which are key
+         support infrastructures for business adoption of AI technologies.
+       -   Cybersecurity: Promote national public-private cooperation frameworks for cybersecurity
+         information sharing (for example voluntary information-sharing arrangements as referred
+         to in Article 29 of the NIS2 Directive) and frameworks for national authorities to share
+         information on cybersecurity incidents.
+       -   Green: Monitor and quantify the environmental impact of the digital transformation, in
+          particular as regards the impact of data processing.
+       -   Quantum: Sweden should:  (i) strengthen its national positioning in the EuroHPC JU
+        governance and align national strategies accordingly; (ii) ensure strong representation
+         there and align the national quantum strategy, national calls and infrastructure plans with
+         the EuroHPC JU’s work programmes, access schemes and infrastructure roadmaps; (iii)
+           shift from mainly research funding to industrial scale-up, with stronger support for
+       quantum software, compilers, middleware, error-correction/error-mitigation tools, and
+         hybrid HPC-QC application stacks; and (iv) align national calls more closely with the EU
+        roadmaps, EuroHPC deployments, the EuroHPC JU work programme, and the Chips JU
+       quantum pilot lines.
+
+
+
+
+
+                                        4Sweden
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Building technological leadership: digital infrastructure and technologies
+
+Connectivity infrastructure
+Performance assessment
+
+Fixed Very High-Capacity Network (VHCN) coverage. Sweden achieved a VHCN coverage of 89.84%
+in 2025, following a slight increase of 0.1% from the previous year, and surpassing the EU average of
+85.54%. In 2024, Sweden’s coverage was 89.74%, which was higher than the EU’s 82.49%. In terms of
+growth, Sweden’s performance was inferior to the EU’s 3.7% increase.
+
+For households residing in sparsely populated areas, Sweden’s VHCN coverage was 69.37% in 2025,
+following a minor decrease of 0.1% from 2024, but was still above the EU’s 66.66%. In 2024, Sweden’s
+coverage was 69.45%, which was higher than the EU’s 61.87%. In terms of growth, Sweden’s
+performance was inferior to the EU’s 7.7% increase.
+
+Fibre to the Premises (FTTP) coverage. Sweden’s FTTP coverage was 85.62% in 2025, maintaining the
+same level as in 2024, and exceeding the EU average of 74.13%. In 2024, Sweden’s coverage was
+85.58%, which was higher than the EU’s 69.24%. In terms of growth, the EU experienced a 7.1%
+increase, while Sweden had no growth.
+
+For households residing in sparsely populated areas, Sweden’s FTTP coverage was 69.35% in 2025,
+following a minor decrease of 0.1% from 2024, but was still above the EU’s 62.61%. In 2024, Sweden’s
+coverage was 69.45%, which was higher than the EU’s 58.76%. In terms of growth, Sweden’s
+performance was inferior to the EU’s 6.5% increase.
+
+
+
+
+
+                                        5Sweden
+
+
+
+Overall 5G coverage. Sweden achieved a 5G coverage of 98.74% in 2025, following a slight increase
+of 0.1% from the previous year, and surpassing the EU average of 96.79%. In 2024, Sweden’s coverage
+was 98.59%, which was higher than the EU’s 94.35%.
+
+For households residing in sparsely populated areas, Sweden’s 5G coverage was 90.5% in 2025,
+following a minor increase of 0.2% from 2024, and exceeding the EU’s 88.88%. In 2024, Sweden’s
+coverage was 90.35%, which was higher than the EU’s 79.58%. Sweden´s spectrum assignment for 900
+MHz to Telia requires increased role out of coverage in rural areas up to 2030. Spectrum assignment
+for 2,1 GHz and 2,6 GHz requires all operators to expand coverage for high-traffic railways up to 2030.
+
+5G coverage in the 3.4-3.8 GHz band. Sweden achieved a 5G coverage in the 3.4-3.8 GHz band of
+79.3% in 2025, following an increase of 7.1% from the previous year, and surpassing the EU average
+of 74.75%. In 2024, Sweden’s coverage was 74.01%, which was higher than the EU’s 67.6%. In terms
+of growth, Sweden’s performance was inferior to the EU’s 10.6% increase. The 3.4-3.8 GHz mid-band
+provides a good balance between coverage with high capacity, making it a cornerstone for advanced
+5G use cases. These use cases include applications in manufacturing, such as industrial IoT, or
+healthcare, for example telemedicine. Only 4.2% of 5G base stations constitute 5G SA; the EU average
+is 22.2%.
+
+For households residing in sparsely populated areas, Sweden’s 5G coverage in the 3.4-3.8 GHz band
+was 17.91% in 2025, following a significant increase of 76.0% from 2024, but was still below the EU’s
+33.71%. In 2024, Sweden’s coverage was 10.17%, which was lower than the EU’s 25.36%. In terms of
+growth, Sweden’s performance was superior to the EU’s 32.9% increase.
+
+The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in
+Sweden. It reveals that overall connectivity coverage is strong across all Swedish regions; however,
+coverage in rural parts is lagging in all regions, in particular as regards VHCN and FTTP coverage.
+
+                        VHCN coverage    FTTP Coverage     5G Coverage
+                                Overall   Rural   Overall   Rural   Overall   Rural
+         National coverage      89.84%   69.37%   85.62%   69.35%   98.74%   90.50%
+         Mellersta Norrland     82.04%   62.43%   78.60%   62.43%   94.73%   76.23%
+       Norra Mellansverige     84.85%   68.37%   81.22%   68.36%   96.29%   83.59%
+        Östra Mellansverige     89.11%   65.65%   86.06%   65.62%   99.40%   95.28%
+          Övre Norrland       86.06%   59.03%   84.51%   59.02%   95.02%   70.25%
+       Småland med öarna     86.44%   73.28%   83.53%   73.28%   98.03%   92.39%
+            Stockholm         95.20%   59.77%   90.19%   59.75%   99.82%   99.18%
+            Sydsverige         90.12%   75.33%   84.49%   75.26%   99.56%   95.47%
+            Västsverige         90.25%   75.91%   85.32%   75.91%   99.43%   95.66%
+
+In terms of take-up, Sweden is above the EU average for mobile connectivity but below for fixed
+connectivity. Sweden has reached 16.08% for fixed broadband subscriptions faster than 1 Gbps after
+an increase from 9.82% in 2024, which is below the EU average of 26.97%. In Sweden, 76.07% of the
+population has 5G SIM cards, up from 50.17% in 2024, and the country is well above the EU average
+of 55.55%.
+
+Policy context and assessment of recommendations
+
+Sweden’s digital economy and society index showcases a strong performance across  all key
+performance indicators (KPIs) in both 2024 and 2025. The country consistently surpasses the EU
+
+                                        6Sweden
+
+
+
+average in terms of coverage for VHCN, FTTP, and 5G, both in total and for households residing in
+sparsely populated areas.
+
+However, Sweden’s growth rates in these areas, with the exception of 5G coverage in the 3.4-3.8 GHz
+band for households in sparsely populated areas, are generally inferior to the EU’s growth rates. This
+suggests that while Sweden maintains a high level of coverage, it may need to accelerate its growth to
+keep pace with the EU’s digital development.
+
+Sweden continues to roll out FTTP. The average cost of fibre connection has varied and the last
+households are very expensive to connect, which makes it financially challenging to reach 100%.
+Access to fibre is about 98% in urban areas and 90% in sparsely populated areas, with a faster increase
+in sparsely populated areas in recent years. Consumer prices for fibre have increased much faster than
+inflation in recent years.
+
+Support programme. A multiannual programme to support fibre deployment was already in
+operation, with dedicated allocations for 2025 and 2026. The year 2027 will be the final year for new
+applications under the programme, while projects approved in that year are expected to be completed
+by 2030.
+
+Copper switch-off. All copper networks will be phased out by the end of November 2026. In December
+2025, a total of 53 municipalities still had some copper; however, not even one per cent of the copper
+lines remain. Sweden was already down to less than one per cent in September 2025.
+
+5G coverage has increased. Sweden lags behind the EU average for the 5G coverage only in the 3.4-
+3.8 GHz band in rural areas. Swedish spectrum licences are now awarded for the next 20 years.
+Recently, two operators were awarded the 1 800 MHz band; the licences start in 2028 and end in 2054.
+Two operators have active 5G SA networks in operation and that development in the area  is
+progressing. Complementary solutions, such as satellite, may be required to reach 100% mobile
+coverage. Operators have expanded as far as it is economically justifiable and additional support may
+not necessarily lead to more expansion due to high operating costs in areas with few customers.
+
+Satellites. The number of satellite-based subscriptions has increased in a few years from about 200 to
+8 500 at the end of 2025, and the service is used all over Sweden, especially in dwellings, such as
+holiday homes, where there is no other connection.
+
+New support programme. The national telecom regulator, Post- och Telestyrelsen (PTS), examined in
+February 2026 the conditions for introducing government support for the expansion, management
+and operation of infrastructure for mobile services. PTS presented a proposal aimed at strengthening
+mobile coverage and capacity along designated roads and railways. Should  it be introduced,
+implementation would not begin before 2027. Any government aid programmes for infrastructure in
+Sweden are technology-neutral and would therefore not be limited to 5G. Nevertheless, such a
+programme, if implemented in 2027-2030, would be expected to generate additional 5G coverage.
+
+ 2025 recommendation on connectivity: Encourage operators to speed up the deployment of 5G SA
+ core networks, and ensure completion of the fibre network.
+
+ On the deployment of fixed networks, Sweden continued implementing existing measures in 2025
+ but did not take any new measures. Progress was made but the rural-urban divide persists as the
+  table above shows.
+
+ On the deployment of mobile networks, Sweden continued implementing existing measures in
+ 2025 but did not take any new measures. Basic 5G networks cover almost all of the country.
+
+
+                                        7Sweden
+
+
+
+ However, on 5G SA only minor progress was made, with the start of a couple of network operations
+  in 2025.
+
+
+Semiconductors
+On semiconductors, Sweden plays a proactive role. Several universities carry out advanced research
+in cooperation with industry. Sweden is investing SEK 175 million in six projects in different parts of
+the country. Sweden expects in its roadmap to contribute to the EU target on semiconductors for 2030.
+
+Edge nodes
+
+Performance assessment
+
+According to the Edge Node Observatory, Sweden is estimated to have deployed a total of 226 edge
+nodes by 2025. Due to a change in methodology, this number cannot be compared with previous
+estimations.
+
+Policy context and assessment of recommendations
+
+Sweden explains in its roadmap that the country will contribute to the EU target of 10 000 edge
+nodes. Center for Trustworthy Edge Computing Systems and Applications (TECoSA), a research centre
+hosted at KTH Royal Institute of Technology carries out research on reliable edge computing systems
+and applications. TECoSA includes 19 partners: KTH Royal Institute of Technology, 10 SMEs, and 8 large
+organisations. The Research Institutes of Sweden (RISE) also carries out testbeds on edge nodes at the
+Infrastructure and Cloud research & test Environment at the Technical University of Luleå.
+
+Quantum technologies
+Sweden expects to support the EU target on quantum technology through WACQT, its flagship
+project. WACQT started in 2018 and should finish in 2030. It has a budget of more than SEK 1 billion.
+WACQT has two goals: to develop a working 100-qubit quantum computer, and to build a broad base
+of quantum expertise within and for Swedish industry and academia. In the mid-term report presented
+at the end of 2024, WACQT concluded that it had made good progress. A team of researchers at
+Chalmers University of Technology has succeeded in developing a 25-qubit quantum computer. Much
+of WACQT’s research is conducted at Chalmers University of Technology, where its central office is also
+located. The quantum computer has been developed at Chalmers University of Technology, and
+Chalmers is also responsible for the quantum simulation initiatives. However, KTH Royal Institute of
+Technology and the universities of Gothenburg, Linköping, Stockholm and Lund are also partners. KTH
+Royal Institute of Technology  is leading WACQT’s quantum communication initiative, Stockholm
+University is leading the development of ion traps, and Lund University is leading the work on quantum
+sensors. The participating universities and businesses together contribute some SEK 300 million
+(approximately EUR 30 million) to WACQT.
+
+In addition to WACQT, Vinnova, Sweden’s Innovation Authority, has provided a few tens of millions of
+Swedish kronor in funding to a small number of Swedish research projects. The EU also funds a
+considerable amount of Swedish research, including the quantum communication network EuroQCI8
+and the quantum computer project EuroHPC LUMI-Q 9. Despite WACQT’s major investment, there are
+many gaps in research funding for Swedish quantum technology. Indeed, the commitment for long-
+term research, for broadening quantum education and, not least, for building an ecosystem is not fully
+convincing. The Swedish industrial ecosystem surrounding quantum technology is still at an early stage,
+but it is growing rapidly and is characterised by highly skilled niche stakeholders, research-oriented
+
+
+                                        8Sweden
+
+
+
+businesses and a few large corporations with strategic interests. The Swedish quantum ecosystem is
+vulnerable, not least due to a limited inflow of new expertise and the high levels of mobility among
+international PhD students and postdocs. A separate ecosystem has been built up around WACQT
+which, in addition to the universities referred to above, also includes private partners. At Chalmers
+University of Technology, WACQT has also set up two testbeds for quantum technology. These testbeds
+– one for quantum algorithms and one for hardware – are open to both researchers and businesses.
+An  initiative known as QSIP, Quantum Sweden Innovation Platform,  is linked to the research
+community and was launched at the end of 2023 with a view to continuing for 10 years. QSIP aims to
+support the development of a competitive and attractive Swedish ecosystem for quantum innovation.
+QSIP is run by Chalmers Industriteknik and is funded by Vinnova as well as the participating members.
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+SMEs with at least basic digital intensity
+
+Performance assessment
+
+In Sweden, 86.47% of SMEs have at least a basic level of digital intensity index after an increase of
++4.0% annually between 2023 and 2025, placing the country above the EU average of 71.39%. In
+2023, the figure for Sweden was 79.91%, which was also higher than the EU’s 57.9%. The country is on
+track according to its trajectory presented in the Digital Decade national roadmap.
+
+In Sweden, 15.45% of SMEs have a very high digital intensity index, surpassing the EU average of 9.07%.
+In 2023, Sweden’s figure was 6.76%, which was already higher than the EU’s 4.38%. Sweden’s annual
+growth rate of 51.2% exceeds the EU’s 43.9%, demonstrating that Sweden is not only ahead in terms
+of current digital intensity but is also outpacing the EU in its rate of advancement in this area.
+
+Policy context and assessment of recommendations
+
+Sweden emphasises that businesses need to take the responsibility for their digitalisation. National
+authorities will, however, provide the framework for businesses in their digitalisation efforts. One
+example is Avancerad digitalisering, which Sweden continues to support.
+
+Take-up of advanced technologies
+
+Performance assessment
+
+
+
+
+
+                                        9Sweden
+
+
+
+
+
+In Sweden, 38.64% of enterprises have adopted data analytics after an increase of +5.1% annually
+since 2023, placing the country slightly below the EU average of 39.85%. In 2023, Sweden’s figure
+was 34.96%, which was higher than the EU’s 33.25%. However, Sweden’s annual growth rate of 5.1%
+is lower than the EU’s 9.5%, suggesting a slower adoption rate compared with the EU. For SMEs
+specifically, Sweden is at 36.95% after an increase of +5.1% annually, which is below the EU average of
+38.59%. In 2023, Sweden’s figure was 33.44%, which was higher than the EU’s 32.09%. Large
+enterprises in Sweden are at 82.91% after an increase of +2.6% annually, surpassing the EU average of
+82.03%. In 2023, Sweden’s figure was 78.82%, higher than the EU’s 71.81%
+
+On the adoption of cloud technologies, Sweden has reached 67.59% after an increase of +1.2%
+annually since 2023, placing the country significantly higher than the EU average of 46.69%. In 2023,
+Sweden’s figure was 66.0%, which was also higher than the EU’s 38.97%. For SMEs, Sweden is at
+66.64% after an increase of +1.0% annually, which is higher than the EU average of 45.74%. In 2023,
+Sweden’s figure was 65.32%, surpassing the EU’s 38.04%. Large enterprises in Sweden have reached
+92.21% after an increase of +3.7% annually, placing the country well above the EU average of 78.32%.
+In 2023, Sweden’s figure was 85.82%, higher than the EU’s 69.72%.
+
+On the adoption of artificial intelligence, Sweden has reached 35.04% after an increase of +39.7%
+annually since 2024, placing the country, significantly above than the EU average of 19.95%. In 2024,
+Sweden’s figure was 25.09%, which was also higher than the EU’s 13.48%. However, Sweden’s annual
+growth rate of 39.7% is slightly lower than the EU’s 48.0%. For SMEs, Sweden has reached 33.63% after
+an increase of +40.4% annually, placing the country higher than the EU average of 18.9%. In 2024,
+Sweden’s figure was 23.96%, surpassing the EU’s 12.64%. Large enterprises in Sweden are at 71.87%
+after an increase of +27.6% annually, placing the country well above the EU average of 55.03%. In 2024,
+Sweden’s figure was 56.34%, which was higher than the EU’s 41.17%.
+
+On the adoption of AI, cloud computing, or data analytics technologies together, Sweden has
+reached 76.52% after an increase of +2.3% annually since 2023, placing the country above the EU
+average of 63.2%. In 2023, Sweden’s figure was 73.06%, which was also higher than the EU’s 54.7%.
+However, Sweden’s annual growth rate of 2.3% is lower than the EU’s 7.5%. For SMEs, Sweden has
+reached 75.71% after an increase of +2.3% annually, placing the country above the EU average of
+62.32%. In 2023, Sweden’s figure was 72.34%, surpassing the EU’s 53.74%, but its growth rate is slower
+
+
+                                       10Sweden
+
+
+
+than the EU’s 7.7%. Large enterprises in Sweden have reached 97.59% after an increase of +1.9%
+annually, which is well above the EU average of 92.78%. In 2023, Sweden’s figure was 94.0%, higher
+than the EU’s 86.71%.
+
+Sweden consistently ranks above the EU average in nearly all digitalisation metrics, both in terms of
+current levels and growth rates.
+
+Sweden is a leader in digitalisation among Member States, with high levels of digital intensity and
+technology adoption across SMEs and large enterprises. However, the slower growth rates compared
+with the EU average highlight the need for targeted policies to accelerate digital transformation. This
+could include increased investment in digital infrastructure, incentives for technology adoption, and
+programmes to improve digital skills among the workforce. By addressing these areas, Sweden can
+ensure it remains at the forefront of digitalisation in the EU.
+
+Policy context and assessment of recommendations
+
+The uptake of advanced digital technologies (cloud computing, AI and data analytics) is a decisive
+factor for productivity growth, innovation capacity and competitiveness in Sweden. According to
+Sweden’s roadmap, the target for cloud computing will be reached by 2030 but not the targets for AI
+and data analytics. Since Sweden published its roadmap, Sweden has made good progress on the
+uptake of AI. Sweden also adopted an AI strategy in February 2026 which was accompanied by a list of
+actions. Sweden has improved on data analytics and is now just below the EU average.
+
+AI strategy. Sweden announced in its AI strategy that the country should have an environment
+favourable to developing AI tools that benefit private and public sectors. Sweden’s digitalised and
+advanced industry forms a good basis for this. Sweden also seeks to set up clusters of excellence where
+researchers together can develop new AI tools. Space applications are mentioned as a relevant
+example of the use of AI for Sweden.
+
+Sweden’s SMEs and large businesses both demonstrate strong digital intensity and technology
+adoption, but the slower growth rates suggest a need to step up efforts to maintain competitiveness.
+Furthermore, the adoption of AI technologies remains uneven across different company sizes and
+sectors, with adoption rates ranging from 71.9% among large businesses to 30.7% among small
+businesses. Regarding sectors, while sectors such as IT (87.87%) and professional, scientific and
+technical activities (64.88%) have very high rates of AI uptake, other sectors such as manufacturing
+(32.86%) or accommodation and food services (23.74%) have much lower rates, although still higher
+than the averages for the EU.
+
+Assessment of the 2025 recommendation
+ 2025 recommendation on the adoption of advanced technologies: Continue to encourage the use
+ of AI by enterprises.
+
+ Sweden made some efforts to address the recommendation through new policy actions in 2025.
+ New policies were presented but their full implementation will still take some time. Sweden adopted
+  its AI strategy and the accompanying action plan in February 2026. The report of Sweden’s AI
+ Commission from November 2024 provided input for the AI strategy.
+
+
+
+
+
+                                       11Sweden
+
+
+
+Unicorns, scale-ups and start-ups
+Performance assessment
+
+At the beginning of 2026, Sweden had 48 unicorns, which is 7 more than in 2025 (41, figure revised).
+In its roadmap, Sweden aimed for 49 unicorns in 2025. The country is on track according to its
+trajectory presented in the Digital Decade national roadmap.
+
+Policy context and assessment of recommendations
+Sweden continues to attract start-ups in the digital field. Stockholm in particular has received media
+coverage on fundraising by start-ups.
+
+Strengthening cybersecurity & resilience
+
+On general digitalisation, Swedish enterprises are ahead of their EU peers in implementing
+cybersecurity measures. In 2024, 64.17% of enterprises applied at least 5 cybersecurity measures (out
+of 11 measures as measured by Eurostat), above the EU average of 56.85%. Sweden is above the
+average for 10 of the 11 measures. The only measure where Sweden is below the EU average is on ICT
+strong password authentication (78.05%, EU: 83.69%). Sweden is clearly above the EU average on
+periodically assessing the probability and consequences of ICT security incidents (51.49%, EU: 34.19%)
+and on ICT security tests (44.08%, EU: 34.64%).
+
+Sweden presented a 2025-2029 national cybersecurity strategy on 20 March 2025. It replaced the
+previous strategy from 2017 and set out the direction for Swedish cybersecurity for 2025-2029. As
+digital technologies affect almost every aspect of society, incidents can have a significant impact on
+society. The strategy consists of three pillars that contain a number of objectives to address the threats
+and vulnerabilities outlined in the strategy: 1) systematic and effective cybersecurity efforts 2) the
+development of advanced knowledge and skills in cybersecurity; and 3) the ability to prevent and
+manage cybersecurity incidents. The National Cyber Security Centre plays an important role, including
+in supporting other authorities.
+
+The Swedish National Cybersecurity Strategy highlights ‘inadequate incident management’ and
+‘insufficient information sharing between the private and public sectors’ among the features of the
+cybersecurity landscape. One of the targets already set out in the strategy is ‘strengthened public-
+private management of cybersecurity incidents’.
+
+None of the incidents involving subsea cables in 2025 were reported as incidents under EU law. The
+cable breaks that occurred in the Baltic Sea did not cause any incidents affecting electronic
+communications services at a level that would trigger incident reporting according to the thresholds
+set in legislation. However, PTS was kept up to date on the incidents that occurred and it cooperated
+with operators and authorities in the region to remedy the problems that had arisen.
+
+Cybercampus Sweden at the KTH also conducts research, innovation and education in cybersecurity
+and cyber defence
+
+In 2025, Sweden did not receive any recommendation under the Digital Decade on cybersecurity.
+
+
+
+
+
+                                       12Sweden
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Equipping people with digital skills
+
+Basic digital skills
+Performance assessment
+In Sweden, 69.99% of individuals aged 16-74 have at least basic digital skills after an increase of 2.6%
+annually since 2023, placing the country above the EU average of 60.39%. In 2023, Sweden’s figure
+was 66.44%, compared with the  EU’s 55.56%. While Sweden’s  digital  skills  penetration  is
+commendable, its annual growth rate lags behind the EU’s 4.3%. The country is lagging behind
+compared to its trajectory presented in the Digital Decade national roadmap.
+
+In terms of gender, Sweden exhibits a negligible gap of 0.05 percentage points (pps) in favour of
+women, with 70.01% of women and 69.96% of men possessing basic digital skills. This contrasts with
+the EU’s gender gap of 2.74 pps in favour of men.
+
+Education level significantly influences digital proficiency in Sweden. Individuals with no or low formal
+education have a digital skills attainment rate of 54.38%, which is higher than the EU average of 37.56%
+but 15.61 pps lower than Sweden’s national average. This gap is smaller than the EU’s average gap of
+22.83 pps.
+
+Regarding living areas, 75.11% of individuals in Swedish cities possess basic digital skills, compared
+with 62.59% in rural areas. While both figures exceed the EU averages of 66.49% for cities and 52.83%
+for rural areas, the urban-rural gap in Sweden is 12.52 pps, which is slightly smaller than the EU average
+gap of 13.66 pps.
+
+Age is another critical factor. Among individuals aged 25-54, 77.64% have basic digital skills, surpassing
+the EU average of 68.56%. For the 55-74 age group, 54.67% possess basic digital skills, which is higher
+than the EU average of 42.6%.
+
+In the realm of digital safety skills, 80.56% of individuals in Sweden have at least basic proficiency,
+exceeding the EU average of 74.63%.
+
+Regarding the use of generative AI, 42.01% of people in Sweden used it in 2025 for all purposes, which
+is higher than the EU average of 32.66%. For professional purposes, 20.99% of people in Sweden used
+generative AI, again surpassing the EU average of 15.36%.
+
+Based on the results of the Digital Decade Eurobarometer 2026, Swedes consider that the biggest
+obstacles to using generative AI tools are concerns about accuracy and incorrect information (65%),
+concerns about ethical issues or misuse of generative AI tools (50%) and concerns about privacy or
+data protection (46%).
+
+In summary, Sweden’s digital skills profile is characterised by high overall attainment and minimal
+gender disparity. However, there is room for improvement in supporting individuals with low formal
+education and older adults, as well as in accelerating the growth rates across most dimensions. The
+
+                                       13Sweden
+
+
+
+strong performance in rural areas and the widespread adoption of generative AI are particularly
+noteworthy, highlighting Sweden’s potential to further solidify its position as a digitally inclusive
+society.
+
+
+
+
+
+In Sweden, 71.46% of individuals were exposed to untrue or doubtful content online in 2025,
+following an annual increase of 5.1% since 2023, when the figure stood at 64.65%. This places
+Sweden above the EU average, which rose from 49.25% in 2023 to 55.90% in 2025, reflecting an annual
+growth rate of 6.5%. When examining age groups, younger individuals aged 16-24 in Sweden reported
+a slight decrease in exposure, from 74.41% in 2023 to 74.19% in 2025, a decline of 0.1% annually. This
+contrasts with the EU’s growth of 3.7% for the same age group. Older adults aged 25-64 in Sweden
+experienced an increase from 68.49% in 2023 to 73.84% in 2025, an annual growth rate of 3.8%, which
+is lower than the EU’s 6.4% growth for this demographic. The gap between the younger and older age
+groups in Sweden is minimal, at 0.35 pps, compared with the EU’s 7.77 pps.
+
+In Sweden, 44.61% of individuals verified the truthfulness of online content in 2025, following an
+annual increase of 8.2% since 2023, when the figure was 38.11%. This places Sweden above the EU
+average, which grew from 24.29% in 2023 to 29.16% in 2025, an annual growth rate of 9.6%. While
+Sweden’s overall verification rate is higher, its growth rate is slightly slower than the EU average.
+Younger individuals aged 16-24 in Sweden reported an increase from 52.19% in 2023 to 55.11% in
+2025, an annual growth rate of 2.8%, which is lower than the EU’s 6.7% for the same age group. Older
+adults aged 25-64 in Sweden saw an increase from 39.66% in 2023 to 46.32% in 2025, an annual
+growth rate of 8.1%, which is slightly lower than the EU’s 9.9%. The gap between the younger and
+older age groups in Sweden is 8.79 pps, slightly smaller than the EU’s 9.09 pps.
+
+In Sweden, 50.18% of individuals were exposed to hostile or degrading messages online in 2025,
+following an annual increase of 5.1% since 2023, when the figure was 45.47%. This places Sweden
+above the EU average, which grew from 33.50% in 2023 to 39.72% in 2025, an annual growth rate of
+8.9%. While Sweden’s overall exposure is higher, its growth rate is slower than the EU average. Younger
+individuals aged 16-24 in Sweden reported an increase from 57.20% in 2023 to 59.22% in 2025, an
+
+
+                                       14Sweden
+
+
+
+annual growth rate of 1.8%, which is lower than the EU’s 5.6% for the same age group. Older adults
+aged 25-64 in Sweden saw an increase from 47.50% in 2023 to 51.97% in 2025, an annual growth rate
+of 4.6%, which is lower than the EU’s 9.2%. The gap between the younger and older age groups in
+Sweden is 7.25 pps, which is smaller than the EU’s 11.85 pps.
+
+According to the Digital Decade Eurobarometer 2026, 93% of Swedish people consider that the EU
+should prioritise further strengthening the protection of the children and young people online.
+
+The public perception reflected on the Digital Decade Eurobarometer 2026 show that 96% believe that
+online manipulation (such as disinformation, foreign interference, AI-generated content) poses a
+threat to our democratic processes.
+
+Based on the results of the Digital Decade Eurobarometer 2026, Swedes consider that in the context
+of enforcing the EU regulation on online platforms the following issues had the biggest personal
+impact: fake news and disinformation (72%), insufficient protection for minors (46%) and misuse of
+personal data (37%).
+
+Sweden consistently reports higher levels of exposure to untrue or doubtful content, hostile or
+degrading messages, and verification of online information compared with the EU average. However,
+the annual growth rates for these indicators in Sweden are generally slower than those observed
+across the EU. This trend is particularly evident among younger individuals aged 16-24, where
+Sweden’s growth rates lag behind the EU average. The gaps between age groups in Sweden are also
+smaller than those at the EU level, suggesting a more uniform behaviour across age demographics in
+Sweden. These findings highlight the need for targeted measures to address the slower growth in
+awareness and verification behaviours, particularly among younger individuals, to ensure that Sweden
+continues to lead in digital literacy and online safety.
+
+
+
+
+
+                                       15Sweden
+
+
+
+Policy context and assessment of the recommendations
+Sweden performs well on basic digital skills. The STEM strategy covers schools as well as higher
+education. It will therefore also increase basic digital skills. The Swedish Research Council has also been
+tasked to map the possibilities and needs to promote the use of AI in research.
+
+Sweden underlined in its AI strategy that schools and higher education institutions shall ensure that
+individuals are adequately prepared for a labour market and a society in which digitalization and AI are
+included. Schools  shall further provide pupils  in the upper grades with the knowledge and
+understanding necessary to recognize both the risks and the opportunities associated with AI. Students
+shall be able to critically assess AI-generated outputs and make informed ethical considerations when
+using AI. In the lower grades, however, the point of departure shall remain analogue activities
+conducted in analogue environments. Regardless of the level of education, teachers should receive
+continuous professional development within digitalisation and AI.
+
+ICT specialists
+Performance assessment
+Sweden continues to have the highest proportion of ICT specialists. In 2025, Sweden’s proportion of
+ICT specialists in total employment was 8.90%, up from 8.60% in 2024. The EU average was 5.00% in
+2025 and 4.90% in 2024. However, Sweden has high ambitions, and the country is lagging behind
+compared to its trajectory presented in the Digital Decade national roadmap.
+
+Policy context and assessment of the recommendations
+The number of ICT specialists in Sweden continues to increase. In February 2025, Sweden presented
+a STEM strategy in response to industry’s high demand for ICT specialists. Although Sweden has many
+specialists in ICT, the lack of cutting-edge expertise is a challenge both for businesses and the public
+sector. The strategy also addresses the gender imbalance and promotes more women in the sector.
+
+ 2025 recommendation on ICT specialists: Continue the work to increase the number of STEM
+ graduates.
+
+ Sweden fully addressed the recommendation by putting significant policy actions in place in 2025.
+  In 2025, Sweden adopted a STEM strategy. This is expected to further improve the current positive
+ trend in the increase of STEM graduates.
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Performance assessment
+According to the Digital Decade Eurobarometer 2026, 86% of Swedish people believe digitalisation is
+making life easier.
+
+In 2025, Sweden’s total digital public services score for citizens (which covers both national and
+cross-border users) reached 84.15/100 points. This represents a 2.1% decrease compared with 2024.
+As such, Sweden is below the EU average of 84.64/100 points.
+
+When looking specifically at digital public services for national citizens, Sweden reached 93.42/100
+points in 2025. This marks a 0.2% increase from 2024 but is below the EU average of 94.01/100 points.
+
+For cross-border digital public services for citizens, Sweden’s 2025 score was 74.87/100 points, which
+is below the EU average of 75.28/100 points. Compared with 2024, this reflects a 4.8% decrease.
+
+
+
+
+                                       16Sweden
+
+
+
+Citizen‑related life events that score particularly well include Moving (99.86), Studying (97.50), and
+Transport (93.51). Conversely, starting a small claims procedure (64.58), Health (76.25), and Career
+(76.77) show the most room for improvement. For national citizens’ digital public services, the results
+across the different levels of government were 86.51/100 points for central government services,
+79.17/100 points for regional government services, and 98.33/100 points for local government
+services.
+
+Sweden’s total digital public services score for businesses (covering both national and cross‑border
+businesses) was 90.43/100 points in 2025, standing above the EU average of 88.59/100 points. This
+represents no change from 2024. The business‑related life event scoring particularly well is Business
+Start-Up (90.62), whereas Regular Business Operations (90.20) shows the most room for improvement.
+
+Notably, Sweden’s cross‑border digital public services score for businesses reached 83.12/100 points
+in 2025, reflecting no change compared with 2024. These results are above the EU average of
+78.37/100 points. However, Sweden has suffered difficulties and delays with deploying the necessary
+decentralised IT systems that form the basis for the Justice Digital EXchange system, a key reform for
+the digitalisation of cross-border public judicial services.
+
+On the other hand, digital public services for businesses available to national users in Sweden scored
+97.73/100 points. This represents no change since 2024 and places the country below the EU average
+of 98.81/100 points.
+
+Across the two Digital Decade KPIs, Sweden’s Digital Public Services for Businesses indicator performs
+better than its counterpart for citizens.
+
+This stronger performance is underpinned by digital public services for businesses available to national
+users, which forms the most mature component of the KPI, whereas cross-border digital public
+services for businesses remains less developed. Recent progress has been driven primarily by
+improvements in digital public services for businesses available to national users, reflecting mixed
+momentum across the KPI.
+
+Sweden’s access to e-Health records reached a score of 86.46, just below the EU average of 86.51.
+Similarly, in 2024, Sweden had a score of 77.94, just below the EU average of 82.70. The country is on
+track according to its trajectory presented in the Digital Decade national roadmap.
+
+While life events such as Moving, Studying, and Transport perform best, lower-scoring areas such as
+starting a small claims procedure, Health, and Career do not yet exhibit the same level of maturity.
+
+Overall, Sweden’s alignment with EU levels varies across the two Digital Decade KPIs, with strengths
+concentrated in national services and weaker performance in cross-border delivery. A similar pattern
+appears across government tiers, where regional administrations are showing the greatest need for
+improvement. Taken together, these signals indicate the need for additional progress and stronger
+alignment with European best practices as Sweden moves toward its 2030 digitalisation goals.
+
+Policy context and assessment of the recommendations
+On electronic identity, Sweden has acted on the recommendations made in previous Digital Decade
+reports, to ensure accessibility to all. Several initiatives are ongoing. Sweden is expected to have a
+government electronic identity by .December 2026 According to the 2025 survey by Internetstiftelsen,
+95% of Swedes use an electronic identity. Those who do not use an eID are almost exclusively 65 years
+or older.
+
+
+
+                                       17Sweden
+
+
+
+EUDI Wallet. Sweden is progressing in the development of the EUDI Wallet, building on a mature digital
+identity ecosystem. The country  is advancing the development of a government-issued wallet.
+Institutional responsibilities have largely been established, with key authorities involved in wallet
+development, supervision, and accreditation. Sweden has also been engaged in multiple large-scale
+pilots and is cooperating closely with other Nordic and Baltic countries.
+
+Digital infrastructure. The Swedish administration  is characterised by independent government
+agencies. Sweden is therefore developing central digital solutions through the launch in the spring of
+2024 of Ena, Sweden’s digital infrastructure. Sweden has initiated work on sector specific digital
+infrastructure, as for example in health care that will relate to Ena.
+
+AI for the public sector. Sweden announced in the AI strategy that a workshop is being prepared. The
+workshop will support different parts of the public sector in their use of AI and will be fully up and
+running by 2030.
+
+Electronic access to judgments. Sweden has a generally high level of digitalisation of its justice system
+but online access to judgments is poor compared with other Member States. Today, case law is
+available through access-to-document requests, which are lengthier processes than direct digital
+availability.
+
+ 2025 recommendation on digital public services: Continue efforts to increase the availability of
+  electronic health records.
+
+ Sweden made some efforts to address the recommendation through new policy actions in 2025.
+ The country continued implementing the government electronic identification scheme, but it is not
+ yet available to the public.
+
+
+
+
+
+                                       18Sweden
+
+Leveraging  digital transformation  for a
+smart greening
+
+In Sweden, the ICT sector’s air emissions are low, but the recycling of electronic equipment could be
+improved. Recently published sectoral data on the air emissions show that the ICT sector in Sweden
+emitted 10.4 kg CO2 eq per capita, which is below the EU average of 22.8 kg CO2 eq (data from 2022).
+The ICT sector, however, represented only 0.26% of air emissions in the total economy, which is
+comparable with the EU average (0.35%).
+
+Environmental impact of AI. Sweden mentioned in the AI strategy that the increased energy
+consumption from AI will have environmental impacts. It concluded that it is necessary to follow up
+on this.
+
+The replies to the Digital Decade Eurobarometer 2026 show that 61% of Swedes believe that green
+digital technologies (e.g. energy-saving tech) will have a positive impact in the next 10 years.
+
+ 2025 recommendation on greening: Monitor and quantify the emission reductions of the digital
+  solutions deployed.
+
+ Sweden made some efforts to address the recommendation through new policy actions in 2025.
+ Sweden has started to work on this and is developing indicators for sustainability under the national
+  digitalisation strategy. A broad scope may be necessary to also cover actors other than the
+  traditional telecom operators.
+
+
+
+
+
+                                       19Sweden
+
+Annex I: National roadmap analysis
+
+ Sweden’s national Digital Decade strategic roadmap
+
+ Sweden submitted an adjustment to its national Digital Decade roadmap on 24 February 2026. The
+ adjusted roadmap includes a total of 68 measures with a budget of EUR 3.55 billion, comprising
+ EUR 2.9 billion from public budgets (equivalent to approximately 0.49% of Sweden’s GDP in 2025).
+ The new measures cover a number of targets, including the digitalisation of public services, basic
+  digital skills, uptake of digital technologies by businesses, digital identity, as well as objectives like
+  cybersecurity.
+                     Measures and budget in the national roadmap1
+
+
+
+
+
+1 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       20Sweden
+
+Annex  II: Funding, economic impacts &
+Multi-Country Projects
+
+ Country results from the study ‘Assessing the Economic Impact of Digital Investments under the
+ Recovery and Resilience Facility’ 
+
+ A modelling study conducted by the European Commission services, with the FIDELIO model,
+ assesses the economic impact of the digital component of the RRF. As of November 2025, the digital
+ part of the Recovery and Resilience Plan of Sweden was evaluated to EUR 674 million with EUR 464
+  million  for  digital  infrastructures, EUR 165  million  for  digital  skills, EUR 21 million  for the
+  digitalisation of public services, and EUR 24 million for other digital priorities.
+
+ The total economic impact of RRF digital measures is estimated to EUR 4.52 billion for the national
+ economy. Of this, approximately EUR 2.7 billion stem from the direct effects of Sweden's own RRP
+ and EUR 1.82 billion correspond to spillover effects from the implementation of other EU Member
+  States' plans. Sweden benefited the most from spillover effects from RRPs of Italy (EUR 334 million),
+ Spain (EUR 260 million), Germany (EUR 246 million). The most impacted sectors are Manufacturing
+ (EUR 949 million), Professional Services (EUR 837 million), and Construction (EUR 766 million).
+
+
+
+
+
+                                RRF spillover effects to Sweden
+
+
+
+
+
+                                       21Sweden
+
+
+
+ Funding from the RRF & Cohesion Policy
+ Sweden allocates 21% of its total recovery and resilience plan to digital objectives (EUR 0.6 billion)2.
+  In addition, under cohesion policy, EUR 0.2 billion, representing 13% of the country’s total cohesion
+  policy funding, is dedicated to advancing Sweden’s digital transformation3.
+
+
+
+ Multi-Country Projects 
+
+ Sweden is an observer to the Alliance for Language Technologies EDIC. Sweden is a participating
+  state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+
+
+
+
+2 The proportion of financial allocations that contribute to digital objectives has been calculated using Annex VII to the
+Recovery and Resilience Facility Regulation. Last data update: 23 April 2026.
+3 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including
+Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+
+                                       22

@@ -1,0 +1,1355 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.5,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 17.6.2026  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2026) 155 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 27/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,255.3,330.7,273.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,291.8,432.2,305.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,208.0,323.6,391.7,336.9,Digital Decade 2026 country report 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,355.5,373.4,368.8,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,107.3,381.3,492.3,394.6,COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN 
+1,11,1,TimesNewRomanPS-BoldMT,12.0,86.1,395.1,513.4,408.4,"PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,137.7,408.9,462.1,422.2,COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+1,13,0,TimesNewRomanPS-BoldMT,12.0,298.4,422.7,301.4,436.0, 
+1,14,0,TimesNewRomanPS-BoldMT,12.0,73.4,448.5,526.0,461.8,State of the Digital Decade 2026: Closing structural gaps and mobilising investments for 
+1,15,0,TimesNewRomanPS-BoldMT,12.0,255.1,462.3,344.7,475.6,2030 and beyond 
+1,16,0,TimesNewRomanPSMT,12.0,110.2,493.7,486.4,507.0,{COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+1,17,0,TimesNewRomanPSMT,12.0,238.8,507.5,360.9,520.8, {SWD(2026) 157 final} 
+1,17,1,TimesNewRomanPSMT,12.0,526.2,510.3,529.2,523.6, 
+1,18,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,18,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,18,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,18,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+2,1,0,Calibri-Bold,11.0,72.0,84.0,74.5,95.1, 
+2,2,0,Calibri-Bold,11.0,72.0,106.5,74.5,117.5, 
+2,3,0,Calibri-Bold,11.0,72.0,129.0,74.5,140.1, 
+2,4,0,Calibri-Bold,11.0,72.0,151.5,74.5,162.5, 
+2,5,0,Calibri-Bold,11.0,72.0,173.9,74.5,184.9, 
+2,6,0,Calibri-Bold,11.0,72.0,196.5,74.5,207.5, 
+2,7,0,Calibri-Bold,11.0,72.0,218.9,74.5,229.9, 
+2,8,0,Calibri-Bold,11.0,72.0,241.5,74.5,252.5, 
+2,9,0,Calibri-Bold,11.0,72.0,263.9,74.5,275.0, 
+2,10,0,Calibri-Bold,11.0,72.0,286.4,74.5,297.4, 
+2,11,0,Calibri-Bold,36.0,123.1,199.6,377.2,235.6,DIGITAL DECADE 
+2,11,1,Calibri-Bold,36.0,123.1,239.6,405.0,275.6,COUNTRY REPORT 
+2,11,2,Calibri-Bold,36.0,123.1,279.6,204.3,315.6,2026 
+2,12,0,Calibri-Bold,11.0,72.0,308.9,74.5,320.0, 
+2,13,0,Calibri-Bold,28.0,201.4,355.5,299.7,383.5,Sweden 
+2,14,0,Calibri-Bold,11.0,72.0,331.4,74.5,342.4, 
+2,14,1,Calibri-Bold,11.0,72.0,345.9,74.5,356.9, 
+2,14,2,Calibri-Bold,24.0,72.0,363.0,77.4,387.0, 
+2,15,0,Calibri,11.0,72.0,400.0,74.5,411.1, 
+2,16,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+3,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+3,2,1,Calibri,11.0,72.0,97.5,74.5,108.5, 
+3,4,0,Calibri-Light,16.0,72.0,125.0,133.8,140.9,Contents 
+3,4,1,Calibri,11.0,72.0,145.0,523.0,156.0,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,144.3,525.7,156.3, 
+3,5,0,Calibri,11.0,83.1,164.4,523.0,175.5,Sweden in the Digital Decade ............................................................................................................. 1
+3,5,0,Calibri,12.0,523.0,163.7,525.7,175.7, 
+3,6,0,Calibri,11.0,83.1,184.0,523.0,195.0,Funding for digital and multi-country projects ................................................................................... 2
+3,6,0,Calibri,12.0,523.0,183.3,525.7,195.3, 
+3,7,0,Calibri,11.0,83.1,203.4,523.0,214.5,"A competitive, sovereign and resilient EU based on technological leadership .................................. 2"
+3,7,0,Calibri,12.0,523.0,202.7,525.7,214.7, 
+3,8,0,Calibri,11.0,83.1,223.0,523.0,234.0,Protecting and empowering EU people and society ........................................................................... 3
+3,8,0,Calibri,12.0,523.0,222.3,525.7,234.3, 
+3,9,0,Calibri,11.0,83.1,242.4,523.0,253.5,Recommendations .............................................................................................................................. 4
+3,9,0,Calibri,12.0,523.0,241.7,525.7,253.7, 
+3,10,0,Calibri,11.0,72.0,262.0,523.0,273.0,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,10,0,Calibri,12.0,523.0,261.3,525.7,273.3, 
+3,11,0,Calibri,11.0,83.1,281.4,523.0,292.5,Building technological leadership: digital infrastructure and technologies ........................................ 5
+3,11,0,Calibri,12.0,523.0,280.7,525.7,292.7, 
+3,12,0,Calibri,11.0,94.0,300.9,523.0,311.9,Connectivity infrastructure ............................................................................................................. 5
+3,12,0,Calibri,12.0,523.0,300.2,525.7,312.2, 
+3,13,0,Calibri,11.0,94.0,320.4,523.0,331.5,Semiconductors ............................................................................................................................... 8
+3,13,0,Calibri,12.0,523.0,319.7,525.7,331.7, 
+3,14,0,Calibri,11.0,94.0,339.9,523.0,350.9,Edge nodes ...................................................................................................................................... 8
+3,14,0,Calibri,12.0,523.0,339.2,525.7,351.2, 
+3,15,0,Calibri,11.0,94.0,359.4,523.0,370.5,Quantum technologies .................................................................................................................... 8
+3,15,0,Calibri,12.0,523.0,358.7,525.7,370.7, 
+3,16,0,Calibri,11.0,83.1,378.9,523.0,389.9,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,16,0,Calibri,12.0,523.0,378.2,525.7,390.2, 
+3,17,0,Calibri,11.0,94.0,398.3,523.0,409.4,SMEs with at least basic digital intensity ........................................................................................ 9
+3,17,0,Calibri,12.0,523.0,397.6,525.7,409.6, 
+3,18,0,Calibri,11.0,94.0,417.9,523.0,428.9,Take-up of advanced technologies .................................................................................................. 9
+3,18,0,Calibri,12.0,523.0,417.2,525.7,429.2, 
+3,19,0,Calibri,11.0,94.0,437.3,523.0,448.4,"Unicorns, scale-ups and start-ups ................................................................................................. 12"
+3,19,0,Calibri,12.0,523.0,436.6,525.7,448.6, 
+3,20,0,Calibri,11.0,83.1,456.9,523.0,467.9,Strengthening cybersecurity & resilience ......................................................................................... 12
+3,20,0,Calibri,12.0,523.0,456.2,525.7,468.2, 
+3,21,0,Calibri,11.0,72.0,476.3,523.0,487.4,Protecting and empowering EU people and society ............................................................................. 13
+3,21,0,Calibri,12.0,523.0,475.6,525.7,487.6, 
+3,22,0,Calibri,11.0,83.1,495.9,523.0,506.9,Empowering people and bringing the digital transformation closer to their needs ........................ 13
+3,22,0,Calibri,12.0,523.0,495.2,525.7,507.2, 
+3,23,0,Calibri,11.0,94.0,515.3,523.0,526.4,Equipping people with digital skills ............................................................................................... 13
+3,23,0,Calibri,12.0,523.0,514.6,525.7,526.6, 
+3,24,0,Calibri,11.0,94.0,534.8,523.0,545.8,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 16"
+3,24,0,Calibri,12.0,523.0,534.1,525.7,546.1, 
+3,25,0,Calibri,11.0,72.0,554.3,523.0,565.4,Leveraging digital transformation for a smart greening ....................................................................... 19
+3,25,0,Calibri,12.0,523.0,553.6,525.7,565.6, 
+3,26,0,Calibri,11.0,72.0,573.8,523.0,584.9,Annex I: National roadmap analysis ...................................................................................................... 20
+3,26,0,Calibri,12.0,523.0,573.1,525.7,585.1, 
+3,27,0,Calibri,11.0,72.0,593.4,523.0,604.4,"Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 21"
+3,27,0,Calibri,12.0,523.0,592.7,525.7,604.7, 
+3,28,0,Calibri-Bold,11.0,72.0,612.8,74.5,623.9, 
+3,29,0,Calibri,11.0,72.0,635.3,74.5,646.3, 
+3,30,0,Calibri,11.0,297.7,781.9,300.2,793.0, 
+3,30,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri,11.0,72.0,126.3,525.9,137.3,Sweden is one of the front runners and is above the EU average on almost all indicators. The country 
+4,4,1,Calibri,11.0,72.0,140.8,525.9,151.8,has the ambition to become one of the global leaders in the digital field. Sweden remains attractive 
+4,4,2,Calibri,11.0,72.0,155.2,525.9,166.2,"for start-ups, as the high number of unicorns shows. Sweden has performed and continues to perform "
+4,4,3,Calibri,11.0,72.0,169.7,525.7,180.7,"particularly well on digital skills, with a population with good ICT skills and a highly skilled workforce. "
+4,4,4,Calibri,11.0,72.0,184.2,525.8,195.3,Individuals and business benefit from high-quality fixed and mobile connectivity. Operators have 
+4,4,5,Calibri,11.0,72.0,198.7,525.8,209.8,started to roll out 5G stand-alone (SA) networks. The country has improved fixed and mobile 
+4,4,6,Calibri,11.0,72.0,213.1,525.9,224.2,"connectivity in the most populated areas. However, connecting the very last buildings to the fibre "
+4,4,7,Calibri,11.0,72.0,227.7,191.3,238.7,network remains an issue. 
+4,5,0,Calibri,11.0,72.0,250.1,525.8,261.2,The country is actively working on its weaknesses. 5G coverage has increased substantially over the 
+4,5,1,Calibri,11.0,72.0,264.6,525.9,275.7,"last years and is now close to 100% in many regions. However, to ensure that all rural areas can also "
+4,5,2,Calibri,11.0,72.0,279.2,525.9,290.2,"fully benefit from increased digitalisation, Sweden needs to continue deploying fibre and 5G SA "
+4,5,3,Calibri,11.0,72.0,293.7,525.9,304.7,"networks. For several years, Sweden has scored below the EU average on electronic access to health "
+4,5,4,Calibri,11.0,72.0,308.1,305.3,319.1,records but is now catching up with the EU average. 
+4,6,0,Calibri,11.0,72.0,330.6,100.7,341.7,While 
+4,6,0,Calibri,11.0,100.7,330.6,274.5,341.7,Sweden is among the leaders in the EU
+4,6,0,Calibri,11.0,274.5,330.6,525.9,341.7," and has taken action to increase the uptake of AI, more "
+4,6,1,Calibri,11.0,72.0,345.2,525.9,356.2,needs to be done to promote the widespread adoption of AI technologies among enterprises. Over 
+4,6,2,Calibri,11.0,72.0,359.6,525.9,370.6,"the last year, Sweden has updated several of its digital policies. This includes the presentation in May "
+4,6,3,Calibri,11.0,72.0,374.1,257.5,385.1,2025 of a 2025-2030 national strategy on 
+4,6,3,Calibri,11.0,257.5,374.1,314.4,385.1,digitalisation
+4,6,3,Calibri,11.0,314.4,374.1,525.9,385.1," based on five pillars: digital skills, digitalisation "
+4,6,4,Calibri,11.0,72.0,388.6,525.9,399.6,"of businesses, digitalisation of public services, and digitalisation of welfare and connectivity. In "
+4,6,5,Calibri,11.0,72.0,403.1,241.9,414.2,"February 2026, Sweden presented an "
+4,6,5,Calibri,11.0,242.2,403.1,289.9,414.2,AI strategy
+4,6,5,Calibri,11.0,290.0,403.1,525.8,414.2, in which it announced its ambition to be one of the 
+4,6,6,Calibri,11.0,72.0,417.5,525.9,428.6,top 10 global leaders in AI. The AI strategy was accompanied by an action plan with a list of initiatives. 
+4,7,0,Calibri-Light,15.0,72.0,441.0,250.6,456.0,Sweden in the Digital Decade 
+4,8,0,Calibri,11.0,72.0,467.8,525.9,478.9,"Sweden demonstrates a moderate level of ambition in its contribution to the Digital Decade, having "
+4,8,1,Calibri,11.0,72.0,482.3,525.8,493.4,"set 13 national targets out of a possible 14, 54% of which are aligned with the EU 2030 targets. In its "
+4,8,2,Calibri,11.0,72.0,496.9,525.6,507.9,"national roadmap, Sweden provided 12 trajectory points for 2025 out of 13 analysed. The country is "
+4,8,3,Calibri,11.0,72.0,511.3,525.9,522.3,"following them moderately well, with 58% considered to be on track. Sweden addressed 67% of the "
+4,8,4,Calibri,11.0,72.0,525.8,525.6,536.8,"six recommendations issued by the Commission in 2025, either by implementing significant policy "
+4,8,5,Calibri,11.0,72.0,540.3,390.5,551.3,changes (17%) or making some changes (50%) through new measures.  
+4,9,0,Calibri,11.0,72.0,562.8,525.6,573.8,Sweden submitted an updated Digital Decade national roadmap on 24 February 2026. The roadmap 
+4,9,1,Calibri,11.0,72.0,577.3,525.7,588.3,"contains 68 measures, of which 27 are new. The total budget is EUR 3.55 billion, with EUR 2.89 billion "
+4,9,2,Calibri,11.0,72.0,591.8,525.9,602.9,coming from public budgets (equivalent to approximately 0.49% of Sweden’s GDP in 2025). According 
+4,9,3,Calibri,11.0,72.0,606.3,525.9,617.4,"to the national roadmap, by the end of 2026, 46% of the measures will come to an end. The total public "
+4,9,4,Calibri,11.0,72.0,620.7,525.8,631.8,"budget associated with these measures is EUR 1.18 billion, representing 41% of the total public budget "
+4,9,5,Calibri,11.0,72.0,635.3,185.7,646.3,outlined in the roadmap. 
+4,10,0,Calibri,11.0,72.0,657.8,525.9,668.9,"According to the special Eurobarometer on ‘the Digital Decade’ 2026, 83% of Swedish people consider "
+4,10,1,Calibri,11.0,72.0,672.2,525.9,683.3,that digital policy should have a very high/high priority for the EU in shaping our future in Europe. They 
+4,10,2,Calibri,11.0,72.0,686.7,525.9,697.8,"also think that, in the next 10 years, the EU should cooperate with Member States to improve "
+4,10,3,Calibri,11.0,72.0,701.3,525.8,712.3,"cybersecurity and protection from online threats (98%), build an independent European digital "
+4,10,4,Calibri,11.0,72.0,715.8,525.9,726.8,"infrastructure (broadband, 5G, cloud computing, semiconductors) (88%) and promote digital "
+4,10,5,Calibri,11.0,72.0,730.2,525.9,741.2,"education and skills programmes/develop shared digital public services (e.g. digital ID, e-Health) (both "
+4,10,6,Calibri,11.0,72.0,744.7,113.8,755.8,on 86%). 
+4,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,11,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+5,3,0,Calibri,11.0,72.0,84.0,525.7,95.1,"In addition, 88% of Swedish respondents think that the EU should reduce its dependencies on digital "
+5,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"solutions from non-EU countries, and 94% consider that EU should prioritise investments in digital "
+5,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"infrastructure and services that are developed and controlled in Europe. Meanwhile, 73% would be "
+5,3,3,Calibri,11.0,72.0,127.5,486.6,138.5,willing to switch to an EU-based digital service provider even if it means slightly higher costs. 
+5,4,0,Calibri-Light,15.0,72.0,150.8,347.9,165.8,Funding for digital and multi-country projects 
+5,5,0,Calibri,11.0,72.0,177.7,525.9,188.8,Sweden allocates 21% of its total recovery and resilience plan to digital technology (EUR 0.6 billion). In 
+5,5,1,Calibri,11.0,72.0,192.1,525.7,203.2,"addition, under cohesion policy, EUR 0.2 billion, representing 13% of the country’s total cohesion "
+5,5,2,Calibri,11.0,72.0,206.7,402.0,217.7,"policy funding, is dedicated to advancing Sweden’s digital transformation. "
+5,6,0,Calibri,11.0,72.0,229.2,472.4,240.3,Sweden is a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+5,7,0,Calibri,11.0,275.1,252.2,310.4,263.2,Sweden
+5,7,0,Calibri,12.0,310.4,251.5,313.1,263.5, 
+5,7,1,Calibri,12.0,416.7,252.4,430.3,264.4,EU
+5,7,1,Calibri,11.0,430.3,253.1,432.8,264.2, 
+5,7,2,Calibri,8.0,475.8,251.7,524.3,259.7,Digital Decade 
+5,7,3,Calibri,8.0,475.5,262.1,522.7,270.1,target by 2030
+5,7,3,Calibri,11.0,522.6,259.9,525.1,270.9, 
+5,8,0,Calibri,14.0,77.7,261.4,180.6,275.5,Digital Decade KPI
+5,8,0,Calibri,12.0,180.5,263.0,183.2,275.0, 
+5,8,0,Calibri,8.0,183.3,262.0,192.2,270.0,(1)
+5,8,0,Calibri,11.0,192.2,263.7,194.7,274.7, 
+5,9,0,Calibri-Bold,8.0,477.3,275.4,486.8,283.5,SE 
+5,9,1,Calibri-Bold,8.0,513.0,275.4,522.2,283.5,EU
+5,9,1,Calibri,11.0,522.1,273.2,524.6,284.2, 
+5,10,0,Calibri-Bold,8.0,218.7,274.3,233.8,282.4,Last 
+5,10,1,Calibri-Bold,8.0,210.4,284.9,242.1,292.9,available 
+5,11,0,Calibri-Bold,8.0,347.5,274.3,377.7,282.4,National 
+5,11,1,Calibri-Bold,8.0,345.4,284.9,379.9,292.9,trajectory 
+5,12,0,Calibri-Bold,8.0,258.5,274.3,293.3,282.4,DESI 2026 
+5,12,1,Calibri-Bold,8.0,256.1,284.8,293.9,292.8,(year 2025)
+5,12,1,Calibri,11.0,293.8,282.5,296.3,293.6, 
+5,13,0,Calibri-Bold,8.0,308.5,274.3,334.0,282.4,Annual 
+5,13,1,Calibri-Bold,8.0,306.1,284.8,334.6,292.8,progress
+5,13,1,Calibri,11.0,334.5,282.5,337.0,293.6, 
+5,14,0,Calibri-Bold,8.0,395.7,274.3,412.5,282.4,DESI 
+5,14,1,Calibri-Bold,8.0,395.1,284.8,411.4,292.8,2026
+5,14,1,Calibri,11.0,411.3,282.5,413.8,293.6, 
+5,14,2,Calibri-Bold,8.0,430.9,274.3,456.5,282.4,Annual 
+5,14,3,Calibri-Bold,8.0,428.5,284.8,457.0,292.8,progress
+5,14,3,Calibri,11.0,456.9,282.5,459.4,293.6, 
+5,15,0,Calibri,8.0,215.3,297.5,237.1,305.5,89.7% 
+5,15,1,Calibri,8.0,265.0,297.5,286.8,305.5,89.8% 
+5,15,2,Calibri,8.0,312.4,297.5,330.1,305.5,0.1% 
+5,15,3,Calibri,8.0,359.6,297.5,367.5,305.5, -  
+5,15,4,Calibri,8.0,393.2,297.5,415.0,305.5,85.5% 
+5,15,5,Calibri,8.0,434.9,297.5,452.5,305.5,3.7% 
+5,15,6,Calibri,8.0,471.2,297.5,493.0,305.5,98.5% 
+5,15,7,Calibri,8.0,508.5,297.5,528.3,305.5,100% 
+5,16,0,Calibri,8.0,77.7,295.8,189.3,303.9,Fixed Very High-Capacity Network 
+5,16,1,Calibri,8.0,77.7,306.3,108.6,314.3,coverage 
+5,17,0,Calibri,8.0,77.7,318.4,170.6,326.4,Fibre to the Premises (FTTP) 
+5,17,1,Calibri,8.0,215.3,318.3,235.3,326.3,85.6%
+5,17,1,Calibri,11.0,235.2,316.0,237.7,327.0, 
+5,17,2,Calibri,8.0,265.0,318.3,286.8,326.3,85.6% 
+5,17,3,Calibri,8.0,312.4,318.3,330.1,326.3,0.0% 
+5,17,4,Calibri,8.0,350.8,318.3,374.5,326.3, 98.0% 
+5,17,4,Calibri,9.0,374.4,317.5,376.4,326.5, 
+5,17,5,Calibri,8.0,393.2,318.3,415.0,326.3,74.1% 
+5,17,6,Calibri,8.0,434.9,318.3,452.5,326.3,7.1% 
+5,17,7,Calibri,8.0,471.2,318.3,491.2,326.3,98.5%
+5,17,7,Calibri,11.0,491.1,316.0,493.6,327.0, 
+5,17,8,Calibri,8.0,516.4,318.3,518.8,326.3,-
+5,17,8,Calibri,11.0,518.8,316.0,521.3,327.0, 
+5,18,0,Calibri,8.0,77.7,332.5,137.9,340.6,Basic 5G coverage 
+5,18,1,Calibri,8.0,215.3,332.5,235.3,340.6,98.6%
+5,18,1,Calibri,11.0,235.2,330.3,237.7,341.3, 
+5,18,2,Calibri,8.0,265.0,332.5,286.8,340.6,98.7% 
+5,18,3,Calibri,8.0,312.4,332.5,330.1,340.6,0.1% 
+5,18,4,Calibri,8.0,348.8,332.5,376.5,340.6, 100.0% 
+5,18,4,Calibri,9.0,376.4,331.8,378.4,340.8, 
+5,18,5,Calibri,8.0,393.2,332.5,415.0,340.6,96.8% 
+5,18,6,Calibri,8.0,434.9,332.5,452.5,340.6,2.6% 
+5,18,7,Calibri,8.0,469.2,332.5,493.3,340.6,100.0%
+5,18,7,Calibri,11.0,493.2,330.3,495.7,341.3, 
+5,18,8,Calibri,8.0,508.5,332.5,526.5,340.6,100%
+5,18,8,Calibri,11.0,526.4,330.3,528.9,341.3, 
+5,19,0,Calibri,8.0,77.7,346.7,152.6,354.7,Edge Nodes (estimate) 
+5,19,1,Calibri,8.0,224.1,346.7,226.6,354.7,-
+5,19,1,Calibri,11.0,226.5,344.4,229.0,355.5, 
+5,19,2,Calibri,8.0,269.0,346.7,282.9,354.7,226 
+5,19,3,Calibri,8.0,319.1,346.7,323.4,354.7,- 
+5,19,4,Calibri,8.0,360.4,346.7,364.8,354.7,- 
+5,19,4,Calibri,9.0,364.6,346.0,366.7,355.0, 
+5,19,5,Calibri,8.0,394.1,346.7,414.0,354.7,7 451 
+5,19,6,Calibri,8.0,441.6,346.7,445.8,354.7,- 
+5,19,7,Calibri,8.0,480.0,346.7,482.4,354.7,-
+5,19,7,Calibri,11.0,482.4,344.4,484.9,355.5, 
+5,19,8,Calibri,8.0,506.5,346.7,528.7,354.7,10 000
+5,19,8,Calibri,11.0,528.6,344.4,531.1,355.5, 
+5,20,0,Calibri,8.0,77.7,361.0,187.8,369.0,SMEs with at least a basic level of 
+5,20,1,Calibri,8.0,77.7,371.4,135.0,379.5,digital intensity * 
+5,20,2,Calibri,8.0,215.3,366.1,235.3,374.2,79.9%
+5,20,2,Calibri,11.0,235.2,363.9,237.7,374.9, 
+5,20,3,Calibri,8.0,265.0,366.1,285.0,374.2,86.5%
+5,20,3,Calibri,11.0,285.0,363.9,287.4,374.9, 
+5,20,4,Calibri,8.0,312.4,366.1,328.4,374.2,4.0%
+5,20,4,Calibri,11.0,328.3,363.9,330.8,374.9, 
+5,20,5,Calibri,8.0,351.7,366.1,373.5,374.2,89.9% 
+5,20,5,Calibri,9.0,373.4,365.4,375.4,374.4, 
+5,20,6,Calibri,8.0,393.2,366.1,413.2,374.2,71.4%
+5,20,6,Calibri,11.0,413.1,363.9,415.6,374.9, 
+5,20,7,Calibri,8.0,432.8,366.1,452.8,374.2,11.0%
+5,20,7,Calibri,11.0,452.7,363.9,455.2,374.9, 
+5,20,8,Calibri,8.0,471.2,366.1,491.2,374.2,95.0%
+5,20,8,Calibri,11.0,491.1,363.9,493.6,374.9, 
+5,20,9,Calibri,8.0,510.6,366.1,524.5,374.2,90%
+5,20,9,Calibri,11.0,524.4,363.9,526.9,374.9, 
+5,21,0,Calibri,8.0,77.7,390.5,104.0,398.5,Cloud * 
+5,21,1,Calibri,8.0,215.3,390.5,235.3,398.5,66.0%
+5,21,1,Calibri,11.0,235.2,388.2,237.7,399.3, 
+5,21,2,Calibri,8.0,265.0,390.5,285.0,398.5,67.6%
+5,21,2,Calibri,11.0,285.0,388.2,287.4,399.3, 
+5,21,3,Calibri,8.0,312.4,390.5,328.4,398.5,1.2%
+5,21,3,Calibri,11.0,328.3,388.2,330.8,399.3, 
+5,21,4,Calibri,8.0,351.7,390.5,373.5,398.5,89.0% 
+5,21,4,Calibri,9.0,373.4,389.8,375.4,398.8, 
+5,21,5,Calibri,8.0,393.2,390.5,413.2,398.5,46.7%
+5,21,5,Calibri,11.0,413.1,388.2,415.6,399.3, 
+5,21,6,Calibri,8.0,434.9,390.5,450.8,398.5,9.5%
+5,21,6,Calibri,11.0,450.7,388.2,453.2,399.3, 
+5,21,7,Calibri,8.0,471.2,390.5,491.2,398.5,94.0%
+5,21,7,Calibri,11.0,491.1,388.2,493.6,399.3, 
+5,21,8,Calibri,8.0,510.6,390.5,524.5,398.5,75%
+5,21,8,Calibri,11.0,524.4,388.2,526.9,399.3, 
+5,22,0,Calibri,8.0,77.7,404.7,145.7,412.7,Artificial Intelligence 
+5,22,1,Calibri,8.0,215.3,404.7,235.3,412.7,25.1%
+5,22,1,Calibri,11.0,235.2,402.4,237.7,413.5, 
+5,22,2,Calibri,8.0,265.0,404.7,285.0,412.7,35.0%
+5,22,2,Calibri,11.0,285.0,402.4,287.4,413.5, 
+5,22,3,Calibri,8.0,310.4,404.7,330.4,412.7,39.7%
+5,22,3,Calibri,11.0,330.3,402.4,332.8,413.5, 
+5,22,4,Calibri,8.0,351.7,404.7,373.5,412.7,18.0% 
+5,22,4,Calibri,9.0,373.4,404.0,375.4,413.0, 
+5,22,5,Calibri,8.0,393.2,404.7,413.2,412.7,20.0%
+5,22,5,Calibri,11.0,413.1,402.4,415.6,413.5, 
+5,22,6,Calibri,8.0,432.8,404.7,452.8,412.7,48.0%
+5,22,6,Calibri,11.0,452.7,402.4,455.2,413.5, 
+5,22,7,Calibri,8.0,471.2,404.7,491.2,412.7,39.5%
+5,22,7,Calibri,11.0,491.1,402.4,493.6,413.5, 
+5,22,8,Calibri,8.0,510.6,404.7,524.5,412.7,75%
+5,22,8,Calibri,11.0,524.4,402.4,526.9,413.5, 
+5,23,0,Calibri,8.0,77.7,419.0,130.5,427.0,Data analytics * 
+5,23,1,Calibri,8.0,215.3,419.0,235.3,427.0,35.0%
+5,23,1,Calibri,11.0,235.2,416.7,237.7,427.8, 
+5,23,2,Calibri,8.0,265.0,419.0,285.0,427.0,38.6%
+5,23,2,Calibri,11.0,285.0,416.7,287.4,427.8, 
+5,23,3,Calibri,8.0,312.4,419.0,328.4,427.0,5.1%
+5,23,3,Calibri,11.0,328.3,416.7,330.8,427.8, 
+5,23,4,Calibri,8.0,351.7,419.0,373.5,427.0,41.5% 
+5,23,4,Calibri,9.0,373.4,418.2,375.4,427.2, 
+5,23,5,Calibri,8.0,393.2,419.0,413.2,427.0,39.9%
+5,23,5,Calibri,11.0,413.1,416.7,415.6,427.8, 
+5,23,6,Calibri,8.0,434.9,419.0,450.8,427.0,9.5%
+5,23,6,Calibri,11.0,450.7,416.7,453.2,427.8, 
+5,23,7,Calibri,8.0,471.2,419.0,491.2,427.0,56.5%
+5,23,7,Calibri,11.0,491.1,416.7,493.6,427.8, 
+5,23,8,Calibri,8.0,510.6,419.0,524.5,427.0,75%
+5,23,8,Calibri,11.0,524.4,416.7,526.9,427.8, 
+5,24,0,Calibri,8.0,77.7,433.1,177.2,441.2,AI or Cloud or Data analytics * 
+5,24,1,Calibri,8.0,215.3,433.1,235.3,441.2,73.1%
+5,24,1,Calibri,11.0,235.2,430.9,237.7,441.9, 
+5,24,2,Calibri,8.0,265.0,433.1,285.0,441.2,76.5%
+5,24,2,Calibri,11.0,285.0,430.9,287.4,441.9, 
+5,24,3,Calibri,8.0,312.4,433.1,328.4,441.2,2.3%
+5,24,3,Calibri,11.0,328.3,430.9,330.8,441.9, 
+5,24,4,Calibri,8.0,360.4,433.1,364.8,441.2,- 
+5,24,4,Calibri,9.0,364.6,432.4,366.7,441.4, 
+5,24,5,Calibri,8.0,393.2,433.1,413.2,441.2,63.2%
+5,24,5,Calibri,11.0,413.1,430.9,415.6,441.9, 
+5,24,6,Calibri,8.0,434.9,433.1,450.8,441.2,7.5%
+5,24,6,Calibri,11.0,450.7,430.9,453.2,441.9, 
+5,24,7,Calibri,8.0,480.0,433.1,482.4,441.2,-
+5,24,7,Calibri,11.0,482.4,430.9,484.9,441.9, 
+5,24,8,Calibri,8.0,510.6,433.1,524.5,441.2,75%
+5,24,8,Calibri,11.0,524.4,430.9,526.9,441.9, 
+5,25,0,Calibri,8.0,77.7,447.3,108.3,455.3,Unicorns 
+5,25,1,Calibri,8.0,221.2,447.3,229.4,455.3,41
+5,25,1,Calibri,11.0,229.4,445.0,231.9,456.1, 
+5,25,2,Calibri,8.0,270.9,447.3,279.0,455.3,48
+5,25,2,Calibri,11.0,279.0,445.0,281.5,456.1, 
+5,25,3,Calibri,8.0,310.4,447.3,330.4,455.3,17.1%
+5,25,3,Calibri,11.0,330.3,445.0,332.8,456.1, 
+5,25,4,Calibri,8.0,357.7,447.3,367.6,455.3,49 
+5,25,4,Calibri,9.0,367.6,446.6,369.7,455.6, 
+5,25,5,Calibri,8.0,397.2,447.3,409.4,455.3,324
+5,25,5,Calibri,11.0,409.3,445.0,411.8,456.1, 
+5,25,6,Calibri,8.0,432.8,447.3,452.8,455.3,10.2%
+5,25,6,Calibri,11.0,452.7,445.0,455.2,456.1, 
+5,25,7,Calibri,8.0,477.1,447.3,485.3,455.3,64
+5,25,7,Calibri,11.0,485.3,445.0,487.8,456.1, 
+5,25,8,Calibri,8.0,511.4,447.3,523.7,455.3,500
+5,25,8,Calibri,11.0,523.6,445.0,526.1,456.1, 
+5,26,0,Calibri,8.0,77.7,461.6,166.7,469.6,At least basic digital skills * 
+5,26,1,Calibri,8.0,215.3,461.6,235.3,469.6,66.4%
+5,26,1,Calibri,11.0,235.2,459.3,237.7,470.4, 
+5,26,2,Calibri,8.0,265.0,461.6,285.0,469.6,70.0%
+5,26,2,Calibri,11.0,285.0,459.3,287.4,470.4, 
+5,26,3,Calibri,8.0,312.4,461.6,328.4,469.6,2.6%
+5,26,3,Calibri,11.0,328.3,459.3,330.8,470.4, 
+5,26,4,Calibri,8.0,351.7,461.6,373.5,469.6,76.8% 
+5,26,4,Calibri,9.0,373.4,460.8,375.4,469.8, 
+5,26,5,Calibri,8.0,393.2,461.6,413.2,469.6,60.4%
+5,26,5,Calibri,11.0,413.1,459.3,415.6,470.4, 
+5,26,6,Calibri,8.0,434.9,461.6,450.8,469.6,4.3%
+5,26,6,Calibri,11.0,450.7,459.3,453.2,470.4, 
+5,26,7,Calibri,8.0,471.2,461.6,491.2,469.6,89.7%
+5,26,7,Calibri,11.0,491.1,459.3,493.6,470.4, 
+5,26,8,Calibri,8.0,510.6,461.6,524.5,469.6,80%
+5,26,8,Calibri,11.0,524.4,459.3,526.9,470.4, 
+5,27,0,Calibri,8.0,77.7,475.7,124.4,483.8,ICT specialists 
+5,27,1,Calibri,8.0,217.4,475.7,235.0,483.8,8.6% 
+5,27,2,Calibri,8.0,267.0,475.7,284.7,483.8,8.9% 
+5,27,3,Calibri,8.0,312.4,475.7,330.1,483.8,3.5% 
+5,27,4,Calibri,8.0,351.7,475.7,375.2,483.8,10.2%  
+5,27,5,Calibri,8.0,395.2,475.7,412.9,483.8,5.0% 
+5,27,6,Calibri,8.0,434.9,475.7,452.5,483.8,2.0% 
+5,27,7,Calibri,8.0,471.2,475.7,491.2,483.8,12.9%
+5,27,7,Calibri,11.0,491.1,473.5,493.6,484.5, 
+5,27,8,Calibri,8.0,508.7,475.7,526.5,483.8,~10%
+5,27,8,Calibri,11.0,526.4,473.5,528.9,484.5, 
+5,28,0,Calibri,8.0,77.7,491.9,156.2,500.0,eID scheme notification 
+5,28,1,Calibri,11.0,225.3,490.5,227.8,501.5, 
+5,28,2,Calibri,8.0,269.8,491.9,280.3,500.0,Yes
+5,28,2,Calibri,11.0,280.2,489.7,282.7,500.7, 
+5,28,3,Calibri,11.0,320.4,490.5,322.8,501.5, 
+5,28,4,Calibri,11.0,361.8,490.5,364.2,501.5, 
+5,28,5,Calibri,11.0,403.2,490.5,405.7,501.5, 
+5,28,6,Calibri,11.0,442.8,490.5,445.3,501.5, 
+5,28,7,Calibri,11.0,481.2,490.5,483.7,501.5, 
+5,28,8,Calibri,11.0,517.6,490.5,520.1,501.5, 
+5,29,0,Calibri,8.0,77.7,512.9,186.2,521.0,Digital public services for citizens 
+5,29,1,Calibri,8.0,218.2,512.9,232.5,521.0,85.9
+5,29,1,Calibri,11.0,232.4,510.7,234.9,521.7, 
+5,29,2,Calibri,8.0,267.9,512.9,282.1,521.0,84.2
+5,29,2,Calibri,11.0,282.0,510.7,284.5,521.7, 
+5,29,3,Calibri,8.0,311.2,512.9,331.3,521.0,-2.1% 
+5,29,4,Calibri,8.0,354.5,512.9,372.3,521.0,87.5  
+5,29,5,Calibri,8.0,396.1,512.9,412.1,521.0,84.6 
+5,29,6,Calibri,8.0,434.9,512.9,452.5,521.0,2.8% 
+5,29,7,Calibri,8.0,474.1,512.9,488.4,521.0,90.0
+5,29,7,Calibri,11.0,488.3,510.7,490.8,521.7, 
+5,29,8,Calibri,8.0,511.4,512.9,523.7,521.0,100
+5,29,8,Calibri,11.0,523.6,510.7,526.1,521.7, 
+5,30,0,Calibri,8.0,77.7,527.1,197.1,535.1,Digital public services for businesses 
+5,30,1,Calibri,8.0,218.2,527.1,232.5,535.1,90.4
+5,30,1,Calibri,11.0,232.4,524.8,234.9,535.9, 
+5,30,2,Calibri,8.0,267.0,527.1,283.1,535.1,90.4 
+5,30,2,Calibri,11.0,283.0,524.8,285.5,535.9, 
+5,30,3,Calibri,8.0,312.4,527.1,330.1,535.1,0.0% 
+5,30,4,Calibri,8.0,354.5,527.1,372.3,535.1,89.0  
+5,30,5,Calibri,8.0,396.1,527.1,412.1,535.1,88.6 
+5,30,6,Calibri,8.0,434.9,527.1,452.5,535.1,2.7% 
+5,30,7,Calibri,8.0,474.1,527.1,488.4,535.1,90.5
+5,30,7,Calibri,11.0,488.3,524.8,490.8,535.9, 
+5,30,8,Calibri,8.0,511.4,527.1,523.7,535.1,100
+5,30,8,Calibri,11.0,523.6,524.8,526.1,535.9, 
+5,31,0,Calibri,8.0,77.7,541.4,192.3,549.4,Access to electronic health records 
+5,31,1,Calibri,8.0,218.2,541.4,234.2,549.4,77.9 
+5,31,2,Calibri,8.0,267.9,541.4,283.9,549.4,86.5 
+5,31,3,Calibri,8.0,310.4,541.4,332.1,549.4,10.9% 
+5,31,4,Calibri,8.0,354.5,541.4,372.3,549.4,76.0  
+5,31,5,Calibri,8.0,396.1,541.4,412.1,549.4,86.5 
+5,31,6,Calibri,8.0,434.9,541.4,452.5,549.4,4.6% 
+5,31,7,Calibri,8.0,474.1,541.4,488.4,549.4,78.5
+5,31,7,Calibri,8.0,488.3,541.4,490.1,549.4, 
+5,31,8,Calibri,8.0,511.4,541.4,525.4,549.4,100 
+5,32,0,Calibri,8.0,78.1,556.2,361.3,564.3,(1) See the methodological note for the description of the indicators and other metrics 
+5,32,1,Calibri,8.0,78.1,566.0,536.6,574.0,(2) The latest available data are from DESI 2025 (reference year 2024) except for indicators marked with a star * which come from DESI 2024 
+5,32,2,Calibri,8.0,78.1,575.8,150.4,583.9,(reference year 2023) 
+5,32,3,Calibri,8.0,78.1,585.5,393.2,593.6,"(3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap"
+5,32,3,Calibri,9.0,393.3,584.8,395.3,593.8, 
+5,32,4,Calibri,11.0,72.0,596.7,74.5,607.8, 
+5,33,0,Calibri-Light,15.0,72.0,620.0,463.2,635.0,"A competitive, sovereign and resilient EU based on technological "
+5,33,1,Calibri-Light,15.0,72.0,639.8,138.1,654.8,leadership 
+5,34,0,Calibri,11.0,72.0,666.7,208.9,677.7,Sweden is performing well in 
+5,34,0,Calibri-Bold,11.0,210.4,666.7,266.2,677.7,connectivity
+5,34,0,Calibri,11.0,266.2,666.7,525.9,677.7,", being above the EU average in fibre and 5G coverage. "
+5,34,1,Calibri,11.0,72.0,681.2,525.9,692.3,"Coverage of last premises, in particular, in sparsely populated areas will be key to achieving full "
+5,34,2,Calibri,11.0,72.0,695.7,525.9,706.8,coverage by 2030. The average support per building for connecting to the fibre network was 
+5,34,3,Calibri,11.0,72.0,710.3,525.9,721.3,"SEK 80 643 in 2025, which is an increase compared with SEK 36 749 per building in 2022. This indicates "
+5,34,4,Calibri,11.0,72.0,724.7,525.9,735.7,"that the remaining buildings are becoming increasingly expensive to connect, which Sweden has "
+5,34,5,Calibri,11.0,72.0,739.2,525.9,750.2,"pointed out in its roadmap. At the same time, the differences in broadband access between urban and "
+5,34,6,Calibri,11.0,72.0,753.7,525.9,764.8,rural areas continue to decrease. Sweden is dependent on international fibre-optic submarine cables 
+5,35,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,35,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+6,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"for connectivity with the rest of the world. On quantum technologies, Sweden is committed to work "
+6,3,1,Calibri,11.0,72.0,98.4,525.6,109.5,"with European partners to secure existing submarine cable connectivity, and to develop alternative "
+6,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"submarine cable routes to enhance resilience, for example. The work on quantum continues based on "
+6,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"the flagship project, quantum agenda that was issued in 2024, by the Wallenberg Centre main "
+6,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"quantum technology actors in Sweden. Conclusions are the need for Quantum Technology (WACQT), "
+6,3,5,Calibri,11.0,72.0,156.4,525.7,167.4,"deepening international relations and collaborations, and a continuation of the work done in the "
+6,3,6,Calibri,11.0,72.0,170.9,525.7,181.9,"quantum flagship WAQCT. During 2025, Sweden has prepared for and organised itself for the "
+6,3,7,Calibri,11.0,72.0,185.4,352.1,196.5,integration of quantum flagship activities into the EuroHPC JU. 
+6,4,0,Calibri,11.0,72.0,207.9,525.8,218.9,Sweden has improved on AI and Swedish businesses are leading in terms of private sector AI uptake. 
+6,4,1,Calibri,11.0,72.0,222.4,525.9,233.4,"There are reasons, however, to continue to strengthen its AI infrastructure and to further promote the "
+6,4,2,Calibri,11.0,72.0,236.9,525.9,248.0,"integration of its AI ecosystem into the wider EU ecosystem, also through Testing and Experimentation "
+6,4,3,Calibri,11.0,72.0,251.4,525.9,262.5,"Facilities (TEFs) and European Digital Innovation Hubs (EDIHs), and also through the EuroHPC JU, for "
+6,4,4,Calibri,11.0,72.0,265.9,525.8,276.9,example through the Swedish AI Factory MIMER which are key support infrastructures for business 
+6,4,5,Calibri,11.0,72.0,280.4,493.4,291.4,adoption of AI technologies. The country remains just below the EU average on data analytics. 
+6,5,0,Calibri-Light,15.0,72.0,303.8,379.5,318.8,Protecting and empowering EU people and society 
+6,6,0,Calibri,11.0,72.0,330.6,216.4,341.7,The population’s level of basic 
+6,6,0,Calibri-Bold,11.0,218.3,330.6,273.3,341.7,digital skills
+6,6,0,Calibri,11.0,273.4,330.6,525.9,341.7, is well above the EU average. The proportion of ICT 
+6,6,1,Calibri,11.0,72.0,345.2,525.8,356.2,"specialists is also above the EU average. However, vacancies remain as there is a skills shortage and "
+6,6,2,Calibri,11.0,72.0,359.6,525.9,370.6,"high competition for the right digital skills, especially for AI use and for SMEs. A further increase in the "
+6,6,3,Calibri,11.0,72.0,374.1,525.9,385.1,supply of ICT specialists to the job market should continue to relieve skills shortages in other sectors 
+6,6,4,Calibri,11.0,72.0,388.6,146.6,399.6,of the economy. 
+6,7,0,Calibri,11.0,72.0,411.1,259.3,422.1,Sweden has acted to further digitalise its 
+6,7,0,Calibri-Bold,11.0,259.9,411.1,329.8,422.1,public services.
+6,7,0,Calibri,11.0,329.8,411.1,523.6,422.1, Sweden has lagged behind on access to e-
+6,7,1,Calibri,11.0,72.0,425.6,525.9,436.6,"Health records in particular, but has recently improved compared with previous years. The setting up "
+6,7,2,Calibri,11.0,72.0,440.1,525.9,451.1,of a government electronic identity will also support access to e-Health records. An important measure 
+6,7,3,Calibri,11.0,72.0,454.6,525.9,465.7,"as regards the digitalisation of public services is Ena, which is Sweden’s digital infrastructure. It sets up "
+6,7,4,Calibri,11.0,72.0,469.0,525.9,480.1,a common infrastructure for exchanging information between public administrations and coordinated 
+6,7,5,Calibri,11.0,72.0,483.5,525.9,494.6,"with sector specific infrastructure, for example health and social welfare. Sweden scores below the EU "
+6,7,6,Calibri,11.0,72.0,498.1,525.9,509.1,"average in the latest EU justice scoreboard on digital access to court judgments, and the digitalisation "
+6,7,7,Calibri,11.0,72.0,512.6,525.7,523.6,of public judicial services still lags behind as concerns the deployment of the necessary IT solutions 
+6,7,8,Calibri,11.0,72.0,527.0,525.9,538.0,which are indispensable for cross-border judicial cooperation as a key reform of digital public services. 
+6,8,0,Calibri,11.0,72.0,549.5,525.9,560.6,"Sweden already attracts data processing centres, also in the north of the country. To better understand "
+6,8,1,Calibri,11.0,72.0,564.1,525.8,575.1,"the environmental impact of the energy-consuming data centres, Sweden should collect facts and "
+6,8,2,Calibri,11.0,72.0,578.5,107.5,589.5,figures. 
+6,9,0,Calibri,11.0,72.0,601.1,525.8,612.1,The Swedish National Cybersecurity Strategy highlights that the cybersecurity landscape is 
+6,9,1,Calibri,11.0,72.0,615.6,525.9,626.6,characterised by ‘inadequate incident management’ and ‘insufficient information sharing between the 
+6,9,2,Calibri,11.0,72.0,630.0,525.9,641.0,private and public sector’. One of the targets set out in the strategy is ‘strengthened public-private 
+6,9,3,Calibri,11.0,72.0,644.5,255.1,655.5,management of cybersecurity incidents’. 
+6,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,10,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+7,3,0,Calibri-Light,15.0,77.7,113.2,193.5,128.2,Recommendations 
+7,4,0,Calibri,11.0,95.7,144.0,99.0,155.1,-
+7,4,0,ArialMT,11.0,99.0,142.3,102.1,154.6, 
+7,4,1,Calibri-Bold,11.0,113.7,144.0,193.0,155.1,Fixed broadband:
+7,4,1,Calibri,11.0,193.0,144.0,513.9,155.1, Sweden should complete the networks to bridge the urban-rural divide. 
+7,4,2,Calibri,11.0,95.7,158.5,99.0,169.6,-
+7,4,2,ArialMT,11.0,99.0,156.8,102.1,169.1, 
+7,4,3,Calibri-Bold,11.0,113.7,158.5,202.9,169.6,Mobile broadband:
+7,4,3,Calibri,11.0,202.9,158.5,513.9,169.6, Sweden should accelerate 5G roll-out in rural areas. It should also 
+7,4,4,Calibri,11.0,113.7,173.1,474.4,184.1,promote the deployment of 5G SA networks while enabling advanced use cases. 
+7,4,5,Calibri,11.0,95.7,187.6,99.0,198.6,-
+7,4,5,ArialMT,11.0,99.0,185.9,102.1,198.2, 
+7,4,6,Calibri-Bold,11.0,113.7,187.6,155.9,198.6,e-Health:
+7,4,6,Calibri,11.0,155.9,187.6,481.6,198.6, Continue efforts to increase the availability of electronic health records. 
+7,4,7,Calibri,11.0,95.7,202.0,99.0,213.0,-
+7,4,7,ArialMT,11.0,99.0,200.3,102.1,212.6, 
+7,4,8,Calibri-Bold,11.0,113.7,202.0,126.4,213.0,AI:
+7,4,8,Calibri,11.0,126.4,202.0,513.6,213.0, Sweden should sustain its efforts to promote the widespread adoption of AI 
+7,4,9,Calibri,11.0,113.7,216.5,513.9,227.5,"technologies among enterprises, with a particular focus on SMEs. To that end, Sweden "
+7,4,10,Calibri,11.0,113.7,231.0,511.6,242.1,should continue to strengthen its AI infrastructure while improving access to critical EU-
+7,4,11,Calibri,11.0,113.7,245.6,513.7,256.6,"wide AI infrastructures, including AI factories and Gigafactories, particularly for SMEs, "
+7,4,12,Calibri,11.0,113.7,260.0,513.7,271.0,"start-ups, and mid-cap businesses. To further accelerate AI adoption across key sectors, "
+7,4,13,Calibri,11.0,113.7,274.5,513.9,285.5,Sweden should actively participate in and promote the sectoral flagship initiatives set up 
+7,4,14,Calibri,11.0,113.7,289.0,513.9,300.0,under the Apply AI strategy and should continue promoting the integration of its AI 
+7,4,15,Calibri,11.0,113.7,303.5,513.9,314.6,"ecosystem into the wider EU ecosystem including through TEFs and EDIHs, which are key "
+7,4,16,Calibri,11.0,113.7,317.9,404.4,329.0,support infrastructures for business adoption of AI technologies. 
+7,4,17,Calibri,11.0,95.7,332.4,99.0,343.5,-
+7,4,17,ArialMT,11.0,99.0,330.7,102.1,343.0, 
+7,4,18,Calibri-Bold,11.0,113.7,332.4,179.3,343.5,Cybersecurity:
+7,4,18,Calibri,11.0,179.2,332.4,513.9,343.5, Promote national public-private cooperation frameworks for cybersecurity 
+7,4,19,Calibri,11.0,113.7,347.0,513.9,358.0,information sharing (for example voluntary information-sharing arrangements as referred 
+7,4,20,Calibri,11.0,113.7,361.5,513.7,372.5,to in Article 29 of the NIS2 Directive) and frameworks for national authorities to share 
+7,4,21,Calibri,11.0,113.7,375.9,291.6,386.9,information on cybersecurity incidents. 
+7,4,22,Calibri,11.0,95.7,390.4,99.0,401.4,-
+7,4,22,ArialMT,11.0,99.0,388.7,102.1,401.0, 
+7,4,23,Calibri-Bold,11.0,113.7,390.4,141.6,401.4,Green
+7,4,23,Calibri,11.0,141.6,390.4,513.9,401.4,": Monitor and quantify the environmental impact of the digital transformation, in "
+7,4,24,Calibri,11.0,113.7,404.9,345.2,416.0,particular as regards the impact of data processing. 
+7,4,25,Calibri,11.0,95.7,419.5,99.0,430.5,-
+7,4,25,ArialMT,11.0,99.0,417.8,102.1,430.1, 
+7,4,26,Calibri-Bold,11.0,113.7,419.5,160.1,430.5,Quantum:
+7,4,26,Calibri,11.0,160.1,419.5,513.8,430.5, Sweden should: (i) strengthen its national positioning in the EuroHPC JU 
+7,4,27,Calibri,11.0,113.7,433.9,513.9,444.9,governance and align national strategies accordingly; (ii) ensure strong representation 
+7,4,28,Calibri,11.0,113.7,448.4,513.9,459.4,"there and align the national quantum strategy, national calls and infrastructure plans with "
+7,4,29,Calibri,11.0,113.7,462.9,513.9,473.9,"the EuroHPC JU’s work programmes, access schemes and infrastructure roadmaps; (iii) "
+7,4,30,Calibri,11.0,113.7,477.4,513.8,488.5,"shift from mainly research funding to industrial scale-up, with stronger support for "
+7,4,31,Calibri,11.0,113.7,491.9,513.9,503.0,"quantum software, compilers, middleware, error-correction/error-mitigation tools, and "
+7,4,32,Calibri,11.0,113.7,506.4,513.9,517.4,hybrid HPC-QC application stacks; and (iv) align national calls more closely with the EU 
+7,4,33,Calibri,11.0,113.7,520.9,513.6,531.9,"roadmaps, EuroHPC deployments, the EuroHPC JU work programme, and the Chips JU "
+7,4,34,Calibri,11.0,113.7,535.4,205.7,546.4,quantum pilot lines. 
+7,5,0,Calibri,11.0,72.0,581.3,74.5,592.3, 
+7,6,0,Calibri-Bold,11.0,72.0,603.7,74.5,614.7, 
+7,6,1,Calibri-Bold,11.0,216.1,603.7,218.5,614.7, 
+7,7,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,7,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Light,15.0,72.0,161.3,509.7,176.3,Building technological leadership: digital infrastructure and technologies 
+8,5,0,Calibri-Light,12.0,72.0,188.5,203.2,200.5,Connectivity infrastructure 
+8,6,0,Calibri-LightItalic,11.0,72.0,206.1,183.7,217.1,Performance assessment 
+8,7,0,Calibri-Bold,11.0,72.0,232.6,311.0,243.6,Fixed Very High-Capacity Network (VHCN) coverage.
+8,7,0,Calibri,11.0,311.0,232.6,313.5,243.6, 
+8,7,0,Calibri-Bold,11.0,313.9,232.6,525.9,243.6,Sweden achieved a VHCN coverage of 89.84% 
+8,7,1,Calibri-Bold,11.0,72.0,247.0,525.7,258.0,"in 2025, following a slight increase of 0.1% from the previous year, and surpassing the EU average of "
+8,7,2,Calibri-Bold,11.0,72.0,261.5,105.4,272.6,85.54%
+8,7,2,Calibri,11.0,105.4,261.5,525.8,272.6,". In 2024, Sweden’s coverage was 89.74%, which was higher than the EU’s 82.49%. In terms of "
+8,7,3,Calibri,11.0,72.0,276.0,386.1,287.1,"growth, Sweden’s performance was inferior to the EU’s 3.7% increase. "
+8,8,0,Calibri,11.0,72.0,298.5,525.8,309.5,"For households residing in sparsely populated areas, Sweden’s VHCN coverage was 69.37% in 2025, "
+8,8,1,Calibri,11.0,72.0,313.0,525.9,324.0,"following a minor decrease of 0.1% from 2024, but was still above the EU’s 66.66%. In 2024, Sweden’s "
+8,8,2,Calibri,11.0,72.0,327.5,525.9,338.6,"coverage was 69.45%, which was higher than the EU’s 61.87%. In terms of growth, Sweden’s "
+8,8,3,Calibri,11.0,72.0,342.0,304.7,353.1,performance was inferior to the EU’s 7.7% increase. 
+8,9,0,Calibri-Bold,11.0,72.0,364.5,525.8,375.5,"Fibre to the Premises (FTTP) coverage. Sweden’s FTTP coverage was 85.62% in 2025, maintaining the "
+8,9,1,Calibri-Bold,11.0,72.0,379.0,369.9,390.0,"same level as in 2024, and exceeding the EU average of 74.13%"
+8,9,1,Calibri,11.0,370.1,379.0,525.9,390.0,". In 2024, Sweden’s coverage was "
+8,9,2,Calibri,11.0,72.0,393.5,525.7,404.6,"85.58%, which was higher than the EU’s 69.24%. In terms of growth, the EU experienced a 7.1% "
+8,9,3,Calibri,11.0,72.0,407.9,249.4,419.0,"increase, while Sweden had no growth. "
+8,10,0,Calibri,11.0,72.0,430.5,525.7,441.5,"For households residing in sparsely populated areas, Sweden’s FTTP coverage was 69.35% in 2025, "
+8,10,1,Calibri,11.0,72.0,445.0,525.9,456.1,"following a minor decrease of 0.1% from 2024, but was still above the EU’s 62.61%. In 2024, Sweden’s "
+8,10,2,Calibri,11.0,72.0,459.4,525.9,470.5,"coverage was 69.45%, which was higher than the EU’s 58.76%. In terms of growth, Sweden’s "
+8,10,3,Calibri,11.0,72.0,473.9,304.7,485.0,performance was inferior to the EU’s 6.5% increase. 
+8,12,0,Calibri,11.0,522.8,700.5,525.3,711.6, 
+8,13,0,Calibri,11.0,72.0,720.0,74.5,731.0, 
+8,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,14,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+9,71,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,72,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+9,73,0,Calibri-Bold,11.0,72.0,84.0,166.2,95.1,Overall 5G coverage.
+9,73,0,Calibri,11.0,166.3,84.0,168.8,95.1, 
+9,73,0,Calibri-Bold,11.0,169.0,84.0,525.5,95.1,"Sweden achieved a 5G coverage of 98.74% in 2025, following a slight increase "
+9,73,1,Calibri-Bold,11.0,72.0,98.4,397.5,109.5,"of 0.1% from the previous year, and surpassing the EU average of 96.79%"
+9,73,1,Calibri,11.0,397.7,98.4,525.9,109.5,". In 2024, Sweden’s coverage "
+9,73,2,Calibri,11.0,72.0,112.9,309.9,124.0,"was 98.59%, which was higher than the EU’s 94.35%. "
+9,75,0,Calibri,11.0,72.0,135.5,525.8,146.5,"For households residing in sparsely populated areas, Sweden’s 5G coverage was 90.5% in 2025, "
+9,75,1,Calibri,11.0,72.0,149.9,525.9,160.9,"following a minor increase of 0.2% from 2024, and exceeding the EU’s 88.88%. In 2024, Sweden’s "
+9,75,2,Calibri,11.0,72.0,164.4,394.6,175.5,"coverage was 90.35%, which was higher than the EU’s 79.58%. Sweden´s "
+9,75,2,Calibri,11.0,394.3,164.4,525.9,175.5,spectrum assignment for 900 
+9,75,3,Calibri,11.0,72.0,178.9,128.1,190.0,MHz to Telia
+9,75,3,Calibri,11.0,128.1,178.9,525.9,190.0, requires increased role out of coverage in rural areas up to 2030. Spectrum assignment 
+9,75,4,Calibri,11.0,72.0,193.5,525.9,204.5,"for 2,1 GHz and 2,6 GHz requires all operators to expand coverage for high-traffic railways up to 2030. "
+9,76,0,Calibri-Bold,11.0,72.0,215.9,245.2,226.9,5G coverage in the 3.4-3.8 GHz band.
+9,76,0,Calibri,11.0,245.2,215.9,247.7,226.9, 
+9,76,0,Calibri-Bold,11.0,248.4,215.9,525.9,226.9,Sweden achieved a 5G coverage in the 3.4-3.8 GHz band of 
+9,76,1,Calibri-Bold,11.0,72.0,230.4,525.8,241.5,"79.3% in 2025, following an increase of 7.1% from the previous year, and surpassing the EU average "
+9,76,2,Calibri-Bold,11.0,72.0,245.0,117.7,256.0,of 74.75%
+9,76,2,Calibri,11.0,117.7,245.0,525.8,256.0,". In 2024, Sweden’s coverage was 74.01%, which was higher than the EU’s 67.6%. In terms "
+9,76,3,Calibri,11.0,72.0,259.4,525.9,270.4,"of growth, Sweden’s performance was inferior to the EU’s 10.6% increase. The 3.4-3.8 GHz mid-band "
+9,76,4,Calibri,11.0,72.0,273.9,525.7,284.9,"provides a good balance between coverage with high capacity, making it a cornerstone for advanced "
+9,76,5,Calibri,11.0,72.0,288.4,525.8,299.5,"5G use cases. These use cases include applications in manufacturing, such as industrial IoT, or "
+9,76,6,Calibri,11.0,72.0,302.9,525.8,314.0,"healthcare, for example telemedicine. Only 4.2% of 5G base stations constitute 5G SA; the EU average "
+9,76,7,Calibri,11.0,72.0,317.3,114.0,328.4,is 22.2%. 
+9,77,0,Calibri,11.0,72.0,339.9,525.9,350.9,"For households residing in sparsely populated areas, Sweden’s 5G coverage in the 3.4-3.8 GHz band "
+9,77,1,Calibri,11.0,72.0,354.4,525.9,365.4,"was 17.91% in 2025, following a significant increase of 76.0% from 2024, but was still below the EU’s "
+9,77,2,Calibri,11.0,72.0,368.8,525.9,379.9,"33.71%. In 2024, Sweden’s coverage was 10.17%, which was lower than the EU’s 25.36%. In terms of "
+9,77,3,Calibri,11.0,72.0,383.3,396.2,394.4,"growth, Sweden’s performance was superior to the EU’s 32.9% increase. "
+9,78,0,Calibri,11.0,72.0,405.8,525.9,416.8,"The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in "
+9,78,1,Calibri,11.0,72.0,420.3,525.9,431.4,"Sweden. It reveals that overall connectivity coverage is strong across all Swedish regions; however, "
+9,78,2,Calibri,11.0,72.0,434.8,498.4,445.9,"coverage in rural parts is lagging in all regions, in particular as regards VHCN and FTTP coverage."
+9,78,2,Calibri-Bold,11.0,498.2,434.8,500.7,445.9, 
+9,79,0,Calibri-Bold,11.3,235.0,458.6,308.7,469.9,VHCN coverage 
+9,79,1,Calibri-Bold,11.3,329.5,458.6,396.5,469.9,FTTP Coverage
+9,79,2,Calibri-Bold,11.3,427.0,458.6,485.0,469.9,5G Coverage
+9,80,0,Calibri,12.0,229.8,473.8,264.7,485.8,Overall
+9,80,1,Calibri,12.0,281.5,473.8,306.7,485.8,Rural
+9,80,2,Calibri,12.0,322.8,473.8,357.7,485.8,Overall
+9,80,3,Calibri,12.0,374.5,473.8,399.7,485.8,Rural
+9,80,4,Calibri,12.0,415.7,473.8,450.7,485.8,Overall
+9,80,5,Calibri,12.0,467.4,473.8,492.7,485.8,Rural
+9,80,6,Calibri-Bold,11.3,116.6,489.4,200.1,500.6,National coverage
+9,80,7,Calibri,11.3,231.3,489.4,263.3,500.6,89.84%
+9,80,8,Calibri,11.3,277.8,489.4,309.8,500.6,69.37%
+9,80,9,Calibri,11.3,324.3,489.4,356.3,500.6,85.62%
+9,80,10,Calibri,11.3,370.7,489.4,402.7,500.6,69.35%
+9,80,11,Calibri,11.3,417.2,489.4,449.2,500.6,98.74%
+9,80,12,Calibri,11.3,463.7,489.4,495.7,500.6,90.50%
+9,80,13,Calibri-Bold,11.3,114.4,504.4,202.7,515.7,Mellersta Norrland
+9,80,14,Calibri,11.3,231.3,504.4,263.3,515.7,82.04%
+9,80,15,Calibri,11.3,277.8,504.4,309.8,515.7,62.43%
+9,80,16,Calibri,11.3,324.3,504.4,356.3,515.7,78.60%
+9,80,17,Calibri,11.3,370.7,504.4,402.7,515.7,62.43%
+9,80,18,Calibri,11.3,417.2,504.4,449.2,515.7,94.73%
+9,80,19,Calibri,11.3,463.7,504.4,495.7,515.7,76.23%
+9,80,20,Calibri-Bold,11.3,110.6,519.4,205.3,530.6,Norra Mellansverige
+9,80,21,Calibri,11.3,231.3,519.4,263.3,530.6,84.85%
+9,80,22,Calibri,11.3,277.8,519.4,309.8,530.6,68.37%
+9,80,23,Calibri,11.3,324.3,519.4,356.3,530.6,81.22%
+9,80,24,Calibri,11.3,370.7,519.4,402.7,530.6,68.36%
+9,80,25,Calibri,11.3,417.2,519.4,449.2,530.6,96.29%
+9,80,26,Calibri,11.3,463.7,519.4,495.7,530.6,83.59%
+9,80,27,Calibri-Bold,11.3,111.3,534.4,204.6,545.6,Östra Mellansverige
+9,80,28,Calibri,11.3,231.3,534.4,263.3,545.6,89.11%
+9,80,29,Calibri,11.3,277.8,534.4,309.8,545.6,65.65%
+9,80,30,Calibri,11.3,324.3,534.4,356.3,545.6,86.06%
+9,80,31,Calibri,11.3,370.7,534.4,402.7,545.6,65.62%
+9,80,32,Calibri,11.3,417.2,534.4,449.2,545.6,99.40%
+9,80,33,Calibri,11.3,463.7,534.4,495.7,545.6,95.28%
+9,80,34,Calibri-Bold,11.3,125.6,549.4,191.5,560.6,Övre Norrland
+9,80,35,Calibri,11.3,231.3,549.4,263.3,560.6,86.06%
+9,80,36,Calibri,11.3,277.8,549.4,309.8,560.6,59.03%
+9,80,37,Calibri,11.3,324.3,549.4,356.3,560.6,84.51%
+9,80,38,Calibri,11.3,370.7,549.4,402.7,560.6,59.02%
+9,80,39,Calibri,11.3,417.2,549.4,449.2,560.6,95.02%
+9,80,40,Calibri,11.3,463.7,549.4,495.7,560.6,70.25%
+9,80,41,Calibri-Bold,11.3,112.9,564.4,204.5,575.6,Småland med öarna
+9,80,42,Calibri,11.3,231.3,564.4,263.3,575.6,86.44%
+9,80,43,Calibri,11.3,277.8,564.4,309.8,575.6,73.28%
+9,80,44,Calibri,11.3,324.3,564.4,356.3,575.6,83.53%
+9,80,45,Calibri,11.3,370.7,564.4,402.7,575.6,73.28%
+9,80,46,Calibri,11.3,417.2,564.4,449.2,575.6,98.03%
+9,80,47,Calibri,11.3,463.7,564.4,495.7,575.6,92.39%
+9,80,48,Calibri-Bold,11.3,133.8,579.4,182.7,590.6,Stockholm
+9,80,49,Calibri,11.3,231.3,579.4,263.3,590.6,95.20%
+9,80,50,Calibri,11.3,277.8,579.4,309.8,590.6,59.77%
+9,80,51,Calibri,11.3,324.3,579.4,356.3,590.6,90.19%
+9,80,52,Calibri,11.3,370.7,579.4,402.7,590.6,59.75%
+9,80,53,Calibri,11.3,417.2,579.4,449.2,590.6,99.82%
+9,80,54,Calibri,11.3,463.7,579.4,495.7,590.6,99.18%
+9,80,55,Calibri-Bold,11.3,133.1,594.4,182.9,605.6,Sydsverige
+9,80,56,Calibri,11.3,231.3,594.4,263.3,605.6,90.12%
+9,80,57,Calibri,11.3,277.8,594.4,309.8,605.6,75.33%
+9,80,58,Calibri,11.3,324.3,594.4,356.3,605.6,84.49%
+9,80,59,Calibri,11.3,370.7,594.4,402.7,605.6,75.26%
+9,80,60,Calibri,11.3,417.2,594.4,449.2,605.6,99.56%
+9,80,61,Calibri,11.3,463.7,594.4,495.7,605.6,95.47%
+9,80,62,Calibri-Bold,11.3,131.6,609.4,185.2,620.6,Västsverige
+9,80,63,Calibri,11.3,231.3,609.4,263.3,620.6,90.25%
+9,80,64,Calibri,11.3,277.8,609.4,309.8,620.6,75.91%
+9,80,65,Calibri,11.3,324.3,609.4,356.3,620.6,85.32%
+9,80,66,Calibri,11.3,370.7,609.4,402.7,620.6,75.91%
+9,80,67,Calibri,11.3,417.2,609.4,449.2,620.6,99.43%
+9,80,68,Calibri,11.3,463.7,609.4,495.7,620.6,95.66%
+9,81,0,Calibri,11.0,503.5,613.4,506.0,624.5, 
+9,82,0,Calibri-Bold,11.0,72.0,632.9,525.9,643.9,"In terms of take-up, Sweden is above the EU average for mobile connectivity but below for fixed "
+9,82,1,Calibri-Bold,11.0,72.0,647.4,127.9,658.4,connectivity
+9,82,1,Calibri,11.0,127.9,647.4,525.9,658.4,. Sweden has reached 16.08% for fixed broadband subscriptions faster than 1 Gbps after 
+9,82,2,Calibri,11.0,72.0,661.9,525.9,672.9,"an increase from 9.82% in 2024, which is below the EU average of 26.97%. In Sweden, 76.07% of the "
+9,82,3,Calibri,11.0,72.0,676.4,525.9,687.5,"population has 5G SIM cards, up from 50.17% in 2024, and the country is well above the EU average "
+9,82,4,Calibri,11.0,72.0,690.8,119.5,701.9,of 55.55%.
+9,82,4,Calibri-Bold,11.0,119.4,690.8,121.9,701.9, 
+9,83,0,Calibri-LightItalic,11.0,72.0,713.4,300.0,724.4,Policy context and assessment of recommendations 
+9,84,0,Calibri-Bold,11.0,72.0,739.9,525.8,751.0,Sweden’s digital economy and society index showcases a strong performance across all key 
+9,84,1,Calibri-Bold,11.0,72.0,754.3,327.1,765.4,performance indicators (KPIs) in both 2024 and 2025. 
+9,84,1,Calibri,11.0,328.8,754.3,525.8,765.4,The country consistently surpasses the EU 
+9,85,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,85,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+10,2,0,Calibri,11.0,72.0,84.0,525.6,95.1,"average in terms of coverage for VHCN, FTTP, and 5G, both in total and for households residing in "
+10,2,1,Calibri,11.0,72.0,98.4,188.2,109.5,sparsely populated areas. 
+10,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,"However, Sweden’s growth rates in these areas, with the exception of 5G coverage in the 3.4-3.8 GHz "
+10,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"band for households in sparsely populated areas, are generally inferior to the EU’s growth rates. This "
+10,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,"suggests that while Sweden maintains a high level of coverage, it may need to accelerate its growth to "
+10,4,3,Calibri,11.0,72.0,164.4,274.9,175.5,keep pace with the EU’s digital development. 
+10,5,0,Calibri-Bold,11.0,72.0,187.0,240.1,198.0,Sweden continues to roll out FTTP. 
+10,5,0,Calibri,11.0,241.9,187.0,525.8,198.0,The average cost of fibre connection has varied and the last 
+10,5,1,Calibri,11.0,72.0,201.4,525.9,212.4,"households are very expensive to connect, which makes it financially challenging to reach 100%. "
+10,5,2,Calibri,11.0,72.0,215.9,525.9,226.9,"Access to fibre is about 98% in urban areas and 90% in sparsely populated areas, with a faster increase "
+10,5,3,Calibri,11.0,72.0,230.4,525.9,241.5,in sparsely populated areas in recent years. Consumer prices for fibre have increased much faster than 
+10,5,4,Calibri,11.0,72.0,245.0,182.2,256.0,inflation in recent years. 
+10,6,0,Calibri-Bold,11.0,72.0,267.4,171.2,278.5,Support programme.
+10,6,0,Calibri,11.0,171.2,267.4,525.8,278.5, A multiannual programme to support fibre deployment was already in 
+10,6,1,Calibri,11.0,72.0,281.9,525.8,293.0,"operation, with dedicated allocations for 2025 and 2026. The year 2027 will be the final year for new "
+10,6,2,Calibri,11.0,72.0,296.3,525.9,307.4,"applications under the programme, while projects approved in that year are expected to be completed "
+10,6,3,Calibri,11.0,72.0,310.9,112.8,321.9,by 2030. 
+10,7,0,Calibri-Bold,11.0,72.0,333.4,154.8,344.4,Copper switch-off.
+10,7,0,Calibri,11.0,154.8,333.4,525.9,344.4, All copper networks will be phased out by the end of November 2026. In December 
+10,7,1,Calibri,11.0,72.0,347.8,525.9,358.9,"2025, a total of 53 municipalities still had some copper; however, not even one per cent of the copper "
+10,7,2,Calibri,11.0,72.0,362.3,455.7,373.4,lines remain. Sweden was already down to less than one per cent in September 2025. 
+10,8,0,Calibri-Bold,11.0,72.0,384.9,196.6,395.9,5G coverage has increased.
+10,8,0,Calibri,11.0,196.7,384.9,523.5,395.9, Sweden lags behind the EU average for the 5G coverage only in the 3.4-
+10,8,1,Calibri,11.0,72.0,399.3,525.9,410.4,3.8 GHz band in rural areas. Swedish spectrum licences are now awarded for the next 20 years. 
+10,8,2,Calibri,11.0,72.0,413.8,525.9,424.9,"Recently, two operators were awarded the 1 800 MHz band; the licences start in 2028 and end in 2054. "
+10,8,3,Calibri,11.0,72.0,428.3,525.6,439.4,Two operators have active 5G SA networks in operation and that development in the area is 
+10,8,4,Calibri,11.0,72.0,442.9,525.8,453.9,"progressing. Complementary solutions, such as satellite, may be required to reach 100% mobile "
+10,8,5,Calibri,11.0,72.0,457.3,525.9,468.3,coverage. Operators have expanded as far as it is economically justifiable and additional support may 
+10,8,6,Calibri,11.0,72.0,471.8,502.5,482.8,not necessarily lead to more expansion due to high operating costs in areas with few customers. 
+10,9,0,Calibri-Bold,11.0,72.0,494.3,116.4,505.4,Satellites.
+10,9,0,Calibri,11.0,116.5,494.3,138.0,505.4, The 
+10,9,0,Calibri,11.0,137.9,494.3,313.7,505.4,number of satellite-based subscriptions
+10,9,0,Calibri,11.0,313.6,494.3,525.9,505.4, has increased in a few years from about 200 to 
+10,9,1,Calibri,11.0,72.0,508.7,525.9,519.8,"8 500 at the end of 2025, and the service is used all over Sweden, especially in dwellings, such as "
+10,9,2,Calibri,11.0,72.0,523.3,305.2,534.3,"holiday homes, where there is no other connection. "
+10,10,0,Calibri-Bold,11.0,72.0,545.8,190.6,556.9,New support programme.
+10,10,0,Calibri,11.0,190.5,545.8,525.9,556.9," The national telecom regulator, Post- och Telestyrelsen (PTS), examined in "
+10,10,1,Calibri,11.0,72.0,560.3,525.9,571.3,"February 2026 the conditions for introducing government support for the expansion, management "
+10,10,2,Calibri,11.0,72.0,574.8,525.9,585.8,and operation of infrastructure for mobile services. PTS presented a proposal aimed at strengthening 
+10,10,3,Calibri,11.0,72.0,589.3,525.7,600.3,"mobile coverage and capacity along designated roads and railways. Should it be introduced, "
+10,10,4,Calibri,11.0,72.0,603.8,525.8,614.9,implementation would not begin before 2027. Any government aid programmes for infrastructure in 
+10,10,5,Calibri,11.0,72.0,618.2,525.7,629.3,"Sweden are technology-neutral and would therefore not be limited to 5G. Nevertheless, such a "
+10,10,6,Calibri,11.0,72.0,632.7,513.2,643.8,"programme, if implemented in 2027-2030, would be expected to generate additional 5G coverage. "
+10,11,0,Calibri-Bold,11.0,77.7,655.8,252.9,666.8,2025 recommendation on connectivity
+10,11,0,Calibri,11.0,252.9,655.8,520.3,666.8,: Encourage operators to speed up the deployment of 5G SA 
+10,11,1,Calibri,11.0,77.7,670.2,346.7,681.2,"core networks, and ensure completion of the fibre network. "
+10,12,0,Calibri-Bold,11.0,77.7,688.2,520.3,699.2,"On the deployment of fixed networks, Sweden continued implementing existing measures in 2025 "
+10,12,1,Calibri-Bold,11.0,77.7,702.7,239.9,713.7,but did not take any new measures
+10,12,1,Calibri,11.0,239.9,702.7,520.3,713.7,. Progress was made but the rural-urban divide persists as the 
+10,12,2,Calibri,11.0,77.7,717.2,165.6,728.3,table above shows. 
+10,13,0,Calibri-Bold,11.0,77.7,734.8,520.3,745.8,"On the deployment of mobile networks, Sweden continued implementing existing measures in "
+10,13,1,Calibri-Bold,11.0,77.7,749.2,277.7,760.2,2025 but did not take any new measures.
+10,13,1,Calibri,11.0,277.7,749.2,520.2,760.2, Basic 5G networks cover almost all of the country. 
+10,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,14,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+11,2,0,Calibri,11.0,77.7,84.5,520.3,95.5,"However, on 5G SA only minor progress was made, with the start of a couple of network operations "
+11,2,1,Calibri,11.0,77.7,99.0,116.0,110.1,in 2025. 
+11,4,0,Calibri,11.0,72.0,117.0,74.5,128.1, 
+11,5,0,Calibri-Light,12.0,72.0,139.7,151.9,151.7,Semiconductors 
+11,5,1,Calibri-Bold,11.0,72.0,155.3,302.4,166.3,"On semiconductors, Sweden plays a proactive role"
+11,5,1,Calibri,11.0,302.5,155.3,525.9,166.3,. Several universities carry out advanced research 
+11,5,2,Calibri,11.0,72.0,169.7,380.3,180.7,in cooperation with industry. Sweden is investing SEK 175 million in 
+11,5,2,Calibri,11.0,381.1,169.7,431.8,180.7,six projects
+11,5,2,Calibri,11.0,431.9,169.7,525.9,180.7, in different parts of 
+11,5,3,Calibri,11.0,72.0,184.2,525.9,195.3,the country. Sweden expects in its roadmap to contribute to the EU target on semiconductors for 2030. 
+11,6,0,Calibri-Light,12.0,72.0,207.0,130.2,219.0,Edge nodes 
+11,7,0,Calibri-LightItalic,11.0,72.0,224.5,183.7,235.6,Performance assessment 
+11,8,0,Calibri-Bold,11.0,72.0,251.1,525.9,262.1,"According to the Edge Node Observatory, Sweden is estimated to have deployed a total of 226 edge "
+11,8,1,Calibri-Bold,11.0,72.0,265.6,146.0,276.6,nodes by 2025. 
+11,8,1,Calibri,11.0,147.1,265.6,525.9,276.6,"Due to a change in methodology, this number cannot be compared with previous "
+11,8,2,Calibri,11.0,72.0,280.0,129.0,291.0,estimations. 
+11,9,0,Calibri-LightItalic,11.0,72.0,302.6,300.0,313.6,Policy context and assessment of recommendations 
+11,10,0,Calibri-Bold,11.0,72.0,329.0,525.9,340.0,Sweden explains in its roadmap that the country will contribute to the EU target of 10 000 edge 
+11,10,1,Calibri-Bold,11.0,72.0,343.5,105.1,354.5,nodes. 
+11,10,1,Calibri,11.0,105.3,343.5,525.9,354.5,"Center for Trustworthy Edge Computing Systems and Applications (TECoSA), a research centre "
+11,10,2,Calibri,11.0,72.0,358.0,525.9,369.0,hosted at KTH Royal Institute of Technology carries out research on reliable edge computing systems 
+11,10,3,Calibri,11.0,72.0,372.5,525.9,383.6,"and applications. TECoSA includes 19 partners: KTH Royal Institute of Technology, 10 SMEs, and 8 large "
+11,10,4,Calibri,11.0,72.0,386.9,525.9,398.0,organisations. The Research Institutes of Sweden (RISE) also carries out testbeds on edge nodes at the 
+11,10,5,Calibri,11.0,72.0,401.5,473.7,412.5,Infrastructure and Cloud research & test Environment at the Technical University of Luleå. 
+11,11,0,Calibri-Light,12.0,72.0,424.3,184.4,436.3,Quantum technologies 
+11,11,1,Calibri-Bold,11.0,72.0,439.7,525.9,450.8,"Sweden expects to support the EU target on quantum technology through WACQT, its flagship "
+11,11,2,Calibri-Bold,11.0,72.0,454.3,107.2,465.3,project.
+11,11,2,Calibri,11.0,107.3,454.3,525.9,465.3, WACQT started in 2018 and should finish in 2030. It has a budget of more than SEK 1 billion. 
+11,11,3,Calibri,11.0,72.0,468.8,525.8,479.8,"WACQT has two goals: to develop a working 100-qubit quantum computer, and to build a broad base "
+11,11,4,Calibri,11.0,72.0,483.3,525.9,494.4,of quantum expertise within and for Swedish industry and academia. In the mid-term report presented 
+11,11,5,Calibri,11.0,72.0,497.7,525.8,508.8,"at the end of 2024, WACQT concluded that it had made good progress. A team of researchers at "
+11,11,6,Calibri,11.0,72.0,512.2,525.9,523.3,Chalmers University of Technology has succeeded in developing a 25-qubit quantum computer. Much 
+11,11,7,Calibri,11.0,72.0,526.7,525.8,537.8,"of WACQT’s research is conducted at Chalmers University of Technology, where its central office is also "
+11,11,8,Calibri,11.0,72.0,541.3,525.7,552.3,"located. The quantum computer has been developed at Chalmers University of Technology, and "
+11,11,9,Calibri,11.0,72.0,555.7,525.7,566.7,"Chalmers is also responsible for the quantum simulation initiatives. However, KTH Royal Institute of "
+11,11,10,Calibri,11.0,72.0,570.2,525.9,581.3,"Technology and the universities of Gothenburg, Linköping, Stockholm and Lund are also partners. KTH "
+11,11,11,Calibri,11.0,72.0,584.7,525.6,595.8,"Royal Institute of Technology is leading WACQT’s quantum communication initiative, Stockholm "
+11,11,12,Calibri,11.0,72.0,599.3,525.8,610.3,"University is leading the development of ion traps, and Lund University is leading the work on quantum "
+11,11,13,Calibri,11.0,72.0,613.7,525.9,624.7,sensors. The participating universities and businesses together contribute some SEK 300 million 
+11,11,14,Calibri,11.0,72.0,628.2,262.5,639.2,(approximately EUR 30 million) to WACQT. 
+11,12,0,Calibri,11.0,72.0,650.7,525.8,661.8,"In addition to WACQT, Vinnova, Sweden’s Innovation Authority, has provided a few tens of millions of "
+11,12,1,Calibri,11.0,72.0,665.1,525.8,676.2,Swedish kronor in funding to a small number of Swedish research projects. The EU also funds a 
+11,12,2,Calibri,11.0,72.0,679.7,525.7,690.7,"considerable amount of Swedish research, including the quantum communication network EuroQCI8 "
+11,12,3,Calibri,11.0,72.0,694.2,525.9,705.2,"and the quantum computer project EuroHPC LUMI-Q 9. Despite WACQT’s major investment, there are "
+11,12,4,Calibri,11.0,72.0,708.7,523.6,719.7,"many gaps in research funding for Swedish quantum technology. Indeed, the commitment for long-"
+11,12,5,Calibri,11.0,72.0,723.1,525.9,734.2,"term research, for broadening quantum education and, not least, for building an ecosystem is not fully "
+11,12,6,Calibri,11.0,72.0,737.6,525.9,748.7,"convincing. The Swedish industrial ecosystem surrounding quantum technology is still at an early stage, "
+11,12,7,Calibri,11.0,72.0,752.2,525.9,763.2,"but it is growing rapidly and is characterised by highly skilled niche stakeholders, research-oriented "
+11,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+12,3,0,Calibri,11.0,72.0,84.0,525.7,95.1,businesses and a few large corporations with strategic interests. The Swedish quantum ecosystem is 
+12,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"vulnerable, not least due to a limited inflow of new expertise and the high levels of mobility among "
+12,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,international PhD students and postdocs. A separate ecosystem has been built up around WACQT 
+12,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"which, in addition to the universities referred to above, also includes private partners. At Chalmers "
+12,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"University of Technology, WACQT has also set up two testbeds for quantum technology. These testbeds "
+12,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,– one for quantum algorithms and one for hardware – are open to both researchers and businesses. 
+12,3,6,Calibri,11.0,72.0,170.9,525.7,181.9,"An initiative known as QSIP, Quantum Sweden Innovation Platform, is linked to the research "
+12,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,community and was launched at the end of 2023 with a view to continuing for 10 years. QSIP aims to 
+12,3,8,Calibri,11.0,72.0,199.9,525.8,211.0,support the development of a competitive and attractive Swedish ecosystem for quantum innovation. 
+12,3,9,Calibri,11.0,72.0,214.3,525.9,225.4,QSIP is run by Chalmers Industriteknik and is funded by Vinnova as well as the participating members. 
+12,4,0,Calibri-Light,15.0,72.0,241.8,462.1,256.8,Supporting EU-wide digital ecosystems and scaling up innovative 
+12,4,1,Calibri-Light,15.0,72.0,261.6,143.2,276.6,enterprises 
+12,5,0,Calibri-Light,12.0,72.0,288.6,265.2,300.6,SMEs with at least basic digital intensity 
+12,6,0,Calibri-LightItalic,11.0,72.0,306.3,183.7,317.3,Performance assessment 
+12,7,0,Calibri-Bold,11.0,72.0,332.7,525.9,343.7,"In Sweden, 86.47% of SMEs have at least a basic level of digital intensity index after an increase of "
+12,7,1,Calibri-Bold,11.0,72.0,347.2,513.9,358.2,"+4.0% annually between 2023 and 2025, placing the country above the EU average of 71.39%. "
+12,7,1,Calibri,11.0,515.0,347.2,525.9,358.2,In 
+12,7,2,Calibri,11.0,72.0,361.7,525.9,372.8,"2023, the figure for Sweden was 79.91%, which was also higher than the EU’s 57.9%. The country is on "
+12,7,3,Calibri,11.0,72.0,376.2,440.6,387.3,track according to its trajectory presented in the Digital Decade national roadmap. 
+12,8,0,Calibri,11.0,72.0,398.7,525.8,409.8,"In Sweden, 15.45% of SMEs have a very high digital intensity index, surpassing the EU average of 9.07%. "
+12,8,1,Calibri,11.0,72.0,413.2,525.9,424.3,"In 2023, Sweden’s figure was 6.76%, which was already higher than the EU’s 4.38%. Sweden’s annual "
+12,8,2,Calibri,11.0,72.0,427.7,525.8,438.8,"growth rate of 51.2% exceeds the EU’s 43.9%, demonstrating that Sweden is not only ahead in terms "
+12,8,3,Calibri,11.0,72.0,442.1,489.9,453.2,of current digital intensity but is also outpacing the EU in its rate of advancement in this area. 
+12,9,0,Calibri-LightItalic,11.0,72.0,464.7,300.0,475.8,Policy context and assessment of recommendations 
+12,10,0,Calibri-Bold,11.0,72.0,491.2,483.1,502.3,Sweden emphasises that businesses need to take the responsibility for their digitalisation.
+12,10,0,Calibri,11.0,483.2,491.2,525.9,502.3, National 
+12,10,1,Calibri,11.0,72.0,505.6,525.9,516.7,"authorities will, however, provide the framework for businesses in their digitalisation efforts. One "
+12,10,2,Calibri,11.0,72.0,520.1,121.6,531.2,example is 
+12,10,2,Calibri,11.0,121.6,520.1,227.8,531.2,Avancerad digitalisering
+12,10,2,Calibri,11.0,227.9,520.1,398.1,531.2,", which Sweden continues to support. "
+12,11,0,Calibri-Light,12.0,72.0,542.8,237.6,554.8,Take-up of advanced technologies 
+12,12,0,Calibri-LightItalic,11.0,72.0,560.5,183.7,571.5,Performance assessment 
+12,12,1,Calibri-Bold,11.0,72.0,575.0,74.5,586.1, 
+12,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+13,4,0,Calibri-Bold,11.0,523.6,299.2,526.1,310.2, 
+13,5,0,Calibri-Bold,11.0,72.0,318.8,525.9,329.8,"In Sweden, 38.64% of enterprises have adopted data analytics after an increase of +5.1% annually "
+13,5,1,Calibri-Bold,11.0,72.0,333.2,408.9,344.2,"since 2023, placing the country slightly below the EU average of 39.85%."
+13,5,1,Calibri,11.0,409.1,333.2,525.9,344.2," In 2023, Sweden’s figure "
+13,5,2,Calibri,11.0,72.0,347.7,525.8,358.7,"was 34.96%, which was higher than the EU’s 33.25%. However, Sweden’s annual growth rate of 5.1% "
+13,5,3,Calibri,11.0,72.0,362.2,525.9,373.2,"is lower than the EU’s 9.5%, suggesting a slower adoption rate compared with the EU. For SMEs "
+13,5,4,Calibri,11.0,72.0,376.7,525.9,387.8,"specifically, Sweden is at 36.95% after an increase of +5.1% annually, which is below the EU average of "
+13,5,5,Calibri,11.0,72.0,391.1,525.9,402.2,"38.59%. In 2023, Sweden’s figure was 33.44%, which was higher than the EU’s 32.09%. Large "
+13,5,6,Calibri,11.0,72.0,405.7,525.8,416.7,"enterprises in Sweden are at 82.91% after an increase of +2.6% annually, surpassing the EU average of "
+13,5,7,Calibri,11.0,72.0,420.2,407.6,431.2,"82.03%. In 2023, Sweden’s figure was 78.82%, higher than the EU’s 71.81% "
+13,6,0,Calibri-Bold,11.0,72.0,442.6,525.9,453.7,"On the adoption of cloud technologies, Sweden has reached 67.59% after an increase of +1.2% "
+13,6,1,Calibri-Bold,11.0,72.0,457.1,485.2,468.2,"annually since 2023, placing the country significantly higher than the EU average of 46.69%."
+13,6,1,Calibri,11.0,485.4,457.1,525.9,468.2," In 2023, "
+13,6,2,Calibri,11.0,72.0,471.7,525.8,482.7,"Sweden’s figure was 66.0%, which was also higher than the EU’s 38.97%. For SMEs, Sweden is at "
+13,6,3,Calibri,11.0,72.0,486.2,525.8,497.2,"66.64% after an increase of +1.0% annually, which is higher than the EU average of 45.74%. In 2023, "
+13,6,4,Calibri,11.0,72.0,500.6,525.9,511.6,"Sweden’s figure was 65.32%, surpassing the EU’s 38.04%. Large enterprises in Sweden have reached "
+13,6,5,Calibri,11.0,72.0,515.1,525.9,526.2,"92.21% after an increase of +3.7% annually, placing the country well above the EU average of 78.32%. "
+13,6,6,Calibri,11.0,72.0,529.6,372.0,540.7,"In 2023, Sweden’s figure was 85.82%, higher than the EU’s 69.72%. "
+13,7,0,Calibri-Bold,11.0,72.0,552.1,525.9,563.1,"On the adoption of artificial intelligence, Sweden has reached 35.04% after an increase of +39.7% "
+13,7,1,Calibri-Bold,11.0,72.0,566.6,487.9,577.7,"annually since 2024, placing the country, significantly above than the EU average of 19.95%. "
+13,7,1,Calibri,11.0,487.7,566.6,525.9,577.7,"In 2024, "
+13,7,2,Calibri,11.0,72.0,581.1,525.9,592.2,"Sweden’s figure was 25.09%, which was also higher than the EU’s 13.48%. However, Sweden’s annual "
+13,7,3,Calibri,11.0,72.0,595.7,525.9,606.7,"growth rate of 39.7% is slightly lower than the EU’s 48.0%. For SMEs, Sweden has reached 33.63% after "
+13,7,4,Calibri,11.0,72.0,610.1,525.8,621.1,"an increase of +40.4% annually, placing the country higher than the EU average of 18.9%. In 2024, "
+13,7,5,Calibri,11.0,72.0,624.6,525.7,635.6,"Sweden’s figure was 23.96%, surpassing the EU’s 12.64%. Large enterprises in Sweden are at 71.87% "
+13,7,6,Calibri,11.0,72.0,639.1,525.9,650.1,"after an increase of +27.6% annually, placing the country well above the EU average of 55.03%. In 2024, "
+13,7,7,Calibri,11.0,72.0,653.6,382.5,664.7,"Sweden’s figure was 56.34%, which was higher than the EU’s 41.17%. "
+13,8,0,Calibri-Bold,11.0,72.0,676.1,525.9,687.1,"On the adoption of AI, cloud computing, or data analytics technologies together, Sweden has "
+13,8,1,Calibri-Bold,11.0,72.0,690.6,525.9,701.6,"reached 76.52% after an increase of +2.3% annually since 2023, placing the country above the EU "
+13,8,2,Calibri-Bold,11.0,72.0,705.1,153.5,716.1,average of 63.2%.
+13,8,2,Calibri,11.0,153.6,705.1,525.9,716.1," In 2023, Sweden’s figure was 73.06%, which was also higher than the EU’s 54.7%. "
+13,8,3,Calibri,11.0,72.0,719.5,525.9,730.6,"However, Sweden’s annual growth rate of 2.3% is lower than the EU’s 7.5%. For SMEs, Sweden has "
+13,8,4,Calibri,11.0,72.0,734.0,525.9,745.1,"reached 75.71% after an increase of +2.3% annually, placing the country above the EU average of "
+13,8,5,Calibri,11.0,72.0,748.6,525.9,759.6,"62.32%. In 2023, Sweden’s figure was 72.34%, surpassing the EU’s 53.74%, but its growth rate is slower "
+13,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,9,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+14,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,than the EU’s 7.7%. Large enterprises in Sweden have reached 97.59% after an increase of +1.9% 
+14,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,"annually, which is well above the EU average of 92.78%. In 2023, Sweden’s figure was 94.0%, higher "
+14,2,2,Calibri,11.0,72.0,112.9,172.0,124.0,than the EU’s 86.71%. 
+14,4,0,Calibri,11.0,72.0,135.5,525.9,146.5,"Sweden consistently ranks above the EU average in nearly all digitalisation metrics, both in terms of "
+14,4,1,Calibri,11.0,72.0,149.9,216.0,160.9,current levels and growth rates. 
+14,5,0,Calibri,11.0,72.0,172.5,525.8,183.5,"Sweden is a leader in digitalisation among Member States, with high levels of digital intensity and "
+14,5,1,Calibri,11.0,72.0,187.0,525.6,198.0,"technology adoption across SMEs and large enterprises. However, the slower growth rates compared "
+14,5,2,Calibri,11.0,72.0,201.4,525.7,212.4,with the EU average highlight the need for targeted policies to accelerate digital transformation. This 
+14,5,3,Calibri,11.0,72.0,215.9,525.6,226.9,"could include increased investment in digital infrastructure, incentives for technology adoption, and "
+14,5,4,Calibri,11.0,72.0,230.4,525.7,241.5,"programmes to improve digital skills among the workforce. By addressing these areas, Sweden can "
+14,5,5,Calibri,11.0,72.0,245.0,340.4,256.0,ensure it remains at the forefront of digitalisation in the EU. 
+14,6,0,Calibri-LightItalic,11.0,72.0,267.4,300.0,278.5,Policy context and assessment of recommendations 
+14,7,0,Calibri-Bold,11.0,72.0,293.9,525.6,305.0,"The uptake of advanced digital technologies (cloud computing, AI and data analytics) is a decisive "
+14,7,1,Calibri-Bold,11.0,72.0,308.3,459.5,319.4,"factor for productivity growth, innovation capacity and competitiveness in Sweden"
+14,7,1,Calibri,11.0,459.5,308.3,525.9,319.4,. According to 
+14,7,2,Calibri,11.0,72.0,322.8,525.9,333.9,"Sweden’s roadmap, the target for cloud computing will be reached by 2030 but not the targets for AI "
+14,7,3,Calibri,11.0,72.0,337.4,525.8,348.4,"and data analytics. Since Sweden published its roadmap, Sweden has made good progress on the "
+14,7,4,Calibri,11.0,72.0,351.9,525.9,362.9,uptake of AI. Sweden also adopted an AI strategy in February 2026 which was accompanied by a list of 
+14,7,5,Calibri,11.0,72.0,366.4,459.4,377.4,actions. Sweden has improved on data analytics and is now just below the EU average. 
+14,8,0,Calibri-Bold,11.0,72.0,392.8,125.3,403.9,AI strategy.
+14,8,0,Calibri,11.0,125.4,392.8,525.9,403.9, Sweden announced in its AI strategy that the country should have an environment 
+14,8,1,Calibri,11.0,72.0,407.3,525.9,418.4,favourable to developing AI tools that benefit private and public sectors. Sweden’s digitalised and 
+14,8,2,Calibri,11.0,72.0,421.9,525.9,432.9,advanced industry forms a good basis for this. Sweden also seeks to set up clusters of excellence where 
+14,8,3,Calibri,11.0,72.0,436.4,525.9,447.4,researchers together can develop new AI tools. Space applications are mentioned as a relevant 
+14,8,4,Calibri,11.0,72.0,450.8,238.3,461.8,example of the use of AI for Sweden. 
+14,9,0,Calibri,11.0,72.0,477.3,525.8,488.4,Sweden’s SMEs and large businesses both demonstrate strong digital intensity and technology 
+14,9,1,Calibri,11.0,72.0,491.8,525.8,502.9,"adoption, but the slower growth rates suggest a need to step up efforts to maintain competitiveness. "
+14,9,2,Calibri,11.0,72.0,506.4,525.7,517.4,"Furthermore, the adoption of AI technologies remains uneven across different company sizes and "
+14,9,3,Calibri,11.0,72.0,520.7,525.9,531.8,"sectors, with adoption rates ranging from 71.9% among large businesses to 30.7% among small "
+14,9,4,Calibri,11.0,72.0,535.3,525.9,546.3,"businesses. Regarding sectors, while sectors such as IT (87.87%) and professional, scientific and "
+14,9,5,Calibri,11.0,72.0,549.8,525.8,560.8,"technical activities (64.88%) have very high rates of AI uptake, other sectors such as manufacturing "
+14,9,6,Calibri,11.0,72.0,564.3,525.9,575.4,"(32.86%) or accommodation and food services (23.74%) have much lower rates, although still higher "
+14,9,7,Calibri,11.0,72.0,578.7,204.3,589.8,than the averages for the EU. 
+14,10,0,Calibri-LightItalic,11.0,72.0,601.3,259.0,612.3,Assessment of the 2025 recommendation  
+14,11,0,Calibri-Bold,11.0,77.7,616.3,375.4,627.3,2025 recommendation on the adoption of advanced technologies
+14,11,0,Calibri,11.0,375.4,616.3,520.2,627.3,: Continue to encourage the use 
+14,11,1,Calibri,11.0,77.7,630.7,169.7,641.7,of AI by enterprises. 
+14,12,0,Calibri-Bold,11.0,77.7,648.7,520.3,659.7,Sweden made some efforts to address the recommendation through new policy actions in 2025. 
+14,12,1,Calibri,11.0,77.7,663.2,443.8,674.3,New policies were presented but their full implementation will still take some time. 
+14,12,1,Calibri,11.0,443.3,663.2,520.3,674.3,Sweden adopted 
+14,12,2,Calibri,11.0,77.7,677.7,141.7,688.8,its AI strategy
+14,12,2,Calibri,11.0,141.6,677.7,415.1,688.8, and the accompanying action plan in February 2026. The 
+14,12,2,Calibri,11.0,417.0,677.7,520.3,688.8,report of Sweden’s AI 
+14,12,3,Calibri,11.0,77.7,692.3,132.2,703.3,Commission
+14,12,3,Calibri,11.0,132.3,692.3,386.1,703.3, from November 2024 provided input for the AI strategy. 
+14,13,0,Calibri,11.0,72.0,710.3,74.5,721.3, 
+14,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,14,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+15,2,0,Calibri-Light,12.0,72.0,84.3,233.6,96.3,"Unicorns, scale-ups and start-ups "
+15,3,0,Calibri-LightItalic,11.0,72.0,101.8,183.7,112.8,Performance assessment 
+15,5,0,Calibri-Bold,11.0,72.0,128.3,525.9,139.3,"At the beginning of 2026, Sweden had 48 unicorns, which is 7 more than in 2025 (41, figure revised). "
+15,5,1,Calibri,11.0,72.0,142.8,525.8,153.9,"In its roadmap, Sweden aimed for 49 unicorns in 2025. The country is on track according to its "
+15,5,2,Calibri,11.0,72.0,157.2,345.3,168.3,trajectory presented in the Digital Decade national roadmap. 
+15,6,0,Calibri-LightItalic,11.0,72.0,179.8,300.0,190.8,Policy context and assessment of recommendations 
+15,6,1,Calibri,11.0,72.0,194.3,525.9,205.3,Sweden continues to attract start-ups in the digital field. Stockholm in particular has received media 
+15,6,2,Calibri,11.0,72.0,208.7,238.8,219.7,coverage on fundraising by start-ups. 
+15,7,0,Calibri-Light,15.0,72.0,236.1,318.2,251.1,Strengthening cybersecurity & resilience 
+15,8,0,Calibri-Bold,11.0,72.0,263.0,525.9,274.0,"On general digitalisation, Swedish enterprises are ahead of their EU peers in implementing "
+15,8,1,Calibri-Bold,11.0,72.0,277.5,182.1,288.5,cybersecurity measures.
+15,8,1,Calibri,11.0,182.2,277.5,525.8,288.5," In 2024, 64.17% of enterprises applied at least 5 cybersecurity measures (out "
+15,8,2,Calibri,11.0,72.0,292.0,145.6,303.0,of 11 measures 
+15,8,2,Calibri,11.0,147.0,292.0,260.6,303.0,as measured by Eurostat
+15,8,2,Calibri,11.0,260.7,292.0,525.9,303.0,"), above the EU average of 56.85%. Sweden is above the "
+15,8,3,Calibri,11.0,72.0,306.5,525.9,317.6,average for 10 of the 11 measures. The only measure where Sweden is below the EU average is on ICT 
+15,8,4,Calibri,11.0,72.0,320.9,525.8,332.0,"strong password authentication (78.05%, EU: 83.69%). Sweden is clearly above the EU average on "
+15,8,5,Calibri,11.0,72.0,335.4,525.9,346.5,"periodically assessing the probability and consequences of ICT security incidents (51.49%, EU: 34.19%) "
+15,8,6,Calibri,11.0,72.0,350.0,284.3,361.0,"and on ICT security tests (44.08%, EU: 34.64%). "
+15,9,0,Calibri,11.0,72.0,372.4,525.9,383.4,Sweden presented a 2025-2029 national cybersecurity strategy on 20 March 2025. It replaced the 
+15,9,1,Calibri,11.0,72.0,386.9,526.0,398.0,previous strategy from 2017 and set out the direction for Swedish cybersecurity for 2025-2029. As 
+15,9,2,Calibri,11.0,72.0,401.5,525.6,412.5,"digital technologies affect almost every aspect of society, incidents can have a significant impact on "
+15,9,3,Calibri,11.0,72.0,416.0,525.9,427.0,society. The strategy consists of three pillars that contain a number of objectives to address the threats 
+15,9,4,Calibri,11.0,72.0,430.4,525.9,441.4,and vulnerabilities outlined in the strategy: 1) systematic and effective cybersecurity efforts 2) the 
+15,9,5,Calibri,11.0,72.0,444.9,525.9,455.9,development of advanced knowledge and skills in cybersecurity; and 3) the ability to prevent and 
+15,9,6,Calibri,11.0,72.0,459.4,525.9,470.5,"manage cybersecurity incidents. The National Cyber Security Centre plays an important role, including "
+15,9,7,Calibri,11.0,72.0,473.9,214.7,485.0,in supporting other authorities. 
+15,10,0,Calibri,11.0,72.0,496.4,525.9,507.4,The Swedish National Cybersecurity Strategy highlights ‘inadequate incident management’ and 
+15,10,1,Calibri,11.0,72.0,510.9,525.9,521.9,‘insufficient information sharing between the private and public sectors’ among the features of the 
+15,10,2,Calibri,11.0,72.0,525.4,523.6,536.5,cybersecurity landscape. One of the targets already set out in the strategy is ‘strengthened public-
+15,10,3,Calibri,11.0,72.0,539.8,288.8,550.9,private management of cybersecurity incidents’. 
+15,11,0,Calibri,11.0,72.0,562.4,525.9,573.5,None of the incidents involving subsea cables in 2025 were reported as incidents under EU law. The 
+15,11,1,Calibri,11.0,72.0,576.8,525.6,587.9,cable breaks that occurred in the Baltic Sea did not cause any incidents affecting electronic 
+15,11,2,Calibri,11.0,72.0,591.3,525.9,602.4,communications services at a level that would trigger incident reporting according to the thresholds 
+15,11,3,Calibri,11.0,72.0,605.9,525.9,616.9,"set in legislation. However, PTS was kept up to date on the incidents that occurred and it cooperated "
+15,11,4,Calibri,11.0,72.0,620.4,452.7,631.4,with operators and authorities in the region to remedy the problems that had arisen. 
+15,12,0,Calibri,11.0,72.0,642.8,170.8,653.9,Cybercampus Sweden
+15,12,0,Calibri,11.0,170.7,642.8,525.8,653.9," at the KTH also conducts research, innovation and education in cybersecurity "
+15,12,1,Calibri,11.0,72.0,657.3,156.7,668.4,and cyber defence 
+15,13,0,Calibri,11.0,72.0,679.8,506.7,690.8,"In 2025, Sweden did not receive any recommendation under the Digital Decade on cybersecurity. "
+15,14,0,Calibri-Bold,11.0,72.0,702.3,74.5,713.4, 
+15,14,1,Calibri-Bold,11.0,216.1,702.3,218.5,713.4, 
+15,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,15,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+16,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Protecting and empowering EU people 
+16,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+16,4,0,Calibri-Light,15.0,72.0,161.3,519.2,176.3,Empowering people and bringing the digital transformation closer to their 
+16,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+16,5,0,Calibri-Light,12.0,72.0,208.2,239.6,220.2,Equipping people with digital skills 
+16,6,0,Calibri-LightItalic,11.0,72.0,225.9,150.4,236.9,Basic digital skills 
+16,6,1,Calibri-Light,11.0,72.0,242.3,185.4,253.4,Performance assessment 
+16,6,2,Calibri-Bold,11.0,72.0,256.9,525.8,267.9,"In Sweden, 69.99% of individuals aged 16-74 have at least basic digital skills after an increase of 2.6% "
+16,6,3,Calibri-Bold,11.0,72.0,271.4,410.7,282.4,"annually since 2023, placing the country above the EU average of 60.39%."
+16,6,3,Calibri,11.0,410.9,271.4,525.9,282.4," In 2023, Sweden’s figure "
+16,6,4,Calibri,11.0,72.0,285.8,525.7,296.8,"was 66.44%, compared with the EU’s 55.56%. While Sweden’s digital skills penetration is "
+16,6,5,Calibri,11.0,72.0,300.3,525.8,311.3,"commendable, its annual growth rate lags behind the EU’s 4.3%. The country is lagging behind "
+16,6,6,Calibri,11.0,72.0,314.8,417.8,325.8,compared to its trajectory presented in the Digital Decade national roadmap. 
+16,7,0,Calibri,11.0,72.0,337.2,126.2,348.3,In terms of 
+16,7,0,Calibri-Bold,11.0,127.7,337.2,159.6,348.3,gender
+16,7,0,Calibri,11.0,159.6,337.2,525.9,348.3,", Sweden exhibits a negligible gap of 0.05 percentage points (pps) in favour of "
+16,7,1,Calibri,11.0,72.0,351.8,525.6,362.8,"women, with 70.01% of women and 69.96% of men possessing basic digital skills. This contrasts with "
+16,7,2,Calibri,11.0,72.0,366.3,293.9,377.3,the EU’s gender gap of 2.74 pps in favour of men. 
+16,8,0,Calibri-Bold,11.0,72.0,388.7,141.0,399.8,Education level
+16,8,0,Calibri,11.0,141.0,388.7,525.9,399.8, significantly influences digital proficiency in Sweden. Individuals with no or low formal 
+16,8,1,Calibri,11.0,72.0,403.3,525.9,414.3,"education have a digital skills attainment rate of 54.38%, which is higher than the EU average of 37.56% "
+16,8,2,Calibri,11.0,72.0,417.8,525.9,428.8,but 15.61 pps lower than Sweden’s national average. This gap is smaller than the EU’s average gap of 
+16,8,3,Calibri,11.0,72.0,432.2,120.7,443.2,22.83 pps. 
+16,9,0,Calibri-Bold,11.0,72.0,454.7,173.2,465.8,Regarding living areas
+16,9,0,Calibri,11.0,173.3,454.7,525.7,465.8,", 75.11% of individuals in Swedish cities possess basic digital skills, compared "
+16,9,1,Calibri,11.0,72.0,469.3,525.7,480.3,with 62.59% in rural areas. While both figures exceed the EU averages of 66.49% for cities and 52.83% 
+16,9,2,Calibri,11.0,72.0,483.7,525.9,494.7,"for rural areas, the urban-rural gap in Sweden is 12.52 pps, which is slightly smaller than the EU average "
+16,9,3,Calibri,11.0,72.0,498.2,150.8,509.2,gap of 13.66 pps. 
+16,10,0,Calibri-Bold,11.0,72.0,520.7,89.5,531.8,Age
+16,10,0,Calibri,11.0,89.4,520.7,525.9,531.8," is another critical factor. Among individuals aged 25-54, 77.64% have basic digital skills, surpassing "
+16,10,1,Calibri,11.0,72.0,535.1,525.9,546.2,"the EU average of 68.56%. For the 55-74 age group, 54.67% possess basic digital skills, which is higher "
+16,10,2,Calibri,11.0,72.0,549.7,209.1,560.7,than the EU average of 42.6%. 
+16,11,0,Calibri,11.0,72.0,572.1,143.1,583.2,In the realm of 
+16,11,0,Calibri-Bold,11.0,144.0,572.1,228.7,583.2,digital safety skills
+16,11,0,Calibri,11.0,228.9,572.1,525.8,583.2,", 80.56% of individuals in Sweden have at least basic proficiency, "
+16,11,1,Calibri,11.0,72.0,586.7,238.7,597.7,exceeding the EU average of 74.63%. 
+16,12,0,Calibri,11.0,72.0,609.2,136.1,620.3,Regarding the 
+16,12,0,Calibri-Bold,11.0,135.7,609.2,225.0,620.3,use of generative AI
+16,12,0,Calibri,11.0,225.1,609.2,525.9,620.3,", 42.01% of people in Sweden used it in 2025 for all purposes, which "
+16,12,1,Calibri,11.0,72.0,623.6,525.9,634.7,"is higher than the EU average of 32.66%. For professional purposes, 20.99% of people in Sweden used "
+16,12,2,Calibri,11.0,72.0,638.1,331.4,649.2,"generative AI, again surpassing the EU average of 15.36%. "
+16,13,0,Calibri,11.0,72.0,660.7,525.9,671.7,"Based on the results of the Digital Decade Eurobarometer 2026, Swedes consider that the biggest "
+16,13,1,Calibri,11.0,72.0,675.1,525.7,686.1,"obstacles to using generative AI tools are concerns about accuracy and incorrect information (65%), "
+16,13,2,Calibri,11.0,72.0,689.6,525.6,700.7,concerns about ethical issues or misuse of generative AI tools (50%) and concerns about privacy or 
+16,13,3,Calibri,11.0,72.0,704.1,174.4,715.2,data protection (46%). 
+16,14,0,Calibri,11.0,72.0,726.6,525.9,737.6,"In summary, Sweden’s digital skills profile is characterised by high overall attainment and minimal "
+16,14,1,Calibri,11.0,72.0,741.1,525.7,752.2,"gender disparity. However, there is room for improvement in supporting individuals with low formal "
+16,14,2,Calibri,11.0,72.0,755.6,525.6,766.7,"education and older adults, as well as in accelerating the growth rates across most dimensions. The "
+16,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,15,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+17,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,strong performance in rural areas and the widespread adoption of generative AI are particularly 
+17,2,1,Calibri,11.0,72.0,98.4,525.7,109.5,"noteworthy, highlighting Sweden’s potential to further solidify its position as a digitally inclusive "
+17,2,2,Calibri,11.0,72.0,112.9,107.9,124.0,society. 
+17,5,0,Calibri,11.0,523.6,396.7,526.1,407.7, 
+17,6,0,Calibri-Bold,11.0,72.0,416.1,525.8,427.1,"In Sweden, 71.46% of individuals were exposed to untrue or doubtful content online in 2025, "
+17,6,1,Calibri-Bold,11.0,72.0,430.5,465.8,441.5,"following an annual increase of 5.1% since 2023, when the figure stood at 64.65%"
+17,6,1,Calibri,11.0,466.2,430.5,525.9,441.5,. This places 
+17,6,2,Calibri,11.0,72.0,445.0,525.8,456.1,"Sweden above the EU average, which rose from 49.25% in 2023 to 55.90% in 2025, reflecting an annual "
+17,6,3,Calibri,11.0,72.0,459.5,525.9,470.6,"growth rate of 6.5%. When examining age groups, younger individuals aged 16-24 in Sweden reported "
+17,6,4,Calibri,11.0,72.0,474.1,525.7,485.1,"a slight decrease in exposure, from 74.41% in 2023 to 74.19% in 2025, a decline of 0.1% annually. This "
+17,6,5,Calibri,11.0,72.0,488.5,525.9,499.5,contrasts with the EU’s growth of 3.7% for the same age group. Older adults aged 25-64 in Sweden 
+17,6,6,Calibri,11.0,72.0,503.0,525.7,514.0,"experienced an increase from 68.49% in 2023 to 73.84% in 2025, an annual growth rate of 3.8%, which "
+17,6,7,Calibri,11.0,72.0,517.5,525.8,528.5,is lower than the EU’s 6.4% growth for this demographic. The gap between the younger and older age 
+17,6,8,Calibri,11.0,72.0,532.0,410.5,543.1,"groups in Sweden is minimal, at 0.35 pps, compared with the EU’s 7.77 pps. "
+17,7,0,Calibri-Bold,11.0,72.0,554.5,525.7,565.5,"In Sweden, 44.61% of individuals verified the truthfulness of online content in 2025, following an "
+17,7,1,Calibri-Bold,11.0,72.0,569.0,367.8,580.1,"annual increase of 8.2% since 2023, when the figure was 38.11%"
+17,7,1,Calibri,11.0,368.1,569.0,525.8,580.1,. This places Sweden above the EU 
+17,7,2,Calibri,11.0,72.0,583.5,525.5,594.6,"average, which grew from 24.29% in 2023 to 29.16% in 2025, an annual growth rate of 9.6%. While "
+17,7,3,Calibri,11.0,72.0,597.9,525.7,609.0,"Sweden’s overall verification rate is higher, its growth rate is slightly slower than the EU average. "
+17,7,4,Calibri,11.0,72.0,612.5,525.6,623.5,Younger individuals aged 16-24 in Sweden reported an increase from 52.19% in 2023 to 55.11% in 
+17,7,5,Calibri,11.0,72.0,627.0,525.9,638.0,"2025, an annual growth rate of 2.8%, which is lower than the EU’s 6.7% for the same age group. Older "
+17,7,6,Calibri,11.0,72.0,641.5,525.6,652.5,"adults aged 25-64 in Sweden saw an increase from 39.66% in 2023 to 46.32% in 2025, an annual "
+17,7,7,Calibri,11.0,72.0,655.9,525.6,666.9,"growth rate of 8.1%, which is slightly lower than the EU’s 9.9%. The gap between the younger and "
+17,7,8,Calibri,11.0,72.0,670.4,424.0,681.5,"older age groups in Sweden is 8.79 pps, slightly smaller than the EU’s 9.09 pps. "
+17,8,0,Calibri-Bold,11.0,72.0,693.0,525.7,704.0,"In Sweden, 50.18% of individuals were exposed to hostile or degrading messages online in 2025, "
+17,8,1,Calibri-Bold,11.0,72.0,707.4,430.0,718.4,"following an annual increase of 5.1% since 2023, when the figure was 45.47%"
+17,8,1,Calibri,11.0,430.3,707.4,525.9,718.4,. This places Sweden 
+17,8,2,Calibri,11.0,72.0,721.9,525.5,733.0,"above the EU average, which grew from 33.50% in 2023 to 39.72% in 2025, an annual growth rate of "
+17,8,3,Calibri,11.0,72.0,736.4,525.8,747.5,"8.9%. While Sweden’s overall exposure is higher, its growth rate is slower than the EU average. Younger "
+17,8,4,Calibri,11.0,72.0,751.0,525.8,762.0,"individuals aged 16-24 in Sweden reported an increase from 57.20% in 2023 to 59.22% in 2025, an "
+17,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,9,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+18,3,0,Calibri,11.0,72.0,84.0,525.6,95.1,"annual growth rate of 1.8%, which is lower than the EU’s 5.6% for the same age group. Older adults "
+18,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"aged 25-64 in Sweden saw an increase from 47.50% in 2023 to 51.97% in 2025, an annual growth rate "
+18,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,"of 4.6%, which is lower than the EU’s 9.2%. The gap between the younger and older age groups in "
+18,3,3,Calibri,11.0,72.0,127.5,346.1,138.5,"Sweden is 7.25 pps, which is smaller than the EU’s 11.85 pps. "
+18,4,0,Calibri,11.0,72.0,149.9,525.9,160.9,"According to the Digital Decade Eurobarometer 2026, 93% of Swedish people consider that the EU "
+18,4,1,Calibri,11.0,72.0,164.4,496.0,175.5,should prioritise further strengthening the protection of the children and young people online. 
+18,5,0,Calibri,11.0,72.0,187.0,525.9,198.0,The public perception reflected on the Digital Decade Eurobarometer 2026 show that 96% believe that 
+18,5,1,Calibri,11.0,72.0,201.4,525.9,212.4,"online manipulation (such as disinformation, foreign interference, AI-generated content) poses a "
+18,5,2,Calibri,11.0,72.0,215.9,233.3,226.9,threat to our democratic processes. 
+18,6,0,Calibri,11.0,72.0,238.4,525.9,249.4,"Based on the results of the Digital Decade Eurobarometer 2026, Swedes consider that in the context "
+18,6,1,Calibri,11.0,72.0,252.9,525.8,263.9,of enforcing the EU regulation on online platforms the following issues had the biggest personal 
+18,6,2,Calibri,11.0,72.0,267.4,525.8,278.5,"impact: fake news and disinformation (72%), insufficient protection for minors (46%) and misuse of "
+18,6,3,Calibri,11.0,72.0,281.9,166.3,293.0,personal data (37%). 
+18,7,0,Calibri,11.0,72.0,304.4,525.7,315.4,"Sweden consistently reports higher levels of exposure to untrue or doubtful content, hostile or "
+18,7,1,Calibri,11.0,72.0,318.9,525.9,329.9,"degrading messages, and verification of online information compared with the EU average. However, "
+18,7,2,Calibri,11.0,72.0,333.4,525.7,344.4,the annual growth rates for these indicators in Sweden are generally slower than those observed 
+18,7,3,Calibri,11.0,72.0,347.8,525.9,358.9,"across the EU. This trend is particularly evident among younger individuals aged 16-24, where "
+18,7,4,Calibri,11.0,72.0,362.3,525.8,373.4,Sweden’s growth rates lag behind the EU average. The gaps between age groups in Sweden are also 
+18,7,5,Calibri,11.0,72.0,376.8,525.6,387.9,"smaller than those at the EU level, suggesting a more uniform behaviour across age demographics in "
+18,7,6,Calibri,11.0,72.0,391.4,525.8,402.4,Sweden. These findings highlight the need for targeted measures to address the slower growth in 
+18,7,7,Calibri,11.0,72.0,405.8,525.9,416.8,"awareness and verification behaviours, particularly among younger individuals, to ensure that Sweden "
+18,7,8,Calibri,11.0,72.0,420.3,308.1,431.4,continues to lead in digital literacy and online safety. 
+18,9,0,Calibri,11.0,523.6,658.1,526.1,669.1, 
+18,10,0,Calibri,11.0,72.0,677.6,74.5,688.7, 
+18,11,0,Calibri,11.0,72.0,700.1,74.5,711.1, 
+18,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+19,3,0,Calibri-LightItalic,11.0,72.0,84.0,316.8,95.1,Policy context and assessment of the recommendations 
+19,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,Sweden performs well on basic digital skills. The STEM strategy covers schools as well as higher 
+19,3,2,Calibri,11.0,72.0,112.9,348.6,124.0,education. It will therefore also increase basic digital skills. The 
+19,3,2,Calibri,11.0,348.1,112.9,461.8,124.0,Swedish Research Council
+19,3,2,Calibri,11.0,461.9,112.9,525.9,124.0, has also been 
+19,3,3,Calibri,11.0,72.0,127.5,424.6,138.5,tasked to map the possibilities and needs to promote the use of AI in research. 
+19,4,0,Calibri,11.0,72.0,149.9,525.8,160.9,Sweden underlined in its AI strategy that schools and higher education institutions shall ensure that 
+19,4,1,Calibri,11.0,72.0,164.4,525.8,175.5,individuals are adequately prepared for a labour market and a society in which digitalization and AI are 
+19,4,2,Calibri,11.0,72.0,178.9,525.7,190.0,included. Schools shall further provide pupils in the upper grades with the knowledge and 
+19,4,3,Calibri,11.0,72.0,193.5,525.8,204.5,understanding necessary to recognize both the risks and the opportunities associated with AI. Students 
+19,4,4,Calibri,11.0,72.0,207.9,525.8,218.9,shall be able to critically assess AI-generated outputs and make informed ethical considerations when 
+19,4,5,Calibri,11.0,72.0,222.4,525.9,233.4,"using AI. In the lower grades, however, the point of departure shall remain analogue activities "
+19,4,6,Calibri,11.0,72.0,236.9,525.7,248.0,"conducted in analogue environments. Regardless of the level of education, teachers should receive "
+19,4,7,Calibri,11.0,72.0,251.4,369.2,262.5,continuous professional development within digitalisation and AI.  
+19,5,0,Calibri-LightItalic,11.0,72.0,273.9,135.2,284.9,ICT specialists 
+19,5,1,Calibri-LightItalic,11.0,72.0,290.4,183.7,301.5,Performance assessment 
+19,5,2,Calibri,11.0,72.0,304.9,525.9,315.9,"Sweden continues to have the highest proportion of ICT specialists. In 2025, Sweden’s proportion of "
+19,5,3,Calibri,11.0,72.0,319.4,525.8,330.4,"ICT specialists in total employment was 8.90%, up from 8.60% in 2024. The EU average was 5.00% in "
+19,5,4,Calibri,11.0,72.0,333.9,525.8,344.9,"2025 and 4.90% in 2024. However, Sweden has high ambitions, and the country is lagging behind "
+19,5,5,Calibri,11.0,72.0,348.4,417.8,359.4,compared to its trajectory presented in the Digital Decade national roadmap. 
+19,6,0,Calibri-LightItalic,11.0,72.0,370.8,316.8,381.9,Policy context and assessment of the recommendations 
+19,6,1,Calibri-Bold,11.0,72.0,385.4,357.1,396.4,The number of ICT specialists in Sweden continues to increase.
+19,6,1,Calibri,11.0,357.2,385.4,525.9,396.4," In February 2025, Sweden presented "
+19,6,2,Calibri,11.0,72.0,399.8,79.8,410.8,a 
+19,6,2,Calibri,11.0,79.8,399.8,143.1,410.8,STEM strategy
+19,6,2,Calibri,11.0,143.2,399.8,525.9,410.8, in response to industry’s high demand for ICT specialists. Although Sweden has many 
+19,6,3,Calibri,11.0,72.0,414.3,525.9,425.4,"specialists in ICT, the lack of cutting-edge expertise is a challenge both for businesses and the public "
+19,6,4,Calibri,11.0,72.0,428.8,515.9,439.9,sector. The strategy also addresses the gender imbalance and promotes more women in the sector. 
+19,7,0,Calibri-Bold,11.0,77.7,451.9,267.9,462.9,2025 recommendation on ICT specialists
+19,7,0,Calibri,11.0,268.0,451.9,520.1,462.9,: Continue the work to increase the number of STEM 
+19,7,1,Calibri,11.0,77.7,466.3,127.1,477.3,graduates. 
+19,8,0,Calibri-Bold,11.0,77.7,484.3,520.3,495.3,Sweden fully addressed the recommendation by putting significant policy actions in place in 2025. 
+19,8,1,Calibri,11.0,77.7,498.8,520.2,509.8,"In 2025, Sweden adopted a STEM strategy. This is expected to further improve the current positive "
+19,8,2,Calibri,11.0,77.7,513.3,261.1,524.3,trend in the increase of STEM graduates. 
+19,9,0,Calibri,11.0,72.0,531.3,74.5,542.3, 
+19,10,0,Calibri-Light,12.0,72.0,554.0,476.9,566.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+19,11,0,Calibri-LightItalic,11.0,72.0,571.7,183.7,582.7,Performance assessment 
+19,11,1,Calibri,11.0,72.0,586.1,526.0,597.1,"According to the Digital Decade Eurobarometer 2026, 86% of Swedish people believe digitalisation is "
+19,11,2,Calibri,11.0,72.0,600.6,154.2,611.6,making life easier. 
+19,12,0,Calibri-Bold,11.0,72.0,623.0,525.5,634.1,"In 2025, Sweden’s total digital public services score for citizens (which covers both national and "
+19,12,1,Calibri-Bold,11.0,72.0,637.5,277.2,648.6,cross-border users) reached 84.15/100 points
+19,12,1,Calibri,11.0,277.2,637.5,282.4,648.6,. 
+19,12,1,Calibri-Bold,11.0,282.0,637.5,520.7,648.6,This represents a 2.1% decrease compared with 2024
+19,12,1,Calibri,11.0,520.8,637.5,525.9,648.6,. 
+19,12,2,Calibri-Bold,11.0,72.0,652.1,351.1,663.1,"As such, Sweden is below the EU average of 84.64/100 points"
+19,12,2,Calibri,11.0,351.3,652.1,356.4,663.1,. 
+19,13,0,Calibri,11.0,72.0,674.5,525.6,685.5,"When looking specifically at digital public services for national citizens, Sweden reached 93.42/100 "
+19,13,1,Calibri,11.0,72.0,689.0,525.9,700.1,points in 2025. This marks a 0.2% increase from 2024 but is below the EU average of 94.01/100 points. 
+19,14,0,Calibri,11.0,72.0,711.6,525.7,722.6,"For cross-border digital public services for citizens, Sweden’s 2025 score was 74.87/100 points, which "
+19,14,1,Calibri,11.0,72.0,726.0,504.7,737.0,"is below the EU average of 75.28/100 points. Compared with 2024, this reflects a 4.8% decrease. "
+19,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,15,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+20,3,0,Calibri,11.0,72.0,84.0,101.9,95.1,Citizen
+20,3,0,CambriaMath,11.0,101.9,83.7,105.6,94.8,‑
+20,3,0,Calibri,11.0,105.6,84.0,525.6,95.1,"related life events that score particularly well include Moving (99.86), Studying (97.50), and "
+20,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"Transport (93.51). Conversely, starting a small claims procedure (64.58), Health (76.25), and Career "
+20,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"(76.77) show the most room for improvement. For national citizens’ digital public services, the results "
+20,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"across the different levels of government were 86.51/100 points for central government services, "
+20,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"79.17/100 points for regional government services, and 98.33/100 points for local government "
+20,3,5,Calibri,11.0,72.0,156.4,112.9,167.4,services. 
+20,4,0,Calibri-Bold,11.0,72.0,178.9,488.6,190.0,Sweden’s total digital public services score for businesses (covering both national and cross
+20,4,0,CambriaMath,11.0,488.9,178.6,492.5,189.7,‑
+20,4,0,Calibri-Bold,11.0,492.7,178.9,525.9,190.0,border 
+20,4,1,Calibri-Bold,11.0,72.0,193.5,525.5,204.5,"businesses) was 90.43/100 points in 2025, standing above the EU average of 88.59/100 points. This "
+20,4,2,Calibri-Bold,11.0,72.0,207.9,223.2,218.9,represents no change from 2024.
+20,4,2,Calibri,11.0,223.4,207.9,283.8,218.9, The business
+20,4,2,CambriaMath,11.0,283.8,207.5,287.4,218.6,‑
+20,4,2,Calibri,11.0,287.5,207.9,525.8,218.9,related life event scoring particularly well is Business 
+20,4,3,Calibri,11.0,72.0,222.4,525.9,233.4,"Start-Up (90.62), whereas Regular Business Operations (90.20) shows the most room for improvement. "
+20,5,0,Calibri,11.0,72.0,245.0,179.2,256.0,"Notably, Sweden’s cross"
+20,5,0,CambriaMath,11.0,179.1,244.6,182.8,255.7,‑
+20,5,0,Calibri,11.0,182.8,245.0,525.9,256.0,border digital public services score for businesses reached 83.12/100 points 
+20,5,1,Calibri,11.0,72.0,259.4,525.6,270.4,"in 2025, reflecting no change compared with 2024. These results are above the EU average of "
+20,5,2,Calibri,11.0,72.0,273.9,525.8,284.9,"78.37/100 points. However, Sweden has suffered difficulties and delays with deploying the necessary "
+20,5,3,Calibri,11.0,72.0,288.4,525.8,299.5,"decentralised IT systems that form the basis for the Justice Digital EXchange system, a key reform for "
+20,5,4,Calibri,11.0,72.0,302.9,324.2,314.0,the digitalisation of cross-border public judicial services. 
+20,6,0,Calibri,11.0,72.0,325.4,525.6,336.4,"On the other hand, digital public services for businesses available to national users in Sweden scored "
+20,6,1,Calibri,11.0,72.0,339.9,525.8,350.9,97.73/100 points. This represents no change since 2024 and places the country below the EU average 
+20,6,2,Calibri,11.0,72.0,354.4,165.2,365.4,of 98.81/100 points. 
+20,7,0,Calibri,11.0,72.0,376.8,525.7,387.9,"Across the two Digital Decade KPIs, Sweden’s Digital Public Services for Businesses indicator performs "
+20,7,1,Calibri,11.0,72.0,391.4,247.1,402.4,better than its counterpart for citizens. 
+20,8,0,Calibri,11.0,72.0,413.8,525.9,424.9,This stronger performance is underpinned by digital public services for businesses available to national 
+20,8,1,Calibri,11.0,72.0,428.3,525.9,439.4,"users, which forms the most mature component of the KPI, whereas cross-border digital public "
+20,8,2,Calibri,11.0,72.0,442.9,525.9,453.9,services for businesses remains less developed. Recent progress has been driven primarily by 
+20,8,3,Calibri,11.0,72.0,457.3,525.7,468.3,"improvements in digital public services for businesses available to national users, reflecting mixed "
+20,8,4,Calibri,11.0,72.0,471.8,194.7,482.8,momentum across the KPI. 
+20,9,0,Calibri-Bold,11.0,72.0,494.3,523.5,505.4,"Sweden’s access to e-Health records reached a score of 86.46, just below the EU average of 86.51."
+20,9,0,Calibri,11.0,523.4,494.3,525.9,505.4, 
+20,9,1,Calibri,11.0,72.0,508.7,525.9,519.8,"Similarly, in 2024, Sweden had a score of 77.94, just below the EU average of 82.70. The country is on "
+20,9,2,Calibri,11.0,72.0,523.3,440.6,534.3,track according to its trajectory presented in the Digital Decade national roadmap. 
+20,10,0,Calibri,11.0,72.0,545.8,525.9,556.9,"While life events such as Moving, Studying, and Transport perform best, lower-scoring areas such as "
+20,10,1,Calibri,11.0,72.0,560.3,513.0,571.3,"starting a small claims procedure, Health, and Career do not yet exhibit the same level of maturity. "
+20,11,0,Calibri,11.0,72.0,582.8,525.7,593.9,"Overall, Sweden’s alignment with EU levels varies across the two Digital Decade KPIs, with strengths "
+20,11,1,Calibri,11.0,72.0,597.2,525.9,608.3,concentrated in national services and weaker performance in cross-border delivery. A similar pattern 
+20,11,2,Calibri,11.0,72.0,611.7,525.6,622.8,"appears across government tiers, where regional administrations are showing the greatest need for "
+20,11,3,Calibri,11.0,72.0,626.3,525.9,637.3,"improvement. Taken together, these signals indicate the need for additional progress and stronger "
+20,11,4,Calibri,11.0,72.0,640.8,492.6,651.8,alignment with European best practices as Sweden moves toward its 2030 digitalisation goals. 
+20,12,0,Calibri-LightItalic,11.0,72.0,663.2,316.8,674.3,Policy context and assessment of the recommendations 
+20,12,1,Calibri-Bold,11.0,72.0,677.7,525.8,688.8,"On electronic identity, Sweden has acted on the recommendations made in previous Digital Decade "
+20,12,2,Calibri-Bold,11.0,72.0,692.3,240.4,703.3,"reports, to ensure accessibility to all"
+20,12,2,Calibri,11.0,240.6,692.3,525.8,703.3,. Several initiatives are ongoing. Sweden is expected to have a 
+20,12,3,Calibri,11.0,72.0,706.7,444.3,717.7,government electronic identity by .December 2026 According to the 2025 survey by 
+20,12,3,Calibri,11.0,444.0,706.7,520.8,717.7,Internetstiftelsen
+20,12,3,Calibri,11.0,520.8,706.7,525.9,717.7,", "
+20,12,4,Calibri,11.0,72.0,721.2,525.8,732.2,95% of Swedes use an electronic identity. Those who do not use an eID are almost exclusively 65 years 
+20,12,5,Calibri,11.0,72.0,735.7,111.7,746.8,or older. 
+20,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,13,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+21,3,0,Calibri-Bold,11.0,72.0,84.0,126.1,95.1,EUDI Wallet
+21,3,0,Calibri,11.0,126.1,84.0,525.9,95.1,". Sweden is progressing in the development of the EUDI Wallet, building on a mature digital "
+21,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,identity ecosystem. The country is advancing the development of a government-issued wallet. 
+21,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"Institutional responsibilities have largely been established, with key authorities involved in wallet "
+21,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"development, supervision, and accreditation. Sweden has also been engaged in multiple large-scale "
+21,3,4,Calibri,11.0,72.0,142.0,391.0,153.0,pilots and is cooperating closely with other Nordic and Baltic countries. 
+21,4,0,Calibri-Bold,11.0,72.0,164.4,175.1,175.5,Digital infrastructure. 
+21,4,0,Calibri,11.0,178.0,164.4,525.9,175.5,The Swedish administration is characterised by independent government 
+21,4,1,Calibri,11.0,72.0,178.9,525.9,190.0,agencies. Sweden is therefore developing central digital solutions through the launch in the spring of 
+21,4,2,Calibri,11.0,72.0,193.5,525.8,204.5,"2024 of Ena, Sweden’s digital infrastructure. Sweden has initiated work on sector specific digital "
+21,4,3,Calibri,11.0,72.0,207.9,216.9,218.9,"infrastructure, as for example in "
+21,4,3,Calibri,11.0,216.9,207.9,266.9,218.9,health care
+21,4,3,Calibri,11.0,266.9,207.9,370.0,218.9, that will relate to Ena. 
+21,5,0,Calibri-Bold,11.0,72.0,230.4,177.8,241.5,AI for the public sector.
+21,5,0,Calibri,11.0,177.9,230.4,525.9,241.5, Sweden announced in the AI strategy that a workshop is being prepared. The 
+21,5,1,Calibri,11.0,72.0,245.0,525.9,256.0,workshop will support different parts of the public sector in their use of AI and will be fully up and 
+21,5,2,Calibri,11.0,72.0,259.4,149.9,270.4,running by 2030. 
+21,6,0,Calibri-Bold,11.0,72.0,281.9,213.7,293.0,Electronic access to judgments.
+21,6,0,Calibri,11.0,213.8,281.9,525.9,293.0, Sweden has a generally high level of digitalisation of its justice system 
+21,6,1,Calibri,11.0,72.0,296.3,525.9,307.4,"but online access to judgments is poor compared with other Member States. Today, case law is "
+21,6,2,Calibri,11.0,72.0,310.9,525.9,321.9,"available through access-to-document requests, which are lengthier processes than direct digital "
+21,6,3,Calibri,11.0,72.0,325.4,126.6,336.4,availability.  
+21,7,0,Calibri-Bold,11.0,77.7,348.4,301.3,359.4,2025 recommendation on digital public services
+21,7,0,Calibri,11.0,301.4,348.4,520.2,359.4,: Continue efforts to increase the availability of 
+21,7,1,Calibri,11.0,77.7,362.8,193.9,373.9,electronic health records. 
+21,8,0,Calibri-Bold,11.0,77.7,380.8,517.6,391.9,Sweden made some efforts to address the recommendation through new policy actions in 2025.
+21,8,0,Calibri,11.0,517.8,380.8,520.3,391.9, 
+21,8,1,Calibri,11.0,77.7,395.3,520.3,406.4,"The country continued implementing the government electronic identification scheme, but it is not "
+21,8,2,Calibri,11.0,77.7,409.9,197.4,420.9,yet available to the public. 
+21,9,0,Calibri,11.0,72.0,427.9,74.5,438.9, 
+21,9,1,Calibri,11.0,72.0,441.3,74.5,452.4, 
+21,9,2,Calibri,11.0,216.1,441.3,218.5,452.4, 
+21,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,10,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+22,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+22,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+22,4,0,Calibri-Bold,11.0,72.0,160.5,525.9,171.5,"In Sweden, the ICT sector’s air emissions are low, but the recycling of electronic equipment could be "
+22,4,1,Calibri-Bold,11.0,72.0,175.0,115.9,186.0,improved
+22,4,1,Calibri,11.0,115.8,175.0,525.9,186.0,. Recently published sectoral data on the air emissions show that the ICT sector in Sweden 
+22,4,2,Calibri,11.0,72.0,189.5,157.4,200.5,emitted 10.4 kg CO
+22,4,2,Calibri,7.0,157.5,193.5,161.0,200.5,2
+22,4,2,Calibri,11.0,160.9,189.5,425.2,200.5," eq per capita, which is below the EU average of 22.8 kg CO"
+22,4,2,Calibri,7.0,425.3,193.5,428.8,200.5,2
+22,4,2,Calibri,11.0,428.7,189.5,525.9,200.5, eq (data from 2022). 
+22,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"The ICT sector, however, represented only 0.26% of air emissions in the total economy, which is "
+22,4,4,Calibri,11.0,72.0,218.4,258.7,229.5,comparable with the EU average (0.35%). 
+22,5,0,Calibri-Bold,11.0,72.0,241.0,208.9,252.0,Environmental impact of AI.
+22,5,0,Calibri,11.0,208.9,241.0,525.9,252.0, Sweden mentioned in the AI strategy that the increased energy 
+22,5,1,Calibri,11.0,72.0,255.4,525.8,266.5,consumption from AI will have environmental impacts. It concluded that it is necessary to follow up 
+22,5,2,Calibri,11.0,72.0,269.9,107.6,281.0,on this. 
+22,6,0,Calibri,11.0,72.0,292.5,525.9,303.5,The replies to the Digital Decade Eurobarometer 2026 show that 61% of Swedes believe that green 
+22,6,1,Calibri,11.0,72.0,306.9,485.4,317.9,digital technologies (e.g. energy-saving tech) will have a positive impact in the next 10 years. 
+22,7,0,Calibri-Bold,11.0,77.7,329.9,240.5,341.0,2025 recommendation on greening
+22,7,0,Calibri,11.0,240.4,329.9,520.1,341.0,: Monitor and quantify the emission reductions of the digital 
+22,7,1,Calibri,11.0,77.7,344.4,167.3,355.5,solutions deployed. 
+22,8,0,Calibri-Bold,11.0,77.7,362.4,520.3,373.5,Sweden made some efforts to address the recommendation through new policy actions in 2025. 
+22,8,1,Calibri,11.0,77.7,376.8,178.3,387.9,Sweden has started to 
+22,8,1,Calibri,11.0,178.0,376.8,232.6,387.9,work on this
+22,8,1,Calibri,11.0,232.6,376.8,520.3,387.9, and is developing indicators for sustainability under the national 
+22,8,2,Calibri,11.0,77.7,391.4,520.3,402.4,digitalisation strategy. A broad scope may be necessary to also cover actors other than the 
+22,8,3,Calibri,11.0,77.7,405.9,213.6,416.9,traditional telecom operators. 
+22,9,0,Calibri,11.0,72.0,423.9,74.5,434.9, 
+22,10,0,Calibri,11.0,72.0,446.3,74.5,457.4, 
+22,10,1,Calibri,11.0,216.1,446.3,218.5,457.4, 
+22,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,11,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+23,2,0,Calibri-Bold,26.0,72.0,87.0,458.9,113.1,Annex I: National roadmap analysis 
+23,4,0,Calibri-LightItalic,11.0,77.7,126.7,308.9,137.8,Sweden’s national Digital Decade strategic roadmap 
+23,5,0,Calibri,11.0,77.7,144.3,520.3,155.3,Sweden submitted an adjustment to its national Digital Decade roadmap on 24 February 2026. The 
+23,5,1,Calibri,11.0,77.7,158.7,247.8,169.7,adjusted roadmap includes a total of 
+23,5,1,Calibri-Bold,11.0,248.8,158.7,307.2,169.7,68 measures
+23,5,1,Calibri,11.0,307.3,158.7,389.1,169.7, with a budget of 
+23,5,1,Calibri-Bold,11.0,390.0,158.7,462.8,169.7,EUR 3.55 billion
+23,5,1,Calibri,11.0,462.8,158.7,520.3,169.7,", comprising "
+23,5,2,Calibri,11.0,77.7,173.2,520.3,184.2,EUR 2.9 billion from public budgets (equivalent to approximately 0.49% of Sweden’s GDP in 2025). 
+23,5,3,Calibri,11.0,77.7,187.7,520.0,198.7,"The new measures cover a number of targets, including the digitalisation of public services, basic "
+23,5,4,Calibri,11.0,77.7,202.2,520.2,213.3,"digital skills, uptake of digital technologies by businesses, digital identity, as well as objectives like "
+23,5,5,Calibri,11.0,77.7,216.6,142.0,227.7,cybersecurity. 
+23,6,0,Calibri-Bold,11.0,190.1,234.2,401.9,245.2,Measures and budget in the national roadmap
+23,6,0,Calibri,7.0,401.7,233.2,405.3,240.2,1
+23,6,0,Calibri-Bold,11.0,405.2,234.2,407.7,245.2, 
+23,8,0,Calibri,11.0,517.2,466.0,522.2,477.1,  
+23,8,1,Calibri,11.0,72.0,481.0,74.5,492.1, 
+23,9,0,Calibri,11.0,72.0,498.5,74.5,509.6, 
+23,9,1,Calibri,11.0,216.1,498.5,218.5,509.6, 
+23,10,0,Calibri,11.0,216.1,713.5,218.5,724.5, 
+23,10,1,Calibri,6.5,72.0,726.1,75.3,732.5,1
+23,10,1,Calibri,10.0,75.3,726.9,77.5,736.9, 
+23,10,1,Calibri,9.0,77.9,727.6,525.0,736.6,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+23,10,2,Calibri,9.0,72.0,738.9,525.4,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+23,10,3,Calibri,9.0,72.0,749.8,525.0,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+23,10,4,Calibri,9.0,72.0,760.9,237.8,769.9,States followed the guidance was carried out.
+23,10,4,Calibri,10.0,238.0,760.2,240.3,770.1, 
+23,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,11,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+24,3,0,Calibri-Bold,26.0,72.0,87.0,529.3,113.1,"Annex II: Funding, economic impacts & "
+24,3,1,Calibri-Bold,26.0,72.0,121.2,322.9,147.3,Multi-Country Projects 
+24,4,0,Calibri-LightItalic,11.0,77.7,160.9,519.8,172.0,Country results from the study ‘Assessing the Economic Impact of Digital Investments under the 
+24,4,1,Calibri-LightItalic,11.0,77.7,175.5,220.2,186.5,Recovery and Resilience Facility’ 
+24,4,1,Calibri,11.0,220.2,175.5,222.7,186.5, 
+24,5,0,Calibri,11.0,77.7,193.0,520.2,204.0,"A modelling study conducted by the European Commission services, with the FIDELIO model, "
+24,5,1,Calibri,11.0,77.7,207.5,520.2,218.5,"assesses the economic impact of the digital component of the RRF. As of November 2025, the digital "
+24,5,2,Calibri,11.0,77.7,221.9,520.3,232.9,part of the Recovery and Resilience Plan of Sweden was evaluated to EUR 674 million with EUR 464 
+24,5,3,Calibri,11.0,77.7,236.4,520.2,247.5,"million for digital infrastructures, EUR 165 million for digital skills, EUR 21 million for the "
+24,5,4,Calibri,11.0,77.7,251.0,426.2,262.0,"digitalisation of public services, and EUR 24 million for other digital priorities.  "
+24,6,0,Calibri,11.0,77.7,268.5,520.2,279.5,The total economic impact of RRF digital measures is estimated to EUR 4.52 billion for the national 
+24,6,1,Calibri,11.0,77.7,282.9,520.1,293.9,"economy. Of this, approximately EUR 2.7 billion stem from the direct effects of Sweden's own RRP "
+24,6,2,Calibri,11.0,77.7,297.4,520.2,308.5,and EUR 1.82 billion correspond to spillover effects from the implementation of other EU Member 
+24,6,3,Calibri,11.0,77.7,311.9,520.3,323.0,"States' plans. Sweden benefited the most from spillover effects from RRPs of Italy (EUR 334 million), "
+24,6,4,Calibri,11.0,77.7,326.4,520.3,337.5,"Spain (EUR 260 million), Germany (EUR 246 million). The most impacted sectors are Manufacturing "
+24,6,5,Calibri,11.0,77.7,340.8,499.8,351.9,"(EUR 949 million), Professional Services (EUR 837 million), and Construction (EUR 766 million). "
+24,8,0,Calibri,11.0,471.2,641.1,473.7,652.2, 
+24,8,1,Calibri-Italic,10.0,235.4,655.6,362.2,665.6,RRF spillover effects to Sweden 
+24,9,0,Calibri-Italic,10.0,297.7,672.3,299.9,682.3, 
+24,10,0,Calibri,11.0,72.0,689.0,74.5,700.1, 
+24,10,1,Calibri,11.0,216.1,689.0,218.5,700.1, 
+24,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,11,1,Calibri,11.0,297.7,795.4,300.2,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,70.8,32.7,139.4,52.8,Sweden 
+25,2,0,Calibri-LightItalic,11.0,77.7,84.5,252.6,95.5,Funding from the RRF & Cohesion Policy
+25,2,0,Calibri,11.0,252.5,84.5,255.0,95.5, 
+25,4,0,Calibri,11.0,77.7,102.0,511.5,113.1,Sweden allocates 21% of its total recovery and resilience plan to digital objectives (EUR 0.6 billion)
+25,4,0,Calibri,7.0,511.4,101.1,514.9,108.1,2
+25,4,0,Calibri,11.0,514.9,102.0,520.3,113.1,. 
+25,4,1,Calibri,11.0,77.7,116.4,520.2,127.5,"In addition, under cohesion policy, EUR 0.2 billion, representing 13% of the country’s total cohesion "
+25,4,2,Calibri,11.0,77.7,130.9,402.3,142.0,"policy funding, is dedicated to advancing Sweden’s digital transformation"
+25,4,2,Calibri,7.0,402.2,130.0,405.7,137.0,3
+25,4,2,Calibri,11.0,405.7,130.9,411.1,142.0,. 
+25,5,0,Calibri,11.0,72.0,148.9,74.5,160.0, 
+25,6,0,Calibri-LightItalic,11.0,77.7,172.0,178.8,183.0,Multi-Country Projects 
+25,6,0,Calibri,11.0,178.7,172.0,181.2,183.0, 
+25,7,0,Calibri,11.0,77.7,189.4,506.9,200.4,Sweden is an observer to the Alliance for Language Technologies EDIC. Sweden is a participating 
+25,7,1,Calibri,11.0,77.7,203.9,364.5,214.9,state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+25,8,0,Calibri,11.0,72.0,226.9,74.5,238.0, 
+25,9,0,Calibri,11.0,72.0,249.4,74.5,260.5, 
+25,10,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+25,11,0,Calibri,6.0,72.0,716.7,75.1,722.7,2
+25,11,0,Calibri,9.0,75.0,716.9,503.8,725.9, The proportion of financial allocations that contribute to digital objectives has been calculated using Annex VII to the 
+25,11,1,Calibri,9.0,72.0,727.9,350.2,736.9,Recovery and Resilience Facility Regulation. Last data update: 23 April 2026. 
+25,11,2,Calibri,6.0,72.0,738.7,75.1,744.7,3
+25,11,2,Calibri,9.0,75.0,738.9,504.1,747.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+25,11,3,Calibri,9.0,72.0,749.8,524.8,758.8,2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including 
+25,11,4,Calibri,9.0,72.0,760.9,401.7,769.9,"Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+25,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,12,1,Calibri,11.0,297.7,795.4,300.2,806.4, 

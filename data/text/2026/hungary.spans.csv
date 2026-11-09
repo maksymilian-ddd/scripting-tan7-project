@@ -1,0 +1,1400 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,110.9,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.8,"Brussels, 17.6.2026  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.6,SWD(2026) 155 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.1,390.9,242.4,PART 13/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,254.9,330.9,272.6, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,291.4,432.4,304.7,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,208.1,323.2,391.9,336.4,Digital Decade 2026 country report 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,354.9,373.6,368.2,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,107.4,380.7,492.5,393.9,COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN 
+1,11,1,TimesNewRomanPS-BoldMT,12.0,86.1,394.4,513.6,407.7,"PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,137.8,408.3,462.3,421.5,COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+1,13,0,TimesNewRomanPS-BoldMT,12.0,298.5,422.0,301.5,435.3, 
+1,14,0,TimesNewRomanPS-BoldMT,12.0,73.4,447.8,526.3,461.0,State of the Digital Decade 2026: Closing structural gaps and mobilising investments for 
+1,15,0,TimesNewRomanPS-BoldMT,12.0,255.2,461.6,344.9,474.8,2030 and beyond 
+1,16,0,TimesNewRomanPSMT,12.0,110.2,492.9,486.6,506.2,{COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+1,17,0,TimesNewRomanPSMT,12.0,238.8,506.7,361.1,520.0, {SWD(2026) 157 final} 
+1,17,1,TimesNewRomanPSMT,12.0,526.2,510.3,529.2,523.6, 
+1,18,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,18,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,18,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,18,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+2,1,0,Calibri-Bold,11.0,72.0,84.0,74.5,95.1, 
+2,2,0,Calibri-Bold,11.0,72.0,106.5,74.5,117.5, 
+2,3,0,Calibri-Bold,11.0,72.0,129.0,74.5,140.1, 
+2,4,0,Calibri-Bold,11.0,72.0,151.5,74.5,162.5, 
+2,5,0,Calibri-Bold,11.0,72.0,173.9,74.5,184.9, 
+2,6,0,Calibri-Bold,11.0,72.0,196.5,74.5,207.5, 
+2,7,0,Calibri-Bold,11.0,72.0,218.9,74.5,229.9, 
+2,8,0,Calibri-Bold,11.0,72.0,241.5,74.5,252.5, 
+2,9,0,Calibri-Bold,11.0,72.0,263.9,74.5,275.0, 
+2,10,0,Calibri-Bold,11.0,72.0,286.4,74.5,297.4, 
+2,11,0,Calibri-Bold,36.0,123.1,199.6,377.2,235.6,DIGITAL DECADE 
+2,11,1,Calibri-Bold,36.0,123.1,239.6,405.0,275.6,COUNTRY REPORT 
+2,11,2,Calibri-Bold,36.0,123.1,279.6,204.3,315.6,2026 
+2,12,0,Calibri-Bold,11.0,72.0,308.9,77.0,320.0,  
+2,13,0,Calibri-Bold,11.0,72.0,331.4,74.5,342.4, 
+2,13,1,Calibri-Bold,11.0,72.0,345.9,74.5,356.9, 
+2,13,2,Calibri-Bold,24.0,72.0,363.0,77.4,387.0, 
+2,14,0,Calibri,11.0,72.0,400.0,74.5,411.1, 
+2,14,1,Calibri,11.0,216.1,400.0,218.5,411.1, 
+2,14,2,Calibri-Bold,28.0,198.5,355.5,302.5,383.5,Hungary 
+2,15,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+3,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+3,4,0,Calibri-Light,16.0,72.0,111.5,133.8,127.5,Contents 
+3,4,1,Calibri,11.0,72.0,131.5,523.0,142.6,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,130.8,525.7,142.8, 
+3,5,0,Calibri,11.0,83.1,151.0,523.0,162.0,Hungary in the Digital Decade ............................................................................................................ 1
+3,5,0,Calibri,12.0,523.0,150.3,525.7,162.3, 
+3,6,0,Calibri,11.0,83.1,170.5,523.0,181.6,Funding for digital and multi-country projects ................................................................................... 1
+3,6,0,Calibri,12.0,523.0,169.8,525.7,181.8, 
+3,7,0,Calibri,11.0,83.1,190.0,523.0,201.0,"A competitive, sovereign and resilient EU based on technological leadership .................................. 2"
+3,7,0,Calibri,12.0,523.0,189.3,525.7,201.3, 
+3,8,0,Calibri,11.0,83.1,209.5,523.0,220.6,Protecting and empowering EU people and society ........................................................................... 2
+3,8,0,Calibri,12.0,523.0,208.8,525.7,220.8, 
+3,9,0,Calibri,11.0,83.1,229.0,523.0,240.0,Recommendations .............................................................................................................................. 3
+3,9,0,Calibri,12.0,523.0,228.3,525.7,240.3, 
+3,10,0,Calibri,11.0,72.0,248.6,523.0,259.6,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 4"
+3,10,0,Calibri,12.0,523.0,247.8,525.7,259.8, 
+3,11,0,Calibri,11.0,83.1,268.0,523.0,279.0,Building technological leadership: digital infrastructure and technologies ........................................ 4
+3,11,0,Calibri,12.0,523.0,267.3,525.7,279.3, 
+3,12,0,Calibri,11.0,94.0,287.4,523.0,298.5,Connectivity infrastructure ............................................................................................................. 4
+3,12,0,Calibri,12.0,523.0,286.7,525.7,298.7, 
+3,13,0,Calibri,11.0,94.0,307.0,523.0,318.0,Semiconductors ............................................................................................................................... 6
+3,13,0,Calibri,12.0,523.0,306.3,525.7,318.3, 
+3,14,0,Calibri,11.0,94.0,326.4,523.0,337.5,Edge nodes ...................................................................................................................................... 6
+3,14,0,Calibri,12.0,523.0,325.7,525.7,337.7, 
+3,15,0,Calibri,11.0,94.0,346.0,523.0,357.0,Quantum technologies .................................................................................................................... 7
+3,15,0,Calibri,12.0,523.0,345.3,525.7,357.3, 
+3,16,0,Calibri,11.0,83.1,365.4,523.0,376.5,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 8
+3,16,0,Calibri,12.0,523.0,364.7,525.7,376.7, 
+3,17,0,Calibri,11.0,94.0,385.0,523.0,396.0,SMEs with at least basic digital intensity ........................................................................................ 8
+3,17,0,Calibri,12.0,523.0,384.3,525.7,396.3, 
+3,18,0,Calibri,11.0,94.0,404.5,523.0,415.5,Take up of advanced technologies .................................................................................................. 9
+3,18,0,Calibri,12.0,523.0,403.7,525.7,415.7, 
+3,19,0,Calibri,11.0,94.0,423.9,523.0,434.9,"Unicorns, scale-ups and start-ups ................................................................................................. 11"
+3,19,0,Calibri,12.0,523.0,423.2,525.7,435.2, 
+3,20,0,Calibri,11.0,83.1,443.5,523.0,454.5,Strengthening Cybersecurity & Resilience ........................................................................................ 11
+3,20,0,Calibri,12.0,523.0,442.7,525.7,454.7, 
+3,21,0,Calibri,11.0,72.0,462.9,523.0,473.9,Protecting and empowering EU people and society ............................................................................. 13
+3,21,0,Calibri,12.0,523.0,462.2,525.7,474.2, 
+3,22,0,Calibri,11.0,83.1,482.5,523.0,493.5,Empowering people and bringing the digital transformation closer to their needs ........................ 13
+3,22,0,Calibri,12.0,523.0,481.7,525.7,493.7, 
+3,23,0,Calibri,11.0,94.0,501.9,523.0,512.9,Equipping people with digital skills ............................................................................................... 13
+3,23,0,Calibri,12.0,523.0,501.2,525.7,513.2, 
+3,24,0,Calibri,11.0,94.0,521.5,523.0,532.5,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 17"
+3,24,0,Calibri,12.0,523.0,520.8,525.7,532.8, 
+3,25,0,Calibri,11.0,72.0,540.9,523.0,551.9,Leveraging digital transformation for a smart greening ....................................................................... 20
+3,25,0,Calibri,12.0,523.0,540.2,525.7,552.2, 
+3,26,0,Calibri,11.0,72.0,560.4,523.0,571.4,Annex I: National roadmap analysis ...................................................................................................... 22
+3,26,0,Calibri,12.0,523.0,559.7,525.7,571.7, 
+3,27,0,Calibri,11.0,72.0,579.9,523.0,591.0,"Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 24"
+3,27,0,Calibri,12.0,523.0,579.2,525.7,591.2, 
+3,28,0,Calibri-Bold,11.0,72.0,621.9,74.5,633.0, 
+3,29,0,Calibri,11.0,72.0,644.4,74.5,655.4, 
+3,29,1,Calibri,11.0,216.1,644.4,218.5,655.4, 
+3,30,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri,11.0,72.0,126.3,525.9,137.3,"Hungary boasts a good fibre infrastructure and a strong position in digital public services for citizens, "
+4,4,1,Calibri,11.0,72.0,140.8,525.9,151.8,"especially in the area of access to e-Health records. However, the country continues to lag in business "
+4,4,2,Calibri,11.0,72.0,155.2,525.8,166.2,"digitalisation and the uptake of key technologies, especially in the case of small to medium size "
+4,4,3,Calibri,11.0,72.0,169.7,377.9,180.7,"enterprises (SMEs), as well as in basic digital skills of the population. "
+4,5,0,Calibri,11.0,72.0,192.1,426.9,203.2,The weaknesses identified in business digitalisation undermine Hungary’s 
+4,5,0,Calibri-Bold,11.0,430.5,192.1,505.1,203.2,competitiveness
+4,5,0,Calibri,11.0,505.2,192.1,525.9,203.2,", as "
+4,5,1,Calibri,11.0,72.0,206.7,525.8,217.7,enterprises with low digital intensity are less able to achieve productivity gains from both basic and 
+4,5,2,Calibri,11.0,72.0,221.2,525.8,232.2,"advanced digital tools and to expand into new business opportunities. Moreover, limited digital literacy "
+4,5,3,Calibri,11.0,72.0,235.7,525.9,246.8,"constrains citizens’ effective use of technology and e-services, weakens labour productivity growth, "
+4,5,4,Calibri,11.0,72.0,250.1,415.9,261.2,and reduces businesses’ capacity to reap the full benefits of digital adoption. 
+4,6,0,Calibri,11.0,72.0,272.7,178.6,283.7,In order to improve its 
+4,6,0,Calibri-Bold,11.0,179.8,272.7,259.5,283.7,digital leadership
+4,6,0,Calibri,11.0,259.5,272.7,525.7,283.7," assets, Hungary will host one of the European AI Factory "
+4,6,1,Calibri,11.0,72.0,287.2,525.9,298.2,"Antennas, under the AI Factory programme of the European High Performance Computing Joint "
+4,6,2,Calibri,11.0,72.0,301.6,525.7,312.6,Undertaking (EuroHPC JU). This will give access to the computational capacity of the existing EU AI 
+4,6,3,Calibri,11.0,72.0,316.1,525.9,327.2,"Factory, without the need to build a stand-alone national infrastructure. There are currently no digital "
+4,6,4,Calibri,11.0,72.0,330.6,500.0,341.7,"unicorns in Hungary, which represents a serious gap in the development of the digital economy. "
+4,7,0,Calibri-Light,15.0,72.0,354.0,253.8,369.0,Hungary in the Digital Decade 
+4,8,0,Calibri,11.0,72.0,380.9,525.5,392.0,Hungary shows a moderate level of ambition in its contribution to the Digital Decade having set 14 
+4,8,1,Calibri,11.0,72.0,395.3,525.9,406.4,"national targets (out of 14 possible), 71% of which are aligned with the EU 2030 targets. In its national "
+4,8,2,Calibri,11.0,72.0,409.9,525.6,420.9,"roadmap, Hungary provided 12 trajectory points for 2025 (out of 13 analysed). The country is "
+4,8,3,Calibri,11.0,72.0,424.4,525.9,435.4,progressing towards them moderately well with 50% considered on track. Hungary addressed 33% of 
+4,8,4,Calibri,11.0,72.0,438.9,525.9,449.9,the 9 recommendations issued by the Commission in 2025 by introducing new measures. According 
+4,8,5,Calibri,11.0,72.0,453.3,525.5,464.4,"to the national roadmap, by the end of 2026, 48% of the measures will come to an end. The total "
+4,8,6,Calibri,11.0,72.0,467.8,525.9,478.9,"public budget associated with these measures is EUR 575 million, representing 32% of the total public "
+4,8,7,Calibri,11.0,72.0,482.3,357.0,493.4,budget provided for in the roadmap. According to the special 
+4,8,7,Calibri-Bold,11.0,358.1,482.3,525.9,493.4,2026 Eurobarometer on ‘the Digital 
+4,8,8,Calibri-Bold,11.0,72.0,496.9,108.7,507.9,Decade’
+4,8,8,Calibri,11.0,108.7,496.9,114.0,507.9,", "
+4,8,8,Calibri-Bold,11.0,115.0,496.9,525.6,507.9,85% of Hungarian respondents consider that digital policy should have a very high/high 
+4,8,9,Calibri-Bold,11.0,72.0,511.3,155.6,522.3,priority for the EU
+4,8,9,Calibri,11.0,155.5,511.3,525.9,522.3," in shaping our future in Europe. They are also of the opinion that, in the next ten "
+4,8,10,Calibri,11.0,72.0,525.8,525.8,536.8,"years, the EU should cooperate with Member States to reinforce cybersecurity and protection from "
+4,8,11,Calibri,11.0,72.0,540.3,525.9,551.3,"online threats (92%), promote digital education and skills programmes (90%) and strengthen the "
+4,8,12,Calibri,11.0,72.0,554.8,506.2,565.9,"regulation of online platforms (e.g. online social networks, marketplaces, app stores, etc.) (89%).  "
+4,9,0,Calibri,11.0,72.0,577.3,125.4,588.3,"In addition, "
+4,9,0,Calibri-Bold,11.0,125.4,577.3,525.9,588.3,81% of Hungarian respondents think that the EU should reduce its digital dependencies 
+4,9,1,Calibri-Bold,11.0,72.0,591.8,168.2,602.9,on non-EU countries
+4,9,1,Calibri,11.0,168.3,591.8,525.9,602.9,", and 89% are of the opinion that EU should prioritise investments in digital "
+4,9,2,Calibri,11.0,72.0,606.3,525.9,617.4,"infrastructure and services that are developed and controlled in Europe. Meanwhile, 56% would be "
+4,9,3,Calibri,11.0,72.0,620.7,489.1,631.8,willing to switch to an EU-based digital service provider even if it means slightly higher costs.  
+4,10,0,Calibri-Light,15.0,72.0,644.2,351.2,659.2,Funding for digital and multi-country projects  
+4,11,0,Calibri,11.0,72.0,671.0,525.9,682.1,Hungary allocates 29% of its total funding under the recovery and resilience plan (RRP) to digital (EUR 
+4,11,1,Calibri,11.0,72.0,685.5,525.9,696.6,"1.7 billion). In addition, under cohesion policy, EUR 2.8 billion, representing 13% of the country’s total "
+4,11,2,Calibri,11.0,72.0,700.1,447.0,711.1,"cohesion policy funding, is dedicated to advancing Hungary’s digital transformation. "
+4,12,0,Calibri,11.0,72.0,722.5,525.8,733.6,"Hungary is a member of the Alliance for Language Technologies, a European Digital Infrastructure "
+4,12,1,Calibri,11.0,72.0,737.0,525.9,748.1,Consortium (EDIC) and of the IMPACTS EDIC. Hungary is directly participating in the Important Project 
+4,12,2,Calibri,11.0,72.0,751.6,525.9,762.6,of Common European Interest (IPCEI) on Next Generation Cloud Infrastructure and Services (IPCEI-CIS) 
+4,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+5,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,and in the Tech4Cure IPCEI.  Hungarian entities are indirect and/or associated partners in the IPCEI on 
+5,2,1,Calibri,11.0,72.0,98.4,525.8,109.5,Microelectronics and Communication Technologies (IPCEI-ME/CT). Hungary is a participating state of 
+5,2,2,Calibri,11.0,72.0,112.9,325.4,124.0,the EuroHPC Joint Undertaking (JU) and of the Chips JU.  
+5,4,0,Calibri,11.0,273.8,136.0,311.4,147.0,Hungary
+5,4,0,Calibri,12.0,311.4,135.3,314.1,147.3, 
+5,4,1,Calibri,12.0,416.5,136.2,430.1,148.2,EU
+5,4,1,Calibri,11.0,430.1,136.9,432.6,148.0, 
+5,4,2,Calibri,8.0,475.8,135.5,524.3,143.5,Digital Decade 
+5,4,3,Calibri,8.0,475.5,145.9,522.7,153.9,target by 2030
+5,4,3,Calibri,11.0,522.6,143.7,525.1,154.7, 
+5,5,0,Calibri,14.0,77.7,145.1,180.6,159.2,Digital Decade KPI
+5,5,0,Calibri,12.0,180.5,146.7,183.2,158.7, 
+5,5,0,Calibri,8.0,183.3,145.7,192.2,153.7,(1)
+5,5,0,Calibri,11.0,192.2,147.4,194.7,158.4, 
+5,6,0,Calibri-Bold,8.0,476.0,159.2,486.3,167.3,HU
+5,6,0,Calibri,11.0,486.3,157.0,488.8,168.0, 
+5,6,1,Calibri-Bold,8.0,513.0,159.2,522.2,167.3,EU
+5,6,1,Calibri,11.0,522.1,157.0,524.6,168.0, 
+5,7,0,Calibri-Bold,8.0,215.0,158.1,230.1,166.2,Last 
+5,7,1,Calibri-Bold,8.0,206.7,168.7,238.4,176.7,available 
+5,8,0,Calibri-Bold,8.0,347.1,158.1,377.4,166.2,National 
+5,8,1,Calibri-Bold,8.0,345.1,168.7,379.5,176.7,trajectory 
+5,9,0,Calibri-Bold,8.0,254.7,158.1,289.5,166.2,DESI 2026 
+5,9,1,Calibri-Bold,8.0,252.3,168.6,290.0,176.6,(year 2025)
+5,9,1,Calibri,11.0,290.0,166.3,292.5,177.4, 
+5,10,0,Calibri-Bold,8.0,308.2,158.1,333.8,166.2,Annual 
+5,10,1,Calibri-Bold,8.0,305.8,168.6,334.3,176.6,progress
+5,10,1,Calibri,11.0,334.3,166.3,336.8,177.4, 
+5,11,0,Calibri-Bold,8.0,395.6,158.1,412.4,166.2,DESI 
+5,11,1,Calibri-Bold,8.0,395.0,168.6,411.3,176.6,2026
+5,11,1,Calibri,11.0,411.2,166.3,413.7,177.4, 
+5,11,2,Calibri-Bold,8.0,430.9,158.1,456.5,166.2,Annual 
+5,11,3,Calibri-Bold,8.0,428.5,168.6,457.0,176.6,progress
+5,11,3,Calibri,11.0,456.9,166.3,459.4,177.4, 
+5,12,0,Calibri,8.0,77.7,179.6,189.3,187.7,Fixed Very High-Capacity Network 
+5,12,1,Calibri,8.0,211.6,179.5,233.3,187.5,86.0% 
+5,12,2,Calibri,8.0,261.2,179.5,282.9,187.5,87.4% 
+5,12,3,Calibri,8.0,312.2,179.5,329.8,187.5,1.7% 
+5,12,4,Calibri,8.0,350.5,179.5,375.8,187.5, 88.0%  
+5,12,5,Calibri,8.0,393.2,179.5,415.0,187.5,85.5% 
+5,12,6,Calibri,8.0,434.9,179.5,452.5,187.5,3.7% 
+5,12,7,Calibri,8.0,471.2,179.5,493.0,187.5,97.0% 
+5,12,8,Calibri,8.0,508.5,179.5,528.3,187.5,100% 
+5,13,0,Calibri,8.0,77.7,193.8,170.6,201.8,Fibre to the Premises (FTTP) 
+5,13,1,Calibri,8.0,211.6,193.7,233.3,201.7,79.9% 
+5,13,2,Calibri,8.0,261.2,193.7,282.9,201.7,81.8% 
+5,13,3,Calibri,8.0,311.2,193.7,330.7,201.7,2.4%  
+5,13,4,Calibri,8.0,351.3,193.7,374.8,201.7,83.0%  
+5,13,5,Calibri,8.0,392.2,193.7,415.8,201.7,74.1%  
+5,13,6,Calibri,8.0,434.9,193.7,452.5,201.7,7.1% 
+5,13,7,Calibri,8.0,471.2,193.7,493.0,201.7,95.0% 
+5,13,8,Calibri,8.0,516.4,193.7,520.6,201.7,- 
+5,14,0,Calibri,8.0,77.7,207.8,144.3,215.9,Overall 5G coverage 
+5,14,1,Calibri,8.0,211.6,207.8,233.3,215.9,85.6% 
+5,14,2,Calibri,8.0,260.3,207.8,283.9,215.9, 94.0% 
+5,14,3,Calibri,8.0,311.2,207.8,330.7,215.9,9.9%  
+5,14,4,Calibri,8.0,351.3,207.8,374.8,215.9,76.0%  
+5,14,5,Calibri,8.0,393.2,207.8,415.0,215.9,96.8% 
+5,14,6,Calibri,8.0,434.9,207.8,452.5,215.9,2.6% 
+5,14,7,Calibri,8.0,471.2,207.8,493.0,215.9,99.0% 
+5,14,8,Calibri,8.0,508.5,207.8,528.3,215.9,100% 
+5,15,0,Calibri,8.0,77.7,222.1,152.6,230.1,Edge Nodes (estimate) 
+5,15,1,Calibri,8.0,220.4,222.1,224.6,230.1,- 
+5,15,2,Calibri,8.0,265.1,222.1,279.1,230.1,152 
+5,15,3,Calibri,8.0,318.0,222.1,324.0,230.1, - 
+5,15,4,Calibri,8.0,357.3,222.1,367.3,230.1,28 
+5,15,5,Calibri,8.0,395.0,222.1,413.0,230.1,7451 
+5,15,6,Calibri,8.0,441.6,222.1,445.8,230.1,- 
+5,15,7,Calibri,8.0,477.1,222.1,487.1,230.1,82 
+5,15,8,Calibri,8.0,507.3,222.1,529.5,230.1,10000 
+5,16,0,Calibri,8.0,211.6,239.7,233.3,247.7,53.2% 
+5,16,1,Calibri,8.0,261.2,239.7,282.9,247.7,59.8% 
+5,16,2,Calibri,8.0,312.2,239.7,329.8,247.7,6.1% 
+5,16,3,Calibri,8.0,351.3,239.7,374.8,247.7,61.5%  
+5,16,4,Calibri,8.0,393.2,239.7,415.0,247.7,71.4% 
+5,16,5,Calibri,8.0,432.8,239.7,454.6,247.7,11.0% 
+5,16,6,Calibri,8.0,471.2,239.7,493.0,247.7,89.0% 
+5,16,7,Calibri,8.0,510.6,239.7,526.2,247.7,90% 
+5,17,0,Calibri,8.0,77.7,236.4,187.8,244.5,SMEs with at least a basic level of 
+5,17,1,Calibri,8.0,77.7,246.9,135.0,254.9,digital intensity * 
+5,18,0,Calibri,8.0,77.7,262.1,104.0,270.1,Cloud * 
+5,18,1,Calibri,8.0,211.6,262.1,233.3,270.1,37.1% 
+5,18,2,Calibri,8.0,261.2,262.1,282.9,270.1,40.8% 
+5,18,3,Calibri,8.0,312.2,262.1,329.8,270.1,4.9% 
+5,18,4,Calibri,8.0,351.3,262.1,374.8,270.1,48.0%  
+5,18,5,Calibri,8.0,393.2,262.1,415.0,270.1,46.7% 
+5,18,6,Calibri,8.0,434.9,262.1,452.5,270.1,9.5% 
+5,18,7,Calibri,8.0,471.2,262.1,493.0,270.1,75.0% 
+5,18,8,Calibri,8.0,510.6,262.1,526.2,270.1,75% 
+5,19,0,Calibri,8.0,77.7,276.3,145.7,284.3,Artificial Intelligence 
+5,19,1,Calibri,8.0,213.6,276.3,231.3,284.3,7.4% 
+5,19,2,Calibri,8.0,261.2,276.3,282.9,284.3,10.4% 
+5,19,3,Calibri,8.0,310.1,276.3,331.9,284.3,39.9% 
+5,19,4,Calibri,8.0,353.5,276.3,371.1,284.3,9.0% 
+5,19,5,Calibri,8.0,393.2,276.3,415.0,284.3,20.0% 
+5,19,6,Calibri,8.0,432.8,276.3,454.6,284.3,48.0% 
+5,19,7,Calibri,8.0,471.2,276.3,493.0,284.3,24.0% 
+5,19,8,Calibri,8.0,510.6,276.3,526.2,284.3,75% 
+5,20,0,Calibri,8.0,77.7,290.5,130.5,298.6,Data analytics * 
+5,20,1,Calibri,8.0,211.6,290.5,233.3,298.6,53.2% 
+5,20,2,Calibri,8.0,261.2,290.5,282.9,298.6,40.6% 
+5,20,3,Calibri,8.0,309.0,290.5,333.1,298.6,-12.7% 
+5,20,4,Calibri,8.0,351.4,290.5,373.2,298.6,59.5% 
+5,20,5,Calibri,8.0,393.2,290.5,415.0,298.6,39.9% 
+5,20,6,Calibri,8.0,434.9,290.5,452.5,298.6,9.5% 
+5,20,7,Calibri,8.0,471.2,290.5,493.0,298.6,75.0% 
+5,20,8,Calibri,8.0,510.6,290.5,526.2,298.6,75% 
+5,21,0,Calibri,8.0,77.7,304.7,177.2,312.7,AI or Cloud or Data analytics * 
+5,21,1,Calibri,8.0,211.6,304.7,233.3,312.7,65.6% 
+5,21,2,Calibri,8.0,261.2,304.7,282.9,312.7,59.7% 
+5,21,3,Calibri,8.0,311.0,304.7,331.0,312.7,-4.7% 
+5,21,4,Calibri,8.0,360.2,304.7,364.4,312.7,- 
+5,21,5,Calibri,8.0,393.2,304.7,415.0,312.7,63.2% 
+5,21,6,Calibri,8.0,434.9,304.7,452.5,312.7,7.5% 
+5,21,7,Calibri,8.0,480.0,304.7,484.2,312.7,- 
+5,21,8,Calibri,8.0,510.6,304.7,526.2,312.7,75% 
+5,22,0,Calibri,8.0,77.7,318.9,108.3,326.9,Unicorns 
+5,22,1,Calibri,8.0,219.5,318.9,225.4,326.9,0 
+5,22,2,Calibri,8.0,269.1,318.9,275.0,326.9,0 
+5,22,3,Calibri,8.0,318.9,318.9,323.1,326.9,- 
+5,22,4,Calibri,8.0,360.2,318.9,364.4,326.9,- 
+5,22,5,Calibri,8.0,397.0,318.9,411.0,326.9,324 
+5,22,6,Calibri,8.0,432.8,318.9,454.6,326.9,10.2% 
+5,22,7,Calibri,8.0,479.1,318.9,485.0,326.9,2 
+5,22,8,Calibri,8.0,511.4,318.9,525.4,326.9,500 
+5,23,0,Calibri,8.0,77.7,333.1,166.7,341.2,At least basic digital skills * 
+5,23,1,Calibri,8.0,211.6,333.1,233.3,341.2,58.9% 
+5,23,2,Calibri,8.0,261.2,333.1,282.9,341.2,57.3% 
+5,23,3,Calibri,8.0,311.0,333.1,331.0,341.2,-1.3% 
+5,23,4,Calibri,8.0,350.5,333.1,375.8,341.2, 66.0%  
+5,23,5,Calibri,8.0,393.2,333.1,415.0,341.2,60.4% 
+5,23,6,Calibri,8.0,434.9,333.1,452.5,341.2,4.3% 
+5,23,7,Calibri,8.0,471.2,333.1,493.0,341.2,70.0% 
+5,23,8,Calibri,8.0,510.6,333.1,526.2,341.2,80% 
+5,24,0,Calibri,8.0,77.7,347.3,124.4,355.3,ICT specialists 
+5,24,1,Calibri,8.0,213.6,347.3,231.3,355.3,4.5% 
+5,24,2,Calibri,8.0,262.4,347.3,281.8,355.3,4.6%  
+5,24,3,Calibri,8.0,311.2,347.3,330.7,355.3,2.2%  
+5,24,4,Calibri,8.0,352.5,347.3,373.8,355.3, 5.3%  
+5,24,5,Calibri,8.0,394.3,347.3,413.8,355.3, 5.0% 
+5,24,6,Calibri,8.0,433.9,347.3,453.4,355.3,2.0%  
+5,24,7,Calibri,8.0,473.3,347.3,490.9,355.3,8.3% 
+5,24,8,Calibri,8.0,508.7,347.3,528.3,355.3,~10% 
+5,25,0,Calibri,8.0,77.7,361.5,158.6,369.5,e-ID scheme notification 
+5,25,1,Calibri,8.0,220.7,361.5,224.3,369.5,  
+5,25,2,Calibri,8.0,266.5,361.5,277.6,369.5,No 
+5,25,3,Calibri,8.0,319.1,361.5,322.8,369.5,  
+5,25,4,Calibri,8.0,360.4,361.5,364.0,369.5,  
+5,25,5,Calibri,8.0,402.2,361.5,405.8,369.5,  
+5,25,6,Calibri,8.0,441.8,361.5,445.4,369.5,  
+5,25,7,Calibri,8.0,480.3,361.5,484.0,369.5,  
+5,25,8,Calibri,8.0,516.6,361.5,520.2,369.5,  
+5,26,0,Calibri,8.0,77.7,375.7,186.2,383.8,Digital public services for citizens 
+5,26,1,Calibri,8.0,214.5,375.7,230.5,383.8,77.7 
+5,26,2,Calibri,8.0,263.2,375.7,281.0,383.8,85.6  
+5,26,3,Calibri,8.0,309.2,375.7,332.7,383.8,10.3%  
+5,26,4,Calibri,8.0,354.2,375.7,372.0,383.8,77.3  
+5,26,5,Calibri,8.0,396.1,375.7,412.1,383.8,84.6 
+5,26,6,Calibri,8.0,434.9,375.7,452.5,383.8,2.8% 
+5,26,7,Calibri,8.0,474.1,375.7,490.1,383.8,96.3 
+5,26,8,Calibri,8.0,511.4,375.7,525.4,383.8,100 
+5,27,0,Calibri,8.0,77.7,389.9,197.1,397.9,Digital public services for businesses 
+5,27,1,Calibri,8.0,214.5,389.9,230.5,397.9,80.0 
+5,27,2,Calibri,8.0,263.2,389.9,281.0,397.9, 80.0 
+5,27,3,Calibri,8.0,311.2,389.9,330.7,397.9, 0.0% 
+5,27,4,Calibri,8.0,354.2,389.9,372.0,397.9,84.7  
+5,27,5,Calibri,8.0,396.1,389.9,412.1,397.9,88.6 
+5,27,6,Calibri,8.0,434.9,389.9,452.5,397.9,2.7% 
+5,27,7,Calibri,8.0,474.1,389.9,490.1,397.9,97.2 
+5,27,8,Calibri,8.0,511.4,389.9,525.4,397.9,100 
+5,28,0,Calibri,8.0,77.7,404.1,192.3,412.1,Access to electronic health records 
+5,28,1,Calibri,8.0,214.5,404.1,230.5,412.1,86.0 
+5,28,2,Calibri,8.0,264.0,404.1,280.0,412.1,88.1 
+5,28,3,Calibri,8.0,311.2,404.1,330.7,412.1,2.4%  
+5,28,4,Calibri,8.0,354.2,404.1,372.0,412.1,96.4  
+5,28,5,Calibri,8.0,395.1,404.1,412.9,412.1,86.5  
+5,28,6,Calibri,8.0,433.9,404.1,453.4,412.1,4.6%  
+5,28,7,Calibri,8.0,472.1,404.1,490.4,412.1,100.0
+5,28,7,Calibri,8.0,490.3,404.1,492.1,412.1, 
+5,28,8,Calibri,8.0,511.4,404.1,525.4,412.1,100 
+5,29,0,Calibri,8.0,78.1,419.1,268.8,427.1,"(1) Indicators full description, metadata and sources in the "
+5,29,0,Calibri,8.0,268.9,419.1,370.5,427.1,DESI 2026 methodological note
+5,29,0,Calibri,8.0,370.5,419.1,372.3,427.1, 
+5,29,1,Calibri,8.0,78.1,428.8,529.1,436.8,(2) Last available data is DESI2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year 
+5,29,2,Calibri,8.0,78.1,438.6,98.6,446.7,2023) 
+5,29,3,Calibri,8.0,78.1,448.4,393.2,456.4,"(3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap"
+5,29,3,Calibri,9.0,393.3,447.6,395.3,456.6, 
+5,29,4,Calibri,11.0,72.0,459.5,74.5,470.6, 
+5,30,0,Calibri-Light,15.0,72.0,482.9,463.2,497.9,"A competitive, sovereign and resilient EU based on technological "
+5,30,1,Calibri-Light,15.0,72.0,502.7,138.1,517.7,leadership 
+5,31,0,Calibri,11.0,72.0,529.5,206.4,540.5,Hungary is performing well in 
+5,31,0,Calibri-Bold,11.0,206.7,529.5,262.4,540.5,connectivity
+5,31,0,Calibri,11.0,262.5,529.5,525.7,540.5,", being above the EU average in fibre coverage and slightly "
+5,31,1,Calibri,11.0,72.0,544.0,525.8,555.1,"below for 5G. Coverage of last premises, especially in rural areas, will be key to achieving full coverage "
+5,31,2,Calibri,11.0,72.0,558.6,112.8,569.6,by 2030. 
+5,32,0,Calibri,11.0,72.0,581.0,525.8,592.1,Hungary has achieved mixed progress in the digitalisation of businesses. While there have been 
+5,32,1,Calibri,11.0,72.0,595.5,525.7,606.6,"improvements in certain areas, such as the adoption of AI among SMEs and large enterprises, "
+5,32,2,Calibri-Bold,11.0,72.0,610.1,462.3,621.1,"Hungarian enterprises, particularly SMEs, continue to lag behind their EU counterparts"
+5,32,2,Calibri,11.0,462.5,610.1,525.9,621.1, in most areas 
+5,32,3,Calibri,11.0,72.0,624.5,525.8,635.5,"of technology adoption. The growth rates in most areas are also lower than the EU averages, indicating "
+5,32,4,Calibri,11.0,72.0,639.0,462.4,650.0,"that while Hungary is making strides, it is not keeping pace with the broader EU trends. "
+5,33,0,Calibri-Light,15.0,72.0,662.4,379.5,677.4,Protecting and empowering EU people and society 
+5,34,0,Calibri,11.0,72.0,689.3,525.8,700.3,Hungary’s digital skills profile reveals several areas of concern. While performance in urban areas and 
+5,34,1,Calibri,11.0,72.0,703.8,525.7,714.8,"among young adults is good, the county’s overall digital skills rate has declined. The gender gap, "
+5,34,2,Calibri,11.0,72.0,718.2,525.9,729.2,"educational disparities, and the urban-rural divide are notable challenges. Targeted interventions are "
+5,34,3,Calibri,11.0,72.0,732.7,525.9,743.8,"necessary to address these disparities, especially in rural areas and among populations with lower "
+5,35,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,35,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+6,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,education. Strengthening digital education and training programmes could help Hungary close the gap 
+6,2,1,Calibri,11.0,72.0,98.4,375.5,109.5,with the EU average and ensure more inclusive digital participation. 
+6,4,0,Calibri,11.0,72.0,121.0,523.7,132.0,"Even though Hungary is performing well in terms of digital public services for citizens, especially in e-"
+6,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"Health, further improvement in cross-border services and the notification of an e-ID scheme would "
+6,4,2,Calibri,11.0,72.0,149.9,335.6,160.9,further contribute to the improvement of these indicators. 
+6,5,0,Calibri-Light,15.0,77.7,219.0,193.5,234.0,Recommendations 
+6,6,0,Calibri,11.0,95.7,249.9,99.0,260.9,-
+6,6,0,ArialMT,11.0,99.0,248.2,102.1,260.5, 
+6,6,1,Calibri-Bold,11.0,113.7,249.9,212.3,260.9,Digitalisation of SMEs
+6,6,1,Calibri,11.0,212.3,249.9,538.2,260.9,: Improve SMEs basic digitalisation by designing dedicated public support 
+6,6,2,Calibri,11.0,113.7,264.4,538.3,275.5,"measures, including training programmes, diagnostics and targeted financial support, to assist "
+6,6,3,Calibri,11.0,113.7,278.9,409.3,290.0,"businesses in cybersecurity, digital business management, and AI. "
+6,6,4,Calibri,11.0,95.7,293.4,99.0,304.5,-
+6,6,4,ArialMT,11.0,99.0,291.7,102.1,304.0, 
+6,6,5,Calibri-Bold,11.0,113.7,293.4,176.3,304.5,ICT specialists
+6,6,5,Calibri,11.0,176.4,293.4,538.2,304.5,: Continue to improve the job market relevance of ICT specialist training pathways 
+6,6,6,Calibri,11.0,113.7,307.9,538.3,318.9,"(higher education, vocational training, and re- and upskilling), aligning them with industry "
+6,6,7,Calibri,11.0,113.7,322.4,538.3,333.4,"needs, with particular attention to AI and cybersecurity specialists. Encourage people to pursue "
+6,6,8,Calibri,11.0,113.7,336.9,538.2,347.9,"ICT training pathways including via raising awareness at earlier stages of education, career "
+6,6,9,Calibri,11.0,113.7,351.4,538.2,362.4,"guidance, validating prior learning, identifying and reducing barrier to entry, and advertising "
+6,6,10,Calibri,11.0,113.7,365.8,513.2,376.9,campaigns. Intensify efforts to increase women’s participation in ICT studies and careers. 
+6,6,11,Calibri,11.0,95.7,380.3,99.0,391.4,-
+6,6,11,ArialMT,11.0,99.0,378.6,102.1,390.9, 
+6,6,12,Calibri-Bold,11.0,113.7,380.3,173.1,391.4,Uptake of AI
+6,6,12,Calibri,11.0,173.2,380.3,538.1,391.4,: Continue to support the adoption of AI by businesses by ensuring the proper 
+6,6,13,Calibri,11.0,113.7,394.9,538.3,405.9,"implementation of current national measures. Strengthen access to AI infrastructures for SMEs, "
+6,6,14,Calibri,11.0,113.7,409.4,538.1,420.4,"including AI factories, and promote AI adoption by SMEs via the sectoral flagships initiatives of "
+6,6,15,Calibri,11.0,113.7,423.8,317.4,434.8,the Apply AI strategy and skills development. 
+6,6,16,Calibri,11.0,95.7,438.3,99.0,449.4,-
+6,6,16,ArialMT,11.0,99.0,436.6,102.1,448.9, 
+6,6,17,Calibri-Bold,11.0,113.7,438.3,197.5,449.4,Basic digital skills:
+6,6,17,Calibri,11.0,197.4,438.3,538.1,449.4, Accelerate the country’s efforts to bridge the digital divide by developing 
+6,6,18,Calibri,11.0,113.7,452.8,538.1,463.9,"and investing in inclusion policies that focus on vulnerable groups, such as those with lower "
+6,6,19,Calibri,11.0,113.7,467.3,369.0,478.4,levels of formal education and those living in rural areas. 
+6,6,20,Calibri,11.0,95.7,481.7,99.0,492.8,-
+6,6,20,ArialMT,11.0,99.0,480.0,102.1,492.3, 
+6,6,21,Calibri-Bold,11.0,113.7,481.7,181.6,492.8,Cybersecurity: 
+6,6,21,Calibri,11.0,181.4,481.7,538.2,492.8,Accelerate efforts to implement cybersecurity legislation measures necessary to 
+6,6,22,Calibri,11.0,113.7,496.3,538.1,507.3,strengthen the cybersecurity position of the country. Increase efforts in ICT security for 
+6,6,23,Calibri,11.0,113.7,510.8,538.2,521.8,"enterprises, particularly by raising employees’ awareness and improving their preparedness "
+6,6,24,Calibri,11.0,113.7,525.3,403.2,536.3,amid the ever-changing cyber threat and technology landscape.  
+6,6,25,Calibri,11.0,95.7,539.7,99.0,550.8,-
+6,6,25,ArialMT,11.0,99.0,538.0,102.1,550.3, 
+6,6,26,Calibri-Bold,11.0,113.7,539.7,213.8,550.8,Digital Public Services
+6,6,26,Calibri,11.0,214.0,539.7,529.6,550.8,: Accelerate the implementation of cross-border capabilities of public 
+6,6,27,Calibri,11.0,113.7,554.2,378.9,565.3,"services, prioritising high-volume cross-border procedures. "
+6,6,27,Calibri-Bold,11.0,378.8,554.2,381.3,565.3, 
+6,6,28,Calibri,11.0,95.7,568.8,99.0,579.8,-
+6,6,28,ArialMT,11.0,99.0,567.1,102.1,579.4, 
+6,6,29,Calibri-Bold,11.0,113.7,568.8,152.9,579.8,e-Health
+6,6,29,Calibri,11.0,152.9,568.8,538.1,579.8,: Continue to cooperate and invest in digitalisation of its health systems to achieve the 
+6,6,30,Calibri,11.0,113.7,583.3,538.1,594.3,2030 eHealth target and advance the adoption and integration of AI in healthcare. A key focus 
+6,6,31,Calibri,11.0,113.7,597.8,538.1,608.9,should be making the data type of medical images available to citizens through the online access 
+6,6,32,Calibri,11.0,113.7,612.2,150.1,623.3,service. 
+6,6,33,Calibri,11.0,95.7,626.7,99.0,637.8,-
+6,6,33,ArialMT,11.0,99.0,625.0,102.1,637.3, 
+6,6,34,Calibri-Bold,11.0,113.7,626.7,171.6,637.8,5G coverage
+6,6,34,Calibri,11.0,171.5,626.7,538.3,637.8,: Hungary should accelerate 5G rollout in the 3.4–3.8 GHz band. It should also 
+6,6,35,Calibri,11.0,113.7,641.3,538.0,652.3,"promote the deployment of 5G SA networks while enabling advanced use cases. In addition, "
+6,6,36,Calibri,11.0,113.7,655.8,535.9,666.8,Hungary should take advantage of the upcoming expiry of rights of use to promote pro-
+6,6,37,Calibri,11.0,113.7,670.2,231.9,681.2,investment authorisation. 
+6,7,0,Calibri-Bold,11.0,72.0,733.4,74.5,744.5, 
+6,7,1,Calibri-Bold,11.0,216.1,733.4,218.5,744.5, 
+6,8,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+7,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+7,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+7,4,0,Calibri-Light,15.0,72.0,161.3,509.7,176.3,Building technological leadership: digital infrastructure and technologies 
+7,5,0,Calibri-Light,12.0,72.0,188.5,203.2,200.5,Connectivity infrastructure 
+7,6,0,Calibri-LightItalic,11.0,72.0,206.1,183.7,217.1,Performance assessment 
+7,7,0,Calibri-Bold,11.0,72.0,232.6,525.8,243.6,"In 2025, Hungary achieved a coverage rate of 87.43% by Very High-Capacity Networks (VHCN), "
+7,7,1,Calibri-Bold,11.0,72.0,247.0,426.6,258.0,"surpassing the EU’s 85.54%, after an increase of 1.7% from the previous year."
+7,7,1,Calibri,11.0,426.7,247.0,525.9,258.0," However, in terms of "
+7,7,2,Calibri,11.0,72.0,261.5,525.9,272.6,"annual growth, Hungary’s rate of 1.7% was lower than the EU’s 3.7%. Hungary’s VHCN coverage in "
+7,7,3,Calibri,11.0,72.0,276.0,525.9,287.1,"sparsely populated areas increased to 77.63%, while the EU’s coverage reached 66.66%. Hungary’s "
+7,7,4,Calibri,11.0,72.0,290.6,525.8,301.6,annual growth rate of 2.3% was also lower than the EU’s 7.7%. The country is on track according to its 
+7,7,5,Calibri,11.0,72.0,305.0,345.3,316.0,trajectory presented in the Digital Decade national roadmap. 
+7,8,0,Calibri-Bold,11.0,72.0,327.5,525.8,338.6,"Hungary’s fibre-to-the-premises (FTTP) coverage increased to 81.76% (+2.4% since 2024), "
+7,8,1,Calibri-Bold,11.0,72.0,342.0,258.7,353.1,significantly higher than the EU’s 74.13%.
+7,8,1,Calibri,11.0,258.8,342.0,525.9,353.1," However, Hungary’s annual growth rate was lower than the "
+7,8,2,Calibri,11.0,72.0,356.4,525.8,367.5,"EU’s 7.1%, as the coverage is already at a relatively high baseline value. In sparsely populated areas, "
+7,8,3,Calibri,11.0,72.0,371.0,525.9,382.0,"Hungary’s coverage increased to 71.35%, again above the EU’s coverage of 62.61%. Hungary’s annual "
+7,8,4,Calibri,11.0,72.0,385.5,525.8,396.5,growth rate of 4.1% was also lower than the EU’s 6.5%. The country is on track according to its 
+7,8,5,Calibri,11.0,72.0,400.0,345.3,411.1,trajectory presented in the Digital Decade national roadmap. 
+7,10,0,Calibri,11.0,522.8,630.6,525.3,641.6, 
+7,11,0,Calibri-Bold,11.0,72.0,654.0,525.9,665.0,"In 2025, Hungary’s 5G coverage increased to 94.04% (+9.9% since 2024), while the EU’s coverage "
+7,11,1,Calibri-Bold,11.0,72.0,668.6,148.4,679.7,reached 96.79%.
+7,11,1,Calibri,11.0,148.3,668.6,525.9,679.7, Hungary’s annual growth rate of 9.9% was higher than the EU’s 2.6%.  In sparsely 
+7,11,2,Calibri,11.0,72.0,683.0,525.9,694.1,"populated areas, Hungary’s 5G coverage increased to 81.95%, while the EU’s coverage reached "
+7,11,3,Calibri,11.0,72.0,697.5,525.8,708.6,"88.88%. However, the annual growth rate of 41.5% in these areas was significantly higher than the "
+7,11,4,Calibri,11.0,72.0,712.1,525.8,723.1,EU’s 11.7%. The country is on track according to its trajectory presented in the Digital Decade national 
+7,11,5,Calibri,11.0,72.0,726.6,117.6,737.6,roadmap. 
+7,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+8,3,0,Calibri,11.0,72.0,83.9,525.9,94.9,"Hungary’s 5G coverage in the 3.4-3.8 GHz band was 60.12% in 2025, below the EU’s coverage of "
+8,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"74.75%. However, the annual growth rate of 12.6% was higher than the EU’s 10.6%. In sparsely "
+8,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"populated areas, Hungary’s coverage in the 3.4-3.8 GHz band increased to 12.63%, while the EU’s "
+8,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"coverage reached 33.71%. However, Hungary’s annual growth rate of 97.2% in these areas was "
+8,3,4,Calibri,11.0,72.0,142.0,252.7,153.0,significantly higher than the EU’s 32.9%. 
+8,4,0,Calibri,11.0,72.0,168.4,525.8,179.4,"Hungary has performed consistently in VHCN and FTTP coverage, surpassing the EU average in both "
+8,4,1,Calibri,11.0,72.0,182.9,525.9,193.9,"years. However, the country’s growth rates in these areas have been lower than the EU’s. For overall "
+8,4,2,Calibri,11.0,72.0,197.4,525.9,208.5,"5G coverage and 5G coverage in the 3.4-3.8 GHz band, Hungary was below the EU average. However, "
+8,4,3,Calibri,11.0,72.0,211.9,525.9,223.0,"the country’s growth rates in these areas have been significantly higher than the EU’s, indicating rapid "
+8,4,4,Calibri,11.0,72.0,226.3,525.9,237.4,"progress. In conclusion, while Hungary’s coverage levels in certain areas are commendable, there is a "
+8,4,5,Calibri,11.0,72.0,240.9,344.6,251.9,need for improved growth rates in VHCN and FTTP coverage. 
+8,5,0,Calibri,11.0,72.0,263.4,525.9,274.5,"The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in "
+8,5,1,Calibri,11.0,72.0,277.9,516.2,288.9,Hungary and shows that the main regions facing coverage challenges are Nyugat and Dél-Dunántúl. 
+8,7,0,Calibri,11.0,498.8,456.8,501.3,467.8, 
+8,8,0,Calibri-Bold,11.0,72.0,476.2,525.9,487.3,"In terms of take-up, Hungary is at 44.53% of fixed broadband subscriptions >= 1 Gbps, after an "
+8,8,1,Calibri-Bold,11.0,72.0,490.7,411.5,501.8,"increase of 11.9% in 2025, which places it above the EU average of 26.97%."
+8,8,1,Calibri,11.0,411.6,490.7,525.9,501.8," In 2024, Hungary’s share "
+8,8,2,Calibri,11.0,72.0,505.3,525.7,516.3,"was 39.81%, which was higher than the EU average of 22.25%. The annual growth rate for Hungary in "
+8,8,3,Calibri,11.0,72.0,519.8,525.9,530.8,"2025 was 11.9%, which was lower than the EU’s growth rate of 21.2%, achieved from a lower baseline. "
+8,9,0,Calibri-Bold,11.0,72.0,546.2,501.5,557.2,"Despite an increase of 39.6% in 2025, only 29.01% of the Hungarian population have a 5G SIM "
+8,9,1,Calibri-Bold,11.0,72.0,560.7,303.7,571.8,"card, significantly below the EU average of 55.55%."
+8,9,1,Calibri,11.0,303.8,560.7,525.5,571.8," In 2024, Hungary’s share was 20.79%, which was "
+8,9,2,Calibri,11.0,72.0,575.3,520.9,586.3,"also below the EU average of 35.56%. The annual growth rate for Hungary in 2025 was 39.6%, which "
+8,9,3,Calibri,11.0,72.0,589.8,502.0,600.8,is lower than the EU’s growth rate of 56.2%. This indicates that while Hungary shows progress in 
+8,9,4,Calibri,11.0,72.0,604.2,499.0,615.2,"fixed broadband subscriptions >= 1 Gbps, it lags behind the EU in the adoption of 5G SIM cards. "
+8,10,0,Calibri-LightItalic,11.0,72.0,626.7,302.6,637.8,Policy context and assessment of recommendations  
+8,11,0,Calibri-Bold,11.0,72.0,653.3,525.8,664.3,Hungary is focusing on covering the remaining households with fibre by directing public and private 
+8,11,1,Calibri-Bold,11.0,72.0,667.7,191.2,678.7,investment into this area. 
+8,11,1,Calibri,11.0,191.2,667.7,525.9,678.7,The state aid program DIMOP Plusz 3.1.2 (Gigabit Hungary) is based on the 
+8,11,2,Calibri,11.0,72.0,682.2,525.9,693.2,construction of gigabit capable connections via optical fibre and 5G Fixed Wireless Access (FWA) 
+8,11,3,Calibri,11.0,72.0,696.7,525.8,707.7,"supported by an address database for households, businesses, governmental institutions and 5G base "
+8,11,4,Calibri,11.0,72.0,711.2,525.9,722.3,"tower stations (BTS). The database, created with the help of a public consultation, contains information "
+8,11,5,Calibri,11.0,72.0,725.6,240.5,736.7,on uncovered (white and grey) areas. 
+8,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+9,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"The new Gigabit Hungary Program, announced in 2025 aims to provide gigabit network coverage for "
+9,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,approximately 600 000 currently not covered access points in all the 174 districts of Hungary (with the 
+9,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,exception of Budapest) with financing from European Union funds. The new programme takes into 
+9,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"account the special requirements of rural areas, adding more financial and technical support for those "
+9,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,connections. It plans to provide fibre and 5G FWA connections to households not yet connected to 
+9,3,5,Calibri,11.0,72.0,156.4,525.8,167.4,"Gigabit speeds, with a deadline of the end of 2028. Provided the programme is successfully "
+9,3,6,Calibri,11.0,72.0,170.9,525.8,181.9,"implemented, Hungary will be able to fulfil its trajectory presented in the Digital Decade national "
+9,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,roadmap. The results of applications for participation in the programme were announced in two 
+9,3,8,Calibri,11.0,72.0,199.9,525.9,211.0,"phases, adding 452 000 addresses to be covered with gigabit speed and 3 604 5G BTSs to be connected "
+9,3,9,Calibri,11.0,72.0,214.3,525.9,225.4,with fibre with a total state support of HUF 84.13 billion. To guarantee that the connectivity targets of 
+9,3,10,Calibri,11.0,72.0,228.9,525.9,239.9,"the Digital Decade and the National Digital Strategy are met, public funding has been increased to HUF "
+9,3,11,Calibri,11.0,72.0,243.4,513.0,254.4,"95.46 billion HUF, enabling the country to launch a third phase, covering the remaining addresses.  "
+9,4,0,Calibri-Bold,11.0,72.0,265.9,462.3,276.9,The decommissioning of older networks (copper cable and 2G/3G) is progressing well. 
+9,4,0,Calibri,11.0,462.1,265.9,525.9,276.9,Regarding the 
+9,4,1,Calibri,11.0,72.0,280.4,525.9,291.4,"switching-off of copper networks, operators have not set a target date for completion. However, the "
+9,4,2,Calibri,11.0,72.0,294.9,525.7,305.9,main players are progressing on the basis of batches of municipalities that are already covered with 
+9,4,3,Calibri,11.0,72.0,309.4,525.8,320.5,"fibre or with a pilot project. Thanks to the high take-up of >=1Gbps subscriptions, the country is well "
+9,4,4,Calibri,11.0,72.0,323.8,525.9,334.9,positioned to complete the decommissioning in the near future. Based on the experiences of the 
+9,4,5,Calibri,11.0,72.0,338.3,525.8,349.4,"successful switch-off of 3G networks in 2024, the mobile operators are already planning the 2G "
+9,4,6,Calibri,11.0,72.0,352.8,525.9,363.9,"network switch-off on a commercial basis. One example is Magyar Telekom, one of the three mobile "
+9,4,7,Calibri,11.0,72.0,367.4,525.9,378.4,"network operators in Hungary, which is gradually transferring its customers’ 2G traffic to the national "
+9,4,8,Calibri,11.0,72.0,381.8,525.9,392.8,"radio access network of another mobile operators (Yettel). However, the complete switch-off of 2G "
+9,4,9,Calibri,11.0,72.0,396.3,525.9,407.4,"networks will not be possible before 2030, due to the large number of commercial (cashier or other "
+9,4,10,Calibri,11.0,72.0,410.8,313.5,421.9,machine-to-machine) devices currently in operation.   
+9,5,0,Calibri,11.0,72.0,433.3,525.6,444.3,"In 2025, Hungary did not receive any recommendation under the Digital Decade on connectivity "
+9,5,1,Calibri,11.0,72.0,447.8,190.0,458.8,"matters (VHCN, FTTP, 5G). "
+9,6,0,Calibri-Light,12.0,72.0,470.6,151.9,482.6,Semiconductors 
+9,6,1,Calibri-Bold,11.0,72.0,486.1,525.6,497.1,Hungary does not currently have a significant domestic industry for semiconductor production. 
+9,6,2,Calibri,11.0,72.0,500.6,525.8,511.6,"However, some of the major industrial players in the European automotive semiconductor ecosystem, "
+9,6,3,Calibri,11.0,72.0,515.1,525.9,526.2,"such as BOSCH, Infineon Technologies and NXP Semiconductors, are present in the country. As these "
+9,6,4,Calibri,11.0,72.0,529.6,525.7,540.7,Hungarian entities are indirect and/or associated partners in the IPCEI on Microelectronics and 
+9,6,5,Calibri,11.0,72.0,544.0,525.9,555.1,"Communication Technologies (IPCEI-ME/CT), the country can contribute to the European automotive "
+9,6,6,Calibri,11.0,72.0,558.6,525.8,569.6,"semiconductor value chain, relying on a strong research base and a growing industrial presence in the "
+9,6,7,Calibri,11.0,72.0,573.1,184.8,584.1,semiconductor industry.  
+9,7,0,Calibri-Light,12.0,72.0,595.8,130.2,607.8,Edge nodes 
+9,8,0,Calibri-LightItalic,11.0,72.0,613.4,183.7,624.5,Performance assessment 
+9,9,0,Calibri-Bold,11.0,72.0,639.8,525.9,650.9,"According to the Edge Node Observatory, Hungary is estimated to have deployed a total of 152 edge "
+9,9,1,Calibri-Bold,11.0,72.0,654.3,147.2,665.4,nodes by 2025. 
+9,9,1,Calibri,11.0,149.1,654.3,189.9,665.4,Although
+9,9,1,Calibri-Bold,11.0,189.9,654.3,192.4,665.4, 
+9,9,1,Calibri,11.0,194.1,654.3,525.7,665.4,"due to a change in methodology, this number cannot be compared to "
+9,9,2,Calibri,11.0,72.0,668.9,525.9,679.9,"previous estimations, according to the 2025 figure, Hungary has already fulfilled its 2030 target "
+9,9,3,Calibri,11.0,72.0,683.4,296.4,694.4,presented in the Digital Decade national roadmap 
+9,10,0,Calibri-LightItalic,11.0,72.0,705.8,300.0,716.9,Policy context and assessment of recommendations 
+9,11,0,Calibri-Bold,11.0,72.0,732.4,525.9,743.4,Hungary participates in the IPCEI-CIS (Important Project of Common European Interest – Cloud 
+9,11,1,Calibri-Bold,11.0,72.0,746.9,202.2,757.9,Infrastructure and Services). 
+9,11,1,Calibri,11.0,201.6,746.9,525.9,757.9,"Bringing together seven Member States (France, Germany, Hungary, Italy, "
+9,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+10,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"the Netherlands, Poland, and Spain), the IPCEI-CIS aims to support projects contributing to the "
+10,2,1,Calibri,11.0,72.0,98.4,525.8,109.5,"development of a multi-provider cloud-to-edge continuum in the EU, with a maximum public "
+10,2,2,Calibri,11.0,72.0,112.9,203.7,124.0,investment of EUR 1.2 billion.
+10,2,2,Calibri-Bold,11.0,203.7,112.9,206.2,124.0, 
+10,4,0,Calibri-Light,12.0,72.0,135.7,184.4,147.7,Quantum technologies 
+10,4,1,Calibri-Bold,11.0,72.0,151.2,525.7,162.3,Hungary builds on a strong science base in the field of quantum technologies and is actively linked 
+10,4,2,Calibri-Bold,11.0,72.0,165.7,280.7,176.8,to European and global initiatives in this area.
+10,4,2,Calibri,11.0,280.7,165.7,525.9,176.8, Hungary established the Hungarian Research Network 
+10,4,3,Calibri,11.0,72.0,180.3,525.9,191.3,"(HUN-REN) in 2025, as its leading national research organization and a central pillar of the domestic "
+10,4,4,Calibri,11.0,72.0,194.8,525.8,205.8,research and innovation ecosystem. The network brings together 15 research institutions and two 
+10,4,5,Calibri,11.0,72.0,209.2,525.9,220.2,"business entities and employs more than 5 000 staff members, including approximately 3 400 "
+10,4,6,Calibri,11.0,72.0,223.7,525.8,234.7,"researchers conducting research across a broad spectrum of STEM fields, life sciences, and frontier "
+10,4,7,Calibri,11.0,72.0,238.2,525.9,249.3,"science. The research teams of the HUN-REN Wigner Physics Research Centre, HUN-REN Institute for "
+10,4,8,Calibri,11.0,72.0,252.8,525.9,263.8,"Computer Science and Control (SZTAKI), the Budapest University of Technology and Economics, the "
+10,4,9,Calibri,11.0,72.0,267.2,525.7,278.2,Eötvös Loránd University and Pro-M Zrt. (Hungarian NREN) are actively engaged in research and 
+10,4,10,Calibri,11.0,72.0,281.7,525.8,292.7,"development activities in the fields of quantum information, quantum communication and quantum "
+10,4,11,Calibri,11.0,72.0,296.2,525.9,307.2,"simulation, which is increasingly linked to industrial collaborations and EU research programmes. "
+10,4,12,Calibri,11.0,72.0,310.7,525.8,321.8,Hungary is also actively contributing to the deployment of the European Quantum Communication 
+10,4,13,Calibri,11.0,72.0,325.1,525.9,336.2,"Infrastructure, in particular through the EuroQCI programme, which aims to create a quantum-proof "
+10,4,14,Calibri,11.0,72.0,339.6,525.8,350.7,communication network in Europe to support the secure transmission of data across government 
+10,4,15,Calibri,11.0,72.0,354.2,525.8,365.2,"systems, the financial sector and critical infrastructures. In support of these objectives, Hungary is "
+10,4,16,Calibri,11.0,72.0,368.7,525.9,379.7,"participating in the QCIHungary and CEQCI projects, within which the HUN-REN Wigner Research "
+10,4,17,Calibri,11.0,72.0,383.1,525.7,394.1,"Centre for Physics, the Budapest University of Technology and Economics, the Eötvös Loránd "
+10,4,18,Calibri,11.0,72.0,397.6,525.8,408.7,"University, and Pro-M Ltd. are carrying out key research, development, and infrastructure deployment "
+10,4,19,Calibri,11.0,72.0,412.1,337.4,423.2,activities related to quantum communication technologies. 
+10,5,0,Calibri,11.0,72.0,434.6,91.2,445.6,The 
+10,5,0,Calibri-Bold,11.0,92.3,434.6,270.2,445.6,Hungarian National Quantum Strategy
+10,5,0,Calibri,11.0,270.3,434.6,525.9,445.6, is currently being prepared; it will provide a long-term 
+10,5,1,Calibri,11.0,72.0,449.1,525.7,460.1,"framework for research, development and industrial deployment of quantum technologies. The "
+10,5,2,Calibri,11.0,72.0,463.6,525.9,474.7,"strategy is expected to focus on strengthening quantum computing, quantum communication, "
+10,5,3,Calibri,11.0,72.0,478.1,286.6,489.2,quantum sensors and deep tech developments. 
+10,6,0,Calibri,11.0,72.0,500.6,525.8,511.6,Hungarian researchers are also involved in global quantum initiatives. The Hungarian research group 
+10,6,1,Calibri,11.0,72.0,515.1,525.9,526.2,"Gibbs Samplers, from the HUN-REN Alfréd Rényi Mathematics Research Institute, was among the "
+10,6,2,Calibri,11.0,72.0,529.6,525.7,540.7,"seven finalists in the XPRISE Quantum Applications competition launched by Google Quantum AI, "
+10,6,3,Calibri,11.0,72.0,544.0,525.7,555.1,GESDA and XPRISE. The project aims to develop quantum algorithms that can significantly accelerate 
+10,6,4,Calibri,11.0,72.0,558.6,432.7,569.6,the discovery of new materials and the simulation of complex quantum systems. 
+10,7,0,Calibri,11.0,72.0,581.1,525.8,592.2,"In parallel with Hungarian research and ongoing projects, the National Media and Infocommunications "
+10,7,1,Calibri,11.0,72.0,595.5,525.7,606.6,Authority (NMHH) has developed its quantum strategy and begun expanding its communications 
+10,7,2,Calibri,11.0,72.0,610.1,523.5,621.1,measurement complex with a quantum laboratory with such capabilities that by the time quantum-
+10,7,3,Calibri,11.0,72.0,624.6,525.8,635.6,"based key sharing systems are built it will be able to measure and examine the necessary devices, test "
+10,7,4,Calibri,11.0,72.0,639.1,483.7,650.1,"interoperability capabilities, and authenticate quantum-based devices installed in networks. "
+10,8,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+11,2,0,Calibri-Light,15.0,72.0,84.8,462.2,99.8,Supporting EU-wide digital ecosystems and scaling up innovative 
+11,2,1,Calibri-Light,15.0,72.0,104.6,143.2,119.6,enterprises 
+11,4,0,Calibri-Light,12.0,72.0,131.8,265.2,143.8,SMEs with at least basic digital intensity 
+11,5,0,Calibri-LightItalic,11.0,72.0,149.3,183.7,160.3,Performance assessment 
+11,6,0,Calibri-Bold,11.0,72.0,175.8,525.9,186.9,Hungary is at 59.81% of SMEs with at least a basic level of digital intensity after an increase of 6.1% 
+11,6,1,Calibri-Bold,11.0,72.0,190.3,445.5,201.4,"annually between 2023 and 2025, which places it below the EU average of 71.39%."
+11,6,1,Calibri,11.0,445.5,190.3,525.9,201.4," In 2023, Hungary "
+11,6,2,Calibri,11.0,72.0,204.7,525.9,215.8,"was at 53.16%, which was also below the EU average of 57.9%. While Hungary has shown "
+11,6,3,Calibri,11.0,72.0,219.3,525.9,230.3,"improvement, its annual growth rate of 6.1% is lower than the EU’s 11.0%, indicating that Hungarian "
+11,6,4,Calibri,11.0,72.0,233.8,525.8,244.8,SMEs are digitalising at a slower pace than their EU counterparts. The country is on track according to 
+11,6,5,Calibri,11.0,72.0,248.3,358.1,259.4,its trajectory presented in the Digital Decade national roadmap. 
+11,7,0,Calibri,11.0,72.0,270.8,525.9,281.8,"Regarding SMEs with a very high digital intensity index, Hungary is at 5.54% after an increase of 24.2% "
+11,7,1,Calibri,11.0,72.0,285.3,525.9,296.3,"annually between 2023 and 2025, which places it significantly below the EU average of 9.07%. In 2023, "
+11,7,2,Calibri,11.0,72.0,299.8,525.9,310.8,"the figure for Hungary was 3.59%, also lower than the EU average of 4.38%. As with basic digital "
+11,7,3,Calibri,11.0,72.0,314.2,525.9,325.2,"intensity, for this indicator too, Hungary is making progress, but continues to lag behind average EU "
+11,7,4,Calibri,11.0,72.0,328.7,429.0,339.8,"levels, particularly in achieving advanced levels of digital intensity among SMEs. "
+11,8,0,Calibri-LightItalic,11.0,72.0,351.2,300.0,362.2,Policy context and assessment of recommendations 
+11,9,0,Calibri-Bold,11.0,72.0,377.7,525.9,388.7,Low levels of digitalisation of SMEs prevent Hungary from benefiting from the global productivity 
+11,9,1,Calibri-Bold,11.0,72.0,392.2,152.6,403.2,gains from digital
+11,9,1,Calibri,11.0,152.7,392.2,525.9,403.2,". SMEs face challenges in innovation readiness and capabilities, due to the lack of "
+11,9,2,Calibri,11.0,72.0,406.7,525.9,417.8,digital skills of managers and staff. Foreign companies investing in Hungary bring only a small portion 
+11,9,3,Calibri,11.0,72.0,421.3,525.9,432.3,"of their R&D activities to Hungary, which are typically managed at parent company level. Consequently, "
+11,9,4,Calibri,11.0,72.0,435.7,525.8,446.7,there is minimal foreign support for the SME sector in this regard. Broken down by company size 
+11,9,5,Calibri,11.0,72.0,450.2,525.9,461.2,"category, there is a significant difference between small enterprises with 10-49 employees and "
+11,9,6,Calibri,11.0,72.0,464.7,525.9,475.8,medium-sized enterprises with 50-249 employees. While 79.97 % of medium-sized enterprises with 
+11,9,7,Calibri,11.0,72.0,479.2,525.9,490.3,"50-249 employees reach at least a basic level of digital intensity (EU: 86.67 %), only slightly more than "
+11,9,8,Calibri,11.0,72.0,493.6,525.7,504.7,half of small enterprises with 10-49 employees reach at least a basic level of digitalisation (HU: 
+11,9,9,Calibri,11.0,72.0,508.1,333.1,519.2,56.78 %; EU: 68.85 %). According to the latest Eurostat data
+11,9,9,Calibri,7.0,333.1,507.2,336.6,514.2,1
+11,9,9,Calibri,11.0,336.5,508.1,525.8,519.2,", 63.5 % of domestic small businesses have "
+11,9,10,Calibri,11.0,72.0,522.7,525.9,533.7,"a website (EU: 76.67 %), 43.96 % use cloud computing services (EU: 49.3 %), 24.35 % use an ERP "
+11,9,11,Calibri,11.0,72.0,537.2,525.7,548.2,solution (EU: 41.08 %) and 24.81 % send electronic invoices suitable for automatic processing (EU: 
+11,9,12,Calibri,11.0,72.0,551.6,525.9,562.6,"37.01 %), 27.35 % held remote (online) meetings (EU: 47.04 %), 44.38 % use social media (EU: 60.59 %) "
+11,9,13,Calibri,11.0,72.0,566.1,485.2,577.2,and 9.56 % have documentation recording ICT security measures or practices (EU: 30.31 %).  
+11,10,0,Calibri,11.0,72.0,592.5,525.9,603.6,"The Demjan programme, introduced in 2024 to address the digitalisation of SMEs and aimed "
+11,10,1,Calibri,11.0,72.0,607.2,525.9,618.2,"specifically at developing the internet presence of Hungarian micro and small enterprises, has had "
+11,10,2,Calibri,11.0,72.0,621.6,525.9,632.6,"mixed results. Another important measure, the second round of the call (DIMOP Plus-1.2.6/B -26) on "
+11,10,3,Calibri,11.0,72.0,636.1,525.7,647.1,supporting growth opportunities for SMEs to foster digital infrastructure and transformation was 
+11,10,4,Calibri,11.0,72.0,650.6,525.9,661.7,launched in 2026 to improve companies’ position on the Digital Intensity Index. The programme 
+11,10,5,Calibri,11.0,72.0,665.1,525.8,676.2,"supports domestic companies in procuring tools, services and training (e.g. related to the development "
+11,10,6,Calibri,11.0,72.0,679.5,525.9,690.6,"of employees’ digital skills, the development of ICT security or the effective use of social media). In "
+11,10,7,Calibri,11.0,72.0,694.1,525.7,705.1,"order to be eligible for aid, companies must reach at least a basic level of digital intensity by the end "
+11,10,8,Calibri,11.0,72.0,708.6,525.7,719.6,"of the project, but those undertaking to reach a high level of digital intensity by the end of the project "
+11,11,0,Calibri,11.0,216.1,724.6,218.5,735.6, 
+11,11,1,Calibri,6.5,72.0,737.1,75.3,743.6,1
+11,11,1,Calibri,10.0,75.3,738.0,77.5,747.9, 
+11,11,1,Calibri,9.0,77.5,738.7,357.3,747.7,"Data for years 2023, 2024 and 2025 vary based on the latest measured data: "
+11,11,1,Calibri-Italic,9.0,357.4,738.7,507.7,747.7,Website (2025); Cloud computing service 
+11,11,2,Calibri-Italic,9.0,72.0,749.8,515.1,758.8,(2025); ERP solution (2025); Electronic invoice suitable for automatic processing (2023); Remote (online) meetings (2024); 
+11,11,3,Calibri-Italic,9.0,72.0,760.9,386.9,769.9,"Social media (2025); Documentation recording ICT security measures, practices (2024)."
+11,11,3,SegoeUI,10.0,387.1,756.9,389.8,769.7, 
+11,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+12,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,receive additional points in the selection procedure. Participating companies are required to 
+12,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"participate in input and output measurements, which are designed on the basis of the Digital Intensity "
+12,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,Index. The implementation was planned with the involvement of Hungarian telecommunication and 
+12,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,IT service providers; however the implementation is progressing slowly due to administrative reasons. 
+12,4,0,Calibri,11.0,72.0,149.9,504.4,160.9,"Additionally, as part of the strategic program EDIOP Plus-3.2.1-21 strategic programme, aimed at "
+12,4,1,Calibri,11.0,72.0,164.4,485.9,175.5,"providing sub-granting to eligible companies for on-the-job training, thereby increasing their "
+12,4,2,Calibri,11.0,72.0,178.9,518.7,190.0,"productivity, only 23% of the trainings courses for which funding was applied for were in the area of "
+12,4,3,Calibri,11.0,72.0,193.5,522.9,204.5,"ICT; consequently, the programme has had only a moderate impact on the digitalisation of the SMEs. "
+12,5,0,Calibri-Bold,11.0,77.7,216.4,319.3,227.4,2025 recommendation on digitalisation of SMEs
+12,5,0,Calibri,11.0,319.4,216.4,520.2,227.4,: Continue efforts through new support 
+12,5,1,Calibri,11.0,77.7,230.9,520.2,242.0,"programmes and incentives to accelerate the digital transformation of SMEs, no matter what their "
+12,5,2,Calibri,11.0,77.7,245.4,299.6,256.5,"size, and increase resources for existing schemes. "
+12,6,0,Calibri-Bold,11.0,77.7,263.4,520.2,274.5,"In 2025, Hungary continued the implementation of existing measures but did not take any new "
+12,6,1,Calibri-Bold,11.0,77.7,277.9,117.3,288.9,measure
+12,6,1,Calibri,11.0,117.3,277.9,520.3,288.9,". The performance figures are slightly improving, but the gap between Hungary and the EU "
+12,6,2,Calibri,11.0,77.7,292.4,520.3,303.4,"average is growing, which shows that the current initiatives are not sufficient. The country "
+12,6,3,Calibri,11.0,77.7,306.9,520.2,317.9,"introduced a new measure just after the closing of the monitoring period, which aims to increase "
+12,6,4,Calibri,11.0,77.7,321.4,520.2,332.5,the competitiveness of micro and small enterprises with very low digital intensity in less developed 
+12,6,5,Calibri,11.0,77.7,335.8,520.2,346.9,"regions by supporting the digital transformation, through the deployment and operation of digital "
+12,6,6,Calibri,11.0,77.7,350.3,520.3,361.4,"solutions available on the market and, the strengthening of basic digital infrastructures. The DIMOP "
+12,6,7,Calibri,11.0,77.7,364.8,520.3,375.9,"Plusz call, funded from the European Regional Development Fund and co-financed by Hungary, aims "
+12,6,8,Calibri,11.0,77.7,379.4,416.1,390.4,to strengthen the efficiency and income-generating capacity of these SMEs. 
+12,7,0,Calibri,11.0,72.0,397.4,74.5,408.4, 
+12,8,0,Calibri-Light,12.0,72.0,420.1,236.6,432.1,Take up of advanced technologies 
+12,9,0,Calibri-LightItalic,11.0,72.0,437.7,183.7,448.8,Performance assessment 
+12,9,1,Calibri-Bold,11.0,72.0,452.1,74.5,463.1, 
+12,11,0,Calibri-Bold,11.0,72.0,701.4,525.9,712.4,"40.56% of enterprises in Hungary adopted data analytics, following a decrease of 12.7% annually "
+12,11,1,Calibri-Bold,11.0,72.0,715.9,485.2,726.9,"between 2023 and 2025, which places the country slightly above the EU average of 39.85%."
+12,11,1,Calibri,11.0,485.4,715.9,525.9,726.9," In 2023, "
+12,11,2,Calibri,11.0,72.0,730.3,525.9,741.4,"the figure for Hungary was 53.21%, significantly above the EU average of 33.25%. The decline in "
+12,11,3,Calibri,11.0,72.0,744.8,525.9,755.9,"Hungary’s adoption rate might be considered as the 2023 figure was extreme, probably due to "
+12,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+13,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"methodological misalignment and this year’s figure represents the reality. For SMEs, Hungary’s "
+13,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"adoption rate in 2025 is 39.62%, slightly above the EU average of 38.59%, but this follows a decline of "
+13,3,2,Calibri,11.0,72.0,112.9,525.6,124.0,"-13.2% annually since 2023, whereas the EU saw an annual growth of 9.7%. Large enterprises in "
+13,3,3,Calibri,11.0,72.0,127.5,525.6,138.5,"Hungary also experienced a slight decline, with an adoption rate of 75.04% in 2025, below the EU "
+13,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"average of 82.04%, and an annual growth rate of -0.5% compared to the EU’s 6.9%. The country is "
+13,3,5,Calibri,11.0,72.0,156.4,426.1,167.4,lagging behind its trajectory presented in the Digital Decade national roadmap. 
+13,4,0,Calibri-Bold,11.0,72.0,178.9,525.9,190.0,40.82% of enterprises in Hungary adopted cloud technologies after an increase of 4.9% annually 
+13,4,1,Calibri-Bold,11.0,72.0,193.5,464.8,204.5,"between 2023 and 2025, which places the country below the EU average of 46.69%."
+13,4,1,Calibri,11.0,464.9,193.5,525.9,204.5," In 2023, the "
+13,4,2,Calibri,11.0,72.0,207.9,525.9,218.9,"figure for Hungary was 37.12%, slightly below the EU average of 38.97%. For SMEs, Hungary’s adoption "
+13,4,3,Calibri,11.0,72.0,222.4,525.7,233.4,"rate in 2025 is 39.8%, below the EU average of 45.74%, with an annual growth rate of 4.9% compared "
+13,4,4,Calibri,11.0,72.0,236.9,525.6,248.0,"to the EU’s 9.7%. Large enterprises in Hungary, however, have an adoption rate of 78.56% in 2025, "
+13,4,5,Calibri,11.0,72.0,251.4,525.9,262.5,"slightly above the EU average of 78.32%, following an annual growth of 4.6% compared to the EU’s "
+13,4,6,Calibri,11.0,72.0,265.9,525.8,276.9,6.0%. The country is lagging behind compared to its trajectory presented in the Digital Decade national 
+13,4,7,Calibri,11.0,72.0,280.4,117.6,291.4,roadmap. 
+13,5,0,Calibri-Bold,11.0,72.0,302.9,525.9,314.0,10.37% of enterprises in Hungary adopted artificial intelligence after an increase of 67.9% between 
+13,5,1,Calibri-Bold,11.0,72.0,317.3,143.5,328.4,2024 and 2025.
+13,5,1,Calibri,11.0,143.4,317.3,525.9,328.4," This is below the EU average of 19.95%, which grew at an annual rate of 48.0%. In "
+13,5,2,Calibri,11.0,72.0,331.8,525.9,342.9,"2024, the figure for Hungary was 7.4%, lower than the EU average of 13.48%. Despite Hungary’s growth "
+13,5,3,Calibri,11.0,72.0,346.4,525.8,357.4,"rate outpacing the EU’s growth rate of 48.0%, Hungarian enterprises still lag behind their EU "
+13,5,4,Calibri,11.0,72.0,360.9,525.8,371.9,"counterparts in AI adoption. For SMEs, Hungary is at 9.57%, below the EU average of 18.9%, but with "
+13,5,5,Calibri,11.0,72.0,375.3,525.9,386.3,a higher annual growth rate of 70.0% compared to the EU’s 60.0%. Large enterprises in Hungary have 
+13,5,6,Calibri,11.0,72.0,389.8,525.8,400.9,"an adoption rate of 39.99% in 2025, below the EU average of 55.03%, but with a higher annual growth "
+13,5,7,Calibri,11.0,72.0,404.3,525.8,415.4,rate of 51.5% compared to the EU’s 34.4%. The country is on track according to its trajectory presented 
+13,5,8,Calibri,11.0,72.0,418.9,251.4,429.9,in the Digital Decade national roadmap. 
+13,6,0,Calibri-Bold,11.0,72.0,441.3,525.6,452.4,"When considering the adoption of AI, cloud, or data analytics technologies together, Hungary is at "
+13,6,1,Calibri-Bold,11.0,72.0,455.8,378.5,466.9,"59.66% in 2025, following a decline of -4.7% annually since 2023. "
+13,6,1,Calibri,11.0,379.5,455.8,525.8,466.9,This is below the EU average of 
+13,6,2,Calibri,11.0,72.0,470.3,525.9,481.4,"63.2%, which grew at an annual rate of 7.5%. In 2023, Hungary’s adoption rate was 65.63%, above the "
+13,6,3,Calibri,11.0,72.0,484.7,525.6,495.8,"EU’s 54.7%. For SMEs, Hungary’s adoption rate in 2025 is 58.78%, below the EU average of 62.32%, "
+13,6,4,Calibri,11.0,72.0,499.3,525.9,510.3,with an annual decline of -4.8% compared to the EU’s annual growth of 7.7%. Large enterprises in 
+13,6,5,Calibri,11.0,72.0,513.8,525.6,524.8,"Hungary have an adoption rate of 92.19% in 2025, slightly below the EU average of 92.78%, with no "
+13,6,6,Calibri,11.0,72.0,528.3,525.8,539.3,"growth between 2023 and 2025, compared to the EU’s annual growth of 3.4%. The country did not "
+13,6,7,Calibri,11.0,72.0,542.7,446.7,553.8,provide a national trajectory point for 2025 in the Digital Decade national roadmap. 
+13,7,0,Calibri,11.0,72.0,565.3,525.7,576.3,Hungary has shown mixed progress in the digitalisation of businesses. While there have been 
+13,7,1,Calibri,11.0,72.0,579.8,525.7,590.9,"improvements in certain areas, such as the adoption of AI among SMEs and large enterprises, "
+13,7,2,Calibri-Bold,11.0,72.0,594.2,462.4,605.3,"Hungarian enterprises, particularly SMEs, continue to lag behind their EU counterparts"
+13,7,2,Calibri,11.0,462.5,594.2,525.9,605.3, in most areas 
+13,7,3,Calibri,11.0,72.0,608.7,525.7,619.8,of technology adoption. Hungary’s annual growth rates in digitalisation are often lower than the EU 
+13,7,4,Calibri,11.0,72.0,623.3,422.8,634.3,"averages, indicating a need for accelerated efforts to keep pace with EU peers. "
+13,8,0,Calibri-LightItalic,11.0,72.0,645.7,300.0,656.7,Policy context and assessment of recommendations 
+13,9,0,Calibri-Bold,11.0,72.0,672.2,525.9,683.3,Hungary launched new initiatives to facilitate the uptake of advanced digital technologies beyond 
+13,9,1,Calibri-Bold,11.0,72.0,686.7,188.3,697.8,the measures included in
+13,9,1,Calibri,11.0,188.3,686.7,190.8,697.8, 
+13,9,1,Calibri-Bold,11.0,191.3,686.7,364.1,697.8,the Digital Decade national roadmap.
+13,9,1,Calibri,11.0,364.1,686.7,525.8,697.8, The call on Establishing services to 
+13,9,2,Calibri,11.0,72.0,701.1,525.9,712.2,ensure the usability of data assets in the economy and making available the available data for re-use 
+13,9,3,Calibri,11.0,72.0,715.7,525.8,726.7,(DIMOP Plus-1.2.5-26) facilitates the use of AI and support for data-driven operations by businesses. 
+13,9,4,Calibri,11.0,72.0,730.2,525.9,741.2,The aim is to develop a service data platform and related services with AI-based analytics and data 
+13,9,5,Calibri,11.0,72.0,744.7,525.8,755.8,"processing functions – based on administrative records, high-value public sector data, "
+13,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+14,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"market/economic sources, and SMEs’ own data – providing businesses with tailor-made decision "
+14,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,support solutions responsive to specific situations. Project DIMOP Plus -1.2.2-24 provides digital 
+14,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"infrastructure and other IT services with a sectoral approach; it involves industry non-profit actors, "
+14,3,3,Calibri,11.0,72.0,127.5,351.8,138.5,creating model solutions applicable to sectoral type problems. 
+14,4,0,Calibri-Bold,11.0,72.0,149.9,525.9,160.9,"Hungary is planning to join the EU’s AI Factory ecosystem, having successfully applied to join the "
+14,4,1,Calibri-Bold,11.0,72.0,164.4,425.2,175.5,"EuroHPC JU with a six-member consortium. The consortium, named Hunaifa"
+14,4,1,Calibri,11.0,425.1,164.4,525.9,175.5,", will be connected to "
+14,4,2,Calibri,11.0,72.0,178.9,525.9,190.0,"the JUPITER AI Factory in Jülichi (Germany), Europe’s largest AI plant with its largest exaflops-grade "
+14,4,3,Calibri,11.0,72.0,193.5,525.9,204.5,European supercomputer. Hunaifa’s main objective is to develop a sustainable HPC-accelerated AI 
+14,4,4,Calibri,11.0,72.0,207.9,525.8,218.9,"infrastructure in Hungary. It provides sector-specific support in areas such as healthcare, energy, "
+14,4,5,Calibri,11.0,72.0,222.4,525.8,233.4,"agriculture and manufacturing, as well as access to local HUN-REN Cloud and remote HPC resources. "
+14,4,6,Calibri,11.0,72.0,236.9,525.9,248.0,"A key partner in the partnership will be Forschungszentrum Jülich in Germany, which will provide "
+14,4,7,Calibri,11.0,72.0,251.4,492.8,262.5,access to the German research network and to the continent’s most powerful supercomputer. 
+14,5,0,Calibri-Italic,11.0,72.0,273.9,258.5,284.9,Assessment of the recommendation 2025 
+14,6,0,Calibri-Bold,11.0,77.7,296.9,394.0,308.0,2025 recommendation on the adoption of advanced technologies
+14,6,0,Calibri,11.0,394.1,296.9,520.2,308.0,: Support the adoption of 
+14,6,1,Calibri,11.0,77.7,311.3,520.1,322.4,advanced digital technologies (with a particular attention to AI and cloud) by enterprises via the 
+14,6,2,Calibri,11.0,77.7,325.8,520.0,336.9,creation of local ecosystems that enables technologies and best practices to be spread across the 
+14,6,3,Calibri,11.0,77.7,340.4,182.7,351.4,whole business sector.  
+14,7,0,Calibri-Bold,11.0,77.7,358.4,520.2,369.4,Hungary made some efforts to address the recommendation through new policy actions in 
+14,7,1,Calibri-Bold,11.0,77.7,372.9,105.5,383.9,2025. 
+14,7,1,Calibri,11.0,105.5,372.9,499.6,383.9,"As the new policy actions were introduced recently, the impact is expected by next year. "
+14,8,0,Calibri,11.0,72.0,390.9,74.5,401.9, 
+14,9,0,Calibri-Light,12.0,72.0,413.6,233.6,425.6,"Unicorns, scale-ups and start-ups "
+14,10,0,Calibri-LightItalic,11.0,72.0,431.2,183.7,442.3,Performance assessment 
+14,11,0,Calibri-Bold,11.0,72.0,457.6,423.4,468.7,"At the beginning of 2026, Hungary had no unicorns (2030 national target of 2). "
+14,11,0,Calibri,11.0,422.9,457.6,525.9,468.7,There are no measures 
+14,11,1,Calibri,11.0,72.0,472.1,525.9,483.2,planned on unicorns in Hungary’s updated roadmap. As there are two potential future unicorns that 
+14,11,2,Calibri,11.0,72.0,486.7,387.8,497.7,"have been identified in Hungary, the national target seems achievable. "
+14,12,0,Calibri-Light,15.0,72.0,513.9,322.7,528.9,Strengthening Cybersecurity & Resilience 
+14,13,0,Calibri-Bold,11.0,72.0,540.9,525.7,551.9,"As for general digitalisation, Hungarian enterprises lag behind EU peers concerning the "
+14,13,1,Calibri-Bold,11.0,72.0,555.3,279.6,566.3,implementation of cybersecurity measures.
+14,13,1,Calibri,11.0,279.8,555.3,525.8,566.3," In 2024, 41.93% of enterprises applies at least 5 "
+14,13,2,Calibri,11.0,72.0,569.9,273.1,580.9,cybersecurity measures (out of 11 measures 
+14,13,2,Calibri,11.0,273.4,569.9,383.7,580.9,as measured by Eurostat
+14,13,2,Calibri,11.0,383.7,569.9,525.8,580.9,"), lower than the EU average of "
+14,13,3,Calibri,11.0,72.0,584.4,525.6,595.4,56.85%. The gap with the EU is particularly pronounced in the use of authentication via biometric 
+14,13,4,Calibri,11.0,72.0,598.9,525.9,609.9,"methods (13.10% in Hungary, 18.27% in the EU), ICT risk assessment (14.85%, EU: 34.10%), and ICT "
+14,13,5,Calibri,11.0,72.0,613.3,525.9,624.3,"security tests (18.16%, EU: 34.64%). The Eurostat indicators of ICT security in enterprises 2024 also "
+14,13,6,Calibri,11.0,72.0,627.8,525.9,638.9,"show that Hungary is lagging behind in the EU in the case of 4 ICT security indicators, being among the "
+14,13,7,Calibri,11.0,72.0,642.3,525.9,653.4,three worst performing countries (use at least one ICT security measure - ranked 25th; make persons 
+14,13,8,Calibri,11.0,72.0,656.9,367.5,667.9,employed aware of their obligation in ICT security - ranked 25
+14,13,8,Calibri,7.0,367.5,656.0,373.4,662.9,th
+14,13,8,Calibri,11.0,373.4,656.9,525.8,667.9,"; have documents on measures, "
+14,13,9,Calibri,11.0,72.0,671.4,525.8,682.4,practices or procedures on ICT security - ranked 26th; the enterprise’s ICT security documents were 
+14,13,10,Calibri,11.0,72.0,685.8,447.7,696.8,defined or reviewed with the last 12 months - ranked 19th from 20 responding MS). 
+14,14,0,Calibri,11.0,72.0,708.3,525.9,719.4,"Based on the results of the Digital Decade Eurobarometer 2026, 94% of Hungarian citizens believe that "
+14,14,1,Calibri,11.0,72.0,722.8,525.8,733.8,the EU should pursue the objective of protecting privacy and security online and 92% of them also 
+14,14,2,Calibri,11.0,72.0,737.3,525.8,748.3,"agree that in the next 10 years, the EU should cooperate with EU Member States to reinforce "
+14,14,3,Calibri,11.0,72.0,751.8,294.3,762.8,cybersecurity and protection from online threats. 
+14,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+15,3,0,Calibri,11.0,72.0,84.0,525.7,95.1,Hungary has restructured its strategic cybersecurity governance model. The leading authority is the 
+15,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"National Cybersecurity Task Force, headed by the Commissioner for Cybersecurity, who is also the "
+15,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,Government’s State Secretary for Cybersecurity. The purpose of the reorganisation was to involve the 
+15,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,political level in legislative and other strategic decisions on cybersecurity. The operational level of 
+15,3,4,Calibri,11.0,72.0,142.0,525.6,153.0,cybersecurity in the central state administration is represented by the National Cybersecurity Centre 
+15,3,5,Calibri,11.0,72.0,156.4,525.8,167.4,(NKI). Its mission is to provide network and information security support for the entire central 
+15,3,6,Calibri,11.0,72.0,170.9,525.8,181.9,"administration, local governments and critical infrastructure. The NKI operates the ‘National Contact "
+15,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,"Point for cybersecurity’, which is responsible for coordinating with other national contact points in the "
+15,3,8,Calibri,11.0,72.0,199.9,525.9,211.0,"EU on serious cybersecurity incidents within the European Union, receiving incident reports and "
+15,3,9,Calibri,11.0,72.0,214.3,525.8,225.4,forwarding them to international partner organisations. On 7 May 2025 the Commission sent a 
+15,3,10,Calibri,11.0,72.0,228.9,466.0,239.9,reasoned opinion to Hungary for failure to notify full transposition of the NIS2 Directive. 
+15,4,0,Calibri,11.0,72.0,251.4,525.8,262.5,The second round of the call (DIMOP Plus-1.2.6/B -26) on supporting growth opportunities for SMEs 
+15,4,1,Calibri,11.0,72.0,265.9,525.9,276.9,to foster digital infrastructure and transformation has several elements targeting the development of 
+15,4,2,Calibri,11.0,72.0,280.4,525.7,291.4,"ICT security, as the following development objectives are eligible for support: informing employees "
+15,4,3,Calibri,11.0,72.0,294.9,525.7,305.9,about their ICT security-related obligations; implementing at least three ICT security measures; and 
+15,4,4,Calibri,11.0,72.0,309.4,423.2,320.5,ensuring the availability of documented ICT security practices and procedures. 
+15,5,0,Calibri,11.0,72.0,331.8,525.9,342.9,"In 2025, Hungary performed a total of 116 vulnerability checks and follow-up audits of 44 entities. "
+15,5,1,Calibri,11.0,72.0,346.4,523.5,357.4,"1307 vulnerabilities were identified, of which 92 were critical, 194 high, 323 medium and 489 low -"
+15,5,2,Calibri,11.0,72.0,360.9,342.6,371.9,"ranked, and 209 were informally flagged as non-risk defects. "
+15,6,0,Calibri,11.0,72.0,383.3,525.9,394.4,Hungary progressed in the rollout of the secure Internet Protocol version 6 (IPv6) for end users. On the 
+15,6,1,Calibri,11.0,72.0,397.9,140.5,408.9,deployment of 
+15,6,1,Calibri,11.0,140.9,397.9,255.5,408.9,secure internet standards
+15,6,1,Calibri,11.0,255.5,397.9,525.9,408.9,", Hungary is above the EU average in the roll-out of IPv6 for "
+15,6,2,Calibri,11.0,72.0,412.4,525.9,423.4,"the end users (52% EU average: 33%) but below the EU average on the server side (8%, against 23% "
+15,6,3,Calibri,11.0,72.0,426.8,525.7,437.8,"for the EU). As regards public networks, the availability of the IPv6 service for educational, research "
+15,6,4,Calibri,11.0,72.0,441.3,525.9,452.4,"and public collection institutions exceeds 95 %, as IPv6 is widely provided to these institutions as part "
+15,6,5,Calibri,11.0,72.0,455.8,321.6,466.9,of the national research and education network (NREN) 
+15,7,0,Calibri-Bold,11.0,77.7,478.7,264.9,489.8,2025 recommendation on cybersecurity
+15,7,0,Calibri,11.0,265.0,478.7,520.1,489.8,: Continue efforts in cybersecurity to address evolving 
+15,7,1,Calibri,11.0,77.7,493.3,325.4,504.3,"threats, particularly for enterprises and administration. "
+15,8,0,Calibri-Bold,11.0,77.7,511.3,520.3,522.3,"In 2025, Hungary continued the implementation of existing measures but did not take any "
+15,8,1,Calibri-Bold,11.0,77.7,525.8,144.8,536.8,new measure. 
+15,8,1,Calibri,11.0,144.7,525.8,520.3,536.8,The country rrestructured its cybersecurity governance model based National Cyber 
+15,8,2,Calibri,11.0,77.7,540.3,520.3,551.3,Security Strategy and continued its cybersecurity awareness-raising activities and continued the 
+15,8,3,Calibri,11.0,77.7,554.7,438.9,565.8,implementation of several DIMOP Plus projects with ICT security related actions. 
+15,9,0,Calibri-Bold,11.0,72.0,572.7,74.5,583.8, 
+15,9,1,Calibri-Bold,11.0,216.1,572.7,218.5,583.8, 
+15,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+16,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Protecting and empowering EU people 
+16,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+16,4,0,Calibri-Light,15.0,72.0,161.3,519.2,176.3,Empowering people and bringing the digital transformation closer to their 
+16,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+16,5,0,Calibri-Light,12.0,72.0,208.2,239.6,220.2,Equipping people with digital skills 
+16,6,0,Calibri-LightItalic,11.0,72.0,225.9,150.4,236.9,Basic digital skills 
+16,6,1,Calibri-Light,11.0,72.0,242.3,185.4,253.4,Performance assessment 
+16,7,0,Calibri,8.0,72.0,261.3,73.8,269.3, 
+16,9,0,TimesNewRomanPSMT,12.0,499.7,529.3,502.7,542.5, 
+16,10,0,Calibri-Bold,11.0,72.0,556.2,525.8,567.2,"Overall, 81% of Hungarian people think that digitalisation of daily public and private services is "
+16,10,1,Calibri-Bold,11.0,72.0,570.6,176.2,581.6,making their life easier
+16,10,1,Calibri,11.0,176.3,570.6,528.3,581.6,", the same ratio as last year, based on the Digital Decade Eurobarometer 2026.  "
+16,11,0,Calibri-Bold,11.0,72.0,593.1,525.9,604.2,Hungary is at 57.32% of individuals aged 16-74 with at least basic digital skills after a decrease of 
+16,11,1,Calibri-Bold,11.0,72.0,607.7,409.2,618.7,"1.3% annually since 2023, and now stands below the EU average of 60.39%."
+16,11,1,Calibri,11.0,409.3,607.7,525.9,618.7," %. This decline is notable, "
+16,11,2,Calibri,11.0,72.0,622.1,525.9,633.1,as Hungary’s 2023 figure of 58.89% was above the EU average of 55.56% for the same year. This trend 
+16,11,3,Calibri,11.0,72.0,636.6,525.7,647.6,"indicates a reversal in Hungary’s performance relative to the EU, with its annual growth rate lagging "
+16,11,4,Calibri,11.0,72.0,651.1,525.8,662.1,significantly behind the EU’s 4.3% increase. The country is lagging behind its trajectory presented in 
+16,11,5,Calibri,11.0,72.0,665.6,240.6,676.7,the Digital Decade national roadmap. 
+16,12,0,Calibri,11.0,72.0,688.1,136.3,699.1,Regarding the 
+16,12,0,Calibri-Bold,11.0,136.2,688.1,186.8,699.1,gender gap
+16,12,0,Calibri,11.0,186.8,688.1,525.9,699.1,", Hungary exhibits a discrepancy of 2.89 percentage points in favour of men, "
+16,12,1,Calibri,11.0,72.0,702.6,525.9,713.6,with 58.79% of men and 55.90% of women possessing at least basic digital skills. This gap is slightly 
+16,12,2,Calibri,11.0,72.0,717.1,311.9,728.1,wider than the EU average of 2.74 percentage points. 
+16,13,0,Calibri-Bold,11.0,72.0,739.6,140.9,750.6,Education level
+16,13,0,Calibri,11.0,140.9,739.6,525.9,750.6, significantly influences digital proficiency in Hungary. Individuals with no or low formal 
+16,13,1,Calibri,11.0,72.0,754.1,525.9,765.1,"education have a digital skills rate of 35.48%, which is below the EU average of 37.56% but represents "
+16,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+17,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"a 21.84 percentage point gap relative to the national average, slightly narrower than the EU’s 22.83 "
+17,2,1,Calibri,11.0,72.0,98.4,171.9,109.5,percentage point gap. 
+17,4,0,Calibri,11.0,72.0,121.0,525.7,132.0,"In urban areas, Hungary performs well, with 69.25% of individuals in cities possessing basic digital "
+17,4,1,Calibri,11.0,72.0,135.5,288.7,146.5,"skills, surpassing the EU average of 66.49%. The "
+17,4,1,Calibri-Bold,11.0,289.1,135.5,371.8,146.5,urban-rural divide
+17,4,1,Calibri,11.0,371.8,135.5,525.8,146.5," in Hungary is pronounced, with a "
+17,4,2,Calibri,11.0,72.0,149.9,525.6,160.9,"gap of 24.42 percentage points, significantly wider than the EU average of 13.66 percentage points. "
+17,4,3,Calibri,11.0,72.0,164.4,518.0,175.5,"Rural areas in Hungary have a digital skills rate of 44.83%, which is below the EU average of 52.83%. "
+17,5,0,Calibri-Bold,11.0,72.0,187.0,131.6,198.0,Young adults
+17,5,0,Calibri,11.0,131.7,187.0,525.7,198.0," aged 16 to 24 in Hungary demonstrate strong digital skills, with a proficiency rate of "
+17,5,1,Calibri,11.0,72.0,201.4,525.8,212.4,"76.32%, surpassing the EU average of 74.53%. The gap between young adults and older individuals "
+17,5,2,Calibri,11.0,72.0,215.9,525.9,226.9,"(aged 55 to 74) in Hungary is 40.54 percentage points, wider than the EU average of 31.93 percentage "
+17,5,3,Calibri,11.0,72.0,230.4,525.5,241.5,"points. The digital skills rate for the older age group in Hungary is 35.78%, below the EU average of "
+17,5,4,Calibri,11.0,72.0,245.0,104.6,256.0,42.6%. 
+17,6,0,Calibri,11.0,72.0,267.4,123.6,278.5,In terms of 
+17,6,0,Calibri-Bold,11.0,123.7,267.4,152.1,278.5,digital
+17,6,0,Calibri,11.0,152.2,267.4,154.7,278.5, 
+17,6,0,Calibri-Bold,11.0,154.8,267.4,207.0,278.5,safety skills
+17,6,0,Calibri,11.0,207.2,267.4,525.9,278.5,", Hungary performs well, with 80.01% of individuals possessing at least "
+17,6,1,Calibri,11.0,72.0,281.9,525.8,293.0,"basic safety skills, above the EU average of 74.63%. This indicates that Hungary is effective in promoting "
+17,6,2,Calibri,11.0,72.0,296.3,475.4,307.4,"digital safety, though its growth rate in this area is marginally slower than the EU average.  "
+17,7,0,Calibri,11.0,72.0,318.9,136.8,329.9,Regarding the 
+17,7,0,Calibri-Bold,11.0,137.2,318.9,228.5,329.9,use of generative AI
+17,7,0,Calibri,11.0,228.6,318.9,525.9,329.9,", 29.56% of people in Hungary used it in 2025, which is below the "
+17,7,1,Calibri,11.0,72.0,333.4,525.8,344.4,EU average of 32.66%. A lower share of Hungarians – 14.86%% used generative AI for professional 
+17,7,2,Calibri,11.0,72.0,347.8,525.8,358.9,"purposes, slightly lower than the EU average of 15.36%.  According to the Digital Decade "
+17,7,3,Calibri,11.0,72.0,362.3,525.8,373.4,"Eurobarometer 2026, when asked about the most important obstacles to use more generative AI tools, "
+17,7,4,Calibri,11.0,72.0,376.8,525.9,387.9,"Hungarian citizens pointed out ‘concerns about privacy or data protection’ (31%), ‘concerns about "
+17,7,5,Calibri,11.0,72.0,391.4,525.9,402.4,accuracy or incorrect information’ (31%) and ‘concerns about ethical issues or misuse of generative AI 
+17,7,6,Calibri,11.0,72.0,405.8,130.2,416.8,tools’ (25%). 
+17,8,0,Calibri,11.0,72.0,428.3,525.7,439.4,"In summary, Hungary’s digital skills profile reveals several areas of concern. While the country "
+17,8,1,Calibri,11.0,72.0,442.9,525.9,453.9,"performs well in urban areas and among young adults, its overall digital skills score has slightly "
+17,8,2,Calibri,11.0,72.0,457.3,523.5,468.3,"decreased, and its growth rate lags behind the EU. The gender gap, educational disparities, and urban-"
+17,8,3,Calibri,11.0,72.0,471.8,525.8,482.8,"rural divide are notable challenges. Hungary’s performance in digital safety skills is good, but its slow "
+17,8,4,Calibri,11.0,72.0,486.3,525.7,497.4,"adoption of generative AI, indicates a need for targeted interventions to enhance digital literacy and "
+17,8,5,Calibri,11.0,72.0,500.8,296.8,511.9,technological integration across all demographics. 
+17,10,0,Calibri,11.0,523.6,738.5,526.1,749.5, 
+17,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+18,3,0,Calibri,11.0,72.0,84.0,118.6,95.1,67.64% of 
+18,3,0,Calibri-Bold,11.0,118.0,84.0,448.1,95.1,individuals in Hungary were exposed to untrue or doubtful content online
+18,3,0,Calibri,11.0,448.1,84.0,525.9,95.1," in 2025, marking "
+18,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"an increase of 14.8% annually since 2023, when the figure was 51.35%. This places Hungary above the "
+18,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"EU average, which stood at 55.90% in 2025 and at 49.25% in 2023. The annual growth rate for Hungary "
+18,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"(14.8%) is significantly higher than that of the EU (6.5%). When looking at different age groups, the "
+18,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"situation in Hungary is different from that in the EU, as working-age individuals (aged 25-64) are slightly "
+18,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,more exposed to such content compared to those aged 16-24 (70.60% compared to 68.67% in 2025). 
+18,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,"This age gap of 1.93 percentage points in Hungary is in favour of core working-age individuals, in "
+18,3,7,Calibri,11.0,72.0,185.4,481.9,196.5,contrast to the EU where the 7.77 percentage points gap Is in favour of younger individuals. 
+18,4,0,Calibri,11.0,72.0,207.9,216.4,218.9,"However, 34.01% of individuals"
+18,4,0,Calibri-Bold,11.0,216.4,207.9,421.0,218.9, verified the truthfulness of online content
+18,4,0,Calibri,11.0,420.9,207.9,525.9,218.9," in 2025, following an "
+18,4,1,Calibri,11.0,72.0,222.4,525.8,233.4,"increase of 13.8% annually from 2023, when this figure was 26.27%. This places Hungary above the EU "
+18,4,2,Calibri,11.0,72.0,236.9,525.5,248.0,average of 29.16% in 2025 and 24.29% in 2023. The annual growth rate for Hungary (13.8%) also 
+18,4,3,Calibri,11.0,72.0,251.4,525.9,262.5,"exceeds that of the EU (9.6%). Younger individuals (16-24) are more likely to verify online content, with "
+18,4,4,Calibri,11.0,72.0,265.9,525.8,276.9,44.06% doing so in 2025 compared to 35.73% of those aged 25-64. The gap between these age 
+18,4,5,Calibri,11.0,72.0,280.4,525.9,291.4,"categories is 8.33 percentage points, which is slightly lower than the EU average gap of 9.09 percentage "
+18,4,6,Calibri,11.0,72.0,294.9,105.1,305.9,points. 
+18,5,0,Calibri,11.0,72.0,317.3,125.3,328.4,Concerning 
+18,5,0,Calibri-Bold,11.0,125.1,317.3,396.5,328.4,individuals exposed to hostile or degrading messages online
+18,5,0,Calibri,11.0,396.5,317.3,525.9,328.4,", Hungary reached 56.48% in "
+18,5,1,Calibri,11.0,72.0,331.8,525.5,342.9,"2025, reflecting an increase of 13.7% annually from 2023, when this figure was 43.72%. This places "
+18,5,2,Calibri,11.0,72.0,346.4,525.6,357.4,Hungary significantly above the EU average of 39.72% in 2025 and 33.50% in 2023. Hungary’s growth 
+18,5,3,Calibri,11.0,72.0,360.9,525.6,371.9,"rate also outpaces the EU average, which rose from 33.5% to 39.72% over the same period, at an "
+18,5,4,Calibri,11.0,72.0,375.3,525.9,386.3,"annual rate of 8.9%. Younger individuals (16-24) are more exposed to such content, with 61.81% in "
+18,5,5,Calibri,11.0,72.0,389.8,525.7,400.9,2025 compared to 57.77% for those aged 25-64. The gap between these age categories in Hungary is 
+18,5,6,Calibri,11.0,72.0,404.3,451.9,415.4,"4.04 percentage points, which is smaller than the EU gap of 11.85 percentage points. "
+18,6,0,Calibri,11.0,72.0,426.8,155.7,437.8,According to the 
+18,6,0,Calibri-Bold,11.0,159.5,426.8,333.3,437.8,Digital Decade Eurobarometer 2026
+18,6,0,Calibri,11.0,333.4,426.8,525.9,437.8,", 88% of Hungarians agree that online "
+18,6,1,Calibri,11.0,72.0,441.3,525.8,452.4,"manipulation (such as disinformation, foreign interference, AI-generated content, deepfakes) poses a "
+18,6,2,Calibri,11.0,72.0,455.8,525.6,466.9,"threat to the democratic processes. In addition, when asked which online issues had the biggest "
+18,6,3,Calibri,11.0,72.0,470.3,525.9,481.4,"personal impact on them, Hungarian citizens highlighted ‘fake news and disinformation’ (55%), ‘misuse "
+18,6,4,Calibri,11.0,72.0,484.7,525.7,495.8,"of personal data’ (48%), and ‘insufficient protections for minors’ (41%). In relation to the latter, 94% "
+18,6,5,Calibri,11.0,72.0,499.3,525.9,510.3,are of the view that further strengthening the protection of children and young people online should 
+18,6,6,Calibri,11.0,72.0,513.8,179.2,524.8,be a priority for the EU. 
+18,7,0,Calibri,11.0,72.0,536.2,525.7,547.3,The data reveals that Hungary consistently exceeds the EU average across all key performance 
+18,7,1,Calibri,11.0,72.0,550.7,525.8,561.8,"indicators (KPIs) related to online content behaviour. In particular, Hungary’s annual growth rates for "
+18,7,2,Calibri,11.0,72.0,565.3,525.8,576.3,"exposure to untrue or doubtful content, verification of information, and exposure to hostile or "
+18,7,3,Calibri,11.0,72.0,579.8,525.6,590.9,"degrading messages are significantly higher than the EU averages. However, the age group disparities "
+18,7,4,Calibri,11.0,72.0,594.2,525.9,605.3,"in Hungary differ from the EU trends, with smaller gaps between the youngest (16-24) and older adults "
+18,7,5,Calibri,11.0,72.0,608.7,525.8,619.8,(25-64) in most cases. This suggests that while Hungary’s population is increasingly engaged with and 
+18,7,6,Calibri,11.0,72.0,623.3,525.8,634.3,"affected by online content, the differences in behaviour between age groups are less pronounced than "
+18,7,7,Calibri,11.0,72.0,637.8,117.7,648.8,in the EU. 
+18,8,0,Calibri-Light,11.0,72.0,660.2,320.9,671.3,Policy context and assessment of the recommendations 
+18,8,1,Calibri,11.0,72.0,674.7,525.6,685.8,The main objective of the policy actions taken by Hungary in 2025 was to improve the less developed 
+18,8,2,Calibri,11.0,72.0,689.1,525.9,700.2,regions by strengthening people’s digital skills. An important step in this regard is the upskilling of 
+18,8,3,Calibri,11.0,72.0,703.7,525.9,714.7,"educators in vocational education and training school in the field of AI, introducing AI education in VET "
+18,8,4,Calibri,11.0,72.0,718.2,525.9,729.2,"programmes in all economic sectors, tailored to the specificities of each sector and profession. Another "
+18,8,5,Calibri,11.0,72.0,732.7,525.9,743.8,"key issue is exploring the role that AI can play in improving educational outcomes, especially through "
+18,8,6,Calibri,11.0,72.0,747.2,525.8,758.3,providing differentiated learning support to pupils’ levels of competences as well as special educational 
+18,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+19,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,needs. The aim is for pupils to understand that AI is a technology that is integrated into our daily lives 
+19,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,and that we need to learn to apply them responsibly and critically.  The programme will be part of the 
+19,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,curriculum in 60 vocational education institutions in the first phase and then progressively in all 
+19,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,vocational education institutions in the next phases. The trainers will be specifically prepared to teach 
+19,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,"the AI related subject. In November 2025, Logiscool prepared 95 trainers from 60 Hungarian vocational "
+19,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"training institutions to teach the AI related subject. More than 1700 pupils started the pilot program, "
+19,3,6,Calibri,11.0,72.0,170.9,236.8,181.9,which will be completed in Q2 2025. 
+19,4,0,Calibri,11.0,72.0,193.5,525.9,204.5,he DROP Plus (DROP+ priority 4) with a total allocation of over EUR 140 million European Social Fund 
+19,4,1,Calibri,11.0,72.0,207.9,525.7,218.9,Plus (ESF+) support target basic digital skills development. These include a set of interventions aimed 
+19,4,2,Calibri,11.0,72.0,222.4,525.8,233.4,"at strengthening basic digital skills as well as advanced digital skills across Hungary. Collectively, these "
+19,4,3,Calibri,11.0,72.0,236.9,525.7,248.0,projects address the widening digital divide by targeting both the general population and particularly 
+19,4,4,Calibri,11.0,72.0,251.4,525.8,262.5,"vulnerable groups, with a strong emphasis on less developed regions. DROP Plus 4.2.3 focuses on "
+19,4,5,Calibri,11.0,72.0,265.9,525.6,276.9,"developing digital skills for those not yet having at least overall basic digital skills among adults, "
+19,4,6,Calibri,11.0,72.0,280.4,525.9,291.4,prioritising those with low educational attainment and limited digital skills. Its goals are to involve 
+19,4,7,Calibri,11.0,72.0,294.9,525.8,305.9,"188,025 participants in trainings to obtain micro-credentials. DROP Plus 4.2.7 key project already "
+19,4,8,Calibri,11.0,72.0,309.4,525.6,320.5,running and DROP+ 4.2.9 calls published in autumn 2025 are to provide entry level digital skills 
+19,4,9,Calibri,11.0,72.0,323.8,525.9,334.9,"development, prioritises Hungary’s least developed regions and specifically targets working age adults "
+19,4,10,Calibri,11.0,72.0,338.3,525.9,349.4,"from disadvantaged backgrounds. The projects will offer a mentor-based, community-driven "
+19,4,11,Calibri,11.0,72.0,352.8,525.6,363.9,"approaches. DROP Plus 4.2.8 mirrors this methodology in Budapest, adapting it to the urban context, "
+19,4,12,Calibri,11.0,72.0,367.4,525.9,378.4,while maintaining its focus on socially disadvantaged groups. These measures are complemented with 
+19,4,13,Calibri,11.0,72.0,381.8,354.2,392.8,DROP Plus 4.2.2 that aims to implement the EU’s DigComp 2.2. 
+19,5,0,Calibri-Bold,11.0,77.7,404.8,278.9,415.9,2025 recommendation on Basic digital skills
+19,5,0,Calibri,11.0,279.0,404.8,520.2,415.9,: Accelerate the country’s efforts to bridge the digital 
+19,5,1,Calibri,11.0,77.7,419.3,520.1,430.4,"divide by developing and investing in inclusion policies that focus on vulnerable groups, such as "
+19,5,2,Calibri,11.0,77.7,433.9,410.0,444.9,those with lower levels of formal education and those living in rural areas. 
+19,6,0,Calibri,11.0,77.7,451.7,80.2,462.8, 
+19,6,0,Calibri-Bold,11.0,80.2,451.7,520.1,462.8,Hungary made some efforts to address the recommendation through new policy actions in 
+19,6,1,Calibri-Bold,11.0,77.7,466.3,105.5,477.3,2025. 
+19,6,1,Calibri,11.0,105.5,466.3,520.2,477.3, A call for proposal (DROP+ 4.2.9) to provide financial support for the development of digital 
+19,6,2,Calibri,11.0,77.7,480.8,337.7,491.8,skills of vulnerable groups was published in autumn 2025. 
+19,7,0,Calibri,11.0,72.0,498.8,74.5,509.8, 
+19,8,0,Calibri-LightItalic,11.0,72.0,521.2,135.2,532.3,ICT specialists 
+19,8,1,Calibri-Light,11.0,72.0,537.8,185.4,548.8,Performance assessment 
+19,8,2,Calibri-Bold,11.0,72.0,552.3,525.9,563.3,Hungary is at 4.6% of ICT specialists in total employment (2030 national target 8.3%) after an 
+19,8,3,Calibri-Bold,11.0,72.0,566.7,401.0,577.8,"increase of 2.2% in 2025, which places it below the EU average of 5.0%. "
+19,8,3,Calibri,11.0,401.4,566.7,525.9,577.8, Hungary’s growth rate was 
+19,8,4,Calibri,11.0,72.0,581.3,525.8,592.3,"higher than the EU’s (2.0% in 2025), showing that Hungary is making progress and getting closer to the "
+19,8,5,Calibri,11.0,72.0,595.8,525.6,606.8,EU average. The country is lagging behind its trajectory presented in the Digital Decade national 
+19,8,6,Calibri,11.0,72.0,610.3,117.6,621.3,roadmap. 
+19,9,0,Calibri-Bold,11.0,72.0,632.7,525.8,643.8,The share of Hungarian women working as ICT specialists and participating in ICT training shows a 
+19,9,1,Calibri-Bold,11.0,72.0,647.3,150.3,658.3,concerning trend
+19,9,1,Calibri,11.0,150.3,647.3,525.7,658.3,". The share of female ICT specialists in Hungary was 15.2% in 2024, lower than the "
+19,9,2,Calibri,11.0,72.0,661.7,525.8,672.7,"EU’s 19.5%. By 2025, this figure decreased slightly to 15.0%, while the EU’s share remained at 19.5%. "
+19,9,3,Calibri,11.0,72.0,676.2,525.9,687.2,This suggests that Hungary is not effectively retaining or attracting female talent in the ICT sector. At 
+19,9,4,Calibri,11.0,72.0,690.7,525.9,701.7,"the same time, in 2024, Hungary was one of the Member States with the highest share of ICT "
+19,9,5,Calibri,11.0,72.0,705.2,525.9,716.3,"graduates, representing 6.80% of all graduates. This relatively good graduation rate might contribute "
+19,9,6,Calibri,11.0,72.0,719.6,525.9,730.7,"to ensuring more ICT specialists in the labour market in the future. Still in 2024, 6.35% of Hungarian "
+19,9,7,Calibri,11.0,72.0,734.2,505.0,745.2,enterprises recruited or tried to recruit personnel with ICT specialists’ skills (EU average: 9.55%).  
+19,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+20,3,0,Calibri-Light,11.0,72.0,84.0,320.9,95.1,Policy context and assessment of the recommendations 
+20,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"To tackle the shortages of digital skills and specialists, Hungary is investing over EUR 230 million of ESF+ "
+20,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"funds in digital skills development at different levels, aiming to reach above 500 000 participants, "
+20,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"including 180 000 disadvantaged adults. In addition, Hungary allocated EUR 135 million ESF+ funding, "
+20,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,"within the Digital Renewal Operational Programme Plus 2021-2027, to develop digital skills in specific "
+20,3,5,Calibri,11.0,72.0,156.4,525.8,167.4,digital technologies contributing to the Strategic Technologies for Europe Platform (STEP). STEP digital 
+20,3,6,Calibri,11.0,72.0,170.9,525.6,181.9,skills academies are planned to be set up in various domains to develop and deliver trainings. 80% of 
+20,3,7,Calibri,11.0,72.0,185.4,464.1,196.5,the total financial allocation is planned to be spent on learning vouchers for individuals. 
+20,4,0,Calibri,11.0,72.0,207.9,525.8,218.9,"To effectively ensure a skilled workforce, the Vocational Training 4.0 2030 strategy aims to renew and "
+20,4,1,Calibri,11.0,72.0,222.4,525.9,233.4,further develop vocational training and adult learning at system level. This also includes supporting 
+20,4,2,Calibri,11.0,72.0,236.9,525.9,248.0,the digital and green transition in VET.  In vocational education and training the number of students in 
+20,4,3,Calibri,11.0,72.0,251.4,523.6,262.5,the IT and telecommunications sector ranks second on the list of training courses. According to Sir-
+20,4,4,Calibri,11.0,72.0,265.9,525.9,276.9,"STAT (national) statistics, in the 2025/2026 school year, 10.6 % of VET learners (219 352) are studying "
+20,4,5,Calibri,11.0,72.0,280.4,378.5,291.4,in the ‘IT and telecommunications’ sector (23.351 in student status). 
+20,5,0,Calibri,11.0,72.0,302.9,525.8,314.0,"The objective related to the ‘ICT specialists’, would also be supported by the career guidance planned "
+20,5,1,Calibri,11.0,72.0,317.3,282.9,328.4,in the EDIOP Plus cohesion policy programme.  
+20,6,0,Calibri-Bold,11.0,77.7,340.4,354.9,351.4,2025 recommendation on ICT specialists and advanced skills
+20,6,0,Calibri,11.0,354.9,340.4,520.2,351.4,: Closely monitor implementation of 
+20,6,1,Calibri,11.0,77.7,354.9,520.2,365.9,existing measures to boost the number of ICT specialists in the shorter term and continue measures 
+20,6,2,Calibri,11.0,77.7,369.3,519.9,380.3,to increase the percentage of women in ICT careers; increase efforts to reduce the cybersecurity 
+20,6,3,Calibri,11.0,77.7,383.8,122.6,394.9,skills gap. 
+20,7,0,Calibri-Bold,11.0,77.7,401.8,520.1,412.9,"In 2025, Hungary continued the implementation of existing measures but did not take any new "
+20,7,1,Calibri-Bold,11.0,77.7,416.3,117.3,427.4,measure
+20,7,1,Calibri,11.0,117.3,416.3,488.4,427.4,". Until EU funds are made available, there is limited progress expected in this field.  "
+20,8,0,Calibri,11.0,72.0,434.3,74.5,445.4, 
+20,9,0,Calibri-Light,12.0,72.0,457.0,476.9,469.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+20,10,0,Calibri-LightItalic,11.0,72.0,474.7,183.7,485.7,Performance assessment 
+20,10,1,Calibri-Bold,11.0,72.0,489.1,509.8,500.1,"In 2025, Hungary’s total digital public services score for citizens (which covers both national and "
+20,10,2,Calibri-Bold,11.0,72.0,503.6,522.8,514.6,cross-border users) reached 85.65/100 points. This represents a 10.3% increase compared to 2024. 
+20,10,3,Calibri-Bold,11.0,72.0,518.1,355.9,529.2,"As such, Hungary is above the EU average of 84.64/100 points."
+20,10,3,Calibri,11.0,356.1,518.1,520.2,529.2, The country is on track according to 
+20,10,4,Calibri,11.0,72.0,532.6,514.7,543.7,its trajectory presented in the Digital Decade national roadmap. When looking specifically at digital 
+20,10,5,Calibri,11.0,72.0,547.0,519.7,558.1,"public services for national citizens, Hungary reached 96.36/100 points in 2025. This is above the EU "
+20,10,6,Calibri,11.0,72.0,561.6,502.2,572.6,"average of 94.01/100 points, and it marks a 1.5% increase from 2024. However, for cross-border "
+20,10,7,Calibri,11.0,72.0,576.1,524.3,587.1,"digital public services for citizens, Hungary’s 2025 score was 74.94/100 points, which is slightly below "
+20,10,8,Calibri,11.0,72.0,590.6,457.6,601.7,"the EU average of 75.28/100 points. Compared to 2024, this reflects a 24.0% increase. "
+20,11,0,Calibri,11.0,72.0,613.1,101.9,624.1,Citizen
+20,11,0,CambriaMath,11.0,101.9,612.7,104.3,623.8, 
+20,11,0,Calibri,11.0,104.3,613.1,493.6,624.1,"related life events that score particularly well include Health (95.0), Family (92.69), and "
+20,11,1,Calibri,11.0,72.0,627.6,518.5,638.6,"Transport (88.75). Conversely, Starting a small claims procedure (75.0), Career (77.27), and Studying "
+20,11,2,Calibri,11.0,72.0,642.1,517.5,653.1,(85.0) show the most room for improvement. Across levels of government for digital public services 
+20,11,3,Calibri,11.0,72.0,656.5,502.1,667.5,"for national citizens, central government services scored 88.73/100 points, regional government "
+20,11,4,Calibri,11.0,72.0,671.0,475.2,682.1,"services scored 100.0/100 points, and local government services scored 66.11/100 points. "
+20,12,0,Calibri-Bold,11.0,72.0,693.6,465.8,704.6,Hungary’s total digital public services score for businesses (covering both national and 
+20,12,1,Calibri-Bold,11.0,72.0,708.0,95.1,719.0,cross
+20,12,1,CambriaMath,11.0,95.1,707.7,98.7,718.7,‑
+20,12,1,Calibri-Bold,11.0,98.9,708.0,524.9,719.0,"border businesses) was 80.0/100 points in 2025, standing below the EU average of 88.59/100 "
+20,12,2,Calibri-Bold,11.0,72.0,722.5,277.0,733.6,points. This represents no change from 2024.
+20,12,2,Calibri,11.0,277.0,722.5,519.5,733.6, The country is lagging behind its trajectory presented 
+20,12,3,Calibri,11.0,72.0,737.0,324.4,748.1,in the Digital Decade national roadmap. Among Business
+20,12,3,CambriaMath,11.0,324.4,736.7,328.1,747.8,‑
+20,12,3,Calibri,11.0,328.1,737.0,524.3,748.1,"related life events, Business Start-Up scores "
+20,12,4,Calibri,11.0,72.0,751.6,485.7,762.6,"particularly well (82.5), whereas Regular Business Operations (77.5) show the most room for "
+20,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+21,3,0,Calibri,11.0,72.0,84.0,207.3,95.1,improvement. Hungary’s cross
+21,3,0,CambriaMath,11.0,207.2,83.7,210.8,94.8,‑
+21,3,0,Calibri,11.0,210.9,84.0,514.7,95.1,border digital public services score for businesses reached 60.0/100 
+21,3,1,Calibri,11.0,72.0,98.4,520.6,109.5,"points in 2025, reflecting no change compared with 2024. These results are below the EU average of "
+21,3,2,Calibri,11.0,72.0,112.9,523.3,124.0,"78.37/100 points. On the other hand, digital public services for businesses available to national users "
+21,3,3,Calibri,11.0,72.0,127.5,500.0,138.5,"in Hungary scored 100.0/100 points, which was already the case in 2024 and places the country "
+21,3,4,Calibri,11.0,72.0,142.0,264.6,153.0,above the EU average of 98.81/100 points. 
+21,4,0,Calibri-Bold,11.0,72.0,164.4,525.8,175.5,"Overall, digital public services for businesses lag behind EU levels, while citizen-facing services "
+21,4,1,Calibri-Bold,11.0,72.0,178.9,210.1,190.0,remain closer to EU norms.
+21,4,1,Calibri,11.0,210.3,178.9,525.7,190.0," A similar pattern appears across government tiers, where local "
+21,4,2,Calibri,11.0,72.0,193.5,525.8,204.5,"administrations are showing the greatest need for improvement. Despite these gaps, the underlying "
+21,4,3,Calibri,11.0,72.0,207.9,525.8,218.9,direction of change indicates that Hungary is on a positive upward trajectory toward achieving the 
+21,4,4,Calibri,11.0,72.0,222.4,192.6,233.4,2030 digitalisation targets. 
+21,5,0,Calibri-Bold,11.0,72.0,245.0,245.1,256.0,In terms of access to e-Health records
+21,5,0,Calibri,11.0,245.2,245.0,250.5,256.0,", "
+21,5,0,Calibri-Bold,11.0,250.7,245.0,525.9,256.0,"in 2025, Hungary scored 88.1, (2030 national target of 100), "
+21,5,1,Calibri-Bold,11.0,72.0,259.4,525.9,270.4,after an increase of 2.4% from 2024 and it is above the EU average of 86.5. Hungary’s growth rate in 
+21,5,2,Calibri-Bold,11.0,72.0,273.9,220.8,284.9,this area is below the EU’s 4.6%.
+21,5,2,Calibri,11.0,220.9,273.9,525.7,284.9, The country is lagging behind its trajectory presented in the Digital 
+21,5,3,Calibri,11.0,72.0,288.4,192.4,299.5,Decade national roadmap. 
+21,6,0,Calibri-Bold,11.0,72.0,310.9,525.9,321.9,Hungary has not yet notified an e-ID scheme to the Commission under the eIDAS Regulation; 
+21,6,1,Calibri-Bold,11.0,72.0,325.4,437.7,336.4,"however, Hungary’s roadmap still sets a 2030 target of 100% for access to e-ID. "
+21,6,1,Calibri,11.0,438.2,325.4,525.9,336.4,Hungary continued 
+21,6,2,Calibri,11.0,72.0,339.9,525.8,350.9,implementing the measures presented in its national roadmap.  The Digital Citizenship (DÁP) 
+21,6,3,Calibri,11.0,72.0,354.4,525.9,365.4,"application launched in September 2024, which will be the basis for Hungary’s eID notification, is "
+21,6,4,Calibri,11.0,72.0,368.8,525.9,379.9,constantly gaining popularity. The application has been downloaded by more than three million 
+21,6,5,Calibri,11.0,72.0,383.3,525.7,394.4,Hungarian citizens to their smartphones. With the launch of the Hungarian eIDAS node in late 
+21,6,6,Calibri,11.0,72.0,397.9,489.4,408.9,"December 2025, eIDAS authentication also became available on the Magyarorszag.hu portal.  "
+21,7,0,Calibri-LightItalic,11.0,72.0,420.3,316.8,431.4,Policy context and assessment of the recommendations 
+21,7,1,Calibri,11.0,72.0,434.8,74.5,445.9, 
+21,7,2,Calibri-Bold,11.0,72.0,448.3,525.9,459.3,"The digitalisation of public services for businesses, including the implementation of cross-border "
+21,7,3,Calibri-Bold,11.0,72.0,462.8,435.5,473.8,"capabilities and the once-only principle, could foster the digitalisation of SMEs"
+21,7,3,Calibri,11.0,435.7,462.8,525.9,473.8,. Access to efficient 
+21,7,4,Calibri,11.0,72.0,477.2,525.8,488.2,"digital public services which provide a tangible benefit (e.g. reduced administrative burden, gain of "
+21,7,5,Calibri,11.0,72.0,491.7,525.9,502.8,time) could incentivise smaller businesses to digitalise and close the gap in the basic digitalisation of 
+21,7,6,Calibri,11.0,72.0,506.2,150.0,517.3,Hungarian SMEs. 
+21,8,0,Calibri-Bold,11.0,72.0,528.7,525.9,539.7,Hungary is progressing towards achieving universal citizen access to their electronic health records 
+21,8,1,Calibri-Bold,11.0,72.0,543.2,147.9,554.2,"(EHRs) by 2030,"
+21,8,1,Calibri,11.0,147.9,543.2,525.8,554.2," as this year’s improved score demonstrates. However, medical images are still "
+21,8,2,Calibri,11.0,72.0,557.7,525.7,568.8,unavailable to citizens due to the large storage and bandwidth requirements needed for a central 
+21,8,3,Calibri,11.0,72.0,572.3,525.9,583.3,"repository. Public and private geriatric nursing homes are not yet connected or supplying data, and the "
+21,8,4,Calibri,11.0,72.0,586.7,525.7,597.7,"online portal is not fully compliant with web accessibility guidelines, although plans are underway to "
+21,8,5,Calibri,11.0,72.0,601.2,525.9,612.2,"design a new portal. In 2025, Hungary adopted its national AI Strategy, which recognises the potential "
+21,8,6,Calibri,11.0,72.0,615.7,525.6,626.7,"of AI in healthcare. Health is also a crucial sector recognised in the Apply AI Strategy, yet AI adoption "
+21,8,7,Calibri,11.0,72.0,630.2,525.7,641.3,"and integration in healthcare remain limited and uneven. To date, two organisations have joined the "
+21,8,8,Calibri,11.0,72.0,644.6,525.7,655.7,"Network of AI-powered Advanced Medical Centres, which aims to speed up the introduction of "
+21,8,9,Calibri,11.0,72.0,659.1,525.8,670.2,"innovative solutions for prevention, early detection and diagnosis in cancer and cardiovascular disease. "
+21,8,10,Calibri,11.0,72.0,673.7,525.9,684.7,"Moreover, the cross-border harmonisation, secure storage, processing, and analysis of health data for "
+21,8,11,Calibri,11.0,72.0,688.2,525.8,699.2,high-impact use cases is supported by federated infrastructures and governance. Hungary has 
+21,8,12,Calibri,11.0,72.0,702.6,525.7,713.6,appointed a representative both in the Genome EDIC Working Group and the EUCAIM EDIC Working 
+21,8,13,Calibri,11.0,72.0,717.1,105.2,728.1,Group. 
+21,9,0,Calibri,11.0,72.0,739.7,525.8,750.7,A key focus should be making the data type of medical images available to citizens through the online 
+21,9,1,Calibri,11.0,72.0,754.1,525.8,765.1,"access service, increasing the supply of health data by onboarding public and private geriatric nursing "
+21,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+22,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"homes, and ensuring that all access modes comply with web accessibility guidelines. To further "
+22,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"advance the development of safe and trustworthy AI in healthcare, Hungary could build on existing "
+22,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,work to develop up-to-date investment roadmaps for priority use cases aligned with its national 
+22,3,3,Calibri,11.0,72.0,127.5,523.5,138.5,strategy. This could include supporting healthcare organisations to participate in the Network of AI-
+22,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,"Powered Advanced Medical Centres, by establishing co-funding schemes for piloting and deploying AI "
+22,3,5,Calibri,11.0,72.0,156.4,228.1,167.4,solutions in clinical environments.  
+22,4,0,Calibri-Bold,11.0,77.7,179.4,297.9,190.5,2025 recommendation on Digital Public Services
+22,4,0,Calibri,11.0,298.0,179.4,520.3,190.5,: Speed up the digitalisation of public services for 
+22,4,1,Calibri,11.0,77.7,193.9,185.8,205.0,citizens and businesses. 
+22,5,0,Calibri-Bold,11.0,77.7,211.9,520.3,223.0,"In 2025, Hungary continued the implementation of existing measures but did not take any "
+22,5,1,Calibri-Bold,11.0,77.7,226.3,144.8,237.4,new measure. 
+22,5,1,Calibri,11.0,146.7,226.3,520.1,237.4,The latest achievement was that eIDAS authentication became available on the 
+22,5,2,Calibri,11.0,77.7,240.9,190.9,251.9,Magyarorszag.hu portal.  
+22,6,0,Calibri,11.0,72.0,258.9,74.5,269.9, 
+22,7,0,Calibri-Bold,11.0,77.7,272.8,226.5,283.8,2025 recommendation on e-ID
+22,7,0,Calibri,11.0,226.5,272.8,520.2,283.8,: Notify an e-ID scheme under the eIDAS Regulation to the 
+22,7,1,Calibri,11.0,77.7,287.3,137.4,298.4,Commission. 
+22,8,0,Calibri-Bold,11.0,77.7,305.3,520.3,316.4,"In 2025, Hungary continued the implementation of existing measures but did not take any "
+22,8,1,Calibri-Bold,11.0,77.7,319.9,144.8,330.9,new measure. 
+22,8,1,Calibri,11.0,145.6,319.9,520.2,330.9,The latest achievement was that the Hungarian eIDAS Node has been launched in 
+22,8,2,Calibri,11.0,77.7,334.2,190.2,345.3,live environment and the
+22,8,2,Calibri-Bold,11.0,190.2,334.2,192.7,345.3, 
+22,8,2,Calibri,11.0,192.9,334.2,520.3,345.3,eIDAS authentication became available on the Magyarorszag.hu portal in 
+22,8,3,Calibri,11.0,77.7,348.8,520.1,359.8,December 2025. The pre-notification of the Digital Citizenship (DÁP) mobile application as the LoA 
+22,8,4,Calibri,11.0,77.7,363.3,520.1,374.3,"High level Hungarian e-ID scheme has been officially initiated in February 2026, and in April 2026 "
+22,8,5,Calibri,11.0,77.7,377.8,520.0,388.9,the Commission services confirmed its completeness and took the required actions to initiate the 
+22,8,6,Calibri,11.0,77.7,392.2,315.4,403.2,peer-review process of the pre-notified e-ID scheme. 
+22,9,0,Calibri,11.0,72.0,410.2,74.5,421.3, 
+22,10,0,Calibri-Bold,11.0,77.7,424.1,240.9,435.2,2025 recommendation on e-Health
+22,10,0,Calibri,11.0,240.9,424.1,520.2,435.2,: Make the data type of medical images available to citizens 
+22,10,1,Calibri,11.0,77.7,438.7,520.0,449.7,"through the country’s online access service, expand the availability of health data by onboarding "
+22,10,2,Calibri,11.0,77.7,453.2,520.0,464.2,"public and private geriatric nursing homes, strengthen the authentication method for logging in to "
+22,10,3,Calibri,11.0,77.7,467.7,520.2,478.8,the online access service by using a notified or pre-notified eID scheme and ensure that all access 
+22,10,4,Calibri,11.0,77.7,482.1,295.4,493.1,modes comply with web accessibility guidelines. 
+22,11,0,Calibri-Bold,11.0,77.7,500.1,520.3,511.1,"In 2025, Hungary continued the implementation of existing measures but did not take any "
+22,11,1,Calibri-Bold,11.0,77.7,514.6,142.3,525.7,new measure.
+22,11,1,Calibri,11.0,142.3,514.6,147.2,525.7,  
+22,12,0,Calibri,11.0,72.0,532.6,74.5,543.7, 
+22,12,1,Calibri,11.0,72.0,546.1,74.5,557.1, 
+22,12,2,Calibri,11.0,72.0,559.5,74.5,570.6, 
+22,12,3,Calibri,11.0,216.1,559.5,218.5,570.6, 
+22,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+23,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+23,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+23,4,0,Calibri,11.0,72.0,160.5,525.9,171.5,"As noted in previous State of the Digital Decade reports, none of the measures planned in Hungary’s "
+23,4,1,Calibri,11.0,72.0,175.0,525.9,186.0,"roadmap are specifically aimed at the green transition. However, Hungary still plans to leverage the "
+23,4,2,Calibri,11.0,72.0,189.5,525.6,200.5,digital transformation for smart greening as all the planned measures can contribute indirectly to the 
+23,4,3,Calibri,11.0,72.0,203.9,525.8,214.9,uptake of greener technologies due to the nature of digitalisation. Priority will be given to integrating 
+23,4,4,Calibri,11.0,72.0,218.4,525.8,229.5,"future-proof, energy-efficient technologies into digital infrastructures, which can contribute to the "
+23,4,5,Calibri,11.0,72.0,233.0,353.3,244.0,sustainable functioning of the digital sector in the longer term. 
+23,5,0,Calibri,11.0,72.0,255.4,485.4,266.5,"Regarding citizens’ perceptions, according to the Digital Decade Eurobarometer 2026, "
+23,5,0,Calibri-Bold,11.0,488.9,255.4,525.9,266.5,84% of 
+23,5,1,Calibri-Bold,11.0,72.0,269.9,523.3,281.0,Hungarian people think AI should be developed as a priority in an environmentally sustainable way
+23,5,1,Calibri,11.0,523.4,269.9,525.9,281.0, 
+23,5,2,Calibri,11.0,72.0,284.4,525.6,295.5,"(e.g. using renewable and clean energy). In addition, 47% of them consider ‘green digital technology "
+23,5,3,Calibri,11.0,72.0,299.0,525.9,310.0,(e.g. energy-saving tech)’ as the technology likely to have the most positive impact in the next ten 
+23,5,4,Calibri,11.0,72.0,313.4,98.4,324.4,years.
+23,5,4,Calibri-Bold,11.0,98.3,313.4,100.8,324.4, 
+23,6,0,Calibri,11.0,72.0,335.9,525.7,347.0,Relevant funding opportunities are being explored to support the green transition of digital 
+23,6,1,Calibri,11.0,72.0,350.4,523.7,361.5,infrastructures. DROP+ projects support the uptake of digital solutions and the transition to a climate-
+23,6,2,Calibri,11.0,72.0,364.8,525.9,375.9,"neutral, circular and more resilient economy through the use of data under the Green and Hi-Tech "
+23,6,3,Calibri,11.0,72.0,379.4,249.0,390.4,Transition priority. Its priority areas are 
+23,6,3,Calibri-Bold,11.0,249.4,379.4,525.7,390.4,"energy systems and networks, energy management systems "
+23,6,4,Calibri-Bold,11.0,72.0,393.9,223.5,404.9,and digital developments related 
+23,6,4,Calibri,11.0,223.0,393.9,418.7,404.9,to energy communities (e.g. development of
+23,6,4,Calibri-Bold,11.0,418.8,393.9,421.3,404.9, 
+23,6,4,Calibri,11.0,420.7,393.9,525.9,404.9,AI energy management 
+23,6,5,Calibri,11.0,72.0,408.4,525.6,419.5,"systems, IT decision support systems; the introduction of IT solutions to support the efficient use of "
+23,6,6,Calibri,11.0,72.0,422.8,525.7,433.9,energy; putting district heating systems on a renewable footing; it developments related to electricity 
+23,6,7,Calibri,11.0,72.0,437.3,116.2,448.4,systems); 
+23,6,7,Calibri-Bold,11.0,116.5,437.3,525.7,448.4,digitalisation of environmental parameter monitoring and disaster management systems 
+23,6,8,Calibri-Bold,11.0,72.0,451.9,92.2,462.9,(e.g.
+23,6,8,Calibri,11.0,92.3,451.9,525.7,462.9," ICT infrastructure, development of IT systems supporting disaster risk reduction; development of "
+23,6,9,Calibri,11.0,72.0,466.4,384.3,477.4,IT systems for data collection and monitoring); and the monitoring of 
+23,6,9,Calibri-Bold,11.0,384.7,466.4,459.5,477.4,waste reuse and
+23,6,9,Calibri,11.0,459.5,466.4,525.9,477.4, recovery (e.g. 
+23,6,10,Calibri,11.0,72.0,480.8,418.1,491.8,"supporting IT, data collection and data processing solutions to help track waste"
+23,6,10,Calibri-Bold,11.0,418.1,480.8,420.6,491.8, 
+23,6,10,Calibri,11.0,420.2,480.8,525.9,491.8,reuse and recovery and 
+23,6,11,Calibri,11.0,72.0,495.3,177.1,506.4,detect illegal dumping).
+23,6,11,Calibri-Bold,11.0,177.2,495.3,182.1,506.4,  
+23,7,0,Calibri,11.0,72.0,517.9,368.2,528.9,The objectives include the development and implementation of
+23,7,0,Calibri-Bold,11.0,368.4,517.9,370.8,528.9, 
+23,7,0,Calibri,11.0,372.5,517.9,525.8,528.9,energy management systems for 
+23,7,1,Calibri,11.0,72.0,532.3,525.9,543.3,"municipalities (DIMOP Plus-2.1.1), the development of cyber defense systems for renewable and "
+23,7,2,Calibri,11.0,72.0,546.8,525.8,557.8,"decentralised electricity producers (DIMOP Plus-2.2.1), the development of solutions for the "
+23,7,3,Calibri,11.0,72.0,561.3,525.9,572.4,"development of smart capabilities in the electricity grid (DIMOP Plus-2.2.2), the development of "
+23,7,4,Calibri,11.0,72.0,575.9,525.6,586.9,"decentralised operation of the electricity system, the integration of renewable energy producers and "
+23,7,5,Calibri,11.0,72.0,590.3,525.8,601.3,"the effectiveness of balancing (DIMOP Plus-2.2.3/A and DROP Plus-2.2.3/B), the development of an "
+23,7,6,Calibri,11.0,72.0,604.8,525.9,615.8,environmental monitoring system using installed data collection systems and a climate protection data 
+23,7,7,Calibri,11.0,72.0,619.3,525.8,630.3,"repository (DIMOP Plus-2.3.1), the development of advanced digital specialised systems in the water "
+23,7,8,Calibri,11.0,72.0,633.8,525.6,644.9,"sector (DIMOP Plus-2.3.2), the development of IT systems supporting disaster risk reduction (DIMOP "
+23,7,9,Calibri,11.0,72.0,648.2,525.9,659.3,"Plus-2.3.3), the development of water monitoring systems (DIMOP Plus-2.3.5), the system supporting "
+23,7,10,Calibri,11.0,72.0,662.7,525.6,673.8,the elimination of illegal landfills and IT development based on aerial remote sensing technology 
+23,7,11,Calibri,11.0,72.0,677.3,159.9,688.3,(DIMOP Plus-2.4.1).
+23,7,11,Calibri-Bold,11.0,159.9,677.3,164.8,688.3,  
+23,8,0,Calibri,11.0,72.0,699.7,91.2,710.7,The 
+23,8,0,Calibri-Bold,11.0,92.1,699.7,221.1,710.7,DataCity Platform and Pilot 
+23,8,0,Calibri,11.0,222.1,699.7,525.9,710.7,(DIMOP Plus-1.3.15-25) aims to (i) support data-based operational 
+23,8,1,Calibri,11.0,72.0,714.2,525.9,725.3,"frameworks for municipalities with a view to ensuring a healthy, sustainable living environment and "
+23,8,2,Calibri,11.0,72.0,728.8,525.9,739.8,"good local quality of life, and (ii) improve the efficiency, accessibility and quality of public services "
+23,8,3,Calibri,11.0,72.0,743.3,525.9,754.3,"through the use of smart service solutions. More specifically, the project aims to (i) develop a central "
+23,8,4,Calibri,11.0,72.0,757.7,525.7,768.7,"data space using AI-based solutions that take into account local needs, ensuring the structured "
+23,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+24,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,provision of data and the possibility of complex data analysis for different user groups; (ii) facilitate 
+24,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"efficient, sustainable and resilient management of energy, water, transport and other resources "
+24,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"through data-driven support for key use cases; (iii) support evidence-based, transparent and "
+24,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,responsible municipal decision-making; (iv) ensure the involvement of local citizens in decision-making 
+24,3,4,Calibri,11.0,72.0,142.0,310.1,153.0,and provide access to open data for local businesses. 
+24,4,0,Calibri-Bold,11.0,77.7,164.9,270.9,175.9,2025 recommendation on Smart greening
+24,4,0,Calibri,11.0,271.0,164.9,520.1,175.9,: Support digital players to accelerate the transition of 
+24,4,1,Calibri,11.0,77.7,179.4,396.5,190.5,"their network infrastructure to greener, less energy intensive solutions. "
+24,5,0,Calibri-Bold,11.0,77.7,197.4,517.9,208.5,Hungary made some efforts to address the recommendation through new policy actions in 2025.
+24,5,0,Calibri,11.0,517.8,197.4,520.3,208.5, 
+24,5,1,Calibri,11.0,77.7,211.9,520.2,223.0,"However, most of the smart greening initiatives of the digital players are based on commercial "
+24,5,2,Calibri,11.0,77.7,226.3,275.8,237.4,"practices, focusing on energy optimization.   "
+24,6,0,Calibri,11.0,72.0,244.4,74.5,255.4, 
+24,7,0,Calibri,11.0,72.0,266.9,74.5,278.0, 
+24,7,1,Calibri,11.0,216.1,266.9,218.5,278.0, 
+24,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+25,2,0,Calibri-Bold,26.0,72.0,87.0,464.7,113.1,Annex I: National roadmap analysis  
+25,4,0,Calibri-Bold,11.0,77.7,126.7,321.4,137.8,Hungary’s national Digital Decade strategic roadmap  
+25,5,0,Calibri-Bold,11.0,77.7,144.3,519.9,155.3,"Hungary submitted a fully revised national Digital Decade roadmap on 16 May 2025, which "
+25,5,1,Calibri-Bold,11.0,77.7,158.7,354.8,169.7,contained two additional measures and revised trajectories
+25,5,1,Calibri,11.0,355.0,158.7,520.2,169.7,. The revised roadmap continues to 
+25,5,2,Calibri,11.0,77.7,173.2,520.1,184.2,"prioritise digital skills and digital infrastructure, and it includes reporting on the consultation of "
+25,5,3,Calibri,11.0,77.7,187.7,520.2,198.7,stakeholders. It still covers all objectives of the Digital Decade such as those relating to the green 
+25,5,4,Calibri,11.0,77.7,202.2,445.6,213.3,"transition, competitiveness, sovereignty, leadership, resilience, and cybersecurity.  "
+25,6,0,Calibri,11.0,77.7,219.6,520.0,230.7,The adjusted roadmap addresses a substantial number of roadmap recommendations issued in 
+25,6,1,Calibri,11.0,77.7,234.2,473.5,245.2,"2024, which are described below along with the corresponding action taken by Hungary. "
+25,7,0,Calibri-Bold,11.0,95.7,251.7,99.0,262.7,-
+25,7,0,Arial-BoldMT,11.0,99.0,250.0,102.1,262.3, 
+25,7,1,Calibri-Italic,11.0,113.7,251.7,520.3,262.7,Propose national target values and trajectories for edge nodes and formalise the trajectory 
+25,7,2,Calibri-Italic,11.0,113.7,266.2,155.3,277.2,for FTTP. 
+25,7,2,Calibri,11.0,154.9,266.2,520.2,277.2,Based on the methodology provided by the European Commission and the second 
+25,7,3,Calibri,11.0,113.7,280.6,520.3,291.6,"Edge Observatory report published in 2024, Hungary’s proposed national trajectory was "
+25,7,4,Calibri,11.0,113.7,295.1,520.0,306.2,indicated in the revised document together with an objective of deploying 82 edge nodes 
+25,7,5,Calibri,11.0,113.7,309.6,520.0,320.7,"by 2030. However, Hungary maintains the position that it is not yet possible to determine "
+25,7,6,Calibri,11.0,113.7,324.2,520.1,335.2,"how many edge nodes are realistically needed to achieve sufficiently low latency, given its "
+25,7,7,Calibri,11.0,113.7,338.7,520.2,349.7,relatively advanced domestic network infrastructure and current and expected user needs. 
+25,7,8,Calibri,11.0,113.7,353.1,520.1,364.1,"Hungary also added a separate formal trajectory for FTTP, with a target of 95% coverage by "
+25,7,9,Calibri,11.0,113.7,367.6,138.9,378.6,2030.
+25,7,9,Calibri-Bold,11.0,138.7,367.6,141.2,378.6, 
+25,7,10,Calibri-Bold,11.0,95.7,382.1,99.0,393.2,-
+25,7,10,Arial-BoldMT,11.0,99.0,380.4,102.1,392.7, 
+25,7,11,Calibri-Italic,11.0,113.7,382.1,520.2,393.2,"Increase the VHCN target to be closer to the EU’s target, given the country’s good starting "
+25,7,12,Calibri-Italic,11.0,113.7,396.7,274.5,407.7,point and its current rate of progress
+25,7,12,Calibri,11.0,274.6,396.7,520.2,407.7,. Based on the current rate of progress Hungary revised 
+25,7,13,Calibri,11.0,113.7,411.1,520.2,422.1,the trajectory of VHCN network development. The country considers it possible to increase 
+25,7,14,Calibri,11.0,113.7,425.6,463.2,436.6,the 2030 national target from 95% to 97% with the existing measures in place.
+25,7,14,Calibri-Bold,11.0,463.3,425.6,465.8,436.6, 
+25,7,15,Calibri-Bold,11.0,95.7,440.1,99.0,451.1,-
+25,7,15,Arial-BoldMT,11.0,99.0,438.4,102.1,450.7, 
+25,7,16,Calibri-Italic,11.0,113.7,440.1,520.3,451.1,Consider more ambitious targets for the cloud and data analytics technologies take-up by 
+25,7,17,Calibri-Italic,11.0,113.7,454.6,520.3,465.7,"enterprises to be closer to the EU’s targets, as the current performance of these indicators "
+25,7,18,Calibri-Italic,11.0,113.7,469.0,402.6,480.1,is already above the targets defined in the roadmap of Hungary. 
+25,7,18,Calibri,11.0,402.9,469.0,520.2,480.1,Based on the current rate 
+25,7,19,Calibri,11.0,113.7,483.5,520.0,494.6,of progress Hungary revised the trajectories for both cloud uptake and data analytics 
+25,7,20,Calibri,11.0,113.7,498.1,468.3,509.1,"uptake and increased both to 75%, the same as the EU’s Digital Decade targets."
+25,7,20,Calibri-Bold,11.0,468.2,498.1,470.7,509.1, 
+25,7,21,Calibri-Bold,11.0,95.7,512.6,99.0,523.6,-
+25,7,21,Arial-BoldMT,11.0,99.0,510.9,102.1,523.2, 
+25,7,22,Calibri-Italic,11.0,113.7,512.6,520.2,523.6,"Define a more ambitious target for digital skills closer to the EU’s target, as the current "
+25,7,23,Calibri-Italic,11.0,113.7,527.0,395.5,538.0,national target is almost achieved according to the 2023 value
+25,7,23,Calibri,11.0,395.7,527.0,520.2,538.0,. Based on the current rate 
+25,7,24,Calibri,11.0,113.7,541.5,520.2,552.5,of progress Hungary revised the trajectory for digital skills. The country considers it possible 
+25,7,25,Calibri,11.0,113.7,556.1,514.9,567.1,to increase the 2030 national target from 60% to 70% with the existing measures in place.
+25,7,25,Calibri-Bold,11.0,515.2,556.1,517.7,567.1, 
+25,7,26,Calibri-Bold,11.0,95.7,570.6,99.0,581.6,-
+25,7,26,Arial-BoldMT,11.0,99.0,568.9,102.1,581.2, 
+25,7,27,Calibri-Italic,11.0,113.7,570.6,520.2,581.6,Provide more information on the implementation of digital rights and principles (and Digital 
+25,7,28,Calibri-Italic,11.0,113.7,585.0,475.8,596.0,"Decade general objectives), including what national measures contribute to it."
+25,7,28,Calibri,11.0,475.9,585.0,520.3,596.0, Hungary 
+25,7,29,Calibri,11.0,113.7,599.5,520.1,610.5,provided more information on initiatives and their implementation during the second 
+25,7,30,Calibri,11.0,113.7,614.0,520.1,625.1,monitoring study of the Declaration on Digital Rights and Principles. The country states that 
+25,7,31,Calibri,11.0,113.7,628.5,512.6,639.6,most of the measures in the revised roadmap contribute to the values of the Declaration.
+25,7,31,Calibri-Bold,11.0,512.6,628.5,515.1,639.6, 
+25,8,0,Calibri,11.0,77.7,645.9,520.2,657.0,"The revised roadmap has 44 measures, which are backed by a budget of EUR 2.489 billion, 1.2% of "
+25,8,1,Calibri,11.0,77.7,660.5,103.4,671.5,GDP.  
+25,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+26,2,0,Calibri-Bold,11.0,199.0,84.5,393.0,95.5,Measures and budget in national roadmap
+26,2,0,Calibri-Bold,7.0,392.8,83.6,396.4,90.6,2
+26,2,0,Calibri-Bold,11.0,396.3,84.5,398.8,95.5, 
+26,4,0,Calibri,11.0,72.0,316.9,74.5,327.9, 
+26,5,0,Calibri,11.0,72.0,353.6,74.5,364.6, 
+26,5,1,Calibri-Bold,26.0,216.1,342.3,221.9,368.4, 
+26,6,0,Calibri,11.0,216.1,713.5,218.5,724.5, 
+26,6,1,Calibri,6.5,72.0,726.1,75.3,732.5,2
+26,6,1,Calibri,10.0,75.3,726.9,77.5,736.9, 
+26,6,1,Calibri,9.0,77.9,727.6,525.0,736.6,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+26,6,2,Calibri,9.0,72.0,738.9,525.3,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+26,6,3,Calibri,9.0,72.0,749.8,525.0,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+26,6,4,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+26,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+27,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"Annex II: Funding, economic impacts & "
+27,3,1,Calibri-Bold,26.0,72.0,121.2,322.9,147.3,Multi-Country Projects 
+27,4,0,Calibri,11.0,72.0,160.5,74.5,171.5, 
+27,5,0,Calibri-LightItalic,11.0,77.7,183.5,520.0,194.5,Country results from the study ‘Assessing the Economic Impact of Digital Investments under the 
+27,5,1,Calibri-LightItalic,11.0,77.7,198.0,222.7,209.1,Recovery and Resilience Facility’  
+27,6,0,Calibri,11.0,77.7,220.5,520.3,231.5,"A modelling study conducted by the European Commission services, with the FIDELIO model, "
+27,6,1,Calibri,11.0,77.7,235.0,520.3,246.0,assesses the economic impact of the digital component of the Recovery and Resilience Facility (RRF). 
+27,6,2,Calibri,11.0,77.7,249.4,520.3,260.5,"As of November 2025, the digital part of Hungary’s Recovery and Resilience Plan (RRP) was "
+27,6,3,Calibri,11.0,77.7,263.9,520.2,275.0,"evaluated to EUR 1.70 billion with EUR, of which 552 million for digital skills, EUR 126 million for the "
+27,6,4,Calibri,11.0,77.7,278.4,520.0,289.5,"digitalisation of businesses, EUR 540 million for the digitalisation of public services, and EUR 478 "
+27,6,5,Calibri,11.0,77.7,293.0,230.8,304.0,million for other digital priorities.  
+27,7,0,Calibri,11.0,77.7,315.4,520.3,326.5,The total economic impact of RRF digital measures is estimated to EUR 1.91 billion for the national 
+27,7,1,Calibri,11.0,77.7,329.9,520.2,341.0,"economy. Of this, EUR 1.05 billion stems from the direct effects of Hungary’s own RRP and EUR 859 "
+27,7,2,Calibri,11.0,77.7,344.4,520.3,355.5,million corresponds to spillover effects from the implementation of other EU Member States’ plans. 
+27,7,3,Calibri,11.0,77.7,358.8,520.0,369.9,"Hungary benefited the most from spillover effects from RRPs of Spain (EUR 199 million), Italy (EUR "
+27,7,4,Calibri,11.0,77.7,373.4,520.0,384.4,"160 million), Germany (EUR 131 million). The most impacted sectors are Manufacturing (EUR 523 "
+27,7,5,Calibri,11.0,77.7,387.9,416.2,398.9,"million), ICT Services (EUR 411 million), and Construction (EUR 217 million). "
+27,9,0,Calibri-Italic,11.0,451.3,660.9,453.8,672.0, 
+27,10,0,Calibri-Italic,9.0,239.1,680.1,354.2,689.1,RRF spillover effects to Hungary
+27,10,0,Calibri,9.0,354.3,680.1,356.3,689.1, 
+27,10,0,Calibri,11.0,356.2,678.6,358.7,689.6, 
+27,11,0,Calibri,11.0,72.0,700.9,74.5,711.9, 
+27,12,0,Calibri,11.0,72.0,723.4,74.5,734.4, 
+27,13,0,Calibri,11.0,72.0,745.8,74.5,756.8, 
+27,13,1,Calibri,11.0,216.1,745.8,218.5,756.8, 
+27,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,70.8,32.7,143.6,52.8,Hungary 
+28,3,0,Calibri-LightItalic,11.0,77.7,86.5,403.6,97.6,Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy  
+28,3,1,Calibri,11.0,77.7,100.9,357.9,112.0,Hungary allocates 29% of its total RRP to digital (EUR 1.7 billion)
+28,3,1,Calibri,7.0,357.8,100.0,361.3,107.0,3
+28,3,1,Calibri,11.0,361.3,100.9,520.3,112.0,". In addition, under cohesion policy, "
+28,3,2,Calibri,11.0,77.7,115.5,520.1,126.5,"EUR 2.8 billion, representing 13% of the country’s total cohesion policy funding, is dedicated to "
+28,3,3,Calibri,11.0,77.7,130.0,268.8,141.0,advancing Hungary’s digital transformation
+28,3,3,Calibri,7.0,268.7,129.1,272.3,136.0,4
+28,3,3,Calibri,11.0,272.2,130.0,280.0,141.0,.  
+28,4,0,Calibri,11.0,72.0,152.9,74.5,163.9, 
+28,5,0,Calibri-LightItalic,11.0,77.7,178.0,178.8,189.0,Multi-Country Projects 
+28,5,1,Calibri,11.0,77.7,192.4,520.3,203.4,Hungary is a member of the Alliance for Language Technologies EDIC and of the IMPACTS EDIC and 
+28,5,2,Calibri,11.0,77.7,206.9,520.2,217.9,is an observer to the Digital Commons EDIC. Hungary is directly participating in the IPCEI on Next 
+28,5,3,Calibri,11.0,77.7,221.4,520.3,232.5,Generation Cloud Infrastructure and Services (IPCEI-CIS) and in the Tech4Cure IPCEI. Hungarian 
+28,5,4,Calibri,11.0,77.7,236.0,520.2,247.0,entities are indirect and/or associated partners in the IPCEI on Microelectronics and Communication 
+28,5,5,Calibri,11.0,77.7,250.4,520.1,261.4,Technologies (IPCEI-ME/CT). Hungary is a participating state of the EuroHPC Joint Undertaking (JU) 
+28,5,6,Calibri,11.0,77.7,264.9,168.4,275.9,and of the Chips JU. 
+28,6,0,Calibri,11.0,72.0,287.9,74.5,299.0, 
+28,7,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+28,8,0,Calibri,6.0,72.0,716.7,75.1,722.7,3
+28,8,0,Calibri,9.0,75.0,716.9,519.6,725.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+28,8,1,Calibri,9.0,72.0,727.9,314.8,736.9,and Resilience Facility Regulation. Last data update: 23 April 2026. 
+28,8,2,Calibri,6.0,72.0,738.7,75.1,744.7,4
+28,8,2,Calibri,9.0,75.0,738.9,504.0,747.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+28,8,3,Calibri,9.0,72.0,749.8,525.1,758.8,2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including 
+28,8,4,Calibri,9.0,72.0,760.9,403.8,769.9,"Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.  "
+28,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

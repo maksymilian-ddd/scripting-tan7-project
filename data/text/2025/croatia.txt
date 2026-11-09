@@ -1,0 +1,1644 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 4/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+
+      Croatia  Croatia
+
+
+
+
+Contents
+
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ........................................ 6
+
+     Connectivity infrastructure .............................................................................................................. 6
+
+   VHCN and FTTP ................................................................................................................................ 7
+
+    Semiconductors............................................................................................................................... 9
+
+    Edge nodes ...................................................................................................................................... 9
+
+    Quantum technologies .................................................................................................................. 10
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 11
+
+    SMEs with at least basic digital intensity ...................................................................................... 11
+
+    Take-up of cloud/AI/data analytics ............................................................................................... 12
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 14
+
+  Strengthening Cybersecurity & Resilience ........................................................................................ 15
+Protecting and empowering CroatiaEU people and society ............................................................................. 17
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 17
+
+    Equipping people with digital skills ............................................................................................... 17
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 20
+
+  Building a safe and human centric digital environment and preserving our democracy ................. 22
+
+Leveraging digital transformation for a smart greening ....................................................................... 25
+
+Annex I – National roadmap analysis .................................................................................................... 27
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 29
+
+Annex IIΙ – Digital rights and principles ................................................................................................. 30  Croatia
+
+Executive summary
+
+Croatia has made significant strides in strategic technological sectors but still faces challenges in the
+widespread adoption of advanced digital technologies. Progress in areas, such as quantum
+communication, semiconductors, and cybersecurity has strengthened its growing contribution to EU
+competitiveness and sovereignty.
+
+Croatia shows a substantial level of ambition in its contribution to the Digital Decade, having set 13
+national targets, 77% of which are well aligned with the EU's 2030 targets. The country is following
+its trajectories moderately well with 63% of them being on track (on the basis of the 2024
+trajectories defined for all 8 KPIs analysed). Croatia addressed 50% of the 12 recommendations
+issued by the Commission in 2024 by making some changes through new measures.
+
+In 2024, the government continued its strategic reforms, with digitalisation efforts increasingly linked
+to  strengthening  industrial  competitiveness,  fostering  innovation, and  boosting  technological
+sovereignty. To make the most of the digital transition, Croatia must tackle persistent gaps in edge
+infrastructure, SME digitalisation, the uptake of advanced technologies, and support for high-growth
+enterprises.
+
+
+                                                                                                                                                      Digital Decade
+                                                                             Croatia                         EU
+                                                                                                                                          target by 2030
+ Digital Decade KPI (1)               2024DESI      2025DESI      Annual     National                 Annual                                                                                                 trajectory   DESI 2025              HR      EU
+                                                           (year       (year     progress                              progress
+                                                                               2024 (3)
+                                                     2023)      2024)
+
+  Fixed Very High Capacity Network (VHCN) coverage     67.8%     78.9%      16.4%      68.0%      82.5%       4.9%     100.0%   100%
+
+  Fibre to the Premises (FTTP) coverage                 62.1%     75.4%      21.4%      66.0%      69.2%       8.4%     100.0%         -
+
+  Overall 5G coverage                                83.4%     94.2%      12.9%      85.7%      94.3%       5.9%      99.0%    100%
+
+  Edge Nodes (estimate)                               3         6       100.0%            -         2 257       90.5%            -      10 000
+
+ SMEs with at least a basic level of digital intensity (2)          -       63.5%      4.8%              -         72.9%       2.8%      90.0%    90%
+
+  Cloud                                           40.7%     38.6%      -5.4%              -                  -                  -       75.0%    75%
+
+  Artificial Intelligence                                7.9%     11.8%      49.0%      13.0%      13.5%      67.2%     20.0%    75%
+
+  Data analytics                                    51.7%            -                -                 -                  -                  -       30.0%    75%
+
+  AI or Cloud or Data analytics                        65.6%            -                -                 -                  -                  -                -      75%
+
+  Unicorns                                          2         2        0.0%        2         286        4.4%        4       500
+
+  At least basic digital skills                           59.0%            -                -                 -                  -                  -       80.0%    80%
+
+  ICT specialists                                     4.3%      5.0%      16.3%      4.5%       5.0%       4.2%      7.0%    ~10%
+
+  eID scheme notification                                             Yes
+
+  Digital public services for citizens                        67.2       75.2      11.9%        75.0         82.3        3.6%       100.0     100
+
+  Digital public services for businesses                     66.2       65.3       -1.3%        75.0         86.2        0.9%       100.0     100
+
+  Access to e-Health records                              85.6       86.6       1.2%        95.0         82.7        4.5%       100.0     100
+
+  (1) See the methodological note for the description of the indicators and other metrics.
+  (2) DESI 2025 reports Version 4 of the Digital Intensity Index, which is comparable with the DII value from DESI 2023 (referring to year 2022) for the calculation
+  of annual progress. It is not comparable to the national trajectory, which is based on Version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI 2025 (year 2024).
+
+
+According to the 2025 special Eurobarometer on the Digital Decade, 81% of Croatians consider that
+the digitalisation of daily public and private services is making their lives easier. On the action of the
+public authorities, 90% consider it important to counter and mitigate the issue of fake news and
+
+
+                                        1  Croatia
+
+
+
+disinformation online. And on competitiveness, 91% consider it important to ensure that European
+companies can grow and become ‘European Champions’ capable of competing globally.
+
+A competitive, sovereign, and resilient EU based on technological leadership
+
+Croatia has made significant progress in FTTP and 5G deployment, surpassing the average EU growth
+rates. VHCN, although still below the EU average, progresses at a swift pace, driven by infrastructure
+programmes backed by the Recovery and Resilience Facility (RRF). However, Croatia faces challenges
+in deploying stand-alone 5G networks, with limited progress and no specific measures in place to
+speed up the roll-out. Rural mid-band 5G coverage also remains well below the EU average, and a
+comprehensive demand-side strategy to stimulate uptake is only expected after 2027.
+
+The country also holds a strong position in the adoption of data analytics. Although the basic digital
+intensity of SMEs grew faster than in the rest of the EU, it remains well below the EU average. Croatia
+continues to face challenges in the uptake of AI and cloud services, where adoption is lower than EU
+average. The start-up and scale-up ecosystem also remains weak, with only two unicorns recorded and
+limited venture capital activity.
+
+The launch of a national quantum communication project and the launch of a semiconductor
+competence centre are expected to strengthen Croatia’s position in strategic technologies. The country
+has also started taking steps towards decentralising ICT infrastructure with the deployment of six edge
+nodes. However, the edge computing ecosystem remains underdeveloped and lacks a dedicated
+national strategy. The country's cybersecurity capacity has improved with the adoption of the
+Cybersecurity Act and the launch of the National Coordination Centre for Industry, Technology, and
+Research in Cybersecurity; however, key standards like Internet Protocol version 6 and Domain Name
+System Security Extensions remain far below the EU average, signalling persistent vulnerabilities in the
+national digital infrastructure.
+
+Protecting and empowering EU people and society
+
+Despite solid digital skills among young people, Croatia continues to face major challenges in digital
+inclusion, with persistent skill gaps affecting older adults, people with lower education levels, and the
+rural population. While the share of ICT specialists in employment has improved and matches the EU
+average, shortages remain, labour market mismatches persist, and brain drain continues to weaken
+the digital talent pipeline.
+
+Public digital services for citizens have improved steadily and are broadly on track, but digital public
+services for businesses shows negative trends, including a decline in cross-border service availability.
+Preparations for the national Digital Identity Wallet are advancing, which will reinforce secure access
+frameworks. Access to health records is strong, but some key gaps remain: medical images are
+unavailable, some healthcare providers are not connected, and delegated access is not possible.
+Supporting a more inclusive and trusted digital transition, Croatia has intensified efforts to promote
+media literacy, cybersecurity awareness, and protection against online risks, particularly among young
+people.
+
+Leveraging digital transformation for a smart greening
+
+Green and digital priorities are receiving greater attention in Croatia, supported by major investments
+from the RRF. Croatia has made progress in digitalising its energy infrastructure and improving water
+management systems with digital monitoring solutions. However, the country still lacks a coherent
+
+                                        2  Croatia
+
+
+
+national strategy linking digitalisation to climate objectives, and systematic monitoring of emission
+reductions through digital technologies has not yet been put in place. Consumer awareness of the
+environmental impact of ICT devices remains low, and voluntary sustainability efforts in the digital
+sector are still fragmented.
+
+National Digital Decade strategic roadmap
+
+Croatia submitted an adjustment to its national roadmap in January 2025, refining its set of measures
+and updating key connectivity targets. The adjustment was prepared with broad stakeholder
+consultation and addresses a substantial number of 2024 recommendations. The roadmap maintains
+a strong focus on strengthening digital infrastructure, SME digitalisation, digital skills development,
+and  digital  public  services. However, gaps  persist  in the widespread adoption of advanced
+technologies, scaling up innovation-driven enterprises, and fully closing inclusion gaps in digital skills,
+particularly for older adults and rural areas. Overall, the Croatian roadmap includes 31 measures with
+a combined budget of 634.73 million, representing approximately 0.74% of the country's GDP.
+
+Funding & projects for digital
+
+Croatia allocates 20% of its total recovery and resilience plan to digital (EUR 1.4 billion)1. In addition,
+under cohesion policy, EUR 755 million, representing 9% of the country’s total cohesion policy funding,
+is dedicated to advancing Croatia’s digital transformation2.
+
+Croatia is a member of the three European Digital Infrastructure Consortia (EDICs): the Alliance for
+Language Technologies EDIC, the Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM
+EDIC. Croatian organisations are indirect partners in the Important Project of Common European
+Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Croatia is a participating
+state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+Croatia has contributed to the Best Practice Accelerator3 by sharing one best practice under the Digital
+Skills cluster (‘Women in Digital – Girls in ICT’).
+
+Digital rights and principles
+
+According to a support study Croatia has been relatively active in implementing the European
+Declaration on Digital Rights and Principles, with 48 initiatives overall and 7 new initiatives launched
+in 2024. Croatia is most active in the area of solidarity and inclusion. Less activity has been identified
+with regards to a fair digital environment. Measures in the area of sustainability appear to have most
+impact on the ground, in contrast to those addressing putting people at the centre of the digital
+transformation.
+
+
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+
+                                        3 Croatia
+
+
+
+
+
+Recommendations
+
+      -   Public services: Strengthen the interoperability and user-friendliness of public services to
+       encourage people and businesses to use them more.
+
+      -   e-Health: Introduce a comprehensive legal and technical framework for enabling authorised
+         individuals’ access to electronic health data on behalf of others; make medical imaging
+        accessible to individuals via the national online health access service; and ensure that all
+        healthcare providers, including geriatric nursing homes and mental health  facilities, are
+       connected and actively supplying data.
+
+      -   Basic digital skills: Intensify targeted action to bridge the digital skills divide across age,
+        education, and rural-urban populations.
+
+      -   ICT specialists: Expand training, upskilling, and retention programmes for ICT specialists,
+       strengthen alignment with labour market needs, and tackle brain drain to safeguard Croatia’s
+         digital talent pipeline.
+
+      -  SME digitalisation: Develop targeted programmes and incentives to increase SMEs’ adoption
+        of cloud, AI, and data analytics solutions, narrowing the gap between digitally advanced
+        enterprises and those lagging behind.
+
+      -   Edge nodes: Increase efforts in the area of edge nodes in view of their importance for
+        competitiveness, resilience, sovereignty and climate action.
+
+      -   5G: Accelerate full gigabit and 5G coverage, especially by addressing operational bottlenecks
+        (planning, permitting) and expanding mid-band 5G spectrum deployment.
+
+      -   Cybersecurity: Develop targeted  cybersecurity support programmes  for SMEs, expand
+        resilience testing, and strengthen national capacity to address cyber incidents in the public and
+        private sectors.
+
+
+
+
+
+                                       4  Croatia
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Croatia continues to strengthen its digital competitiveness, making notable progress in enhancing
+its digital infrastructure and accelerating the digital transformation of its economy. The ICT sector
+plays an increasingly important role, contributing 5.32% to the country’s gross value added in 2021 –
+above the EU average 4. This contribution stems primarily from the dominance of ICT services, which
+represent around 70% of the sector’s activity, followed by equipment sales and, to a lesser extent,
+hardware manufacturing. The sector has experienced steady growth in recent years, driven by strong
+government modernisation  efforts and  robust  enterprise  investments,  particularly  in  digital
+technologies such as software development and ICT services 5. These services, including software
+development and  IT consulting, are increasingly contributing to  Croatia’s export growth and
+competitiveness 6.
+
+The broader economic context remains favourable. In 2025, Croatia maintains robust growth
+supported by EU funds, eurozone membership, and Schengen integration, with a steady rise in export-
+oriented services and digital trade 7. The digital sector plays a growing role in this trend, notably
+through Croatia’s active participation in European initiatives to boost research and development (R&D)
+and innovation. ICT R&D personnel represented 36.75% of the national total in 2021 and 35.26% in
+2022. However, structural constraints – including labour shortages and fragmentation in the R&D
+landscape – continue to weigh on the economy’s long-term growth potential.
+
+R&D intensity reached 1.39% of gross domestic product (GDP) in 2023, up from 0.95% in 2018,
+largely driven by investments from the Recovery and Resilience Plan (RRP) and cohesion policy 8.
+Business R&D in the ICT sector accounted for 26.7% of total R&D spending, highlighting its growing
+role in driving innovation. Nonetheless, public research remains fragmented, and further reforms are
+needed to ensure stronger institutional coordination and impact.
+
+Digital innovation is gaining momentum, and the start-up ecosystem is evolving. Croatia outperforms
+the EU average in the adoption of cloud technologies and data analytics; however, the uptake of
+artificial intelligence remains modest. While the number of unicorns remains limited and venture
+capital investment (0.028% of GDP) falls below the EU average (0.078%), new measures – including
+the Vesna Deep Tech Venture Fund and improved R&D tax incentives – aim to improve access to
+finance and strengthen the innovation environment for high-growth firms 9.
+
+Croatia’s performance in digital infrastructure and business digitalisation is improving. Significant
+investments have been made to expand high-capacity network connectivity and accelerate the digital
+transformation of small and medium-sized enterprises (SMEs) – both essential for strengthening the
+business environment and boosting overall economic competitiveness 10.
+
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying
+the State of the Digital Decade report 2025.
+5 International Trade Administration, Croatia Country Commercial Guide. Available here: https://www.trade.gov/country-
+commercial-guides/croatia-information-and-communication-technology
+6 European Commission. (2025). European Semester Annex on Innovation to Business: Croatia.
+7 Economist Intelligence, One-click report: Croatia, 2025.
+8 ibid.
+9 ibid.
+10 European Commission (2025). European Semester Annex Making Business Easier: Croatia.
+
+                                        5  Croatia
+
+
+Building technological leadership: digital infrastructure and technologies
+
+Croatia is making strong progress in rolling out digital infrastructure, with some of the fastest growth
+rates in fibre and very high-capacity network (VHCN) coverage across the EU, particularly in rural areas,
+where coverage remains low but is catching up rapidly. The country is also advancing in strategic
+domains such as semiconductors and quantum technologies, though challenges remain in edge
+computing, mid-band 5G coverage, and gigabit service uptake.
+
+Connectivity infrastructure
+
+Croatia is at 78.93% of VHCN coverage (2030 national target: 100%) after an increase of +16.4% in
+2024 and stands just below the EU average of 82.49%. The country is on track according to its
+national trajectory. However, Croatia’s growth rate notably outperformed the EU average of 4.9%. For
+households in rural areas, VHCN coverage reached 49.09%, under the EU rural average of 61.89%, but
+with a very high annual growth rate of 92.8%, significantly exceeding the EU’s 11.3%. These results
+suggest that Croatia exceeded its expected 2024 trajectory of 66%.
+
+Fibre to the premises (FTTP) coverage in Croatia reached 75.39% in 2024 (national target: 100%), up
++21.4% from 2023 and above the EU average of 69.24%. The country is on track according to its
+national trajectory.
+
+In rural areas, FTTP coverage stood at 44.43%, still below the EU’s 58.78%, but Croatia recorded
+exceptional annual growth of 126.0%, compared to the EU’s 11.9%. Although no separate national
+FTTP trajectory has been reported, the observed pace of deployment is aligned with the country’s
+broader VHCN goals.
+
+Croatia reached 94.20% of 5G coverage in 2024 (national target: 99%), showing an increase of
++12.9%, just below the EU average of 94.35%. The country is on track according to its national
+trajectory. In rural areas, 5G coverage was 86.35%, exceeding the EU rural average of 79.57%.
+However, rural growth of 7.8% was below the EU’s 11.9%, indicating that further acceleration is needed
+in sparsely populated areas.
+
+Coverage in the strategic 3.4-3.8 GHz band remains a challenge. Croatia’s national coverage in this
+band stood at 45.18% in 2024, compared to the EU average of 67.72%, with a growth rate of 13.0%
+vs the EU’s 32.6%. In rural areas, coverage reached only 8.48%, far below the EU rural average of
+26.19%, and with a modest increase of 5.7%, signalling the need for intensified mid-band 5G roll-out.
+
+On spectrum, Croatia has assigned 100% of the harmonised spectrum in the 5G pioneer bands as of
+2024 and 2025, standing well above the EU averages of 73.4% and 74.63%, respectively. This places
+Croatia among the top performers in regulatory readiness.
+
+In terms of fixed broadband take-up, 43.64% of subscriptions were ≥ 100 Mbps in 2024 (up from
+38.62% in 2023), below the EU average of 71.88%, but with a growth rate of 13.0%, outpacing the EU’s
+9.1%. For 1 Gbps subscriptions, Croatia rose from 3.22% to 5.81% year-on-year, while the EU increased
+from 18.47% to 22.25%. Though the absolute share remains low, Croatia’s 80.4% growth far exceeded
+the EU’s 20.5%, reflecting rising consumer demand.
+
+5G SIM card penetration reached 34.8% in 2024 (up from 17.38% in 2023), just below the EU average
+of 35.56%. With a growth rate of 100.2% compared to the EU’s 63.9%, Croatia shows strong
+momentum in consumer adoption of 5G services.
+
+
+
+                                        6  Croatia
+
+
+
+VHCN and FTTP
+
+Croatia’s target for VHCN and FTTP coverage remains at 100% by 2030, as defined in the initial
+roadmap submitted in 2023. Given the strong public investment and improved FTTP roll-out observed
+in 2024, the target appears realistic. The strong growth already achieved, combined with Croatia’s
+consistent alignment with or outperformance of EU benchmarks, supports this assessment.
+
+The strategy is underpinned by significant funding from the RRP, with EUR 125.7 million allocated to
+the national broadband infrastructure programme targeting areas with insufficient commercial
+interest (ONP), enabling the roll-out of FTTP coverage to approximately 124 000 households and
+700 000 residents. A further EUR 19.6 million was secured under the RRP to support the construction
+of passive infrastructure in rural areas, improving access to VHCN networks.
+
+To complement these supply-side investments, Croatia plans to introduce a demand-side voucher
+scheme post-2027 to support gigabit uptake for up to 125 000 households. This dual approach is
+essential to ensuring both availability and adoption, particularly in less commercially attractive areas.
+
+Croatia is also investing in its future backhaul capacities for underserved areas through the national
+programme for broadband backhaul infrastructure (NP-BBI), expected to be completed by 2030.
+However, implementation has faced significant delays. The design phase is underway, but progress
+remains limited, and outcomes are yet to be demonstrated.
+
+No new fibre roll-out measures were included in the 2024 roadmap adjustment. However, given the
+strong performance to date and the comprehensive programme structure already in place, this
+omission appears  justified. The roadmap  continues  to  prioritise  rural deployment, demand
+stimulation, and administrative streamlining.
+
+The copper switch-off process remains at an early stage. As of early 2025, no formal decommissioning
+plan has been submitted by the incumbent operator, although conditions for partial switch-offs are
+met in several FTTP-covered areas. Croatia’s electronic communications regulator, HAKOM, has
+confirmed that any future switch-offs will be subject to case-by-case approval under the Electronic
+Communications Act.
+
+Recent market developments, including the emergence of a new operator now leading over half of the
+co-financed projects, have increased implementation capacity and enhanced competitive pressure.
+Nonetheless, key barriers remain, such as high construction costs in sparsely populated areas,
+affordability gaps among elderly and low-income populations, and heterogeneous fee regimes
+imposed by local authorities. To address these, Croatia is preparing legislative updates in Q3 2025 to
+transpose the General Infrastructure Act.
+
+In summary, Croatia’s strategy to achieve universal VHCN and FTTP coverage by 2030 is credible, well-
+supported, and advancing steadily. Key next steps include putting into operation the gigabit broadband
+voucher scheme, improving affordability, and maintaining momentum through proactive regulatory
+and stakeholder engagement.
+
+ 2024 recommendation: Continue and expand the measures aimed at supporting FTTP roll-out,
+ aiming to fully close the rural-urban divide, including by supporting demand for gigabit services.
+
+ In 2024, Croatia continued implementing existing measures but did not take any new measures.
+ The country continued implementing major RRP-funded infrastructure programmes and confirmed
+ the upcoming launch of a voucher scheme targeting gigabit uptake in underserved areas.
+ Preparatory work is also ongoing on legislative updates to support cost-effective roll-out. While no
+
+                                        7  Croatia
+
+
+
+ new measures were introduced in the 2024 roadmap adjustment, the scope and scale of ongoing
+ investments justify this. Further efforts may be needed to accelerate demand-side measures before
+ 2027 and to ensure affordability for vulnerable groups.
+
+5G
+
+In its 2024 roadmap adjustment, Croatia updated its 5G target to reach 99% coverage of inhabited
+areas and 75% coverage in the 3.4-3.8 GHz band by 2030. These targets reflect a moderate but realistic
+ambition, taking into account Croatia’s fragmented geography, smaller market size, and existing
+spectrum allocation. With  full spectrum  availability across  all pioneer bands and the steady
+deployment pace observed in 2024, the country remains broadly on track to meet its national
+objectives, although continued focus will be required in mid-band deployment and rural coverage.
+General 5G coverage is progressing well, but standalone 5G remains limited.
+
+To support these targets, Croatia introduced new measures in its 2024 roadmap adjustment aimed at
+improving coordination and addressing roll-out barriers, especially for standalone 5G and rural
+coverage. A key development is the creation of a national 5G working group, coordinated by HAKOM,
+which brings together telecom operators, industry, and academia. This group facilitates information
+exchange, identifies regulatory obstacles, and supports preparation for industrial 5G use cases.
+
+Another important measure is the Digital Connectivity Programme, financed under the RRP. In 2024,
+Croatia made progress with procurement procedures, and the national broadcasting infrastructure
+operator OiV was selected to deploy passive infrastructure in rural areas.
+
+While these actions demonstrate progress, the roadmap signals that a more comprehensive demand-
+side strategy is not expected until after 2027, following a funding gap assessment planned for 2026.
+This delay may limit near-term uptake, particularly for standalone 5G. Operators reported that market
+readiness and clear industrial use cases are still lacking. As of early 2025, there is no regulatory
+pressure to accelerate standalone deployment, although the authorities are monitoring market signals
+and may consider intervention as industrial demand develops.
+
+Croatia is one of the few EU Member States to have fully assigned 100% of the harmonised spectrum
+in all three 5G pioneer bands: 700 MHz, 3.6 GHz, and 26 GHz. These bands were fully allocated
+through public auctions concluded in 2021 and 2023. In the 3.4-3.8 GHz band specifically, all national
+operators have been granted 100 MHz blocks, while the 3.4-3.48 GHz sub-band is allocated for regional
+use.
+
+These allocations provide the basis for high-capacity 5G deployment nationwide. However, rural mid-
+band coverage remains limited, and Croatia will need to accelerate deployment in this frequency range
+to meet its 2030 target.
+
+ 2024 recommendation: Ensure that new players have sufficient access to spectrum for innovative
+ B2B and B2C applications and encourage operators to speed up the deployment of 5G standalone
+ core networks.
+
+ Croatia made some efforts to address the recommendation through new policy actions in 2024.
+ While the 2024 roadmap does not include new spectrum access schemes for alternative or vertical
+ players, Croatia has fully assigned all harmonised 5G pioneer bands, ensuring spectrum availability
+ for future demand. The establishment of a national 5G working group coordinated by HAKOM
+ provides a structured forum for identifying regulatory and market barriers, including access issues
+ for innovative use cases.
+
+
+                                        8  Croatia
+
+
+
+ Regarding 5G standalone deployment, progress remains limited. The roadmap adjustment does not
+ introduce direct incentives or targets for standalone core roll-outs, but Croatia has confirmed that
+ the current market environment does not yet justify regulatory intervention. The authorities are
+ monitoring developments closely and anticipate further action once industrial demand emerges,
+ supported by the funding gap assessment planned for 2026.
+
+Semiconductors
+
+Semiconductors are gaining strategic importance in Croatia’s digital industrial policy, with national
+efforts focused on chip design, characterisation, and SME support. While no new measures were
+introduced in the 2024 roadmap update, the planned implementation of the Croatian Competence
+Centre for Semiconductors (CROCCS) has progressed. CROCCS is coordinated by the University of
+Zagreb’s Faculty of Electrical Engineering and Computing and was positively evaluated under the
+DIGITAL-chips-2024-SG-CCC-1 call. A grant agreement is under preparation, with expected co-funding
+of EUR 1million annually from 2025 to 2028 through the Digital Europe Programme and national
+sources.
+
+The centre brings together a consortium of eight national partners, including Rimac Technology,
+KONČAR, and the Ruđer Bošković Institute. CROCCS will provide SMEs and academic institutions with
+access to chip design tools, advanced characterisation and measurement infrastructure, and services
+for testing and validation. These capabilities will be supported by both existing facilities and newly
+acquired equipment distributed across the partner institutions.
+
+The chip characterisation laboratory in Zagreb is expected to serve as a national and EU-level facility,
+with particular expertise in power device testing and electrostatic discharge (ESD) simulations. SME
+users will be supported in accessing EU pilot lines and preparing market-ready demonstrators, with
+services offered at no or reduced cost.
+
+While Croatia does not currently host fabrication plants or large-scale manufacturing capacity, its
+role in the semiconductor value chain is anchored in design, prototyping, and research infrastructure.
+CROCCS also aims to attract investment, strengthen talent retention, and promote innovation in high-
+tech sectors such as automotive and energy.
+
+No direct policy link has been established between semiconductors and critical raw materials, but
+Croatia is developing broader circular economy initiatives, including material reuse measures financed
+through the RRP. These may provide a foundation for future alignment with raw materials strategies.
+
+Croatia’s contribution to European semiconductor sovereignty lies in research, design, and advanced
+infrastructure rather than industrial-scale production. CROCCS represents a significant step toward
+integrating national capabilities into EU-level efforts under the European Chips Act.
+
+Edge nodes
+
+According to the Edge Node Observatory, Croatia had deployed a total of six edge nodes by 2024,
+doubling the number from 2023 but still placing Croatia among the countries with the lowest number
+of edge nodes. This increase highlights the initial steps toward decentralising ICT infrastructure but
+also reflects the absence of a strategic national framework in this area.
+
+In 2024, no field trials or dedicated funding measures were launched to support edge computing
+infrastructure.  Croatia  currently  lacks a  strategy  specifically  targeting the development and
+deployment of edge nodes. Public ICT resources remain concentrated in centralised state cloud
+
+
+                                        9  Croatia
+
+
+
+infrastructure, operated by entities such as APIS IT (Agency for Support to Information Systems and
+Information Technologies), FINA (Financial Agency), CARNET (Croatian Academic and Research
+Network), and AKD (Agency for Commercial Activities). While some of these providers maintain
+physical decentralisation across facilities, the operational set-up does not align with the architectural
+principles of edge computing, which brings compute capacity closer to end users.
+
+The Act on Digital Information Infrastructure (ZODII), regulates access to the State cloud for public
+and private actors has been adopted in May 2025. However, the legislative scope currently focuses on
+interoperability and cloud governance, without addressing edge-specific infrastructure needs.
+
+In this context, Croatia’s edge node ecosystem remains underdeveloped and disconnected from
+ongoing broadband and 5G deployment efforts. A clear strategy – including defined objectives,
+timelines, and incentives – will be essential to integrate edge computing into the broader digital
+infrastructure landscape.
+
+ 2024 recommendation: Increase efforts in the area (…) of edge nodes, in view of their importance
+ for competitiveness, resilience, sovereignty, European values and climate action.
+
+ No information available on measures taken to address the recommendation. There is no national
+ monitoring framework, no dedicated roadmap measures, and no national funding instruments to
+ support edge computing development. Public ICT infrastructure remains highly centralised in the
+ State cloud, and there is currently no national strategy or deployment trajectory for edge nodes.
+
+Quantum technologies
+
+In 2024, Croatia continued its engagement in quantum technologies with the Croatian Quantum
+Communication Infrastructure (CroQCI) project. Supported by EU funding since 2023, the project’s
+total value backed is EUR 10 million and is implemented by a national consortium of eight partners. It
+aims to deploy terrestrial and space-based quantum communication technologies, contributing to the
+EU-wide quantum infrastructure and enabling ultra-secure data transmission for public and scientific
+services.
+
+The CroQCI project includes activities to demonstrate quantum key distribution (QKD), build testing
+environments, and strengthen domestic expertise. It is expected to facilitate secure communications
+and  support  training,  research, and knowledge  transfer  within  Croatia. The  initiative was
+acknowledged during the 2025 fact-finding mission as a key measure for advancing quantum
+communication in the country.
+
+In parallel, Croatia is investing in quantum computing development through a dedicated measure in
+its 2024 digital roadmap. Led by the University of Zagreb’s Computing Centre (SRCE), the measure
+focuses on establishing a test environment for quantum and hybrid computing simulations, integrated
+within the national high-performance computing (HPC) ecosystem. SRCE’s role includes facilitating
+access for academic and industrial users and contributing to the advancement of strategic computing
+infrastructure.
+
+While Croatia’s quantum ecosystem remains research-oriented, these initiatives show substantial
+progress in building up national capabilities and aligning with broader EU efforts. Both the CroQCI
+and quantum computing measures form the foundation for Croatia’s long-term participation in secure
+and advanced digital technologies.
+
+
+
+
+                                       10  Croatia
+
+
+
+ 2024 recommendation: Increase efforts in the area of quantum computing […], in view of their
+ importance for competitiveness, resilience, sovereignty, European values and climate action.
+
+ Croatia made some efforts to address the recommendation through new policy actions in 2024.
+ The measures, led by SRCE, aim to develop a test environment for quantum and hybrid computing
+ simulations integrated into the national HPC ecosystem. While this constitutes a first step toward
+ strengthening institutional and research capacity, there is no evidence of a broader strategic
+ framework or targeted support for industry and commercial applications. Efforts in quantum
+ communication were more advanced, with the launch of the EU-funded CroQCI  project,
+ implemented by a national consortium to support secure quantum infrastructure. Overall, Croatia’s
+ engagement remains research-focused and at an early stage, and further efforts will be needed to
+ scale up investment, define long-term governance, and ensure alignment with EU-level initiatives.
+
+Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+
+The digitalisation of Croatian enterprises continued to improve in 2024, with notable advances in
+adopting advanced technologies but persisting challenges in the digital intensity of SMEs and
+innovation scaling. Building on the Draghi report’s emphasis on competitiveness, this chapter analyses
+Croatia’s progress in enterprise digitalisation, uptake of cloud, AI and data analytics, and the
+development of the start-up and scale-up ecosystem.
+
+SMEs with at least basic digital intensity
+
+In Croatia, 63.45% of SMEs had at least a basic level of digital intensity in 2024 (2030 national target:
+                                90%), following an increase of +4.8% since 2022. This remains
+                                       significantly below the EU average of 72.91%, despite one of the
+                                      fastest improvement  rates  in the EUMore  specifically, only
+                             27.62% of Croatian SMEs reached high or very high digital
+                                        intensity, also below the EU average of 32.66%. This reflects
+                               ongoing structural weaknesses in the digital transformation of
+                                      Croatia’s enterprise sector, particularly among micro- and small
+                                   businesses.
+
+                                   Croatia continues to rely on a wide range of investment schemes
+                                  to promote SME digitalisation. Under the RRP, EUR 29.7 million in
+                                non-refundable support has been allocated specifically for digital
+                                  transformation of SMEs, alongside EUR 62.2 million awarded
+                              under the cohesion programme, covering a total of over 2 500
+contracts by 2023. Additional funding under the 2021-2027 Competitiveness and Cohesion
+Programme (PKK) includes earmarked funding of EUR 74 million, of which over EUR 51 million has
+already been granted. These programmes target business process automation, digital tool adoption,
+and innovation scaling.
+
+Croatia continues to rely on a wide range of investment schemes to promote SME digitalisation. Under
+the RRP, component related to digital economy EUR 29.7 million in non-refundable support has been
+allocated specifically for the digital transformation of SMEs, alongside EUR 63.6 million awarded
+under the RRP and the European Regional Development Fund (ERDF), covering a total of over 2 500
+contracts by 2023. One example of additional funding under the 2021-2027 Competitiveness and
+Cohesion Programme includes EUR 60 million allocated to the Croatian Venture Capital Initiative 2
+
+
+
+                                       11  Croatia
+
+
+
+(CVCi 2) initiative. These programmes target business process automation, digital tool adoption, and
+innovation scaling.
+
+The national support framework has been reinforced through the establishment of four European
+Digital Innovation Hubs (EDIHs), which became operational between late 2022 and early 2023. These
+include:
+
+      CROBOHUB++ at the University of Zagreb, focusing on services in artificial intelligence,
+        cybersecurity, and HPC, including pre-investment testing, training, and support to SMEs for
+       product development;
+
+       Adria EDIH in Rijeka, promoting digital solutions in the maritime and energy sectors;
+
+       AI4Health.Cro, coordinated by the Ruđer Bošković Institute, specialised in e-Health innovation
+      and support for the European Health Data Space; and
+
+      JURK EDIH, coordinated by the Regional Coordinator of Sisak-Moslavina (RK SMŽ), supporting
+         digitalisation in the fields of artificial intelligence, blockchain, and gaming.
+
+Together, they act as regional competence centres, providing SMEs with access to digital maturity
+assessments, pre-investment testing environments, training, and guidance in securing both national
+and EU-level financing. Their role is particularly important in underserved areas and for sectors with
+low digital maturity, ensuring more balanced support at local level.
+
+Looking ahead, it will be essential to sustain the momentum of these support schemes, especially as
+Croatia moves towards bridging the digital intensity gap with the EU average. While Croatia’s structural
+funding pipeline remains strong, fragmentation across instruments and limited technical support
+services  for SMEs  continue  to pose  challenges.  Strengthening  advisory  services, enhancing
+coordination between national and regional schemes, and ensuring inclusive access for micro-
+enterprises will be key to raising overall SME digital maturity.
+
+Take-up of cloud/AI/data analytics
+
+According to 2023 data, 65.59% of Croatian enterprises used at least one of the following
+technologies: cloud computing, data analytics, and artificial intelligence, placing the country well
+above the EU average of 54.7%. Among SMEs, the uptake stood at 64.88%, while 89.74% of large
+enterprises reported usage, resulting in a 24.86 percentage point gap – significantly narrower than
+the EU gap of 32.97. These results confirm Croatia’s position as one of the stronger performers in digital
+technology uptake among enterprises, with progress driven by both structural funding and an
+increasingly supportive ecosystem.
+
+According to 2022 data from the Croatian Bureau of Statistics, SMEs in Croatia account for 60.2% of
+the total value added in the non-financial business economy, while large enterprises contributed
+39.8%. SMEs accounted for 97.4% of all enterprises with more than 10 employees, compared to just
+2.6% for large firms. This structure underscores the importance of boosting digital adoption among
+SMEs, not only to close uptake gaps but also to fully realise the transformative potential of advanced
+technologies in a business environment dominated by small-scale operators 11.
+
+
+
+
+
+11 European Commission. (2025). European Semester Annex Making Business Easier: Croatia.
+
+                                       12  Croatia
+
+
+
+
+
+      Cloud
+
+Cloud computing remains the most widely adopted advanced technology among Croatian enterprises.
+In 2023, 40.73% of firms used cloud services, slightly outperforming the EU average of 38.97%. SME
+adoption stood at 39.96%, while 66.87% of large enterprises made use of cloud services, resulting in
+a 26.91 percentage point difference – a gap smaller than the EU average of 31.68. However, updated
+2024 figures show a modest decline in overall usage to 38.55%, with SME uptake falling to 37.72%,
+while large enterprise adoption continued to grow to 68.96%, widening the gap to 29.15 points.
+
+This dip among SMEs may reflect cost pressures or implementation barriers, though support remains
+available through a mix of RRP-funded investment grants, cohesion policy schemes, and access to
+public cloud infrastructure via the Centre for Shared Services (CDU). ZODII in 2025 is expanding SME
+access to national cloud services.
+
+Croatian entities are also indirectly involved in the Important Project of Common European Interest
+(IPCEI) on Next  Generation Cloud  Infrastructure and  Services,  although no  national-level
+dissemination or coordination actions have yet been launched.
+
+      Data Analytics
+
+Croatia has emerged as a top performer in the EU for the adoption of data analytics. In 2023, 51.68%
+of enterprises reported using data analytics, well above the EU average of 33.25%. SME adoption
+reached 50.72%, while 83.91% of large enterprises used such tools, reflecting a 33.19 percentage
+point gap – narrower than the EU average of 39.72. The high level of uptake is partly attributable to
+the growing availability of real-time public data services, the mobilisation of EU funds for analytics
+software adoption, and the active role of EDIHs in providing training and testing environments.
+
+       Artificial Intelligence
+
+In contrast, AI adoption in Croatia remains at an earlier stage of development and the country is
+lagging behind compared to its national trajectory. In 2024, 11.76% of Croatian enterprises used
+artificial intelligence, just below the EU average of 13.48%. Compared to 2023 (7.89%), this marks a
+49.05% increase, though the EU grew faster at 67.2%. SME usage stood at 11.31%, while 28.36% of
+large enterprises had adopted AI solutions, producing a 17.05 percentage point gap – much smaller
+than the EU’s 28.53 gap, indicating relatively balanced uptake across different-sized companies.
+
+Recent policy efforts are beginning to address this lag. The ‘Grants for Digitalisation’ (EUR 27.3 million)
+and a voucher scheme for SME digitalisation worth EUR 9.95 million support AI-related investment,
+alongside a national AI-capable data infrastructure launched in 2023. Still, the current national 2030
+
+
+                                       13  Croatia
+
+
+
+target of 30% AI uptake – far below the EU target of 75% – reflects a low level of ambition and suggests
+the need for stronger public-private partnerships, demonstration pilots, and sector-specific adoption
+strategies.
+
+ 2024 recommendation: Increase the level of effort […] by supporting the development and
+ deployment  of  trustworthy,  secure  and  sovereign  advanced  technologies and  solutions
+ (AI/cloud/data).
+
+ Croatia made some efforts to address the recommendation through new policy actions in 2024.
+ The roll-out of RRP-funded measures – including EUR 27.3 million for Grants for Digitalisation and
+ EUR 9.95 million for the voucher programme – helped to stimulate uptake of cloud and AI tools,
+ particularly among SMEs. In addition, the launch of a secure, sovereign AI data infrastructure at the
+ CDU provides a national platform for AI model development and analytics.
+
+ Despite this, AI adoption remains modest (11.76% vs 13.48% EU average), and the 2030 targets for
+ AI and data analytics remain well below EU benchmarks. There is currently no dedicated national
+ strategy to stimulate widespread adoption across sectors, nor are there targeted initiatives to
+ deepen digital integration beyond basic uptake. Further efforts will be needed to scale deployment
+ and ensure SMEs move from early adoption to full digital transformation.
+
+Unicorns, scale-ups and start-ups
+
+At the beginning of 2025, Croatia had two unicorns, with a 2030 national target of four. This figure
+remains unchanged from the previous year. While the ambition level remains limited, 2024 saw a
+broadening of national efforts to strengthen the investment landscape for high-growth and innovation-
+driven enterprises.
+
+The ICT sector in Croatia represents 5.26% of national gross value added, close to the EU average of
+5.5%. Notably, business R&D expenditure in the ICT sector accounts for 34.27% of total R&D
+expenditure, reflecting the sector’s growing role in driving innovation. However, broader access to
+equity and venture capital financing remains limited. Venture capital investment as a share of GDP is
+below the EU average, and private equity investment fell sharply in recent years, indicating persistent
+financing constraints for high-growth firms.
+
+To address these structural gaps, Croatia launched several financing instruments in 2024. CVCi 2,
+supported  by  the  European  Investment  Fund,  combines EUR 60 million  from ERDF  with
+EUR 20 million in national co-financing, while a new EUR 80 million programme was introduced for
+start-up support. These  efforts complement  existing instruments, including EUR 70 million  in
+innovation grants and EUR 210 million in vouchers promoting business R&D collaboration. In
+addition, the Vesna Deep Tech Venture Fund, with a budget of EUR 40 million, aims to stimulate early-
+stage investment in deep tech sectors 12.
+
+To support long-term capital development, Croatia initiated work on a Strategic Framework for the
+Development of Capital Markets 2025-2030, backed by diagnostic and benchmarking reviews
+completed in 2024. The draft framework and its accompanying action plans aim to improve investor
+incentives, legal certainty, and access to non-bank finance such as crowdfunding and equity
+instruments.
+
+Meanwhile, R&D tax incentives are being revised to increase take-up by innovative firms and to
+simplify access for start-ups. A separate reform is targeting the development of a national acceleration
+
+
+12 European Commission. (2025). European Semester Annex on Innovation to Business: Croatia.
+
+                                       14  Croatia
+
+
+
+ecosystem and providing grant-based support for deep tech ventures. These are reinforced by the
+Vesna Deep Tech Venture Fund, which is offering EUR 40 million to early-stage firms in high-tech
+sectors.
+
+Despite progress, Croatia  still lacks a dedicated national strategy for scale-ups and unicorn
+development, and financing conditions remain well below the EU average. Venture capital penetration
+is still limited in scope, and regulatory hurdles – particularly around fund formation and investor
+participation – continue to affect the growth of the venture capital ecosystem.
+
+Entrepreneurial activity remains relatively high, supported by RRP-funded initiatives, targeted business
+support schemes, and platforms like START for digital company registration. However, the absence of
+a fully integrated policy framework for scaling firms may continue to hinder Croatia’s capacity to
+produce high-growth, innovation-driven champions in the medium term 13.
+
+ 2024 recommendation: Increase the level of effort to support the unicorns target, including by
+ increasing the level of R&D in the ICT sector, improving access to finance and supporting the
+ development and deployment of trustworthy, secure and sovereign advanced technologies and
+ solutions.
+
+ Croatia made some efforts to address the recommendation through new policy actions in 2024. It
+ continued implementing existing investment schemes and introduced several new financial
+ instruments to support start-ups and deep tech ventures. However, the country  still lacks a
+ dedicated strategy for scale-ups and unicorn development, and structural barriers to late-stage
+ financing and innovation scaling persist.
+
+Strengthening Cybersecurity & Resilience
+
+In 2023, 63.9% of individuals in Croatia took at
+least one precautionary action to protect their
+personal data online,  slightly below the EU
+average of 69.55%. Of these, 47.06% engaged in
+three or more actions, suggesting above-basic
+digital safety skills. The most common action was
+refusing the use of personal data for advertising
+purposes (47.98%), while only 25.62% changed
+browser settings to manage cookies, indicating
+gaps in more advanced protective behaviours.
+
+Croatian enterprises report a  relatively high
+incidence of cyber-related disruptions. In 2024,
+26.1% of enterprises experienced at least one
+ICT  security  incident, compared  to the EU
+average of 21.54%. The most frequent causes of unavailability were hardware or software failures
+(23.54%), while external attacks (e.g. ransomware or denial of service) were reported by 3.34% of
+enterprises, slightly below the EU average (3.43%).
+
+
+
+
+
+13 European Commission. (2025). ES Annex Making Business Easier: Croatia.
+
+                                       15  Croatia
+
+
+
+Data destruction or corruption due to malware or unauthorised access was rare (1.25%), and Croatia
+recorded one of the lowest overall rates of incidents involving data disclosure, whether through
+internal or external actions (2.01%, EU: 2.28%).
+
+From a legal perspective, Croatia has now fully transposed the NIS2 Directive. The new Cybersecurity
+Act entered into force on 7 February 2024, repealing Article 41 of the Electronic Communications Act
+and updating the earlier 2021 legislation. It was followed by the adoption of the Cybersecurity
+Regulation  (Official Gazette No 135/2024) on 30 November 2024, which  establishes detailed
+obligations for cybersecurity risk management, reporting, and the identification of essential and
+important entities. This marks a major step forward in aligning Croatia’s regulatory framework with
+EU requirements.
+
+The national approach to cyber awareness and capacity building had also evolved by the end of
+2024. In late 2023, the Croatian government designated the Croatian Academic and Research Network
+(CARNET) as the National Coordination Centre for Industry, Technology, and Research in Cybersecurity
+(NCC-HR), in line with Regulation (EU) 2021/887. In an earlier step, the Information Systems Security
+Bureau (ZSIS) had already been designated as the national authority for cybersecurity certification
+under Regulation (EU) 2019/881 (Cybersecurity Act).
+
+In parallel, the national approach to cybersecurity awareness and capacity building was reinforced. In
+late 2023, CARNET was designated as the NCC-HR, in line with Regulation (EU) 2021/887. The NCC-HR
+coordinates a range of nationally and EU-funded initiatives, including the ‘Deployment of NCC-HR’
+project, co-financed under the Digital Europe Programme with a total value of EUR 7.87 million. The
+project runs until 2028 and supports the development of professional cybersecurity skills, stakeholder
+coordination through a newly created Cybersecurity Competence Community, and cascade funding for
+innovation in cybersecurity. To ensure wide engagement, the NCC-HR also plans to organise regional
+Cyber Meet-ups in collaboration with local and regional authorities, targeting SMEs, institutions and
+academia. Croatia  is also working with other Member States towards the development of the
+European Digital Infrastructure Consortia (EDIC) European Cybersecurity Skills Academy.
+
+Additional national efforts include a cybersecurity voucher scheme and targeted SME support via the
+EDIH CROBOHUB++ centre, offering training, threat detection tools, and test-before-invest services.
+
+Despite these efforts, Croatia still faces challenges in achieving widespread security readiness. The
+relatively high incidence of service disruption in businesses, combined with low adoption of critical
+standards like IPv6, signals the need for continued investment in enterprise-level cybersecurity
+infrastructure, staff training, and public digital literacy.
+
+Concerning the deployment of secure internet standards, Croatia remains significantly behind the EU
+average in the roll-out of Internet Protocol version 6 (IPv6). In Q3 2024, only 4.0% of end users in
+Croatia connected via IPv6, compared to the EU average of 37%. Server-side adoption is even lower:
+only 1.0% of servers supported IPv6, against an EU average of 16%. Moreover, Croatia has experienced
+a declining trend in IPv6 usage among end users, down from 5.8% in Q3 2022. This stagnation and
+regression pose risks for scalability, security and interoperability, especially given the exhaustion of
+IPv4 addresses. Accelerating the deployment of IPv6 is essential to future-proof the national internet
+infrastructure and ensure compatibility with EU-wide digital services. Domain Name System Security
+Extensions (DNSSEC) is another important standard introducing authentication and integrity checks in
+DNS. In Croatia, the DNSSEC validation rate was just 13% in Q3 2024, substantially below the EU
+average of 43%, underscoring the need for internet providers and public platforms to further
+incentivise its adoption.
+
+                                       16  Croatia
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Croatia continues to face important digital inclusion challenges, with divides persisting on the basis of
+education level, age group, and rural-urban areas. However, strong progress has been made in
+expanding basic digital skills, promoting women’s participation in ICT, and improving the accessibility
+of public digital services. Croatia  is also reinforcing  its efforts on media literacy, cybersecurity
+awareness, and protection against online risks, particularly for young people. Initiatives promoting safe
+use  of  digital  technologies  in  schools and campaigns  addressing  disinformation have been
+strengthened, supporting a more inclusive and resilient digital transition. [Eurobarometer data on fake
+news, concerns, etc.]
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+Croatia is at 58.95% of population with at least basic digital skills (2030 national target: 80%), above
+the EU average of 55.56%. The value has improved steadily in recent years, but the pace of growth
+must be maintained to stay on track. Based on the 2023 level, Croatia would need to increase the share
+of digitally skilled individuals by approximately three percentage points per year to meet its 2030 goal.
+While this pace aligns with recent progress, reaching the target is not yet guaranteed, especially in
+light of persistent inclusion gaps.
+
+      Gender Gap: 60.22% of men and
+      57.71%  of  women   in   Croatia
+       reported at least basic digital skills,
+        resulting in a gender gap of 2.51
+       percentage  points,  slightly above
+       the EU average of 2.33 pp.
+
+       Education  Level:  Digital  skills are
+        strongly correlated with education.
+      Among  individuals with a  higher
+       education  level, 81.46% reported
+        basic  digital  skills (above the EU
+       average of 79.83%), while among
+       those with a low education level,
+       only 26.12% did. This results in a gap
+        of   32.83   percentage   points,
+        considerably above the EU average
+       gap of 21.95 pp.
+
+
+
+
+
+                                       17  Croatia
+
+
+
+       Living Areas: In rural areas, 50.13% of Croatians have at least basic digital skills, which is above
+       the EU rural average (47.50%). However, the rural-national gap remains at 8.82 percentage
+        points, closely mirroring the EU average.
+
+      Age Groups: Croatian youth (16-24) are highly digitally proficient, with 86.33% reporting at
+        least basic digital skills, well above the EU average of 69.98%. In contrast, only 17.86% of
+        individuals aged 65-74 have these skills – significantly below the EU average of 28.19%.
+
+       Digital Skills Index components: Croatia performs below the EU average in four out of five
+      competence areas, but stands out in digital content creation, with an 81.55% score, well
+       above the EU’s 68.28%. The weakest area remains safety skills, where Croatia scores 63.90%,
+      compared to the EU average of 69.55%.
+
+Croatia continues to implement a comprehensive set of policy actions to support digital upskilling. A
+key initiative is the voucher system for adult education and reskilling, in operation since April 2022.
+As of early 2025, over 19 000 vouchers have been granted for digital skills acquisition, with 100+
+accredited training programmes offered across 150+ institutions nationwide. Particular attention is
+given to the inclusion of vulnerable groups, such as the long-term unemployed, persons not in
+education, employment, or training (NEETs), and low-skilled adults.
+
+The government  is also reforming primary, secondary, and higher education to embed digital
+competences more systematically. The national curriculum is being updated to reflect AI-driven
+learning environments and smart recommendation systems. In schools, teacher training includes
+practical modules on online safety, AI ethics, and the responsible use of digital tools. In higher
+education, institutions are being equipped with new digital infrastructure, and staff are receiving
+support to design and deliver modular digital content, contributing to a system-wide increase in digital
+maturity.
+
+To further support  lifelong learning, Croatia  is aligning  its voucher system with the Council
+Recommendation on Individual Learning Accounts and is actively monitoring inclusion and equity
+metrics as part of labour market reforms. These initiatives are supported through a substantial
+EUR 211 million allocation under the RRP, covering components related to tourism, education, R&D
+and labour market. The plan includes reforms to improve basic skills among pupils through extended
+instruction time, and to strengthen the link between vocational and adult education and labour
+market needs. Dedicated actions also aim to increase the attractiveness of ICT studies and research
+careers, including through improved working conditions, simplified procedures, and enhanced
+promotion opportunities. Complementary investments promote upskilling and reskilling across all
+generations, including in tourism, green, and digital sectors, helping build an inclusive and future-
+ready workforce 14.
+
+ 2024 recommendation: Continue the efforts on digital basic skills […] with a view to ensuring
+ sufficient progress towards the 2030 targets.
+
+ Croatia continued implementing existing measures but did not take any new measures. In 2024,
+ the national voucher scheme for reskilling remained active and exceeded 19 000 beneficiaries, while
+ curriculum reform and teacher training in digital competence continued to advance. Inclusion
+ remains a key focus, particularly for low-skilled adults and older citizens. Sustained investment will
+ be needed to maintain momentum and close persistent gaps.
+
+
+
+
+14 European Commission, Recovery and Resilience Scoreboard: Thematic analysis Digital skills and education, 2024.
+
+                                       18  Croatia
+
+
+
+ICT specialists
+
+In its roadmap, Croatia set an indicative 2030 target of around 10% of ICT specialists as a share of total
+employment, with the figure standing at 5.0% in 2024, on a par with the EU average. This marks a
+significant increase from 4.3% in 2023, reflecting a growth rate of +16.3%, far above the EU’s +4.2%,
+which puts Croatia on track with its national trajectory.
+
+The demand for digital professionals is expanding across sectors. As in other EU countries, software
+and application developers are the most sought-after ICT profile. However, Croatia diverges from the
+EU trend with exceptionally high demand for field-based and infrastructure roles. According to
+Eurostat web scraping data, 27.1% of ICT-related job ads targeted electronics and telecommunications
+installers and repairers (vs 6.6% EU), and 18.5% were for telecommunications and broadcasting
+technicians  (vs 1.7%  EU). These shares  indicate a strong domestic emphasis on  technical
+implementation roles, in addition to standard software and support functions.
+
+In parallel, Croatia has recorded significant progress in gender convergence. The share of female ICT
+specialists increased from 17.5% in 2023 to 21.5% in 2024, surpassing the EU average of 19.5%. This
+represents a year-on-year growth of +22.9%, compared to just +0.5% at EU level. These gains reflect
+the impact of targeted campaigns and scholarships, as well as national initiatives promoting women’s
+participation in ICT. In 2025, Croatia presented the ‘Women in Digital – Girls in ICT’ programme
+through the Best Practice Accelerator 15, inspiring other Member States to adopt similar early
+engagement actions.
+
+While employment in the ICT sector is growing, Croatia continues to face structural skills shortages
+and emigration pressures. Employer surveys show that 43% of Croatian firms report difficulties hiring
+candidates with the right skills, above the EU average of 38%. In the ICT field, this is linked to a
+mismatch between education output and labour market needs, and to the continued outflow of
+skilled graduates from the country 16.
+
+Croatia’s training and upskilling infrastructure remains underdeveloped. In 2024, only 20.44% of
+enterprises provided ICT training to their employees, slightly below the EU average (22.29%) and
+declining from 2022. This downward trend could further exacerbate the mismatch between supply
+and demand for digital professionals.
+
+To address these challenges, Croatia continues to implement several supporting measures such as
+science, technology, engineering and mathematics (STEM) scholarship schemes to support students
+enrolling in priority areas such as ICT and engineering, while public universities are encouraged to
+adapt enrolment quotas based on sectoral demand.
+
+Despite these efforts, challenges remain in stabilising the domestic digital talent pipeline. The
+country still lacks a dedicated strategy to attract and retain international digital talent. A reform is
+under way through the new Act on Scientific Activity and Higher Education, which will allow quality
+scientists to be attracted from the EU and globally (including the diaspora), but this focuses on
+researchers rather than the broader digital workforce. The country still lacks a dedicated strategy to
+attract and retain international digital talent, and brain drain of ICT professionals remains a major
+
+
+
+15 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are available to all Member
+States via the BPA Repository and are showcased in regular workshops, currently focused on three thematic clusters: Digital
+Skills, Green IT, and the Uptake of Digital Technologies.
+16 European Commission. (2025). European Semester Annex Education and Skills: Croatia.
+
+
+                                       19  Croatia
+
+
+
+obstacle. While Croatia has succeeded in growing its base of ICT specialists and improving gender
+diversity, a more systematic and demand-driven approach will be needed to consolidate gains and
+achieve the 2030 targets.
+
+ 2024 recommendation: Continue the efforts on […] ICT specialists with a view to ensuring sufficient
+ progress towards the 2030 targets.
+
+ In 2024, Croatia continued implementing existing measures but did not take any new measures.
+ The country recorded strong growth in the share of ICT specialists and in female participation, and
+ reinforced incentives for ICT studies. However, challenges persist regarding the provision of ICT
+ training, brain drain, and labour market mismatches, requiring sustained attention to fully meet the
+ 2030 targets.
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Regarding digital public services for citizens, in 2024 Croatia scored 75.16 (2030 national target of
+100) after significant progress of +11.9%. The country is on track according to its national trajectory.
+In the cross-border category for digital public services for citizens, Croatia improved from 47.02 in 2023
+to 53.81 in 2024, recording a growth rate of 14.4%, substantially higher than the EU’s 4.3%.
+Nevertheless, it remains below the EU average of 71.28.
+
+Regarding digital public services for businesses, Croatia scored 65.31 in 2024 (2030 national target
+of 100), showing negative growth of -1.3% and remaining well below the EU average of 86.23. The
+country is lagging behind compared to its national trajectory. In cross-border digital public services
+for businesses, the score declined from 36.11 in 2023 to 32.5 in 2024, contrasting with the EU’s slight
+positive growth.
+
+In terms of access to e-Health records, Croatia scored 86.55 in 2024 (2030 national target of 100), after
+modest growth of +1.2%, standing above the EU average of 82.7. This result confirms the good
+performance already observed in 2023 (85.57 compared to the EU’s 79.12). Croatia is broadly on track
+with its national trajectory.
+
+ 2024 recommendation: Take measures to increase the digitalisation of public services and improve
+ the accessibility and user-friendliness of its services to citizens and enterprises.
+
+ In 2024, Croatia continued implementing existing measures but did not take any new measures.
+ Progress was recorded in the digitalisation of citizens' services, improvements in access to e-Health
+ records, and the advancement of interoperability initiatives supported by RRP funding. No new
+ dedicated measures were introduced in the 2024 roadmap adjustment, and further efforts are
+ needed to ensure comprehensive user-centric service delivery and to close remaining gaps with EU
+ averages.
+
+eID
+
+Croatia has a nationally certified eID scheme, the eOI (electronic identity card), widely adopted for
+accessing public services. According to Eurostat, 36.7% of Croatian citizens used their eID to access
+online public services in 2023, close to the EU average of 36.14%. Usage is mainly focused on national
+services, with cross-border functionality still limited.
+
+In the 2024 roadmap adjustment, Croatia reinforced its preparatory work to develop a national Digital
+Identity Wallet aligned with EU standards. A dedicated working group has been operational since 2021,
+coordinating legal, technical, and organisational aspects. Preparations include enhancing the eOI
+
+
+                                       20  Croatia
+
+
+
+system, expanding mobile-based access via the Certilia app, and promoting qualified electronic
+signatures.
+
+As of early 2025, Croatia is not participating in the EU large-scale pilots for the European Digital Identity
+Wallet but continues to align its infrastructure with EU standards, planning future cross-border
+support.
+
+Digitalisation of public services for citizens and businesses
+
+Croatia is making steady progress towards the EU 2030 target of 100% availability of key digital
+public services. Although the share of e-Government users declined slightly from 88.46% in 2023 to
+82.86% in 2024, it remains significantly above the EU average of 74.71%. While no new measures
+were introduced in the 2024 roadmap adjustment, Croatia confirmed that major initiatives supported
+under the RRP would continue, including the expansion of the State Cloud, the creation of a national
+digital mobile platform, and the enhancement of public sector interoperability.
+
+Simplification and interoperability remain central pillars. The development of a central register for
+public authorities is under way to improve data quality, promote the Once Only principle, and enable
+efficient information exchange, also supporting Common European Data Spaces.
+
+Additionally, a one-stop-shop platform has been established through the Croatian RRF to harmonise
+helpdesk services for citizens and businesses, promoting the use of electronic signatures and national
+digital identities.
+
+In terms of digital sovereignty, Croatia is strengthening its public sector cloud infrastructure under the
+RRP (EUR 1.3 billion investment) to ensure secure data management and trusted connections with
+European platforms.
+
+Despite this progress, challenges persist regarding full system integration and user-centric service
+design, which will be critical to achieving the 2030 objectives.
+
+e-Health
+
+Croatia maintained strong performance in 2024 in access to e-Health records, scoring 86.55, above
+the EU average of 82.7. However, with modest growth of +1.2%, the country is lagging behind
+compared to its national trajectory.
+
+No new e-Health measures were introduced in the 2024 roadmap adjustment. Efforts continue under
+major RRP-funded projects, notably the upgrade of the Central Health Information System (CEZIH),
+the expansion of the e-Prescription and e-Referral platforms, and the deployment of hospital
+information systems. Croatia is also aligning its e-Health infrastructure with the European Health Data
+Space, preparing for future cross-border healthcare services.
+
+Croatia’s score increased slightly in 2024. 12 of the 13 data categories investigated in the benchmark
+study are now made available in a timely manner – all except medical images. Citizens can now access
+their health data via a mobile application, improving user accessibility. While previously only
+outpatient psychiatric care was included under mental health services, a new project is under way to
+expand the scope to additional mental health service providers Due to this broader definition, the
+overall connectivity rate of the category has dropped below 60%, as many newly included providers
+are not yet connected or supplying data to the national access service. All other provider categories,
+except geriatric nursing homes, are connected and supplying relevant health data. In terms of
+authorised access, legal guardians may access the data of their wards, but citizens cannot yet delegate
+
+                                       21  Croatia
+
+
+
+access to another person of their choice, as there is no general legal or technical framework enabling
+this functionality.
+
+ 2024 recommendation:  (i) Introduce a legal basis and provide the technical functionality for
+ authorised persons to access electronic health data on behalf of others; (ii) Make the medical
+ images data type available to citizens through the online access service;  (iii) Offer a mobile
+ application for citizens to access their electronic health records.
+
+ In 2024, Croatia continued implementing existing measures but did not take any new measures.
+
+  (i) Partially addressed. Legal guardians can access the data of their wards, but no legal or technical
+ functionality exists for broader delegation by data subjects.
+
+  (ii) Not addressed. Medical images are still not accessible via the Health Portal.
+
+  (iii) Partially addressed. A mobile-friendly solution exists and citizens can access their health data
+ via an app, but no unified national mobile application has been rolled out.
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+In Croatia, online participation in political and civic life is relatively high and shows an upward trend.
+In 2024, 27.86% of people used the internet to participate in consultations, vote, or share opinions on
+civic or political issues. This share is above the EU average (20.45%), and marks a steady improvement
+compared to 23.38% in 2022 and 20.08% in 2023.
+
+In 2023, more than half of Croatian internet users declared that they had encountered untrue or
+doubtful  information  online.  According  to  the  latest  data, 57.77%  of  individuals  reported
+encountering such content on internet news sites or social media, a figure significantly above the EU
+average of 49.25%. Among these individuals, 27.27% checked the truthfulness of the information,
+suggesting a moderate level of critical evaluation. Young people between 16 and 24 years of age
+emerged as those more likely to report exposure (80.52% vs 60.92% of adults between 25 and 64 years
+of age) and to verify information (57.13% vs 25.55% of adults). In terms of gender, males (65.28%)
+reported a higher exposure to doubtful content than females (50.46%), but verification rates were
+similar (28.45% for males and 26.12% for females).
+
+Available data also show that in Croatia, the proportion of individuals encountering hostile or
+degrading messages online remains below the EU average.  In 2023, 24.13% of individuals
+encountered such content, compared to an EU average of 33.5%. An interesting pattern is observed in
+the age breakdown: exposure among youth (16-24) was lower (21.47%) than among adults (25-64)
+(27.72%), contrary to trends observed in most other Member States. A modest gender gap was noted,
+with 26.13% of males and 22.18% of females reporting exposure to such content.
+
+2024 reports of the Adria Digital Media Observatory (ADMO) provide detailed insights into the most
+frequent topics subject to disinformation in Croatia. Research shows that Russian disinformation
+efforts have been particularly prominent in narratives about Russia’s war of aggression against Ukraine,
+with disinformation ecosystems involving 21 supranational clusters across Croatia and neighbouring
+countries, significantly influenced by Serbian pro-Russian media 17. Moreover, systematic information
+manipulation was observed through the Facebook profiles of Russian embassies, including the Russian
+Embassy in Croatia, which particularly intensified following the start of the full-scale invasion of
+
+
+
+17 ADMO Report: Mapping Ukraine War Disinformation Ecosystem in Croatia and Slovenia, 2024. p. 3
+
+                                       22  Croatia
+
+
+
+Ukraine 18. In addition, a considerable share of anti-Ukraine disinformation disseminated in Croatia
+originates from fringe news sites, predominantly based in Serbia 19.
+
+In the climate domain, a separate mapping exercise revealed the existence of 10 supranational
+clusters disseminating climate-related disinformation, including Croatian actors. Although the
+number of actors involved in climate disinformation was lower compared to COVID-19 and the military
+aggression in Ukraine, the presence of pseudo-media at the centre of the ecosystem was confirmed 20.
+
+Research into the reporting on the Israel-Hamas conflict found that Croatian mainstream media largely
+relied on reputable international and national sources such as AFP, Reuters, BBC, and HINA during the
+first three days of the conflict. However, a small number of cases were found where sources previously
+labelled as purveyors of disinformation were used 21.
+
+Looking at policy responses, Croatia’s initiatives mainly focus on promoting media literacy and
+strengthening fact-checking ecosystems. In 2024, several  digital platforms (Google, YouTube,
+Facebook, TikTok) maintained or introduced fact-checking and media literacy campaigns in Croatia,
+including Google’s Fact Check Explorer and YouTube’s Hit Pause campaign. However, ADMO highlighted
+that these global initiatives had limited local adaptation and that user engagement with fact-checking
+tools remained low. Croatia’s primary fact-checking partner remains Faktograf.hr, with cooperation
+expanding only moderately to other institutions.
+
+At the institutional level, the ADMO, coordinated by the University of Dubrovnik and supported by
+partners including GONG, AFP, and several faculties of the University of Zagreb, plays a significant role
+in fostering media literacy and research activities against disinformation. These efforts contribute to
+Croatia’s implementation of the Digital Services Act (DSA). The Croatian Regulatory Authority for
+Network Industries (HAKOM) has been officially designated as the Digital Services Coordinator (DSC),
+responsible for overseeing the application of the DSA. Nonetheless, ADMO monitoring revealed that
+public awareness of DSA-related user rights remains low and that further outreach efforts are
+necessary.
+
+Finally, regarding the protection of minors, Croatia has not yet introduced specific legislation on
+mandatory online age verification or parental controls. However, ongoing media literacy initiatives
+supported by ADMO and its partners target younger audiences and aim to strengthen critical thinking
+skills to better resist disinformation 22.
+
+Croatia has transposed the relevant obligations of the Audiovisual Media Services Directive (AVMSD)
+into its national legislation. Under the Electronic Media Act and the Ordinance on the Protection of
+Minors in the Electronic Media (Narodne Novine (NN); Official Gazette of the Republic of Croatia)
+No 106/2022), video-sharing platforms under Croatian jurisdiction are required to implement user age
+verification systems or other technical measures to restrict access to content that could seriously harm
+minors’ physical, mental, or moral development, such as gratuitous violence or pornography. However,
+in practice, most age verification systems rely primarily on basic methods, such as self-declared date
+of birth, with limited use of more secure technologies like ID verification or AI-based age estimation.
+Moreover, while parental control tools exist on some platforms, their availability and quality vary
+considerably, and no harmonised national requirements have been introduced so far. Unlike other
+
+
+18 ADMO Report: Russian State Actors on Facebook and Foreign Information Manipulation and Interference in the Adriatic
+and Balkan Regions, 2024. p. 3–5
+19 ADMO Report: Content Analysis of Disinformation and Narratives Related to the War in Ukraine, 2024. p. 3
+20 ADMO Report: Mapping Climate Disinformation Ecosystem in Croatia and Slovenia, 2024. p. 3-5
+21 ADMO Report: Journalistic Sources on the Israel/Hamas Conflict in the Croatian Media, 2024. p. 3–55.
+22 ADMO Report: Report about Social Media Initiatives for Empowering Users, the Research Community and the Fact-
+Checking Community in Croatia, 2024. p. 4-7.
+
+                                       23  Croatia
+
+
+
+Member States that are moving toward detailed technical standards for age verification, Croatia has
+not yet adopted additional regulations or frameworks, such as mandatory pre-installed parental
+controls or coordination with the development of the European Digital Identity Wallet (‘mini-wallet’).
+The minimum age for providing valid consent to digital services remains set at 16 years, in line with
+Croatia’s implementation of the General Data Protection Regulation (GDPR) 23.
+
+The 2023 data on online interactions in Croatia reveal a mixed picture, with a lower proportion of
+individuals perceiving hostile and degrading online messages compared to the EU average. However,
+a significant proportion of individuals in Croatia still encountered potentially misleading information
+online. On a positive note, a notable share of young people (16-24) has been taking steps to verify the
+accuracy of online content. Overall, the findings suggest that Croatia has been making progress in
+promoting digital literacy and critical thinking and highlight the importance of continued efforts to
+support individuals in developing these  skills and to promote a safe and informed online
+environment.
+
+
+
+
+
+23 European Audiovisual Observatory (Council of Europe), The protection of minors on VSPs: age verification and parental
+control, 2023. p.76-78
+
+                                       24  Croatia
+
+Leveraging  digital transformation for a
+smart greening
+
+Croatia’s RRP includes major investments to support the revitalisation, construction and digitalisation
+of the energy system, contributing to the decarbonisation of the energy sector (Component C1.2, R1-
+I1). These measures aim to modernise the electricity transmission network, enabling a better balance
+between generation and consumption points. The digitalisation of the energy infrastructure  is
+expected to increase the security of energy supply and reduce the environmental impact of the
+accompanying infrastructure 24.
+
+In addition, Croatia is also modernising water management systems, aiming to improve resilience to
+climate change through digital monitoring and leakage reduction measures. However, systematic
+nature-based solutions and large-scale climate-proofing measures are not yet widely applied, and
+comprehensive monitoring and evaluation frameworks remain to be fully developed 25?.
+
+In the telecom sector, sustainability and energy efficiency are increasingly recognised as priorities.
+Operators have initiated voluntary green transition actions, including using renewable energy sources
+and afforestation programmes. However, these efforts are not yet coordinated under a dedicated
+national green telecom policy or a broader strategic framework linking digitalisation to climate
+objectives.
+
+In addition, measures already mentioned in previous chapters also contribute to supporting the green
+and digital transitions. The State Cloud includes enhanced functionalities for more efficient and
+sustainable data management. Similarly, the establishment of the Croatian Competence Centre for
+Semiconductors (CROCCS)is expected to foster the development of greener ICT hardware solutions,
+supporting energy efficiency in the digital ecosystem.
+
+In terms of consumer behaviour towards environmentally friendly ICT usage, Croatia’s performance
+remains mixed. In 2024, only 12.51% of individuals considered energy efficiency important when
+purchasing ICT devices (EU average: 19.35%), and only 0.70% considered eco-design important (EU
+average: 12.04%). Instead, price (58.33%) and device performance (54.74%) remain the dominant
+purchasing criteria.
+
+Concerning device end-of-life practices, Croatia reported lower recycling rates than the EU average:
+12.4% of old desktop computers, 7.99% of old laptops/tablets, and 5.59% of old mobile phones were
+recycled (EU averages: 14.66%, 11.31%, and 10.93%, respectively). However, reuse practices are
+stronger: 33.56% of Croatians reported selling or giving away their old mobile phones, compared to
+an EU average of 18.05%, reflecting an emerging culture of circular economy practices.
+
+Overall, Croatia’s digital contribution to the green transition is becoming stronger, particularly through
+large infrastructure investments in the energy sector and early telecom green actions. However,
+further progress is needed in coordinating sustainability efforts, raising consumer awareness, and
+embedding environmental criteria into digital policies.
+
+
+
+
+
+24 European Commission, Recovery and Resilience Scoreboard, Digital Public Services Thematic Analysis, 2024.
+25 European Commission. (2025). European Semester, Annex Climate: Croatia.
+
+                                       25 Croatia
+
+
+
+2024 recommendation: Develop a coherent approach to twinning the digital and green transitions:
+
+- Promote improvements in energy and material efficiency of digital infrastructures, in particular
+data centres.
+
+- Support the development and deployment of digital solutions that reduce the carbon footprint in
+other sectors, such as energy, transport, buildings, and agriculture, including the uptake of such
+solutions by SMEs.
+
+- Monitor and quantify the emission reductions of the deployed digital solutions in line with the
+relevant EU guidance and with the support of the methodology developed by the European Green
+Digital Coalition, in view of future policy development, as well as attracting relevant financing.
+
+In 2024, Croatia made some efforts to address the recommendation through new policy actions
+in 2024. Croatia made some efforts through RRP-supported digitalisation of the energy network,
+but no coherent national strategy or monitoring framework has been established yet. Voluntary
+green actions in the telecom sector remain fragmented. Further efforts are needed to fully address
+the recommendation.
+
+
+
+
+
+                                      26  Croatia
+
+Annex I – National roadmap analysis
+
+ Croatia’s national Digital Decade strategic roadmap
+
+ Croatia submitted an adjustment to its national roadmap in January 2025, following the 2024
+ recommendations. The adjustment clarified the national approach, updated 5G coverage targets,
+ and refined the measure set, without fundamentally revising the strategic directions.  It also
+ improved alignment with the Digital Decade objectives, enhanced stakeholder consultations, and
+ updated links to policy.
+        Targets: Croatia partially addressed the recommendation to raise ambition. The 2030 target
+          for overall 5G coverage remains aligned with the EU target (100%), while a new mid-band
+       5G coverage target (75% by 2030) was introduced. This is below the EU ambition but
+          reflects national circumstances. No changes were made to targets for ICT specialists or
+         AI/data analytics adoption. A target for edge node deployment, required under the Digital
+        Decade, is still missing.
+       Measures: The measure repository was strengthened, with updated and more detailed
+         descriptions across connectivity, skills, AI/data, cloud, and digital public services. However,
+       no fully new measures were introduced.
+        Digital Rights and Principles: Mapping of measures to the Digital Decade objectives and the
+        European Declaration on Digital Rights and Principles was improved.
+        Consultation: The stakeholder consultation process was enhanced, including a kick-off
+        conference in September 2024 and continuous coordination with relevant state bodies and
+         associations, such as the Croatian Employers’ Association and the Croatian Chamber of
+        Economy.
+
+ While Croatia’s adjusted roadmap covers the majority of Digital Decade targets, the absence of a
+ target for edge node deployment highlights an important gap. Overall, the Croatian roadmap
+ includes 31 measures with a budget of EUR 635 million (equivalent to 0.74% of GDP).
+
+
+
+
+
+                                       27  Croatia
+
+
+
+ Measures and budget in national roadmap 26
+
+
+
+
+
+ Croatia’s adjustment improves the structure and clarity of the roadmap. The strengthened measure
+ descriptions, enhanced mapping to objectives, and update of 5G targets are positive developments.
+ However, the lack of new measures, the limited ambition for key digital transformation areas such
+ as AI/data adoption and ICT specialists, and the absence of an edge node target remain significant
+ challenges. Funding levels also remain modest relative to the scale of needs, notably for AI, cloud,
+ and rural connectivity. While the adjustment confirms a solid baseline, further efforts are needed
+ to maintain momentum, particularly in driving the twin transition, SME digitalisation, and the
+ adoption of advanced technologies.
+
+
+
+
+
+26 When referring to national roadmaps, the data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance has been carried out.
+
+                                       28  Croatia
+
+Annex  II – Factsheet on multi-country
+projects (MCPs) and funding
+
+ Multi-country projects and best practices
+
+ Croatia is a member of the three established EDICs: the Alliance for Language Technologies EDIC, the
+ Local Digital Twins towards the CitiVERSE EDIC and the EUROPEUM EDIC. In addition, Croatia is working
+ towards setting up EDICs in the area of connected public administration, cybersecurity skills, agri-food
+ and genomics. Croatian entities are indirect partners  in the IPCEI on Next Generation Cloud
+ Infrastructure and Services (IPCEI-CIS). Croatia is a participating state of the EuroHPC Joint Undertaking
+ (JU) and the Chips JU.
+ Croatia has contributed to the Best Practice Accelerator 27 by sharing a measure in the framework of
+ the Digital Skills cluster (Women in Digital – Girls in ICT).
+
+
+ EU funding for digital policies in Croatia
+ Croatia allocates 20% of its total recovery and resilience plan to digital (EUR 1.4 billion)28. In addition,
+ under cohesion policy, EUR 755 million (representing 9% of the country’s total cohesion policy funding),
+  is dedicated to advancing Croatia’s digital transformation29. According to JRC estimates, EUR 1.4 billion
+ directly contribute to achieving Digital Decade targets (of which EUR 0.9 billion comes from the RRF
+ and EUR 0.5 billion from cohesion policy funding)30.
+
+ Digital investments are focused on digital skills, digitalisation of public services, connectivity, and
+ support for business digitalisation.
+
+ The total amount of funding mobilised remains consistent with the 2024 report, confirming the strong
+ alignment between EU financial support and Croatia’s digital transition priorities.
+
+
+
+
+
+27 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are available to all Member
+States via the BPA Repository and are showcased in regular workshops, currently focused on three thematic clusters: Digital
+Skills, Green IT, and the Uptake of Digital Technologies.
+28 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+29 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+30 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       29  Croatia
+
+
+Annex IIΙ – Digital rights and principles31
+
+
+
+
+
+ Activity on digital rights and principles (figure 1)
+
+ Croatia has been relatively active in implementing digital rights and principles, with 48 initiatives
+ overall and 7 new initiatives launched in 2024, showing notable progress towards its commitments.
+ Croatia is most active in the area of solidarity and inclusion. There is room for improvement,
+ especially with regards to a fair digital environment where less activity has been identified.
+
+ Impact of digital rights initiatives (figure 2)
+
+ Quantitative impact indicators, developed by a support study, illustrate the level of implementation
+ of digital rights initiatives on the ground.
+
+ Based on available data, they estimate the impact of measures implemented by key stakeholders in
+ Croatia (mainly national government) and how these are perceived by citizens.
+
+ The indicators suggest that Croatia is most successful in implementing commitments related to
+ sustainability. Croatia should review and strengthen efforts in areas where the impact of digital
+ rights initiatives appears to be limited despite relative activity, notably on putting people at the
+ centre of the digital transformation.
+
+ According to the Special Eurobarometer32 'Digital Decade 2025’, 58% of citizens in Croatia think that
+ the EU protects their digital rights well (a 2% increase since 2024). This is above the EU average of
+ 44%. Citizens are particularly confident about getting more freedom of expression and information
+ online (73%, above the EU average of 60%). They are most worried that their right to a safe digital
+ environment and content for children and young people is not well protected (47%, below EU
+ average of 48%).
+
+
+
+
+
+31 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+32 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                       30

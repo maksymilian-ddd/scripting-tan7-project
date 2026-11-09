@@ -1,0 +1,1587 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,384.7,242.7,PART 9/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+2,1,0,Calibri,11.0,72.0,84.1,74.5,95.2, 
+2,2,0,Calibri,11.0,72.0,106.6,74.5,117.6, 
+2,3,0,Calibri,11.0,72.0,129.1,74.5,140.2, 
+2,4,0,Calibri,11.0,72.0,151.6,74.5,162.6, 
+2,5,0,Calibri,11.0,72.0,174.1,74.5,185.2, 
+2,6,0,Calibri,11.0,72.0,196.6,74.5,207.6, 
+2,7,0,Calibri,11.0,72.0,219.0,74.5,230.1, 
+2,8,0,Calibri,11.0,72.0,241.6,74.5,252.6, 
+2,9,0,Calibri,11.0,72.0,264.0,74.5,275.1, 
+2,10,0,Calibri,11.0,72.0,286.6,74.5,297.6, 
+2,11,0,Calibri,11.0,72.0,309.0,74.5,320.1, 
+2,12,0,Calibri,11.0,72.0,331.6,74.5,342.6, 
+2,13,0,Calibri,11.0,72.0,354.0,74.5,365.1, 
+2,14,0,Calibri-Bold,40.0,130.0,293.0,496.9,333.0,DIGITAL DECADE 2025
+2,14,0,Calibri,40.0,497.1,293.0,506.2,333.0, 
+2,14,1,Calibri,40.0,130.0,341.8,456.1,381.8,COUNTRY REPORTS 
+2,15,0,Calibri,11.0,72.0,376.5,74.5,387.5, 
+2,16,0,Calibri,11.0,72.0,399.1,74.5,410.1, 
+2,17,0,Calibri-Bold,28.0,192.4,415.5,284.3,443.5,Finland 
+2,18,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+2,18,1,Arial-BoldMT,24.0,298.9,779.8,305.5,806.5, 
+2,18,2,TimesNewRomanPSMT,12.0,525.7,790.8,528.7,804.1, 
+2,18,3,Arial-BoldMT,24.0,565.9,779.8,572.6,806.5, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,89.1,30.3,153.1,50.4,Finland 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri,11.0,83.1,174.5,523.0,185.5,Building technological leadership: digital infrastructure and technologies ........................................ 5
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri,11.0,94.0,194.1,523.0,205.1,Connectivity infrastructure ............................................................................................................. 6
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri,11.0,94.0,213.5,523.0,224.5,Semiconductors ............................................................................................................................... 7
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri,11.0,94.0,252.5,523.0,263.6,Quantum technologies .................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri,11.0,94.0,291.5,523.0,302.6,SMEs with at least basic digital intensity ........................................................................................ 9
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri,11.0,94.0,311.0,523.0,322.0,Take-up of cloud/AI/data analytics ............................................................................................... 10
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri,11.0,94.0,330.5,523.0,341.6,"Unicorns, scale-ups and start-ups ................................................................................................. 12"
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri,11.0,83.1,350.0,523.0,361.0,Strengthening Cybersecurity & Resilience ........................................................................................ 13
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 15
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri,11.0,83.1,389.0,523.0,400.0,Empowering people and bringing the digital transformation closer to their needs ........................ 15
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri,11.0,94.0,408.4,523.0,419.5,Equipping people with digital skills ............................................................................................... 15
+3,18,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,19,0,Calibri,11.0,94.0,428.0,523.0,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 17"
+3,19,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,20,0,Calibri,11.0,83.1,447.4,523.0,458.5,Building a safe and human-centric digital environment and preserving our democracy ................. 19
+3,20,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,21,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 20
+3,21,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,22,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 22
+3,22,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,23,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 24
+3,23,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,24,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital rights and principles ................................................................................................. 25
+3,24,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,25,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,26,0,Calibri,11.0,297.7,781.9,300.2,793.0, 
+3,26,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,89.1,30.3,153.1,50.4,Finland 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.4,137.3,"Finland positions itself as a technological leader with digitally agile enterprises, skilled citizens and "
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.6,151.8,"a strong semiconductor industry. While its gigabit infrastructure requires further development, "
+4,4,2,Calibri-Bold,11.0,72.0,155.2,385.5,166.2,digital public services are widely available to people and businesses. 
+4,5,0,Calibri-Bold,11.0,72.0,177.7,525.7,188.8,Finland shows a high level of ambition in its contribution to the Digital Decade having set 12 national 
+4,5,1,Calibri-Bold,11.0,72.0,192.1,525.6,203.2,"targets, 100% of which aligned with the EU 2030 targets. The country is following its trajectories well "
+4,5,2,Calibri-Bold,11.0,72.0,206.7,525.8,217.7,with 83% of them being on track (considering 2024 trajectories defined for 6 KPIs out of 8 analysed). 
+4,5,3,Calibri-Bold,11.0,72.0,221.2,525.9,232.2,"Finland addressed 72% of the 11 recommendations issued by the Commission in 2024, either by "
+4,5,4,Calibri-Bold,11.0,72.0,235.7,525.6,246.8,implementing significant policy changes (27%) or making some changes (45%) through new 
+4,5,5,Calibri-Bold,11.0,72.0,250.1,119.0,261.2,measures.
+4,5,5,Calibri,11.0,118.9,250.1,121.4,261.2, 
+4,6,0,Calibri,11.0,72.0,272.7,525.7,283.7,"In 2024, 5G almost covered the entire country. Finland strengthened European sovereignty with "
+4,6,1,Calibri,11.0,72.0,287.2,525.8,298.2,developments in semiconductors and cross-sectoral support for artificial intelligence (AI) and other 
+4,6,2,Calibri,11.0,72.0,301.6,525.9,312.6,"disruptive technologies. Notably, it hosts one of the first European AI Factories. Finnish businesses rely "
+4,6,3,Calibri,11.0,72.0,316.1,525.6,327.2,on digital tools and close to three quarters of them use cloud solutions. Digitalisation enjoys strong 
+4,6,4,Calibri,11.0,72.0,330.6,525.7,341.7,"public support, individuals have solid basic digital skills and relatively high privacy and content "
+4,6,5,Calibri,11.0,72.0,345.2,525.8,356.2,"evaluation skills. There is a widespread use of digital government solutions. However, the need for ICT "
+4,6,6,Calibri,11.0,72.0,359.6,525.7,370.6,specialists persists. Finland is actively preparing for the implementation of the European Digital 
+4,6,7,Calibri,11.0,72.0,374.1,378.2,385.1,Identity Regulation and the European Health Data Space Regulation. 
+4,7,0,Calibri-Bold,7.0,299.2,403.3,322.2,410.3,Finland 
+4,7,1,Calibri-Bold,7.0,418.3,403.3,427.9,410.3,EU 
+4,7,2,Calibri-Bold,7.0,471.5,399.0,514.9,406.0,Digital Decade 
+4,7,3,Calibri-Bold,7.0,471.3,407.6,516.6,414.6,target by 2030  
+4,8,0,Calibri,7.0,77.7,412.1,80.8,419.0,  
+4,9,0,Calibri,14.0,96.4,422.0,202.7,436.1,Digital Decade KPI 
+4,9,0,Calibri,9.0,202.7,420.8,212.8,429.8,(1)
+4,9,0,Calibri,7.0,212.7,427.3,214.3,434.3, 
+4,10,0,Calibri-Bold,7.0,350.5,423.6,376.9,430.6,National 
+4,10,1,Calibri-Bold,7.0,348.7,432.1,378.8,439.1,trajectory 
+4,11,0,Calibri-Bold,7.0,314.5,427.9,336.7,434.9,Annual 
+4,11,1,Calibri-Bold,7.0,312.3,436.4,338.8,443.4,progress 
+4,12,0,Calibri-Bold,7.0,351.1,440.6,376.3,447.6,2024 (3) 
+4,12,1,Calibri-Bold,7.0,388.1,432.1,418.6,439.1,DESI 2025 
+4,12,2,Calibri-Bold,7.0,431.7,427.9,453.9,434.9,Annual 
+4,12,3,Calibri-Bold,7.0,429.6,436.4,456.1,443.4,progress 
+4,12,4,Calibri-Bold,7.0,475.1,432.1,481.7,439.1,FI 
+4,12,5,Calibri-Bold,7.0,504.3,432.1,514.0,439.1,EU 
+4,13,0,Calibri-Bold,7.0,247.0,419.3,261.5,426.2,DESI 
+4,13,1,Calibri-Bold,7.0,246.4,427.9,262.0,434.9,2024 
+4,13,2,Calibri-Bold,7.0,245.9,436.4,262.5,443.4,(year 
+4,13,3,Calibri-Bold,7.0,245.3,445.0,263.2,451.9,2023) 
+4,14,0,Calibri-Bold,7.0,281.7,419.3,296.2,426.2,DESI 
+4,14,1,Calibri-Bold,7.0,281.2,427.9,296.8,434.9,2025 
+4,14,2,Calibri-Bold,7.0,280.7,436.4,297.3,443.4,(year 
+4,14,3,Calibri-Bold,7.0,280.0,445.0,297.9,451.9,2024) 
+4,15,0,Calibri-Bold,7.0,77.7,457.2,228.5,464.2,Fixed Very High Capacity Network (VHCN) coverage 
+4,15,1,Calibri,7.0,244.7,457.2,263.7,464.2,77.7% 
+4,15,2,Calibri,7.0,279.5,457.2,298.5,464.2,81.7% 
+4,15,3,Calibri,7.0,317.8,457.2,333.3,464.2,5.1% 
+4,15,4,Calibri,7.0,353.5,457.2,375.7,464.2, 66.6%  
+4,15,5,Calibri,7.0,393.8,457.2,412.8,464.2,82.5% 
+4,15,6,Calibri,7.0,435.1,457.2,450.6,464.2,4.9% 
+4,15,7,Calibri,7.0,467.1,457.2,489.7,464.2,100.0% 
+4,15,8,Calibri,7.0,500.6,457.2,517.8,464.2,100% 
+4,16,0,Calibri-Bold,7.0,77.7,472.8,188.6,479.8,Fibre to the Premises (FTTP) coverage 
+4,16,1,Calibri,7.0,244.7,472.8,263.7,479.8,61.1% 
+4,16,2,Calibri,7.0,279.5,472.8,298.5,479.8,68.3% 
+4,16,3,Calibri,7.0,316.1,472.8,335.1,479.8,11.6% 
+4,16,4,Calibri,7.0,353.5,472.8,375.7,479.8, 66.6%  
+4,16,5,Calibri,7.0,393.8,472.8,412.8,479.8,69.2% 
+4,16,6,Calibri,7.0,435.1,472.8,450.6,479.8,8.4% 
+4,16,7,Calibri,7.0,467.1,472.8,489.7,479.8,100.0% 
+4,16,8,Calibri,7.0,507.3,472.8,511.1,479.8,- 
+4,17,0,Calibri-Bold,7.0,77.7,488.3,137.7,495.2,Overall 5G coverage 
+4,17,1,Calibri,7.0,244.7,488.3,263.7,495.2,98.3% 
+4,17,2,Calibri,7.0,279.5,488.3,298.5,495.2,99.5% 
+4,17,3,Calibri,7.0,317.8,488.3,333.3,495.2,1.2% 
+4,17,4,Calibri,7.0,353.5,488.3,375.7,495.2, 99.6%  
+4,17,5,Calibri,7.0,393.8,488.3,412.8,495.2,94.3% 
+4,17,6,Calibri,7.0,435.1,488.3,450.6,495.2,5.9% 
+4,17,7,Calibri,7.0,467.1,488.3,489.7,495.2,100.0% 
+4,17,8,Calibri,7.0,500.6,488.3,517.8,495.2,100% 
+4,18,0,Calibri-Bold,7.0,77.7,503.8,144.8,510.7,Edge Nodes (estimate) 
+4,18,1,Calibri,7.0,249.9,503.8,258.5,510.7,24 
+4,18,2,Calibri,7.0,284.7,503.8,293.4,510.7,47 
+4,18,3,Calibri,7.0,316.1,503.8,335.1,510.7,95.8% 
+4,18,4,Calibri,7.0,361.0,503.8,367.9,510.7, -  
+4,18,5,Calibri,7.0,395.5,503.8,411.2,510.7,2257 
+4,18,6,Calibri,7.0,433.3,503.8,452.3,510.7,90.5% 
+4,18,7,Calibri,7.0,476.5,503.8,480.2,510.7,- 
+4,18,8,Calibri,7.0,499.5,503.8,518.9,510.7,10000 
+4,19,0,Calibri-Bold,7.0,77.7,519.2,233.0,526.2,SMEs with at least a basic level of digital intensity (2) 
+4,19,1,Calibri,7.0,252.4,519.2,256.1,526.2,- 
+4,19,2,Calibri,7.0,279.5,519.2,298.5,526.2,92.5% 
+4,19,3,Calibri,7.0,317.8,519.2,333.3,526.2,1.7% 
+4,19,4,Calibri,7.0,361.0,519.2,367.9,526.2, -  
+4,19,5,Calibri,7.0,393.8,519.2,412.8,526.2,72.9% 
+4,19,6,Calibri,7.0,435.1,519.2,450.6,526.2,2.8% 
+4,19,7,Calibri,7.0,468.9,519.2,487.9,526.2,95.0% 
+4,19,8,Calibri,7.0,502.3,519.2,516.0,526.2,90% 
+4,20,0,Calibri-Bold,7.0,77.7,534.7,95.9,541.7,Cloud 
+4,20,1,Calibri,7.0,244.7,534.7,263.7,541.7,73.0% 
+4,20,2,Calibri,7.0,287.1,534.7,290.8,541.7,- 
+4,20,3,Calibri,7.0,323.7,534.7,327.4,541.7,- 
+4,20,4,Calibri,7.0,361.0,534.7,367.9,541.7, -  
+4,20,5,Calibri,7.0,401.5,534.7,405.2,541.7,- 
+4,20,6,Calibri,7.0,441.0,534.7,444.7,541.7,- 
+4,20,7,Calibri,7.0,468.9,534.7,487.9,541.7,75.0% 
+4,20,8,Calibri,7.0,502.3,534.7,516.0,541.7,75% 
+4,21,0,Calibri-Bold,7.0,77.7,550.2,139.2,557.2,Artificial Intelligence 
+4,21,1,Calibri,7.0,244.7,550.2,263.7,557.2,15.1% 
+4,21,2,Calibri,7.0,279.5,550.2,298.5,557.2,24.4% 
+4,21,3,Calibri,7.0,316.1,550.2,335.1,557.2,61.4% 
+4,21,4,Calibri,7.0,353.5,550.2,375.7,557.2, 26.0%  
+4,21,5,Calibri,7.0,393.8,550.2,412.8,557.2,13.5% 
+4,21,6,Calibri,7.0,433.3,550.2,452.3,557.2,67.2% 
+4,21,7,Calibri,7.0,468.9,550.2,487.9,557.2,75.0% 
+4,21,8,Calibri,7.0,502.3,550.2,516.0,557.2,75% 
+4,22,0,Calibri-Bold,7.0,77.7,565.8,120.2,572.8,Data analytics 
+4,22,1,Calibri,7.0,244.7,565.8,263.7,572.8,40.6% 
+4,22,2,Calibri,7.0,287.1,565.8,290.8,572.8,- 
+4,22,3,Calibri,7.0,323.7,565.8,327.4,572.8,- 
+4,22,4,Calibri,7.0,361.0,565.8,367.9,572.8, -  
+4,22,5,Calibri,7.0,401.5,565.8,405.2,572.8,- 
+4,22,6,Calibri,7.0,441.0,565.8,444.7,572.8,- 
+4,22,7,Calibri,7.0,468.9,565.8,487.9,572.8,75.0% 
+4,22,8,Calibri,7.0,502.3,565.8,516.0,572.8,75% 
+4,23,0,Calibri-Bold,7.0,77.7,581.3,161.8,588.3,AI or Cloud or Data analytics 
+4,23,1,Calibri,7.0,244.7,581.3,263.7,588.3,79.5% 
+4,23,2,Calibri,7.0,287.1,581.3,290.8,588.3,- 
+4,23,3,Calibri,7.0,323.7,581.3,327.4,588.3,- 
+4,23,4,Calibri,7.0,361.0,581.3,367.9,588.3, -  
+4,23,5,Calibri,7.0,401.5,581.3,405.2,588.3,- 
+4,23,6,Calibri,7.0,441.0,581.3,444.7,588.3,- 
+4,23,7,Calibri,7.0,476.5,581.3,480.2,588.3,- 
+4,23,8,Calibri,7.0,502.3,581.3,516.0,588.3,75% 
+4,24,0,Calibri-Bold,7.0,77.7,596.8,105.0,603.8,Unicorns 
+4,24,1,Calibri,7.0,251.7,596.8,256.9,603.8,7 
+4,24,2,Calibri,7.0,286.4,596.8,291.6,603.8,7 
+4,24,3,Calibri,7.0,317.8,596.8,333.3,603.8,0.0% 
+4,24,4,Calibri,7.0,361.0,596.8,367.9,603.8, -  
+4,24,5,Calibri,7.0,397.2,596.8,409.4,603.8,286 
+4,24,6,Calibri,7.0,435.1,596.8,450.6,603.8,4.4% 
+4,24,7,Calibri,7.0,476.5,596.8,480.2,603.8,- 
+4,24,8,Calibri,7.0,503.0,596.8,515.3,603.8,500 
+4,25,0,Calibri-Bold,7.0,77.7,612.3,153.0,619.2,At least basic digital skills 
+4,25,1,Calibri,7.0,244.7,612.3,263.7,619.2,82.0% 
+4,25,2,Calibri,7.0,287.1,612.3,290.8,619.2,- 
+4,25,3,Calibri,7.0,323.7,612.3,327.4,619.2,- 
+4,25,4,Calibri,7.0,361.0,612.3,367.9,619.2, -  
+4,25,5,Calibri,7.0,401.5,612.3,405.2,619.2,- 
+4,25,6,Calibri,7.0,441.0,612.3,444.7,619.2,- 
+4,25,7,Calibri,7.0,468.9,612.3,487.9,619.2,87.0% 
+4,25,8,Calibri,7.0,502.3,612.3,516.0,619.2,80% 
+4,26,0,Calibri-Bold,7.0,77.7,627.8,119.4,634.7,ICT specialists 
+4,26,1,Calibri,7.0,246.5,627.8,262.0,634.7,7.6% 
+4,26,2,Calibri,7.0,281.2,627.8,296.7,634.7,7.8% 
+4,26,3,Calibri,7.0,317.8,627.8,333.3,634.7,2.6% 
+4,26,4,Calibri,7.0,355.3,627.8,373.9,634.7, 7.9%  
+4,26,5,Calibri,7.0,395.6,627.8,411.1,634.7,5.0% 
+4,26,6,Calibri,7.0,435.1,627.8,450.6,634.7,4.2% 
+4,26,7,Calibri,7.0,468.9,627.8,487.9,634.7,10.0% 
+4,26,8,Calibri,7.0,500.6,627.8,517.8,634.7,~10% 
+4,27,0,Calibri-Bold,7.0,77.7,643.2,148.1,650.2,eID scheme notification 
+4,27,1,Calibri,7.0,252.6,643.2,255.8,650.2,  
+4,27,2,Calibri,7.0,283.6,643.2,294.3,650.2,Yes 
+4,27,3,Calibri,7.0,324.1,643.2,327.2,650.2,  
+4,27,4,Calibri,7.0,362.1,643.2,365.2,650.2,  
+4,27,5,Calibri,7.0,401.7,643.2,404.9,650.2,  
+4,27,6,Calibri,7.0,441.2,643.2,444.4,650.2,  
+4,27,7,Calibri,7.0,476.9,643.2,480.0,650.2,  
+4,27,8,Calibri,7.0,507.6,643.2,510.7,650.2,  
+4,28,0,Calibri-Bold,7.0,77.7,662.6,175.3,669.5,Digital public services for citizens 
+4,28,1,Calibri,7.0,247.2,662.6,261.2,669.5,90.6 
+4,28,2,Calibri,7.0,282.0,662.6,296.0,669.5,96.3 
+4,28,3,Calibri,7.0,317.8,662.6,333.3,669.5,6.3% 
+4,28,4,Calibri,7.0,356.0,662.6,373.2,669.5, 92.0  
+4,28,5,Calibri,7.0,396.3,662.6,410.3,669.5,82.3 
+4,28,6,Calibri,7.0,435.1,662.6,450.6,669.5,3.6% 
+4,28,7,Calibri,7.0,469.7,662.6,487.2,669.5,100.0 
+4,28,8,Calibri,7.0,503.0,662.6,515.3,669.5,100 
+4,29,0,Calibri-Bold,7.0,77.7,681.8,184.7,688.7,Digital public services for businesses 
+4,29,1,Calibri,7.0,245.4,681.8,263.0,688.7,100.0 
+4,29,2,Calibri,7.0,282.0,681.8,296.0,688.7,98.8 
+4,29,3,Calibri,7.0,316.9,681.8,334.4,688.7,-1.3% 
+4,29,4,Calibri,7.0,361.0,681.8,367.9,688.7, -  
+4,29,5,Calibri,7.0,396.3,681.8,410.3,688.7,86.2 
+4,29,6,Calibri,7.0,435.1,681.8,450.6,688.7,0.9% 
+4,29,7,Calibri,7.0,469.7,681.8,487.2,688.7,100.0 
+4,29,8,Calibri,7.0,503.0,681.8,515.3,688.7,100 
+4,30,0,Calibri-Bold,7.0,77.7,697.6,156.0,704.6,Access to e-Health records 
+4,30,1,Calibri,7.0,247.2,697.6,261.2,704.6,82.6 
+4,30,2,Calibri,7.0,282.0,697.6,296.0,704.6,84.7 
+4,30,3,Calibri,7.0,317.8,697.6,333.3,704.6,2.5% 
+4,30,4,Calibri,7.0,361.0,697.6,367.9,704.6, -  
+4,30,5,Calibri,7.0,396.3,697.6,410.3,704.6,82.7 
+4,30,6,Calibri,7.0,435.1,697.6,450.6,704.6,4.5% 
+4,30,7,Calibri,7.0,469.7,697.6,487.2,704.6,100.0 
+4,30,8,Calibri,7.0,503.0,697.6,515.3,704.6,100 
+4,31,0,Calibri,7.0,77.7,710.8,325.4,717.8,(1) See the methodological note for the description of the indicators and other metrics 
+4,31,1,Calibri,7.0,77.7,719.4,502.6,726.4,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,31,2,Calibri,7.0,77.7,728.0,420.4,734.9,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,31,3,Calibri,7.0,77.7,736.5,425.9,743.5,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,31,4,Calibri,11.0,72.0,746.9,74.5,757.9, 
+4,32,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,32,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+5,3,0,Calibri-Bold,11.0,72.0,84.0,379.5,95.1,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+5,3,0,Calibri,11.0,379.6,84.0,525.9,95.1,", 77% of Finnish citizens consider "
+5,3,1,Calibri,11.0,72.0,98.4,525.6,109.5,that the digitalisation of daily public and private services is making their lives easier. On the action of 
+5,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"the public authorities, 92% consider it important to counter and mitigate the issue of fake news and "
+5,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"disinformation online, and on competitiveness, 88% consider it important to ensure that European "
+5,3,4,Calibri,11.0,72.0,142.0,462.1,153.0,companies can grow and become ‘European Champions’ capable of competing globally.
+5,3,4,Calibri-Light,11.0,462.1,142.0,464.6,153.0, 
+5,4,0,Calibri-Light,15.0,72.0,165.3,526.8,180.3,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,192.1,525.7,203.2,Finland boasts excellent 5G infrastructure and is making good progress in improving fixed connectivity 
+5,5,1,Calibri,11.0,72.0,206.7,525.9,217.7,despite remaining below the EU average. The country is putting significant efforts into advancing digital 
+5,5,2,Calibri,11.0,72.0,221.2,525.8,232.2,"technologies, particularly through its active participation in the ‘Chips for Europe’ initiative, supporting "
+5,5,3,Calibri,11.0,72.0,235.7,525.7,246.8,"research, development and innovation (RDI) in quantum ecosystem and gathering scientists and "
+5,5,4,Calibri,11.0,72.0,250.1,525.8,261.2,enterprises in Finland’s AI efforts. Although Finland has made good progress in adopting digital 
+5,5,5,Calibri,11.0,72.0,264.6,525.6,275.7,"technologies and leveraging the data economy, achieving its ambitious AI and data analytics targets "
+5,5,6,Calibri,11.0,72.0,279.2,525.8,290.2,"will depend on continuous efforts. The country has a start-up friendly ecosystem, but scaling up "
+5,5,7,Calibri,11.0,72.0,293.7,525.6,304.7,"remains an issue and, in general, Finnish enterprises struggle to achieve high productivity and "
+5,5,8,Calibri,11.0,72.0,308.1,525.7,319.1,"innovation. Nonetheless, they show good awareness of cybersecurity measures. In this area, in "
+5,5,9,Calibri,11.0,72.0,322.6,289.4,333.6,October 2024 Finland adopted a comprehensive 
+5,5,9,Calibri,11.0,289.4,322.6,453.2,333.6,cybersecurity strategy for 2024-2035
+5,5,9,Calibri,11.0,453.2,322.6,458.5,333.6,. 
+5,6,0,Calibri-Light,15.0,72.0,346.0,379.5,361.0,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,372.9,525.8,383.9,"Finland’s digital skills performance indicates inclusive growth across various demographic groups, "
+5,7,1,Calibri,11.0,72.0,387.4,525.7,398.4,although some gaps remain among rural populations and older people. Most of the population also 
+5,7,2,Calibri,11.0,72.0,401.9,525.6,413.0,"have the skills needed to critically evaluate digital content. The number of ICT specialists, including "
+5,7,3,Calibri,11.0,72.0,416.3,525.7,427.4,"women, is increasing but they continue to be in high demand. As result, there is some action under "
+5,7,4,Calibri,11.0,72.0,430.9,525.7,441.9,way to support higher education in ICT. Finland's digital public services are achieving scores close to 
+5,7,5,Calibri,11.0,72.0,445.4,525.8,456.4,"100; however, access to digital health records is progressing slower than in the rest of the EU. In the "
+5,7,6,Calibri,11.0,72.0,459.9,525.7,470.9,"second quarter of 2024, Finland successfully notified the ‘Citizen Certificate’ eID scheme. By actively "
+5,7,7,Calibri,11.0,72.0,474.3,525.8,485.4,"participating in European large-scale pilots and other cross-country projects, the country is preparing "
+5,7,8,Calibri,11.0,72.0,488.8,525.7,499.9,for the implementation of the European Digital Identity Regulation and the European Health Data 
+5,7,9,Calibri,11.0,72.0,503.3,153.6,514.4,Space Regulation. 
+5,8,0,Calibri-Light,15.0,72.0,526.7,399.0,541.7,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,553.6,525.9,564.7,Finland is a leader in monitoring and reducing the environmental impact of its ICT sector. It also links 
+5,9,1,Calibri,11.0,72.0,568.1,525.7,579.1,clean energy with advantages for enterprises and aligns technological advancements with 
+5,9,2,Calibri,11.0,72.0,582.6,525.6,593.6,sustainability goals. The EuroHPC LUMI supercomputer hosting Climate Change Adaptation Digital 
+5,9,3,Calibri,11.0,72.0,597.1,525.9,608.1,Twin is a notable example of this. The country plays a key role in green initiatives in the Digital Decade’s 
+5,9,4,Calibri,11.0,72.0,611.6,187.1,622.7,Best Practice Accelerator. 
+5,10,0,Calibri-Light,15.0,72.0,634.9,325.7,649.9,National digital decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,661.8,525.9,672.8,Finland submitted an addendum to the national Digital Decade roadmap on 29 November 2024. The 
+5,11,1,Calibri,11.0,72.0,676.3,352.5,687.3,"addendum, like the original roadmap, is based on Finland’s "
+5,11,1,Calibri,11.0,354.5,676.3,427.6,687.3,Digital Compass
+5,11,1,Calibri,11.0,427.7,676.3,525.9,687.3,. The content of the 
+5,11,2,Calibri,11.0,72.0,690.8,525.9,701.9,roadmap and its update have been developed in cooperation with stakeholders. The new roadmap 
+5,11,3,Calibri,11.0,72.0,705.3,525.9,716.4,"addresses a substantial number of roadmap recommendations issued in 2024, containing both "
+5,11,4,Calibri,11.0,72.0,719.8,525.8,730.8,"additional and revised targets and trajectories. All targets align with the EU-level goals for 2030, and "
+5,11,5,Calibri,11.0,72.0,734.3,525.7,745.3,"two are even higher, 87% for basic digital skills and 95% for the basic digital intensity of SMEs. The "
+5,11,6,Calibri,11.0,72.0,748.8,525.7,759.8,"revised roadmap continues to prioritise semiconductors and quantum, RDI activities and the digital "
+5,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+6,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"empowerment of enterprises. It contains 14 measures with a budget of EUR 559 million, comprising "
+6,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,EUR 556 million from public budget (equivalent to 0.2% of GDP). It covers many objectives of the Digital 
+6,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"Decade, such as creating a human-centred digital space, boosting technological leadership, "
+6,3,3,Calibri,11.0,72.0,127.5,369.9,138.5,"sovereignty, competitiveness, and supporting the green transition. "
+6,4,0,Calibri-Light,15.0,72.0,150.9,249.8,165.9,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,177.7,463.7,188.8,Finland allocates 29% of its total recovery and resilience plan to digital (EUR 526 million)
+6,5,0,Calibri,7.0,463.9,176.8,467.4,183.8,1
+6,5,0,Calibri,11.0,467.4,177.7,525.9,188.8,". In addition, "
+6,5,1,Calibri,11.0,72.0,192.1,525.6,203.2,"under cohesion policy, EUR 385 million, representing 20% of the country’s total cohesion policy "
+6,5,2,Calibri,11.0,72.0,206.7,365.3,217.7,"funding, is dedicated to advancing Finland’s digital transformation"
+6,5,2,Calibri,7.0,365.2,205.8,368.8,212.7,2
+6,5,2,Calibri,11.0,368.7,206.7,374.1,217.7,. 
+6,6,0,Calibri,11.0,72.0,229.2,525.7,240.3,Finland is a member of the Alliance for Language Technologies EDIC. Finland is directly participating in 
+6,6,1,Calibri,11.0,72.0,243.6,525.9,254.7,the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT). The country is also a 
+6,6,2,Calibri,11.0,72.0,258.2,417.7,269.2,participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,7,0,Calibri,11.0,72.0,280.7,394.7,291.8,Finland is co-leading the Green IT cluster of the Best Practice Accelerator
+6,7,0,Calibri,7.0,394.6,279.8,398.2,286.8,3
+6,7,0,Calibri,11.0,398.1,280.7,525.9,291.8,", promoting the exchange of "
+6,7,1,Calibri,11.0,72.0,295.1,525.8,306.2,information on public policies aimed at the environmental transition of digital technologies. The 
+6,7,2,Calibri,11.0,72.0,309.6,525.7,320.7,"country has already contributed with two best practices in this area. Additionally, Finland has shared "
+6,7,3,Calibri,11.0,72.0,324.2,514.3,335.2,best practices on digital skills development and the adoption of digital technologies by enterprises. 
+6,8,0,Calibri-Light,15.0,72.0,347.5,238.3,362.5,Digital rights and principles 
+6,9,0,Calibri,11.0,72.0,374.4,476.9,385.5,"According to a support study, France has been relatively active in implementing the "
+6,9,0,Calibri-Bold,11.0,479.7,374.4,525.9,385.5,European 
+6,9,1,Calibri-Bold,11.0,72.0,388.8,266.6,399.9,Declaration on Digital Rights and Principles
+6,9,1,Calibri,11.0,266.7,388.8,525.9,399.9,", with 53 initiatives overall but no new initiatives launched "
+6,9,2,Calibri,11.0,72.0,403.4,525.6,414.4,in 2024. France is most active in the area of participation in the digital public space. Less activity has 
+6,9,3,Calibri,11.0,72.0,417.9,525.9,428.9,been identified with regards to digital public services online. Measures in the area of putting people 
+6,9,4,Calibri,11.0,72.0,432.4,525.7,443.5,"at the centre of the digital transformation appear to have most impact on the ground, in contrast to "
+6,9,5,Calibri,11.0,72.0,446.8,312.6,457.9,"those addressing safety, security and empowerment.  "
+6,10,0,Calibri,11.0,216.1,658.7,218.5,669.7, 
+6,10,1,Calibri,6.0,72.0,671.4,75.1,677.4,1
+6,10,1,Calibri,9.0,75.0,671.7,524.9,680.7, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,10,2,Calibri,9.0,72.0,682.8,313.5,691.8,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,10,3,Calibri,6.0,72.0,693.4,75.1,699.4,2
+6,10,3,Calibri,9.0,75.0,693.7,523.2,702.7, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,10,4,Calibri,9.0,72.0,704.7,525.0,713.7,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,10,5,Calibri,9.0,72.0,715.6,315.5,724.6,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,10,6,Calibri,6.0,72.0,726.4,75.1,732.4,3
+6,10,6,Calibri,9.0,75.0,726.7,525.2,735.7, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,10,7,Calibri,9.0,72.0,737.7,525.3,746.7,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,10,8,Calibri,9.0,72.0,748.6,525.5,757.6,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,10,9,Calibri,9.0,72.0,760.6,248.5,769.6,"Green IT, and the Uptake of Digital Technologies."
+6,10,9,Calibri,10.0,248.6,759.9,253.2,769.9,  
+6,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+7,2,0,Calibri-Bold,11.0,77.7,84.5,165.4,95.5,Recommendations 
+7,4,0,ArialMT,11.0,95.7,100.3,102.5,112.6,- 
+7,4,1,Calibri-Bold,11.0,113.7,102.0,149.4,113.1,Gigabit:
+7,4,1,Calibri,11.0,149.4,102.0,520.8,113.1," Intensify efforts to develop fixed gigabit connectivity, including by encouraging the "
+7,4,2,Calibri,11.0,113.7,116.4,493.9,127.5,take up of the existing broadband support measure and identifying the most suitable 
+7,4,3,Calibri,11.0,113.7,130.9,269.7,142.0,strategies to achieve full coverage. 
+7,5,0,ArialMT,11.0,95.7,146.7,102.5,159.1,- 
+7,5,1,Calibri-Bold,11.0,113.7,148.5,179.9,159.5,ICT specialists:
+7,5,1,Calibri,11.0,179.9,148.5,510.4,159.5," Intensify efforts to attract ICT specialists, including those from abroad, by "
+7,5,2,Calibri,11.0,113.7,163.0,465.3,174.0,"offering tailored training pathways, and addressing the gender gap in the field. "
+7,6,0,ArialMT,11.0,95.7,178.7,102.5,191.0,- 
+7,6,1,Calibri-Bold,11.0,113.7,180.4,222.3,191.4,Advanced technologies:
+7,6,1,Calibri,11.0,222.3,180.4,518.2,191.4," Further promote cooperation between academia, businesses and "
+7,6,2,Calibri,11.0,113.7,194.9,483.7,205.9,"other stakeholders, with a view to advancing innovation with the support of digital "
+7,6,3,Calibri,11.0,113.7,209.4,175.8,220.5,technologies. 
+7,7,0,ArialMT,11.0,95.7,225.2,102.5,237.5,- 
+7,7,1,Calibri-Bold,11.0,113.7,226.9,126.4,238.0,AI:
+7,7,1,Calibri,11.0,126.4,226.9,519.5,238.0, Continue strengthening the AI ecosystem to boost Finland’s leadership role in this area. 
+7,8,0,ArialMT,11.0,95.7,242.7,102.5,255.0,- 
+7,8,1,Calibri-Bold,11.0,113.7,244.4,176.0,255.4,Cybersecurity
+7,8,1,Calibri,11.0,176.1,244.4,522.8,255.4,": Continue efforts in cybersecurity to address evolving threats, particularly for "
+7,8,2,Calibri,11.0,113.7,258.9,285.6,269.9,enterprises and public administration. 
+7,9,0,ArialMT,11.0,95.7,274.7,102.5,287.0,- 
+7,9,1,Calibri-Bold,11.0,113.7,276.4,154.2,287.5,Unicorns
+7,9,1,Calibri,11.0,154.2,276.4,510.7,287.5,: Continue improving the business environment and access to finance for digital 
+7,9,2,Calibri,11.0,113.7,290.9,307.2,302.0,start-ups to scale-up and compete globally. 
+7,10,0,ArialMT,11.0,95.7,306.6,102.5,318.9,- 
+7,10,1,Calibri-Bold,11.0,113.7,308.3,288.8,319.4,Semiconductors and digital innovation
+7,10,1,Calibri,11.0,288.8,308.3,488.6,319.4,: Continue investing in the development and 
+7,10,2,Calibri,11.0,113.7,322.8,449.8,333.9,manufacturing of critical technologies in the areas of digital and deep tech. 
+7,10,3,Calibri-Bold,26.0,72.0,343.9,77.9,369.9, 
+7,10,4,Calibri-Bold,26.0,216.1,343.9,221.9,369.9, 
+7,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.6,171.5,"Finland’s digital competitiveness has been a priority for policymakers, with the goal of establishing "
+8,4,1,Calibri-Bold,11.0,72.0,175.0,489.9,186.0,the country as a global technological leader and driving the growth of the national economy. 
+8,4,1,Calibri,11.0,489.5,175.0,525.9,186.0,Despite 
+8,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,"budgetary constraints, authorities and stakeholders are trying to build on their achievements, pool "
+8,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"resources and make use of EU opportunities. Notably, Finland is home to an AI Factory in Kajaani and "
+8,4,4,Calibri,11.0,72.0,218.4,311.2,229.5,is extremely active in the ‘Chips for Europe’ initiative. 
+8,5,0,Calibri-Bold,11.0,72.0,241.0,420.8,252.0,The country’s high level of digitalisation allows for digitally enabled growth
+8,5,0,Calibri,11.0,420.8,241.0,525.9,252.0,. Finland benefits from 
+8,5,1,Calibri,11.0,72.0,255.4,525.9,266.5,"excellent 5G networks and growing gigabit connection, especially in urban areas. 9 out of 10 small and "
+8,5,2,Calibri,11.0,72.0,269.9,525.9,281.0,medium sized enterprises (SMEs) have at least a basic level of digital intensity and uptake of 
+8,5,3,Calibri,11.0,72.0,284.4,525.9,295.5,"technologies such as cloud, AI and data analytics, and are making good progress in these areas. "
+8,5,4,Calibri,11.0,72.0,299.0,525.9,310.0,"However, if they wish to scale up, growth companies often need to move abroad once they reach a "
+8,5,5,Calibri,11.0,72.0,313.4,207.9,324.4,certain stage of development. 
+8,6,0,Calibri-Bold,11.0,72.0,335.9,525.9,347.0,"Finland has an ambition to increase research, development and innovation (RDI) expenditure to 4% "
+8,6,1,Calibri-Bold,11.0,72.0,350.4,245.7,361.5,of GDP by 2030 (from 3.09% in 2023). 
+8,6,1,Calibri,11.0,245.8,350.4,525.9,361.5,The ICT sector is particularly research and development (R&D) 
+8,6,2,Calibri,11.0,72.0,364.8,525.9,375.9,"driven, with its spending accounting for 36.68% of total R&D business expenditure in the country, "
+8,6,3,Calibri,11.0,72.0,379.4,525.8,390.4,which is among the highest levels recorded in the EU in 2022 (but visibly behind countries such as 
+8,6,4,Calibri,11.0,72.0,393.9,179.4,404.9,"Malta, Estonia or Latvia)"
+8,6,4,Calibri,7.0,179.3,393.0,182.9,399.9,4
+8,6,4,Calibri,11.0,182.8,393.9,525.9,404.9,". R&D personnel in the ICT sector account for 38.36% of total R&D personnel, "
+8,6,5,Calibri,11.0,72.0,408.4,525.9,419.5,"also one of the highest levels in the EU. Moreover, the Finnish ICT sector represented 5.81% of the "
+8,6,6,Calibri,11.0,72.0,422.8,525.9,433.9,gross value added in 2022. This is slightly lower than the 2020 value and higher than the EU average 
+8,6,7,Calibri,11.0,72.0,437.3,525.9,448.4,"of 5.46%, pointing to the overall importance of ICT to the national economy. According to the 2025 "
+8,6,8,Calibri,11.0,72.0,451.9,140.3,462.9,Eurobarometer
+8,6,8,Calibri,7.0,140.2,451.0,143.7,457.9,5
+8,6,8,Calibri,11.0,143.7,451.9,525.8,462.9,", 93% of Finnish people think that increasing research and innovation to have more "
+8,6,9,Calibri,11.0,72.0,466.4,448.8,477.4,secure and strong digital technologies should be a priority for the public authorities. 
+8,6,9,Calibri,11.0,448.7,466.4,451.2,477.4, 
+8,7,0,Calibri-Bold,11.0,72.0,488.8,334.9,499.9,Finland was identified as an innovation leader in the 
+8,7,0,Calibri-Bold,11.0,337.8,488.8,525.9,499.9,"European Innovation Scoreboard 2024, "
+8,7,0,Calibri-Bold,11.0,526.0,488.8,528.5,499.9, 
+8,7,1,Calibri-Bold,11.0,72.0,503.3,269.2,514.4,performing at 127.8% of the EU average.
+8,7,1,Calibri,11.0,269.1,503.3,525.9,514.4, While digitalisation in terms of networks and skills is 
+8,7,2,Calibri,11.0,72.0,517.9,525.9,528.9,"considered a strong enabler, supported by attractive research ecosystems, challenges remain in "
+8,7,3,Calibri,11.0,72.0,532.3,525.9,543.3,"resource productivity and innovation by SMEs, including through cooperation and innovation "
+8,7,4,Calibri,11.0,72.0,546.8,131.3,557.8,expenditure. 
+8,8,0,Calibri-Light,15.0,72.0,570.2,509.7,585.2,Building technological leadership: digital infrastructure and technologies 
+8,9,0,Calibri-Bold,11.0,72.0,597.1,525.9,608.1,"In 2024, Finland made significant strides in digital infrastructure, with its 5G coverage leading the "
+8,9,1,Calibri-Bold,11.0,72.0,611.6,87.5,622.7,EU.
+8,9,1,Calibri,11.0,87.5,611.6,525.9,622.7, The country also excels at spectrum assignment. Although Very High-Capacity Network (VHCN) 
+8,9,2,Calibri,11.0,72.0,626.0,525.9,637.1,"and Fibre to the Premises (FTTP) coverages remained slightly below the EU averages, they grew at a "
+8,9,3,Calibri,11.0,72.0,640.5,525.9,651.6,"faster pace. Finland’s thriving semiconductor ecosystem bolsters the EU’s sovereignty, and efforts in "
+8,9,4,Calibri,11.0,72.0,655.1,525.9,666.1,quantum technologies further position the country as a competitive leader in advanced technology 
+8,9,5,Calibri,11.0,72.0,669.6,126.4,680.6,landscapes. 
+8,10,0,Calibri,11.0,216.1,724.6,218.5,735.6, 
+8,11,0,Calibri,6.0,72.0,737.5,75.1,743.5,4
+8,11,0,Calibri,9.0,75.0,737.7,525.2,746.7, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,11,1,Calibri,9.0,72.0,748.6,233.0,757.6,the State of the Digital Decade report 2025. 
+8,11,2,Calibri,6.5,72.0,759.1,75.3,765.5,5
+8,11,2,Calibri,10.0,75.3,759.9,77.5,769.9, 
+8,11,2,Calibri,9.0,77.5,760.6,286.0,769.6,Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,11,2,Calibri,9.0,286.1,760.6,515.5,769.6,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,11,2,Calibri,10.0,515.6,759.9,517.9,769.9, 
+8,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+9,2,0,Calibri-Light,12.0,72.0,84.3,200.4,96.3,Connectivity infrastructure
+9,2,0,Calibri-Light,12.0,200.4,84.3,203.2,96.3, 
+9,4,0,Calibri-Bold,11.0,72.0,107.8,525.9,118.8,"In terms of VHCN coverage, in 2024 Finland’s total coverage stood at 81.65% (2030 national target "
+9,4,1,Calibri-Bold,11.0,72.0,122.3,279.3,133.3,"100%), just below the EU average of 82.49%."
+9,4,1,Calibri,11.0,279.3,122.3,525.8,133.3," However, Finland’s growth rate of 5.1% outpaced the "
+9,4,2,Calibri,11.0,72.0,136.8,525.9,147.9,EU’s 4.9%. The country is also on track according to its national trajectory. Fixed broadband 
+9,4,3,Calibri,11.0,72.0,151.2,525.6,162.3,subscriptions with download speed of 100 Mbps or more were at 53.10% and of 1 Gbps or more at 
+9,4,4,Calibri,11.0,72.0,165.7,525.9,176.8,"5.21%. For households in sparsely populated areas, Finland’s VHCN coverage was 49.95%, significantly "
+9,4,5,Calibri,11.0,72.0,180.3,474.8,191.3,"lower than the EU average of 61.89%, but with a higher growth rate of 27.0% (EU: 11.3%). "
+9,5,0,Calibri-Bold,11.0,72.0,202.7,525.9,213.7,"Finland’s total FTTP coverage was 68.26% (2030 national target 100%), slightly below the EU average "
+9,5,1,Calibri-Bold,11.0,72.0,217.2,412.8,228.3,of 69.24% but exceeding the EU average growth rate (8.4%) with 11.6%.
+9,5,1,Calibri,11.0,412.9,217.2,525.9,228.3, The country is on track 
+9,5,2,Calibri,11.0,72.0,231.8,525.9,242.8,"according to its national trajectory. For households in sparsely populated areas, Finland’s FTTP "
+9,5,3,Calibri,11.0,72.0,246.3,525.9,257.3,"coverage was 49.95%, lower than the EU's 58.78%, but with a growth rate of 27.0%, the country again "
+9,5,4,Calibri,11.0,72.0,260.7,209.1,271.7,outperformed the EU’s 11.9%. 
+9,6,0,Calibri-Bold,11.0,72.0,283.2,525.9,294.3,"In terms of overall 5G coverage, Finland was an EU frontrunner with 99.49% (2030 national target "
+9,6,1,Calibri-Bold,11.0,72.0,297.6,443.7,308.7,"100%) and a growth rate of 1.2%, compared to the EU average of 94.35% (+6.0%)."
+9,6,1,Calibri,11.0,443.6,297.6,525.9,308.7, The country is on 
+9,6,2,Calibri,11.0,72.0,312.2,525.9,323.2,"track according to its national trajectory. For households in sparsely populated areas, Finland’s 5G "
+9,6,3,Calibri,11.0,72.0,326.7,525.8,337.7,"coverage was 97.08%, significantly higher than the EU average of 79.57%, but its growth rate of 5.1% "
+9,6,4,Calibri,11.0,72.0,341.2,525.9,352.2,"fell short of the EU average (11.9%). In the 3.4-3.8 GHz band, 5G coverage rose by 2.4% to reach "
+9,6,5,Calibri,11.0,72.0,355.6,525.9,366.6,"91.86%, well above the EU average of 67.72%. For households in sparsely populated areas, 5G "
+9,6,6,Calibri,11.0,72.0,370.1,525.9,381.2,"coverage in this band was 58.84%, much higher than the EU average (26.19%), but with a much slower "
+9,6,7,Calibri,11.0,72.0,384.6,525.8,395.7,"growth rate (17.1% vs an EU average of 65.1%). As in the previous year, 5G spectrum assignment for "
+9,6,8,Calibri,11.0,72.0,399.2,480.3,410.2,"pioneer bands stood at 99.17% in 2025, significantly higher than the EU average of 74.63%. "
+9,7,0,Calibri-LightItalic,11.0,72.0,421.6,141.0,432.7,VHCN and FTTP
+9,7,0,Calibri-LightItalic,11.0,140.9,421.6,143.4,432.7, 
+9,8,0,Calibri-Bold,11.0,72.0,444.2,525.9,455.2,"In its adjusted roadmap, Finland upheld the 100% 2030 target for VHCN and proposed a 100% target "
+9,8,1,Calibri-Bold,11.0,72.0,458.6,303.1,469.6,"for FTTP, in line with the SDDR24 recommendation."
+9,8,1,Calibri,11.0,303.1,458.6,525.9,469.6, Based on the current progress rate and given that 
+9,8,2,Calibri,11.0,72.0,473.1,420.4,484.1,"no new public funding measures are in place, these targets remain ambitious. "
+9,9,0,Calibri-Bold,11.0,72.0,495.7,525.9,506.7,Finland’s broadband aid scheme under the Recovery and Resilience Facility (RRF) received 
+9,9,1,Calibri-Bold,11.0,72.0,510.1,525.9,521.1,applications in 2022-2023 and connections for 16 000 households covered by this measure should 
+9,9,2,Calibri-Bold,11.0,72.0,524.6,249.2,535.6,be put in place by the end of 2026.
+9,9,2,Calibri,11.0,249.3,524.6,525.9,535.6," According to the country’s adjusted roadmap, broadband "
+9,9,3,Calibri,11.0,72.0,539.1,525.7,550.2,construction is currently supported by the European Agricultural Fund for Rural Development. In the 
+9,9,4,Calibri,11.0,72.0,553.6,525.7,564.7,"Finnish Rural Development Fund Plan, EUR 53 million has been reserved for financing broadband "
+9,9,5,Calibri,11.0,72.0,568.1,525.9,579.1,"connections in rural areas (through ‘village network projects’) in 2023-2027. As of early 2025, 29 "
+9,9,6,Calibri,11.0,72.0,582.6,525.9,593.6,"projects worth approximately EUR 9.4 million had been awarded under this fund, and an additional 12 "
+9,9,7,Calibri,11.0,72.0,597.1,525.9,608.1,applications are being processed. This should help alleviate the difficulties with market-based 
+9,9,8,Calibri,11.0,72.0,611.6,525.9,622.7,deployment of broadband in sparsely populated areas. EU funds for agriculture also support other 
+9,9,9,Calibri,11.0,72.0,626.0,328.1,637.1,"initiatives to enhance digitalisation in rural areas, such as "
+9,9,9,Calibri,11.0,328.1,626.0,391.2,637.1,Smart Villages
+9,9,9,Calibri,11.0,391.3,626.0,435.0,637.1, projects. 
+9,10,0,Calibri-Bold,11.0,72.0,648.6,525.9,659.6,"The roll-out of VHCN and fibre is progressing well, and hopes are high that the national "
+9,10,1,Calibri-Bold,11.0,72.0,663.1,525.9,674.1,implementation of the Gigabit Infrastructure Act (GIA) will play a significant role in further 
+9,10,2,Calibri-Bold,11.0,72.0,677.5,130.6,688.5,acceleration.
+9,10,2,Calibri,11.0,130.7,677.5,525.9,688.5," Notably, stakeholders see the chance in the introduction of a streamlined permitting "
+9,10,3,Calibri,11.0,72.0,692.0,485.7,703.1,"process. In 2023, investments in fixed networks in the country amounted to a record high of "
+9,10,3,Calibri,11.0,485.9,692.0,525.9,703.1,EUR 385 
+9,10,4,Calibri,11.0,72.0,706.5,102.5,717.6,million
+9,10,4,Calibri,11.0,102.5,706.5,525.9,717.6,", focusing predominantly on fibre. Although there are three main players in the "
+9,10,5,Calibri,11.0,72.0,721.1,525.8,732.1,"telecommunications market, when it comes specifically to fibre network coverage, a quarter of the "
+9,10,6,Calibri,11.0,72.0,735.5,410.8,746.5,"national market belongs to new entrants, demonstrating good competition. "
+9,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+10,2,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"Copper networks in Finland are being decommissioned, with less than 100 000 broadband "
+10,2,1,Calibri-Bold,11.0,72.0,98.4,234.1,109.5,subscriptions still relying on copper.
+10,2,1,Calibri,11.0,234.2,98.4,525.9,109.5, Some operators plan to stop using copper as early as 2025. It will 
+10,2,2,Calibri,11.0,72.0,112.9,428.2,124.0,"be substituted in part by high quality mobile networks, especially in rural areas. "
+10,4,0,Calibri-Bold,11.0,72.0,135.5,473.4,146.5,The country is also seizing opportunities to strategically deploy submarine cables.
+10,4,0,Calibri,11.0,473.5,135.5,525.9,146.5, The most 
+10,4,1,Calibri,11.0,72.0,149.9,435.6,160.9,significant project funded under Connecting Europe Facility (CEF) Digital has been 
+10,4,1,Calibri,11.0,435.5,149.9,502.9,160.9,Far North Fiber
+10,4,1,Calibri,11.0,502.9,149.9,525.9,160.9, that 
+10,4,2,Calibri,11.0,72.0,164.4,525.8,175.5,aims to build a submarine cable connection from Northern Norway via arctic areas of Canada to Japan. 
+10,4,3,Calibri,11.0,72.0,178.9,525.9,190.0,"Recently, Finnish Far North Fibre and Swedish Polar Connect have laid the ground for cooperation on "
+10,4,4,Calibri,11.0,72.0,193.5,525.9,204.5,"this project. Other submarine cable projects include C-Lion2 and Terrestrial Backbone Finland projects, "
+10,4,5,Calibri,11.0,72.0,207.9,379.4,218.9,and the new Eastern Light connection between Finland and Sweden. 
+10,5,0,Calibri-Bold,11.0,77.7,230.5,325.4,241.6,2024 recommendation on connectivity infrastructure
+10,5,0,Calibri,11.0,325.5,230.5,520.1,241.6,: Intensify efforts to develop fixed gigabit 
+10,5,1,Calibri,11.0,77.7,245.1,409.0,256.1,"connectivity, including by reinforcing public investments where necessary. "
+10,6,0,Calibri-Bold,11.0,77.7,264.4,517.9,275.5,"In 2024, Finland continued to implement existing measures but did not introduce any new ones."
+10,6,0,Calibri,11.0,517.8,264.4,520.3,275.5, 
+10,6,1,Calibri,11.0,77.7,278.9,128.1,290.0,Based on a 
+10,6,1,Calibri,11.0,127.5,278.9,176.2,290.0,2024 study
+10,6,1,Calibri,11.0,175.5,278.9,520.2,290.0,", the country does not plan any new public support scheme. At the same time, "
+10,6,2,Calibri,11.0,77.7,293.4,520.2,304.5,sums remaining to be allocated from EFARD might suggest that the measures to support remote 
+10,6,3,Calibri,11.0,77.7,307.9,520.3,318.9,areas to date have not been fully used by the operators. A further chance for market-based 
+10,6,4,Calibri,11.0,77.7,322.4,288.9,333.4,deployment might be the GIA implementation. 
+10,7,0,Calibri-Bold,11.0,72.0,340.4,74.5,351.4, 
+10,8,0,Calibri-LightItalic,11.0,72.0,362.9,84.6,374.0,5G
+10,8,0,Calibri-LightItalic,11.0,84.5,362.9,87.0,374.0, 
+10,9,0,Calibri-Bold,11.0,72.0,385.4,525.8,396.4,"Following the roadmap adjustment, Finland’s target for 2030 remains at 100% as per the initial "
+10,9,1,Calibri-Bold,11.0,72.0,399.9,199.5,410.9,roadmap submitted in 2023.
+10,9,1,Calibri,11.0,199.5,399.9,525.9,410.9," Given the figures above, the target seems achievable in the coming years. "
+10,9,2,Calibri,11.0,72.0,414.3,396.5,425.4,The country has also adjusted its trajectory to reflect this good progress. 
+10,10,0,Calibri-Bold,11.0,72.0,436.9,525.8,447.9,Finland is consequently realising its roadmap goal of maximally efficient use of frequencies within 
+10,10,1,Calibri-Bold,11.0,72.0,451.4,285.7,462.4,the confines of the existing frequency bands
+10,10,1,Calibri,11.0,285.9,451.4,525.8,462.4,. Almost all 5G pioneer bands have been assigned 
+10,10,2,Calibri,11.0,72.0,465.8,194.6,476.8,"(99.17%). In addition, with "
+10,10,2,Calibri,11.0,195.4,465.8,362.7,476.8,the recent shutdown of 3G networks
+10,10,2,Calibri,11.0,362.7,465.8,525.9,476.8,", frequencies are being released for "
+10,10,3,Calibri,11.0,72.0,480.3,265.9,491.4,the more efficient 4G and 5G technologies. 
+10,11,0,Calibri-Bold,11.0,77.7,503.3,322.3,514.4,2024 recommendation on connectivity infrastructure
+10,11,0,Calibri,11.0,322.3,503.3,520.2,514.4,: Ensure sufficient access of new players to 
+10,11,1,Calibri,11.0,77.7,517.7,520.2,528.8,spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications 
+10,11,2,Calibri,11.0,77.7,532.3,474.2,543.3,and encourage operators to speed up the deployment of 5G stand-alone core networks.  
+10,12,0,Calibri-Bold,11.0,77.7,553.5,486.2,564.5,Finland made efforts to address the recommendation through new policy actions in 2024
+10,12,0,Calibri,11.0,486.5,553.5,520.3,564.5,. There 
+10,12,1,Calibri,11.0,77.7,567.9,134.8,579.0,are multiple 
+10,12,1,Calibri,11.0,135.4,567.9,271.3,579.0,ongoing 5G projects and trials
+10,12,1,Calibri,11.0,271.4,567.9,520.1,579.0,", focusing notably on sustainable growth, road and rail "
+10,12,2,Calibri,11.0,77.7,582.5,520.3,593.5,"transport and shipping. In addition, operators are well on their way to deploying 5G standalone "
+10,12,3,Calibri,11.0,77.7,597.0,520.3,608.0,networks. Most of the operators have deployed 5G standalone (frequently referred to as 5G+) either 
+10,12,4,Calibri,11.0,77.7,611.5,520.0,622.5,"in the entirety or major part of their networks, and some of them already provide services "
+10,12,5,Calibri,11.0,77.7,625.9,407.3,636.9,"commercially. For example, the largest Finnish mobile network operator "
+10,12,5,Calibri,11.0,408.2,625.9,449.2,636.9,launched
+10,12,5,Calibri,11.0,449.1,625.9,520.2,636.9, 5G standalone 
+10,12,6,Calibri,11.0,77.7,640.4,232.9,651.5,network broadband subscriptions. 
+10,13,0,Calibri,11.0,72.0,658.4,74.5,669.5, 
+10,14,0,Calibri-Light,12.0,72.0,681.2,151.9,693.2,Semiconductors 
+10,15,0,Calibri-Bold,11.0,72.0,704.7,525.9,715.8,"Finland is a strong player in the EU semiconductors ecosystem, strengthening the EU’s sovereignty "
+10,15,1,Calibri-Bold,11.0,72.0,719.3,269.2,730.3,and contributing to a secure chips supply.
+10,15,1,Calibri,11.0,269.1,719.3,292.1,730.3, The 
+10,15,1,Calibri,11.0,293.5,719.3,504.1,730.3,2024 industry-led strategy for semiconductors
+10,15,1,Calibri,11.0,504.1,719.3,525.9,730.3, has 
+10,15,2,Calibri,11.0,72.0,733.7,525.9,744.7,"mapped out the opportunities and set a solid framework for growth. In addition, the country is actively "
+10,15,3,Calibri,11.0,72.0,748.2,525.9,759.2,"leveraging possibilities under the ‘Chips for Europe’ initiative, notably through co-hosting all five EU "
+10,16,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+11,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"pilot production lines procured by Chips JU (APECS, FAMES, NanoIC, PIXEurope, WBG). All of them "
+11,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,represent Finnish strengths in semiconductors and create an opportunity to connect with European 
+11,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,partners. Pilot lines develop new semiconductor processes and technologies that are available to 
+11,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,companies to develop and scale products into production. The most recent one is Advanced Photonic 
+11,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,Integrated Circuits Pilot Line for Europe (PIXEurope) jointly funded by the EU through the Horizon 
+11,3,5,Calibri,11.0,72.0,156.4,460.6,167.4,"Europe and Digital Europe Programmes, participating states, and private organisations. "
+11,4,0,Calibri-Bold,11.0,72.0,178.9,525.9,190.0,To support the development of advanced chip technologies and drive their demand in Finland and 
+11,4,1,Calibri-Bold,11.0,72.0,193.5,525.9,204.5,"across Europe, the Finnish Chips Competence Centre (FiCCC) - another initiative under the EU Chips "
+11,4,2,Calibri-Bold,11.0,72.0,207.9,253.6,218.9,Act - became operational in early 2025.
+11,4,2,Calibri,11.0,253.5,207.9,525.8,218.9," FiCCC brings together companies, networks of stakeholders "
+11,4,3,Calibri,11.0,72.0,222.4,525.9,233.4,"and universities to provide technical expertise and experimentation and thus allow companies, in "
+11,4,4,Calibri,11.0,72.0,236.9,525.9,248.0,"particular start-ups and SMEs, to innovate e.g. on chips design. It is important to note that Finland’s "
+11,4,5,Calibri,11.0,72.0,251.4,266.2,262.5,chips and quantum efforts are intertwined. 
+11,5,0,Calibri-Bold,11.0,72.0,273.9,525.9,284.9,"The semiconductors ecosystem in Finland is very regional, with companies that leverage "
+11,5,1,Calibri-Bold,11.0,72.0,288.4,525.9,299.5,opportunities coming notably from geographic proximity of and working together with higher 
+11,5,2,Calibri-Bold,11.0,72.0,302.9,174.8,314.0,education institutions.
+11,5,2,Calibri,11.0,174.9,302.9,523.6,314.0, This also drives the possibility for regional actors to actively participate in EU-
+11,5,3,Calibri,11.0,72.0,317.3,525.7,328.4,"wide initiatives. For instance, the Tampere region features globally competitive expertise in chip "
+11,5,4,Calibri,11.0,72.0,331.8,525.9,342.9,"technology and possesses a strong talent pool, especially in system-on-chip design and in the "
+11,5,5,Calibri,11.0,72.0,346.4,436.8,357.4,"development, manufacturing, and integration of III-V compound semiconductors. "
+11,6,0,Calibri-Light,12.0,72.0,369.0,130.2,381.0,Edge nodes 
+11,7,0,Calibri-Bold,11.0,72.0,392.7,525.9,403.7,"According to the Edge Node Observatory, there were an estimated 47 edge nodes in Finland in 2024, "
+11,7,1,Calibri-Bold,11.0,72.0,407.1,225.0,418.1,an increase of 95.8% since 2023. 
+11,7,1,Calibri,11.0,225.9,407.1,525.8,418.1,This is almost double (+23 edge nodes) the amount estimated for 
+11,7,2,Calibri,11.0,72.0,421.6,97.2,432.7,2023.
+11,7,2,Calibri-Bold,11.0,97.1,421.6,99.6,432.7, 
+11,8,0,Calibri-Bold,11.0,72.0,444.2,525.9,455.2,"As explained in the roadmap adjustment, Finland sees the increase of edge nodes as being due to "
+11,8,1,Calibri-Bold,11.0,72.0,458.6,222.9,469.6,grassroots market development. 
+11,8,1,Calibri,11.0,223.1,458.6,525.9,469.6,"Therefore, the country does not set a separate target. It expects an "
+11,8,2,Calibri,11.0,72.0,473.1,525.9,484.1,increase in the number of edge nodes when businesses generate sufficient demand for cloud-based 
+11,8,3,Calibri,11.0,72.0,487.6,139.6,498.7,AI exploitation.
+11,8,3,Calibri-Bold,11.0,139.6,487.6,142.1,498.7, 
+11,9,0,Calibri-Light,12.0,72.0,510.3,184.4,522.3,Quantum technologies 
+11,10,0,Calibri-Bold,11.0,72.0,533.9,523.4,545.0,"As a quantum competence cluster, Finland is a strong player in the European quantum ecosystem."
+11,10,0,Calibri,11.0,523.4,533.9,525.9,545.0, 
+11,10,1,Calibri,11.0,72.0,548.3,525.9,559.4,"The country continues to implement the roadmap measures in this area. Notably, VTT Technical "
+11,10,2,Calibri,11.0,72.0,562.9,525.9,573.9,"Research Centre of Finland and IQM Quantum Computers, have launched Europe’s first 50-qubit "
+11,10,3,Calibri,11.0,72.0,577.4,525.9,588.5,superconducting quantum computer in March 2025. The quantum computer is open for use by 
+11,10,4,Calibri,11.0,72.0,591.9,525.6,603.0,companies and researchers in universities and research institutes through the VTT QC quantum 
+11,10,5,Calibri,11.0,72.0,606.3,525.9,617.4,computing service and it will be integrated into the Finnish high-performance computing infrastructure 
+11,10,6,Calibri,11.0,72.0,620.9,525.9,631.9,to promote hybrid computing. VTT continues upscaling the quantum computer to 300-qubit together 
+11,10,7,Calibri,11.0,72.0,635.4,525.9,646.4,"with IQM by 2027. Finland is also participating in the LUMI-Q quantum computer in Czechia, which will "
+11,10,8,Calibri,11.0,72.0,649.9,525.7,660.9,be linked with the LUMI supercomputer to develop a national quantum computing environment. The 
+11,10,9,Calibri,11.0,72.0,664.4,525.9,675.5,"future AI factory will include an experimental platform combining AI and quantum computing, with an "
+11,10,10,Calibri,11.0,72.0,678.8,208.8,689.9,investment of EUR 40 million.  
+11,11,0,Calibri-Bold,11.0,72.0,701.4,525.8,712.4,"In addition, Finnish Quantum Flagship funded by the Research Council of Finland brings together "
+11,11,1,Calibri-Bold,11.0,72.0,715.8,195.6,726.8,leading quantum experts
+11,11,1,Calibri,11.0,195.8,715.8,525.8,726.8," in physics, computational science, mathematics, nanoscience and "
+11,11,2,Calibri,11.0,72.0,730.3,525.8,741.4,"nanotechnology, and economics to consolidate and expand Finland’s national ecosystem for quantum "
+11,11,3,Calibri,11.0,72.0,744.8,525.9,755.9,"technology. Through cutting-edge research, the Flagship boosts the emergence of new businesses and "
+11,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+12,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,secure Finland’s position as a leading quantum-enabled society. Flagship host organisations are Aalto 
+12,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"University, University of Helsinki, CSC, University of Jyväskylä, Tampere University, University of Oulu "
+12,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"and VTT. More generally, the Flagship status of the Academy of Finland is given to a small number of "
+12,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"scientifically top-level competence centres that support future knowledge and know-how, and "
+12,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,"sustainable solutions to societal challenges, and advance economic growth by developing new "
+12,3,5,Calibri,11.0,72.0,156.4,178.7,167.4,business opportunities. 
+12,4,0,Calibri-Bold,11.0,72.0,178.9,525.9,190.0,"State funds are supporting the development of Kvanttinova, a piloting and development centre for "
+12,4,1,Calibri-Bold,11.0,72.0,193.5,314.2,204.5,microelectronics and quantum technologies in Espoo.
+12,4,1,Calibri,11.0,314.2,193.5,525.9,204.5, Kvanttinova is a joint initiative by VTT Technical 
+12,4,2,Calibri,11.0,72.0,207.9,525.6,218.9,"Research Centre of Finland, the City of Espoo, Aalto University and the industry members of the "
+12,4,3,Calibri,11.0,72.0,222.4,525.9,233.4,semiconductor industry group of Technology Industries of Finland (TIF). The aim is to increase quantum 
+12,4,4,Calibri,11.0,72.0,236.9,525.8,248.0,"RDI, boost internalisation of the sector and attract investments. To support this piloting environment "
+12,4,5,Calibri,11.0,72.0,251.4,525.8,262.5,"and make the most of European partnerships, Finland aims to actively participate in all the European "
+12,4,6,Calibri,11.0,72.0,265.9,525.9,276.9,"quantum pilot line proposals. To catalyse collaboration with other European countries, Finland "
+12,4,7,Calibri,11.0,72.0,280.4,137.9,291.4,participates in 
+12,4,7,Calibri,11.0,137.9,280.4,292.0,291.4,mapping of Nordic-Baltic quantum
+12,4,7,Calibri,11.0,291.9,280.4,516.0,291.4, ecosystem under the Nordic Council of Ministers. 
+12,5,0,Calibri-Bold,11.0,72.0,302.9,184.4,314.0,In April 2025 Finland’s 
+12,5,0,Calibri-Bold,11.0,187.5,302.9,327.5,314.0,quantum technology strategy
+12,5,0,Calibri-Bold,11.0,327.7,302.9,406.9,314.0, was published. 
+12,5,0,Calibri,11.0,409.9,302.9,525.9,314.0,The working group that 
+12,5,1,Calibri,11.0,72.0,317.3,525.9,328.4,coordinated the preparation of the strategy proposes setting up a quantum competence centre and 
+12,5,2,Calibri,11.0,72.0,331.8,525.7,342.9,"ensuring access to world-class quantum computers, while also creating a competitive research "
+12,5,3,Calibri,11.0,72.0,346.4,525.9,357.4,environment and introducing quantum-secure encryption to support Finland’s quantum technology 
+12,5,4,Calibri,11.0,72.0,360.9,525.9,371.9,"sector by 2035. They emphasise the importance of a long-term research, development and innovation "
+12,5,5,Calibri,11.0,72.0,375.3,525.7,386.3,"(RDI) programme, leveraging private funding, influencing EU and international regulations, and "
+12,5,6,Calibri,11.0,72.0,389.8,502.3,400.9,national coordination to foster the growth and development of the Finnish quantum ecosystem. 
+12,6,0,Calibri-Bold,11.0,77.7,412.9,325.8,423.9,2024 recommendation on technological leadership:
+12,6,0,Calibri,11.0,325.9,412.9,520.1,423.9, Secure further sources of funding and 
+12,6,1,Calibri,11.0,77.7,427.3,332.9,438.3,encourage private investment in disruptive technologies. 
+12,7,0,Calibri-Bold,11.0,77.7,445.3,520.2,456.3,Finland made some effort to address the recommendation by introducing new policy actions in 
+12,7,1,Calibri-Bold,11.0,77.7,459.8,102.9,470.8,2024.
+12,7,1,Calibri,11.0,103.0,459.8,520.3,470.8," The country has seized opportunities in semiconductors, quantum and AI (see below), notably "
+12,7,2,Calibri,11.0,77.7,474.3,336.5,485.4,by participating successfully in emerging chips pilot lines.  
+12,8,0,Calibri,11.0,72.0,492.3,74.5,503.4, 
+12,9,0,Calibri-Light,15.0,72.0,515.6,526.8,530.6,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+12,10,0,Calibri-Bold,11.0,72.0,542.6,525.9,553.6,"By prioritising the widespread adoption of basic digital intensity among SMEs, and advances in AI, "
+12,10,1,Calibri-Bold,11.0,72.0,557.0,525.8,568.1,"cloud services, and data analytics, Finnish enterprises can cultivate a highly competitive business "
+12,10,2,Calibri-Bold,11.0,72.0,571.5,332.3,582.6,"landscape, supported by a stable regulatory environment"
+12,10,2,Calibri,11.0,332.4,571.5,525.9,582.6,. While the country has ambitious plans for 
+12,10,3,Calibri,11.0,72.0,586.1,525.9,597.1,"AI adoption by enterprises, a strong collaboration between industry, academia and public entities will "
+12,10,4,Calibri,11.0,72.0,600.6,350.8,611.6,remain essential to make the most of emerging opportunities. 
+12,11,0,Calibri-Light,12.0,72.0,623.3,265.2,635.3,SMEs with at least basic digital intensity 
+12,12,0,Calibri-Bold,11.0,72.0,646.8,525.9,657.8,"In Finland, most SMEs (92.51%) achieved at least a basic level of digital intensity (2030 national "
+12,12,1,Calibri-Bold,11.0,72.0,661.3,406.3,672.3,"target 95%), with an annual growth rate of 1.7% between 2022 and 2024"
+12,12,1,Calibri,11.0,406.4,661.3,525.9,672.3,. This is well above the EU 
+12,12,2,Calibri,11.0,72.0,675.8,525.9,686.9,"average of 72.91%. Furthermore, when looking specifically at more digitalised SMEs, 61.01% had high "
+12,12,3,Calibri,11.0,72.0,690.3,525.8,701.4,"or very high digital intensity, almost double the EU average of 32.66%. As such, Finland maintained its "
+12,12,4,Calibri,11.0,72.0,704.7,289.6,715.8,leadership in the digital transformation of SMEs. 
+12,13,0,Calibri-Bold,11.0,72.0,727.3,525.9,738.4,"Following the 2024 recommendation on its roadmap, Finland raised its target for at least basic digital "
+12,13,1,Calibri-Bold,11.0,72.0,741.8,364.0,752.9,intensity of SMEs from 90% to 95% in the roadmap adjustment.
+12,13,1,Calibri,11.0,364.0,741.8,525.9,752.9, Given the current level and growth 
+12,13,2,Calibri,11.0,72.0,756.2,238.5,767.3,"metrics, this target seems reachable. "
+12,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+13,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,Finland decided to build on achievements of the RRF-funded Real Time Economy project with a 
+13,3,1,Calibri-Bold,11.0,72.0,98.4,267.4,109.5,national budget of EUR 3.3 million in 2025.
+13,3,1,Calibri,11.0,267.4,98.4,525.9,109.5, The Patent and Registration Office will be responsible for 
+13,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,overseeing the network of companies’ digital financial management. It will also coordinate 
+13,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,development work so that digitalisation projects implemented in public administrations and the 
+13,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,private sector can ensure an efficient digital financial management of the network of companies. 
+13,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"Furthermore, a provision on the cooperation group for companies’ digital financial management will "
+13,3,6,Calibri,11.0,72.0,170.9,165.7,181.9,be added to the law. 
+13,4,0,Calibri-Bold,11.0,72.0,193.5,523.5,204.5,The Data Economy Growth Programme outlined in the roadmap was launched in December 2024.
+13,4,0,Calibri,11.0,523.4,193.5,525.9,204.5, 
+13,4,1,Calibri,11.0,72.0,207.9,525.9,218.9,The objective of the programme is to increase the common impact of current actions and funding. To 
+13,4,2,Calibri,11.0,72.0,222.4,525.9,233.4,"that end, it will introduce concrete measures to improve the capabilities of companies. It will also "
+13,4,3,Calibri,11.0,72.0,236.9,525.9,248.0,create opportunities for data-driven value creation e.g. by fostering synergies with other actors’ 
+13,4,4,Calibri,11.0,72.0,251.4,525.9,262.5,"initiatives and projects, and by improving the capacity of companies to utilise data thanks to "
+13,4,5,Calibri,11.0,72.0,265.9,525.9,276.9,cooperation within the Ministry of Economic Affairs and Employment work areas. To support the work 
+13,4,6,Calibri,11.0,72.0,280.4,291.2,291.4,"on data economy opportunities, the government "
+13,4,6,Calibri,11.0,291.1,280.4,332.0,291.4,prepared
+13,4,6,Calibri,11.0,332.0,280.4,342.0,291.4, a 
+13,4,6,Calibri,11.0,341.8,280.4,370.1,291.4,report
+13,4,6,Calibri,11.0,370.1,280.4,525.9,291.4, which examines the opportunities 
+13,4,7,Calibri,11.0,72.0,294.9,525.6,305.9,"and challenges of measuring the size, economic significance, and impact of the data economy in "
+13,4,8,Calibri,11.0,72.0,309.4,525.8,320.5,"Finland. The report found a cost-based approach to be the most suitable, given the availability of "
+13,4,9,Calibri,11.0,72.0,323.8,525.8,334.9,necessary registry data in Finland. It stressed that foreign collaboration on developing comparable 
+13,4,10,Calibri,11.0,72.0,338.3,525.9,349.4,metrics and on data collection is essential to monitor the development of the data economy at 
+13,4,11,Calibri,11.0,72.0,352.8,158.2,363.9,international level. 
+13,5,0,Calibri-Bold,11.0,72.0,375.3,525.9,386.3,"A well-established roadmap measure is the Digital Native mission of Business Finland, which "
+13,5,1,Calibri-Bold,11.0,72.0,389.8,419.4,400.9,provides EUR 265 million in funding to accelerate the digital transformation.
+13,5,1,Calibri,11.0,419.5,389.8,525.9,400.9, With its Data Economy 
+13,5,2,Calibri,11.0,72.0,404.3,525.9,415.4,"programme (2023-2027), 6G Bridge programme (2022-2026), generative AI campaign and quantum "
+13,5,3,Calibri,11.0,72.0,418.9,525.9,429.9,"computing campaign, Finnish enterprises can increase their competitive advantage. In addition, "
+13,5,4,Calibri,11.0,72.0,433.3,525.9,444.3,"Finland hosts four European Digital Innovation Hubs (Robocoast, HealthHub Finland, Finnish AI Region "
+13,5,5,Calibri,11.0,72.0,447.8,525.8,458.8,"(FAIR) and Location Innovation Hub). Specialising in manufacturing, construction, health, energy, "
+13,5,6,Calibri,11.0,72.0,462.3,525.8,473.4,"maritime, and transport, the hubs cooperate closely together and have produced a common service "
+13,5,7,Calibri,11.0,72.0,476.8,216.1,487.9,"portfolio, among other outputs. "
+13,6,0,Calibri-Light,12.0,72.0,499.5,237.7,511.5,Take-up of cloud/AI/data analytics 
+13,7,0,Calibri-Bold,11.0,72.0,523.0,525.9,534.1,"According to 2024 data, 24.37% of enterprises in Finland adopted AI (2030 national target 75%), "
+13,7,1,Calibri-Bold,11.0,72.0,537.5,391.5,548.6,which is an impressive figure compared to the EU average of 13.48%.
+13,7,1,Calibri,11.0,391.5,537.5,525.8,548.6, This reveals a growth rate of 
+13,7,2,Calibri,11.0,72.0,552.1,525.9,563.1,"61.39% compared to 2023, slightly lower than the EU-level growth rate of 67.2%. More specifically, "
+13,7,3,Calibri,11.0,72.0,566.6,525.8,577.7,"among SMEs, the uptake rate was 22.81%, while the majority (70.4%) of large enterprises used AI. This "
+13,7,4,Calibri,11.0,72.0,581.1,525.8,592.2,"corresponds to a gap of 47.59 percentage points (pp.) between SMEs and large enterprises, which is "
+13,7,5,Calibri,11.0,72.0,595.5,525.8,606.6,considerably higher than the EU average gap of 28.53 pp. The country is lagging behind compared to 
+13,7,6,Calibri,11.0,72.0,610.1,525.8,621.1,"its national trajectory, but its good progress is reflected in the ambitious 2030 target of 75% enterprises "
+13,7,7,Calibri,11.0,72.0,624.6,525.9,635.6,using AI in Finland. The 2025 Eurobarometer shows that 89% of Finnish people think that public 
+13,7,8,Calibri,11.0,72.0,639.1,525.6,650.1,authorities should prioritise shaping the development of AI and other digital technologies to ensure 
+13,7,9,Calibri,11.0,72.0,653.5,329.2,664.5,"that they respect our rights and values, same as last year. "
+13,8,0,Calibri,11.0,72.0,676.1,515.6,687.1,"Adoption of cloud, data analytics, and the three technologies together were not measured in 2024. "
+13,9,0,Calibri-Bold,11.0,72.0,698.5,525.9,709.5,"In 2023, cloud uptake among Finnish enterprises stood at 72.99%, well above the average EU uptake "
+13,9,1,Calibri-Bold,11.0,72.0,713.0,496.3,724.1,of 38.97%. This brings Finland very close to its 2030 target of 75% of enterprises using cloud.
+13,9,1,Calibri,11.0,496.4,713.0,525.9,724.1, More 
+13,9,2,Calibri,11.0,72.0,727.6,525.8,738.6,"specifically, SMEs demonstrated a high uptake rate of 72.27%, but large enterprises saw an even "
+13,9,3,Calibri,11.0,72.0,742.0,525.8,753.0,greater uptake at 94.88%. This indicates a 22.61 pp. difference in uptake between SMEs and large 
+13,9,4,Calibri,11.0,72.0,756.5,393.8,767.5,"enterprises in Finland, which is lower than the EU-level gap of 31.68 pp. "
+13,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+14,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"Approximately 2 out of 5 enterprises in Finland (40.55%) performed data analytics in 2023, well "
+14,3,1,Calibri-Bold,11.0,72.0,98.4,233.4,109.5,above the EU average of 33.25%.
+14,3,1,Calibri,11.0,233.4,98.4,525.8,109.5," Among these, uptake reached 39.07% among SMEs, while a "
+14,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,significantly higher proportion of large enterprises (85.51%) performed data analytics. This resulted in 
+14,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"a gap of 46.44 pp. between SMEs and large enterprises, which exceeded the EU-level gap of 39.72 pp. "
+14,5,0,Calibri,11.0,523.6,292.5,526.1,303.5, 
+14,6,0,Calibri-Bold,11.0,72.0,312.0,525.9,323.1,"Taking the three technologies together (adoption of either AI, cloud, or data analytics), Finland stood "
+14,6,1,Calibri-Bold,11.0,72.0,326.6,330.3,337.6,"at 79.51%, significantly above the EU average of 54.7%."
+14,6,1,Calibri,11.0,330.3,326.6,525.8,337.6, Uptake among SMEs was slightly lower at 
+14,6,2,Calibri,11.0,72.0,341.0,525.8,352.0,"78.9%, while almost all large enterprises (98.03%) used AI technologies, sophisticated or intermediate "
+14,6,3,Calibri,11.0,72.0,355.5,525.6,366.5,"cloud computing services, or data analytics. This indicates a percentage point difference of 19.13 in "
+14,6,4,Calibri,11.0,72.0,370.0,525.9,381.0,"uptake between SMEs and large enterprises in Finland, which is lower than the EU-level gap of 32.97 "
+14,6,5,Calibri,11.0,72.0,384.5,88.8,395.6,pp. 
+14,7,0,Calibri-Bold,11.0,72.0,407.0,525.9,418.0,"In conclusion, Finland’s adoption of cloud computing, data analytics, and AI technologies "
+14,7,1,Calibri-Bold,11.0,72.0,421.5,235.4,432.5,significantly outpaced EU averages.
+14,7,1,Calibri,11.0,235.5,421.5,525.7,432.5," While large enterprises led in adoption rates, particularly in AI "
+14,7,2,Calibri,11.0,72.0,436.0,525.9,447.1,"and data analytics, SMEs also demonstrated notable engagement, particularly in cloud computing and "
+14,7,3,Calibri,11.0,72.0,450.4,138.5,461.5,data analytics. 
+14,8,0,SymbolMT,11.0,89.9,470.8,95.0,484.3,
+14,8,0,ArialMT,11.0,94.9,471.9,98.0,484.2, 
+14,8,1,Calibri-Bold,11.0,107.7,473.6,134.0,484.6,Cloud
+14,8,1,Calibri,11.0,133.9,473.6,136.4,484.6, 
+14,9,0,Calibri-Bold,11.0,72.0,491.0,420.4,502.0,Finland is very close to achieving its 75% cloud adoption target before 2030. 
+14,9,0,Calibri,11.0,420.5,491.0,525.9,502.0,"Given the good results, "
+14,9,1,Calibri,11.0,72.0,505.5,525.9,516.5,no roadmap measures are directly targeted at promoting cloud solutions among enterprises. Cloud’s 
+14,9,2,Calibri,11.0,72.0,520.0,509.4,531.1,symbiotic relationship with the data economy and AI can further reinforce growth in this indicator.
+14,9,2,Calibri-Bold,11.0,509.3,520.0,511.8,531.1, 
+14,10,0,SymbolMT,11.0,90.0,540.3,95.1,553.7,
+14,10,0,ArialMT,11.0,95.1,541.4,98.1,553.7, 
+14,10,1,Calibri-Bold,11.0,108.0,543.1,173.5,554.1,Data Analytics
+14,10,1,Calibri,11.0,173.4,543.1,175.9,554.1, 
+14,11,0,Calibri-Bold,11.0,72.0,560.6,508.7,571.7,"Finland retains a 75% target of enterprises using data analytics, in line with the EU target. "
+14,11,0,Calibri,11.0,510.6,560.6,525.9,571.7,No 
+14,11,1,Calibri,11.0,72.0,575.1,525.9,586.2,roadmap measures are directly targeted at promoting data analytics solutions among enterprises. 
+14,11,2,Calibri,11.0,72.0,589.5,525.6,600.6,"However, as data analytics provides the tools and methodologies necessary to harness the power of "
+14,11,3,Calibri,11.0,72.0,604.1,525.9,615.1,"data, it will be indispensable for the development, implementation, and refinement of AI systems, "
+14,11,4,Calibri,11.0,72.0,618.6,525.8,629.6,"actions which are at heart of Finland’s digital agenda. In addition, Finnish stakeholders are also very "
+14,11,5,Calibri,11.0,72.0,633.1,321.0,644.1,"active in the field of data spaces, notably through the "
+14,11,5,Calibri,11.0,322.0,633.1,415.4,644.1,Data Spaces Alliance
+14,11,5,Calibri,11.0,415.5,633.1,525.9,644.1, gathering enablers and 
+14,11,6,Calibri,11.0,72.0,647.6,214.1,658.7,builders of various data spaces. 
+14,12,0,SymbolMT,11.0,89.9,667.8,95.0,681.3,
+14,12,0,ArialMT,11.0,94.9,668.9,98.0,681.3, 
+14,12,1,Calibri-Bold,11.0,107.7,670.7,201.9,681.7,Artificial Intelligence
+14,12,1,Calibri,11.0,201.8,670.7,204.3,681.7, 
+14,13,0,Calibri-Bold,11.0,72.0,688.2,525.8,699.2,Finland is at the forefront of AI efforts in the EU and is working towards its 75% target of AI adoption 
+14,13,1,Calibri-Bold,11.0,72.0,702.6,525.9,713.6,"by 2030. Among significant developments in this area in 2024, the country was selected to host one "
+14,13,2,Calibri-Bold,11.0,72.0,717.1,209.5,728.1,of the European AI Factories. 
+14,13,2,Calibri,11.0,210.3,717.1,525.9,728.1,LUMI AI is an investment of EUR 614 million (with EUR 306 million in 
+14,13,3,Calibri,11.0,72.0,731.6,525.9,742.7,"funding from the EU, national funding of EUR 250 million and the remaining sum covered by other "
+14,13,4,Calibri,11.0,72.0,746.2,525.9,757.2,"hosting consortium members, namely Czechia, Denmark, Estonia, Norway and Poland). LUMI-AI "
+14,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+15,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,Factory services began in April 2025 based on the current LUMI EuroHPC supercomputer in Kajaani. 
+15,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"LUMI’s successor, a new LUMI+ AI optimised supercomputer will start operating later in 2025. The main "
+15,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"target areas of the Finnish AI Factory are manufacturing industries, health and life sciences, "
+15,3,3,Calibri,11.0,72.0,127.5,410.2,138.5,"communication technologies and networks, digital twins and AI for science. "
+15,4,0,Calibri-Bold,11.0,72.0,149.9,424.2,160.9,The country can rely on solid partnerships to boost RDI activities based on AI. 
+15,4,0,Calibri,11.0,424.1,149.9,440.6,160.9,The
+15,4,0,Calibri-Bold,11.0,440.6,149.9,525.9,160.9, Finnish Centre for 
+15,4,1,Calibri-Bold,11.0,72.0,164.4,200.7,175.5,Artificial Intelligence (FCAI) 
+15,4,1,Calibri,11.0,202.1,164.4,525.9,175.5,is a Finnish RDI Flagship which unites top experts from academia and 
+15,4,2,Calibri,11.0,72.0,178.9,525.9,190.0,"industry to solve real-life problems using both existing and novel AI. It was initiated by Aalto University, "
+15,4,3,Calibri,11.0,72.0,193.5,398.4,204.5,"the University of Helsinki, and VTT Technical Research Centre of Finland.  "
+15,5,0,Calibri-Bold,11.0,72.0,215.9,525.6,226.9,"In addition, the European Laboratory for Learning and Intelligent Systems (ELLIS Institute) was "
+15,5,1,Calibri-Bold,11.0,72.0,230.4,259.2,241.5,established in Finland in December 2024
+15,5,1,Calibri,11.0,259.2,230.4,525.9,241.5," to promote top AI research, large-scale R&D collaboration "
+15,5,2,Calibri,11.0,72.0,245.0,254.2,256.0,and ethical AI development. The existing
+15,5,2,Calibri-Bold,11.0,254.2,245.0,343.5,256.0, ELLIS Unit Helsinki 
+15,5,2,Calibri,11.0,343.9,245.0,525.8,256.0,hosted by FCAI is projected to grow into 
+15,5,3,Calibri,11.0,72.0,259.4,79.8,270.4,a 
+15,5,3,Calibri-Bold,11.0,80.5,259.4,207.5,270.4,world-class AI research hub
+15,5,3,Calibri,11.0,207.5,259.4,525.9,270.4, that will bring AI expertise into use for different fields. An innovation 
+15,5,4,Calibri,11.0,72.0,273.9,525.6,284.9,"ecosystem will develop around the ELLIS Institute, attracting talent, companies and investments to "
+15,5,5,Calibri,11.0,72.0,288.4,525.7,299.5,"Finland. The ELLIS Institute Finland initiative has gathered support from over 20 top companies, the "
+15,5,6,Calibri,11.0,72.0,302.9,525.9,314.0,"Technology Industries of Finland, the Confederation of Finnish Industries, and all the current Research "
+15,5,7,Calibri,11.0,72.0,317.3,525.8,328.4,Council of Finland Flagship projects. A direct link between the LUMI AI and ELLIS provided by FCAI will 
+15,5,8,Calibri,11.0,72.0,331.8,256.0,342.9,facilitate their collaboration and synergy. 
+15,6,0,Calibri-Bold,11.0,72.0,354.4,452.2,365.4,Technology Industries of Finland will act as business interface of the AI Factory.
+15,6,0,Calibri,11.0,452.4,354.4,475.7,365.4, The 
+15,6,0,Calibri,11.0,477.6,354.4,525.9,365.4,AI Finland 
+15,6,1,Calibri,11.0,72.0,368.8,109.4,379.9,network
+15,6,1,Calibri,11.0,109.3,368.8,525.9,379.9, brings together Finnish companies and other entities interested in AI. Nearly 400 companies 
+15,6,2,Calibri,11.0,72.0,383.3,525.8,394.4,"have already registered to join the network, which was set up in March 2024. The network’s goal is to "
+15,6,3,Calibri,11.0,72.0,397.9,307.6,408.9,increase adoption and development of AI in Finland. 
+15,7,0,Calibri-Bold,11.0,77.7,420.8,217.5,431.8,2024 recommendation on AI:
+15,7,0,Calibri,11.0,217.5,420.8,520.3,431.8, Encourage enterprises to apply existing advanced technological 
+15,7,1,Calibri,11.0,77.7,435.3,474.9,446.4,"solutions, such as AI or quantum testing possibilities and innovate further in these areas. "
+15,8,0,Calibri-Bold,11.0,77.7,458.3,517.5,469.4,Finland made some effort to address the recommendation through new policy actions in 2024.
+15,8,0,Calibri,11.0,517.8,458.3,520.3,469.4, 
+15,8,1,Calibri,11.0,77.7,472.7,520.1,483.8,The LUMI AI Factory aims to unite key stakeholders to increase collaboration opportunities and 
+15,8,2,Calibri,11.0,77.7,487.3,520.2,498.3,support their HPC and AI projects. LUMI-AI has strong synergies with other recent national 
+15,8,3,Calibri,11.0,77.7,501.8,520.2,512.8,"investments in AI, e.g. FCAI Flagship, ELLIS Institute and pilots for doctoral training, which strengthen "
+15,8,4,Calibri,11.0,77.7,516.3,520.0,527.3,scientific research and higher education in Finnish universities. Through planned inclusion of 
+15,8,5,Calibri,11.0,77.7,530.8,520.2,541.9,"businesses to LUMI AI possibilities, the private sector will be encouraged to make use of AI and other "
+15,8,6,Calibri,11.0,77.7,545.2,185.1,556.3,advanced technologies. 
+15,9,0,Calibri,11.0,72.0,568.3,74.5,579.3, 
+15,10,0,Calibri-Light,12.0,72.0,591.0,233.6,603.0,"Unicorns, scale-ups and start-ups "
+15,11,0,Calibri-Bold,11.0,72.0,614.6,525.9,625.7,"Finland offers good conditions and overall environment for start-ups, but the available later stage "
+15,11,1,Calibri-Bold,11.0,72.0,629.0,367.0,640.1,financing falls short when it comes to scaling up on a global level. 
+15,11,1,Calibri,11.0,366.5,629.0,525.9,640.1,"In 2024, Finland was home to seven "
+15,11,2,Calibri,11.0,72.0,643.5,525.9,654.6,unicorns - the same as in the previous year - with some companies having the potential to become 
+15,11,3,Calibri,11.0,72.0,658.1,525.9,669.1,unicorns. The country decided not to set a national target for the number of unicorns and stressed 
+15,11,4,Calibri,11.0,72.0,672.6,424.6,683.6,that it is important for the EU to be an attractive and competitive environment.
+15,11,4,Calibri-Bold,11.0,424.7,672.6,427.2,683.6, 
+15,12,0,Calibri-Bold,11.0,72.0,695.0,482.4,706.1,"To support growth-oriented SMEs, the Growth Entrepreneurship Programme was launched"
+15,12,0,Calibri,11.0,482.4,695.0,525.9,706.1,. The first 
+15,12,1,Calibri,11.0,72.0,709.5,525.8,720.6,part of the programme proposes measures to be undertaken by the Ministry of Economic Affairs and 
+15,12,2,Calibri,11.0,72.0,724.1,525.9,735.1,"Employment’s administrative branch - Business Finland, Finnvera, ELY Centres, Tesi, and VTT - to "
+15,12,3,Calibri,11.0,72.0,738.5,525.8,749.5,accelerate growth entrepreneurship. The second part proposes measures to improve the operating 
+15,12,4,Calibri,11.0,72.0,753.0,525.7,764.0,environment of growth companies to make it more conducive to growth and renewal. The Ministry of 
+15,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+16,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,Economic Affairs and Employment is in the process of preparing the programme. The ultimate 
+16,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,objective is to commit to measures that will double the number of growth-oriented medium sized 
+16,2,2,Calibri,11.0,72.0,112.9,252.9,124.0,entrepreneur-led companies (known as ‘
+16,2,2,Calibri-Italic,11.0,252.8,112.9,304.0,124.0,Mittelstand
+16,2,2,Calibri,11.0,304.0,112.9,353.3,124.0,’) by 2030. 
+16,4,0,Calibri-Light,15.0,72.0,136.4,322.7,151.4,Strengthening Cybersecurity & Resilience 
+16,5,0,Calibri-Bold,11.0,72.0,163.2,525.7,174.3,"In Finland, most individuals (92.35%) of individuals took steps to protect their personal data online, "
+16,5,1,Calibri-Bold,11.0,72.0,177.7,253.5,188.8,far exceeding the EU average of 69.55%.
+16,5,1,Calibri,11.0,253.6,177.7,525.9,188.8," Moreover, 75.3% of the Finnish population carried out three "
+16,5,2,Calibri,11.0,72.0,192.1,525.9,203.2,or more activities to protect their personal data online (see the graph below) and can therefore be 
+16,5,3,Calibri,11.0,72.0,206.7,525.7,217.7,considered as having above basic digital safety skills. Refusing the use of personal data for advertising 
+16,5,4,Calibri,11.0,72.0,221.2,525.9,232.2,"purposes was the most common measure (74.99%), while the least frequent was reading privacy policy "
+16,5,5,Calibri,11.0,72.0,235.7,169.3,246.8,statements (46.03%). 
+16,7,0,Calibri,11.0,523.6,453.3,526.1,464.4, 
+16,8,0,Calibri-Bold,11.0,72.0,472.7,525.9,483.8,Finnish enterprises tend to experience significantly more incidents related to cyberattacks than their 
+16,8,1,Calibri-Bold,11.0,72.0,487.3,525.9,498.3,"EU counterparts. However, they are also better prepared to confront them, as employees are more "
+16,8,2,Calibri-Bold,11.0,72.0,501.8,383.2,512.8,aware of their ICT security related obligations compared to the EU
+16,8,2,Calibri,11.0,383.4,501.8,525.9,512.8,. The number of enterprises in 
+16,8,3,Calibri,11.0,72.0,516.2,525.8,527.2,Finland that experienced ICT security incidents leading to the unavailability of ICT services due to 
+16,8,4,Calibri,11.0,72.0,530.7,525.9,541.8,"attacks from outside (e.g. ransomware attacks and denial of service attacks) increased significantly, "
+16,8,5,Calibri,11.0,72.0,545.2,525.9,556.3,"from 4.92% in 2022 to 7.21% in 2024. It is the second highest in the EU after Latvia (8.02%), well above "
+16,8,6,Calibri,11.0,72.0,559.8,525.9,570.8,the EU average (3.43%). Finnish enterprises are also much more prone to incidents related to hardware 
+16,8,7,Calibri,11.0,72.0,574.2,525.9,585.2,"or software failures (37.40%) than their EU peers (17.97%). In terms of measures, almost all (98.74%) "
+16,8,8,Calibri,11.0,72.0,588.7,525.9,599.7,enterprises deployed some ICT security measures (against the EU average of 92.76%) and three 
+16,8,9,Calibri,11.0,72.0,603.2,525.9,614.3,"quarters (74.81%) made their employees aware of their obligations on ICT security related issues, "
+16,8,10,Calibri,11.0,72.0,617.7,271.6,628.8,significantly above the EU average (59.97%). 
+16,9,0,Calibri-Bold,11.0,72.0,640.2,525.9,651.2,"Finland leads the EU in the roll-out of Domain Name System Security Extensions (DNSSEC), an "
+16,9,1,Calibri-Bold,11.0,72.0,654.7,453.9,665.7,important standard to be rolled out as it introduces security features to the DNS.
+16,9,1,Calibri,11.0,453.9,654.7,525.9,665.7," In Finland, the "
+16,9,2,Calibri,11.0,72.0,669.2,525.6,680.3,DNSSEC validation rate (i.e. verification of the authenticity of responses sent by name servers to 
+16,9,3,Calibri,11.0,72.0,683.6,525.9,694.7,"clients, using a digital signature technology) is 97% (data from Q3-2024), more than double the EU "
+16,9,4,Calibri,11.0,72.0,698.1,138.6,709.2,average (47%).
+16,9,4,Calibri-Bold,11.0,138.6,698.1,141.1,709.2, 
+16,9,4,Calibri,11.0,141.9,698.1,282.5,709.2,Concerning the deployment of 
+16,9,4,Calibri,11.0,283.3,698.1,398.6,709.2,secure internet standards
+16,9,4,Calibri,11.0,398.6,698.1,525.9,709.2,", Finland hovers around the "
+16,9,5,Calibri,11.0,72.0,712.7,525.9,723.7,EU average in the roll-out of the secure Internet Protocol version 6 (IPv6) for end users (35% vs an EU 
+16,9,6,Calibri,11.0,72.0,727.2,525.9,738.2,"average of 36%) and is below the EU average on the server side (13% vs 17%, according to data from "
+16,9,7,Calibri,11.0,72.0,741.6,525.6,752.6,"Q3-2024). IPv6 is an important protocol as it ensures the scalability, stability, and security of the "
+16,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+17,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"Internet. The deployment of this new version is increasingly urgent, as traditional IPv4 addresses have "
+17,2,1,Calibri,11.0,72.0,98.4,166.3,109.5,long been depleted.  
+17,4,0,Calibri-Bold,11.0,72.0,121.0,525.9,132.0,"To respond to technological and geopolitical challenges, in October 2024 Finland adopted a new "
+17,4,1,Calibri-Bold,11.0,72.0,135.5,242.7,146.5,cybersecurity strategy for 2024-2035
+17,4,1,Calibri-Bold,11.0,242.7,135.5,342.8,146.5,", accompanied by an "
+17,4,1,Calibri-Bold,11.0,344.4,135.5,441.5,146.5,implementation plan
+17,4,1,Calibri-Bold,11.0,441.5,135.5,444.4,146.5,.
+17,4,1,Calibri,11.0,444.5,135.5,525.9,146.5, The strategy the 
+17,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,refers to NIS2 Directive requirements and takes into account other key strategies and reports. It 
+17,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,underlines the need for a whole-of-society approach to cybersecurity and the importance of 
+17,4,4,Calibri,11.0,72.0,178.9,525.8,190.0,"maintaining trust in digital services, while also stressing its role as a vital component in the Finnish "
+17,4,5,Calibri,11.0,72.0,193.5,525.8,204.5,"model of comprehensive security. Built on four pillars: (i) competence, technology and development "
+17,4,6,Calibri,11.0,72.0,207.9,525.9,218.9,"and innovation activities; (ii) preparedness; (iii) cooperation; and (iv) response and countermeasures, "
+17,4,7,Calibri,11.0,72.0,222.4,400.3,233.4,it provides a comprehensive outlook on Finland’s cybersecurity priorities. 
+17,5,0,Calibri-Bold,11.0,72.0,245.0,525.9,256.0,"Although Finland does not include cybersecurity measures in its roadmap adjustment, it continues "
+17,5,1,Calibri-Bold,11.0,72.0,259.4,298.9,270.4,to boost the cybersecurity skills of its population. 
+17,5,1,Calibri,11.0,299.1,259.4,525.9,270.4,One of the priorities of the implementation plan is 
+17,5,2,Calibri,11.0,72.0,273.9,525.9,284.9,ensuring application and funding of the outcomes of the Cyber Citizen project. This RRF-funded project 
+17,5,3,Calibri,11.0,72.0,288.4,525.8,299.5,focused on developing an EU-wide unified learning model to teach basic cybersecurity skills through 
+17,5,4,Calibri,11.0,72.0,302.9,433.5,314.0,"research, online education, and gamification. A noteworthy and tangible result is "
+17,5,4,Calibri,11.0,433.4,302.9,513.1,314.0,Cyber City Tycoon
+17,5,4,Calibri,11.0,513.1,302.9,525.9,314.0,", a "
+17,5,5,Calibri,11.0,72.0,317.3,525.9,328.4,game designed to help players (children and adults) identify cyber threats. It is available in all EU 
+17,5,6,Calibri,11.0,72.0,331.8,474.2,342.9,languages and downloadable from app stores. Another resource from the project is 
+17,5,6,Calibri,11.0,476.7,331.8,510.7,342.9,SecPort
+17,5,6,Calibri,11.0,510.7,331.8,525.9,342.9,", a "
+17,5,7,Calibri,11.0,72.0,346.4,525.9,357.4,comprehensive platform to help users master key cybersecurity skills. It serves as a hub for learning 
+17,5,8,Calibri,11.0,72.0,360.9,525.9,371.9,"resources such as courses, articles, videos and games, and covers various cybersecurity topics including "
+17,5,9,Calibri,11.0,72.0,375.3,525.9,386.3,"threat detection, risk management, and safe online practices. The portal’s AI-driven personalisation "
+17,5,10,Calibri,11.0,72.0,389.8,525.6,400.9,enhances user experience by providing tailored content that matches individual learning needs and 
+17,5,11,Calibri,11.0,72.0,404.3,517.7,415.4,"preferences. SecPort is also available in all EU languages, ensuring accessibility to a broad audience. "
+17,6,0,Calibri,11.0,72.0,441.1,74.5,452.1, 
+17,6,1,Calibri-Bold,26.0,216.1,429.8,221.9,455.9, 
+17,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+18,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Protecting and empowering EU people 
+18,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+18,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+18,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+18,5,0,Calibri-Bold,11.0,72.0,208.0,525.8,219.0,"In Finland, digital skills are notably high thanks to inclusive growth and education systems that "
+18,5,1,Calibri-Bold,11.0,72.0,222.5,250.1,233.5,enhance skills across demographics.
+18,5,1,Calibri,11.0,250.1,222.5,525.7,233.5, AI literacy and digital public services have also seen 
+18,5,2,Calibri,11.0,72.0,237.0,525.7,248.1,"improvements, with initiatives like the New Literacies Development Programme contributing to "
+18,5,3,Calibri,11.0,72.0,251.4,525.9,262.5,"enhanced media literacy and ICT skills. Finland is involved in measures to train ICT specialists and, to a "
+18,5,4,Calibri,11.0,72.0,266.0,525.8,277.0,"lesser extent, to attract them and tackle a gender gap in this field. The country is a leader in digital "
+18,5,5,Calibri,11.0,72.0,280.5,525.9,291.5,"public services and cross-border services, but at the same time, digital health could benefit from even "
+18,5,6,Calibri,11.0,72.0,295.0,176.3,306.0,further improvements. 
+18,6,0,Calibri-Light,12.0,72.0,317.7,182.3,329.7,Equipping people with 
+18,6,0,Calibri,12.0,182.4,317.7,240.7,329.7,digital skills 
+18,7,0,Calibri-LightItalic,11.0,72.0,341.3,152.0,352.4,Basic Digital Skills 
+18,8,0,Calibri-Bold,11.0,72.0,363.8,525.9,374.8,"Finland’s population has excellent digital skills, with evidence of inclusive growth across multiple "
+18,8,1,Calibri-Bold,11.0,72.0,378.3,124.4,389.3,dimensions
+18,8,1,Calibri,11.0,124.5,378.3,173.6,389.3,. According
+18,8,1,Calibri-Bold,11.0,173.6,378.3,176.1,389.3, 
+18,8,1,Calibri,11.0,175.6,378.3,525.9,389.3,"to data from 2023, 81.99% of its population has at least basic digital skills (2030 "
+18,8,2,Calibri,11.0,72.0,392.7,525.8,403.7,"national target 87%), well above the EU average of 55.56%. While there is no new data for 2024, a "
+18,8,3,Calibri,11.0,72.0,407.2,338.7,418.3,breakdown by demographic factors provides some insights. 
+18,10,0,SymbolMT,11.0,90.0,427.6,95.1,441.1,
+18,10,0,ArialMT,11.0,95.1,428.7,98.1,441.0, 
+18,10,1,Calibri-Bold,11.0,108.0,430.4,166.2,441.4,Gender Gap:
+18,10,1,Calibri,11.0,166.2,430.4,525.9,441.4," Interestingly, Finland's gender gap is in favour of women, with 80.94% of men "
+18,10,2,Calibri,11.0,108.0,444.8,525.9,455.8,"and 83.05% of women possessing at least basic digital skills, leading to a 2.11pp gap. This is to "
+18,10,3,Calibri,11.0,108.0,459.3,405.4,470.4,be compared with the EU average gap of 2.23pp in favour of men. 
+18,10,4,SymbolMT,11.0,90.0,471.6,95.1,485.1,•
+18,10,4,ArialMT,11.0,95.1,472.7,98.1,485.0, 
+18,10,5,Calibri-Bold,11.0,108.0,474.4,182.9,485.5,Education Level:
+18,10,5,Calibri,11.0,182.9,474.4,525.9,485.5, High levels of formal education correlate with digital proficiency; 92.26% of 
+18,10,6,Calibri,11.0,108.0,487.7,525.8,498.8,"Finns with high formal education have at least basic digital skills, which is greater than the EU "
+18,10,7,Calibri,11.0,108.0,501.2,525.6,512.2,"average of 79.83%. The least digitally skilled are individuals with no or low formal education, "
+18,10,8,Calibri,11.0,108.0,514.6,525.9,525.7,"at 78.36%, which is the highest number for this group across the EU. Therefore, the gap from "
+18,10,9,Calibri,11.0,108.0,528.1,525.9,539.1,"national average is only 3.63 pp., which is minimal compared to the average EU gap of 21.95 "
+18,10,10,Calibri,11.0,108.0,541.5,124.8,552.5,pp. 
+18,10,11,SymbolMT,11.0,90.0,552.7,95.1,566.2,•
+18,10,11,ArialMT,11.0,95.1,553.8,98.1,566.1, 
+18,10,12,Calibri-Bold,11.0,108.0,555.5,166.2,566.6,Living Areas:
+18,10,12,Calibri,11.0,166.2,555.5,525.9,566.6," In rural areas, 74.02% of residents have basic digital skills, which is significantly "
+18,10,13,Calibri,11.0,108.0,569.0,525.7,580.1,higher than the EU average for rural areas (47.50%). The discrepancy between rural and 
+18,10,14,Calibri,11.0,108.0,582.5,351.3,593.5,"national averages in Finland is 7.97 pp., close to the EU "
+18,10,15,Calibri,11.0,108.0,595.9,215.2,606.9,average gap of 8.06 pp. 
+18,10,16,SymbolMT,11.0,90.0,607.0,95.1,620.5,•
+18,10,16,ArialMT,11.0,95.1,608.1,98.1,620.4, 
+18,10,17,Calibri-Bold,11.0,108.0,609.8,164.1,620.9,Age Groups:
+18,10,17,Calibri,11.0,164.1,609.8,351.3,620.9, The 35-44 age group leads in digital skills 
+18,10,18,Calibri,11.0,108.0,623.3,351.3,634.3,"with a proficiency rate of 94.05%, outperforming the "
+18,10,19,Calibri,11.0,108.0,636.7,351.2,647.7,"EU average of 65.26%. 65-74-year-olds, while being "
+18,10,20,Calibri,11.0,108.0,650.1,351.2,661.2,"the least skilled age group in Finland, still have a "
+18,10,21,Calibri,11.0,108.0,663.6,351.3,674.6,"noteworthy proficiency rate of 50.24%, which is "
+18,10,22,Calibri,11.0,108.0,677.0,317.2,688.1,considerably above the EU average of 28.19%. 
+18,10,23,SymbolMT,11.0,90.0,688.2,95.1,701.7,•
+18,10,23,ArialMT,11.0,95.1,689.3,98.1,701.7, 
+18,10,24,Calibri-Bold,11.0,108.0,691.1,256.1,702.1,Digital Skills Index components:
+18,10,24,Calibri,11.0,256.2,691.1,351.3,702.1, Finland excels in all 
+18,10,25,Calibri,11.0,108.0,704.4,351.1,715.4,"five areas of the Digital Skills Index, surpassing the EU "
+18,10,26,Calibri,11.0,108.0,717.8,351.1,728.9,average across the board. Its highest score is in 
+18,10,27,Calibri,11.0,108.0,731.3,351.1,742.3,"communication and collaboration skills at 96.63%, "
+18,10,28,Calibri,11.0,108.0,744.7,351.1,755.8,way above the EU average of 89.33%. The lowest 
+18,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+19,2,0,Calibri,11.0,108.0,84.0,525.7,95.1,"score, yet still high, is for digital content creation skills at 84.60%, well above the EU average "
+19,2,1,Calibri,11.0,108.0,97.5,157.9,108.5,of 68.28%. 
+19,4,0,Calibri-Bold,11.0,72.0,124.8,525.9,135.9,"Overall, Finland demonstrates robust digital proficiency levels throughout its population and is well "
+19,4,1,Calibri-Bold,11.0,72.0,139.3,528.3,150.4,"on track to achieve its 87% target for basic digital skills, an ambition higher than the EU’s target of  "
+19,4,2,Calibri-Bold,11.0,72.0,153.9,136.7,164.9,80% by 2030. 
+19,4,2,Calibri,11.0,137.5,153.9,525.9,164.9,The nation’s strengths in digital skills are evident and are almost independent of the 
+19,4,3,Calibri,11.0,72.0,168.3,525.9,179.3,"differences in levels of education. While discrepancies between age groups and living areas exist, they "
+19,4,4,Calibri,11.0,72.0,182.8,525.9,193.8,remain moderate compared with the corresponding EU averages. This can be explained by digital 
+19,4,5,Calibri,11.0,72.0,197.3,525.9,208.3,"education beginning in early childhood, but also by a positive approach towards lifelong learning, as "
+19,4,6,Calibri,11.0,72.0,211.8,150.4,222.9,suggested by the 
+19,4,6,Calibri,11.0,150.4,211.8,395.6,222.9,overall high literacy and numeracy of adult population.
+19,4,6,Calibri,11.0,395.6,211.8,398.1,222.9, 
+19,5,0,Calibri-Bold,11.0,77.7,234.8,284.5,245.8,2024 recommendation on basic digital skills: 
+19,5,0,Calibri,11.0,285.2,234.8,520.2,245.8,Continue empowering literacy of its population and 
+19,5,1,Calibri,11.0,77.7,249.3,325.6,260.3,developing competences in areas such as cybersecurity.
+19,5,1,Calibri,11.0,325.6,249.3,328.1,260.3, 
+19,6,0,Calibri-Bold,11.0,77.7,267.3,410.0,278.3,In 2024 Finland continued to strengthen the literacy of its population. 
+19,6,0,Calibri,11.0,411.5,267.3,520.3,278.3,For children and young 
+19,6,1,Calibri,11.0,77.7,280.7,520.1,291.8,"people, the New Literacies Development Programme 2020-2023 strengthened media literacy, ICT "
+19,6,2,Calibri,11.0,77.7,294.2,520.3,305.2,"and programming skills through competence description, curricula and local pilot projects. "
+19,6,3,Calibri,11.0,77.7,307.6,520.3,318.6,Educators continue to use the guidelines and materials developed as part of this programme. In 
+19,6,4,Calibri,11.0,77.7,320.9,520.3,332.0,"addition, the Ministry of Education and Culture is preparing AI recommendations for early childhood "
+19,6,5,Calibri,11.0,77.7,334.4,520.2,345.4,"education and care, and primary and secondary education, which will contribute to the "
+19,6,6,Calibri,11.0,77.7,347.8,199.8,358.9,development of AI literacy. 
+19,6,7,Calibri,11.0,77.7,364.2,520.3,375.3,"Concerning adults, as a part of AI coordination, possible measures will be identified and mapped "
+19,6,8,Calibri,11.0,77.7,377.7,520.2,388.7,out to develop educational offering for different target groups. Finland plans to create a knowledge 
+19,6,9,Calibri,11.0,77.7,391.1,520.3,402.2,base for assessing media literacy as part of an ongoing joint Nordic project (Nordic MIL Index). 
+19,6,10,Calibri,11.0,77.7,404.6,520.2,415.6,"Finland will be focusing on adult population in its part of the project, with the first results available "
+19,6,11,Calibri,11.0,77.7,418.0,520.3,429.1,by summer 2025. Projects such as Cyber Citizen (see above) contribute to enhancing the 
+19,6,12,Calibri,11.0,77.7,431.5,278.2,442.5,cybersecurity skills of the Finnish population.
+19,6,12,Calibri-Bold,11.0,278.2,431.5,280.7,442.5, 
+19,7,0,Calibri-Bold,11.0,72.0,448.4,74.5,459.4, 
+19,8,0,Calibri-LightItalic,11.0,72.0,470.8,135.2,481.9,ICT specialists 
+19,9,0,Calibri-Bold,11.0,72.0,493.4,525.9,504.4,"In 2024, 7.8% of total employment in Finland was in ICT (2030 national target 10%), after a "
+19,9,1,Calibri-Bold,11.0,72.0,507.8,525.7,518.8,"progression of 2.6%, outpacing the EU’s 5.0%. The country is on track according to its national "
+19,9,2,Calibri-Bold,11.0,72.0,522.3,119.9,533.3,trajectory.
+19,9,2,Calibri,11.0,120.0,522.3,525.9,533.3," On gender distribution among ICT specialists, Finland shows a higher percentage of female "
+19,9,3,Calibri,11.0,72.0,536.8,525.9,547.9,"ICT specialists compared to the EU average. In 2024, 22.4% of ICT specialists in Finland were female "
+19,9,4,Calibri,11.0,72.0,551.3,525.9,562.4,"(from 22.2% in 2023), compared to the EU average of 19.5%. The growth rate for female ICT specialists "
+19,9,5,Calibri,11.0,72.0,565.8,525.7,576.8,"in Finland was 0.9%, higher than the EU’s 0.5%. This indicates that Finland is making progress in "
+19,9,6,Calibri,11.0,72.0,580.3,484.9,591.3,"increasing the representation of women in the ICT sector, outperforming the EU in this area. "
+19,10,0,Calibri-Bold,11.0,72.0,602.9,525.6,613.9,"While Finland has a higher proportion of enterprises offering ICT training, the rate of decline in this "
+19,10,1,Calibri-Bold,11.0,72.0,617.3,264.1,628.3,area was more pronounced than in the EU.
+19,10,1,Calibri,11.0,264.0,617.3,525.8,628.3," In 2022, 39.83% of enterprises with 10 or more employees "
+19,10,2,Calibri,11.0,72.0,631.8,525.9,642.8,"in Finland provided ICT training, significantly higher than the EU average of 22.37%. However, by 2024, "
+19,10,3,Calibri,11.0,72.0,646.3,525.8,657.3,"this figure had decreased to 38.33%, still above the EU’s 22.29%. The annual growth rate for "
+19,10,4,Calibri,11.0,72.0,660.8,519.8,671.9,"enterprises providing ICT training in Finland was -1.9%, which is lower than the EU average of -0.2%. "
+19,11,0,Calibri-Bold,11.0,72.0,683.3,269.8,694.3,In terms of demand from the labour market
+19,11,0,Calibri,11.0,269.7,683.3,525.9,694.3,", Eurostat’s experimental statistics based on web scraping "
+19,11,1,Calibri,11.0,72.0,697.8,525.6,708.8,show that in Finland the profiles of ‘software and applications developers and analysts’ are the most 
+19,11,2,Calibri,11.0,72.0,712.3,525.9,723.3,"sought after, accounting for 63.4% of online job advertisements for ICT specialists (EU average: 58.0%). "
+19,11,3,Calibri,11.0,72.0,726.7,525.9,737.8,Three other types of profiles are more wanted in Finland than in the EU in average: ‘database and 
+19,11,4,Calibri,11.0,72.0,741.2,525.9,752.3,"network professionals’ (13.7% of online job advertisements for ICT specialists), ‘other information and "
+19,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+20,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,communications technology specialists’ (10.4%) and ‘information and communications technology 
+20,2,1,Calibri,11.0,72.0,98.4,188.4,109.5,service managers’ (4.6%). 
+20,4,0,Calibri-Bold,11.0,72.0,121.0,302.6,132.0,Finland retained its 10% target for ICT specialists. 
+20,4,0,Calibri,11.0,303.3,121.0,525.9,132.0,"However, it did not introduce any new measures "
+20,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"related to ICT specialists in its roadmap adjustment, putting the target in danger. Looking at specialised "
+20,4,2,Calibri,11.0,72.0,149.9,523.6,160.9,"skills, the initiative of Technology Industries of Finland to fund thesis scholarships in AI and post-"
+20,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,doctoral research would boost the number of ICT students and professionals. Finland continues to 
+20,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,"have difficulties in retaining foreign students (ca. 12%), including in the ICT sector. As reported last "
+20,4,5,Calibri,11.0,72.0,193.5,525.9,204.5,"year, Finland is discussing incentives for international students to stay in Finland to work after "
+20,4,6,Calibri,11.0,72.0,207.9,525.9,218.9,"graduation, for example by waiving tuition fees. However, a major practical obstacle to retaining "
+20,4,7,Calibri,11.0,72.0,222.4,525.8,233.4,foreign students is limited supply of training and employment opportunities that do not require Finnish 
+20,4,8,Calibri,11.0,72.0,236.9,525.9,248.0,"or Swedish language skills. For this, cooperation with the private sector is primordial. It is important to "
+20,4,9,Calibri,11.0,72.0,251.4,525.9,262.5,note that Finland has a lower share of population (between 25–34-year-olds) with tertiary education 
+20,4,10,Calibri,11.0,72.0,265.9,216.7,276.9,compared to the OECD average. 
+20,5,0,Calibri-Bold,11.0,77.7,288.9,267.9,299.9,2024 recommendation on ICT specialists: 
+20,5,0,Calibri,11.0,268.4,288.9,520.1,299.9,Intensify efforts in attracting ICT specialists and offering 
+20,5,1,Calibri,11.0,77.7,303.4,385.1,314.5,tailored training paths as well as address the gender gap in this field. 
+20,6,0,Calibri-Bold,11.0,77.7,321.4,480.6,332.5,Finland continued to implement existing measures but did not introduce any new ones. 
+20,6,0,Calibri,11.0,480.8,321.4,520.3,332.5,"Notably, "
+20,6,1,Calibri,11.0,77.7,335.8,520.3,346.9,the country’s STEM strategy includes promoting gender-inclusive development in those fields. In 
+20,6,2,Calibri,11.0,77.7,350.3,520.3,361.4,"addition, the government has been increasing the number of ICT graduates through agreements "
+20,6,3,Calibri,11.0,77.7,364.8,520.3,375.9,with higher education institutions and allocating around 400 PhD positions in ICT for the period 
+20,6,4,Calibri,11.0,77.7,379.4,499.0,390.4,2024-2027. Students in other fields can choose ICT-related courses and gain micro credentials. 
+20,7,0,Calibri,11.0,72.0,397.4,74.5,408.4, 
+20,8,0,Calibri-Light,12.0,72.0,420.1,476.9,432.1,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+20,9,0,Calibri-Bold,11.0,72.0,443.6,525.9,454.6,"In 2024, Finland’s total score for digital public services for citizens was 96.32 (2030 national target: "
+20,9,1,Calibri-Bold,11.0,72.0,458.1,284.1,469.1,"100), outpacing the average EU score of 82.32"
+20,9,1,Calibri,11.0,284.2,458.1,525.8,469.1,. Finland’s growth rate of 6.3% in this area surpassed 
+20,9,2,Calibri,11.0,72.0,472.6,525.9,483.7,the EU’s 3.6%. The country is on track according to its national trajectory. For cross-border digital public 
+20,9,3,Calibri,11.0,72.0,487.1,525.9,498.2,"services, Finland’s score was 93.91 in 2024, higher than the EU average score of 71.28. Finland’s growth "
+20,9,4,Calibri,11.0,72.0,501.5,525.8,512.6,rate of 10.5% in this category also exceeded the EU’s 4.3%. The share of people using government 
+20,9,5,Calibri,11.0,72.0,516.1,525.8,527.1,"internet websites or apps has minimally decreased from 97.61% in 2023 to 97.14% in 2024. However, "
+20,9,6,Calibri,11.0,72.0,530.6,490.4,541.6,the use of government websites in Finland is still far above the EU average of 74.71% in 2024. 
+20,10,0,Calibri-Bold,11.0,72.0,553.0,525.9,564.1,"On digital public services for businesses, Finland’s total score was 98.75 in 2024 (2030 national "
+20,10,1,Calibri-Bold,11.0,72.0,567.6,335.4,578.6,"target: 100), higher than the average EU score of 86.23"
+20,10,1,Calibri,11.0,335.5,567.6,525.8,578.6,. The country did not provide a national 
+20,10,2,Calibri,11.0,72.0,582.1,523.6,593.1,"trajectory point for 2024, likely because the target was already achieved in previous years. For cross-"
+20,10,3,Calibri,11.0,72.0,596.6,525.9,607.7,"border digital public services for businesses, Finland’s score was 97.5 in 2024, higher than the average "
+20,10,4,Calibri,11.0,72.0,611.0,525.9,622.1,EU score of 73.76. One newly introduced Single Digital Gateway Regulation-related service (reporting 
+20,10,5,Calibri,11.0,72.0,625.5,525.9,636.6,"the termination of business activity, excluding involvement of insolvency or liquidation procedures) "
+20,10,6,Calibri,11.0,72.0,640.1,296.7,651.1,"was not found online, lowering the average score. "
+20,11,0,Calibri-Bold,11.0,72.0,662.5,525.9,673.5,"Regarding access to e-health records, Finland’s total score was 84.7 in 2024, higher than the average "
+20,11,1,Calibri-Bold,11.0,72.0,677.0,273.8,688.1,EU score of 82.70 (2030 national target: 100)
+20,11,1,Calibri,11.0,273.9,677.0,525.9,688.1,". However, Finland’s growth rate of 2.5% in this area was "
+20,11,2,Calibri,11.0,72.0,691.5,477.0,702.6,lower than the EU’s 4.5%. The country did not provide a national trajectory point for 2024. 
+20,12,0,Calibri-Bold,11.0,72.0,714.0,520.7,725.0,Finland’s digital public services and access to e-health records were generally above the EU average
+20,12,0,Calibri,11.0,520.7,714.0,525.9,725.0,", "
+20,12,1,Calibri,11.0,72.0,728.5,525.9,739.6,"with high scores in most categories. However, the country’s growth rate in access to e-health records "
+20,12,2,Calibri,11.0,72.0,743.0,243.4,754.1,is slower than the EU average growth. 
+20,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+21,2,0,Calibri-LightItalic,11.0,72.0,84.0,89.0,95.1,eID 
+21,4,0,Calibri-Bold,11.0,72.0,106.5,525.9,117.5,Finland has been working actively on the national implementation of the EU Digital Identity Wallet 
+21,4,1,Calibri-Bold,11.0,72.0,121.0,303.7,132.0,(EUDIW) through technical and legislative means. 
+21,4,1,Calibri,11.0,304.8,121.0,525.9,132.0,The Finnish Digital and Population Data Services 
+21,4,2,Calibri,11.0,72.0,135.5,525.9,146.5,"(DVV) is responsible for preparing the wallet, while national stakeholders (both public and private) are "
+21,4,3,Calibri,11.0,72.0,149.9,525.9,160.9,active in four large-scale pilots before EUDIW becomes fully operational by the end of 2026. The latest 
+21,4,4,Calibri,11.0,72.0,164.4,525.8,175.5,"one is the consortium Wallet Ecosystem for Business & Payment Use cases, Identification, Legal person "
+21,4,5,Calibri,11.0,72.0,178.9,218.2,190.0,representation and Data sharing
+21,4,5,Calibri-Italic,11.0,218.2,178.9,220.7,190.0, 
+21,4,5,Calibri,11.0,221.6,178.9,525.9,190.0,"(WE BUILD), jointly led by Sweden and the Netherlands. It aims to "
+21,4,6,Calibri,11.0,72.0,193.5,525.6,204.5,"pilot the usage of EUDI Wallets across 13 use cases in the areas of businesses, supply chain, and "
+21,4,7,Calibri,11.0,72.0,207.9,525.8,218.9,"payments. It will become operational in autumn 2025. In addition to the wallet, Finland will also "
+21,4,8,Calibri,11.0,72.0,222.4,453.6,233.4,promote electronic services for legal entities by issuing them with identification data. 
+21,5,0,Calibri-Bold,11.0,77.7,245.4,228.4,256.5,2024 recommendation on eID: 
+21,5,0,Calibri,11.0,231.8,245.4,520.1,256.5,Notify to the Commission an eID scheme under the eIDAS 
+21,5,1,Calibri,11.0,77.7,259.9,128.1,270.9,Regulation.
+21,5,1,Calibri-Bold,11.0,128.1,259.9,130.6,270.9, 
+21,6,0,Calibri-Bold,11.0,77.7,277.9,520.2,288.9,The recommendation has been fully addressed. The Finnish ‘Citizen Certificate’ has been notified 
+21,6,1,Calibri-Bold,11.0,77.7,292.4,231.4,303.4,to a high assurance level and was 
+21,6,1,Calibri-Bold,11.0,231.3,292.4,276.2,303.4,published
+21,6,1,Calibri-Bold,11.0,276.2,292.4,482.6,303.4, in the Official Journal of the EU in April 2025.
+21,6,1,Calibri,11.0,482.7,292.4,520.3,303.4, Finland 
+21,6,2,Calibri,11.0,77.7,306.9,520.0,317.9,still needs to implement some technical changes during 2025 before the full usage of the eID 
+21,6,3,Calibri,11.0,77.7,321.4,520.1,332.5,"scheme. Once completed, people in Finland will benefit from the increasing number of services "
+21,6,4,Calibri,11.0,77.7,335.8,235.1,346.9,available across borders in the EU.  
+21,7,0,Calibri,11.0,72.0,353.8,74.5,364.9, 
+21,8,0,Calibri-LightItalic,11.0,72.0,376.4,327.2,387.4,Digitalisation of public services for citizens and businesses 
+21,9,0,Calibri-Bold,11.0,72.0,398.8,525.9,409.9,Finland still aims to attain a score of 100 for the digitalisation of public services for citizens and 
+21,9,1,Calibri-Bold,11.0,72.0,413.3,460.3,424.4,"businesses, and has proposed a trajectory to reach this score for services for citizens. "
+21,10,0,Calibri-Bold,11.0,72.0,435.8,380.9,446.8,To support businesses in the complex digital regulatory environment
+21,10,0,Calibri,11.0,381.0,435.8,525.9,446.8,", public and private stakeholders "
+21,10,1,Calibri,11.0,72.0,450.3,525.8,461.4,in Finland and Denmark are cooperating to create a catalogue of electronic tools designed to clarify 
+21,10,2,Calibri,11.0,72.0,464.8,525.9,475.9,"legislation such as the AI Act, the Data Act, and the European Health Data Space (EHDS) Regulation. "
+21,10,3,Calibri,11.0,72.0,479.3,525.8,490.4,"Led and funded by the Finnish Innovation Fund Sitra, their goal is to empower innovators and "
+21,10,4,Calibri,11.0,72.0,493.7,525.9,504.8,implementers of digital solutions to make informed decisions concerning these regulations. In 
+21,10,5,Calibri,11.0,72.0,508.3,149.2,519.3,"November 2024, "
+21,10,5,Calibri,11.0,149.2,508.3,213.1,519.3,the first e-tool
+21,10,5,Calibri,11.0,212.9,508.3,399.5,519.3, interpreting the AI Act became available. 
+21,11,0,Calibri-Bold,11.0,72.0,530.8,525.8,541.9,"Finland is making good progress towards a seamless, automated exchange of authentic documents "
+21,11,1,Calibri-Bold,11.0,72.0,545.2,181.0,556.3,and data across the EU. 
+21,11,1,Calibri,11.0,181.1,545.2,525.9,556.3,It has already successfully tested its first transactions through the ‘once-only’ 
+21,11,2,Calibri,11.0,72.0,559.8,440.2,570.8,technical system of the EU Single Digital Gateway. The country participates in the 
+21,11,2,Calibri,11.0,440.7,559.8,523.5,570.8,Nordic DigiGovLab
+21,11,2,Calibri,11.0,523.4,559.8,525.9,570.8, 
+21,11,3,Calibri,11.0,72.0,574.3,525.9,585.3,project (2024-2026) which aims to provide insights and recommendations for human-centric and 
+21,11,4,Calibri,11.0,72.0,588.8,525.9,599.9,inclusive digital government in the Nordic-Baltic countries. The project sets out to develop strategies 
+21,11,5,Calibri,11.0,72.0,603.2,525.9,614.3,"for the automatic exchange of data in the event of death, and subsequent inheritance, and to establish "
+21,11,6,Calibri,11.0,72.0,617.7,417.1,628.8,"cohesive governance principles, e.g. in relation to AI in public administration. "
+21,12,0,Calibri-LightItalic,11.0,72.0,640.3,112.2,651.3,e-Health 
+21,13,0,Calibri-Bold,11.0,72.0,662.7,525.9,673.8,"Finland aims to achieve a score of 100 in e-health by 2030, in line with the EU target. To support this "
+21,13,1,Calibri-Bold,11.0,72.0,677.3,472.2,688.3,"ambition, the country has introduced a new measure on electronic health records "
+21,13,1,Calibri,11.0,474.5,677.3,525.9,688.3,- a mobile 
+21,13,2,Calibri,11.0,72.0,691.7,525.9,702.7,"application of My Kanta, the Finnish health portal, to be launched in spring 2025. The app will enable "
+21,13,3,Calibri,11.0,72.0,706.2,525.9,717.2,"health documents and referrals to be safely stored and displayed on mobile devices, with the same "
+21,13,4,Calibri,11.0,72.0,720.7,525.9,731.8,access to services and data as the existing web-based version. The app may function as a digital wallet 
+21,13,5,Calibri,11.0,72.0,735.2,511.6,746.3,"app in the future, possibly enabling users to manage their health data and care contacts efficiently."
+21,13,5,Calibri-Bold,11.0,511.5,735.2,514.0,746.3, 
+21,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+22,3,0,Calibri-Bold,11.0,72.0,84.0,305.5,95.1,Finland is leading European work on health data.
+22,3,0,Calibri,11.0,305.5,84.0,438.1,95.1, In its role as co-lead in the 
+22,3,0,Calibri,11.0,439.7,84.0,520.6,95.1,e-Health Network
+22,3,0,Calibri,11.0,520.7,84.0,525.9,95.1,", "
+22,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,Finland is preparing an implementation roadmap to support all Member States in the implementation 
+22,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,of the European Health Data Space Regulation. Finland has been the pioneer country in Europe for the 
+22,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"secondary use of health data. With regard to Nordic collaboration, the Ministry of Social Affairs and "
+22,3,4,Calibri,11.0,72.0,142.0,156.1,153.0,Health steers the 
+22,3,4,Calibri,11.0,158.8,142.0,254.0,153.0,Nordic VALO project
+22,3,4,Calibri,11.0,254.1,142.0,525.9,153.0," on secondary use of health data, which supports EHDS "
+22,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,preparations in the Nordic region by strengthening RDI cooperation. The formal Nordic Ministry 
+22,3,6,Calibri,11.0,72.0,170.9,525.8,181.9,Council e-Health group receives updates on the VALO progress and discusses EHDS related Nordic 
+22,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,questions. Finland’s internal EHDS preparations are primarily centred on the area of primary use. The 
+22,3,8,Calibri,11.0,72.0,199.9,525.9,211.0,current focus in the area of digital services is to help people become more involved in their own health 
+22,3,9,Calibri,11.0,72.0,214.3,525.9,225.4,management.  Finland is also actively seeking for international collaboration to share the experiences. 
+22,4,0,Calibri-Bold,11.0,72.0,236.9,391.8,248.0,Broader digitalisation of healthcare services is supported by the RRF.
+22,4,0,Calibri,11.0,392.1,236.9,525.9,248.0," The welfare sector, together "
+22,4,1,Calibri,11.0,72.0,251.4,525.7,262.5,"with national authorities, have developed and introduced digital services aimed at citizens, "
+22,4,2,Calibri,11.0,72.0,265.9,525.8,276.9,"information systems and management solutions for professionals. As reported by Finnish authorities, "
+22,4,3,Calibri,11.0,72.0,280.4,525.9,291.4,citizens' digital transactions with social and healthcare professionals have increased by 16.1 pp. from 
+22,4,4,Calibri,11.0,72.0,294.9,211.8,305.9,2020 (25.8%) to 2024 (41.9%).  
+22,5,0,Calibri-Bold,11.0,77.7,317.9,242.9,329.0,2024 recommendation on e-Health: 
+22,5,0,Calibri,11.0,243.1,317.9,520.1,329.0,(i) Expand the coverage of the online access service to ensure 
+22,5,1,Calibri,11.0,77.7,332.3,520.2,343.4,that all citizens can access their electronic health data online; (ii) Widen the catalogue of data 
+22,5,2,Calibri,11.0,77.7,346.8,520.0,357.9,available to citizens in that service; (iii) Consider offering a mobile application for citizens to access 
+22,5,3,Calibri,11.0,77.7,361.4,391.0,372.4,their electronic health records and enhanced authentication methods.
+22,5,3,Calibri-Bold,11.0,390.9,361.4,393.4,372.4, 
+22,6,0,Calibri-Bold,11.0,77.7,379.4,520.2,390.4,Finland made some effort to address the recommendation by introducing new policy actions in 
+22,6,1,Calibri-Bold,11.0,77.7,393.8,102.9,404.8,2024.
+22,6,1,Calibri,11.0,103.0,393.8,520.3,404.8," On the data catalogue, patients now have access to their electronic hospital discharge reports. "
+22,6,2,Calibri,11.0,77.7,408.3,520.3,419.4,"However, data on e.g. medical images, and medical devices/implants remain unavailable for the "
+22,6,3,Calibri,11.0,77.7,422.8,520.3,433.9,"time being. Regarding coverage and mobile application, the country announced that in 2025 it will "
+22,6,4,Calibri,11.0,77.7,437.3,520.3,448.4,"roll-out a mobile application using existing authentication methods. . With EHDS implementation, a "
+22,6,5,Calibri,11.0,77.7,451.7,520.2,462.8,wider data content for citizens is being considered. Given that banking ID is the most common 
+22,6,6,Calibri,11.0,77.7,466.3,520.3,477.3,"method for gaining access to electronic health data and not all citizens have banking ID, eID EUDI "
+22,6,7,Calibri,11.0,77.7,480.8,520.3,491.8,"wallet-use possibilities will be assessed during 2025, also in alignment with EHDS Regulation "
+22,6,8,Calibri,11.0,77.7,495.3,131.8,506.4,obligations. 
+22,7,0,TimesNewRomanPSMT,12.0,72.0,511.6,75.0,524.9, 
+22,7,1,Calibri-Light,15.0,72.0,532.1,526.6,547.1,Building a safe and human-centric digital environment and preserving our 
+22,7,2,Calibri-Light,15.0,72.0,551.7,141.6,566.7,democracy 
+22,8,0,Calibri-Bold,11.0,72.0,578.7,378.8,589.8,Online participation in political and civic life is decreasing in Finland
+22,8,0,Calibri,11.0,378.8,578.7,525.8,589.8,". In 2024, 23.73% of people used "
+22,8,1,Calibri,11.0,72.0,593.3,525.9,604.3,"the internet to participate in consultations, to vote or to share opinions online. This share is above the "
+22,8,2,Calibri,11.0,72.0,607.7,525.7,618.7,"EU average but is trending downwards (25.64% in 2022), which is the opposite of the trend observed "
+22,8,3,Calibri,11.0,72.0,622.2,525.9,633.2,"at EU level (17.59% in 2022 and 20.45% in 2024). According to the Digital Decade Eurobarometer 2025, "
+22,8,4,Calibri,11.0,72.0,636.7,525.8,647.7,79% of Finnish respondents consider that digital technologies will be important for accessing 
+22,8,5,Calibri,11.0,72.0,651.2,279.1,662.3,education and training opportunities by 2030. 
+22,9,0,Calibri-Bold,11.0,72.0,673.7,525.9,684.7,The majority of Finland’s population critically evaluates online content and almost 2 out of 5 of those 
+22,9,1,Calibri-Bold,11.0,72.0,688.2,335.7,699.2,who encounter doubtful information check its accuracy.
+22,9,1,Calibri,11.0,335.7,688.2,525.9,699.2," In 2023, 69.81% of individuals reported "
+22,9,2,Calibri,11.0,72.0,702.6,525.6,713.6,"having come across untrue or doubtful information or content on internet news sites or social media, "
+22,9,3,Calibri,11.0,72.0,717.1,525.9,728.1,significantly higher than the EU average of 49.25%. 38.31% of them checked the truthfulness of 
+22,9,4,Calibri,11.0,72.0,731.6,523.6,742.7,"doubtful information found online, significantly more than the EU average (24.29%). Young people (16-"
+22,9,5,Calibri,11.0,72.0,746.2,525.9,757.2,"24) (79.6%) reported slightly more exposure to doubtful information than adults (25-64) (73.84%), with "
+22,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+23,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,a striking difference in verification rates (61.12% for young people vs 38.95% for adults). Men (72.62%) 
+23,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"were relatively more likely than women (66.99%) to report encountering untrue or doubtful content, "
+23,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,as well as to verify its accuracy (43.42% vs 33.2% of females). Media literacy and critical thinking are 
+23,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"included in national curriculum, what might contribute to the overall good results compared to the EU "
+23,3,4,Calibri,11.0,72.0,142.0,112.2,153.0,average. 
+23,4,0,Calibri-Bold,11.0,72.0,164.4,525.8,175.5,In 2023 almost half of the Finnish population (46.33%) encountered messages online considered 
+23,4,1,Calibri-Bold,11.0,72.0,178.9,525.5,190.0,"hostile or degrading towards groups of people, such as those based on LGBTIQ identities or racial "
+23,4,2,Calibri-Bold,11.0,72.0,193.5,282.1,204.5,"origin, well above the EU average of 33.5%. "
+23,4,2,Calibri,11.0,283.9,193.5,525.8,204.5,Young people (16-24) (69.1%) reported substantially 
+23,4,3,Calibri,11.0,72.0,207.9,525.9,218.9,"higher exposure than adults (25-64) (47.02%), showing one of the largest age-related differences in "
+23,4,4,Calibri,11.0,72.0,222.4,525.7,233.4,"the EU. Women (49.55%) and men (43.12%) reported similar rates of exposure, with a slight but "
+23,4,5,Calibri,11.0,72.0,236.9,166.4,248.0,notable gender gap.  
+23,5,0,Calibri-Bold,11.0,72.0,259.4,369.5,270.4,"In addition, according to the Digital Decade Eurobarometer 2025"
+23,5,0,Calibri,11.0,369.7,259.4,525.9,270.4,", Finnish people consider it urgent "
+23,5,1,Calibri,11.0,72.0,273.9,525.7,284.9,that public authorities act to protect children online regarding the negative impact of social media on 
+23,5,2,Calibri,11.0,72.0,288.4,525.9,299.5,"children’s mental health (96% of Finnish respondents), cyberbullying and online harassment (96%) and "
+23,5,3,Calibri,11.0,72.0,302.9,458.6,314.0,to put in place age assurance mechanisms to restrict age-inappropriate content (90%). 
+23,6,0,Calibri-Bold,11.0,72.0,325.4,525.8,336.4,"Traficom, the Finnish Transport and Communications Agency, in its role of national Digital Services "
+23,6,1,Calibri-Bold,11.0,72.0,339.9,525.9,350.9,"Coordinator under the Digital Services Act (DSA), has been increasing awareness on the DSA among "
+23,6,2,Calibri-Bold,11.0,72.0,354.4,178.0,365.4,users and stakeholders
+23,6,2,Calibri,11.0,178.1,354.4,525.8,365.4,". This has resulted in over 70 complaints to this coordinator in 2024, mainly "
+23,6,3,Calibri,11.0,72.0,368.8,525.8,379.9,"about Facebook, Instagram and TikTok, which were also transferred to other DSCs notably the Irish "
+23,6,4,Calibri,11.0,72.0,383.3,458.0,394.4,one. Traficom has awarded a status of ‘Trusted Flagger’ to three Finnish organisations. 
+23,6,5,Calibri-Bold,26.0,72.0,408.8,529.1,434.9,Leveraging digital transformation for a 
+23,6,6,Calibri-Bold,26.0,72.0,443.1,240.5,469.2,smart greening 
+23,7,0,Calibri-Bold,11.0,72.0,482.3,217.0,493.4,As explained in Finland’s recent 
+23,7,0,Calibri-Bold,11.0,216.8,482.3,328.2,493.4,industrial policy strategy
+23,7,0,Calibri-Bold,11.0,327.5,482.3,525.9,493.4,", the country sees the clean transition as an "
+23,7,1,Calibri-Bold,11.0,72.0,496.9,178.1,507.9,important opportunity.
+23,7,1,Calibri,11.0,178.1,496.9,525.8,507.9, The country’s high level of digitalisation sets out good conditions for the two 
+23,7,2,Calibri,11.0,72.0,511.3,525.8,522.3,"transitions, green and digital, to support each other. According to the Digital Decade Eurobarometer "
+23,7,3,Calibri,11.0,72.0,525.8,525.9,536.8,"2025, 66% of Finnish people consider digital technologies important to help fight climate change, while "
+23,7,4,Calibri,11.0,72.0,540.3,525.7,551.3,77% of Finnish respondents think that ensuring that digital technologies serve the green transition 
+23,7,5,Calibri,11.0,72.0,554.8,525.9,565.9,"should be an important action for public authorities, below the EU averages (74% and 90%, "
+23,7,6,Calibri,11.0,72.0,569.4,136.4,580.4,respectively).  
+23,8,0,Calibri-Bold,11.0,72.0,591.8,354.1,602.9,Finland incentivises the use of clean energy by enterprises.
+23,8,0,Calibri,11.0,354.1,591.8,525.8,602.9, The taxation of electricity has been 
+23,8,1,Calibri,11.0,72.0,606.3,525.9,617.4,"implemented in such a way that energy efficient industry, for example data centres using waste heat, "
+23,8,2,Calibri,11.0,72.0,620.7,254.7,631.8,receive an advantage i.e. lower tax band
+23,8,2,Calibri,7.0,254.6,619.8,258.1,626.8,6
+23,8,2,Calibri,11.0,258.0,620.7,310.5,631.8,. While the 
+23,8,2,Calibri,11.0,311.0,620.7,525.8,631.8,Climate and Environmental Strategy for the ICT 
+23,8,3,Calibri,11.0,72.0,635.3,100.6,646.3,Sector
+23,8,3,Calibri,11.0,100.6,635.3,525.9,646.3," is being implemented, the Finnish Transport and Communications Agency Traficom has ceased "
+23,8,4,Calibri,11.0,72.0,649.8,525.9,660.8,monitoring power consumption in Finnish networks based on the yearly reports issued by the 
+23,8,5,Calibri,11.0,72.0,664.3,525.8,675.3,"operators. The statistics did not achieve sufficient levels of reliability, demonstrating the challenge of "
+23,8,6,Calibri,11.0,72.0,678.7,324.5,689.7,monitoring the impact of networks on the environment. 
+23,9,0,Calibri,11.0,216.1,725.8,218.5,736.8, 
+23,10,0,Calibri,6.0,72.0,738.7,75.1,744.7,6
+23,10,0,Calibri,9.0,75.0,738.9,476.7,747.9," Ongoing government proposal to change the relevant regulation might affect the existing solution, see "
+23,10,0,Calibri,9.0,478.5,738.9,525.4,747.9,Regeringens 
+23,10,1,Calibri,9.0,72.0,749.8,525.5,758.8,proposition till riksdagen med förslag till lag om ändring av lagen om punktskatt på elström och vissa bränslen - 
+23,10,2,Calibri,9.0,72.0,760.9,151.8,769.9,Valtiovarainministeriö
+23,10,2,Calibri,9.0,151.8,760.9,156.1,769.9,. 
+23,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+24,3,0,Calibri-Bold,11.0,72.0,84.0,525.9,95.1,"On top of an analysis of the carbon footprint, discussions have commenced between the "
+24,3,1,Calibri-Bold,11.0,72.0,98.4,318.4,109.5,government and stakeholders on a ‘carbon handprint’
+24,3,1,Calibri,11.0,318.4,98.4,525.8,109.5, - a term used to describe the positive climate 
+24,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,impacts of products or services. The key principle of the handprint is that it does not grow by reducing 
+24,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"one`s own footprint. Instead, an organisation`s handprint increases when it helps other parties e.g. by "
+24,3,4,Calibri,11.0,72.0,142.0,244.7,153.0,reducing their carbon footprint. Both 
+24,3,4,Calibri,11.0,246.1,142.0,403.8,153.0,Finnish Environment Institute Syke
+24,3,4,Calibri,11.0,403.8,142.0,445.6,153.0, and the 
+24,3,4,Calibri,11.0,447.0,142.0,525.9,153.0,Confederation of 
+24,3,5,Calibri,11.0,72.0,156.4,150.1,167.4,Finnish Industries
+24,3,5,Calibri,11.0,150.1,156.4,525.9,167.4, produced reports on the carbon handprint of Finnish exports. Technology Industries 
+24,3,6,Calibri,11.0,72.0,170.9,525.7,181.9,of Finland has started working towards calculating the carbon handprint of companies and products. 
+24,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,One of the biggest challenges in calculating the carbon handprint is the lack of a common calculation 
+24,3,8,Calibri,11.0,72.0,199.9,197.1,211.0,method. LUT University has 
+24,3,8,Calibri,11.0,197.2,199.9,244.3,211.0,developed
+24,3,8,Calibri,11.0,244.2,199.9,332.6,211.0, methods assessing 
+24,3,8,Calibri,11.0,332.7,199.9,410.3,211.0,carbon handprint
+24,3,8,Calibri,11.0,410.4,199.9,525.9,211.0, in joint research projects 
+24,3,9,Calibri,11.0,72.0,214.3,113.3,225.4,with VTT.
+24,3,9,Calibri,11.0,113.3,214.3,115.8,225.4, 
+24,3,9,Calibri,11.0,115.7,214.3,399.3,225.4,"Before commencing work on a carbon handprint, Syke had also "
+24,3,9,Calibri,11.0,399.3,214.3,438.6,225.4,assessed
+24,3,9,Calibri,11.0,438.5,214.3,525.9,225.4, the environmental 
+24,3,10,Calibri,11.0,72.0,228.9,310.4,239.9,impacts of the digitalisation of public sector services. 
+24,4,0,Calibri-Bold,11.0,72.0,251.4,384.5,262.5,The Finnish population recycles only a small part of its ICT equipment
+24,4,0,Calibri,11.0,384.7,251.4,525.9,262.5,. Finland’s inhabitants are more 
+24,4,1,Calibri,11.0,72.0,265.9,525.8,276.9,"likely to recycle their laptop and desktop devices (15.26% for laptops and tablets, 18.31% for desktops) "
+24,4,2,Calibri,11.0,72.0,280.4,525.9,291.4,"than the EU average (11.31% and 14.66%, respectively), with recycling of mobile phones being close "
+24,4,3,Calibri,11.0,72.0,294.9,525.9,305.9,"to the EU average (11.16% vs 10.93%). Moreover, only 14.20% of people consider energy efficiency as "
+24,4,4,Calibri,11.0,72.0,309.4,525.9,320.5,"important when purchasing ICT devices (EU average: 19.35%), but the eco-design of the device is "
+24,4,5,Calibri,11.0,72.0,323.8,525.6,334.9,"considered important by 12.92%, which is just above the EU average (12.04%). However, those two "
+24,4,6,Calibri,11.0,72.0,338.3,525.8,349.4,"eco-friendly criteria take on less importance for the buyer than price, performance, and design of the "
+24,4,7,Calibri,11.0,72.0,352.8,122.6,363.9,ICT device. 
+24,5,0,Calibri-Bold,11.0,72.0,375.3,486.7,386.3,Finland provides an example of how technology can help understand climate change.
+24,5,0,Calibri,11.0,486.8,375.3,525.9,386.3, Finnish 
+24,5,1,Calibri,11.0,72.0,389.8,525.8,400.9,supercomputer LUMI is also successfully implementing in the Climate Change Adaptation Digital Twin 
+24,5,2,Calibri,11.0,72.0,404.3,525.9,415.4,"(Climate Digital Twin), a high-priority digital twin of Destination Earth. The Climate DT is a simulation "
+24,5,3,Calibri,11.0,72.0,418.9,525.8,429.9,system that can be used to support decision-making on the impacts of climate change and different 
+24,5,4,Calibri,11.0,72.0,433.3,392.7,444.3,adaptation strategies at local and regional levels over multiple decades. 
+24,6,0,Calibri-Bold,11.0,77.7,456.3,246.3,467.4,2024 recommendation on green ICT: 
+24,6,0,Calibri,11.0,246.6,456.3,520.1,467.4,(i) Continue developing a coherent approach to twinning the 
+24,6,1,Calibri,11.0,77.7,470.8,520.0,481.9,"digital and green transitions. First, promote improvements in energy and material efficiency of "
+24,6,2,Calibri,11.0,77.7,485.2,520.2,496.3,"digital infrastructures, in particular data centres. Second, support the development and deployment "
+24,6,3,Calibri,11.0,77.7,499.7,520.0,510.8,"of digital solutions that reduce the carbon footprint in other sectors, such as energy, transport, "
+24,6,4,Calibri,11.0,77.7,514.3,520.3,525.3,"buildings, and agriculture, including the uptake of such solutions by SMEs; (ii) Monitor and quantify "
+24,6,5,Calibri,11.0,77.7,528.8,520.0,539.8,the emission reductions of the deployed digital solutions in line with the relevant EU guidance and 
+24,6,6,Calibri,11.0,77.7,543.3,520.1,554.3,"with the support of the methodology developed by the European Green Digital Coalition, in view of "
+24,6,7,Calibri,11.0,77.7,557.7,520.3,568.8,"future policy development, as well as of attracting relevant financing; (iii) Demonstrate leadership "
+24,6,8,Calibri,11.0,77.7,572.3,520.0,583.3,in using digital transition for environmental purposes by promoting national tools and 
+24,6,9,Calibri,11.0,77.7,586.8,227.4,597.8,methodologies at European level.
+24,6,9,Calibri,11.0,227.3,586.8,229.8,597.8, 
+24,7,0,Calibri-Bold,11.0,77.7,604.8,501.6,615.8,Finland fully addressed the recommendation by introducing significant policy actions in 2024. 
+24,7,0,Calibri,11.0,501.2,604.8,520.3,615.8,The 
+24,7,1,Calibri,11.0,77.7,619.2,520.3,630.2,country promotes the efficiency of digital infrastructures (see above) and puts significant efforts into 
+24,7,2,Calibri,11.0,77.7,633.7,520.3,644.7,"mapping the carbon handprint of products and services, including digital ones. Finland participates "
+24,7,3,Calibri,11.0,77.7,648.2,520.2,659.3,in the Digital Decade’s best practice accelerator as co-leader for sharing information on the digital 
+24,7,4,Calibri,11.0,77.7,662.7,457.6,673.8,"environmental transition, demonstrating leadership in this field (see Annex II below). "
+24,7,4,Calibri-Bold,11.0,457.5,662.7,460.0,673.8, 
+24,8,0,Calibri,11.0,72.0,695.0,74.5,706.1, 
+24,8,1,Calibri-Bold,26.0,216.1,683.8,221.9,709.8, 
+24,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+25,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+25,4,0,Calibri-Bold,11.0,77.7,126.7,313.8,137.8,Finland’s national Digital Decade strategic roadmap 
+25,5,0,Calibri-Bold,11.0,77.7,144.3,520.3,155.3,"Finland submitted an addendum to the Digital Decade roadmap on 29 November 2024, which "
+25,5,1,Calibri-Bold,11.0,77.7,158.7,520.2,169.7,"includes an additional measure, revised measure descriptions, new targets and revised "
+25,5,2,Calibri-Bold,11.0,77.7,173.2,129.7,184.2,trajectories
+25,5,2,Calibri,11.0,129.7,173.2,415.6,184.2,". The addendum, like the original roadmap, is based on Finland’s "
+25,5,2,Calibri,11.0,415.3,173.2,486.1,184.2,Digital Compass
+25,5,2,Calibri,11.0,486.1,173.2,520.3,184.2, and its 
+25,5,3,Calibri,11.0,77.7,187.7,209.8,198.7,yearly implementation plans
+25,5,3,Calibri,11.0,209.8,187.7,520.3,198.7, that comprehensively address digital action by the country. The 
+25,5,4,Calibri,11.0,77.7,202.2,520.3,213.3,"content of the roadmap and its update have been developed in close cooperation with stakeholders, "
+25,5,5,Calibri,11.0,77.7,216.6,333.6,227.7,as part of regular consultations conducted notably by the 
+25,5,5,Calibri,11.0,333.4,216.6,497.3,227.7,Coordination Group for Digitalisation
+25,5,5,Calibri,11.0,497.4,216.6,520.3,227.7, (the 
+25,5,6,Calibri,11.0,77.7,231.2,148.9,242.2,‘Digital Office’). 
+25,6,0,Calibri,11.0,77.7,248.7,512.1,259.7,The new roadmap addresses a substantial number of roadmap recommendations issued in 2024: 
+25,7,0,SymbolMT,11.0,95.7,264.0,100.7,277.5,
+25,7,0,ArialMT,11.0,100.7,265.1,103.8,277.4, 
+25,7,1,Calibri-Italic,11.0,113.7,266.8,520.1,277.8,"Propose a target and trajectory for FTTP, edge nodes and unicorns, design a trajectory for "
+25,7,2,Calibri-Italic,11.0,113.7,281.2,478.1,292.2,"VHCN, cloud, data analytics, AI, digital public services for citizens and e-health"
+25,7,2,Calibri,11.0,478.1,281.2,520.3,292.2,: Finland 
+25,7,3,Calibri,11.0,113.7,295.7,520.3,306.8,provided the requested trajectories except for e-health and added a FTTP target 
+25,7,4,Calibri,11.0,113.7,310.2,520.3,321.3,"accompanied by a trajectory. Regarding edge nodes, the country argues there is no "
+25,7,5,Calibri,11.0,113.7,324.8,520.3,335.8,"database or public influence allowing for a target. Regarding unicorns, Finland did not "
+25,7,6,Calibri,11.0,113.7,339.2,520.3,350.2,consider it appropriate to set a separate national target and considers it important that the 
+25,7,7,Calibri,11.0,113.7,353.7,334.7,364.7,EU is an attractive and competitive environment. 
+25,7,8,SymbolMT,11.0,95.7,366.0,100.7,379.5,
+25,7,8,ArialMT,11.0,100.7,367.1,103.8,379.4, 
+25,7,9,Calibri-Italic,11.0,113.7,368.8,400.1,379.9,Propose a higher target for basic digital intensity of enterprises
+25,7,9,Calibri,11.0,400.3,368.8,520.3,379.9,: Finland raised the target 
+25,7,10,Calibri,11.0,113.7,383.3,326.6,394.4,"from 90% to 95%, above the EU ambition level. "
+25,7,11,SymbolMT,11.0,95.7,395.5,100.7,409.0,
+25,7,11,ArialMT,11.0,100.7,396.6,103.8,408.9, 
+25,7,12,Calibri-Italic,11.0,113.7,398.3,520.2,409.4,"Strengthen the measures on ICT specialists and gigabit, add measures on digital public "
+25,7,13,Calibri-Italic,11.0,113.7,412.9,214.1,423.9,services and e-health
+25,7,13,Calibri,11.0,214.1,412.9,520.2,423.9,: Finland added a measure related to e-health and mapped a 
+25,7,14,Calibri,11.0,113.7,427.4,516.8,438.4,supporting broadband deployment in rural areas which was absent in the initial roadmap. 
+25,7,15,SymbolMT,11.0,95.7,439.6,100.7,453.1,
+25,7,15,ArialMT,11.0,100.7,440.7,103.8,453.0, 
+25,7,16,Calibri-Italic,11.0,113.7,442.4,520.2,453.4,"Review the budget description of all presented measures, duly highlighting national and EU "
+25,7,17,Calibri-Italic,11.0,113.7,456.9,325.8,467.9,sources such as Recovery and Resilience Facility
+25,7,17,Calibri,11.0,326.0,456.9,520.2,467.9,: A budget for some existing measures was 
+25,7,18,Calibri,11.0,113.7,471.4,144.5,482.5,added.
+25,7,18,Calibri-Italic,11.0,144.5,471.4,147.0,482.5, 
+25,7,19,SymbolMT,11.0,95.7,483.7,100.7,497.2,
+25,7,19,ArialMT,11.0,100.7,484.8,103.8,497.1, 
+25,7,20,Calibri-Italic,11.0,113.7,486.5,520.2,497.6,Provide more information on the implementation of digital rights and principles (and Digital 
+25,7,21,Calibri-Italic,11.0,113.7,500.9,470.0,512.0,"Decade general objectives), including what national measures contribute to it:"
+25,7,21,Calibri,11.0,470.0,500.9,520.3,512.0, Some link 
+25,7,22,Calibri,11.0,113.7,515.5,520.3,526.5,between the measures and the corresponding rights and objectives was provided. The 
+25,7,23,Calibri,11.0,113.7,530.0,520.3,541.0,roadmap clearly reinforces Finland’s contribution to the Digital Decade objectives of tech 
+25,7,24,Calibri,11.0,113.7,544.4,287.0,555.4,"leadership, sovereignty and green ICT. "
+25,8,0,Calibri,11.0,77.7,561.9,520.3,573.0,"Overall, Finland presents a non-exhaustive list of policies and measures that will contribute to "
+25,8,1,Calibri,11.0,77.7,576.5,520.2,587.5,"achieving each of the Digital Decade targets. All targets align with the EU-level goals for 2030, and "
+25,8,2,Calibri,11.0,77.7,591.0,520.2,602.0,"two are set higher: a target of 87% for basic digital skills, and a target of 95% for basic digital intensity "
+25,8,3,Calibri,11.0,77.7,605.5,520.0,616.5,"of SMEs. The measures presented also cover several types of objectives: technological leadership, "
+25,8,4,Calibri,11.0,77.7,619.9,520.2,630.9,"sovereignty, competitiveness, and the green transition. In total, the 14 measures have a budget of "
+25,8,5,Calibri,11.0,77.7,634.4,520.3,645.5,"EUR 559 million, equivalent to 0.2% of GDP. The roadmap also underlines the importance of RDI "
+25,8,6,Calibri,11.0,77.7,648.9,520.3,660.0,"activities, by offering possibilities in multiple areas (e.g. 5G, semiconductors, quantum, and to some "
+25,8,7,Calibri,11.0,77.7,663.5,129.1,674.5,"extent, AI). "
+25,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+26,2,0,Calibri-Bold,11.0,199.0,84.5,393.0,95.5,Measures and budget in national roadmap
+26,2,0,Calibri,7.0,392.8,83.6,396.4,90.6,7
+26,2,0,Calibri-Bold,11.0,396.3,84.5,398.8,95.5, 
+26,4,0,Calibri,11.0,77.7,316.4,80.2,327.4, 
+26,5,0,Calibri,11.0,72.0,334.2,74.5,345.3, 
+26,5,1,Calibri-Bold,26.0,72.0,359.8,77.9,385.9, 
+26,6,0,Calibri,11.0,72.0,402.8,74.5,413.8, 
+26,6,1,Calibri-Bold,26.0,216.1,391.5,221.9,417.6, 
+26,7,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+26,8,0,Calibri,6.0,72.0,727.6,75.1,733.6,7
+26,8,0,Calibri,9.0,75.0,727.9,525.2,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+26,8,1,Calibri,9.0,72.0,738.9,525.3,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+26,8,2,Calibri,9.0,72.0,749.8,525.2,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+26,8,3,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+26,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+27,3,0,Calibri-Bold,26.0,72.0,87.0,481.5,113.1,Annex II – Factsheet on multi-country 
+27,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+27,4,0,Calibri-Bold,11.0,77.7,160.9,267.4,172.0,Multi-country projects and best practices 
+27,5,0,Calibri,11.0,77.7,178.5,535.4,189.5,"Finland is a member of the Alliance for Language Technologies EDIC, and is also working towards setting "
+27,5,1,Calibri,11.0,77.7,193.0,535.5,204.0,up an EDIC in the area of genomics. Finland is directly participating in the IPCEI on Microelectronics and 
+27,5,2,Calibri,11.0,77.7,207.5,535.3,218.5,Communication Technologies (IPCEI-ME/CT). Finland is a participating state of the EuroHPC Joint 
+27,5,3,Calibri,11.0,77.7,221.9,245.8,232.9,Undertaking (JU) and of the Chips JU. 
+27,6,0,Calibri,11.0,77.7,239.4,409.9,250.5,Finland is co-leading the Green IT cluster of the Best Practice Accelerator
+27,6,0,Calibri,7.0,410.0,238.5,413.5,245.5,8
+27,6,0,Calibri,11.0,413.5,239.4,535.4,250.5,", promoting the sharing of "
+27,6,1,Calibri,11.0,77.7,254.0,535.5,265.0,information relating to public policies on the environmental transition of digital technology. Finland has 
+27,6,2,Calibri,11.0,77.7,268.5,535.3,279.5,notably shared two best practices: on the Climate and Environmental Strategy for the ICT Sector in 
+27,6,3,Calibri,11.0,77.7,282.9,535.4,293.9,"Finland, and on increasing the knowledge base on the environmental handprint and footprint effect of "
+27,6,4,Calibri,11.0,77.7,297.4,143.4,308.5,the ICT sector. 
+27,7,0,Calibri,11.0,77.7,314.9,535.5,326.0,Finland also participates in the Digital Skills cluster (with shared two best practices: Finnish National 
+27,7,1,Calibri,11.0,77.7,329.4,535.5,340.5,STEM Strategy and Action Plan and New Literacies Development Programme) and in the uptake of the 
+27,7,2,Calibri,11.0,77.7,343.8,535.4,354.9,Digital Technologies cluster (with best practice: RELEX Solutions as an Example of Successful Startup 
+27,7,3,Calibri,11.0,77.7,358.4,191.5,369.4,Innovation and Support). 
+27,8,0,Calibri,11.0,72.0,376.4,74.5,387.4, 
+27,9,0,Calibri-Bold,11.0,77.7,399.4,260.8,410.5,EU funding for digital policies in Finland 
+27,10,0,Calibri,11.0,77.7,416.8,472.9,427.9,Finland allocates 29% of its total recovery and resilience plan to digital (EUR 526 million)
+27,10,0,Calibri,7.0,473.0,415.9,476.5,422.9,9
+27,10,0,Calibri,11.0,476.5,416.8,535.5,427.9,". In addition, "
+27,10,1,Calibri,11.0,77.7,431.3,535.2,442.4,"under cohesion policy, EUR 385 million (representing 20% of the country’s total cohesion policy "
+27,10,2,Calibri,11.0,77.7,445.9,376.1,456.9,"funding), is dedicated to advancing Finland’s digital transformation"
+27,10,2,Calibri,7.0,376.1,445.0,383.2,451.9,10
+27,10,2,Calibri,11.0,383.1,445.9,535.4,456.9,". According to JRC estimates, EUR "
+27,10,3,Calibri,11.0,77.7,460.4,535.2,471.4,566 million directly contribute to achieving Digital Decade targets (of which EUR 391 million comes 
+27,10,4,Calibri,11.0,77.7,474.8,363.9,485.8,from the RRF and EUR 175 million from cohesion policy funding)
+27,10,4,Calibri,7.0,364.0,473.9,371.0,480.8,11
+27,10,4,Calibri,11.0,371.0,474.8,376.2,485.8,. 
+27,11,0,Calibri,11.0,77.7,492.3,535.5,503.4,The largest digital measure in the recovery and resilience plan is dedicated to the digitalisation of 
+27,11,1,Calibri,11.0,77.7,506.8,535.5,517.9,"healthcare services (EUR 145 million). Other measures are designed to support (i) rail digitalisation, (ii) "
+27,11,2,Calibri,11.0,77.7,521.3,535.4,532.4,"boosting the potential of the data economy, (iii) RDI in advanced technologies such as 6G, AI and "
+27,11,3,Calibri,11.0,77.7,535.7,535.5,546.8,"quantum, and (iv) training in the public and private sector, including in cybersecurity. The high-speed "
+27,11,4,Calibri,11.0,77.7,550.3,341.1,561.3,broadband scheme receives EUR 32 million from the plan.  
+27,12,0,Calibri,11.0,72.0,568.3,74.5,579.3, 
+27,13,0,Calibri,11.0,72.0,590.7,74.5,601.8, 
+27,13,1,Calibri,11.0,216.1,590.7,218.5,601.8, 
+27,14,0,Calibri,11.0,216.1,626.9,218.5,637.9, 
+27,15,0,Calibri,6.0,72.0,639.8,75.1,645.8,8
+27,15,0,Calibri,9.0,75.0,640.0,525.2,649.0, Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+27,15,1,Calibri,9.0,72.0,650.9,525.5,659.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+27,15,2,Calibri,9.0,72.0,662.0,525.2,671.0,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+27,15,3,Calibri,9.0,72.0,672.9,252.8,681.9,"Green IT, and the Uptake of Digital Technologies.  "
+27,15,4,Calibri,6.0,72.0,683.7,75.1,689.7,9
+27,15,4,Calibri,9.0,75.0,683.9,524.9,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+27,15,5,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+27,15,6,Calibri,6.0,72.0,705.6,78.1,711.6,10
+27,15,6,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+27,15,7,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+27,15,8,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+27,15,9,Calibri,6.0,72.0,738.7,78.1,744.7,11
+27,15,9,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+27,15,10,Calibri,9.0,72.0,749.8,525.1,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+27,15,11,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+27,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,70.8,32.7,134.9,52.8,Finland 
+28,2,0,Calibri-Bold,26.0,72.0,87.0,485.2,113.1,Annex III – Digital rights and principles
+28,2,0,Calibri,17.0,485.3,84.8,502.5,101.8,12
+28,2,0,Calibri-Bold,26.0,502.5,87.0,508.4,113.1, 
+28,4,0,Calibri-Bold,11.0,77.7,126.7,80.2,137.8, 
+28,8,0,Calibri-Bold,11.0,248.7,328.8,251.2,339.9, 
+28,8,1,Calibri-Bold,11.0,77.7,343.4,254.7,354.4,Activity on digital rights and principles 
+28,8,1,Calibri-Italic,11.0,254.8,343.4,295.7,354.4,(figure 1)
+28,8,1,Calibri-Bold,11.0,295.6,343.4,298.1,354.4, 
+28,9,0,Calibri-Bold,11.0,77.7,360.8,433.1,371.8,Finland has been relatively active in implementing digital rights and principles
+28,9,0,Calibri,11.0,433.4,360.8,520.2,371.8,", with 72 initiatives "
+28,9,1,Calibri,11.0,77.7,375.3,520.2,386.3,"overall and 5 new initiatives launched in 2024, showing limited progress towards its commitments. "
+28,9,2,Calibri-Bold,11.0,77.7,389.8,505.1,400.9,Finland is most active in the area of Putting people at the centre of the digital transformation 
+28,9,2,Calibri,11.0,505.5,389.8,520.3,400.9,(I). 
+28,9,3,Calibri,11.0,77.7,404.3,520.2,415.4,"There is room for improvement, especially with regards to Interactions with algorithms and artificial "
+28,9,4,Calibri,11.0,77.7,418.7,362.0,429.8,intelligence systems (III) where less activity has been identified. 
+28,10,0,Calibri-Bold,11.0,77.7,436.3,230.0,447.3,Impact of digital rights initiatives 
+28,10,0,Calibri-Italic,11.0,230.1,436.3,270.8,447.3,(figure 2)
+28,10,0,Calibri-Bold,11.0,270.8,436.3,273.3,447.3, 
+28,11,0,Calibri,11.0,77.7,453.8,520.1,464.8,"Quantitative impact indicators, developed by the support study, illustrate the level of "
+28,11,1,Calibri,11.0,77.7,468.3,520.2,479.4,"implementation of digital rights initiatives on the ground. Based on available data, they estimate the "
+28,11,2,Calibri,11.0,77.7,482.7,520.1,493.8,impact of measures implemented by key stakeholders in Finland (mainly national government) and 
+28,11,3,Calibri,11.0,77.7,497.2,241.3,508.3,how these are perceived by citizens. 
+28,12,0,Calibri,11.0,77.7,514.7,202.6,525.8,The indicators suggest that 
+28,12,0,Calibri-Bold,11.0,203.6,514.7,520.0,525.8,Finland is most successful in implementing commitments related to 
+28,12,1,Calibri-Bold,11.0,77.7,529.3,188.1,540.3,Solidarity and inclusion 
+28,12,1,Calibri,11.0,189.1,529.3,520.1,540.3,(II). Finland could strengthen efforts in areas where the impact of digital 
+28,12,2,Calibri,11.0,77.7,543.7,383.9,554.7,"rights initiatives appears to be limited, notably on Sustainability (VI). "
+28,13,0,Calibri,11.0,77.7,565.4,356.2,576.5,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+28,13,0,Calibri-Bold,11.0,356.1,565.4,520.2,576.5,55% of citizens in Finland think that 
+28,13,1,Calibri-Bold,11.0,77.7,579.9,252.5,591.0,the EU protects their digital rights well
+28,13,1,Calibri,11.0,252.6,579.9,520.2,591.0, (a 3% decrease since 2024). This is above the EU average of 
+28,13,2,Calibri,11.0,77.7,594.5,520.2,605.5,44%. Citizens are particularly confident about getting freedom of assembly and of association in the 
+28,13,3,Calibri,11.0,77.7,608.9,520.2,619.9,"digital environment and getting access to safe and privacy-friendly digital technologies (76%, above "
+28,13,4,Calibri,11.0,77.7,623.4,520.2,634.4,the EU average of 59% and 55% respectively). They are most worried that their right to a safe digital 
+28,13,5,Calibri,11.0,77.7,637.9,520.0,648.9,"environment and content for children and young people is not well protected (57%, above the EU "
+28,13,6,Calibri,11.0,77.7,652.4,154.3,663.5,average of 48%). 
+28,14,0,Calibri,11.0,72.0,675.3,74.5,686.4, 
+28,15,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+28,15,1,Calibri,6.0,72.0,749.6,78.1,755.6,12
+28,15,1,Calibri,9.0,78.0,749.8,525.1,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+28,15,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+28,15,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+28,15,2,Calibri,9.0,122.8,760.9,376.9,769.9,". For a more detailed country factsheet accompanying the study, click "
+28,15,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+28,15,2,Calibri,9.0,393.7,760.9,398.1,769.9,. 
+28,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

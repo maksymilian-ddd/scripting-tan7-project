@@ -1,0 +1,1784 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,111.0,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.9,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.7,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.2,384.9,242.5,PART 5/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,267.0,330.9,284.7, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.5,432.4,328.8,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.3,394.3,360.5,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,379.0,373.6,392.3,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,404.8,525.7,418.1,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,418.6,502.9,431.8,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.3,523.5,457.6,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,475.9,486.6,489.1,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,489.7,487.3,502.9, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+2,1,0,Calibri-Bold,40.0,132.7,271.4,499.6,311.4,DIGITAL DECADE 2025
+2,1,0,Calibri,40.0,499.9,271.4,508.9,311.4, 
+2,1,1,Calibri,40.0,132.7,320.2,458.9,360.2,COUNTRY REPORTS 
+2,2,0,Calibri-Bold,28.0,211.9,410.0,297.5,438.0,Cyprus 
+2,3,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+2,3,1,Arial-BoldMT,24.0,298.9,779.8,305.5,806.5, 
+2,3,2,TimesNewRomanPSMT,12.0,525.7,790.8,528.7,804.1, 
+2,3,3,Arial-BoldMT,24.0,565.9,779.8,572.6,806.5, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,89.7,29.6,149.7,49.6,Cyprus 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 2
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 6"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri-Light,11.0,83.1,174.5,401.0,185.5,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.5,523.0,185.5, ......................................... 6
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri-Light,11.0,94.0,194.1,211.8,205.1,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.1,523.0,205.1, .............................................................................................................. 7
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri-Light,11.0,94.0,213.5,164.9,224.5,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.5,523.0,224.5, ............................................................................................................................... 9
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes .................................................................................................................................... 10
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri-Light,11.0,94.0,252.5,194.6,263.6,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.5,523.0,263.6, .................................................................................................................. 10
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 11
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri-Light,11.0,94.0,291.5,268.6,302.6,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.5,523.0,302.6, ....................................................................................... 11
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri-Light,11.0,94.0,311.0,242.4,322.0,Take up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,242.4,311.0,523.0,322.0, ................................................................................................. 12
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri-Light,11.0,94.0,330.5,239.8,341.6,"Unicorns, scale-ups and start-ups"
+3,14,0,Calibri,11.0,239.7,330.5,523.0,341.6, .................................................................................................. 14
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri-Light,11.0,83.1,350.0,264.2,361.0,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.0,523.0,361.0, ......................................................................................... 14
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 17
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri-Light,11.0,83.1,389.0,437.3,400.0,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.0,523.0,400.0, .......................... 17
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Bold,28.0,199.1,381.6,284.8,409.5,Cyprus 
+3,19,0,Calibri-Light,11.0,94.0,408.4,245.1,419.5,Equipping people with digital skills
+3,19,0,Calibri,11.0,245.1,408.4,523.0,419.5, ................................................................................................ 17
+3,19,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,20,0,Calibri-Light,11.0,94.0,428.0,462.5,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,20,0,Calibri,11.0,462.7,428.0,523.0,439.0, ................. 19
+3,20,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,21,0,Calibri-Light,11.0,83.1,447.4,456.9,458.5,Building a safe and human centric digital environment and preserving our democracy
+3,21,0,Calibri,11.0,457.2,447.4,523.0,458.5, ................... 22
+3,21,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,22,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 24
+3,22,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,23,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 26
+3,23,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,24,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 28
+3,24,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,25,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 29
+3,25,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,26,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,27,0,Calibri,11.0,72.0,567.5,74.5,578.5, 
+3,27,1,Calibri,11.0,216.1,567.5,218.5,578.5, 
+3,28,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.5,137.3,Cyprus has made remarkable progress in gigabit connectivity infrastructure but continues to face 
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.8,151.8,"challenges in closing the digital skills gap between different population segments. Nonetheless, the "
+4,4,2,Calibri-Bold,11.0,72.0,155.2,431.2,166.2,country can count on a relatively good share of ICT specialists in employment.  
+4,5,0,Calibri-Bold,11.0,72.0,177.7,525.4,188.8,Cyprus shows a substantial level of ambition in its contribution to the Digital Decade having set 14 
+4,5,1,Calibri-Bold,11.0,72.0,192.1,525.6,203.2,"national targets, 86% of which are aligned with the EU 2030 targets. The country is following its "
+4,5,2,Calibri-Bold,11.0,72.0,206.7,525.8,217.7,trajectories very well with 100% of them being on track (based on the 2024 trajectories defined for 
+4,5,3,Calibri-Bold,11.0,72.0,221.2,525.7,232.2,8 KPIs out of 8 analysed). Cyprus addressed 63% of the 11 recommendations issued by the 
+4,5,4,Calibri-Bold,11.0,72.0,235.7,525.6,246.8,"Commission in 2024, either by implementing significant policy changes (36%) or making some "
+4,5,5,Calibri-Bold,11.0,72.0,250.1,250.3,261.2,changes (27%) through new measures. 
+4,6,0,Calibri,11.0,72.0,272.7,525.7,283.7,"In 2024, the adoption of Artificial Intelligence (AI) by enterprises shows significant progress while "
+4,6,1,Calibri,11.0,72.0,287.2,525.9,298.2,remaining subpar. An AI taskforce has recently been tasked with formulating recommendations for a 
+4,6,2,Calibri,11.0,72.0,301.6,525.8,312.6,"national strategy to harness the growth potential of AI. In addition, last year, Cyprus adopted a new "
+4,6,3,Calibri,11.0,72.0,316.1,525.9,327.2,"national strategy for research and innovation (2024-2026), aimed at positioning the country as a "
+4,6,4,Calibri,11.0,72.0,330.6,525.9,341.7,regional hub for entrepreneurship and high-tech innovation. With regards to the digitalisation of public 
+4,6,5,Calibri,11.0,72.0,345.2,525.8,356.2,"services for citizens, while progress was made last year, the pace of change is not yet sufficient to reach "
+4,6,6,Calibri,11.0,72.0,359.6,525.6,370.6,"the EU average. Nonetheless, Cyprus remains on track according to its national trajectory. The digital "
+4,6,7,Calibri,11.0,72.0,374.1,525.9,385.1,"transformation of the public sector continues to be a priority, with several measures added to the "
+4,6,8,Calibri,11.0,72.0,388.6,417.0,399.6,"revised roadmap, including a measure to improve access to e-health records. "
+4,7,0,Calibri-Bold,7.0,302.2,415.3,321.9,422.3,Cyprus
+4,7,0,SegoeUI,9.0,322.0,410.8,324.5,422.4, 
+4,7,1,Calibri-Bold,7.0,420.9,415.3,428.8,422.3,EU
+4,7,1,Calibri,7.0,428.9,415.3,430.4,422.3, 
+4,7,1,SegoeUI,9.0,430.5,410.8,433.0,422.4, 
+4,7,2,Calibri-Bold,7.0,474.1,411.1,517.4,418.1,Digital Decade 
+4,7,3,Calibri-Bold,7.0,473.4,419.6,516.6,426.6,target by 2030 
+4,7,3,SegoeUI,9.0,516.7,415.2,519.2,426.8, 
+4,8,0,Calibri-Bold,7.0,240.4,434.5,270.5,441.5,DESI 2024 
+4,9,0,Calibri,7.0,97.6,436.6,99.2,443.5, 
+4,9,0,Calibri,14.0,99.1,431.3,205.2,445.3,Digital Decade KPI 
+4,9,0,Calibri,7.0,205.1,432.6,212.9,439.6,(1)
+4,9,0,SegoeUI,9.0,213.1,432.1,215.5,443.7, 
+4,10,0,Calibri-Bold,7.0,352.4,434.5,378.7,441.5,National 
+4,10,1,Calibri-Bold,7.0,350.6,443.0,380.6,450.0,trajectory 
+4,11,0,Calibri-Bold,7.0,274.9,438.7,305.0,445.7,DESI 2025 
+4,11,1,Calibri-Bold,7.0,272.0,447.4,304.7,454.3,(year 2024)
+4,11,1,Calibri,7.0,304.8,447.4,306.3,454.3, 
+4,11,1,SegoeUI,9.0,306.4,442.9,308.9,454.5, 
+4,12,0,Calibri-Bold,7.0,315.3,438.7,337.5,445.7,Annual 
+4,12,1,Calibri-Bold,7.0,312.4,447.4,337.1,454.3,progress
+4,12,1,Calibri,7.0,337.1,447.4,340.4,454.3,  
+4,12,2,SegoeUI,9.0,325.6,444.8,328.1,456.4, 
+4,13,0,Calibri-Bold,7.0,247.2,443.0,263.7,450.0,(year 
+4,13,1,Calibri-Bold,7.0,245.7,451.6,261.9,458.5,2023)
+4,13,1,Calibri,7.0,262.0,451.6,263.6,458.5, 
+4,13,1,SegoeUI,9.0,263.7,447.1,266.2,458.7, 
+4,14,0,Calibri-Bold,7.0,352.1,451.6,375.7,458.5,2024 (3)
+4,14,0,Calibri,7.0,375.8,451.6,377.4,458.5, 
+4,14,0,SegoeUI,9.0,377.5,447.1,379.9,458.7, 
+4,14,1,Calibri-Bold,7.0,390.4,443.0,419.0,450.0,DESI 2025
+4,14,1,Calibri,7.0,419.0,443.0,420.6,450.0, 
+4,14,1,SegoeUI,9.0,420.7,438.6,423.2,450.2, 
+4,14,2,Calibri-Bold,7.0,435.1,438.7,457.3,445.7,Annual 
+4,14,3,Calibri-Bold,7.0,432.2,447.4,456.8,454.3,progress
+4,14,3,Calibri,7.0,456.9,447.4,458.5,454.3, 
+4,14,3,SegoeUI,9.0,458.6,442.9,461.1,454.5, 
+4,14,4,Calibri-Bold,7.0,477.0,443.0,485.9,450.0,CY 
+4,14,4,SegoeUI-Bold,9.0,485.9,438.6,488.3,450.2, 
+4,14,5,Calibri-Bold,7.0,506.3,443.0,514.2,450.0,EU
+4,14,5,Calibri,7.0,514.2,443.0,515.8,450.0, 
+4,14,5,SegoeUI,9.0,515.9,438.6,518.3,450.2, 
+4,15,0,Calibri-Bold,7.0,72.6,469.3,220.7,476.3,Fixed Very High Capacity Network (VHCN) coverage
+4,15,0,Calibri,7.0,221.0,469.3,222.5,476.3, 
+4,15,0,SegoeUI,9.0,222.6,464.8,225.1,476.4, 
+4,15,1,Calibri,7.0,246.1,469.3,263.4,476.3,77.1%
+4,15,1,SegoeUI,7.0,263.5,467.0,265.4,476.0, 
+4,15,2,Calibri,7.0,280.5,469.3,297.8,476.3,89.1%
+4,15,2,SegoeUI,7.0,297.9,467.0,299.8,476.0, 
+4,15,3,Calibri,7.0,317.0,469.3,334.3,476.3,15.5%
+4,15,3,SegoeUI,7.0,334.4,467.0,336.3,476.0, 
+4,15,4,Calibri,7.0,355.3,469.3,375.8,476.3, 72.0% 
+4,15,4,SegoeUI,7.0,375.9,467.0,377.8,476.0, 
+4,15,5,Calibri,7.0,396.8,469.3,414.1,476.3,82.5%
+4,15,5,SegoeUI,7.0,414.2,467.0,416.1,476.0, 
+4,15,6,Calibri,7.0,438.5,469.3,452.3,476.3,4.9%
+4,15,6,SegoeUI,7.0,452.4,467.0,454.3,476.0, 
+4,15,7,Calibri,7.0,471.0,469.3,491.9,476.3,100.0%
+4,15,7,SegoeUI,7.0,492.0,467.0,493.9,476.0, 
+4,15,8,Calibri,7.0,503.3,469.3,518.8,476.3,100%
+4,15,8,SegoeUI,7.0,518.9,467.0,520.8,476.0, 
+4,16,0,Calibri-Bold,7.0,72.6,484.2,181.3,491.2,Fibre to the Premises (FTTP) coverage
+4,16,0,Calibri,7.0,181.4,484.2,182.9,491.2, 
+4,16,0,SegoeUI,9.0,183.1,479.7,185.5,491.3, 
+4,16,1,Calibri,7.0,246.1,484.2,263.4,491.2,77.1%
+4,16,1,SegoeUI,7.0,263.5,481.9,265.4,490.9, 
+4,16,2,Calibri,7.0,280.5,484.2,297.8,491.2,89.1%
+4,16,2,SegoeUI,7.0,297.9,481.9,299.8,490.9, 
+4,16,3,Calibri,7.0,317.0,484.2,334.3,491.2,15.5%
+4,16,3,SegoeUI,7.0,334.4,481.9,336.3,490.9, 
+4,16,4,Calibri,7.0,355.3,484.2,375.8,491.2, 71.2% 
+4,16,4,SegoeUI,7.0,375.9,481.9,377.8,490.9, 
+4,16,5,Calibri,7.0,396.8,484.2,414.1,491.2,69.2%
+4,16,5,SegoeUI,7.0,414.2,481.9,416.1,490.9, 
+4,16,6,Calibri,7.0,438.5,484.2,452.3,491.2,8.4%
+4,16,6,SegoeUI,7.0,452.4,481.9,454.3,490.9, 
+4,16,7,Calibri,7.0,471.0,484.2,491.9,491.2,100.0%
+4,16,7,SegoeUI,7.0,492.0,481.9,493.9,490.9, 
+4,16,8,Calibri,7.0,510.0,484.2,512.1,491.2,-
+4,16,8,SegoeUI,7.0,512.2,481.9,514.1,490.9, 
+4,17,0,Calibri-Bold,7.0,72.6,499.2,130.3,506.2,Overall 5G coverage
+4,17,0,Calibri,7.0,130.5,499.2,132.0,506.2, 
+4,17,0,SegoeUI,9.0,132.1,494.7,134.6,506.3, 
+4,17,1,Calibri,7.0,244.2,499.2,265.2,506.2,100.0%
+4,17,1,SegoeUI,7.0,265.2,496.9,267.2,505.9, 
+4,17,2,Calibri,7.0,278.7,499.2,299.6,506.2,100.0%
+4,17,2,SegoeUI,7.0,299.7,496.9,301.6,505.9, 
+4,17,3,Calibri,7.0,318.7,499.2,332.5,506.2,0.0%
+4,17,3,SegoeUI,7.0,332.6,496.9,334.5,505.9, 
+4,17,4,Calibri,7.0,353.6,499.2,377.6,506.2, 100.0% 
+4,17,4,SegoeUI,7.0,377.7,496.9,379.6,505.9, 
+4,17,5,Calibri,7.0,396.8,499.2,414.1,506.2,94.3%
+4,17,5,SegoeUI,7.0,414.2,496.9,416.1,505.9, 
+4,17,6,Calibri,7.0,438.5,499.2,452.3,506.2,5.9%
+4,17,6,SegoeUI,7.0,452.4,496.9,454.3,505.9, 
+4,17,7,Calibri,7.0,471.0,499.2,491.9,506.2,100.0%
+4,17,7,SegoeUI,7.0,492.0,496.9,493.9,505.9, 
+4,17,8,Calibri,7.0,503.3,499.2,518.8,506.2,100%
+4,17,8,SegoeUI,7.0,518.9,496.9,520.8,505.9, 
+4,18,0,Calibri-Bold,7.0,72.6,514.2,137.6,521.2,Edge Nodes (estimate)
+4,18,0,Calibri,7.0,137.7,514.2,139.2,521.2, 
+4,18,0,SegoeUI,9.0,139.3,509.7,141.8,521.3, 
+4,18,1,Calibri,7.0,252.9,514.2,256.4,521.2,5
+4,18,1,SegoeUI,7.0,256.5,511.9,258.4,520.9, 
+4,18,2,Calibri,7.0,287.4,514.2,290.9,521.2,9
+4,18,2,SegoeUI,7.0,291.0,511.9,292.9,520.9, 
+4,18,3,Calibri,7.0,317.0,514.2,334.3,521.2,80.0%
+4,18,3,SegoeUI,7.0,334.4,511.9,336.3,520.9, 
+4,18,4,Calibri,7.0,363.0,514.2,368.2,521.2, - 
+4,18,4,SegoeUI,7.0,368.2,511.9,370.1,520.9, 
+4,18,5,Calibri,7.0,398.5,514.2,412.6,521.2,2257
+4,18,5,SegoeUI,7.0,412.7,511.9,414.6,520.9, 
+4,18,6,Calibri,7.0,436.7,514.2,454.0,521.2,90.5%
+4,18,6,SegoeUI,7.0,454.1,511.9,456.0,520.9, 
+4,18,7,Calibri,7.0,477.9,514.2,484.9,521.2,10
+4,18,7,SegoeUI,7.0,485.0,511.9,486.9,520.9, 
+4,18,8,Calibri,7.0,502.2,514.2,519.9,521.2,10000
+4,18,8,SegoeUI,7.0,520.0,511.9,521.9,520.9, 
+4,19,0,Calibri-Bold,7.0,72.6,529.1,225.8,536.0,SMEs with at least a basic level of digital intensity (2)
+4,19,0,Calibri,7.0,225.9,529.1,227.5,536.0, 
+4,19,0,SegoeUI,9.0,227.6,524.6,230.0,536.2, 
+4,19,1,Calibri,7.0,253.6,529.1,255.7,536.0,-
+4,19,1,SegoeUI,7.0,255.8,526.8,257.7,535.8, 
+4,19,2,Calibri,7.0,280.5,529.1,297.8,536.0,74.3%
+4,19,2,SegoeUI,7.0,297.9,526.8,299.8,535.8, 
+4,19,3,Calibri,7.0,318.7,529.1,332.5,536.0,3.0%
+4,19,3,SegoeUI,7.0,332.6,526.8,334.5,535.8, 
+4,19,4,Calibri,7.0,363.0,529.1,368.2,536.0, - 
+4,19,4,SegoeUI,7.0,368.2,526.8,370.1,535.8, 
+4,19,5,Calibri,7.0,396.8,529.1,414.1,536.0,72.9%
+4,19,5,SegoeUI,7.0,414.2,526.8,416.1,535.8, 
+4,19,6,Calibri,7.0,438.5,529.1,452.3,536.0,2.8%
+4,19,6,SegoeUI,7.0,452.4,526.8,454.3,535.8, 
+4,19,7,Calibri,7.0,472.8,529.1,490.1,536.0,90.1%
+4,19,7,SegoeUI,7.0,490.2,526.8,492.1,535.8, 
+4,19,8,Calibri,7.0,504.9,529.1,517.0,536.0,90%
+4,19,8,SegoeUI,7.0,517.1,526.8,519.0,535.8, 
+4,20,0,Calibri-Bold,7.0,72.6,544.1,89.2,551.0,Cloud
+4,20,0,Calibri,7.0,89.2,544.1,90.8,551.0, 
+4,20,0,SegoeUI,9.0,90.9,539.6,93.3,551.2, 
+4,20,1,Calibri,7.0,246.1,544.1,263.4,551.0,45.5%
+4,20,1,SegoeUI,7.0,263.5,541.8,265.4,550.8, 
+4,20,2,Calibri,7.0,288.1,544.1,290.2,551.0,-
+4,20,2,SegoeUI,7.0,290.2,541.8,292.1,550.8, 
+4,20,3,Calibri,7.0,324.5,544.1,326.7,551.0,-
+4,20,3,SegoeUI,7.0,326.7,541.8,328.6,550.8, 
+4,20,4,Calibri,7.0,363.0,544.1,368.2,551.0, - 
+4,20,4,SegoeUI,7.0,368.2,541.8,370.1,550.8, 
+4,20,5,Calibri,7.0,404.5,544.1,406.6,551.0,-
+4,20,5,SegoeUI,7.0,406.7,541.8,408.6,550.8, 
+4,20,6,Calibri,7.0,444.3,544.1,446.5,551.0,-
+4,20,6,SegoeUI,7.0,446.5,541.8,448.4,550.8, 
+4,20,7,Calibri,7.0,472.8,544.1,490.1,551.0,75.0%
+4,20,7,SegoeUI,7.0,490.2,541.8,492.1,550.8, 
+4,20,8,Calibri,7.0,504.9,544.1,517.0,551.0,75%
+4,20,8,SegoeUI,7.0,517.1,541.8,519.0,550.8, 
+4,21,0,Calibri-Bold,7.0,72.6,559.0,132.1,565.9,Artificial Intelligence
+4,21,0,Calibri,7.0,132.1,559.0,133.7,565.9, 
+4,21,0,SegoeUI,9.0,133.8,554.5,136.3,566.1, 
+4,21,1,Calibri,7.0,247.7,559.0,261.6,565.9,4.7%
+4,21,1,SegoeUI,7.0,261.6,556.7,263.6,565.7, 
+4,21,2,Calibri,7.0,282.2,559.0,296.0,565.9,7.9%
+4,21,2,SegoeUI,7.0,296.1,556.7,298.0,565.7, 
+4,21,3,Calibri,7.0,317.0,559.0,334.3,565.9,69.2%
+4,21,3,SegoeUI,7.0,334.4,556.7,336.3,565.7, 
+4,21,4,Calibri,7.0,357.1,559.0,374.0,565.9, 8.0% 
+4,21,4,SegoeUI,7.0,374.1,556.7,376.0,565.7, 
+4,21,5,Calibri,7.0,396.8,559.0,414.1,565.9,13.5%
+4,21,5,SegoeUI,7.0,414.2,556.7,416.1,565.7, 
+4,21,6,Calibri,7.0,436.7,559.0,454.0,565.9,67.2%
+4,21,6,SegoeUI,7.0,454.1,556.7,456.0,565.7, 
+4,21,7,Calibri,7.0,472.8,559.0,490.1,565.9,75.0%
+4,21,7,SegoeUI,7.0,490.2,556.7,492.1,565.7, 
+4,21,8,Calibri,7.0,504.9,559.0,517.0,565.9,75%
+4,21,8,SegoeUI,7.0,517.1,556.7,519.0,565.7, 
+4,22,0,Calibri-Bold,7.0,72.6,574.0,113.3,581.0,Data analytics
+4,22,0,Calibri,7.0,113.3,574.0,114.9,581.0, 
+4,22,0,SegoeUI,9.0,115.0,569.5,117.4,581.1, 
+4,22,1,Calibri,7.0,246.1,574.0,263.4,581.0,33.5%
+4,22,1,SegoeUI,7.0,263.5,571.7,265.4,580.7, 
+4,22,2,Calibri,7.0,288.1,574.0,290.2,581.0,-
+4,22,2,SegoeUI,7.0,290.2,571.7,292.1,580.7, 
+4,22,3,Calibri,7.0,324.5,574.0,326.7,581.0,-
+4,22,3,SegoeUI,7.0,326.7,571.7,328.6,580.7, 
+4,22,4,Calibri,7.0,363.0,574.0,368.2,581.0, - 
+4,22,4,SegoeUI,7.0,368.2,571.7,370.1,580.7, 
+4,22,5,Calibri,7.0,404.5,574.0,406.6,581.0,-
+4,22,5,SegoeUI,7.0,406.7,571.7,408.6,580.7, 
+4,22,6,Calibri,7.0,444.3,574.0,446.5,581.0,-
+4,22,6,SegoeUI,7.0,446.5,571.7,448.4,580.7, 
+4,22,7,Calibri,7.0,472.8,574.0,490.1,581.0,75.0%
+4,22,7,SegoeUI,7.0,490.2,571.7,492.1,580.7, 
+4,22,8,Calibri,7.0,504.9,574.0,517.0,581.0,75%
+4,22,8,SegoeUI,7.0,517.1,571.7,519.0,580.7, 
+4,23,0,Calibri-Bold,7.0,72.6,588.9,154.9,595.8,AI or Cloud or Data analytics
+4,23,0,Calibri,7.0,154.9,588.9,156.5,595.8, 
+4,23,0,SegoeUI,9.0,156.6,584.4,159.1,596.0, 
+4,23,1,Calibri,7.0,246.1,588.9,263.4,595.8,58.0%
+4,23,1,SegoeUI,7.0,263.5,586.6,265.4,595.6, 
+4,23,2,Calibri,7.0,288.1,588.9,290.2,595.8,-
+4,23,2,SegoeUI,7.0,290.2,586.6,292.1,595.6, 
+4,23,3,Calibri,7.0,324.5,588.9,326.7,595.8,-
+4,23,3,SegoeUI,7.0,326.7,586.6,328.6,595.6, 
+4,23,4,Calibri,7.0,363.0,588.9,368.2,595.8, - 
+4,23,4,SegoeUI,7.0,368.2,586.6,370.1,595.6, 
+4,23,5,Calibri,7.0,404.5,588.9,406.6,595.8,-
+4,23,5,SegoeUI,7.0,406.7,586.6,408.6,595.6, 
+4,23,6,Calibri,7.0,444.3,588.9,446.5,595.8,-
+4,23,6,SegoeUI,7.0,446.5,586.6,448.4,595.6, 
+4,23,7,Calibri,7.0,480.3,588.9,482.5,595.8,-
+4,23,7,SegoeUI,7.0,482.5,586.6,484.4,595.6, 
+4,23,8,Calibri,7.0,504.9,588.9,517.0,595.8,75%
+4,23,8,SegoeUI,7.0,517.1,586.6,519.0,595.6, 
+4,24,0,Calibri-Bold,7.0,72.6,603.9,98.3,610.8,Unicorns
+4,24,0,Calibri,7.0,98.3,603.9,99.9,610.8, 
+4,24,0,SegoeUI,9.0,100.0,599.4,102.5,611.0, 
+4,24,1,Calibri,7.0,252.9,603.9,256.4,610.8,3
+4,24,1,SegoeUI,7.0,256.5,601.6,258.4,610.6, 
+4,24,2,Calibri,7.0,287.4,603.9,290.9,610.8,3
+4,24,2,SegoeUI,7.0,291.0,601.6,292.9,610.6, 
+4,24,3,Calibri,7.0,318.7,603.9,332.5,610.8,0.0%
+4,24,3,SegoeUI,7.0,332.6,601.6,334.5,610.6, 
+4,24,4,Calibri,7.0,363.0,603.9,368.2,610.8, - 
+4,24,4,SegoeUI,7.0,368.2,601.6,370.1,610.6, 
+4,24,5,Calibri,7.0,400.2,603.9,410.8,610.8,286
+4,24,5,SegoeUI,7.0,410.9,601.6,412.8,610.6, 
+4,24,6,Calibri,7.0,438.5,603.9,452.3,610.8,4.4%
+4,24,6,SegoeUI,7.0,452.4,601.6,454.3,610.6, 
+4,24,7,Calibri,7.0,479.6,603.9,483.1,610.8,5
+4,24,7,SegoeUI,7.0,483.2,601.6,485.1,610.6, 
+4,24,8,Calibri,7.0,505.7,603.9,516.3,610.8,500
+4,24,8,SegoeUI,7.0,516.4,601.6,518.3,610.6, 
+4,25,0,Calibri-Bold,7.0,72.6,618.9,145.9,625.8,At least basic digital skills
+4,25,0,Calibri,7.0,145.9,618.9,147.5,625.8, 
+4,25,0,SegoeUI,9.0,147.6,614.4,150.1,626.0, 
+4,25,1,Calibri,7.0,246.1,618.9,263.4,625.8,49.5%
+4,25,1,SegoeUI,7.0,263.5,616.6,265.4,625.6, 
+4,25,2,Calibri,7.0,288.1,618.9,290.2,625.8,-
+4,25,2,SegoeUI,7.0,290.2,616.6,292.1,625.6, 
+4,25,3,Calibri,7.0,324.5,618.9,326.7,625.8,-
+4,25,3,SegoeUI,7.0,326.7,616.6,328.6,625.6, 
+4,25,4,Calibri,7.0,363.0,618.9,368.2,625.8, - 
+4,25,4,SegoeUI,7.0,368.2,616.6,370.1,625.6, 
+4,25,5,Calibri,7.0,404.5,618.9,406.6,625.8,-
+4,25,5,SegoeUI,7.0,406.7,616.6,408.6,625.6, 
+4,25,6,Calibri,7.0,444.3,618.9,446.5,625.8,-
+4,25,6,SegoeUI,7.0,446.5,616.6,448.4,625.6, 
+4,25,7,Calibri,7.0,472.8,618.9,490.1,625.8,80.0%
+4,25,7,SegoeUI,7.0,490.2,616.6,492.1,625.6, 
+4,25,8,Calibri,7.0,504.9,618.9,517.0,625.8,80%
+4,25,8,SegoeUI,7.0,517.1,616.6,519.0,625.6, 
+4,26,0,Calibri-Bold,7.0,72.6,633.8,112.7,640.7,ICT specialists
+4,26,0,Calibri,7.0,112.7,633.8,114.3,640.7, 
+4,26,0,SegoeUI,9.0,114.4,629.3,116.8,640.9, 
+4,26,1,Calibri,7.0,247.7,633.8,261.6,640.7,5.6%
+4,26,1,SegoeUI,7.0,261.6,631.5,263.6,640.4, 
+4,26,2,Calibri,7.0,282.2,633.8,296.0,640.7,5.0%
+4,26,2,SegoeUI,7.0,296.1,631.5,298.0,640.4, 
+4,26,3,Calibri,7.0,315.9,633.8,335.4,640.7,-10.7%
+4,26,3,SegoeUI,7.0,335.5,631.5,337.4,640.4, 
+4,26,4,Calibri,7.0,357.1,633.8,374.0,640.7, 5.2% 
+4,26,4,SegoeUI,7.0,374.1,631.5,376.0,640.4, 
+4,26,5,Calibri,7.0,398.6,633.8,412.5,640.7,5.0%
+4,26,5,SegoeUI,7.0,412.5,631.5,414.4,640.4, 
+4,26,6,Calibri,7.0,438.5,633.8,452.3,640.7,4.2%
+4,26,6,SegoeUI,7.0,452.4,631.5,454.3,640.4, 
+4,26,7,Calibri,7.0,472.8,633.8,490.1,640.7,10.0%
+4,26,7,SegoeUI,7.0,490.2,631.5,492.1,640.4, 
+4,26,8,Calibri,7.0,503.3,633.8,518.8,640.7,~10%
+4,26,8,SegoeUI,7.0,518.9,631.5,520.8,640.4, 
+4,27,0,Calibri-Bold,7.0,72.6,648.8,141.1,655.7,eID scheme notification
+4,27,0,Calibri,7.0,141.1,648.8,142.7,655.7, 
+4,27,0,SegoeUI,9.0,142.8,644.3,145.3,655.9, 
+4,27,1,Calibri,7.0,254.0,648.8,255.5,655.7, 
+4,27,1,SegoeUI,7.0,255.5,646.5,257.4,655.4, 
+4,27,2,Calibri,7.0,284.6,648.8,295.3,655.7,Yes 
+4,27,3,Calibri,7.0,324.9,648.8,326.5,655.7, 
+4,27,3,SegoeUI,7.0,326.5,646.5,328.4,655.4, 
+4,27,4,Calibri,7.0,364.0,648.8,365.6,655.7, 
+4,27,4,SegoeUI,7.0,365.6,646.5,367.5,655.4, 
+4,27,5,Calibri,7.0,404.7,648.8,406.3,655.7, 
+4,27,5,SegoeUI,7.0,406.3,646.5,408.2,655.4, 
+4,27,6,Calibri,7.0,444.6,648.8,446.2,655.7, 
+4,27,6,SegoeUI,7.0,446.1,646.5,448.0,655.4, 
+4,27,7,Calibri,7.0,480.7,648.8,482.3,655.7, 
+4,27,7,SegoeUI,7.0,482.3,646.5,484.2,655.4, 
+4,27,8,Calibri,7.0,510.2,648.8,511.8,655.7, 
+4,27,8,SegoeUI,7.0,511.8,646.5,513.7,655.4, 
+4,28,0,Calibri-Bold,7.0,72.6,663.6,168.1,670.6,Digital public services for citizens
+4,28,0,Calibri,7.0,168.1,663.6,169.7,670.6, 
+4,28,0,SegoeUI,9.0,169.9,659.1,172.3,670.8, 
+4,28,1,Calibri,7.0,248.6,663.6,260.9,670.6,74.0
+4,28,1,SegoeUI,7.0,260.9,661.4,262.8,670.3, 
+4,28,2,Calibri,7.0,283.0,663.6,295.3,670.6,77.6
+4,28,2,SegoeUI,7.0,295.4,661.4,297.3,670.3, 
+4,28,3,Calibri,7.0,318.7,663.6,332.5,670.6,5.0%
+4,28,3,SegoeUI,7.0,332.6,661.4,334.5,670.3, 
+4,28,4,Calibri,7.0,357.8,663.6,373.3,670.6, 71.5 
+4,28,4,SegoeUI,7.0,373.4,661.4,375.3,670.3, 
+4,28,5,Calibri,7.0,399.3,663.6,411.6,670.6,82.3
+4,28,5,SegoeUI,7.0,411.7,661.4,413.6,670.3, 
+4,28,6,Calibri,7.0,438.5,663.6,452.3,670.6,3.6%
+4,28,6,SegoeUI,7.0,452.4,661.4,454.3,670.3, 
+4,28,7,Calibri,7.0,473.5,663.6,489.4,670.6,100.0
+4,28,7,SegoeUI,7.0,489.5,661.4,491.4,670.3, 
+4,28,8,Calibri,7.0,505.7,663.6,516.3,670.6,100
+4,28,8,SegoeUI,7.0,516.4,661.4,518.3,670.3, 
+4,29,0,Calibri-Bold,7.0,72.6,678.6,177.8,685.6,Digital public services for businesses
+4,29,0,Calibri,7.0,177.9,678.6,179.5,685.6, 
+4,29,0,SegoeUI,9.0,179.6,674.1,182.0,685.8, 
+4,29,1,Calibri,7.0,248.6,678.6,260.9,685.6,86.1
+4,29,1,SegoeUI,7.0,260.9,676.4,262.8,685.3, 
+4,29,2,Calibri,7.0,283.0,678.6,295.3,685.6,86.0
+4,29,2,SegoeUI,7.0,295.4,676.4,297.3,685.3, 
+4,29,3,Calibri,7.0,317.7,678.6,333.6,685.6,-0.1%
+4,29,3,SegoeUI,7.0,333.7,676.4,335.6,685.3, 
+4,29,4,Calibri,7.0,357.8,678.6,373.3,685.6, 89.8 
+4,29,4,SegoeUI,7.0,373.4,676.4,375.3,685.3, 
+4,29,5,Calibri,7.0,399.3,678.6,411.6,685.6,86.2
+4,29,5,SegoeUI,7.0,411.7,676.4,413.6,685.3, 
+4,29,6,Calibri,7.0,438.5,678.6,452.3,685.6,0.9%
+4,29,6,SegoeUI,7.0,452.4,676.4,454.3,685.3, 
+4,29,7,Calibri,7.0,473.5,678.6,489.4,685.6,100.0
+4,29,7,SegoeUI,7.0,489.5,676.4,491.4,685.3, 
+4,29,8,Calibri,7.0,505.7,678.6,516.3,685.6,100
+4,29,8,SegoeUI,7.0,516.4,676.4,518.3,685.3, 
+4,30,0,Calibri-Bold,7.0,72.6,693.6,149.1,700.6,Access to e-Health records
+4,30,0,Calibri,7.0,149.1,693.6,150.6,700.6, 
+4,30,0,SegoeUI,9.0,150.7,689.1,153.2,700.8, 
+4,30,1,Calibri,7.0,248.6,693.6,260.9,700.6,68.1
+4,30,1,SegoeUI,7.0,260.9,691.4,262.8,700.3, 
+4,30,2,Calibri,7.0,283.0,693.6,295.3,700.6,75.4
+4,30,2,SegoeUI,7.0,295.4,691.4,297.3,700.3, 
+4,30,3,Calibri,7.0,317.0,693.6,334.3,700.6,10.7%
+4,30,3,SegoeUI,7.0,334.4,691.4,336.3,700.3, 
+4,30,4,Calibri,7.0,357.8,693.6,373.3,700.6, 74.1 
+4,30,4,SegoeUI,7.0,373.4,691.4,375.3,700.3, 
+4,30,5,Calibri,7.0,399.3,693.6,411.6,700.6,82.7
+4,30,5,SegoeUI,7.0,411.7,691.4,413.6,700.3, 
+4,30,6,Calibri,7.0,438.5,693.6,452.3,700.6,4.5%
+4,30,6,SegoeUI,7.0,452.4,691.4,454.3,700.3, 
+4,30,7,Calibri,7.0,473.5,693.6,489.4,700.6,100.0
+4,30,7,SegoeUI,7.0,489.5,691.4,491.4,700.3, 
+4,30,8,Calibri,7.0,505.7,693.6,516.3,700.6,100
+4,30,8,SegoeUI,7.0,516.4,691.4,518.3,700.3, 
+4,31,0,Calibri,7.0,75.5,705.8,322.5,712.7,(1) See the methodological note for the description of the indicators and other metrics 
+4,31,1,Calibri,7.0,75.5,714.3,503.5,721.2,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, which is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,31,2,Calibri,7.0,75.5,722.8,403.8,729.8,calculation of the annual progress. It is not comparable to the national trajectory is based on version 3 of the index. 
+4,31,3,Calibri,7.0,75.5,731.3,420.5,738.3,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+4,31,3,SegoeUI,9.0,420.8,726.8,423.3,738.5, 
+4,31,4,Calibri,11.0,72.0,741.5,74.5,752.5, 
+4,32,0,Calibri,11.0,294.9,795.4,302.9,806.4,2 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+5,3,0,Calibri-Bold,11.0,72.0,84.0,354.2,95.1,According to the Special Eurobarometer ‘Digital Decade 2025’
+5,3,0,Calibri,11.0,354.4,84.0,525.8,95.1,", 81% of Cypriot citizens consider that "
+5,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,the digitalisation of daily public and private services is making their lives easier. On the action of the 
+5,3,2,Calibri,11.0,72.0,112.9,525.6,124.0,"public authorities, 91% consider it important to counter and mitigate the issue of fake news and "
+5,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"disinformation online, and on competitiveness, 87% consider it important to ensure that European "
+5,3,4,Calibri,11.0,72.0,142.0,464.6,153.0,companies can grow and become ‘European Champions’ capable of competing globally. 
+5,4,0,Calibri-Light,15.0,72.0,169.2,466.9,184.2,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Light,15.0,72.0,189.0,138.1,204.0,leadership 
+5,5,0,Calibri,11.0,72.0,215.9,525.7,226.9,"Cyprus demonstrates strong performance in all connectivity indicators, with outstanding results in "
+5,5,1,Calibri,11.0,72.0,230.4,523.2,241.5,"gigabit coverage (VHCN and FTTP), as well as in overall 5G coverage. The share of small and medium-"
+5,5,2,Calibri,11.0,72.0,245.0,525.8,256.0,"size enterprises (SMEs) having at least a basic level of digital intensity is progressing quite well, slightly "
+5,5,3,Calibri,11.0,72.0,259.5,525.9,270.5,"faster than the EU average. Enterprises are also increasingly making use of AI technologies, but uptake "
+5,5,4,Calibri,11.0,72.0,273.9,525.9,284.9,"remains relatively low compared to the EU. The AI taskforce, recently appointed to promote the wider "
+5,5,5,Calibri,11.0,72.0,288.4,525.8,299.5,"adoption and use of Artificial Intelligence (AI) in Cyprus, will focus on reinforcing research and "
+5,5,6,Calibri,11.0,72.0,302.9,525.7,314.0,"development, innovation, and practical applications for economic growth. The country can also rely "
+5,5,7,Calibri,11.0,72.0,317.4,525.9,328.5,"on a very vibrant startup ecosystem, which is growing fast. Cybersecurity is another of Cyprus’s priority "
+5,5,8,Calibri,11.0,72.0,331.8,525.8,342.9,"areas, with a new measure added in the roadmap to reinforce the country’s capacity to respond to "
+5,5,9,Calibri,11.0,72.0,346.4,525.7,357.4,"growing threats and support SMEs and startups in managing cybersecurity risks. In parallel, Cyprus is "
+5,5,10,Calibri,11.0,72.0,360.9,525.6,371.9,working with other EU countries to set up a coalition that addresses the cybersecurity skills shortage 
+5,5,11,Calibri,11.0,72.0,375.4,117.7,386.4,in the EU. 
+5,6,0,Calibri-Light,15.0,72.0,398.7,379.5,413.7,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,425.7,525.8,436.8,"Cyprus faces a challenge in terms of digital skills, with only 49.46% of the population having at least a "
+5,7,1,Calibri,11.0,72.0,440.1,525.9,451.1,"basic level of digital skills, with significant gaps between education levels and age groups. The revised "
+5,7,2,Calibri,11.0,72.0,454.6,525.9,465.7,roadmap upgraded a measure aimed at developing of digital skills through customised training for 
+5,7,3,Calibri,11.0,72.0,469.1,525.8,480.2,"specific groups. In 2024, the share of ICT specialists in employment decreased slightly to 5.0% "
+5,7,4,Calibri,11.0,72.0,483.7,525.9,494.7,"compared to 5.6% in 2023, although it is still at the EU average. Meanwhile, the digitalisation of public "
+5,7,5,Calibri,11.0,72.0,498.1,525.6,509.1,"services for citizens has made progress but remains below the EU average, and online public services "
+5,7,6,Calibri,11.0,72.0,512.6,525.9,523.6,"for businesses are stagnating. Access to e-health records, while improving, remains below the EU "
+5,7,7,Calibri,11.0,72.0,527.1,525.8,538.2,"average. Nonetheless, the revised roadmap demonstrates Cyprus’s commitment to leveraging digital "
+5,7,8,Calibri,11.0,72.0,541.6,471.9,552.7,health technologies with three additional measures aimed at improving e-health records. 
+5,8,0,Calibri-Light,15.0,72.0,565.0,399.0,580.0,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,591.8,525.8,602.9,Cyprus is developing a broad strategy for smart cities where digital technologies will play a major role 
+5,9,1,Calibri,11.0,72.0,606.3,525.7,617.4,in minimising environmental impact. The national digital strategy also acknowledges the importance 
+5,9,2,Calibri,11.0,72.0,620.9,525.9,631.9,"of reducing the environmental footprint of the digital sector. Furthermore, the Cyprus’ Smart "
+5,9,3,Calibri,11.0,72.0,635.4,525.7,646.4,Specialisation Strategy 2030 explicitly recognises the critical role of digital technologies in supporting 
+5,9,4,Calibri,11.0,72.0,649.8,525.8,660.8,"the green transition, promoting the development of energy-efficient digital solutions and "
+5,9,5,Calibri,11.0,72.0,664.3,525.9,675.3,"infrastructures. However, the adjustment of the roadmap does not fully reflect the adoption of an "
+5,9,6,Calibri,11.0,72.0,678.8,348.8,689.9,overall approach for twinning the digital and green transition. 
+5,10,0,Calibri-Light,15.0,72.0,702.1,325.7,717.1,National digital decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,729.1,525.9,740.2,"Cyprus submitted an updated national Digital Decade roadmap on 13 January 2025, with 11 additional "
+5,11,1,Calibri,11.0,72.0,743.5,525.9,754.6,"measures, 6 revised measures and an adjusted trajectory for ICT specialists that aligns with the "
+5,11,2,Calibri,11.0,72.0,758.0,525.7,769.1,"EU 2030 target. Two missing targets and trajectories have been added for unicorns and edge nodes, "
+5,12,0,Calibri,11.0,294.9,795.4,302.9,806.4,3 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+6,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"completing the set of 14 national targets and trajectories. Except for unicorns, all targets are aligned "
+6,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,with the EU’s level goals for 2030. The adjustment also includes reporting on the consultation of 
+6,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"stakeholders. Overall, it addresses a substantial number of roadmap recommendations issued in 2024. "
+6,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"The revised roadmap is composed of 62 measures with a budget of EUR 988.4 million, comprising "
+6,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,EUR 738.4 million from public funds (equivalent to 2.21% of GDP). Although it sets out measures for 
+6,3,5,Calibri,11.0,72.0,156.4,525.5,167.4,"most of the targets, there is room to further consolidate action in some areas, such as basic digital "
+6,3,6,Calibri,11.0,72.0,170.9,342.4,181.9,skills and the digitalisation of public services for businesses.  
+6,4,0,Calibri,11.0,72.0,193.5,523.6,204.5,"As Cyprus’s 2020-2025 Digital Strategy comes to an end in 2025, a new comprehensive strategy (2026-"
+6,4,1,Calibri,11.0,72.0,207.9,525.9,218.9,2030) will be developed in line with EU wide strategic goals. It will focus notably on accelerating the 
+6,4,2,Calibri,11.0,72.0,222.4,525.9,233.4,"digital transformation across four key pillars — digital skills, digital infrastructure, digitalisation of "
+6,4,3,Calibri,11.0,72.0,236.9,525.8,248.0,"businesses, and digital public services — while integrating horizontal priorities such as artificial "
+6,4,4,Calibri,11.0,72.0,251.4,525.9,262.5,"intelligence, interoperability, and data governance. It is expected to support the Digital Decade’s goals, "
+6,4,5,Calibri,11.0,72.0,265.9,349.0,276.9,reduce the administrative burden and boost competitiveness. 
+6,5,0,Calibri-Light,15.0,72.0,289.3,249.8,304.3,Funding & projects for digital 
+6,6,0,Calibri,11.0,72.0,316.1,463.6,327.2,Cyprus allocates 25% of its total recovery and resilience plan to digital (EUR 274 million)
+6,6,0,Calibri,7.0,463.7,315.2,467.2,322.2,1
+6,6,0,Calibri,11.0,467.1,316.1,525.9,327.2,". In addition, "
+6,6,1,Calibri,11.0,72.0,330.6,525.8,341.7,"under cohesion policy, EUR 113 million, representing 12% of the country’s total cohesion policy "
+6,6,2,Calibri,11.0,72.0,345.2,383.1,356.2,"funding, is dedicated to advancing Cyprus’ digital transformation"
+6,6,2,Calibri,7.0,383.1,344.3,386.6,351.2,2
+6,6,2,Calibri,11.0,386.6,345.2,525.8,356.2,.Cyprus is a member of the 
+6,6,3,Calibri,11.0,72.0,359.6,525.7,370.6,EUROPEUM-EDIC on blockchain. It is also a participating state of the EuroHPC Joint Undertaking (JU) 
+6,6,4,Calibri,11.0,72.0,374.1,165.2,385.1,and of the Chips JU.  
+6,7,0,Calibri,11.0,72.0,396.7,496.5,407.7,Cyprus is not yet active in contributing to the Digital Decade’s Best Practice Accelerator
+6,7,0,Calibri,7.0,496.5,395.7,500.1,402.7,3
+6,7,0,Calibri,11.0,500.0,396.7,525.9,407.7,", but "
+6,7,1,Calibri,11.0,72.0,411.1,362.0,422.1,participated in the workshops organised in the different clusters. 
+6,8,0,Calibri-Light,15.0,72.0,434.5,238.3,449.5,Digital rights and principles 
+6,9,0,Calibri,11.0,72.0,461.3,477.1,472.4,"According to a support study, Cyprus has been relatively active in implementing the "
+6,9,0,Calibri-Bold,11.0,479.7,461.3,525.9,472.4,European 
+6,9,1,Calibri-Bold,11.0,72.0,475.9,268.1,486.9,Declaration on Digital Rights and Principles
+6,9,1,Calibri,11.0,268.2,475.9,525.8,486.9,", with 42 initiatives overall and 3 new initiatives launched "
+6,9,2,Calibri,11.0,72.0,490.4,525.6,501.4,"in 2024. Cyprus is mostly active in digital education, training and skills, while less activity has been "
+6,9,3,Calibri,11.0,72.0,504.8,525.8,515.8,identified with regards to the interactions with algorithms and artificial intelligence systems. Measures 
+6,9,4,Calibri,11.0,72.0,519.3,525.8,530.3,"to put people at the centre of the digital transformation appear to have most impact on the ground, "
+6,9,5,Calibri,11.0,72.0,533.8,298.4,544.9,in contrast to those addressing freedom of choice. 
+6,10,0,Calibri,11.0,72.0,556.3,74.5,567.3, 
+6,11,0,Calibri,11.0,216.1,658.7,218.5,669.7, 
+6,11,1,Calibri,6.0,72.0,671.4,75.1,677.4,1
+6,11,1,Calibri,9.0,75.0,671.7,524.9,680.7, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,11,2,Calibri,9.0,72.0,682.8,313.5,691.8,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,11,3,Calibri,6.0,72.0,693.4,75.1,699.4,2
+6,11,3,Calibri,9.0,75.0,693.7,523.2,702.7, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,11,4,Calibri,9.0,72.0,704.7,525.0,713.7,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,11,5,Calibri,9.0,72.0,715.6,315.5,724.6,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,11,6,Calibri,6.5,72.0,726.1,75.3,732.5,3
+6,11,6,Calibri,10.0,75.3,726.9,77.5,736.9, 
+6,11,6,Calibri,9.0,77.5,727.6,525.1,736.6,The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,11,7,Calibri,9.0,72.0,738.9,525.5,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,11,8,Calibri,9.0,72.0,749.8,525.2,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,11,9,Calibri,9.0,72.0,760.9,248.5,769.9,"Green IT, and the Uptake of Digital Technologies."
+6,11,9,Calibri,10.0,248.7,760.2,250.9,770.1, 
+6,12,0,Calibri,11.0,294.9,795.4,302.9,806.4,4 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+7,3,0,Calibri-Bold,11.0,77.7,84.5,165.4,95.5,Recommendations 
+7,3,1,ArialMT,11.0,77.7,99.2,84.5,111.5,- 
+7,3,2,Calibri-Bold,11.0,95.7,100.9,174.9,112.0,Basic digital skills
+7,3,2,Calibri,11.0,175.0,100.9,526.7,112.0,: Strengthen and expand targeted initiatives to enhance digital literacy among 
+7,3,3,Calibri,11.0,95.7,115.3,526.8,126.4,"vulnerable groups. Provide accessible and tailored training programmes, and targeted awareness "
+7,3,4,Calibri,11.0,95.7,129.9,273.9,140.9,raising actions to bridge the digital gap. 
+7,3,5,ArialMT,11.0,77.7,142.7,84.5,155.0,- 
+7,3,6,Calibri-Bold,11.0,95.7,144.4,194.5,155.4,Digital public services
+7,3,6,Calibri,11.0,194.6,144.4,526.7,155.4,: Accelerate the implementation of the digital transformation strategy for 
+7,3,7,Calibri,11.0,95.7,158.9,507.6,169.9,"the public sector, prioritising seamless and inclusive access to digital services for all citizens. "
+7,3,8,ArialMT,11.0,77.7,171.7,84.5,184.0,- 
+7,3,9,Calibri-Bold,11.0,95.7,173.4,227.2,184.5,Adoption of AI by businesses
+7,3,9,Calibri,11.0,227.3,173.4,526.7,184.5,": Sustain the efforts, with a special attention to SMEs’ uptake of AI, "
+7,3,10,Calibri,11.0,95.7,187.8,237.7,198.9,in the design of the AI strategy. 
+7,3,11,ArialMT,11.0,77.7,200.6,84.5,212.9,- 
+7,3,12,Calibri-Bold,11.0,95.7,202.3,216.2,213.4,Access to e-health records
+7,3,12,Calibri,11.0,216.2,202.3,524.7,213.4,: Ensure a comprehensive approach and swift implementation of on-
+7,3,13,Calibri,11.0,95.7,216.9,324.0,227.9,going projects to allow access to e-health records.  
+7,3,14,ArialMT,11.0,77.7,229.7,84.5,242.0,- 
+7,3,15,Calibri-Bold,11.0,95.7,231.4,166.6,242.4,Smart greening
+7,3,15,Calibri-Italic,11.0,166.6,231.4,169.5,242.4,:
+7,3,15,Calibri,11.0,169.6,231.4,526.7,242.4, Enhance efforts to develop an integrated approach for the digital and green 
+7,3,16,Calibri,11.0,95.7,245.8,526.8,256.8,"transition, specifically to improve the energy efficiency of digital infrastructure, and to accelerate "
+7,3,17,Calibri,11.0,95.7,260.3,466.2,271.4,the deployment of digital solutions to reduce the carbon footprint in other sectors.
+7,3,17,Calibri,11.0,466.2,260.3,468.7,271.4, 
+7,4,0,Calibri-BoldItalic,11.0,72.0,278.3,74.5,289.4, 
+7,4,1,Calibri-BoldItalic,11.0,216.1,278.3,218.5,289.4, 
+7,5,0,Calibri,11.0,294.9,795.4,302.9,806.4,5 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.9,171.5,Cyprus’s significant achievement in the deployment of gigabit connectivity infrastructure is a crucial 
+8,4,1,Calibri-Bold,11.0,72.0,175.0,300.7,186.0,asset for digital transition and economic growth
+8,4,1,Calibri,11.0,300.8,175.0,525.9,186.0,". Since 2022, the country also benefits from 5G "
+8,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,coverage in 100% of populated areas. The Department of Electronic Communications of the Deputy 
+8,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"Ministry of Research, Innovation and Digital Policy (DMRID) continues to implement digital "
+8,4,4,Calibri,11.0,72.0,218.4,525.9,229.5,"transformation reforms and investments, which constitutes a governmental priority to leverage the "
+8,4,5,Calibri,11.0,72.0,233.0,281.9,244.0,innovation and digital potential of the country. 
+8,5,0,Calibri-Bold,11.0,72.0,255.4,525.9,266.5,A new National Strategy for R&I (2024-2026) has been developed to promote Cyprus as a regional 
+8,5,1,Calibri-Bold,11.0,72.0,269.9,300.1,281.0,hub for research and innovation entrepreneurship
+8,5,1,Calibri,11.0,300.1,269.9,525.9,281.0,". In particular, it will include state-of-the-art digital "
+8,5,2,Calibri,11.0,72.0,284.4,525.7,295.5,"technologies such as high-performance computing, cybersecurity and quantum technologies to "
+8,5,3,Calibri,11.0,72.0,299.0,525.9,310.0,"develop solutions for agriculture, water management and smart cities. Cyprus also established a "
+8,5,4,Calibri,11.0,72.0,313.4,525.8,324.4,national Artificial Intelligence (AI) Taskforce to address the challenges and opportunities represented 
+8,5,5,Calibri,11.0,72.0,327.9,525.7,338.9,"by this cutting-edge technology to enhance the economy, ensure competitiveness, and improve the "
+8,5,6,Calibri,11.0,72.0,342.4,186.3,353.4,quality of life for citizens. 
+8,6,0,Calibri-Bold,11.0,72.0,364.8,525.6,375.9,"In 2021, the R&D expenditure of businesses in the ICT sector represented 66.74% in Cyprus, the "
+8,6,1,Calibri-Bold,11.0,72.0,379.4,253.1,390.4,highest share by far among EU countries
+8,6,1,Calibri,11.0,253.1,379.4,525.9,390.4,. At 55.91% the proportion of R&D personnel in the ICT sector 
+8,6,2,Calibri,11.0,72.0,393.9,525.9,404.9,"is also the highest in the EU. However, this needs to be put in perspective: with the R&D expenditure "
+8,6,3,Calibri,11.0,72.0,408.4,441.5,419.5,"relative to GDP, which in 2023 was at 0.68% for Cyprus among the lowest in the EU"
+8,6,3,Calibri,7.0,441.6,407.5,445.1,414.5,4
+8,6,3,Calibri,11.0,445.1,408.4,525.9,419.5,". Despite this, the "
+8,6,4,Calibri,11.0,72.0,422.8,525.9,433.9,2024 European Innovation Scoreboard ranks Cyprus as a ‘strong Innovator’ for the third consecutive 
+8,6,5,Calibri,11.0,72.0,437.3,525.7,448.4,"year, underscoring the country’s effective innovation ecosystem and capacity to achieve innovation "
+8,6,6,Calibri,11.0,72.0,451.9,121.3,462.9,outcomes. 
+8,7,0,Calibri-Bold,11.0,72.0,474.3,444.8,485.4,Cyprus’ start-up ecosystem is very dynamic and is experiencing rapid expansion
+8,7,0,Calibri,11.0,444.8,474.3,525.9,485.4,. Its performance 
+8,7,1,Calibri,11.0,72.0,488.8,525.9,499.9,helped to draw attention to Cyprus as an emerging place for innovation and entrepreneurship. 
+8,7,2,Calibri,11.0,72.0,503.3,147.0,514.4,According to the 
+8,7,2,Calibri,11.0,147.0,503.3,285.2,514.4,Global Startup Ecosystem Index
+8,7,2,Calibri,11.0,285.3,503.3,523.6,514.4,", the Cypriot ecosystem is the fastest-growing EU start-"
+8,7,3,Calibri,11.0,72.0,517.9,409.2,528.9,"up hub:, it now has more than 400 start-ups, five times more than in 2020.  "
+8,8,0,Calibri-Bold,11.0,72.0,540.3,525.9,551.3,"With growing demand and sovereignty becoming central to the digital transition, the deployment "
+8,8,1,Calibri-Bold,11.0,72.0,554.8,384.6,565.9,of a new submarine cable passing by Cyprus is of strategic importance
+8,8,1,Calibri,11.0,384.7,554.8,525.9,565.9,. The BlueMed submarine cable 
+8,8,2,Calibri,11.0,72.0,569.4,525.9,580.4,"will reinforce the country’s backbone digital infrastructure, connecting Cyprus with several countries "
+8,8,3,Calibri,11.0,72.0,583.8,525.9,594.8,bordering the Mediterranean and beyond. Another challenge that Cyprus is addressing is the 
+8,8,4,Calibri,11.0,72.0,598.3,427.4,609.3,increasing prevalence of AI. According to the Digital Decade Eurobarometer 2025
+8,8,4,Calibri,7.0,427.4,597.4,430.9,604.4,5
+8,8,4,Calibri,11.0,430.9,598.3,525.9,609.3,", 91% of respondents "
+8,8,5,Calibri,11.0,72.0,612.8,525.8,623.9,in Cyprus consider that building efficient and secure digital infrastructures and data processing facilities 
+8,8,6,Calibri,11.0,72.0,627.3,277.5,638.4,should be a priority for the public authorities. 
+8,9,0,Calibri-Light,15.0,72.0,650.6,509.7,665.6,Building technological leadership: digital infrastructure and technologies 
+8,10,0,Calibri,11.0,72.0,677.5,525.9,688.5,Cyprus’s gigabit connectivity infrastructure roll-out is clearly accelerating with a very positive outlook 
+8,10,1,Calibri,11.0,72.0,692.0,525.9,703.1,"to achieve the target 2030. Cyprus demonstrates strong performance in all connectivity indicators, "
+8,10,2,Calibri,11.0,72.0,706.5,525.9,717.6,"with notable achievements in gigabit coverage (VHCN and FTTP), and in overall 5G coverage. However, "
+8,11,0,Calibri,11.0,216.1,723.4,218.5,734.4, 
+8,11,1,Calibri,6.5,72.0,735.9,75.3,742.4,4
+8,11,1,Calibri,10.0,75.3,736.8,77.5,746.7, 
+8,11,1,Calibri,9.0,77.5,737.5,472.6,746.5,Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note 
+8,11,2,Calibri,9.0,72.0,748.6,285.3,757.6,accompanying the State of the Digital Decade report 2025 
+8,11,3,Calibri,6.5,72.0,759.1,75.3,765.5,5
+8,11,3,Calibri,10.0,75.3,759.9,77.5,769.9, 
+8,11,3,Calibri,9.0,77.5,760.6,286.0,769.6,Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,11,3,Calibri,9.0,286.1,760.6,515.5,769.6,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,11,3,Calibri,10.0,515.6,759.9,517.9,769.9, 
+8,12,0,Calibri,11.0,294.9,795.4,302.9,806.4,6 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+9,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,the country is lagging behind the EU in 5G coverage in the 3.4-3.8 GHz band which is necessary for 
+9,2,1,Calibri,11.0,72.0,98.4,525.7,109.5,"advanced applications requiring a wide spectrum bandwidth, and in the assignment of 5G pioneer "
+9,2,2,Calibri,11.0,72.0,112.9,104.2,124.0,bands. 
+9,4,0,Calibri-Light,12.0,72.0,135.7,203.2,147.7,Connectivity infrastructure 
+9,5,0,Calibri-Bold,11.0,72.0,163.2,525.9,174.3,Cyprus’s very high-capacity network (VHCN) coverage surged to 89.05% in 2024 outpacing the EU 
+9,5,1,Calibri-Bold,11.0,72.0,177.7,162.4,188.8,average of 82.49%.
+9,5,1,Calibri,11.0,162.5,177.7,525.9,188.8," In 2023, the percentage of households covered by fixed VHCN was 77.07%, "
+9,5,2,Calibri,11.0,72.0,192.3,525.9,203.3,"showing a growth rate of 15.5% in one year, significantly higher than the EU’s 4.9%. For households in "
+9,5,3,Calibri,11.0,72.0,206.8,525.9,217.8,"sparsely populated areas, Cyprus’s coverage was 55.70% in 2023, marginally above the EU’s 55.59%, "
+9,5,4,Calibri,11.0,72.0,221.2,525.9,232.2,"but in 2024 it grew significantly to 78.10%, faster than the EU average of 61.89%. The growth rate for "
+9,5,5,Calibri,11.0,72.0,235.7,290.8,246.8,"Cyprus was 40.2%, compared to the EU’s 11.3%.  "
+9,6,0,Calibri-Bold,11.0,72.0,258.3,525.9,269.3,"Cyprus’s fibre to the premises (FTTP) coverage of 89.05% is like VHCN, significantly surpassing the "
+9,6,1,Calibri-Bold,11.0,72.0,272.7,173.5,283.7,EU’s 69.24% in 2024. 
+9,6,1,Calibri,11.0,175.2,272.7,525.9,283.7,"In 2023, coverage was at 77.07% representing a growth rate of 15.5% and "
+9,6,2,Calibri,11.0,72.0,287.2,525.9,298.2,"outperforming the EU’s 8.4%. For households in sparsely populated areas, Cyprus’s coverage also "
+9,6,3,Calibri,11.0,72.0,301.7,525.9,312.8,"dramatically increased from 55.7% in 2023 to 78.1% in 2024, significantly higher than the EU’s 58.78%, "
+9,6,4,Calibri,11.0,72.0,316.2,346.6,327.3,showing a growth rate of 40.2% compared to the EU’s 11.9%. 
+9,7,0,Calibri-Bold,11.0,72.0,338.7,503.2,349.7,"Overall, internet take-up is high in Cyprus (94.92%), slightly above the EU average (94.09%)."
+9,7,0,Calibri,11.0,503.1,338.7,525.9,349.7, The 
+9,7,1,Calibri,11.0,72.0,353.2,525.9,364.2,share of fixed broadband subscriptions of at least 100 Mbps services (76.67%) exceeded the EU 
+9,7,2,Calibri,11.0,72.0,367.6,525.9,378.6,"average (71.88%) in 2024, representing a growth rate of 20.5% far ahead of the EU’s 9.1%. For fixed "
+9,7,3,Calibri,11.0,72.0,382.1,525.9,393.2,"broadband subscriptions with speeds of 1 Gbps or more, Cyprus was lagging behind the EU average. "
+9,7,4,Calibri,11.0,72.0,396.7,458.6,407.7,"In 2024, only 3.32% of subscriptions were at this speed, compared to the EU’s 22.25%. "
+9,8,0,Calibri-Bold,11.0,72.0,419.1,525.9,430.1,"Cyprus had already reached the 2030 target of 100% 5G coverage in 2022, while the EU average "
+9,8,1,Calibri-Bold,11.0,72.0,433.6,190.9,444.7,stood at 94.35% in 2024.
+9,8,1,Calibri,11.0,190.9,433.6,525.8,444.7,Cyprus 5G coverage in the 3.4-3.8 GHz band did not increase in Cyprus 
+9,8,2,Calibri,11.0,72.0,448.1,525.9,459.2,between 2023 and 2024 - it remained at 35.00% for all households - while the EU average increased 
+9,8,3,Calibri,11.0,72.0,462.7,525.9,473.7,"from 51.06% in 2023 to 67.72% in 2024, representing a growth rate of 32.6 %. For households in "
+9,8,4,Calibri,11.0,72.0,477.1,525.9,488.1,"sparsely populated areas, Cyprus’s coverage remained at 28.00% in 2024, still higher than the EU’s "
+9,8,5,Calibri,11.0,72.0,491.6,309.4,502.6,"(26.19%), despite its sustained growth rate of 65.1%. "
+9,9,0,Calibri-Bold,11.0,72.0,514.1,525.9,525.2,"Cyprus’s assignment of 5G pioneer bands was 66.67% in both 2024 and 2025, below the EU’s 73.4% "
+9,9,1,Calibri-Bold,11.0,72.0,528.5,184.7,539.6,and 74.63% respectively
+9,9,1,Calibri,11.0,184.9,528.5,525.9,539.6,. Cyprus’s assignment of 5G pioneer bands remained unchanged between 
+9,9,2,Calibri,11.0,72.0,543.1,306.8,554.1,"2024 and 2025, during which EU’s growth was 1.7%. "
+9,10,0,Calibri-LightItalic,11.0,72.0,569.6,143.4,580.7,VHCN and FTTP 
+9,11,0,Calibri-Bold,11.0,72.0,596.1,525.8,607.2,Cyprus remains committed to its national target to reach 100% gigabit connectivity coverage by 
+9,11,1,Calibri-Bold,11.0,72.0,610.5,374.3,621.6,2030. The country is on track according to its national trajectories. 
+9,11,1,Calibri,11.0,374.2,610.5,525.9,621.6,The latest figure in 2024 (89.05%) 
+9,11,2,Calibri,11.0,72.0,625.1,525.9,636.1,is even above the forecast made by Cyprus for that year in its national trajectories for both VHCN and 
+9,11,3,Calibri,11.0,72.0,639.6,97.6,650.6,FTTP. 
+9,12,0,Calibri-Bold,11.0,72.0,662.0,525.9,673.1,The implementation of the broad investment project for deploying VHCN in underserved areas is 
+9,12,1,Calibri-Bold,11.0,72.0,676.5,165.2,687.6,advancing very well.
+9,12,1,Calibri,11.0,165.3,676.5,525.9,687.6, The first target of at least 10 000 premises covered was reached in March 2025. 
+9,12,2,Calibri,11.0,72.0,691.1,525.9,702.1,"By the end of 2025, significant progress in coverage is expected across all 3 intervention areas, with "
+9,12,3,Calibri,11.0,72.0,705.6,525.9,716.6,full rollout scheduled for completion by mid 2026. A small share of households may remain unserved 
+9,12,4,Calibri,11.0,72.0,720.0,525.7,731.0,"due to their location in particularly remote or geographically challenging zones, where infrastructure "
+9,12,5,Calibri,11.0,72.0,734.5,525.9,745.6,"is generally limited. Any residual gaps will be covered through 5G FWA (100Mbps) deployment, "
+9,12,6,Calibri,11.0,72.0,749.0,525.9,760.1,achieving 100% coverage across all populated areas. The other major investment project supported by 
+9,13,0,Calibri,11.0,294.9,795.4,302.9,806.4,7 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+10,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,the recovery and resilience plan (RRP) to incentivise the uptake of VHCN services (voucher scheme) 
+10,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,will also contribute to digital inclusion by providing people with affordable access to secure and fast 
+10,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,connectivity. Already 70 000 households have benefited from the scheme. The aim is to reach 82 000 
+10,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,households including in remote and rural areas by mid-2025. These projects coupled with planned 
+10,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"reforms to facilitate and accelerate investments in VHCN as set out in the initial roadmap, are "
+10,3,5,Calibri,11.0,72.0,156.4,214.7,167.4,contributing to tangible results. 
+10,4,0,Calibri-Bold,11.0,77.8,179.7,320.1,190.7,2024 recommendation on connectivity infrastructure
+10,4,0,Calibri,11.0,320.1,179.7,520.0,190.7,": Maintain the pace of VHCN roll-out, with a "
+10,4,1,Calibri,11.0,77.8,194.2,298.8,205.2,special attention to reach the underserved areas. 
+10,5,0,Calibri-Bold,11.0,77.8,212.4,520.0,223.5,"Cyprus has fully addressed the recommendation, with the significant results in roll-out of fibre in "
+10,5,1,Calibri-Bold,11.0,77.8,226.9,371.9,238.0,2024 confirming that the pace of VHCN roll-out is well on track. 
+10,5,1,Calibri,11.0,372.3,226.9,492.9,238.0,The implementation of the
+10,5,1,Calibri-Bold,11.0,492.9,226.9,495.4,238.0, 
+10,5,1,Calibri,11.0,495.8,226.9,520.0,238.0,large 
+10,5,2,Calibri,11.0,77.8,241.4,520.0,252.4,"investment measures, funded by the RRP and especially dedicated to roll-out of fibre in underserved "
+10,5,3,Calibri,11.0,77.8,255.9,196.6,266.9,"areas, is progressing well.  "
+10,6,0,Calibri,11.0,72.0,274.1,74.5,285.2, 
+10,6,1,Calibri-Bold,11.0,72.0,288.6,525.9,299.7,"In 2024, the national telecom regulator (NRA) continued to implement symmetric market regulation. "
+10,6,2,Calibri,11.0,72.0,303.2,525.9,314.2,This facilitates FTTH deployment by alternative operators. Regarding the slow progress in the uptake 
+10,6,3,Calibri,11.0,72.0,317.6,371.3,328.6,"of fixed broadband subscriptions with speeds of 1 Gbps or more, a "
+10,6,3,Calibri,11.0,371.5,317.6,492.9,328.6,consumer study of OCECPR
+10,6,3,Calibri,11.0,492.9,317.6,525.9,328.6, shows 
+10,6,4,Calibri,11.0,72.0,332.1,525.8,343.1,that 50% of consumers do not know their actual speed with pricing and network reliability being the 
+10,6,5,Calibri,11.0,72.0,346.6,525.9,357.6,"most important reasons when choosing an ISP. As a result, consumers in Cyprus buy the entry speed, "
+10,6,6,Calibri,11.0,72.0,361.1,347.3,372.2,"which is 200 Mbps, and don’t actively purchase the upgrade.  "
+10,7,0,Calibri-Bold,11.0,72.0,383.6,525.9,394.6,"Regarding the switch-off of copper networks, the Operator holding significant market power (SMP) "
+10,7,1,Calibri-Bold,11.0,72.0,398.1,372.9,409.1,plans to switch off 80% of its network by 2028 and 100% by 2030
+10,7,1,Calibri,11.0,373.0,398.1,523.7,409.1,. The estimation is that about 15-
+10,7,2,Calibri,11.0,72.0,412.6,525.9,423.7,"18% of customers are still on copper networks. The NRA is not involved in the switching off process, "
+10,7,3,Calibri,11.0,72.0,427.0,525.9,438.1,other than collecting information on the progress by the SMP operators on a yearly basis according to 
+10,7,4,Calibri,11.0,72.0,441.5,525.9,452.6,the rules set in the market analysis in 2022. Customised campaigns targeting customers were carried 
+10,7,5,Calibri,11.0,72.0,456.1,525.9,467.1,out to encourage them to change to a fibre network. No fees are imposed on customers for migrating 
+10,7,6,Calibri,11.0,72.0,470.6,501.4,481.6,to a fibre network in an effort to motivate them and therefore accelerate the copper switch-off.  
+10,8,0,Calibri-Bold,11.0,72.0,493.0,523.5,504.1,"In 2024, the NRA entered into discussions with the DMRID on the future broadband strategy (2026-"
+10,8,1,Calibri-Bold,11.0,72.0,507.5,525.9,518.6,"2030), and on establishing an action plan for the implementation of the Gigabit Infrastructure Act "
+10,8,2,Calibri-Bold,11.0,72.0,522.1,100.9,533.1,(GIA). 
+10,8,2,Calibri,11.0,101.2,522.1,525.9,533.1,"Discussion includes, among other things, consideration on the involvement of local authorities "
+10,8,3,Calibri,11.0,72.0,536.5,336.5,547.5,regarding access to local lands and the granting of permits. 
+10,9,0,Calibri-Bold,11.0,72.0,559.1,525.9,570.1,"In December 2024, the decision that the BlueMed East submarine cable would land in Cyprus "
+10,9,1,Calibri-Bold,11.0,72.0,573.6,480.3,584.6,reinforced the resilience and security of the island’s backbone connectivity infrastructure. 
+10,9,1,Calibri,11.0,480.1,573.6,525.9,584.6,Sparkle in 
+10,9,2,Calibri,11.0,72.0,588.0,525.9,599.0,"partnership with the telecom incumbent in Cyprus, has been granted EUR 14.1 million by "
+10,9,3,Calibri,11.0,72.0,602.5,89.5,613.5,the 
+10,9,3,Calibri,11.0,89.5,602.5,213.6,613.5,Connecting Europe Facility 
+10,9,3,Calibri,11.0,213.6,602.5,525.9,613.5,programmes for the deployment of the BlueMed East cable in the 
+10,9,4,Calibri,11.0,72.0,617.0,525.9,628.1,"eastern Mediterranean touching Greece (Crete) and Cyprus, thereby strengthening connectivity "
+10,9,5,Calibri,11.0,72.0,631.5,525.9,642.6,alongside the India-Middle-East-Europe Economic Corridor and putting the country on the map of the 
+10,9,6,Calibri,11.0,72.0,645.9,525.9,657.0,global digital communications gateway. It will contribute to responding to the growing demand for 
+10,9,7,Calibri,11.0,72.0,660.5,326.9,671.5,advanced Internet services and digital content in Cyprus. 
+10,10,0,Calibri-Bold,11.0,72.0,682.9,525.8,693.9,The security of the submarine cables is a high priority for an island nation like Cyprus in line with 
+10,10,1,Calibri-Bold,11.0,72.0,697.4,211.9,708.5,the priority of the Commission
+10,10,1,Calibri,11.0,212.0,697.4,525.7,708.5,. Cyprus is actively participating in the Submarine Cable Infrastructure 
+10,10,2,Calibri,11.0,72.0,711.9,525.9,723.0,"Expert Group, composed of Member States and the EU Agency for Cybersecurity (ENISA). Cyprus also "
+10,10,3,Calibri,11.0,72.0,726.5,525.9,737.5,considers reinforcing the security of the submarine cables in the country’s future crisis management 
+10,10,4,Calibri,11.0,72.0,741.0,222.4,752.0,"plan, in line with NIS2 regulation. "
+10,11,0,Calibri,11.0,294.9,795.4,302.9,806.4,8 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+11,2,0,Calibri-LightItalic,11.0,72.0,83.9,87.0,94.9,5G 
+11,4,0,Calibri-Bold,11.0,72.0,110.4,525.9,121.5,"Cyprus has already reached the EU 2030 5G coverage target, namely 100% of households covered "
+11,4,1,Calibri-Bold,11.0,72.0,124.9,525.8,136.0,by at least one 5G mobile network. The country is therefore on track according to its national 
+11,4,2,Calibri-Bold,11.0,72.0,139.5,118.9,150.5,trajectory.
+11,4,2,Calibri,11.0,118.9,139.5,121.4,150.5, 
+11,5,0,Calibri-Bold,11.0,72.0,161.9,525.9,172.9,"Regarding the remaining unassigned spectrum 26GHz band, the regulatory authority has authorised "
+11,5,1,Calibri-Bold,11.0,72.0,176.4,451.6,187.5,"the use in pilot mode, after reassessing the existence of a demand from operators"
+11,5,1,Calibri,11.0,451.7,176.4,525.9,187.5,. As the interest 
+11,5,2,Calibri,11.0,72.0,190.9,525.9,202.0,"was limited, it was decided to grant authorisation to use this band in urban areas in experimental mode "
+11,5,3,Calibri,11.0,72.0,205.5,525.9,216.5,to those interested. The use and promotion by the operators will be monitored by the regulatory 
+11,5,4,Calibri,11.0,72.0,219.9,468.8,230.9,"authority and, if deemed satisfactory, it will proceed with the auction of the 26GHz band."
+11,5,4,Calibri-Bold,11.0,468.8,219.9,471.3,230.9, 
+11,6,0,Calibri-Bold,11.0,77.8,243.2,332.6,254.2,2024 recommendation on connectivity infrastructure
+11,6,0,Calibri,11.0,332.7,243.2,519.9,254.2,: (i) Regularly assess emerging market 
+11,6,1,Calibri,11.0,77.8,257.7,520.0,268.7,demand for the remaining unassigned spectrum in the 26GHz band; (ii) Ensure sufficient access of 
+11,6,2,Calibri,11.0,77.8,272.2,520.0,283.2,new players to spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) 
+11,6,3,Calibri,11.0,77.8,286.6,520.1,297.6,applications and encourage operators to speed up the deployment of 5G stand-alone core networks. 
+11,7,0,Calibri-Bold,11.0,77.8,304.9,520.0,315.9,Cyprus has fully addressed the recommendation by re-assessing the 26GHz band market 
+11,7,1,Calibri-Bold,11.0,77.8,319.4,140.0,330.4,opportunities
+11,7,1,Calibri,11.0,140.1,319.4,520.0,330.4,". Since there was only limited interest from market operators, it was decided to "
+11,7,2,Calibri,11.0,77.8,333.9,520.1,344.9,initially attribute it as a pilot licence to interested operators and monitor its use in order to decide 
+11,7,3,Calibri,11.0,77.8,348.4,220.5,359.4,whether to proceed to auction. 
+11,7,3,Calibri-Bold,11.0,220.7,348.4,252.1,359.4,On the
+11,7,3,Calibri,11.0,251.9,348.4,254.4,359.4, 
+11,7,3,Calibri-Bold,11.0,254.7,348.4,324.0,359.4,5G stand-alone
+11,7,3,Calibri,11.0,324.0,348.4,329.2,359.4,", "
+11,7,3,Calibri-Bold,11.0,329.5,348.4,519.9,359.4,Cyprus made some efforts to address the 
+11,7,4,Calibri-Bold,11.0,77.8,362.8,291.6,373.9,recommendation through new policy actions. 
+11,7,4,Calibri,11.0,292.8,362.8,519.9,373.9,It plans to ask network operators to update their 
+11,7,5,Calibri,11.0,77.8,377.3,510.0,388.4,"multi-vendor strategies when it comes to 5G, given the planned transfer to 5G-standalone cores. "
+11,8,0,Calibri,11.0,72.0,395.6,74.5,406.6, 
+11,8,1,Calibri-Bold,11.0,72.0,410.1,525.9,421.1,"Regarding the security of 5G networks, a legal framework has been in force for some years in Cyprus "
+11,8,2,Calibri-Bold,11.0,72.0,424.6,511.1,435.7,for vertical sectors; the framework includes specific requirements concerning the 5G Toolbox.
+11,8,2,Calibri,11.0,511.2,424.6,525.9,435.7, In 
+11,8,3,Calibri,11.0,72.0,439.0,525.9,450.1,"2025, the Digital Security Authority (DSA) plans to launch an on-site audit to monitor the level of "
+11,8,4,Calibri,11.0,72.0,453.5,525.9,464.6,implementation of the 5G Toolbox. It will start with the telecoms sector to assess whether its plans 
+11,8,5,Calibri,11.0,72.0,468.1,164.9,479.1,meet its obligations. 
+11,9,0,Calibri-Bold,11.0,72.0,490.5,525.9,501.5,The DSA and the OCECPR continue to work on the creation of an OPEN RAN lab as part of the EU 
+11,9,1,Calibri-Bold,11.0,72.0,505.0,344.2,516.1,project 5G-TACTIC on 5G networks cybersecurity and trust.
+11,9,1,Calibri,11.0,344.2,505.0,525.9,516.1," After a testing and evaluation phase, it "
+11,9,2,Calibri,11.0,72.0,519.5,525.9,530.6,"may serve as a regional lab, providing interested operators and other relevant parties with "
+11,9,3,Calibri,11.0,72.0,534.1,525.8,545.1,opportunities to acquire knowledge and insights into OPEN RAN as well as to gain knowledge and test 
+11,9,4,Calibri,11.0,72.0,548.5,528.3,559.5,specific security aspects for an OPEN RAN. The project is expected to be completed by December 2026.  
+11,10,0,Calibri-Light,12.0,72.0,575.3,151.9,587.3,Semiconductors 
+11,11,0,Calibri-Bold,11.0,72.0,602.9,525.9,613.9,"In the adjustment of its roadmap, Cyprus did not report additional development regarding "
+11,11,1,Calibri-Bold,11.0,72.0,617.4,144.2,628.4,semiconductors
+11,11,1,Calibri,11.0,144.3,617.4,525.9,628.4,. But measures were in preparation in 2024 under the Chips for Europe Initiative to set 
+11,11,2,Calibri,11.0,72.0,631.8,525.8,642.8,"up in Cyprus a competence centre, which will provide access to technical expertise and "
+11,11,3,Calibri,11.0,72.0,646.3,525.8,657.3,experimentation in the area of semiconductors and strengthen Cyprus’s role in the European 
+11,11,4,Calibri,11.0,72.0,660.8,190.9,671.9,semiconductor ecosystem.
+11,11,4,Calibri-Bold,11.0,190.9,660.8,193.3,671.9, 
+11,12,0,Calibri,11.0,294.9,795.4,302.9,806.4,9 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+12,2,0,Calibri-Bold,11.0,77.8,84.7,269.9,95.8,2024 recommendation on semiconductors
+12,2,0,Calibri,11.0,269.9,84.7,519.9,95.8,: Draw up a strategy to support research and innovation 
+12,2,1,Calibri,11.0,77.8,99.3,334.7,110.3,to contribute to the European semiconductor ecosystem. 
+12,4,0,Calibri-Bold,11.0,77.8,117.5,436.8,128.5,No information available on measures taken to address the recommendation. 
+12,4,0,Calibri,11.0,437.1,117.5,520.0,128.5,Although the new 
+12,4,1,Calibri,11.0,77.8,131.9,520.0,142.9,National Strategy for R&I (2024-2026) could have a spill-over effect on research and innovation 
+12,4,2,Calibri,11.0,77.8,146.4,199.8,157.5,related to semiconductors. 
+12,5,0,Calibri-Light,12.0,72.0,176.9,130.2,188.9,Edge nodes 
+12,6,0,Calibri-Bold,11.0,72.0,204.5,525.9,215.5,"According to the Edge Nodes Observatory Report, Cyprus is estimated to have deployed nine edge "
+12,6,1,Calibri-Bold,11.0,72.0,219.0,300.8,230.1,"nodes by 2024, almost double the estimated five"
+12,6,1,Calibri-Bold,7.0,300.7,218.1,304.2,225.1,6
+12,6,1,Calibri-Bold,11.0,304.1,219.0,347.6,230.1, in 2023. 
+12,6,1,Calibri,11.0,348.5,219.0,525.9,230.1,"Cyprus emphasises that, in absence of "
+12,6,2,Calibri,11.0,72.0,233.4,525.7,244.5,"direct survey inputs, this figure is based on extrapolated estimation generated through statistical "
+12,6,3,Calibri,11.0,72.0,248.0,525.8,259.0,"modelling drawing on variables such as population, GDP, surface areas and investment data. It remains "
+12,6,4,Calibri,11.0,72.0,262.5,295.8,273.5,subject to updates as new data become available. 
+12,6,4,Calibri-Bold,11.0,295.8,262.5,298.2,273.5, 
+12,7,0,Calibri-Bold,11.0,72.0,284.9,525.9,296.0,"In its revised national roadmap, Cyprus added a target and trajectory of ten edge nodes deployed "
+12,7,1,Calibri-Bold,11.0,72.0,299.4,115.6,310.5,by 2030. 
+12,7,1,Calibri,11.0,117.7,299.4,525.9,310.5,"The DMRID highlighted that this is an extrapolation, and that the projected trajectory "
+12,7,2,Calibri,11.0,72.0,314.0,525.8,325.0,between now and 2030 is a conservative outline considering the national advancement and the 
+12,7,3,Calibri,11.0,72.0,328.5,241.2,339.5,complexity of edge node deployment.
+12,7,3,Calibri-Bold,11.0,241.1,328.5,243.6,339.5, 
+12,8,0,Calibri-Bold,11.0,77.8,351.6,256.3,362.7,2024 recommendation on edge nodes
+12,8,0,Calibri,11.0,256.4,351.6,519.9,362.7,: Continue to assess the market to develop measures or 
+12,8,1,Calibri,11.0,77.8,366.2,378.8,377.2,actions in the short term to contribute to the EU edge nodes target 
+12,9,0,Calibri-Bold,11.0,77.8,384.4,520.0,395.4,"In 2024, Cyprus continued to monitor the technological advancements in this field, but did not "
+12,9,1,Calibri-Bold,11.0,77.8,398.9,207.4,410.0,take any new policy actions.
+12,9,1,Calibri,11.0,207.3,398.9,520.0,410.0," The DMRID follows the EU Observatory’s work closely. Currently, the "
+12,9,2,Calibri,11.0,77.8,413.5,519.8,424.5,"insights relating to Cyprus are based on extrapolated estimates, derived through statistical models "
+12,9,3,Calibri,11.0,77.8,427.9,520.1,438.9,"that factor in various attributes including population density, GDP and surface area. It remains "
+12,9,4,Calibri,11.0,77.8,442.4,519.9,453.4,committed to supporting the EU’s successful deployment of edge node infrastructure across the 
+12,9,5,Calibri,11.0,77.8,456.9,248.7,467.9,region and the broader data strategy.  
+12,10,0,Calibri,11.0,72.0,475.1,74.5,486.2, 
+12,11,0,Calibri-Light,12.0,72.0,495.9,184.4,507.9,Quantum technologies 
+12,12,0,Calibri-Bold,11.0,72.0,523.4,525.9,534.4,Cyprus is currently developing the second phase of the Cyprus national high-performance computing 
+12,12,1,Calibri-Bold,11.0,72.0,537.9,525.9,548.9,(HPC) competence centre (NCC-CY) which will contribute to building research capacities in quantum 
+12,12,2,Calibri-Bold,11.0,72.0,552.4,135.6,563.5,technologies. 
+12,12,2,Calibri,11.0,135.7,552.4,525.6,563.5,"Since 2020, it has operated a national HPC competence centre in the framework of the "
+12,12,3,Calibri,11.0,72.0,567.0,523.6,578.0,European High-Performance Computing Joint Undertaking (EuroHPC JU). The EuroCC2 project (2023-
+12,12,4,Calibri,11.0,72.0,581.4,525.8,592.4,"2025) focused on providing technical support to the Cypriot computational community, with a strong "
+12,12,5,Calibri,11.0,72.0,595.9,209.5,606.9,focus on training and industry. 
+12,13,0,Calibri,11.0,72.0,618.5,525.9,629.5,"In addition, the Cyprus Quantum Communication Infrastructure (CYQCI) project which started in 2023 "
+12,13,1,Calibri,11.0,72.0,632.9,525.8,643.9,will set the foundation for the connection with the EuroQCI network via satellite communication and 
+12,13,2,Calibri,11.0,72.0,647.4,351.6,658.4,the development of an optical ground station (OGS) in Cyprus. 
+12,14,0,Calibri,11.0,72.0,669.8,74.5,680.9, 
+12,15,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+12,15,1,Calibri,6.5,72.0,759.1,75.3,765.5,6
+12,15,1,Calibri,10.0,75.3,759.9,77.5,769.9, 
+12,15,1,Calibri,9.0,77.5,760.6,365.1,769.6,The estimation for 2023 has been revised since the publication of the SDDR24. 
+12,16,0,Calibri,11.0,292.1,795.4,305.8,806.4,10 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+13,2,0,Calibri-Light,15.0,72.0,84.9,462.1,99.9,Supporting EU-wide digital ecosystems and scaling up innovative 
+13,2,1,Calibri-Light,15.0,72.0,104.6,143.2,119.6,enterprises 
+13,4,0,Calibri-Bold,11.0,72.0,131.5,525.8,142.6,Cyprus performed well achieving above-EU-average adoption rates in cloud computing and data 
+13,4,1,Calibri-Bold,11.0,72.0,145.9,288.7,157.0,"analytics, though trailing behind in AI uptake"
+13,4,1,Calibri,11.0,288.7,145.9,525.8,157.0,". However, SMEs, which dominated the enterprise "
+13,4,2,Calibri,11.0,72.0,160.5,525.9,171.5,"landscape and contributed over half of the country’s economic value added, lagged behind large "
+13,4,3,Calibri,11.0,72.0,175.0,525.8,186.0,"enterprises in the uptake of advanced digital technology. In terms of basic digital intensity, SMEs in "
+13,4,4,Calibri,11.0,72.0,189.5,525.8,200.5,"Cyprus progressed slightly above the EU average. In Cyprus, the start-up ecosystem is very dynamic "
+13,4,5,Calibri,11.0,72.0,203.9,226.9,214.9,and experiencing rapid expansion. 
+13,5,0,Calibri-Light,12.0,72.0,226.7,265.2,238.7,SMEs with at least basic digital intensity 
+13,6,0,Calibri-Bold,11.0,72.0,254.3,525.9,265.4,"In Cyprus, 3 out of 4 (74.29%) SMEs had at least a basic level of digital intensity in 2024, up from "
+13,6,1,Calibri-Bold,11.0,72.0,268.7,105.4,279.8,70.05%
+13,6,1,Calibri,11.0,105.4,268.7,107.9,279.8, 
+13,6,1,Calibri-Bold,11.0,108.7,268.7,143.0,279.8,in 2022
+13,6,1,Calibri-Bold,7.0,142.9,267.8,146.5,274.8,7
+13,6,1,Calibri-Bold,11.0,146.4,268.7,151.9,279.8,. 
+13,6,1,Calibri,11.0,152.8,268.7,525.8,279.8,"With an annual growth rate of 3.0%, this positioned Cyprus slightly above the EU "
+13,6,2,Calibri,11.0,72.0,283.2,525.9,294.3,"average of 72.91%. Notably, 37.21% of all SMEs have high or very high digital intensity, surpassing the "
+13,6,3,Calibri,11.0,72.0,297.8,525.9,308.8,"EU average of 32.66%. Overall, this demonstrated steady improvement, particularly in advanced digital "
+13,6,4,Calibri,11.0,72.0,312.3,215.1,323.3,engagement of SMEs in Cyprus. 
+13,7,0,Calibri-Bold,11.0,72.0,334.7,525.5,345.8,"In 2022, SMEs in Cyprus produced 51.4% of the total value added in the economy, while large "
+13,7,1,Calibri-Bold,11.0,72.0,349.2,213.6,360.3,enterprises contributed 23.7%.
+13,7,1,Calibri,11.0,213.8,349.2,525.8,360.3, SMEs with more than 10 employees constituted about 97.9% of the 
+13,7,2,Calibri,11.0,72.0,363.8,379.6,374.8,"enterprises in the country, while large enterprises represented 2.1%. "
+13,8,0,Calibri-Bold,11.0,72.0,386.2,520.8,397.2,Cyprus’s national target for SMEs’ digital intensity is 90.1% in line with the EU target for 2030 of 90%
+13,8,0,Calibri,11.0,520.8,386.2,525.9,397.2,. 
+13,8,1,Calibri,11.0,72.0,400.7,525.9,411.8,"The country continues to implement the ‘Digital Upgrade of Enterprises’ programme, which is partially "
+13,8,2,Calibri,11.0,72.0,415.3,525.9,426.3,funded by the RRP and partially by the 2021-2027 THALIA programme (total budget EUR 30 million). 
+13,8,3,Calibri,11.0,72.0,429.7,525.9,440.7,"In total, the two first calls received 915 proposals. A third call was launched early 2025 with a budget "
+13,8,4,Calibri,11.0,72.0,444.2,525.9,455.2,"of EUR 14 million, including savings form the first call. The programme is open to existing SMEs wanting "
+13,8,5,Calibri,11.0,72.0,458.7,525.9,469.8,"to invest in digital upgrading (including e-commerce) and new SMEs planning to invest in e-commerce, "
+13,8,6,Calibri,11.0,72.0,473.2,525.9,484.3,"online stores or uptake of advanced digital technologies, such as AI, blockchain, cloud computing and "
+13,8,7,Calibri,11.0,72.0,487.6,113.0,498.7,big data. 
+13,9,0,Calibri-Bold,11.0,72.0,510.2,525.8,521.2,The European Digital Innovation Hub (EDIH) DiGiNN is the sole EDIH running in Cyprus and a strategic 
+13,9,1,Calibri-Bold,11.0,72.0,524.6,304.0,535.6,partner for the digital transformation of enterprises
+13,9,1,Calibri,11.0,304.1,524.6,525.9,535.6,". Co-funded by the DMRID, it acts as a coordinated "
+13,9,2,Calibri,11.0,72.0,539.1,525.9,550.2,"group of 16 organisations from academia, research, business and technology industry and aims to "
+13,9,3,Calibri,11.0,72.0,553.6,525.9,564.7,provide Cypriot businesses with a one-stop-shop for their digitisation journey: coaching and mentoring 
+13,9,4,Calibri,11.0,72.0,568.2,525.9,579.2,"by reputable experts, access to the most advanced infrastructure and facilities, help with finding "
+13,9,5,Calibri,11.0,72.0,582.6,525.9,593.6,"investments, networking and access to innovation ecosystems. The Hub’s experience on the ground, "
+13,9,6,Calibri,11.0,72.0,597.1,525.9,608.1,"being in contact with businesses and their needs, will also be of benefit in terms of the design of "
+13,9,7,Calibri,11.0,72.0,611.6,525.9,622.7,policies geared towards digital transformation of businesses. A mid-term review took place in early 
+13,9,8,Calibri,11.0,72.0,626.1,525.9,637.2,"2025, and the results are awaited. One issue already identified in the process of SMEs’ digital transition "
+13,9,9,Calibri,11.0,72.0,640.7,525.9,651.7,is that enterprises in Cyprus are very small in size. It is difficult to convince them to commit to their 
+13,9,10,Calibri,11.0,72.0,655.1,525.9,666.1,digital transformation when they face challenges such as limited resources and investment capacities. 
+13,10,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+13,10,1,Calibri,6.5,72.0,759.1,75.3,765.5,7
+13,10,1,Calibri,9.0,75.3,760.6,497.6,769.6, 2022 is the last comparable year that used a similar methodology for measuring the digital intensity of enterprises. 
+13,11,0,Calibri,11.0,292.1,795.4,305.8,806.4,11 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+14,2,0,Calibri-Light,12.0,72.0,84.3,236.8,96.3,Take up of cloud/AI/data analytics 
+14,5,0,Calibri,11.0,72.0,265.0,74.5,276.0, 
+14,6,0,Calibri-Bold,11.0,72.0,287.4,525.6,298.5,"According to new data collected in 2024, 7.9% of enterprises in Cyprus were using AI technology in "
+14,6,1,Calibri-Bold,11.0,72.0,302.0,429.6,313.0,"2024, revealing a relatively low uptake compared to the EU average of 13.48%."
+14,6,1,Calibri,11.0,429.6,302.0,525.9,313.0," Nonetheless, Cyprus "
+14,6,2,Calibri,11.0,72.0,316.5,525.9,327.5,"experienced significant growth in uptake of AI (69.16%) compared to 2023 (34.5%). More specifically, "
+14,6,3,Calibri,11.0,72.0,331.0,525.6,342.0,"in 2024 uptake among SMEs was 7.31%, while large enterprises had a higher usage rate of 34.91%. "
+14,6,4,Calibri,11.0,72.0,345.5,525.9,356.6,"Hence, the gap between SMEs and large enterprises in Cyprus was 27.6 percentage points, in line with "
+14,6,5,Calibri,11.0,72.0,359.9,125.6,371.0,the EU gap. 
+14,7,0,Calibri,11.0,72.0,382.5,525.9,393.5,"The adoption of cloud, data analytics and the indicator measuring the three technologies together (AI, "
+14,7,1,Calibri,11.0,72.0,396.9,525.8,407.9,cloud and data analytics) have not been measured in 2024. But looking into the adoption rate by size 
+14,7,2,Calibri,11.0,72.0,411.4,309.3,422.5,of enterprises provides some additional information. 
+14,8,0,Calibri-Bold,11.0,72.0,434.0,494.2,445.0,"Cloud uptake in Cyprus reached 45.47% in 2023, surpassing the EU average of 38.97%."
+14,8,0,Calibri,11.0,494.3,434.0,525.9,445.0, More 
+14,8,1,Calibri,11.0,72.0,448.4,525.6,459.4,"specifically, SMEs had an adoption rate of 44.84%, while large enterprises exhibited a higher rate of "
+14,8,2,Calibri,11.0,72.0,462.9,525.8,473.9,75.51% (3 out of 4). This reflects a difference of 30.67 percentage points between SMEs and large 
+14,8,3,Calibri,11.0,72.0,477.4,304.5,488.5,"enterprises in Cyprus, which aligns with the EU gap. "
+14,9,0,Calibri-Bold,11.0,72.0,499.9,525.6,510.9,"As regards data analytics, according to the latest available data, 33.5% of enterprises in Cyprus "
+14,9,1,Calibri-Bold,11.0,72.0,514.4,416.1,525.4,"performed data analytics in 2023, slightly above the EU average of 33.25%."
+14,9,1,Calibri,11.0,416.1,514.4,525.9,525.4," More specifically, SMEs "
+14,9,2,Calibri,11.0,72.0,528.9,525.6,539.9,"showed lower uptake at 32.73%, while 70.66% of large enterprises used data analytics. This reflects a "
+14,9,3,Calibri,11.0,72.0,543.4,513.7,554.5,"gap of 37.93 percentage points between SMEs and large enterprises, which aligns with the EU gap. "
+14,10,0,Calibri-Bold,11.0,72.0,565.9,525.9,576.9,"When measuring the three technologies together, according to the latest available data from 2023, "
+14,10,1,Calibri-Bold,11.0,72.0,580.4,525.5,591.5,"57.98% of enterprises in Cyprus used AI technologies, sophisticated or intermediate cloud "
+14,10,2,Calibri-Bold,11.0,72.0,594.9,525.9,606.0,"computing services, or data analytics, corresponding to a slightly higher uptake than the EU average "
+14,10,3,Calibri-Bold,11.0,72.0,609.3,114.6,620.4,of54.7%. 
+14,10,3,Calibri,11.0,115.3,609.3,525.8,620.4,"More specifically, uptake among SMEs was slightly lower at 57.3%, while large enterprises "
+14,10,4,Calibri,11.0,72.0,623.9,525.8,634.9,exhibited a notably higher rate of 90.52% (more than 9 out of 10). This indicates a percentage point 
+14,10,5,Calibri,11.0,72.0,638.4,514.3,649.4,"difference of 33.22 between SMEs and large enterprises in Cyprus, which is in line with the EU gap. "
+14,11,0,SymbolMT,11.0,89.9,658.6,95.0,672.1,
+14,11,0,ArialMT,11.0,94.9,659.7,98.0,672.0, 
+14,11,1,Calibri-Bold,11.0,107.7,661.4,134.0,672.5,Cloud
+14,11,1,Calibri,11.0,133.9,661.4,136.4,672.5, 
+14,12,0,Calibri-Bold,11.0,72.0,678.9,365.4,690.0,Cyprus’s national target is in line with the EU’s 2030 target (75%). 
+14,12,0,Calibri,11.0,365.0,678.9,525.9,690.0,There is no specific update to report 
+14,12,1,Calibri,11.0,72.0,693.5,280.8,704.5,beyond what is included in the section above.  
+14,13,0,SymbolMT,11.0,89.9,713.7,95.0,727.2,
+14,13,0,ArialMT,11.0,94.9,714.8,98.0,727.1, 
+14,13,1,Calibri-Bold,11.0,107.7,716.5,175.6,727.5,Data Analytics 
+14,14,0,Calibri-Bold,11.0,72.0,734.0,365.4,745.1,Cyprus’s national target is in line with the EU’s 2030 target (75%). 
+14,14,0,Calibri,11.0,365.0,734.0,525.9,745.1,There is no specific update to report 
+14,14,1,Calibri,11.0,72.0,748.4,275.9,759.5,beyond what is included in the section above.
+14,14,1,Calibri-Bold,11.0,275.8,748.4,278.3,759.5, 
+14,15,0,Calibri,11.0,292.1,795.4,305.8,806.4,12 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+15,2,0,SymbolMT,11.0,89.9,81.8,95.0,95.3,
+15,2,0,ArialMT,11.0,94.9,82.9,98.0,95.2, 
+15,2,1,Calibri-Bold,11.0,107.7,84.6,201.8,95.7,Artificial Intelligence
+15,2,1,Calibri,11.0,201.8,84.6,204.3,95.7, 
+15,4,0,Calibri-Bold,11.0,72.0,102.0,525.9,113.1,Cyprus national target is in line with the EU 2030 target (75%). The country is on track according to 
+15,4,1,Calibri-Bold,11.0,72.0,116.5,179.5,127.6,its national trajectory. 
+15,4,1,Calibri,11.0,181.9,116.5,222.7,127.6,Although
+15,4,1,Calibri-Bold,11.0,222.6,116.5,225.1,127.6, 
+15,4,1,Calibri,11.0,227.4,116.5,525.9,127.6,it presents a relatively low uptake of AI by businesses (7.90%) 
+15,4,2,Calibri,11.0,72.0,131.1,525.7,142.1,"compared to the EU average (13.48%) in 2024, its growth rate in one year is significant and "
+15,4,3,Calibri,11.0,72.0,145.6,268.1,156.6,"encouraging. Furthermore, Cyprus ranks 35"
+15,4,3,Calibri,7.0,268.1,144.7,274.1,151.6,th
+15,4,3,Calibri,11.0,274.0,145.6,401.7,156.6, out of 174 countries in the 
+15,4,3,Calibri,11.0,402.6,145.6,523.5,156.6,IMF AI Preparedness Index
+15,4,3,Calibri,11.0,523.4,145.6,525.9,156.6, 
+15,4,4,Calibri,11.0,72.0,160.0,475.8,171.0,which provides an insight into the country’s readiness to leverage AI for economic growth. 
+15,5,0,Calibri-Bold,11.0,72.0,182.5,525.9,193.6,"In January 2025, Cyprus appointed an AI Taskforce to shape the national AI strategy to leverage the "
+15,5,1,Calibri-Bold,11.0,72.0,197.1,196.9,208.1,potential of AI for growth. 
+15,5,1,Calibri,11.0,197.7,197.1,525.9,208.1,"The AI Taskforce, chaired by the Chief Scientist for Research, Innovation "
+15,5,2,Calibri,11.0,72.0,211.5,525.6,222.5,"and Technology, will provide recommendations on practical applications of AI to the benefit of the "
+15,5,3,Calibri,11.0,72.0,226.0,525.9,237.0,economy and the public sector. The AI Taskforce comprises AI experts from academia and industry. It 
+15,5,4,Calibri,11.0,72.0,240.5,511.0,251.6,will also make recommendations on how to strengthen the AI research and innovation ecosystem. 
+15,6,0,Calibri-Bold,11.0,72.0,263.0,525.9,274.0,"To leverage the local technology ecosystem and the existing capacities, a funding programme "
+15,6,1,Calibri-Bold,11.0,72.0,277.5,525.9,288.5,(EUR 5 million) will be set up to allow companies to join forces with the public sector to develop 
+15,6,2,Calibri-Bold,11.0,72.0,292.0,301.1,303.0,innovative AI solutions to enhance public services
+15,6,2,Calibri,11.0,301.1,292.0,525.8,303.0,. The programme is currently under development 
+15,6,3,Calibri,11.0,72.0,306.4,525.9,317.5,in collaboration with the Research and Innovation Foundation (RIF) and in consultation with other 
+15,6,4,Calibri,11.0,72.0,320.9,248.2,332.0,ministries and government authorities. 
+15,7,0,Calibri-Bold,11.0,72.0,343.5,525.7,354.5,Cyprus also plans to be part of the EU AI ecosystem to foster business innovation in this field by 
+15,7,1,Calibri-Bold,11.0,72.0,357.9,499.3,368.9,"encouraging the participation of start-ups and businesses in the Greek AI factory, Pharos"
+15,7,1,Calibri,11.0,499.5,357.9,525.9,368.9,. The 
+15,7,2,Calibri,11.0,72.0,372.4,525.8,383.4,"collaboration will provide stakeholders in Cyprus with end-to-end user support, from upskilling and "
+15,7,3,Calibri,11.0,72.0,386.9,399.8,398.0,data provisioning to AI model training and fostering business innovation.  
+15,8,0,Calibri-Bold,11.0,72.0,409.4,525.8,420.4,"Cyprus performed well, achieving above-EU-average adoption rates in cloud computing and data "
+15,8,1,Calibri-Bold,11.0,72.0,423.9,293.9,434.9,"analytics, though trailing behind in AI uptake. "
+15,8,1,Calibri,11.0,296.0,423.9,525.8,434.9,"However, SMEs, which dominated the enterprise "
+15,8,2,Calibri,11.0,72.0,438.4,525.9,449.5,"landscape and contributed over half of the country’s economic value added, lagged behind large "
+15,8,3,Calibri,11.0,72.0,452.9,525.7,464.0,enterprises in digital transformation. Addressing this disparity is essential for strengthening the 
+15,8,4,Calibri,11.0,72.0,467.3,451.0,478.4,competitiveness and productivity of smaller enterprises within the Cypriot economy. 
+15,9,0,Calibri-Bold,11.0,77.8,490.6,314.8,501.7,2024 recommendation on cloud/AI/data analytics: 
+15,9,0,Calibri,11.0,315.8,490.6,519.9,501.7,Consider if additional targeted measures for 
+15,9,1,Calibri,11.0,77.8,505.1,520.0,516.2,"facilitating the adoption of AI by enterprises, in particular SMEs, would be necessary to reach the "
+15,9,2,Calibri,11.0,77.8,519.7,147.7,530.7,target by 2030. 
+15,10,0,Calibri-Bold,11.0,77.8,537.9,519.9,548.9,Cyprus made some efforts to address the recommendation through new policy actions in 2024. 
+15,10,1,Calibri,11.0,77.8,552.3,520.0,563.3,Cyprus started the process of updating its national AI strategy to enhance the potential for growth 
+15,10,2,Calibri,11.0,77.8,566.9,520.0,577.9,linked to the adoption of AI by enterprises and the public sector. It also plans to establish a funding 
+15,10,3,Calibri,11.0,77.8,581.4,519.9,592.4,programme dedicated to innovative AI solutions to address challenges faced by the ministries and 
+15,10,4,Calibri,11.0,77.8,595.9,281.0,606.9,enhance public services (as described above).
+15,10,4,Calibri-Italic,11.0,280.9,595.9,283.3,606.9, 
+15,11,0,Calibri,11.0,72.0,614.1,74.5,625.2, 
+15,11,1,Calibri-Bold,11.0,72.0,628.5,525.8,639.6,"In its revised roadmap, Cyprus added a substantial budget for advanced digital technology with its "
+15,11,2,Calibri-Bold,11.0,72.0,643.1,525.9,654.1,membership contribution (EUR 450 000) to the European Digital Infrastructure Consortium (EDIC) 
+15,11,3,Calibri-Bold,11.0,72.0,657.6,194.8,668.6,EUROPEUM on blockchain
+15,11,3,Calibri,11.0,194.8,657.6,525.8,668.6, of which it is a founding member. By responding to the expression of 
+15,11,4,Calibri,11.0,72.0,672.1,525.8,683.1,"interest to participate in various EDICs, Cyprus expects to benefit from reinforcing its cooperation with "
+15,11,5,Calibri,11.0,72.0,686.5,525.8,697.5,other Member States in advanced digital technologies and to develop robust infrastructure and 
+15,11,6,Calibri,11.0,72.0,701.0,525.9,712.1,services essential for digital growth. The country is also exploring AI-related EDICs for cooperation with 
+15,11,7,Calibri,11.0,72.0,715.5,172.7,726.6,other Member States. 
+15,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,13 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+16,2,0,Calibri-Light,12.0,72.0,84.3,233.6,96.3,"Unicorns, scale-ups and start-ups "
+16,3,0,Calibri-Bold,11.0,72.0,111.7,312.0,122.8,"At the beginning of 2025, Cyprus had three unicorns"
+16,3,0,Calibri-Bold,7.0,312.0,110.8,315.5,117.8,8
+16,3,0,Calibri-Bold,11.0,315.4,111.7,525.9,122.8, unchanged from 2024. In its revised national 
+16,3,1,Calibri-Bold,11.0,72.0,126.3,412.4,137.3,"roadmap, Cyprus added a trajectory and a target of five unicorns by 2030.  "
+16,5,0,Calibri-Bold,11.0,72.0,148.8,525.9,159.9,"Cyprus’s start-up ecosystem continued to grow fast in 2024, having five times more start-ups than in "
+16,5,1,Calibri-Bold,11.0,72.0,163.2,94.4,174.3,2020
+16,5,1,Calibri,11.0,94.5,163.2,525.9,174.3,". It was considered the EU’s fastest-growing start-up ecosystem by the StartupBlink Index in 2024, "
+16,5,2,Calibri,11.0,72.0,177.7,271.0,188.8,especially in the fintech and gaming sectors. 
+16,6,0,Calibri-Bold,11.0,72.0,200.3,525.9,211.3,The venture capital (VC) company managing Cyprus’s first equity fund started operating at the end 
+16,6,1,Calibri-Bold,11.0,72.0,214.7,368.7,225.7,of 2024 to boost access to finance for start-ups and scale-ups
+16,6,1,Calibri,11.0,368.7,214.7,525.9,225.7,". With the support of the RRP, it "
+16,6,2,Calibri,11.0,72.0,229.2,523.5,240.3,represents an important step for the start-up ecosystem and for investments in pre-seed and seed-
+16,6,3,Calibri,11.0,72.0,243.8,525.9,254.8,stage start-ups as access to finance remains challenging for them. The initial capital is EUR 27.5 million. 
+16,7,0,Calibri-Bold,11.0,72.0,266.2,447.4,277.2,The ‘Cyprus Startup Visa’ scheme has been renewed until December 2026. 
+16,7,0,Calibri,11.0,450.9,266.2,525.9,277.2,It supports the 
+16,7,1,Calibri,11.0,72.0,280.7,523.6,291.8,"establishment of new innovative start-ups from non-EU countries in Cyprus, or the move of high-"
+16,7,2,Calibri,11.0,72.0,295.2,525.9,306.3,growth potential start-ups to Cyprus. It contributes to the aim of strengthening the innovation and 
+16,7,3,Calibri,11.0,72.0,309.6,525.9,320.7,"entrepreneurial ecosystem of the country. Additionally, in the first quarter of 2025, the updated legal "
+16,7,4,Calibri,11.0,72.0,324.2,525.9,335.2,"framework on the establishment and operation of spin-off companies by public academic institutions, "
+16,7,5,Calibri,11.0,72.0,338.7,257.7,349.7,was submitted to the Cypriot Parliament. 
+16,8,0,Calibri-Bold,11.0,72.0,361.1,525.8,372.2,"To support this vibrant ecosystem, the DMRID has developed the new National Strategy for R&I "
+16,8,1,Calibri-Bold,11.0,72.0,375.6,129.4,386.7,(2024-2026) 
+16,8,1,Calibri,11.0,129.7,375.6,525.9,386.7,with the aim of amplifying the positive influence of R&I activities and elevating Cyprus’s 
+16,8,2,Calibri,11.0,72.0,390.2,525.9,401.2,role as a regional hub for research and innovation entrepreneurship and high-tech. A primary goal of 
+16,8,3,Calibri,11.0,72.0,404.7,525.9,415.8,"the R&I Strategy is to contribute to economic growth, enhancing the competitiveness of the economy, "
+16,8,4,Calibri,11.0,72.0,419.1,525.7,430.1,and making Cyprus an attractive destination for investment and business on the international stage. 
+16,8,5,Calibri,11.0,72.0,433.6,525.9,444.7,"Furthermore, it emphasises building a critical mass of research capacity in priority areas identified by "
+16,8,6,Calibri,11.0,72.0,448.1,525.9,459.2,"the Smart Specialisation Strategy 2030, including digital technologies – especially high-performance "
+16,8,7,Calibri,11.0,72.0,462.7,525.8,473.7,"computing, cybersecurity, and quantum technologies - with a particular emphasis on developing "
+16,8,8,Calibri,11.0,72.0,477.1,352.7,488.1,"solutions for agriculture, water management, and smart cities. "
+16,9,0,Calibri-Light,15.0,72.0,500.5,326.0,515.5,Strengthening Cybersecurity & Resilience  
+16,10,0,Calibri-Bold,11.0,72.0,527.3,525.7,538.4,"In Cyprus, just under 2 out of 3 (65.26%) individuals engaged in actions to protect their data online, "
+16,10,1,Calibri-Bold,11.0,72.0,541.9,295.9,552.9,which is slightly below the EU average of 69.55%.
+16,10,1,Calibri,11.0,296.1,541.9,525.9,552.9," More specifically, 35.98% of individuals performed "
+16,10,2,Calibri,11.0,72.0,556.4,525.7,567.5,three or more precautionary measures (and therefore could be considered as having above basic 
+16,10,3,Calibri,11.0,72.0,570.8,525.7,581.9,digital safety skills). Refusing the use of personal data for advertising purposes was the most common 
+16,10,4,Calibri,11.0,72.0,585.3,520.9,596.4,"measure (56.15%), while changing browser settings to limit cookies was the least frequent (17.82%). "
+16,11,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+16,11,1,Calibri,6.5,72.0,759.1,75.3,765.5,8
+16,11,1,Calibri,9.0,75.3,760.6,198.6,769.6, Source: Dealroom (January 2025)
+16,11,1,Calibri,10.0,198.8,759.9,201.0,769.9, 
+16,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,14 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+17,4,0,Calibri-Bold,11.0,72.0,84.0,333.9,95.1,Enterprises in Cyprus tend to experience fewer incidents 
+17,4,1,Calibri-Bold,11.0,72.0,98.4,333.7,109.5,"related to cyberattacks, but employees are less aware of "
+17,4,2,Calibri-Bold,11.0,72.0,112.9,333.9,124.0,their ICT security-related obligations compared to the EU 
+17,4,3,Calibri-Bold,11.0,72.0,127.5,107.8,138.5,average
+17,4,3,Calibri,11.0,107.8,127.5,333.9,138.5,. The number of enterprises that experienced ICT 
+17,4,4,Calibri,11.0,72.0,142.0,333.7,153.0,security incidents leading to unavailability of ICT services 
+17,4,5,Calibri,11.0,72.0,156.4,333.8,167.4,"due to attacks from outside (e.g. ransomware, denial of "
+17,4,6,Calibri,11.0,72.0,170.9,333.9,181.9,services attacks) decreased significantly in Cyprus from 
+17,4,7,Calibri,11.0,72.0,185.4,333.8,196.5,4.59% in 2022 to 2.79% in 2024. It is well below the EU 
+17,4,8,Calibri,11.0,72.0,199.9,333.8,211.0,average (3.43%). The percentage of enterprises that 
+17,4,9,Calibri,11.0,72.0,214.3,333.8,225.4,experienced ICT security-related incidents leading to 
+17,4,10,Calibri,11.0,72.0,228.9,333.8,239.9,unavailability of ICT services due to hardware or software 
+17,4,11,Calibri,11.0,72.0,243.4,333.8,254.4,failures (9.12%) is also much lower than the EU average 
+17,4,12,Calibri,11.0,72.0,257.9,333.9,269.0,"(17.97%). In terms of ICT security measures used, 96.35% "
+17,4,13,Calibri,11.0,72.0,272.3,333.9,283.4,"of enterprises in Cyprus deployed some measures, well "
+17,4,14,Calibri,11.0,72.0,286.9,333.9,297.9,"above the EU average of 92.76%. However, only 51.62% of "
+17,4,15,Calibri,11.0,72.0,301.4,525.9,312.4,"enterprises made their employees aware of their obligations in ICT security-related issues, significantly "
+17,4,16,Calibri,11.0,72.0,315.9,223.9,326.9,below the EU average of 59.97%.  
+17,5,0,Calibri-Bold,11.0,72.0,338.3,525.9,349.4,"The adoption of new internet standards to ensure the scalability, stability and security of the "
+17,5,1,Calibri-Bold,11.0,72.0,352.8,278.5,363.9,internet presents a mixed picture in Cyprus. 
+17,5,1,Calibri,11.0,279.3,352.8,525.9,363.9,Only 1% of internet hosts in Cyprus had deployed the 
+17,5,2,Calibri,11.0,72.0,367.4,525.8,378.4,latest version of the Internet’s main communication protocol version 6 (IPv6) for end users by Q3/2024. 
+17,5,3,Calibri,11.0,72.0,381.8,525.7,392.8,This is significantly lower than the EU average of 36%. The protection of servers at 4% is also much 
+17,5,4,Calibri,11.0,72.0,396.3,525.9,407.4,"lower in Cyprus than the EU average (17%), although IPv6 is an important protocol to ensure the "
+17,5,5,Calibri,11.0,72.0,410.8,525.7,421.9,"scalability, stability and security of the internet. However, the adoption of Domain Name System "
+17,5,6,Calibri,11.0,72.0,425.3,525.9,436.4,Security Extensions (DNSSEC) to protect the integrity of the Domain Name System (DNS) internet 
+17,5,7,Calibri,11.0,72.0,439.7,525.7,450.8,infrastructure and ensure the interoperability and security of the global cyberspace is high in Cyprus 
+17,5,8,Calibri,11.0,72.0,454.3,291.0,465.3,"(74%), significantly above the EU average (47%).  "
+17,6,0,Calibri,11.0,72.0,476.8,525.6,487.9,"DMRID is currently providing cybersecurity training for public sector employees, delivered both "
+17,6,1,Calibri,11.0,72.0,491.2,342.2,502.3,through face-to-face sessions and self-paced online courses. 
+17,7,0,Calibri-Bold,11.0,72.0,513.8,525.8,524.8,"In its revised roadmap, Cyprus added a measure to increase its capacity to respond to the growing "
+17,7,1,Calibri-Bold,11.0,72.0,528.3,525.8,539.3,cybersecurity threat with the creation of the National Cyber security Coordination Centre of the 
+17,7,2,Calibri-Bold,11.0,72.0,542.7,209.3,553.8,Republic of Cyprus (NCC-CY). 
+17,7,2,Calibri,11.0,210.6,542.7,525.9,553.8,The N4CY project for the establishment of the NCC-CY concluded in 
+17,7,3,Calibri,11.0,72.0,557.3,525.7,568.3,"December 2024. The centre aims to concentrate and better coordinate research, technology and "
+17,7,4,Calibri,11.0,72.0,571.8,525.9,582.8,industrial development investments and take advantage of the European Union’s funding 
+17,7,5,Calibri,11.0,72.0,586.3,525.9,597.3,"opportunities in the field of cyber security. During this time, a EUR 1 million-scheme to support SMEs "
+17,7,6,Calibri,11.0,72.0,600.7,525.9,611.7,"in cybersecurity was completed (19 applications were eligible out of 39 in total). Subsequently, in "
+17,7,7,Calibri,11.0,72.0,615.2,525.9,626.3,"January 2025, the N4CY2 project was launched jointly by the DSA, the Research and Innovation Fund "
+17,7,8,Calibri,11.0,72.0,629.7,525.9,640.8,"and the DMRID. The objective is to further develop the cybersecurity capacity of SMEs, start-ups, the "
+17,7,9,Calibri,11.0,72.0,644.3,525.9,655.3,tourism sector and entities falling under the NIS2 Directive. (total budget of EUR 7.67 million co-funded 
+17,7,10,Calibri,11.0,72.0,658.7,283.6,669.7,by the Digital Europe Programme and Cyprus).  
+17,8,0,Calibri-Bold,11.0,72.0,681.2,505.0,692.3,In view of the transposition into national legislation of the NIS2 Directive by Cyprus on the 25
+17,8,0,Calibri-Bold,7.0,505.1,680.3,511.2,687.3,th
+17,8,0,Calibri-Bold,11.0,511.2,681.2,525.9,692.3, of 
+17,8,1,Calibri-Bold,11.0,72.0,695.7,118.2,706.8,April 2025
+17,8,1,Calibri,11.0,118.2,695.7,525.9,706.8, DSA is launching training seminars to enhance cybersecurity skills and awareness campaigns 
+17,8,2,Calibri,11.0,72.0,710.1,525.8,721.2,targeting both citizens and businesses. These initiatives aim to reduce vulnerabilities and mitigate the 
+17,8,3,Calibri,11.0,72.0,724.7,525.9,735.7,financial and operational impact of cyber threats in the future. It also started cybersecurity maturity 
+17,8,4,Calibri,11.0,72.0,739.2,525.8,750.2,checks in 2024 in view of the entry into force of the NIS2 Directive. According to the Digital Decade 
+17,8,5,Calibri,11.0,72.0,753.7,525.6,764.8,"Eurobarometer 2025, 89% of the respondents in Cyprus think that an improved cybersecurity, better "
+17,9,0,Calibri,11.0,292.1,795.4,305.8,806.4,15 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+18,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,protection of online data and safety of digital technologies would facilitate their daily use of digital 
+18,2,1,Calibri,11.0,72.0,98.4,136.7,109.5,technologies.  
+18,4,0,Calibri-Bold,11.0,72.0,121.0,525.8,132.0,"In the healthcare sector where cybersecurity is critical, Cyprus has conducted a national risk "
+18,4,1,Calibri-Bold,11.0,72.0,135.5,525.8,146.5,assessment in the health sector with the purpose of identifying ICT systems whose compromise 
+18,4,2,Calibri-Bold,11.0,72.0,149.9,427.9,160.9,could significantly impact the well-being of Cypriot citizens at a national level. 
+18,4,2,Calibri,11.0,427.9,149.9,525.9,160.9,Based on the findings 
+18,4,3,Calibri,11.0,72.0,164.4,525.6,175.5,"of this assessment, the Digital Security Authority (DSA) will take appropriate measures and provide "
+18,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,targeted support through its national cybersecurity strategy. These measures will aim to strengthen 
+18,4,5,Calibri,11.0,72.0,193.5,525.8,204.5,"the resilience of healthcare-related digital infrastructure, ensure continuity of essential health "
+18,4,6,Calibri,11.0,72.0,207.9,525.8,218.9,"services, and protect sensitive medical and personal data. Furthermore, as part of its ongoing efforts "
+18,4,7,Calibri,11.0,72.0,222.4,525.9,233.4,"to enhance cybersecurity maturity in the sector, the DSA is also planning to host the ENISA e-Health "
+18,4,8,Calibri,11.0,72.0,236.9,522.2,248.0,Security Conference and organise a national cybersecurity exercise for the healthcare sector in 2026. 
+18,5,0,Calibri-Bold,11.0,72.0,259.4,525.9,270.4,"To address the cybersecurity skills shortage in the EU, Cyprus is working on the creation of a "
+18,5,1,Calibri-Bold,11.0,72.0,273.9,505.4,284.9,Cybersecurity Skills Coalition in collaboration with other Member States to create an EDIC. 
+18,5,1,Calibri,11.0,507.0,273.9,525.9,284.9,The 
+18,5,2,Calibri,11.0,72.0,288.4,525.9,299.5,"objective is to boost capacity building and resilience for public authorities, industries, and SMEs across "
+18,5,3,Calibri,11.0,72.0,302.9,160.6,314.0,EU Member States. 
+18,6,0,Calibri,11.0,72.0,325.4,74.5,336.4, 
+18,6,1,Calibri,11.0,216.1,325.4,218.5,336.4, 
+18,7,0,Calibri,11.0,292.1,795.4,305.8,806.4,16 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+19,3,0,Calibri-Bold,26.0,72.0,87.0,493.4,113.1,Protecting and empowering EU people 
+19,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+19,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+19,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+19,5,0,Calibri-Bold,11.0,72.0,208.0,525.5,219.0,"Increasing the number of people having at least basic digital skills represents a challenge in Cyprus, "
+19,5,1,Calibri-Bold,11.0,72.0,222.5,261.6,233.5,although several programmes are offered
+19,5,1,Calibri,11.0,261.6,222.5,525.9,233.5,. Customised programmes are designed for specific groups 
+19,5,2,Calibri,11.0,72.0,237.0,523.6,248.1,in collaboration with various organisations as part of the National Action Plan for Digital Skills 2021-
+19,5,3,Calibri,11.0,72.0,251.4,525.7,262.5,2025. Activities cover a wide range of the population and some of them specifically targeting 
+19,5,4,Calibri,11.0,72.0,266.0,525.9,277.0,vulnerable groups. Upgrading basic digital among the population is a critical enabler of digital 
+19,5,5,Calibri,11.0,72.0,280.5,525.9,291.5,"inclusion, which in turn is e essential for ensuring fair access to online public services. According to the "
+19,5,6,Calibri,11.0,72.0,295.0,525.8,306.0,"2025 Eurobarometer, 86% of the respondents in Cyprus think that accessing public services online will "
+19,5,7,Calibri,11.0,72.0,309.4,525.9,320.5,be important for their daily life by 2030. The umbrella initiative ‘Digital Citizen’ has been designed to 
+19,5,8,Calibri,11.0,72.0,323.9,525.9,335.0,"empower citizens. It contains a comprehensive suite of digital tools and user-centric solutions, with "
+19,5,9,Calibri,11.0,72.0,338.4,525.8,349.5,"emphasis on service delivery, accessibility and seamless interaction between citizens and government "
+19,5,10,Calibri,11.0,72.0,353.0,525.9,364.0,"services. To enhance online services availability and accelerate their use by the citizens, Cyprus offering "
+19,5,11,Calibri,11.0,72.0,367.5,525.8,378.5,100 000 e-IDs to Cypriot citizens. Cyprus is also advancing its national Electronic Health Record (EHR) 
+19,5,12,Calibri,11.0,72.0,381.9,525.9,392.9,system to enhance healthcare services and facilitate seamless access to medical information. 
+19,5,13,Calibri,11.0,72.0,396.4,525.9,407.5,"Regarding ICT specialists, while Cyprus is at the EU average, the data shows a slight decrease in ICT "
+19,5,14,Calibri,11.0,72.0,410.9,289.2,422.0,specialists as a percentage of total employment. 
+19,6,0,Calibri-Light,12.0,72.0,433.6,239.6,445.6,Equipping people with digital skills 
+19,7,0,Calibri-LightItalic,11.0,72.0,461.2,152.0,472.3,Basic Digital Skills 
+19,7,1,Calibri-Bold,11.0,72.0,475.7,525.7,486.8,"In 2023, Cyprus was below the EU average of 55.56% with only 49.46% of individuals holding at least "
+19,7,2,Calibri-Bold,11.0,72.0,490.1,159.7,501.2,basic digital skills. 
+19,7,2,Calibri,11.0,161.5,490.1,525.9,501.2,"Despite the absence of new data for 2024, looking at demographic segments "
+19,7,3,Calibri,11.0,72.0,504.7,395.1,515.7,provides some additional information about people’s digital proficiency: 
+19,8,0,SymbolMT,10.0,72.0,525.5,76.6,537.7,
+19,8,0,ArialMT,10.0,76.6,526.5,79.4,537.6, 
+19,8,1,Calibri-Bold,11.0,90.0,527.2,150.2,538.3,Gender Gap: 
+19,8,1,Calibri,11.0,150.3,527.2,525.7,538.3,"Interestingly, 47.89% of men and 50.95% of women are equipped with at least basic "
+19,8,2,Calibri,11.0,90.0,541.6,525.7,552.7,"digital skills, leading to a gap of 3.06 percentage points in favour of women. This is the opposite of "
+19,8,3,Calibri,11.0,90.0,556.2,446.6,567.2,what is usually observed in the EU with an average gap of 2.23 in favour of men.
+19,8,3,Calibri-Bold,11.0,446.5,556.2,449.0,567.2, 
+19,9,0,SymbolMT,10.0,72.0,577.0,76.6,589.2,
+19,9,0,ArialMT,10.0,76.6,578.0,79.4,589.1, 
+19,9,1,Calibri-Bold,11.0,90.0,578.7,167.6,589.8,Education Level: 
+19,9,1,Calibri,11.0,168.4,578.7,525.7,589.8,Education level is a strong indicator of digital skills in Cyprus. 73.58% of those 
+19,9,2,Calibri,11.0,90.0,593.1,525.8,604.2,"with higher education have at least basic digital skills, which is still below the EU average. The gap "
+19,9,3,Calibri,11.0,90.0,607.7,525.7,618.7,"is stark for those with low or no formal education, where only 16.19% have at least basic digital "
+19,9,4,Calibri,11.0,90.0,622.2,525.9,633.2,"skills, creating a substantial 33.27 percentage points difference compared to the national average, "
+19,9,5,Calibri,11.0,90.0,636.7,400.8,647.7,much larger than the same gap at EU level (21.95 percentage points). 
+19,10,0,SymbolMT,10.0,72.0,657.4,76.6,669.6,
+19,10,0,ArialMT,10.0,76.6,658.4,79.4,669.5, 
+19,10,1,Calibri-Bold,11.0,90.0,659.1,150.0,670.2,Living Areas: 
+19,10,1,Calibri,11.0,149.7,659.1,525.9,670.2,"In Cyprus, the digital divide between the different living areas (48.96% for rural areas "
+19,10,2,Calibri,11.0,90.0,673.7,525.9,684.7,"and 53.45% for towns and suburbs) is proportionally smaller than in the EU. However, the city "
+19,10,3,Calibri,11.0,90.0,688.2,525.9,699.2,"dwellers have a low proportion of at least basic digital skills at 47.54%, compared to the EU average "
+19,10,4,Calibri,11.0,90.0,702.6,143.3,713.6,of 62.55%). 
+19,11,0,SymbolMT,10.0,72.0,723.4,76.6,735.6,
+19,11,0,ArialMT,10.0,76.6,724.4,79.4,735.5, 
+19,11,1,Calibri-Bold,11.0,90.0,725.2,147.7,736.2,Age Groups: 
+19,11,1,Calibri,11.0,147.3,725.2,525.9,736.2,"The country’s youth, aged 16 to 24, are the most digitally skilled at 71.82%, marginally "
+19,11,2,Calibri,11.0,90.0,739.6,525.8,750.6,"above the EU average (69.98%). In contrast, those aged 65 to 74 have very low digital skills at "
+19,11,3,Calibri,11.0,90.0,754.1,420.9,765.1,"11.12%, significantly below the EU average for their age bracket (28.19%). "
+19,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,17 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+20,3,0,Calibri-Bold,11.0,72.0,84.0,104.0,95.1,Digital 
+20,3,1,Calibri-Bold,11.0,113.5,84.0,138.9,95.1,Skills 
+20,3,2,Calibri-Bold,11.0,148.2,84.0,176.0,95.1,Index 
+20,3,3,Calibri-Bold,11.0,185.4,84.0,247.6,95.1,components: 
+20,3,4,Calibri,11.0,257.2,84.0,290.2,95.1,Cyprus 
+20,3,5,Calibri,11.0,72.0,98.4,290.2,109.5,outperforms the EU average in 2 out of 5 areas 
+20,3,6,Calibri,11.0,72.0,112.9,290.1,124.0,of the Digital Skills Index. Its best showing is in 
+20,3,7,Calibri,11.0,72.0,127.5,290.1,138.5,"communication and collaboration skills, with a "
+20,3,8,Calibri,11.0,72.0,142.0,290.1,153.0,"score of 90.12%, followed by information and "
+20,3,9,Calibri,11.0,72.0,156.4,290.2,167.4,data literacy skills with a score of 88.45%. 
+20,3,10,Calibri,11.0,72.0,170.9,290.1,181.9,"However, the country faces challenges in digital "
+20,3,11,Calibri,11.0,72.0,185.4,290.0,196.5,"content creation skills, where it scores 60.94%, "
+20,3,12,Calibri,11.0,72.0,199.9,242.3,211.0,well below the EU average of 68.28%. 
+20,5,0,Calibri,11.0,72.0,222.4,290.1,233.4,"In summary, Cyprus’s digital skills landscape "
+20,5,1,Calibri,11.0,72.0,236.9,290.1,248.0,presents a mixed picture. While there is a gender 
+20,5,2,Calibri,11.0,72.0,251.4,290.1,262.5,gap in favour of women and a strong showing 
+20,5,3,Calibri,11.0,72.0,265.9,290.2,276.9,"amongst young people, the overall proficiency is "
+20,5,4,Calibri,11.0,72.0,280.4,290.1,291.4,"below the EU average. Notably, there is a "
+20,5,5,Calibri,11.0,72.0,294.9,290.1,305.9,significant opportunity for improvement in 
+20,5,6,Calibri,11.0,72.0,309.4,525.6,320.5,"elevating the digital skills of those with lower education levels and the elderly, as well as enhancing "
+20,5,7,Calibri,11.0,72.0,323.8,381.4,334.9,areas like digital content creation to close the gap with EU standards. 
+20,6,0,Calibri-Bold,11.0,72.0,346.4,525.8,357.4,Cyprus’s national target for its population to have at least basic digital skills by 2030 is in line with 
+20,6,1,Calibri-Bold,11.0,72.0,360.9,197.3,371.9,the EU’s 2030 target (80%).
+20,6,1,Calibri,11.0,197.4,360.9,525.8,371.9," In its revised roadmap, Cyprus significantly upgraded a measure for the "
+20,6,2,Calibri,11.0,72.0,375.3,512.7,386.3,development of digital skills putting emphasis on designing customised trainings for specific groups.
+20,6,2,Calibri-Bold,11.0,512.6,375.3,515.1,386.3, 
+20,6,2,Calibri,11.0,514.9,375.3,525.9,386.3,In 
+20,6,3,Calibri,11.0,72.0,389.8,432.8,400.9,"2024, it also continues to implement measures initially included in the roadmap. "
+20,6,3,Calibri-Bold,11.0,432.7,389.8,435.2,400.9, 
+20,7,0,Calibri-Bold,11.0,77.8,413.1,286.8,424.1,2024 recommendation on basic digital skills:
+20,7,0,Calibri,11.0,286.9,413.1,519.9,424.1," Consider, based on the current moderate results, "
+20,7,1,Calibri,11.0,77.8,427.6,520.1,438.7,"strengthening the strategy for developing the population’s basic digital skills, especially by training "
+20,7,2,Calibri,11.0,77.8,442.0,149.9,453.1,people over 55. 
+20,8,0,Calibri-Bold,11.0,77.8,460.3,514.7,471.3,Cyprus made some efforts to address the recommendation through new policy actions in 2024
+20,8,0,Calibri,11.0,514.8,460.3,520.1,471.3,. 
+20,8,1,Calibri,11.0,77.8,474.8,520.0,485.8,The measure ‘Promotion of Digital Skills by Cyprus Productivity Centre (CPC)’ included in the initial 
+20,8,2,Calibri,11.0,77.8,489.3,520.0,500.4,roadmap (with a budget of EUR 300 000) has been considerably upgraded for the 2024-2026 period 
+20,8,3,Calibri,11.0,77.8,503.8,520.1,514.9,with an additional budget of EUR 1.75 million from the RRP. Since 2024 the CPC has been 
+20,8,4,Calibri,11.0,77.8,518.2,520.0,529.3,collaborating with the Human Resource Development Authority (HRDA) for the implementation of 
+20,8,5,Calibri,11.0,77.8,532.7,520.0,543.8,customised programmes: Free Digital Skills -Programmes for people over 55; Digital Skills 
+20,8,6,Calibri,11.0,77.8,547.3,520.0,558.3,Programmes for All; Programmes in non-urban/mountainous and remote areas; Programmes 
+20,8,7,Calibri,11.0,77.8,561.8,520.0,572.9,"leading to ICDL certification. By the end of 2024, 4 745 people had been trained, with a target of "
+20,8,8,Calibri,11.0,77.8,576.2,194.4,587.3,5 300 by the end of 2025. 
+20,9,0,Calibri,11.0,72.0,594.5,74.5,605.5, 
+20,9,1,Calibri-Bold,11.0,72.0,609.0,525.9,620.0,"To address the digital divide and promote trainings on digital skills for vulnerable groups, the CPC "
+20,9,2,Calibri-Bold,11.0,72.0,623.5,504.0,634.5,also plans to provide digital equipment and upgrade facilities for digital learning and skills. 
+20,9,2,Calibri,11.0,505.5,623.5,525.9,634.5,This 
+20,9,3,Calibri,11.0,72.0,638.0,525.8,649.1,support is directed among others to elderly care homes to enable more courses in digital skills based 
+20,9,4,Calibri,11.0,72.0,652.4,525.9,663.5,on the current population needs. The HRDA continued to implement measures included in the initial 
+20,9,5,Calibri,11.0,72.0,666.9,458.2,678.0,roadmap to strengthen the digital skills of 20 210 employed and unemployed persons. 
+20,10,0,Calibri-LightItalic,11.0,72.0,689.5,135.2,700.5,ICT specialists 
+20,11,0,Calibri-Bold,11.0,72.0,715.9,525.9,726.9,"In Cyprus ICT specialists account for 5.0% of total employment, matching the EU average in 2024. "
+20,11,1,Calibri-Bold,11.0,72.0,730.4,330.6,741.5,The country is on track according to its national trajectory
+20,11,1,Calibri,11.0,330.7,730.4,525.9,741.5, even though this percentage is down falling 
+20,11,2,Calibri,11.0,72.0,745.0,525.9,756.0,"a negative growth rate compared to the previous year. In 2023, the percentage of ICT specialists as a "
+20,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,18 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+21,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,share of total employment surpassed the EU average (5.6% for Cyprus compared to 4.8% for the EU 
+21,2,1,Calibri,11.0,72.0,98.4,118.0,109.5,average).  
+21,4,0,Calibri-Bold,11.0,72.0,121.0,520.9,132.0,The share of women ICT specialists in Cyprus remained stable (23.6% in 2023 and 23.7% in 2024)
+21,4,0,Calibri,11.0,520.8,121.0,525.9,132.0,", "
+21,4,1,Calibri,11.0,72.0,135.5,525.8,146.5,"and higher than the EU average in both years (19.4% and 19.5%). However, the growth rate of 0.4% is "
+21,4,2,Calibri,11.0,72.0,149.9,222.5,160.9,slightly lower than the EU’s 0.5%. 
+21,5,0,Calibri-Bold,11.0,72.0,172.5,512.1,183.5,Cyprus has a higher percentage of enterprises offering ICT training compared to the EU average.
+21,5,0,Calibri,11.0,512.2,172.5,525.9,183.5, In 
+21,5,1,Calibri,11.0,72.0,187.0,525.9,198.0,"2022, 28.36% of Cypriot enterprises with 10 or more employees provided ICT training, exceeding the "
+21,5,2,Calibri,11.0,72.0,201.4,525.5,212.4,"EU’s 22.37%. This trend continued in 2024, with 29.94% of Cypriot enterprises offering ICT training, "
+21,5,3,Calibri,11.0,72.0,215.9,525.9,226.9,compared to the EU’s 22.29%. The annual growth rate for Cyprus (+2.7%) outpaced the EU’s negative 
+21,5,4,Calibri,11.0,72.0,230.4,166.3,241.5,growth rate (-0.2%).  
+21,6,0,Calibri,11.0,72.0,252.9,74.8,263.9,I
+21,6,0,Calibri-Bold,11.0,74.8,252.9,525.8,263.9,"n terms of demand from the labour market, Eurostat experimental statistics based on web scraping "
+21,6,1,Calibri-Bold,11.0,72.0,267.4,525.8,278.5,"show that in Cyprus, the profiles of ‘software and applications developers and analysts’ are the most "
+21,6,2,Calibri-Bold,11.0,72.0,281.9,525.8,293.0,"sought after, representing 48.0% of online job advertisements for ICT specialists (58.0% at EU level). "
+21,6,3,Calibri,11.0,72.0,296.3,525.8,307.4,Two types of profile are significantly more in demand in Cyprus than in the EU: ‘information and 
+21,6,4,Calibri,11.0,72.0,310.9,525.9,321.9,"communications technology service managers’ (12.6% of online job advertisements for ICT specialists, "
+21,6,5,Calibri,11.0,72.0,325.4,525.9,336.4,while the EU average is 3.8%) and ‘telecommunications and broadcasting technicians’ (4.8% while the 
+21,6,6,Calibri,11.0,72.0,339.9,525.8,350.9,EU average is 1.7%). The profile of ‘information and communications technology operations and user 
+21,6,7,Calibri,11.0,72.0,354.4,480.4,365.4,support technicians’ (10.8% of online job ads) is also slightly above the EU average (10.4%). 
+21,7,0,Calibri-Bold,11.0,72.0,376.8,525.9,387.9,"In its revised roadmap, Cyprus updated its 2030 target to be in line with the EU’s 2030 target of ICT "
+21,7,1,Calibri-Bold,11.0,72.0,391.4,305.8,402.4,specialists accounting for 10% of total employment
+21,7,1,Calibri,11.0,305.8,391.4,525.8,402.4,. An assessment is currently being carried out on 
+21,7,2,Calibri,11.0,72.0,405.8,525.9,416.8,the pilot programme that was launched in 2024 in collaboration with the business sector to upskill 
+21,7,3,Calibri,11.0,72.0,420.3,525.9,431.4,unemployed people with a STEM background so that they may continue their career path in ICT-related 
+21,7,4,Calibri,11.0,72.0,434.8,525.9,445.9,"jobs. No additional measures have been added in the revised roadmap. Given limited resources, more "
+21,7,5,Calibri,11.0,72.0,449.3,525.8,460.4,emphasis has been put on increasing basic digital skills of the population with targeted training to 
+21,7,6,Calibri,11.0,72.0,463.7,525.6,474.8,identified needs. Priority is also given to assess the needs and opportunities offered on the labour 
+21,7,7,Calibri,11.0,72.0,478.3,525.9,489.3,"market by the ICT sector to encourage students to follow high-potential studies. Furthermore, the pilot "
+21,7,8,Calibri,11.0,72.0,492.8,525.8,503.8,"programme, launched in 2023 in collaboration with the business sector for upskilling unemployed "
+21,7,9,Calibri,11.0,72.0,507.3,525.9,518.3,"people with a STEM background to continue their career path in ICT related jobs, is currently under "
+21,7,10,Calibri,11.0,72.0,521.8,124.0,532.9,evaluation. 
+21,8,0,Calibri-Light,12.0,72.0,544.5,476.9,556.5,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+21,9,0,Calibri-Bold,11.0,72.0,572.1,525.9,583.2,"For digital public services for citizens, Cyprus scored at 77.63 in 2024, up from 73.96 in 2023, and "
+21,9,1,Calibri-Bold,11.0,72.0,586.5,525.9,597.6,"although its growth rate (5.0%) outpaced the EU’s 3.6%, it remained below the EU average of 82.32 "
+21,9,2,Calibri-Bold,11.0,72.0,601.1,108.4,612.1,in 2024.
+21,9,2,Calibri,11.0,108.5,601.1,111.0,612.1, 
+21,9,2,Calibri-Bold,11.0,110.9,601.1,378.9,612.1,The country is on track according to its national trajectory. 
+21,9,2,Calibri,11.0,378.9,601.1,525.9,612.1,In the cross-border digital public 
+21,9,3,Calibri,11.0,72.0,615.6,525.9,626.6,"services, the country scored 71.9 in 2024, above the EU’s 71.28. In 2023, Cyprus’s score of 72.74 was "
+21,9,4,Calibri,11.0,72.0,630.1,525.9,641.1,"also above the EU’s 68.37. However, compared to 2023, Cyprus’s growth rate was negative in 2024 "
+21,9,5,Calibri,11.0,72.0,644.5,404.1,655.5,(- 1.1%) while the EU experienced a positive average growth rate (+4.3%).  
+21,10,0,Calibri-Bold,11.0,72.0,667.1,525.9,678.1,"For digital public services for businesses, Cyprus’s score was 86.07 in 2023 - above the EU’s 85.42, - "
+21,10,1,Calibri-Bold,11.0,72.0,681.6,525.9,692.6,but decreased slightly to 86.01 in 2024 - below the EU average of 86.23. The country is on track 
+21,10,2,Calibri-Bold,11.0,72.0,696.0,233.2,707.0,"according to its national trajectory,"
+21,10,2,Calibri,11.0,233.2,696.0,525.9,707.0, yet the growth rate (- 0.1%) reflects stagnation. The EU average 
+21,10,3,Calibri,11.0,72.0,710.5,525.9,721.5,progressed slightly (0.9%). The reason is that one newly measured SDGR-related services (Single Digital 
+21,10,4,Calibri,11.0,72.0,725.0,525.9,736.1,"Gateway regulation) was not found online, lowering the average score. For cross-border digital public "
+21,10,5,Calibri,11.0,72.0,739.6,525.9,750.6,"services for businesses, Cyprus scored 77.86 in 2023, above the EU’s 73.13, but dropped to 75.35 in "
+21,11,0,Calibri,11.0,292.1,795.4,305.8,806.4,19 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+22,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"2024, still above the EU’s 73.76. Although, Cyprus’s growth rate was negative in 2024 (- 3.2%) while "
+22,2,1,Calibri,11.0,72.0,98.4,339.3,109.5,the EU’s average experienced positive growth rate (+0.9%).  
+22,4,0,Calibri-Bold,11.0,72.0,121.0,525.9,132.0,"For access to e-health records, Cyprus presents a score of 75.44 in 2024 below the EU average of "
+22,4,1,Calibri-Bold,11.0,72.0,135.5,378.6,146.5,82.70. The country is on track compared to its national trajectory. 
+22,4,1,Calibri,11.0,379.3,135.5,525.9,146.5,It presents a higher growth rate 
+22,4,2,Calibri,11.0,72.0,149.9,197.7,160.9,(10.7%) than the EU (4.5%). 
+22,5,0,Calibri-Bold,11.0,72.0,172.5,525.9,183.5,"That said, in 2024 the percentage of people having used websites or apps of Cypriot public "
+22,5,1,Calibri-Bold,11.0,72.0,187.0,453.2,198.0,authorities in the last 12 months (79.32%) remained above the EU average (74.71%)
+22,5,1,Calibri,11.0,453.2,187.0,458.4,198.0,. 
+22,6,0,Calibri-LightItalic,11.0,72.0,209.4,92.4,220.5,e-ID 
+22,7,0,Calibri-Bold,11.0,72.0,236.0,525.7,247.0,"In December 2023, the National Scheme IDME.cy was notified under the eIDAS regulation with "
+22,7,1,Calibri-Bold,11.0,72.0,250.4,398.4,261.4,"‘assurance level high’. At the beginning of 2025, Cyprus government "
+22,7,1,Calibri,11.0,400.5,250.4,525.8,261.4,decided to proceed to the 
+22,7,2,Calibri,11.0,72.0,264.9,525.9,275.9,acquisition of 100 000 e-IDs to be offered to Cypriot citizens over the age of 18. The first 30 000 e-IDs 
+22,7,3,Calibri,11.0,72.0,279.4,525.9,290.5,"will be provided free of charge to citizens on a first-come, first-served basis, and for the remaining "
+22,7,4,Calibri,11.0,72.0,293.9,398.0,305.0,"70,000 e-IDs, the Government will cover a significant portion of the cost. "
+22,8,0,Calibri-Bold,11.0,72.0,316.4,331.4,327.4,"The adoption of e-ID use will enable access to services,"
+22,8,0,Calibri,11.0,331.4,316.4,525.9,327.4, such as (i) access to government systems 
+22,8,1,Calibri,11.0,72.0,330.9,525.9,341.9,"through the ‘CY Login’ mechanism, using e-ID as an alternative login method; (ii) integration of an "
+22,8,2,Calibri,11.0,72.0,345.4,525.9,356.4,"electronic signature into information systems, such as the new ‘Ippodamos’ system for urban planning "
+22,8,3,Calibri,11.0,72.0,359.8,525.8,370.9,"and housing and building permits; (iii) a selection of not fully digitalized services, to be electronically "
+22,8,4,Calibri,11.0,72.0,374.3,477.4,385.4,"submitted to governmental departments, transitioning away from paper-based processes.  "
+22,9,0,Calibri-Bold,11.0,72.0,396.9,525.9,407.9,Three entities from Cyprus are participating in a large pilot project for the implementation of the EU 
+22,9,1,Calibri-Bold,11.0,72.0,411.3,221.8,422.4,"Digital Identity Wallet. In 2024, t"
+22,9,1,Calibri,11.0,221.8,411.3,525.8,422.4,he project ‘MyHealthPath’ involving 31 partners across 15 Member 
+22,9,2,Calibri,11.0,72.0,425.8,525.9,436.9,States started developing a digital platform to test practical use cases and user centred requirements 
+22,9,3,Calibri,11.0,72.0,440.3,525.8,451.4,into innovative technical solutions and services in the context of the implementation of the EUDI 
+22,9,4,Calibri,11.0,72.0,454.9,525.9,465.9,"Wallet. In addition, three entities from Cyprus continues to participate in POTENTIAL, the large-scale "
+22,9,5,Calibri,11.0,72.0,469.3,433.5,480.3,pilot consortium on the EU Digital Identity Wallet (reported in last year’s report). 
+22,10,0,Calibri-LightItalic,11.0,72.0,491.8,327.2,502.9,Digitalisation of public services for citizens and businesses 
+22,11,0,Calibri-Bold,11.0,72.0,518.3,525.6,529.4,Cyprus still aims to reach a score of 100 for the digitalisation of public services for citizens and 
+22,11,1,Calibri-Bold,11.0,72.0,532.7,126.6,543.8,businesses. 
+22,11,1,Calibri,11.0,128.4,532.7,525.8,543.8,The revised roadmap includes three additional measures to reinforce the strategy of 
+22,11,2,Calibri,11.0,72.0,547.3,525.9,558.3,digitalisation of public services under the broad ‘Digital Citizen’ initiative focused on delivering digital 
+22,11,3,Calibri,11.0,72.0,561.8,217.1,572.9,tools and user-centric solutions: 
+22,12,0,SymbolMT,11.0,90.0,582.0,95.1,595.5,
+22,12,0,ArialMT,11.0,95.1,583.1,98.1,595.5, 
+22,12,1,Calibri-Bold,11.0,108.0,584.9,358.6,595.9,Development of the ‘Digital Citizen’ mobile application
+22,12,1,Calibri,11.0,358.8,584.9,525.8,595.9,". Citizens can create, store and verify "
+22,12,2,Calibri,11.0,108.0,599.4,525.7,610.4,"their digital documents, which hold equal legal validity to paper documents. These digital "
+22,12,3,Calibri,11.0,108.0,613.9,525.6,624.9,documents are suitable for any official or legal use within the Cypriot territory. The objective 
+22,12,4,Calibri,11.0,108.0,628.3,525.9,639.3,"is to foster user-friendly government-citizen interactions, while simplifying bureaucratic "
+22,12,5,Calibri,11.0,108.0,642.8,525.8,653.9,"processes, with a focus on convenience, security and efficiency. The application was launched "
+22,12,6,Calibri,11.0,108.0,657.3,525.7,668.4,in December 2024 and will continue to evolve with a focus on improving services and 
+22,12,7,Calibri,11.0,108.0,671.9,225.9,682.9,introducing new features. 
+22,12,8,SymbolMT,11.0,90.0,684.0,95.1,697.5,
+22,12,8,ArialMT,11.0,95.1,685.1,98.1,697.5, 
+22,12,9,Calibri-Bold,11.0,108.0,686.9,396.6,697.9,Enhanced and redesigned single government portal (gov.cy).
+22,12,9,Calibri,11.0,396.9,686.9,525.9,697.9, The transformation of the 
+22,12,10,Calibri,11.0,108.0,701.4,525.9,712.4,public administration’s online presence through a unified digital portal is continuously being 
+22,12,11,Calibri,11.0,108.0,715.9,525.9,726.9,"enhanced and re-designed to meet users’ needs. At the end of February 2025, it had "
+22,12,12,Calibri,11.0,108.0,730.4,470.7,741.5,"400 services online, with the aim being to reach 500 services by the end of 2025. "
+22,13,0,Calibri,11.0,292.1,795.4,305.8,806.4,20 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+23,3,0,SymbolMT,11.0,89.9,81.8,95.0,95.3,
+23,3,0,ArialMT,11.0,94.9,82.9,98.0,95.2, 
+23,3,1,Calibri-Bold,11.0,107.7,84.6,480.3,95.7,"Integration of a Digital AI Assistant in the single government portal (gov.cy), "
+23,3,1,Calibri,11.0,482.6,84.6,525.9,95.7,featuring 
+23,3,2,Calibri,11.0,107.7,99.0,525.9,110.1,"generative AI functionalities. A pilot will start in December 2024 with social insurance services, "
+23,3,3,Calibri,11.0,107.7,113.5,525.9,124.6,which is an area frequently generating questions from users. Further topics are being added 
+23,3,4,Calibri,11.0,107.7,128.1,154.1,139.1,gradually. 
+23,4,0,Calibri-Bold,11.0,77.8,155.5,299.3,166.6,2024 recommendation on digital public services: 
+23,4,0,Calibri,11.0,299.0,155.5,520.0,166.6,"Consider focused measures, after further analysis "
+23,4,1,Calibri,11.0,77.8,170.1,519.8,181.1,"of the e-government benchmarking methodology, to ensure that the benchmarking results reflect "
+23,4,2,Calibri,11.0,77.8,184.5,332.7,195.5,the current status of the country’s digital public services. 
+23,5,0,Calibri-Bold,11.0,77.8,209.9,520.0,220.9,Cyprus fully addressed the recommendation by putting significant policy actions into place in 
+23,5,1,Calibri-Bold,11.0,77.8,224.3,100.2,235.3,2024
+23,5,1,Calibri,11.0,100.2,224.3,520.0,235.3,. The revised roadmap includes three additional measures to reinforce the strategy of 
+23,5,2,Calibri,11.0,77.8,238.9,519.8,249.9,digitalisation of public services under the broad ‘Digital Citizen’ initiative focused on delivering 
+23,5,3,Calibri,11.0,77.8,253.4,252.6,264.4,digital tools and user-centric solutions. 
+23,5,3,Calibri-Bold,11.0,252.5,253.4,255.0,264.4, 
+23,6,0,Calibri,11.0,72.0,274.5,74.5,285.5, 
+23,7,0,Calibri-LightItalic,11.0,72.0,294.9,112.2,305.9,e-Health 
+23,8,0,Calibri-Bold,11.0,72.0,321.4,525.9,332.5,Cyprus still aims at reaching a score of 100 for the access to electronic health records in line with the 
+23,8,1,Calibri-Bold,11.0,72.0,335.9,152.1,347.0,EU’s 2030 target.
+23,8,1,Calibri,11.0,152.2,335.9,525.7,347.0, Cyprus focused on the expansion of the European Health Union (EHU) aims to 
+23,8,2,Calibri,11.0,72.0,350.4,525.7,361.5,enhance cohesion and efficiency in healthcare systems across the EU while addressing health 
+23,8,3,Calibri,11.0,72.0,364.8,525.9,375.9,"challenges with collective strength. The expansion of the EHU involves aligning health policies, "
+23,8,4,Calibri,11.0,72.0,379.4,525.6,390.4,"integrating National healthcare systems, and promoting digital health solutions to create a more "
+23,8,5,Calibri,11.0,72.0,393.9,525.9,404.9,unified and resilient EU-wide network. Three additional measures were added in the revised roadmap 
+23,8,6,Calibri,11.0,72.0,408.4,321.8,419.5,contributing to develop access to e-health patient data: 
+23,9,0,SymbolMT,11.0,90.0,428.7,95.1,442.1,
+23,9,0,ArialMT,11.0,95.1,429.8,98.1,442.1, 
+23,9,1,Calibri-Bold,11.0,108.0,431.5,523.4,442.5,Cyprus participates in the ‘Enabling Patient Access to their Health Data’ (PATHED) project.
+23,9,1,Calibri,11.0,523.4,431.5,525.9,442.5, 
+23,9,2,Calibri,11.0,108.0,446.0,525.9,457.0,"Composed of 17 partners in 11 Member States, the project aims to deploy and use in "
+23,9,3,Calibri,11.0,108.0,460.4,525.8,471.4,production the elements of the mobile app toolkit developed for patient access to their health 
+23,9,4,Calibri,11.0,108.0,474.9,525.9,485.9,data. The partners have expertise in the cross-border exchange of Patient Summaries and 
+23,9,5,Calibri,11.0,108.0,489.4,525.9,500.5,ePrescriptions and several skills acquired from developing and producing components of 
+23,9,6,Calibri,11.0,108.0,503.9,179.5,515.0,MyHealth@EU. 
+23,9,7,SymbolMT,11.0,90.0,516.1,95.1,529.6,
+23,9,7,ArialMT,11.0,95.1,517.2,98.1,529.5, 
+23,9,8,Calibri-Bold,11.0,108.0,518.9,523.5,530.0,Cyprus’s entities participate in the ‘eCAN’ Joint Action aiming to bring the benefits of e-
+23,9,9,Calibri-Bold,11.0,108.0,533.5,525.5,544.5,health to all citizens and patients across EU Member States with a focus on cancer 
+23,9,10,Calibri-Bold,11.0,108.0,548.0,200.9,559.0,prevention and care
+23,9,10,Calibri,11.0,200.9,548.0,525.8,559.0,. The objective is to harmonize telemedicine regulations and examining 
+23,9,11,Calibri,11.0,108.0,562.5,526.0,573.6,the effectiveness of teleconsultation and telemonitoring programmes in oncology. eCAN is 
+23,9,12,Calibri,11.0,108.0,576.9,525.7,588.0,assessing their role through three clinical trials for different cancer patient groups across 10 
+23,9,13,Calibri,11.0,108.0,591.5,203.2,602.5,European countries.  
+23,9,14,SymbolMT,11.0,89.9,603.8,95.0,617.2,
+23,9,14,ArialMT,11.0,94.9,604.9,98.0,617.2, 
+23,9,15,Calibri-Bold,11.0,107.7,606.6,525.8,617.6,Cyprus is participating in the European Health Data Space (TEHDAS2) to harmonise the 
+23,9,16,Calibri-Bold,11.0,107.7,621.1,423.9,632.1,secondary use of health data by creating a common legal framework
+23,9,16,Calibri,11.0,424.2,621.1,525.9,632.1,. 66 organisations and 
+23,9,17,Calibri,11.0,107.7,635.5,525.8,646.5,29 European countries develop guidelines and technical specifications for common use by all 
+23,9,18,Calibri,11.0,107.7,650.0,325.2,661.1,Members States and the European Commission. 
+23,10,0,Calibri,11.0,72.0,672.5,525.8,683.5,Some of the additional measures described under the digitalisation of public services will also 
+23,10,1,Calibri,11.0,72.0,687.0,362.8,698.0,contribute to boosting access to e-health records (e.g. the e-ID).  
+23,11,0,Calibri-Bold,11.0,72.0,709.5,525.7,720.6,"These developments underscore Cyprus’s commitment to leveraging digital health technologies, "
+23,11,1,Calibri-Bold,11.0,72.0,724.0,525.6,735.0,although the implementation of some existing measures is delayed compared with the initial 
+23,11,2,Calibri-Bold,11.0,72.0,738.5,164.2,749.5,roadmap prevision.
+23,11,2,Calibri,11.0,164.3,738.5,525.8,749.5," The launch of ‘MyHealth@CY’, the national eHealth mobile application is "
+23,11,3,Calibri,11.0,72.0,753.0,456.9,764.0,estimated to be available by May 2026 (originally to be deployed by December 2024). 
+23,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,21 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+24,3,0,Calibri-Bold,11.0,72.0,84.0,525.8,95.1,"However, the national e-Health Authority (NeHA) is advancing its National Electronic Health Record "
+24,3,1,Calibri-Bold,11.0,72.0,98.4,520.8,109.5,(EHR) system to enhance healthcare services and facilitate seamless access to medical information
+24,3,1,Calibri,11.0,520.8,98.4,525.9,109.5,. 
+24,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,This measure was initially in the roadmap. It aims to create a unified digital repository for citizens’ 
+24,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"health data. Currently, it is implementing training programs for healthcare providers on the use of the "
+24,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,online platform for providing cross-border healthcare services to familiarize professionals with its 
+24,3,5,Calibri,11.0,72.0,156.4,525.7,167.4,"tools and procedures, enabling them to provide services to patients from other EU Member States as "
+24,3,6,Calibri,11.0,72.0,170.9,523.2,181.9,"well as Cypriot citizens, enhancing interoperability and quality of care through cross-border services. "
+24,4,0,Calibri-Bold,11.0,72.0,193.5,525.7,204.5,"In April 2025, Cyprus will join the EU’s cross-border healthcare programme enabling its citizens to "
+24,4,1,Calibri-Bold,11.0,72.0,207.9,459.6,218.9,access their medical records and prescriptions from other participating EU countries
+24,4,1,Calibri,11.0,459.7,207.9,525.9,218.9,. Cyprus is the 
+24,4,2,Calibri,11.0,72.0,222.4,83.3,233.4,16
+24,4,2,Calibri,7.0,83.3,221.5,89.2,228.4,th
+24,4,2,Calibri,11.0,89.2,222.4,525.9,233.4, Member State to join. European citizens from those countries visiting Cyprus will also benefit from 
+24,4,3,Calibri,11.0,72.0,236.9,149.4,248.0,reciprocal rights. 
+24,5,0,Calibri,11.0,72.0,259.4,525.6,270.4,"According to the Digital Decade Eurobarometer 2025, 83% of the respondents in Cyprus think that "
+24,5,1,Calibri,11.0,72.0,273.9,525.8,284.9,"digital technologies will be important when accessing or receiving healthcare services (e.g., "
+24,5,2,Calibri,11.0,72.0,288.4,466.8,299.5,"telemedicine, artificial intelligence for diagnosis diseases) during their daily life by 2030. "
+24,6,0,Calibri-Bold,11.0,77.8,315.9,245.7,326.9,2024 recommendation on e-health: 
+24,6,0,Calibri,11.0,247.0,315.9,519.9,326.9,(i) Enhance the authentication method for logging into the 
+24,6,1,Calibri,11.0,77.8,330.4,519.9,341.4,online access service by using a notified e-ID; (ii) Make the data types of medical images and hospital 
+24,6,2,Calibri,11.0,77.8,344.8,519.8,355.9,discharge reports available to citizens through the online access service; (iii) Ensure that the online 
+24,6,3,Calibri,11.0,77.8,359.3,324.6,370.4,access service complies to web accessibility guidelines. 
+24,7,0,Calibri-Bold,11.0,77.8,389.7,469.6,400.7,Cyprus has fully addressed the recommendation through new policy actions in 2024. 
+24,7,0,Calibri,11.0,470.0,389.7,520.0,400.7,Three new 
+24,7,1,Calibri,11.0,77.8,404.2,367.6,415.3,measures were included in the roadmap (as described above).
+24,7,1,Calibri-Bold,11.0,367.8,404.2,370.2,415.3, 
+24,7,1,Calibri,11.0,371.7,404.2,519.9,415.3,The integration of an enhanced 
+24,7,2,Calibri,11.0,77.8,418.7,520.0,429.8,authentication login method through the notified e-ID scheme is being evaluated and will be 
+24,7,3,Calibri,11.0,77.8,433.1,519.8,444.2,"scheduled for future implementation. In parallel, the continuous addition of electronic medical "
+24,7,4,Calibri,11.0,77.8,447.7,519.8,458.7,"records is planned, with patient information summaries expected to be made available in due "
+24,7,5,Calibri,11.0,77.8,462.2,520.0,473.2,course. The provision of these services through the gov.cy portal follows established standards and 
+24,7,6,Calibri,11.0,77.8,476.7,374.6,487.8,will ensure compliance with accessibility guidelines for all citizens. 
+24,8,0,Calibri,11.0,72.0,502.7,74.5,513.8, 
+24,8,1,Calibri-Light,15.0,72.0,518.1,526.4,533.1,Building a safe and human centric digital environment and preserving our 
+24,8,2,Calibri-Light,15.0,72.0,537.8,141.6,552.8,democracy 
+24,9,0,Calibri-Bold,11.0,72.0,564.8,520.7,575.9,The data on online participation in political and civic life shows significant growth recently in Cyprus
+24,9,0,Calibri,11.0,520.8,564.8,525.9,575.9,. 
+24,9,1,Calibri,11.0,72.0,579.3,525.5,590.4,"In 2024, 31.68% of people used digital tools to participate in democratic life, such as taking part in "
+24,9,2,Calibri,11.0,72.0,593.7,525.9,604.8,"online consultations, voting on civic or political issues, or expressing opinions on civic or political issues "
+24,9,3,Calibri,11.0,72.0,608.3,525.6,619.3,on websites or in social media. This is far higher than the EU average (20.45%). It also shows a rapid 
+24,9,4,Calibri,11.0,72.0,622.8,461.0,633.8,upwards trend compared to 2022 (13.35%) which was below the EU average (17.59%). 
+24,10,0,Calibri-Bold,11.0,72.0,645.2,525.9,656.3,At the same time the percentage of people encountering hostile and degrading online messages in 
+24,10,1,Calibri-Bold,11.0,72.0,659.7,304.0,670.8,Cyprus is slightly higher than in the rest of the EU
+24,10,1,Calibri,11.0,304.3,659.7,525.9,670.8,". Data shows that in 2023, 35.07% of individuals "
+24,10,2,Calibri,11.0,72.0,674.3,525.9,685.3,encountered online messages that they considered hostile or degrading towards groups based on 
+24,10,3,Calibri,11.0,72.0,688.7,525.9,699.7,"factors such as political views, LGBTIQ identities or religion, marginally above the EU average of 33.5%. "
+24,10,4,Calibri,11.0,72.0,703.2,525.8,714.2,Young people in the age group 16-24) reported higher exposure (42.94%) than adults in the age group 
+24,10,5,Calibri,11.0,72.0,717.7,525.7,728.7,"25-64 (37.27%). Men (34.81%) and women (35.32%) experienced very similar rates of exposure, "
+24,10,6,Calibri,11.0,72.0,732.2,281.8,743.3,suggesting a balanced impacts across genders. 
+24,11,0,Calibri,11.0,292.1,795.4,305.8,806.4,22 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+25,3,0,Calibri-Bold,11.0,72.0,84.0,525.8,95.1,"Regarding disinformation, the percentage of people who verified data, information and digital "
+25,3,1,Calibri-Bold,11.0,72.0,98.4,332.4,109.5,content is significantly lower than in the rest of the EU
+25,3,1,Calibri,11.0,332.5,98.4,525.8,109.5,". In 2023, 34.27% of individuals in Cyprus "
+25,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,reported having encountered information or content on internet news sites or social media that they 
+25,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"considered untrue or doubtful, substantially lower than the EU average of 49.25%. However, according "
+25,3,4,Calibri,11.0,72.0,142.0,525.6,153.0,"to the survey, only 9.04% of these individuals verified its truthfulness, highlighting a very low level of "
+25,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,engagement in assessing the reliability of the information encountered. Young people (16-24) 
+25,3,6,Calibri,11.0,72.0,170.9,525.8,181.9,"(38.32%) reported very similar exposure to adults (25–64) (36.26%), with verification rates being "
+25,3,7,Calibri,11.0,72.0,185.4,525.8,196.5,practically the same at 9.77% for young people and 9.87% for adults. Males (33.92%) and females 
+25,3,8,Calibri,11.0,72.0,199.9,525.7,211.0,"(34.59%) also reported very similar exposure rates, with verification rates following the same trend at "
+25,3,9,Calibri,11.0,72.0,214.3,251.3,225.4,8.77% for males and 9.30% for females. 
+25,4,0,Calibri-Bold,11.0,72.0,236.9,525.7,248.0,The data shows that while the country has a slightly higher prevalence of perceived hostile and 
+25,4,1,Calibri-Bold,11.0,72.0,251.4,525.5,262.5,"degrading online messages compared to the EU average, a significantly lower proportion of "
+25,4,2,Calibri-Bold,11.0,72.0,265.9,374.5,276.9,individuals encountered potentially misleading information online
+25,4,2,Calibri,11.0,374.5,265.9,525.8,276.9,". However, the data also suggests "
+25,4,3,Calibri,11.0,72.0,280.4,525.6,291.4,"that Cypriots have not been actively engaging in verifying the accuracy of online content, with a very "
+25,4,4,Calibri,11.0,72.0,294.9,389.3,305.9,low proportion of individuals checking the truthfulness of information. 
+25,5,0,Calibri-Bold,11.0,72.0,317.3,525.8,328.4,Cyprus has a fact check centre which is member of the European Digital Media Observatory 
+25,5,1,Calibri-Bold,11.0,72.0,331.8,149.2,342.9,(EDMO) network
+25,5,1,Calibri,11.0,149.2,331.8,154.4,342.9,. 
+25,5,1,Calibri,11.0,155.2,331.8,237.3,342.9,Fact-Check Cyprus
+25,5,1,Calibri,11.0,237.3,331.8,525.7,342.9, is a collaboration between people involved in the fight against 
+25,5,2,Calibri,11.0,72.0,346.4,525.9,357.4,disinformation from Cyprus and Greece. It joined the Social Informatics unit of the Cyprus University 
+25,5,3,Calibri,11.0,72.0,360.9,525.8,371.9,"of Technology (CUT), a public academic institution, in November 2023. The objectives of the centre are "
+25,5,4,Calibri,11.0,72.0,375.3,525.9,386.3,to deconstruct fake news and educate people on digital and media literacy to effectively navigate the 
+25,5,5,Calibri,11.0,72.0,389.8,525.9,400.9,"online world, distinguishing disinformation and fake news by applying critical thinking. According to "
+25,5,6,Calibri,11.0,72.0,404.3,525.6,415.4,"the Digital Decade Eurobarometer 2025, people in Cyprus strongly think that the action of the public "
+25,5,7,Calibri,11.0,72.0,418.9,525.6,429.9,authorities is urgent to protect children online regarding the negative impact of social media on 
+25,5,8,Calibri,11.0,72.0,433.3,525.9,444.3,"children’s mental health (96% of respondents), cyberbullying and online harassment (94%) and to put "
+25,5,9,Calibri,11.0,72.0,447.8,429.0,458.8,in place age assurance mechanisms to restrict age-inappropriate content (96%). 
+25,6,0,Calibri-Bold,11.0,72.0,470.3,525.6,481.4,Cyprus appointed its national authorities to supervise the protection of fundamental rights in 
+25,6,1,Calibri-Bold,11.0,72.0,484.7,285.2,495.8,relation to the use of high-risk AI systems. 
+25,6,1,Calibri,11.0,288.1,484.7,525.8,495.8,"In November 2024, Cyprus notified the European "
+25,6,2,Calibri,11.0,72.0,499.3,525.9,510.3,"Commission that it had appointed the Commissioner for Personal Data Protection, the Ombudsman "
+25,6,3,Calibri,11.0,72.0,513.8,525.9,524.8,and the Attorney General to monitor AI rights and to enforce compliance with human rights obligations 
+25,6,4,Calibri,11.0,72.0,528.3,525.8,539.3,"in high-risk AI applications, as provided for in the AI Act. The 2025 Eurobarometer shows that 82% of "
+25,6,5,Calibri,11.0,72.0,542.7,525.7,553.8,respondents in Cyprus think that public authorities should prioritise shaping the development of 
+25,6,6,Calibri,11.0,72.0,557.3,525.9,568.3,"Artificial Intelligence and other digital technologies to ensure that they respect our rights and values, "
+25,6,7,Calibri,11.0,72.0,571.8,229.6,582.8,in line with the EU average of 83%. 
+25,7,0,Calibri-Bold,11.0,72.0,594.2,382.7,605.3,Cyprus actively engages in international dialogues on digital rights.
+25,7,0,Calibri,11.0,383.0,594.2,525.9,605.3," In 2024, Cyprus co-hosted the "
+25,7,1,Calibri,11.0,72.0,608.7,525.9,619.8,regional conference ‘Protecting Human Rights in the Digital Age and in Social Media’. Participants 
+25,7,2,Calibri,11.0,72.0,623.3,525.9,634.3,discussed the development of new technologies and AI and the challenges for the ombudsmen and 
+25,7,3,Calibri,11.0,72.0,637.8,295.1,648.8,mediators in the field of human rights protection. 
+25,8,0,Calibri,11.0,72.0,660.2,74.5,671.3, 
+25,8,1,Calibri,11.0,216.1,660.2,218.5,671.3, 
+25,9,0,Calibri,11.0,292.1,795.4,305.8,806.4,23 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+26,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Leveraging digital transformation for a 
+26,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+26,4,0,Calibri,11.0,72.0,160.5,525.7,171.5,"According to the Digital Decade Eurobarometer 2025, 80% of the respondents in Cyprus consider "
+26,4,1,Calibri,11.0,72.0,175.0,525.9,186.0,digital technologies important to help fight climate change (above the EU average of 74%). 87% 
+26,4,2,Calibri,11.0,72.0,189.5,525.7,200.5,answered that ensuring that digital technologies serve the green transition should be an important 
+26,4,3,Calibri,11.0,72.0,203.9,373.8,214.9,"action for the public authorities, also above the EU average of 80%. "
+26,5,0,Calibri-Bold,11.0,72.0,226.5,525.5,237.5,Cyprus is implementing its national plan for smart cities which put digital technologies at the core 
+26,5,1,Calibri-Bold,11.0,72.0,241.0,177.0,252.0,of the transformation. 
+26,5,1,Calibri,11.0,177.5,241.0,525.9,252.0,It provides for the implementation of smart vertical solutions to mitigate the 
+26,5,2,Calibri,11.0,72.0,255.4,170.7,266.5,environmental impact
+26,5,2,Calibri-Bold,11.0,170.7,255.4,173.2,266.5, 
+26,5,2,Calibri,11.0,173.6,255.4,525.8,266.5,"based on digital technologies such as smart lighting, smart parking, and smart "
+26,5,3,Calibri,11.0,72.0,269.9,525.9,281.0,waste management and citizen app. The plan includes the adoption of necessary reforms and 
+26,5,4,Calibri,11.0,72.0,284.4,525.9,295.5,"infrastructure to enable the creation of smart cities across the country, making them more resilient for "
+26,5,5,Calibri,11.0,72.0,299.0,525.9,310.0,"the future. In 2025, Cyprus will be launching the project for the creation of the ‘Cyprus Smart City "
+26,5,6,Calibri,11.0,72.0,313.4,335.2,324.4,Platform’ and the above mentioned four vertical solutions. 
+26,6,0,Calibri-Bold,11.0,72.0,335.9,525.4,347.0,Cyprus through its Smart Specialisation Strategy 2030 recognises the critical role of digital 
+26,6,1,Calibri-Bold,11.0,72.0,350.4,525.9,361.5,"technologies in supporting the green transition, promoting the development of energy-efficient "
+26,6,2,Calibri-Bold,11.0,72.0,364.8,238.2,375.9,digital solutions and infrastructures.
+26,6,2,Calibri,11.0,238.4,364.8,525.9,375.9," Specifically, it identifies ‘digital technologies’ as a priority area, "
+26,6,3,Calibri,11.0,72.0,379.4,525.8,390.4,"with a focus on smart energy grids, energy management in buildings through IoT and AI, and the "
+26,6,4,Calibri,11.0,72.0,393.9,525.6,404.9,promotion of green data centres. The strategy also highlights the potential of the ICT sector to 
+26,6,5,Calibri,11.0,72.0,408.4,525.9,419.5,accelerate sustainable growth by diversifying its technological applications into low-tech sectors such 
+26,6,6,Calibri,11.0,72.0,422.8,525.7,433.9,"as tourism and agriculture, contributing to their digital and environmental transformation. These "
+26,6,7,Calibri,11.0,72.0,437.3,525.8,448.4,efforts are supported through targeted funding instruments provided by the Research and Innovation 
+26,6,8,Calibri,11.0,72.0,451.9,128.2,462.9,Foundation. 
+26,7,0,Calibri-Bold,11.0,72.0,474.3,525.7,485.4,"The public administration provides collaboration tools for civil servants, aiming to minimise "
+26,7,1,Calibri-Bold,11.0,72.0,488.8,278.4,499.9,"travelling costs, and lower carbon emissions. "
+26,7,1,Calibri,11.0,278.7,488.8,525.7,499.9,"Although many concrete actions are in the making, the "
+26,7,2,Calibri,11.0,72.0,503.3,525.6,514.4,revised roadmap adjustment lacks a description of the approach for twinning the digital and green 
+26,7,3,Calibri,11.0,72.0,517.9,363.5,528.9,"transition, notably for reducing the footprint of the digital sector. "
+26,8,0,Calibri-Bold,11.0,72.0,540.3,525.8,551.3,"In the telecoms sector, Cyprus’s regulator, OCECPR, is monitoring the work of the Body of European "
+26,8,1,Calibri-Bold,11.0,72.0,554.8,525.6,565.9,Regulators for Electronic Communications (BEREC) on issues related to the green transition and 
+26,8,2,Calibri-Bold,11.0,72.0,569.4,132.8,580.4,sustainability
+26,8,2,Calibri,11.0,132.9,569.4,525.9,580.4,". By monitoring guidelines and best practices developed at European level, it intends to "
+26,8,3,Calibri,11.0,72.0,583.8,525.9,594.8,"ensure integration and alignment with EU-wide sustainability goals. In parallel, it is also engaging with "
+26,8,4,Calibri,11.0,72.0,598.3,525.8,609.3,telecoms providers to understand and assess the measures they are taking to reduce their 
+26,8,5,Calibri,11.0,72.0,612.8,525.9,623.9,environmental footprint and promote sustainable practices. Cyprus’s telecoms operators are 
+26,8,6,Calibri,11.0,72.0,627.3,525.9,638.4,"developing strategies for mitigating the footprint of digital infrastructure and devices, such as the "
+26,8,7,Calibri,11.0,72.0,641.7,400.4,652.8,"electrification of base stations with solar panels, and recycling of devices. "
+26,9,0,Calibri-Bold,11.0,72.0,664.3,525.9,675.3,"In 2024, 27.69% of people in Cyprus considered energy efficiency to be an important characteristic "
+26,9,1,Calibri-Bold,11.0,72.0,678.7,347.3,689.7,"when buying ICT devices, while the EU average was 19.35%."
+26,9,1,Calibri,11.0,347.2,678.7,525.9,689.7, The eco-design of the device was even 
+26,9,2,Calibri,11.0,72.0,693.2,525.9,704.3,"more important for 41.39% of consumers, well above the EU average (12.04%). However, price remains "
+26,9,3,Calibri,11.0,72.0,707.7,523.6,718.8,by far the most important criterion for buyers in Cyprus (87.84%) ahead of energy efficiency and eco-
+26,9,4,Calibri,11.0,72.0,722.3,525.7,733.3,design. Cypriots are less likely to recycle their old desktop computer (9.99%) and laptop or tablet 
+26,9,5,Calibri,11.0,72.0,736.7,525.9,747.7,"(7.59%) than the EU average (14.66% and 11.31% respectively), but a large majority of 73.52% either "
+26,9,6,Calibri,11.0,72.0,751.2,525.9,762.2,"still use their old desktop computer or have never bought one, while the EU average is at 38.46%. The "
+26,10,0,Calibri,11.0,292.1,795.4,305.8,806.4,24 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+27,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,same is observed for the old laptop or tablet: 48.49% of people either still use their old laptop or tablet 
+27,2,1,Calibri,11.0,72.0,98.4,347.6,109.5,"or have never bought one, while the EU average is at 25.04%. "
+27,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,"Regarding the awareness and preparedness of enterprises on the green aspects of their digital sector, "
+27,4,1,Calibri,11.0,72.0,135.5,525.7,146.5,"71.1% of enterprises of 10 or more employees considered the environmental impact of ICT services, "
+27,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"or ICT equipment before selecting them, while the EU average is only 58.5%. The recycling of old "
+27,4,3,Calibri,11.0,72.0,164.4,482.7,175.5,equipment is also higher among enterprises in Cyprus (78.3%) than the EU average (77.4%). 
+27,5,0,Calibri-Bold,11.0,77.7,187.5,243.1,198.5,2024 recommendation on green ICT
+27,5,0,Calibri,11.0,243.2,187.5,520.3,198.5,: (i) Develop a coherent approach to twinning the digital and 
+27,5,1,Calibri,11.0,77.7,201.9,520.0,212.9,"green transitions. First, promote improvements in energy and material efficiency of digital "
+27,5,2,Calibri,11.0,77.7,216.4,520.1,227.4,"infrastructures, in particular datacentres. Second, support the development and deployment of "
+27,5,3,Calibri,11.0,77.7,230.9,520.2,242.0,"digital solutions that reduce the carbon footprint in other sectors, such as energy, transport, "
+27,5,4,Calibri,11.0,77.7,245.4,520.3,256.5,"buildings, and agriculture, including the uptake of such solutions by SMEs. (ii) monitor and quantify "
+27,5,5,Calibri,11.0,77.7,259.9,520.0,270.9,the emission reductions of the deployed digital solutions in line with the relevant EU guidance and 
+27,5,6,Calibri,11.0,77.7,274.4,520.1,285.4,"the methodology developed by the European Green Digital Coalition, in view of future policy "
+27,5,7,Calibri,11.0,77.7,288.9,329.1,299.9,"development, as well as of attracting relevant financing. "
+27,6,0,Calibri-Bold,11.0,77.7,306.9,520.3,317.9,"In 2024, Cyprus continued to implement existing measures but did not take any new measures. "
+27,6,1,Calibri,11.0,77.7,321.4,520.3,332.5,The implementation of the Smart Specialisation Strategy and the Research and Innovation 
+27,6,2,Calibri,11.0,77.7,335.8,505.7,346.9,Foundation facilitate progress through tailored funding mechanisms to support green transition 
+27,6,2,Calibri-Bold,11.0,505.7,335.8,508.2,346.9, 
+27,7,0,Calibri,11.0,72.0,368.1,74.5,379.1, 
+27,7,1,Calibri-Bold,26.0,216.1,356.8,221.9,382.9, 
+27,8,0,Calibri,11.0,292.1,795.4,305.8,806.4,25 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+28,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+28,4,0,Calibri-Bold,11.0,80.5,129.7,314.3,140.8,Cyprus’s national Digital Decade strategic roadmap 
+28,5,0,Calibri-Bold,11.0,80.5,147.3,385.3,158.3,Cyprus submitted an adjustment of its national roadmap on 13
+28,5,0,Calibri-Bold,7.0,385.4,146.4,391.5,153.3,th
+28,5,0,Calibri-Bold,11.0,391.4,147.3,517.4,158.3, January 2025. It includes 
+28,5,1,Calibri-Bold,11.0,80.5,161.7,517.3,172.7,"11 additional measures, six measures were revised, as well as one trajectory. Two targets and "
+28,5,2,Calibri-Bold,11.0,80.5,176.2,329.2,187.2,trajectories were added for unicorns and edge nodes
+28,5,2,Calibri,11.0,329.4,176.2,517.4,187.2,. The adjustment aligns with the current 
+28,5,3,Calibri,11.0,80.5,190.7,517.4,201.7,Commission’s priorities such as cybersecurity and increasing the efficiency of public services using 
+28,5,4,Calibri,11.0,80.5,205.2,172.6,216.3,digital technologies. 
+28,6,0,Calibri-Bold,11.0,80.5,222.6,517.4,233.7,The revised roadmap addresses a substantial number of roadmap recommendations issued in 
+28,6,1,Calibri-Bold,11.0,80.5,237.2,102.9,248.2,2024
+28,6,1,Calibri,11.0,102.9,237.2,108.2,248.2,: 
+28,7,0,SymbolMT,11.0,95.5,252.5,100.6,266.0,
+28,7,0,ArialMT,11.0,100.6,253.6,103.6,265.9, 
+28,7,1,Calibri-Italic,11.0,113.3,255.3,377.7,266.3,Provide a target and trajectory for unicorns and edge nodes
+28,7,1,Calibri,11.0,377.8,255.3,517.3,266.3,: the revised roadmap includes 
+28,7,2,Calibri,11.0,113.3,269.8,517.4,280.8,a target and a trajectory for edge nodes and unicorns. Cyprus also revised its national target 
+28,7,3,Calibri,11.0,113.3,284.2,392.0,295.2,for ICT specialists to align it with the EU’s 2030 target of 10%.  
+28,8,0,SymbolMT,11.0,95.5,299.5,100.6,313.0,
+28,8,0,ArialMT,11.0,100.6,300.6,103.6,312.9, 
+28,8,1,Calibri-Italic,11.0,113.3,302.3,517.3,313.4,Review and strengthen measures to contribute to the targets that are the most challenging 
+28,8,2,Calibri-Italic,11.0,113.3,316.9,418.8,327.9,"to reach, such as digital skills for all and business take-up of AI"
+28,8,2,Calibri,11.0,418.8,316.9,517.4,327.9,: Cyprus significantly 
+28,8,3,Calibri,11.0,113.3,331.4,517.4,342.4,upgraded a programme implemented by the Cyprus Productivity Centre (CPC) for the 
+28,8,4,Calibri,11.0,113.3,345.8,517.4,356.8,"development of digital skills, putting emphasis on designing customised training "
+28,8,5,Calibri,11.0,113.3,360.3,517.4,371.3,programmes for specific vulnerable groups including individuals aged 55 and above. In the 
+28,8,6,Calibri,11.0,113.3,374.8,517.4,385.9,"initial roadmap, the budget was EUR 300 000; the revised roadmap provides for an "
+28,8,7,Calibri,11.0,113.3,389.3,517.4,400.4,additional budget of EUR 1.75 million for 2024-2026 period with the support of the RRP. In 
+28,8,8,Calibri,11.0,113.3,403.7,517.2,414.8,"terms of business take-up of AI, no additional measures have been included in the "
+28,8,9,Calibri,11.0,113.3,418.3,517.3,429.3,"roadmap, but Cyprus is working on designing a national AI strategy to leverage the "
+28,8,10,Calibri,11.0,113.3,432.8,492.9,443.8,"potential of AI for growth, and on a funding scheme for the provision of AI solutions. "
+28,9,0,SymbolMT,11.0,95.5,448.1,100.6,461.6,
+28,9,0,ArialMT,11.0,100.6,449.2,103.6,461.5, 
+28,9,1,Calibri-Italic,11.0,113.3,450.9,491.2,461.9,Provide more information on the implementation of the digital rights and principles
+28,9,1,Calibri-BoldItalic,11.0,491.5,450.9,494.0,461.9, 
+28,9,1,Calibri-Italic,11.0,494.7,450.9,517.4,461.9,(and 
+28,9,2,Calibri-Italic,11.0,113.3,465.3,491.1,476.4,"Digital Decade general objectives), including what national measures contribute to it: "
+28,9,2,Calibri,11.0,490.8,465.3,517.4,476.4,while 
+28,9,3,Calibri,11.0,113.3,479.8,195.0,490.9,there has been no
+28,9,3,Calibri-Italic,11.0,195.1,479.8,197.5,490.9, 
+28,9,3,Calibri,11.0,197.8,479.8,517.4,490.9,systematic contribution to the implementation of the digital rights and 
+28,9,4,Calibri,11.0,113.3,494.3,517.4,505.4,"principles was not carried out, the revised roadmap includes additional information on "
+28,9,5,Calibri,11.0,113.3,508.7,517.4,519.8,some initiatives contributing directly to the implementation of digital rights and principles 
+28,9,6,Calibri,11.0,113.3,523.3,517.4,534.3,"(e.g. Cyprus’s involvement in international discussions on digital rights), and indirectly, "
+28,9,7,Calibri,11.0,113.3,537.8,517.4,548.8,such as the measures for digital skills helping to empower people and protect them online. 
+28,9,8,Calibri,11.0,113.3,552.3,517.3,563.3,"Regarding the general objectives, while the adjustment of the roadmap includes a measure "
+28,9,9,Calibri,11.0,113.3,566.7,517.2,577.8,"to boost cybersecurity capacity, the implementation of the objective of greening digital is "
+28,9,10,Calibri,11.0,113.3,581.3,227.7,592.3,has not been addressed.  
+28,10,0,Calibri-Bold,11.0,80.5,598.8,517.2,609.8,"Overall, Cyprus’s revised roadmap reinforces the already mostly complete roadmap submitted "
+28,10,1,Calibri-Bold,11.0,80.5,613.3,517.3,624.3,"in 2023. In total, the national roadmap includes 62 measures totalling EUR 988.4 million "
+28,10,2,Calibri-Bold,11.0,80.5,627.8,252.5,638.9,(equivalent to 2.96% of Cyprus’s GDP)
+28,10,2,Calibri,11.0,252.6,627.8,517.4,638.9,. It remains high in ambition in terms of the targets set and 
+28,10,3,Calibri,11.0,80.5,642.2,517.1,653.3,the inclusion of additional measures demonstrates the commitment to reach the objectives and 
+28,10,4,Calibri,11.0,80.5,656.7,517.1,667.8,"targets of the Digital Decade. At the same time, there is room to further consolidate the action in "
+28,10,5,Calibri,11.0,80.5,671.3,431.8,682.3,"some areas, such as digital skills for all and digital public services for businesses"
+28,10,5,Calibri-Italic,11.0,431.9,671.3,437.1,682.3,. 
+28,10,5,Calibri,11.0,437.0,671.3,453.6,682.3,The
+28,10,5,Calibri-Italic,11.0,453.6,671.3,456.1,682.3, 
+28,10,5,Calibri,11.0,456.0,671.3,517.4,682.3,"stakeholders, "
+28,10,6,Calibri,11.0,80.5,685.8,289.8,696.8,included in the roadmap have been consulted. 
+28,11,0,Calibri,11.0,80.5,703.2,83.0,714.2, 
+28,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,26 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+29,2,0,Calibri-Bold,11.0,199.0,84.5,393.0,95.5,Measures and budget in national roadmap
+29,2,0,Calibri-Bold,7.0,392.8,83.6,396.4,90.6,9
+29,2,0,Calibri-Bold,11.0,396.3,84.5,398.8,95.5, 
+29,4,0,Calibri,11.0,83.3,326.3,85.8,337.4, 
+29,5,0,Calibri,11.0,72.0,344.3,74.5,355.4, 
+29,6,0,Calibri,11.0,72.0,381.0,74.5,392.1, 
+29,6,1,Calibri-Bold,26.0,216.1,369.8,221.9,395.8, 
+29,7,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+29,8,0,Calibri,6.0,72.0,727.6,75.1,733.6,9
+29,8,0,Calibri,9.0,75.0,727.9,525.0,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+29,8,1,Calibri,9.0,72.0,738.9,525.3,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+29,8,2,Calibri,9.0,72.0,749.8,525.0,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+29,8,3,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+29,9,0,Calibri,11.0,292.1,795.4,305.8,806.4,27 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+30,3,0,Calibri-Bold,26.0,72.0,87.0,481.5,113.1,Annex II – Factsheet on multi-country 
+30,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+30,4,0,Calibri,11.0,72.0,160.5,74.5,171.5, 
+30,5,0,Calibri-Bold,11.0,77.7,183.5,267.4,194.5,Multi-country projects and best practices 
+30,6,0,Calibri,11.0,77.7,201.0,535.5,212.1,Cyprus is a member of the EUROPEUM-EDIC on blockchain and an observer in the Alliance for Language 
+30,6,1,Calibri,11.0,77.7,215.4,535.2,226.5,Technologies EDIC. It is also working towards setting up an EDIC in the area of cybersecurity skills. 
+30,6,2,Calibri,11.0,77.7,229.9,473.2,241.0,Cyprus is a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+30,7,0,Calibri,11.0,77.7,252.4,326.4,263.5,Cyprus is not yet active in the Best Practice Accelerator. 
+30,8,0,Calibri,11.0,72.0,275.4,74.5,286.5, 
+30,9,0,Calibri-Bold,11.0,77.7,298.5,258.4,309.5,EU funding for digital policies in Cyprus 
+30,10,0,Calibri,11.0,77.7,315.9,469.7,326.9,Cyprus allocates 25% of its total recovery and resilience plan to digital (EUR 274 million)
+30,10,0,Calibri,7.0,469.7,315.0,476.7,321.9,10
+30,10,0,Calibri,11.0,476.6,315.9,535.5,326.9,". In addition, "
+30,10,1,Calibri,11.0,77.7,330.4,535.2,341.4,"under cohesion policy, EUR 113 million (representing 12% of the country’s total cohesion policy "
+30,10,2,Calibri,11.0,77.7,344.9,387.4,356.0,"funding), is dedicated to advancing Cyprus’ digital transformation"
+30,10,2,Calibri,7.0,387.4,344.0,394.4,351.0,11
+30,10,2,Calibri,11.0,394.4,344.9,535.5,356.0,". According to JRC estimates, "
+30,10,3,Calibri,11.0,77.7,359.4,535.5,370.5,EUR 320 million directly contribute to achieving Digital Decade targets (of which EUR 254 million comes 
+30,10,4,Calibri,11.0,77.7,373.8,358.3,384.9,from the RRF and EUR 66 million from cohesion policy funding)
+30,10,4,Calibri,7.0,358.4,372.9,365.4,379.9,12
+30,10,4,Calibri,11.0,365.4,373.8,373.1,384.9,.  
+30,11,0,Calibri,11.0,77.7,391.4,535.4,402.4,The largest investments in Cyprus’s recovery and resilience plan (RRP) are dedicated to measures for 
+30,11,1,Calibri,11.0,77.7,405.9,535.5,416.9,"the digitalisation of the public sector and public services (EUR 101 million), reinforced by support under "
+30,11,2,Calibri,11.0,77.7,420.4,535.5,431.5,"the cohesion funds (EUR 33 million). In addition, investments to develop e-health records are also "
+30,11,3,Calibri,11.0,77.7,434.8,535.5,445.9,planned under the RRP and the cohesion funds. The RRP includes substantial investments dedicated to 
+30,11,4,Calibri,11.0,77.7,449.3,535.5,460.4,connectivity (EUR 45 million). Measures for the digitalisation of enterprises are planned in the RRP 
+30,11,5,Calibri,11.0,77.7,463.9,340.7,474.9,(EUR 11 million) and in the cohesion funds (EUR 5 million). 
+30,12,0,Calibri,11.0,72.0,481.9,74.5,492.9, 
+30,13,0,Calibri,11.0,72.0,504.3,74.5,515.3, 
+30,13,1,Calibri,11.0,216.1,504.3,218.5,515.3, 
+30,14,0,Calibri,11.0,216.1,670.8,218.5,681.8, 
+30,15,0,Calibri,6.0,72.0,683.7,78.1,689.7,10
+30,15,0,Calibri,9.0,78.0,683.9,525.0,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+30,15,1,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+30,15,2,Calibri,6.0,72.0,705.6,78.1,711.6,11
+30,15,2,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+30,15,3,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+30,15,4,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+30,15,5,Calibri,6.0,72.0,738.7,78.1,744.7,12
+30,15,5,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+30,15,6,Calibri,9.0,72.0,749.8,525.4,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+30,15,7,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+30,16,0,Calibri,11.0,292.1,795.4,305.8,806.4,28 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,85.9,29.4,146.0,49.4,Cyprus 
+31,2,0,Calibri-Bold,26.0,72.0,87.0,490.4,113.1,Annex III – Digital Rights and Principles
+31,2,0,Calibri,17.0,490.5,84.8,507.8,101.8,13
+31,2,0,Calibri-Bold,26.0,507.8,87.0,513.7,113.1, 
+31,6,0,Calibri,11.0,260.0,332.0,282.5,343.0,         
+31,6,1,Calibri-Bold,11.0,487.9,332.0,490.4,343.0, 
+31,7,0,Calibri-Bold,11.0,72.0,355.4,252.4,366.4,Activity on Digital Rights and Principles 
+31,7,0,Calibri,11.0,252.5,355.4,293.2,366.4,(figure 1)
+31,7,0,Calibri-Bold,11.0,293.2,355.4,298.1,366.4,  
+31,8,0,Calibri,11.0,72.0,377.8,525.7,388.9,"Cyprus has been relatively active in implementing digital rights and principles, with 42 initiatives "
+31,8,1,Calibri,11.0,72.0,392.3,525.7,403.4,"overall and 3 new initiatives launched in 2024, showing limited progress towards its commitments. "
+31,8,2,Calibri,11.0,72.0,406.9,525.6,417.9,"Cyprus is most active in the area of Digital education, training and skills (II). There is room for "
+31,8,3,Calibri,11.0,72.0,421.3,525.8,432.3,"improvement, especially with regards to Interactions with algorithms and artificial intelligence systems "
+31,8,4,Calibri,11.0,72.0,435.8,264.9,446.8,(III) where less activity has been identified. 
+31,9,0,Calibri-Bold,11.0,72.0,458.2,227.8,469.3,Impact of Digital Rights Initiatives 
+31,9,0,Calibri,11.0,227.9,458.2,271.0,469.3,(figure 2) 
+31,10,0,Calibri,11.0,72.0,480.8,525.9,491.8,"Quantitative impact indicators, developed by the support study, illustrate the level of implementation "
+31,10,1,Calibri,11.0,72.0,495.3,525.6,506.4,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+31,10,2,Calibri,11.0,72.0,509.7,525.7,520.8,measures implemented by key stakeholders in Austria (mainly national government) and how these 
+31,10,3,Calibri,11.0,72.0,524.2,186.6,535.3,are perceived by citizens. 
+31,11,0,Calibri,11.0,72.0,546.8,525.8,557.8,The indicators suggest that Cyprus is most successful in implementing commitments related to Putting 
+31,11,1,Calibri,11.0,72.0,561.2,525.7,572.3,people at the centre of the digital transformation (I). Cyprus should strengthen efforts in areas where 
+31,11,2,Calibri,11.0,72.0,575.7,493.4,586.8,"the impact of digital rights initiatives appears to be limited, notably on Freedom of choice (III). "
+31,12,0,Calibri,11.0,72.0,598.3,525.9,609.3,"According to the Special Eurobarometer 'Digital Decade 2025’, 45% of citizens in Cyprus think that the "
+31,12,1,Calibri,11.0,72.0,612.7,525.7,623.7,EU protects their digital rights well (a 2% increase since 2024). This is slightly above the EU average of 
+31,12,2,Calibri,11.0,72.0,627.2,525.9,638.3,44%. Citizens are particularly confident about getting an affordable high-speed internet connection for 
+31,12,3,Calibri,11.0,72.0,641.7,525.7,652.8,"everyone in the EU and getting easy online access to all key public services in the EU (59%, above the "
+31,12,4,Calibri,11.0,72.0,656.3,525.6,667.3,EU average of 57% and 58% respectively). They are most worried that their right to a safe digital 
+31,12,5,Calibri,11.0,72.0,670.7,525.6,681.7,"environments and content for children and young people is not well protected (52%, above the EU "
+31,12,6,Calibri,11.0,72.0,685.2,148.7,696.2,average of 48%). 
+31,13,0,Calibri,11.0,72.0,709.2,74.5,720.2, 
+31,14,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+31,14,1,Calibri,6.0,72.0,749.6,78.1,755.6,13
+31,14,1,Calibri,9.0,78.0,749.8,525.1,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+31,14,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+31,14,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+31,14,2,Calibri,9.0,122.8,760.9,377.0,769.9,". For a more detailed country factsheet accompanying the study, click "
+31,14,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+31,14,2,Calibri,9.0,393.7,760.9,398.1,769.9,. 
+31,15,0,Calibri,11.0,292.1,795.4,305.8,806.4,29 

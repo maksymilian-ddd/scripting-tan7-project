@@ -1,0 +1,1405 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 17.6.2026
+                                              SWD(2026) 155 final
+
+                                       PART 10/27
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2026 country report
+
+                                Accompanying the document
+
+         COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN
+       PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+             COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+
+         State of the Digital Decade 2026: Closing structural gaps and mobilising investments for
+                                      2030 and beyond
+
+             {COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+                                 {SWD(2026) 157 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE
+COUNTRY REPORT
+2026
+
+       FranceFrance
+
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+  France in the Digital Decade ............................................................................................................... 1
+
+  Funding for digital and multi-country projects ................................................................................... 2
+
+  A competitive, sovereign and resilient EU based on technological leadership .................................. 2
+
+   Protecting and empowering EU people and society ........................................................................... 3
+
+  Recommendations .............................................................................................................................. 4
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+   Building technological leadership: digital infrastructure and technologies ........................................ 5
+
+     Connectivity infrastructure ............................................................................................................. 5
+
+     Semiconductors............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 8
+
+    Quantum technologies .................................................................................................................... 9
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+
+    SMEs with at least basic digital intensity ........................................................................................ 9
+
+     Take up of advanced technologies ................................................................................................ 11
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 14
+
+   Strengthening Cybersecurity & Resilience ........................................................................................ 15
+
+Protecting and empowering EU people and society ............................................................................. 17
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 17
+
+     Equipping people with digital skills ............................................................................................... 17
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 21
+
+Leveraging digital transformation for a smart greening ....................................................................... 24
+
+Annex I: National roadmap analysis ...................................................................................................... 25
+
+Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 27France
+
+Executive summary
+
+Overall, France has strong assets in digitalisation such as a good fibre coverage, a digitally skilled
+population and a vibrant AI ecosystem. However, while the country has made strong progress in
+expanding digital adoption across businesses, it is still not fully reaping the fruits of digital transition
+when it comes to the general population of businesses, which lags behind in basic digitalisation and
+adoption of key technologies. The number of ICT specialists is also sub-par and experiencing sluggish
+growth, while the digitalisation of public services seems to have stagnated in recent years.
+
+The weaknesses identified in the digitalisation of businesses are having an impact on France’s
+competitiveness as low digitalised businesses cannot take advantage of productivity gains brought by
+digital tools (basic and advanced), nor can they access new online markets. More ICT specialists in the
+job market could relieve skills shortages in all sectors and help businesses access the expertise required
+to digitalise. More widespread digital public services could also foster the digitalisation of businesses
+while alleviating their administrative burden.
+
+France can, however, count on several digital leadership assets. It is home to one of the most attractive
+AI ecosystems for start-ups thanks to a pool of engineering and research talent and considerable public
+support programmes. Public policies recently shifted heavily toward AI for the digitalisation of all
+businesses, and for research and infrastructure with large-scale projects such as the AI Factory
+France (AI2F). Massive investments in research and the production of semiconductors were committed
+through the Digital Decade roadmap. In quantum technology, France is a frontrunner in the EU and at
+the forefront of computing research with the inauguration of the Ruby quantum processor in 2025 as
+part of the EuroHPC Joint Undertaking.
+
+France in the Digital Decade
+
+France shows a high level of ambition in its contribution to the Digital Decade having set 9 national
+targets (out of 14 possible), 100% of which aligned with the EU 2030 targets. France also set a target
+of 65% for the combined adoption of technologies by businesses, shy of the 75% EU level target. In its
+national roadmap, France provided 10 trajectory points for 2025 (out of 14 analysed). The country is
+following them moderately well with 50% considered on track. France addressed 67% of the 6
+recommendations issued by the Commission in 2025, either by implementing significant policy
+changes (33%) or making some changes (33%) through new measures. According to the national
+roadmap, by the end of 2026, 27% of the measures will come to an end. The total public budget
+associated to these measures is EUR 3.15 billion, representing 28% of the total public budget outlined
+in the roadmap.
+
+According to the special Eurobarometer on the Digital Decade 2026, 72% of French people consider
+that digital policy should have a very high/high priority for the EU in shaping our future in Europe. They
+also think that, in the next 10 years, the EU should cooperate with Member States to reinforce
+cybersecurity and protection from online threats (95%), promote digital education and skills programs
+(88%), and strengthen the regulation of online platforms (88%). In addition, 83% of French respondents
+think that the EU should reduce its dependencies on digital from third countries, and 83% that the EU
+should prioritise investments in digital infrastructure and services that are developed and controlled
+in Europe. Meanwhile, 49% would be willing to switch to an EU-based digital service provider even if
+it means slightly higher costs.
+
+
+
+                                        1France
+
+
+
+
+Funding for digital and multi-country projects
+
+France allocates 22% of its total recovery and resilience plan to the digital transition (EUR 8.1 billion).
+In addition, under the cohesion policy, EUR 2.0 billion, representing 12% of the country’s total cohesion
+policy funding, is dedicated to advancing France’s digital transformation.
+
+France  is the host Member State for the Alliance for Language Technologies European Digital
+Infrastructure Consortium (ALT-EDIC) and for the Digital Commons EDIC. France is also a member of
+the Local  Digital Twins towards CitiVERSE EDIC. France  participates  directly  in the IPCEI on
+Microelectronics and Communication Technologies (IPCEI-ME/CT), in the IPCEI on Next Generation
+Cloud Infrastructure and Services (IPCEI-CIS), and in the IPCEI Tech4Cure. France is also a participating
+state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+                                           France                EU               Digital Decade
+                                                                                                                               target by 2030
+ Digital Decade KPI (1)         Last      DESI 2026    Annual     National       DESI     Annual
+                                                                                                     FR      EU
+                                           available    (year 2025)   progress    trajectory     2026     progress
+                                       data (2)                           2025 (3)
+  Fixed Very High Capacity Network
+                                     87.5%       91.7%       4.9%       100.0%      85.5%      3.7%     100.0%   100%
+  (VHCN) coverage
+
+  Fibre to the Premises (FTTP)            87.5%       91.7%       4.9%               -         74.1%      7.1%            -             -
+
+  Basic 5G coverage                    94.3%       96.4%       2.2%       100.0%      96.8%      2.6%     100.0%   100%
+
+  Edge Nodes (estimate, new                        -          854               -                  -         7451             -               -      10000
+  methodology)
+  SMEs with at least a basic level of                                     52.0%       69.4%      15.6%       62.9%      71.4%     11.0%     90.0%    90%
+  digital intensity *
+
+  Cloud *                             23.0%       36.5%      26.0%              -         46.7%      9.5%            -      75%
+
+  Artificial Intelligence                   9.9%       18.2%      83.2%              -         20.0%     48.0%           -      75%
+
+  Data analytics *                      33.9%       39.3%       7.6%               -         39.9%      9.5%            -      75%
+
+  AI or Cloud or Data analytics *          44.9%       57.9%      13.6%       50.6%      63.2%      7.5%     65.0%    75%
+
+  Unicorns                             47         50        6.4%        57         324      10.2%     100     500
+
+  At least basic digital skills *             59.7%       65.7%       5.0%       65.5%      60.4%      4.3%     80.0%    80%
+
+  ICT specialists                        4.8%        4.9%       2.1%        6.2%       5.0%      2.0%     10.0%   ~10%
+
+  e-ID scheme notification                                Yes
+
+  Digital public services for citizens          71.2         72.0       1.1%         80.1         84.6      2.8%      100.0     100
+
+  Digital public services for businesses       76.9         74.6        -3.0%        85.2         88.6      2.7%      100.0     100
+
+  Access to electronic health records        84.2         88.4       4.9%         85.2         86.5      4.6%      100.0     100
+
+  (1) Indicators full description, metadata and sources in the DESI 2026 methodological note
+  (2) Last available data is DESI2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year 2023)
+  (3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap
+
+A competitive, sovereign and resilient EU based on technological
+leadership
+
+France is performing well in connectivity, being above the EU average in fibre coverage and slightly
+below for 5G. Coverage of fibre to the last non-covered premises, especially in very dense areas and
+outermost regions, will be key to achieving full coverage by 2030. There is a high take-up of fibre in
+France as it is leading in the EU in terms of the share of fixed broadband subscriptions >=1Gbps, but it
+is in the group of the worst performing countries for 5G take-up although a recent acceleration has
+been observed. The French quantum strategy is one of the most advanced in the EU but needs
+
+                                        2France
+
+
+
+updating with a view to consolidating the scale-up and industrial stages. Semiconductor research
+facilities and production capacities are well developed, though smaller than global players.
+
+On the business side, SMEs are still lagging in basic digitalisation, though catching up with the EU
+average. Training and diagnostics under the France Num scheme proved to be efficient and popular in
+terms of engaging smaller businesses in digitalising, despite bottlenecks related to skills availability
+and concerns about cybersecurity risks. Businesses’ uptake of advanced technologies such as cloud
+or AI is also sub-par. France decidedly embraced AI as the leading technology to digitalise its economy
+and in 2025 launched the plan ‘Osez l’IA’ to foster AI adoption by businesses of all sizes. The start-up
+and frontier AI ecosystem is very well developed and attracted record investments for AI infrastructure
+in 2025, further supported by a national plan to facilitate the implementation of data centres.
+However, as in other EU countries, French start-ups face issues in scaling up due to limited access to
+venture capital and could benefit from increased international visibility.
+
+Protecting and empowering EU people and society
+
+The level of basic digital skills of the population is satisfactory, above the EU average. Conversely, the
+share of ICT specialists remains below average and has been stagnating for several years, leading to
+constraints in the ICT job market. While the ICT training offer seems to be sufficient, its take-up is weak.
+Tackling this issue – linked to weak performance in STEM education – could boost the spread of
+innovation and digitalisation across all business sectors.
+
+France has engaged in many initiatives for digitalising public services, with strong priority given to
+sovereignty. While many services are  available  online,  indicators point to weak progress  in
+digitalisation efforts, including in justice. Cross-border availability in particular is low and many users
+report difficulties with online administrative procedures. The digitalisation of healthcare continues to
+improve, including by using AI technologies and strengthening data storage sovereignty.
+
+
+
+
+
+                                        3France
+
+
+
+ Recommendations
+
+       -   Digitalisation of SMEs: Improve SMEs’ basic digitalisation by designing dedicated public support
+        measures,  including  training,  diagnostics and targeted  financial  support,  to accompany
+         businesses in cybersecurity, digital business management, and digital business development.
+       -   ICT  specialists: Expand the supply of Information and Communication Technology  (ICT)
+           specialists, in particular by improving the job market relevance of existing training pathways
+         (higher education, vocational training, and reskilling) and aligning them with industry needs,
+         paying particular attention to AI and cybersecurity specialists. Strengthen the ongoing national
+          effort in mathematics in secondary education, thereby addressing the weakness in math
+         foundations which hinders entry into the field of ICT studies. Deploy earlier-stage awareness-
+          raising measures and career guidance in the education system to raise take-up of existing training
+        pathways. Intensify efforts to increase women’s participation in ICT studies and careers.
+       -   Uptake of AI: Accelerate the uptake of AI in businesses, especially SMEs, by ensuring that the
+         recently launched national plan on AI adoption delivers on its stated training and take-up targets,
+         with regular reporting on take-up broken down by business size. Invest in AI computing
+          infrastructure and accelerate permitting procedures, including for data centres. Ensure effective
+         access to the national AI factory infrastructure for SMEs and deploy sector-specific applications
+        through the sectoral flagships of the EU Apply AI Strategy. Intensify support for European Digital
+         Innovation Hubs (EDIHs) which are a key support tool helping businesses to adopt advanced
+           digital technologies, especially AI, and are embedded in the wider EU AI ecosystem.
+       -   Digital Public Services: Accelerate the digitalisation of public services for citizens and businesses,
+          in particular by implementing cross-border public services capabilities and prioritising high-
+        volume cross-border procedures. Step up efforts to digitalise the justice system to allow citizens
+         to initiate and follow proceedings online. Continue the implementation of digital public services
+         with a focus on Family, Health, and Career  life events for citizens, and Regular Business
+         Operations life events for businesses, and on regional-level services. Implement the once-only
+          technical system (OOTS) systematically.
+       -   Semiconductor: Sustain and deepen domestic production capacities in the semiconductor sector,
+          in particular in back-end capacities and manufacturing of advanced chips for AI usage.
+       -   Quantum: Consolidate France’s leadership in quantum technologies and translate  it into
+          industrial deployment, in particular by building on the achievements of the National Quantum
+         Plan (2021-2025) and adopting a post-2025 roadmap with a clear multiannual budgetary
+          trajectory, in order to avoid a funding gap for emerging industrial players. Deepen integration
+         with the European supply chain and support cross-border cooperation.
+
+
+
+
+
+                                        4France
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Building technological leadership: digital infrastructure and technologies
+
+Connectivity infrastructure
+Performance assessment
+
+In 2025, France achieved a coverage rate of 91.74% by very high capacity networks (VHCN),
+surpassing the EU’s 85.54%, after a progression of 4.9%. In terms of annual growth, France also
+outperformed the EU (3.7%). France’s VHCN coverage in sparsely populated areas increased to 87.79%,
+while the EU’s coverage reached 66.66%. France’s annual growth rate of 12.4% in these areas was
+significantly higher than the EU’s 7.7%. The country is lagging behind compared to its trajectory
+presented in the Digital Decade national roadmap.
+
+France’s coverage  in fibre-to-the-premises (FTTP) increased to 91.74% (+4.9% since 2024),
+significantly higher than the EU’s 74.13%. However, France’s annual growth rate was lower than the
+EU’s 7.1%. In sparsely populated areas, France’s coverage increased to 87.79%, again above the EU’s
+coverage of 62.61%. France’s annual growth rate of 12.4% in these areas was significantly higher than
+the EU’s 6.5%. The country did not provide a national trajectory point for 2025 in the Digital Decade
+national roadmap.
+
+
+
+
+
+In 2025, France’s 5G coverage increased to 96.44% (+2.2% since 2024), while the EU’s coverage
+reached 96.79%. France’s annual growth rate of 2.2% was comparable to the EU’s 2.6%. The country
+is on track according to its trajectory presented in the Digital Decade national roadmap. In sparsely
+populated areas, France’s 5G coverage increased to 82.69%, while the EU’s coverage reached 88.88%.
+The  annual  growth  rate  of  6.2%  in  these  areas  was  lower  than  the  EU’s  11.7%.
+France’s 5G coverage in the 3.4-3.8 GHz band was 81.12%, above the EU’s coverage of 74.75%. The
+annual growth rate of 9.7% was comparable to the EU’s 10.6%. In sparsely populated areas, France’s
+
+
+                                        5France
+
+
+
+coverage in the 3.4-3.8 GHz band increased to 31.55%, while the EU’s coverage reached 33.71%.
+France’s annual growth rate of 31.5% in these areas was comparable to the EU’s 32.9%.
+
+France has demonstrated a strong performance in VHCN and FTTP coverage, both in overall terms and
+in sparsely populated areas, consistently surpassing the EU average. However, in terms of basic 5G
+coverage and 5G coverage in the 3.4-3.8 GHz band, France has lagged slightly behind the EU,
+particularly in sparsely populated areas. France plans to expand its 5G infrastructure until 2030 in
+sparsely populated areas and focuses for now on the increase of 4G quality of service in these rural
+areas.
+
+The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in
+France. It reveals that outermost regions face connectivity coverage challenges. To a lesser extent,
+Auvergne and Bretagne are also below the national average.
+
+
+
+
+
+                                        6France
+
+
+
+In term of take-up, France was still leading in the EU in 2025 with 66.58% of fixed broadband
+subscriptions >= 1 Gbps compared with the EU average of 26.97%. In 2024, the figure for France was
+58.92%, which was also higher than the EU’s 22.25%. The annual growth rate for France in 2025 was
+13.0%, lower than the EU’s growth rate of 21.2%.
+
+However, France is at 41.23% of 5G SIM cards as share of population after an increase of 52.5%
+in 2025, and standing below the EU average of 55.55%. The annual growth rate for France is also
+lower than the EU’s growth rate of 56.2%. This indicates that while France is making progress in 5G
+adoption, it is lagging behind the overall EU performance.
+
+Policy context and assessment of recommendations
+
+Despite the country’s large and varied territory, fibre coverage in France remains above the EU
+average. Several factors and past policy choices could explain this good performance. First, the ‘Plan
+France Très Haut Débit’ that was launched in 2013 set a long-term vision (objectives, funding
+mechanisms, institutional  roles), which reduced investor uncertainty and enabled coordinated
+investment across multiple levels (State, regions, départements, municipalities). It was funded by
+public investments of EUR 3.3 billion, including EUR 240 million from the Recovery and Resilience
+Facility (RRF), for a grand total of around EUR 20 billion if we include private and local authorities’
+investments. Second, the regulatory model of the national regulatory authority ARCEP (Autorité de
+régulation des communications électroniques et des postes) created a transparent wholesale
+environment that allowed multiple retail players to compete on common FTTP infrastructure, spurring
+subscriptions and operator investment. Under this symmetric regulation, all operators are required to
+open their networks to competitors. For mobile, ARCEP deployment obligations and monitoring
+pushed operators to expand 5G sites and use new bands. And third, market conditions created
+competitive pressure between operators. The civil works sector and experience in nation-scale
+deployments (ducting, road works, joint trenching rules) reduced per-premises costs and accelerated
+roll-out compared with peers who lack the same scale or institutional model. In April 2026, the fourth
+telecom operator SFR is to be sold to the other three operators, reducing the number of market
+players.
+
+France’s widespread broadband coverage provides a critical enabling condition for businesses to
+digitalise. Nonetheless, French businesses continue to show a low level of digitalisation, which requires
+increased attention (see section on the digitalisation of SMEs).
+
+Very densely populated areas and the outermost regions will be focused on achieving the Digital
+Decade targets of 100% coverage. In metropolitan France, Bretagne and Auvergne are lagging in FTTP
+coverage but public projects are being rolled out. In cities, very densely populated areas may
+encounter technical issues such as connections only reaching the base of large buildings and not
+individual homes. Cases of very isolated premises where civil works costs are high or cases of refusal
+by landowners exist but are marginal. In the outermost regions, Mayotte and Martinique are lagging
+in FTTP deployment. It will be critical to maintain the good framework conditions and address potential
+bottlenecks (including permitting) to achieve universal coverage in the territory. Concerning 5G,
+standalone networks are only just starting to be rolled out.
+
+The decommissioning of older networks (copper cable and 2G/3G)  is progressing well. The
+incumbent operator Orange is progressively switching off its copper network, first with a commercial
+switch-off of the service, then a technical closure. Two bundles of municipalities, representing about
+half of the 42.1 million premises connected in France have already been closed since the beginning of
+
+
+                                        7France
+
+
+
+2026. The last bundle is expected to be closed at the end of 2030. This switch-off is only possible thanks
+to several prerequisites: widespread fibre coverage as an alternative for clients, long notice periods
+(up to three years), good communication between stakeholders, and mandatory sharing of data
+between operators. For the old mobile networks (2G and 3G), the switch-off might prove to be complex
+with the operators not being able to identify the foreign SIM cards still using those networks and not
+responsible for migrating these clients  (e.g. alarm systems,  lift operators, remote monitoring,
+sometimes using foreign SIM cards). Orange has already shut off 2G in La Réunion.
+
+In 2025, France did not receive any recommendation under the Digital Decade on connectivity matters
+(VHCN, FTTP, 5G).
+
+Semiconductors
+France has technological assets in the semiconductor sector but they occupy specific niches of the
+global value chain and are vulnerable to global economic cycles and foreign dependencies. The
+French semiconductor industry  is estimated at EUR 5  billion of domestic production in 2022,
+represented by 115 firms (two thirds of them SMEs) employing about 35 000 people. France can be
+considered strong in R&D and design, but it lacks global players such as those that emerged in the US
+and Asia. France is most competitive in engineered substrates (specialty nodes, automotive/industrial,
+substrates) and less at the leading edge (<7nm). Consequently, it is exposed to the economic cycle of
+the automotive and industrial markets. Moreover, the lack of production of leading edge nodes makes
+it dependent on US and Asian suppliers for the chips underpinning generative AI and cloud
+infrastructure, but France has assets and emerging companies in key technologies for the future of
+computing (incl. AI chips, interconnects, silicon photonics and power management).
+
+Nevertheless, France made sizeable investments in the sector (France 2030 investment plan, Digital
+Decade roadmap), although still shy of the levels observed in other key players like the US, China or
+South Korea. Notably, France committed EUR 2.9 billion in State aid, approved by the European
+Commission in 2023 as a first-of-a-kind project under the EU Chips Act. This partnership notably invests
+in the development of the next generation of FD-SOI (Fully Depleted Silicon On Insulator), a technology
+that is crucial for the EU. In January 2026, the FAMES pilot line was inaugurated to advance ultra-low-
+power semiconductors in the EU, representing a total of EUR 830 million in investment. These
+promising initiatives should strengthen the EU’s technological sovereignty and offer complementary
+solutions to cutting-edge logic manufacturing hubs dominated by other regions, focusing on high
+value-added markets such as Internet of Things and 5G/6G.
+
+Edge nodes
+Performance assessment
+
+According to the Edge Node Observatory, France is estimated to have deployed a total of 854 edge
+nodes by 2025. Due to a change in methodology, this number cannot be compared to previous
+estimates.
+
+Policy context and assessment of recommendations
+
+In 2025, France intensified its focus on edge computing, with sovereignty being the primary
+objective. The wave of investment in AI infrastructure following the AI summit in Paris (see section on
+artificial intelligence) includes massive expansions in sovereign cloud infrastructure as part of a
+concerted effort to build domestic capacity for AI, edge, and cloud workloads.  It will reinforce
+technological autonomy within the EU as a whole. One French R&D-focused edge project worth
+
+
+                                        8France
+
+
+
+mentioning is CEOS2030, supported by the France 2030 investment plan and the public investment
+bank Bpifrance. It embeds AI processing in earth-observation satellites to perform data analytics close
+to the source rather than relying on distant processing. France has also joined Germany in a joint digital
+sovereignty agenda emphasising cloud and advanced tech collaboration, highlighting coordination
+with key EU partners on sovereign infrastructure policy. Meanwhile the French edge ecosystem is
+increasing its private and public synergies, reflecting both domestic start-up activity and EU-wide
+projects aimed at developing edge-cloud continuum services.
+
+Quantum technologies
+
+In 2025, France continued to reinforce  its leadership on quantum computing, including in
+infrastructure and research. One major event is the inauguration of the Ruby quantum processor at
+CEA (Commissariat à l’Energie Atomique) within the EuroHPC Joint Undertaking, as part of the High-
+Performance Computing and Quantum Simulator hybrid (HPCQS) project. Furthermore, the French
+cloud provider OVHcloud announced it would host Quandela's photonic quantum computers starting
+mid-2026, with three quantum processing units (QPUs) expected to be operational by the end of 2025.
+On the research side, France and Singapore signed three new partnership agreements to advance
+quantum computing and photonics. Also, researchers at the National Institute for Research in
+Computer Science and Automation demonstrated unprecedented photon interactions, a breakthrough
+for creating complex photonic quantum logic gates.
+
+The main development priority for the French quantum ecosystem will be industrialisation. While
+France benefits from world-leading research capabilities and substantial public investment, mirroring
+the strengths of its broader start-up ecosystem, it currently lags behind competitors such as the US in
+innovation scale-up and commercial deployment. The France 2030 Quantum Strategy addresses this
+gap by leveraging intermediate technological advancements and driving adoption across key industrial
+sectors, thereby bridging the transition from research to market-ready applications. A  critical
+dimension of the strategy is its sovereignty focus, which seeks to safeguard national strategic assets
+through a framework of economic security measures. These include protections for scientific and
+technical potential, foreign investment screening, and export controls, ensuring that France retains
+control over critical quantum capabilities while fostering a secure and competitive industrial base.
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+SMEs with at least basic digital intensity
+
+Performance assessment
+
+France is at 69.44% of SMEs with at least a basic level of digital intensity after a progression of +15.6%
+annually between 2023 and 2025, approaching but still standing below the EU average of 71.39%. In
+2023, the performance of France was 51.97%, which was further below the EU average of 57.90%.
+Despite France’s annual growth rate surpassing the EU’s growth rate of 11.0%, French SMEs still lag
+behind their EU counterparts. The country is on track according to its trajectory presented in the Digital
+Decade national roadmap.
+
+Regarding SMEs with a very high digital intensity index, France is at 6.88% after a progression of +58.5%
+annually between 2023 and 2025 and is below the EU average of 9.07%. In 2023, the figure for France
+was 2.74%, also lower than the EU average of 4.38%. The conclusion is the same as for the basic digital
+
+
+                                        9France
+
+
+
+intensity: although France’s annual growth rate outpaces the EU’s growth rate of 43.9%, French SMEs
+continue to trail their EU peers in achieving a very high level of digital intensity.
+
+Policy context and assessment of recommendations
+
+Less digitalised SMEs prevent France from harvesting the global productivity gains from the digital
+transition. The National Productivity Board (NPB) identifies digital adoption gaps across firm sizes
+(lower adoption in SMEs, higher in large businesses) as one of the factors hindering productivity
+growth and competitiveness. The NPB’s recent reports explicitly link uneven adoption to limited
+aggregate gains. Because take-up is uneven and complementarities (skills, organisational change) are
+required, the aggregate country-level boost to productivity is smaller than the potential maximum.
+With France’s moderate GDP growth and subdued productivity growth, faster diffusion and more
+uniform digital adoption is a plausible lever to raise medium-term potential growth.
+
+French exports and competitiveness are also impacted by the digitalisation of SMEs. Digital adopters,
+particularly in trade sectors, tend to be more competitive internationally (better market access, lower
+transaction costs). A digitally lagging cohort of SMEs therefore reduces the average export readiness
+and resilience of supply chains, weighing on France’s ability to compete internationally.
+
+The main barriers for French SMEs to digitalise could be linked to skills, mistrust of digital solutions,
+and financing constraints:
+
+       Skills and managerial capacity have been identified as possible factors limiting SMEs
+         digitalisation. The lack of in-house digital skills and limited managerial focus on redesigning
+        processes reduce effective returns. However, the 2025 France Num barometer shows that in-
+       house digital skills are on the rise (+9 pps to 55% since 2024) but the number of very small
+        enterprises (VSEs) and SMEs that express difficulties in finding a suitable digital service
+        provider (37%) is increasing sharply (+15 pps since 2024). To resolve this situation, the France
+     Num initiative lists on its website more than 4 000 digital professionals able to support VSEs
+       and SMEs and has launched a call for projects to support a quality label aimed at guaranteeing
+       the quality of digital service providers, in order to increase the confidence of very small
+        businesses (VSEs) and SMEs seeking such providers. Moreover, the France Num training
+      scheme (operated by Bpifrance) allowed VSEs and SMEs to receive free training to get started
+       with digital tools or to use them more efficiently to maintain or expand their business. In
+        general, SMEs are looking for support and guidance, specifically to develop AI strategies and
+       adapt to the incoming e-invoicing obligations (due in September 2026).
+      Concerns about digital technologies among some SMEs’ management might also explain the
+        limited  digitalisation. One of the main  identified  risks deterring deeper adoption  is
+        cybersecurity. The 2025 France Num barometer highlights that 52% of VSEs and SMEs fear
+       data hacking or data losses (+3 pps since 2024). Also, compliance costs and the regulatory
+       burden might add to the global attitude of defiance around digital solutions in smaller firms.
+         Finally, the return on investment is not always well valued.
+       Financing is a basic limitation for SMEs that prevents them from introducing more digital
+       technology in their processes. Many SMEs face liquidity constraints and perceive the upfront
+        cost and payback horizon as prohibitive. 25% of VSEs/SMEs have no budget allocated to digital
+         projects, a rise of 4 pps since 2024.
+
+
+
+
+
+                                       10France
+
+
+
+ 2025 recommendation on digitalisation of SMEs: Improve digitalisation of SMEs, including by
+  directing existing support schemes to SMEs that lag in digitalisation, independently of their size.
+
+  In 2025, France made some efforts to address the recommendation through new policy actions in
+ 2025. The country’s performance figures are improving slightly, and France is bridging the gap with
+ the EU average which could be the result of past support policies. However, the approaching end of
+ the RRF (August 2026) means that funding will be discontinued for some measures. The general
+ France Num scheme remains operational, mainly through the networking of stakeholders involved
+  in the digital transformation of VSEs/SMEs: institutional actors, public advisers, service providers,
+ and solution providers. The new plan ‘Osez l’IA’ targets enterprises of all sizes (not just SMEs) and
+ aims to roll out AI technologies in 80% of SMEs by 2030 (see section on artificial intelligence).
+ Notably, a network of 600 AI ambassadors has been set up across France, involving all sectors, to
+  raise awareness among companies about the potential benefits of AI, through the sharing of
+ concrete feedback. This network comes as a complement to the France Num network dedicated to
+ the general digitalisation of VSEs / SMEs. ‘Osez l’IA’ should, however, have an impact on the basic
+  digitalisation of SMEs since adopting AI solutions also requires the implementation of a basic set of
+  digital technologies.
+
+ Given the weight of the French economy in the EU, increasing the pace of digitalisation of French
+ SMEs will be crucial for the EU to meet the 2030 target of 90% of SMEs having basic digitalisation.
+
+  This 2025 Digital Decade recommendations echoes the one issued under the European Semester
+ 2025.
+
+
+Take up of advanced technologies
+Performance assessment
+
+
+
+
+
+France is at 39.27% of enterprises adopting data analytics after a progression of +7.6% annually
+between 2023 and 2025, slightly below the EU average of 39.85%. In 2023, the figure for France was
+33.9%, marginally above the EU average of 33.25%. Despite France’s growth rate lagging behind the
+EU’s growth rate of 9.5%, French enterprises are nearly on par with their EU counterparts in adopting
+data analytics. Focusing on SMEs, France is at 37.86% after a progression of +7.5% annually, which is
+below the EU average of 38.59%. France’s growth rate for SMEs is lower than the EU’s growth rate of
+
+
+                                       11France
+
+
+
+9.7%. For large enterprises, France is at 88.22% after a progression of +10.7% annually, surpassing the
+EU average of 82.03%. For large enterprises, France’s growth rate exceeds the EU’s growth rate of 6.9%.
+The country did not provide a national trajectory point for 2025 in the Digital Decade national
+roadmap.
+
+France is at 36.46% of enterprises adopting cloud technologies after a progression of +26.0%
+annually between 2023 and 2025, which is below the EU average of 46.69%. In 2023, the figure for
+France was 22.95%, considerably lower than the EU average of 38.97%. Although France’s growth rate
+surpasses the EU’s growth rate of 9.5%, French enterprises still lag behind their EU counterparts in
+cloud adoption. For SMEs, France is at 35.15% after a progression of +27.0% annually, also below the
+EU average of 45.74%. However, France’s growth rate exceeds the EU’s growth rate of 9.7%. For large
+enterprises, France is at 81.94% after a progression of +14.9% annually, above the EU average of
+78.32%. France’s growth rate also surpasses the EU’s growth rate of 6.0%. The country did not provide
+a national trajectory point for 2025 in the Digital Decade national roadmap.
+
+France is at 18.16% of enterprises adopting artificial intelligence after a progression of +83.2%
+annually between 2024 and 2025, which is below the EU average of 19.95%. In 2024, the figure for
+France was 9.91%, lower than the EU average of 13.48%. Despite France’s growth rate outpacing the
+EU’s growth rate of 48.0%, French enterprises still lag behind their EU counterparts in AI adoption. For
+SMEs, France is at 17.01% after a progression of +83.9% annually, below the EU average of 18.9%.
+However, France’s growth rate exceeds the EU’s growth rate of 49.5%. For large enterprises, France is
+at 58.01% after a progression of +77.2% annually, above the EU average of 55.03%. In 2024, the figure
+for France was 32.74%, lower than the EU average of 41.17%. France’s growth rate also surpasses the
+EU’s growth rate of 33.7%. The country did not provide a national trajectory point for 2025 in the
+Digital Decade national roadmap.
+
+France is at 57.89% of enterprises adopting AI, cloud, or data analytics technologies after a
+progression of +13.6% annually between 2023 and 2025, which is below the EU average of 63.20%.
+In 2023, the figure for France was 44.86%, lower than the EU average of 54.7%. Although France’s
+growth rate surpasses the EU’s growth rate of 7.5%, French enterprises still lag behind their EU
+counterparts in the adoption of these technologies. For SMEs, France is at 56.85% after a progression
+of +14.0% annually, below the EU average of 62.32%. However, France’s growth rate exceeds the EU’s
+growth rate of 7.7%. For large enterprises, France is at 94.24% after a progression of +6.4% annually,
+slightly above the EU average of 92.78%. In 2023, the figure for France was 83.21%, below the EU
+average of 86.71%. France’s growth rate also surpasses the EU’s growth rate of 3.4%. The country is on
+track according to its trajectory presented in the Digital Decade national roadmap.
+
+France has shown notable progress in the digitalisation of businesses, with growth rates often
+surpassing those of the EU average. Despite these advancements, French enterprises, particularly
+SMEs, continue to lag behind their EU counterparts in most areas of technology adoption. This is
+especially evident in the adoption of cloud technologies and artificial intelligence, where gaps persist.
+
+Policy context and assessment of recommendations
+
+The uptake of advanced digital technologies (cloud computing, AI and data analytics) is a critical
+factor for productivity growth, innovation capacity and competitiveness in France’s economy.
+Despite recent progress, the country still records below-EU-average adoption, particularly among
+SMEs, which limits the digital transformation across sectors. Given the weight of the French economy
+
+
+
+
+                                       12France
+
+
+
+– home to nearly 12% of all EU enterprises – its performance will strongly influence the EU’s collective
+achievement of the 2030 Digital Decade targets.
+
+The adoption of advanced technologies in France is characterised by a concentration of uses.
+Advanced  digital  capabilities  (cloud-native  operations, data  analytics,  AI, but  also  industrial
+automation) are concentrated in large firms and in particular sectors (e.g. ICT, real estate). Many SMEs
+remain at an introductory level rather than adopting the frontier tools that generate larger productivity
+multipliers. Uptake in the wider business sector will be key to reaping the fruits of such technologies.
+The 5th report of the National Productivity Board from 2025 mentions that if generative AI is more
+widely disseminated across the different sectors and if companies and workers gain greater mastery
+of these technologies, a stronger impact on productivity can be expected.
+
+As is the case for the basic digitalisation of SMEs, the adoption of advanced technologies is limited
+by skills shortages, a management gap, and financial constraints. The shortage of in-firm digital skills
+and managerial capacity to redesign processes around new technologies could reduce the effective
+adoption of technology even when equipment or software is purchased. Moreover, investment costs,
+uncertainty about the returns on investment, and tight cash-flow conditions (longer payment delays
+reported for many firms) deter smaller firms from deeper digital investment.
+
+The new measure ‘Osez l’IA’ aims at bolstering AI adoption in all businesses. The plan is based on
+three pillars: (1) informing businesses of the benefits of AI, via a network of AI ambassadors; (2)
+training 15 million professionals; and (3) helping companies to identify suitable AI solutions and
+funding instruments for their AI projects. This measure is perfectly aligned with, and even more
+ambitious than, the 2030 Digital Decade target with take-up objectives of 100% for large enterprises,
+80% for SMEs, and 50% for VSEs. Overall, France’s continued investment and ecosystem-building
+around  AI  are  set  to enhance  labour  productivity,  innovation  performance and  business
+competitiveness, particularly if the gap in SME adoption is effectively narrowed. Sustained progress in
+these areas would strengthen the capacity of France and the EU to compete globally in data-driven
+and AI-enabled industries.
+
+Unprecedented levels of private investment are targeted at data centre infrastructure. Over EUR 100
+billion were pledged by major international investors in 2025 following the AI summit in Paris for new
+data centre capacities in France, reinforcing the digital backbone essential for AI and data-driven
+innovation. Consequently, a data centres plan is being rolled out by the French authorities, taking
+advantage of France’s land availability, cheap decarbonated electricity, and central location at the heart
+of the FLAP market (Frankfurt-London-Amsterdam-Paris), Europe’s core data centre market. The plan
+will facilitate the installation of infrastructures by bringing together the necessary stakeholders and
+accelerating procedures. Access to world-class infrastructure might stimulate the adoption of AI by
+businesses of all sizes.
+
+France plays a central role in the EU’s AI Factory ecosystem. Selected in March 2025, AI Factory France
+(AI2F) is being developed under EuroHPC to leverage high-performance computing (HPC) and exascale
+systems like the forthcoming Alice Recoque supercomputer (deployment from 2026) alongside existing
+national HPC resources (Jean Zay, Adastra, Joliot-Curie) to provide computation power, data, and
+expertise for AI research, innovation, and public services across sectors such as defence, energy,
+health, mobility and agriculture. The initiative involves a broad consortium led by GENCI with partners
+including CEA, Inria, CNRS, universities, Station F and HubFranceIA, and is intended as a one-stop hub
+to federate start-ups, industry, academia and public actors. As part of a network of interconnected AI
+Factories across the EU, AI2F collaborates with counterparts like Germany’s JAIF and connects with
+
+
+                                       13France
+
+
+
+European data and innovation initiatives (e.g. Gaia-X, EDIHs), reinforcing cross-border cooperation in
+AI development and positioning France as a key node in Europe’s bid for technological sovereignty and
+competitiveness in AI.
+
+ 2025 recommendation on the adoption of advanced technologies: Support the adoption of
+ advanced digital technologies by businesses (with a particular attention to AI and cloud) via the
+ creation of local ecosystems to spread technologies and best practices across all economic sectors.
+ Encourage the adoption of sovereign European solutions.
+
+ France addressed fully the recommendation by putting significant policy actions into place in
+ 2025. The new measure ‘Osez l’IA’ answers the recommendation by supporting the adoption of AI
+  in all businesses (see above). Notably, a network of 600 ‘AI Ambassadors’ has been set up across
+ France, involving all sectors, to raise awareness among companies about the potential benefits of
+  AI, through the sharing of concrete feedback. Many policies in France also foster the adoption of
+ sovereign solutions. The Direction interministérielle du numérique (DINUM) is actively promoting
+ and providing open-source, sovereign digital tools for public administration. The SecNumCloud
+  certification steers public digital projects toward sovereign cloud services and local data storage.
+ Funding mechanisms also support the emergence of sovereign EU solutions such as the cloud
+  strategy of the France 2030 investment plan.
+
+
+Unicorns, scale-ups and start-ups
+
+Performance assessment
+
+At the beginning of 2026, France had 50 unicorns (2030 national target of 100), which is 3 more than
+in 2025 (47, figure revised). In its Digital Decade national roadmap, however, France was aiming for
+57 unicorns by end 2025. The country is thus lagging behind compared to its planned trajectory.
+
+Policy context and assessment of recommendations
+
+France has become one of Europe’s most dynamic start-up ecosystems thanks to its talent pool and
+sustained public investment. The rapidly growing cohort of unicorns led by some European AI
+champions such as Mistral AI might be explained by the large pool of engineering and research talent
+and considerable public support and targeted programmes. Paris ranks highly in global start-up
+ecosystem reports thanks to world-class universities and engineering schools supplying STEM talent
+and deep-tech research spin-out companies. In parallel, long-standing public programmes have
+supported venture capital (VC) markets and scale-ups via direct investments, funds of funds, grants
+and accelerator programmes, materially mobilising private investors and seeding later rounds. Two
+thirds of French VC funds that have institutional limited partners report backing from Bpifrance,
+making the French public bank instrumental in growing the ecosystem. France’s dedicated national
+programmes (Mission French Tech, Next40/120, French Tech 2030) have created predictable support
+and signalling that reduces early-stage risk and helps attract capital.
+
+For global champions to emerge, late-stage funding for scaling up and large-scale compute capacity
+for AI will be critical. Although early-stage financing and public support are strong, France (like the
+rest of Europe) faces a falloff in late-stage funding compared with US levels. Funding totals have been
+volatile since 2022 and fundraising slowed in 2024-2025 relative to the 2021 peak. This restricts the
+ability of start-ups to scale globally without seeking foreign capital or exits. Many French start-ups scale
+domestically or within the EU but struggle to reach the same global market share as their US
+
+
+                                       14France
+
+
+
+counterparts. Advanced AI scale requires plentiful, competitively priced compute and data centre
+capacity and chip supply chains. The EU still lags behind the US and China in some of these inputs. EU
+strategic partnerships announced recently (e.g. ASML and Mistral) will mitigate this shortcoming but
+broader capacity remains a bottleneck.
+
+Continuity in current public support tools will be key for investors to engage. Public investment and
+support measures such as the France 2030 investment plan have proven efficient in developing a
+robust and innovative start-up ecosystem in cutting-edge domains (AI, quantum, cloud, cybersecurity,
+etc.). However, the political instability in France in recent years coupled with budgetary issues (high
+deficit and debt) jeopardised some of these measures or led to changes in well-established schemes
+used by businesses (e.g. adjustments to the research tax credit). Stability and a long-term vision in the
+support provided to boost innovation will be key to attracting investors to high-risk digital projects.
+
+Procurement is a lever for public authorities to stimulate demand in innovative solutions. The
+programme Je choisis la French Tech aims to bolster the use of innovative solutions developed by the
+French ecosystem, both by private and public sectors. Hence, in 2025, 10 major French groups took a
+significant step by collectively committing to dedicate EUR 1 billion to the purchase of solutions
+developed by French start-ups and scale-ups over the 2024-2026 period. While the ‘Team France
+Export’ programme already exists, dedicated solutions centred on connecting businesses with
+innovation ecosystems and investors abroad could expand the financing solutions and client portfolio
+of French start-ups.
+
+ 2025 recommendation on unicorns and AI: Continue supporting innovation in AI to strengthen
+  France’s leadership in the sector and create future global leader companies.
+
+ France addressed fully the recommendation by putting significant policy actions into place in
+ 2025. In recent years, France structured its digital innovation ecosystem around AI. It provided
+  public funding and attracted colossal foreign investments (around EUR 109 billion) for the sector
+ following the AI summit. The long-term investment plan France 2030 was revised in 2025 to channel
+ more support toward innovative AI projects. Moreover, recent policies were set up to roll out AI in
+  all business sectors (see section on artificial intelligence).
+
+
+Strengthening Cybersecurity & Resilience
+
+As for general digitalisation, French enterprises lag behind their EU peers in terms of the
+implementation of cybersecurity measures. In 2024, 50.12% of enterprises applied at least 5
+cybersecurity measures (out of 11 as measured by Eurostat), lower than the EU average of 56.85%.
+The gap with the EU is particularly pronounced in the use of authentication via biometric methods
+(10.46% in France, 18.27% in the EU), encryption techniques (21.76 vs 39.72%), and ICT security tests
+(26.52% vs 34.64%).
+
+In 2025, the French cyber threat environment was characterised by increasing sophistication, blurred
+actor boundaries, faster attack cycles, and rising risks to critical infrastructure and national security.
+According to the 2025 Cyber Threat Overview by the national cybersecurity authority ANSSI (Agence
+nationale de la sécurité des systèmes d’information), cybercrime activity remains structurally high and
+increasingly hybrid, with a growing overlap between state-sponsored and cybercriminal actors, making
+attacks more complex and the perpetrators harder to identify. Attackers continue to rely heavily on the
+mass  exploitation  of  vulnerabilities  (especially  internet-facing edge  devices) with very  short
+exploitation timelines, while also combining opportunistic and targeted operations. A key shift in 2025
+
+                                       15France
+
+
+
+was how cybercrime models evolved, with a relative decline in ransomware deployment but a notable
+rise in pure data exfiltration attacks, reflecting changing monetisation strategies. At the strategic level,
+geopolitical tensions are directly fuelling cyber operations, with persistent espionage campaigns linked
+to Russian and Chinese interests targeting diplomatic and strategic sectors. The report also warns of a
+future surge in large-scale, potentially destructive cyber operations against critical infrastructure (e.g.
+energy systems) by 2030, highlighting a shift toward more impactful and destabilising attacks.
+
+The 2025 study on the cyber maturity of SMEs shows a gradual improvement in awareness and
+protection practices but vulnerabilities remain. Around 44% of companies believe they are highly
+exposed to cyber risks (38% in 2024), indicating a growing recognition of cybersecurity threats. At the
+same time, 58% of businesses consider that they have a good or very good level of protection,
+reflecting wider adoption of security tools such as antivirus software, backups, firewalls, and password
+management policies. However, vulnerabilities remain significant, as 16% of the firms surveyed
+reported experiencing at least one cyber incident during the past year. Among the main obstacles to a
+satisfactory level of IT security, VSEs and SMEs cite a lack of knowledge and expertise (63%) and
+budgetary constraints (61%), which interestingly are both also cited as bottlenecks for the general
+digitalisation of SMEs. Nearly 3 out of 10 companies consider cybersecurity issues a low priority, a
+figure that increased by 11 pps between 2024 and 2025.
+
+France’s National Cybersecurity Strategy for 2026–2030 sets out an ambitious roadmap to make the
+country a leading cyber power. The strategy aims at strengthening national resilience, protecting
+critical infrastructure, and ensuring digital sovereignty in the face of growing cyber threats. Built
+around 5 main pillars and 14 objectives, it prioritises developing a large pool of cybersecurity talent,
+raising the overall security level of public and private actors, improving threat detection and response,
+and securing key digital technologies. The strategy also emphasises coordinated action across
+government, industry, and citizens, alongside increased use of legal, diplomatic, and military tools to
+deter cyber threats and enhance international cooperation.
+
+However, France  is well equipped in term of cybersecurity policies and structures. ANSSI  is
+responsible for protecting national digital systems by securing government networks, providing
+expertise, responding to cyber threats, certifying security products, and setting cybersecurity
+regulations for public bodies and operators of vital importance. In terms of cybersecurity in businesses,
+most of the general digitalisation tools (such as France Num for SMEs) also support cybersecurity. The
+France 2030 investment plan also supports measures such as CyberPME, financing parts of diagnostics
+and security plans.
+
+ 2025 recommendation on cybersecurity: Continue efforts in cybersecurity to address evolving
+  threats, particularly for enterprises and administration.
+
+  In 2025, France made some efforts to address the recommendation through new policy actions in
+ 2025. France unveiled its new national strategy for cybersecurity for 2026-2030. On top of that, the
+ cybersecurity measures described in the previous Digital Decade reports and included in the
+ national strategic roadmap continued to be implemented (CyberPME, CaRE programme, etc.). Given
+ the continuous rise in cyber attacks, especially large-scale operations against national services (e.g.
+ recent cyberattacks against the postal services and the national education), the efforts to deploy
+ and reinforce cybersecurity measures should be sustained.
+
+
+
+
+
+                                       16France
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Equipping people with digital skills
+
+Basic digital skills
+Performance assessment
+
+
+
+
+
+France is at 65.74% of individuals aged 16-74 with at least basic digital skills after an increase of 5.0%
+annually since 2023, standing above the EU average of 60.40%. In 2023, France’s figure was 59.67%,
+compared to the EU’s 55.56%. This growth outpaces the EU’s annual growth rate of 4.3%, indicating a
+robust improvement in France’s digital skills landscape. The country is on track according to the
+national trajectory as defined in its Digital Decade national roadmap.
+
+Regarding the gender gap, France exhibits a difference of 1.36 pps in favour of men, with 66.44% of
+men and 65.08% of women having at least basic digital skills. This gap is smaller than the EU average
+of 2.75 pps in favour of men.
+
+Education level significantly influences digital proficiency in France. Individuals with no or low formal
+education have a digital skills rate of 41.16%, which is higher than the EU average of 37.56% but
+represents a 24.58 pp gap relative to the national average, larger than the EU’s 22.84 pp gap.
+
+
+
+
+
+                                       17France
+
+
+
+In rural areas, 63.81% of individuals in France have at least basic digital skills, significantly higher than
+the EU average of 52.83%. The gap between rural and urban areas in France is 5.15 pps, smaller than
+the EU’s 13.67 pps.
+
+Young adults aged 16 to 24 in France demonstrate strong digital skills, with a proficiency rate of
+80.42%, surpassing the EU average of 74.55%. Similarly, the older age group of 55 to 74 has a digital
+skills rate of 48.22%, higher than the EU average of 42.6%.
+
+In terms of digital safety skills, 77.9% of individuals in France have at least basic safety skills, higher
+than the EU average of 74.63%.
+
+Regarding the use of generative AI, 37.46% of people in France used it in 2025, above the EU average
+of 32.66%. For professional purposes, 18.44% of individuals in France used generative AI, higher than
+the EU average of 15.36%. According to the Digital Decade Eurobarometer 2026, 38% of French citizens
+declare that concerns about privacy or data protection are an obstacle in the use of generative AI tools.
+
+In summary, France’s digital skills profile reflects inclusive growth across genders and a relatively small
+urban-rural skills gap. While educational disparities remain significant, France’s overall performance in
+digital skills is commendable, with targeted improvements needed to support individuals with lower
+education levels and older adults. The adoption of generative AI is also notable, indicating an appetite
+among the population for the digital transformation.
+
+
+
+
+
+In France, 61.02% of individuals were exposed to untrue or doubtful content online in 2025, marking
+an annual increase of 7.3% since 2023, when the figure was 53.00%. This places France above the EU
+average, which stood at 55.90% in 2025 and 49.25% in 2023. The annual growth rate for France (7.3%)
+is slightly higher than that of the EU (6.5%). When examining the different age groups, it is evident that
+younger individuals (16-24) are more exposed to such content, at 78.84% in 2025 compared to 62.72%
+for those aged 25-64. This age-group gap of 16.12 pps in France is significantly wider than the EU
+average of 7.77 pps.
+
+However, 31.16% of individuals verified the truthfulness of online content in 2025, following an
+annual increase of 10.7% from 25.42% in 2023. This figure is slightly above the EU average of 29.16%
+in 2025 and 24.29% in 2023. The annual growth rate for France (10.7%) exceeds that of the EU (9.6%).
+
+
+                                       18France
+
+
+
+Younger individuals (16-24) are more likely to verify online content, with 46.03% doing so in 2025
+compared to 31.75% of those aged 25-64. The gap between both age categories is 14.28 pps, which is
+larger than the EU average gap of 9.09 pps.
+
+Concerning individuals exposed to hostile or degrading messages online, France reached 43.62% in
+2025, reflecting an annual increase of 3.2% from 40.96% in 2023. This figure is above the EU average
+of 39.72% in 2025 and 33.50% in 2023. However, France’s annual growth rate (3.2%) is lower than that
+of the EU (8.9%). Younger individuals (16-24) are more exposed to such content, with 63.87% in 2025
+compared to 43.82% for those aged 25-64. The gap between these age categories in France is
+20.05 pps, which is nearly double the EU average gap of 11.85 pps.
+
+Overall, on the positive side, France is performing well in terms of the verification of online content
+and a slower increase in exposure to hostile or degrading messages compared to the EU average. One
+trend that stands out is the significant age disparity in France. While younger individuals (16-24) are
+more likely to verify information, they are also more exposed to untrue or doubtful content and hostile
+messages. This age-group gap is consistently wider in France than in the EU overall, suggesting a need
+for targeted measures to address the vulnerabilities and behaviours of younger individuals online. The
+findings underscore the importance of continuing to promote digital literacy and critical thinking skills,
+particularly among the younger population.
+
+Based on the results of the Digital Decade Eurobarometer 2026, 94% of French people consider that
+further strengthening the protection of children and young people online should be a high priority for
+the EU. Moreover, 87%  consider  that  online manipulation  (such  as  disinformation,  foreign
+interference, AI-generated content, deepfakes) poses a threat to democratic processes.
+
+Policy context and assessment of the recommendations
+
+The country’s above-average performances in basic digital skills could be explained by access to good
+infrastructure and inclusion policies. Widespread fibre coverage ensures that most of the population
+has access to a fast broadband connection, facilitating access to online activities. Moreover, several
+inclusion policies might have contributed to the spread of digital technologies among households, for
+example: the pass numérique (vouchers offering 10-20 hours of basic digital training for vulnerable
+groups), the France Services digital mediators (providing free workshops and one-to-one support), and
+the creation of territorial hubs for an inclusive digital transition.
+
+Tackling persistent divides and fostering the digitalisation of businesses could further improve basic
+digital skills. The main divides in terms of digital skills are mainly economic and age based. Many
+tailored support programmes for disadvantaged groups already exist. The workplace is also a key
+channel through which adults acquire and refresh basic digital skills in firms that create a culture of
+continuous digital upskilling. Improving the digitalisation of businesses (currently a weakness in
+France) might also raise the basic digital skills of workers. Having more tech savvy workers might also
+contribute to spreading a digital culture in a less digitalised workplace.
+
+France is very active in fighting disinformation and protecting minors online. A new national strategy
+against health disinformation online was launched in January 2026. It aims to fight the widespread
+circulation of false medical information by creating a structured, long-term response focused on
+citizens and science-based communication. At the beginning of 2026, the French parliament adopted
+a text limiting access to social media networks for minors under 15. In April, it was redrafted by the
+Senate.
+
+
+
+                                       19France
+
+
+
+Social media consumption and young women’s mental health are closely linked. A study from the
+French national statistical institute INSEE revealed that 26% of women aged 18 to 24 who check social
+media several times per hour exhibit depressive symptoms while this percentage drops to 12% for
+young women connecting to social media less than once per hour. This percentage remains at 10% for
+men, regardless of social media usage.
+
+ICT specialists
+
+Performance assessment
+
+France was at 4.9% of ICT specialists in total employment after a progression of 2.1% in 2025 and
+stood just below the EU average of 5.0%. The level and progress are broadly in line with the EU.
+However, the country is lagging behind compared to its trajectory presented in the Digital Decade
+national roadmap.
+
+The share of ICT specialists that are women is stable, but a concerning trend is emerging in ICT
+training. In terms of women ICT specialists, France had a similar share to the EU in 2025 at 19.60%,
+compared to the EU’s 19.50%. However, in 2024, France was one of the Member States with the lowest
+share of ICT graduates at just 4.00% of all graduates. This low performance is concerning as a low share
+of ICT graduates worsens the perspective of bridging the gap in the training of more ICT specialists for
+the future workforce. Still in relation to 2024, 7.68% of French enterprises recruited or tried to recruit
+personnel with ICT specialist skills (EU average: 9.55%).
+
+Policy context and assessment of the recommendations
+
+The long-standing stagnation of ICT specialists in the French workforce might be due to weak STEM
+foundations (especially mathematics) in earlier education. Math skills are essential to shaping
+technological change but remain a particular concern. While France is home to many high-level schools
+and math specialists, French fourth and eighth graders obtained some of the lowest results in maths
+and science in the EU. According to OECD estimates, bringing France’s Programme for International
+Student Assessment (PISA) results in reading, science and maths close to those of top-performing
+countries could increase productivity by 2.7%. France engaged in improving the math skills of pupils
+with a national strategy that introduced new support modules in secondary education and mandatory
+additional maths hours for students who do not choose maths as a specialisation, thereby solidifying
+core skills for all students. Ultimately, it might prove beneficial for businesses and competitiveness in
+the very long term. As highlighted by the 2025 European Semester report, taking measures to boost
+the digital skills of the population and strengthen STEM and ICT teaching could boost innovation and
+digitalisation across all sectors and firms and strengthen competitiveness.
+
+There is a shortage of cybersecurity specialists in France. The ISC2 cybersecurity workforce study
+estimates that France has few cybersecurity specialists (230 000 in 2024, compared to 440 000 in
+Germany, for example), though the figure has increased substantially (+6.1% since 2023), unlike other
+countries that have seen decreases (Germany, UK, US). France is boosting its cybersecurity workforce
+by diversifying education (especially for women and vocational tracks), creating specialised campuses
+like Campus Cyber, strengthening public-private partnerships, and implementing national strategies
+focused on training, raising awareness of cybersecurity careers, and fostering a strong domestic cyber
+ecosystem to meet the growing demand resulting from regulations like NIS2.
+
+ 2025 recommendation on ICT specialists: Increase the job market relevance, improve the visibility,
+ and clarify the offer of digital training and reskilling options.
+
+
+                                       20France
+
+
+
+  In 2025, France continued the implementation of existing measures but did not take any new
+ measure. The offer for ICT training is still broad with many options through different pathways:
+ higher education (universities, engineering schools), vocational training (apprenticeships), and
+  reskilling and life-long learning (personal training account). The France 2030 plan continues to
+ support the training of specialists in AI and cybersecurity. However, with a very low share of ICT
+ graduates, the issue seems to derive from the low take-up of existing training offers.
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Performance assessment
+
+In 2025, France’s total digital public services score for citizens (which covers both national and cross-
+border users) reached 71.99/100 points. This represents a 1.1% increase compared to 2024. As such,
+France is below the EU average of 84.64/100 points. The country is lagging behind compared to its
+trajectory presented in the Digital Decade national roadmap. When looking specifically at digital public
+services for national citizens, France reached 92.92/100 points in 2025. This is slightly below the EU
+average of 94.01/100 points, and it marks a 1.6% increase from 2024. However, the performance of
+cross-border digital public services for citizens is far worse with a score of 51.05/100 points, which is
+substantially below the EU average of 75.28/100 points. Compared to 2024, this reflects a 0.3%
+increase.
+
+Citizen-related life events that score particularly well include Starting a small claims procedure (95.83),
+Moving (87.50), and Transport (84.72). Conversely, Family (50.69), Health (51.15), and Career (56.25)
+show the most room for improvement. Across levels of government for national citizens’ digital public
+services, central government services scored 87.18/100 points, regional government services scored
+68.33/100 points, and local government services scored 71.61/100 points.
+
+France’s total digital public services score for businesses (covering both national and cross-border
+businesses) was 74.60/100 points in 2025, standing below the EU average of 88.59/100 points.
+This represents a 3.0% decrease from 2024. The country is lagging behind compared to its trajectory
+presented in the Digital Decade national roadmap. The Business-related life event scoring particularly
+well is Business Start-Up (78.75), whereas Regular Business Operations (70.50) show the most room
+for improvement. Notably, France’s cross-border digital public services score for businesses reached
+56.25/100 points in 2025, reflecting a 0.3% increase compared with 2024. These results are again way
+below the EU average of 78.37/100 points.
+
+Overall, both Digital Decade KPIs and their underlying components lag behind EU levels, with cross-
+border digital public services representing the most persistent area of underperformance. A similar
+pattern appears across government tiers, where regional administrations showing the greatest need
+for improvement. Also, France often scores below the EU average in the e-government auxiliary
+indicators. The gap is particularly pronounced in ‘transparency of service delivery, design and personal
+data’ (54.44 for France, 69.59 for the EU) and ‘user support’ (76.72 for France, 90.01 for the EU). For
+justice, the 2026 EU Justice Scoreboard shows that there is considerable room for improvement to
+increase citizen access to initiate and follow proceedings digitally. Indeed, while France performs well
+in the availability of online information about the judicial system, it is one of the worst performing in
+the EU concerning the procedural rules allowing digital technology in courts in civil/commercial,
+administrative and criminal cases.
+
+
+
+
+                                       21France
+
+
+
+France’s access to e-Health records reaches a score of 88.39 after a growth of 4.9%, above the EU
+average of 86.51. The country is lagging behind compared to its trajectory presented in the Digital
+Decade national roadmap.
+
+Policy context and assessment of the recommendations
+
+
+On electronic identification, France has set up an efficient ecosystem largely used by the population.
+FranceConnect allows users to log in to more than 1 500 public and private online services using
+existing credentials (tax account, health insurance, postal services, etc.). The France Identité app
+enables holders of the electronic national ID card to authenticate via smartphone and access services
+integrated in FranceConnect. It also supports eID credentials (e.g. ID card, driving licence). Moreover,
+those services show a high take-up among internet users, with 91.60% of users using eID to access
+online services in 2025, largely above the EU average (55.28%).
+
+Many public services are accessible online, but users report difficulties. Most high-volume services
+(income  tax,  social  security, health insurance, family  benefits, vehicle  registration, education
+procedures) are now accessible via national portals such as service-public.fr, sector portals and local
+government sites. However, a 2025 Senate information mission found that 44% of users report
+difficulties with online administrative procedures, despite the fact that around 82% of the 2 billion
+procedures carried out each year are now done online. This trend is also reflected in the results of the
+Digital Decade Eurobarometer 2026 where 63% of French people consider that the digitalisation of
+daily public and private services is making their life easier (below the EU average of 73%). The Senate
+report also highlights that the digital divide might add to the perceived ‘sense of abandonment’ felt in
+rural areas where State services are progressively shut down. The ‘France services’ network was
+designed to help citizen in their day-to-day administrative tasks and is generally considered successful.
+There has been progress in digitalising the French justice system, but implementation is slow and
+citizens cannot initiate and follow proceedings in all cases. Improvements are also needed to reduce
+daily technical issues for users.
+
+
+Digitalisation of public services for businesses, including the implementation of cross-border
+capabilities and the once-only principle, might boost the digitalisation of SMEs. Access to efficient
+digital public services with a concrete return (e.g. reduced administrative burden, time savings) could
+encourage smaller businesses to digitalise and make up the gap observed in the basic digitalisation of
+French SMEs. However, France is not making progress in enabling the cross-border exchange of data
+and documents between authorities through the EU once-only technical system (OOTS). It implies that
+French businesses cannot retrieve data and documents issued by the French authorities across e-
+Government portals in different Member States. It would be beneficial for France to actively engage in
+the OOTS community and prioritise the development of interoperable digital infrastructure
+
+
+Ensuring the French State’s digital sovereignty and reducing its digital dependencies has become a
+strategic priority amid growing cyber threats. As highlighted in the State of the Digital Decade report
+2025, the French State’s digital strategy prioritises control of its information systems with targeted
+choices in terms of infrastructure and software. A 2025 report by the French Court of Auditors finds
+that, while progress has been made, significant gaps remain in understanding and mapping sensitive
+data held by the State. The cost of achieving greater sovereignty is not judged to be high but requires
+stricter data-hosting standards and better use of secure infrastructure. The report also notes
+vulnerabilities in current arrangements, such as education and health data being stored on foreign-
+owned cloud platforms. To address these issues, France has promoted a ‘cloud de confiance’ (trusted
+
+
+                                       22France
+
+
+
+cloud) framework and some sovereign cloud solutions, though their uptake is limited to sensitive uses.
+In April 2026, several State services announced a plan to reduce their reliance on non-EU providers by,
+among other measures, migrating to Linux operating systems.
+
+
+The digitalisation of healthcare continues to improve, including by using AI technologies and
+strengthening sovereignty of data storage. As part of the digital Ségur programme, the second wave
+of updates to the personal health platform, Mon espace santé, was rolled out in 2025 to make it easier
+for doctors, especially in general practice and medical imaging, to access and add patients’ health data
+securely. The RRF funded EUR 2 billion worth of measures to digitalise the French healthcare system.
+In July 2025 the French government launched a national strategy on AI and healthcare data, aiming to
+structure and govern AI use in health, improve care quality and support secure, ethical use of health
+records for innovation. At the beginning of 2026, the Health Data Hub, centralising copies of all the
+health data of French citizens held by the national health insurance, will migrate to a sovereign cloud
+solution certified by SecNumCloud, meaning the cloud service should not be subject to non-EU
+legislation.
+
+
+ 2025 recommendation on Digital Public Services: Speed up the digitalisation of public services for
+ both citizen and businesses, in particular by expanding cross-border capabilities.
+
+  In 2025, the France continued the implementation of existing measures but did not take any new
+ measure. A major improvement was implemented in 2025 concerning the fully digital proxy voting
+ system for all elections, using the France Identité app. It was operational for the municipal election
+ of March 2026. On the business side, a major milestone will be mandatory e-invoicing as of
+ September 2026 that should encourage the adoption of digital public services for businesses and
+ improve the current service offering. However, to date, these events have not translated into
+ improved e-Government scores under the Digital Decade, which remain largely sub-par. According
+ to the e-Government Benchmark 2026, cross-border availability of services for both citizens and
+ businesses remains more than 20 points below the EU average.
+
+
+
+
+
+                                       23France
+
+Leveraging  digital transformation  for a
+smart greening
+
+In France, ICT air emissions are low, but the recycling of electronic equipment could be improved.
+Eurostat’s recently published sectoral data on air emissions show that the ICT sector in France emitted
+17.9 kg CO2 eq per capita, which is below the EU average of 22.8 kg CO2 eq (data from 2022). Most of
+these emissions come from ICT services activities (89.6%). The ICT sector, however, represented only
+0.37% of air emissions in the total economy, comparable to the EU average (0.35%). In 2023, 72.94%
+of ICT-related waste collected (corresponding to two categories of waste electrical and electronic
+equipment) are recycled or prepared for reuse. This is one of the lowest rates in the EU (EU average:
+80.23%). According to the Digital Decade Eurobarometer 2026, 48% of French people consider that
+green digital technologies (e.g. energy-saving tech) will have the most positive impact in the next 10
+years. It is the second most-cited digital technology after digital health.
+
+France continues to be a pioneer in green ICT policies. As analysed in previous State of the Digital
+Decade reports, France has put innovative policies in place to measure the impact of ICT technologies
+on the environment and to encourage the implementation of good practices across sectors. France
+developed key legislative foundations such as the climate and resilience law (Loi portant sur la lutte
+contre le dérèglement climatique et renforcement de la resilience face à ses effets, 2021), strategic
+initiatives like an eco-responsible digital acceleration strategy, and monitoring and measurement
+methodologies. France is a pioneer country with a dedicated legislation specifically targeting the
+reduction of the environmental footprint of digital technologies: the REEN law (Loi visant à Réduire
+l'Empreinte Environnementale du Numérique, 2021), which addresses the full lifecycle impact of ICT
+and sets requirements notably to improve the energy and water efficiency of data centres, and to
+extend the equipment’s lifespan. France has taken leading roles in EU and global arenas on green
+digital issues, including co-leading EU best-practice clusters under the Digital Decade and launching
+initiatives to promote sustainable AI internationally. Notably, France advocates for a comprehensive,
+multicriteria approach to measuring the environmental footprint of ICT, going beyond carbon
+emissions alone to include water consumption, resource use, and biodiversity impacts through life
+cycle assessment (LCA) methodologies. In the future, France aims to set emission reduction targets
+and trajectories in ICT-specific sectors and continue the roll-out of sustainable practices across
+businesses.
+
+
+
+
+
+                                       24France
+
+Annex I: National roadmap analysis
+
+ France’s national Digital Decade strategic roadmap
+
+ France submitted a fully revised national Digital Decade roadmap on 3 February 2025, containing
+  six additional measures and revised trajectories. The updates  clearly align with the new
+ Commission’s priorities on AI, cybersecurity and green ICT. It includes reporting on the stakeholder
+  consultation. However, while the AI measures presented could partly contribute to the digitalisation
+ of SMEs, it lacks additional targeted measures to support them.
+
+ The new roadmap addresses a substantial number of the 2024 roadmap recommendations.
+
+ The 2025 roadmap includes a trajectory for unicorns and while not presented in the roadmap, the
+ VHCN trajectory is still considered identical to the FTTP one. France does not present any national
+  trajectories for edge nodes.
+
+ France has revised downward the target on adoption by enterprises of either AI, cloud or data
+  analytics (combined indicator) to 65%, arguing it is a more realistic target. While it could be justified
+ by a modest starting point, it has a heavy impact on reaching the target of 75% at the EU level by
+ 2030. Individual trajectories for the three technologies are not presented.
+
+ Two new measures on AI were added for adoption by enterprises.
+
+ The measure ‘Digital Health Acceleration Strategy Programme’ saw its budget revised upward from
+ EUR 718 million to 750 million. It is not clear if the EU funding is reported for each measure since
+ RRF contributes to funding France 2030 strategies or the plan ‘France très haut débit’ and it does
+ not appear as such in the roadmap.
+
+ While a systematic contribution to the digital rights and principles was not carried out, the roadmap
+  clearly reinforces the contribution of France to the Digital Decade objectives of green ICT and
+  cybersecurity.
+
+ The 2025 roadmap now includes reporting on the stakeholder consultation.
+                     Measures and budget in the national roadmap1
+
+
+
+
+
+1 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+
+                                       25France
+
+
+
+ The 2025 roadmap continues to  prioritise semiconductors, connectivity, and e-Health.  It  is
+ composed of 33 measures with a budget of EUR 18.6 billion, comprising EUR 11.1 billion from public
+ budgets (equivalent to 0.38% of GDP). It covers all the Digital Decade’s objectives such as a human-
+ centred digital space, resilience and security, sovereignty, green, and protection of society.
+
+
+
+
+
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       26France
+
+Annex  II: Funding, economic impacts &
+Multi-Country Projects
+
+
+ Country results from the study ‘Assessing the Economic Impact of Digital Investments under the
+ Recovery and Resilience Facility’
+
+ A modelling study conducted by the European Commission services, with the FIDELIO model,
+ assesses the economic impact of the digital component of the RRF. As of November 2025, the digital
+ part of the Recovery and Resilience Plan of France was evaluated to EUR 8.10 billion with EUR 890
+  million for digital infrastructures, EUR 1.61 billion for digital  skills, EUR 2.21 billion for the
+  digitalisation of businesses, EUR 3.03 billion for the digitalisation of public services, and EUR 366
+  million for other digital priorities.
+
+ The total economic impact of RRF digital measures is estimated to EUR 24.92 billion for the national
+ economy. Of this, EUR 18.24 billion stems from the direct effects of France's own RRP and EUR 6.68
+  billion corresponds to spillover effects from the implementation of other EU Member States' plans.
+ France benefited the most from spillover effects from RRPs of Spain (EUR 1.86 billion), Italy (EUR
+ 1.82 billion), Germany (EUR 0.83 billion). The most impacted sectors are ICT Services (EUR 5.30
+  billion), Professional Services (EUR 4.15 billion) and Manufacturing (EUR 3.54 billion).
+
+
+
+
+
+                                     RRF spillover effects to France
+
+
+
+
+
+                                       27France
+
+
+
+
+
+ Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy
+
+ France allocates 22% of its total recovery and resilience plan to digital (EUR 8.1 billion)2. In addition,
+ under cohesion policy, EUR 2.0 billion, representing 12% of the country’s total cohesion policy
+ funding, is dedicated to advancing France’s digital transformation3.
+
+
+
+ Multi-Country Projects
+
+ France is hosting the Alliance for Language Technologies EDIC (ALT-EDIC), the Digital Commons EDIC,
+ and is candidate to host an EDIC in the area of agri-food. France is also a member of the Local Digital
+ Twins towards the CitiVERSE EDIC. France is directly participating in the IPCEI on Microelectronics
+ and Communication  Technologies  (IPCEI-ME/CT),  in  the  IPCEI on Next  Generation Cloud
+  Infrastructure and Services (IPCEI-CIS) and in the IPCEI Tech4Cure. France is also a participating state
+ of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+
+
+
+
+2 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 23 April 2026.
+3 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including
+Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+
+                                       28

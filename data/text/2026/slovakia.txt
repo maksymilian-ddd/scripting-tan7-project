@@ -1,0 +1,1753 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 17.6.2026
+                                              SWD(2026) 155 final
+
+                                       PART 24/27
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2026 country report
+
+                                Accompanying the document
+
+         COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN
+       PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+             COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+
+         State of the Digital Decade 2026: Closing structural gaps and mobilising investments for
+                                      2030 and beyond
+
+             {COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+                                 {SWD(2026) 157 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE
+COUNTRY REPORT
+2026
+
+
+      SlovakiaSlovakia
+
+
+ Contents
+  Executive summary ................................................................................................................................. 1
+
+     Slovakia in the Digital Decade.............................................................................................................. 1
+
+    Funding for digital and multi-country projects  .................................................................................. 2
+
+   A competitive, sovereign and resilient EU based on technological leadership .................................. 2
+
+    Protecting and empowering EU people and society........................................................................... 3
+
+    Recommendations .............................................................................................................................. 3
+
+ A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+    Building technological leadership: digital infrastructure and technologies ....................................... 5
+
+       Connectivity infrastructure ............................................................................................................. 5
+
+      Semiconductors ............................................................................................................................ 10
+
+      Edge nodes .................................................................................................................................... 10
+
+     Quantum technologies.................................................................................................................. 10
+
+    Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 11
+
+     SMEs with at least basic digital intensity ...................................................................................... 11
+
+      Take up of advanced technologies................................................................................................ 13
+
+       Unicorns, scale-ups and start-ups ................................................................................................. 16
+
+    Strengthening cybersecurity and resilience ...................................................................................... 17
+
+  Protecting and empowering EU people and society............................................................................. 18
+
+    Empowering people and bringing the digital transformation closer to their needs ........................ 19
+
+      Equipping people with digital skills ............................................................................................... 19
+
+      Key digital public services and solutions – trusted, user-friendly, and accessible to all .............. 25
+
+  Leveraging digital transformation for smart greening .......................................................................... 30
+
+  Annex I: National roadmap analysis ..................................................................................................... 31
+
+  Annex II: Funding, economic impacts and multi-country projects ....................................................... 33  Slovakia
+
+Executive summary
+
+Slovakia’s digital transformation is advancing, but structural weaknesses remain. A high share of young
+people display at least basic digital skills, but the overall proportion of individuals with at least basic
+digital skills is below the EU average, with particularly low levels among older groups. Small and
+medium sized enterprises (SMEs) are catching up in basic digitalisation and businesses are gradually
+increasing their use of advanced technologies, but Slovak businesses  still show lower levels of
+digitalisation compared to their EU peers and face significant ICT specialist shortages. Connectivity
+infrastructure has been markedly improved, yet rural areas are still underserved by fixed gigabit
+networks. Overall, while Slovakia has put interlinked strategies in place to support  its digital
+transformation, issues such as funding availability, long-term planning and investments, as well as
+efficient project implementation and monitoring still represent key challenges.
+
+Existing shortcomings in Slovakia’s digital transition affect the country’s competitiveness. Persistent
+gaps in digital skills across the population and workforce, together with a shortage of ICT specialists,
+restrict the pool of workers able to support businesses’ digital transformation and slow down the
+adoption of tools such as cloud, data analytics and artificial intelligence (AI). Many SMEs still rely on
+relatively low‑tech processes and lack the managerial and technical capacity for more advanced digital
+investments, hampering potential gains in productivity and innovation. Digital public services also
+remain below the EU average, with room for improvement in terms of interoperability and user-
+friendliness.
+
+Slovakia is still consolidating the strategic capabilities needed to increase its digital leadership. The
+frontier‑technology landscape – from deployment of advanced digital technologies at scale, to
+semiconductors, edge nodes, quantum technologies and a strong start‑up/scale‑up base – remains
+modest. Nevertheless, the ‘Vision for Artificial Intelligence in Slovakia’ and work on a national AI
+strategy, among other measures, signal growing ambition in AI uptake. In parallel, ongoing efforts
+supporting the development of a high‑performance computing (HPC) ecosystem represent an
+important step towards strengthening research and innovation capacity. Importantly, the success of
+these initiatives will depend on clear, time-bound plans and stable, long-term financing to ensure the
+economy can reap the benefits associated with such technologies.
+
+Slovakia in the Digital Decade
+
+Slovakia shows a substantial level of ambition in its contribution to the Digital Decade having set 12
+national targets (out of 14 possible), 83% of which aligned with the EU 2030 targets. In its national
+roadmap, Slovakia provided 12 trajectory points for 2025 (out of 13 analysed). The country is following
+them moderately well with 58% considered on  track.  Slovakia addressed 56% of the nine
+recommendations issued by the Commission in 2025 by making some changes through new measures.
+According to the national roadmap, by the end of 2026, 72% of the measures will come to an end. The
+total public budget associated to these measures is EUR 1.63 billion, representing 72% of the total
+public budget outlined in the roadmap.
+
+According to the special Eurobarometer on the Digital Decade 2026, 79% of Slovak people consider
+that digital policy should have a high or very high priority in shaping our future in Europe. They also
+think that, in the next 10 years, the EU should cooperate with Member States to reinforce
+cybersecurity and protection from online threats (93%), promote  digital education and  skills
+programmes (92%) and strengthen the regulation of online platforms (84%).
+
+                                        1  Slovakia
+
+
+
+In addition, 79% of Slovak respondents think that the EU should reduce its dependencies on digital
+from non-EU countries, and 86% that EU should prioritise investments in digital infrastructure and
+services that are developed and controlled in Europe. Meanwhile, 54% would be willing to switch to
+an EU-based digital service provider even if it means slightly higher costs.
+
+Funding for digital and multi-country projects 
+
+Slovakia allocates 21% of its total recovery and resilience plan to digital (EUR 1.2 billion). In addition,
+under cohesion policy, EUR 0.7 billion, representing 6% of the country’s total cohesion policy funding,
+is dedicated to advancing Slovakia’s digital transformation.
+
+Slovakia is a member of the Local Digital Twins towards the CitiVERSE European Digital Infrastructure
+Consortium (EDIC). Slovakia directly participates in the Important Project of Common European
+Interest (IPCEI) on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in the
+Tech4Cure IPCEI. Slovakia is also a participating state of the EuroHPC Joint Undertaking (JU) and of the
+Chips JU.
+
+                                             Slovakia                EU               Digital Decade
+ Digital Decade KPI (1)                                                                                       target by 2030
+                                           Last       DESI 2026     Annual    National     DESI     Annual     SK      EU
+                                         available     (year 2025)    progress   trajectory    2026     progress
+  Fixed Very High Capacity Network      73.0%       83.6%       14.5%      64.0%     85.5%     3.7%     100.0%   100%
+ (VHCN) coverage
+
+  Fibre to the Premises (FTTP)          67.8%       76.0%       12.2%             -       74.1%     7.1%            -              -
+
+  Basic 5G coverage                   87.9%       93.9%        6.7%      85.0%     96.8%     2.6%     98.5%    100%
+
+ Edge Nodes (estimate, new                     -          107                 -                -        7451            -               -      10000
+ methodology)
+ SMEs with at least a basic level of                                   42.2%       57.1%       16.3%      65.0%     71.4%     11.0%     90.0%    90%
+  digital intensity *
+
+ Cloud *                           30.2%       32.9%        4.5%      39.0%     46.7%     9.5%     75.0%    75%
+
+  Artificial Intelligence                10.8%       18.0%       67.0%      18.0%     20.0%     48.0%     75.0%    75%
+
+ Data analytics *                    30.2%       38.8%       13.3%      18.0%     39.9%     9.5%     75.0%    75%
+
+  AI or Cloud or Data analytics *         45.8%       55.1%        9.8%             -       63.2%     7.5%            -      75%
+
+  Unicorns                            0           0                     1        324      10.2%      3       500
+
+  At least basic digital skills *           51.3%       53.6%        2.2%      57.0%     60.4%     4.3%     70.0%    80%
+
+  ICT specialists                       4.6%        4.4%         -4.3%      4.0%      5.0%      2.0%      6.0%    ~10%
+
+  e-ID scheme notification                               Yes
+
+  Digital public services for citizens        72.6          76.3         5.1%        76.0       84.6      2.8%      100.0     100
+
+  Digital public services for               73.4          73.9         0.6%        87.0       88.6      2.7%      100.0     100
+  businesses
+  Access to electronic health records      72.0          72.0         0.0%        55.0       86.5      4.6%      100.0     100
+
+
+  (1) Indicators full description, metadata and sources in the DESI 2026 methodological note
+  (2) Last available data is DESI2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year 2023)
+  (3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap
+
+A competitive, sovereign and resilient EU based on technological leadership
+
+Slovakia has made significant progress in deploying digital infrastructure. Very high capacity networks
+(VHCN) and fibre‑to‑the‑premises (FTTP) coverage experienced marked growth, while 5G networks in
+urban areas achieved near total coverage. However, VHCN and FTTP coverage remains significantly
+lower in rural areas, where low population density, high per‑premises deployment costs and complex
+permit procedures continue to slow roll‑out and limit commercial viability.
+
+                                        2  Slovakia
+
+
+
+In the business sector, Slovakia is making efforts to address structural barriers to digitalisation,
+particularly among SMEs, but despite promising growth, SME basic digitalisation is still lagging behind.
+Ongoing support measures, such as European Digital Innovation Hubs (EDIHs) and dedicated loans,
+are well regarded by businesses and encourage medium‑ to long‑term planning, but the overall
+coverage of such initiatives is modest compared to the needs of the business population. Limited
+access to funding and understanding of digital technologies, as well as skills shortages within the
+workforce, represent underlying challenges to the digitalisation of businesses.
+
+The uptake of advanced digital technologies has gradually improved in recent years but remains
+below broader EU levels. Slovakia is putting in place the policy and institutional framework to support
+wider adoption, with a particular focus on AI and high‑performance computing (HPC). However,
+progress in these areas needs to go hand-in-hand with raising the basic level of digitalisation in the
+business sector, as many businesses are not yet digitally mature enough to integrate advanced
+technologies effectively. The start‑up and scale‑up ecosystem remains relatively small and marked by
+structural weaknesses: venture capital activity is limited, access to first customers is difficult, and large
+companies are often reluctant to work with new businesses.
+
+Protecting and empowering EU people and society
+
+Digital  skills of the population and ICT specialist availability remain bottlenecks in the digital
+transformation of the Slovak economy. Overall digital skills are below the EU average, with particularly
+low levels among older and disadvantaged population groups, despite a comparatively strong
+performance among young adults (16-24). A wide range of measures, including an ongoing curriculum
+reform, are being rolled out, but their full impact will take time to materialise. At the same time,
+Slovakia faces persistent shortages of ICT professionals across both public and private sectors,
+negatively affecting the digitalisation of the economy. Such shortages are compounded by limited
+opportunities and resources for upskilling and reskilling the workforce and limited participation of
+women in the ICT sector.
+
+The digitalisation of the public sector is progressing but faces implementation challenges. Work on
+the digitalisation of 16 “priority life situations” continues, aiming to digitalise a set of key public
+services by 2026. However, further improvements are needed in relation to the user-friendliness,
+interoperability, transparency and the adoption of a uniform approach for eGovernment services
+across the public administration. The digitalisation of healthcare has advanced, promising time savings
+for the public and improved interoperability once fully implemented. However, Slovakia continues to
+lag behind the EU average in achieving universal public access to electronic health records (EHRs) by
+2030.
+
+ Recommendations
+
+       -   Digitalisation of SMEs: Strengthen and scale up the existing support framework for
+        business digital transformation by ensuring the medium- to long-term continuity of key
+        support structures (e.g. EDIHs) and expanding the scale and reach of existing instruments
+       and access to finance. Improve the outreach and visibility of existing instruments, while
+        ensuring that support measures are easy to access and do not impose an excessive
+         administrative burden. Expand support for digital skills, managerial awareness, and digital
+        transformation planning capacity within businesses, including by building on existing
+          initiatives such as the “Digital Skills for a Green Future of Slovakia” project. Promote a
+
+
+                                        3Slovakia
+
+
+
+     gradual digitalisation pathway for SMEs, from basic digital foundations to the uptake of
+    advanced technologies.
+
+ -   ICT  specialists:  Scale up  flexible,  labour-market-oriented  upskilling and  reskilling
+     opportunities for specialised ICT profiles in both the private and public sectors. Expand and
+    adapt higher education and vocational ICT pathways in line with labour market needs,
+     while strengthening measures to retain ICT graduates in Slovakia. Moreover, continue to
+    address barriers to women’s entry, retention and progression in ICT studies and careers,
+     for instance through targeted outreach, guidance, and support measures.
+
+ -   Digital skills: Expand opportunities to acquire and regularly update digital skills, with a
+     focus on the workforce and socio-economic groups with lower-than-average levels of
+      digital skills, so as to better support labour market participation and businesses’ digital
+     transformation. Moreover, further strengthen digital education across the school system,
+     including through continued teacher training and support, as well as targeted measures
+     for students from disadvantaged backgrounds and marginalised communities.
+
+ -   Advanced digital technologies: To maximise the impact of investments in AI and HPC and
+    promote tangible value creation for the economy, adopt a coherent national approach that
+     supports long-term sustainability and scalability. Continue to strengthen the national AI
+    ecosystem by building on existing national infrastructural and energy resources and
+     expertise, and promote the integration of the Slovak AI ecosystem into the wider EU
+    ecosystem (for instance through EDIHs, AI factories, and Technical Experimentation
+      Facilities, as well as through greater use of sector-specific support under the Apply AI
+     strategy).
+
+ -   Digital public services: To improve user-friendliness and uptake, enhance interoperability,
+     transparency, and  consistency  across  digital  public  services,  while  strengthening
+    implementation capacity of digital public service projects across the public administration,
+     notably as regards inter-ministerial/agency coordination, monitoring and evaluation.
+     Increase the availability of digital public services for cross-border citizens and businesses.
+
+ -   Connectivity: Sustain the rollout of gigabit-capable fixed networks, prioritising the closure
+     of gaps in rural and underserved areas, for instance by targeting public support to digital
+     infrastructure deployment and by ensuring the coordination of funding programmes and
+     regulatory measures at national and regional level to support balanced deployment. Foster
+    demand and uptake, while cooperating with industry stakeholders to address deployment
+     barriers and support timely rollout. Promote the deployment of 5G SA (standalone)
+    networks and enable advanced use cases.
+
+ -   Semiconductors: Strengthen the semiconductor ecosystem by ensuring that participation
+     in EU semiconductor initiatives, in particular the current IPCEIs on Microelectronics and
+    Communication Technologies (ME-CT) and on Advanced Semiconductor Technologies
+     (AST), receive full and timely support and translate into broader domestic capability-
+     building for relevant companies.
+
+
+
+
+
+                                     4  Slovakia
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Building technological leadership: digital infrastructure and technologies
+
+ Connectivity infrastructure
+
+Performance assessment
+
+
+
+
+
+Slovakia has achieved 83.57% of Very High Capacity Networks (VHCN) coverage after a strong
+increase of 14.5% in 2025 and remains only slightly below the EU average of 85.54%. As such,
+Slovakia’s growth rate outpaced the EU-wide growth rate of 3.70%. In 2024, Slovakia’s VHCN coverage
+was 72.97%, which was also below the EU average of 82.49%. For households living in sparsely
+populated areas, Slovakia’s VHCN coverage was 39.62% in 2024, significantly lower than the EU
+average of 61.87%. In 2025, this figure rose to 57.48%, still below the EU average of 66.66% but
+significantly narrowing the gap. Slovakia’s annual growth rate in these areas was an impressive
+45.10%, far exceeding the EU’s growth rate of 7.70%. Overall, Slovakia is on track with the trajectory
+presented in its Digital Decade national roadmap.
+
+Slovakia is at 76.03% of Fibre to the Premises (FTTP) coverage after an increase of 12.2% in 2025,
+slightly surpassing the EU average of 74.13%. While in 2024, Slovakia’s FTTP coverage was 67.76%,
+marginally below the EU average of 69.24%, Slovakia’s annual growth rate surpassed the EU’s growth
+rate of 7.10%. In sparsely populated areas, Slovakia’s FTTP coverage was 39.34% in 2024, lower than
+the EU average of 58.76%. By 2025, this figure had increased to 57.45%, closely approaching the EU
+average of 62.61%. Slovakia’s annual growth rate in these areas was 46.0%, significantly outpacing the
+EU’s growth rate of 6.50%. Slovakia did not provide a national trajectory point for 2025 in the Digital
+Decade national roadmap.
+
+Slovakia basic 5G coverage reached 93.86% after an increase of 6.70% in 2025 and stands close to
+the EU average of 96.79%. As such, the country is on track with the trajectory presented in its Digital
+Decade national roadmap. In 2024, Slovakia’s 5G coverage was 87.94%, lower than the EU average of
+
+                                        5  Slovakia
+
+
+
+94.35%. Slovakia’s annual growth rate was higher than the EU’s growth rate of 2.60%, which allowed
+it to narrow the gap with the EU level. For households in sparsely populated areas, Slovakia’s 5G
+coverage was 72.51% in 2024, lower than the EU average of 79.58%. By 2025, this figure had
+significantly risen to 84.55%, still slightly below the EU average of 88.88%. However, Slovakia’s annual
+growth rate in these areas was 16.60%, higher than the EU’s growth rate of 11.70%.
+
+Slovakia reached an 84.38% 5G coverage in the 3.4-3.8 GHz band after an increase of 19.60% in 2025,
+exceeding the EU average of 74.75%. As such, Slovakia surpassed the EU’s growth rate of 10.6%. The
+3.4-3.8 GHz mid-band is crucial because it provides a good balance between coverage with high
+capacity, making it a cornerstone for advanced 5G use cases, that can be replicated as reference
+models across sectors, and socio-economic drivers. These include applications in manufacturing, such
+as industrial IoT, or healthcare, for example telemedicine. In 2024, Slovakia’s coverage in this band
+was 70.57%, already higher than the EU average of 67.60%. In rural areas, Slovakia’s coverage was
+46.69% in 2024, significantly higher than the EU average of 25.36%. By 2025, this figure had
+substantially increased to 58.50%, remaining well above the EU average of 33.71%. Slovakia’s annual
+growth rate in these areas was 25.36%.
+
+Slovakia has made significant progress in expanding its broadband coverage, particularly in fixed
+VHCN, FTTP, and basic 5G coverage, getting close to or even surpassing, average EU coverage levels.
+In many cases, Slovakia’s annual growth rates outpace those of the EU, particularly in sparsely
+populated areas. However, room for improvement remains, especially in rural areas.
+
+The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in
+Slovakia, highlighting some regional variation. For fixed networks (VHCN and FTTP), Western Slovakia
+(Západné Slovensko) records the weakest performance. As noted above, rural coverage is generally
+low across the country. However, regional differences show that rural coverage is broader in the
+Bratislava (Bratislavský kraj) and Eastern Slovakia (Východné Slovensko) regions, while Western
+Slovakia again records the lowest levels. As regards 5G, overall coverage exceeds 90% in all regions,
+with the highest coverage achieved in the Bratislava region, and rural coverage is above 80% across
+rural areas.
+
+                       VHCN coverage    FTTP Coverage     5G Coverage
+                               Overall    Rural    Overall    Rural    Overall    Rural
+         National coverage    83.57%   57.48%   76.03%   57.45%   93.86%   84.55%
+           Bratislavský kraj     94.11%   64.23%   80.91%   64.23%   98.43%   82.71%
+        Stredné Slovensko    79.66%   58.01%   73.90%   58.01%   91.76%   85.61%
+       Východné Slovensko   91.32%   67.88%   83.07%   67.88%   91.25%   80.54%
+       Západné Slovensko   75.71%   49.83%   70.14%   49.74%   95.00%   86.42%
+
+In terms of 5G SIM card take-up, Slovakia is at 47.44% of the total population after an increase of
+78.7% in 2025, yet it remains below the EU average of 55.55%. In 2024, Slovakia’s share was 26.54%,
+compared to the EU’s 35.56%. The growth rate of 78.7% in Slovakia surpasses the EU’s annual growth
+rate of 56.2%, indicating a significant pace of adoption, albeit from a lower starting point.
+
+The share of fixed broadband subscriptions with speeds of 1 Gbps or more stood at 3.18% in 2025,
+after an increase of 16.4%, which is considerably lower than the EU average of 26.97%. In 2024,
+Slovakia’s share was 2.74%, while the EU's was 22.25%, after a stronger growth rate of 21.2%.
+
+
+
+
+
+                                        6  Slovakia
+
+
+
+Policy context and assessment of recommendations
+
+The rollout of VHCN and FTTP advanced significantly in Slovakia over the past year, driven by
+ongoing investment from telecom operators. This brought FTTP coverage slightly above the EU
+average, and VHCN coverage close to EU levels. However, existing obstacles still constrain the pace
+and extent of deployment towards achieving Digital Decade targets. Economically, rollout is hindered
+by rising costs for construction, labour, and materials, with additional pressure from higher energy
+prices, inflation and increased taxation. Administratively, operators report that permit procedures can
+be lengthy and administratively complex, with a relatively low degree of digitalisation and differing
+practices across municipalities.
+
+The above-mentioned economic and administrative challenges are more acute in rural and sparsely
+populated areas, which historically have lower coverage by gigabit networks. Networks deployment
+in rural areas underwent a strong increase between 2024 and 2025, but existing obstacles tend to
+make investment more difficult to justify for telecom operators. The geographical characteristics of
+the territory, low population density and dispersed households translate into long routes for relatively
+few customers, which raises the cost per premises of civil works, permits and surface restoration. To
+address these issues, in 2025, Slovakia had planned EUR 112 million worth of investment in
+connectivity measures, including a dedicated measure to support the deployment of gigabit
+infrastructure in rural areas. However, while the preparatory work to support this measure was carried
+out, the related amount was ultimately reallocated to different priorities, which may negatively affect
+Slovakia’s progress towards addressing the urban-rural divide.
+
+Noteworthy changes to the legal framework entered into force in 2025, in particular the new
+Construction Law (April 2025) and the Gigabit Infrastructure Act (GIA), implemented through an
+amendment to the Act on Electronic Communications (effective from 12 November 2025). Given the
+recent implementation of these measures, an assessment of their impacts is premature. However,
+initial feedback indicates that they have brought noteworthy changes. A key positive effect of the GIA
+concerns customer connection lines. The new Construction Law initially made the last 100 metres
+from the pavement to the house subject to notification, but this was reversed by the GIA. At the same
+time, the Construction Law sought to simplify permit procedures by merging planning and building
+permissions into a single procedure. However, telecom operators report that, in practice, this is
+expected to make some minor works more complex, as simple interventions require more extensive
+project documentation and multiple consents. Moreover, implementation of the updated rules on the
+ground is uneven. Municipalities across the territory tend to apply different approval requirements
+and often impose additional side conditions, such as surface restoration. Digitalisation  is also
+incomplete, hence paper and electronic procedures may run in parallel. The Office for Spatial Planning
+and Construction, established in 2022 is in charge of providing a unified permit framework, but
+progress in this area has not yet fully materialised.
+
+Demand-side factors might also weigh on gigabit deployment, limiting uptake. Demand for very
+high-speed internet in Slovakia remains relatively modest, especially outside major urban centres,
+which makes it harder for operators to justify large-scale investments in gigabit networks. Notably,
+the share of fixed broadband subscriptions >= 1 Gbps in 2025 is 3.18% (only slightly increased from
+2024), compared to an EU average of 26.97%. the share of fixed broadband subscriptions >= 100 Mbps
+in Slovakia also remain low compared to EU average, reaching 48.84% in 2025 (compared to the EU’s
+71.88%). Many households seem to consider existing broadband speeds sufficient and perceive
+limited added value in higher-speed FTTP offers, which might reflect, among others, lower levels of
+
+
+                                        7  Slovakia
+
+
+
+teleworking and only gradual uptake of advanced e-Government, e-Health and other data-intensive
+services.
+
+In this context, the government’s ‘Online Pupil – Social Vouchers for Internet Connection for Pupils’
+project (State aid approved by the European Commission in 2025) is an attempt to promote fixed
+broadband access for specific vulnerable groups, including primary and secondary school pupils from
+families in material need or with special educational needs. While expected to cover 48 000 pupils
+over two years, however, the vouchers are limited to ensuring access to a stable home internet
+connection of at least 30 Mb/s, rather than stimulating demand for gigabit-capable services.
+
+At the same time, Slovakia has no fixed copper switch-off date or binding time plan. Slovak authorities
+support voluntary copper migration by the incumbent dominant operator but lack mandatory
+timelines or copper switch-off areas. The switch-off of copper networks can play an important role in
+ensuring the take-up of fibre. Together with demand support, this can contribute to fostering
+investments and fully unlocking the benefits of the connectivity ecosystem, while maximising the
+socio-economic value of high-speed infrastructure.
+
+In addition to economic and administrative barriers, market structure and access conditions to
+infrastructure also shape incentives for gigabit rollout. The Slovak telecom market is characterised
+by a concentrated structure in the mobile segment, with four nationwide mobile network operators
+accounting for the vast majority of subscribers and revenues. In contrast, the fixed broadband market
+is more fragmented, with the same four bigger players joined by a significant number of additional
+operators, including both larger regional providers and smaller local ones, which play an important
+role in the provision of broadband services. Operators point to difficulties in access to key wholesale
+inputs, such as passive infrastructure and backhaul capacity, which can create bottlenecks that affect
+infrastructure-based competition and the pace of gigabit network deployment, particularly in less
+densely populated  areas.  Against  this  background,  the  Regulatory  Authority  for  Electronic
+Communications and Postal Services is conducting, in line with European Commission guidance, a
+market analysis of ‘Wholesale local access services provided at a fixed location’, focusing on whether
+wholesale access to fixed networks is provided under conditions that support effective market entry
+and expansion. In parallel, the Antimonopoly Office of the Slovak Republic has launched a sector
+inquiry into the deployment of fibre networks on electricity poles and the terms under which
+alternative operators can access both the underlying infrastructure and the networks built on it.
+
+ 2025 recommendation  on  VHCN/FTTP: Facilitate   infrastructure  deployment  by   lifting
+ administrative barriers and supporting collaboration between stakeholders, especially for the
+ deployment of fibre optic networks.
+ In 2025, Slovakia made some efforts to address the recommendation through new policy actions.
+ Nonetheless, Slovakia made solid progress in the rollout of VHCN and FTTP, increasing coverage in
+ both urban and rural areas and approaching the EU average. This progress was entirely driven by
+ telecom operators’ investment. Public authorities took some steps to facilitate infrastructure
+ deployment,  particularly with updates  to the  regulatory framework  associated with the
+ implementation of the GIA. Initial feedback to the current framework associated with VHCN/FTTP
+ rollout points to improvements but also indicates that administrative procedures remain complex
+ in certain cases, with lack of a unified methodology across municipalities.
+
+ The Antimonopoly Office and National Regulatory Authority are examining whether access
+ conditions and market dynamics enable effective competition at the wholesale level, which is
+
+
+
+                                        8  Slovakia
+
+
+
+ expected to influence the ability of operators to deploy and scale fixed networks, thereby shaping
+ the overall environment for gigabit rollout.
+
+ Despite strong improvement, deployment of gigabit networks in rural areas  is particularly
+ constrained by high costs and administrative and geographical barriers, combined with relatively
+ low demand, resulting in lower coverage than in urban areas.
+
+
+
+5G deployment in Slovakia achieved good progress in 2025, with improvements in both coverage and
+technological maturity. As nationwide coverage approaches 100%, the focus is expected to shift
+towards increasing capacity and improving the user experience in densely populated urban areas,
+including the rollout of more advanced 5G and 5G+ capabilities. The 5G-netowrks expansion was
+driven by substantial private investment and the refarming of spectrum following the complete
+switch‑off of 3G services in September 2025.
+
+In July 2025, Slovakia concluded its largest multi-band auction of mobile spectrum to date, covering
+the 800 MHz, 900 MHz, 1 500 MHz, 2 100 MHz, 2 600 MHz (FDD) and 2 600 MHz (TDD) bands. It was
+the largest spectrum award ever held in Slovakia, and it is expected to improve service quality by
+enabling mobile operators to extend coverage, increase mobile broadband speeds and provide more
+stable connections. The requirements set out in the auction tender documents feature progressively
+stricter coverage and deployment obligations across frequency bands and operator types (existing vs
+new entrants). Low-frequency bands (800 MHz and 900 MHz) are subject to the highest obligations,
+with all operators required to achieve at least 95% population coverage by 2033. Higher frequency
+bands have less stringent requirements, ranging from partial population coverage to minimum base
+station deployment across regions. However, given technological neutrality, these obligations relate
+to network deployment rather than explicitly to 5G. At the same time, licences in the 3.4-3.8 GHz band
+entered into force in September 2025 and are expected to support a more capacity-driven phase of
+5G deployment, particularly in dense urban and high-traffic areas.
+
+In parallel, Slovakia has also begun deploying more advanced 5G Standalone (SA) networks. While
+only 3.1% of the country’s 5G base stations are 5G SA (below the EU average of 22.2%)1, two mobile
+operators launched commercial 5G SA services in 2025, with coverage expected to reach around 52%
+of the population by the end of the year, currently focused on business (B2B) customers. A third
+operator plans to introduce 5G SA in 2026.
+
+Despite the progress achieved, structural barriers remain, reflecting the broader challenges faced in
+deploying  fixed  broadband  networks.  Complex  administrative  and  permit  procedures,
+inconsistencies between municipalities, and rising costs affect 5G networks deployment particularly
+in rural areas. Notably, Slovakia’s mountainous terrain makes network deployment more complex,
+particularly in valleys and remote areas, often requiring additional infrastructure to ensure consistent
+5G coverage. Combined with a scattered settlement pattern that increases costs and reduces
+commercial incentives, this makes it more difficult to extend coverage to all populated areas despite
+high overall population coverage. Broader regulatory and cost pressures, including new cybersecurity
+obligations, also add to operators’ operational burdens. Local anti-5G activism, sometimes echoed by
+municipalities, can further complicate site acquisition and upgrades.
+
+On the demand side, the picture is mixed. While coverage is now very high, full uptake depends on
+users having 5G-capable devices, appropriate SIM cards and prices. Notably, less than half of the
+
+
+1 European 5G Observatory 2026.
+
+                                        9  Slovakia
+
+
+
+population (47.44%) had 5G SIM cards in 2025. However, this represents a major increase on 2024,
+when just 26.57% of the population used 5G SIM cards.
+
+Semiconductors
+
+Slovakia is not a strong chip manufacturer but has taken some initial steps to stimulate the building
+of a semiconductor ecosystem. In 2024, the government and academia launched the Slovak Chips
+Competence Centre in Bratislava – aligning with the EU Chips Act initiative – to support research,
+development, education and prototyping. Activities in Slovakia will focus on power electronics,
+including module  design, assembly and packaging, and  testing. The centre  brings together
+government, universities and industry to strengthen domestic capabilities and create a semiconductor
+ecosystem in Slovakia.
+
+Two Important Projects of Common European Interest (IPCEI) in the field of chip production continue
+to progress well and are delivering promising early results. The project ‘Memristor technology R&D
+for industry’ aims to develop cutting-edge technologies and AI solutions, with a focus on advanced
+chip products and embedded systems optimised for neuromorphic, memristor-based applications.
+The second IPCEI project has completed the development phase of a single-chip wireless receiver
+integrating multiple functions to reduce cost and electricity consumption, and it has performed very
+strongly. However, constraints in public funding may affect the progress of the project. Adequate and
+continued funding and timely support will be required to progress to the production phase, as well as
+foster broader domestic capacities and company participation in current and future projects.
+
+Edge nodes
+
+Performance assessment
+
+According to the Edge Node Observatory, Slovakia is estimated to have deployed a total of 107 edge
+nodes  by  2025. Due  to  a  change   in methodology,   this  number cannot be  compared
+to previous estimations.
+
+Policy context and assessment of recommendations
+
+Edge node deployment in Slovakia remains at a very small scale, driven mainly by private actors. In
+Slovakia, there is not currently a lead public authority assigned for national edge infrastructure
+strategy, and no specific new national programmes have been reported. However, in light of the
+growing spread of AI, the ongoing industrial digitalisation, and the EU’s strategic autonomy objectives,
+the importance of edge nodes is likely to rise significantly, warranting greater attention from each
+Member State.
+
+Quantum technologies
+
+Slovakia’s principal activity in quantum technologies remains the development of a national
+quantum communication network. In December 2025, under the skQCI project (part of EuroQCI), the
+country activated its first commercial quantum‑secured link between Pavol Jozef Šafárik University in
+Košice and the University of Prešov, described as the first fully operational component of the planned
+network. A hybrid national system combining quantum key  distribution with post‑quantum
+cryptography is being deployed, connecting key institutions in Bratislava, including the Office of the
+President, the National Security Authority, and the Slovak Academy of Sciences’ Quantum Pavilion.
+The wider backbone is still being rolled out: plans include the set up of 12 nodes between Bratislava
+
+
+                                       10  Slovakia
+
+
+
+and Košice and potential cross‑border connections to neighbouring countries, currently at the
+construction or planning stage.
+
+Once fully deployed and integrated into the European Quantum Communication Infrastructure,
+Slovakia’s network will enable end-to-end quantum-secure communications, strengthening the
+protection of sensitive data across critical sectors. Moreover, full deployment could support high-
+value digital services and investment, although cost, scalability, and technological choices remain
+relevant considerations.
+
+On the human‑capital side, the Slovak National Centre for Quantum Technologies (QUTE.sk) has
+launched training programmes and awareness-raising activities for industrial partners and potential
+users, as well as the mobiQUTE and fellowQUTE schemes to support mobility and early-career
+research in quantum technologies and strengthen international links.
+
+Supporting  EU-wide  digital  ecosystems  and  scaling  up  innovative
+enterprises
+
+SMEs with at least basic digital intensity
+
+Performance assessment
+
+As of 2025, a majority of Slovak SMEs (57.09%) have achieved at least a basic level of digital
+intensity, marking a notable increase from 42.19% in 2023 (+16.3%), though still remaining well
+below the EU average of 71.38%. A positive trend in the digitalisation of SMEs thus emerges, with an
+annual growth rate of 16.3%, which outpaces the EU’s growth rate of 11.0%. However, SMEs with a
+very high digital intensity only constituted 5.37% of the total in 2025, below the EU average of 9.07%.
+Overall, Slovakia is lagging behind it’s the trajectory presented in its Digital Decade national roadmap.
+
+Policy context and assessment of recommendations
+While there has been solid progress, the digitalisation of SMEs in Slovakia continues to be
+constrained by structural factors, notably digital skills gaps within businesses, limited access to
+funding and low understanding of the added value of digital technologies. If these challenges persist,
+they may weaken SMEs’ ability to adopt productivity-enhancing technologies and respond effectively
+to changing market conditions, undermining broader competitiveness by slowing innovation and
+reducing efficiency gains. Recent policy measures to support business digitalisation have sought to
+tackle these challenges by prioritising micro-enterprises and SMEs and addressing systemic needs
+related to skills development and the financing of digital transformation.
+
+Key initiatives include the Digitrans scheme, the pilot of which was completed in 2025 and supported
+200 micro‑enterprises with very low levels of digitalisation through a EUR 2 000 voucher and ad hoc
+advice. Beneficiaries highly valued Digitrans’s simple procedures, the limited administrative burden
+and rapid support  it provided, which proved particularly useful as a  first step in their digital
+transformation. Feedback from the pilot suggests that companies receiving technical assistance
+alongside a financial voucher were able to implement digital tools more effectively and demonstrated
+a greater willingness to invest their own resources beyond the grant. However, the overall impact of
+the scheme is constrained by the relatively small size of the financial assistance provided.
+
+Another relevant measure is a guarantee loan with a grant component launched in 2025 and available
+through various financial institutions, with the purpose of supporting investments to promote
+digitalisation and automation, as well as competitiveness and the green transition. The instrument has
+
+                                       11  Slovakia
+
+
+
+been well received by businesses, who consider  it well suited to support digital transformation
+because it mobilises substantial resources in connection with a medium- to long-term business plan.
+
+Slovakia also continued to support the operations of five European Digital Innovation Hubs (EDIHs).
+The EDIHs have provided valuable, tailored assistance to businesses at different stages of digital
+maturity and are perceived positively. However, their experience also highlights structural weaknesses
+in the business base and the wider ecosystem. Geographical and sectoral imbalances emerge, with
+digital readiness and investment appetite being generally stronger in the Bratislava and Košice regions,
+while the Prešov region tends to be less developed. Traditional firms also tend to be harder to attract,
+as they are often unaware of, or hesitant about, investing in digital solutions, making it more difficult
+to reach those most in need. Generally, IT providers are highly willing to cooperate within the EDIHs,
+but engaging end‑user SMEs is more challenging. Looking ahead, the continuation of EDIH activities is
+uncertain, as funding beyond May 2026 is not guaranteed, due to reallocations within Programme
+Slovakia and the absence of national co-funding.
+
+The limited availability of funding for digitalisation remains a persistent challenge, suggesting a
+need to expand existing support measures. Current schemes reach only a small share of the
+businesses that could benefit, and demand exceeds available resources. The long-term availability and
+potential for scale‑up of support schemes are constrained by limited national resources and heavy
+reliance on EU funding. At the same time, visibility and outreach could be improved, as many
+enterprises are either unaware of available programmes or unsure of their practical benefits.
+
+In parallel, the persistent shortage of relevant digital skills and ICT specialists represents a structural
+barrier to businesses’ ability to pursue digital transformation. Many SMEs lack personnel capable of
+understanding, specifying and managing digital transformation projects. The formal education system
+produces an insufficient number of ICT specialists, and relevant training, upskilling or reskilling
+opportunities for workers are limited. Industry representatives report that, while companies are
+generally willing to invest in training, only a small share uses existing courses. Such limited uptake
+could be due to a mismatch between training offer and business needs, alongside constraints on time
+and resources; as a result, most learning happens informally in the workplace.
+
+In this context, the ongoing ‘Digital Skills for a Green Future of Slovakia’ project is particularly relevant,
+as it aims to establish a standardised reference framework for assessing digital and green skills.
+Designed in cooperation with industry and experts, it is intended to align closely with business needs.
+As part of the project, conferences and seminars on automation, robotics and cybersecurity are
+organised to provide practical know‑how for strategic decision‑making. These activities represent a
+positive step forward, complementing other measures to support training within the digital transition
+(see section on ICT specialists and basic digital skills), but a corresponding expansion of the actual
+training offer will be needed to meet training needs.
+
+ 2025 recommendation on SMEs: Continue building on existing measures targeted at SMEs (e.g.
+ EDIHs, Digitrans), expanding their scope and pool of beneficiaries, while ensuring continued support
+ in the medium to long term.
+ In 2025, Slovakia continued the implementation of existing measures but did not apply any new
+ measures. Over recent years, Slovakia has pursued an approach aimed at tackling structural
+ challenges related to the digitalisation of its business sector, with a particular focus on SMEs. These
+ measures are generally well regarded by businesses – especially EDIHs and financial instruments
+ such as loans and grants – as they provide targeted support while requiring enterprises to develop
+ a medium‑ to long‑term plan. However, their scale and coverage remain limited: support still
+ reaches only a minority of potential beneficiaries and persistent regional disparities and skills
+
+                                       12  Slovakia
+
+
+
+ shortages are underlying challenges. Moreover, funding beyond the current programming period,
+ particularly for EDIHs, is uncertain due to limited national resources and continued heavy reliance
+ on EU funding. As a result, the system currently benefits only a relatively small share of businesses
+ and has not yet achieved the scale, continuity or visibility required to support digitalisation more
+ broadly across the economy in the medium to long term.
+
+
+Take up of advanced technologies
+
+Performance assessment
+The adoption of advanced digital technologies among Slovak businesses improved in 2025,
+especially as concerns the use of AI and data analytics. In these technologies, Slovakia demonstrated
+stronger growth rates than the EU average, although overall uptake among Slovak businesses remains
+lower than at EU level. A relatively weaker improvement was registered in the use of cloud
+technologies. Following a similar trend as their EU peers, the degree of adoption of advanced
+technologies is considerably higher among large enterprises than among SMEs.
+
+AI uptake saw the most substantial increase, with 18.0% of Slovak enterprises adopting AI in 2025.
+This figure remains slightly below the EU average of 19.95% but underwent a strong growth rate of
+67.0% since 2024, which is higher than the EU's growth rate of 48.0%. This means Slovakia is on track
+with the trajectory presented in its Digital Decade national roadmap. In 2024, the adoption rate in
+Slovakia was 10.78%, compared to the EU average of 13.48%. Looking specifically at SMEs, 16.91%
+adopted AI in 2025. While this was below the EU average of 18.9%, Slovak SMEs underwent a stronger
+improvement of 69.1% since 2024, compared to the EU’s 49.5%. For large enterprises, 43.74% had
+adopted AI in 2025, below the EU average of 55.03%, but with a growth rate of 50.3%, above the EU’s
+growth rate of 33.7%.
+
+Data analytics adoption also showed robust progress, with 38.75% of Slovak enterprises adopting
+data analytics in 2025. While this figure is lower than the EU average of 39.85%, it reflects an annual
+growth rate of 13.3% since 2023, above the EU’s growth rate of 9.5%. The country is on track
+according to the trajectory presented in its Digital Decade national roadmap. In 2023, the adoption
+rate in Slovakia was 30.17%, compared to the EU average of 33.25%. Specifically, 37.28% of Slovak
+SMEs had adopted data analytics in 2025, with an annual growth rate of 14.2%, again outpacing the
+EU’s growth rate of 9.7%. Nevertheless, this figure is below the EU average of 38.59%. For large
+enterprises, 73.63% adopted data analytics in 2025, below the EU average of 82.03%, and experienced
+a lower growth rate of 3.6%, compared to the EU’s 6.9%.
+
+As opposed to AI and data analytics, the uptake of cloud technologies experienced limited progress.
+32.92% of Slovak businesses adopted cloud solutions in 2025, with an annual growth rate of 4.5%.
+Cloud technologies adoption is thus considerably lower than the EU average of 46.69%. As such,
+Slovakia  is lagging behind compared to the trajectory presented in  its Digital Decade national
+roadmap. The EU's growth rate was also higher at 9.5% annually since 2023. In 2023, the adoption
+rate in Slovakia was 30.16%, compared to the EU average of 38.97%. For SMEs, 31.81% adopted cloud
+technologies in 2025. This figure is below the EU average of 45.74% and experienced a lower growth
+rate of 4.6%, compared to the EU’s 9.7%. Meanwhile, 59.2% of large enterprises adopted cloud
+technologies in 2025, with a growth rate of 2.3%, which is lower than the EU’s growth rate of 6.0%.
+This figure is also significantly lower than the EU average of 78.32%.
+
+Taking the adoption of AI, cloud, or data analytics technologies together, 55.12% of Slovak
+enterprises engaged with at least one of these technologies in 2025, While experiencing an annual
+
+
+                                       13  Slovakia
+
+
+
+growth rate of 9.8% between 2023 and 2025 – higher than the EU’s 7.5% – overall uptake is below
+the EU average of 63.2%. In 2023, the adoption rate in Slovakia was 45.76%, compared to the EU
+average of 54.7%. Among SMEs, 53.74% adopted at least one of these technologies in 2025, below
+the EU average of 62.32%. However, Slovak SMEs experienced an annual growth rate of 10.2% since
+2023, which is higher than the EU’s growth rate of 7.7%. Conversely, large enterprises experienced a
+slightly lower annual increase of 3.1% in uptake of AI, cloud or data analytics compared to the EU
+average of 3.4%. While the vast majority (87.93%) of Slovak large enterprises adopted at least one of
+these technologies in 2025, this figure is still slightly below the EU average of 92.78%.
+
+
+
+
+
+Policy context and assessment of recommendations
+Slovakia  is working to create an environment conducive to the development and uptake of
+advanced digital technologies, with particular emphasis on promoting AI and building an ecosystem
+for HPC. In doing so, it is seeking to balance this ambition with support for the digitalisation of less
+digitally mature enterprises - especially SMEs (see section ‘SMEs with at least basic digital skills’),
+which represent over 99% of all Slovak enterprises – as many still need to make significant progress in
+basic digital capabilities before they can effectively adopt advanced technologies. Many SMEs
+continue to rely on simple accounting software and fragmented processes, and they often face
+uncertainty or lack of understanding around data protection, the use of AI tools and basic
+cybersecurity. A shortage of ICT specialists and limited digital skills across the wider workforce further
+slows the transition to more advanced solutions.
+
+In December 2025, the Ministry of Investments, Regional Development and Informatisation (MIRRI)
+presented a ‘Vision for Artificial Intelligence in Slovakia’ (Vízia AI pre Slovensko) as the basis for a
+forthcoming national AI strategy, setting out a strategic framework for AI adoption built on energy
+efficiency, digital sovereignty and safety. Complementing this initiative, the Slovak Centre for Artificial
+Intelligence Research is leading related work, including preparatory activities on the national AI
+strategy, an AI sandbox, an AI popularisation campaign and an online AI information point, supported
+by targeted funding from MIRRI. Overall, the policy approach aims to create a structured, predictable
+environment in which businesses can gradually experiment with and adopt AI in a secure and legally
+compliant manner. It is important to foster the careful and well-informed integration of AI into
+business operations, ensuring that its use is meaningful and sustainable. At the same time, significant
+work is still needed to strengthen education and awareness on AI, enabling businesses to assess safe
+
+                                       14  Slovakia
+
+
+
+and ethical uses and to understand how existing regulations, particularly the AI Act, should be
+implemented.
+
+Slovakia has also been selected to receive EU funding for an AI antenna (‘SKAIAT’), linked to AI:AT, the
+AI Factory in Austria. This AI Factory Antenna aims to enhance cross-border innovation and scientific
+excellence, accelerate the development and deployment of trustworthy AI solutions in Central Europe,
+foster interdisciplinary collaboration and industry-academia partnerships, and contribute to the
+European ecosystem for human-centric and sustainable AI.
+
+Slovakia is strengthening its role in HPC, with new national supercomputing infrastructure becoming
+operational and further systems planned. The high-performance computer Devana was installed at
+the Slovak Academy of Sciences in 2023 and is used primarily by researchers and scientists for tasks
+such as climate and environmental modelling, materials science, bioinformatics, and the development
+and testing of machine learning models. Between 2025 and 2026, Slovakia launched its first
+supercomputer, Perun, distributed across two sites: the Technical University in Košice, whose system
+was launched in late 2025, and the Slovak Academy of Sciences, whose system became operational in
+March  2026.  Together,  the  supercomputing  systems  are  intended  to  provide  integrated
+infrastructure-support tasks, such as large-scale simulations, climate modelling and AI training.
+
+The positive impact of Slovakia’s HPC infrastructure hinges on sustained operational funding,
+effective user support, and the successful translation of infrastructure into real-world use going
+beyond research and academia. To secure these outcomes, large-scale support for such advanced
+technologies should be anchored in a long-term plan, setting measurable milestones to validate its
+value and viability over time. Current projections, including estimates from the Slovak Academy of
+Sciences, underscore the  scale  of  this commitment, with annual operational  costs  for the
+supercomputer alone reaching approximately EUR 1.7 million.
+
+Against this backdrop, Slovakia’s AI ecosystem can build on the resources, infrastructure and
+expertise already present in the country. The AI Factory Antenna provides an initial framework for
+coordination,  cross-border  collaboration and knowledge  transfer,  while  the expanding HPC
+infrastructure strengthens national capacity for compute-intensive research and AI development.
+Together, these assets create a basis for linking scientific excellence with industrial uptake, skills
+development and wider deployment across the economy. Slovakia’s energy resources, particularly
+nuclear power, may also represent a relevant enabling factor in supporting the long-term operation
+of compute-intensive AI and HPC infrastructure.
+
+ 2025 recommendation on AI, Cloud and Data analytics: Accelerate the implementation of planned
+ measures, prioritising solutions that limit administrative burden and ensure transparency. In
+ particular, continue supporting the uptake of AI across businesses and in the public administration,
+ addressing existing informational and managerial barriers.
+
+ In 2025, Slovakia made some efforts to address the recommendation through new policy actions
+ supporting AI uptake, particularly through the ‘Vision for  Artificial Intelligence in Slovakia’,
+ preparatory work on a national AI strategy, and targeted initiatives to support the understanding
+ and uptake of AI technologies. However, ongoing measures remain at an early and preparatory
+ stage, hence their full impact can only be assessed in the longer term.
+
+ The uptake of advanced technologies, especially AI and data analytics, experienced a solid increase,
+ but adoption levels in Slovakia still lag behind the EU average. While continuing to strengthen
+ uptake, it will be important to guide the use of such technologies, especially AI, in a way that is
+
+
+
+                                       15  Slovakia
+
+
+
+ meaningful and adds real value to the economy, accompanied by continued training and
+ awareness‑raising among the business population.
+
+ Significant progress has been made in developing an HPC ecosystem, which is expected to be
+ valuable for research and academia in particular. However, it will be crucial to secure stable
+ long‑term operational funding and the necessary supporting infrastructure, so that investments
+ translate into sustained, practical benefits.
+
+ Overall, persistent basic digitalisation gaps and skills shortages, especially among SMEs, continue
+ to constrain the broader uptake of advanced technologies, underlining the need for enterprises to
+ reach a basic level of digital maturity before they can fully benefit from AI, HPC and other advanced
+ tools.
+
+Unicorns, scale-ups and start-ups
+
+Performance assessment
+
+At the beginning of 2026, Slovakia had yet to see the emergence of any unicorn companies. This
+means that the country is lagging behind the trajectory presented in its Digital Decade national
+roadmap, which anticipated the emergence of one unicorn by 2025.
+
+Policy context and assessment of recommendations
+Slovakia’s start-up and scale-up ecosystem is relatively small and marked by structural weaknesses.
+Venture capital  is limited (0.016% versus EU average of 0.063% of GDP in 2024), and this  is
+compounded by weak access to first customers and the reluctance of large companies to work with
+start-ups, making proof-of-concept development and scaling particularly difficult. According to the
+Startup Report Slovakia 2025 compiled by SLSP and Civitta – based on a survey of 183 start-ups and
+41 investors from across Slovakia – key shortcomings include poor access to investors, complex
+financing conditions, and a lack of state support. As a result, half of the surveyed start-ups are planning
+to leave the country.
+
+Public support for start-ups and scale-ups is close to absent. Recent support measures are relatively
+small in scale. They include MIRRI’s efforts to develop a functional GovTech market through the
+‘Hacknime.to’ initiative, which has organised six hackathons and produced nine winning start-up
+solutions. These solutions were then able to progress to the implementation stage, with the public
+administration acting as a reference client. MIRRI is also co-financing five EDIHs, which provide access
+to testing infrastructure, and is preparing an AI Regulatory Sandbox in cooperation with the national
+Centre for Artificial Intelligence. Public support has additionally enabled 15 Slovak start-ups to
+participate in international events, enhancing their visibility and access to investors. On the other
+hand, the plan to establish a European Institute of Innovation and Technology (EIT) office in Slovakia,
+included in the 2024 adjustment of Slovakia’s Digital Decade roadmap, has been abandoned.
+
+At the academic level, the Slovak University of Technology has developed a University Technology
+Incubator (InQb) that supports students and graduates in developing business ideas into start-ups and
+connects them with investors, corporates, and the wider innovation system, potentially offering a new
+pathway for nurturing start-ups.
+
+Overall, the absence of stable, dedicated instruments for start-up investment, combined with the
+small size of the domestic market, means that many Slovak start-ups still view international relocation
+as a necessary step for scaling.
+
+
+
+                                       16  Slovakia
+
+
+
+ 2025 recommendation on Unicorns: Expand existing measures aimed at supporting the growth of
+ scale-ups and start-ups that drive innovation and invest in emerging technologies
+ In 2025, Slovakia made some efforts to address the recommendation through new policy actions.
+ The country undertook a few small-scale initiatives to support the growth of start-ups and scale-
+ ups. However, such initiatives are insufficient to address the structural weaknesses of the start-up
+ and scale-up ecosystem, which remains modest.
+
+Strengthening cybersecurity and resilience
+
+Slovak enterprises are lagging slightly behind their EU peers in the implementation of cybersecurity
+measures, with 51.96% of enterprises applying at least five cybersecurity measures in 2024 (out of
+11 measures as measured by Eurostat), lower than the EU average of 56.85%. Gaps with respect to EU
+levels are particularly pronounced in maintaining log files for analysis after security incidents (38.73%
+in Slovakia compared to 45.16% in the EU) and data backup to a separate location (including backup
+to the cloud) (73.17% in Slovakia compared to 79.23% in the EU). On the other hand, a larger share of
+Slovak enterprises (43.19%) uses encryption techniques for data, documents or emails compared to
+the EU average (39.72%). Slovakia also recorded one of the lowest shares of enterprises reporting ICT
+security incidents in 2024, at just 12%, with the EU average of around 22%.
+
+A shortage of cybersecurity specialists in the Slovak labour market negatively affects both the public
+administration and the private sector. At the same time, prevention measures within the broader
+population are insufficient, pointing to low awareness of cybersecurity risks. In 2025, 66% of Slovak
+citizens reported using digital safety measures, such as checking website security or reading privacy
+statements before sharing personal data, compared with an EU average of 74.6% (Eurostat). A public
+opinion survey by the Cybersecurity Competence and Certification Centre of the Slovak Republic
+(1 000 respondents) also showed that many residents underestimate cybersecurity risks and apply
+only limited security practices: 66% use the same password for multiple accounts, 60% do not use
+multi-factor authentication, over 50% do not perform basic backups, and awareness of concepts such
+as ransomware and phishing remains low. At the same time, according to the 2026 Digital Decade
+Eurobarometer results, 93% of Slovaks believe that, over the next 10 years, the EU should cooperate
+with the Member States to reinforce cybersecurity and protection from online threats (EU 91%).
+
+Slovakia is implementing a range of measures to strengthen cybersecurity in public administration,
+mainly funded through the RRF and Programme Slovakia. MIRRI has launched calls worth over EUR 40
+million, enabling more than 100 public organisations to improve security monitoring, standardisation,
+training, and  critical infrastructure protection based on  risk analyses. Key  initiatives include
+establishing sector-based security operations centres, making critical infrastructure more secure, and
+improving cybersecurity skills and awareness among students and public sector employees. The
+Central Cybersecurity Portal, launched in 2025, serves as the official cybersecurity support platform
+across public institutions, acting as a central hub with tools, guidelines and educational resources for
+public authorities. Upcoming plans include a national project to help smaller municipalities implement
+shared security services and access expert support. These measures, together with inspection
+activities and growing international cooperation, are framed by the new National Concept of
+Informatisation of Public Administration, which prioritises compliance, resilience, awareness, training
+and stronger coordination among key security actors. Through the RRF, Slovakia is also integrating 930
+critical IT systems into a central incident management and early warning system, supported by new
+technologies, a threat catalogue and a cybersecurity management methodology, to be  fully
+implemented by 30 June 2026.
+
+
+                                       17  Slovakia
+
+
+
+The government’s computer security incident response team (CSIRT) handled several incidents in 2025
+and proactively scans the infrastructure of more than 300 public bodies for vulnerabilities, with the
+long-term aim of covering 800 entities, while monitoring domain availability and providing threat
+intelligence. However, room for improvement in strengthening incident detection capabilities and
+structured incident reporting remains. In February 2026, the Slovak government approved the new
+National Cybersecurity Strategy for 2026-2030, intended to function as a ‘strategic compass’ for
+cybersecurity by strengthening infrastructure resilience, governance and coordination, ensuring
+alignment with EU rules and enhancing preparedness for future technologies. The strategy will be
+further operationalised by an action plan for 2026-2030 specifying implementation tasks for central
+state bodies.
+
+ 2025 recommendation on cybersecurity: Continue ongoing efforts to strengthen cybersecurity,
+ while also allowing the appropriate authorities to enforce prompt and necessary actions to mitigate
+ identified threats or weaknesses.
+ In 2025, Slovakia continued the implementation of existing measures but did not take any new
+ measures. The country maintained ongoing and planned efforts to strengthen the cybersecurity of
+  its public administration and improve the prompt mitigation of threats.
+
+ However, cybersecurity maturity and compliance in public sector organisations is still sub-optimal,
+ compounded by legacy systems and vendor lock-in, and room for improvement exists in incident
+ detection and reporting. As a result, although the strategic direction and core capacities are taking
+ shape, the ability to ensure timely and systematic mitigation of threats and vulnerabilities across
+ the entire public administration is still only partially in place.
+
+ Moreover, society-wide cybersecurity remains constrained by persistent human‑factor risks, low
+ awareness and poor digital hygiene, as well as a shortage of qualified cybersecurity specialists in
+ both the private and public sectors.
+
+ Going forward, there  is room  for  increasing Slovak research  institutions and companies’
+ participation in the Horizon Europe cybersecurity  call, based on targeted interventions and
+ including dedicated national co-funding initiatives, ENISA partnership programmes or partnerships
+ between universities and industry.
+
+
+
+
+
+                                       18  Slovakia
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Equipping people with digital skills
+
+Basic digital skills
+Performance assessment
+Slovakia shows promising growth in digital skills among young adults, but it lags behind the EU in
+overall digital proficiency, particularly in rural areas and among older adults.
+
+In 2025, 53.56% of individuals aged 16-74 had least basic digital skills, following an increase of 2.2%
+annually since 2023, when the figure was 51.31%. This places Slovakia below the EU average, which
+rose from 55.56% in 2023 to 60.40% in 2025, reflecting an annual growth rate of 4.3%. The country is
+lagging behind the trajectory presented in its Digital Decade national roadmap.
+
+On a positive note, 80.53% of young adults aged 16 to 24 in Slovakia have at least basic digital skills,
+surpassing the EU average of 74.55 and experiencing a stronger annual growth rate (6.8% compared
+to the EU’s 3.2%). However, the gap between this age group and those aged 55 to 74 is considerable
+at 50.01 percentage points, much higher the EU average (31.95 percentage points). Among older
+adults aged 55 to 74, only 30.52% possess at least basic digital skills, which is lower than the EU
+average of 42.6%, and growing at a slower pace (2.4% since 2023, below the EU’s 7.2%).
+
+While in the urban areas of Slovakia the proportion of individuals with at least basic digital skills is
+broadly in line with the EU average (66.87% in Slovakia compared to 66.50% at the EU level) and an
+annual growth rate of 4.0% (exceeding the EU’s 3.1%), the challenge is more evident in rural areas.
+In these areas, only 45.59% of individuals have at least basic digital skills, compared with an EU average
+of 52.83%, having experienced a slower-than-EU-average annual growth rate (1.8% vs 5.5%) since
+2023.
+
+A gender gap also exists, with more men (55.4%) than women (51.75%) possessing at least basic
+digital skills. This gap is wider than the EU average of 2.75 percentage points. In terms of growth since
+2023, Slovakia’s male population saw an annual increase of 2.6%, while the female population
+experienced a slower growth rate of 1.7%, both of which are below the EU averages of 4.4% for men
+and 4.1% for women.
+
+Following a similar trend at the EU level, fewer individuals with lower education tend to have at
+least a basic level of digital skills. Among Slovaks with no or low formal education, 43.92% have at
+least a basic digital skills attainment level, which is about 10 percentage points lower than the national
+average, but higher than the EU average of 37.56% for this group. Slovakia’s growth rate in this
+category is notably high at 16.6% annually since 2023, surpassing the EU’s 5.7%.
+
+In terms of digital safety skills, 66.05% of individuals in Slovakia reported taking actions to protect
+their personal data online in 2025, which is lower than the EU average of 74.63%. The annual growth
+rate for this indicator is 1.7%, below the EU’s 3.6%.
+
+
+                                       19  Slovakia
+
+
+
+In 2025, 30.79% of people in Slovakia used generative AI for all purposes, slightly below the EU
+average of 32.66%. For professional purposes, 10.95% of people in Slovakia used generative AI, which
+is lower than the EU average of 15.36%. Notably, based on the results of the Digital Decade
+Eurobarometer 2026, the biggest obstacles to use or greater use of generative AI tool in the Slovak
+public’s personal, working or education lives include concerns about privacy or data protection (39%,
+EU 39%), concerns about inaccuracy or incorrect information (35%, EU 36%), and concerns about
+potential job losses due to generative AI tools (31%, EU 28%).
+
+
+
+
+
+In 2025, 60.23% of individuals in Slovakia were exposed to untrue or doubtful content, standing
+above the EU average of 55.90%, following an annual increase of 5.5% since 2023 (lower than the
+EU’s 6.5%). Trends across age groups reveal higher exposure among younger individuals, with 76.82%
+of 16- to 24-year-olds being exposed to such content in 2025, compared to 62.66% of those aged 25
+to 64. This represents a gap of 14.16 pp. between the two age groups, which is significantly higher
+than the EU average gap of 7.77 pp. Notably, Slovakia’s growth rate for the younger age group (7.0%)
+exceeds that of the EU (3.7%), while the growth rate for the older age group (4.0%) is lower than the
+EU’s (6.4%).
+
+For fact-checking, Slovakia ranked above the EU average (29.16%) in 2025, with 33.6% of individuals
+verifying the truthfulness of online content. However, Slovakia’s annual growth rate of 6.2% is lower
+than the EU’s 9.6%. Looking at behaviour across age groups, a positive trend emerges among younger
+people, with 45.24% of individuals aged 16 to 24 in Slovakia having verified online content in 2025,
+compared to 35.81% of those aged 25 to 64. This represents a gap of 9.43 pp., slightly higher than the
+EU average gap of 9.09 pp. However, the share of 16-24-year-olds verifying the truthfulness of online
+content remained stable since 2023 (-0.6% annual growth rate), as opposed to an annual increase of
+6.7% at EU level. While stronger than for young people, the growth rate for the older age group (7.1%)
+is also lower than the EU’s (9.9%).
+
+The data reveals a concerning trend in the share of individuals exposed to hostile or degrading
+messages, which reached 51.99% in 2025, considerably above the EU average of 39.72%, after an
+
+
+                                       20  Slovakia
+
+
+
+increase of 3.2% annually since 2023. Significantly higher exposure rates were registered among young
+people: 64.39% of individuals aged 16 to 24 in Slovakia were exposed to hostile or degrading messages
+in 2025, compared to 54.24% of those aged 25 to 64. This represents a gap of 10.15 pp., which is
+slightly lower than the EU average gap of 11.85 pp. However, Slovakia’s growth rate for the younger
+age group (2.5%) is lower than that of the EU (5.6%), and the growth rate for the older age group
+(2.3%) is also lower than the EU’s (9.2%).
+
+Overall, Slovakia consistently reports higher percentages of individuals exposed to untrue or
+doubtful content, as well as hostile or degrading messages, compared to the EU averages. However,
+the annual growth rates for these issues in Slovakia are generally lower than those observed at the EU
+level. Younger individuals (aged 16 to 24) are more likely to be exposed to these online risks but are
+also more likely to verify the truthfulness of online content compared to older adults (aged 25 to 64).
+
+
+
+
+
+Policy context and assessment of the recommendations
+Positive trends are emerging in the digital skills of young people in Slovakia, but the overall picture
+remains mixed.
+
+Lack of sufficient digital competencies within the working-age population constitutes a key
+challenge, undermining the workforce’s digital capabilities and its capacity to support businesses’
+digital transformation. In this context, the low proportion of individuals with above-basic digital skills
+(21.16% versus an EU average of 31.43%) points to a limited baseline of digital literacy across the
+population, which can constrain businesses’ ability to adopt digital tools at scale and increases reliance
+on employer-provided training. A better understanding of the potential and use of digital technologies
+is also needed at managerial level to effectively steer business digitalisation.
+
+The education system as a whole faces several challenges that are reflected in the way digital skills
+are taught and acquired. Slovakia is experiencing a shortage of teachers, particularly STEM subjects
+(science, technology, engineering, and mathematics). This shortage is more pronounced in regions
+with high living costs and in rural areas, where securing stable staffing is especially difficult. The
+resulting territorial imbalances contribute to differences in the quality of education provided to
+students. At the same time, the existing teaching workforce’s levels of digital proficiency vary from
+
+
+                                       21  Slovakia
+
+
+
+institution to institution and are sometimes insufficient, affecting teachers’ ability to integrate digital
+skills effectively into the curriculum and to support the development of students’ technological
+capabilities. Students from disadvantaged backgrounds often have weaker basic skills and face
+particular barriers to acquiring the digital skills they need, due to challenges in accessing basic tools
+and high-quality education.
+
+A range of measures is in place to respond to these issues, but improvements in digital skills take
+time to materialise. Ongoing efforts to promote digital competence development within the
+education system largely stem from the curriculum reform, which is being progressively rolled out and
+embeds digital citizenship and digital skills more comprehensively across education levels. In the
+2024/2025 school year, the national curriculum was expanded to over 400 primary schools and
+complemented by the implementation of RRF investments in equipment and high-speed connectivity.
+The systematic professionalisation of the digital coordinator role in schools is intended to provide
+teachers with hands-on technical and methodological support for incorporating digital skills into their
+teaching practice. Specialised training modules seek to enhance educators’ digital competencies and
+pedagogical skills, particularly in relation to using digital tools across different subjects. In parallel,
+efforts are under way to integrate AI in education, through the Plan for Responsible Use of AI in
+Education 2025-2027 and the provision of 20 000 ChatGPT Edu licences for teachers training.
+
+Slovakia continues to support the IT Fitness Test, the largest digital competence testing initiative in
+the Visegrád Group, which reached its 15th edition in 2025. The IT Fitness Test is a free online
+assessment tool, covering four main categories: (i) internet; (ii) security and computer systems; (iii)
+office tools; (iv) social networks and collaborative tools. In 2025, a new test – the IT Master Test – was
+introduced to assess advanced digital skills, covering encoding information; complex security tasks;
+complex search tasks; and algorithmic thinking. In 2025, in Slovakia, 18 616 primary school students
+(7-16) participated, achieving an average success rate of 55.09%; 923 primary school teachers took
+the test, with a success rate of 68.57%. In turn, 37 458 high school and university students (over 15)
+took the test, with a success rate of 58.69%, while 3 519 high school and university teachers
+participated, reaching a success rate of 67.98%. The best results of participating students were
+achieved in the category of ‘security and computer systems’, followed by the ‘internet’ category. The
+worst performing category was that of ‘office tools’. The results of the test suggest that Slovak
+students perform well in identifying security risks and can easily search for information, but they
+demonstrate limitations in finding connections, solving unknown situations, working in a team and
+understanding texts and data. Meanwhile 1 942 respondents participated in the IT master test. Of
+these, students (1 679) achieved a success rate of 60.4%, whereas teachers (263) achieved a success
+rate of 73.02%.
+
+Slovakia also designed measures for the digital inclusion of disadvantaged groups. In 2025, vouchers
+for the purchase of digital equipment were distributed to over 130 000 students, with a parallel
+scheme providing digital equipment vouchers to 9 300 Ukrainian students resident in Slovakia. In the
+first half of 2025, consultations were launched with representatives of municipalities and the
+non‑profit sector to identify needs at the local level, with particular attention on young people living
+in excluded communities. These consultations will result in a comprehensive analysis of the digital
+literacy needs of marginalised Roma communities, and the findings will feed into the tasks envisaged
+under the Action Plans of the Roma Equality, Inclusion and Participation Strategy 2030 (2028-2030).
+Specific measures also target seniors, combining training and outreach activities with the distribution
+of equipment.
+
+
+
+                                       22  Slovakia
+
+
+
+The issues of online safety and disinformation are gaining increasing importance in Slovakia.
+Perceptions reported in the Digital Decade Eurobarometer 2026 results show that 92% of Slovaks (EU
+92%) consider it a priority for the EU to strengthen the protection of children and young people online.
+Moreover, 89% of citizens in Slovakia believe that online manipulation (such as disinformation, foreign
+interference, AI-generated content, deepfakes) poses a threat to democratic processes (EU 87%). In
+turn, in the context of the enforcement of EU legislation on the behaviour of online platforms, such as
+social media and online marketplaces, the issues that Slovaks feel have the biggest personal impact
+on them are fake news and disinformation (57%, EU 53%), misuse of personal data (51%, EU 47%),
+and insufficient protection of minors (41%, EU 41%).
+
+Against this background, Slovakia is taking practical steps on online safety, with a focus on children’s
+safety. In 2026, MIRRI prepared a first draft of a specific law on protecting children in the digital space,
+aimed at setting clear and enforceable rules for safer online services. To combat disinformation, MIRRI
+supported a 2025 call by the Slovak Digital Coalition to fund activities that help prevent the spread of
+false information, identity abuse and organised disinformation campaigns. The call focused on
+awareness‑raising, media and digital literacy, critical thinking skills and encouraging trust in quality
+journalism. With EUR 200 000 available and 70 applications submitted requesting almost EUR 1.4
+million, the  initiative highlighted both demand among organisations and the perception that
+disinformation is a significant issue requiring more systematic responses.
+
+ 2025 recommendation on basic digital skills: Continue implementing existing measures to enhance
+ the level of digital skills across all population groups, while ensuring that all educators possess
+ adequate training, especially IT and mathematics teachers.
+ In 2025, Slovakia continued to implement existing measures to promote the acquisition of basic
+ digital skills but did not adopt any new measures. The implemented measures largely stem from
+ the Implementation of the National Digital Skills Strategy 2023-2026 and its action plan, which have
+ largely been successfully delivered. Ongoing and past initiatives targeted all population groups, with
+ a particular focus on vulnerable groups (people from disadvantaged socio-economic backgrounds
+ and seniors), as well as students and teachers more broadly. While outcomes among young people
+ (16-24) are positive, performance still varies markedly by living area, age, educational attainment
+ and gender. Ensuring sustained digital skills development across society – and addressing structural
+ weaknesses in the wider education system – will take time to fully materialise. At the same time,
+ greater emphasis should also be placed on the working-age population, who are essential to
+ supporting businesses’ digital transformation.
+
+
+ICT specialists
+Performance assessment
+In Slovakia 4.4% of those in total employment are ICT specialists in 2025, which is below the EU
+average of 5.0%. This follows a slight decrease of 4.3% from 4.6% in 2024. Women represent 15.5%
+of ICT specialists, below the 19.5% EU average, and one of the lowest shares in the EU. Nonetheless,
+Slovakia is on track with the trajectory presented in its Digital Decade national roadmap.
+
+Policy context and assessment of the recommendations
+Slovakia’s labour market faces significant ICT skills shortages, particularly of highly skilled experts
+such as programmers, IT architects, cybersecurity specialists and data analysts, as reported by the
+Ministry of Labour. These skills gaps represent a key challenge for the Slovak economy, and have a
+direct impact on competitiveness and innovation. They form part of wider skills gaps in the labour
+market, largely driven by delayed responses of the education system to labour market needs, regional
+disparities and limited flexibility in qualification pathways.
+
+                                       23  Slovakia
+
+
+
+With an inter-ministerial approach, Slovakia is making efforts to reform curricula and enhance the
+quality of studies in STEM fields, to increase the number of graduates in ICT study programmes at
+secondary vocational schools, specialised grammar schools, and higher education institutions.
+Positively, the share of ICT graduates increased by 10.4% between 2023 and 2024, reaching 5.3% in
+2024. Notably, according to national level data, enrolments in ICT-focused programmes rose by 1 948
+students between the 2021/2022 and 2024/2025 academic years, while tertiary enrolments in ICT
+programmes having risen by 747 students between 2022/2023 and 2024/2025. Despite this positive
+trend, a shortage of relevant skills persists, with graduate numbers being insufficient to meet labour
+demand. Moreover, Slovakia experiences substantial student outflow to higher education abroad,
+with many students not returning to Slovakia’s labour market, with particularly low return rates
+among IT graduates.
+
+At the same time, companies struggle to train employees due to constraints related to funding and
+time, as well as the limited suitability of available training. According to industry representatives,
+although firms report interest in investing in skills, most training occurs on the job, pointing to a
+shortage of agile, tailored options and concerns over staff retention after upskilling. The ‘Digital Skills
+for a Green Future of Slovakia’ project is an important first step. The project mapped green and digital
+skills profiles in close collaboration with businesses, providing a useful tool to identify training needs;
+however, the training offer needs to be expanded and made more flexible to support upskilling and
+reskilling at scale.
+
+Various measures have been put in place in recent years to support the digital transition of the
+labour force. The ‘Activation of Young NEETs for the Digital Age’ project assesses young people’s
+digital skills and then provides tailored training to support their transition into suitable careers. In
+parallel, the ‘Support for Workforce Adaptation to the Digital Transformation of the Labour Market’
+project helps workers adjust to digital change through awareness raising, capability assessments and
+individual career coaching; both projects are due to end in 2027. In addition, the national ‘Skills for
+the Labour Market’ project seeks to boost the employability and adaptability of jobseekers – especially
+those under 30 – by offering retraining and education geared towards roles most in demand in AI,
+digitalisation and the green transition. However, while these measures contribute to improving digital
+skills among the general population and supporting labour market participation, their focus remains
+predominantly on basic and intermediate skills. As such, their direct contribution to addressing the
+shortage of ICT specialists in the Slovak economy is likely to be limited, as they do not primarily target
+the development of highly specialised ICT profiles.
+
+Women are also under-represented in the ICT sector, accounting for only 15.5% of ICT specialists.
+The 2025 ‘Women in IT’ survey by the civic association Aj Ty v IT, based on a sample of 800 women,
+reveals the existence of a pool of women in the Slovak labour market who are interested in developing
+digital skills and entering the ICT sector. However, key obstacles include limited training offers by
+businesses, financial and time constraints, and fear of failure. Women more broadly face structural
+barriers related to education pathways, career orientation, and workplace conditions that limit their
+entry, retention, and progression in the sector.
+
+Efforts are under way to promote women’s participation in ICT studies and careers. For example,
+the ‘Digitálna Strelka’ platform, launched in April 2025, provides girls, parents and teachers with
+structured information on ICT professions, study pathways, career opportunities and required skills.
+Through long-term cooperation with non-profit organisations, the Slovak government also supports
+educational and motivational activities for girls at different stages of education, such as coding camps,
+career events, workshops and programming competitions. Other initiatives include the annual
+
+                                       24  Slovakia
+
+
+
+European Day for Women and Girls in ICT and Girls’ Day visits, aimed at strengthening girls’ interest,
+confidence and preparedness for further studies and careers in ICT.
+
+ 2025 recommendation on ICT specialists: Ensure ICT studies are sufficiently offered and promoted,
+ in line with labour market needs, as well as provide opportunities for workers to access lifelong
+ learning and reskilling/upskilling programmes in this area.
+ In 2025, Slovakia made some efforts to address the recommendation through new policy actions.
+ The country largely carried on with planned and ongoing efforts to strengthen its pool of ICT
+ specialists, including a focus on fostering the participation of women in ICT career paths. Some new
+ initiatives were launched, such as the annual European Day for Women and Girls in ICT, Girls’ Day
+  visits, and the Scratch Match programming competition, aimed at strengthening girls’ interest,
+ confidence, and preparedness for further studies and careers in ICT. Encouraging trends emerged,
+ such as a rise in student enrolment in ICT programmes. Nevertheless, the labour market still faces
+ a shortage of ICT specialists, alongside a broader need to raise digital skills across the workforce
+ and persistently low level of female participation in the ICT sector. While current measures are a
+ positive step towards equipping workers for the digital transition, they remain insufficient to meet
+ wider economy-wide labour demand for specialised ICT profiles.
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Performance assessment
+In 2025, Slovakia’s total digital public services score for reached 76.26 out of 100 points. This
+represents a 5.1% increase compared to 2024 but remains below the EU average of 84.64 points.
+Significant disparities exist between online service availability for national and cross-border citizens.
+When looking specifically at digital public services for national citizens, Slovakia reached 92.99 in 2025.
+This is only slightly below the EU average of 94.01, and marks a 3.1% increase from 2024. The digital
+public services for cross-border citizens, Slovakia’s 2025 score was 59.52, significantly lower than the
+EU average of 75.28. However, this does reflect an 8.2% increase on 2024. Overall, the country is on
+track with the trajectory presented in its Digital Decade national roadmap.
+
+Citizen-related life events that score particularly well include Starting a small claims procedure (91.67),
+Moving (90.00), and Transport (87.92). Conversely, Family (59.38), Health (60.00), and Career (64.58)
+show the most room for improvement. Across levels of government for national citizens’ digital public
+services, central government services scored 85.91/100 points, regional government services scored
+76.25/100 points, and local government services scored 64.17/100 points.
+
+Slovakia’s total digital public services score for businesses (covering both national and cross‑border
+businesses) was 73.86/100 points in 2025, standing below the EU average of 88.59/100 points. This
+represents a 0.6% increase from 2024. On the basis of these results, Slovakia is lagging behind the
+trajectory presented in its Digital Decade national roadmap.
+
+As for digital public services for cross-border citizens, online services for cross-border businesses lag
+significantly behind those for national businesses, with a score of 50.50/100 points in 2025. This
+reflects a 1.0% increase compared to 2024, but these results are well below the EU average of
+78.37/100 points. On the other hand, digital public services for businesses available to national users
+in Slovakia scored 97.21/100 points. This represents a 0.5% increase since 2024 and places the country
+only slightly below the EU average of 98.81/100 points. The business‑related life event scoring
+particularly well is Business Operations (82.5), whereas Business Start-Up (65.21) shows the most
+room for improvement.
+
+
+
+
+                                       25  Slovakia
+
+
+
+Across the two Digital Decade KPIs, Slovakia’s Digital Public Services for Citizens indicator performs
+better than its counterpart for businesses. This stronger performance is underpinned by digital public
+services for national citizens, which forms the most mature component of the KPI, even as digital
+public services for cross-border users remains less developed. Nonetheless, recent progress has been
+driven primarily by improvements in digital public services for cross-border users, reflecting positive
+momentum across the KPI.
+
+For access to e-Health records, Slovakia’s score remained unchanged in 2025 at 72.03, placing it
+below the EU average of 86.51 and among the lowest in the EU. However, the country is on track
+with the trajectory presented in its Digital Decade national roadmap.
+
+Looking at the underlying features of key online public services, a mixed picture emerges for user-
+friendliness, efficiency and transparency. Slovak digital public services perform well in the availability
+of online support, help features and feedback mechanisms, achieving a stable score of 85.19 in 2024
+and 2025 (compared with an EU average of 88.75 in 2024 and 90.01 in 2025). In addition, almost all
+Slovak e-Government websites are mobile-friendly: Slovakia scores 98.01 for the share of services that
+adapt to smartphone and tablet screens, outperforming the EU average of 97.35 in 2025.
+
+In contrast, Slovakia scores relatively lower on transparency of service delivery, service design and
+personal data. The composite transparency score fell from 52.99 in 2024 to 50.23 in 2025, well below
+the EU average of 69.59 in 2025. The weaker performance is driven in particular by (i) a relatively low
+share of services that provide completion notifications and allow users to track progress (transparency
+of service delivery, scoring 31.05), and (ii) limited opportunities for users to manage personal data
+held by public authorities via government portals (transparency of personal data, scoring 36.30). At
+the same time, Slovakia performs better than the EU average on transparency of service design
+(scoring 83.33), reflecting the extent to which users are informed about and involved in policy and
+service design processes.
+
+Finally, only a relatively small proportion of Slovak e-Government services uses information previously
+submitted to trusted government websites to pre-fill online forms. The pre-filled forms indicator -
+which measures the proportion of administrative steps that present data already known to public
+administrations – stood at 57.47 in 2025 (down slightly from 60.83 in 2024), compared with the EU
+average of 75.93. This is particularly relevant given that pre-filling can significantly reduce the burden
+for users.
+
+Policy context and assessment of the recommendations
+In 2025, only 13.64% of Slovak citizens used electronic identification (eID) to access online services,
+compared with an EU average of 52.26%. This low performance comes despite Slovakia scoring 76.6
+for the availability of national eID logins to key digital public services, meaning that for most online
+services related to key life events, eID is already accepted as a valid form of identification. The low
+uptake may therefore be linked less to formal availability and more to factors such as user-friendliness,
+awareness, and the broader organisation of digital governance. On the other hand, Slovak authorities
+report high use of eID by businesses, as business statutory representatives are required to use eID for
+electronic communication with the public administration.
+
+Improvements have recently been introduced to improve the usability of eID. In 2025, two eID
+applications – eIdentita and eDoklady, both national mobile eID wallets notified under eIDAS – were
+launched. The applications are expected to improve user-friendliness by allowing onboarding without
+a card reader and enabling users to sign in or authorise documents simply by holding an NFC-
+compatible smartphone close to their government ID. Stakeholders view these changes as positive
+
+                                       26  Slovakia
+
+
+
+and user-friendly; however, the solutions remain difficult to set up, with clear guidance and awareness
+raising still missing.
+
+In parallel, Slovakia is working to improve its digital public services, with a focus on user-friendliness
+and consistency. A central element of this effort is the development of 16 digitalised priority life
+situations financed by the RRF, which will bundle all relevant online services around key life events.
+Delivery of the 16 life situations is expected by Q2 2026, together with six central components
+(developed by the National Agency for Network and Electronic Services under the overarching
+coordination of MIRRI), which are intended to be reused by all ministries participating in the life
+situations. The first concrete example will be the ‘school admission’ life situation, which was rolled
+out in February 2026 for secondary schools and in May for primary schools and kindergartens,
+following a successful pilot with 10 kindergartens in Bratislava.
+
+The life situations approach is intended to address long‑standing structural issues in Slovak e-
+Government, particularly fragmentation across available services. However, some bottlenecks
+remain. Discrepancies in technical solutions adopted by the ministries responsible for different
+services currently limit interoperability, create fragmented user journeys, and lead to inconsistent
+interfaces and, in some cases, outdated platforms. Although the life situation concept is strategically
+sound and aligned with user needs, its implementation has revealed limited coordination, steering
+and communication within and across ministries. Different authorities engage different providers for
+the technological solutions underpinning their life situations, creating additional layers of complexity,
+and procurement practices are not consistently guided by a clear whole-of-government ICT strategy
+or sufficiently supported by in-house capability. Such implementation issues are closely linked to a
+wider vendor lock-in and complexity problem in Slovak digital public service development, which
+constrains competition, increases costs and slows digital modernisation. These challenges are further
+compounded by turnover and  skills shortages in the public sector, including the outflow of
+experienced ICT specialists, which can weaken continuity and institutional memory on both the public
+and supplier sides.
+
+Against this backdrop, the approval in December 2025 of the National Concept of Informatisation of
+Public Administration for 2026-2030 is a positive step. The concept rests on three main pillars: (i)
+digital transformation of processes and competences in public administration, making full use of
+digital technologies; (ii) data-driven operation, using data for better decision-making, personalised
+digital services and the responsible promotion of AI in the public interest; and (iii) open e-Government,
+in which public authorities provide basic infrastructure and open interfaces (APIs) to selected services
+and data, enabling innovative services to be developed by both the public and private sectors. In
+parallel, MIRRI is developing beta.slovensko.sk, a modernised interface and structure for the central
+e-Government portal slovensko.sk. While the platform is still under development and the rollout
+timeline remains unclear, it is expected to support services covered by the 16 priority life situations,
+as well as a further nine life situations beyond the scope of the RRF-funded measure. In principle, this
+should contribute to a more coherent and user-friendly front end for the public and businesses.
+
+Stakeholders and experts in the field recognise the quality of the ideas and ultimate goals embedded
+in these and past strategies, but note persistent weaknesses in implementation, monitoring and
+evaluation. In past projects, key performance indicators have often not been tracked beyond the
+initial feasibility or project documentation phase, and there has been no systematic ex post
+assessment of impacts or benefits. In line with this, a need for increased transparency on ongoing
+investments  in e-Government emerged, which  could  help reduce  potential  duplication  or
+inefficiencies with existing infrastructure.
+
+                                       27  Slovakia
+
+
+
+According to the Digital Decade Eurobarometer 2026, 77% of Slovak citizens already consider that the
+digitalisation of daily public and private services is making their life easier (EU 73%). More efficient
+digital public services could contribute to strengthening this feeling further, supporting citizens and
+businesses in their administrative tasks.
+
+Slovakia is making slow progress towards achieving universal public access to electronic health
+records (EHRs) by 2030. Its score remains unchanged from 2024 and is still among the lowest in the
+EU. Key remaining barriers include the absence of a mobile application, the fact that geriatric homes
+do not supply data, and the lack of access for legal guardians and authorised persons. In addition, the
+online access service does not fully comply with web accessibility guidelines.
+
+Over recent years, Slovakia has made significant efforts to digitalise its healthcare systems. In 2025,
+progress in Slovak e-Health accelerated, especially in the digitalisation of healthcare processes and
+back‑office administration. However, the uptake of e-Health solutions among Slovak citizens remains
+low. According to the Slovakia Country Health Profile 2025 the use of digital tools for health falls below
+the EU average, particularly for booking appointments and accessing health records online. Notably,
+education level appears to be a significant factor, as individuals with higher education are two to more
+than three times more likely to use the internet for these activities than those with lower education.
+Ongoing developments may contribute to increasing use of digital healthcare solutions. Within the
+broader e‑Government agenda, work on the ‘health’ life situation entered its final phase, despite
+some delays. Once this life situation is fully implemented, significant time savings for the public and
+further improvements in interoperability are expected.
+
+Various services have moved from concept to real‑world use and are set to enhance digital health
+service  delivery. The eLab  service has expanded  its ecosystem  of  suppliers, strengthening
+interoperability and enabling authorised users to access laboratory results electronically in a more
+reliable way. eAgreements (eDohody) went  into production on 1 August 2025, streamlining
+contractual and administrative processes, reducing paperwork, and improving traceability through
+unified electronic processing. From 1 January 2026, electronic submission of certificates of temporary
+incapacity for work to health insurance companies was introduced and made mandatory for
+practitioners, which has supported increased use of e-Health services.
+
+Consideration is also being given to the safe integration of AI into healthcare. In 2019, Slovakia
+adopted its Strategy of Digital Transformation of Slovakia 2030, which recognises the potential of AI
+in healthcare. The National Health Information Centre Development Strategy 2026-2031 underscores
+the importance of high‑quality data as a foundation and envisages the use of AI to support operational
+processes and health and policy planning, rather than to replace human decision‑making. The Centre
+plans to ensure thorough development and testing of AI solutions, underpinned by strong human
+oversight, transparency and compliance with applicable regulations.
+
+ 2025 recommendation on digital public services: Increase the transparency and availability of
+ digital public services, particularly for cross-border users, including by enhancing the user-
+ friendliness, functionalities and uptake of the eID mobile app and Slovensko v Mobile app.
+ In 2025, Slovakia made some efforts to address the recommendation through new policy actions.
+ The country made some progress towards the improvement, modernisation and user-friendliness
+ of its digital public services, but key shortcomings remain. Two eID applications (eIdentita and
+ eDoklady), with improved features and user-friendliness, were launched. However, effective uptake
+ of eID among citizens remains low, likely affected by limited guidance and weak awareness of
+ available solutions.
+
+
+
+                                       28 Slovakia
+
+
+
+Work continued on the development of 16 priority life situations, with final rollout expected in
+Q2 2026. A modernised front end (beta.slovensko.sk) is also under development to provide more
+coherent access to these services. Nonetheless, users continue to experience a fragmented and
+administratively complex digital landscape, with limited interoperability and implementation
+challenges potentially weakening the impact of recent investments. Moreover, long‑standing issues
+of vendor lock‑in, sub-optimal coordination across ministries and insufficient IT experts within the
+public administration hinder improvements.
+
+Finally,  availability  of  digital  public  services to cross-border users increased but remains
+considerably lower than the average for national users.
+
+More effective digital public services can play an important part in increasing the efficiency of
+administrative procedures for both the public and businesses, making  it possible to reduce
+administrative burden, providing a clearer overview of available opportunities and improving
+predictability. While  the  approval  of  the  National Concept  of  Informatisation  of  Public
+Administration for 2026-2030 is promising, a coherent implementation and evaluation approach to
+the development of e-Government services is highly relevant.
+
+
+
+
+
+                                      29  Slovakia
+
+Leveraging  digital  transformation  for
+smart greening
+
+Slovakia reported 14.2 kg of CO₂ equivalent emissions per capita linked to ICT-related activities in
+2022, the majority being attributed to ICT services. As such, Slovakia positions itself as one of the
+countries with the lowest ICT sector related emissions per capita (EU average 22.8 kg of CO₂ equivalent
+per capita). The ICT sector contributes 0.22% of air emission in the Slovak economy (against an EU
+average of 0.35%). Among others, such low share of emissions might be explained by the relatively
+small ICT sector of the Slovak economy, which is strongly oriented towards automotive manufacturing
+and broader industrial production, and by the large share of nuclear energy in Slovakia’s energy mix,
+lowering the carbon intensity of electricity generation. Moreover, Slovakia recycles or prepares for
+reuse 92.89% of ICT-related waste collected (corresponding to two categories of waste electrical
+and electronic equipment), being one of the best performing Member States in this area.
+
+An overarching strategy linking the green and digital transitions is not in place. However, Slovakia
+is undertaking a few initiatives to adapt to and benefit from the changes brought about by the green
+and digital transitions, especially at the local level. The ‘Digital Skills for a Green Future of Slovakia’
+project continued to be implemented over the reporting period. As part of the project, standardised
+Job Cards have been developed for 1 830 professions within the National System of Professions. The
+cards define the specific digital and green competencies required for each role and set precise
+proficiency levels that reflect current labour-market needs. Going forward, the Job Cards are expected
+to guide skills acquisition for the labour market and thus help maintain the competitiveness of the
+Slovak economy in the context of the green and digital transitions. In the near future, MIRRI plans to
+launch ‘Digital Future  II’, a project dedicated to testing digital and green skills across the entire
+workforce and further raising awareness around the twin transition.
+
+Slovakia’s 2023-2026 Smart Cities and Regions Action Plan sets out a strategic framework with 12
+priority areas to accelerate the development of smart local governments and regions, strengthen
+innovation in public administration and embed data-driven solutions that improve quality of life and
+sustainability across urban and rural territories. In parallel, Slovakia’s participation as a member of the
+Local Digital Twins towards the CitiVERSE EDIC reflects its commitment to contribute to and benefit
+from the development of interoperable digital twin infrastructures across the EU.
+
+The green aspect of digital technologies is considered relevant by Slovak citizens. According to the
+2026 edition of the Digital Decade Eurobarometer, 60% of Slovaks believe green technologies (e.g.
+energy-saving tech), will be amongst the technologies with the most positive impact in the next 10
+years (EU 50%). At the same time, the environmental impact of digital technologies is also considered
+relevant, with 84% of Slovak citizens believing that AI should be developed as a priority in an
+environmentally sustainable way (EU 78%).
+
+ 2025 recommendation on Green ICT: Develop a coherent approach to twinning the digital and
+ green transitions.
+ In 2025, Slovakia continued the implementation of existing measure but did not take any new
+ measures. An overarching and coherent approach to the green and digital transitions has not been
+ developed, but the country made some progress in existing initiatives aimed at linking the twin
+ transitions. At the same time, the country scores well in relevant indicators linked to the
+ environmental footprint of its ICT sector.
+
+                                       30  Slovakia
+
+Annex I: National roadmap analysis
+
+ Slovakia submitted an addendum to its Digital Decade roadmap on 27 November 2024, which contains
+ 11 additional measures and two revised trajectories. Due to the timeline of Slovakia’s standard
+ legislative process, which mandates that  all revisions and new measures be submitted to the
+ government by June each year for the budget finalisation in September, it is not possible for Slovakia
+ to address recommendations provided in June during the following year. For this reason, Slovakia was
+ unable to draft measures directly addressing the recommendations provided by the State of the Digital
+ Decade report in June 2024.
+
+ Nonetheless, in its roadmap adjustment, Slovakia introduced new measures aimed, in particular, at:
+ supporting the digitalisation of businesses; promoting an environment that is conducive to exchange
+ and innovation; and enhancing digital skills. All of these are relevant to the reality and needs of
+ Slovakia’s digital landscape. However, additional national funding for the new measures could not be
+ secured. This implies that Slovakia will have to rely on external financing, particularly from the RRF and
+ Programme Slovakia, to implement these measures. Such a limitation might also limit flexibility in
+ adding or expanding measures going forward.
+
+                      Measures and budget in the national roadmap2
+
+
+
+
+
+ In total, the roadmap is composed of 127 measures with a budget of EUR 2.26 billion, equivalent to
+ 1.74% of Slovakia’s GDP. The roadmap presents a comprehensive set of measures, which are grounded
+ in multiple national level strategies and action plans. Together, these aim to support the digitalisation
+ of Slovakia’s economy and society from multiple angles, linking to all of the Digital Decade targets
+
+
+
+2 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       31 Slovakia
+
+
+
+(except for edge nodes) and objectives. However, certain aspects, such as promoting leadership and
+sovereignty, and contributing to the green transformation, would require more concerted efforts.
+
+
+
+
+
+                                      32  Slovakia
+
+
+Annex II: Funding, economic impacts and
+multi-country projects
+
+ Country results from the study ‘Assessing the Economic Impact of Digital Investments under the
+ Recovery and Resilience Facility’
+ A modelling study conducted by the European Commission services, with the FIDELIO model,
+ assesses the economic impact of the digital component of the RRF. As of November 2025, the digital
+ part of the Recovery and Resilience of Slovakia was evaluated to EUR 1.25 billion with EUR 87 million
+ for digital infrastructures, EUR 268 million for digital skills, EUR 253 million for the digitalisation of
+ businesses, EUR 508 million for the digitalisation of public services, and EUR 138 million for other
+ digital priorities.
+
+ The total economic impact of RRF digital measures is estimated to EUR 1.61 billion for the national
+ economy. Of this, EUR 875 million stems from the direct effects of Slovakia's own RRP and EUR 730
+ million corresponds to spillover effects from the implementation of other EU Member States' plans.
+ Slovakia benefited the most from spillover effects from RRPs of Spain (EUR 164 million), Italy (EUR
+ 123 million), Germany (EUR 100 million). The most impacted sectors are ICT Services (EUR 382
+ million), Manufacturing (EUR 364 million), and Trade (EUR 183 million).
+
+
+
+
+
+                                    RRF spillover effects to Slovakia
+
+
+
+
+
+                                       33  Slovakia
+
+
+
+ Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy
+
+ Slovakia allocates 21% of its total recovery and resilience plan to digital (EUR 1.2 billion)3. In
+ addition, under cohesion policy, EUR 0.7 billion, representing 6% of the country’s total cohesion
+ policy funding, is dedicated to advancing Slovakia’s digital transformation4.
+
+ Multi-country projects
+ Slovakia is a member of the Local Digital Twins towards the CitiVERSE EDIC and an observer to the
+ Alliance  for Language Technologies EDIC. Slovakia  is  directly  participating  in the IPCEI on
+ Microelectronics and Communication Technologies (IPCEI-ME/CT) and in the Tech4Cure IPCEI.
+ Slovakia is also a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+
+
+
+
+3 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 23 April 2026.
+4 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund
+(including Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+
+                                       34

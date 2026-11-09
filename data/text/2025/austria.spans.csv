@@ -1,0 +1,2045 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,384.7,242.7,PART 1/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+2,1,0,Calibri-Bold,40.0,111.7,216.8,478.6,256.8,DIGITAL DECADE 2025
+2,1,0,Calibri,40.0,478.9,216.8,487.9,256.8, 
+2,1,1,Calibri,40.0,111.7,265.6,437.9,305.6,COUNTRY REPORTS 
+2,2,0,Calibri-Bold,28.0,196.4,365.8,285.8,393.8,Austria 
+2,3,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+2,3,1,Arial-BoldMT,24.0,298.9,779.8,305.5,806.5, 
+2,3,2,TimesNewRomanPSMT,12.0,525.7,790.8,528.7,804.1, 
+2,3,3,Arial-BoldMT,24.0,565.9,779.8,572.6,806.5, 
+3,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+3,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+3,2,0,Calibri,11.0,72.0,88.1,74.5,99.1, 
+3,4,0,Calibri-Light,16.0,72.0,115.7,133.8,131.7,Contents 
+3,4,1,Calibri,11.0,72.0,135.7,523.0,146.8,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,135.0,525.7,147.0, 
+3,5,0,Calibri,11.0,72.0,155.2,523.0,166.2,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 4"
+3,5,0,Calibri,12.0,523.0,154.5,525.7,166.5, 
+3,6,0,Calibri-Light,11.0,83.1,174.6,401.0,185.7,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.6,523.0,185.7, ......................................... 5
+3,6,0,Calibri,12.0,523.0,173.9,525.7,185.9, 
+3,7,0,Calibri-Light,11.0,94.0,194.2,211.8,205.2,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.2,523.0,205.2, .............................................................................................................. 5
+3,7,0,Calibri,12.0,523.0,193.5,525.7,205.5, 
+3,8,0,Calibri-Light,11.0,94.0,213.6,164.8,224.7,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.6,523.0,224.7, ............................................................................................................................... 7
+3,8,0,Calibri,12.0,523.0,212.9,525.7,224.9, 
+3,9,0,Calibri-Light,11.0,94.0,233.2,144.8,244.2,Edge nodes
+3,9,0,Calibri,11.0,144.7,233.2,523.0,244.2, ...................................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,232.5,525.7,244.5, 
+3,10,0,Calibri-Light,11.0,94.0,252.6,194.6,263.7,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.6,523.0,263.7, .................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,251.9,525.7,263.9, 
+3,11,0,Calibri-Light,11.0,83.1,272.2,418.8,283.2,Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+3,11,0,Calibri,11.0,418.8,272.2,523.0,283.2, ................................... 9
+3,11,0,Calibri,12.0,523.0,271.5,525.7,283.5, 
+3,12,0,Calibri-Light,11.0,94.0,291.6,268.6,302.7,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.6,523.0,302.7, ......................................................................................... 9
+3,12,0,Calibri,12.0,523.0,290.9,525.7,302.9, 
+3,13,0,Calibri-Light,11.0,94.0,311.1,243.3,322.1,Take-up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,243.3,311.1,523.0,322.1, ................................................................................................ 10
+3,13,0,Calibri,12.0,523.0,310.4,525.7,322.4, 
+3,14,0,Calibri-Light,11.0,94.0,330.6,239.8,341.7,"Unicorns, scale-ups and start-ups"
+3,14,0,Calibri,11.0,239.7,330.6,523.0,341.7, .................................................................................................. 14
+3,14,0,Calibri,12.0,523.0,329.9,525.7,341.9, 
+3,15,0,Calibri-Light,11.0,83.1,350.1,264.2,361.1,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.1,523.0,361.1, ......................................................................................... 16
+3,15,0,Calibri,12.0,523.0,349.4,525.7,361.4, 
+3,16,0,Calibri,11.0,72.0,369.6,523.0,380.7,Protecting and empowering EU people and society ............................................................................. 18
+3,16,0,Calibri,12.0,523.0,368.9,525.7,380.9, 
+3,17,0,Calibri-Light,11.0,83.1,389.1,437.2,400.1,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.1,523.0,400.1, .......................... 18
+3,17,0,Calibri,12.0,523.0,388.4,525.7,400.4, 
+3,18,0,Calibri-Light,11.0,94.0,408.7,195.2,419.7,Equipping people with 
+3,18,0,Calibri,11.0,195.3,408.7,523.0,419.7,digital skills ............................................................................................... 18
+3,18,0,Calibri,12.0,523.0,407.9,525.7,419.9, 
+3,19,0,Calibri-Light,11.0,94.0,428.1,462.5,439.1,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,19,0,Calibri,11.0,462.7,428.1,523.0,439.1, ................. 22
+3,19,0,Calibri,12.0,523.0,427.4,525.7,439.4, 
+3,20,0,Calibri-Light,11.0,83.1,447.5,457.1,458.6,Building a safe and human centric digital environment and preserving our democracy
+3,20,0,Calibri,11.0,457.2,447.5,523.0,458.6, ................... 24
+3,20,0,Calibri,12.0,523.0,446.8,525.7,458.8, 
+3,21,0,Calibri,11.0,72.0,467.1,523.0,478.1,Leveraging digital transformation for a smart greening ....................................................................... 26
+3,21,0,Calibri,12.0,523.0,466.4,525.7,478.4, 
+3,22,0,Calibri,11.0,72.0,486.5,523.0,497.6,Annex I – National roadmap analysis .................................................................................................... 28
+3,22,0,Calibri,12.0,523.0,485.8,525.7,497.8, 
+3,23,0,Calibri,11.0,72.0,506.1,523.0,517.2,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 30
+3,23,0,Calibri,12.0,523.0,505.4,525.7,517.4, 
+3,24,0,Calibri,11.0,72.0,525.5,523.0,536.6,Annex III – Digital Rights and Principles ................................................................................................ 31
+3,24,0,Calibri,12.0,523.0,524.8,525.7,536.8, 
+3,25,0,Calibri,11.0,72.0,545.1,74.5,556.2, 
+3,26,0,Calibri,11.0,72.0,567.6,74.5,578.6, 
+3,27,0,Calibri,11.0,297.7,749.6,300.2,760.7, 
+3,28,0,Arial-BoldMT,24.0,29.5,779.8,36.2,806.5, 
+4,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+4,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+4,2,0,Calibri-Bold,26.0,72.0,87.2,287.2,113.2,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.4,525.8,137.4,Austria continues to demonstrate strong momentum in AI adoption and to make progress on 
+4,4,1,Calibri-Bold,11.0,72.0,140.9,525.9,151.9,"connectivity deployment, although the country still lags behind in the roll-out of Very High-Capacity "
+4,4,2,Calibri-Bold,11.0,72.0,155.4,525.9,166.5,"Networks (VHCN) and Fibre to the Premises (FTTP), while the start-up ecosystem remains "
+4,4,3,Calibri-Bold,11.0,72.0,169.8,525.6,180.9,"constrained by declining venture capital and limited unicorn growth. In 2024, Austria maintained "
+4,4,4,Calibri-Bold,11.0,72.0,184.3,525.8,195.4,"solid performance in digital public services and has strengthened its role in strategic technologies, "
+4,4,5,Calibri-Bold,11.0,72.0,198.9,304.3,209.9,such as semiconductors and quantum technologies
+4,4,5,Calibri,11.0,304.4,198.9,311.9,209.9,.  
+4,5,0,Calibri-Bold,11.0,72.0,221.3,525.8,232.3,Austria shows a high level of ambition in its contribution to the Digital Decade having set 12 national 
+4,5,1,Calibri-Bold,11.0,72.0,235.9,525.6,246.9,"targets, 92% of which are aligned with the EU 2030 targets. The country is following its trajectories "
+4,5,2,Calibri-Bold,11.0,72.0,250.4,525.8,261.4,well with 75% of them being on track (on the basis of the 2024 trajectories defined for 8 KPIs out of 
+4,5,3,Calibri-Bold,11.0,72.0,264.8,525.7,275.8,"8 analysed). Austria addressed 59% of the 12 recommendations issued by the Commission in 2024, "
+4,5,4,Calibri-Bold,11.0,72.0,279.3,525.9,290.3,either by implementing significant policy changes (17%) or making some changes (42%) through new 
+4,5,5,Calibri-Bold,11.0,72.0,293.8,121.4,304.8,measures. 
+4,6,0,Calibri,11.0,72.0,316.2,525.7,327.3,"Despite high levels of digital skills, persistent gaps across age and education exist. Sustainability is "
+4,6,1,Calibri,11.0,72.0,330.8,525.8,341.8,"reflected in selective initiatives, but a coherent green-digital strategy is still lacking in the national "
+4,6,2,Calibri,11.0,72.0,345.3,525.7,356.3,"Digital Decade roadmap. Overall, the level of commitment to digital transformation has remained "
+4,6,3,Calibri,11.0,72.0,359.8,525.9,370.9,"consistent over time, as demonstrated by the adjusted national strategic roadmap, which reinforces "
+4,6,4,Calibri,11.0,72.0,374.2,525.9,385.2,"the ambition across most areas of the Digital Decade framework. AI remains a strategic focus, with "
+4,6,5,Calibri,11.0,72.0,388.7,525.8,399.8,"Austria’s National AI Strategy representing the cornerstone of the country’s efforts, supported by the "
+4,6,6,Calibri,11.0,72.0,403.3,231.9,414.3,adjusted roadmap’s new initiatives. 
+4,7,0,Calibri-Bold,7.0,307.5,430.0,328.2,436.9,Austria
+4,7,0,Calibri,7.0,328.3,430.0,329.8,436.9, 
+4,7,0,TimesNewRomanPSMT,12.0,330.0,424.5,333.0,437.8, 
+4,7,1,Calibri-Bold,7.0,423.7,430.0,431.6,436.9,EU
+4,7,1,Calibri,7.0,431.6,430.0,433.2,436.9, 
+4,7,1,TimesNewRomanPSMT,12.0,433.3,424.5,436.3,437.8, 
+4,7,2,Calibri-Bold,7.0,472.7,425.8,516.1,432.7,Digital Decade 
+4,7,3,Calibri-Bold,7.0,471.0,434.3,514.6,441.2,target by 2030 
+4,7,3,Calibri,7.0,514.6,434.3,516.1,441.2, 
+4,7,3,TimesNewRomanPSMT,12.0,516.2,428.8,519.2,442.1, 
+4,8,0,Calibri,7.0,74.3,434.6,75.9,441.6, 
+4,8,0,TimesNewRomanPSMT,12.0,75.9,429.2,78.9,442.5, 
+4,9,0,Calibri,14.0,100.1,444.6,206.5,458.6,Digital Decade KPI 
+4,9,0,Calibri,7.0,206.4,445.9,214.2,452.9,(1)
+4,9,0,Calibri,11.0,214.2,446.8,216.7,457.9, 
+4,9,0,TimesNewRomanPSMT,12.0,216.8,444.4,219.8,457.7, 
+4,10,0,Calibri-Bold,7.0,361.1,443.5,387.5,450.5,National 
+4,10,1,Calibri-Bold,7.0,359.4,452.0,389.5,459.0,trajectory 
+4,11,0,Calibri-Bold,7.0,249.4,447.8,279.6,454.8,DESI 2024 
+4,11,1,Calibri-Bold,7.0,246.5,456.4,279.3,463.3,(year 2023)
+4,11,1,Calibri,7.0,279.4,456.4,281.0,463.3, 
+4,11,1,TimesNewRomanPSMT,12.0,281.1,450.9,284.1,464.2, 
+4,12,0,Calibri-Bold,7.0,287.8,447.8,318.1,454.8,DESI 2025 
+4,12,1,Calibri-Bold,7.0,285.0,456.4,317.7,463.3,(year 2024)
+4,12,1,Calibri,7.0,317.8,456.4,319.4,463.3, 
+4,12,1,TimesNewRomanPSMT,12.0,319.5,450.9,322.5,464.2, 
+4,13,0,Calibri-Bold,7.0,327.4,447.8,349.6,454.8,Annual 
+4,13,1,Calibri-Bold,7.0,324.5,456.4,349.4,463.3,progress
+4,13,1,Calibri,7.0,349.4,456.4,351.0,463.3, 
+4,13,1,TimesNewRomanPSMT,12.0,351.1,450.9,354.1,464.2, 
+4,14,0,Calibri-Bold,7.0,401.6,447.8,416.1,454.8,DESI 
+4,14,1,Calibri-Bold,7.0,400.3,456.4,414.4,463.3,2025
+4,14,1,Calibri,7.0,414.3,456.4,415.9,463.3, 
+4,14,1,TimesNewRomanPSMT,12.0,416.0,450.9,419.0,464.2, 
+4,14,2,Calibri-Bold,7.0,433.5,447.8,455.7,454.8,Annual 
+4,14,3,Calibri-Bold,7.0,430.5,456.4,455.4,463.3,progress
+4,14,3,Calibri,7.0,455.4,456.4,457.0,463.3, 
+4,14,3,TimesNewRomanPSMT,12.0,457.1,450.9,460.1,464.2, 
+4,14,4,Calibri-Bold,7.0,473.0,452.0,480.7,459.0,AT
+4,14,4,Calibri,7.0,480.7,452.0,482.3,459.0, 
+4,14,4,TimesNewRomanPSMT,12.0,482.3,446.6,485.3,459.9, 
+4,14,5,Calibri-Bold,7.0,502.3,452.0,510.2,459.0,EU
+4,14,5,Calibri,7.0,510.2,452.0,511.8,459.0, 
+4,14,5,TimesNewRomanPSMT,12.0,511.9,446.6,514.9,459.9, 
+4,15,0,Calibri-Bold,7.0,360.9,460.7,384.4,467.6,2024 (3)
+4,15,0,Calibri,7.0,384.5,460.7,386.1,467.6, 
+4,15,0,TimesNewRomanPSMT,12.0,386.2,455.2,389.2,468.5, 
+4,16,0,Calibri-Bold,7.0,72.7,473.2,221.9,480.1,Fixed Very High Capacity Network (VHCN) coverage
+4,16,0,Calibri,7.0,222.1,473.2,223.6,480.1, 
+4,16,0,TimesNewRomanPSMT,12.0,223.7,467.7,226.7,481.0, 
+4,16,1,Calibri,7.0,255.1,473.2,272.3,480.1,67.6%
+4,16,1,TimesNewRomanPSMT,12.0,272.5,467.7,275.5,481.0, 
+4,16,2,Calibri,7.0,293.5,473.2,310.7,480.1,72.2%
+4,16,2,TimesNewRomanPSMT,12.0,310.9,467.7,313.9,481.0, 
+4,16,3,Calibri,7.0,330.8,473.2,344.5,480.1,6.7%
+4,16,3,TimesNewRomanPSMT,12.0,344.7,467.7,347.7,481.0, 
+4,16,4,Calibri,7.0,364.9,473.2,382.1,480.1,73.0%
+4,16,4,TimesNewRomanPSMT,12.0,382.3,467.7,385.3,481.0, 
+4,16,5,Calibri,7.0,399.5,473.2,416.7,480.1,82.5%
+4,16,5,TimesNewRomanPSMT,12.0,416.9,467.7,419.9,481.0, 
+4,16,6,Calibri,7.0,436.9,473.2,450.6,480.1,4.9%
+4,16,6,TimesNewRomanPSMT,12.0,450.8,467.7,453.8,481.0, 
+4,16,7,Calibri,7.0,467.1,473.2,487.9,480.1,100.0%
+4,16,7,TimesNewRomanPSMT,12.0,488.1,467.7,491.1,481.0, 
+4,16,8,Calibri,7.0,499.3,473.2,514.8,480.1,100%
+4,16,8,TimesNewRomanPSMT,12.0,514.9,467.7,517.9,481.0, 
+4,17,0,Calibri-Bold,7.0,72.7,488.9,181.9,495.8,Fibre to the Premises (FTTP) coverage
+4,17,0,Calibri,7.0,182.0,488.9,183.5,495.8, 
+4,17,0,TimesNewRomanPSMT,12.0,183.6,483.4,186.6,496.7, 
+4,17,1,Calibri,7.0,255.1,488.9,272.3,495.8,41.0%
+4,17,1,TimesNewRomanPSMT,12.0,272.5,483.4,275.5,496.7, 
+4,17,2,Calibri,7.0,293.5,488.9,310.7,495.8,44.8%
+4,17,2,TimesNewRomanPSMT,12.0,310.9,483.4,313.9,496.7, 
+4,17,3,Calibri,7.0,330.8,488.9,344.5,495.8,9.4%
+4,17,3,TimesNewRomanPSMT,12.0,344.7,483.4,347.7,496.7, 
+4,17,4,Calibri,7.0,364.9,488.9,382.1,495.8,45.0%
+4,17,4,TimesNewRomanPSMT,12.0,382.3,483.4,385.3,496.7, 
+4,17,5,Calibri,7.0,399.5,488.9,416.7,495.8,69.2%
+4,17,5,TimesNewRomanPSMT,12.0,416.9,483.4,419.9,496.7, 
+4,17,6,Calibri,7.0,436.9,488.9,450.6,495.8,8.4%
+4,17,6,TimesNewRomanPSMT,12.0,450.8,483.4,453.8,496.7, 
+4,17,7,Calibri,7.0,468.9,488.9,486.2,495.8,72.0%
+4,17,7,TimesNewRomanPSMT,12.0,486.3,483.4,489.3,496.7, 
+4,17,8,Calibri,7.0,506.0,488.9,508.1,495.8,-
+4,17,8,TimesNewRomanPSMT,12.0,508.2,483.4,511.2,496.7, 
+4,18,0,Calibri-Bold,7.0,72.7,504.7,131.0,511.7,Overall 5G coverage
+4,18,0,Calibri,7.0,131.1,504.7,132.6,511.7, 
+4,18,0,TimesNewRomanPSMT,12.0,132.7,499.3,135.7,512.5, 
+4,18,1,Calibri,7.0,255.1,504.7,272.3,511.7,96.0%
+4,18,1,TimesNewRomanPSMT,12.0,272.5,499.3,275.5,512.5, 
+4,18,2,Calibri,7.0,293.5,504.7,310.7,511.7,99.5%
+4,18,2,TimesNewRomanPSMT,12.0,310.9,499.3,313.9,512.5, 
+4,18,3,Calibri,7.0,330.8,504.7,344.5,511.7,3.7%
+4,18,3,TimesNewRomanPSMT,12.0,344.7,499.3,347.7,512.5, 
+4,18,4,Calibri,7.0,364.9,504.7,382.1,511.7,99.5%
+4,18,4,TimesNewRomanPSMT,12.0,382.3,499.3,385.3,512.5, 
+4,18,5,Calibri,7.0,399.5,504.7,416.7,511.7,94.3%
+4,18,5,TimesNewRomanPSMT,12.0,416.9,499.3,419.9,512.5, 
+4,18,6,Calibri,7.0,436.9,504.7,450.6,511.7,5.9%
+4,18,6,TimesNewRomanPSMT,12.0,450.8,499.3,453.8,512.5, 
+4,18,7,Calibri,7.0,467.1,504.7,487.9,511.7,100.0%
+4,18,7,TimesNewRomanPSMT,12.0,488.1,499.3,491.1,512.5, 
+4,18,8,Calibri,7.0,499.3,504.7,514.8,511.7,100%
+4,18,8,TimesNewRomanPSMT,12.0,514.9,499.3,517.9,512.5, 
+4,19,0,Calibri-Bold,7.0,72.7,520.5,138.1,527.4,Edge Nodes (estimate)
+4,19,0,Calibri,7.0,138.1,520.5,139.7,527.4, 
+4,19,0,TimesNewRomanPSMT,12.0,139.8,515.0,142.8,528.3, 
+4,19,1,Calibri,7.0,260.2,520.5,267.2,527.4,18
+4,19,1,TimesNewRomanPSMT,12.0,267.3,515.0,270.3,528.3, 
+4,19,2,Calibri,7.0,298.6,520.5,305.6,527.4,33
+4,19,2,TimesNewRomanPSMT,12.0,305.7,515.0,308.7,528.3, 
+4,19,3,Calibri,7.0,329.1,520.5,346.3,527.4,83.3%
+4,19,3,TimesNewRomanPSMT,12.0,346.5,515.0,349.5,528.3, 
+4,19,4,Calibri,7.0,372.5,520.5,374.7,527.4,-
+4,19,4,TimesNewRomanPSMT,12.0,374.7,515.0,377.7,528.3, 
+4,19,5,Calibri,7.0,401.0,520.5,415.1,527.4,2257
+4,19,5,TimesNewRomanPSMT,12.0,415.2,515.0,418.2,528.3, 
+4,19,6,Calibri,7.0,435.1,520.5,452.3,527.4,90.5%
+4,19,6,TimesNewRomanPSMT,12.0,452.5,515.0,455.5,528.3, 
+4,19,7,Calibri,7.0,476.6,520.5,478.7,527.4,-
+4,19,7,TimesNewRomanPSMT,12.0,478.8,515.0,481.8,528.3, 
+4,19,8,Calibri,7.0,498.2,520.5,515.9,527.4,10000
+4,19,8,TimesNewRomanPSMT,12.0,516.0,515.0,519.0,528.3, 
+4,20,0,Calibri-Bold,7.0,72.7,536.2,226.2,543.1,SMEs with at least a basic level of digital intensity (2)
+4,20,0,Calibri,7.0,226.4,536.2,227.9,543.1, 
+4,20,0,TimesNewRomanPSMT,12.0,228.1,530.7,231.1,544.0, 
+4,20,1,Calibri,7.0,262.7,536.2,264.9,543.1,-
+4,20,1,TimesNewRomanPSMT,12.0,264.9,530.7,267.9,544.0, 
+4,20,2,Calibri,7.0,293.5,536.2,310.7,543.1,72.2%
+4,20,2,TimesNewRomanPSMT,12.0,310.9,530.7,313.9,544.0, 
+4,20,3,Calibri,7.0,330.8,536.2,344.5,543.1,3.6%
+4,20,3,TimesNewRomanPSMT,12.0,344.7,530.7,347.7,544.0, 
+4,20,4,Calibri,7.0,372.5,536.2,374.7,543.1,-
+4,20,4,TimesNewRomanPSMT,12.0,374.7,530.7,377.7,544.0, 
+4,20,5,Calibri,7.0,399.5,536.2,416.7,543.1,72.9%
+4,20,5,TimesNewRomanPSMT,12.0,416.9,530.7,419.9,544.0, 
+4,20,6,Calibri,7.0,436.9,536.2,450.6,543.1,2.8%
+4,20,6,TimesNewRomanPSMT,12.0,450.8,530.7,453.8,544.0, 
+4,20,7,Calibri,7.0,468.9,536.2,486.2,543.1,90.0%
+4,20,7,TimesNewRomanPSMT,12.0,486.3,530.7,489.3,544.0, 
+4,20,8,Calibri,7.0,501.0,536.2,512.9,543.1,90%
+4,20,8,TimesNewRomanPSMT,12.0,513.1,530.7,516.1,544.0, 
+4,21,0,Calibri-Bold,7.0,72.7,551.9,89.3,558.8,Cloud
+4,21,0,Calibri,7.0,89.3,551.9,90.9,558.8, 
+4,21,0,TimesNewRomanPSMT,12.0,91.0,546.4,94.0,559.7, 
+4,21,1,Calibri,7.0,255.1,551.9,272.3,558.8,35.6%
+4,21,1,TimesNewRomanPSMT,12.0,272.5,546.4,275.5,559.7, 
+4,21,2,Calibri,7.0,301.1,551.9,303.3,558.8,-
+4,21,2,TimesNewRomanPSMT,12.0,303.3,546.4,306.3,559.7, 
+4,21,3,Calibri,7.0,336.7,551.9,338.8,558.8,-
+4,21,3,TimesNewRomanPSMT,12.0,338.8,546.4,341.8,559.7, 
+4,21,4,Calibri,7.0,372.5,551.9,374.7,558.8,-
+4,21,4,TimesNewRomanPSMT,12.0,374.7,546.4,377.7,559.7, 
+4,21,5,Calibri,7.0,407.0,551.9,409.1,558.8,-
+4,21,5,TimesNewRomanPSMT,12.0,409.2,546.4,412.2,559.7, 
+4,21,6,Calibri,7.0,442.8,551.9,444.9,558.8,-
+4,21,6,TimesNewRomanPSMT,12.0,444.9,546.4,447.9,559.7, 
+4,21,7,Calibri,7.0,476.6,551.9,478.7,558.8,-
+4,21,7,TimesNewRomanPSMT,12.0,478.8,546.4,481.8,559.7, 
+4,21,8,Calibri,7.0,501.0,551.9,512.9,558.8,75%
+4,21,8,TimesNewRomanPSMT,12.0,513.1,546.4,516.1,559.7, 
+4,22,0,Calibri-Bold,7.0,72.7,567.8,132.6,574.7,Artificial Intelligence
+4,22,0,Calibri,7.0,132.6,567.8,134.2,574.7, 
+4,22,0,TimesNewRomanPSMT,12.0,134.3,562.3,137.3,575.6, 
+4,22,1,Calibri,7.0,255.1,567.8,274.0,574.7,10.8% 
+4,22,2,Calibri,7.0,293.5,567.8,312.4,574.7,20.3% 
+4,22,3,Calibri,7.0,329.1,567.8,348.1,574.7,87.9% 
+4,22,4,Calibri,7.0,364.9,567.8,383.8,574.7,20.0% 
+4,22,5,Calibri,7.0,399.5,567.8,418.4,574.7,13.5% 
+4,22,6,Calibri,7.0,435.1,567.8,454.1,574.7,67.2% 
+4,22,7,Calibri,7.0,468.9,567.8,487.9,574.7,75.0% 
+4,22,8,Calibri,7.0,501.0,567.8,514.7,574.7,75% 
+4,23,0,Calibri-Bold,7.0,72.7,583.5,113.5,590.4,Data analytics
+4,23,0,Calibri,7.0,113.5,583.5,115.1,590.4, 
+4,23,0,TimesNewRomanPSMT,12.0,115.2,578.0,118.2,591.3, 
+4,23,1,Calibri,7.0,255.1,583.5,272.3,590.4,23.9%
+4,23,1,TimesNewRomanPSMT,12.0,272.5,578.0,275.5,591.3, 
+4,23,2,Calibri,7.0,301.1,583.5,303.3,590.4,-
+4,23,2,TimesNewRomanPSMT,12.0,303.3,578.0,306.3,591.3, 
+4,23,3,Calibri,7.0,336.7,583.5,338.8,590.4,-
+4,23,3,TimesNewRomanPSMT,12.0,338.8,578.0,341.8,591.3, 
+4,23,4,Calibri,7.0,372.5,583.5,374.7,590.4,-
+4,23,4,TimesNewRomanPSMT,12.0,374.7,578.0,377.7,591.3, 
+4,23,5,Calibri,7.0,407.0,583.5,409.1,590.4,-
+4,23,5,TimesNewRomanPSMT,12.0,409.2,578.0,412.2,591.3, 
+4,23,6,Calibri,7.0,442.8,583.5,444.9,590.4,-
+4,23,6,TimesNewRomanPSMT,12.0,444.9,578.0,447.9,591.3, 
+4,23,7,Calibri,7.0,468.9,583.5,486.2,590.4,75.0%
+4,23,7,TimesNewRomanPSMT,12.0,486.3,578.0,489.3,591.3, 
+4,23,8,Calibri,7.0,501.0,583.5,512.9,590.4,75%
+4,23,8,TimesNewRomanPSMT,12.0,513.1,578.0,516.1,591.3, 
+4,24,0,Calibri-Bold,7.0,72.7,599.2,155.1,606.2,AI or Cloud or Data analytics
+4,24,0,Calibri,7.0,155.2,599.2,156.8,606.2, 
+4,24,0,TimesNewRomanPSMT,12.0,156.9,593.7,159.9,607.0, 
+4,24,1,Calibri,7.0,255.1,599.2,272.3,606.2,47.0%
+4,24,1,TimesNewRomanPSMT,12.0,272.5,593.7,275.5,607.0, 
+4,24,2,Calibri,7.0,301.1,599.2,303.3,606.2,-
+4,24,2,TimesNewRomanPSMT,12.0,303.3,593.7,306.3,607.0, 
+4,24,3,Calibri,7.0,336.7,599.2,338.8,606.2,-
+4,24,3,TimesNewRomanPSMT,12.0,338.8,593.7,341.8,607.0, 
+4,24,4,Calibri,7.0,372.5,599.2,374.7,606.2,-
+4,24,4,TimesNewRomanPSMT,12.0,374.7,593.7,377.7,607.0, 
+4,24,5,Calibri,7.0,407.0,599.2,409.1,606.2,-
+4,24,5,TimesNewRomanPSMT,12.0,409.2,593.7,412.2,607.0, 
+4,24,6,Calibri,7.0,442.8,599.2,444.9,606.2,-
+4,24,6,TimesNewRomanPSMT,12.0,444.9,593.7,447.9,607.0, 
+4,24,7,Calibri,7.0,476.6,599.2,478.7,606.2,-
+4,24,7,TimesNewRomanPSMT,12.0,478.8,593.7,481.8,607.0, 
+4,24,8,Calibri,7.0,501.0,599.2,512.9,606.2,75%
+4,24,8,TimesNewRomanPSMT,12.0,513.1,593.7,516.1,607.0, 
+4,25,0,Calibri-Bold,7.0,72.7,614.9,98.4,621.9,Unicorns
+4,25,0,Calibri,7.0,98.4,614.9,100.0,621.9, 
+4,25,0,TimesNewRomanPSMT,12.0,100.1,609.4,103.1,622.7, 
+4,25,1,Calibri,7.0,262.0,614.9,265.5,621.9,5
+4,25,1,TimesNewRomanPSMT,12.0,265.6,609.4,268.6,622.7, 
+4,25,2,Calibri,7.0,300.4,614.9,304.0,621.9,5
+4,25,2,TimesNewRomanPSMT,12.0,304.0,609.4,307.0,622.7, 
+4,25,3,Calibri,7.0,330.8,614.9,344.5,621.9,0.0%
+4,25,3,TimesNewRomanPSMT,12.0,344.7,609.4,347.7,622.7, 
+4,25,4,Calibri,7.0,371.8,614.9,375.4,621.9,4
+4,25,4,TimesNewRomanPSMT,12.0,375.4,609.4,378.4,622.7, 
+4,25,5,Calibri,7.0,402.8,614.9,413.4,621.9,286
+4,25,5,TimesNewRomanPSMT,12.0,413.5,609.4,416.5,622.7, 
+4,25,6,Calibri,7.0,436.9,614.9,450.6,621.9,4.4%
+4,25,6,TimesNewRomanPSMT,12.0,450.8,609.4,453.8,622.7, 
+4,25,7,Calibri,7.0,474.1,614.9,481.1,621.9,10
+4,25,7,TimesNewRomanPSMT,12.0,481.2,609.4,484.2,622.7, 
+4,25,8,Calibri,7.0,501.7,614.9,512.3,621.9,500
+4,25,8,TimesNewRomanPSMT,12.0,512.4,609.4,515.4,622.7, 
+4,26,0,Calibri-Bold,7.0,72.7,630.8,146.4,637.7,At least basic digital skills
+4,26,0,Calibri,7.0,146.4,630.8,148.0,637.7, 
+4,26,0,TimesNewRomanPSMT,12.0,148.1,625.3,151.1,638.6, 
+4,26,1,Calibri,7.0,255.1,630.8,272.3,637.7,64.7%
+4,26,1,TimesNewRomanPSMT,12.0,272.5,625.3,275.5,638.6, 
+4,26,2,Calibri,7.0,301.1,630.8,303.3,637.7,-
+4,26,2,TimesNewRomanPSMT,12.0,303.3,625.3,306.3,638.6, 
+4,26,3,Calibri,7.0,336.7,630.8,338.8,637.7,-
+4,26,3,TimesNewRomanPSMT,12.0,338.8,625.3,341.8,638.6, 
+4,26,4,Calibri,7.0,372.5,630.8,374.7,637.7,-
+4,26,4,TimesNewRomanPSMT,12.0,374.7,625.3,377.7,638.6, 
+4,26,5,Calibri,7.0,407.0,630.8,409.1,637.7,-
+4,26,5,TimesNewRomanPSMT,12.0,409.2,625.3,412.2,638.6, 
+4,26,6,Calibri,7.0,442.8,630.8,444.9,637.7,-
+4,26,6,TimesNewRomanPSMT,12.0,444.9,625.3,447.9,638.6, 
+4,26,7,Calibri,7.0,468.9,630.8,486.2,637.7,80.0%
+4,26,7,TimesNewRomanPSMT,12.0,486.3,625.3,489.3,638.6, 
+4,26,8,Calibri,7.0,501.0,630.8,512.9,637.7,80%
+4,26,8,TimesNewRomanPSMT,12.0,513.1,625.3,516.1,638.6, 
+4,27,0,Calibri-Bold,7.0,72.7,646.5,112.8,653.4,ICT specialists
+4,27,0,Calibri,7.0,112.9,646.5,114.5,653.4, 
+4,27,0,TimesNewRomanPSMT,12.0,114.6,641.0,117.6,654.3, 
+4,27,1,Calibri,7.0,256.9,646.5,272.3,653.4,5.3% 
+4,27,2,Calibri,7.0,295.3,646.5,310.8,653.4,5.3% 
+4,27,3,Calibri,7.0,330.8,646.5,346.3,653.4,0.0% 
+4,27,4,Calibri,7.0,366.7,646.5,382.2,653.4,5.6% 
+4,27,5,Calibri,7.0,401.1,646.5,416.6,653.4,5.0% 
+4,27,6,Calibri,7.0,436.9,646.5,452.4,653.4,4.2% 
+4,27,7,Calibri,7.0,468.9,646.5,487.9,653.4,10.0% 
+4,27,8,Calibri,7.0,499.3,646.5,516.5,653.4,~10% 
+4,28,0,Calibri-Bold,7.0,72.7,662.2,141.5,669.2,eID scheme notification
+4,28,0,Calibri,7.0,141.5,662.2,143.1,669.2, 
+4,28,0,TimesNewRomanPSMT,12.0,143.2,656.7,146.2,670.0, 
+4,28,1,TimesNewRomanPSMT,12.0,263.8,654.4,266.8,667.7, 
+4,28,2,Calibri,7.0,297.4,662.2,307.0,669.2,Yes
+4,28,2,TimesNewRomanPSMT,12.0,307.0,656.7,310.0,670.0, 
+4,28,3,TimesNewRomanPSMT,12.0,337.8,654.4,340.8,667.7, 
+4,28,4,TimesNewRomanPSMT,12.0,373.6,654.4,376.6,667.7, 
+4,28,5,TimesNewRomanPSMT,12.0,408.1,654.4,411.1,667.7, 
+4,28,6,TimesNewRomanPSMT,12.0,443.9,654.4,446.9,667.7, 
+4,28,7,TimesNewRomanPSMT,12.0,477.7,654.4,480.7,667.7, 
+4,28,8,TimesNewRomanPSMT,12.0,507.1,654.4,510.1,667.7, 
+4,29,0,Calibri-Bold,7.0,72.7,677.9,168.6,684.9,Digital public services for citizens
+4,29,0,Calibri,7.0,168.6,677.9,170.2,684.9, 
+4,29,0,TimesNewRomanPSMT,12.0,170.3,672.4,173.3,685.7, 
+4,29,1,Calibri,7.0,257.6,677.9,269.9,684.9,80.7
+4,29,1,TimesNewRomanPSMT,12.0,269.9,672.4,272.9,685.7, 
+4,29,2,Calibri,7.0,296.0,677.9,308.3,684.9,80.8
+4,29,2,TimesNewRomanPSMT,12.0,308.4,672.4,311.4,685.7, 
+4,29,3,Calibri,7.0,330.8,677.9,344.5,684.9,0.1%
+4,29,3,TimesNewRomanPSMT,12.0,344.7,672.4,347.7,685.7, 
+4,29,4,Calibri,7.0,367.4,677.9,379.7,684.9,82.0
+4,29,4,TimesNewRomanPSMT,12.0,379.8,672.4,382.8,685.7, 
+4,29,5,Calibri,7.0,402.0,677.9,414.3,684.9,82.3
+4,29,5,TimesNewRomanPSMT,12.0,414.3,672.4,417.3,685.7, 
+4,29,6,Calibri,7.0,436.9,677.9,450.6,684.9,3.6%
+4,29,6,TimesNewRomanPSMT,12.0,450.8,672.4,453.8,685.7, 
+4,29,7,Calibri,7.0,469.7,677.9,485.5,684.9,100.0
+4,29,7,TimesNewRomanPSMT,12.0,485.6,672.4,488.6,685.7, 
+4,29,8,Calibri,7.0,501.7,677.9,512.3,684.9,100
+4,29,8,TimesNewRomanPSMT,12.0,512.4,672.4,515.4,685.7, 
+4,30,0,Calibri-Bold,7.0,72.7,693.8,178.1,700.7,Digital public services for businesses
+4,30,0,Calibri,7.0,178.1,693.8,179.7,700.7, 
+4,30,0,TimesNewRomanPSMT,12.0,179.8,688.3,182.8,701.6, 
+4,30,1,Calibri,7.0,257.6,693.8,269.9,700.7,82.9
+4,30,1,TimesNewRomanPSMT,12.0,269.9,688.3,272.9,701.6, 
+4,30,2,Calibri,7.0,296.0,693.8,308.3,700.7,87.7
+4,30,2,TimesNewRomanPSMT,12.0,308.4,688.3,311.4,701.6, 
+4,30,3,Calibri,7.0,330.8,693.8,344.5,700.7,5.8%
+4,30,3,TimesNewRomanPSMT,12.0,344.7,688.3,347.7,701.6, 
+4,30,4,Calibri,7.0,367.4,693.8,379.7,700.7,84.0
+4,30,4,TimesNewRomanPSMT,12.0,379.8,688.3,382.8,701.6, 
+4,30,5,Calibri,7.0,402.0,693.8,414.3,700.7,86.2
+4,30,5,TimesNewRomanPSMT,12.0,414.3,688.3,417.3,701.6, 
+4,30,6,Calibri,7.0,436.9,693.8,450.6,700.7,0.9%
+4,30,6,TimesNewRomanPSMT,12.0,450.8,688.3,453.8,701.6, 
+4,30,7,Calibri,7.0,469.7,693.8,485.5,700.7,100.0
+4,30,7,TimesNewRomanPSMT,12.0,485.6,688.3,488.6,701.6, 
+4,30,8,Calibri,7.0,501.7,693.8,512.3,700.7,100
+4,30,8,TimesNewRomanPSMT,12.0,512.4,688.3,515.4,701.6, 
+4,31,0,Calibri-Bold,7.0,72.7,709.5,149.4,716.4,Access to e-Health records
+4,31,0,Calibri,7.0,149.5,709.5,151.1,716.4, 
+4,31,0,TimesNewRomanPSMT,12.0,151.2,704.0,154.2,717.3, 
+4,31,1,Calibri,7.0,257.6,709.5,269.9,716.4,88.2
+4,31,1,TimesNewRomanPSMT,12.0,269.9,704.0,272.9,717.3, 
+4,31,2,Calibri,7.0,296.0,709.5,308.3,716.4,87.0
+4,31,2,TimesNewRomanPSMT,12.0,308.4,704.0,311.4,717.3, 
+4,31,3,Calibri,7.0,329.8,709.5,345.7,716.4,-1.4%
+4,31,3,TimesNewRomanPSMT,12.0,345.8,704.0,348.8,717.3, 
+4,31,4,Calibri,7.0,367.4,709.5,379.7,716.4,97.5
+4,31,4,TimesNewRomanPSMT,12.0,379.8,704.0,382.8,717.3, 
+4,31,5,Calibri,7.0,402.0,709.5,415.9,716.4,82.7 
+4,31,6,Calibri,7.0,436.9,709.5,452.4,716.4,4.5% 
+4,31,7,Calibri,7.0,469.7,709.5,485.5,716.4,100.0
+4,31,7,TimesNewRomanPSMT,12.0,485.6,704.0,488.6,717.3, 
+4,31,8,Calibri,7.0,501.7,709.5,512.3,716.4,100
+4,31,8,TimesNewRomanPSMT,12.0,512.4,704.0,515.4,717.3, 
+4,32,0,Calibri,7.0,72.7,722.0,320.5,728.9,(1) See the methodological note for the description of the indicators and other metrics 
+4,32,0,TimesNewRomanPSMT,12.0,320.5,716.5,323.5,729.8, 
+4,32,1,Calibri,7.0,72.7,730.5,497.7,737.5,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,32,2,Calibri,7.0,72.7,739.1,415.4,746.1,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,32,2,TimesNewRomanPSMT,12.0,415.5,733.7,418.5,747.0, 
+4,32,3,Calibri,7.0,72.7,747.7,421.0,754.6,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,32,3,TimesNewRomanPSMT,12.0,421.1,742.2,424.1,755.5, 
+4,33,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,33,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+5,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+5,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+5,3,0,Calibri-Bold,11.0,72.0,84.1,373.9,95.2,According to the 2025 special Eurobarometer on the Digital Decade
+5,3,0,Calibri,11.0,374.0,84.1,525.9,95.2,", 68% of Austrian citizens consider "
+5,3,1,Calibri,11.0,72.0,98.7,525.7,109.7,that the digitalisation of daily public and private services is making their lives easier. On the action of 
+5,3,2,Calibri,11.0,72.0,113.1,525.7,124.1,"the public authorities, 87% consider it important to counter and mitigate the issue of fake news and "
+5,3,3,Calibri,11.0,72.0,127.6,525.8,138.6,"disinformation online, and on competitiveness, 82% consider it important to ensure that European "
+5,3,4,Calibri,11.0,72.0,142.1,464.6,153.1,companies can grow and become ‘European Champions’ capable of competing globally. 
+5,4,0,Calibri-Light,15.0,72.0,165.4,466.9,180.4,"A competitive, sovereign, and resilient EU based on technological "
+5,4,1,Calibri-Light,15.0,72.0,185.2,138.1,200.2,leadership 
+5,5,0,Calibri-Bold,11.0,72.0,216.0,525.8,227.1,"Austria demonstrates strong 5G leadership, ongoing progress in AI adoption, and growing "
+5,5,1,Calibri-Bold,11.0,72.0,229.5,461.0,240.5,investment in strategic technologies such as semiconductors and quantum computing
+5,5,1,Calibri,11.0,461.1,229.5,525.9,240.5,. With 99.55% 
+5,5,2,Calibri,11.0,72.0,242.9,525.7,254.0,"5G coverage and near-complete spectrum assignment, the country ranks among the EU's top "
+5,5,3,Calibri,11.0,72.0,256.4,525.9,267.4,"performers in mobile connectivity. AI adoption by enterprises is accelerating and reached 20.3%, "
+5,5,4,Calibri,11.0,72.0,269.8,525.7,280.8,surpassing the EU average and supported by clear strategic direction and targeted funding. Austria’s 
+5,5,5,Calibri,11.0,72.0,283.2,525.9,294.3,commitment to technological sovereignty is further reflected in its investments in strategic sectors: it 
+5,5,6,Calibri,11.0,72.0,296.7,525.7,307.7,continues to support quantum technologies through the Quantum Austria initiative and is advancing 
+5,5,7,Calibri,11.0,72.0,310.1,486.1,321.2,in semiconductors via targeted investments and participation in the Chips Joint Undertaking. 
+5,6,0,Calibri-Bold,11.0,72.0,335.6,496.6,346.6,"However, challenges remain in ensuring broader diffusion of advanced digital technologies. "
+5,6,0,Calibri,11.0,497.4,335.6,525.9,346.6,While 
+5,6,1,Calibri,11.0,72.0,349.0,525.9,360.0,"Austria’s digital intensity among SMEs is aligned with EU levels, the integration of data-driven solutions "
+5,6,2,Calibri,11.0,72.0,362.4,525.7,373.5,and next-generation technologies into business operations remains uneven. This is compounded by 
+5,6,3,Calibri,11.0,72.0,375.8,525.9,386.8,"structural bottlenecks in the scale-up and start-up ecosystem, despite notable policy support. Venture "
+5,6,4,Calibri,11.0,72.0,389.2,525.8,400.2,"capital investment has declined for the third consecutive year, as investor caution and delayed startup "
+5,6,5,Calibri,11.0,72.0,402.7,246.1,413.7,exits have slowed reinvestment cycles. 
+5,7,0,Calibri-Light,15.0,72.0,429.0,379.5,444.0,Protecting and empowering EU people and society 
+5,8,0,Calibri-Bold,11.0,72.0,459.9,525.6,470.9,Austria has a strong performance in digital skills and continues to expand targeted measures to 
+5,8,1,Calibri-Bold,11.0,72.0,473.3,171.0,484.4,bridge structural gaps
+5,8,1,Calibri,11.0,171.1,473.3,525.7,484.4,". However, persistent disparities, particularly across gender, education, and age "
+5,8,2,Calibri,11.0,72.0,486.8,525.8,497.8,affect digital inclusion. Flagship initiatives such as Digital Everywhere+ and the Future Skills programme 
+5,8,3,Calibri,11.0,72.0,500.2,525.7,511.3,demonstrate Austria’s commitment to reaching disadvantaged groups and improving the digital 
+5,8,4,Calibri,11.0,72.0,513.5,189.3,524.6,capacity of its workforce. 
+5,8,4,Calibri-Bold,11.0,190.2,513.5,428.2,524.6,Austria also took steps to expand its ICT workforce
+5,8,4,Calibri,11.0,428.4,513.5,525.9,524.6,", with new measures "
+5,8,5,Calibri,11.0,72.0,527.0,460.4,538.0,"aimed at reskilling, increasing female participation, and strengthening STEM pathways. "
+5,9,0,Calibri-Bold,11.0,72.0,552.4,525.7,563.5,"Austria performs well in e-Health and digital public services, with new national targets, a dedicated "
+5,9,1,Calibri-Bold,11.0,72.0,565.9,220.5,576.9,"strategy, and substantial funding"
+5,9,1,Calibri,11.0,220.6,565.9,225.9,576.9,. 
+5,10,0,Calibri-Light,15.0,72.0,592.2,399.0,607.2,Leveraging digital transformation for a smart greening 
+5,11,0,Calibri-Bold,11.0,72.0,623.0,525.6,634.1,Austria recognises the importance of integrating environmental sustainability into its digital 
+5,11,1,Calibri-Bold,11.0,72.0,636.6,496.8,647.6,transition but lacks a coherent strategy explicitly twinning the green and digital dimensions. 
+5,11,1,Calibri,11.0,497.5,636.6,525.9,647.6,While 
+5,11,2,Calibri,11.0,72.0,649.9,525.7,660.9,"AI for Green and SME-DIGITAL 4.0 initiatives support climate goals, no new measures have been "
+5,11,3,Calibri,11.0,72.0,663.3,525.6,674.4,adopted to monitor the environmental footprint of digital technologies or improve energy efficiency 
+5,11,4,Calibri,11.0,72.0,676.8,246.4,687.8,in infrastructures such as data centres. 
+5,12,0,Calibri-Light,15.0,72.0,703.1,328.3,718.1,National Digital Decade strategic roadmap 
+5,13,0,Calibri,11.0,72.0,734.0,525.6,745.1,"Austria submitted a fully updated roadmap in January 2025, including 26 new measures and revised "
+5,13,1,Calibri,11.0,72.0,747.5,525.6,758.5,"trajectories for key KPIs such as 5G, AI, and digital public services. While it addresses most 2024 "
+5,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,14,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+6,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+6,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+6,3,0,Calibri,11.0,72.0,84.1,525.8,95.2,"recommendations and sets clearer targets, the roadmap still lacks new dedicated support for SMEs "
+6,3,1,Calibri,11.0,72.0,97.6,525.8,108.6,"and a strategic framework for the green-digital nexus. The overall ambition remains high, particularly "
+6,3,2,Calibri,11.0,72.0,111.0,525.9,122.1,"in skills, AI, and connectivity, though progress will depend on sustained investment and cross-sector "
+6,3,3,Calibri,11.0,72.0,124.5,525.6,135.5,coordination. A total of 85 measures are now part of Austria’s national strategic roadmap with a total 
+6,3,4,Calibri,11.0,72.0,137.9,400.9,148.9,budget of EUR 4.07 billion (equivalent to 0.84% of Austria’s GDP in 2024). 
+6,4,0,Calibri-Light,15.0,72.0,164.1,249.8,179.1,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,191.1,462.9,202.1,Austria allocates 36% of its total recovery and resilience plan to digital (EUR 1.3 billion)
+6,5,0,Calibri,7.0,463.1,190.2,466.6,197.1,1
+6,5,0,Calibri,11.0,466.5,191.1,525.9,202.1,". In addition, "
+6,5,1,Calibri,11.0,72.0,205.5,525.7,216.5,"under cohesion policy, EUR 76 million, representing 7% of the country’s total cohesion policy funding, "
+6,5,2,Calibri,11.0,72.0,220.0,324.7,231.0,is dedicated to advancing Austria’s digital transformation
+6,5,2,Calibri,7.0,324.8,219.1,328.3,226.0,2
+6,5,2,Calibri,11.0,328.3,220.0,333.5,231.0,. 
+6,6,0,Calibri,11.0,72.0,242.6,523.6,253.6,Austria is directly involved in the IPCEI on Microelectronics and Communication Technologies (IPCEI-
+6,6,1,Calibri,11.0,72.0,257.0,507.7,268.0,ME/CT). Austria is a participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,7,0,Calibri,11.0,72.0,279.5,316.1,290.6,Austria has contributed to the Best Practice Accelerator
+6,7,0,Calibri,7.0,316.1,278.6,319.7,285.6,3
+6,7,0,Calibri,11.0,319.6,279.5,525.9,290.6, by sharing one best practice in the framework 
+6,7,1,Calibri,11.0,72.0,294.0,363.6,305.1,of the Digital Skills cluster (Digital Competence Initiative Austria). 
+6,8,0,Calibri-Light,15.0,72.0,317.4,242.0,332.4,Digital rights and principles  
+6,9,0,Calibri,11.0,72.0,344.2,525.9,355.2,"According to a support study, Austria has been one of the most active Member States in implementing "
+6,9,1,Calibri,11.0,72.0,358.7,89.5,369.8,the 
+6,9,1,Calibri-Bold,11.0,89.1,358.7,328.0,369.8,European Declaration on Digital Rights and Principles
+6,9,1,Calibri,11.0,328.1,358.7,525.9,369.8,", with over 100 initiatives overall and 21 new "
+6,9,2,Calibri,11.0,72.0,373.2,525.8,384.3,"initiatives launched in 2024. Austria is most active in the area of digital education, training and skills. "
+6,9,3,Calibri,11.0,72.0,387.8,525.6,398.8,Less activity has been identified with regards to Protection and empowerment of children and young 
+6,9,4,Calibri,11.0,72.0,402.2,525.8,413.2,"people in the digital environment, and Sustainability. Measures in the area of Sustainability appear to "
+6,9,5,Calibri,11.0,72.0,416.7,522.2,427.8,"have most impact on the ground, in contrast to those addressing safety, security and empowerment. "
+6,10,0,Calibri-Bold,11.0,77.7,439.7,168.5,450.8,Recommendations: 
+6,11,0,Calibri,11.0,95.7,462.2,99.0,473.2,-
+6,11,0,ArialMT,11.0,99.0,460.5,102.1,472.8, 
+6,11,1,Calibri-Bold,11.0,113.7,462.2,178.4,473.2,FTTP roll-out: 
+6,11,1,Calibri,11.0,179.2,462.2,529.6,473.2,"Sustain and further accelerate the pace of fibre rollout (FTTP), particularly in "
+6,11,2,Calibri,11.0,113.7,476.7,529.9,487.8,"rural areas, by maintaining strong investment and encouraging new deployment "
+6,11,3,Calibri,11.0,113.7,491.2,176.0,502.3,commitments
+6,11,3,Calibri-Bold,11.0,176.0,491.2,181.3,502.3,. 
+6,11,4,Calibri,11.0,95.7,505.6,99.0,516.7,-
+6,11,4,ArialMT,11.0,99.0,503.9,102.1,516.2, 
+6,11,5,Calibri-Bold,11.0,113.7,505.6,224.4,516.7,Cloud and data analytics
+6,11,5,Calibri,11.0,224.4,505.6,529.8,516.7,: Introduce targeted support to accelerate the adoption of cloud and 
+6,11,6,Calibri,11.0,113.7,520.1,503.2,531.2,"data analytics solutions, particularly among SMEs, to boost enterprise competitiveness."
+6,11,6,Calibri-Bold,11.0,503.3,520.1,505.8,531.2, 
+6,11,7,Calibri,11.0,95.7,534.7,99.0,545.7,-
+6,11,7,ArialMT,11.0,99.0,533.0,102.1,545.3, 
+6,11,8,Calibri-Bold,11.0,113.7,534.7,179.8,545.7,ICT specialists:
+6,11,8,Calibri,11.0,179.8,534.7,529.8,545.7, Accelerate the overall growth of ICT specialists by strengthening reskilling and 
+6,11,9,Calibri,11.0,113.7,549.2,529.8,560.2,"upskilling initiatives and promoting ICT training across enterprises, while continuing efforts to "
+6,11,10,Calibri,11.0,113.7,563.6,196.3,574.7,close gender gaps.
+6,11,10,Calibri-Bold,11.0,196.2,563.6,198.7,574.7, 
+6,11,11,Calibri,11.0,95.7,578.1,99.0,589.2,-
+6,11,11,ArialMT,11.0,99.0,576.4,102.1,588.7, 
+6,11,12,Calibri-Bold,11.0,113.7,578.1,229.8,589.2,Key digital public services
+6,11,12,Calibri,11.0,230.0,578.1,529.8,589.2,":  focus on accelerating growth in digital public services for citizens, "
+6,11,13,Calibri,11.0,113.7,592.7,529.8,603.7,particularly in cross-border services.  Sustained efforts in digital public services for businesses 
+6,11,14,Calibri,11.0,113.7,607.2,335.5,618.2,are needed to maintain this positive momentum. 
+6,11,14,Calibri-Bold,11.0,335.5,607.2,338.0,618.2, 
+6,11,15,Calibri,11.0,95.7,621.6,99.0,632.6,-
+6,11,15,ArialMT,11.0,99.0,619.9,102.1,632.2, 
+6,11,16,Calibri-Bold,11.0,113.7,621.6,157.2,632.6,Unicorns:
+6,11,16,Calibri,11.0,157.2,621.6,529.8,632.6, scaling it further will be essential for Austria to fully realise its competitiveness and 
+6,11,17,Calibri,11.0,113.7,636.1,309.0,647.1,sovereignty goals within the Digital Decade.
+6,11,17,Calibri-Bold,11.0,309.0,636.1,311.4,647.1, 
+6,12,0,Calibri,11.0,216.1,659.9,218.5,670.9, 
+6,12,1,Calibri,6.0,72.0,672.6,75.1,678.6,1
+6,12,1,Calibri,9.0,75.0,672.9,519.6,681.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,12,2,Calibri,9.0,72.0,683.9,313.5,692.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,12,3,Calibri,6.0,72.0,694.7,75.1,700.7,2
+6,12,3,Calibri,9.0,75.0,695.0,504.1,704.0, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+6,12,4,Calibri,9.0,72.0,705.9,503.3,714.9,"2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the "
+6,12,5,Calibri,9.0,72.0,716.9,351.4,725.9,"Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,12,6,Calibri,6.0,72.0,727.6,75.1,733.6,3
+6,12,6,Calibri,9.0,75.0,727.9,523.7,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,12,7,Calibri,9.0,72.0,738.9,497.0,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to 
+6,12,8,Calibri,9.0,72.0,749.8,518.0,758.8,"Member States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: "
+6,12,9,Calibri,9.0,72.0,760.9,298.3,769.9,"Digital Skills, Green IT, and the Uptake of Digital Technologies. "
+6,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,13,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+7,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+7,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+7,3,0,Calibri-Bold,26.0,72.0,87.2,529.1,113.2,"A competitive, sovereign and resilient EU "
+7,3,1,Calibri-Bold,26.0,72.0,121.4,444.2,147.4,based on technological leadership 
+7,4,0,Calibri-Bold,11.0,72.0,160.6,498.6,171.6,Austria’s digital competitiveness is increasingly recognised as a key driver of economic growth
+7,4,0,Calibri,11.0,498.6,160.6,525.9,171.6,", with "
+7,4,1,Calibri,11.0,72.0,175.1,525.7,186.1,"policies actively supporting the expansion of the country’s digital ecosystem. In recent years, Austria "
+7,4,2,Calibri,11.0,72.0,189.6,525.9,200.7,"has made notable progress in fostering innovation, particularly in the start-up landscape and in "
+7,4,3,Calibri,11.0,72.0,204.1,525.9,215.2,"artificial intelligence (AI), with targeted investments in research, development, and innovation "
+7,4,4,Calibri,11.0,72.0,218.5,525.8,229.6,"(R&D&I). However, while the government’s commitment to digital transformation remains strong, the "
+7,4,5,Calibri,11.0,72.0,233.1,525.7,244.1,broader investment environment faces challenges due to declining venture capital flows and investor 
+7,4,6,Calibri,11.0,72.0,247.6,118.9,258.6,hesitancy. 
+7,5,0,Calibri-Bold,11.0,72.0,270.0,311.1,281.1,The start-up ecosystem continues to face headwinds.
+7,5,0,Calibri,11.0,311.1,270.0,525.9,281.1," As at the end of 2024, Austria had five unicorns, "
+7,5,1,Calibri,11.0,72.0,284.6,525.7,295.6,unchanged from 2023. This underlines the need for greater momentum to meet Austria’s 2030 target 
+7,5,2,Calibri,11.0,72.0,299.1,525.9,310.1,"of 10 unicorns. The adjusted roadmap outlines 17 measures contributing to this goal, supported by "
+7,5,3,Calibri,11.0,72.0,313.6,525.9,324.6,EUR 1.234 billion in public investment and EUR 628 million in private investment – an increase 
+7,5,4,Calibri,11.0,72.0,328.0,525.9,339.0,compared to the previous year. Among the newly introduced tools is the AWS Spin-off Initiative an 
+7,5,5,Calibri,11.0,72.0,342.5,398.3,353.6,EUR 8.5 million programme supporting VC access for university spin-offs. 
+7,6,0,Calibri,11.0,72.0,365.1,525.8,376.1,"Despite this support, Austria’s VC environment remains strained: VC financing declined for the third "
+7,6,1,Calibri,11.0,72.0,379.5,525.7,390.5,"consecutive year. Private investors remain cautious, with many focusing on existing portfolios, while "
+7,6,2,Calibri,11.0,72.0,394.0,415.9,405.1,"delayed exits reduce reinvestment flows, weakening the scale-up ecosystem. "
+7,7,0,Calibri-Bold,11.0,72.0,416.6,340.1,427.6,Austria’s digital infrastructure shows a mixed performance
+7,7,0,Calibri,11.0,340.0,416.6,525.9,427.6,. It lags behind the EU average in fibre to 
+7,7,1,Calibri,11.0,72.0,431.0,525.9,442.0,"the premises (FTTP) and very high-capacity networks (VHCN) coverage despite robust growth rates, "
+7,7,2,Calibri,11.0,72.0,445.5,525.9,456.5,"especially in rural areas. Conversely, Austria performs strongly in 5G deployment, with near-complete "
+7,7,3,Calibri,11.0,72.0,460.0,525.7,471.1,coverage (99.55%) and significantly higher spectrum assignment (99.17%) than the EU average. The 
+7,7,4,Calibri,11.0,72.0,474.5,383.0,485.6,country is generally on track to meet its national connectivity targets. 
+7,8,0,Calibri-Bold,11.0,72.0,497.0,525.7,508.0,Deeper integration of data-driven and advanced digital technologies remains a key challenge for 
+7,8,1,Calibri-Bold,11.0,72.0,511.5,188.7,522.5,Austria’s digital economy.
+7,8,1,Calibri,11.0,188.7,511.5,525.8,522.5, Its cloud uptake and data analytics rates are growing but remain below the 
+7,8,2,Calibri,11.0,72.0,525.9,525.8,536.9,"EU average, while AI adoption by companies is above average and accelerating rapidly. The digital "
+7,8,3,Calibri,11.0,72.0,540.4,462.6,551.5,"intensity of SMEs is in line with the EU, with efforts underway to bridge structural gaps. "
+7,9,0,Calibri-Bold,11.0,72.0,563.0,525.9,574.1,"From a macroeconomic perspective, Austria’s ICT sector contributes less to national value added "
+7,9,1,Calibri-Bold,11.0,72.0,577.4,163.4,588.5,than the EU average
+7,9,1,Calibri,11.0,163.3,577.4,501.1,588.5, -– 3.83% in 2022 versus the EU’s 5.46% -– indicating underutilised potential.
+7,9,1,Calibri,7.0,501.1,576.5,504.6,583.5,4
+7,9,1,Calibri,11.0,504.6,577.4,525.9,588.5, The 
+7,9,2,Calibri,11.0,72.0,591.9,525.9,603.0,"sector accounts for 16.41% of business R&D expenditure (2021) and 18.42% of R&D personnel (2021), "
+7,9,3,Calibri,11.0,72.0,606.5,486.3,617.5,"highlighting that while the innovation ecosystem is active, it remains relatively small in scale. "
+7,10,0,Calibri,11.0,72.0,628.9,147.5,639.9,According to the 
+7,10,0,Calibri-Bold,11.0,147.1,628.9,379.8,639.9,Special Eurobarometer on ‘the Digital Decade’ 2025
+7,10,0,Calibri-Bold,7.0,379.8,628.0,383.3,635.0,5
+7,10,0,Calibri-Bold,11.0,383.2,628.9,523.5,639.9,", 82% of respondents in Austria"
+7,10,0,Calibri,11.0,523.4,628.9,525.9,639.9, 
+7,10,1,Calibri,11.0,72.0,643.4,525.8,654.5,"consider building efficient and secure digital infrastructures, including connectivity and data "
+7,10,2,Calibri,11.0,72.0,657.9,163.6,669.0,"processing facilities, "
+7,10,2,Calibri-Bold,11.0,163.3,657.9,356.9,669.0,an important priority for public authorities
+7,10,2,Calibri,11.0,357.1,657.9,425.3,669.0,. This is slightly 
+7,10,2,Calibri-Bold,11.0,425.1,657.9,525.9,669.0,below the EU average 
+7,10,3,Calibri-Bold,11.0,72.0,672.5,103.2,683.5,of 86%
+7,10,3,Calibri,11.0,103.2,672.5,163.6,683.5,". Meanwhile, "
+7,10,3,Calibri-Bold,11.0,163.7,672.5,240.2,683.5,11% of Austrians
+7,10,3,Calibri,11.0,240.3,672.5,497.4,683.5, viewed it as not important (compared to 9% at EU level). 
+7,11,0,Calibri,11.0,72.0,694.9,74.5,705.9, 
+7,11,1,Calibri,11.0,216.1,694.9,218.5,705.9, 
+7,12,0,Calibri,11.0,216.1,725.8,218.5,736.8, 
+7,13,0,Calibri,6.0,72.0,738.7,75.1,744.7,4
+7,13,0,Calibri,9.0,75.0,738.9,472.1,747.9, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note 
+7,13,1,Calibri,9.0,72.0,749.8,285.3,758.8,accompanying the State of the Digital Decade report 2025 
+7,13,2,Calibri,6.0,72.0,760.6,75.1,766.6,5
+7,13,2,Calibri,9.0,75.0,760.9,285.5,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+7,13,2,Calibri,9.0,285.7,760.9,515.0,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+7,13,2,Calibri,9.0,515.2,760.9,517.2,769.9, 
+7,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,14,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+8,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+8,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+8,2,0,Calibri-Light,15.0,72.0,85.0,509.7,100.0,Building technological leadership: digital infrastructure and technologies 
+8,4,0,Calibri-Bold,11.0,72.0,111.9,525.9,122.9,"Austria’s digital infrastructure continues to advance steadily, with notable progress in 5G "
+8,4,1,Calibri-Bold,11.0,72.0,126.4,274.3,137.4,deployment and rural coverage expansion.
+8,4,1,Calibri,11.0,274.4,126.4,525.8,137.4," While FTTP and VHCNs still lag behind EU averages, "
+8,4,2,Calibri,11.0,72.0,140.9,525.9,151.9,Austria’s growth rates in these areas remain among the highest in the EU. The country’s 5G roll-out is 
+8,4,3,Calibri,11.0,72.0,155.4,525.7,166.5,"nearing full coverage, supported by effective spectrum management and regulatory incentives. "
+8,4,4,Calibri,11.0,72.0,169.8,525.8,180.9,Continued public and private investment will be essential to closing the remaining infrastructure gaps 
+8,4,5,Calibri,11.0,72.0,184.3,112.8,195.4,by 2030. 
+8,5,0,Calibri-Light,12.0,72.0,207.0,200.4,219.0,Connectivity infrastructure
+8,5,0,Calibri-Light,12.0,200.4,207.0,203.2,219.0, 
+8,5,1,Calibri-Bold,11.0,72.0,222.6,525.5,233.7,"Overall, Austria’s performance closely aligns with its national trajectory for FTTP and VHCN "
+8,5,2,Calibri-Bold,11.0,72.0,237.2,525.9,248.2,"coverage, showing strong growth rates but requiring further progress to close the gap with EU-level "
+8,5,3,Calibri-Bold,11.0,72.0,251.7,118.3,262.7,coverage. 
+8,6,0,Calibri,11.0,72.0,274.1,525.9,285.2,"Austria’s total VHCN coverage for all households stood at 72.16% in 2024, still below the EU’s 82.49%. "
+8,6,1,Calibri,11.0,72.0,288.6,525.9,299.7,"However, Austria’s growth rate of 6.7% outpaced the EU’s 4.9%. For households in sparsely populated "
+8,6,2,Calibri,11.0,72.0,303.2,525.9,314.2,"areas, Austria’s VHCN coverage was 35.79% in 2023 and 42.17% in 2024, both lower than the EU’s "
+8,6,3,Calibri,11.0,72.0,317.6,475.9,328.6,"55.59% and 61.89%, respectively. Austria’s growth rate of 17.8% exceeded the EU’s 11.3%. "
+8,7,0,Calibri,11.0,72.0,340.1,525.9,351.2,"Austria’s total FTTP coverage stood at 44.82% in 2024, below the EU’s 69.24%. However, Austria’s "
+8,7,1,Calibri,11.0,72.0,354.6,525.7,365.7,"growth rate of 9.4% was higher than the EU’s 8.4%. For households in sparsely populated areas, "
+8,7,2,Calibri,11.0,72.0,369.0,525.8,380.1,"Austria’s FTTP coverage was 33.89% in 2024, lower than the EU’s 58.78%. Austria’s growth rate of "
+8,7,3,Calibri,11.0,72.0,383.6,247.1,394.6,18.0% was higher than the EU’s 11.9%. 
+8,8,0,Calibri,11.0,72.0,406.1,525.9,417.2,"Austria boasts an overall 5G coverage of 99.55% in 2024, higher than the EU’s 94.35%, with a growth "
+8,8,1,Calibri,11.0,72.0,420.5,525.9,431.6,"rate of 3.7% compared to the EU’s 6.0%. For households in sparsely populated areas, Austria’s 5G "
+8,8,2,Calibri,11.0,72.0,435.1,525.9,446.1,"coverage was 82.03% in 2023 and 97.85% in 2024, both higher than the EU’s 71.1% and 79.57%, "
+8,8,3,Calibri,11.0,72.0,449.6,411.9,460.6,respectively. Austria’s growth rate of 19.3% was higher than the EU’s 11.9%. 
+8,9,0,Calibri-Bold,11.0,72.0,472.0,525.9,483.1,"Regarding high-quality 5G, Austria’s coverage in the 3.4-3.8 GHz band is better than the EU average "
+8,9,1,Calibri-Bold,11.0,72.0,486.5,206.0,497.6,with 83.97% achieved in 2024
+8,9,1,Calibri,11.0,206.1,486.5,525.9,497.6," (against 67.72% for the EU). However, Austria’s growth rate of 6.2% was "
+8,9,2,Calibri,11.0,72.0,501.1,525.9,512.1,"lower than the EU’s 32.6%. For households in sparsely populated areas, Austria’s 5G coverage in the "
+8,9,3,Calibri,11.0,72.0,515.5,525.9,526.5,"3.4-3.8 GHz band was 41.52% in 2023 and 51.85% in 2024, both higher than the EU’s 15.86% and "
+8,9,4,Calibri,11.0,72.0,530.0,449.2,541.0,"26.19%, respectively. Austria’s growth rate of 24.9% was lower than the EU’s 65.1%.  "
+8,10,0,Calibri-Bold,11.0,72.0,552.5,525.4,563.6,"Austria’s 5G pioneer bands spectrum assignment was 99.17% in both 2024 and 2025, higher than "
+8,10,1,Calibri-Bold,11.0,72.0,567.0,196.9,578.0,the EU’s 73.4% and 74.63%
+8,10,1,Calibri,11.0,197.0,567.0,525.7,578.0,", respectively. Austria had no growth between 2024 and 2025, while the "
+8,10,2,Calibri,11.0,72.0,581.5,467.4,592.5,EU’s growth was 1.7%. The country is on track according to its national trajectory for 5G. 
+8,11,0,Calibri,11.0,72.0,604.1,525.9,615.1,"Austria should focus on improving total VHCN and FTTP coverage to match EU averages. However, the "
+8,11,1,Calibri,11.0,72.0,618.5,525.6,629.5,"country’s strong performance in 5G coverage and spectrum assignment, along with positive growth "
+8,11,2,Calibri,11.0,72.0,633.0,486.9,644.0,"rates in several areas, indicates a promising trajectory for digital infrastructure development. "
+8,12,0,Calibri-LightItalic,11.0,72.0,655.5,141.0,666.6,VHCN and FTTP
+8,12,0,Calibri-LightItalic,11.0,140.9,655.5,143.4,666.6, 
+8,13,0,Calibri-Bold,11.0,72.0,678.0,525.9,689.0,Austria is at 72.16% of VHCN coverage (2030 national target 100%) after an increase of 6.7% in 2024 
+8,13,1,Calibri-Bold,11.0,72.0,692.5,227.0,703.5,and stands below the EU average.
+8,13,1,Calibri,11.0,227.1,692.5,525.8,703.5," In rural and sparsely populated areas, coverage remained limited, "
+8,13,2,Calibri,11.0,72.0,706.9,525.9,717.9,"compared to the EU average. Despite this gap, Austria has shown strong momentum, with VHCN "
+8,13,3,Calibri,11.0,72.0,721.4,266.0,732.5,coverage growth outpacing the EU average.
+8,13,3,Calibri-Bold,11.0,266.0,721.4,268.5,732.5, 
+8,14,0,Calibri-Bold,11.0,72.0,744.0,333.5,755.0,"Despite positive momentum, Austria still faces challenges"
+8,14,0,Calibri,11.0,333.5,744.0,525.9,755.0,. A slowdown in VHCN roll-out has become 
+8,14,1,Calibri,11.0,72.0,758.4,525.6,769.4,"evident recently, mainly due to completion of upgrades from DOCSIS 3.0 and the limited existing "
+8,15,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,15,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+9,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+9,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+9,3,0,Calibri,11.0,72.0,84.1,525.7,95.2,commitments to extend coverage to new households. Under the Broadband Austria initiatives 
+9,3,1,Calibri,11.0,72.0,98.7,525.9,109.7,"(BBA2020 and BBA2030), however, Austria plans to deploy VHCN connectivity to an additional 160 000 "
+9,3,2,Calibri,11.0,72.0,113.1,525.6,124.1,"households, reaching a total of at least 76% household coverage. Further opportunities to expand "
+9,3,3,Calibri,11.0,72.0,127.6,525.8,138.6,"coverage have been identified by Austrian authorities, even though specific commitments remain "
+9,3,4,Calibri,11.0,72.0,142.1,525.9,153.1,"lacking for approximately 440 000 households currently served by xDSL technology. Additionally, the "
+9,3,5,Calibri,11.0,72.0,156.6,525.9,167.7,implementation of the Gigabit Infrastructure Act (GIA) into national law is currently underway and is 
+9,3,6,Calibri,11.0,72.0,171.0,327.0,182.1,expected to contribute to accelerating fibre deployment. 
+9,4,0,Calibri-Bold,11.0,72.0,193.6,525.8,204.6,Austria also needs to accelerate the pace of fibre roll-out. Despite recording a solid growth rate of 
+9,4,1,Calibri-Bold,11.0,72.0,208.1,520.8,219.1,9.4% in 2024 – above the EU average – Austria’s total FTTP coverage still lags significantly behind
+9,4,1,Calibri,11.0,520.8,208.1,525.9,219.1,. 
+9,4,2,Calibri,11.0,72.0,222.5,525.8,233.5,"The gap is even more pronounced in sparsely populated areas, where Austria’s FTTP coverage (33.89%) "
+9,4,3,Calibri,11.0,72.0,237.0,269.5,248.1,remains far below the EU average (58.78%). 
+9,5,0,Calibri,11.0,72.0,259.6,525.9,270.6,"Regarding specific measures, the adjusted roadmap for 2024 did not introduce new measures for the "
+9,5,1,Calibri,11.0,72.0,274.0,525.8,285.0,Broadband Austria initiative. The primary funding instrument remains the Broadband Austria 2030 
+9,5,2,Calibri,11.0,72.0,288.5,525.7,299.6,"initiative (BBA2030), which will channel EUR 1.4 billion into deploying fibre infrastructure in rural "
+9,5,3,Calibri,11.0,72.0,303.0,101.3,314.1,areas. 
+9,6,0,Calibri,11.0,72.0,325.5,525.8,336.5,"In conclusion, Austria’s unchanged targets for both fibre and VHCN remain realistic. However, while "
+9,6,1,Calibri,11.0,72.0,340.0,525.6,351.0,"the country demonstrates robust growth, particularly in rural areas, further acceleration of fibre "
+9,6,2,Calibri,11.0,72.0,354.5,525.7,365.6,deployment is needed to close the coverage gap with the EU average. Achieving this will require 
+9,6,3,Calibri,11.0,72.0,369.0,525.7,380.1,"sustained political commitment, continued investment, and targeted efforts in currently underserved "
+9,6,4,Calibri,11.0,72.0,383.4,110.0,394.5,regions. 
+9,7,0,Calibri-LightItalic,11.0,72.0,406.0,87.0,417.1,5G 
+9,8,0,Calibri-Bold,11.0,72.0,428.5,525.9,439.5,Austria is at 99.55% of 5G coverage (2030 national target 100%) after an increase of 3.7% in 2024 
+9,8,1,Calibri-Bold,11.0,72.0,443.0,525.6,454.0,"and stands above the EU average. Austria continues to aim for 100% 5G coverage by 2030, as "
+9,8,2,Calibri-Bold,11.0,72.0,457.5,218.8,468.5,established in its 2023 roadmap.
+9,8,2,Calibri,11.0,218.9,457.5,525.9,468.5, Given Austria’s current performance this goal aligns well with the EU 
+9,8,3,Calibri,11.0,72.0,471.9,175.0,482.9,Digital Decade targets. 
+9,9,0,Calibri-Bold,11.0,72.0,494.5,525.7,505.5,The absence of public funding dedicated specifically to 5G deployment means that this target 
+9,9,1,Calibri-Bold,11.0,72.0,509.0,302.1,520.0,depends entirely on private-sector investment. 
+9,9,1,Calibri,11.0,305.7,509.0,525.8,520.0,"Considering the already high coverage levels, "
+9,9,2,Calibri,11.0,72.0,523.4,525.9,534.4,"achieving 100% coverage by 2030 appears realistic, though particular attention must be given to rural "
+9,9,3,Calibri,11.0,72.0,537.9,291.0,548.9,"areas, where gaps are more challenging to close. "
+9,10,0,Calibri-Bold,11.0,72.0,560.5,525.9,571.5,"In the adjusted roadmap, Austria introduced only one new measure related to 5G, dedicated to "
+9,10,1,Calibri-Bold,11.0,72.0,574.9,336.7,585.9,anchoring the 5G Broadcast in the digitalisation concept
+9,10,1,Calibri,11.0,336.9,574.9,525.8,585.9,. This measure aims to secure terrestrial 
+9,10,2,Calibri,11.0,72.0,589.4,525.7,600.5,television broadcasting coverage for approximately 98% of the Austrian population by reallocating 
+9,10,3,Calibri,11.0,72.0,603.9,525.7,615.0,multiplex platforms (‘MUX A/B’) by 2025. While the measure underscores the importance of 5G 
+9,10,4,Calibri,11.0,72.0,618.5,525.9,629.5,"technology in broadcasting, it does not directly address mobile connectivity or improve rural "
+9,10,5,Calibri,11.0,72.0,632.9,525.7,643.9,"broadband access. Thus, this measure is complementary but does not explicitly address "
+9,10,6,Calibri,11.0,72.0,647.4,455.4,658.4,recommendations from the 2024 country report concerning 5G standalone networks. 
+9,11,0,Calibri,11.0,72.0,669.8,525.9,680.9,Deployment of 5G infrastructure remains robust due to regulatory obligations linked to spectrum 
+9,11,1,Calibri,11.0,72.0,684.3,525.9,695.4,auctions. Operators were required to deploy frequencies in the 3.4-3.8 GHz band at 1 000 mobile 
+9,11,2,Calibri,11.0,72.0,698.9,525.9,709.9,"stations by the end of 2022, a target that was successfully met. Moreover, the multi-band auction for "
+9,11,3,Calibri,11.0,72.0,713.4,525.9,724.4,700/1500/2100 MHz introduced by Austria’s regulatory authority includes an innovative bonus system 
+9,11,4,Calibri,11.0,72.0,727.8,525.7,738.8,providing financial incentives for operators to extend coverage into rural areas. This has enabled 5G 
+9,11,5,Calibri,11.0,72.0,742.3,525.9,753.4,"expansion in 1 702 cadastral communities, i.e. in approximately 80% of rural areas historically "
+9,11,6,Calibri,11.0,72.0,756.8,288.3,767.9,underserved by high-speed mobile connectivity. 
+9,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+10,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+10,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+10,3,0,Calibri-Bold,11.0,72.0,84.1,525.5,95.2,"Austria has shown exceptional progress in spectrum assignment for 5G, achieving a 99.2% "
+10,3,1,Calibri-Bold,11.0,72.0,98.7,520.7,109.7,"assignment rate of 5G pioneer bands in 2023, positioning Austria among the EU’s top performers"
+10,3,1,Calibri,11.0,520.8,98.7,525.9,109.7,. 
+10,3,2,Calibri,11.0,72.0,113.1,525.7,124.1,"The 2022-2026 Spectrum Release Plan, published jointly by the regulatory authority and the Federal "
+10,3,3,Calibri,11.0,72.0,127.6,525.8,138.6,"Ministry for Housing, Arts, Culture, Media and Sport, offers clear timelines for future spectrum "
+10,3,4,Calibri,11.0,72.0,142.1,525.9,153.1,"assignments. Furthermore, the assignment of the 26 GHz band is expected to significantly improve "
+10,3,5,Calibri,11.0,72.0,156.6,525.8,167.7,"capabilities, enabling innovative use-cases and supporting the development of edge computing "
+10,3,6,Calibri,11.0,72.0,171.0,130.9,182.1,applications. 
+10,4,0,Calibri-Bold,11.0,78.0,199.9,323.8,211.0,2024 recommendation on connectivity infrastructure
+10,4,0,Calibri,11.0,324.0,199.9,519.7,211.0,: Take appropriate actions to maintain the 
+10,4,1,Calibri,11.0,78.0,214.5,519.6,225.5,current sustained FTTP rollout pace and carefully monitor the metrics including rural coverage in 
+10,4,2,Calibri,11.0,78.0,229.0,519.5,240.0,order to reach full coverage by 2030; Ensure sufficient access of new players to spectrum for 
+10,4,3,Calibri,11.0,78.0,243.4,519.8,254.4,innovative business-to-business (B2B) and business-to-consumer (B2C) applications and encourage 
+10,4,4,Calibri,11.0,78.0,257.9,403.5,269.0,operators to speed up the deployment of 5G stand-alone core networks. 
+10,5,0,Calibri-Bold,11.0,78.0,287.4,517.2,298.5,Austria made some efforts to address the recommendation through new policy actions in 2024.
+10,5,0,Calibri,11.0,517.3,287.4,519.8,298.5, 
+10,5,1,Calibri,11.0,78.0,302.0,519.8,313.0,While Austria maintained a strong FTTP roll-out pace – especially in rural areas – and continued to 
+10,5,2,Calibri,11.0,78.0,316.5,519.6,327.5,"make progress under the Broadband Austria 2030 initiative, no new measures were introduced "
+10,5,3,Calibri,11.0,78.0,331.0,519.7,342.0,"beyond adjusted funding allocations. On 5G, Austria sustained strong deployment levels and "
+10,5,4,Calibri,11.0,78.0,345.4,519.5,356.4,"spectrum assignment, but no new policies were adopted to accelerate standalone 5G networks or "
+10,5,5,Calibri,11.0,78.0,359.9,519.7,371.0,"broaden spectrum access for new players, with efforts remaining anchored in the existing regulatory "
+10,5,6,Calibri,11.0,78.0,374.4,132.1,385.5,framework. 
+10,6,0,Calibri,11.0,72.0,398.3,74.5,409.4, 
+10,7,0,Calibri-Light,12.0,72.0,421.0,151.9,433.0,Semiconductors 
+10,7,1,Calibri-Bold,11.0,72.0,436.6,525.8,447.7,"Austria has positioned itself as an important player in the European semiconductor value chain, with "
+10,7,2,Calibri-Bold,11.0,72.0,451.1,321.6,462.2,a well-defined national strategy to support the sector.
+10,7,2,Calibri,11.0,321.8,451.1,525.9,462.2," In the first version of the national roadmap, "
+10,7,3,Calibri,11.0,72.0,465.7,525.9,476.7,"semiconductors received significant focus, with four key measures allocating approximately EUR 327 "
+10,7,4,Calibri,11.0,72.0,480.1,525.9,491.1,"million, accounting for 9% of the strategic roadmap’s total budget. Austria’s approach aligns closely "
+10,7,5,Calibri,11.0,72.0,494.6,525.8,505.6,"with the European Chips Act, which aims to enhance Europe’s semiconductor production capacity, "
+10,7,6,Calibri,11.0,72.0,509.1,470.2,520.2,"strengthen supply chain resilience, and reduce reliance on non-European manufacturers. "
+10,8,0,Calibri-Bold,11.0,72.0,531.5,525.6,542.6,"Since the last report, Austria has made notable progress in semiconductor manufacturing, "
+10,8,1,Calibri-Bold,11.0,72.0,546.1,457.9,557.1,"particularly in wafer production for automotive, industrial, and medical applications."
+10,8,1,Calibri,11.0,458.1,546.1,525.9,557.1, The country is 
+10,8,2,Calibri,11.0,72.0,560.6,525.6,571.7,"home to key industry actors, including ams Osram, Infineon Austria, and AT&S, which contribute to "
+10,8,3,Calibri,11.0,72.0,575.1,525.7,586.2,both design and manufacturing capabilities. Austria’s strength lies in specialised semiconductor 
+10,8,4,Calibri,11.0,72.0,589.5,501.4,600.6,"production, particularly in power electronics, sensor technologies, and automotive applications. "
+10,9,0,Calibri-Bold,11.0,72.0,612.1,525.7,623.1,The European Commission’s approval of Austria’s first Chips Act Pillar 2 project in February 2025 
+10,9,1,Calibri-Bold,11.0,72.0,626.6,217.3,637.7,marked a significant milestone.
+10,9,1,Calibri,11.0,217.5,626.6,525.8,637.7, The approved EUR 227 million State aid measure will support ams 
+10,9,2,Calibri,11.0,72.0,641.0,525.9,652.1,Osram AG in establishing a first-of-its-kind integrated wafer manufacturing facility in Premstätten. This 
+10,9,3,Calibri,11.0,72.0,655.5,525.7,666.6,plant will use Complementary Metal Oxide Semiconductors (CMOS) technology combined with 
+10,9,4,Calibri,11.0,72.0,670.1,523.6,681.1,"Through Silicon Via (TSV) and optical filter techniques, offering Europe a high-reliability, automotive-"
+10,9,5,Calibri,11.0,72.0,684.6,268.1,695.6,grade semiconductor production capability. 
+10,10,0,Calibri-Bold,11.0,72.0,707.0,525.7,718.1,"This investment aligns with Austria’s broader strategy to enhance supply chain security, improve "
+10,10,1,Calibri-Bold,11.0,72.0,721.6,436.2,732.6,"technological sovereignty, and contribute to the EU’s semiconductor ecosystem"
+10,10,1,Calibri,11.0,436.2,721.6,525.9,732.6,. The facility will be 
+10,10,2,Calibri,11.0,72.0,736.1,525.6,747.1,"partially open to other semiconductor companies, increasing collaboration and ensuring a broader "
+10,10,3,Calibri,11.0,72.0,750.5,306.9,761.5,impact on the European semiconductor value chain. 
+10,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+11,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+11,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+11,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"Austria’s strategic focus remains strong, and its commitments under the European Chips Act are being "
+11,2,1,Calibri,11.0,72.0,98.7,525.7,109.7,"implemented effectively. Given the high level of ongoing investment, the lack of new national "
+11,2,2,Calibri,11.0,72.0,113.1,168.0,124.1,measures is justified. 
+11,4,0,Calibri-Bold,11.0,72.0,135.6,525.9,146.7,"Austria’s semiconductor sector continues to expand, driven by strong public-private investment and "
+11,4,1,Calibri-Bold,11.0,72.0,150.1,235.2,161.2,a supportive regulatory framework
+11,4,1,Calibri,11.0,235.2,150.1,525.8,161.2,". The ams Osram facility in Premstätten, expected to reach full "
+11,4,2,Calibri,11.0,72.0,164.5,525.9,175.6,"operational capacity by 2030, will be the first of its kind in Europe to produce automotive-grade, highly "
+11,4,3,Calibri,11.0,72.0,179.1,525.9,190.1,"integrated semiconductor chips. This development is key for Europe’s strategic autonomy, reducing "
+11,4,4,Calibri,11.0,72.0,193.6,441.7,204.6,reliance on external suppliers and enhancing domestic semiconductor capabilities. 
+11,5,0,Calibri-Light,12.0,72.0,216.3,130.2,228.3,Edge nodes 
+11,5,1,Calibri-Bold,11.0,72.0,231.9,525.9,242.9,"Austria hosted 33 edge nodes in 2024, up from 30 in 2023, representing a growth of three units and "
+11,5,2,Calibri-Bold,11.0,72.0,246.4,397.5,257.5,accounting for 1.46% of the 2 257 edge nodes deployed across the EU
+11,5,2,Calibri,11.0,397.7,246.4,525.9,257.5,. This share remains slightly 
+11,5,3,Calibri,11.0,72.0,260.9,525.6,272.0,"below Austria’s share of EU GDP, indicating underrepresentation in edge node deployment relative to "
+11,5,4,Calibri,11.0,72.0,275.3,166.4,286.4,its economic weight. 
+11,6,0,Calibri-Bold,11.0,72.0,297.9,525.9,308.9,Progress remains slow due to insufficient attention to this aspect of digital infrastructure 
+11,6,1,Calibri-Bold,11.0,72.0,312.3,135.7,323.3,development.
+11,6,1,Calibri,11.0,135.7,312.3,525.6,323.3," Similar to last year, Austria’s adjusted national strategic roadmap for 2025 does not "
+11,6,2,Calibri,11.0,72.0,326.8,523.6,337.9,provide a defined national trajectory towards the EU Digital Decade goal of deploying 10 000 climate-
+11,6,3,Calibri,11.0,72.0,341.3,525.7,352.4,neutral and secure edge nodes by 2030. Austria has also not introduced new dedicated measures 
+11,6,4,Calibri,11.0,72.0,355.8,525.9,366.9,specifically targeting edge nodes deployment or further incentivising private-sector investment in this 
+11,6,5,Calibri,11.0,72.0,370.4,96.8,381.4,field. 
+11,7,0,Calibri-Bold,11.0,72.0,392.8,525.9,403.9,"The Austrian authorities continue to rely on private-sector investors and, in particular, "
+11,7,1,Calibri-Bold,11.0,72.0,407.3,404.6,418.4,communications networks operators for the deployment of edge nodes.
+11,7,1,Calibri,11.0,404.5,407.3,525.9,418.4, Public-sector intervention 
+11,7,2,Calibri,11.0,72.0,421.7,525.7,432.8,"remains indirect, concentrating on creating favourable network conditions, facilitating the allocation "
+11,7,3,Calibri,11.0,72.0,436.3,525.9,447.3,of necessary spectrum resources – particularly through setting up the 26 GHz band – and implementing 
+11,7,4,Calibri,11.0,72.0,450.8,525.8,461.8,security and technical regulatory frameworks aligned with EU requirements such as the NIS2 Directive 
+11,7,5,Calibri,11.0,72.0,465.3,276.9,476.4,and related European standardisation efforts. 
+11,8,0,Calibri-Bold,11.0,78.0,494.1,249.6,505.1,2024 recommendation on Edge nodes
+11,8,0,Calibri,11.0,249.6,494.1,519.7,505.1,: Propose dedicated measures to support the deployment of 
+11,8,1,Calibri,11.0,78.0,508.6,134.8,519.7,edge nodes. 
+11,9,0,Calibri-Bold,11.0,78.0,538.1,447.2,549.2,No information available on measures taken to address the recommendation. 
+11,9,0,Calibri,11.0,447.2,538.1,519.8,549.2,Austria has not 
+11,9,1,Calibri,11.0,78.0,552.7,482.4,563.7,communicated any measure to support the deployment of edge nodes across the country. 
+11,10,0,Calibri,11.0,72.0,576.6,74.5,587.6, 
+11,11,0,Calibri-Light,12.0,72.0,599.4,184.4,611.4,Quantum technologies 
+11,11,1,Calibri-Bold,11.0,72.0,614.9,525.8,625.9,"Austria continues to strategically position itself as a key European player in quantum technologies, "
+11,11,2,Calibri-Bold,11.0,72.0,629.4,525.7,640.4,"particularly in quantum computing, simulation, communication infrastructure, and advanced "
+11,11,3,Calibri-Bold,11.0,72.0,643.9,171.1,654.9,quantum applications
+11,11,3,Calibri,11.0,171.2,643.9,525.9,654.9,". Building on the foundations laid out in previous years, Austria maintains strong "
+11,11,4,Calibri,11.0,72.0,658.4,525.8,669.5,"alignment with the EU-funded ‘Quantum Austria’ initiative, which remains the central pillar of its "
+11,11,5,Calibri,11.0,72.0,672.8,525.8,683.9,"national strategy. Supported by EUR 107 million from the Recovery and Resilience Facility (RRF), the "
+11,11,6,Calibri,11.0,72.0,687.3,525.9,698.4,"initiative has already funded 43 projects with EUR 78 million, reflecting Austria’s sustained "
+11,11,7,Calibri,11.0,72.0,701.9,525.6,712.9,"commitment to advancing research infrastructures, collaborative R&D, and the commercialisation of "
+11,11,8,Calibri,11.0,72.0,716.4,525.8,727.4,"quantum-enabled solutions. These projects cover a wide range of areas including quantum computing, "
+11,11,9,Calibri,11.0,72.0,730.8,268.5,741.8,"simulation, metrology, and communication. "
+11,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+12,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+12,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+12,3,0,Calibri-Bold,11.0,72.0,84.1,525.7,95.2,"Despite this continued momentum, the adjusted 2025 roadmap reflects a cautious approach, with "
+12,3,1,Calibri-Bold,11.0,72.0,98.7,302.0,109.7,no new quantum-specific measures introduced.
+12,3,1,Calibri,11.0,302.1,98.7,525.8,109.7, Quantum Austria remains the sole dedicated 
+12,3,2,Calibri,11.0,72.0,113.1,525.9,124.1,"initiative in this domain, and no further expansions or strategic amendments have been made since "
+12,3,3,Calibri,11.0,72.0,127.6,525.9,138.6,"last year. Nonetheless, Austria continues to leverage broader support frameworks for deep-tech "
+12,3,4,Calibri,11.0,72.0,142.1,525.9,153.1,innovation. Programmes such as the aws First Incubator for KPI unicorns and aws PreSeed – Deep Tech 
+12,3,5,Calibri,11.0,72.0,156.6,525.9,167.7,contribute indirectly to Austria’s quantum ecosystem by supporting start-ups and SMEs active in 
+12,3,6,Calibri,11.0,72.0,171.0,247.1,182.1,cutting-edge technology development. 
+12,4,0,Calibri-Bold,11.0,72.0,193.6,525.5,204.6,"At EU level, Austria remains actively involved in key initiatives underpinning the EU’s technological "
+12,4,1,Calibri-Bold,11.0,72.0,208.1,125.0,219.1,sovereignty
+12,4,1,Calibri,11.0,125.1,208.1,525.9,219.1,. It participates in three of the six pilot lines under the Chips Joint Undertaking – focusing 
+12,4,2,Calibri,11.0,72.0,222.5,525.8,233.5,"on photonics, trapped ions, and diamonds – and continues to make progress in the development of a "
+12,4,3,Calibri,11.0,72.0,237.0,525.7,248.1,"quantum communication infrastructure (QCI) as part of the EU’s EuroQCI initiative, backed by the "
+12,4,4,Calibri,11.0,72.0,251.6,525.7,262.6,Digital Europe programme. These engagements underscore Austria’s broader commitment to 
+12,4,5,Calibri,11.0,72.0,266.1,335.2,277.1,contributing meaningfully to Europe’s quantum ambitions. 
+12,5,0,Calibri-Bold,11.0,72.0,288.5,525.7,299.6,"In parallel, Austria’s selection as one of six new host countries for an AI Factory under the European "
+12,5,1,Calibri-Bold,11.0,72.0,303.0,525.7,314.1,High Performance Computing Joint Undertaking (EuroHPC JU) further enhances its innovation 
+12,5,2,Calibri-Bold,11.0,72.0,317.6,120.7,328.6,landscape.
+12,5,2,Calibri,11.0,120.7,317.6,525.9,328.6, Austria's participation will support high-performance computing needs that are also crucial 
+12,5,3,Calibri,11.0,72.0,332.0,525.7,343.0,"for developing and integrating quantum computing applications, reinforcing Austria’s digital and "
+12,5,4,Calibri,11.0,72.0,346.5,290.7,357.5,scientific capabilities across interlinked domains. 
+12,6,0,Calibri-Light,15.0,72.0,369.9,526.8,384.9,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+12,7,0,Calibri-Bold,11.0,72.0,396.8,525.6,407.8,"Austria’s digitalisation of enterprises has steadily progressed, with 72.22% of SMEs reaching at least "
+12,7,1,Calibri-Bold,11.0,72.0,411.3,432.2,422.4,a basic level of digital intensity in 2024 – closely aligned with the EU average
+12,7,1,Calibri,11.0,432.3,411.3,525.8,422.4,. While this marks a 
+12,7,2,Calibri,11.0,72.0,425.7,525.7,436.8,"positive trajectory, sustained growth will be necessary to meet the 2030 Digital Decade target of 90%, "
+12,7,3,Calibri,11.0,72.0,440.2,525.9,451.3,particularly given the persistent digital gaps between SMEs and large firms in areas like cloud 
+12,7,4,Calibri,11.0,72.0,454.7,525.9,465.8,"computing, data analytics, and AI adoption. In contrast to previous years, Austria’s updated roadmap "
+12,7,5,Calibri,11.0,72.0,469.3,525.7,480.3,"now includes a clear national target for SME digitalisation, reflecting stronger strategic alignment. "
+12,7,6,Calibri,11.0,72.0,483.7,525.9,494.7,"However, implementation continues to rely largely on existing programmes such as SME.DIGITAL, with "
+12,7,7,Calibri,11.0,72.0,498.2,525.8,509.2,"few new initiatives introduced. The start-up ecosystem, despite strong public support and ambitious "
+12,7,8,Calibri,11.0,72.0,512.7,525.7,523.8,"policy targets, faces mounting investment headwinds, underscoring the need to maintain momentum "
+12,7,9,Calibri,11.0,72.0,527.2,208.5,538.3,and unlock scale-up potential. 
+12,8,0,Calibri-Light,12.0,72.0,549.9,265.2,561.9,SMEs with at least basic digital intensity 
+12,9,0,Calibri-Bold,11.0,72.0,573.5,364.3,584.5,Austria is at 72.22% of SMEs with at least basic digital intensity
+12,9,0,Calibri,11.0,364.6,573.5,525.8,584.5, (2030 national target: 90%) after a 
+12,9,1,Calibri,11.0,72.0,588.0,137.8,599.0,progression of 
+12,9,1,Calibri-Bold,11.0,137.3,588.0,314.0,599.0,+4.86 percentage points since 2022 and
+12,9,1,Calibri,11.0,314.0,588.0,525.8,599.0," stands close to the EU average. In 2024, 72.22% "
+12,9,2,Calibri,11.0,72.0,602.5,525.6,613.5,"of Austrian SMEs exhibited at least basic digital intensity, compared to the EU average of 72.91%. "
+12,9,3,Calibri-Bold,11.0,72.0,617.0,525.6,628.1,"Looking at higher levels, 34.47% of Austrian SMEs achieved high or very high digital intensity, slightly "
+12,9,4,Calibri-Bold,11.0,72.0,631.5,220.3,642.6,above the EU average of 32.66%.
+12,9,4,Calibri,11.0,220.4,631.5,525.8,642.6, The adjusted roadmap introduced for the first time a national target 
+12,9,5,Calibri,11.0,72.0,645.9,429.8,657.0,"in this domain, signalling Austria’s increased commitment to the Digital Decade. "
+12,10,0,Calibri-Bold,11.0,72.0,668.5,525.9,679.5,"The main measure underpinning Austria’s SME digitalisation remains the SME.DIGITAL programme, "
+12,10,1,Calibri-Bold,11.0,72.0,682.9,224.5,693.9,now relaunched and expanded.
+12,10,1,Calibri,11.0,224.6,682.9,525.7,693.9, Although the adjusted roadmap introduces no new measures 
+12,10,2,Calibri,11.0,72.0,697.4,525.8,708.5,"explicitly targeting SMEs, Austrian authorities confirmed substantial investment and expectations for "
+12,10,3,Calibri,11.0,72.0,711.9,525.8,723.0,existing programmes (SME.DIGITAL and the European Digital Innovation Hubs) to significantly impact 
+12,10,4,Calibri,11.0,72.0,726.5,525.8,737.5,"SME digital intensity. However, economic operators have indicated that the current financial allocation "
+12,10,5,Calibri,11.0,72.0,740.9,525.7,751.9,"under SME.DIGITAL is insufficient and that increased awareness, higher investment volumes, and "
+12,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+13,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+13,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+13,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"enhanced training efforts – particularly in the areas of AI, data analytics, and green digital skills – are "
+13,2,1,Calibri,11.0,72.0,98.7,150.5,109.7,urgently needed. 
+13,4,0,Calibri,11.0,72.0,121.1,525.9,132.1,"While the fact that Austria has set a new national trajectory is a positive development, gaps persist "
+13,4,1,Calibri,11.0,72.0,135.6,525.7,146.7,"regarding specific initiatives for data analytics uptake, which remains relatively low among Austrian "
+13,4,2,Calibri,11.0,72.0,150.1,101.4,161.2,SMEs. 
+13,5,0,Calibri-Bold,11.0,72.0,172.6,525.7,183.6,"In 2024, Austria could rely on 11 European Digital Innovation Hubs, four of which receive support "
+13,5,1,Calibri-Bold,11.0,72.0,187.1,240.0,198.1,from the Digital Europe Programme.
+13,5,1,Calibri,11.0,240.2,187.1,525.7,198.1, These hubs play an essential role in the digital transformation 
+13,5,2,Calibri,11.0,72.0,201.6,525.9,212.7,"ecosystem, offering targeted local support to SMEs across various sectors. The following hubs deserve "
+13,5,3,Calibri,11.0,72.0,216.0,155.9,227.1,a special mention: 
+13,6,0,SymbolMT,11.0,90.0,236.4,95.1,249.9,
+13,6,0,ArialMT,11.0,95.1,237.5,98.1,249.8, 
+13,6,1,Calibri,11.0,108.0,239.2,519.5,250.2,"AI5production: Promotes Industry 5.0 transitions, particularly through AI and cybersecurity. "
+13,7,0,SymbolMT,11.0,90.0,259.4,95.1,272.9,
+13,7,0,ArialMT,11.0,95.1,260.5,98.1,272.8, 
+13,7,1,Calibri,11.0,108.0,262.2,525.6,273.3,"EDIH InnovATE: Accelerates digital transformation in agriculture, food, and energy sectors, "
+13,7,2,Calibri,11.0,108.0,276.8,264.0,287.8,focusing on rural competitiveness. 
+13,8,0,SymbolMT,11.0,90.0,297.0,95.1,310.5,
+13,8,0,ArialMT,11.0,95.1,298.1,98.1,310.4, 
+13,8,1,Calibri,11.0,108.0,299.8,525.9,310.8,"Crowd in Motion: Supports and drives the digital transformation of organisations, with a focus "
+13,8,2,Calibri,11.0,108.0,314.3,428.4,325.4,"on the tourism, sports and leisure industry, as well as the public sector. "
+13,9,0,SymbolMT,11.0,90.0,334.6,95.1,348.0,
+13,9,0,ArialMT,11.0,95.1,335.7,98.1,348.0, 
+13,9,1,Calibri,11.0,108.0,337.4,525.9,348.4,Applied CPS: Supports SMEs adopting Cyber-Physical Systems (CPS) for real-time operational 
+13,9,2,Calibri,11.0,108.0,351.9,172.8,362.9,management. 
+13,10,0,Calibri-Bold,11.0,78.0,380.8,307.0,391.9,2024 recommendation on digitalisation of SMEs
+13,10,0,Calibri,11.0,307.0,380.8,519.8,391.9,":  Provide a clear strategy targeted at SMEs, "
+13,10,1,Calibri,11.0,78.0,395.2,519.8,406.3,proposing more ambitious dedicated support schemes to impulse new dynamics in their 
+13,10,2,Calibri,11.0,78.0,409.7,140.4,420.8,digitalisation. 
+13,11,0,Calibri-Bold,11.0,78.0,439.3,519.6,450.3,"In 2024, Austria continued the implementation of existing measures but did not take any new "
+13,11,1,Calibri-Bold,11.0,78.0,453.8,123.0,464.8,measure. 
+13,11,1,Calibri,11.0,125.7,453.8,519.5,464.8,The adjusted roadmap introduced a clearly defined national target for SME digital 
+13,11,2,Calibri,11.0,78.0,468.3,519.8,479.4,intensity and confirmed continued investment in SME.DIGITAL and the European Digital Innovation 
+13,11,3,Calibri,11.0,78.0,482.7,519.6,493.8,"Hubs. However, no new initiatives were launched to expand subsidy schemes, and stakeholders "
+13,11,4,Calibri,11.0,78.0,497.2,519.7,508.3,"noted current funding levels remain insufficient to meet evolving digital needs, particularly in areas "
+13,11,5,Calibri,11.0,78.0,511.7,280.2,522.8,"like AI, data analytics, and green digital skills. "
+13,12,0,Calibri,11.0,72.0,535.6,74.5,546.7, 
+13,13,0,Calibri-Light,12.0,72.0,558.5,237.7,570.5,Take-up of cloud/AI/data analytics 
+13,15,0,Calibri,11.0,72.0,725.4,74.5,736.4, 
+13,15,1,Calibri-Bold,11.0,72.0,739.9,525.7,751.0,"The adoption of cloud computing, data analytics, and AI technologies in Austria fell behind the EU "
+13,15,2,Calibri-Bold,11.0,72.0,754.3,463.3,765.4,"averages, particularly in data analytics, though AI adoption exceeded the EU level."
+13,15,2,Calibri,11.0,463.7,754.3,525.9,765.4, A significant 
+13,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,16,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+14,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+14,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+14,3,0,Calibri,11.0,72.0,84.1,525.7,95.2,"disparity was observed between SMEs and large enterprises, with large enterprises showing "
+14,3,1,Calibri,11.0,72.0,98.7,525.7,109.7,considerably higher uptake across all technologies. Despite SMEs constituting the vast majority of 
+14,3,2,Calibri,11.0,72.0,113.1,525.6,124.1,enterprises with 10 or more employees and contributing a substantial share of the economy’s value 
+14,3,3,Calibri,11.0,72.0,127.6,525.9,138.6,"added, their lower adoption rates highlight a need for targeted support to foster broader digital "
+14,3,4,Calibri,11.0,72.0,142.1,525.6,153.1,transformation. Addressing this gap is crucial for enhancing the digital capabilities of Austrian SMEs 
+14,3,5,Calibri,11.0,72.0,156.6,347.4,167.7,and strengthening their competitive position in the economy. 
+14,4,0,Calibri-Bold,11.0,72.0,179.1,525.9,190.1,"The latest available data shows that cloud uptake in Austria reached 35.56% in 2023, falling short of "
+14,4,1,Calibri-Bold,11.0,72.0,193.6,195.4,204.6,the EU average of 38.97%.
+14,4,1,Calibri,11.0,195.4,193.6,525.7,204.6," However, SMEs had an adoption rate of 34.37%, while 75.39% of large "
+14,4,2,Calibri,11.0,72.0,208.1,525.8,219.1,enterprises utilised cloud services. This resulted in a gap of 41.02 pp. in uptake between SMEs and 
+14,4,3,Calibri,11.0,72.0,222.5,411.1,233.5,"large enterprises in Austria, which was higher than the EU gap of 31.68 pps. "
+14,5,0,Calibri-Bold,11.0,72.0,245.1,525.6,256.1,"In 2023, 23.94% of enterprises in Austria adopted data analytics, which is considerably lower than "
+14,5,1,Calibri-Bold,11.0,72.0,259.6,196.7,270.6,the EU average of 33.25%. 
+14,5,1,Calibri,11.0,197.6,259.6,525.8,270.6,"Among SMEs, 22.98% used data analytics, compared to 55.79% of large "
+14,5,2,Calibri,11.0,72.0,274.0,525.9,285.0,"enterprises. This indicates a gap of 32.81 pps between SMEs and large enterprises, which is lower than "
+14,5,3,Calibri,11.0,72.0,288.5,183.1,299.6,the EU gap of 39.72 pps. 
+14,6,0,Calibri-Bold,11.0,72.0,311.1,525.6,322.1,Austria is at 20.27% of enterprises adopting AI (2030 national target in place) after a strong 
+14,6,1,Calibri-Bold,11.0,72.0,325.5,525.6,336.5,progression of +9.48 percentage points in 2024 and stands well above the EU average which stands 
+14,6,2,Calibri-Bold,11.0,72.0,340.0,121.5,351.0,at 13.48%.
+14,6,2,Calibri,11.0,121.5,340.0,525.6,351.0," This represents a sharp increase from 10.79% in 2023, with an annual growth rate of "
+14,6,3,Calibri,11.0,72.0,354.5,525.7,365.6,"87.86%. AI uptake among SMEs reached 19.36%, while 49.94% of large enterprises reported adoption. "
+14,6,4,Calibri,11.0,72.0,369.0,525.9,380.1,"The gap between SMEs and large enterprises (30.58 pps) is close to the EU average, indicating balanced "
+14,6,5,Calibri,11.0,72.0,383.4,365.1,394.5,adoption trends. Austria is on track with its national AI trajectory. 
+14,7,0,Calibri,11.0,72.0,406.0,285.7,417.1,"According to the latest available data (2023), "
+14,7,0,Calibri-Bold,11.0,288.0,406.0,525.7,417.1,47.03% of enterprises in Austria engaged with AI 
+14,7,1,Calibri-Bold,11.0,72.0,420.4,130.1,431.5,technologies
+14,7,1,Calibri,11.0,130.1,420.4,525.8,431.5,", sophisticated or intermediate cloud computing services, or data analytics, trailing "
+14,7,2,Calibri,11.0,72.0,434.9,525.8,446.0,"behind the EU average of 54.7%. More specifically, the uptake among SMEs was slightly lower at 45.9%, "
+14,7,3,Calibri,11.0,72.0,449.5,525.6,460.5,while large enterprises exhibited a notably higher rate of 84.77%. This indicates a percentage point 
+14,7,4,Calibri,11.0,72.0,464.0,525.7,475.0,"difference of 38.87 in uptake between SMEs and large enterprises in Austria, which is higher than the "
+14,7,5,Calibri,11.0,72.0,478.4,147.5,489.4,EU gap of 32.97. 
+14,8,0,Calibri-Bold,11.0,72.0,500.9,525.6,512.0,"In 2022, Austrian SMEs produced 38.6% of the total value added in the economy, while large "
+14,8,1,Calibri-Bold,11.0,72.0,515.5,212.4,526.5,enterprises contributed 44.3%.
+14,8,1,Calibri,11.0,212.6,515.5,525.8,526.5," Notably, SMEs made up about 97% of the enterprises with more than "
+14,8,2,Calibri,11.0,72.0,529.9,326.3,540.9,"10 employees, while large enterprises accounted for 3%. "
+14,9,0,SymbolMT,11.0,90.0,550.2,95.1,563.7,
+14,9,0,ArialMT,11.0,95.1,551.3,98.1,563.6, 
+14,9,1,Calibri-Bold,11.0,108.0,553.0,136.8,564.1,Cloud 
+14,10,0,Calibri,11.0,72.0,570.5,465.2,581.5,"Despite the growth opportunities identified, the adjusted roadmap for 2025 still does "
+14,10,0,Calibri-Bold,11.0,466.4,570.5,525.9,581.5,not define a 
+14,10,1,Calibri-Bold,11.0,72.0,585.0,237.6,596.0,specific national target or trajectory
+14,10,1,Calibri,11.0,237.8,585.0,525.8,596.0," for cloud uptake by Austrian companies. Furthermore, no new "
+14,10,2,Calibri,11.0,72.0,599.5,525.7,610.5,"measures explicitly dedicated to increasing cloud adoption have been introduced. Instead, Austria "
+14,10,3,Calibri,11.0,72.0,614.0,435.2,625.1,"continues to rely primarily on existing initiatives, notably the establishment of the "
+14,10,3,Calibri-Bold,11.0,435.0,614.0,520.9,625.1,Gaia-X Hub Austria
+14,10,3,Calibri,11.0,520.8,614.0,525.9,625.1,", "
+14,10,4,Calibri,11.0,72.0,628.4,525.7,639.5,"to enhance interoperability and the dissemination, promotion and application of Gaia X concepts in "
+14,10,5,Calibri,11.0,72.0,642.9,525.9,654.0,"specific use-cases. However, given the relatively limited scope and funding of the Gaia-X Hub, this "
+14,10,6,Calibri,11.0,72.0,657.5,525.8,668.5,measure alone remains insufficient to significantly accelerate cloud adoption and align with the 
+14,10,7,Calibri,11.0,72.0,672.0,174.7,683.0,ambitious EU target of 
+14,10,7,Calibri-Bold,11.0,174.6,672.0,293.6,683.0,75% cloud uptake by 2030
+14,10,7,Calibri,11.0,293.7,672.0,298.8,683.0,. 
+14,11,0,Calibri,11.0,72.0,694.4,91.2,705.5,The 
+14,11,0,Calibri-Bold,11.0,92.7,694.4,283.2,705.5,SME.DIGITAL programme (KMU.DIGITAL) 
+14,11,0,Calibri,11.0,284.6,694.4,525.8,705.5,represents an indirect yet important driver of cloud 
+14,11,1,Calibri,11.0,72.0,708.9,525.8,720.0,"adoption. While the adjusted roadmap explicitly links KMU.DIGITAL to improving SME digital intensity, "
+14,11,2,Calibri,11.0,72.0,723.5,525.9,734.5,"the initiatives also contribute significantly to enhancing cloud uptake through advisory services, digital "
+14,11,3,Calibri,11.0,72.0,737.9,525.9,748.9,"skills training, and investment support tailored specifically for SMEs. To achieve notable increases in "
+14,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+15,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+15,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+15,2,0,Calibri,11.0,72.0,84.1,525.8,95.2,"cloud computing among SMEs, however, Austrian authorities would need to substantially expand this "
+15,2,1,Calibri,11.0,72.0,98.7,519.3,109.7,programme or introduce complementary initiatives specifically targeting cloud computing adoption. 
+15,4,0,Calibri-Bold,11.0,72.0,121.1,525.8,132.1,"Beyond the roadmap, Austrian authorities have not undertaken further measures contributing "
+15,4,1,Calibri-Bold,11.0,72.0,135.6,234.1,146.7,directly to the KPI of cloud uptake
+15,4,1,Calibri,11.0,234.2,135.6,523.5,146.7,. Economic operators suggest the need for broader awareness-
+15,4,2,Calibri,11.0,72.0,150.1,525.9,161.2,raising and targeted skills-building initiatives around cloud technology – this is considered critical given 
+15,4,3,Calibri,11.0,72.0,164.5,525.7,175.6,the significant gap between SMEs and large enterprises. Given the persistent challenges related to 
+15,4,4,Calibri,11.0,72.0,179.1,525.9,190.1,"digital and technical skills shortages across Austria, investment in dedicated training programmes for "
+15,4,5,Calibri,11.0,72.0,193.6,263.5,204.6,SMEs could enhance cloud adoption rates. 
+15,5,0,Calibri,11.0,72.0,216.0,525.7,227.1,"Austria continues to exhibit growth potential in cloud adoption, but without additional targeted "
+15,5,1,Calibri,11.0,72.0,230.5,525.9,241.6,"measures, clearly defined national targets, or expanded funding, achieving the EU’s ambitious cloud "
+15,5,2,Calibri,11.0,72.0,245.1,284.8,256.1,uptake objectives by 2030 remains challenging. 
+15,6,0,Calibri,11.0,72.0,267.5,74.5,278.6, 
+15,7,0,Calibri-Bold,11.0,78.0,296.4,266.9,307.5,2024 recommendation on Cloud uptake
+15,7,0,Calibri,11.0,266.9,296.4,519.8,307.5,: Design specific measures to increase the take-up of 
+15,7,1,Calibri,11.0,78.0,311.0,519.7,322.0,"advanced technologies by enterprises, especially for data analytics techniques and cloud; Stimulate "
+15,7,2,Calibri,11.0,78.0,325.4,519.7,336.4,"the adoption of next generation cloud infrastructure and services by companies of all sizes, including "
+15,7,3,Calibri,11.0,78.0,339.9,519.5,350.9,by liaising with the Cloud IPCEI Exploitation office and/or the coordinators and the Member States 
+15,7,4,Calibri,11.0,78.0,354.4,207.0,365.4,participating in the IPCEI-CIS 
+15,8,0,Calibri-Bold,11.0,78.0,383.9,519.6,395.0,In 2024 Austria continued the implementation of existing measures but did not take any new 
+15,8,1,Calibri-Bold,11.0,78.0,398.5,117.6,409.5,measure
+15,8,1,Calibri,11.0,117.6,398.5,519.6,409.5,. The 2024 Digital Decade report emphasised Austria’s strong growth dynamics but 
+15,8,2,Calibri,11.0,78.0,413.0,519.8,424.0,recommended setting explicit national targets and providing adequate financial support for cloud 
+15,8,3,Calibri,11.0,78.0,427.4,519.7,438.4,"uptake, particularly among SMEs. Although the SME.DIGITAL programme contributes indirectly, the "
+15,8,4,Calibri,11.0,78.0,441.9,519.5,452.9,absence of targeted new measures or increased funding represents a missed opportunity. The 
+15,8,5,Calibri,11.0,78.0,456.4,498.8,467.5,unchanged approach signals that these recommendations have been only partially addressed. 
+15,9,0,Calibri,11.0,72.0,480.3,74.5,491.4, 
+15,10,0,Calibri,11.0,72.0,502.7,74.5,513.8, 
+15,10,1,Calibri,11.0,216.1,502.7,218.5,513.8, 
+15,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+16,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+16,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+16,2,0,SymbolMT,11.0,90.0,81.9,95.1,95.4,
+16,2,0,ArialMT,11.0,95.1,83.0,98.1,95.3, 
+16,2,1,Calibri-Bold,11.0,108.0,84.7,173.5,95.8,Data Analytics
+16,2,1,Calibri,11.0,173.4,84.7,175.9,95.8, 
+16,4,0,Calibri,11.0,72.0,102.3,525.6,113.3,"In line with the recommendations of the 2024 Digital Decade report, the adjusted Austrian roadmap "
+16,4,1,Calibri,11.0,72.0,116.7,92.2,127.7,sets 
+16,4,1,Calibri-Bold,11.0,92.3,116.7,413.0,127.7,a national trajectory and target for the uptake of data analytics uptake
+16,4,1,Calibri,11.0,413.0,116.7,525.9,127.7,", which is in line with the "
+16,4,2,Calibri,11.0,72.0,131.2,118.9,142.2,EU target. 
+16,5,0,Calibri,11.0,72.0,153.6,110.5,164.7,The new
+16,5,0,Calibri-Bold,11.0,110.5,153.6,113.0,164.7, 
+16,5,0,Calibri-Bold,11.0,113.3,153.6,226.4,164.7,Data Strategy for Austria
+16,5,0,Calibri,11.0,226.5,153.6,525.9,164.7,", adopted in October 2024 through an extensive multi-stakeholder "
+16,5,1,Calibri,11.0,72.0,168.1,525.9,179.2,"process, outlines a holistic vision for Austria’s data economy. This strategy aims to develop sustainable "
+16,5,2,Calibri,11.0,72.0,182.7,525.9,193.7,"data infrastructures, promote responsible data sharing, and establish an innovative data culture "
+16,5,3,Calibri,11.0,72.0,197.2,110.3,208.2,through 
+16,5,3,Calibri-Bold,11.0,112.7,197.2,225.4,208.2,45 actionable measures
+16,5,3,Calibri,11.0,225.5,197.2,525.9,208.2,". Notably, the strategy includes improving public-sector dataset "
+16,5,4,Calibri,11.0,72.0,211.7,525.7,222.7,"accessibility, promoting trusted data infrastructure investments, and creating a Data Stakeholder "
+16,5,5,Calibri,11.0,72.0,226.1,525.9,237.1,Forum to strengthen collaboration among data ecosystem actors. No dedicated funding has yet been 
+16,5,6,Calibri,11.0,72.0,240.6,525.7,251.7,"allocated explicitly to this strategy, relying instead on existing ministerial resources and broader "
+16,5,7,Calibri,11.0,72.0,255.2,276.0,266.2,coordination efforts across federal ministries. 
+16,6,0,Calibri,11.0,72.0,277.6,525.6,288.6,"As part of the Austrian Data Strategy, the adjusted roadmap introduces a new measure dedicated to "
+16,6,1,Calibri-Bold,11.0,72.0,292.1,177.8,303.2,data-driven innovation
+16,6,1,Calibri,11.0,177.8,292.1,525.7,303.2, aiming at promoting the national data economy and achieving sustainable 
+16,6,2,Calibri,11.0,72.0,306.6,162.0,317.7,development goals. 
+16,7,0,Calibri,11.0,72.0,329.1,251.3,340.1,The adjusted roadmap also emphasises 
+16,7,0,Calibri-Bold,11.0,251.8,329.1,463.0,340.1,the initiative on ‘COMET centres and projects’
+16,7,0,Calibri,11.0,463.1,329.1,525.9,340.1,", funded with "
+16,7,1,Calibri,11.0,72.0,343.6,138.5,354.6,approximately 
+16,7,1,Calibri-Bold,11.0,139.7,343.6,212.9,354.6,EUR 157 million
+16,7,1,Calibri,11.0,212.9,343.6,525.9,354.6, for 2024-2026. The ‘COMET centres and projects’ initiative aims to 
+16,7,2,Calibri,11.0,72.0,358.1,525.7,369.2,"foster collaboration between enterprises and academia to drive product, process, and service "
+16,7,3,Calibri,11.0,72.0,372.5,525.6,383.6,"innovation across sectors, with a particular emphasis on AI and data analytics. Notable centres under "
+16,7,4,Calibri,11.0,72.0,387.0,525.7,398.1,"this initiative, such as the Hagenberg Software Competence Center and VRVis, Austria’s leading visual "
+16,7,5,Calibri,11.0,72.0,401.6,525.8,412.6,"computing organisation, play a vital role in fostering research and application of advanced digital "
+16,7,6,Calibri,11.0,72.0,416.1,525.7,427.1,technologies. Although COMET supports broad technological innovation rather than specifically 
+16,7,7,Calibri,11.0,72.0,430.5,525.8,441.5,"targeting data analytics, its contribution to enhancing enterprise capabilities in advanced technologies, "
+16,7,8,Calibri,11.0,72.0,445.0,244.6,456.1,"including data analytics, is substantial. "
+16,8,0,Calibri,11.0,72.0,467.6,137.6,478.6,"Moreover, the "
+16,8,0,Calibri-Bold,11.0,137.3,467.6,254.1,478.6,SME.DIGITAL programme 
+16,8,0,Calibri,11.0,253.7,467.6,525.9,478.6,has recently been explicitly linked to increasing data analytics 
+16,8,1,Calibri,11.0,72.0,482.0,525.7,493.0,"uptake, providing SMEs with advisory services and support to integrate advanced data analytics "
+16,8,2,Calibri,11.0,72.0,496.5,525.9,507.5,"solutions into their operations. However, given the persistently low adoption levels, further targeted "
+16,8,3,Calibri,11.0,72.0,511.0,525.6,522.1,initiatives or increased funding specifically focused on data analytics are recommended to accelerate 
+16,8,4,Calibri,11.0,72.0,525.5,115.4,536.6,progress. 
+16,9,0,Calibri-Bold,11.0,72.0,548.0,413.9,559.0,The implementation of the Austrian Data Strategy is currently underway
+16,9,0,Calibri,11.0,414.1,548.0,525.9,559.0,", focusing on enhancing "
+16,9,1,Calibri,11.0,72.0,562.5,525.8,573.6,public-sector data availability and promoting private-sector engagement through structured dialogue 
+16,9,2,Calibri,11.0,72.0,577.1,525.6,588.1,"platforms. Its broad, adaptive approach positions Austria to react flexibly to market and technology "
+16,9,3,Calibri,11.0,72.0,591.5,140.9,602.5,developments. 
+16,10,0,Calibri,11.0,72.0,614.0,525.9,625.1,Discussions with Austrian stakeholders indicate ongoing consultations with private-sector actors and 
+16,10,1,Calibri,11.0,72.0,628.4,525.8,639.5,"the gradual ramp-up of data economy initiatives. In particular, the authorities have highlighted efforts "
+16,10,2,Calibri,11.0,72.0,642.9,525.7,654.0,"to modernise data infrastructure within public administration, implement the Data Governance Act "
+16,10,3,Calibri,11.0,72.0,657.5,525.9,668.5,"(DGA), and engage stakeholders through structured dialogue. Clearer prioritisation, dedicated funding, "
+16,10,4,Calibri,11.0,72.0,672.0,525.8,683.0,and specialised programmes focusing explicitly on enterprise-level analytics capabilities remain 
+16,10,5,Calibri,11.0,72.0,686.5,177.5,697.5,nonetheless necessary. 
+16,11,0,Calibri,11.0,72.0,708.9,525.9,720.0,The 2024 report highlighted Austria’s low adoption levels for data analytics and recommended 
+16,11,1,Calibri,11.0,72.0,723.5,525.7,734.5,targeted measures to significantly improve uptake among SMEs. While the Austrian authorities have 
+16,11,2,Calibri,11.0,72.0,737.9,525.9,748.9,"set a national trajectory within the adjusted roadmap and established a comprehensive Data Strategy, "
+16,11,3,Calibri,11.0,72.0,752.4,525.7,763.4,dedicated measures explicitly targeting enterprise adoption of data analytics remain limited. The 
+16,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+17,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+17,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+17,2,0,Calibri-Bold,11.0,72.0,84.1,163.0,95.2,COMET programme
+17,2,0,Calibri,11.0,162.9,84.1,186.1,95.2, and 
+17,2,0,Calibri-Bold,11.0,187.6,84.1,246.4,95.2,SME.DIGITAL
+17,2,0,Calibri,11.0,246.3,84.1,525.8,95.2," are valuable initiatives, yet additional targeted support and "
+17,2,1,Calibri,11.0,72.0,98.7,487.3,109.7,explicit investment would further reinforce the recommendations made in the previous year. 
+17,3,0,SymbolMT,11.0,90.0,118.9,95.1,132.4,
+17,3,0,ArialMT,11.0,95.1,120.0,98.1,132.3, 
+17,3,1,Calibri-Bold,11.0,108.0,121.7,204.6,132.7,Artificial Intelligence 
+17,5,0,Calibri-Bold,11.0,72.0,139.2,89.0,150.3,The
+17,5,0,Calibri,11.0,88.9,139.2,91.4,150.3, 
+17,5,0,Calibri-Bold,11.0,91.9,139.2,525.9,150.3,"adjusted national roadmap now includes a clearly defined target and trajectory for AI uptake, "
+17,5,1,Calibri-Bold,11.0,72.0,153.6,303.7,164.7,fully aligned with the EU’s Digital Decade ambition
+17,5,1,Calibri,11.0,303.8,153.6,525.8,164.7,. Given Austria’s current robust growth trajectory 
+17,5,2,Calibri,11.0,72.0,168.1,525.9,179.2,"and substantial policy support, this national target appears realistic and achievable. The country is on "
+17,5,3,Calibri,11.0,72.0,182.7,254.4,193.7,track according to its national trajectory. 
+17,6,0,Calibri-Bold,11.0,72.0,205.1,525.8,216.1,The adjusted roadmap introduces important organisational and structural innovations for measures 
+17,6,1,Calibri-Bold,11.0,72.0,219.6,165.0,230.7,related to AI uptake.
+17,6,1,Calibri,11.0,165.0,219.6,525.8,230.7, Measures related to the promotion of digital technologies in the field of artificial 
+17,6,2,Calibri,11.0,72.0,234.2,525.9,245.2,"intelligence and the promotion of digital technologies in the field of data-driven innovations, in "
+17,6,3,Calibri,11.0,72.0,248.7,525.9,259.7,"particular, together account for a total budget of approximately EUR 170 million for the 2023-2026 "
+17,6,4,Calibri,11.0,72.0,263.1,525.9,274.1,period. This envelop also includes EUR 3.8 million of funding dedicated to the AI for Green initiative 
+17,6,5,Calibri,11.0,72.0,277.6,525.6,288.6,"and EUR 4.8 million for AI for Tech, signalling Austria’s commitment to deploying AI in support of "
+17,6,6,Calibri,11.0,72.0,292.1,306.6,303.2,environmental sustainability and tech development. 
+17,7,0,Calibri-Bold,11.0,72.0,314.6,525.7,325.6,The AI for Green initiative specifically targets the use of AI to support climate and environmental 
+17,7,1,Calibri-Bold,11.0,72.0,329.1,118.2,340.1,objectives
+17,7,1,Calibri,11.0,118.2,329.1,525.6,340.1,". Launched in 2021, it has supported 40 projects to date, with a total budget of around "
+17,7,2,Calibri,11.0,72.0,343.6,431.2,354.6,EUR 22.5 million. A fourth call for proposals was successfully conducted in 2024. 
+17,8,0,Calibri,11.0,72.0,366.0,525.9,377.1,"The previously mentioned COMET programme, presented in the adjusted national roadmap, is set to "
+17,8,1,Calibri,11.0,72.0,380.6,525.9,391.6,significantly contribute to Austria’s AI capabilities with its budget of approximately EUR 157 million 
+17,8,2,Calibri,11.0,72.0,395.1,525.8,406.1,(2024-2026) by funding long-term research collaborations between businesses and academic 
+17,8,3,Calibri,11.0,72.0,409.6,525.7,420.7,"institutions, thereby supporting innovation across sectors such as industry, health, mobility, and life "
+17,8,4,Calibri,11.0,72.0,424.0,114.6,435.1,sciences. 
+17,8,4,Calibri-Bold,11.0,114.4,424.0,525.8,435.1,Around EUR 25 million of this funding is explicitly expected to be allocated to AI and other 
+17,8,5,Calibri-Bold,11.0,72.0,438.5,212.7,449.6,advanced digital technologies. 
+17,9,0,Calibri-Bold,11.0,72.0,461.1,503.9,472.1,Austria continues to actively promote a vibrant AI ecosystem beyond direct funding measures.
+17,9,0,Calibri,11.0,504.1,461.1,525.9,472.1, The 
+17,9,1,Calibri,11.0,72.0,475.5,525.9,486.5,"established AI Marketplace, supported by the Austrian promotional bank aws, connects AI solution "
+17,9,2,Calibri,11.0,72.0,490.0,525.8,501.1,"providers with enterprises, encouraging collaboration and digital transformation. Initiatives like Digital "
+17,9,3,Calibri,11.0,72.0,504.5,525.7,515.6,"Humanism further emphasise the ethical dimension of AI deployment, reflecting a comprehensive "
+17,9,4,Calibri,11.0,72.0,519.1,252.6,530.1,approach aligned with European values. 
+17,10,0,Calibri,11.0,72.0,541.5,525.8,552.5,"Additionally, Austria’s participation in European initiatives, such as the recent selection by the EuroHPC "
+17,10,1,Calibri,11.0,72.0,556.1,525.7,567.1,"JU to host an AI Factory, further strengthens national capabilities, providing critical infrastructure and "
+17,10,2,Calibri,11.0,72.0,570.5,329.3,581.5,"expertise for scaling AI adoption, especially among SMEs. "
+17,11,0,Calibri-Light,12.0,72.0,593.3,233.6,605.3,"Unicorns, scale-ups and start-ups "
+17,12,0,Calibri-Bold,11.0,72.0,616.8,492.5,627.8,"At the end of 2024, Austria had a total of five unicorns, showing no change compared to 2023"
+17,12,0,Calibri,11.0,492.6,616.8,525.9,627.8,. While 
+17,12,1,Calibri,11.0,72.0,631.3,500.4,642.3,"this stable figure reflects a consistent level of high-performing start-ups, it also underscores the "
+17,12,1,Calibri-Bold,11.0,500.6,631.3,525.9,642.3,need 
+17,12,2,Calibri-Bold,11.0,72.0,645.8,525.7,656.9,for further momentum in the scale-up of innovative companies to meet Austria’s national target of 
+17,12,3,Calibri-Bold,11.0,72.0,660.3,368.8,671.4,"reaching 10 unicorns by 2030, as set out in the adjusted roadmap"
+17,12,3,Calibri,11.0,368.7,660.3,374.0,671.4,. 
+17,13,0,Calibri,11.0,72.0,682.8,219.0,693.8,The adjusted roadmap mentions 
+17,13,0,Calibri-Bold,11.0,218.9,682.8,395.5,693.8,17 measures contributing to this target
+17,13,0,Calibri,11.0,395.6,682.8,525.9,693.8,", backed by EUR 1.234 billion "
+17,13,1,Calibri,11.0,72.0,697.3,525.8,708.3,in public investment and EUR 628 million in private investment – a notable increase in private 
+17,13,2,Calibri,11.0,72.0,711.8,505.4,722.9,contributions compared to the previous roadmap. Among the newly introduced measures is the 
+17,13,2,Calibri-Bold,11.0,505.7,711.8,525.9,722.9,aws 
+17,13,3,Calibri-Bold,11.0,72.0,726.2,151.1,737.3,Spin-off Initiative
+17,13,3,Calibri,11.0,151.1,726.2,525.9,737.3,", a EUR 8.5 million programme aimed at enhancing VC access for spin-offs through "
+17,13,4,Calibri,11.0,72.0,740.8,525.9,751.8,"two components: support for building spin-off structures within universities, and direct financing for "
+17,13,5,Calibri,11.0,72.0,755.3,252.3,766.3,venture capitalists investing in spin-offs. 
+17,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,14,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+18,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+18,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+18,3,0,Calibri,11.0,72.0,84.1,525.7,95.2,"Despite these efforts, Austria’s venture capital environment remains challenging. VC investments "
+18,3,1,Calibri-Bold,11.0,72.0,98.7,525.9,109.7,"continued to decline for the third consecutive year, with total VC financing reaching EUR 578 million "
+18,3,2,Calibri-Bold,11.0,72.0,113.1,106.0,124.1,in 2024
+18,3,2,Calibri,11.0,106.0,113.1,525.8,124.1,", down from EUR 695 million in 2023. The number of start-up financing rounds also fell from "
+18,3,3,Calibri,11.0,72.0,127.6,525.5,138.6,"184 to 149 over the same period. In 2023, VC investment in Austria amounted to just 0.022% of GDP, "
+18,3,4,Calibri,11.0,72.0,142.1,525.8,153.1,"among the lowest in Europe. Investors, including business angels, have adopted a cautious approach, "
+18,3,5,Calibri,11.0,72.0,156.6,525.8,167.7,"often focusing on supporting their existing portfolios rather than making new investments. Meanwhile, "
+18,3,6,Calibri,11.0,72.0,171.0,525.8,182.1,"many start-ups are delaying exits in the hope of better valuations in the future, reducing reinvestment "
+18,3,7,Calibri,11.0,72.0,185.5,354.2,196.6,flows and contributing to stagnation in growth-stage financing. 
+18,4,0,Calibri,11.0,72.0,208.1,525.6,219.1,Austria’s business environment remains robust thanks to strong institutional support and a high level 
+18,4,1,Calibri,11.0,72.0,222.5,525.8,233.5,"of public investment in entrepreneurship. However, challenges persist in attracting international "
+18,4,2,Calibri,11.0,72.0,237.0,525.7,248.1,investors and improving the overall competitiveness of the ecosystem. Continued progress on these 
+18,4,3,Calibri,11.0,72.0,251.6,479.0,262.6,fronts will be essential to unlocking Austria’s unicorn potential and fulfilling its 2030 target. 
+18,5,0,Calibri-Light,11.0,72.0,277.9,74.5,288.9, 
+18,5,1,Calibri-Light,15.0,216.1,274.9,219.4,289.9, 
+18,6,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,6,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+19,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+19,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+19,2,0,Calibri-Light,15.0,72.0,85.0,322.7,100.0,Strengthening Cybersecurity & Resilience 
+19,4,0,Calibri,11.0,72.0,111.9,455.2,122.9,"In 2023, Austria continued to demonstrate strong individual cybersecurity awareness, "
+19,4,0,Calibri-Bold,11.0,455.3,111.9,525.9,122.9,with 77.67% of 
+19,4,1,Calibri-Bold,11.0,72.0,126.4,483.8,137.4,individuals reporting that they took at least one step to protect their personal data online
+19,4,1,Calibri,11.0,483.8,126.4,525.9,137.4, – higher 
+19,4,2,Calibri,11.0,72.0,140.9,525.8,151.9,"than the EU average of 69.55%. Notably, more than half (51.94%) of Austrians adopted three or more "
+19,4,3,Calibri,11.0,72.0,155.4,525.9,166.5,"protective measures, indicating above-basic digital safety skills. Among specific measures, refusing the "
+19,4,4,Calibri,11.0,72.0,169.8,525.8,180.9,"use of personal data for advertising purposes was most prevalent (56.54%), whereas changing browser "
+19,4,5,Calibri,11.0,72.0,184.3,316.6,195.4,settings to limit cookies remained less common (39%). 
+19,6,0,Calibri,11.0,72.0,422.9,217.6,434.0,"Based on the latest data (2024), "
+19,6,0,Calibri-Bold,11.0,217.7,422.9,525.7,434.0,95.38% of Austrian enterprises had implemented some form of ICT 
+19,6,1,Calibri-Bold,11.0,72.0,437.5,150.2,448.5,security measure
+19,6,1,Calibri,11.0,150.3,437.5,174.7,448.5,", and "
+19,6,1,Calibri-Bold,11.0,174.8,437.5,493.5,448.5,61.07% explicitly informed employees about cybersecurity obligations
+19,6,1,Calibri,11.0,493.5,437.5,498.8,448.5,. 
+19,7,0,Calibri,11.0,72.0,460.0,263.5,471.1,In terms of technical standards deployment
+19,7,0,Calibri-Bold,11.0,263.5,460.0,520.8,471.1,", Austria remains below EU averages for IPv6 deployment"
+19,7,0,Calibri,11.0,520.8,460.0,525.9,471.1,", "
+19,7,1,Calibri,11.0,72.0,474.4,113.7,485.5,with just 
+19,7,1,Calibri-Bold,11.0,114.4,474.4,202.0,485.5,34.0% of end users
+19,7,1,Calibri,11.0,202.0,474.4,525.9,485.5, (EU average 36.0%) and 10.0% of servers (EU average 17.0%) adopting 
+19,7,2,Calibri,11.0,72.0,488.9,525.7,500.0,the standard since Q3 2024. Domain Name System Security Extensions (DNSSEC) is also an important 
+19,7,3,Calibri,11.0,72.0,503.5,525.6,514.5,"standard to be rolled out as it introduces security features to DNS. In Austria, the DNSSEC validation "
+19,7,4,Calibri,11.0,72.0,518.0,525.9,529.0,"rate (i.e. verification of the authenticity of responses sent by name servers to clients, using a digital "
+19,7,5,Calibri,11.0,72.0,532.4,387.5,543.4,"signature technology) is 23% (Q3 2024), below the EU average of 47%. "
+19,8,0,Calibri,11.0,72.0,554.9,525.7,566.0,The policy landscape experienced mixed developments during the past year. Austria has yet to 
+19,8,1,Calibri,11.0,72.0,569.4,525.9,580.4,"implement the NIS2 Directive formally, after a legislative proposal was rejected by the Austrian "
+19,8,2,Calibri,11.0,72.0,583.9,180.6,594.9,Parliament in July 2024. 
+19,9,0,Calibri,11.0,72.0,606.5,525.7,617.5,The adjusted national strategic roadmap introduces important refinements in Austria’s cybersecurity 
+19,9,1,Calibri,11.0,72.0,620.9,237.2,631.9,"policy. In particular, the measure on "
+19,9,1,Calibri-Bold,11.0,237.9,620.9,523.5,631.9,Austria's Cybersecurity Research Funding Programme ‘K-PASS’
+19,9,1,Calibri,11.0,523.4,620.9,525.9,631.9, 
+19,9,2,Calibri,11.0,72.0,635.4,525.9,646.4,represents an important policy innovation. K-PASS has already allocated approximately EUR 4.9 million 
+19,9,3,Calibri,11.0,72.0,649.9,525.9,660.9,"to fund 10 research projects in its initial call, with an annual budget of EUR 5 million planned. The "
+19,9,4,Calibri,11.0,72.0,664.4,525.8,675.5,programme has no fixed end date but includes an assessment planned for 2027 to ensure alignment 
+19,9,5,Calibri,11.0,72.0,678.8,525.9,689.9,with EU cybersecurity research funding initiatives under the next Multiannual Financial Framework 
+19,9,6,Calibri,11.0,72.0,693.3,148.1,704.4,"(MFF). Overall, a "
+19,9,6,Calibri-Bold,11.0,148.1,693.3,387.5,704.4,total of EUR 35 million is planned for K-PASS by 2027
+19,9,6,Calibri,11.0,387.5,693.3,392.7,704.4,. 
+19,10,0,Calibri,11.0,72.0,715.9,525.9,726.9,Austria also continues to address cybersecurity among SMEs through the Cybersecurity cheque 2023 
+19,10,1,Calibri,11.0,72.0,730.3,525.8,741.4,"measure. Originally more broadly defined, this initiative has now been specifically adapted to support "
+19,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+20,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+20,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+20,2,0,Calibri,11.0,72.0,84.1,525.9,95.2,"SME cybersecurity readiness, reflecting increased recognition of SME-specific cybersecurity "
+20,2,1,Calibri,11.0,72.0,98.7,139.9,109.7,vulnerabilities. 
+20,4,0,Calibri,11.0,72.0,121.1,525.7,132.1,Austria has made considerable efforts to address cybersecurity specifically in the healthcare sector: 
+20,4,1,Calibri-Bold,11.0,72.0,135.6,525.8,146.7,"Austria established the Austrian Health CERT (AHC), which is a dedicated Computer Security Incident "
+20,4,2,Calibri-Bold,11.0,72.0,150.1,295.4,161.2,Response Team (CSIRT) for the healthcare sector
+20,4,2,Calibri,11.0,295.5,150.1,525.8,161.2,. Austrian authorities emphasise that the stringent 
+20,4,3,Calibri,11.0,72.0,164.5,525.7,175.6,liability rules under NIS2 will inherently boost compliance and cybersecurity standards across 
+20,4,4,Calibri,11.0,72.0,179.1,169.2,190.1,healthcare providers. 
+20,5,0,Calibri-Bold,11.0,72.0,201.6,145.0,212.7,Austria has also
+20,5,0,Calibri,11.0,145.0,201.6,147.5,212.7, 
+20,5,0,Calibri-Bold,11.0,148.0,201.6,525.8,212.7,fully implemented the EU 5G Cybersecurity Toolbox through legislative provisions 
+20,5,1,Calibri-Bold,11.0,72.0,216.0,221.6,227.1,within the national telecoms law
+20,5,1,Calibri,11.0,221.7,216.0,226.8,227.1,. 
+20,6,0,Calibri,11.0,72.0,238.6,525.9,249.6,"The national cybersecurity strategy, originally introduced in 2021, is also expected to undergo a major "
+20,6,1,Calibri,11.0,72.0,253.0,525.9,264.0,update in line with the transposition of the NIS2 Directive. Comprehensive guidance on achieving 
+20,6,2,Calibri,11.0,72.0,267.5,525.9,278.6,"national cybersecurity objectives, complementing EU regulatory frameworks, is expected in the near "
+20,6,3,Calibri,11.0,72.0,282.0,105.1,293.1,future. 
+20,7,0,Calibri,11.0,72.0,304.5,149.0,315.5,According to the 
+20,7,0,Calibri-Bold,11.0,149.3,304.5,244.0,315.5,2025 Eurobarometer
+20,7,0,Calibri,11.0,244.1,304.5,249.4,315.5,", "
+20,7,0,Calibri-Bold,11.0,249.6,304.5,326.9,315.5,78% of Austrians
+20,7,0,Calibri,11.0,327.0,304.5,525.8,315.5," believe that improved cybersecurity, better "
+20,7,1,Calibri,11.0,72.0,319.0,525.8,330.0,"protection of online data, and the safety of digital technologies would significantly facilitate their daily "
+20,7,2,Calibri,11.0,72.0,333.5,224.7,344.6,use of digital tools. This is slightly 
+20,7,2,Calibri-Bold,11.0,225.2,333.5,359.6,344.6,below the EU average of 81%
+20,7,2,Calibri,11.0,359.7,333.5,420.6,344.6,". Meanwhile, "
+20,7,2,Calibri-Bold,11.0,420.9,333.5,525.9,344.6,19% of respondents in 
+20,7,3,Calibri-Bold,11.0,72.0,348.0,104.8,359.1,Austria
+20,7,3,Calibri,11.0,104.8,348.0,300.9,359.1," did not consider it significant, compared to "
+20,7,3,Calibri-Bold,11.0,301.0,348.0,370.8,359.1,16% at EU level
+20,7,3,Calibri,11.0,370.9,348.0,376.0,359.1,. 
+20,8,0,Calibri,11.0,72.0,384.8,74.5,395.8, 
+20,8,1,Calibri-Bold,26.0,216.1,373.5,221.9,399.6, 
+20,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,9,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+21,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+21,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+21,3,0,Calibri-Bold,26.0,72.0,87.2,529.2,113.2,Protecting and empowering EU people 
+21,3,1,Calibri-Bold,26.0,72.0,121.4,200.5,147.4,and society 
+21,4,0,Calibri-Light,15.0,72.0,161.5,526.4,176.5,Empowering people and bringing the digital transformation closer to their 
+21,4,1,Calibri-Light,15.0,72.0,181.2,111.7,196.2,needs 
+21,5,0,Calibri-Bold,11.0,72.0,208.1,525.7,219.1,"Austria’s digital transformation strategy continues to place increasing emphasis on inclusiveness, "
+21,5,1,Calibri-Bold,11.0,72.0,222.6,525.8,233.7,with a growing number of targeted policy measures aiming to reduce socio-demographic divides in 
+21,5,2,Calibri-Bold,11.0,72.0,237.2,180.1,248.2,digital skills and access
+21,5,2,Calibri,11.0,180.3,237.2,525.7,248.2,". While the country performs well overall, gender gaps remain substantial, "
+21,5,3,Calibri,11.0,72.0,251.7,525.8,262.7,"particularly in both basic digital skills and ICT professions. Similarly, educational background continues "
+21,5,4,Calibri,11.0,72.0,266.1,525.9,277.1,"to have a considerable influence on digital proficiency, with lower-skilled individuals significantly "
+21,5,5,Calibri,11.0,72.0,280.6,525.6,291.6,"lagging behind. Austria addresses these disparities through a mix of national and regional initiatives, "
+21,5,6,Calibri,11.0,72.0,295.1,525.9,306.2,"such as ‘Digital Everywhere+’, aimed at reaching rural populations and vulnerable groups, and the "
+21,5,7,Calibri,11.0,72.0,309.6,524.1,320.7,"MINT Action Plan, designed to promote STEM education and participation among youth and women. "
+21,6,0,Calibri-Bold,11.0,72.0,332.1,525.5,343.1,"Austria has also begun integrating digital tools more strategically into public services, with a strong "
+21,6,1,Calibri-Bold,11.0,72.0,346.6,233.3,357.6,focus on usability and citizen trust.
+21,6,1,Calibri,11.0,233.4,346.6,525.8,357.6, Measures in areas such as e-health and digital justice reflect an 
+21,6,2,Calibri,11.0,72.0,361.1,525.6,372.2,"intention to make digital services more responsive to user needs. However, efforts to promote the "
+21,6,3,Calibri,11.0,72.0,375.5,525.9,386.6,uptake of secure digital identity solutions (eID) remain limited and will require additional focus. On the 
+21,6,4,Calibri,11.0,72.0,390.0,525.8,401.1,"democracy and information front, Austria continues to enhance its response to disinformation through "
+21,6,5,Calibri,11.0,72.0,404.6,525.8,415.6,"interministerial coordination, awareness-raising campaigns, and international cooperation. While "
+21,6,6,Calibri,11.0,72.0,419.1,525.9,430.1,"digital safety for vulnerable groups such as children is not yet a central policy pillar, ongoing initiatives "
+21,6,7,Calibri,11.0,72.0,433.5,462.1,444.5,in schools and public campaigns aim to strengthen digital awareness from an early age. 
+21,7,0,Calibri,11.0,72.0,456.1,148.8,467.1,According to the 
+21,7,0,Calibri-Bold,11.0,149.2,456.1,243.8,467.1,2025 Eurobarometer
+21,7,0,Calibri,11.0,243.9,456.1,249.0,467.1,", "
+21,7,0,Calibri-Bold,11.0,249.4,456.1,326.4,467.1,78% of Austrians
+21,7,0,Calibri,11.0,326.5,456.1,525.8,467.1, consider accessing public services online to 
+21,7,1,Calibri,11.0,72.0,470.6,283.3,481.6,be important for their daily life by 2030. This is 
+21,7,1,Calibri-Bold,11.0,283.6,470.6,416.8,481.6,below the EU average of 84%
+21,7,1,Calibri,11.0,416.9,470.6,504.1,481.6,". At the same time, "
+21,7,1,Calibri-Bold,11.0,504.2,470.6,525.9,481.6,21% 
+21,7,2,Calibri-Bold,11.0,72.0,485.0,181.7,496.0,of Austrian respondents
+21,7,2,Calibri,11.0,181.6,485.0,370.8,496.0," did not view it as important, compared to "
+21,7,2,Calibri-Bold,11.0,370.8,485.0,440.0,496.0,14% at EU level
+21,7,2,Calibri,11.0,440.1,485.0,525.9,496.0,. When it comes to 
+21,7,3,Calibri,11.0,72.0,499.5,145.7,510.5,"human support, "
+21,7,3,Calibri-Bold,11.0,145.1,499.5,525.9,510.5,73% of Austrians believe that receiving human support to help access and use digital 
+21,7,4,Calibri-Bold,11.0,72.0,514.0,455.4,525.1,technologies and services would significantly facilitate their daily digital experience
+21,7,4,Calibri,11.0,455.7,514.0,525.9,525.1,", slightly below "
+21,7,5,Calibri,11.0,72.0,528.5,206.4,539.6,"the EU average of 77%, while "
+21,7,5,Calibri-Bold,11.0,206.8,528.5,525.7,539.6,87% of Austrians consider it important that public authorities ensure 
+21,7,6,Calibri-Bold,11.0,72.0,542.9,525.6,554.0,proper human support to accompany the transformation brought by digital technologies and 
+21,7,7,Calibri-Bold,11.0,72.0,557.5,108.4,568.5,services
+21,7,7,Calibri,11.0,108.5,557.5,283.0,568.5,", slightly below the EU average of 89%. "
+21,8,0,Calibri-Light,12.0,72.0,580.3,182.3,592.3,Equipping people with 
+21,8,0,Calibri,12.0,182.4,580.3,240.7,592.3,digital skills 
+21,9,0,Calibri-LightItalic,11.0,72.0,597.8,152.0,608.9,Basic Digital Skills 
+21,9,1,Calibri-Bold,11.0,72.0,612.3,525.6,623.4,"Austria maintains a strong position in digital skills, with 64.68% of its population possessing at least "
+21,9,2,Calibri-Bold,11.0,72.0,626.7,381.3,637.8,"basic digital skills in 2023, well above the EU average of 55.56%."
+21,9,2,Calibri,11.0,381.4,626.7,525.8,637.8, While new overall data is not 
+21,9,3,Calibri,11.0,72.0,641.3,525.8,652.3,"available for 2024, detailed demographic insights highlight both strengths and areas requiring "
+21,9,4,Calibri,11.0,72.0,655.8,118.3,666.8,attention: 
+21,10,0,SymbolMT,11.0,90.0,676.0,95.1,689.5,
+21,10,0,ArialMT,11.0,95.1,677.1,98.1,689.4, 
+21,10,1,Calibri-Bold,11.0,108.0,678.8,165.9,689.9,Gender Gap:
+21,10,1,Calibri,11.0,165.9,678.8,525.6,689.9," Austria faces the largest gender gap in the EU, with 68.71% of men and 60.67% "
+21,10,2,Calibri,11.0,108.0,693.3,525.9,704.4,"of women proficient in digital skills – a disparity of 8.04 pps, significantly higher than the EU "
+21,10,3,Calibri,11.0,108.0,707.9,429.6,718.9,average (2.23 pps). Bridging this gender divide remains a key challenge. 
+21,10,4,SymbolMT,11.0,90.0,720.2,95.1,733.7,
+21,10,4,ArialMT,11.0,95.1,721.3,98.1,733.6, 
+21,10,5,Calibri-Bold,11.0,108.0,723.0,216.6,734.0,Educational Attainment
+21,10,5,Calibri,11.0,216.6,723.0,525.7,734.0,": Highly educated Austrians exhibit high digital proficiency (83.06%), "
+21,10,6,Calibri,11.0,108.0,737.4,525.6,748.4,"exceeding the EU average (79.83%). However, those with lower education levels remain "
+21,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+22,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+22,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+22,4,0,Calibri,11.0,108.0,84.1,525.9,95.2,"substantially behind at 37.17%, highlighting a considerable skills gap (27.51 pps below the "
+22,4,1,Calibri,11.0,108.0,98.7,368.4,109.7,"national average), larger than the EU average (21.95 pps). "
+22,4,2,SymbolMT,11.0,90.0,110.8,95.1,124.3,
+22,4,2,ArialMT,11.0,95.1,111.9,98.1,124.3, 
+22,4,3,Calibri-Bold,11.0,108.0,113.7,196.8,124.7,Urban-Rural Divide
+22,4,3,Calibri,11.0,196.9,113.7,525.7,124.7,: Rural residents have a lower rate (59.24%) compared to the national 
+22,4,4,Calibri,11.0,108.0,128.2,184.3,139.2,average but still 
+22,4,5,Calibri,11.0,108.0,142.7,184.3,153.7,surpass the EU 
+22,4,6,Calibri,11.0,108.0,157.2,131.8,168.3,rural 
+22,4,7,Calibri,11.0,146.4,157.2,184.3,168.3,average 
+22,4,8,Calibri,11.0,108.0,171.6,153.0,182.7,(47.50%). 
+22,4,9,Calibri,11.0,165.2,171.6,184.3,182.7,The 
+22,4,10,Calibri,11.0,108.0,186.1,138.0,197.2,digital 
+22,4,11,Calibri,11.0,154.8,186.1,184.3,197.2,divide 
+22,4,12,Calibri,11.0,108.0,200.7,150.1,211.7,between 
+22,4,13,Calibri,11.0,160.7,200.7,184.3,211.7,rural 
+22,4,14,Calibri,11.0,108.0,215.2,127.3,226.2,and 
+22,4,15,Calibri,11.0,145.2,215.2,184.3,226.2,national 
+22,4,16,Calibri,11.0,108.0,229.6,184.3,240.6,averages (5.44 
+22,4,17,Calibri,11.0,108.0,244.1,184.3,255.2,pps) is smaller 
+22,4,18,Calibri,11.0,108.0,258.6,131.0,269.7,than 
+22,4,19,Calibri,11.0,141.5,258.6,159.0,269.7,the 
+22,4,20,Calibri,11.0,169.4,258.6,184.3,269.7,EU 
+22,4,21,Calibri,11.0,108.0,273.2,146.0,284.2,average 
+22,4,22,Calibri,11.0,108.0,287.6,157.8,298.6,(8.06 pps). 
+22,4,23,SymbolMT,11.0,90.0,299.9,95.1,313.4,
+22,4,23,ArialMT,11.0,95.1,301.0,98.1,313.3, 
+22,4,24,Calibri-Bold,11.0,108.0,302.7,128.0,313.7,Age 
+22,4,25,Calibri-Bold,11.0,153.2,302.7,184.3,313.7,Group 
+22,4,26,Calibri-Bold,11.0,108.0,317.2,145.5,328.2,Analysis
+22,4,26,Calibri,11.0,145.5,317.2,151.0,328.2,: 
+22,4,27,Calibri,11.0,108.0,331.7,184.3,342.8,Individuals aged 
+22,4,28,Calibri,11.0,108.0,346.1,184.3,357.2,35-44 have the 
+22,4,29,Calibri,11.0,108.0,360.6,143.3,371.7,highest 
+22,4,30,Calibri,11.0,108.0,375.2,159.9,386.2,proficiency 
+22,4,31,Calibri,11.0,108.0,389.7,149.6,400.7,"(76.10%, "
+22,4,32,Calibri,11.0,108.0,404.1,163.7,415.1,significantly 
+22,4,33,Calibri,11.0,108.0,418.6,184.3,429.7,above the EU 
+22,4,34,Calibri,11.0,108.0,433.1,146.1,444.2,average 
+22,4,35,Calibri,11.0,172.7,433.1,184.3,444.2,of 
+22,4,36,Calibri,11.0,108.0,447.7,149.6,458.7,65.26%). 
+22,4,37,Calibri,11.0,108.0,462.1,525.9,473.1,"Although the 65-74 age group is the least proficient (37.68%), they are notably above their EU "
+22,4,38,Calibri,11.0,108.0,476.6,213.3,487.6,counterparts (28.19%). 
+22,4,39,SymbolMT,11.0,90.0,488.9,95.1,502.4,
+22,4,39,ArialMT,11.0,95.1,490.0,98.1,502.3, 
+22,4,40,Calibri-Bold,11.0,108.0,491.7,223.2,502.8,Digital Skills Components
+22,4,40,Calibri,11.0,223.4,491.7,525.8,502.8,": Austria exceeds the EU average across all Digital Skills Index areas, "
+22,4,41,Calibri,11.0,108.0,506.1,525.7,517.2,notably excelling in communication and collaboration (94.30%). Digital content creation 
+22,4,42,Calibri,11.0,108.0,520.6,474.1,531.7,"remains comparatively the weakest area (76.20%), yet still above the EU average. "
+22,5,0,Calibri,11.0,72.0,538.1,74.5,549.2, 
+22,5,1,Calibri,11.0,72.0,552.7,525.9,563.7,"Overall, Austria demonstrates robust digital skills performance but needs targeted measures to reduce "
+22,5,2,Calibri,11.0,72.0,567.2,380.0,578.3,"disparities, especially regarding gender and educational background. "
+22,6,0,Calibri,11.0,72.0,589.7,525.6,600.7,Austria initially set an ambitious national target to reach 100% basic digital skills coverage by 2030. 
+22,6,1,Calibri,11.0,72.0,604.2,113.9,615.2,"However,"
+22,6,1,Calibri-Bold,11.0,113.9,604.2,525.8,615.2," in 2024, following extensive stakeholder consultations, the authorities adjusted this goal "
+22,6,2,Calibri-Bold,11.0,72.0,618.6,226.5,629.6,to align with the EU target (80%).
+22,6,2,Calibri,11.0,226.6,618.6,525.8,629.6, This revision acknowledges realistic constraints such as structural 
+22,6,3,Calibri,11.0,72.0,633.1,409.4,644.1,challenges and certain demographic groups’ resistance to full digitalisation. 
+22,7,0,Calibri,11.0,72.0,655.7,172.1,666.7,The adjusted Austrian 
+22,7,0,Calibri-Bold,11.0,172.1,655.7,525.9,666.7,roadmap introduced targeted measures designed to strengthen the country’s 
+22,7,1,Calibri-Bold,11.0,72.0,670.1,345.7,681.1,progress towards achieving widespread basic digital skills
+22,7,1,Calibri,11.0,346.0,670.1,525.8,681.1,", reflecting both lessons learned from "
+22,7,2,Calibri,11.0,72.0,684.6,525.7,695.6,earlier initiatives and new priorities identified through extensive stakeholder consultation. These 
+22,7,3,Calibri,11.0,72.0,699.1,525.7,710.1,"measures specifically address critical areas such as the use generative AI, vocational education, and "
+22,7,4,Calibri,11.0,72.0,713.6,231.5,724.7,public administration digitalisation: 
+22,8,0,SymbolMT,10.0,90.0,734.4,94.6,746.5,
+22,8,0,ArialMT,10.0,94.6,735.3,97.4,746.5, 
+22,8,1,Calibri-Bold,11.0,108.0,736.1,437.3,747.1,"Inter-University Project ‘Academic AI Services’ (EUR 6 million, 2025-2027)"
+22,8,1,Calibri,11.0,437.4,736.1,525.9,747.1,: This initiative aims 
+22,8,2,Calibri,11.0,108.0,750.6,525.7,761.6,"to establish a secure, controlled environment within universities to explore and integrate "
+22,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,9,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+23,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+23,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+23,2,0,Calibri,11.0,108.0,84.1,525.6,95.2,generative AI technologies. By providing students and academic staff with direct exposure to 
+23,2,1,Calibri,11.0,108.0,98.7,525.7,109.7,"advanced digital tools, the project supports not only the development of specialised digital "
+23,2,2,Calibri,11.0,108.0,113.1,499.4,124.1,skills but also contributes significantly to overall digital literacy within higher education. 
+23,4,0,SymbolMT,10.0,90.0,133.9,94.6,146.1,
+23,4,0,ArialMT,10.0,94.6,134.9,97.4,146.0, 
+23,4,1,Calibri-Bold,11.0,108.0,135.6,277.3,146.7,Digi-Cheque for Trainees (2023-2024)
+23,4,1,Calibri,11.0,277.4,135.6,525.8,146.7,": Targeting vocational apprentices, this programme was "
+23,4,2,Calibri,11.0,108.0,150.1,525.9,161.2,designed to boost digital skills by fully funding participation in relevant training measures (up 
+23,4,3,Calibri,11.0,108.0,164.5,525.9,175.6,"to EUR 500 per training course, for up to three training courses annually). Although this specific "
+23,4,4,Calibri,11.0,108.0,179.1,525.7,190.1,"initiative has formally concluded, evaluation is currently underway, which will determine its "
+23,4,5,Calibri,11.0,108.0,193.6,523.2,204.6,future renewal and potential adjustments to better serve the changing needs of apprentices. 
+23,5,0,SymbolMT,10.0,90.0,214.3,94.6,226.5,
+23,5,0,ArialMT,10.0,94.6,215.3,97.4,226.4, 
+23,5,1,Calibri-Bold,11.0,108.0,216.0,334.0,227.1,"Future Skills initiative (EUR 900 000, 2025-2030)"
+23,5,1,Calibri,11.0,334.0,216.0,525.8,227.1,: Recognising the urgent need for digital 
+23,5,2,Calibri,11.0,108.0,230.5,525.7,241.6,"transformation within public services, this initiative identifies and develops essential digital "
+23,5,3,Calibri,11.0,108.0,245.1,525.9,256.1,competencies among employees in the Austrian federal administration. It aims to equip civil 
+23,5,4,Calibri,11.0,108.0,259.6,525.7,270.6,servants with the skills necessary to navigate and support ongoing digitalisation efforts 
+23,5,5,Calibri,11.0,108.0,274.0,158.2,285.0,effectively. 
+23,6,0,Calibri,11.0,72.0,296.6,391.7,307.6,"These new initiatives complement longstanding measures, such as the "
+23,6,0,Calibri-Bold,11.0,392.4,296.6,491.2,307.6,Digital Skills Initiative
+23,6,0,Calibri,11.0,491.1,296.6,525.9,307.6,", which "
+23,6,1,Calibri,11.0,72.0,311.1,525.8,322.1,"provides digital devices to approximately 80 000 students annually, and the systematic integration of "
+23,6,2,Calibri,11.0,72.0,325.5,525.7,336.5,"digital education modules into primary and secondary curricula. Together, these coordinated efforts "
+23,6,3,Calibri,11.0,72.0,340.0,525.9,351.0,form the backbone of Austria’s strategy to sustainably improve digital proficiency across all segments 
+23,6,4,Calibri,11.0,72.0,354.5,119.5,365.6,of society. 
+23,7,0,Calibri,11.0,72.0,377.0,525.9,388.0,"The 2024 report recommended targeted support for lower-skilled workers, disadvantaged groups, and "
+23,7,1,Calibri,11.0,72.0,391.5,525.9,402.5,"rural populations, emphasising sustained financial backing and scaling up successful initiatives. The "
+23,7,2,Calibri,11.0,72.0,406.0,328.2,417.1,Austrian authorities responded by refining their strategy: 
+23,8,0,Calibri-Bold,11.0,72.0,428.5,458.6,439.5,"‘Digital Everywhere+’, an interministerial initiative, has proven particularly successful."
+23,8,0,Calibri,11.0,458.9,428.5,525.9,439.5, Initially aimed 
+23,8,1,Calibri,11.0,72.0,443.0,525.9,454.0,"at disadvantaged adult learners, rural residents, and those with a low level of education, it has shown "
+23,8,2,Calibri,11.0,72.0,457.5,525.8,468.5,"promising results. This programme combines face-to-face workshops and online sessions, reaching "
+23,8,3,Calibri,11.0,72.0,471.9,525.9,482.9,digitally excluded groups effectively through partnerships with municipalities. About 50% of 
+23,8,4,Calibri,11.0,72.0,486.4,354.0,497.5,municipalities involved are in infrastructure-poor rural regions. 
+23,9,0,Calibri-Bold,11.0,78.0,515.3,288.0,526.4,2024 recommendation on basic digital skills: 
+23,9,0,Calibri,11.0,289.4,515.3,519.6,526.4,Explore measures to boost the digital skills of the 
+23,9,1,Calibri,11.0,78.0,529.9,519.7,540.9,population that is far from digitalisation (such as low-skilled jobseekers) in order to achieve the very 
+23,9,2,Calibri,11.0,78.0,544.3,195.9,555.3,ambitious national target. 
+23,10,0,Calibri-Bold,11.0,78.0,573.9,519.6,585.0,Austria addressed fully the recommendation by putting significant policy actions into place in 
+23,10,1,Calibri-Bold,11.0,78.0,588.3,103.3,599.4,2024.
+23,10,1,Calibri,11.0,103.3,588.3,519.7,599.4," Initiatives like ‘“Digital Everywhere+”, combined with the continued implementation of "
+23,10,2,Calibri,11.0,78.0,602.9,519.7,613.9,existing measures such as “Digital Everywhere‘” – both developed and implemented under the 
+23,10,3,Calibri,11.0,78.0,617.4,519.8,628.4,"auspices of the cross-ministerial Digital Skills Initiative –Offensive’, go in the direction of addressing "
+23,10,4,Calibri,11.0,78.0,631.9,335.7,642.9,the remaining challenges in the area of basic digital skills. 
+23,11,0,Calibri,11.0,72.0,655.8,74.5,666.8, 
+23,12,0,Calibri-LightItalic,11.0,72.0,678.2,135.2,689.3,ICT specialists 
+23,12,1,Calibri-Bold,11.0,72.0,692.7,525.6,703.8,"In terms of ICT specialists, Austria outperforms the EU in the total percentage of ICT specialists as a "
+23,12,2,Calibri-Bold,11.0,72.0,707.3,203.8,718.3,share of total employment.
+23,12,2,Calibri,11.0,203.8,707.3,206.3,718.3, 
+23,12,2,Calibri-Bold,11.0,208.7,707.3,525.8,718.3,"In 2023, 5.3% of Austria’s total employment were ICT specialists, "
+23,12,3,Calibri-Bold,11.0,72.0,721.7,205.6,732.7,compared to the EU’s 4.8%.
+23,12,3,Calibri,11.0,205.6,721.7,525.9,732.7," This figure remained steady at 5.3% in 2024, while the EU’s share "
+23,12,4,Calibri,11.0,72.0,736.2,156.5,747.2,increased to 5.0%. 
+23,12,4,Calibri-Bold,11.0,156.5,736.2,502.1,747.2,Austria’s growth rate is thus of 0.0% in this area is lower than the EU’s 4.2%.
+23,12,4,Calibri,11.0,502.1,736.2,504.6,747.2, 
+23,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,13,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+24,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+24,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+24,2,0,Calibri,11.0,72.0,84.1,525.6,95.2,"Regarding female ICT specialists, Austria shows a positive trend. In 2023, 19.5% of ICT specialists in "
+24,2,1,Calibri,11.0,72.0,98.7,525.7,109.7,"Austria were female, slightly above the EU’s 19.4%. This figure increased to 21.1% in 2024, while the "
+24,2,2,Calibri,11.0,72.0,113.1,522.5,124.1,EU’s share increased to 19.5%. Austria’s growth rate of 8.2% in this area is higher than the EU’s 0.5%. 
+24,4,0,Calibri-Bold,11.0,72.0,135.6,525.9,146.7,"In 2022, 20.14% of Austrian enterprises with 10 or more employees provided ICT training, slightly "
+24,4,1,Calibri-Bold,11.0,72.0,150.1,183.2,161.2,below the EU’s 22.37%.
+24,4,1,Calibri,11.0,183.3,150.1,525.7,161.2," By 2024, this figure decreased to 19.92% in Austria, while the EU saw a "
+24,4,2,Calibri,11.0,72.0,164.5,525.9,175.6,marginal decrease to 22.29%. Austria’s annual growth rate of -0.5% in this area is lower than the EU’s 
+24,4,3,Calibri,11.0,72.0,179.1,102.5,190.1,-0.2%. 
+24,5,0,Calibri,11.0,72.0,201.6,525.6,212.7,"In summary, while Austria lags behind the EU in the proportion of enterprises providing ICT training "
+24,5,1,Calibri,11.0,72.0,216.0,525.9,227.1,"and the growth rate of total ICT specialists, it shows a promising trend in increasing the share of female "
+24,5,2,Calibri,11.0,72.0,230.5,525.9,241.6,"ICT specialists. The country’s annual growth rate in this area is significantly higher than the EU’s, "
+24,5,3,Calibri,11.0,72.0,245.1,525.9,256.1,"indicating a positive trajectory towards gender balance in the ICT sector. However, Austria’s overall ICT "
+24,5,4,Calibri,11.0,72.0,259.6,525.7,270.6,"specialist growth rate is lower than the EU’s, suggesting a need for strategies to boost the growth of "
+24,5,5,Calibri,11.0,72.0,274.0,478.3,285.0,ICT specialists in general. The country is lagging behind compared to its national trajectory. 
+24,6,0,Calibri-Bold,11.0,72.0,296.6,525.9,307.6,"To align with the EU’s Digital Decade target of 10% ICT employment by 2030, Austria has now "
+24,6,1,Calibri-Bold,11.0,72.0,311.1,464.4,322.1,explicitly defined a national trajectory towards this objective in its adjusted roadmap. 
+24,7,0,Calibri,11.0,72.0,333.5,183.3,344.6,The roadmap introduces 
+24,7,0,Calibri-Bold,11.0,183.2,333.5,525.8,344.6,seven new measures specifically aimed at expanding the ICT workforce and 
+24,7,1,Calibri-Bold,11.0,72.0,348.0,214.2,359.1,addressing gender imbalances
+24,7,1,Calibri,11.0,214.4,348.0,525.9,359.1,". The IT Experts funding programme (EUR 1.2 million, 2025-2026) "
+24,7,2,Calibri,11.0,72.0,362.4,525.9,373.5,"promotes innovative approaches to expand the ICT talent pool, with a particular emphasis on training, "
+24,7,3,Calibri,11.0,72.0,377.0,525.9,388.0,"career orientation, and increasing the participation of women. A complementary initiative is the study "
+24,7,4,Calibri,11.0,72.0,391.5,525.9,402.5,"on the labour market situation in the field of cybersecurity, funded through the K-PASS cybersecurity "
+24,7,5,Calibri,11.0,72.0,406.0,525.8,417.1,"research programme, which will inform future policy through in-depth analysis of skills gaps, demand "
+24,7,6,Calibri,11.0,72.0,420.4,240.5,431.5,"forecasts, and existing training offers. "
+24,8,0,Calibri,11.0,72.0,443.0,369.7,454.0,"To tackle gender-based barriers more directly, Austria has launched"
+24,8,0,Calibri-Bold,11.0,369.7,443.0,525.9,454.0, multiple awareness and outreach 
+24,8,1,Calibri-Bold,11.0,72.0,457.5,525.8,468.5,"campaigns, including the initiative on dismantling gender stereotypes in educational and career "
+24,8,2,Calibri-Bold,11.0,72.0,471.9,105.6,482.9,choices
+24,8,2,Calibri,11.0,105.6,471.9,245.6,482.9," (EUR 2.8 million, 2024-2026), "
+24,8,2,Calibri-Bold,11.0,247.2,471.9,525.9,482.9,"the MINT-Girls Challenge, and the Girl’s Day in the federal "
+24,8,3,Calibri-Bold,11.0,72.0,486.4,134.6,497.5,public service
+24,8,3,Calibri,11.0,134.7,486.4,525.7,497.5,. These initiatives aim to make ICT and STEM careers more accessible and appealing to 
+24,8,4,Calibri,11.0,72.0,500.9,276.0,512.0,"girls and young women. More broadly, the "
+24,8,4,Calibri-Bold,11.0,278.3,500.9,362.2,512.0,MINT Action Plan
+24,8,4,Calibri,11.0,362.1,500.9,525.8,512.0, serves as a strategic umbrella for 
+24,8,5,Calibri,11.0,72.0,515.5,525.7,526.5,promoting STEM education across the entire training chain. It includes programmes such as MINT 
+24,8,6,Calibri,11.0,72.0,529.9,525.7,540.9,"Regionen, which supports regional networking among educational institutions to promote STEM "
+24,8,7,Calibri,11.0,72.0,544.4,525.8,555.4,"careers, with an emphasis on raising awareness and improving visibility for female students in technical "
+24,8,8,Calibri,11.0,72.0,558.9,101.2,570.0,fields. 
+24,9,0,Calibri,11.0,72.0,581.4,525.7,592.4,"Austrian authorities acknowledge that reaching the 10% target will require substantial efforts, "
+24,9,1,Calibri,11.0,72.0,595.9,525.6,606.9,particularly in closing the gap between current ICT workforce supply and the strong demand from 
+24,9,2,Calibri,11.0,72.0,610.4,113.3,621.5,industry. 
+24,9,2,Calibri-Bold,11.0,113.1,610.4,525.9,621.5,Stakeholder feedback highlighted the need to go beyond attracting new entrants and focus 
+24,9,3,Calibri-Bold,11.0,72.0,624.9,293.0,636.0,on reskilling and upskilling existing professionals
+24,9,3,Calibri,11.0,293.2,624.9,451.0,636.0,", particularly for experienced roles. "
+24,10,0,Calibri-Bold,11.0,78.0,653.7,267.0,664.8,2024 recommendation on ICT specialists: 
+24,10,0,Calibri,11.0,267.2,653.7,519.7,664.8,Based on the conclusion of the study on professionals in 
+24,10,1,Calibri,11.0,78.0,668.3,519.6,679.3,"the Digital Skills Initiative, design new targeted measures to increase drastically the number of ICT "
+24,10,2,Calibri,11.0,78.0,682.8,478.3,693.8,"specialists, including by upskilling/reskilling the labour force and bridging the gender gap. "
+24,11,0,Calibri-Bold,11.0,78.0,712.3,519.5,723.3,Austria made some efforts to address the recommendation through new policy actions in 2024. 
+24,11,1,Calibri,11.0,78.0,726.8,519.5,737.9,"Overall, the adjusted roadmap builds on previous foundations by providing a more complete "
+24,11,2,Calibri,11.0,78.0,741.4,519.7,752.4,"framework, defining specific focus areas, and outlining a broader ambition to expand Austria’s ICT "
+24,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+25,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+25,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+25,2,0,Calibri,11.0,78.0,90.5,519.6,101.5,workforce through more inclusive measures. Continued monitoring of the effectiveness of these 
+25,2,1,Calibri,11.0,78.0,105.0,497.5,116.1,"programmes, especially their gender impact, will be key to achieving the Digital Decade goals. "
+25,4,0,Calibri-Light,12.0,72.0,131.2,476.9,143.2,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+25,4,1,Calibri-Bold,11.0,72.0,146.7,525.4,157.7,Austria reached a score of 80.82 in total digital public services for citizens in 2024 (2030 national 
+25,4,2,Calibri-Bold,11.0,72.0,161.2,310.5,172.2,"target set), slightly below the EU average of 82.32. "
+25,4,2,Calibri,11.0,311.6,161.2,525.9,172.2,"The annual growth rate was 0.1%, significantly "
+25,4,3,Calibri,11.0,72.0,175.7,525.9,186.7,"lower than the EU’s 3.6%. For cross-border digital public services for citizens, Austria’s score fell from "
+25,4,4,Calibri,11.0,72.0,190.2,525.9,201.3,"68.22 in 2023 to 66.67 in 2024, remaining below the EU average of 71.28. The growth rate of -2.3% "
+25,4,5,Calibri,11.0,72.0,204.7,525.7,215.8,"contrasts with the EU’s +4.3%, signalling a need for renewed efforts to boost service availability and "
+25,4,6,Calibri,11.0,72.0,219.1,386.8,230.2,accessibility. The country is on track according to its national trajectory
+25,4,6,Calibri-Bold,11.0,386.8,219.1,389.3,230.2, 
+25,5,0,Calibri-Bold,11.0,72.0,241.7,525.9,252.8,"In the realm of digital public services for businesses, Austria is on a more positive trajectory with a "
+25,5,1,Calibri-Bold,11.0,72.0,256.1,303.1,267.2,score of 87.69 exceeding the EU average of 86.23.
+25,5,1,Calibri,11.0,303.2,256.1,525.9,267.2, Austria’s growth rate of 5.8% outpaced the EU’s 
+25,5,2,Calibri,11.0,72.0,270.6,525.9,281.7,"0.9%. For cross-border digital public services for businesses, Austria’s score was 76.94 in 2024, above "
+25,5,3,Calibri,11.0,72.0,285.2,525.9,296.2,the EU’s 73.76. Austria’s growth rate of 12.2% was significantly higher than the EU’s 0.9%. The country 
+25,5,4,Calibri,11.0,72.0,299.7,277.8,310.7,is on track according to its national trajectory. 
+25,6,0,Calibri-Bold,11.0,72.0,322.1,525.8,333.2,"Regarding access to e-health records, Austria’s total score was 88.17 in 2023 and 86.98 in 2024, both "
+25,6,1,Calibri-Bold,11.0,72.0,336.6,315.8,347.7,"higher than the EU’s 79.12 and 82.70, respectively. "
+25,6,1,Calibri,11.0,317.5,336.6,525.9,347.7,"However, Austria’s growth rate of -1.4% was "
+25,6,2,Calibri,11.0,72.0,351.2,525.8,362.2,considerably lower than the EU’s 4.5%. The country is lagging behind compared to its national 
+25,6,3,Calibri,11.0,72.0,365.6,120.1,376.6,trajectory. 
+25,7,0,Calibri,11.0,72.0,388.1,525.9,399.2,Austria’s digital public services and access to e-health records present a nuanced picture. While Austria 
+25,7,1,Calibri,11.0,72.0,402.7,525.9,413.7,leads in certain areas such as total digital public services for citizens in 2023 and access to e-health 
+25,7,2,Calibri,11.0,72.0,417.1,525.8,428.1,"records in both years, it lags behind in others, particularly in cross-border services and growth rates. "
+25,7,3,Calibri,11.0,72.0,431.6,525.8,442.6,"The country’s performance in digital public services for businesses shows a promising development, "
+25,7,4,Calibri,11.0,72.0,446.1,416.6,457.1,with higher growth rates than the EU in both total and cross-border services. 
+25,8,0,Calibri-LightItalic,11.0,72.0,468.5,89.0,479.6,eID 
+25,8,1,Calibri,11.0,72.0,483.1,525.7,494.1,"Austria continues to provide universal access to a secure digital identity (eID), which is fully notified "
+25,8,2,Calibri,11.0,72.0,497.6,525.6,508.6,"under eIDAS. Consequently, the country has already met the Digital Decade’s 2030 target, with 100% "
+25,8,3,Calibri,11.0,72.0,512.1,458.7,523.2,"of its population having access to a secure, privacy-protecting digital identity solution.  "
+25,9,0,Calibri,11.0,72.0,534.5,525.6,545.6,The adjusted roadmap does not introduce new measures specifically targeting increased eID usage. 
+25,9,1,Calibri,11.0,72.0,549.1,525.6,560.1,"However, Austrian authorities have indicated ongoing efforts to promote broader uptake through "
+25,9,2,Calibri,11.0,72.0,563.5,525.8,574.5,practical incentives and integration into daily life. Initiatives include linking the new eID Austria with 
+25,9,3,Calibri,11.0,72.0,578.0,525.7,589.1,passport issuance processes and offering fee reductions for public services when users identify 
+25,9,4,Calibri,11.0,72.0,592.5,525.9,603.6,themselves digitally. Such initiatives are expected to enhance the convenience and appeal of digital 
+25,9,5,Calibri,11.0,72.0,607.1,525.9,618.1,"identities, ultimately encouraging more widespread adoption. Overall, the share of e-Government "
+25,9,6,Calibri,11.0,72.0,621.6,498.7,632.6,"users within the population has only increased slightly, from 78.46% in 2022 to 78.71% in 2024. "
+25,10,0,Calibri,11.0,72.0,644.0,525.7,655.1,Sustained promotional campaigns and integration of eID into essential public services will be crucial 
+25,10,1,Calibri,11.0,72.0,658.5,525.7,669.6,"to increasing its everyday use, thus fully capitalising on Austria’s strong foundation in digital identity "
+25,10,2,Calibri,11.0,72.0,672.9,138.5,684.0,infrastructure. 
+25,11,0,Calibri-LightItalic,11.0,72.0,695.5,327.2,706.5,Digitalisation of public services for citizens and businesses 
+25,11,1,Calibri-Bold,11.0,72.0,710.0,525.5,721.1,"Following recommendations from the 2024 report, Austrian authorities addressed critical gaps in "
+25,11,2,Calibri-Bold,11.0,72.0,724.4,525.5,735.5,their strategic roadmap by setting explicit national targets and trajectories aligned with the EU’s 
+25,11,3,Calibri-Bold,11.0,72.0,739.0,317.1,750.0,Digital Decade goals for both citizens and businesses
+25,11,3,Calibri,11.0,317.1,739.0,525.8,750.0,. The adjusted roadmap streamlined previous 
+25,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+26,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+26,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+26,2,0,Calibri,11.0,72.0,84.1,525.7,95.2,"initiatives, narrowing its focus onto fewer, more impactful measures to accelerate overall progress in "
+26,2,1,Calibri,11.0,72.0,98.7,205.3,109.7,digital public service delivery. 
+26,4,0,Calibri,11.0,72.0,121.1,525.9,132.1,"The establishment of a jointly defined publicly accessible health portal, for instance, aims to create a "
+26,4,1,Calibri,11.0,72.0,135.6,525.9,146.7,comprehensive digital platform providing streamlined access to health-related services and 
+26,4,2,Calibri,11.0,72.0,150.1,525.9,161.2,"information. At the same time, the digitalisation of case management in the judiciary constituted a "
+26,4,3,Calibri,11.0,72.0,164.5,525.8,175.6,"step forward in fully digitalising Austria’s judicial system: by transitioning to digital case management, "
+26,4,4,Calibri,11.0,72.0,179.1,525.7,190.1,"the initiative seeks to significantly boost administrative efficiency, reduce processing times, and "
+26,4,5,Calibri,11.0,72.0,193.6,525.9,204.6,"enhance transparency, thus providing citizens and businesses with easier and more accessible judicial "
+26,4,6,Calibri,11.0,72.0,208.1,112.9,219.1,services. 
+26,5,0,Calibri-Bold,11.0,72.0,230.5,420.8,241.6,These targeted initiatives directly respond to previously identified challenges
+26,5,0,Calibri,11.0,421.1,230.5,525.9,241.6,", notably by reinforcing "
+26,5,1,Calibri,11.0,72.0,245.1,525.7,256.1,coordination across government levels and improving the user experience in essential public sectors 
+26,5,2,Calibri,11.0,72.0,259.6,257.8,270.6,such as healthcare and judiciary services. 
+26,6,0,Calibri-Bold,11.0,72.0,282.0,525.9,293.1,"In the area of key digital public services for businesses, the topic of structured e-invoicing and Peppol "
+26,6,1,Calibri-Bold,11.0,72.0,296.6,390.1,307.6,integration has gained attention among economic operators in Austria
+26,6,1,Calibri,11.0,390.1,296.6,525.9,307.6,. Peppol (Pan-European Public 
+26,6,2,Calibri,11.0,72.0,311.1,525.7,322.1,Procurement On-Line) is a set of technical specifications and a secure network infrastructure that 
+26,6,3,Calibri,11.0,72.0,325.5,525.9,336.5,"facilitates the cross-border exchange of electronic procurement documents – most notably, structured "
+26,6,4,Calibri,11.0,72.0,340.0,525.9,351.0,electronic invoices – between public administrations and businesses across the EU. While e-invoicing 
+26,6,5,Calibri,11.0,72.0,354.5,525.9,365.6,to the federal government has been mandatory since 2014 – with the Peppol transport infrastructure 
+26,6,6,Calibri,11.0,72.0,369.0,525.8,380.1,"accepted as a valid method for submission – Austria still lacks a designated national Peppol Authority, "
+26,6,7,Calibri,11.0,72.0,383.4,525.8,394.5,"which places it behind most other EU Member States in this area. The Peppol system, operated by the "
+26,6,8,Calibri,11.0,72.0,398.0,525.8,409.0,"non-profit organisation OpenPeppol, enables cross-border interoperability in electronic procurement "
+26,6,9,Calibri,11.0,72.0,412.5,525.9,423.5,"and invoicing, and its effective implementation typically relies on coordination through a national "
+26,6,10,Calibri,11.0,72.0,427.0,525.9,438.1,"authority. In Austria, although the Austrian Federal Computing Centre (BRZ) operates a centralised "
+26,6,11,Calibri,11.0,72.0,441.4,525.7,452.5,"Service Metadata Publisher and supports approximately 5 000 Peppol receivers, it does not hold "
+26,6,12,Calibri,11.0,72.0,455.9,475.0,467.0,official Peppol Authority status. Economic stakeholders have voiced concern over this gap. 
+26,7,0,Calibri,11.0,72.0,478.4,525.8,489.4,"Authorities have notably prioritised overarching projects, emphasising coordinated implementation at "
+26,7,1,Calibri,11.0,72.0,492.9,525.9,503.9,federal and regional levels. The strategic reduction in the number of individual measures reflects a 
+26,7,2,Calibri,11.0,72.0,507.4,525.7,518.5,"deliberate effort to focus resources effectively, thereby enhancing implementation and achieving "
+26,7,3,Calibri,11.0,72.0,521.9,211.3,533.0,"clearer, measurable outcomes. "
+26,8,0,Calibri-Bold,11.0,78.0,550.9,325.9,561.9,2024 recommendation on key digital public services: 
+26,8,0,Calibri,11.0,327.2,550.9,519.7,561.9,Promote the use of eID and digital public 
+26,8,1,Calibri,11.0,78.0,565.3,519.6,576.3,services by the citizens. Make use of the conclusions of the ‘Study on appropriate channels for 
+26,8,2,Calibri,11.0,78.0,579.8,506.6,590.9,digitalisation with maximum benefits’ to further digitalise public services in an efficient manner. 
+26,9,0,Calibri-Bold,11.0,78.0,609.3,519.8,620.4,Austria made some efforts to address the recommendation through new policy actions in 2024. 
+26,9,1,Calibri,11.0,78.0,623.9,519.6,634.9,The adjusted roadmap introduced clear national targets and prioritised impactful flagship projects 
+26,9,2,Calibri,11.0,78.0,638.4,519.7,649.4,to improve service delivery. New measures in healthcare and justice aim to enhance user experience 
+26,9,3,Calibri,11.0,78.0,652.8,428.8,663.8,"and accessibility. However, further action is needed to promote wider eID use. "
+26,10,0,Calibri,11.0,72.0,676.8,74.5,687.8, 
+26,11,0,Calibri-LightItalic,11.0,72.0,699.2,112.2,710.3,e-Health 
+26,11,1,Calibri-Bold,11.0,72.0,713.7,525.9,724.8,"In 2024, Austria made significant progress to contribute to e-health Digital Decade commitments. "
+26,11,2,Calibri-Bold,11.0,72.0,728.2,388.7,739.2,While the key challenges identified in the 2024 country report persist
+26,11,2,Calibri,11.0,388.8,728.2,394.0,739.2,", "
+26,11,2,Calibri-Bold,11.0,394.1,728.2,525.8,739.2,Austria adopted a dedicated 
+26,11,3,Calibri-Bold,11.0,72.0,742.7,211.7,753.7,e-Health Strategy in June 2024
+26,11,3,Calibri,11.0,211.9,742.7,525.9,753.7,", reflected clearly in the adjusted national roadmap. The new strategy "
+26,11,4,Calibri,11.0,72.0,757.2,274.3,768.2,aims to address the challenges related to the 
+26,11,4,Calibri-Bold,11.0,274.2,757.2,483.1,768.2,lack of integration for specific data categories 
+26,11,4,Calibri,11.0,483.1,757.2,525.9,768.2,– such as 
+26,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+27,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+27,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+27,2,0,Calibri,11.0,72.0,84.1,307.2,95.2,"medical devices, implants, and medical imagery – "
+27,2,0,Calibri-Bold,11.0,309.3,84.1,525.8,95.2,and incomplete connections within the ELGA 
+27,2,1,Calibri-Bold,11.0,72.0,98.7,106.4,109.7,system 
+27,2,1,Calibri,11.0,107.4,98.7,500.7,109.7,"(standing for ‘Elektronische Gesundheitsakte’, which means electronic health records),"
+27,2,1,Calibri-Bold,11.0,500.7,98.7,503.2,109.7, 
+27,2,1,Calibri,11.0,504.3,98.7,525.9,109.7,as it 
+27,2,2,Calibri,11.0,72.0,113.1,518.7,124.1,"currently includes public hospitals and pharmacies, but excludes many private healthcare providers. "
+27,4,0,Calibri,11.0,72.0,130.6,161.9,141.6,"For the first time, "
+27,4,0,Calibri-Bold,11.0,165.3,130.6,525.9,141.6,a defined national trajectory and explicit targets for e-health have been 
+27,4,1,Calibri-Bold,11.0,72.0,145.1,353.3,156.1,"established, aligning closely with EU Digital Decade objectives"
+27,4,1,Calibri,11.0,353.5,145.1,525.9,156.1,". In support of these goals, Austria has "
+27,4,2,Calibri,11.0,72.0,159.6,296.5,170.7,committed to an annual budget of approximately 
+27,4,2,Calibri-Bold,11.0,297.1,159.6,468.7,170.7,EUR 51 million for e-health initiatives
+27,4,2,Calibri,11.0,468.8,159.6,525.9,170.7,", distributed "
+27,4,3,Calibri,11.0,72.0,174.0,525.7,185.1,through a yearly programme designed to implement specific projects prioritised under the new 
+27,4,4,Calibri,11.0,72.0,188.5,112.4,199.6,strategy. 
+27,5,0,Calibri-Bold,11.0,72.0,206.1,525.8,217.1,"By the same token, the new measures introduced in the adjusted roadmap significantly enhance "
+27,5,1,Calibri-Bold,11.0,72.0,220.6,209.3,231.6,Austria’s e-health framework.
+27,5,1,Calibri,11.0,209.4,220.6,525.7,231.6, The measure ‘Access for citizens to all ELGA health records’ expands 
+27,5,2,Calibri,11.0,72.0,235.0,525.8,246.0,"both the accessibility and completeness of the existing ELGA platform, allowing citizens comprehensive "
+27,5,3,Calibri,11.0,72.0,249.5,525.7,260.6,digital access to their personal health records. This measure aligns closely with the establishment of 
+27,5,4,Calibri,11.0,72.0,264.0,525.8,275.1,"the new publicly accessible health portal, which integrates various digital health services into a unified, "
+27,5,5,Calibri,11.0,72.0,278.6,273.7,289.6,user-friendly interface. The measure on ‘
+27,5,5,Calibri-Bold,11.0,273.6,278.6,479.3,289.6,Access for all healthcare providers (GDA)
+27,5,5,Calibri,11.0,479.4,278.6,525.9,289.6,’ ensures 
+27,5,6,Calibri,11.0,72.0,293.1,525.9,304.1,comprehensive connectivity to Austria’s public telematics infrastructure for healthcare professionals – 
+27,5,7,Calibri,11.0,72.0,307.5,525.7,318.5,"including private providers. By addressing previously identified gaps in ELGA connectivity, particularly "
+27,5,8,Calibri,11.0,72.0,322.0,525.8,333.0,"for private healthcare providers, and introducing mobile connectivity options, it significantly "
+27,5,9,Calibri,11.0,72.0,336.5,440.1,347.6,strengthens interoperability and communication within the healthcare ecosystem. 
+27,6,0,Calibri,11.0,72.0,354.0,254.9,365.1,"Finally, the introduction of the measure ‘"
+27,6,0,Calibri-Bold,11.0,255.1,354.0,428.4,365.1,Data on medical devices and implants
+27,6,0,Calibri,11.0,428.6,354.0,525.8,365.1,’ addresses a notable 
+27,6,1,Calibri,11.0,72.0,368.4,525.7,379.5,gap from previous years by integrating these critical data categories into the ELGA infrastructure. This 
+27,6,2,Calibri,11.0,72.0,383.0,525.6,394.0,"addition substantially enhances the completeness of patient information available on the platform, "
+27,6,3,Calibri,11.0,72.0,397.5,431.8,408.5,"thereby improving data availability, patient safety, and overall care coordination. "
+27,7,0,Calibri-Bold,11.0,78.0,421.4,243.1,432.4,2024 recommendation on e-Health: 
+27,7,0,Calibri,11.0,243.3,421.4,519.6,432.4,(i) Make all data types available to citizens through the online 
+27,7,1,Calibri,11.0,78.0,435.9,519.5,446.9,access service; (ii) Offer a mobile application for citizens to access their electronic health records; 
+27,7,2,Calibri,11.0,78.0,450.3,499.2,461.4,(iii) Increase the supply of health data by onboarding more categories of healthcare providers. 
+27,8,0,Calibri-Bold,11.0,78.0,479.9,519.5,491.0,Austria addressed fully the recommendation by putting significant policy actions into place in 
+27,8,1,Calibri-Bold,11.0,78.0,494.3,105.8,505.4,2024. 
+27,8,1,Calibri,11.0,107.8,494.3,519.5,505.4,"The majority of data categories, including medical devices and implants, are now being "
+27,8,2,Calibri,11.0,78.0,508.9,519.6,519.9,"integrated into ELGA. A new publicly accessible health portal, including mobile access, is under "
+27,8,3,Calibri,11.0,78.0,523.4,519.8,534.4,development. Connectivity for private healthcare providers is being expanded. These measures are 
+27,8,4,Calibri,11.0,78.0,537.9,423.0,548.9,backed by a dedicated eHealth strategy and EUR 51 million in annual funding.
+27,8,4,Calibri-Bold,11.0,423.0,537.9,425.5,548.9, 
+27,9,0,Calibri-Bold,11.0,72.0,561.8,74.5,572.9, 
+27,9,1,Calibri-Light,15.0,72.0,580.1,526.4,595.1,Building a safe and human centric digital environment and preserving our 
+27,9,2,Calibri-Light,15.0,72.0,599.9,141.6,614.9,democracy 
+27,10,0,Calibri,11.0,72.0,626.7,525.8,637.8,"In recent years, Austria’s digital civic and political participation rates have shown a moderate decline, "
+27,10,1,Calibri,11.0,72.0,641.3,319.1,652.3,yet generally remain aligned with or above EU averages
+27,10,1,Calibri-Bold,11.0,319.1,641.3,525.8,652.3,". In 2024, 11.30% of Austrians participated in "
+27,10,2,Calibri-Bold,11.0,72.0,655.8,525.4,666.8,"online consultations or digital voting to define civic or political issues (down from 12.67% in 2023), "
+27,10,3,Calibri-Bold,11.0,72.0,670.3,242.5,681.3,still above the EU average of 10.05%. 
+27,11,0,Calibri,11.0,72.0,692.7,114.5,703.8,"Similarly, "
+27,11,0,Calibri-Bold,11.0,116.2,692.7,525.6,703.8,the percentage of individuals expressing opinions on civic or political matters through 
+27,11,1,Calibri-Bold,11.0,72.0,707.3,466.6,718.3,websites or social media decreased notably from 15.79% in 2023 to 12.39% in 2024
+27,11,1,Calibri,11.0,467.0,707.3,525.9,718.3,", now falling "
+27,11,2,Calibri,11.0,72.0,721.8,525.7,732.8,below the EU average of 16.48%. Overall civic or political participation dropped to 19.79% in 2024 
+27,11,3,Calibri,11.0,72.0,736.2,525.8,747.2,"(from 22.88% in 2023), slightly below the current EU average of 20.45%. These trends indicate a "
+27,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+28,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+28,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+28,2,0,Calibri,11.0,72.0,84.1,525.8,95.2,"weakening engagement that calls for renewed attention from policymakers, especially given Austria’s "
+28,2,1,Calibri,11.0,72.0,98.7,255.5,109.7,traditionally strong digital infrastructure. 
+28,4,0,Calibri-Bold,11.0,72.0,121.1,525.6,132.1,"In 2023, in Austria, 31.4% of individuals encountered online messages considered hostile or "
+28,4,1,Calibri-Bold,11.0,72.0,135.6,525.8,146.7,"degrading towards groups based on factors such as ethnicity or disability, slightly below the EU "
+28,4,2,Calibri-Bold,11.0,72.0,150.1,156.8,161.2,average of 33.5%. 
+28,4,2,Calibri,11.0,157.6,150.1,525.7,161.2,Young people (aged 16-24) (45.50%) reported much higher exposure than adults 
+28,4,3,Calibri,11.0,72.0,164.5,525.8,175.6,"(aged between 25-64) (31.84%), showing a substantial age-related difference. Males (32.27%) and "
+28,4,4,Calibri,11.0,72.0,179.1,455.4,190.1,"females (30.55%) reported similar rates, reflecting balanced exposure across genders. "
+28,5,0,Calibri-Bold,11.0,72.0,201.6,525.5,212.7,"In 2023, 42.57% of individuals in Austria reported having come across information or content on "
+28,5,1,Calibri-Bold,11.0,72.0,216.0,525.6,227.1,"internet news sites or social media that they considered untrue or doubtful, below the EU average "
+28,5,2,Calibri-Bold,11.0,72.0,230.5,117.2,241.6,of 49.25%
+28,5,2,Calibri,11.0,117.3,230.5,525.7,241.6,". Of those who encountered such content, 28.26% verified its truthfulness, indicating that a "
+28,5,3,Calibri,11.0,72.0,245.1,525.8,256.1,notable share of individuals assessed the reliability of the material. Youth (16-24) (48.70%) reported 
+28,5,4,Calibri,11.0,72.0,259.6,525.9,270.6,"slightly more exposure than adults (25-64) (44.29%), with verification rates also being higher for youth "
+28,5,5,Calibri,11.0,72.0,274.0,525.5,285.0,"(37.33%) compared to adults (28.93%). Similarly, males (47.25%) reported notably higher exposure "
+28,5,6,Calibri,11.0,72.0,288.5,525.6,299.6,"than females (37.94%), with verification rates also being considerably higher among males (33.94%) "
+28,5,7,Calibri,11.0,72.0,303.0,177.4,314.1,than females (22.63%). 
+28,6,0,Calibri-Bold,11.0,72.0,325.5,525.9,336.5,"Compared to EU averages, a lower proportion of individuals in Austria encountered perceived hostile "
+28,6,1,Calibri-Bold,11.0,72.0,340.0,431.9,351.0,and degrading online messages and potentially misleading information online.
+28,6,1,Calibri,11.0,432.1,340.0,525.9,351.0," At the same time, a "
+28,6,2,Calibri,11.0,72.0,354.5,525.9,365.6,higher proportion of individuals reported verifying the accuracy of information compared to the EU 
+28,6,3,Calibri,11.0,72.0,369.0,525.7,380.1,"average, though notable differences in exposure and verification rates existed between males and "
+28,6,4,Calibri,11.0,72.0,383.4,525.9,394.5,"females, as well as between young people (16-24) and adults (25-64). Overall, while the data shows a "
+28,6,5,Calibri,11.0,72.0,398.0,525.6,409.0,"relatively more positive picture for Austria than broader EU trends, efforts are still needed to ensure "
+28,6,6,Calibri,11.0,72.0,412.5,470.2,423.5,"the safety and inclusiveness of online spaces, with a focus on countering misinformation. "
+28,7,0,Calibri,11.0,72.0,434.9,525.9,446.0,Austrian authorities have taken targeted and comprehensive measures to address rising concerns 
+28,7,1,Calibri,11.0,72.0,449.5,525.6,460.5,"about disinformation, particularly around major electoral events. Austria employs a robust "
+28,7,2,Calibri,11.0,72.0,464.0,263.1,475.0,"interministerial approach, exemplified by "
+28,7,2,Calibri-Bold,11.0,265.1,464.0,525.7,475.0,"the Interministerial Working Group on Hybrid Threats, "
+28,7,3,Calibri-Bold,11.0,72.0,478.4,161.9,489.4,established in 2019
+28,7,3,Calibri,11.0,162.0,478.4,525.8,489.4,", aimed at coordinating national strategies to counter disinformation effectively "
+28,7,4,Calibri,11.0,72.0,492.9,463.4,503.9,and enhancing resilience through regular assessment and inter-agency communication. 
+28,8,0,Calibri,11.0,72.0,515.5,525.8,526.5,"Strategically, Austria’s approach involves both preventive and responsive measures. Prior to the 2024 "
+28,8,1,Calibri,11.0,72.0,529.9,525.9,540.9,"elections, authorities implemented dedicated initiatives such as the social media campaign ‘Combating "
+28,8,2,Calibri,11.0,72.0,544.4,525.8,555.4,"disinformation’ to raise public awareness and resilience. Furthermore, the government launched "
+28,8,3,Calibri,11.0,72.0,558.9,525.8,570.0,targeted awareness campaigns for municipalities to enhance vigilance against misinformation in local 
+28,8,4,Calibri,11.0,72.0,573.5,525.9,584.5,"elections. Regular training and information sessions, including online and classroom-based courses for "
+28,8,5,Calibri,11.0,72.0,587.9,381.2,598.9,"public administration staff, contribute to broader societal awareness. "
+28,9,0,Calibri,11.0,72.0,610.4,525.8,621.5,"On an operational level, Austrian authorities utilise the Federal Criminal Police Information Service on "
+28,9,1,Calibri,11.0,72.0,624.9,525.7,636.0,"Disinformation, which provides daily analyses and operational measures through interministerial "
+28,9,2,Calibri,11.0,72.0,639.3,525.9,650.4,"platforms, significantly enhancing preparedness against coordinated disinformation campaigns. The "
+28,9,3,Calibri,11.0,72.0,653.9,525.7,664.9,strategic communication response to Foreign Information Manipulation and Interference (FIMI) is 
+28,9,4,Calibri,11.0,72.0,668.4,525.7,679.4,"bolstered by continuous research, notably via the national security research programmes (KIRAS and "
+28,9,5,Calibri,11.0,72.0,682.9,110.9,693.9,K-PASS). 
+28,10,0,Calibri,11.0,72.0,705.3,525.8,716.4,"Austria has demonstrated successful pragmatic cooperation among ministries and institutions, "
+28,10,1,Calibri,11.0,72.0,719.9,525.9,730.9,"particularly evident during cyber threats. Nonetheless, authorities highlight that sustained long-term "
+28,10,2,Calibri,11.0,72.0,734.4,525.9,745.4,"investment in resilience-building measures, digital literacy, and public trust is indispensable to "
+28,10,3,Calibri,11.0,72.0,748.8,343.7,759.8,effectively counter the evolving landscape of disinformation. 
+28,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+29,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+29,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+29,3,0,Calibri,11.0,72.0,84.1,525.8,95.2,"Overall, Austria maintains a relatively favourable digital environment, exhibiting slightly lower rates of "
+29,3,1,Calibri,11.0,72.0,98.7,525.9,109.7,"hostile and misleading content exposure compared to broader EU trends. Yet, declining civic "
+29,3,2,Calibri,11.0,72.0,113.1,525.7,124.1,participation online signals the need for renewed policy focus on digital civic engagement. The 
+29,3,3,Calibri,11.0,72.0,127.6,525.7,138.6,"authorities’ comprehensive, interministerial approach to combating disinformation provides a robust "
+29,3,4,Calibri,11.0,72.0,142.1,525.9,153.1,"framework, but sustained efforts remain crucial to further strengthen resilience, build digital "
+29,3,5,Calibri,11.0,72.0,156.6,493.8,167.7,"awareness across demographics, and maintain Austria’s democratic integrity in the digital age. "
+29,4,0,Calibri,11.0,72.0,179.1,149.7,190.1,According to the 
+29,4,0,Calibri-Bold,11.0,150.4,179.1,245.5,190.1,2025 Eurobarometer
+29,4,0,Calibri,11.0,245.6,179.1,250.8,190.1,", "
+29,4,0,Calibri-Bold,11.0,251.4,179.1,523.2,190.1,Austrian respondents express a very high sense of urgency
+29,4,0,Calibri,11.0,523.4,179.1,525.9,190.1, 
+29,4,1,Calibri,11.0,72.0,193.6,504.0,204.6,"for public authorities to act in protecting children online, mirroring the EU average. Specifically, "
+29,4,1,Calibri-Bold,11.0,504.3,193.6,523.5,204.6,93%
+29,4,1,Calibri,11.0,523.4,193.6,525.9,204.6, 
+29,4,2,Calibri,11.0,72.0,208.1,336.6,219.1,of Austrians consider urgent action necessary to address 
+29,4,2,Calibri-Bold,11.0,338.4,208.1,525.8,219.1,the negative impact of social media on 
+29,4,3,Calibri-Bold,11.0,72.0,222.5,182.2,233.5,children’s mental health
+29,4,3,Calibri,11.0,182.2,222.5,338.9,233.5,", identical to the EU average, while "
+29,4,3,Calibri-Bold,11.0,339.0,222.5,358.1,233.5,92%
+29,4,3,Calibri,11.0,358.1,222.5,462.0,233.5, find it urgent to tackle 
+29,4,3,Calibri-Bold,11.0,462.1,222.5,525.9,233.5,cyberbullying 
+29,4,4,Calibri-Bold,11.0,72.0,237.0,182.4,248.1,"and online harassment,"
+29,4,4,Calibri,11.0,182.4,237.0,203.4,248.1, and
+29,4,4,Calibri-Bold,11.0,203.3,237.0,222.7,248.1,92%
+29,4,4,Calibri,11.0,222.6,237.0,345.1,248.1, support urgent action on 
+29,4,4,Calibri-Bold,11.0,346.9,237.0,525.8,248.1,age assurance mechanisms to restrict 
+29,4,5,Calibri-Bold,11.0,72.0,251.6,235.2,262.6,access to age-inappropriate content
+29,4,5,Calibri,11.0,235.2,251.6,378.3,262.6,", again equal to the EU average. "
+29,5,0,Calibri,11.0,72.0,274.0,152.9,285.0,"At the same time, "
+29,5,0,Calibri-Bold,11.0,152.7,274.0,525.9,285.0,79% of Austrians consider it important that public authorities take action to shape 
+29,5,1,Calibri-Bold,11.0,72.0,288.5,525.5,299.6,the development of Artificial Intelligence and other digital technologies to ensure they respect 
+29,5,2,Calibri-Bold,11.0,72.0,303.0,210.2,314.1,fundamental rights and values
+29,5,2,Calibri,11.0,210.3,303.0,384.9,314.1,", slightly below the EU average of 83%. "
+29,6,0,Calibri,11.0,72.0,325.5,74.5,336.5, 
+29,6,1,Calibri-Bold,26.0,72.0,342.0,529.1,368.0,Leveraging digital transformation for a 
+29,6,2,Calibri-Bold,26.0,72.0,376.3,240.5,402.3,smart greening 
+29,7,0,Calibri-Bold,11.0,72.0,415.5,525.9,426.5,Austrian authorities recognise the importance of the green transition and consistently prioritises 
+29,7,1,Calibri-Bold,11.0,72.0,429.9,377.3,440.9,sustainability in their broader political and economic agenda
+29,7,1,Calibri,11.0,377.4,429.9,431.1,440.9,". However, "
+29,7,1,Calibri-Bold,11.0,435.2,429.9,525.9,440.9,the integration of 
+29,7,2,Calibri-Bold,11.0,72.0,444.4,492.7,455.5,environmental objectives within the country’s digital strategic roadmap remains limited.
+29,7,2,Calibri,11.0,492.9,444.4,525.9,455.5, While 
+29,7,3,Calibri,11.0,72.0,458.9,525.9,470.0,certain initiatives – such as those promoting AI for environmental purposes – contribute indirectly to 
+29,7,4,Calibri,11.0,72.0,473.5,525.6,484.5,"climate goals, the roadmap lacks a comprehensive approach to harness digital tools for sustainability. "
+29,7,5,Calibri,11.0,72.0,487.9,525.8,498.9,"As a result, the green-digital nexus is not yet fully embedded in Austria’s digital transformation strategy, "
+29,7,6,Calibri,11.0,72.0,502.4,363.4,513.4,suggesting scope for a more strategic alignment moving forward. 
+29,8,0,Calibri-Bold,11.0,72.0,524.9,416.2,536.0,The environmental footprint of Austria’s ICT sector reveals a positive trend.
+29,8,0,Calibri,11.0,416.3,524.9,525.9,536.0, Austria’s recycling rates 
+29,8,1,Calibri,11.0,72.0,539.3,525.8,550.4,"for outdated ICT devices consistently exceed EU averages, indicating higher device turnover. "
+29,8,2,Calibri,11.0,72.0,553.9,525.6,564.9,"Specifically, for older desktop computers (18.05%), mobile phones (14.69%), and laptops or tablets "
+29,8,3,Calibri,11.0,72.0,568.4,508.9,579.5,"(14.50%), Austria surpasses EU average disposal rates (14.66%, 10.93%, and 11.31% respectively). "
+29,9,0,Calibri-Bold,11.0,72.0,590.9,410.3,601.9,Austrians notably prioritise sustainability when purchasing ICT devices.
+29,9,0,Calibri,11.0,410.5,590.9,525.8,601.9, Only 1.80% of Austrian 
+29,9,1,Calibri,11.0,72.0,605.4,525.8,616.4,"consumers report that they consider none of the sustainability characteristics important, substantially "
+29,9,2,Calibri,11.0,72.0,619.9,525.8,630.9,"below the EU average (3.65%). Moreover, Austrian consumers exhibit strong environmental awareness "
+29,9,3,Calibri,11.0,72.0,634.4,525.7,645.5,regarding product lifecycle management: 20.88% consider the availability of a manufacturer or seller 
+29,9,4,Calibri,11.0,72.0,648.8,525.8,659.9,"take-back scheme as important, markedly higher than the EU average (6.85%). Price remains a decisive "
+29,9,5,Calibri,11.0,72.0,663.3,439.4,674.4,"factor for most consumers (71.43%), slightly higher than the EU average (69.12%). "
+29,10,0,Calibri-Bold,11.0,72.0,685.9,525.7,696.9,"The adjusted Austrian roadmap continues to lack a dedicated, explicit green digital transition "
+29,10,1,Calibri-Bold,11.0,72.0,700.3,434.0,711.3,"section, although several initiatives indirectly support sustainability objectives"
+29,10,1,Calibri,11.0,434.3,700.3,525.9,711.3,". Existing measures, "
+29,10,2,Calibri,11.0,72.0,714.8,525.8,725.9,"such as ‘AI for Green’, continue to drive progress by funding AI applications explicitly designed to "
+29,10,3,Calibri,11.0,72.0,729.4,525.9,740.4,achieve environmental and climate goals. The programme emphasises assessing the climate-related 
+29,10,4,Calibri,11.0,72.0,743.9,525.8,754.9,"costs versus the environmental benefits of new AI applications, thus embedding sustainability directly "
+29,10,5,Calibri,11.0,72.0,758.3,231.5,769.3,within digital innovation processes. 
+29,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,11,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+30,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+30,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+30,3,0,Calibri,11.0,72.0,84.1,134.5,95.2,"Furthermore, "
+30,3,0,Calibri-Bold,11.0,134.5,84.1,525.7,95.2,"the SME-DIGITAL 4.0 & GREEN support initiative remains active, promoting the digital "
+30,3,1,Calibri-Bold,11.0,72.0,98.7,320.7,109.7,transformation of SMEs with a sustainability focus.
+30,3,1,Calibri,11.0,321.0,98.7,525.8,109.7," However, no significant new measures or "
+30,3,2,Calibri,11.0,72.0,113.1,525.8,124.1,innovations specifically addressing the environmental footprint of the ICT sector have been 
+30,3,3,Calibri,11.0,72.0,127.6,126.1,138.6,introduced. 
+30,4,0,Calibri-Bold,11.0,72.0,150.1,525.6,161.2,Austrian authorities highlighted proactive steps towards greater sustainability awareness in digital 
+30,4,1,Calibri-Bold,11.0,72.0,164.5,133.0,175.6,technologies.
+30,4,1,Calibri,11.0,133.1,164.5,525.9,175.6," In particular, the recent call ‘AI Ökosysteme 2024’ includes a funded research study on "
+30,4,2,Calibri,11.0,72.0,179.1,525.7,190.1,"Green AI, with a budget of up to EUR 100 000 for 18 months. This study systematically evaluates "
+30,4,3,Calibri,11.0,72.0,193.6,525.9,204.6,current research on sustainable AI systems and aims to provide practical guidelines for developers and 
+30,4,4,Calibri,11.0,72.0,208.1,525.8,219.1,"policymakers, facilitating broader adoption of less resource-intensive AI technologies, such as "
+30,4,5,Calibri,11.0,72.0,222.5,414.4,233.5,renewable-powered infrastructure and computationally efficient algorithms. 
+30,5,0,Calibri,11.0,72.0,245.1,525.9,256.1,"Additionally, sustainability and climate neutrality form core cross-cutting themes within the 2024-2026 "
+30,5,1,Calibri,11.0,72.0,259.6,525.8,270.6,"AI Implementation Plan of the national AI strategy (AIM AT 2030), underlining Austria’s intent to embed "
+30,5,2,Calibri,11.0,72.0,274.0,412.5,285.0,environmental considerations deep into its broader AI and digital strategies. 
+30,6,0,Calibri,11.0,72.0,296.6,251.8,307.6,"According to the 2025 Eurobarometer, "
+30,6,0,Calibri-Bold,11.0,253.4,296.6,525.7,307.6,69% of Austrians believe that digital technologies will be 
+30,6,1,Calibri-Bold,11.0,72.0,311.1,315.2,322.1,important in helping to fight climate change by 2030
+30,6,1,Calibri,11.0,315.3,311.1,525.8,322.1,", such as through apps that track emissions or "
+30,6,2,Calibri,11.0,72.0,325.5,525.6,336.5,"enable car-sharing and online meetings. This figure is slightly below the EU average of 74%. Similarly, "
+30,6,3,Calibri-Bold,11.0,72.0,340.0,525.7,351.0,76% of Austrians consider it important that public authorities ensure digital technologies serve the 
+30,6,4,Calibri-Bold,11.0,72.0,354.5,144.8,365.6,green transition
+30,6,4,Calibri,11.0,144.7,354.5,311.2,365.6,", compared to an EU average of 80%. "
+30,7,0,Calibri-Bold,11.0,78.0,383.4,458.5,394.5,2024 recommendation on Leveraging digital transformation for a smart greening: 
+30,7,0,Calibri,11.0,459.5,383.4,519.8,394.5,(i) Develop a 
+30,7,1,Calibri,11.0,78.0,397.9,519.5,408.9,"coherent approach to twinning the digital and green transitions. First, promote improvements in "
+30,7,2,Calibri,11.0,78.0,412.4,519.5,423.4,"energy and material efficiency of digital infrastructures, in particular data centres. (ii) Second, "
+30,7,3,Calibri,11.0,78.0,426.9,519.7,437.9,support the development and deployment of digital solutions that reduce the carbon footprint in 
+30,7,4,Calibri,11.0,78.0,441.4,519.6,452.5,"other sectors, such as energy, transport, buildings, and agriculture, including the uptake of such "
+30,7,5,Calibri,11.0,78.0,455.8,519.6,466.9,solutions by SMEs. (iii) Monitor and quantify the emission reductions of the deployed digital 
+30,7,6,Calibri,11.0,78.0,470.3,519.7,481.4,solutions in line with the relevant EU guidance and with the support of the methodology developed 
+30,7,7,Calibri,11.0,78.0,484.9,519.5,495.9,"by the European Green Digital Coalition, in view of future policy development, as well as of "
+30,7,8,Calibri,11.0,78.0,499.4,205.6,510.4,attracting relevant financing 
+30,8,0,Calibri-Bold,11.0,78.0,528.9,519.6,539.9,"In 2024, Austria continued the implementation of existing measures but did not take any new "
+30,8,1,Calibri-Bold,11.0,78.0,543.3,167.0,554.3,measuremeasures. 
+30,8,1,Calibri,11.0,170.1,543.3,519.6,554.3,Austria recognises the importance of aligning digital transformation with 
+30,8,2,Calibri,11.0,78.0,557.9,519.8,568.9,"environmental objectives, but progress remains fragmented. The adjusted roadmap continues to "
+30,8,3,Calibri,11.0,78.0,572.4,519.5,583.4,lack a dedicated section or coherent strategy linking the green and digital transitions. While 
+30,8,4,Calibri,11.0,78.0,586.9,519.8,597.9,initiatives such as AI for Green and SME-DIGITAL 4.0 & GREEN support sustainability goals indirectly 
+30,8,5,Calibri,11.0,78.0,601.4,519.8,612.5,- by promoting resource-efficient AI solutions and green SME transformation - no new or 
+30,8,6,Calibri,11.0,78.0,615.8,519.6,626.9,comprehensive measures have been taken to improve the energy or material efficiency of digital 
+30,8,7,Calibri,11.0,78.0,630.3,262.3,641.4,"infrastructures, particularly data centres. "
+30,9,0,Calibri,11.0,78.0,647.9,519.8,658.9,Austria has also not yet introduced mechanisms to monitor or quantify the environmental impact 
+30,9,1,Calibri,11.0,78.0,662.4,519.8,673.4,"of digital technologies. However, ongoing initiatives, such as the Green AI study under the “‘AI "
+30,9,2,Calibri,11.0,78.0,676.8,519.8,687.8,Ökosysteme 2024”2024’ call and cross-cutting sustainability themes in the 2024-2026 AI 
+30,9,3,Calibri,11.0,78.0,691.3,519.7,702.3,"Implementation Plan 2024–2026, reflect growing awareness and could lay the groundwork for "
+30,9,4,Calibri,11.0,78.0,705.8,184.8,716.9,future policy alignment.
+30,9,4,Calibri-Bold,11.0,184.7,705.8,187.2,716.9, 
+30,10,0,Calibri,11.0,72.0,729.7,74.5,740.8, 
+30,11,0,Calibri,11.0,72.0,752.2,74.5,763.2, 
+30,11,1,Calibri,11.0,216.1,752.2,218.5,763.2, 
+30,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,12,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+31,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+31,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+31,2,0,Calibri-Bold,26.0,72.0,87.2,470.6,113.2,Annex I – National roadmap analysis 
+31,4,0,Calibri-Bold,11.0,77.7,132.5,313.0,143.5,Austria’s national Digital Decade strategic roadmap 
+31,5,0,Calibri,11.0,77.7,150.0,469.5,161.1,"Austria provided a fully updated national Digital Decade roadmap on 31 January 2025, "
+31,5,0,Calibri-Bold,11.0,469.9,150.0,520.3,161.1,containing 
+31,5,1,Calibri-Bold,11.0,77.7,164.5,189.6,175.6,26 additional measures
+31,5,1,Calibri,11.0,189.6,164.5,520.3,175.6, and revising the trajectory for 5G. The update aligns with the new 
+31,5,2,Calibri,11.0,77.7,179.1,340.1,190.1,"Commission’s priorities on AI, cybersecurity and green ICT. "
+31,6,0,Calibri,11.0,77.7,196.5,520.3,207.5,"The new roadmap addresses a substantial number of roadmap recommendations issued in 2024, "
+31,6,1,Calibri,11.0,77.7,211.0,520.3,222.0,"providing a trajectory for Basic Digital Skills, ICT Specialists, FTTP, Take-up of Data Analytics, Take-up "
+31,6,2,Calibri,11.0,77.7,225.5,520.0,236.5,"of AI, Digital Intensity Index, Number of Unicorns, Digital Public Services for Citizens, Digital Public "
+31,6,3,Calibri,11.0,77.7,240.0,292.7,251.1,"Services for Businesses, and the e-Health Index. "
+31,7,0,Calibri,11.0,77.7,257.4,520.0,268.5,"Notably, the roadmap also integrates strategic initiatives including Austria’s national Data Strategy "
+31,7,1,Calibri,11.0,77.7,272.0,520.1,283.0,"and e-Health Strategy, and links to cross-cutting goals such as accessibility and administrative "
+31,7,2,Calibri,11.0,77.7,286.5,140.0,297.5,digitalisation. 
+31,8,0,Calibri,11.0,77.7,304.0,520.2,315.0,Several existing measures have been revised or expanded: most notably in the areas of 
+31,8,1,Calibri,11.0,77.7,318.4,520.2,329.5,"semiconductors, cloud computing and AI, unicorns, and basic digital skills, to ensure more accurate "
+31,8,2,Calibri,11.0,77.7,332.9,520.3,344.0,budgetary allocations and stronger policy coherence. The update also includes specific adjustments 
+31,8,3,Calibri,11.0,77.7,347.4,476.5,358.5,in line with the EU digital rights and principles and the broader Digital Decade objectives. 
+31,9,0,Calibri-Bold,11.0,199.0,365.0,393.0,376.0,Measures and budget in national roadmap
+31,9,0,Calibri,7.0,392.8,364.1,396.4,371.0,6
+31,9,0,Calibri-Bold,11.0,396.3,365.0,398.8,376.0, 
+31,10,0,Calibri-Bold,11.0,77.7,596.7,520.3,607.8,"A total of 85 measures are now part of Austria’s national strategic roadmap, backed by EUR 4.07 "
+31,10,1,Calibri-Bold,11.0,77.7,611.3,452.1,622.3,billion in combined public and private investment (0.84% of Austria’s GDP in 2024)
+31,10,1,Calibri,11.0,452.4,611.3,457.6,622.3,. 
+31,11,0,Calibri,11.0,77.7,628.8,520.3,639.8,"Overall, Austria’s adjusted roadmap represents a comprehensive and ambitious update setting more "
+31,11,1,Calibri,11.0,77.7,643.3,520.3,654.3,"precise national targets and introducing targeted new measures in critical areas such as AI, digital "
+31,11,2,Calibri,11.0,77.7,657.7,520.3,668.7,"skills, and public service delivery. While implementation and coherence across some areas (e.g. "
+31,11,3,Calibri,11.0,77.7,672.2,520.3,683.3,"green-digital nexus, uptake of advanced technologies by enterprises) could be further improved, the "
+31,12,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+31,13,0,Calibri,6.0,72.0,727.6,75.1,733.6,6
+31,13,0,Calibri,9.0,75.0,727.9,516.9,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+31,13,1,Calibri,9.0,72.0,738.9,492.0,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in "
+31,13,2,Calibri,9.0,72.0,749.8,511.5,758.8,reporting practices and methodological choices across Member States. No systematic assessment of the extent to which 
+31,13,3,Calibri,9.0,72.0,760.9,273.8,769.9,Member States followed the guidance was carried out. 
+31,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+31,14,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+32,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+32,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+32,2,0,Calibri,11.0,77.7,90.3,520.3,101.3,roadmap reflects a solid strategic effort to accelerate digital transformation in line with EU-wide 
+32,2,1,Calibri,11.0,77.7,104.8,106.0,115.8,goals. 
+32,4,0,Calibri,11.0,72.0,142.7,74.5,153.7, 
+32,4,1,Calibri-Bold,26.0,216.1,131.4,221.9,157.5, 
+32,5,0,Calibri,11.0,292.1,781.9,305.8,793.0,29 
+32,5,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+33,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+33,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+33,3,0,Calibri-Bold,26.0,72.0,87.2,481.5,113.2,Annex II – Factsheet on multi-country 
+33,3,1,Calibri-Bold,26.0,72.0,121.4,382.6,147.4,projects (MCPs) and funding 
+33,4,0,Calibri,11.0,72.0,160.6,74.5,171.6, 
+33,5,0,Calibri-Bold,11.0,77.7,183.6,264.9,194.7,Multi-country projects and best practices
+33,5,0,Calibri,11.0,264.9,183.6,267.4,194.7, 
+33,6,0,Calibri,11.0,77.7,201.1,535.5,212.2,"Austria participates as an observer in the Alliance for Language Technologies EDIC, and is supporting "
+33,6,1,Calibri,11.0,77.7,215.7,535.5,226.7,"the setting up of some EDICs in the making, e.g. in the area of cybersecurity skills. It participates directly "
+33,6,2,Calibri,11.0,77.7,230.1,535.5,241.1,in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT). Austria is a 
+33,6,3,Calibri,11.0,77.7,244.6,423.3,255.6,participating state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+33,7,0,Calibri,11.0,77.7,262.1,535.5,273.2,Austria has contributed to the Best Practice Accelerator by sharing one best practice in the framework 
+33,7,1,Calibri,11.0,77.7,276.6,334.6,287.7,of the Digital Skills cluster (Digital Skills Initiative Austria). 
+33,8,0,Calibri,11.0,72.0,294.5,74.5,305.6, 
+33,9,0,Calibri-Bold,11.0,77.7,312.5,259.9,323.6,EU funding for digital policies in Austria 
+33,10,0,Calibri,11.0,77.7,330.0,472.2,341.1,Austria allocates 36% of its total recovery and resilience plan to digital (EUR 1.3 billion)
+33,10,0,Calibri,7.0,472.2,329.1,475.7,336.1,7
+33,10,0,Calibri,11.0,475.7,330.0,535.5,341.1,". In addition, "
+33,10,1,Calibri,11.0,77.7,344.6,535.3,355.6,"under cohesion policy, EUR 76 million (representing 7% of the country’s total cohesion policy funding), "
+33,10,2,Calibri,11.0,77.7,359.1,332.2,370.1,is dedicated to advancing Austria’s digital transformation
+33,10,2,Calibri,7.0,332.4,358.2,335.9,365.1,8
+33,10,2,Calibri,11.0,335.8,359.1,535.5,370.1,". According to JRC estimates, EUR 1.4 billion "
+33,10,3,Calibri,11.0,77.7,373.5,535.4,384.5,directly contribute to achieving Digital Decade targets (of which EUR 1.3 billion comes from the RRF 
+33,10,4,Calibri,11.0,77.7,388.0,298.8,399.0,and EUR 68 million from cohesion policy funding)
+33,10,4,Calibri,7.0,298.9,387.1,302.4,394.1,9
+33,10,4,Calibri,11.0,302.4,388.0,535.4,399.0,.Investments are strongly concentrated in a few key 
+33,10,5,Calibri,11.0,77.7,402.5,535.4,413.6,"areas. Gigabit capable network deployment receives the highest allocation, underlining Austria’s focus "
+33,10,6,Calibri,11.0,77.7,417.1,533.3,428.1,on improving its digital infrastructure. Basic digital skills and the training of ICT specialists are also well-
+33,10,7,Calibri,11.0,77.7,431.5,467.8,442.5,"funded, reflecting the country’s efforts to enhance human capital in the digital domain. "
+33,11,0,Calibri,11.0,77.7,449.0,535.5,460.0,"Significant resources are dedicated to emerging technologies, with over EUR 100 million each for "
+33,11,1,Calibri,11.0,77.7,463.5,535.3,474.5,"semiconductors and quantum computing, aligning with the strong priority given to these areas in the "
+33,11,2,Calibri,11.0,77.7,478.0,247.6,489.1,Country’s national strategic roadmap. 
+33,12,0,Calibri,11.0,77.7,495.4,535.3,506.5,"Overall, Austria’s funding approach highlights a strategic emphasis on connectivity, digital skills, and "
+33,12,1,Calibri,11.0,77.7,509.9,192.4,521.0,technological innovation. 
+33,13,0,Calibri,11.0,72.0,527.9,74.5,539.0, 
+33,14,0,Calibri-Bold,11.0,72.0,550.4,74.5,561.4, 
+33,14,1,Calibri,11.0,216.1,550.4,218.5,561.4, 
+33,15,0,Calibri,11.0,216.1,670.8,218.5,681.8, 
+33,16,0,Calibri,6.0,72.0,683.7,75.1,689.7,7
+33,16,0,Calibri,9.0,75.0,683.9,519.8,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+33,16,1,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+33,16,2,Calibri,6.0,72.0,705.6,75.1,711.6,8
+33,16,2,Calibri,9.0,75.0,705.9,503.9,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+33,16,3,Calibri,9.0,72.0,716.9,503.3,725.9,"2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the "
+33,16,4,Calibri,9.0,72.0,727.9,351.4,736.9,"Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+33,16,5,Calibri,6.0,72.0,738.7,75.1,744.7,9
+33,16,5,Calibri,9.0,75.0,738.9,516.6,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+33,16,6,Calibri,9.0,72.0,749.8,505.8,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 "
+33,16,7,Calibri,9.0,72.0,760.9,122.2,769.9,March 2025.  
+33,17,0,Calibri,11.0,292.1,781.9,305.8,793.0,30 
+33,17,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+34,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+34,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+34,2,0,Calibri,11.0,72.0,84.1,74.5,95.2, 
+34,2,1,Calibri-Bold,26.0,72.0,109.6,490.4,135.6,Annex III – Digital Rights and Principles
+34,2,1,Calibri,17.0,490.5,107.4,507.8,124.4,10
+34,2,1,Calibri-Bold,26.0,507.8,109.6,513.7,135.6, 
+34,6,0,Calibri,11.0,255.1,339.4,257.5,350.4, 
+34,6,1,Calibri,11.0,482.6,339.4,485.1,350.4, 
+34,7,0,Calibri,11.0,72.0,362.0,77.0,373.0,  
+34,8,0,Calibri-Bold,11.0,72.0,384.4,252.4,395.4,Activity on Digital Rights and Principles 
+34,8,0,Calibri,11.0,252.5,384.4,295.6,395.4,(figure 1) 
+34,9,0,Calibri-Bold,11.0,72.0,406.9,520.5,417.9,Austria has been one of the most active Member States in implementing digital rights and principles
+34,9,0,Calibri,11.0,520.7,406.9,523.4,417.9,","
+34,9,0,Calibri-Bold,11.0,523.4,406.9,525.9,417.9, 
+34,9,1,Calibri,11.0,72.0,421.4,525.6,432.4,"with over 100 initiatives overall and 21 new initiatives in 2024, showing significant progress towards "
+34,9,2,Calibri,11.0,72.0,435.9,152.4,446.9,its commitments. 
+34,9,2,Calibri-Bold,11.0,152.4,435.9,477.5,446.9,"Austria is most active in the area of Digital education, training and skills"
+34,9,2,Calibri,11.0,477.7,435.9,525.9,446.9, (II). There 
+34,9,3,Calibri,11.0,72.0,450.4,525.8,461.5,"is room for improvement, especially with regards to Protection and empowerment of children and "
+34,9,4,Calibri,11.0,72.0,464.8,525.9,475.9,young people in the digital environment (V) and Sustainability (VI) where less activity has been 
+34,9,5,Calibri,11.0,72.0,479.3,122.4,490.4,identified.  
+34,10,0,Calibri-Bold,11.0,72.0,501.9,227.8,512.9,Impact of Digital Rights Initiatives 
+34,10,0,Calibri,11.0,227.9,501.9,271.0,512.9,(figure 2) 
+34,11,0,Calibri,11.0,72.0,524.3,525.8,535.4,Quantitative impact indicators developed by the support study illustrate the level of implementation 
+34,11,1,Calibri,11.0,72.0,538.9,525.6,549.9,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+34,11,2,Calibri,11.0,72.0,553.4,525.8,564.4,measures implemented by key stakeholders in Austria (mainly national government) and how these 
+34,11,3,Calibri,11.0,72.0,567.8,189.0,578.9,are perceived by citizens.  
+34,12,0,Calibri,11.0,72.0,590.4,200.1,601.4,The indicators suggest that 
+34,12,0,Calibri-Bold,11.0,202.1,590.4,525.7,601.4,Austria is most successful in implementing commitments related to 
+34,12,1,Calibri-Bold,11.0,72.0,604.8,136.0,615.8,Sustainability 
+34,12,1,Calibri,11.0,136.7,604.8,222.9,615.8,(VI). Austria should
+34,12,1,Calibri-Bold,11.0,222.9,604.8,225.4,615.8, 
+34,12,1,Calibri,11.0,226.0,604.8,525.7,615.8,review and strengthen efforts in areas where the impact of digital 
+34,12,2,Calibri,11.0,72.0,619.3,525.9,630.3,"rights initiatives appears to be limited despite relative activity, notably on Safety, security and "
+34,12,3,Calibri,11.0,72.0,633.8,161.6,644.9,empowerment (V).  
+34,13,0,Calibri,11.0,72.0,656.3,356.8,667.3,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+34,13,0,Calibri-Bold,11.0,357.5,656.3,525.8,667.3,53% of citizens in Austria think that 
+34,13,1,Calibri-Bold,11.0,72.0,670.8,250.5,681.8,the EU protects their digital rights well
+34,13,1,Calibri,11.0,250.7,670.8,525.7,681.8, (a 2% decrease since 2024). This is above the EU average of 
+34,13,2,Calibri,11.0,72.0,685.3,525.6,696.3,44%. Citizens are particularly confident about getting easy online access to all key public services in 
+34,13,3,Calibri,11.0,72.0,699.8,525.9,710.9,"the EU (65%, above the EU average of 58%). They are most worried that their right to a safe digital "
+34,14,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+34,14,1,Calibri,6.0,72.0,749.6,78.1,755.6,10
+34,14,1,Calibri,9.0,78.0,749.8,510.3,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+34,14,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+34,14,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+34,14,2,Calibri,9.0,122.8,760.9,377.1,769.9,". For a more detailed country factsheet accompanying the study, click "
+34,14,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+34,14,2,Calibri-Bold,9.0,393.7,760.9,396.1,769.9,.
+34,14,2,Calibri,9.0,396.2,760.9,398.2,769.9, 
+34,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,31 
+34,15,1,Calibri,11.0,72.0,795.2,74.5,806.3, 
+35,0,0,Calibri,20.0,79.5,27.0,141.5,47.0,Austria 
+35,1,0,TimesNewRomanPSMT,12.0,72.0,35.9,75.0,49.2, 
+35,2,0,Calibri,11.0,72.0,84.1,525.7,95.2,"environment and content for children and young people is not well protected (49%, below the EU "
+35,2,1,Calibri,11.0,72.0,98.7,151.1,109.7,average of 48%).  
+35,3,0,Calibri-Bold,11.0,72.0,122.7,74.5,133.7, 
+35,5,0,Calibri,11.0,292.1,781.9,305.8,793.0,32 
+35,5,1,Calibri,11.0,72.0,795.2,74.5,806.3, 

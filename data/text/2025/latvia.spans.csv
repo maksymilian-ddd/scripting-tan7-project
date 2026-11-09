@@ -1,0 +1,1559 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 16/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,Calibri,11.0,151.6,37.6,154.1,48.6, 
+2,0,2,TimesNewRomanPSMT,12.0,70.8,49.3,73.8,62.6, 
+2,1,0,TimesNewRomanPSMT,12.0,70.8,69.1,73.8,82.4, 
+2,2,0,Calibri,11.0,70.8,90.6,73.3,101.7, 
+2,3,0,Calibri,11.0,70.8,113.2,73.3,124.2, 
+2,4,0,Calibri-Bold,40.0,130.3,258.2,497.2,298.2,DIGITAL DECADE 2025
+2,4,0,Calibri,40.0,497.5,258.2,506.5,298.2, 
+2,4,1,Calibri,40.0,130.3,307.0,456.5,347.0,COUNTRY REPORTS 
+2,5,0,Calibri-Bold,28.0,217.4,402.1,292.8,430.1,Latvia 
+2,6,0,Calibri,11.0,70.8,795.2,73.3,806.3, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 4"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri-Light,11.0,83.1,174.5,401.0,185.5,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.5,523.0,185.5, ......................................... 5
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri-Light,11.0,94.0,194.1,211.8,205.1,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.1,523.0,205.1, .............................................................................................................. 5
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri-Light,11.0,94.0,213.5,164.9,224.5,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.5,523.0,224.5, ............................................................................................................................... 7
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 7
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri-Light,11.0,94.0,252.5,194.6,263.6,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.5,523.0,263.6, .................................................................................................................... 8
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 8
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri-Light,11.0,94.0,291.5,268.6,302.6,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.5,523.0,302.6, ......................................................................................... 8
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri-Light,11.0,94.0,311.0,242.4,322.0,Take up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,242.4,311.0,523.0,322.0, ................................................................................................... 9
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri-Light,11.0,94.0,330.5,239.8,341.6,"Unicorns, scale-ups and start-ups"
+3,14,0,Calibri,11.0,239.7,330.5,523.0,341.6, .................................................................................................. 11
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri-Light,11.0,83.1,350.0,264.2,361.0,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.0,523.0,361.0, ......................................................................................... 12
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 14
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri-Light,11.0,83.1,389.0,437.2,400.0,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.0,523.0,400.0, .......................... 14
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Light,11.0,94.0,408.4,195.2,419.5,Equipping people with 
+3,18,0,Calibri,11.0,195.3,408.4,523.0,419.5,digital skills ............................................................................................... 14
+3,18,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,19,0,Calibri-Light,11.0,94.0,428.0,462.5,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,19,0,Calibri,11.0,462.7,428.0,523.0,439.0, ................. 17
+3,19,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,20,0,Calibri-Light,11.0,83.1,447.4,457.0,458.5,Building a safe and human centric digital environment and preserving our democracy
+3,20,0,Calibri,11.0,457.2,447.4,523.0,458.5, ................... 20
+3,20,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,21,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 21
+3,21,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,22,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 23
+3,22,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,23,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 25
+3,23,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,24,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 26
+3,24,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,25,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,26,0,Calibri,11.0,72.0,564.5,74.5,575.5, 
+3,27,0,Calibri,11.0,72.0,586.9,74.5,597.9, 
+3,27,1,Calibri,11.0,216.1,586.9,218.5,597.9, 
+3,28,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.4,137.3,"Latvia can rely on good digitalisation of public services for businesses, and citizens, but lags behind "
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.7,151.8,"on 5G, fibre-to-the-premises, and very high-capacity networks, while having a high access to health "
+4,4,2,Calibri-Bold,11.0,72.0,155.2,116.3,166.2,records.   
+4,5,0,Calibri-Bold,11.0,72.0,177.7,525.7,188.8,"In its national roadmap and roadmap adjustment, Latvia shows a substantial level of ambition in its "
+4,5,1,Calibri-Bold,11.0,72.0,192.1,525.7,203.2,"contribution to the Digital Decade having set 14 national targets, 86% of which are aligned with the "
+4,5,2,Calibri-Bold,11.0,72.0,206.7,525.9,217.7,EU 2030 targets. The country is following its trajectories moderately well with 50% of them on track 
+4,5,3,Calibri-Bold,11.0,72.0,221.2,525.8,232.2,(on the basis of the 2024 trajectories defined for 8 KPIs out of 8 analysed). Latvia addressed 84% of 
+4,5,4,Calibri-Bold,11.0,72.0,235.7,525.8,246.8,"the 13 recommendations issued by the Commission in 2024, either by implementing significant "
+4,5,5,Calibri-Bold,11.0,72.0,250.1,423.3,261.2,policy changes (15%) or making some changes (69%) through new measures. 
+4,6,0,Calibri,11.0,72.0,272.7,525.6,283.7,"In 2024, gigabit connectivity and 5G remain below the EU average. Digitalisation of SMEs and the "
+4,6,1,Calibri,11.0,72.0,287.2,525.6,298.2,adoption of advanced digital technologies by businesses are a priority of the Latvian recovery and 
+4,6,2,Calibri,11.0,72.0,301.6,525.8,312.6,resilience plan. Latvia’s overarching Cybersecurity Strategy 2023-2026 continues to guide its overall 
+4,6,3,Calibri,11.0,72.0,316.1,190.3,327.2,approach to cybersecurity.
+4,6,3,Calibri-Bold,11.0,190.2,316.1,192.7,327.2, 
+4,7,0,Calibri-Bold,7.0,306.5,345.3,325.4,352.3,Latvia 
+4,7,1,Calibri-Bold,7.0,427.3,345.3,436.9,352.3,EU 
+4,7,2,Calibri-Bold,7.0,478.2,341.0,521.5,348.0,Digital Decade 
+4,7,3,Calibri-Bold,7.0,478.3,349.7,523.2,356.6,target by 2030  
+4,8,0,Calibri,7.0,77.7,354.1,80.8,361.1,  
+4,9,0,Calibri,14.0,96.3,364.0,202.3,378.1,Digital Decade KPI 
+4,9,0,Calibri,9.0,202.2,362.8,212.3,371.8,(1)
+4,9,0,Calibri,7.0,212.3,369.3,213.9,376.3, 
+4,10,0,Calibri-Bold,7.0,361.8,365.6,388.0,372.6,National 
+4,10,1,Calibri-Bold,7.0,360.0,374.1,389.8,381.1,trajectory 
+4,11,0,Calibri-Bold,7.0,282.0,369.9,312.2,376.9,DESI 2025 
+4,11,1,Calibri-Bold,7.0,279.9,378.5,314.4,385.4,(year 2024) 
+4,12,0,Calibri-Bold,7.0,326.4,369.9,348.6,376.9,Annual 
+4,12,1,Calibri-Bold,7.0,324.3,378.5,350.6,385.4,progress 
+4,13,0,Calibri-Bold,7.0,362.4,382.7,387.6,389.6,2024 (3) 
+4,13,1,Calibri-Bold,7.0,399.2,374.1,429.5,381.1,DESI 2025 
+4,13,2,Calibri-Bold,7.0,440.9,369.9,463.1,376.9,Annual 
+4,13,3,Calibri-Bold,7.0,438.8,378.5,465.1,385.4,progress 
+4,13,4,Calibri-Bold,7.0,481.5,374.1,489.7,381.1,LV 
+4,13,5,Calibri-Bold,7.0,510.9,374.1,520.6,381.1,EU 
+4,14,0,Calibri-Bold,7.0,248.7,361.3,263.1,368.3,DESI 
+4,14,1,Calibri-Bold,7.0,248.1,369.9,263.7,376.9,2024 
+4,14,2,Calibri-Bold,7.0,247.6,378.5,264.0,385.4,(year 
+4,14,3,Calibri-Bold,7.0,246.9,387.0,264.8,393.9,2023) 
+4,15,0,Calibri-Bold,7.0,77.7,399.2,227.6,406.2,Fixed Very High Capacity Network (VHCN) coverage 
+4,15,1,Calibri,7.0,246.4,399.2,265.4,406.2,68.0% 
+4,15,2,Calibri,7.0,287.7,399.2,306.7,406.2,68.1% 
+4,15,3,Calibri,7.0,329.7,399.2,345.2,406.2,0.2% 
+4,15,4,Calibri,7.0,364.6,399.2,386.8,406.2, 74.0%  
+4,15,5,Calibri,7.0,404.9,399.2,423.8,406.2,82.5% 
+4,15,6,Calibri,7.0,444.2,399.2,459.7,406.2,4.9% 
+4,15,7,Calibri,7.0,474.3,399.2,496.9,406.2,100.0% 
+4,15,8,Calibri,7.0,507.2,399.2,524.4,406.2,100% 
+4,16,0,Calibri-Bold,7.0,77.7,414.7,188.1,421.7,Fibre to the Premises (FTTP) coverage 
+4,16,1,Calibri,7.0,246.4,414.7,265.4,421.7,61.9% 
+4,16,2,Calibri,7.0,287.7,414.7,306.7,421.7,61.1% 
+4,16,3,Calibri,7.0,328.8,414.7,346.3,421.7,-1.2% 
+4,16,4,Calibri,7.0,364.6,414.7,386.8,421.7, 74.0%  
+4,16,5,Calibri,7.0,404.9,414.7,423.8,421.7,69.2% 
+4,16,6,Calibri,7.0,444.2,414.7,459.7,421.7,8.4% 
+4,16,7,Calibri,7.0,474.3,414.7,496.9,421.7,100.0% 
+4,16,8,Calibri,7.0,514.0,414.7,517.7,421.7,- 
+4,17,0,Calibri-Bold,7.0,77.7,430.3,137.1,437.3,Overall 5G coverage 
+4,17,1,Calibri,7.0,246.4,430.3,265.4,437.3,53.1% 
+4,17,2,Calibri,7.0,287.7,430.3,306.7,437.3,71.1% 
+4,17,3,Calibri,7.0,328.0,430.3,347.0,437.3,33.9% 
+4,17,4,Calibri,7.0,364.6,430.3,386.8,437.3, 55.5%  
+4,17,5,Calibri,7.0,404.9,430.3,423.8,437.3,94.3% 
+4,17,6,Calibri,7.0,444.2,430.3,459.7,437.3,5.9% 
+4,17,7,Calibri,7.0,476.1,430.3,495.1,437.3,70.0% 
+4,17,8,Calibri,7.0,507.2,430.3,524.4,437.3,100% 
+4,18,0,Calibri-Bold,7.0,77.7,445.8,144.4,452.8,Edge Nodes (estimate) 
+4,18,1,Calibri,7.0,253.2,445.8,258.4,452.8,5 
+4,18,2,Calibri,7.0,292.9,445.8,301.5,452.8,10 
+4,18,3,Calibri,7.0,326.2,445.8,348.8,452.8,100.0% 
+4,18,4,Calibri,7.0,371.6,445.8,379.9,452.8, 0  
+4,18,5,Calibri,7.0,406.5,445.8,422.3,452.8,2257 
+4,18,6,Calibri,7.0,442.5,445.8,461.5,452.8,90.5% 
+4,18,7,Calibri,7.0,481.3,445.8,490.0,452.8,51 
+4,18,8,Calibri,7.0,506.1,445.8,525.5,452.8,10000 
+4,19,0,Calibri-Bold,7.0,77.7,461.3,232.6,468.2,SMEs with at least a basic level of digital intensity (2) 
+4,19,1,Calibri,7.0,254.0,461.3,257.7,468.2,- 
+4,19,2,Calibri,7.0,287.7,461.3,306.7,468.2,59.2% 
+4,19,3,Calibri,7.0,329.7,461.3,345.2,468.2,6.4% 
+4,19,4,Calibri,7.0,372.3,461.3,379.2,468.2, -  
+4,19,5,Calibri,7.0,404.9,461.3,423.8,468.2,72.9% 
+4,19,6,Calibri,7.0,444.2,461.3,459.7,468.2,2.8% 
+4,19,7,Calibri,7.0,476.1,461.3,495.1,468.2,90.0% 
+4,19,8,Calibri,7.0,508.9,461.3,522.6,468.2,90% 
+4,20,0,Calibri-Bold,7.0,77.7,476.8,95.9,483.7,Cloud 
+4,20,1,Calibri,7.0,246.4,476.8,265.4,483.7,29.0% 
+4,20,2,Calibri,7.0,295.3,476.8,299.0,483.7,- 
+4,20,3,Calibri,7.0,335.6,476.8,339.3,483.7,- 
+4,20,4,Calibri,7.0,372.3,476.8,379.2,483.7, -  
+4,20,5,Calibri,7.0,412.5,476.8,416.3,483.7,- 
+4,20,6,Calibri,7.0,450.1,476.8,453.8,483.7,- 
+4,20,7,Calibri,7.0,476.1,476.8,495.1,483.7,75.0% 
+4,20,8,Calibri,7.0,508.9,476.8,522.6,483.7,75% 
+4,21,0,Calibri-Bold,7.0,77.7,492.2,138.9,499.2,Artificial Intelligence 
+4,21,1,Calibri,7.0,248.1,492.2,263.6,499.2,4.5% 
+4,21,2,Calibri,7.0,289.4,492.2,304.9,499.2,8.8% 
+4,21,3,Calibri,7.0,328.0,492.2,347.0,499.2,94.9% 
+4,21,4,Calibri,7.0,364.6,492.2,386.8,499.2, 13.0%  
+4,21,5,Calibri,7.0,404.9,492.2,423.8,499.2,13.5% 
+4,21,6,Calibri,7.0,442.5,492.2,461.5,499.2,67.2% 
+4,21,7,Calibri,7.0,476.1,492.2,495.1,499.2,75.0% 
+4,21,8,Calibri,7.0,508.9,492.2,522.6,499.2,75% 
+4,22,0,Calibri-Bold,7.0,77.7,507.7,120.0,514.7,Data analytics 
+4,22,1,Calibri,7.0,246.4,507.7,265.4,514.7,36.9% 
+4,22,2,Calibri,7.0,295.3,507.7,299.0,514.7,- 
+4,22,3,Calibri,7.0,335.6,507.7,339.3,514.7,- 
+4,22,4,Calibri,7.0,372.3,507.7,379.2,514.7, -  
+4,22,5,Calibri,7.0,412.5,507.7,416.3,514.7,- 
+4,22,6,Calibri,7.0,450.1,507.7,453.8,514.7,- 
+4,22,7,Calibri,7.0,476.1,507.7,495.1,514.7,75.0% 
+4,22,8,Calibri,7.0,508.9,507.7,522.6,514.7,75% 
+4,23,0,Calibri-Bold,7.0,77.7,523.3,161.7,530.3,AI or Cloud or Data analytics 
+4,23,1,Calibri,7.0,246.4,523.3,265.4,530.3,48.2% 
+4,23,2,Calibri,7.0,295.3,523.3,299.0,530.3,- 
+4,23,3,Calibri,7.0,335.6,523.3,339.3,530.3,- 
+4,23,4,Calibri,7.0,372.3,523.3,379.2,530.3, -  
+4,23,5,Calibri,7.0,412.5,523.3,416.3,530.3,- 
+4,23,6,Calibri,7.0,450.1,523.3,453.8,530.3,- 
+4,23,7,Calibri,7.0,483.7,523.3,487.4,530.3,- 
+4,23,8,Calibri,7.0,508.9,523.3,522.6,530.3,75% 
+4,24,0,Calibri-Bold,7.0,77.7,538.8,105.0,545.8,Unicorns 
+4,24,1,Calibri,7.0,253.2,538.8,258.4,545.8,0 
+4,24,2,Calibri,7.0,294.5,538.8,299.7,545.8,0 
+4,24,3,Calibri,7.0,336.0,538.8,339.1,545.8,  
+4,24,4,Calibri,7.0,372.3,538.8,379.2,545.8, -  
+4,24,5,Calibri,7.0,408.2,538.8,420.5,545.8,286 
+4,24,6,Calibri,7.0,444.2,538.8,459.7,545.8,4.4% 
+4,24,7,Calibri,7.0,483.0,538.8,488.2,545.8,2 
+4,24,8,Calibri,7.0,509.6,538.8,521.9,545.8,500 
+4,25,0,Calibri-Bold,7.0,77.7,554.3,152.7,561.2,At least basic digital skills 
+4,25,1,Calibri,7.0,246.4,554.3,265.4,561.2,45.3% 
+4,25,2,Calibri,7.0,295.3,554.3,299.0,561.2,- 
+4,25,3,Calibri,7.0,335.6,554.3,339.3,561.2,- 
+4,25,4,Calibri,7.0,372.3,554.3,379.2,561.2, -  
+4,25,5,Calibri,7.0,412.5,554.3,416.3,561.2,- 
+4,25,6,Calibri,7.0,450.1,554.3,453.8,561.2,- 
+4,25,7,Calibri,7.0,476.1,554.3,495.1,561.2,70.0% 
+4,25,8,Calibri,7.0,508.9,554.3,522.6,561.2,80% 
+4,26,0,Calibri-Bold,7.0,77.7,569.8,119.4,576.8,ICT specialists 
+4,26,1,Calibri,7.0,248.1,569.8,263.6,576.8,4.4% 
+4,26,2,Calibri,7.0,289.4,569.8,304.9,576.8,4.9% 
+4,26,3,Calibri,7.0,328.0,569.8,347.0,576.8,11.4% 
+4,26,4,Calibri,7.0,366.4,569.8,385.0,576.8, 5.4%  
+4,26,5,Calibri,7.0,406.7,569.8,422.2,576.8,5.0% 
+4,26,6,Calibri,7.0,444.2,569.8,459.7,576.8,4.2% 
+4,26,7,Calibri,7.0,476.1,569.8,495.1,576.8,10.0% 
+4,26,8,Calibri,7.0,507.2,569.8,524.4,576.8,~10% 
+4,27,0,Calibri-Bold,7.0,77.7,585.3,147.9,592.2,eID scheme notification 
+4,27,1,Calibri,7.0,254.3,585.3,257.5,592.2,  
+4,27,2,Calibri,7.0,291.8,585.3,302.5,592.2,Yes 
+4,27,3,Calibri,7.0,336.0,585.3,339.1,592.2,  
+4,27,4,Calibri,7.0,373.4,585.3,376.5,592.2,  
+4,27,5,Calibri,7.0,412.8,585.3,415.9,592.2,  
+4,27,6,Calibri,7.0,450.5,585.3,453.6,592.2,  
+4,27,7,Calibri,7.0,484.1,585.3,487.2,592.2,  
+4,27,8,Calibri,7.0,514.2,585.3,517.3,592.2,  
+4,28,0,Calibri-Bold,7.0,77.7,600.9,174.9,607.8,Digital public services for citizens 
+4,28,1,Calibri,7.0,248.9,600.9,262.9,607.8,88.2 
+4,28,2,Calibri,7.0,290.2,600.9,304.2,607.8,93.5 
+4,28,3,Calibri,7.0,329.7,600.9,345.2,607.8,6.0% 
+4,28,4,Calibri,7.0,367.1,600.9,384.3,607.8, 88.0  
+4,28,5,Calibri,7.0,407.4,600.9,421.3,607.8,82.3 
+4,28,6,Calibri,7.0,444.2,600.9,459.7,607.8,3.6% 
+4,28,7,Calibri,7.0,476.9,600.9,494.4,607.8,100.0 
+4,28,8,Calibri,7.0,509.6,600.9,521.9,607.8,100 
+4,29,0,Calibri-Bold,7.0,77.7,616.4,184.6,623.3,Digital public services for businesses 
+4,29,1,Calibri,7.0,248.9,616.4,262.9,623.3,87.2 
+4,29,2,Calibri,7.0,290.2,616.4,304.2,623.3,96.3 
+4,29,3,Calibri,7.0,328.0,616.4,347.0,623.3,10.4% 
+4,29,4,Calibri,7.0,367.1,616.4,384.3,623.3, 87.0  
+4,29,5,Calibri,7.0,407.4,616.4,421.3,623.3,86.2 
+4,29,6,Calibri,7.0,444.2,616.4,459.7,623.3,0.9% 
+4,29,7,Calibri,7.0,476.9,616.4,494.4,623.3,100.0 
+4,29,8,Calibri,7.0,509.6,616.4,521.9,623.3,100 
+4,30,0,Calibri-Bold,7.0,77.7,632.2,155.8,639.2,Access to e-Health records 
+4,30,1,Calibri,7.0,248.9,632.2,262.9,639.2,84.8 
+4,30,2,Calibri,7.0,290.2,632.2,304.2,639.2,85.9 
+4,30,3,Calibri,7.0,329.7,632.2,345.2,639.2,1.2% 
+4,30,4,Calibri,7.0,367.1,632.2,384.3,639.2, 80.0  
+4,30,5,Calibri,7.0,407.4,632.2,421.3,639.2,82.7 
+4,30,6,Calibri,7.0,444.2,632.2,459.7,639.2,4.5% 
+4,30,7,Calibri,7.0,476.9,632.2,494.4,639.2,100.0 
+4,30,8,Calibri,7.0,509.6,632.2,521.9,639.2,100 
+4,31,0,Calibri,7.0,77.7,645.4,324.7,652.4,(1) See the methodological note for the description of the indicators and other metrics 
+4,31,1,Calibri,7.0,77.7,653.9,525.2,660.9,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the calculation "
+4,31,2,Calibri,7.0,77.7,662.6,386.8,669.5,of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,31,3,Calibri,7.0,77.7,671.1,424.6,678.0,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,31,4,Calibri,11.0,72.0,681.5,74.5,692.5, 
+4,32,0,Calibri-Bold,11.0,72.0,703.9,379.4,714.9,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+4,32,0,Calibri,11.0,379.5,703.9,525.9,714.9,", 75% of Latvian citizens consider "
+4,32,1,Calibri,11.0,72.0,718.4,525.9,729.5,that the digitalisation of daily public and private services is making their lives easier. Concerning the 
+4,32,2,Calibri,11.0,72.0,733.0,525.6,744.0,"action of the public authorities, 86% consider it important to counter and mitigate the issue of fake "
+4,33,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,33,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+5,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"news and disinformation online, and regarding competitiveness, 78% consider it important to ensure "
+5,2,1,Calibri,11.0,72.0,98.4,507.4,109.5,that European companies can grow and become ‘European Champions’ able to compete globally. 
+5,3,0,Calibri-Light,15.0,72.0,121.8,526.8,136.8,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,148.7,525.6,159.7,"Latvia's digital infrastructure coverage remains below the EU average, mainly in VHCN, FTTP and 5G, "
+5,5,1,Calibri,11.0,72.0,163.2,525.7,174.3,"even in the context of a strong year-on-year growth in overall 5G coverage. In broadband uptake, 1 "
+5,5,2,Calibri,11.0,72.0,177.7,525.7,188.8,"Gbps subscriptions are growing faster than the EU, despite slower growth in 100 Mbps subscriptions "
+5,5,3,Calibri,11.0,72.0,192.1,525.9,203.2,and 5G SIM penetration. The country is advancing on deployment of edge nodes and quantum 
+5,5,4,Calibri,11.0,72.0,206.7,525.9,217.7,"technologies, but lags on cloud, and AI. There has been a surge in cyber-attacks, totalling 418 325 "
+5,5,5,Calibri,11.0,72.0,221.2,525.6,232.2,"registered complaints in 2024. Despite this, Latvia demonstrates overall preparedness as none of the "
+5,5,6,Calibri,11.0,72.0,235.7,226.5,246.8,attacks have had a lasting impact.  
+5,6,0,Calibri-Light,15.0,72.0,259.0,379.5,274.0,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,285.9,525.8,296.9,"Latvia’s digital skills lagged behind the EU, with only 45.34% of its population having basic digital skills "
+5,7,1,Calibri,11.0,72.0,300.3,525.6,311.3,compared to the EU’s 55.56%. Despite a noticeable gender gap favouring women and strong 
+5,7,2,Calibri,11.0,72.0,314.7,525.8,325.7,"collaborative skills, Latvia faces challenges, especially among rural areas and older adults, and remains "
+5,7,3,Calibri,11.0,72.0,329.1,525.8,340.1,"below the EU in educational attainment-related digital skills. To address these gaps, initiatives like the "
+5,7,4,Calibri,11.0,72.0,343.5,525.8,354.5,"STARS learning account have been launched. In the ICT sector, Latvia has seen a positive increase in "
+5,7,5,Calibri,11.0,72.0,357.9,525.6,368.9,"the employment of ICT specialists, especially among women. Despite this, the country’s ICT training "
+5,7,6,Calibri,11.0,72.0,372.2,525.6,383.2,for businesses lags behind the EU average. Latvia excels in digital public services for both citizens and 
+5,7,7,Calibri,11.0,72.0,386.6,525.8,397.6,"businesses, surpassing EU growth rates, especially in cross-border services. Latvia’s performs strongly "
+5,7,8,Calibri,11.0,72.0,401.0,525.9,412.0,on digital public services and access to e-health records compared with the EU average. While 
+5,7,9,Calibri,11.0,72.0,415.4,525.9,426.4,"strengths are evident, Latvia could benefit from further efforts to close gaps in digital skills, aiming for "
+5,7,10,Calibri,11.0,72.0,429.8,330.0,440.8,broader proficiency across different demographic groups. 
+5,8,0,Calibri-Light,15.0,72.0,453.0,399.0,468.0,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,479.9,525.9,491.0,"Latvia prioritises the promotion of energy and material efficiency in digital infrastructure, aiming to "
+5,9,1,Calibri,11.0,72.0,494.2,525.6,505.3,minimise its environmental impact by creating data centres that will run on 100% renewable energy. 
+5,9,2,Calibri,11.0,72.0,508.6,525.7,519.7,"In addition, it is focusing on introducing smart digital solutions that in turn will reduce the country’s "
+5,9,3,Calibri,11.0,72.0,523.0,150.7,534.1,carbon footprint. 
+5,10,0,Calibri-Light,15.0,72.0,546.3,325.7,561.3,National digital decade strategic roadmap 
+5,11,0,Calibri-Bold,11.0,72.0,573.2,525.6,584.3,Latvia submitted an adjusted Digital Decade roadmap on 11 February 2025. The adjusted roadmap 
+5,11,1,Calibri-Bold,11.0,72.0,587.6,392.9,598.7,"contains new 43 measures, 2 new targets and 4 revised trajectories."
+5,11,1,Calibri,11.0,393.1,587.6,525.8,598.7, It includes reporting on the 
+5,11,2,Calibri,11.0,72.0,601.9,525.9,612.9,consultation of stakeholders but lacks information on how their comments were considered. The 
+5,11,3,Calibri,11.0,72.0,616.3,525.6,627.3,updates are clearly aligned with the new Commission’s priorities on gigabit connectivity and 5G. The 
+5,11,4,Calibri,11.0,72.0,630.7,525.7,641.7,adjusted roadmap addresses a substantial number of roadmap recommendations issued in 2024. All 
+5,11,5,Calibri,11.0,72.0,645.1,525.8,656.1,"targets are aligned with the EU-level goals for 2030, except for the target for at least basic digital skills, "
+5,11,6,Calibri,11.0,72.0,659.5,525.9,670.5,where Latvia is aiming for 70% instead of 80% by 2030. The adjusted roadmap continues to prioritise 
+5,11,7,Calibri,11.0,72.0,673.9,525.8,684.9,"AI, the digitalisation of public services, and tech uptake. It contains 90 measures, with a budget of EUR "
+5,11,8,Calibri,11.0,72.0,688.2,525.6,699.2,"2 287.5 million, including EUR 2 004.8 million from the public budget (equivalent to 4.99% of the "
+5,11,9,Calibri,11.0,72.0,702.6,525.9,713.6,"country’s GDP). It still covers all Digital Decade objectives, such as a human-centred digital space, "
+5,11,10,Calibri,11.0,72.0,717.0,465.4,728.0,"boosting resilience and security, promoting sovereignty and greening digital technology. "
+5,12,0,Calibri,11.0,72.0,739.4,77.0,750.5,  
+5,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+6,2,0,Calibri-Light,15.0,72.0,84.9,249.8,99.9,Funding & projects for digital 
+6,4,0,Calibri,11.0,72.0,111.7,463.1,122.8,Latvia allocates 23% of its total recovery and resilience plan to digital (EUR 416 million)
+6,4,0,Calibri,7.0,463.1,110.8,466.6,117.8,1
+6,4,0,Calibri,11.0,466.5,111.7,525.9,122.8,". In addition, "
+6,4,1,Calibri,11.0,72.0,126.3,525.7,137.3,"under cohesion policy, EUR 441million, representing 10% of the country’s total cohesion policy "
+6,4,2,Calibri,11.0,72.0,140.8,358.7,151.8,"funding, is dedicated to advancing Latvia’s digital transformation"
+6,4,2,Calibri,7.0,358.8,139.9,362.3,146.8,2
+6,4,2,Calibri,11.0,362.2,140.8,370.0,151.8,.  
+6,5,0,Calibri,11.0,72.0,163.2,525.8,174.3,Latvia is a member of the Alliance for Language Technologies EDIC and of the Local Digital Twins 
+6,5,1,Calibri,11.0,72.0,177.7,525.6,188.8,towards the CitiVERSE EDIC. Latvian organisations are indirect and/or associated partners in the 
+6,5,2,Calibri,11.0,72.0,192.1,525.6,203.2,Important Project of Common European Interest (IPCEI) on Microelectronics and Communication 
+6,5,3,Calibri,11.0,72.0,206.7,525.7,217.7,Technologies (IPCEI-ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services 
+6,5,4,Calibri,11.0,72.0,221.2,525.6,232.2,(IPCEI-CIS). Latvia is also a participating state in the EuroHPC Joint Undertaking (JU) and in the Chips 
+6,5,5,Calibri,11.0,72.0,235.7,87.7,246.8,JU. 
+6,6,0,Calibri,11.0,72.0,258.2,525.8,269.2,Latvia has not yet presented any measure in the framework of Digital Decade’s Best Practice 
+6,6,1,Calibri,11.0,72.0,272.7,123.3,283.7,Accelerator
+6,6,1,Calibri,7.0,123.1,271.8,126.7,278.8,3
+6,6,1,Calibri,11.0,126.6,272.7,129.4,283.7,.
+6,6,1,Calibri,8.0,129.4,274.9,131.2,283.0, 
+6,7,0,Calibri-Light,15.0,72.0,296.0,237.3,311.0,Digital Rights and Principles
+6,7,0,Calibri-Light,15.0,237.3,296.0,240.7,311.0, 
+6,8,0,Calibri,11.0,72.0,323.0,410.4,334.0,"According to a support study, Latvia has shown rather limited activity in the "
+6,8,0,Calibri-Bold,11.0,410.5,323.0,525.9,334.0,European Declaration on 
+6,8,1,Calibri-Bold,11.0,72.0,337.4,199.1,348.4,Digital Rights and Principles
+6,8,1,Calibri,11.0,199.2,337.4,525.9,348.4,", with 34 initiatives overall and 2 new initiatives launched in 2024. Latvia "
+6,8,2,Calibri,11.0,72.0,351.9,525.9,362.9,is most active in the area of interactions with algorithms and artificial intelligence systems. Less activity 
+6,8,3,Calibri,11.0,72.0,366.4,525.7,377.4,"has been identified with regards to putting people at the centre of the digital transformation, "
+6,8,4,Calibri,11.0,72.0,380.9,525.9,392.0,connectivity and sustainability. Measures in the area of putting people at the centre of the digital 
+6,8,5,Calibri,11.0,72.0,395.3,525.6,406.4,"transformation appear to have most impact on the ground, in contrast to those addressing freedom "
+6,8,6,Calibri,11.0,72.0,409.9,117.8,420.9,of choice. 
+6,9,0,Calibri-Bold,11.0,77.7,432.9,165.4,443.9,Recommendations 
+6,10,0,ArialMT,11.0,82.6,448.7,89.4,461.0,- 
+6,10,1,Calibri-Bold,11.0,100.6,450.4,158.1,461.5,Digital skills:
+6,10,1,Calibri,11.0,158.1,450.4,535.3,461.5, Strengthen and continue to implement measures to increase digital skills across all 
+6,10,2,Calibri,11.0,100.6,464.8,535.3,475.9,ages with a special emphasis on people living in rural areas and those with lower educational 
+6,10,3,Calibri,11.0,100.6,479.3,161.2,490.4,background.  
+6,10,4,ArialMT,11.0,82.6,492.2,89.4,504.5,- 
+6,10,5,Calibri-Bold,11.0,100.6,493.9,160.7,504.9,Connectivity:
+6,10,5,Calibri,11.0,160.7,493.9,535.4,504.9," Sustain the ongoing effort and establish new measures to support VHCN, FTTP, and "
+6,10,6,Calibri,11.0,100.6,508.4,164.0,519.4,5G coverage.  
+6,10,7,ArialMT,11.0,82.6,521.1,89.4,533.4,- 
+6,10,8,Calibri-Bold,11.0,100.6,522.8,125.1,533.8,SMEs
+6,10,8,Calibri,11.0,125.2,522.8,535.4,533.8,: Sustain and complement activities to improve the digitalisation and uptake of advanced 
+6,10,9,Calibri,11.0,100.6,537.3,535.3,548.3,"technologies, emphasising the take-up of advanced technologies and give special attention to "
+6,10,10,Calibri,11.0,100.6,551.8,137.4,562.9,SMEs.    
+6,10,11,ArialMT,11.0,82.6,564.7,89.4,577.0,- 
+6,10,12,Calibri-Bold,11.0,100.6,566.4,163.0,577.4,Cybersecurity
+6,10,12,Calibri,11.0,163.1,566.4,535.2,577.4,: Continue efforts in cybersecurity to address the evolving and increasing threats. 
+6,10,13,Calibri,11.0,100.6,580.8,535.4,591.8,"Ensure introduction and continuation of implementation of cybersecurity education, especially at "
+6,10,14,Calibri,11.0,100.6,595.3,198.7,606.3,undergraduate level.  
+6,10,15,ArialMT,11.0,82.6,608.1,89.4,620.4,- 
+6,10,16,Calibri-Bold,11.0,100.6,609.8,144.1,620.9,E-health: 
+6,10,16,Calibri,11.0,146.3,609.8,535.4,620.9,Ensure that all data types are made available in a timely manner. Offer a mobile 
+6,10,17,Calibri,11.0,100.6,624.3,535.3,635.4,application for citizens to access their electronic health records. Connect more private 
+6,10,18,Calibri,11.0,100.6,638.7,329.1,649.8,rehabilitation centres to the online access service.  
+6,11,0,Calibri,11.0,216.1,658.7,218.5,669.7, 
+6,11,1,Calibri,6.0,72.0,671.4,75.1,677.4,1
+6,11,1,Calibri,9.0,75.0,671.7,524.9,680.7, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,11,2,Calibri,9.0,72.0,682.8,313.5,691.8,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,11,3,Calibri,6.0,72.0,693.4,75.1,699.4,2
+6,11,3,Calibri,9.0,75.0,693.7,523.2,702.7, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,11,4,Calibri,9.0,72.0,704.7,525.0,713.7,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,11,5,Calibri,9.0,72.0,715.6,315.5,724.6,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,11,6,Calibri,6.0,72.0,726.4,75.1,732.4,3
+6,11,6,Calibri,9.0,75.0,726.7,525.2,735.7, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,11,7,Calibri,9.0,72.0,737.7,525.4,746.7,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,11,8,Calibri,9.0,72.0,748.6,525.2,757.6,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,11,9,Calibri,9.0,72.0,760.6,248.5,769.6,"Green IT, and the Uptake of Digital Technologies."
+6,11,9,Calibri,10.0,248.6,759.9,255.5,769.9,   
+6,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+7,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+7,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+7,4,0,Calibri-Bold,11.0,72.0,160.5,525.9,171.5,Latvia is making significant strides in its semiconductor industry by setting up its national chips 
+7,4,1,Calibri-Bold,11.0,72.0,175.0,162.5,186.0,competence centre 
+7,4,1,Calibri,11.0,162.7,175.0,525.9,186.0,as part of the EU Chips Joint Undertaking. The country aims to make the most of 
+7,4,2,Calibri,11.0,72.0,189.5,525.7,200.5,"its strengths in photonic integrated circuits, microelectronics, polymer photonics, and quantum "
+7,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"devices while investing in quantum computing AI, cybersecurity, Baltic-Nordic cooperation, and digital "
+7,4,4,Calibri,11.0,72.0,218.4,98.5,229.5,skills. 
+7,5,0,Calibri-Bold,11.0,72.0,241.0,173.4,252.0,The Latvian ICT sector
+7,5,0,Calibri,11.0,173.4,241.0,525.9,252.0," accounted for 6.45% of gross value added in 2022, which is an increase from "
+7,5,1,Calibri,11.0,72.0,255.4,136.1,266.5,6.36% in 2021
+7,5,1,Calibri,7.0,136.0,254.5,139.5,261.5,4
+7,5,1,Calibri,11.0,139.5,255.4,525.9,266.5,. R&D personnel accounted for 22.73% of employment in Latvia’s ICT sector (up from 
+7,5,2,Calibri,11.0,72.0,269.9,525.6,281.0,26.1% in 2021) making them leader in the EU and is an increase from the previous year measured 
+7,5,3,Calibri,11.0,72.0,284.4,151.9,295.5,(26.1% in 2021).   
+7,6,0,Calibri-Bold,11.0,72.0,306.9,418.3,317.9,"Latvia’s digital infrastructure lags behind the EU average in most categories,"
+7,6,0,Calibri,11.0,418.7,306.9,525.9,317.9, with significant gaps in 
+7,6,1,Calibri,11.0,72.0,321.4,525.7,332.5,"VHCN, FTTP, and 5G coverage, particularly in sparsely populated areas. However, Latvia shows strong "
+7,6,2,Calibri,11.0,72.0,335.9,420.4,347.0,growth in both overall 5G coverage and 5G coverage in the 3.4–3.8 GHz band. 
+7,7,0,Calibri,11.0,72.0,362.3,525.9,373.4,Latvia’s indicator of broadband take up reveal already country with a strong penetration of 5G SIM 
+7,7,1,Calibri,11.0,72.0,376.8,528.3,387.9,"card and high-speed broadband subscriptions, but varying growth rates on these two measures  "
+7,7,2,Calibri,11.0,72.0,391.4,525.9,402.4,"compared with the EU. For example, Latvia's growth rate in 5G subscriptions significantly outpaces the "
+7,7,3,Calibri,11.0,72.0,405.9,525.9,416.9,"EU, while its growth rate in 100 Mbps subscriptions high-speed broadband and 5G SIM card "
+7,7,4,Calibri,11.0,72.0,420.4,253.0,431.5,penetration lags behind the EU average. 
+7,8,0,Calibri-Bold,11.0,72.0,446.8,525.6,457.9,"Latvia is making progress in the deployment of edge nodes, quantum technologies, and efforts to "
+7,8,1,Calibri-Bold,11.0,72.0,461.3,237.6,472.4,improve digitalisation among SMEs.
+7,8,1,Calibri,11.0,237.8,461.3,525.7,472.4," However, the country still lags behind the EU average in some "
+7,8,2,Calibri,11.0,72.0,475.9,525.8,486.9,"areas, such as the adoption of cloud, AI, and data analytics (combined indicator). In 2024, Latvia "
+7,8,3,Calibri,11.0,72.0,490.4,525.8,501.4,"deployed 10 edge nodes. The country is also making strides in quantum technologies, with the "
+7,8,4,Calibri,11.0,72.0,504.8,525.9,515.8,‘Development of experimental quantum communication infrastructure in Latvia’ project making 
+7,8,5,Calibri,11.0,72.0,519.3,525.9,530.3,"significant progress. Meanwhile, Latvia's digitalisation of SMEs is growing, with a 6.4% increase in the "
+7,8,6,Calibri,11.0,72.0,533.8,525.9,544.9,"number of SMEs using digital technologies in 2024, although it still lags behind the EU average on this "
+7,8,7,Calibri,11.0,72.0,548.3,525.8,559.4,"measure. The country has also taken steps to support innovative entrepreneurship, with measures "
+7,8,8,Calibri,11.0,72.0,562.8,525.9,573.8,"such as the ‘Support for the development of innovative entrepreneurship in SMEs’ programme, which "
+7,8,9,Calibri,11.0,72.0,577.3,347.8,588.3,aims to provide financing for businesses and create new jobs. 
+7,9,0,Calibri,11.0,72.0,603.8,525.9,614.9,"Despite having zero unicorns, Latvia has seen an increase in the number of start-ups in recent years, "
+7,9,1,Calibri,11.0,72.0,618.3,525.9,629.4,"with 512 Latvian start-ups by the end of 2024, and 3 968 employees working for Latvian start-ups. "
+7,9,2,Calibri,11.0,72.0,632.7,525.8,643.8,"However, the country still lags behind the EU average in terms of cybersecurity, with 54.61% of "
+7,9,3,Calibri,11.0,72.0,647.3,525.9,658.3,"individuals taking at least one action to protect their data online in the past year, compared with "
+7,9,4,Calibri,11.0,72.0,661.8,525.9,672.8,"69.55% in the EU. Latvia has also experienced a significant increase in cyber-attacks, with 418 325 "
+7,9,5,Calibri,11.0,72.0,676.3,357.4,687.3,"registered complaints in 2024, and a high level of cyber threats. "
+7,10,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+7,10,1,Calibri,6.0,72.0,749.6,75.1,755.6,4
+7,10,1,Calibri,9.0,75.0,749.8,525.4,758.8, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+7,10,2,Calibri,9.0,72.0,760.9,233.0,769.9,the State of the Digital Decade report 2025. 
+7,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+8,2,0,Calibri,11.0,72.0,84.0,241.1,95.1,According to the 2025 Eurobarometer
+8,2,0,Calibri,7.0,241.1,83.1,244.7,90.1,5
+8,2,0,Calibri,11.0,244.6,84.0,525.8,95.1,", 82% of Latvians think that building efficient and secure digital "
+8,2,1,Calibri,11.0,72.0,98.4,476.1,109.5,infrastructures and data processing facilities should be a priority for the public authorities. 
+8,3,0,Calibri-Light,15.0,72.0,121.8,509.7,136.8,Building technological leadership: digital infrastructure and technologies 
+8,5,0,Calibri,11.0,72.0,148.7,525.9,159.7,To improve its connectivity Latvia is relying on both market actions and other long-running policy 
+8,5,1,Calibri,11.0,72.0,163.2,525.9,174.3,"measures set put in its roadmap. Based on current rate of progress, Latvia is falling behind the EU "
+8,5,2,Calibri,11.0,72.0,177.7,182.3,188.8,average on connectivity. 
+8,6,0,Calibri-Light,12.0,72.0,200.4,203.2,212.4,Connectivity infrastructure 
+8,7,0,Calibri-Bold,11.0,72.0,228.0,525.5,239.1,"Latvia’s VHCN coverage for all households was 67.98% in 2023 and 68.13% in 2024, both below the "
+8,7,1,Calibri-Bold,11.0,72.0,242.6,525.8,253.6,EU’s coverage rates of 78.64% and 82.49% respectively. The country is lagging behind compared to 
+8,7,2,Calibri-Bold,11.0,72.0,257.0,175.0,268.0,its national trajectory. 
+8,7,2,Calibri,11.0,175.1,257.0,525.9,268.0,The growth rate for total VHCN coverage in Latvia was 0.2% in 2024 compared 
+8,7,3,Calibri,11.0,72.0,271.5,525.6,282.5,"with 2023, which is lower than the EU's 4.9%. For households in sparsely populated areas, Latvia's "
+8,7,4,Calibri,11.0,72.0,286.0,525.8,297.0,"coverage was 11.71% in 2023 and 10.43% in 2024, significantly lower than the EU's 55.59% and 61.89% "
+8,7,5,Calibri,11.0,72.0,300.5,528.3,311.6,"respectively. The year-on-year growth rate for this category was -10.9%, compared to the EU's +11.3%.  "
+8,8,0,Calibri-Bold,11.0,72.0,326.9,525.8,338.0,"Latvia’s FTTP coverage for all households was 61.88% in 2023 and 61.11% in 2024, both below the "
+8,8,1,Calibri-Bold,11.0,72.0,341.3,525.8,352.4,EU’s coverage rates of 63.87% and 69.24% respectively. The country is lagging behind compared to 
+8,8,2,Calibri-Bold,11.0,72.0,355.7,174.1,366.8,its national trajectory. 
+8,8,2,Calibri,11.0,173.8,355.7,525.9,366.8,"The growth rate for total FTTP coverage in Latvia was -1.2%, which is lower than "
+8,8,3,Calibri,11.0,72.0,370.1,525.9,381.2,the EU's 8.4%. The slight decline is due to that the NRA restated coverage for 2023. Despite the slight 
+8,8,4,Calibri,11.0,72.0,384.5,525.9,395.6,"decline in percentage terms, in absolute numbers coverage has increased by 5 316 homes passed. For "
+8,8,5,Calibri,11.0,72.0,398.9,525.5,410.0,"households in sparsely populated areas, Latvia's coverage was 11.71% in 2023 and 10.43% in 2024, "
+8,8,6,Calibri,11.0,72.0,413.2,525.8,424.3,significantly lower than the EU's 52.55% and 58.78% respectively. The growth rate between 2023 and 
+8,8,7,Calibri,11.0,72.0,427.6,525.9,438.7,"2024 for FTTP coverage of households in sparsely populated areas was -10.9%, compared with the EU’s "
+8,8,8,Calibri,11.0,72.0,442.0,525.7,453.1,11.9%. The decline in coverage in rural areas can be attributed to the change in NUTS3 regions and is 
+8,8,9,Calibri,11.0,72.0,456.4,221.4,467.5,based on data from Latvia’s NRA. 
+8,9,0,Calibri-Bold,11.0,72.0,482.8,525.9,493.9,"Latvia’s overall 5G coverage for all households was 53.11% in 2023 and 71.1% in 2024, both below "
+8,9,1,Calibri-Bold,11.0,72.0,497.2,370.1,508.3,the EU’s 5G coverage rates of 89.05% and 94.35% respectively
+8,9,1,Calibri,11.0,370.3,497.2,373.1,508.3,.
+8,9,1,Calibri-Bold,11.0,373.0,497.2,525.9,508.3, The country is on track for 5G 
+8,9,2,Calibri-Bold,11.0,72.0,511.7,283.6,522.8,coverage according to its national trajectory. 
+8,9,2,Calibri,11.0,285.0,511.7,525.7,522.8,The growth rate for total 5G coverage in Latvia was 
+8,9,3,Calibri,11.0,72.0,526.3,525.8,537.3,"33.9% between 2023 and 2024, which is higher than the EU’s 6.0%. For households in sparsely "
+8,9,4,Calibri,11.0,72.0,540.8,525.7,551.8,"populated areas, Latvia’s 5G coverage was 0.0% in 2023 and 15.04% in 2024, significantly lower than "
+8,9,5,Calibri,11.0,72.0,555.2,498.3,566.2,the EU’s 71.1% and 79.57% respectively (the EU therefore saw 11.9% growth on this measure).  
+8,10,0,Calibri-Bold,11.0,72.0,581.7,525.5,592.8,Latvia’s 5G coverage in the 3.4–3.8 GHz band for all households was 39.0% in 2023 and 52.2% in 
+8,10,1,Calibri-Bold,11.0,72.0,596.3,443.6,607.3,"2024, both below the EU’s coverage rates of 51.06% and 67.72% respectively."
+8,10,1,Calibri,11.0,443.7,596.3,525.9,607.3, The growth rate 
+8,10,2,Calibri,11.0,72.0,610.8,525.7,621.8,"between 2023 and 2024 for total 5G coverage in this band in Latvia was 33.8%, which is higher than "
+8,10,3,Calibri,11.0,72.0,625.2,525.9,636.2,"the EU's 32.6%. For households in sparsely populated areas, Latvia’s 5G coverage in the 3.4-3.8 GHz "
+8,10,4,Calibri,11.0,72.0,639.7,525.9,650.7,"band was 0.0% in both 2023 and 2024, significantly lower than the EU's 15.86% and 26.19% "
+8,10,5,Calibri,11.0,72.0,654.2,132.4,665.3,respectively.  
+8,11,0,Calibri-Bold,11.0,72.0,680.7,223.3,691.8,Latvia’s 5G spectrum assignment
+8,11,0,Calibri,11.0,223.4,680.7,525.6,691.8," for pioneer bands was 66.67% in both 2024 and 2025, below the "
+8,11,1,Calibri,11.0,72.0,695.1,525.8,706.2,EU’s assignment rates of 73.4% and 74.63% respectively. Latvia saw no growth in spectrum assignment 
+8,11,2,Calibri,11.0,72.0,709.4,423.8,720.5,"between 2024 and 2025, while the EU’s growth on this metric was 1.7%. "
+8,11,2,Calibri-Bold,11.0,426.0,709.4,525.8,720.5,Latvia’s indicators of 
+8,11,3,Calibri-Bold,11.0,72.0,723.8,439.7,734.9,broadband take-up show a mixed performance compared with the EU average.
+8,11,3,Calibri,11.0,440.0,723.8,525.8,734.9," In 2023, 70.8% of "
+8,12,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+8,12,1,Calibri,6.5,72.0,759.1,75.3,765.5,5
+8,12,1,Calibri,10.0,75.3,759.9,77.5,769.9, 
+8,12,1,Calibri,9.0,77.5,760.6,286.0,769.6,Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,12,1,Calibri,9.0,286.1,760.6,515.5,769.6,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,12,1,Calibri,10.0,515.6,759.9,517.9,769.9, 
+8,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+9,3,0,Calibri,11.0,72.0,84.0,525.6,95.1,"fixed broadband subscriptions in Latvia were at speeds of 100 Mbps or higher, surpassing the EU’s "
+9,3,1,Calibri,11.0,72.0,98.3,523.6,109.3,"65.9%. By 2024, this figure rose to 72.86%, still ahead of the EU’s 71.88%. However, Latvia’s year-on-"
+9,3,2,Calibri,11.0,72.0,112.7,525.6,123.7,year growth rate for this type of subscription between 2023 and 2024 of 2.9% lagged behind the EU’s 
+9,3,3,Calibri,11.0,72.0,127.1,525.5,138.1,"9.1%. For subscriptions at speeds of 1 Gbps or higher, Latvia started at 4.66% in 2023, below the EU’s "
+9,3,4,Calibri,11.0,72.0,141.5,525.6,152.5,"18.47%. By 2024, Latvia reached 24.22%, outpacing the EU’s 22.25%. Latvia's growth rate of 419.7% "
+9,3,5,Calibri,11.0,72.0,155.9,525.8,166.9,for 1-Gbps-or-higher subscriptions significantly outpaced the EU’s 20.5%. In terms of 5G SIM cards per 
+9,3,6,Calibri,11.0,72.0,170.3,525.9,181.3,"head of population, Latvia showed strong performance. In 2023, 29.06% of the population had 5G SIM "
+9,3,7,Calibri,11.0,72.0,184.6,525.8,195.6,"cards, higher than the EU’s 21.7%. This figure rose to 43.21% in 2024, also higher than the EU’s 35.56%. "
+9,3,8,Calibri,11.0,72.0,199.0,525.8,210.0,"However, Latvia’s growth rate on this metric between 2023 and 2024 of 48.7% was lower than the EU’s "
+9,3,9,Calibri,11.0,72.0,213.4,104.6,224.4,63.9%. 
+9,4,0,Calibri-LightItalic,11.0,72.0,239.8,143.4,250.8,VHCN and FTTP 
+9,5,0,Calibri-Bold,11.0,72.0,262.2,525.5,273.3,Latvia has increased its target for VHCN coverage and adjusted its target trajectory accordingly. It 
+9,5,1,Calibri-Bold,11.0,72.0,276.6,525.6,287.7,"has also introduced an FTTP target and trajectory, both of which are aligned with the EU target of "
+9,5,2,Calibri-Bold,11.0,72.0,291.0,207.4,302.1,100% FTTP coverage by 2030. 
+9,5,2,Calibri,11.0,207.3,291.0,525.9,302.1, The country is on track according to its target national trajectory. Given 
+9,5,3,Calibri,11.0,72.0,305.4,525.8,316.5,"the latest numbers and the pace of roll-out, both targets (for VHCN coverage and FTTP coverage) seem "
+9,5,4,Calibri,11.0,72.0,319.9,525.7,330.9,to be out of reach for Latvia without significant efforts. These targets seem all the more unlikely to be 
+9,5,5,Calibri,11.0,72.0,334.1,432.7,345.2,met given that Latvia’s roadmap adjustment did not present any new measures.  
+9,6,0,Calibri,11.0,72.0,356.6,127.1,367.6,Latvia’s NRA
+9,6,0,Calibri-Italic,11.0,127.1,356.6,129.6,367.6, 
+9,6,0,Calibri,11.0,130.0,356.6,525.9,367.6,reports that there is a competitive and affordable market for consumers for both VHCN 
+9,6,1,Calibri,11.0,72.0,371.0,116.9,382.0,and FTTP. 
+9,7,0,Calibri-Bold,11.0,77.7,394.1,325.3,405.2,2024 recommendation on connectivity infrastructure
+9,7,0,Calibri,11.0,325.4,394.1,520.4,405.2,: Continue the ongoing efforts to support 
+9,7,1,Calibri,11.0,77.7,408.5,520.4,419.6,"VHCN, FTTP and significantly increase efforts for 5G rollout, including by fostering private investment "
+9,7,2,Calibri,11.0,77.7,423.1,204.0,434.1,and by stimulating take-up.  
+9,8,0,Calibri-Bold,11.0,77.7,446.3,520.5,457.4,"In 2024, Latvia continued the implementation of existing measures but did not take any new "
+9,8,1,Calibri-Bold,11.0,77.7,460.7,127.1,471.8,measures. 
+9,8,1,Calibri,11.0,127.9,460.7,520.5,471.8,"Latvia relies on the long-running measures introduced in its roadmap. However, more "
+9,8,2,Calibri,11.0,77.7,475.3,278.4,486.3,efforts are needed to reach the 2030 target.  
+9,9,0,Calibri,11.0,72.0,506.6,525.7,517.6,"The Latvian NRA, Sabiedrisko pakalpojumu regulesanas komisija, has deregulated the country’s "
+9,9,1,Calibri,11.0,72.0,520.9,525.7,531.9,"electronic communications markets. In this context, the Latvian NRA has limited possibilities to shape "
+9,9,2,Calibri,11.0,72.0,535.3,89.5,546.3,the 
+9,9,2,Calibri-Bold,11.0,92.2,535.3,213.7,546.3,copper switch-off process
+9,9,2,Calibri,11.0,213.8,535.3,525.8,546.3," in the country. However, Latvia does not have extensive copper "
+9,9,3,Calibri,11.0,72.0,549.7,525.6,560.7,networks left in place. The actual share of copper technologies within fixed broadband networks is 
+9,9,4,Calibri,11.0,72.0,564.1,525.9,575.1,"around 19% at household level, and public services are becoming less and less copper-reliant. The "
+9,9,5,Calibri,11.0,72.0,578.5,525.9,589.5,Latvian NRA is not in favour of an EU-level mandatory deadline for copper switch-off. The Latvian NRA 
+9,9,6,Calibri,11.0,72.0,592.8,525.7,603.8,underlines the risk that a mandatory deadline could mean that some end users in more remote areas 
+9,9,7,Calibri,11.0,72.0,607.2,325.0,618.2,could be left without any viable connectivity alternative. 
+9,10,0,Calibri-LightItalic,11.0,72.0,629.6,87.0,640.7,5G 
+9,11,0,Calibri-Bold,11.0,72.0,652.1,525.7,663.1,"Following the roadmap adjustment, Latvia’s 5G target remains at 70% penetration by 2030, which is "
+9,11,1,Calibri-Bold,11.0,72.0,666.5,209.8,677.5,below the EU target of 100%. 
+9,11,1,Calibri,11.0,210.3,666.5,525.7,677.5,The country is on track to achieve this target according to its national 
+9,11,2,Calibri,11.0,72.0,680.9,525.8,691.9,"trajectory. At 71%, Latvia’s 5G performance is significantly higher than its target trajectory level for "
+9,11,3,Calibri,11.0,72.0,695.3,525.6,706.3,2024 (55.5%). This means the country has already surpassed its 2030 target. Given Latvia’s latest 
+9,11,4,Calibri,11.0,72.0,709.7,525.7,720.7,"performance, and the high pace of 5G roll-out in the country, it seems that this 70% target could be "
+9,11,5,Calibri,11.0,72.0,724.0,122.8,735.0,increased.  
+9,11,6,Calibri-Bold,11.0,72.0,738.4,315.5,749.4,The Latvian market shows progress in 6G technology
+9,11,6,Calibri,11.0,315.8,738.4,525.8,749.4,". Based on current progress, it is possible that "
+9,11,7,Calibri,11.0,72.0,752.8,525.5,763.8,6G could be operating in the country (in test mode) as early as 2028.  One of Latvia’s telecoms 
+9,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+10,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,operators has become the first Baltic operator to be a full member of the 6G Smart Networks and 
+10,3,1,Calibri,11.0,72.0,98.3,525.7,109.3,"Services Industry Association (6G-IA), which allows it to be more actively involved in 5G and 6G "
+10,3,2,Calibri,11.0,72.0,112.7,525.6,123.7,research programmes and infrastructure implementation projects. The Latvian telecoms operator is 
+10,3,3,Calibri,11.0,72.0,127.1,525.7,138.1,currently working on: (i) R&D on future 3GPP features using Open Core platforms; (ii) international 
+10,3,4,Calibri,11.0,72.0,141.5,525.8,152.5,"academic, industrial and public-sector partnerships; (iii) live networks including testbeds for "
+10,3,5,Calibri,11.0,72.0,155.9,346.6,166.9,experimentation; and (iv) the validation of new technologies. 
+10,4,0,Calibri,11.0,72.0,178.2,525.7,189.3,"The Latvian Ministry of Defence, the national armed forces, NATO and LMT, a Latvian mobile operator "
+10,4,1,Calibri,11.0,72.0,192.6,525.8,203.7,"launched the Digital Backbone Experiment (DiBaX), which is exploring the potential applications of 5G "
+10,4,2,Calibri,11.0,72.0,207.0,525.9,218.1,in military operations. There are also two 5G networks in the Latvian town of Adazi that allow defence 
+10,4,3,Calibri,11.0,72.0,221.4,525.6,232.5,technology developers to test and compare the performance of new innovations across different 5G 
+10,4,4,Calibri,11.0,72.0,235.9,118.8,246.9,networks. 
+10,5,0,Calibri,11.0,72.0,258.2,126.6,269.2,Latvia’s NRA
+10,5,0,Calibri-Italic,11.0,126.6,258.2,129.1,269.2, 
+10,5,0,Calibri,11.0,129.1,258.2,480.6,269.2,reports that there is a competitive and affordable market for consumers in 5G. 
+10,6,0,Calibri-Bold,11.0,77.7,281.3,325.3,292.4,2024 recommendation on connectivity infrastructure
+10,6,0,Calibri,11.0,325.4,281.3,520.4,292.4,: Continue the ongoing efforts to support 
+10,6,1,Calibri,11.0,77.7,295.9,520.4,306.9,"VHCN, FTTP and significantly increase efforts for 5G rollout, including by fostering private investment "
+10,6,2,Calibri,11.0,77.7,310.2,520.3,321.3,and by stimulating take-up. Ensure sufficient access of new players to spectrum for innovative 
+10,6,3,Calibri,11.0,77.7,324.8,520.4,335.8,business-to-business (B2B) and business-to-consumer (B2C) applications and encourage operators 
+10,6,4,Calibri,11.0,77.7,339.3,354.5,350.3,to speed up the deployment of 5G stand-alone core networks 
+10,7,0,Calibri-Bold,11.0,77.7,362.6,523.1,373.6,Latvia made some effort to address the recommendation through new policy actions in 2024.  
+10,7,1,Calibri,11.0,77.7,377.0,520.5,388.0,"Latvia continues to profit from the radio spectrum auctions in the 3.6 MHz band, and  and additional "
+10,7,2,Calibri,11.0,77.7,391.5,520.5,402.5,50 MHz was awarded to two operators in 2023 (the licenses for these awarded spectrum started in 
+10,7,3,Calibri,11.0,77.7,406.0,520.3,417.1,"January 2024 and will be valid for 20 years). As a result, Latvia is making progress in expanding 5G "
+10,7,4,Calibri,11.0,77.7,420.5,303.8,431.6,"coverage, although, is still behind the EU average.  "
+10,8,0,Calibri-Light,12.0,72.0,452.0,151.9,464.0,Semiconductors 
+10,9,0,Calibri-Bold,11.0,72.0,475.5,506.8,486.5,Latvia continues to show ambition in developing and strengthening its semiconductor industry
+10,9,0,Calibri,11.0,507.1,475.5,525.9,486.5,", by "
+10,9,1,Calibri,11.0,72.0,490.0,525.8,501.1,establishing a national chips competence centre as part of the European Union Chips Joint Undertaking 
+10,9,2,Calibri,11.0,72.0,504.5,525.8,515.6,"in Latvia (under the DIGITAL-Chips-2024-SG-CCC1 project). In 2024, the European Commission "
+10,9,3,Calibri,11.0,72.0,519.1,525.8,530.1,approved of Latvia’s application for the development and operation of a national chips competence 
+10,9,4,Calibri,11.0,72.0,533.5,523.6,544.5,centre that will: (i) provide services to participants in the semiconductor ecosystem (in particular start-
+10,9,5,Calibri,11.0,72.0,548.0,525.6,559.0,ups and SMEs); (ii) join the European network of semiconductor competence centres; and (iii) 
+10,9,6,Calibri,11.0,72.0,562.5,407.2,573.6,cooperate with other Member State competence centres and ecosystems.  
+10,10,0,Calibri,11.0,72.0,585.0,525.8,596.0,"Latvia has competitive advantages in the international semiconductor industry, specifically in photonic "
+10,10,1,Calibri,11.0,72.0,599.4,525.9,610.4,"integrated circuits, microelectronics, polymer photonics platforms, and quantum devices.  The centre "
+10,10,2,Calibri,11.0,72.0,613.8,525.7,624.8,"is expected to invest in quantum computing, AI, cybersecurity, cooperation between Baltic and Nordic "
+10,10,3,Calibri,11.0,72.0,628.2,432.2,639.2,"countries, and the development of digital skills (in particular in the chips sector). "
+10,11,0,Calibri-Light,12.0,72.0,650.7,127.3,662.7,Edge nodes
+10,11,0,Calibri,12.0,127.5,650.7,130.2,662.7, 
+10,12,0,Calibri-Bold,11.0,72.0,674.4,525.8,685.4,"According to the Edge Node Observatory, Latvia is estimated to have deployed a total of 10 edge "
+10,12,1,Calibri-Bold,11.0,72.0,688.8,322.1,699.8,"nodes in 2024, an increase of 5 edge nodes from 2023. "
+10,12,1,Calibri,11.0,322.1,688.8,324.6,699.8, 
+10,13,0,Calibri,11.0,72.0,711.3,525.9,722.4,"Latvia has, in its 2024 roadmap adjustment, provided a new target and a trajectory for edge nodes. "
+10,13,1,Calibri,11.0,72.0,725.9,525.9,736.9,"Their projected trajectory includes no edge nodes until 2027, when they anticipate having 10 (which "
+10,13,2,Calibri,11.0,72.0,740.3,525.7,751.3,"they have already achieved in 2024). This number is expected to increase to 26 in 2028, 35 in 2029, "
+10,13,3,Calibri,11.0,72.0,754.8,145.8,765.8,and 51 by 2030. 
+10,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+11,2,0,Calibri-Bold,11.0,77.7,84.7,256.3,95.8,2024 recommendation on edge nodes
+11,2,0,Calibri,11.0,256.4,84.7,520.4,95.8,": Consider measures specific to edge nodes deployment, "
+11,2,1,Calibri,11.0,77.7,99.3,280.9,110.3,supplementary to the IPCEI-CIS participation. 
+11,4,0,Calibri-Bold,11.0,77.7,122.4,520.3,133.5,"In 2024, Latvia continued the implementation of existing measures but did not take any new "
+11,4,1,Calibri-Bold,11.0,77.7,136.9,122.8,148.0,measure. 
+11,4,1,Calibri,11.0,126.4,136.9,520.4,148.0,Latvia continues to be an indirect member of the IPCEI Next Generation Cloud 
+11,4,2,Calibri,11.0,77.7,151.5,520.5,162.5,"Infrastructure and Services. Latvia assesses that there is no demand nor need for edge nodes, and "
+11,4,3,Calibri,11.0,77.7,166.0,382.7,177.0,as a result it has not developed any policies to develop edge nodes.  
+11,5,0,Calibri-Light,12.0,72.0,197.4,184.4,209.4,Quantum technologies 
+11,6,0,Calibri-Bold,11.0,72.0,220.9,336.4,232.0,Latvia continues to make strides in quantum technologies. 
+11,6,0,Calibri,11.0,336.1,220.9,525.9,232.0,The project ‘Development of experimental 
+11,6,1,Calibri,11.0,72.0,235.4,525.7,246.4,"quantum communication infrastructure in Latvia’ (LATQN), running from the beginning of 2023 to the "
+11,6,2,Calibri,11.0,72.0,249.8,525.8,260.8,"end of 2025, progressed significantly during 2024. In 2024, the project: (i) completed a quantum key "
+11,6,3,Calibri,11.0,72.0,264.2,525.7,275.2,distribution (QKD) encryption transmissions test within the healthcare sector; (ii) continued wireless 
+11,6,4,Calibri,11.0,72.0,278.6,525.8,289.6,tech integration with QKD; (iii) made plans for continued advanced data transmission integration (lines 
+11,6,5,Calibri,11.0,72.0,292.9,525.5,303.9,"of various lengths have been examined including 16, 20, 40, and 50 kilometres and more); and (iv) "
+11,6,6,Calibri,11.0,72.0,307.2,525.8,318.3,"started tests with the financial sector. LATQN is involved in the broader EuroQCI community, and takes "
+11,6,7,Calibri,11.0,72.0,321.6,525.8,332.7,part in the regular EuroQCI Technical Working Group meetings. It also represents Latvian quantum 
+11,6,8,Calibri,11.0,72.0,336.0,488.5,347.1,computing projects in various EU Member State forums and European Commission activities. 
+11,7,0,Calibri-Light,15.0,72.0,359.4,523.2,374.4,Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+11,7,0,Calibri-Bold,15.0,523.4,359.4,526.8,374.4, 
+11,8,0,Calibri-Bold,11.0,72.0,386.2,525.7,397.2,"Latvia demonstrates uneven progress in technology adoption, with its uptake of data analytics "
+11,8,1,Calibri-Bold,11.0,72.0,400.6,504.1,411.7,"surpassing the EU average, but cloud and artificial intelligence (AI) considerably lagging behind."
+11,8,1,Calibri,11.0,504.5,400.6,525.9,411.7, The 
+11,8,2,Calibri,11.0,72.0,414.9,525.7,425.9,"disparity between SMEs and large enterprises remains pronounced, with the latter exhibiting "
+11,8,3,Calibri,11.0,72.0,429.3,525.6,440.4,significantly higher adoption rates in all three areas. Given the dominant role of SMEs in the Latvian 
+11,8,4,Calibri,11.0,72.0,443.7,525.7,454.8,"enterprise landscape and their substantial contribution to economic value added, targeted measures "
+11,8,5,Calibri,11.0,72.0,458.1,493.5,469.1,to increase digital adoption among SMEs could drive broader economic growth and resilience. 
+11,9,0,Calibri-Light,12.0,72.0,480.7,265.2,492.7,SMEs with at least basic digital intensity 
+11,10,0,Calibri-Bold,11.0,72.0,504.3,480.3,515.3,"In 2024, 3 out of 5 SMEs (59.18%) in Latvia had at least a basic level of digital intensity"
+11,10,0,Calibri,11.0,480.7,504.3,525.9,515.3,", up from "
+11,10,1,Calibri,11.0,72.0,518.7,525.8,529.8,"52.27% in 2022, with an annualised growth rate of 6.4% (2022 is the last comparable year that used a "
+11,10,2,Calibri,11.0,72.0,533.0,525.6,544.0,"similar methodology for measuring the digital intensity of enterprises). Despite this progress, Latvia "
+11,10,3,Calibri,11.0,72.0,547.4,525.9,558.4,"remained considerably below the EU average on this measure, with 72.91% of EU SMEs having at least "
+11,10,4,Calibri,11.0,72.0,561.8,525.6,572.9,"a basic level of digital intensity. Focusing on high or very high digital intensity, only 25.94% of SMEs in "
+11,10,5,Calibri,11.0,72.0,576.2,525.8,587.3,"Latvia reached this level, also falling short of the EU average, where 32.66% of SMEs have attained this "
+11,10,6,Calibri,11.0,72.0,590.6,525.8,601.7,"level. Thus, although Latvian SMEs showed significant growth on this measure, they still lagged behind "
+11,10,7,Calibri,11.0,72.0,605.0,157.2,616.1,EU average levels.  
+11,11,0,Calibri-Bold,11.0,72.0,627.3,525.9,638.4,Latvia’s roadmap adjustment introduces seven measures to improve the digitalisation of SMEs by 
+11,11,1,Calibri-Bold,11.0,72.0,641.7,176.0,652.8,educational measures.
+11,11,1,Calibri,11.0,176.1,641.7,525.7,652.8, The ‘Improving digital technology and process management skills in Latvian 
+11,11,2,Calibri,11.0,72.0,656.1,525.9,667.2,companies’ project will train at least 85 employees in 19 training programmes by 2026. The measure 
+11,11,3,Calibri,11.0,72.0,670.5,525.7,681.6,‘Development of Digital Skills for Development of New Products and Technologies in Latvian 
+11,11,4,Calibri,11.0,72.0,684.8,525.9,695.9,"enterprises’ aims to provide training for 950 micro, small, and medium-sized enterprises in digital stills. "
+11,11,5,Calibri,11.0,72.0,699.2,525.9,710.3,"The training will consist of 550 short-cycle training programmes, 350 long-cycle programmes, and 50 "
+11,11,6,Calibri,11.0,72.0,713.6,525.9,724.7,online training programmes. A total of 5 000 employees will be trained under the framework. 
+11,11,7,Calibri,11.0,72.0,728.0,525.9,739.1,"Additionally, the Recovery and Resilience Facility (RRF) measure ‘Development of digital skills of "
+11,11,8,Calibri,11.0,72.0,742.4,525.9,753.5,enterprises’ targets Latvian SMEs at the beginning of their digitalisation process. This RRF measure 
+11,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+12,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"started in 2023 and will run until 2026. By mid 2024, it had supported over 1 080 businesses, and is "
+12,2,1,Calibri,11.0,72.0,98.3,312.6,109.3,expected to have supported a total of 2 521 by 2026.  
+12,4,0,Calibri-Bold,11.0,77.7,121.5,314.8,132.5,2024 recommendation on the digitalisation of SMEs
+12,4,0,Calibri,11.0,315.0,121.5,520.4,132.5,: Establish and sustain ambitious initiatives to 
+12,4,1,Calibri,11.0,77.7,136.0,269.7,147.0,further increase the digitalisation of SMEs. 
+12,5,0,Calibri-Bold,11.0,77.7,159.3,515.0,170.3,Latvia made some efforts to address the recommendation through new policy actions in 2024
+12,5,0,Calibri,11.0,515.4,159.3,520.5,170.3,. 
+12,5,1,Calibri,11.0,77.7,173.7,520.5,184.7,Latvia has continued to set up and sustain ambitious RRF measures (see above) to further increase 
+12,5,2,Calibri,11.0,77.7,188.2,520.5,199.2,"the digitalisation of SMEs. As a result, Latvia has seen impressive growth on some measures of "
+12,5,3,Calibri,11.0,77.7,202.7,520.5,213.7,"digitalisation. Despite this, Latvia is still behind the EU average in this area, and it is therefore "
+12,5,4,Calibri,11.0,77.7,217.2,520.4,228.3,"important for it to continue prioritising the digitalisation of SMEs, especially considering that many "
+12,5,5,Calibri,11.0,77.7,231.6,398.1,242.7,of the long-running measures are scheduled to finish in 2025 and 2026. 
+12,6,0,Calibri-Light,12.0,72.0,263.2,236.8,275.2,Take up of cloud/AI/data analytics 
+12,8,0,Calibri,11.0,523.6,429.3,526.1,440.4, 
+12,9,0,Calibri-Bold,11.0,72.0,448.9,525.6,459.9,"According to the latest available data (2023), 48.23% of enterprises in Latvia engaged with AI "
+12,9,1,Calibri-Bold,11.0,72.0,463.3,525.7,474.3,"technologies, sophisticated or intermediate cloud-services, or data analytics in the past year, falling "
+12,9,2,Calibri-Bold,11.0,72.0,477.5,228.6,488.6,short of the EU average of 54.70%.
+12,9,2,Calibri,11.0,228.5,477.5,525.8,488.6," More specifically, the uptake of these technologies among Latvian "
+12,9,3,Calibri,11.0,72.0,491.9,525.8,503.0,"SMEs was slightly lower at 47.3%, while large enterprises in Latvia demonstrated a significantly higher "
+12,9,4,Calibri,11.0,72.0,506.4,525.9,517.4,rate of 88.41%. This indicates a difference of 41.11 pps in uptake between SMEs and large enterprises 
+12,9,5,Calibri,11.0,72.0,520.7,342.2,531.8,"in Latvia, which is higher than the EU-level gap of 32.97 pps. "
+12,10,0,Calibri,11.0,72.0,543.1,525.8,554.1,"Adoption of cloud, data analytics, and the three technologies together (i.e. AI, cloud and data analytics) "
+12,10,1,Calibri,11.0,72.0,557.5,200.1,568.5,were not measured in 2024. 
+12,11,0,Calibri-Bold,11.0,72.0,579.9,525.8,591.0,"The latest available data reveals that in 2023 cloud uptake in Latvia stood at 29.04%, trailing behind "
+12,11,1,Calibri-Bold,11.0,72.0,594.2,195.2,605.3,the EU average of 38.97%.
+12,11,1,Calibri,11.0,195.3,594.2,525.9,605.3," However, while 28.22% of Latvian SMEs had adopted cloud services by "
+12,11,2,Calibri,11.0,72.0,608.6,525.8,619.7,"2023, uptake among large enterprises was more than double this rate, at 64.25%. This indicates a "
+12,11,3,Calibri,11.0,72.0,623.0,525.8,634.1,"marked difference of 36.03 percentage points in uptake between SMEs and large enterprises in Latvia, "
+12,11,4,Calibri,11.0,72.0,637.4,525.9,648.5,which exceeds the EU-level gap of 31.68 percentage points (on average 69.73% of large EU businesses 
+12,11,5,Calibri,11.0,72.0,651.8,239.9,662.9,had adapted cloud services by 2023). 
+12,12,0,Calibri-Bold,11.0,72.0,674.1,525.7,685.2,"In Latvia, 36.87% of all enterprises performed data analytics in 2023, beating the EU average of "
+12,12,1,Calibri-Bold,11.0,72.0,688.7,108.3,699.7,33.25%.
+12,12,1,Calibri,11.0,108.4,688.7,525.9,699.7," However, while uptake of data analytics was 35.92% among Latvian SMEs, a much higher "
+12,12,2,Calibri,11.0,72.0,703.2,525.9,714.2,"proportion of large Latvian enterprises, 77.78%, used data analytics. This resulted in a gap of 41.86 pps "
+12,12,3,Calibri,11.0,72.0,717.7,525.9,728.7,"in engagement with data analytics between SMEs and large enterprises, which was consistent with the "
+12,12,4,Calibri,11.0,72.0,732.1,110.8,743.2,EU gap.  
+12,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+13,3,0,Calibri,11.0,72.0,84.0,109.1,95.1,"In 2022,"
+13,3,0,Calibri-Bold,11.0,109.1,84.0,525.8,95.1," Latvian SMEs generated 47.6% of the value added in the country’s economy, while large "
+13,3,1,Calibri-Bold,11.0,72.0,98.4,202.6,109.5,enterprises generated 32.1%
+13,3,1,Calibri,11.0,202.6,98.4,525.9,109.5,". Notably, SMEs made up approximately 97.7% of all Latvian enterprises "
+13,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"with more than 10 employees, while large enterprises accounted for only 2.3% of enterprises with "
+13,3,3,Calibri,11.0,72.0,127.5,191.1,138.5,more than 10 employees.  
+13,4,0,Calibri-Bold,11.0,72.0,149.9,371.4,160.9,Latvia has demonstrated uneven progress in technology adoption
+13,4,0,Calibri,11.0,371.5,149.9,525.9,160.9,", with the uptake of data analytics "
+13,4,1,Calibri,11.0,72.0,164.4,525.8,175.5,"surpassing the EU average, but the uptake of cloud and AI lagging considerably behind. The disparity "
+13,4,2,Calibri,11.0,72.0,178.9,525.8,190.0,"between SMEs and large enterprises in Latvia remains pronounced, with the latter exhibiting "
+13,4,3,Calibri,11.0,72.0,193.5,525.9,204.5,"significantly higher adoption rates in all three areas (data analytics, AI, and cloud). Given the dominant "
+13,4,4,Calibri,11.0,72.0,207.9,525.7,218.9,role of SMEs in the Latvian enterprise landscape and their substantial contribution to economic value 
+13,4,5,Calibri,11.0,72.0,222.4,525.7,233.4,"added, targeted measures to increase digital adoption among SMEs could drive broader economic "
+13,4,6,Calibri,11.0,72.0,236.9,173.5,248.0,growth and resilience. 
+13,5,0,SymbolMT,11.0,89.9,257.2,95.0,270.6,
+13,5,0,ArialMT,11.0,94.9,258.3,98.0,270.6, 
+13,5,1,Calibri-Bold,11.0,107.7,260.0,134.0,271.0,Cloud
+13,5,1,Calibri,11.0,133.9,260.0,136.4,271.0, 
+13,6,0,Calibri,11.0,72.0,277.5,525.8,288.5,"Latvia’s roadmap adjustment presents TetCloud, a data-storage solution produced by the technology "
+13,6,1,Calibri,11.0,72.0,291.9,525.8,302.9,company Tet. TetCloud provides data storage outside Latvia and is considered to be the most powerful 
+13,6,2,Calibri,11.0,72.0,306.3,204.9,317.3,cloud platform in the Baltics.  
+13,7,0,Calibri-Bold,11.0,77.7,329.3,223.3,340.4,2024 recommendation on cloud
+13,7,0,Calibri,11.0,223.2,329.3,520.5,340.4,": Continue, expand, and accelerate public and private investments "
+13,7,1,Calibri,11.0,77.7,343.8,520.4,354.9,in the uptake of cloud. Support the broad uptake of the next generation of cloud infrastructure and 
+13,7,2,Calibri,11.0,77.7,358.4,520.4,369.4,"services under development in the IPCEI-CIS by companies of all sizes, including by liaising with the "
+13,7,3,Calibri,11.0,77.7,372.9,520.4,383.9,direct participants to develop a country-specific dissemination strategy reaching beyond the 
+13,7,4,Calibri,11.0,77.7,387.3,198.4,398.3,participating organisations 
+13,8,0,Calibri-Bold,11.0,77.7,410.6,520.5,421.6,Latvia has made some effort to address the recommendation through new policy actions in 2024. 
+13,8,1,Calibri-Bold,11.0,77.7,425.0,520.3,436.0,Latvia has fully addressed the recommendation by putting significant policy actions into place in 
+13,8,2,Calibri-Bold,11.0,77.7,439.4,105.5,450.4,2024. 
+13,8,2,Calibri,11.0,105.9,439.4,520.3,450.4,"So far, the IPCEI-CIS has been launched by all three applicants. Latvian experts participate in "
+13,8,3,Calibri,11.0,77.7,453.8,520.1,464.8,"EU working groups on cloud data, microelectronics and health. These experts are drawn from 15 "
+13,8,4,Calibri,11.0,77.7,468.1,520.4,479.1,Latvian enterprises. Other research and knowledge-dissemination organisations have expressed an 
+13,8,5,Calibri,11.0,77.7,482.5,520.3,493.5,"interest in joining the IPCEI-CIS, two of which have already received State aid and begun "
+13,8,6,Calibri,11.0,77.7,496.9,520.5,507.9,"implementing projects. Furthermore, Latvia plans to participate in JEF-IPCEI where the future of "
+13,8,7,Calibri,11.0,77.7,511.3,389.4,522.3,IPCEIs are planned and solutions for improving the ICPEIs are sought.  
+13,9,0,Calibri,11.0,72.0,534.4,74.5,545.5, 
+13,10,0,SymbolMT,11.0,90.0,554.7,95.1,568.2,
+13,10,0,ArialMT,11.0,95.1,555.8,98.1,568.1, 
+13,10,1,Calibri-Bold,11.0,108.0,557.5,173.5,568.5,Data Analytics
+13,10,1,Calibri,11.0,173.4,557.5,175.9,568.5, 
+13,11,0,Calibri,11.0,72.0,575.0,525.6,586.1,"Several data analysis courses in Latvia cater to business professionals, offering both foundational and "
+13,11,1,Calibri,11.0,72.0,589.4,262.5,600.5,advanced skills. The Baltic Data Academy
+13,11,1,Calibri,7.0,262.6,588.5,266.1,595.5,1
+13,11,1,Calibri,11.0,266.0,589.4,525.8,600.5, provides an in-depth Power BI course focused on data 
+13,11,2,Calibri,11.0,72.0,603.9,525.6,615.0,"modelling, DAX, and interactive dashboards, with the option to adapt the course to English. Riga "
+13,11,3,Calibri,11.0,72.0,618.5,143.9,629.5,Business School
+13,11,3,Calibri,7.0,143.9,617.6,147.4,624.5,2
+13,11,3,Calibri,11.0,147.4,618.5,525.7,629.5," offers an advanced Excel course through its LIFT program, covering Power Query, "
+13,11,4,Calibri,11.0,72.0,633.0,525.8,644.0,"Power Pivot, and DAX for automated reporting, with English-language support available. Riga Coding "
+13,11,5,Calibri,11.0,72.0,647.4,101.8,658.4,School
+13,11,5,Calibri,7.0,101.8,646.5,105.3,653.4,3
+13,11,5,Calibri,11.0,105.3,647.4,525.7,658.4," also offers a beginner-friendly course on data processing and visualization, occasionally "
+13,11,6,Calibri,11.0,72.0,661.9,525.9,672.9,"available in English. These programs are ideal for entrepreneurs, analysts, and decision-makers seeking "
+13,11,7,Calibri,11.0,72.0,676.4,298.4,687.5,to enhance their data-driven business capabilities. 
+13,12,0,Calibri-Bold,11.0,77.7,699.7,268.3,710.7,2024 recommendation on data analytics
+13,12,0,Calibri,11.0,268.4,699.7,520.3,710.7,": Continue, expand, and accelerate public and private "
+13,12,1,Calibri,11.0,77.7,714.1,274.7,725.1,investments in the uptake of Data analytics. 
+13,13,0,Calibri-Bold,11.0,77.7,737.4,515.1,748.4,Latvia made some efforts to address the recommendation through new policy actions in 2024
+13,13,0,Calibri,11.0,515.4,737.4,520.5,748.4,. 
+13,13,1,Calibri,11.0,77.7,751.9,520.5,763.0,Latvia is addressing this recommendation by focusing on highlighting measures in it roadmap 
+13,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+14,2,0,Calibri,11.0,77.7,84.7,520.5,95.8,adjustment that have an overall focus on the digitalisation of SMEs (see chapter on the SMEs with 
+14,2,1,Calibri,11.0,77.7,99.3,520.5,110.3,at least a basic level of digital intensity) including data analytics but not necessarily targeted solely 
+14,2,2,Calibri,11.0,77.7,113.7,155.5,124.7,at data analytics. 
+14,4,0,Calibri,11.0,72.0,136.9,74.5,148.0, 
+14,5,0,SymbolMT,11.0,90.0,157.3,95.1,170.8,
+14,5,0,ArialMT,11.0,95.1,158.4,98.1,170.7, 
+14,5,1,Calibri-Bold,11.0,108.0,160.1,202.2,171.1,Artificial Intelligence
+14,5,1,Calibri,11.0,202.1,160.1,204.6,171.1, 
+14,6,0,Calibri-Bold,11.0,72.0,177.5,525.8,188.5,AI in Latvia grew with a remarkable speed during the last year almost doubling (4.5% in 2023 to 
+14,6,1,Calibri-Bold,11.0,72.0,192.0,151.6,203.1,8.83% in 2024). 
+14,6,1,Calibri,11.0,155.2,192.0,197.0,203.1,"However,"
+14,6,1,Calibri-Bold,11.0,197.0,192.0,199.5,203.1, 
+14,6,1,Calibri,11.0,203.1,192.0,525.9,203.1,the country is lagging behind compared to its national trajectory. 
+14,6,2,Calibri,11.0,72.0,206.5,150.9,217.6,"Additionally,  the "
+14,6,2,Calibri,11.0,151.5,206.5,212.3,217.6,OECD reports
+14,6,2,Calibri,11.0,212.3,206.5,525.9,217.6, that venture capital investment in AI in Latvia almost tripled year on 
+14,6,3,Calibri,11.0,72.0,220.9,361.1,232.0,year from EUR 7.83 million in 2023 to EUR 19.36 million in 2024. 
+14,7,0,Calibri,11.0,72.0,243.5,525.9,254.6," In late December 2024, Latvia’s Cabinet of Ministers approved of the draft law ‘On the development "
+14,7,1,Calibri,11.0,72.0,257.9,525.9,269.0,of AI’ that will: (i) build an AI technology ecosystem; (ii) lay down the legal framework for cooperation 
+14,7,2,Calibri,11.0,72.0,272.2,525.9,283.2,"between universities, the public sector and the private sector; and (iii)decide on the purpose and tasks "
+14,7,3,Calibri,11.0,72.0,286.6,525.9,297.6,"of the Latvian National Centre for Artificial Intelligence. Additionally in 2024, a memorandum of "
+14,7,4,Calibri,11.0,72.0,301.0,525.9,312.0,"cooperation on AI was signed by the Latvian government, agencies of the Latvian government, and "
+14,7,5,Calibri,11.0,72.0,315.4,525.9,326.5,Microsoft. This memorandum will promote the use of AI and digital solutions to modernise public 
+14,7,6,Calibri,11.0,72.0,329.8,252.9,340.9,administration processes in the country. 
+14,8,0,Calibri-Bold,11.0,77.7,353.0,209.2,364.0,2024 recommendation on AI
+14,8,0,Calibri,11.0,209.2,353.0,520.4,364.0,": Continue, expand, and accelerate public and private investments in "
+14,8,1,Calibri,11.0,77.7,367.4,154.1,378.4,the uptake of AI. 
+14,9,0,Calibri-Bold,11.0,77.7,390.6,515.0,401.7,Latvia made some efforts to address the recommendation through new policy actions in 2024
+14,9,0,Calibri,11.0,515.4,390.6,520.5,401.7,. 
+14,9,1,Calibri,11.0,77.7,405.2,520.5,416.2,"Through the draft law and the memorandum, Latvia is now setting up a framework that will guide "
+14,9,2,Calibri,11.0,77.7,419.6,520.5,430.6,"the future development of AI. However, there remains a lack of additional public and private "
+14,9,3,Calibri,11.0,77.7,434.1,217.3,445.1,investment in the uptake of AI. 
+14,10,0,Calibri-Light,12.0,72.0,465.7,233.6,477.7,"Unicorns, scale-ups and start-ups "
+14,11,0,Calibri-Bold,11.0,72.0,489.2,226.9,500.2,"In 2024, Latvia had zero unicorns. "
+14,11,0,Calibri,11.0,227.0,489.2,431.1,500.2,Latvia aims to achieve two unicorns by 2030.  
+14,12,0,Calibri-Bold,11.0,72.0,511.6,325.5,522.7,The number of start-ups in Latvia is growing every year
+14,12,0,Calibri,11.0,325.8,511.6,525.9,522.7,". The Latvian start-up association, Startin.LV, "
+14,12,1,Calibri,11.0,72.0,526.0,226.9,537.1,estimates that Latvia was home to 
+14,12,1,Calibri,11.0,226.9,526.0,372.1,537.1,"512 start ups at the end of 2024,"
+14,12,1,Calibri,11.0,372.1,526.0,525.8,537.1, and 3 968 people were employed 
+14,12,2,Calibri,11.0,72.0,540.4,525.7,551.5,by Latvian start-ups in 2023. Most Latvian start-ups are B2B and their main activity  is the creation of 
+14,12,3,Calibri,11.0,72.0,554.8,525.9,565.9,"software. In 2024, EUR 34.3 million of equity funding was awarded to Latvian start-ups. The percentage "
+14,12,4,Calibri,11.0,72.0,569.3,496.1,580.3,of start-ups with at least one female shareholder increased from 25% in 2023 to 26.4% in 2024.
+14,12,4,Calibri-Bold,11.0,496.1,569.3,501.0,580.3,  
+14,13,0,Calibri,11.0,72.0,591.6,525.7,602.6,"In its roadmap adjustment, Latvia presented its plan ‘Support for the development of innovative "
+14,13,1,Calibri,11.0,72.0,606.0,525.8,617.0,"entrepreneurship in SMEs’, which aims to ensure the availability of financing to implement a business’s "
+14,13,2,Calibri,11.0,72.0,620.4,525.8,631.4,ideas and develop commercial activity in Latvia. This initiative supports the goals of Latvia’s smart 
+14,13,3,Calibri,11.0,72.0,634.8,525.7,645.8,specialisation strategy by increasing the proportion of innovative businesses in the economy and 
+14,13,4,Calibri,11.0,72.0,649.1,525.9,660.1,fostering commercial activities that generate high added value in the high-tech and medium-high-tech 
+14,13,5,Calibri,11.0,72.0,663.5,525.6,674.5,"sectors. As part of the programme 22 representative offices of IDAL were set up, and the programme "
+14,13,6,Calibri,11.0,72.0,677.9,525.5,688.9,"plans to have supported 488 enterprises by 2029 and create 1 000 new jobs. By the end of 2024, 161 "
+14,13,7,Calibri,11.0,72.0,692.3,498.2,703.3,enterprises had already been supported in incubation and 13 enterprises had received a grant.  
+14,14,0,Calibri,11.0,72.0,714.6,525.9,725.6,"Additionally, the ‘Venture capital investments of the EU cohesion policy programme for 2021-2027': (i) "
+14,14,1,Calibri,11.0,72.0,729.0,525.8,740.0,"measure, acceleration funds had, by the end of 2024,  invested a total amount of EUR 1.6 million in 24 "
+14,14,2,Calibri,11.0,72.0,743.4,525.7,754.4,companies; (ii) start-up and growth funds had invested EUR 9 million; and (iii) an additional EUR 9 
+14,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+15,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"million had been invested in private co-financing. By the end of 2027, the measure is expected to have "
+15,2,1,Calibri,11.0,72.0,98.3,352.8,109.3,"supported 68 more mature companies, including 45 start-ups.  "
+15,3,0,Calibri-Light,15.0,72.0,121.6,329.4,136.6,Strengthening Cybersecurity & Resilience   
+15,5,0,Calibri-Bold,11.0,72.0,148.5,490.6,159.5,"In Latvia, 54.61% of individuals took at least one action to protect their data online in 2024,"
+15,5,0,Calibri,11.0,490.7,148.5,525.9,159.5,  below 
+15,5,1,Calibri,11.0,72.0,163.0,525.9,174.0,"the EU average of 69.55%. However, only 26.7% of Latvians engaged in three or more actions to "
+15,5,2,Calibri,11.0,72.0,177.5,525.9,188.5,promote cybersecurity in the year (and therefore could be considered as having above-basic digital 
+15,5,3,Calibri,11.0,72.0,192.0,525.9,203.1,safety skills). The most common action taken by Latvians during the year to protect their cybersecurity 
+15,5,4,Calibri,11.0,72.0,206.4,525.8,217.5,"was reading privacy policy statements (32.25% did this), while checking if websites where personal "
+15,5,5,Calibri,11.0,72.0,220.9,525.9,232.0,data were provided were secure was the measure least commonly taken (only 20.75% of people did 
+15,5,6,Calibri,11.0,72.0,235.5,97.0,246.5,this). 
+15,7,0,Calibri,11.0,491.7,440.2,494.2,451.3, 
+15,7,1,Calibri-Bold,11.0,72.0,451.7,525.9,462.8,"Latvian enterprises tend to experience fewer cyber-attacks than the EU average, but Latvian "
+15,7,2,Calibri-Bold,11.0,72.0,466.3,499.9,477.3,employees are also less aware of their ICT-security-related obligations than their EU peers
+15,7,2,Calibri,11.0,500.0,466.3,525.9,477.3,. The 
+15,7,3,Calibri,11.0,72.0,480.8,525.7,491.8,number of Latvian enterprises that experienced ICT security incidents leading to unavailability of ICT 
+15,7,4,Calibri,11.0,72.0,495.3,525.9,506.4,services due to attack from outside (e.g. ransomware attacks or denial of service attacks) increased 
+15,7,5,Calibri,11.0,72.0,509.7,525.9,520.8,"significantly in Latvia, growing from 3.79% in 2022 to 8.02% in 2024. This is the highest percentage for "
+15,7,6,Calibri,11.0,72.0,524.2,525.9,535.3,2024 of all the EU Member States and is significantly higher than the EU average for 2024 of 3.43%. 
+15,7,7,Calibri,11.0,72.0,538.7,525.7,549.8,"However, Latvian enterprises are less prone to incidents related to hardware or software failures "
+15,7,8,Calibri,11.0,72.0,553.3,525.9,564.3,(10.05% of enterprises had such problems) than their EU peers (17.97% had such problems). In terms 
+15,7,9,Calibri,11.0,72.0,567.7,525.9,578.7,"of preventive measures, 88.88% of Latvian enterprises deployed some ICT security measures in 2024 "
+15,7,10,Calibri,11.0,72.0,582.2,525.9,593.3,"(around the EU average of 92.76%), but only 47.47% of enterprises in the country made their "
+15,7,11,Calibri,11.0,72.0,596.7,525.8,607.8,"employees aware of their obligations in ICT-security-related issues, significantly below the EU average "
+15,7,12,Calibri,11.0,72.0,611.3,116.9,622.3,(59.97%). 
+15,8,0,Calibri-Bold,11.0,72.0,633.7,525.7,644.7,Latvia is falling behind the EU in the roll-out of the secure Internet Protocol version 6 (IPv6) for end 
+15,8,1,Calibri-Bold,11.0,72.0,648.2,101.5,659.3,users. 
+15,8,1,Calibri,11.0,102.0,648.2,204.2,659.3,On the deployment of 
+15,8,1,Calibri,11.0,204.8,648.2,319.4,659.3,secure internet standards
+15,8,1,Calibri,11.0,319.4,648.2,525.9,659.3,", Latvia is falling behind the EU in the roll-out "
+15,8,2,Calibri,11.0,72.0,662.7,525.6,673.8,of IPv6 for the end users (only 15% of end users in Latvia use this protocol against an EU average of 
+15,8,3,Calibri,11.0,72.0,677.1,525.6,688.2,36%) and is significantly behind the EU average on the server side (2% of Latvian servers use this 
+15,8,4,Calibri,11.0,72.0,691.7,525.8,702.7,"protocol, against 17% of servers in the EU on average). IPv6 is an important protocol as it ensures the "
+15,8,5,Calibri,11.0,72.0,706.2,525.6,717.2,"scalability, stability, and security of the internet. The deployment of this new version is increasingly "
+15,8,6,Calibri,11.0,72.0,720.7,525.7,731.8,"urgent, as traditional IPv4 addresses have been long depleted. Domain Name System Security "
+15,8,7,Calibri,11.0,72.0,735.1,525.9,746.2,"Extensions (DNSSEC) is also an important standard to be rolled out, as it introduces security features "
+15,8,8,Calibri,11.0,72.0,749.6,108.1,760.7,to DNS. 
+15,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+16,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"In Latvia, the DNSSEC validation rate (i.e. verification rate of the authenticity of responses sent by name "
+16,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,"servers to clients, using a digital signature technology) is 70% (Q3 2024), significantly above the EU "
+16,2,2,Calibri,11.0,72.0,112.9,147.8,124.0,average of 47%.  
+16,4,0,Calibri,11.0,72.0,135.5,525.8,146.5,"According to the Digital Decade Eurobarometer 2025, 80% of Latvian citizens think that an improved "
+16,4,1,Calibri,11.0,72.0,149.9,525.6,160.9,"cybersecurity, better protection of online data and safety of digital technologies would facilitate their "
+16,4,2,Calibri,11.0,72.0,164.4,219.9,175.5,daily use of digital technologies.  
+16,5,0,Calibri-Bold,11.0,72.0,187.0,525.8,198.0,Latvia’s overarching cybersecurity strategy for 2023-2026 continues to guide Latvia’s overall 
+16,5,1,Calibri-Bold,11.0,72.0,201.3,184.3,212.3,cybersecurity approach. 
+16,5,1,Calibri,11.0,184.7,201.3,525.7,212.3,In the quarter of 2024 Latvia had its highest historical level of cyber threats 
+16,5,2,Calibri,11.0,72.0,215.7,95.9,226.7,ever. 
+16,5,2,Calibri,11.0,97.0,215.7,131.2,226.7,CERT.LV
+16,5,2,Calibri,11.0,130.3,215.7,525.9,226.7,", the Cyber Incident Response Institution of the Republic of Latvia, registered 418,325 "
+16,5,3,Calibri,11.0,72.0,230.1,525.9,241.1,"cyber incidents (affected unique IP addresses), and increase of 25% compared with the same period "
+16,5,4,Calibri,11.0,72.0,244.5,523.7,255.5,"in 2023. Financial and geopolitical cyber-attacks continue to be prevalent, and most of the cyber-"
+16,5,5,Calibri,11.0,72.0,258.9,525.7,269.9,attacks are ‘tied’ cyber-attacks supporting Russia. Distributed denial of service attacks continue to be 
+16,5,6,Calibri,11.0,72.0,273.2,525.8,284.2,"the most common form of attack on Latvia, and although the number of these attacks has fallen they "
+16,5,7,Calibri,11.0,72.0,287.6,375.5,298.6,"have become more complex, concentrated, powerful, and harmful.  "
+16,6,0,Calibri,11.0,72.0,310.0,489.1,321.0,"Despite the high amount of cyber-attacks, Latvia maintains a high level of cyber resilience, as "
+16,6,0,Calibri,11.0,489.3,310.0,525.9,321.0,CERT.LV 
+16,6,1,Calibri,11.0,72.0,324.5,525.8,335.6,reports that the recorded cyber-attacks have not had a significant impact on public security and/or 
+16,6,2,Calibri,11.0,72.0,338.9,216.1,350.0,essential and important services
+16,6,2,Calibri,11.0,216.2,338.9,223.8,350.0,.  
+16,7,0,Calibri,11.0,72.0,361.5,525.9,372.5,"In its roadmap adjustment, Latvia reports of several measures it is implementing to boost its "
+16,7,1,Calibri,11.0,72.0,375.9,525.9,386.9,cybersecurity. One of these is in the field of education: Riga Technical University launched a two-year 
+16,7,2,Calibri,11.0,72.0,390.2,525.9,401.2,course of studies on cybersecurity in 2024 that will educate 200 students from different fields in five 
+16,7,3,Calibri,11.0,72.0,404.6,525.8,415.6,"key areas of cybersecurity: management, hygiene, incident management, digital forensics, and "
+16,7,4,Calibri,11.0,72.0,419.0,525.8,430.0,"architecture. After the completion of this programme, the students (with the help of mentors) will go "
+16,7,5,Calibri,11.0,72.0,433.4,525.8,444.4,to the regions of Latvia to help local governments and enterprises to implement cybersecurity 
+16,7,6,Calibri,11.0,72.0,447.8,525.9,458.8,management frameworks and technical solutions. Riga Technical University also launched masters 
+16,7,7,Calibri,11.0,72.0,462.2,459.0,473.2,degree programme in cybersecurity engineering in 2023 which now has 38 graduates.  
+16,8,0,Calibri-Bold,11.0,77.7,485.2,258.8,496.3,2024 recommendation on cybersecurity
+16,8,0,Calibri,11.0,258.9,485.2,520.4,496.3,: Implement cyber security classes in the formal education 
+16,8,1,Calibri,11.0,77.7,499.7,204.6,510.8,in relevant study programs.  
+16,9,0,Calibri-Bold,11.0,77.7,523.0,517.9,534.1,Latvia addressed fully the recommendation by putting significant policy actions into place in 2024.
+16,9,0,Calibri,11.0,518.0,523.0,520.5,534.1, 
+16,9,1,Calibri,11.0,77.7,537.4,377.2,548.5,Latvia has implemented cyber security classes in formal education. 
+16,10,0,Calibri,11.0,72.0,568.8,525.9,579.8,"Despite Latvia’s introduction of cybersecurity classes in formal education, there is still a significant "
+16,10,1,Calibri,11.0,72.0,583.2,525.8,594.2,"shortage of cybersecurity professionals and skills. Even though, Latvia’s general education in secondary "
+16,10,2,Calibri,11.0,72.0,597.5,525.8,608.5,"school includes some cybersecurity topics, and non-formal education is available, overall levels of "
+16,10,3,Calibri,11.0,72.0,611.9,525.8,622.9,"cybersecurity education are fragmented, and there is no overall coordinating body for cybersecurity "
+16,10,4,Calibri,11.0,72.0,626.3,525.6,637.3,"education. The teaching of deeper cybersecurity knowledge is limited to selected schools, and even "
+16,10,5,Calibri,11.0,72.0,640.7,525.9,651.7,though there are classes/courses offered at a university masters level there are not enough courses 
+16,10,6,Calibri,11.0,72.0,655.1,419.1,666.1,"offered at bachelor level, nor is there a dedicated bachelor level programme.  "
+16,11,0,Calibri,11.0,72.0,677.4,74.5,688.4, 
+16,12,0,Calibri,11.0,72.0,699.9,74.5,711.0, 
+16,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+17,3,0,Calibri-Bold,26.0,72.0,87.0,493.4,113.1,Protecting and empowering EU people 
+17,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+17,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+17,4,1,Calibri-Light,15.0,72.0,181.1,108.3,196.1,needs
+17,4,1,Calibri-Bold,15.0,108.3,181.1,111.7,196.1, 
+17,5,0,Calibri-Bold,11.0,72.0,208.0,525.9,219.0,"Latvia is making an effort to increase digital skills by both upskilling its labour force, and "
+17,5,1,Calibri-Bold,11.0,72.0,222.4,525.8,233.4,"economically inactive population (including young and seniors), aiding SMEs in the digital "
+17,5,2,Calibri-Bold,11.0,72.0,236.8,473.6,247.8,"transformation, and introducing individual learning accounts to promote digital skills."
+17,5,2,Calibri,11.0,473.9,236.8,525.9,247.8, There is a 
+17,5,3,Calibri,11.0,72.0,251.2,525.8,262.2,"rural-urban divide, with people living in rural areas having lower levels of digital skills than those living "
+17,5,4,Calibri,11.0,72.0,265.5,525.6,276.5,in cities. Older adults and people with lower levels of education also have significantly lower levels of 
+17,5,5,Calibri,11.0,72.0,279.9,525.9,290.9,digital skills. Latvia’s overall level of proficiency in digital skills is below the EU average. Latvia’s lower 
+17,5,6,Calibri,11.0,72.0,294.3,525.8,305.3,performance of at least basic digital skills present as a challenge in many other areas such as the 
+17,5,7,Calibri,11.0,72.0,308.7,473.7,319.7,"digitalisation of SMEs, and the development of public services for citizens and businesses. "
+17,6,0,Calibri,11.0,72.0,331.0,525.7,342.0,"According to the 2025 Eurobarometer, 82% of Latvians think that accessing public services online will "
+17,6,1,Calibri,11.0,72.0,345.4,525.7,356.4,be important for their daily life in 2030. Concerning human support to help access and use digital 
+17,6,2,Calibri,11.0,72.0,359.8,525.7,370.9,"technologies and services, 71% consider it would improve their daily use of digital technologies, and "
+17,6,3,Calibri,11.0,72.0,374.2,525.9,385.2,85% think public authorities should consider it important to ensure that people receive proper human 
+17,6,4,Calibri,11.0,72.0,388.6,525.6,399.6,support to help them adapt to the changes in their lives brought about by digital technologies and 
+17,6,5,Calibri,11.0,72.0,403.0,112.9,414.1,services. 
+17,7,0,Calibri-Light,12.0,72.0,425.6,182.3,437.6,Equipping people with 
+17,7,0,Calibri,12.0,182.4,425.6,240.7,437.6,digital skills 
+17,8,0,Calibri-LightItalic,11.0,72.0,449.1,152.0,460.1,Basic Digital Skills 
+17,9,0,Calibri-Bold,11.0,72.0,471.7,525.9,482.7,"Latvia’s digital skills profile is weak. In 2023, the percentage of the Latvian population with at least "
+17,9,1,Calibri-Bold,11.0,72.0,486.2,399.8,497.2,"basic digital skills was 45.34%, falling short of the EU average of 55.56%. "
+17,9,1,Calibri,11.0,399.8,486.2,525.9,497.2,Despite the absence of data 
+17,9,2,Calibri,11.0,72.0,500.6,474.8,511.6,"for 2024, analysing the available data by various demographics reveals several key points.  "
+17,10,0,SymbolMT,11.0,90.0,520.9,95.1,534.4,
+17,10,0,ArialMT,11.0,95.1,522.0,98.1,534.3, 
+17,10,1,Calibri-Bold,11.0,108.0,523.7,162.6,534.8,Gender Gap
+17,10,1,Calibri,11.0,162.6,523.7,525.7,534.8,": Interestingly, the gender gap in digital skills in Latvia is in favour of women, with "
+17,10,2,Calibri,11.0,108.0,538.1,525.9,549.2,44.12% of men and 46.43% of women having at least basic digital skills. This the opposite of 
+17,10,3,Calibri,11.0,108.0,552.7,525.9,563.7,"the EU average gap (which has a 2.23 pps in favour of men), indicating a relatively balanced "
+17,10,4,Calibri,11.0,108.0,567.2,256.3,578.3,digital skillset between genders.  
+17,10,5,SymbolMT,11.0,90.0,579.5,95.1,593.0,
+17,10,5,ArialMT,11.0,95.1,580.6,98.1,592.9, 
+17,10,6,Calibri-Bold,11.0,108.0,582.3,182.1,593.4,Education Level:
+17,10,6,Calibri,11.0,182.1,582.3,525.8,593.4," Educational attainment is significantly linked to digital skills. In Latvia, 65.59% "
+17,10,7,Calibri,11.0,108.0,596.7,525.9,607.8,"of those with higher education have at least basic digital skills, which is below the EU average "
+17,10,8,Calibri,11.0,108.0,611.3,525.9,622.3,(79.83%). Only 32.75% of Latvians with no or low levels of formal education have proficiency 
+17,10,9,Calibri,11.0,108.0,625.8,525.7,636.8,"in digital skills, with the gap between this group and the national average being 12.59 "
+17,10,10,Calibri,11.0,108.0,640.3,525.9,651.3,percentage points. This is almost half of what is observed at the EU level (where the gap is 
+17,10,11,Calibri,11.0,108.0,654.7,162.6,665.7,21.95 pps).  
+17,10,12,SymbolMT,11.0,90.0,667.0,95.1,680.5,
+17,10,12,ArialMT,11.0,95.1,668.1,98.1,680.4, 
+17,10,13,Calibri-Bold,11.0,108.0,669.8,166.3,680.9,Living Areas:
+17,10,13,Calibri,11.0,166.3,669.8,525.9,680.9, Residents of rural areas in Latvia have the lowest levels of at-least-basic digital 
+17,10,14,Calibri,11.0,108.0,684.3,525.7,695.4,"skills, at just 32.31%, significantly lagging behind the EU average for rural areas (47.50%). The "
+17,10,15,Calibri,11.0,108.0,698.9,525.8,709.9,gap between rural areas and the national average when measuring the percentage of people 
+17,10,16,Calibri,11.0,108.0,713.3,525.9,724.3,"with at-least-basic levels of digital skills is 13.03 percentage points, which is larger than the EU "
+17,10,17,Calibri,11.0,108.0,727.8,398.8,738.8,"average (8.06 pps), indicating a significant regional digital divide. "
+17,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+18,4,0,SymbolMT,11.0,90.0,81.8,95.1,95.3,
+18,4,0,ArialMT,11.0,95.1,82.9,98.1,95.2, 
+18,4,1,Calibri-Bold,11.0,108.0,84.6,165.0,95.7,Age Groups:
+18,4,1,Calibri,11.0,165.0,84.6,525.9,95.7," The most digitally skilled age group in Latvia is the group aged 25-to-34, with "
+18,4,2,Calibri,11.0,108.0,99.0,525.9,110.1,"67.08% of people in this age cohort having the highest level of digital skills, just below the EU "
+18,4,3,Calibri,11.0,108.0,113.5,259.1,124.6,"average (70.18%). Conversely, "
+18,4,4,Calibri,11.0,108.0,128.1,259.2,139.1,the group aged 65-to-74 has 
+18,4,5,Calibri,11.0,108.0,142.6,259.2,153.6,"much lower digital skills, with "
+18,4,6,Calibri,11.0,108.0,157.0,259.2,168.0,only 14.53% of this cohort having 
+18,4,7,Calibri,11.0,108.0,171.5,259.2,182.5,"the highest level of digital skills, "
+18,4,8,Calibri,11.0,108.0,186.0,259.1,197.1,well below the EU average for 
+18,4,9,Calibri,11.0,108.0,200.5,218.6,211.6,that age group (28.19%).
+18,4,9,Calibri,11.0,218.6,200.5,221.1,211.6, 
+18,4,10,SymbolMT,11.0,90.0,212.7,95.1,226.2,
+18,4,10,ArialMT,11.0,95.1,213.8,98.1,226.1, 
+18,4,11,Calibri-Bold,11.0,108.0,215.5,253.7,226.6,Digital Skills Index components
+18,4,11,Calibri,11.0,253.9,215.5,259.2,226.6,: 
+18,4,12,Calibri,11.0,108.0,230.1,259.1,241.1,Latvia performs better than the 
+18,4,13,Calibri,11.0,108.0,244.6,259.1,255.6,EU average in three out of the 
+18,4,14,Calibri,11.0,108.0,259.0,259.2,270.0,five areas on the Digital Skills 
+18,4,15,Calibri,11.0,108.0,273.5,259.1,284.6,Index. The highest score for 
+18,4,16,Calibri,11.0,108.0,288.0,259.1,299.1,Latvia is in communication and 
+18,4,17,Calibri,11.0,108.0,302.6,259.2,313.6,"collaboration skills, 89.67% of the "
+18,4,18,Calibri,11.0,108.0,317.1,259.2,328.1,population have these skills. 
+18,4,19,Calibri,11.0,108.0,331.5,259.1,342.5,"However, the country scores "
+18,4,20,Calibri,11.0,108.0,346.0,259.2,357.0,poorly in safety skills where only 
+18,4,21,Calibri,11.0,108.0,360.5,259.1,371.6,54.61% of the population has 
+18,4,22,Calibri,11.0,108.0,375.0,400.8,386.1,"these skills, which is significantly below the EU average (69.55%). "
+18,5,0,Calibri-Bold,11.0,72.0,392.4,126.1,403.5,In summary
+18,5,0,Calibri,11.0,126.1,392.4,525.8,403.5,", Latvia’s digital skills situation presents a challenge, with overall proficiency below the EU "
+18,5,1,Calibri,11.0,72.0,406.9,525.9,417.9,average. While the gender gap is not problematic and the country is at or above EU levels in certain 
+18,5,2,Calibri,11.0,72.0,421.3,525.9,432.3,"skills areas, there is a need for improvement, especially in bridging the rural-urban divide and "
+18,5,3,Calibri,11.0,72.0,435.7,525.8,446.7,improving the digital capabilities of older adults and people with lower levels of education. Addressing 
+18,5,4,Calibri,11.0,72.0,450.1,373.2,461.1,these issues will be crucial for advancing Latvia’s digital proficiency. 
+18,6,0,Calibri-Bold,11.0,72.0,472.4,525.7,483.4,Latvia’s target is for 70% of its population to have at-least-basic digital skills by 2030 below the EU 
+18,6,1,Calibri-Bold,11.0,72.0,486.8,137.7,497.8,target of 80%. 
+18,6,1,Calibri,11.0,137.5,486.8,525.8,497.8,"Despite new measures added in the roadmap adjustment, Latvia is far from reaching its "
+18,6,2,Calibri,11.0,72.0,501.2,525.6,512.2,target. Due to the spillover effect of basic digital skills in helping the country to reach several other 
+18,6,3,Calibri,11.0,72.0,515.6,484.6,526.6,"Digital Decade targets, it is especially important for Latvia to intensify its efforts in this area.  "
+18,7,0,Calibri-Bold,11.0,72.0,537.9,457.7,548.9,Latvia has focused on individual learning accounts to boost people’s digital skills.
+18,7,0,Calibri,11.0,457.8,537.9,525.9,548.9, In 2024 Lavia 
+18,7,1,Calibri,11.0,72.0,552.3,525.9,563.3,launched the individual learning account programme STARS (stars.gov.lv). The program is aimed to 
+18,7,2,Calibri,11.0,72.0,566.7,525.8,577.8,make learnings more accessible and appealing for particularly for those groups whose learning 
+18,7,3,Calibri,11.0,72.0,581.1,525.9,592.2,opportunities are limited or lack the motivation to participate in education. STARS provides over 60 
+18,7,4,Calibri,11.0,72.0,595.4,525.9,606.5,different educational programmes targeted at developing medium and high levels of digital skills. The 
+18,7,5,Calibri,11.0,72.0,609.8,525.9,620.9,"study models, vocational education programme modules, and module clusters last between 50 and "
+18,7,6,Calibri,11.0,72.0,624.2,525.9,635.3,"212 hours. The participants are awarded 500 euros to cover the cost of the education programme, "
+18,7,7,Calibri,11.0,72.0,638.6,525.9,649.7,"depending on the price of the course, it can be free, or the individual may choose to co-finance the "
+18,7,8,Calibri,11.0,72.0,653.0,525.9,664.1,"remaining amount. And in 2024, the Latvian NGO, Riga TechGirls, concluded its five-year programme "
+18,7,9,Calibri,11.0,72.0,667.3,525.8,678.3,‘Get to know your technologies’. This programme aimed to develop an understanding of the diverse 
+18,7,10,Calibri,11.0,72.0,681.7,525.7,692.7,"fields within technology field, the opportunities technologies create, and how the knowledge can be "
+18,7,11,Calibri,11.0,72.0,696.1,525.9,707.1,"beneficial across various industries. During its five-year run, the programme has had over 30 000 "
+18,7,12,Calibri,11.0,72.0,710.5,202.2,721.5,participants (6 590 in 2024).  
+18,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+19,2,0,Calibri-Bold,11.0,77.7,84.7,293.1,95.8,2024 recommendation on digitalisation of skills
+19,2,0,Calibri,11.0,293.2,84.7,520.4,95.8,: Accelerate measures to further boost digital skills 
+19,2,1,Calibri,11.0,77.7,99.3,520.3,110.3,of the population and increase investments.  Focus on implementing measures and digital literacy 
+19,2,2,Calibri,11.0,77.7,113.7,186.7,124.7,education for everyone. 
+19,4,0,Calibri-Bold,11.0,77.7,136.9,515.3,148.0,Latvia made some efforts to address the recommendation through new policy actions in 2024
+19,4,0,Calibri,11.0,515.4,136.9,523.1,148.0,.  
+19,4,1,Calibri,11.0,77.7,151.3,520.5,162.4,The Latvian roadmap adjustment has introduced two new measures. Many of the measures 
+19,4,2,Calibri,11.0,77.7,165.7,520.5,176.8,introduced in the original roadmap were long-term measures launched in 2024 that will finish 
+19,4,3,Calibri,11.0,77.7,180.1,520.3,191.2,"around 2027, so it is still too early to be able to determine the effects of those. However, based on "
+19,4,4,Calibri,11.0,77.7,194.4,426.9,205.5,current initiatives it seems that they will not be enough to bridge the big gap.  
+19,5,0,Calibri-LightItalic,11.0,72.0,225.6,135.2,236.7,ICT specialists 
+19,6,0,Calibri-Bold,11.0,72.0,248.1,525.9,259.1,ICT specialists account for 4.9% of total employment in Latvia (2030 national target 10%) after an 
+19,6,1,Calibri-Bold,11.0,72.0,262.5,525.9,273.5,increase of 11.36% in 2024 compared with 2023. This puts Latvia just below the EU average of 5.0%. 
+19,6,2,Calibri-Bold,11.0,72.0,276.9,368.8,287.9,The country is lagging behind compared to its national trajectory
+19,6,2,Calibri,11.0,369.1,276.9,525.8,287.9,. ICT specialists accounted for only 
+19,6,3,Calibri,11.0,72.0,291.3,525.6,302.3,4.4% of total employment in Latvia in 2023 so growth of 11.36% on this measure between 2023 and 
+19,6,4,Calibri,11.0,72.0,305.7,525.6,316.7,2024 is more than double the growth observed at EU level (where the number of ICT specialists as a 
+19,6,5,Calibri,11.0,72.0,320.0,422.0,331.0,percentage of total employment only grew by 4.2% between 2023 and 2024).  
+19,7,0,Calibri-Bold,11.0,72.0,342.4,525.5,353.4,Latvia’s performance in the provision of ICT training and ICT specialist employment shows a mixed 
+19,7,1,Calibri-Bold,11.0,72.0,356.9,269.0,368.0,picture when compared to the EU average. 
+19,7,1,Calibri,11.0,269.1,356.9,525.8,368.0,"In terms of ICT specialist employment, ICT specialists as a "
+19,7,2,Calibri,11.0,72.0,371.3,525.7,382.4,"percentage of Latvia's total employment stood at 4.4% in 2023, below the EU's 4.8%. By 2024, this "
+19,7,3,Calibri,11.0,72.0,385.8,525.6,396.9,"figure rose to 4.9%, still trailing behind the EU's 5.0%. However, Latvia's growth rate of 11.4% in this "
+19,7,4,Calibri,11.0,72.0,400.4,525.6,411.4,"area outperformed the EU’s growth rate of 4.2%. On female ICT specialists, Latvia has a higher "
+19,7,5,Calibri,11.0,72.0,414.9,525.6,425.9,"percentage than the EU. In 2023, 23.9% of ICT specialists in Latvia were female, exceeding the EU’s "
+19,7,6,Calibri,11.0,72.0,429.3,525.6,440.4,"19.4%. This figure increased to 26.8% in 2024, while the EU’s figure only slightly increased to 19.5%. "
+19,7,7,Calibri,11.0,72.0,443.8,525.8,454.9,Latvia’s year-on-year growth rate of 12.1% in this area significantly outperformed the EU’s 0.5% 
+19,7,8,Calibri,11.0,72.0,458.3,380.9,469.4,indicating a promising trend in gender diversity within the ICT sector. 
+19,7,9,Calibri,11.0,72.0,472.9,74.5,483.9, 
+19,7,10,Calibri-Bold,11.0,72.0,487.3,525.6,498.3,"The provision of ICT training for enterprises with 10 or more employees has declined in Latvia, with "
+19,7,11,Calibri-Bold,11.0,72.0,501.7,525.8,512.7,"a lower percentage of enterprises offering such training compared to the EU average. In 2022, 15.1% "
+19,7,12,Calibri-Bold,11.0,72.0,516.1,525.6,527.1,"of enterprises with 10 or more employees in Latvia provided ICT training, which was lower than the "
+19,7,13,Calibri-Bold,11.0,72.0,530.5,129.3,541.5,EU’s 22.37%.
+19,7,13,Calibri,11.0,129.4,530.5,525.7,541.5," By 2024, this figure had decreased to 14.54%, while the EU's figure also slightly decreased "
+19,7,14,Calibri,11.0,72.0,544.9,124.6,555.9,to 22.29%.  
+19,8,0,Calibri-Bold,11.0,72.0,567.2,525.6,578.3,"Latvia's ICT training provision for enterprises with 10 or more employees has declined, with a lower "
+19,8,1,Calibri-Bold,11.0,72.0,581.7,424.0,592.8,percentage of enterprises offering such training compared to the EU average.
+19,8,1,Calibri,11.0,424.3,581.7,525.9,592.8," However, the country "
+19,8,2,Calibri,11.0,72.0,596.3,525.8,607.3,"shows a positive trajectory in the employment of ICT specialists, particularly in the growth of female "
+19,8,3,Calibri,11.0,72.0,610.7,525.8,621.7,"ICT specialists. The growth rate of female ICT specialists in Latvia is notably higher than the EU average, "
+19,8,4,Calibri,11.0,72.0,625.2,380.9,636.2,indicating a promising trend in gender diversity within the ICT sector. 
+19,9,0,Calibri,11.0,72.0,647.7,525.7,658.8,"While Latvia faces challenges in ICT training provision, the country's strong growth in ICT specialist "
+19,9,1,Calibri,11.0,72.0,662.1,361.4,673.2,"employment, particularly among females, is a positive indicator.  "
+19,10,0,Calibri,11.0,72.0,684.7,525.7,695.7," In term of demand from the labour market, Eurostat experimental statistics based on web scraping "
+19,10,1,Calibri,11.0,72.0,699.1,525.8,710.1,show that the profiles of ‘software and applications developers and analysts’ are the most sought after 
+19,10,2,Calibri,11.0,72.0,713.4,525.9,724.4,"profile in Latvia, representing 43.2% of online job advertisements for ICT specialists (58.0% at EU level). "
+19,10,3,Calibri,11.0,72.0,727.8,525.6,738.8,Two types of profile are more wanted in Latvia than in the EU in average: ‘information and 
+19,10,4,Calibri,11.0,72.0,742.2,525.7,753.2,"communications technology service managers’ (4.6% of online job advertisements for ICT specialists), "
+19,10,5,Calibri,11.0,72.0,756.6,520.8,767.6,and ‘information and communications technology operations and user support technicians’ (16.1%). 
+19,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+20,3,0,Calibri-Bold,11.0,72.0,84.0,525.6,95.1,Latvia still aims to reach its target of having ICT specialists make up 10% of people in employment 
+20,3,1,Calibri-Bold,11.0,72.0,98.3,114.0,109.3,by 2030. 
+20,3,1,Calibri,11.0,114.6,98.3,525.9,109.3,Based on the measures introduced in the roadmap adjustment and Latvia’s current rate of 
+20,3,2,Calibri,11.0,72.0,112.7,525.6,123.7,"progress, is the country appears to be on track to reach the 2030 target. In its roadmap adjustment, "
+20,3,3,Calibri,11.0,72.0,127.1,525.6,138.1,Latvia presented two especially impressive measures to train ICT specialists. The first of these 
+20,3,4,Calibri,11.0,72.0,141.5,525.9,152.5,"measures is the human capital development action plan for 2024-2025, which focuses on cross-cutting "
+20,3,5,Calibri,11.0,72.0,155.9,525.9,166.9,"and general components of education, data, evidence-based decisions, analytics, and cooperation with "
+20,3,6,Calibri,11.0,72.0,170.3,525.9,181.3,business. The plan identifies five lines of action; STEM education and skills; labour market expansion; 
+20,3,7,Calibri,11.0,72.0,184.6,525.6,195.6,attracting qualified workers to take up ICT training; supply and quality of adult learning; and support 
+20,3,8,Calibri,11.0,72.0,199.0,525.8,210.0,for entrepreneurial spirit. The measure is intended to increase the number of ICT specialists by 10 000 
+20,3,9,Calibri,11.0,72.0,213.4,525.8,224.4,"by 2027. Furthermore, in their five-year ‘Get to know technologies’ programme, which ran from 2021 "
+20,3,10,Calibri,11.0,72.0,227.8,525.5,238.8,"to 2025, the Riga TechGirls group educated more than 30 000 participants to promote IT skills, "
+20,3,11,Calibri,11.0,72.0,242.2,489.8,253.2,"programming, cybersecurity, use of AI, and management of information technology projects.  "
+20,4,0,Calibri-Bold,11.0,77.7,265.2,265.5,276.3,2024 recommendation on ICT specialists
+20,4,0,Calibri,11.0,265.6,265.2,520.4,276.3,: Continue existing and implement additional measures 
+20,4,1,Calibri,11.0,77.7,279.8,497.2,290.8,"targeting various groups to ensure an increase of ICT specialists, and improve gender balance. "
+20,5,0,Calibri-Bold,11.0,77.7,303.0,520.4,314.1,Latvia addressed fully the recommendation by putting significant policy actions into place in 2024. 
+20,5,0,Calibri,11.0,520.6,303.0,523.1,314.1, 
+20,5,1,Calibri,11.0,77.7,317.6,520.5,328.6,Latvia has addressed this recommendation in full through both: (i) the growth of ICT specialists as a 
+20,5,2,Calibri,11.0,77.7,332.0,520.5,343.0,percentage of the workforce (including the growth in the percentage of women ICT specialists); and 
+20,5,3,Calibri,11.0,77.7,346.5,385.8,357.5,(ii) the introduction of measures in the roadmap (mentioned above). 
+20,6,0,Calibri-Light,12.0,72.0,378.0,476.9,390.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+20,7,0,Calibri-Bold,11.0,72.0,401.6,525.8,412.6,Latvia’s performs strongly on digital public services and access to e-health records compared with 
+20,7,1,Calibri-Bold,11.0,72.0,416.1,149.2,427.1,"the EU average,"
+20,7,1,Calibri,11.0,149.3,416.1,525.7,427.1, with noteworthy recent progress in services for both the general public and 
+20,7,2,Calibri,11.0,72.0,430.5,525.8,441.5,"businesses. In 2023, Latvia’s total score for digital public services for citizens was 88.22, surpassing the "
+20,7,3,Calibri,11.0,72.0,445.0,525.6,456.1,"EU’s 79.44. This figure rose to 93.48 in 2024, still ahead of the EU’s 82.32. Latvia's growth rate of 6.0% "
+20,7,4,Calibri,11.0,72.0,459.5,525.9,470.6,on this measure between 2023 and 2024 outpaced the EU’s 3.6%. In the category of cross-border 
+20,7,5,Calibri,11.0,72.0,474.1,525.7,485.1,"digital services for citizens, Latvia’s scores were 85.88 in 2023 and 89.74 in 2024, higher in both years "
+20,7,6,Calibri,11.0,72.0,488.5,525.6,499.5,"than the EU’s 68.37 and 71.28, respectively. Latvia's growth rate of 4.5% on this measure between "
+20,7,7,Calibri,11.0,72.0,503.0,290.3,514.0,2023 and 2024 was slightly above the EU's 4.3%. 
+20,8,0,Calibri-Bold,11.0,72.0,525.5,525.7,536.6,"For digital public services for businesses, Latvia's total score was 87.22 in 2023 and 96.25 in 2024, "
+20,8,1,Calibri-Bold,11.0,72.0,539.8,320.5,550.9,"compared with the EU's 85.42 and 86.23, respectively."
+20,8,1,Calibri,11.0,320.6,539.8,525.8,550.9, The country's growth rate of 10.4% between 
+20,8,2,Calibri,11.0,72.0,554.2,525.9,565.3,2023 and 2024 on this measure significantly exceeded the EU’s 0.9%. In the category of cross-border 
+20,8,3,Calibri,11.0,72.0,568.7,525.7,579.7,"digital services for businesses, Latvia’s scores were 74.44 in 2023 and 92.5 in 2024, compared with the "
+20,8,4,Calibri,11.0,72.0,583.1,525.5,594.1,"EU’s 73.13 and 73.76, respectively. Latvia’s growth rate of 24.3% between 2023 and 2024 on this "
+20,8,5,Calibri,11.0,72.0,597.5,311.4,608.5,measure was substantially higher than the EU’s 0.9%. 
+20,9,0,Calibri-Bold,11.0,72.0,619.8,525.6,630.8,"On access to e-health records, Latvia's total score was 84.82 in 2023 and 85.86 in 2024, compared "
+20,9,1,Calibri-Bold,11.0,72.0,634.2,270.0,645.2,"with the EU's 79.12 and 82.7, respectively."
+20,9,1,Calibri,11.0,270.3,634.2,525.7,645.2," However, Latvia's growth rate of 1.2% on this measure "
+20,9,2,Calibri,11.0,72.0,648.6,314.1,659.6,between 2023 and 2024 lagged behind the EU’s 4.5%. 
+20,10,0,Calibri-Bold,11.0,72.0,670.9,525.7,681.9,"Latvia’s digital public services for both citizens and businesses are advancing at a rapid pace, with "
+20,10,1,Calibri-Bold,11.0,72.0,685.3,504.4,696.3,both absolute scores and growth rates in these areas consistently outpacing the EU average. 
+20,10,1,Calibri,11.0,505.5,685.3,525.9,696.3,This 
+20,10,2,Calibri,11.0,72.0,699.7,525.9,710.7,"trend is particularly evident in cross-border services for businesses, where Latvia’s growth rate is "
+20,10,3,Calibri,11.0,72.0,714.1,228.9,725.1,substantially higher than the EU's.  
+20,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+21,2,0,Calibri-LightItalic,11.0,72.0,84.0,92.4,95.1,e-ID 
+21,3,0,Calibri-Bold,11.0,72.0,106.5,525.5,117.5,"In 2023, 70.22% of Latvians said they had used their eID to access online services for private "
+21,3,1,Calibri-Bold,11.0,72.0,121.0,429.4,132.0,"purposes in the previous 12 months, which is above the EU average (41.11%).  "
+21,5,0,Calibri,11.0,72.0,143.4,525.7,154.5,Latvia participates in the Large-scale EU Digital Identity Wallet Pilot for Trusted Identity Technologies 
+21,5,1,Calibri,11.0,72.0,157.8,525.7,168.9,"and a Single Digital Ecosystem (APTITUDE) together with Czechia, Germany, Greece, France, Hungary, "
+21,5,2,Calibri,11.0,72.0,172.2,525.9,183.3,"Italy, the Netherlands, Poland, Portugal, and Ukraine. The project intends to create a digital wallet and "
+21,5,3,Calibri,11.0,72.0,186.6,525.9,197.7,"digital ID, so that payments can be made more securely. The project is a follow-up on the large-scale "
+21,5,4,Calibri,11.0,72.0,201.0,337.8,212.1,project EU Digital Identity Wallet – the NOBID Consortium.  
+21,6,0,Calibri,11.0,72.0,223.3,525.2,234.4,"Latvia’s own solution, Wallet B, is in its final development phase, with testing to begin in March 2025. "
+21,7,0,Calibri,11.0,72.0,245.8,525.6,256.8,"LV stakeholders, both public and private, are present in one of the LSPs consortia proceeding to the "
+21,7,1,Calibri,11.0,72.0,260.2,525.7,271.2,"grant agreement preparation stage. This includes government ministries and agencies, a bank and "
+21,7,2,Calibri,11.0,72.0,274.7,525.7,285.8,academia. LV’s overall costs for involvement in proposals is approximately 2.6 million euros with the 
+21,7,3,Calibri,11.0,72.0,289.2,525.9,300.3,grant requested by LV entities amounting to over 1.3 million euros. Use-cases LV will be involved in 
+21,7,4,Calibri,11.0,72.0,303.8,194.1,314.8,include: NOBID: Payments. 
+21,8,0,Calibri,11.0,72.0,326.2,525.9,337.2,"Latvian stakeholders, both public and private, are present in one of the large-scale-pilot consortia for "
+21,8,1,Calibri,11.0,72.0,340.6,525.8,351.6,"the development of payments/eID, and these stakeholders are now proceeding to the grant agreement "
+21,8,2,Calibri,11.0,72.0,355.0,525.9,366.0,"preparation stage. These stakeholders include government ministries and agencies, a bank and "
+21,8,3,Calibri,11.0,72.0,369.3,525.9,380.3,academics. Latvia’s overall costs for involvement in the eID large-scale-pilot proposals are 
+21,8,4,Calibri,11.0,72.0,383.7,525.6,394.7,"approximately EUR 2.6 million, with the grant requested by Latvian stakeholders amounting to over "
+21,8,5,Calibri,11.0,72.0,398.1,380.6,409.1,EUR 1.3 million. Use-cases for the project include: NOBID: Payments. 
+21,9,0,Calibri-LightItalic,11.0,72.0,420.5,327.2,431.6,Digitalisation of public services for citizens and businesses 
+21,10,0,Calibri-Bold,11.0,72.0,443.0,525.9,454.0,Latvia still aims to reach a score of 100 for the digitalisation of public services for citizens and 
+21,10,1,Calibri-Bold,11.0,72.0,457.5,165.8,468.5,businesses by 2030. 
+21,10,1,Calibri,11.0,166.3,457.5,525.9,468.5,Based on its presented measures their current performance it seems likely that 
+21,10,2,Calibri,11.0,72.0,472.0,199.3,483.1,Latvia will reach this target.  
+21,11,0,Calibri-Bold,11.0,72.0,494.5,502.9,505.5,"In 2024, Latvia made progress in further digitalising several important governmental sectors."
+21,11,0,Calibri,11.0,503.4,494.5,525.9,505.5, The 
+21,11,1,Calibri,11.0,72.0,508.9,525.8,519.9,roadmap adjustment presents 11 different governmental sectors in which Latvia said it would increase 
+21,11,2,Calibri,11.0,72.0,523.3,387.4,534.3,the availability of key public services. The different initiatives include:   
+21,12,0,SymbolMT,11.0,90.0,543.4,95.1,556.9,·
+21,12,0,ArialMT,11.0,95.1,544.5,98.1,556.8, 
+21,12,1,Calibri,11.0,108.0,546.2,525.9,557.2,"a register of documents attesting to primary and secondary education, which allows the "
+21,12,2,Calibri,11.0,108.0,560.6,260.4,571.7,individual to view their own data; 
+21,12,3,SymbolMT,11.0,90.0,572.8,95.1,586.3,·
+21,12,3,ArialMT,11.0,95.1,573.9,98.1,586.2, 
+21,12,4,Calibri,11.0,108.0,575.6,434.8,586.7,ensure the creation and improvement of e-services in the culture sector; 
+21,12,5,SymbolMT,11.0,90.0,587.7,95.1,601.2,·
+21,12,5,ArialMT,11.0,95.1,588.8,98.1,601.1, 
+21,12,6,Calibri,11.0,108.0,590.5,525.8,601.5,"develop the social platform ‘DigiSoc’, which will gather the necessary data for the provision of "
+21,12,7,Calibri,11.0,108.0,604.9,467.2,615.9,social services from both registers of national importance and external systems; 
+21,12,8,SymbolMT,11.0,90.0,617.1,95.1,630.6,·
+21,12,8,ArialMT,11.0,95.1,618.2,98.1,630.5, 
+21,12,9,Calibri,11.0,108.0,619.9,525.6,630.9,"the ‘Development of the public prosecutors Information System’ project, which will enable "
+21,12,10,Calibri,11.0,108.0,634.3,525.8,645.3,parties involved in a legal case to consult the case file electronically without visiting the public 
+21,12,11,Calibri,11.0,108.0,648.6,196.8,659.6,prosecutor’s office; 
+21,12,12,SymbolMT,11.0,90.0,660.8,95.1,674.2,·
+21,12,12,ArialMT,11.0,95.1,661.9,98.1,674.2, 
+21,12,13,Calibri,11.0,108.0,663.6,525.7,674.6,"the ‘E-Case programme’, which will improve a standardised approach to data exchange "
+21,12,14,Calibri,11.0,108.0,678.0,525.7,689.0,"between government information systems, and expand the range of electronic services "
+21,12,15,Calibri,11.0,108.0,692.4,214.5,703.4,available to the public;  
+21,12,16,SymbolMT,11.0,90.0,704.6,95.1,718.0,·
+21,12,16,ArialMT,11.0,95.1,705.7,98.1,718.0, 
+21,12,17,Calibri,11.0,108.0,707.4,389.7,718.4,plans to allow for data check in Latvia’s register of businesses;  
+21,12,18,SymbolMT,11.0,90.0,719.5,95.1,732.9,·
+21,12,18,ArialMT,11.0,95.1,720.6,98.1,732.9, 
+21,12,19,Calibri,11.0,108.0,722.3,528.3,733.3,plans to improve digital services to facilitate cross-border cooperation in the field of taxation;  
+21,12,20,SymbolMT,11.0,90.0,734.5,95.1,747.9,·
+21,12,20,ArialMT,11.0,95.1,735.6,98.1,747.9, 
+21,12,21,Calibri,11.0,108.0,737.3,525.7,748.3,"plans to improve geospatial solutions for smart land management, policy forecasting, and "
+21,12,22,Calibri,11.0,108.0,751.7,324.6,762.7,planning for the transition to a green economy.  
+21,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+22,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+22,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,The above-mentioned measures are also intended to reduce the administrative burden and promote 
+22,2,2,Calibri,11.0,72.0,112.9,137.0,124.0,simplification. 
+22,4,0,Calibri-Bold,11.0,77.7,136.2,267.7,147.3,2024 recommendation on public services
+22,4,0,Calibri,11.0,267.8,136.2,520.4,147.3,: Ensure coordinated implementation of public services 
+22,4,1,Calibri,11.0,77.7,150.7,520.5,161.8,and work towards integration of public records with the view of implementing 'once-only' principle 
+22,4,2,Calibri,11.0,77.7,165.1,188.3,176.2,in public administration. 
+22,5,0,Calibri-Bold,11.0,77.7,188.4,515.0,199.5,Latvia made some efforts to address the recommendation through new policy actions in 2024
+22,5,0,Calibri,11.0,515.4,188.4,520.5,199.5,. 
+22,5,1,Calibri-Bold,11.0,77.7,202.8,515.2,213.9,Latvia has made progress in implementing the ‘once-only’ principle in public administration
+22,5,1,Calibri,11.0,515.3,202.8,520.5,213.9,. 
+22,5,2,Calibri,11.0,77.7,217.2,520.3,228.3,Latvia’s Data Dissemination and Management Platform (DAGR) is the default data source for public 
+22,5,3,Calibri,11.0,77.7,231.6,520.5,242.7,administrations to ensure the efficient functioning of institutional services in the digital 
+22,5,4,Calibri,11.0,77.7,245.9,520.5,257.0,"environment. In 2024, seven contracts were concluded for the improvement of DAGR, and four "
+22,5,5,Calibri,11.0,77.7,260.3,520.5,271.4,"cooperation agreements are now in the process of harmonisation. In addition, two cooperation "
+22,5,6,Calibri,11.0,77.7,274.7,520.5,285.8,agreements were adjusted in 2024 to include a specific data set pm the portal. The DAGR now 
+22,5,7,Calibri,11.0,77.7,289.1,520.4,300.2,contains datasets from 11 institutions and validated consumer applications for 22 institutions. 
+22,5,8,Calibri,11.0,77.7,303.5,520.3,314.6,"Under the Single Digital Gateway Regulation at national level, it is intended that all the necessary "
+22,5,9,Calibri,11.0,77.7,317.8,411.0,328.8,data for services to residents and businesses will be retrieved from DAGR.  
+22,6,0,Calibri-LightItalic,11.0,72.0,349.0,112.2,360.0,e-Health 
+22,7,0,Calibri-Bold,11.0,72.0,366.5,525.9,377.6,"Latvia still aims at a score of 100 for the access to medical records, in line with the 2030 EU target. "
+22,7,1,Calibri,11.0,72.0,380.9,338.7,392.0,The country is on track according to its national trajectory.
+22,7,1,Calibri-Bold,11.0,338.8,380.9,341.3,392.0, 
+22,7,1,Calibri,11.0,342.1,380.9,525.8,392.0,Based on their presented measures and 
+22,7,2,Calibri,11.0,72.0,395.5,455.5,406.5,their current performance it seems likely that the member state will reach this target. 
+22,8,0,Calibri-Bold,11.0,72.0,418.0,365.8,429.1, Latvia’s e-Health maturity score improved slightly on last year. 
+22,8,0,Calibri,11.0,366.7,418.0,525.9,429.1,Of the 13 e-Health data categories 
+22,8,1,Calibri,11.0,72.0,432.3,525.6,443.4,"investigated in this study, 9 are available in a timely manner, and the remaining 4 categories are "
+22,8,2,Calibri,11.0,72.0,446.7,525.8,457.8,available but not in a timely manner. Data on laboratory test results are made available to citizens in a 
+22,8,3,Calibri,11.0,72.0,461.1,525.6,472.1,"timely manner. As in 2023, 8 of the 9 applicable categories of healthcare providers in Latvia are "
+22,8,4,Calibri,11.0,72.0,475.5,525.9,486.5,connected to country’s online health portal and supply data to it. (geriatric nursing homes are not 
+22,8,5,Calibri,11.0,72.0,489.9,525.8,500.9,"applicable because they are classified as social institutions and not medical institutions and, therefore "
+22,8,6,Calibri,11.0,72.0,504.2,525.7,515.2,do not process health data). The only applicable provider not supplying data is private rehabilitation 
+22,8,7,Calibri,11.0,72.0,518.6,525.8,529.6,"centres. Citizens can access data through an online portal, although a mobile application is not "
+22,8,8,Calibri,11.0,72.0,533.0,525.7,544.0,"available. Moreover, the online access service does not follow EU guidelines on web accessibility, "
+22,8,9,Calibri,11.0,72.0,547.4,364.2,558.4,which is the main gap in the maturity of Latvia’s e-Health system. 
+22,9,0,Calibri-Bold,11.0,72.0,569.7,381.2,580.8,Latvia is making strides in ensuring accessible healthcare for all. 
+22,9,0,Calibri,11.0,383.2,569.7,525.9,580.8,"In 2024, cross-border e-health "
+22,9,1,Calibri,11.0,72.0,584.1,525.8,595.2,services became available in Latvia by providing cross-border data exchange via the European core 
+22,9,2,Calibri,11.0,72.0,598.5,525.9,609.6,"service platform (together with Czechia, Estonia, Spain, France, Lithuania, Portugal and other countries "
+22,9,3,Calibri,11.0,72.0,612.9,525.9,624.0,"are expected to join). This system allows for the exchange of basic health data (diagnosis, surgical "
+22,9,4,Calibri,11.0,72.0,627.3,525.9,638.4,"intervention), the transfer and use of e-prescriptions (for foreigners or Latvians abroad in the countries "
+22,9,5,Calibri,11.0,72.0,641.7,525.9,652.8,"that are members of the platform). Additionally, Latvian patient data are available to foreign doctors, "
+22,9,6,Calibri,11.0,72.0,656.0,525.9,667.1,"and Latvian doctors can access the data of residents of other countries. Furthermore, since 2024 "
+22,9,7,Calibri,11.0,72.0,670.4,523.6,681.5,Latvian medical treatment institutions submit vaccinations and laboratory results to the national e-
+22,9,8,Calibri,11.0,72.0,684.8,525.9,695.9,health system. Latvia has also launched a digital competence centre which gathers ICT staff working 
+22,9,9,Calibri,11.0,72.0,699.2,525.9,710.3,on the system in one place to allow for the more effective introduction of new digital solutions and 
+22,9,10,Calibri,11.0,72.0,713.6,228.7,724.7,improvement of existing solutions. 
+22,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+23,2,0,Calibri,11.0,72.0,84.0,525.6,95.1,"According to the 2025 Eurobarometer, 76% Latvians think that digital technologies will be important "
+23,2,1,Calibri,11.0,72.0,98.4,525.7,109.5,"when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for diagnosis "
+23,2,2,Calibri,11.0,72.0,112.9,250.8,124.0,diseases) during their daily life by 2030. 
+23,4,0,Calibri-Bold,11.0,77.7,136.2,243.0,147.3,2024 recommendation on e-Health
+23,4,0,Calibri,11.0,242.9,136.2,520.3,147.3,: Ensure that all data types are made available in a timely 
+23,4,1,Calibri,11.0,77.7,150.7,520.3,161.8,manner. Offer a mobile application for citizens to access their electronic health records. Connect 
+23,4,2,Calibri,11.0,77.7,165.1,520.3,176.2,more private rehabilitation centres to the online access service. Ensure that the online access 
+23,4,3,Calibri,11.0,77.7,179.7,293.4,190.7,service complies to web accessibility guidelines. 
+23,5,0,Calibri-Bold,11.0,77.7,202.9,507.8,214.0, Latvia made some efforts to address the recommendation through new policy actions in 2024. 
+23,5,0,Calibri,11.0,507.6,202.9,520.5,214.0,As 
+23,5,1,Calibri,11.0,77.7,217.5,520.4,228.5,"mentioned above, Latvia is taking measures to ensure that healthcare is becoming more accessible. "
+23,5,2,Calibri,11.0,77.7,231.9,520.5,242.9,"However, efforts are needed to ensure that: (i) there is a mobile application; (ii) private rehabilitation "
+23,5,3,Calibri,11.0,77.7,246.4,520.5,257.5,centers are connected to online access services; and (iii) online systems for access to health data 
+23,5,4,Calibri,11.0,77.7,260.9,263.7,272.0,comply with web-accessibility guidelines. 
+23,6,0,Calibri-Light,15.0,72.0,293.0,526.4,308.0,Building a safe and human centric digital environment and preserving our 
+23,6,1,Calibri-Light,15.0,72.0,312.8,141.6,327.8,democracy 
+23,7,0,Calibri-Bold,11.0,72.0,339.6,383.7,350.7,"In Latvia, online participation in political and civic life is increasing"
+23,7,0,Calibri,11.0,384.1,339.6,525.9,350.7,". In 2024, 26.42% of people in "
+23,7,1,Calibri,11.0,72.0,353.1,525.8,364.1,"Latvia used the internet to participate in consultations, for voting or sharing opinions online. This share "
+23,7,2,Calibri,11.0,72.0,366.5,525.6,377.6,"is above the EU average and trending upward (this percentage in Latvia was only 11.44% in 2022), "
+23,7,3,Calibri,11.0,72.0,380.0,525.7,391.0,which is a stronger growth than observed at the EU level (where this percentage only increased from 
+23,7,4,Calibri,11.0,72.0,393.4,239.5,404.5,17.59% in 2022 and 20.45% in 2024). 
+23,8,0,Calibri,11.0,72.0,414.8,525.8,425.8,"In 2023, 31.51% of individuals in Latvia encountered messages online that were considered hostile or "
+23,8,1,Calibri,11.0,72.0,428.2,525.8,439.3,"degrading towards groups based on factors such as racial origin or disability, slightly below the EU "
+23,8,2,Calibri,11.0,72.0,441.7,525.9,452.7,average of 33.5%. Young people (aged 16-24) (of whom 36.79% were exposed to such message) and 
+23,8,3,Calibri,11.0,72.0,455.1,525.9,466.1,adults (aged 25-64) (of whom 34.13% were exposed to such messages) reported very similar levels of 
+23,8,4,Calibri,11.0,72.0,468.5,525.6,479.6,"exposure, indicating little variation by age. Males (30.28%) and females (32.62%) also reported "
+23,8,5,Calibri,11.0,72.0,482.0,298.2,493.0,"comparable rates, with a minor gender difference. "
+23,9,0,Calibri,11.0,72.0,501.4,525.9,512.5,"In 2023, 46.52% of individuals in Latvia stated that they had come across untrue or doubtful "
+23,9,1,Calibri,11.0,72.0,515.8,525.8,526.9,"information or content on internet news sites or social media, slightly below the EU average of 49.25%. "
+23,9,2,Calibri,11.0,72.0,530.1,525.6,541.2,"Of those exposed to such content, only 15.87% verified its truthfulness, suggesting that a relatively "
+23,9,3,Calibri,11.0,72.0,544.5,525.9,555.5,small share of individuals engaged in critical evaluation of the material. Young people (aged 16-24) 
+23,9,4,Calibri,11.0,72.0,558.9,525.8,570.0,reported higher exposure (55.82% were exposed) than adults (aged 25-64) (49.53% of whom were 
+23,9,5,Calibri,11.0,72.0,573.3,525.9,584.4,"exposed), with verification rates being markedly higher for young people (25.36%) than for adults "
+23,9,6,Calibri,11.0,72.0,587.7,525.7,598.8,"(16.16%). Males (46.56%) and females (46.48%) reported nearly identical levels of exposure, with "
+23,9,7,Calibri,11.0,72.0,602.0,377.1,613.1,similar verification rates of 17.3% for males and 14.59% for females. 
+23,10,0,Calibri,11.0,72.0,622.4,525.9,633.5,The 2023 data on online interactions in Latvia reveal rates of perceived hostile and degrading online 
+23,10,1,Calibri,11.0,72.0,636.8,525.6,647.9,messages and exposure to potentially misleading information online that are only slightly below the 
+23,10,2,Calibri,11.0,72.0,651.2,525.6,662.3,"EU average. However, the data also suggest that Latvians have not been actively engaging in verifying "
+23,10,3,Calibri,11.0,72.0,665.6,525.8,676.7,"the accuracy of online content, with only a relatively small proportion of individuals in Latvia checking "
+23,10,4,Calibri,11.0,72.0,680.0,525.6,691.1,the truthfulness of information. The findings therefore highlight the need for efforts to: (i) promote 
+23,10,5,Calibri,11.0,72.0,694.3,525.9,705.3,"digital literacy and critical thinking in Latvia, particularly among adults (those aged 25-64); (ii) support "
+23,10,6,Calibri,11.0,72.0,708.7,525.7,719.7,the development of effective online information evaluation skills; and (iii) foster a more informed 
+23,10,7,Calibri,11.0,72.0,723.1,157.7,734.2,online community. 
+23,11,0,Calibri,11.0,72.0,743.5,525.9,754.6,"According to the Digital Decade Eurobarometer 2025, 88% Latvians think it should be urgent the action "
+23,11,1,Calibri,11.0,72.0,758.0,525.7,769.1,of the public authorities to protect children online regarding the negative impact of social media on 
+23,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+24,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"children’s mental health, cyberbullying and online harassment. 86% believe it is urgent to put in place "
+24,2,1,Calibri,11.0,72.0,98.4,371.3,109.5,age assurance mechanisms to restrict age-inappropriate content.    
+24,4,0,Calibri,11.0,72.0,121.0,150.9,132.0,The organisation 
+24,4,0,Calibri-Bold,11.0,153.1,121.0,320.6,132.0,Latvian Safer Internet Centre (LSIC)
+24,4,0,Calibri,11.0,320.7,121.0,525.9,132.0, priorities children’s safety online. The LSIC 
+24,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,website and helpline allow minors to report breaches and illegal content online. The organisation 
+24,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,assists children experiencing cybercrime and cyber bullying. The organisation works in an agreement 
+24,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,together with the Latvian Police to report cybercrime and also provide professional consultation by 
+24,4,4,Calibri,11.0,72.0,178.9,136.4,190.0,psychologists. 
+24,5,0,Calibri-Bold,11.0,72.0,201.4,318.9,212.4,Fighting disinformation is high on the Latvian agenda. 
+24,5,0,Calibri,11.0,319.0,201.4,525.8,212.4,Their ‘Black on White’ communication project 
+24,5,1,Calibri,11.0,72.0,214.8,525.7,225.9,"intends to increase the resilience against disinformation, and other manipulation methods in the "
+24,5,2,Calibri,11.0,72.0,228.3,338.3,239.3,information space. ‘Black on White’ is an internet platform (
+24,5,2,Calibri,11.0,338.4,228.3,433.7,239.3,www.melnsuzbalta.lv
+24,5,2,Calibri,11.0,433.7,228.3,523.6,239.3,) that gathers up-to-
+24,5,3,Calibri,11.0,72.0,241.7,525.7,252.8,"date information on disinformation cases, and allows members of the public to report disinformation "
+24,5,4,Calibri,11.0,72.0,255.2,525.8,266.2,and other instances of manipulation online by filling out a questionnaire. The project also has a podcast 
+24,5,5,Calibri,11.0,72.0,268.6,525.9,279.6,"that educates its listeners how to recognise the most common manipulation methods, and how to "
+24,5,6,Calibri,11.0,72.0,282.0,231.7,293.1,report suspicious behaviour online. 
+24,5,7,Calibri-Bold,26.0,72.0,306.6,490.5,332.6,Leveraging digital transformation for a 
+24,5,8,Calibri-Bold,26.0,72.0,338.2,240.5,364.3,smart greening 
+24,6,0,Calibri-Bold,11.0,72.0,366.9,74.5,377.9, 
+24,6,1,Calibri-Bold,11.0,72.0,381.3,348.0,392.3,Latvians recycle only a small share of their old ICT equipment
+24,6,1,Calibri,11.0,348.1,381.3,525.9,392.3,". Latvians recycled their laptop, desktop "
+24,6,2,Calibri,11.0,72.0,395.7,525.7,406.8,"devices and mobile phones (6.86% for laptops and tablets, 7.69% for desktops, 8.45% mobile phones) "
+24,6,3,Calibri,11.0,72.0,410.1,525.6,421.1,"less than the EU average (11.31%, 14.66%, and 10.93% respectively). Moreover, only 16.03% of "
+24,6,4,Calibri,11.0,72.0,424.5,525.6,435.5,Latvians said that they considered energy efficiency as important when purchasing ICT devices (EU: 
+24,6,5,Calibri,11.0,72.0,438.8,525.9,449.8,"19.35%). Nevertheless, 14.87% of Latvians said in the survey that the eco-design of the device they "
+24,6,6,Calibri,11.0,72.0,453.2,525.7,464.2,"purchased was important, which is above the EU average (12.04%). However, Latvian consumers said "
+24,6,7,Calibri,11.0,72.0,467.6,525.7,478.6,"that those two eco-friendly criteria were of less importance than the price, performance, and design "
+24,6,8,Calibri,11.0,72.0,482.0,151.7,493.0,of the ICT device. 
+24,6,9,Calibri-Bold,11.0,72.0,496.4,497.4,507.4,Latvia emphasises promoting energy-efficient and material-efficient digital infrastructure. 
+24,6,9,Calibri,11.0,499.8,496.4,525.9,507.4,In its 
+24,6,10,Calibri,11.0,72.0,510.7,525.7,521.7,"roadmap adjustment, Latvia present three measures aimed at improving the energy and material "
+24,6,11,Calibri,11.0,72.0,525.1,525.9,536.1,efficiency of digital infrastructure. The first of these measures is that in 2025 the Delska Data Centre in 
+24,6,12,Calibri,11.0,72.0,539.5,525.6,550.5,"Riga will be commissioned, and it will run on 100% green energy from wind farms and innovative "
+24,6,13,Calibri,11.0,72.0,553.9,525.6,564.9,"cooling systems. The second of these measures is the construction of the Tet data centre in Salaspils, "
+24,6,14,Calibri,11.0,72.0,568.3,525.8,579.3,"which started in late 2024, and is expected to be completed in 2028. The data centre includes modern "
+24,6,15,Calibri,11.0,72.0,582.7,525.7,593.7,"energy-efficiency technologies, and heat recovery systems, which will transfer heat from the centre to "
+24,6,16,Calibri,11.0,72.0,597.0,525.9,608.0,"the local district heating system. Additionally, the data centres of the State Radio and Television Centre "
+24,6,17,Calibri,11.0,72.0,611.4,525.6,622.4,"(LVRTC) provides tier III services (a classification of data services that are very reliable, secure and "
+24,6,18,Calibri,11.0,72.0,625.8,525.7,636.8,available) thanks to its own reserved power supply and cooling system. These data centres also have 
+24,6,19,Calibri,11.0,72.0,640.2,525.7,651.2,"backup communication channels with connections to global telecom operators. Finally, Latvia has "
+24,6,20,Calibri,11.0,72.0,654.6,525.8,665.6,produced a draft regulation on state data processing cloud regulations (24-TA-1050) that sets out the 
+24,6,21,Calibri,11.0,72.0,669.0,525.9,680.0,"functions and task of cloud in the country’s national administrative IT systems, which includes a "
+24,6,22,Calibri,11.0,72.0,683.3,525.7,694.3,requirement that data centres managing state data must comply with the current version of standard 
+24,6,23,Calibri,11.0,72.0,697.7,152.3,708.7,ISO/IEC 30134-2.  
+24,6,24,Calibri-Bold,11.0,72.0,712.1,436.5,723.1,Latvia’s roadmap adjustment presents several energy-efficient digital solutions. 
+24,6,24,Calibri,11.0,436.9,712.1,489.1,723.1,Latvia has a
+24,6,24,Calibri-Bold,11.0,489.1,712.1,491.6,723.1, 
+24,6,24,Calibri,11.0,491.9,712.1,525.9,723.1,project 
+24,6,25,Calibri,11.0,72.0,726.5,525.7,737.5,for a smart street-lighting system where the sensory system and LED lighting adapt light intensity 
+24,6,26,Calibri,11.0,72.0,740.9,525.7,751.9,"depending on weather and traffic conditions, thus reducing energy consumption. Additionally, the "
+24,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+25,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,country has put it place a smart waste container management system for the automatic digitalisation 
+25,2,1,Calibri,11.0,72.0,98.3,214.1,109.3,of the waste collecting process. 
+25,4,0,Calibri-Bold,11.0,72.0,120.7,410.8,131.8,"Latvia’s Information and Communication Technology Association, LIKTA, "
+25,4,0,Calibri,11.0,412.4,120.7,525.9,131.8,is also in the process of 
+25,4,1,Calibri,11.0,72.0,135.3,525.9,146.3,developing a sustainability reporting tool that aims to advise enterprises on how to effectively align 
+25,4,2,Calibri,11.0,72.0,149.7,525.9,160.7,their activities with the necessary sustainability requirements. The total budget for this project is EUR 
+25,4,3,Calibri,11.0,72.0,164.2,525.9,175.2,"3.46 million, and the consortium consists of industry ministries from countries in the region and "
+25,4,4,Calibri,11.0,72.0,178.7,379.6,189.7,"leading ICT associations from Estonia, Finland, Latvia, and Lithuania.  "
+25,5,0,Calibri,11.0,72.0,201.1,525.8,212.2,"According to the Digital Decade Eurobarometer 2025, 55% Latvians consider digital technologies "
+25,5,1,Calibri,11.0,72.0,215.7,525.9,226.7,important to help fight climate change (standing slightly above the EU average of 74% and showing an 
+25,5,2,Calibri,11.0,72.0,230.2,525.9,241.2,"increment of four percentage points since last year), while 68% of Latvian respondents think that "
+25,5,3,Calibri,11.0,72.0,244.7,525.7,255.8,ensuring that digital technologies serve the green transition should be an important action for public 
+25,5,4,Calibri,11.0,72.0,259.1,265.2,270.2,authorities (below the EU average of 80%). 
+25,6,0,Calibri-Bold,11.0,77.7,282.4,238.4,293.5,2024 recommendation on green ICT
+25,6,0,Calibri,11.0,238.5,282.4,520.4,293.5,: Develop a coherent approach to twinning the digital and green 
+25,6,1,Calibri,11.0,77.7,296.9,520.4,308.0,"transitions. First, promote improvements in energy and material efficiency of digital infrastructures, "
+25,6,2,Calibri,11.0,77.7,311.4,520.5,322.5,"in particular data centres. Second, support the development and deployment of digital solutions "
+25,6,3,Calibri,11.0,77.7,325.8,520.3,336.9,"that reduce the carbon footprint in other sectors, such as energy, transport, buildings, and "
+25,6,4,Calibri,11.0,77.7,340.4,347.4,351.4,"agriculture, including the uptake of such solutions by SMEs.  "
+25,7,0,Calibri,11.0,77.7,362.9,520.2,374.0,Monitor and quantify the emission reductions of the deployed digital solutions in line with the 
+25,7,1,Calibri,11.0,77.7,377.3,520.2,388.4,relevant EU guidance and with the support of the methodology developed by the European Green 
+25,7,2,Calibri,11.0,77.7,391.8,506.8,402.9,"Digital Coalition, in view of future policy development, as well as of attracting relevant financing "
+25,8,0,Calibri-Bold,11.0,77.7,415.1,520.5,426.2,Latvia made some efforts to address the recommendation through new policy actions in 2024. 
+25,8,1,Calibri,11.0,77.7,429.7,520.5,440.7,Latvia has tackled this recommendation through its emphasis on presenting digital solutions that 
+25,8,2,Calibri,11.0,77.7,444.1,237.9,455.1,strive to promote energy efficiency. 
+25,9,0,Calibri,11.0,72.0,481.6,74.5,492.7, 
+25,9,1,Calibri-Bold,26.0,216.1,470.4,221.9,496.4, 
+25,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+26,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+26,4,0,Calibri-Bold,11.0,77.7,126.7,531.6,137.8," Latvia submitted a Digital Decade roadmap adjustment on 11 February 2025, containing 43 "
+26,4,1,Calibri-Bold,11.0,77.7,141.1,334.7,152.2,"measures, 2 new targets and 4 revised trajectories. "
+26,4,1,Calibri,11.0,338.1,141.1,531.7,152.2,The update clearly aligns with the new 
+26,4,2,Calibri,11.0,77.7,155.5,531.8,166.6,"Commission’s priorities on the uptake of AI, cybersecurity and technology in general. Latvia’s roadmap "
+26,4,3,Calibri,11.0,77.7,169.8,531.8,180.9,"adjustment includes reporting on consultations with stakeholders. However, the roadmap adjustment "
+26,4,4,Calibri,11.0,77.7,184.2,428.6,195.3,lacks additional targeted support to help the country reach 100% connectivity. 
+26,5,0,Calibri,11.0,77.7,201.6,80.2,212.7, 
+26,6,0,Calibri,11.0,77.7,219.1,531.8,230.2,The roadmap adjustment addresses a substantial number of relevant recommendations issued in 
+26,6,1,Calibri,11.0,77.7,233.7,107.9,244.7,2024:  
+26,7,0,SymbolMT,11.0,95.7,248.9,100.7,262.4,
+26,7,0,ArialMT,11.0,100.7,250.0,103.8,262.3, 
+26,7,1,Calibri-Italic,11.0,113.7,251.7,531.5,262.7,Propose a target and trajectory for FTTP and edge nodes. (ii) Align the level of ambition of 
+26,7,2,Calibri-Italic,11.0,113.7,266.2,442.1,277.2,"targets for at least basic digital skills, VHCN, and 5G with the EU targets:"
+26,7,2,Calibri,11.0,442.2,266.2,531.8,277.2," In response, Latvia "
+26,7,3,Calibri,11.0,113.7,280.7,531.8,291.8,proposed a target for FTTP and edge nodes and aligned it with the EU targets. Latvia also 
+26,7,4,Calibri,11.0,113.7,295.1,531.8,306.2,"modified its target for VHCN in line with EU targets, while its target for 5G continues to be for "
+26,7,5,Calibri,11.0,113.7,309.6,531.7,320.7,coverage of 70% (EU target: 100%) and least basic digital skills remains lower than the EU 
+26,7,6,Calibri,11.0,113.7,324.2,249.5,335.2,value of 80% at 70% by 2030.  
+26,7,7,SymbolMT,11.0,95.7,336.5,100.7,350.0,
+26,7,7,ArialMT,11.0,100.7,337.6,103.8,349.9, 
+26,7,8,Calibri-Italic,11.0,113.7,339.3,531.7,350.3,"MEASURES: (i) Strengthen measures and increase funding for at least basic digital skills, VHCN, "
+26,7,9,Calibri-Italic,11.0,113.7,353.7,531.8,364.7,and 5G to be able to align its national targets with the Digital Decade target. (ii) Increase 
+26,7,10,Calibri-Italic,11.0,113.7,368.2,531.5,379.2,funding for digitalisation of businesses and digital skills to be able to reach targets for digital 
+26,7,11,Calibri-Italic,11.0,113.7,382.7,531.6,393.8,"intensity of SMEs, uptake of cloud, AI, data analytics, and for ICT specialists. (iii) Provide more "
+26,7,12,Calibri-Italic,11.0,113.7,397.3,531.7,408.3,information on the implementation of digital rights and principles (and Digital Decade general 
+26,7,13,Calibri-Italic,11.0,113.7,411.7,409.3,422.7,"objectives), including what national measures contribute to it: "
+26,7,13,Calibri,11.0,411.8,411.7,531.8,422.7,Latvia has addressed the 
+26,7,14,Calibri,11.0,113.7,426.2,223.8,437.2,recommendation in full. 
+26,8,0,Calibri-Bold,11.0,204.8,443.7,398.7,454.8,Measures and budget in national roadmap
+26,8,0,Calibri-Bold,7.0,398.6,442.8,402.1,449.8,6
+26,8,0,Calibri-Bold,11.0,402.1,443.7,404.6,454.8, 
+26,9,0,Calibri-Bold,11.0,529.2,661.1,531.7,672.1, 
+26,9,1,Calibri,11.0,77.7,675.6,80.2,686.6, 
+26,10,0,Calibri,11.0,216.1,713.5,218.5,724.5, 
+26,10,1,Calibri,6.5,72.0,726.1,75.3,732.5,6
+26,10,1,Calibri,10.0,75.3,726.9,77.5,736.9, 
+26,10,1,Calibri,9.0,77.9,727.6,525.0,736.6,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+26,10,2,Calibri,9.0,72.0,738.9,525.4,747.9,"roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+26,10,3,Calibri,9.0,72.0,749.8,525.0,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+26,10,4,Calibri,9.0,72.0,760.9,237.8,769.9,States followed the guidance was carried out.
+26,10,4,Calibri,10.0,238.0,760.2,240.3,770.1, 
+26,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+27,3,0,Calibri,11.0,77.7,84.5,531.6,95.5,"Overall, Latvia has presented a non-exhaustive set of the policies and measures contributing to the "
+27,3,1,Calibri,11.0,77.7,99.0,531.5,110.1,achievement of each of the Digital Decade targets. The measures presented also cover several types 
+27,3,2,Calibri,11.0,77.7,113.4,531.8,124.5,"of objectives: technological leadership, sovereignty, competitiveness, cybersecurity, fundamental "
+27,3,3,Calibri,11.0,77.7,127.9,531.8,139.0,"rights and the green transition. In total the measures presented amount to EUR 2 287.4 million, not "
+27,3,4,Calibri,11.0,77.7,142.5,214.6,153.5,including confidential budgets.
+27,3,4,Calibri-Bold,11.0,214.6,142.5,217.1,153.5, 
+27,4,0,Calibri,11.0,72.0,174.7,74.5,185.8, 
+27,4,1,Calibri-Bold,26.0,216.1,163.5,221.9,189.5, 
+27,5,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,5,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+28,3,0,Calibri-Bold,26.0,72.0,87.0,481.5,113.1,Annex II – Factsheet on multi-country 
+28,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+28,4,0,Calibri-Bold,11.0,77.7,160.9,267.4,172.0,Multi-country projects and best practices 
+28,5,0,Calibri,11.0,77.7,178.5,535.3,189.5,Latvia is a member of the Alliance for Language Technologies EDIC and of the Local Digital Twins towards 
+28,5,1,Calibri,11.0,77.7,193.0,535.2,204.0,"the CitiVERSE EDIC, and is working towards setting up an EDIC in the area of cancer imaging. Latvian "
+28,5,2,Calibri,11.0,77.7,207.5,535.3,218.5,entities are indirect and/or associated partners in the IPCEI on Microelectronics and Communication 
+28,5,3,Calibri,11.0,77.7,221.9,533.2,232.9,Technologies (IPCEI-ME/CT) and the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-
+28,5,4,Calibri,11.0,77.7,236.4,490.4,247.5,CIS). Latvia is a participating state in the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+28,6,0,Calibri,11.0,77.7,259.0,535.2,270.0,Latvia has not yet presented any measure in the framework of Digital Decade’s Best Practice 
+28,6,1,Calibri,11.0,77.7,273.4,135.5,284.5,Accelerator.  
+28,7,0,Calibri,11.0,72.0,296.4,74.5,307.5, 
+28,8,0,Calibri-Bold,11.0,77.7,319.4,254.3,330.4,EU funding for digital policies in Latvia 
+28,9,0,Calibri,11.0,77.7,336.9,472.3,347.9,Latvia allocates 23% of its total recovery and resilience plan to digital (EUR 416 million)
+28,9,0,Calibri,7.0,472.3,336.0,475.8,342.9,7
+28,9,0,Calibri,11.0,475.8,336.9,535.5,347.9,". In addition, "
+28,9,1,Calibri,11.0,77.7,351.4,535.2,362.4,"under cohesion policy, EUR 441million (representing 10% of the country’s total cohesion policy "
+28,9,2,Calibri,11.0,77.7,365.9,364.5,377.0,"funding), is dedicated to advancing Latvia’s digital transformation"
+28,9,2,Calibri,7.0,364.5,365.0,368.0,372.0,8
+28,9,2,Calibri,11.0,368.0,365.9,535.5,377.0,". According to JRC estimates, EUR 738 "
+28,9,3,Calibri,11.0,77.7,380.4,535.5,391.5,million directly contribute to achieving Digital Decade targets (of which EUR 384 million comes from 
+28,9,4,Calibri,11.0,77.7,394.9,339.9,405.9,the RRF and EUR 354 million from cohesion policy funding)
+28,9,4,Calibri,7.0,339.9,393.9,343.4,400.9,9
+28,9,4,Calibri,11.0,343.4,394.9,346.2,405.9,.
+28,9,4,Calibri-Bold,11.0,346.1,394.9,348.6,405.9, 
+28,10,0,Calibri,11.0,72.0,412.9,74.5,423.9, 
+28,11,0,Calibri,11.0,72.0,435.4,74.5,446.5, 
+28,11,1,Calibri,11.0,216.1,435.4,218.5,446.5, 
+28,12,0,Calibri,11.0,216.1,670.8,218.5,681.8, 
+28,13,0,Calibri,6.0,72.0,683.7,75.1,689.7,7
+28,13,0,Calibri,9.0,75.0,683.9,524.9,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+28,13,1,Calibri,9.0,72.0,695.0,313.5,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+28,13,2,Calibri,6.0,72.0,705.6,75.1,711.6,8
+28,13,2,Calibri,9.0,75.0,705.9,523.2,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+28,13,3,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+28,13,4,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+28,13,5,Calibri,6.0,72.0,738.7,75.1,744.7,9
+28,13,5,Calibri,9.0,75.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+28,13,6,Calibri,9.0,72.0,749.8,525.4,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+28,13,7,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+28,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,138.2,49.4,Latvia 
+29,2,0,Calibri-Bold,26.0,72.0,87.0,490.4,113.1,Annex III – Digital Rights and Principles
+29,2,0,Calibri,17.0,490.5,84.8,507.8,101.8,10
+29,2,0,Calibri-Bold,26.0,507.8,87.0,513.7,113.1, 
+29,6,0,Calibri-Bold,11.0,255.4,327.4,260.4,338.4,  
+29,7,0,Calibri-Bold,11.0,72.0,349.7,254.8,360.8, Activity on Digital Rights and Principles 
+29,7,0,Calibri,11.0,254.9,349.7,295.6,360.8,(figure 1)
+29,7,0,Calibri-Bold,11.0,295.5,349.7,298.0,360.8, 
+29,8,0,Calibri-Bold,11.0,72.0,372.3,449.5,383.3,Latvia has shown rather limited activity in implementing digital rights and principles
+29,8,0,Calibri,11.0,449.7,372.3,452.5,383.3,","
+29,8,0,Calibri-Bold,11.0,452.4,372.3,454.9,383.3, 
+29,8,0,Calibri,11.0,454.5,372.3,525.9,383.3,with the overall 
+29,8,1,Calibri,11.0,72.0,386.8,352.0,397.9,number of initiatives of around a half or less of the EU average
+29,8,1,Calibri-Bold,11.0,352.3,386.8,354.8,397.9, 
+29,8,1,Calibri,11.0,354.9,386.8,375.5,397.9,(77).
+29,8,1,Calibri-Bold,11.0,375.5,386.8,378.0,397.9, 
+29,8,1,Calibri,11.0,378.2,386.8,525.8,397.9,Latvia launched 2 new initiatives 
+29,8,2,Calibri,11.0,72.0,401.2,354.8,412.3,"in 2024, showing limited progress towards its commitments. "
+29,8,2,Calibri-Bold,11.0,356.7,401.2,525.8,412.3,Latvia is most active in the area of 
+29,8,3,Calibri-Bold,11.0,72.0,415.7,356.0,426.8,Interactions with algorithms and artificial intelligence systems
+29,8,3,Calibri,11.0,356.1,415.7,525.8,426.8," (III). There is room for improvement, "
+29,8,4,Calibri,11.0,72.0,430.3,525.7,441.3,"especially with regards to Putting people at the centre of the digital transformation (I), Connectivity "
+29,8,5,Calibri,11.0,72.0,444.8,363.9,455.8,(II) and Sustainability (VI) where less activity has been identified.  
+29,9,0,Calibri-Bold,11.0,72.0,467.2,227.8,478.3,Impact of Digital Rights Initiatives 
+29,9,0,Calibri,11.0,227.9,467.2,271.0,478.3,(figure 2) 
+29,10,0,Calibri,11.0,72.0,489.7,525.7,500.7,"Quantitative impact indicators, developed by support study, illustrate the level of implementation of "
+29,10,1,Calibri,11.0,72.0,504.2,525.8,515.2,"digital rights initiatives on the ground. Based on the available data, they estimate the impact of "
+29,10,2,Calibri,11.0,72.0,518.7,525.9,529.8,measures implemented by key stakeholders in Latvia (mainly national government) and how these are 
+29,10,3,Calibri,11.0,72.0,533.2,172.1,544.3,perceived by citizens.  
+29,11,0,Calibri,11.0,72.0,555.7,192.8,566.7,The indicators suggest that 
+29,11,0,Calibri-Bold,11.0,192.3,555.7,525.9,566.7,Latvia is most successful in implementing commitments related to Putting 
+29,11,1,Calibri-Bold,11.0,72.0,570.2,299.0,581.3,people at the centre of the digital transformation
+29,11,1,Calibri,11.0,299.1,570.2,525.8,581.3, (I). Latvia should review and strengthen efforts in 
+29,11,2,Calibri,11.0,72.0,584.7,525.7,595.8,"areas where the impact of digital rights initiatives appears to be limited despite relative activity, "
+29,11,3,Calibri,11.0,72.0,599.1,230.7,610.2,notably on Freedom of choice (III).  
+29,12,0,Calibri,11.0,72.0,621.7,350.7,632.7,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+29,12,0,Calibri-Bold,11.0,350.7,621.7,525.8,632.7,46% of citizens in Latvia think that the 
+29,12,1,Calibri-Bold,11.0,72.0,636.2,231.2,647.3,EU protects their digital rights well
+29,12,1,Calibri,11.0,231.4,636.2,525.7,647.3, (a 4% increase since 2024). This is above the EU average of 44%. 
+29,12,2,Calibri,11.0,72.0,650.6,525.8,661.7,Citizens are particularly confident about getting easy online access to all key public services in the EU 
+29,12,3,Calibri,11.0,72.0,665.1,525.6,676.2,"(58%, corresponding to the EU average). They are most worried that their right to a safe digital "
+29,12,4,Calibri,11.0,72.0,679.7,525.7,690.7,"environment and content for children and young people is not well protected (39%, below the EU "
+29,12,5,Calibri,11.0,72.0,694.2,151.1,705.2,average of 48%).  
+29,13,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+29,13,1,Calibri,6.0,72.0,749.6,78.1,755.6,10
+29,13,1,Calibri,9.0,78.0,749.8,525.1,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+29,13,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+29,13,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+29,13,2,Calibri,9.0,122.8,760.9,377.1,769.9,". For a more detailed country factsheet accompanying the study, click "
+29,13,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+29,13,2,Calibri,9.0,393.7,760.9,395.9,769.9,.
+29,13,2,Calibri,10.0,396.1,760.2,398.3,770.1, 
+29,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

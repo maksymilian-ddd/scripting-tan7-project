@@ -1,0 +1,1684 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 20/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+     The Netherlands  The Netherlands
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+  Building technological leadership: digital infrastructure and technologies ........................................ 5
+
+     Connectivity infrastructure ............................................................................................................. 6
+
+    Semiconductors............................................................................................................................... 8
+
+    Edge nodes ...................................................................................................................................... 9
+
+    Quantum technologies .................................................................................................................. 10
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 11
+
+    SMEs with at least basic digital intensity ...................................................................................... 11
+
+    Take up of cloud/AI/data analytics ................................................................................................ 12
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 15
+
+  Strengthening Cybersecurity & Resilience ........................................................................................ 16
+
+Protecting and empowering EU people and society ............................................................................. 19
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 19
+    Equipping peopleThewith digitalNetherlandsskills ............................................................................................... 19
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 23
+
+  Building a safe and human centric digital environment and preserving our democracy ................. 25
+
+Leveraging digital transformation for a smart greening ....................................................................... 27
+
+Annex I – National roadmap analysis .................................................................................................... 29
+
+Annex II – Multi-country projects (MCPs) and funding ......................................................................... 31
+
+Annex III – Digital Rights and Principles ................................................................................................ 32
+
+
+
+
+
+                                        0  The Netherlands
+
+Executive summary
+
+The Netherlands has long been a leader in digital innovation owing to support from a strong research
+base. However, it faces challenges from ICT labour shortages and declining public investments in
+innovation and digital education. The country is very committed to safeguarding users online and
+focuses on countering disinformation and protecting children.
+
+The Netherlands shows a high level of ambition in its contribution to the Digital Decade, with 10
+national targets, 90% of which are aligned with the EU 2030 targets. The country is following its
+trajectories well, with 83% of them being on track (based on the 2024 trajectories established for 6
+KPIs out of 8 analysed). The Netherlands addressed 40% of the 10 recommendations issued by the
+Commission in 2024, either by implementing significant policy changes (20%) or making some changes
+(20%) through new measures.
+
+The Dutch semiconductor industry remains a cornerstone of its digital landscape, with growing
+momentum in quantum technologies. However, the discontinuation of key funding sources like the
+National Growth Fund have created financial uncertainty. ICT talent shortages also persist, worsened
+by recent budget cuts in higher education. In 2024, the Netherlands expanded its 2022 strategy against
+online disinformation and improved legislation to protect children online. The upcoming Netherlands
+Digitalisation Strategy  will take a more  centralised approach, focusing on enhanced  digital
+government services at local, regional and national level, Artificial Intelligence (AI) adoption, civil
+servant digital skills and digital sovereignty and security.
+
+
+                                                                                                                                                     Digital Decade
+                                                            The Netherlands                     EU
+                                                                                                                                        target by 2030
+     Digital Decade KPI (1)          2024DESI      2025DESI      Annual     National                Annual                                                                                                 trajectory   DESI 2025               NL      EU
+                                                          (year       (year     progress                              progress
+                                                                               2024 (3)
+                                                     2023)      2024)
+
+  Fixed Very High Capacity Network (VHCN) coverage     98.3%     98.4%      0.1%       97.8%      82.5%       4.9%     100.0%   100%
+
+  Fibre-to –the-Premises (FTTP) coverage               77.7%     85.3%      9.9%              -         69.2%       8.4%             -             -
+
+  Overall 5G coverage                               100.0%    100.0%      0.0%      100.0%      94.3%       5.9%     100.0%   100%
+
+  Edge Nodes (estimate)                              27        59      118.5%            -         2 257       90.5%            -      10000
+
+ SMEs with at least a basic level of digital intensity (2)          -       80.8%      0.5%              -         72.9%       2.8%      95.0%    90%
+
+  Cloud                                           60.4%     68.5%      13.5%             -                  -                  -       85.3%    75%
+
+  Artificial Intelligence                               14.1%     23.1%      63.5%      23.0%      13.5%      67.2%     85.1%    75%
+
+  Data analytics                                    50.8%            -                -                 -                  -                  -       75.0%    75%
+
+  AI or Cloud or Data analytics                        74.6%            -                -                 -                  -                  -                -      75%
+
+  Unicorns                                          30        32        6.7%              -         286        4.4%             -       500
+
+  At least basic digital skills                           82.7%            -                -                 -                  -                  -       100.0%    80%
+
+  ICT specialists                                     6.9%      7.0%       1.4%       7.7%       5.0%       4.2%      9.2%    ~10%
+
+  eID scheme notification                                             Yes
+
+
+  Digital public services for citizens                        85.9       88.5       3.1%        85.9         82.3        3.6%       100.0     100
+
+
+  Digital public services for businesses                     86.7       88.8       2.4%        86.7         86.2        0.9%       100.0     100
+
+  Access to e-health records                              72.5       65.2      -10.1%             -           82.7        4.5%             -       100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the
+  calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+
+                                        1  The Netherlands
+
+
+
+According to the special Eurobarometer on ‘the Digital Decade 2025’, 84% of the Dutch public
+consider that the digitalisation of daily public and private services  is making their lives easier.
+Moreover, 90% consider it important that public authorities counter and mitigate the issue of fake
+news and disinformation online. Regarding competitiveness, 83% deem it significant that European
+companies can grow and become ‘European Champions’ able to compete globally.
+
+A competitive, sovereign, and resilient EU based on technological leadership
+
+The Netherlands’ connectivity infrastructure is in good shape, with widespread broadband coverage
+and excellent 5G services. The National Technology Strategy serves as the guiding policy for the
+country’s digital innovation efforts, outlining key priorities such as semiconductors, AI, quantum
+technology and cybersecurity. In its approach to semiconductors and quantum technologies, the
+country aims to strike a balance between promoting technological leadership and protecting its critical
+supply chains. On the digitalisation of businesses, while most Dutch businesses have achieved a basic
+level of digitalisation, smaller enterprises often struggle to keep pace with the adoption of key digital
+technologies, particularly AI. This challenge may be exacerbated by the fragmented nature of AI
+innovation in the country, which is largely driven by regional partnerships. As a result, funding
+opportunities and the overall national strategy can appear disjointed and unevenly accessible to these
+smaller businesses. Finally, to address digital threats and promote digital initiatives, the Dutch
+Cybersecurity Strategy remains the primary initiative in the Netherlands. Encouragingly, progress was
+made in 2024 towards centralising government efforts and strengthening public-private collaboration
+in this area.
+
+Protecting and empowering EU people and society
+
+The Netherlands has a strong digital skills profile with very good scores across regions and genders,
+although some differences remain across age groups and education levels. Recent budget cuts in
+higher education, combined with existing ICT labour shortages, could in the future challenge the digital
+labour market. The roadmap has therefore been adjusted to support ICT teaching and regional plans
+to increase the ICT workforce. The gender imbalance in ICT specialists in employment and the decline
+in women employed in this field are also significant. The country has good digital public services and
+is working on digital accessibility to ensure everyone can participate in the digital transition. It is also
+continuing its commitment to countering disinformation and safeguarding children’s rights online.
+
+Leveraging digital transformation for a smart greening
+
+The Netherlands is stepping up its commitment to sustainable digitalisation with the launch of the
+Sustainable Digitalisation Action Plan. This plan, which features in the ‘Green & Digital’ cluster of the
+Digital Decade’s Best Practice Accelerator, outlines measures to leverage digital tools to reduce energy
+consumption, monitor and mitigate the environmental impact of the digital sector and strengthen
+public-private collaboration in information sharing.
+
+National digital decade strategic roadmap
+
+The Netherlands submitted a fully revised national Digital Decade roadmap on 31 January 2025. It
+contains around 15 new measures and four revised targets. In the revised roadmap, the Netherlands
+addressed a substantial number of roadmap recommendations issued in 2024. The country raised the
+ambition of its national targets for VHCN, the digitalisation of SMEs and the uptake of data analytics,
+aligning them with the EU targets for 2030. The Dutch national target for ICT specialists remains slightly
+
+
+                                        2  The Netherlands
+
+
+
+below that of the EU (at 9.2% of the total employed population working as ICT specialists instead of
+10%). There is no target for access to e-health records, as it would be difficult to draw up, given the
+decentralised healthcare system. The revised roadmap continues to prioritise digital public services
+and shows an increased focus on ICT specialists. It contains 59 measures and has a budget of EUR 5.25
+billion, of which EUR 5.22 billion comes from public budgets (equivalent to 0.46% of GDP). It still
+covers a diverse range of Digital Decade objectives, with strengthened commitments to the digital and
+green transition, promoting a human-centred digital space and protecting society online. The roadmap
+also includes more details on the consultation with stakeholders with respect to the original roadmap.
+
+Funding & projects for digital
+
+The Netherlands allocates 26% of its total Recovery and Resilience Plan to digital (EUR 1.2 billion)1. In
+addition, under cohesion policy, EUR 170 million, representing 11% of the country’s total cohesion
+policy funding, is dedicated to advancing the country’s digital transformation2.
+
+The Netherlands  is a member of the  ‘Alliance  for Language Technologies’ European  Digital
+Infrastructure Consortium (EDIC) and of the ‘Local Digital Twins towards the CitiVERSE’ EDIC. The
+country participates directly in the important project of common European interest (IPCEI) on
+Microelectronics and Communication Technologies and in the IPCEI on Next Generation Cloud
+Infrastructure and Services.  It  is also a participating state of the European High-Performance
+Computing Joint Undertaking (JU) and of the Chips JU.
+
+The Netherlands has contributed to the Digital Decade Best Practice Accelerator3 by sharing two best
+practices in the ‘Business Uptake’ cluster (with the National technology Strategy) and the ‘Green and
+Digital’ cluster (with the Sustainable Digitalisation Action Plan).
+
+Digital rights and principles
+
+According to a support study, the Netherlands has been relatively active in implementing the European
+Declaration on Digital Rights and Principles, with 60 initiatives overall and three new initiatives
+launched in 2024. The Netherlands is mostly active in ensuring people remain at the centre of the
+digital transformation, while less activity was identified with regards to ensuring a  fair digital
+environment. Measures related to digital solidarity and inclusion appear to have most impact on the
+ground, in contrast to those addressing digital safety, security and empowerment.
+
+ Recommendations
+   -   Quantum/semiconductors: find alternative sources of funding (both public and private) to
+       capitalise on the Netherlands’ competitive advantage in the areas of semiconductors and quantum
+      technologies, while maintaining a good business environment for long-term digital innovation.
+   -   ICT specialists: attract a more diverse pool of ICT talent by taking advantage of untapped potential
+      workers (i.e. people with a migrant background and those working in part-time employment).
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+
+                                        3 The Netherlands
+
+
+
+    Follow up on recent plans to reduce labour market shortages, paying particular attention to
+    attracting more ICT talent, improving labour market matching and providing suitable funding for
+    higher education. Respond to worries regarding recent budget cuts in higher education.
+-    Artificial Intelligence: strategically allocate a combination of public and private resources to
+    support SMEs’ take-up of key digital technologies, in particular AI. Improve collaboration between
+    scattered regional initiatives and set out a clear vision and strategic plan for AI to fully harness its
+    potential.
+-   Basic digital skills: complement the ongoing efforts at local and regional level to ensure digital
+    inclusion and good levels of digital skills by setting up national curriculum plans and funding. This
+    could include integrating technology literacy or similar courses in the national curriculum.
+-   Green transition: continue efforts to contribute to the green transition, also by translating the
+    Sustainable Action Plan into an actionable programme and creating more synergies among
+   measures and policies within and beyond the government.
+
+
+
+
+
+                                      4  The Netherlands
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+The Netherlands has long been a pioneer in research, development and innovation (R&D&I), playing
+a leading role in the global semiconductor industry and making significant strides in quantum
+technologies. The country  still appears to be an innovation leader in the European Innovation
+Scoreboard 2024. However, recent cuts to the public budget and the suspension of the fourth and fifth
+rounds of the National Growth Fund have led to a notable decline in the country’s innovation
+trajectory. Investments in public R&D have decreased from 0.75% of GDP in 2021 to 0.64% of GDP in
+2023 (falling below the EU average of 0.72%).
+
+One of the key factors underpinning the Netherlands’ highly digitalised economy and society is its
+excellent connectivity infrastructure, which provides a strong foundation for digital growth and
+innovation. Leveraging this excellent connectivity base, Dutch companies continue to have a strong
+position in both digital engagement and the adoption of key digital technologies. Nevertheless, a
+significant gap persists between small and medium-sized enterprises (SMEs) and larger companies
+in the adoption of key digital technologies  like cloud computing, data analytics and Artificial
+Intelligence (AI). This gap is particularly concerning, given that SMEs accounted for approximately
+96.1% of domestic enterprises in 2022. The Dutch ICT sector represented 5.31% of the gross value
+added in 20224 (improving from 4.88% in 2013), but is still slightly below the EU average of 5.46%. The
+financing system, although well-developed, is less accessible to smaller companies, which also poses
+challenges to the country’s overall competitiveness.
+
+The Netherlands  is currently preparing  its new Dutch  Digitalisation Strategy to unify the
+government’s approach to digitalisation and boost the government’s  digital services,  digital
+infrastructure, autonomy and resilience at different levels (national, regional and local). The strategy
+will focus, among other things, on the effective use of AI and data in the public sector. At the same
+time, it will also promote digital sovereignty by reducing dependency on external cloud providers and
+foster a more robust and secure digital ecosystem within the government. In parallel, when it comes
+to innovation subsidies and strategic efforts, the National Technology Strategy remains the overarching
+Dutch policy for prioritising critical technologies like semiconductor, AI, quantum and cybersecurity
+technologies. The strategy features in the ‘Business Uptake’ cluster of the Digital Decade’s Best Practice
+Accelerator.
+
+Building technological leadership: digital infrastructure and technologies
+
+The Netherlands’ connectivity infrastructure  is in good shape, with several key performance
+indicators (KPIs) outpacing the corresponding EU averages. This aligns well with a notable majority
+(92%) of Dutch citizens considering the development of efficient and secure digital infrastructures to
+be a crucial priority for public authorities (according to the Special Eurobarometer5 on the Digital
+Decade 2025). Some challenges remain in the coverage of rural and remote areas and in ensuring the
+affordability of fixed high-speed internet services.
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying
+the State of the Digital Decade report 2025.
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5  The Netherlands
+
+
+
+Connectivity infrastructure
+
+The Netherlands has achieved 98.41% of Fixed Very High-Capacity Network (VHCN) coverage, which
+is well above the EU average and close to its 2030 national target of 99.90%. For households in rural
+areas, VHCN coverage was 88.38% in 2024, above the EU average of 61.89%. Overall, the country is
+on track according to its national trajectory.
+
+The Netherlands performed well in Fibre-to-the-Premises (FTTP) coverage, achieving 85.35%
+coverage in 2024, with a growth rate of 9.9%. For households in sparsely populated areas, the
+Netherlands’ FTTP coverage was 78.79% in 2024, which was significantly higher than the EU average
+of 58.78%. However, very little progress has been made since 2023, when FTTP in rural areas was
+78.42%. The country did not provide a national trajectory point for 2024 or a 2030 national target.
+
+Finally, the country already achieved full 5G coverage in 2022 and is therefore on track according to
+its national trajectory. As a result of the allocation of the 3.5 GHz band, 5G coverage in the 3.4 – 3.8
+GHz band significantly increased in 2024, reaching 99.37% of households. Regarding 5G spectrum, the
+Netherlands assigned 66.67% of 5G pioneer bands in 2025, which is double the figure for 2024
+(33.33%), but still lower than the EU average of 74.63%.
+
+VHCN and FTTP
+
+As the Netherlands has made good progress with both VHCN and FTTP, it is currently focusing on
+covering the remaining addresses and investigating pricing dynamics to benefit consumers.
+
+The most recent data from the Broadband coverage in Europe 2024 study shows that, in that year,
+98.41% of Dutch households had VHCN coverage and 85.35% had fibre. According to the telecom
+monitor published by the Authority for Consumers and Markets (ACM), in Q3 2024, the roll-out of fibre
+optic reached nearly 7.94 million households (up from 7.69 million households in the previous
+quarter). 3.03 million of those households had a fibre optic plan (up from 2.99 million in Q2).
+Meanwhile, the country is gradually switching off copper, with the number of houses using coax or
+copper cable services decreasing further last year. Moreover, mobile-data consumption surpassed its
+all-time peak of 600 million GB.
+
+In the revised 2024 roadmap, the Netherlands provides a new target value for VHCN (99.9%) by
+2030, which is aligned with the EU target (100%). This projected value, which the country is overall
+on track to meet, is based on the main market players’ expected roll-out plans. In a letter to Parliament
+sent by the Minister of Economic Affairs in September 2024, the government also highlighted its
+intention to have households’ fixed internet connection upgraded from 100 Mbps to 1 Gbps before
+2030.
+
+Despite progress, the current situation still presents some challenges that require attention. VHCN
+coverage in rural areas was lower (88.38%) than overall coverage (98.41%) in 2024. At the time the
+letter was written, approximately 27 500 households in rural or underserved areas lacked access to
+fixed fast internet, with many of them relying on connections slower than 30 Mbps. Although telecom
+operators are expected to address the needs of 15 500 of these households by 2028, around 12 000
+households are at risk of remaining without fixed high-speed internet by the end of the decade. This
+represents an improvement on the 2022 projection of 19 000 households being without fixed high-
+speed internet by 2030. To bridge this connectivity gap, the government points to wireless alternatives,
+such as fixed wireless solutions and satellite internet. Additionally, State aid may be necessary beside
+these market efforts, with local government in provinces like Friesland and Groningen exploring
+funding options to expand high-speed internet coverage in their rural territories. To further support
+
+                                        6  The Netherlands
+
+
+
+these initiatives, the government will continue to provide provinces with access to expertise and
+knowledge, sharing the latest fixed broadband coverage data and facilitating efforts to roll-out fibre in
+the remaining underserved areas.
+
+With regard to take-up, 85.38% of fixed broadband subscriptions in the Netherlands had speeds of
+100 Mbps or higher in 2024, up from 72.03% in 2023. Fixed broadband subscriptions with speeds of 1
+Gbps or higher remain less attractive, accounting for only 10.53% of fixed broadband subscriptions.
+This is below the EU average of 22.25%, but up from 4.13% in 2023.
+
+Recent market research and surveys have shed light on trends in the Dutch telecom market and
+consumer behaviour, revealing that broadband subscription prices in the Netherlands remain
+relatively high. Despite the availability of more affordable and higher-quality fibre/cable-based plans,
+many consumers are hesitant to switch from low speed, (mostly) copper legacy subscriptions. In 2024,
+the ACM conducted a comprehensive scan of the Dutch telecom market and a consumer survey to
+better understand consumer behaviour in the sector. The survey's findings are telling: 53% of
+consumers consider the price of their fixed internet subscription to be high, and a significant majority
+(63%) pay more than EUR 50 per month for their broadband subscription. Furthermore, when choosing
+a fixed internet subscription, 61% of consumers prioritise fixed monthly costs, compared with 52%
+who prioritise quality and reliability of their internet connection. However, the survey also reveals a
+paradox: households with slower broadband plans (under 100 Mbps) pay an average of EUR 44 per
+month, which is higher than plans offering faster speeds (EUR 38 for 100-250 Mbps and EUR 41 for
+250-750 Mbps). Moreover, many consumers in the budget segment have ‘dormant’ contracts, and
+therefore miss out on discounts available to those with active contracts. This suggests that, although
+higher-quality and more affordable plans exist, consumers often fail to take advantage of them. In
+response, the ACM has announced plans to further investigate this issue and is encouraging telecom
+operators to better inform customers about their cheapest options, emphasising that access to the
+internet must remain affordable for all.
+
+Beyond VHCN and FTTP coverage, global digital connectivity through submarine cables is also a key
+Dutch priority, with the country providing a crucial port and infrastructure network for international
+undersea cables. The Netherlands participates in several ongoing projects that are receiving EU
+funding from the Connecting Europe Facility Digital programme. In April 2024, the new CELIA
+Caribbean European Territories Cable project kicked off as a collaboration between French and Dutch
+operators to build a submarine cable with the goal of improving connectivity with the two Caribbean
+islands of Martinique (France) and Aruba (the Netherlands). The end of December saw the start of the
+BCA submarine cable project, which will study and design the future installation of a submarine cable
+connecting certain Overseas Countries and Territories (the islands of Bonaire, Curacao and Aruba) with
+the EU. Finally, in February 2025, the Dutch Subsea Cable Coalition signed a memorandum of
+Understanding to develop the Pan-Arctic Cable System. This will significantly improve the country’s
+internet resilience, increase its bandwidth capacity and diversify its routing options.
+
+5G
+
+With 5G coverage at 100%, the Netherlands has already achieved the 2030 EU target. A noteworthy
+development in the 5G space in 2024 was the launch by one of the main Dutch telecom operators’ of
+Klik&Klaar: a home internet service operating on 3.5 GHz frequencies. The service offers affordable,
+high-speed internet with download speeds up to 300 Mbps and upload speeds up to 30 Mbps across
+the country. Being independent of the traditional fixed-line infrastructure, it is designed for easy self-
+installation, with users simply needing to plug in the provided modem to go online. By December 2024,
+
+
+                                        7  The Netherlands
+
+
+
+there was already a lot of interest in the solution from Dutch consumers. Also interesting to note is
+that 127.46%6 of the population had a 5G SIM card in 2024, which is well above the EU average of
+35.56%.
+
+ 2024 recommendation on connectivity infrastructure: ensure sufficient access of new players to
+ spectrum for innovative business-to-business (B2B) and business-to-consumer (B2C) applications
+ and encourage operators to speed up the deployment of 5G stand-alone core networks.
+
+ In 2024, the Netherlands continued to implement existing measures, but did not take any new
+ measures. After the 3.5 GHz band auction was completed in July 2024, the three main Dutch
+ telecom operators secured  their spectrum  allocation, providing a  solid foundation  for the
+ development of advanced 5G services. In addition, the Netherlands is investigating potential future
+ demand for other frequency bands (the 26 GHz band and the 3.8 – 4.2 GHz band for local or regional
+ private 5G networks). Opening up access to this additional spectrum would facilitate innovation in
+ both B2B and B2C applications. For businesses, this spectrum could help with everything from smart
+ city solutions to digital applications. For consumers, it could lead to new services, such as enhanced
+ mobile broadband and new types of connected devices, all operating on private networks.
+
+
+Semiconductors
+
+The semiconductor industry remains a cornerstone of the digital landscape in the Netherlands. Over
+the past year, there has been a growing focus on drawing up a strategic framework for the sector
+that balances promoting technological leadership and protecting critical value chains. This has been
+accompanied by sustained investments from both public and private sources. On a strategic level,
+the country successfully set up the Semiconductor Board NL in January 2025, consisting of different
+companies in the Dutch semiconductor ecosystem and relevant ministries. The Semiconductor Board
+NL is tasked with developing and overseeing the implementation of a sector-wide semiconductor
+strategy designed to reinforce and maintain the technological leadership of Dutch companies. The
+Board offers strategic guidance, sets priorities, identifies challenges and actively supports the executive
+of initiatives essential to securing an internationally leading, sustainable knowledge and an industrial
+position by 2035.
+
+To further enhance cooperation in the field, the Netherlands also took the lead in setting up the
+Semiconductor Coalition with eight other EU Member States in March 2025. The goal is to build up a
+common European strategy to increase and strengthen the EU’s position in the global semiconductor
+supply chain by increasing production capacity, investing in cutting-edge research and developing a
+skilled workforce. A declaration with concrete ideas on how to move forward is expected to come in
+the next months. These two key strategic milestones demonstrate the Netherlands’ commitment to
+continued growth and global leadership in the semiconductor sector.
+
+At the level of projects and funding, several impactful initiatives are in place. The launch of ‘Project
+Beethoven’ (worth EUR 2.5 billion) triggered a new phase of public and private investments to improve
+housing, transportation, education and electricity in the Eindhoven region, one of Europe's fastest-
+growing tech hubs. In December 2024, for example, a group of Dutch tech companies, including ASML
+and chipmaker NXP, pledged around EUR 200 million to improve infrastructure in the region.
+Additionally, the NXTGEN HIGHTECH programme, officially launched in 2023, is developing a new
+generation of semiconductor equipment. In 2025, six new projects started as part of the programme.
+
+
+6 The percentage of the population with 5G SIM cards can exceed 100% because people can have more than one SIM card.
+
+                                        8  The Netherlands
+
+
+
+These bring together researchers from various knowledge institutions and industry partners to
+improve the design and manufacturing of complex systems; develop new tools and methods for testing
+and analysing materials; and boost the speed and accuracy of detection and sensing technologies that
+have applications in fields like biomedicine and semiconductor production.
+
+Moreover, the PhotonDelta growth fund programme, launched in 2023 with a total budget of EUR 471
+million, aims at the development and industrial take-up of the photonic integrated circuits industry in
+the Netherlands. From this programme, EUR 54 million will be allocated to the national co-funding of
+the photonics pilot line PIXEurope, that was selected under the EU Chips Joint Undertaking. On 5
+February 2025, the R&D programme PhotonDelta announced a call for proposals concerning photonic
+technology, with over EUR 7 million being available to support the country’s photonics market and
+supply chains. At EU level, the country also continues to be active in the multi-country project on
+Microelectronics and Communication Technologies.
+
+ 2024 recommendation on semiconductors and quantum computing: continue to secure public
+ funding and stimulate private investments to capitalise its competitive advantage in the areas of
+ semiconductors and quantum technologies, while maintaining a good business environment for
+ long-term digital innovation.
+
+ In 2024, the Netherlands continued to implement existing measures but did not take any new
+ measures. A report from TechLeap reveals that the country ranks second in Europe in terms of per
+ capita investments in semiconductors. Moreover, from 2019 to 2024, over 80% of the total venture
+ capital investment in next-generation technologies and computing infrastructure was focused on
+ the semiconductor industry. However, the recent shifts in government priorities have resulted in
+ budget cuts to R&D, despite the fact that it is crucial for both technological innovation and the
+ development of skilled talent in the sector. Moreover, the discontinuation of the National Growth
+ Fund, which was meant to secure a EUR 20 billion investment over several years in key sectors
+ including semiconductors, created some budget gaps and uncertainty. While the government still
+ maintains a focus on semiconductors, budget cuts present a hurdle to the country’s continued
+ leadership in this critical industry. To continue driving innovation in the semiconductor sector, the
+ country is now looking to create public-private partnerships and find alternative funding models to
+  fill the void left by these cuts.
+
+Moving forward, just as for other critical technologies, an essential aspect of the semiconductor
+policy in the Netherlands will be about finding a balance – as a matter of both economic and national
+security – between promoting and  protecting the  country’s semiconductor  industry. The
+government’s announcement at the start of 2025 that it will tighten its export checks on advanced
+semiconductor manufacturing equipment from April is consistent with this line of thinking.
+
+Edge nodes
+
+According to the Edge Node Observatory, the Netherlands is estimated to have deployed a total of
+59 edge nodes by 2024, up from the 27 in 2023. No national target or trajectory was set for the
+deployment of edge nodes in the Dutch national roadmap, as the country favours a more quality-
+oriented target.
+
+ 2024 recommendation on edge nodes: consider measures specific to edge nodes deployment,
+ supplementary to the Important Project of Common European Interest on Next-Generation Cloud
+ Infrastructure and Services (IPCEI-CIS) participation.
+
+
+
+
+                                        9  The Netherlands
+
+
+
+ In 2024, the Netherlands continued to implement existing measures but did not introduce any
+ new measures or plans for developing a specific strategy soon. Nonetheless, the country continues
+ to be involved in the IPCEI-CIS, which focuses on the industrial deployment of advanced cloud and
+ edge computing technologies. The country also highlights that it will continue to track the findings
+ of the European Edge Observatory for the Digital Decade and will consider the need for new
+ measures if deployment is lagging.
+
+
+Quantum technologies
+
+Interest in – and  activities around – quantum technologies are gaining momentum in the
+Netherlands. The government is leading the way with the Quantum Delta NL programme, which is
+progressing well. The project’s  first two completed phases focused on consolidating quantum
+infrastructure and research (for instance by granting funds for the award of more than 50 PHD
+scholarships) and improving an R&D network infrastructure between the cities of Delft, Amsterdam
+and Eindhoven. The third and final phase will now focus on deployment and commercialisation, with
+some work on developing use cases for the government in sectors like defence and cybersecurity
+having already started. Some of the main recent milestones include:
+
+       the securing of a EUR 273 million investment from the National Growth Fund in July 2024, as
+        part of the third phase.
+
+       the launch of the Quantum Delta NL Participations Fund in February 2025, with EUR 5 million
+       secured already to support early-stage quantum startups at global level.
+
+       the completion of about 80% of the upgrade of the cleanroom facility, following the allocation
+        of EUR 150 million from the National Growth Fund to the NanoLab Cleanroom project in April
+       2024.
+
+ 2024 recommendation on semiconductors and quantum technologies: continue to secure public
+ funding and stimulate private investments to capitalise its competitive advantage in the areas of
+ semiconductors and quantum technologies, while maintaining a good business environment for
+ long-term digital innovation.
+
+ As in the case of semiconductors, the Netherlands continued to implement existing measures in
+ the field of quantum technologies in 2024 but did not introduce any new measures. Quantum
+ Delta NL, one of the main instruments for building the Dutch quantum ecosystem, has benefited
+ greatly until now from the National Growth Fund. However, the fund’s discontinuation will make it
+ harder to secure both large-scale and long-term investments in the technology. Aside from
+ supporting key projects, the fund played a crucial role in convincing private investors of the reliability
+ and profitability of quantum investments. Moving forward, the government will focus on finding
+ alternating funding resources to achieve a sustainable investment climate and maintain the
+ technology’s momentum. These include public-private partnerships, EU funding and private and
+ venture capital investments.
+
+
+
+As in the case of semiconductors, the Dutch government is trying to balance innovation and national
+security. In October 2024, new regulations were introduced that require companies to obtain an
+export permit to sell quantum computers outside the EU. The regulations will apply to eight types of
+quantum computers, to quantum measurement equipment and to chipmaking technologies.
+
+
+                                       10  The Netherlands
+
+
+
+In parallel, the Netherlands continues its fruitful collaboration with EU countries. In March 2024, it
+signed the European Declaration on Quantum Technologies (also known as the Quantum Pact) with
+19 Member States. The country also continues its commitment to the trilateral collaboration with
+Germany and France. The three countries organised a joint European Quantum summer school for
+Master’s students in July 2024 and made progress in setting up a European Quantum Campus, which
+will be a network of locations with R&D facilities tailored to the needs of quantum start-ups.
+
+Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+
+In broad terms, Dutch enterprises are highly digitalised compared with those in other EU Member
+States. However, SMEs are lagging behind larger companies when it comes to adopting key digital
+technologies like cloud computing, AI and data analytics. The slowdown in start-up creation and the
+consistently low rate of companies scaling up are also limiting the competitiveness of Dutch tech
+companies, highlighting the need for more early-stage funding and reducing the regulatory burden.
+
+SMEs with at least basic digital intensity
+
+Dutch SMEs maintain a strong position in both basic and advanced digital engagement. In 2024, 4
+out of 5 (80.83%) Dutch SMEs had achieved at least a basic level of digital intensity (the 2030 national
+target is 95%), maintaining a similarly high level as in 2022 (80.06%). 2022 is the last year that can be
+compared using a similar methodology to measure the digital intensity of enterprises. The Netherlands
+consistently exceeds the EU average of 72.91%, particularly in terms of high or very high digital
+intensity. In 2024, 44.22% of Dutch SMEs reached this level, far surpassing the EU average of 32.66%.
+
+In 2024, the Dutch government presented a national target for SMEs’ basic digital intensity of 95%,
+which is above the 90% EU target. However, the current trajectory suggests that Dutch SMEs may fall
+short of this goal, with only 88.19% projected to reach a basic level of digitalisation by 2030. The
+government acknowledges that this target may be difficult to meet, as SMEs face barriers such as
+limited financial resources, resistance to change and a lack of skilled staff. These challenges were
+highlighted in recent evaluations of the national pilot projects ‘My Digital Case’ and the ‘Digital
+Workplaces’, which are designed to help SMEs improve their digital skills, strengthen their online
+presence and better understand ICT investments. From 2020 to 2023, the ‘Digital Workplaces’
+programme supported around 10 500 SMEs, with 7 500 taking further steps to digitalise their
+operations. Similarly, the ‘My Digital Case’ pilot projects supported approximately 11 500 SMEs in 2022
+and 2023.
+
+At local level, approximately 400 regional hubs and initiatives are now dedicated to supporting SMEs
+across different sectors in their digital transformation journeys. A key initiative among these is the
+‘Smart Makers Academy’, which was launched in 2020 to assist SMEs in the manufacturing sector. The
+academy operates through various regional hubs, offering practical, short-term training programs to
+optimise production processes and foster product development through digital technologies. In 2024,
+the academy received an additional subsidy of EUR 254 228 from the Dutch Government to expand its
+reach. Due to strong demand from SMEs, particularly in the area of generative AI, the initiative will
+continue through at least until the end of 2025 and will extend its programmes to the healthcare and
+green sectors.
+
+In parallel, the five Dutch European Digital Innovation Hubs (EDIHs), which were launched in 2023
+with funding from the Digital Europe Programme, continue to act as crucial regional touchpoints,
+helping SMEs understand and leverage digital solutions to enhance their businesses. In 2024, these
+hubs made significant progress in advancing digital transformation across sectors. The focus has shifted
+
+                                       11  The Netherlands
+
+
+
+from raising awareness to providing active support for companies’ digital implementation, with the
+EDIHs playing a key role in contributing to the Commission’s Digital Maturity Assessment Tool. Looking
+ahead, the goal is to better align the EDIHs’ services with national priorities, while strengthening
+coordination with existing national and regional initiatives.
+
+Take up of cloud/AI/data analytics
+
+
+
+
+
+                                                                                                                             7
+
+The Netherlands demonstrates a robust overall performance with regard to the adoption of cloud
+computing, data analytics and AI technologies, significantly exceeding the EU averages across all three
+areas. However, large enterprises have consistently higher adoption rates that SMEs – particularly
+for AI – than SMEs. Reducing this disparity could further strengthen the digital industrial ecosystem
+and enhance the competitiveness of SMEs within the Dutch economy. Adoption of cloud and data
+analytics, as well as the adoption of the three technologies together, were not measured in 2024.
+
+ 2024 recommendation on adoption of digital technologies by enterprises: continue to support the
+ adoption of advanced digital technologies, with particular attention to scaling up successful AI
+ innovations and improving access to finance, data and computing infrastructure.
+
+ The Netherlands continued to implement existing measures, but did not introduce any new
+ measures in 2024. See more details in the sections below.
+
+
+       Cloud
+According to the latest available data, the adoption of cloud computing in the Netherlands reached
+68.54% in 2024 (the 2030 national target is 75% and the national trajectory reaches 85.3%), up
+significantly from 60.39% in 2023. However, a disparity persists between SMEs and larger
+enterprises. While SMEs achieved a cloud uptake of 67.75%, large enterprises’ adoption rate of 89.65%
+was significantly higher. This translates into a 21.9 percentage point difference in cloud adoption
+between the two groups. Nevertheless, this gap has narrowed compared to 2023, when the difference
+was 24.37 percentage points, indicating a trend towards greater convergence in cloud computing
+adoption rates.
+
+In its adjusted roadmap, the Netherlands projected to have 85.3% of enterprises adopting cloud
+computing by 2030, which is higher than the EU’s 75% target.
+
+
+
+
+
+7 The cloud graph does not include the EU average because, while the Netherlands has data for cloud for 2024,
+this was not collected at EU level in 2024.
+
+                                       12  The Netherlands
+
+
+
+ 2024 recommendation on cloud: (i) ensure the broad uptake of the next generation of cloud
+ infrastructure and services under development in the IPCEI-CIS by companies of all sizes, including
+ by developing a country-specific dissemination strategy;  (ii) contribute to the dissemination
+ activities led by the Cloud IPCEI Exploitation Office.
+
+ In 2024, the Netherlands continued to implement an existing measure, namely the IPCEI-CIS, and
+ actively promoted its three projects. Aside from participating in European coordination meetings
+ and forums to discuss the IPCEI-CIS (i.e. the IPCEI CIS governance bodies), the government made
+ public announcements and published press releases to provide updates on the state of the play of
+  its IPCEI-CIS projects. In January 2025, the Ministry of Economic Affairs published a Parliamentary
+ letter addressed to the House of Representatives about the progress of the IPCEI-CIS. The letter
+ mentioned:
+        the government’s close contact and meetings with the Dutch companies involved in the
+         three projects;
+        the progress of the Dutch projects (which started end of 2023);
+        the release of the first concrete results for one of the projects (Open FEDerated ecosystem),
+        which was also covered in the Dutch media;
+        the plan to present progress at EU level this year.
+
+ Furthermore, the Netherlands intends to host the IPCEI-CIS General Assembly 2026. In this event,
+ special attention will be given to the dissemination of the project’s results over the wider cloud
+ community.
+
+
+
+Aside from the involvement in the IPCEI-CIS, the country’s efforts in cloud computing are mainly
+focused on addressing the Parliament’s economic and security concerns around the government’s
+heavy reliance on a small number of external public cloud services. In mid-March 2025, the Dutch
+Parliament approved motions urging the government to reduce its reliance on US cloud providers by
+developing an alternative Dutch cloud platform. A new government cloud strategy for cloud use by
+public authorities in the Netherlands  is expected to be released soon (around Q2 2025). The
+government also signalled its great interest in EU-wide action to build and stimulate the growth of
+federative European alternatives to hyperscale cloud providers.
+
+      Data analytics
+Data from 2023 showed that 50.77% of Dutch enterprises used data analytics (the 2030 national
+target is 75%), showing a strong lead compared with the EU average of 33.25%. For SMEs, the
+percentage was 49.43%, while the uptake was notably higher among large enterprises at 88.19%. This
+resulted in a gap of 38.76 percentage points between SMEs and large enterprises, which is similar to
+the average gap in other EU countries. Despite aligning its national target for the adoption of data
+analytics with that of the EU (75%), the current trajectory suggests that Dutch enterprises may fall
+short of this goal, with only 61.20% projected to adopt the technology by 2030.
+
+The Centre of Excellence for Data Sharing and Cloud remains the main measure promoting the use of
+data analytics and cloud computing by companies in the Netherlands. In 2024, it continued to provide
+information on data-sharing tips and tools, data sharing initiatives and practical solutions to scale up
+market adoption through a knowledge base on its website, and through articles and public events. For
+instance, the Centre hosted the Data Sharing Festival in February 2024 in collaboration with the Dutch
+government to discuss best practices in scaling up the market adoption of safe and secure data sharing
+
+
+
+                                       13  The Netherlands
+
+
+
+practices. The Centre also joined the Dutch pavilion at the Hannover Messe trade fair in April 2024 to
+showcase Dutch companies’ innovative solutions related to data analytics (and cloud services).
+
+       Artificial intelligence
+According to new data collected in 2024, 23.06% of enterprises in the Netherlands reported using AI
+technology (the national 2030 target is set at 75%, although the 2030 national trajectory reaches
+85.1%), well ahead of the EU average of 13.48%. This reveals a high average growth rate (63.5%)
+compared with 2023, when AI uptake was 14.1%. Overall, the country is on track according to its
+national trajectory.
+
+Although the AI adoption rate is higher than the EU average for all enterprises, only 1 in 5 SMEs
+(21.9%) used AI in 2024 (EU average of 12.64%), while over half (54.07%) of large enterprises were
+able to adopt AI technology (EU average of 41.17%). This gap of 32.17 percentage points slightly
+exceeds the EU gap of 28.53 percentage points. According to the Dutch National Statistical Institute’s
+2024 AI Monitor, most companies use AI technologies for text mining (13.5%) and natural language
+generation (12.3%). The information and communication industry was most likely to use AI technology
+(about 58% of companies), followed by companies specialising in business and financial services
+(39.8% and 37.3% respectively). Finally, for those companies who reported never using AI, most of
+them (74.6%) explained that this is due to a lack of knowledge of the technology, while others (more
+than half of the companies) mentioned privacy concerns.
+
+A report from TechLeap reveals a more nuanced picture of the AI ecosystem in the Netherlands,
+describing the strengths and challenges of  ‘AI companies’. These are companies that use AI
+technologies in their core services; develop AI infrastructure and algorithms; produce hardware; and
+are end-users of AI solutions. According to the report, AI companies represent 9% of the total Dutch
+tech scale-up landscape. Most scale-ups have been set up recently and are currently looking for
+funding for their early-stage growth. These companies tend to encounter recurring challenges, with
+funding being the most common barrier, followed by a lack of industry awareness, difficulties for
+smaller companies to access the market and a lack of talent. Other challenges include difficulties
+accessing data and computing power, the burden of regulations and ethical concerns. With regards to
+funding, the report highlights that Dutch venture capital firms often prefer not to invest in AI scale-ups
+because they are deemed too risky.
+
+AI innovation in the Netherlands is largely driven by (regional) public-private partnerships. The
+Dutch AI Coalition is a key example of this, founded and funded by several central government
+departments and bringing together more than 500 companies, organisations and institutions involved
+in the world of AI to stimulate collaboration, development and innovation. The coalition operates in
+different local AI hubs, located across various regions of the country. Notable hubs include the AI Hub
+Amsterdam, which focuses on the research and development of AI applications primarily in healthcare,
+business innovation and services for individuals, and the AI Hub Brainport, which specialises in AI
+applications for healthcare, mobility and manufacturing. Since 2025, the Dutch AI Coalition has joined
+forces with another public-private initiative, AiNed, to form the AI Coalition 4 Netherlands. This merger
+aims to further stimulate AI innovation in the country. The coalition has been actively supporting AI
+projects, and notable successes include the AiNED MIT call for projects in 2024, which awarded a total
+grant of EUR 3.55 million to 14 projects that aim to stimulate AI innovation in SMEs. Another similar
+call for projects is planned in 2025, together with the launch of five applied learning communities, four
+innovation labs and the preparation for the start of the new European Language and Speech
+Technology for AI labs.
+
+
+
+                                       14  The Netherlands
+
+
+
+The government’s regional approach to AI presents both challenges and opportunities. On the one
+hand, the fragmented funding that is spread across seven regional hubs can sometimes be a hurdle for
+smaller enterprises looking for funding. On the other hand, the regional and sectoral organisations,
+each producing their own vision and agenda for AI, can also be considered a strength. For instance, in
+2024, the municipality of Amsterdam, with the help of its residents, developed its own vision for AI,
+focusing on how the technology can improve decision-making processes and help build a smarter city,
+while always respecting core human values like public trust and privacy. Other regional initiatives and
+guidelines also emerged in the same year, aiming to promote the responsible development and use of
+AI. For example, the Union of Water Boards developed its AI compass to help water companies use AI
+intelligently and ethically. The Association of Provincial Authorities also published a Guide on Digital
+Ethics, with a section focusing on AI use.
+
+Aside from leveraging its strong regional AI Network, the Netherlands also intends to build up its AI
+infrastructure and invest in attracting talent. AI will be one of the priorities of the new Netherlands
+Digitalisation Strategy expected in Q2 2025, which will address the need to accelerate AI adoption for
+innovation in the public sector. The government also reported on plans to develop a new direction for
+the Strategic Action Plan on AI (2019). Finally, the Netherlands is exploring the possibility of building
+an AI Factory to enhance its computing power.
+
+The country is also taking a proactive approach when it comes to mitigating AI’s potential risks and
+aligning with EU rules. It launched the National Algorithm and AI Register for the public sector and
+published its vision on Generative AI in January 2024. Subsequently, the country adopted a guide on
+AI Regulation in October 2024. This guide provides organisations and businesses with insights into how
+to interpret and apply the EU AI Act. Overall, according to the Eurobarometer on the Digital Decade
+2025, a staggering 88% of Dutch citizens agree there is a need for public authorities to play a proactive
+role in ensuring that the development of AI and new technologies aligns with EU rights and values.
+
+Unicorns, scale-ups and start-ups
+
+At the beginning of 2025, the Netherlands had 32 unicorns, with two new unicorns emerging in 2024,
+which indicates a mature tech ecosystem. However, as underlined in the State of Dutch Tech Report
+2024, the country is currently facing a period of stagnation, characterised by declining investments
+and a decrease (from 39 to 30) in the number of start-ups that are able to successfully scale up.
+Accessing venture capital and issues linked to regulatory requirements are some of the main
+challenges faced by Dutch start-ups.
+
+The start-up scene in the Netherlands is quite diverse, with most tech companies concentrated in
+three key regions: North and South Holland and Utrecht. In 2024, the two key areas driving the most
+investments were the cloud hosting industry (accounting for about 20% of venture capital investment)
+and the semiconductor industry. Conversely, Dutch AI investments lagged behind other EU Member
+States’ investments, showing that the sector is still relatively small and has not yet reached maturity.
+
+Looking closely at investments, although the Dutch venture capital landscape grew significantly by
+47% from 2023 to 2024 to reach a total of EUR 3.1 billion, a more nuanced picture emerges in the
+background. Early-stage investments and domestic investments have experienced a sharp decline
+(from 61% in 2023 to 15% in 2024), suggesting a shift in investor sentiment. Furthermore, the
+investment landscape appears to be quite cautious, with larger institutional investors, such as pension
+funds, preferring to invest in real estate rather than new tech businesses. Scale-ups are having a hard
+time reaching full commercialisation, especially when seeking funding exceeding EUR 50 million.
+Additionally, studies show that Dutch SMEs are 40% less likely to apply for a bank loan than SMEs in
+
+                                       15  The Netherlands
+
+
+
+other Member States. All these factors ultimately hinder SMEs and start-ups from accessing the
+financing they need to grow and thrive.
+
+Several existing financing schemes for start-ups and scale-ups have been boosted to address some
+of the above challenges. In 2024, for example, Invest-NL introduced an additional EUR 100 million in
+blended finance instruments to attract institutional investors and support scale-ups. With an eye to
+national security, the government also proposed extending the Dutch investment screening law to
+include screenings of foreign investments on sensitive technologies like AI and biotech. Another
+example of public support for start-ups and scale-ups is the government-led Techleap initiative, which
+focuses on helping start-ups to scale-up, attract investments and take advantage of other stakeholders’
+and entrepreneurs’ knowledge.
+
+It is important to note that an increase in the regulatory and administrative burden is negatively
+impacting companies, particularly SMEs, start-ups and scale-ups. In 2024, more than half of the Dutch
+companies (51%) reported encountering regulatory burdens, up from 42% in 2023. Almost half (49%)
+of the Dutch SMEs reported devoting more than 10% of their staff to address regulatory requirements
+and reporting, which is one of the highest levels in the EU. The government mentioned that it wants
+to cut red tape and invest more in digital technology companies, but did not provide more details on
+how this will be achieved.
+
+Strengthening Cybersecurity & Resilience
+
+Dutch individuals demonstrate a high level of awareness regarding digital threats and take proactive
+measures to protect themselves. According to a Eurostat analysis on the safety component of the
+Digital Skills Indicator, 92.7% of individuals have taken at least one action to safeguard their online data
+(see the graph below for more information on the types of action analysed). This is significantly above
+the EU average of 69.55%. Furthermore, 77.39% of individuals have adopted three or more
+precautionary measures, with the most common being restricting or refusing access to their
+geographical location (81.41%). In contrast, reading privacy policy statements is the least frequent
+action, undertaken by only 44.27% of individuals.
+
+In the business sector, enterprises are increasingly
+implementing  cybersecurity measures,  although
+ongoing security challenges highlight the need for
+continued awareness-raising efforts. The number of
+Dutch enterprises experiencing ICT security incidents
+due to external attacks, such as ransomware and
+denial-of-service  attacks, decreased  slightly from
+6.89%  in 2022 to 5.05%  in 2024. Although  this
+represents a decline, the incidence rate remains
+higher  than  the  EU  average  of  3.43%.  The
+government’s   cybersecurity  assessment  report
+highlights  that  in 2024, the most common ICT
+security incidents were ransomware attacks resulting
+in data breaches, with the ICT sector being the most
+affected industry. In terms of common consequences,
+according to EUROSTAT data, 25.75% of enterprises experienced ICT-related security incidents leading
+to the unavailability of ICT services, the destruction or corruption of data, or the disclosure of
+confidential data. More broadly, the government’s assessment report highlights the increased pace
+
+
+                                       16  The Netherlands
+
+
+
+and complexity of cyberattacks by state actors, which are due to the current geopolitical tensions, and
+large-scale system failures, which often arise because of dependencies on a limited number of digital
+providers.
+
+In light of these challenges, Dutch enterprises are taking significant steps to enhance their
+cybersecurity. A significant 95.75% of enterprises have deployed ICT security measures, exceeding the
+EU average of 92.76%. However, there is still room for improvement, particularly in terms of employee
+awareness and the perception of cybersecurity as a strategic added value. Currently, only half (50.01%)
+of the enterprises have made employees aware of their obligations in ICT security-related issues,
+highlighting the need for greater emphasis on cybersecurity awareness and training. At national level,
+the Dutch Trust Centre and the National Cybersecurity Centre put together some key steps that
+organisations can follow to meet basic security needs, including: identifying and assessing risks;
+promoting safe behaviour in the workplace; protecting systems, applications and devices through
+secure settings and threat detection; restricting access rights to sensitive data sets; and preparing for
+cyber incidents in advance.
+
+When  it comes to efforts by public authorities, 91% of Dutch citizens who replied to the
+Eurobarometer on the Digital Decade 2025 believe that measures to enhance cybersecurity, better
+safeguard online data and ensure the overall safety of digital technologies are crucial in facilitating
+the daily use of digital technologies. The 2022-2028 Dutch Cybersecurity Strategy remains the
+primary government initiative to enhance digital resilience and counter digital threats. The October
+2024 progress report sheds light on some notable developments in 2024, including:
+
+       the establishment of the foundation for the Cyber Resilience Network, which aims to
+       strengthen cybersecurity cooperation between private and public entities;
+
+       preparatory work to merge the three government cybersecurity organisations (the National
+        Cybersecurity Centre, the Digital Trust Centre and the Computer Security Incident Response
+      Team for Digital Service Providers) into a single entity;
+
+       progress on transposing the revised European Network and Information Security Directive into
+       Dutch law through the Cybersecurity Act.
+
+The Netherlands had also launched several initiatives in 2024 that are interesting in the light of the
+Commission’s Action Plan to strengthen the cybersecurity of hospitals and healthcare providers, with
+several initiatives launched, including:
+
+       the update, with new implementation tools to be released in 2025, of the NEN-7510 standard
+        for information security, with which healthcare providers must now comply;
+
+       the upgrade of the open-source tool (OpenKAT Tool), that helps healthcare institutions identify
+        potential security vulnerabilities, was improved last year;
+
+       the extension of the National Cybersecurity Centre for Healthcare’s network to more
+        healthcare sectors, including ambulance care and home care, and the development of a new
+        testing framework to simulate real-world cyberattacks on healthcare institutions.
+
+Finally, the Netherlands is making good progress in deploying secure internet standards, particularly
+with the adoption of the Internet Protocol version 6 (IPv6). On the server side, the country achieved a
+notable adoption rate of 39% as of Q3 2024, surpassing the EU average of 17%. End users are also
+embracing IPv6, with a deployment rate of 34%, which is roughly in line with the EU average of 36%
+during the same period. Domain Name System Security Extensions, which introduces security features
+
+                                       17  The Netherlands
+
+
+
+to DNS, is another important standard that has been rolled out. In the Netherlands, the DNSSEC
+validation rate was 58% in Q3 2024, which was above the EU average of 47%.
+
+
+
+
+
+                                       18  The Netherlands
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+The Netherlands continues its efforts to ensure that no one is left behind in the digital transition by
+providing people with human support (a measure deemed important by 92% of citizens) and
+improving government services for individuals and enterprises. With its upcoming Netherlands
+Digitalisation Strategy, the government wants to improve its digital public services to ensure that they
+are interoperable, accessible and easy to use. Nonetheless, shortages of ICT specialists in the labour
+market and declining basic skills (including digital skills), especially among students in economically
+disadvantaged contexts, remain significant challenges for the country’s productivity, competitiveness
+and digital transformation.
+
+In 2024, a growing number of Dutch individuals engaged in online political and civic activities.
+However, like in many EU countries, the digital space is also plagued by disinformation and hostile
+messages. To address these issues, the Dutch government has announced new measures, including a
+reporting facility for disinformation and funding for fact-checkers, while also focusing on protecting
+children’s rights in the digital environment and promoting mental health support for younger people.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+The Netherlands has a strong digital skills profile, with very good scores across geography and
+gender. According to data from 2023, the country has already reached the 2030 EU target, with a
+high proportion (82.70%) of its population having basic digital skills (the 2030 national target is
+100%), which far surpasses the EU average (55.56%). However, some differences still exist across age
+groups and education levels. Moreover, data shows declining basic skills and underachievement,
+particularly in STEM subjects.
+
+While there is no new data for 2024, an in-depth analysis based on demographics provides a view of
+the country’s digital proficiency:
+
+      Age groups: 91.13% of 16 to 24-year-olds are very digitally proficient, which is much higher
+       than the EU average (69.98%). However, 65 to 74-years-olds are the least digitally proficient,
+       with only 66.54% of this age group having basic digital skills, showing efforts are still needed
+        to address this section of the population. Nonetheless, this is still much higher than the EU
+       average of 28.19%.
+
+       Education level: the correlation between education and digital skills is evident. An impressive
+       94.38% of the Dutch population with higher education have basic digital skills, a figure that
+        greatly exceeds the EU average (79.83%). For those with lower education levels, 68.09% have
+        basic digital skills, which is 14.61 percentage points lower than the national average. An EU
+       study on computer and information literacy reveals that more than half of the eighth-grade
+       students surveyed were low-achievers in digital skills. The report also highlights the large
+         disparities in basic digital skills between students with different parental education levels.
+
+                                       19  The Netherlands
+
+
+
+       Moreover, disadvantaged schools tend to have higher shortages of teachers, impacting the
+        quality of STEM education in some parts of the country.
+
+       Living areas: geography also appears to have some impact on the level of basic digital skills.
+       80.06% of rural residents in the Netherlands have basic digital skills, which is the lowest
+       proportion across all the living areas. Still, this is considerably higher than the EU average in
+         rural areas.
+
+      Gender gap: 82.83% of men and 82.56% of women had basic digital skills in 2023, which does
+       not indicate a clear gender gap.
+
+       Digital  Skills Index components:  the  Netherlands  excels  in  the  Digital  Skills  Index
+       competencies,  with  scores
+       above the EU average in all
+        categories. The country has
+      an exceptionally high score in
+       communication        and
+        collaboration skills (98.86%),
+      and even its lowest-scoring
+        area, digital content creation
+        (86.46%), scores well above
+       the EU average.
+
+In  the 2024  adjustment  of  the
+roadmap,     the     Netherlands
+formalised  its national target for
+basic digital skills, aiming to reach
+100%  of  the  population.   If  the
+current measures are extended and
+implemented  correctly, the  target
+seems realistically achievable by the
+end of the decade.
+
+ 2024 recommendation on basic digital skills: introduce measures to help concretise national plans
+ to boost digital skills and awareness in schools, to complement the ongoing efforts at local and
+ regional level to ensure digital inclusion.
+
+ In 2024, the Netherlands continued to implement existing measures but did not take any new
+ measures. The country continued to implement actions outlined in its roadmap, including the
+ ‘Count on Skills’ programme, which leverages a network of municipalities to fund courses and
+ training aimed at improving adults’ basic skills, including digital literacy. While the programme
+  officially concluded in 2024, research indicates that its local, community-based approach to training
+ and funding has been highly effective, leading to the decision to continue its implementation. Other
+ initiatives that take a similar decentralised approach, such as ‘#AllDigital’, the ‘Digital Society
+ Alliance’ and ‘Information Points Digital Government’, continued to operate in 2024. They aim both
+ to improve basic digital skills and to foster individuals’ participation in the digital society. However,
+ with regard to tackling digital inclusion, the adjusted roadmap did not propose any new measures,
+ specifically addressing the digital skills gaps across different age groups and education levels.
+
+
+
+
+                                       20  The Netherlands
+
+
+
+ICT specialists
+
+In 2024, ICT specialists represented 7% of the Netherlands’ total workforce (the 2030 national target
+is 9.2%), which is higher than the EU average of 5%. However, the country is lagging behind its
+national trajectory. With ICT specialists representing 6.9% of the total workforce in 2023, the growth
+rate observed in the Netherlands (+1.4%) is much lower than the EU average (+4.2%).
+
+There are still large gender differences in employed ICT specialists. In 2024, 81.30% of the ICT
+specialists in employment were men and 18.70% were women. Eurostat also indicated a slight drop
+in the proportion of female ICT specialists in employment from 2023 to 2024. In 2023, 18.9% of ICT
+specialists in the Netherlands were female, compared with 19.4% for the EU. This figure decreased
+slightly to 18.7% in 2024, while the figure for the EU increased to 19.5%. The overall trend is worrying,
+particularly given the lack of targeted measures currently in place.
+
+TechLeap’s report is useful in shedding light on some significant issues faced by Dutch companies
+when looking for digital talent. It highlights that the country lacks technical experts like engineers and
+software developers most of all. 71.9% of online job advertisements are for ICT specialists and 48% of
+companies report that these profiles are the hardest ones to find. This can partly be explained by the
+low proportion of STEM students and graduates. In 2022, the proportion of students in STEM subjects
+was 17.4%, which was much lower than the EU average of 27.1%, and only 5% of them were women
+(which is below the EU average of 8.6%). Moreover, the proportion of STEM graduates was 20.1% of
+all tertiary graduates, which was lower than the EU average of 26.6%. Companies also report
+difficulties in attracting and retaining talent, due to limited resources and strong international
+competition. These significant labour shortages are also evident in other sectors of the economy, with
+some reports predicting a shortfall of approximately 1.4 million workers by 2030, which will impact the
+digital and tech sectors in particular.
+
+The Netherlands’ target for ICT specialists remains 9.2% of the total workforce, which is close to the
+EU target of 10% by 2030. Given that this indicator is growing at a slow rate, it is unlikely that the
+target will be achieved, unless ongoing efforts start having an impact soon.
+
+ 2024 recommendation on ICT specialists: Closely monitor the implementation of existing measures
+ and partnerships to upskill and retain ICT specialists, including women. Design incentive schemes to
+ increase the attractiveness of STEM disciplines, particularly for girls, and to boost the number of
+ young people interested in taking up ICT-related studies or careers. Further reinforce collaboration
+ between industries, education institutions and the public administration to improve the link
+ between vocational education and the labour market needs.
+
+
+
+
+
+                                       21  The Netherlands
+
+
+
+ The Netherlands made some efforts to address the recommendations through new policy actions
+ in 2024. Published in 2023, the ‘Action Plan on Green and Digital Jobs’ will continue to be the guiding
+ initiative to boost enrolment in STEM courses, help ICT specialists find a job, improve productivity
+ and strengthen governance through to 2030.
+     •  The government plans to monitor the implementation of the action plan using new
+         indicators and enhanced data. A public website (Monitor – AGDB), providing accessible
+         information and statistics on education and the labour market, is set to be launched in
+        2025.
+     •   In 2024, the government announced a EUR 750 million investment by the National Growth
+       Fund to support the programmes TechWadraat and Sterk Techniekonderwijs over the next
+         eight years. The aim is to strengthen STEM and technology education in primary and
+        secondary schools. In both programmes, attention  will be paid to involving under-
+        represented groups, including girls. In parallel, the Co-teach Informatica initiative continues
+         to support schools in teaching ICT-related topics with the help of ICT professionals.
+     •  As part of the ‘Human Capital Agenda ICT’, in 2024 10 Dutch regions developed regional
+         action plans to increase the ICT workforce and address the ongoing demand for ICT skills
+        development and reskilling. In October 2024, a new taskforce was launched to improve
+        both the number and quality of cybersecurity professionals. The regional plans can be
+        found on the programme’s website. Following the discontinuation of the National Growth
+        Fund, some funding was reduced while the strategies were still being implemented. As a
+          result, the regions are working to secure regional investments, as well as national and EU
+          subsidies. A dashboard (pr-eDICT), providing the regions with information about education,
+          transitions from education to the ICT labour market and vacancies, is also available. The
+         tool is designed to help streamline regional strategies and anticipate market needs.
+     •   In 2024, the ‘Taskforce for Diversity and Inclusion’ continued its efforts to foster diversity
+         within the technology industry by sharing knowledge and best practices. Although the
+         subsidy for the taskforce ended in December 2024, the initiative will continue under the
+        banner ‘digital talent’ supported by stakeholders from the digital sector. The government
+           will also continue to work with the companies that participated in the initiative.
+     •   ‘I-Strategy-Programme’, ‘I-Vakmanschap’ and ‘RADIO’ also continue to improve  civil
+         servants’ digital skills, boost the number of ICT specialists and enhance the level of IT
+         research within the government.
+
+In addition to the above measures, the government is planning to reduce labour market shortages
+through a broad labour market agenda, which was presented in a letter to Parliament on 13 December
+2024. Its initiatives will include improving the quality of work, reducing the regulatory burden to make
+it easier for companies to employ people, improving labour market matching and investing in
+technologies that contribute to labour productivity. More concrete plans are scheduled to be unveiled
+in the course of 2025.
+
+Despite ongoing efforts, the recent budget cuts in higher education (approximately EUR 1.2 billion),
+combined with the recently announced Spring Memorandum (which includes an additional cut of EUR
+59 million in higher education), could potentially force universities to reduce the number of ICT
+courses that they offer, thus exacerbating the existing ICT workforce shortages. Additionally, the
+decline in foreign students across most disciplines, with even steeper declines in AI-related courses (-
+13%), could further negatively impact the ICT workforce, leaving more positions unfilled. The Dutch
+labour market also features a high proportion of self-employed and part-time workers, which is
+
+
+                                       22  The Netherlands
+
+
+
+affecting overall productivity and discouraging companies – particularly smaller enterprises – from
+investing in long-term training for their employees. In 2024, 79.32% of large companies (with 250
+employees or more) provided ICT training to their personnel, while a much smaller proportion of small
+companies (19.47%) (with 10 to 49 employees) were able to provide this kind of training. In 2022,
+29.1% of enterprises with 10 or more employees offered ICT training, a figure that decreased to 26.57%
+in 2024. Although that figure is still above the EU’s average of 22.29%, the country’s annual growth
+rate of -4.4% in this area is significantly lower than that of the EU (-0.2%).
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+The Netherlands consistently excels in digital public services, outperforming the EU average for both
+citizens and businesses. In 2023, the country achieved a total score of 85.87 for digital public services
+for citizens, surpassing the EU’s score of 79.44. This upward trend continued in 2024, with the
+Netherlands scoring 88.53 (the 2030 national target is 100) and exceeding the EU’s score of 82.32.
+Despite a strong overall performance, the growth rate for the Netherlands in this category was 3.1%,
+which is slightly lower than the EU average growth rate of 3.6%. In the area of cross-border digital
+public services for citizens, the Netherlands scored 78.27 in 2023 and 80.27 in 2024, both of which
+surpass the EU's respective scores of 68.37 and 71.28.
+
+The Netherlands also performs well in digital public services for businesses, outpacing the EU in
+terms of total scores. In 2023, the country scored 86.67, compared with the EU’s score of 85.42, and
+in 2024, it scored 88.75 (the 2030 national target is 100), exceeding the EU’s score of 86.23.
+Additionally, the Netherlands excelled in cross-border digital public services for businesses, scoring
+73.33 in 2023 and 77.5 in 2024, which are both higher than the EU’s scores of 73.13 and 73.76,
+respectively. Notably, the country’s growth rate in this category was 5.7%, significantly outpacing that
+of the EU (0.9%).
+
+The Netherlands faces some challenges in providing access to e-health records, with a score of 72.47
+in 2023, which was lower than the EU’s score of 79.12. This gap widened in 2024, with the country
+scoring 65.18, compared with to the EU’s score of 82.7. This decline can be attributed to the
+discontinuation of a pilot program in 2024, which had previously assisted legal guardians and
+authorised persons in accessing health data on behalf of others. The termination of this service
+resulted in a decrease in two sub-indicators. As in 2023, three of the six applicable categories of
+healthcare providers (which are all private in the Netherlands) are connected and supply data to the
+national health database. Rehabilitation centres, geriatric nursing homes and mental health facilities
+are not yet included.
+
+e-ID
+
+In line with the EU eIDAS Regulation, the Dutch authorities are on track to introduce an EU digital
+wallet. As scheduled, the first version of the Dutch public e-ID wallet was launched in 2024, with initial
+testing conducted in collaboration with the municipalities of Amsterdam and Nijmegen. The pilot
+programme involved 57 users with varying digital skills from different age groups, who used the wallet
+to access online public services. The results showed a generally positive user experience, although
+there are still some areas for improvement. Future iterations of the Dutch wallet will build on this
+foundation, incorporating key features such as the generic issuance of Electronic Attestations of
+Attributes, backup and recovery options, wallet-to-wallet interaction,  offline functionality and
+additional enhancements.
+
+
+
+
+                                       23  The Netherlands
+
+
+
+The government also reported that online digital identity login methods are becoming increasingly
+popular, with Dutch people logging in over 550 million times using DigiD (an e-ID service available in
+the country) in 2024, which is an almost 15% increase compared with 2023. Other existing e-ID
+systems, including include eHerkenning and eIDAS, are being consolidated into a single, secure access
+system. This system ensures secure and reliable access to government services by requiring individuals
+and businesses to use recognised login tools. However, it still offers the flexibility to choose from
+multiple login methods, addressing potential issues of vulnerability and system malfunctions.
+
+The Netherlands co-leads the new WE BUILD (Wallet Ecosystem for Business & Payment Use cases,
+Identification, Legal person representation and Data-sharing) consortium that will pilot the use of
+EU Digital Identity Wallets. Six Member States and over 170 entities from various public and private
+sectors are participating in the project. It focuses on piloting the wallets with regard to identification,
+legal representation and data-sharing across 13 use cases in the areas of businesses, supply chain and
+payments. Several Dutch stakeholders are also participating in the APTITUTE (Advanced Project for
+Trusted Identity Technologies and Unified Digital Ecosystem) consortium that focuses on advancing
+the use of wallets for travel and payment purposes across four use cases: payments, mobile vehicle
+registration certificates, digital travel credentials and tickets and travel check-in.
+
+Digitalisation of public services for citizens and businesses
+
+The proportion of Dutch individuals using public authorities’ websites or apps remained stable, at
+96.38% in 2024, which is very close to the 96.85% reported in 2022. This proportion remains far above
+the 2024 EU average of 77.71%. Similarly, a notable majority of citizens (94%) see digital technologies
+are important means to access public services, according to the Eurobarometer on the Digital Decade
+2025. To meet this high demand, the Netherlands formalised its national targets in 2024, aiming to
+reach a score of 100 for the digitalisation of public services for citizens and businesses. For both KPIs,
+the country is on track according to its national trajectory.
+
+In the last year, the country advanced the digitalisation of its public services by continuing to
+implement existing measures. The Service Public Communication (DPC) has improved the online
+solution that helps competent authorities to implement the Single Digital Gateway regulation, making
+it easier to find and edit texts. Moreover, to assess and optimise online government websites, the
+government commissioned a study focusing on users’ experience of overheid.nl (the central
+government platform that provides individuals and businesses with access to private information and
+public services), and of Mijnoverheid (a personal digital mailbox for mail from the government). The
+study’s findings indicate that users are generally satisfied with the platforms and perceive them as
+reliable and easily accessible entry points. However, opportunities remain to create a more seamless,
+unified and interoperable government experience. Furthermore, the study highlights the potential for
+leveraging AI to enhance the accessibility and efficiency of government services, which is a promising
+avenue for future development. Finally, the government postponed the coming into effect of the
+second part of the Modernisation of Electronic Administrative Communication Act from January 2024
+to January 2026. The Act will make it mandatory for administrative bodies to enable individuals and
+businesses to formally get in touch with them through digital means.
+
+e-Health
+
+The Netherlands still does not explicitly refer to a national target or trajectory for access to e-health
+records, as these would be difficult to establish given the country’s decentralised healthcare system.
+In its revised roadmap, the country increased the total budget for e-health and introduced a new
+measure, namely ‘MijnGezondheidsoverzicht’ (‘My Health Overview’). This is a digital platform where
+
+                                       24  The Netherlands
+
+
+
+all individuals will be able to access their health data at any time. Unlike the Personal Health
+Environment, which is an optional platform with personalised functionalities like self-tracking and
+video consultations, ‘My Health Overview’ will give individuals a central and complete view of their
+official health data. The nationwide roll-out of the platform is expected to take place gradually, with
+the first products made available around 2027.
+
+ 2024 recommendation on e-health: make more health data types available to citizens through the
+ online access service and increase the supply of health data by onboarding more categories of
+ healthcare providers.
+
+ The Netherlands addressed the recommendation by continuing existing measures and putting in
+ place new policy actions in 2024. With an allocated budget of EUR 27.7 million, ‘My Health
+ Overview’ will give Dutch individuals access to a more complete set of health data. In 2024, the
+ government also worked with healthcare organisations to make a more diverse and complete health
+ data set accessible online, including not only medical records and test results, but also medication
+ history, vaccination records and treatment plans. This is also thanks to the collaboration with a wider
+ range of healthcare providers (i.e. mental health professionals, pharmacies etc.). It remains to be
+ seen how these efforts will influence the e-health indicator in the future.
+
+Several Dutch companies have also developed innovative ways to integrate digital solutions like AI to
+reduce administrative costs and free up the health workforce. Autoscriber.com, for instance,
+transforms conversations between patients and doctors intro structured e-health records through AI-
+powered speech recognition.
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+Dutch individuals are increasingly engaging in political and civic activities online. In 2024, 29.58% of
+them used the internet to participate in consultations, vote or express opinions, surpassing the EU
+average of 20.45% after increasing steadily from 22.95% in 2022. However, like in many other Member
+States, the digital space is plagued by misleading content and disinformation. In 2023, 70.71% of
+individuals reported encountering false or dubious content online, a figure significantly higher than
+the EU average of 49.25%. Of particular concern is that 80.69% of those affected by misleading content
+were young people aged 16-24. Fewer than half of users (46.93%) verified the accuracy of the
+information they encountered, compared with 59.99% of young users (16 to 24-year-olds).
+
+Hostile and degrading messages, affecting young people and female users in particular, are also quite
+common in the Dutch online space. Almost half of the population (48.40%) reported encountering
+hostile or degrading messages online in 2023. Young people (16 to 24-year-olds) were particularly
+affected, with 61.19% reporting such experiences compared with 48.75% of adults (25 to 64-year-
+olds). The proportion of female users encountering these kinds of messages online is among the
+highest in the EU (50.68%).
+
+To counter disinformation, the Dutch government announced a new package in 2024 in a letter to
+Parliament. The letter focuses on the progress made with the 2022 government-wide Strategy for
+Effectively Tackling Disinformation and highlights a commitment to focus on new measures, including:
+
+    •   setting up a  reporting  facility where people can  report harmful  content,  including
+        disinformation on social media platforms;
+
+
+
+
+                                       25  The Netherlands
+
+
+    •   setting up a dispute resolution body that allows people to seek dispute resolution regarding
+       content moderation decisions taken by online platforms;
+
+    •   strengthening the Dutch network of fact-checkers by providing additional funding to the
+       Belgium-Netherlands Digital Media and Disinformation Observatory consortium, while also
+        exploring new funding models to support the independent work of fact-checkers in the future.
+
+In parallel, some studies are being carried out to provide evidence for potential future actions
+against disinformation. Wageningen University & Research is conducting a research study on the
+impact of disinformation on public health, policymaking and societal trust. In parallel, the University
+of Amsterdam is leading an empirical analysis on how digital online platforms approach moderation.
+The analysis covers not only how much content is subject to moderation, but also what kind of content
+is most commonly removed or flagged. The Netherlands is also funding the Network Media Literacy
+for its management of the isdatechtzo.nl website, which provides people with information and tools
+to recognise fake content through fact-checking.
+
+With 93% of Dutch citizens recognising an urgent need for public authorities to mitigate the negative
+impact of social media on children's mental health, as well as to combat cyberbullying and online
+harassment, the Netherlands reinforced its commitment to safeguarding children’s rights in the
+digital environment in 2024, marked by a series of key developments. The multifaceted Dutch
+approach integrates legislation and policy with supervision and awareness efforts. This includes
+ensuring compliance with the General Data Protection Regulation, using tools such as the Children’s
+Rights Impact Assessment to help organisations assess the effects of digital products on children’s
+rights, and promoting the Dutch Code for Children's Rights, which outlines principles to help
+developers mitigate online risks for children. Additionally, the country is actively raising awareness
+through campaigns about online risks targeted at children and caregivers, while also introducing at a
+later time the Children’s Rights Label and Game Check tool to help parents make informed decisions
+about the digital platforms and games their children use.
+
+Beyond digital rights, the Netherlands is also focusing on broader mental health support for younger
+generations. Initiatives like @ease – a free platform designed for students, teachers, and parents –
+offer resources, advice and tools to manage mental health challenges such as stress and anxiety. This
+initiative is part of a wider effort to improve mental health awareness and support, ensuring that young
+people have the resources they need to navigate digital spaces and personal well-being. Moving
+forward, the introduction of  tools such as  age-verification methods  in  restricting access to
+inappropriate content for children remains to be seen, a measure that 88% of Dutch citizens consider
+essential to protecting children online.
+
+
+
+
+
+                                       26  The Netherlands
+
+Leveraging  digital transformation  for a
+smart greening
+
+The Netherlands  is intensifying  its  efforts towards achieving sustainable  digitalisation. The
+Sustainable Digitalisation Action Plan (launched in June 2024), which also features in the ‘Green &
+Digital’ cluster of the Digital Decade’s Best Practice Accelerator, marks a significant step forward. This
+plan focuses on harnessing digitalisation to promote sustainability across various sectors, including
+energy, mobility, industry, buildings, agriculture and government. It also emphasises the need to make
+the digital sector more sustainable, targeting key areas such as hardware, software and end-user
+devices. The plan also aims to strengthen public-private collaboration, and focuses on information-
+sharing, standardisation and fostering innovation.
+
+When it comes to purchasing and disposing of ICT equipment, Dutch consumers and enterprises
+exhibit distinct priorities and behaviours, reflecting a mix of environmental awareness and practical
+considerations. Most Dutch consumers (75.89%) prioritise the brand, design and size of the equipment
+when buying ICT equipment. A smaller percentage of buyers (19.63%) took the equipment’s energy
+efficiency into consideration, which is line with the EU average of 19.35%. Even fewer buyers (5.13%)
+based their decision to buy a product mainly on the possibility of extending its lifespan. Around half
+(48.1%) of enterprises selected ICT services or equipment on the basis of their environmental impact,
+which is below the EU average of 58.5%.
+
+Recycling old ICT equipment seems to be more of a common practice in the Netherlands than in
+other EU countries, with 27.87% of people recycling their old desktop computers, 12.96% recycling
+their mobile phones and 16.21% recycling their laptops or tablets in 2024. This is more than the EU
+averages of 14.66%, 10.93% and 11.31%, respectively. 72.6% of enterprises also recycle ICT equipment,
+although this is slightly lower than the EU average of 77.4%. Overall, according to the Eurobarometer
+on the Digital Decade 2025, a growing majority of Dutch citizens (75%, up 3 percentage points from
+last year) believe that digital technologies play a crucial role in combating climate change, with 83%
+emphasising the need for public authorities to take decisive action in this area.
+
+ 2024 recommendations on green ICT: (i) continue developing a coherent approach to twinning the
+ digital and green transitions, including by supporting relevant pilots. First, continue to promote
+ energy and material efficiency of digital infrastructures, in particular data centres. Second, support
+ the development and deployment of digital solutions that reduce the carbon footprint in other
+ sectors, such as energy, transport, buildings, and agriculture, including the uptake of such solutions
+ by SMEs. (ii) Monitor and quantify the emission reductions of the deployed digital solutions in line
+ with the relevant EU guidance and with the support of the methodology developed by the European
+ Green Digital Coalition, in view of future policy development, as well as of attracting relevant
+ financing
+
+ The Netherlands addressed the recommendations by putting new policy actions in place. In June
+ 2024, as anticipated in the 2023 roadmap, the country set out the Sustainable Digitalisation Action
+ Plan. It consists of 44 action points to make the digital sector more sustainable; take advantage of
+ digitalisation to advance sustainability in different sectors; and ensure there is a solid framework to
+ support the first two lines of action (with, for example, the establishment of knowledge centres for
+ sustainable  digitalisation).  The  actions  will  be  implemented  through  cross-governmental
+ participation (across ministries and national organisations) and public-private collaboration.
+
+
+                                       27 The Netherlands
+
+
+
+The Dutch government has made significant strides in recent months as part of the action plan. In
+2024, it commissioned two research papers, which are currently in the final stages of completion.
+One explores the energy and water usage of AI, and the other aims to expand the inventory of
+available data and databases on sustainable digitalisation. Additionally, the Netherlands has
+prioritised the greening of data centres, developing a comprehensive list of recognised measures to
+reduce energy consumption in these facilities. The country is also in the process of setting up a
+Sustainable Digitalisation knowledge centre. This will be a dedicated (potentially online) platform
+where public and private organisations can access reliable information on the digital and green
+transition, including EU regulations, subsidy opportunities, standardisation guides, upcoming events
+and interactive tools designed to foster sustainable digitalisation practices. A key component of the
+action plan is the National Coalition of Sustainable Digitalisation, a private-public partnership that
+has grown steadily over the past eight months. The coalition’s achievements include a highly
+successful National Conference on Sustainable Digitalisation and the forthcoming Sustainable
+Impact Assessment, scheduled for release in mid-2025.
+
+An evaluation of the action plan is currently underway (Q4 2025), with the possibility of new actions
+soon.
+
+In parallel, the Netherlands has also been collaborating with other countries on the topic of
+sustainable digitalisation.  It has exchanged knowledge and best practices with French policy
+advisers and  regulators on methods  for monitoring the environmental impact  of  digital
+technologies. It has also contributed to the OECD Working Party on Connectivity Services and
+Infrastructures’ recent revision of the recommendation on ICT and the environment. The
+recommendation confirms the importance of aligning digital technologies with environmental
+sustainability.
+
+On top of government initiatives, several Dutch companies are offering digital solutions to improve
+sustainable practices. An example of such a solution is HULO.ai, which uses AI algorithms to detect
+and locate water leaks in real time.
+
+
+
+
+
+                                      28  The Netherlands
+
+Annex I – National roadmap analysis
+
+ On 31 January 2025, the Netherlands submitted a fully revised national Digital Decade roadmap
+ containing around 15 new measures and four revised targets. The budgets of several measures
+ included in the original roadmap have been revised slightly upwards or downwards. Some edits
+ were made because of clerical mistakes or to adjust new planned and allocated budgets. Overall,
+ the 2024 adjustment addresses a substantial number of roadmap recommendations issued in
+ 2024. However, the 2023 national roadmap has not yet been published online.
+
+ With regards to targets, the Netherlands proposed a target and trajectory for at least basic digital
+  skills (100%) and for the digitalisation of public services for both citizens and businesses (100 out of
+ 100). The country did not provide a target and trajectory for unicorns and edge nodes, because it
+ favours a more quality-oriented target. Nor did the country present a target and trajectory for access
+ to e-health records, as this would be difficult to establish given the Netherlands’ decentralised
+ healthcare system. The country raised its national targets for VHCN (to 99.9%), for SMEs with at
+ least a basic level of digital intensity (to 95%) and for the take-up of data analytics by enterprises (to
+ 75%). For ICT specialists as a proportion of people in employment, the Netherlands opted to keep
+ the original national target for 2030 (9.2% of people in employment, which is still very close to the
+ EU target of 10%).
+
+ With regards to measures, the Netherlands introduced five new measures in its national roadmap
+ to support ICT specialists, highlighting its commitment to continue and closely monitor their
+ implementation. The measures focus on boosting enrolment in STEM courses, providing regional
+ support to help ICT specialists find jobs, as well as strengthening STEM and technology education in
+ primary schools. Some measures also focus on continuing efforts to foster diversity within the
+ technology sector and improving the digital skills of civil servants. One measure (‘Smart Makers
+ Academy’) was associated with the ICT specialists target, although its main objective is to support
+ SMEs in the manufacturing industry to adopt digital technologies.
+                       Measures and budget in national roadmap8
+
+
+
+
+
+8 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       29 The Netherlands
+
+
+
+Some measures included in the roadmap were linked to the relevant parts of the declaration on
+digital rights and principles and the Digital Decade general objectives, aligning in particular with
+the Commission’s priorities on the green and digital transitions. The revised roadmap includes more
+details on the consultation with stakeholders than the original roadmap did.
+
+In total, the national roadmap includes 59 measures with a budget of EUR 5.25 billion, comprising
+EUR 5.22 billion from public budgets (equivalent to 0.46% of the Netherlands’ GDP). The highest
+number of measures and the highest share of the budget are targeted at digital public services.
+
+
+
+
+
+                                      30  The Netherlands
+
+Annex II – Multi-country projects (MCPs)
+and funding
+
+ Multi-country projects and best practices
+
+ The Netherlands  is a member  of the  ‘Alliance  for Language  Technologies’ European  Digital
+ Infrastructure Consortium (EDIC) and of the ‘Local Digital Twins towards the CitiVERSE’ EDIC. The
+ Netherlands requested to be an observer in the prospective EDIC in the area of public administration,
+ for which the formal application has been submitted. It is also a candidate to host an EDIC in the area
+ of mobility and logistics and is working towards setting up an EDIC in the area of digital common goods
+  (i.e. open-source software and hardware, open data, open educational resources, open standards etc.).
+
+ The Netherlands  is participating directly in the IPCEI on Microelectronics and Communication
+ Technologies and in the IPCEI on Next-Generation Cloud Infrastructure and Services. The Netherlands
+  is also a participating state of the European High-Performance Computing Joint Undertaking (JU) and
+ of the Chips JU.
+
+ The Netherlands has contributed to the Digital Decade Best Practice Accelerator by sharing two best
+ practices in the ‘Business Uptake’ cluster (with the National technology Strategy) and the ‘Green &
+ Digital’ cluster (with the Sustainable Digitalisation Action Plan).
+
+
+
+ EU funding for digital policies in the Netherlands
+ The Netherlands allocates 26% of its total Recovery and Resilience Plan to digital (EUR 1.2 billion)9. In
+ addition, 11% of the country’s total cohesion policy funds (EUR 170 million) is dedicated to advancing
+ the Netherlands’  digital transformation10. According to JRC estimates, EUR 892 million directly
+ contribute to achieving Digital Decade targets (of which EUR 834 million come from the RRF and EUR
+ 58 million from cohesion policy funds)11.
+
+ The most significant digital measures in the Dutch Recovery and Resilience Plan are dedicated to
+ investments in innovative digital technologies, notably quantum technologies and AI; the development
+ of digital skills across different levels of the education system, including efforts to make education more
+ inclusive; investments in ICT infrastructure and sector-specific expertise and knowledge in the
+ education system; and the digitalisation of key public services, with an emphasis on enhancing
+ transparency and accessibility for citizens and businesses.
+
+
+
+
+
+9 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+10 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+11 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       31  The Netherlands
+
+Annex III – Digital Rights and Principles12
+
+
+
+
+
+ Activity on Digital Rights and Principles (Figure 1)
+
+ According to a support study, the Netherlands has been relatively active in implementing digital rights
+ and principles, with 60 initiatives overall and three new initiatives launched in 2024, showing limited
+ progress towards its commitments. The same study shows that the Netherlands is most active in
+ ensuring people remain at the centre of the digital transformation. There is room for improvement,
+ especially with regards to ensuring a fair digital environment, where less activity has been identified.
+
+ Impact of Digital Rights Initiatives (Figure 2)
+
+ Quantitative impact indicators developed by the support study illustrate the level of implementation of
+ digital rights initiatives on the ground. Based on available data, they estimate the impact of measures
+ implemented by key stakeholders in the Netherlands (mainly national government) and how these are
+ perceived by citizens.
+
+ The indicators suggest that the Netherlands is mostly successful in implementing commitments
+ related to solidarity and inclusion, while efforts in areas such as  digital safety, security and
+ empowerment seem to have a more limited impact.
+
+ According to the Special Eurobarometer 'Digital Decade 2025’, 51% of Dutch citizens think that the EU
+ protects their digital rights well (a 6% increase since 2024). This is above the EU average of 44%.
+ Citizens are particularly confident about getting freedom of assembly and of association in the digital
+ environment (75%, above the EU average of 59%). They are most worried that their right to a safe digital
+ environment and content for children and young people is not well protected (57%, above the EU
+ average of 48%).
+
+
+
+
+
+12 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       32

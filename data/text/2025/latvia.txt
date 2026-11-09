@@ -1,0 +1,1420 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 16.6.2025
+                                              SWD(2025) 294 final
+
+                                       PART 16/27
+
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2025 country reports
+
+                                Accompanying the document
+
+       Communication from the Commission to the European Parliament, the Council and the
+           European Economic and Social Committee and the Committee of the Regions
+
+         State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future
+
+             {COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+              {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE 2025
+COUNTRY REPORTS
+
+
+        Latvia  Latvia
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 4
+
+  Building technological leadership: digital infrastructure and technologies ......................................... 5
+
+     Connectivity infrastructure .............................................................................................................. 5
+
+    Semiconductors ............................................................................................................................... 7
+
+    Edge nodes ...................................................................................................................................... 7
+
+    Quantum technologies .................................................................................................................... 8
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 8
+
+    SMEs with at least basic digital intensity ......................................................................................... 8
+
+     Take up of cloud/AI/data analytics ................................................................................................... 9
+
+     Unicorns, scale-ups and start-ups .................................................................................................. 11
+
+  Strengthening Cybersecurity & Resilience ......................................................................................... 12
+
+Protecting and empowering EU people and society ............................................................................. 14
+
+  Empowering people and bringing the digital transformation closer to their needs .......................... 14
+
+     Equipping people with digital skills ............................................................................................... 14
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ................. 17
+
+  Building a safe and human centric digital environment and preserving our democracy ................... 20
+
+Leveraging digital transformation for a smart greening ....................................................................... 21
+
+Annex I – National roadmap analysis .................................................................................................... 23
+
+Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 25
+
+Annex III – Digital Rights and Principles ................................................................................................ 26  Latvia
+
+Executive summary
+
+Latvia can rely on good digitalisation of public services for businesses, and citizens, but lags behind
+on 5G, fibre-to-the-premises, and very high-capacity networks, while having a high access to health
+records.
+
+In its national roadmap and roadmap adjustment, Latvia shows a substantial level of ambition in its
+contribution to the Digital Decade having set 14 national targets, 86% of which are aligned with the
+EU 2030 targets. The country is following its trajectories moderately well with 50% of them on track
+(on the basis of the 2024 trajectories defined for 8 KPIs out of 8 analysed). Latvia addressed 84% of
+the 13 recommendations issued by the Commission in 2024, either by implementing significant
+policy changes (15%) or making some changes (69%) through new measures.
+
+In 2024, gigabit connectivity and 5G remain below the EU average. Digitalisation of SMEs and the
+adoption of advanced digital technologies by businesses are a priority of the Latvian recovery and
+resilience plan. Latvia’s overarching Cybersecurity Strategy 2023-2026 continues to guide its overall
+approach to cybersecurity.
+
+
+                                                                                                                                                         Digital Decade
+                                                                                  Latvia                          EU
+                                                                                                                                            target by 2030
+     Digital Decade KPI (1)          2024DESI      DESI 2025     Annual     National                Annual                                                                                                      trajectory   DESI 2025                LV      EU
+                                                           (year      (year 2024)    progress                             progress
+                                                                                  2024 (3)
+                                                      2023)
+
+  Fixed Very High Capacity Network (VHCN) coverage      68.0%       68.1%       0.2%       74.0%      82.5%      4.9%     100.0%   100%
+
+  Fibre to the Premises (FTTP) coverage                 61.9%       61.1%       -1.2%      74.0%      69.2%      8.4%     100.0%         -
+
+  Overall 5G coverage                                53.1%       71.1%       33.9%      55.5%      94.3%      5.9%     70.0%    100%
+
+  Edge Nodes (estimate)                               5          10        100.0%       0        2257      90.5%      51     10000
+
+ SMEs with at least a basic level of digital intensity (2)           -         59.2%       6.4%              -        72.9%      2.8%     90.0%    90%
+
+  Cloud                                            29.0%               -                  -                 -                 -                 -       75.0%    75%
+
+  Artificial Intelligence                                4.5%        8.8%       94.9%      13.0%      13.5%      67.2%     75.0%    75%
+
+  Data analytics                                     36.9%               -                  -                 -                 -                 -       75.0%    75%
+
+  AI or Cloud or Data analytics                         48.2%               -                  -                 -                 -                 -               -      75%
+
+  Unicorns                                          0           0                                    -         286       4.4%       2       500
+
+  At least basic digital skills                            45.3%               -                  -                 -                 -                 -       70.0%    80%
+
+  ICT specialists                                      4.4%        4.9%       11.4%       5.4%       5.0%       4.2%     10.0%    ~10%
+
+  eID scheme notification                                                Yes
+
+  Digital public services for citizens                         88.2         93.5        6.0%        88.0         82.3       3.6%      100.0     100
+
+  Digital public services for businesses                      87.2         96.3       10.4%        87.0         86.2       0.9%      100.0     100
+
+  Access to e-Health records                               84.8         85.9        1.2%        80.0         82.7       4.5%      100.0     100
+
+  (1) See the methodological note for the description of the indicators and other metrics
+  (2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the calculation
+  of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index.
+  (3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024)
+
+
+According to the special Eurobarometer on ‘the Digital Decade’ 2025, 75% of Latvian citizens consider
+that the digitalisation of daily public and private services is making their lives easier. Concerning the
+action of the public authorities, 86% consider it important to counter and mitigate the issue of fake
+
+
+
+                                        1  Latvia
+
+
+
+news and disinformation online, and regarding competitiveness, 78% consider it important to ensure
+that European companies can grow and become ‘European Champions’ able to compete globally.
+
+A competitive, sovereign, and resilient EU based on technological leadership
+
+Latvia's digital infrastructure coverage remains below the EU average, mainly in VHCN, FTTP and 5G,
+even in the context of a strong year-on-year growth in overall 5G coverage. In broadband uptake, 1
+Gbps subscriptions are growing faster than the EU, despite slower growth in 100 Mbps subscriptions
+and 5G SIM penetration. The country is advancing on deployment of edge nodes and quantum
+technologies, but lags on cloud, and AI. There has been a surge in cyber-attacks, totalling 418 325
+registered complaints in 2024. Despite this, Latvia demonstrates overall preparedness as none of the
+attacks have had a lasting impact.
+
+Protecting and empowering EU people and society
+
+Latvia’s digital skills lagged behind the EU, with only 45.34% of its population having basic digital skills
+compared to the EU’s 55.56%. Despite a noticeable gender gap favouring women and strong
+collaborative skills, Latvia faces challenges, especially among rural areas and older adults, and remains
+below the EU in educational attainment-related digital skills. To address these gaps, initiatives like the
+STARS learning account have been launched. In the ICT sector, Latvia has seen a positive increase in
+the employment of ICT specialists, especially among women. Despite this, the country’s ICT training
+for businesses lags behind the EU average. Latvia excels in digital public services for both citizens and
+businesses, surpassing EU growth rates, especially in cross-border services. Latvia’s performs strongly
+on digital public services and access to e-health records compared with the EU average. While
+strengths are evident, Latvia could benefit from further efforts to close gaps in digital skills, aiming for
+broader proficiency across different demographic groups.
+
+Leveraging digital transformation for a smart greening
+
+Latvia prioritises the promotion of energy and material efficiency in digital infrastructure, aiming to
+minimise its environmental impact by creating data centres that will run on 100% renewable energy.
+In addition, it is focusing on introducing smart digital solutions that in turn will reduce the country’s
+carbon footprint.
+
+National digital decade strategic roadmap
+
+Latvia submitted an adjusted Digital Decade roadmap on 11 February 2025. The adjusted roadmap
+contains new 43 measures, 2 new targets and 4 revised trajectories. It includes reporting on the
+consultation of stakeholders but lacks information on how their comments were considered. The
+updates are clearly aligned with the new Commission’s priorities on gigabit connectivity and 5G. The
+adjusted roadmap addresses a substantial number of roadmap recommendations issued in 2024. All
+targets are aligned with the EU-level goals for 2030, except for the target for at least basic digital skills,
+where Latvia is aiming for 70% instead of 80% by 2030. The adjusted roadmap continues to prioritise
+AI, the digitalisation of public services, and tech uptake. It contains 90 measures, with a budget of EUR
+2 287.5 million, including EUR 2 004.8 million from the public budget (equivalent to 4.99% of the
+country’s GDP). It still covers all Digital Decade objectives, such as a human-centred digital space,
+boosting resilience and security, promoting sovereignty and greening digital technology.
+
+
+
+
+
+                                        2  Latvia
+
+
+Funding & projects for digital
+
+Latvia allocates 23% of its total recovery and resilience plan to digital (EUR 416 million)1. In addition,
+under cohesion policy, EUR 441million, representing 10% of the country’s total cohesion policy
+funding, is dedicated to advancing Latvia’s digital transformation2.
+
+Latvia is a member of the Alliance for Language Technologies EDIC and of the Local Digital Twins
+towards the CitiVERSE EDIC. Latvian organisations are indirect and/or associated partners in the
+Important Project of Common European Interest (IPCEI) on Microelectronics and Communication
+Technologies (IPCEI-ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services
+(IPCEI-CIS). Latvia is also a participating state in the EuroHPC Joint Undertaking (JU) and in the Chips
+JU.
+
+Latvia has not yet presented any measure in the framework of Digital Decade’s Best Practice
+Accelerator3.
+
+Digital Rights and Principles
+
+According to a support study, Latvia has shown rather limited activity in the European Declaration on
+Digital Rights and Principles, with 34 initiatives overall and 2 new initiatives launched in 2024. Latvia
+is most active in the area of interactions with algorithms and artificial intelligence systems. Less activity
+has been identified with regards to putting people at the centre of the digital transformation,
+connectivity and sustainability. Measures in the area of putting people at the centre of the digital
+transformation appear to have most impact on the ground, in contrast to those addressing freedom
+of choice.
+
+ Recommendations
+   -   Digital skills: Strengthen and continue to implement measures to increase digital skills across all
+      ages with a special emphasis on people living in rural areas and those with lower educational
+      background.
+   -   Connectivity: Sustain the ongoing effort and establish new measures to support VHCN, FTTP, and
+     5G coverage.
+   -   SMEs: Sustain and complement activities to improve the digitalisation and uptake of advanced
+      technologies, emphasising the take-up of advanced technologies and give special attention to
+     SMEs.
+   -   Cybersecurity: Continue efforts in cybersecurity to address the evolving and increasing threats.
+      Ensure introduction and continuation of implementation of cybersecurity education, especially at
+      undergraduate level.
+   -   E-health: Ensure that all data types are made available in a timely manner. Offer a mobile
+      application  for  citizens to access  their  electronic health records. Connect more  private
+       rehabilitation centres to the online access service.
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+3 The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges
+encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member
+States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills,
+Green IT, and the Uptake of Digital Technologies.
+
+                                        3  Latvia
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Latvia is making significant strides in its semiconductor industry by setting up its national chips
+competence centre as part of the EU Chips Joint Undertaking. The country aims to make the most of
+its strengths in photonic integrated circuits, microelectronics, polymer photonics, and quantum
+devices while investing in quantum computing AI, cybersecurity, Baltic-Nordic cooperation, and digital
+skills.
+
+The Latvian ICT sector accounted for 6.45% of gross value added in 2022, which is an increase from
+6.36% in 20214. R&D personnel accounted for 22.73% of employment in Latvia’s ICT sector (up from
+26.1% in 2021) making them leader in the EU and is an increase from the previous year measured
+(26.1% in 2021).
+
+Latvia’s digital infrastructure lags behind the EU average in most categories, with significant gaps in
+VHCN, FTTP, and 5G coverage, particularly in sparsely populated areas. However, Latvia shows strong
+growth in both overall 5G coverage and 5G coverage in the 3.4–3.8 GHz band.
+
+Latvia’s indicator of broadband take up reveal already country with a strong penetration of 5G SIM
+card and high-speed broadband subscriptions, but varying growth rates on these two measures
+compared with the EU. For example, Latvia's growth rate in 5G subscriptions significantly outpaces the
+EU, while  its growth rate in 100 Mbps subscriptions high-speed broadband and 5G SIM card
+penetration lags behind the EU average.
+
+Latvia is making progress in the deployment of edge nodes, quantum technologies, and efforts to
+improve digitalisation among SMEs. However, the country still lags behind the EU average in some
+areas, such as the adoption of cloud, AI, and data analytics (combined indicator). In 2024, Latvia
+deployed 10 edge nodes. The country is also making strides in quantum technologies, with the
+‘Development of experimental quantum communication infrastructure in Latvia’ project making
+significant progress. Meanwhile, Latvia's digitalisation of SMEs is growing, with a 6.4% increase in the
+number of SMEs using digital technologies in 2024, although it still lags behind the EU average on this
+measure. The country has also taken steps to support innovative entrepreneurship, with measures
+such as the ‘Support for the development of innovative entrepreneurship in SMEs’ programme, which
+aims to provide financing for businesses and create new jobs.
+
+Despite having zero unicorns, Latvia has seen an increase in the number of start-ups in recent years,
+with 512 Latvian start-ups by the end of 2024, and 3 968 employees working for Latvian start-ups.
+However, the country still lags behind the EU average in terms of cybersecurity, with 54.61% of
+individuals taking at least one action to protect their data online in the past year, compared with
+69.55% in the EU. Latvia has also experienced a significant increase in cyber-attacks, with 418 325
+registered complaints in 2024, and a high level of cyber threats.
+
+
+
+
+
+4 Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying
+the State of the Digital Decade report 2025.
+
+                                        4  Latvia
+
+
+
+According to the 2025 Eurobarometer5, 82% of Latvians think that building efficient and secure digital
+infrastructures and data processing facilities should be a priority for the public authorities.
+
+Building technological leadership: digital infrastructure and technologies
+
+To improve its connectivity Latvia is relying on both market actions and other long-running policy
+measures set put in its roadmap. Based on current rate of progress, Latvia is falling behind the EU
+average on connectivity.
+
+Connectivity infrastructure
+
+Latvia’s VHCN coverage for all households was 67.98% in 2023 and 68.13% in 2024, both below the
+EU’s coverage rates of 78.64% and 82.49% respectively. The country is lagging behind compared to
+its national trajectory. The growth rate for total VHCN coverage in Latvia was 0.2% in 2024 compared
+with 2023, which is lower than the EU's 4.9%. For households in sparsely populated areas, Latvia's
+coverage was 11.71% in 2023 and 10.43% in 2024, significantly lower than the EU's 55.59% and 61.89%
+respectively. The year-on-year growth rate for this category was -10.9%, compared to the EU's +11.3%.
+
+Latvia’s FTTP coverage for all households was 61.88% in 2023 and 61.11% in 2024, both below the
+EU’s coverage rates of 63.87% and 69.24% respectively. The country is lagging behind compared to
+its national trajectory. The growth rate for total FTTP coverage in Latvia was -1.2%, which is lower than
+the EU's 8.4%. The slight decline is due to that the NRA restated coverage for 2023. Despite the slight
+decline in percentage terms, in absolute numbers coverage has increased by 5 316 homes passed. For
+households in sparsely populated areas, Latvia's coverage was 11.71% in 2023 and 10.43% in 2024,
+significantly lower than the EU's 52.55% and 58.78% respectively. The growth rate between 2023 and
+2024 for FTTP coverage of households in sparsely populated areas was -10.9%, compared with the EU’s
+11.9%. The decline in coverage in rural areas can be attributed to the change in NUTS3 regions and is
+based on data from Latvia’s NRA.
+
+Latvia’s overall 5G coverage for all households was 53.11% in 2023 and 71.1% in 2024, both below
+the EU’s 5G coverage rates of 89.05% and 94.35% respectively. The country is on track for 5G
+coverage according to its national trajectory. The growth rate for total 5G coverage in Latvia was
+33.9% between 2023 and 2024, which is higher than the EU’s 6.0%. For households in sparsely
+populated areas, Latvia’s 5G coverage was 0.0% in 2023 and 15.04% in 2024, significantly lower than
+the EU’s 71.1% and 79.57% respectively (the EU therefore saw 11.9% growth on this measure).
+
+Latvia’s 5G coverage in the 3.4–3.8 GHz band for all households was 39.0% in 2023 and 52.2% in
+2024, both below the EU’s coverage rates of 51.06% and 67.72% respectively. The growth rate
+between 2023 and 2024 for total 5G coverage in this band in Latvia was 33.8%, which is higher than
+the EU's 32.6%. For households in sparsely populated areas, Latvia’s 5G coverage in the 3.4-3.8 GHz
+band was 0.0% in both 2023 and 2024, significantly lower than the EU's 15.86% and 26.19%
+respectively.
+
+Latvia’s 5G spectrum assignment for pioneer bands was 66.67% in both 2024 and 2025, below the
+EU’s assignment rates of 73.4% and 74.63% respectively. Latvia saw no growth in spectrum assignment
+between 2024 and 2025, while the EU’s growth on this metric was 1.7%. Latvia’s indicators of
+broadband take-up show a mixed performance compared with the EU average. In 2023, 70.8% of
+
+
+5 Special Eurobarometer 566 on ‘the Digital Decade’ 2025: https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+
+                                        5  Latvia
+
+
+
+fixed broadband subscriptions in Latvia were at speeds of 100 Mbps or higher, surpassing the EU’s
+65.9%. By 2024, this figure rose to 72.86%, still ahead of the EU’s 71.88%. However, Latvia’s year-on-
+year growth rate for this type of subscription between 2023 and 2024 of 2.9% lagged behind the EU’s
+9.1%. For subscriptions at speeds of 1 Gbps or higher, Latvia started at 4.66% in 2023, below the EU’s
+18.47%. By 2024, Latvia reached 24.22%, outpacing the EU’s 22.25%. Latvia's growth rate of 419.7%
+for 1-Gbps-or-higher subscriptions significantly outpaced the EU’s 20.5%. In terms of 5G SIM cards per
+head of population, Latvia showed strong performance. In 2023, 29.06% of the population had 5G SIM
+cards, higher than the EU’s 21.7%. This figure rose to 43.21% in 2024, also higher than the EU’s 35.56%.
+However, Latvia’s growth rate on this metric between 2023 and 2024 of 48.7% was lower than the EU’s
+63.9%.
+
+VHCN and FTTP
+
+Latvia has increased its target for VHCN coverage and adjusted its target trajectory accordingly. It
+has also introduced an FTTP target and trajectory, both of which are aligned with the EU target of
+100% FTTP coverage by 2030. The country is on track according to its target national trajectory. Given
+the latest numbers and the pace of roll-out, both targets (for VHCN coverage and FTTP coverage) seem
+to be out of reach for Latvia without significant efforts. These targets seem all the more unlikely to be
+met given that Latvia’s roadmap adjustment did not present any new measures.
+
+Latvia’s NRA reports that there is a competitive and affordable market for consumers for both VHCN
+and FTTP.
+
+ 2024 recommendation on connectivity infrastructure: Continue the ongoing efforts to support
+ VHCN, FTTP and significantly increase efforts for 5G rollout, including by fostering private investment
+ and by stimulating take-up.
+
+ In 2024, Latvia continued the implementation of existing measures but did not take any new
+ measures. Latvia relies on the long-running measures introduced in its roadmap. However, more
+ efforts are needed to reach the 2030 target.
+
+
+The Latvian NRA, Sabiedrisko pakalpojumu regulesanas komisija, has deregulated the country’s
+electronic communications markets. In this context, the Latvian NRA has limited possibilities to shape
+the copper switch-off process in the country. However, Latvia does not have extensive copper
+networks left in place. The actual share of copper technologies within fixed broadband networks is
+around 19% at household level, and public services are becoming less and less copper-reliant. The
+Latvian NRA is not in favour of an EU-level mandatory deadline for copper switch-off. The Latvian NRA
+underlines the risk that a mandatory deadline could mean that some end users in more remote areas
+could be left without any viable connectivity alternative.
+
+5G
+
+Following the roadmap adjustment, Latvia’s 5G target remains at 70% penetration by 2030, which is
+below the EU target of 100%. The country is on track to achieve this target according to its national
+trajectory. At 71%, Latvia’s 5G performance is significantly higher than its target trajectory level for
+2024 (55.5%). This means the country has already surpassed its 2030 target. Given Latvia’s latest
+performance, and the high pace of 5G roll-out in the country, it seems that this 70% target could be
+increased.
+The Latvian market shows progress in 6G technology. Based on current progress, it is possible that
+6G could be operating in the country (in test mode) as early as 2028. One of Latvia’s telecoms
+
+
+                                        6  Latvia
+
+
+
+operators has become the first Baltic operator to be a full member of the 6G Smart Networks and
+Services Industry Association (6G-IA), which allows it to be more actively involved in 5G and 6G
+research programmes and infrastructure implementation projects. The Latvian telecoms operator is
+currently working on: (i) R&D on future 3GPP features using Open Core platforms; (ii) international
+academic,  industrial and  public-sector  partnerships;  (iii)  live networks  including testbeds  for
+experimentation; and (iv) the validation of new technologies.
+
+The Latvian Ministry of Defence, the national armed forces, NATO and LMT, a Latvian mobile operator
+launched the Digital Backbone Experiment (DiBaX), which is exploring the potential applications of 5G
+in military operations. There are also two 5G networks in the Latvian town of Adazi that allow defence
+technology developers to test and compare the performance of new innovations across different 5G
+networks.
+
+Latvia’s NRA reports that there is a competitive and affordable market for consumers in 5G.
+
+ 2024 recommendation on connectivity infrastructure: Continue the ongoing efforts to support
+ VHCN, FTTP and significantly increase efforts for 5G rollout, including by fostering private investment
+ and by stimulating take-up. Ensure sufficient access of new players to spectrum for innovative
+ business-to-business (B2B) and business-to-consumer (B2C) applications and encourage operators
+ to speed up the deployment of 5G stand-alone core networks
+
+ Latvia made some effort to address the recommendation through new policy actions in 2024.
+ Latvia continues to profit from the radio spectrum auctions in the 3.6 MHz band, and and additional
+ 50 MHz was awarded to two operators in 2023 (the licenses for these awarded spectrum started in
+ January 2024 and will be valid for 20 years). As a result, Latvia is making progress in expanding 5G
+ coverage, although, is still behind the EU average.
+
+
+Semiconductors
+
+Latvia continues to show ambition in developing and strengthening its semiconductor industry, by
+establishing a national chips competence centre as part of the European Union Chips Joint Undertaking
+in Latvia (under the DIGITAL-Chips-2024-SG-CCC1 project). In 2024, the European Commission
+approved of Latvia’s application for the development and operation of a national chips competence
+centre that will: (i) provide services to participants in the semiconductor ecosystem (in particular start-
+ups and SMEs);  (ii) join the European network of semiconductor competence centres; and  (iii)
+cooperate with other Member State competence centres and ecosystems.
+
+Latvia has competitive advantages in the international semiconductor industry, specifically in photonic
+integrated circuits, microelectronics, polymer photonics platforms, and quantum devices. The centre
+is expected to invest in quantum computing, AI, cybersecurity, cooperation between Baltic and Nordic
+countries, and the development of digital skills (in particular in the chips sector).
+
+Edge nodes
+
+According to the Edge Node Observatory, Latvia is estimated to have deployed a total of 10 edge
+nodes in 2024, an increase of 5 edge nodes from 2023.
+
+Latvia has, in its 2024 roadmap adjustment, provided a new target and a trajectory for edge nodes.
+Their projected trajectory includes no edge nodes until 2027, when they anticipate having 10 (which
+they have already achieved in 2024). This number is expected to increase to 26 in 2028, 35 in 2029,
+and 51 by 2030.
+
+                                        7  Latvia
+
+
+
+ 2024 recommendation on edge nodes: Consider measures specific to edge nodes deployment,
+ supplementary to the IPCEI-CIS participation.
+
+ In 2024, Latvia continued the implementation of existing measures but did not take any new
+ measure. Latvia continues to be an indirect member of the IPCEI Next Generation Cloud
+ Infrastructure and Services. Latvia assesses that there is no demand nor need for edge nodes, and
+ as a result it has not developed any policies to develop edge nodes.
+
+
+Quantum technologies
+
+Latvia continues to make strides in quantum technologies. The project ‘Development of experimental
+quantum communication infrastructure in Latvia’ (LATQN), running from the beginning of 2023 to the
+end of 2025, progressed significantly during 2024. In 2024, the project: (i) completed a quantum key
+distribution (QKD) encryption transmissions test within the healthcare sector; (ii) continued wireless
+tech integration with QKD; (iii) made plans for continued advanced data transmission integration (lines
+of various lengths have been examined including 16, 20, 40, and 50 kilometres and more); and (iv)
+started tests with the financial sector. LATQN is involved in the broader EuroQCI community, and takes
+part in the regular EuroQCI Technical Working Group meetings. It also represents Latvian quantum
+computing projects in various EU Member State forums and European Commission activities.
+
+Supporting EU-wide digital ecosystems and scaling up innovative enterprises
+
+Latvia demonstrates uneven progress in technology adoption, with its uptake of data analytics
+surpassing the EU average, but cloud and artificial intelligence (AI) considerably lagging behind. The
+disparity between SMEs and large enterprises remains pronounced, with the latter exhibiting
+significantly higher adoption rates in all three areas. Given the dominant role of SMEs in the Latvian
+enterprise landscape and their substantial contribution to economic value added, targeted measures
+to increase digital adoption among SMEs could drive broader economic growth and resilience.
+
+SMEs with at least basic digital intensity
+
+In 2024, 3 out of 5 SMEs (59.18%) in Latvia had at least a basic level of digital intensity, up from
+52.27% in 2022, with an annualised growth rate of 6.4% (2022 is the last comparable year that used a
+similar methodology for measuring the digital intensity of enterprises). Despite this progress, Latvia
+remained considerably below the EU average on this measure, with 72.91% of EU SMEs having at least
+a basic level of digital intensity. Focusing on high or very high digital intensity, only 25.94% of SMEs in
+Latvia reached this level, also falling short of the EU average, where 32.66% of SMEs have attained this
+level. Thus, although Latvian SMEs showed significant growth on this measure, they still lagged behind
+EU average levels.
+
+Latvia’s roadmap adjustment introduces seven measures to improve the digitalisation of SMEs by
+educational measures. The ‘Improving digital technology and process management skills in Latvian
+companies’ project will train at least 85 employees in 19 training programmes by 2026. The measure
+‘Development of Digital  Skills for Development of New Products and Technologies in Latvian
+enterprises’ aims to provide training for 950 micro, small, and medium-sized enterprises in digital stills.
+The training will consist of 550 short-cycle training programmes, 350 long-cycle programmes, and 50
+online training programmes. A total of 5 000 employees will be trained under the framework.
+Additionally, the Recovery and Resilience Facility (RRF) measure ‘Development of digital skills of
+enterprises’ targets Latvian SMEs at the beginning of their digitalisation process. This RRF measure
+
+
+
+                                        8  Latvia
+
+
+
+started in 2023 and will run until 2026. By mid 2024, it had supported over 1 080 businesses, and is
+expected to have supported a total of 2 521 by 2026.
+
+ 2024 recommendation on the digitalisation of SMEs: Establish and sustain ambitious initiatives to
+ further increase the digitalisation of SMEs.
+
+ Latvia made some efforts to address the recommendation through new policy actions in 2024.
+ Latvia has continued to set up and sustain ambitious RRF measures (see above) to further increase
+ the digitalisation of SMEs. As a result, Latvia has seen impressive growth on some measures of
+ digitalisation. Despite this, Latvia is still behind the EU average in this area, and it is therefore
+ important for it to continue prioritising the digitalisation of SMEs, especially considering that many
+ of the long-running measures are scheduled to finish in 2025 and 2026.
+
+
+Take up of cloud/AI/data analytics
+
+
+
+
+
+According to the latest available data (2023), 48.23% of enterprises in Latvia engaged with AI
+technologies, sophisticated or intermediate cloud-services, or data analytics in the past year, falling
+short of the EU average of 54.70%. More specifically, the uptake of these technologies among Latvian
+SMEs was slightly lower at 47.3%, while large enterprises in Latvia demonstrated a significantly higher
+rate of 88.41%. This indicates a difference of 41.11 pps in uptake between SMEs and large enterprises
+in Latvia, which is higher than the EU-level gap of 32.97 pps.
+
+Adoption of cloud, data analytics, and the three technologies together (i.e. AI, cloud and data analytics)
+were not measured in 2024.
+
+The latest available data reveals that in 2023 cloud uptake in Latvia stood at 29.04%, trailing behind
+the EU average of 38.97%. However, while 28.22% of Latvian SMEs had adopted cloud services by
+2023, uptake among large enterprises was more than double this rate, at 64.25%. This indicates a
+marked difference of 36.03 percentage points in uptake between SMEs and large enterprises in Latvia,
+which exceeds the EU-level gap of 31.68 percentage points (on average 69.73% of large EU businesses
+had adapted cloud services by 2023).
+
+In Latvia, 36.87% of all enterprises performed data analytics in 2023, beating the EU average of
+33.25%. However, while uptake of data analytics was 35.92% among Latvian SMEs, a much higher
+proportion of large Latvian enterprises, 77.78%, used data analytics. This resulted in a gap of 41.86 pps
+in engagement with data analytics between SMEs and large enterprises, which was consistent with the
+EU gap.
+
+
+
+
+                                        9  Latvia
+
+
+
+In 2022, Latvian SMEs generated 47.6% of the value added in the country’s economy, while large
+enterprises generated 32.1%. Notably, SMEs made up approximately 97.7% of all Latvian enterprises
+with more than 10 employees, while large enterprises accounted for only 2.3% of enterprises with
+more than 10 employees.
+
+Latvia has demonstrated uneven progress in technology adoption, with the uptake of data analytics
+surpassing the EU average, but the uptake of cloud and AI lagging considerably behind. The disparity
+between SMEs and large enterprises in Latvia remains pronounced, with the latter exhibiting
+significantly higher adoption rates in all three areas (data analytics, AI, and cloud). Given the dominant
+role of SMEs in the Latvian enterprise landscape and their substantial contribution to economic value
+added, targeted measures to increase digital adoption among SMEs could drive broader economic
+growth and resilience.
+
+      Cloud
+
+Latvia’s roadmap adjustment presents TetCloud, a data-storage solution produced by the technology
+company Tet. TetCloud provides data storage outside Latvia and is considered to be the most powerful
+cloud platform in the Baltics.
+
+ 2024 recommendation on cloud: Continue, expand, and accelerate public and private investments
+ in the uptake of cloud. Support the broad uptake of the next generation of cloud infrastructure and
+ services under development in the IPCEI-CIS by companies of all sizes, including by liaising with the
+ direct participants to develop a country-specific dissemination strategy reaching beyond the
+ participating organisations
+
+ Latvia has made some effort to address the recommendation through new policy actions in 2024.
+ Latvia has fully addressed the recommendation by putting significant policy actions into place in
+ 2024. So far, the IPCEI-CIS has been launched by all three applicants. Latvian experts participate in
+ EU working groups on cloud data, microelectronics and health. These experts are drawn from 15
+ Latvian enterprises. Other research and knowledge-dissemination organisations have expressed an
+ interest in joining the IPCEI-CIS, two of which have already received State aid and begun
+ implementing projects. Furthermore, Latvia plans to participate in JEF-IPCEI where the future of
+ IPCEIs are planned and solutions for improving the ICPEIs are sought.
+
+
+      Data Analytics
+
+Several data analysis courses in Latvia cater to business professionals, offering both foundational and
+advanced skills. The Baltic Data Academy1 provides an in-depth Power BI course focused on data
+modelling, DAX, and interactive dashboards, with the option to adapt the course to English. Riga
+Business School2 offers an advanced Excel course through its LIFT program, covering Power Query,
+Power Pivot, and DAX for automated reporting, with English-language support available. Riga Coding
+School3 also offers a beginner-friendly course on data processing and visualization, occasionally
+available in English. These programs are ideal for entrepreneurs, analysts, and decision-makers seeking
+to enhance their data-driven business capabilities.
+
+ 2024 recommendation on data analytics: Continue, expand, and accelerate public and private
+ investments in the uptake of Data analytics.
+
+ Latvia made some efforts to address the recommendation through new policy actions in 2024.
+ Latvia is addressing this recommendation by focusing on highlighting measures in  it roadmap
+
+
+                                       10  Latvia
+
+
+
+ adjustment that have an overall focus on the digitalisation of SMEs (see chapter on the SMEs with
+ at least a basic level of digital intensity) including data analytics but not necessarily targeted solely
+ at data analytics.
+
+
+       Artificial Intelligence
+
+AI in Latvia grew with a remarkable speed during the last year almost doubling (4.5% in 2023 to
+8.83% in 2024). However, the country  is lagging behind compared to  its national trajectory.
+Additionally, the OECD reports that venture capital investment in AI in Latvia almost tripled year on
+year from EUR 7.83 million in 2023 to EUR 19.36 million in 2024.
+
+ In late December 2024, Latvia’s Cabinet of Ministers approved of the draft law ‘On the development
+of AI’ that will: (i) build an AI technology ecosystem; (ii) lay down the legal framework for cooperation
+between universities, the public sector and the private sector; and (iii)decide on the purpose and tasks
+of the Latvian National Centre for Artificial Intelligence. Additionally in 2024, a memorandum of
+cooperation on AI was signed by the Latvian government, agencies of the Latvian government, and
+Microsoft. This memorandum will promote the use of AI and digital solutions to modernise public
+administration processes in the country.
+
+ 2024 recommendation on AI: Continue, expand, and accelerate public and private investments in
+ the uptake of AI.
+
+ Latvia made some efforts to address the recommendation through new policy actions in 2024.
+ Through the draft law and the memorandum, Latvia is now setting up a framework that will guide
+ the future development of AI. However, there remains a lack of additional public and private
+ investment in the uptake of AI.
+
+
+Unicorns, scale-ups and start-ups
+
+In 2024, Latvia had zero unicorns. Latvia aims to achieve two unicorns by 2030.
+
+The number of start-ups in Latvia is growing every year. The Latvian start-up association, Startin.LV,
+estimates that Latvia was home to 512 start ups at the end of 2024, and 3 968 people were employed
+by Latvian start-ups in 2023. Most Latvian start-ups are B2B and their main activity  is the creation of
+software. In 2024, EUR 34.3 million of equity funding was awarded to Latvian start-ups. The percentage
+of start-ups with at least one female shareholder increased from 25% in 2023 to 26.4% in 2024.
+
+In its roadmap adjustment, Latvia presented its plan ‘Support for the development of innovative
+entrepreneurship in SMEs’, which aims to ensure the availability of financing to implement a business’s
+ideas and develop commercial activity in Latvia. This initiative supports the goals of Latvia’s smart
+specialisation strategy by increasing the proportion of innovative businesses in the economy and
+fostering commercial activities that generate high added value in the high-tech and medium-high-tech
+sectors. As part of the programme 22 representative offices of IDAL were set up, and the programme
+plans to have supported 488 enterprises by 2029 and create 1 000 new jobs. By the end of 2024, 161
+enterprises had already been supported in incubation and 13 enterprises had received a grant.
+
+Additionally, the ‘Venture capital investments of the EU cohesion policy programme for 2021-2027': (i)
+measure, acceleration funds had, by the end of 2024, invested a total amount of EUR 1.6 million in 24
+companies; (ii) start-up and growth funds had invested EUR 9 million; and (iii) an additional EUR 9
+
+
+                                       11  Latvia
+
+
+
+million had been invested in private co-financing. By the end of 2027, the measure is expected to have
+supported 68 more mature companies, including 45 start-ups.
+
+Strengthening Cybersecurity & Resilience
+
+In Latvia, 54.61% of individuals took at least one action to protect their data online in 2024, below
+the EU average of 69.55%. However, only 26.7% of Latvians engaged in three or more actions to
+promote cybersecurity in the year (and therefore could be considered as having above-basic digital
+safety skills). The most common action taken by Latvians during the year to protect their cybersecurity
+was reading privacy policy statements (32.25% did this), while checking if websites where personal
+data were provided were secure was the measure least commonly taken (only 20.75% of people did
+this).
+
+
+
+
+
+Latvian enterprises tend to experience fewer cyber-attacks than the EU average, but Latvian
+employees are also less aware of their ICT-security-related obligations than their EU peers. The
+number of Latvian enterprises that experienced ICT security incidents leading to unavailability of ICT
+services due to attack from outside (e.g. ransomware attacks or denial of service attacks) increased
+significantly in Latvia, growing from 3.79% in 2022 to 8.02% in 2024. This is the highest percentage for
+2024 of all the EU Member States and is significantly higher than the EU average for 2024 of 3.43%.
+However, Latvian enterprises are less prone to incidents related to hardware or software failures
+(10.05% of enterprises had such problems) than their EU peers (17.97% had such problems). In terms
+of preventive measures, 88.88% of Latvian enterprises deployed some ICT security measures in 2024
+(around the EU average of 92.76%), but only 47.47% of enterprises in the country made their
+employees aware of their obligations in ICT-security-related issues, significantly below the EU average
+(59.97%).
+
+Latvia is falling behind the EU in the roll-out of the secure Internet Protocol version 6 (IPv6) for end
+users. On the deployment of secure internet standards, Latvia is falling behind the EU in the roll-out
+of IPv6 for the end users (only 15% of end users in Latvia use this protocol against an EU average of
+36%) and is significantly behind the EU average on the server side (2% of Latvian servers use this
+protocol, against 17% of servers in the EU on average). IPv6 is an important protocol as it ensures the
+scalability, stability, and security of the internet. The deployment of this new version is increasingly
+urgent, as traditional IPv4 addresses have been long depleted. Domain Name System Security
+Extensions (DNSSEC) is also an important standard to be rolled out, as it introduces security features
+to DNS.
+
+
+                                       12  Latvia
+
+
+
+In Latvia, the DNSSEC validation rate (i.e. verification rate of the authenticity of responses sent by name
+servers to clients, using a digital signature technology) is 70% (Q3 2024), significantly above the EU
+average of 47%.
+
+According to the Digital Decade Eurobarometer 2025, 80% of Latvian citizens think that an improved
+cybersecurity, better protection of online data and safety of digital technologies would facilitate their
+daily use of digital technologies.
+
+Latvia’s overarching cybersecurity strategy for 2023-2026 continues to guide Latvia’s overall
+cybersecurity approach. In the quarter of 2024 Latvia had its highest historical level of cyber threats
+ever. CERT.LV, the Cyber Incident Response Institution of the Republic of Latvia, registered 418,325
+cyber incidents (affected unique IP addresses), and increase of 25% compared with the same period
+in 2023. Financial and geopolitical cyber-attacks continue to be prevalent, and most of the cyber-
+attacks are ‘tied’ cyber-attacks supporting Russia. Distributed denial of service attacks continue to be
+the most common form of attack on Latvia, and although the number of these attacks has fallen they
+have become more complex, concentrated, powerful, and harmful.
+
+Despite the high amount of cyber-attacks, Latvia maintains a high level of cyber resilience, as CERT.LV
+reports that the recorded cyber-attacks have not had a significant impact on public security and/or
+essential and important services.
+
+In  its roadmap adjustment, Latvia reports of several measures  it  is implementing to boost  its
+cybersecurity. One of these is in the field of education: Riga Technical University launched a two-year
+course of studies on cybersecurity in 2024 that will educate 200 students from different fields in five
+key areas of cybersecurity: management, hygiene, incident management, digital forensics, and
+architecture. After the completion of this programme, the students (with the help of mentors) will go
+to the regions of Latvia to help local governments and enterprises to implement cybersecurity
+management frameworks and technical solutions. Riga Technical University also launched masters
+degree programme in cybersecurity engineering in 2023 which now has 38 graduates.
+
+ 2024 recommendation on cybersecurity: Implement cyber security classes in the formal education
+ in relevant study programs.
+
+ Latvia addressed fully the recommendation by putting significant policy actions into place in 2024.
+ Latvia has implemented cyber security classes in formal education.
+
+
+Despite Latvia’s introduction of cybersecurity classes in formal education, there is still a significant
+shortage of cybersecurity professionals and skills. Even though, Latvia’s general education in secondary
+school includes some cybersecurity topics, and non-formal education is available, overall levels of
+cybersecurity education are fragmented, and there is no overall coordinating body for cybersecurity
+education. The teaching of deeper cybersecurity knowledge is limited to selected schools, and even
+though there are classes/courses offered at a university masters level there are not enough courses
+offered at bachelor level, nor is there a dedicated bachelor level programme.
+
+
+
+
+
+                                       13  Latvia
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Latvia  is making an effort to increase digital  skills by both upskilling  its labour force, and
+economically inactive population (including young and  seniors), aiding SMEs in the  digital
+transformation, and introducing individual learning accounts to promote digital skills. There is a
+rural-urban divide, with people living in rural areas having lower levels of digital skills than those living
+in cities. Older adults and people with lower levels of education also have significantly lower levels of
+digital skills. Latvia’s overall level of proficiency in digital skills is below the EU average. Latvia’s lower
+performance of at least basic digital skills present as a challenge in many other areas such as the
+digitalisation of SMEs, and the development of public services for citizens and businesses.
+
+According to the 2025 Eurobarometer, 82% of Latvians think that accessing public services online will
+be important for their daily life in 2030. Concerning human support to help access and use digital
+technologies and services, 71% consider it would improve their daily use of digital technologies, and
+85% think public authorities should consider it important to ensure that people receive proper human
+support to help them adapt to the changes in their lives brought about by digital technologies and
+services.
+
+Equipping people with digital skills
+
+Basic Digital Skills
+
+Latvia’s digital skills profile is weak. In 2023, the percentage of the Latvian population with at least
+basic digital skills was 45.34%, falling short of the EU average of 55.56%. Despite the absence of data
+for 2024, analysing the available data by various demographics reveals several key points.
+
+      Gender Gap: Interestingly, the gender gap in digital skills in Latvia is in favour of women, with
+       44.12% of men and 46.43% of women having at least basic digital skills. This the opposite of
+       the EU average gap (which has a 2.23 pps in favour of men), indicating a relatively balanced
+         digital skillset between genders.
+       Education Level: Educational attainment is significantly linked to digital skills. In Latvia, 65.59%
+        of those with higher education have at least basic digital skills, which is below the EU average
+        (79.83%). Only 32.75% of Latvians with no or low levels of formal education have proficiency
+         in digital skills, with the gap between this group and the national average being 12.59
+       percentage points. This is almost half of what is observed at the EU level (where the gap is
+       21.95 pps).
+       Living Areas: Residents of rural areas in Latvia have the lowest levels of at-least-basic digital
+          skills, at just 32.31%, significantly lagging behind the EU average for rural areas (47.50%). The
+       gap between rural areas and the national average when measuring the percentage of people
+       with at-least-basic levels of digital skills is 13.03 percentage points, which is larger than the EU
+       average (8.06 pps), indicating a significant regional digital divide.
+
+
+
+
+                                       14  Latvia
+
+
+      Age Groups: The most digitally skilled age group in Latvia is the group aged 25-to-34, with
+       67.08% of people in this age cohort having the highest level of digital skills, just below the EU
+       average  (70.18%).  Conversely,
+       the  group aged  65-to-74  has
+      much lower  digital  skills, with
+        only 14.53% of this cohort having
+       the highest level of digital skills,
+        well below the EU average for
+        that age group (28.19%).
+       Digital Skills Index components:
+        Latvia performs better than the
+      EU average in three out of the
+         five areas on the  Digital  Skills
+        Index.  The  highest  score  for
+        Latvia  is in communication and
+        collaboration skills, 89.67% of the
+       population  have  these   skills.
+       However,  the  country  scores
+        poorly in safety skills where only
+       54.61% of the population has
+       these skills, which is significantly below the EU average (69.55%).
+
+In summary, Latvia’s digital skills situation presents a challenge, with overall proficiency below the EU
+average. While the gender gap is not problematic and the country is at or above EU levels in certain
+skills areas, there is a need for improvement, especially in bridging the rural-urban divide and
+improving the digital capabilities of older adults and people with lower levels of education. Addressing
+these issues will be crucial for advancing Latvia’s digital proficiency.
+
+Latvia’s target is for 70% of its population to have at-least-basic digital skills by 2030 below the EU
+target of 80%. Despite new measures added in the roadmap adjustment, Latvia is far from reaching its
+target. Due to the spillover effect of basic digital skills in helping the country to reach several other
+Digital Decade targets, it is especially important for Latvia to intensify its efforts in this area.
+
+Latvia has focused on individual learning accounts to boost people’s digital skills. In 2024 Lavia
+launched the individual learning account programme STARS (stars.gov.lv). The program is aimed to
+make learnings more accessible and appealing for particularly for those groups whose learning
+opportunities are limited or lack the motivation to participate in education. STARS provides over 60
+different educational programmes targeted at developing medium and high levels of digital skills. The
+study models, vocational education programme modules, and module clusters last between 50 and
+212 hours. The participants are awarded 500 euros to cover the cost of the education programme,
+depending on the price of the course, it can be free, or the individual may choose to co-finance the
+remaining amount. And in 2024, the Latvian NGO, Riga TechGirls, concluded its five-year programme
+‘Get to know your technologies’. This programme aimed to develop an understanding of the diverse
+fields within technology field, the opportunities technologies create, and how the knowledge can be
+beneficial across various industries. During its five-year run, the programme has had over 30 000
+participants (6 590 in 2024).
+
+
+
+
+
+                                       15  Latvia
+
+
+
+ 2024 recommendation on digitalisation of skills: Accelerate measures to further boost digital skills
+ of the population and increase investments. Focus on implementing measures and digital literacy
+ education for everyone.
+
+ Latvia made some efforts to address the recommendation through new policy actions in 2024.
+ The Latvian roadmap adjustment has introduced two new measures. Many of the measures
+ introduced in the original roadmap were long-term measures launched in 2024 that will finish
+ around 2027, so it is still too early to be able to determine the effects of those. However, based on
+ current initiatives it seems that they will not be enough to bridge the big gap.
+
+
+ICT specialists
+
+ICT specialists account for 4.9% of total employment in Latvia (2030 national target 10%) after an
+increase of 11.36% in 2024 compared with 2023. This puts Latvia just below the EU average of 5.0%.
+The country is lagging behind compared to its national trajectory. ICT specialists accounted for only
+4.4% of total employment in Latvia in 2023 so growth of 11.36% on this measure between 2023 and
+2024 is more than double the growth observed at EU level (where the number of ICT specialists as a
+percentage of total employment only grew by 4.2% between 2023 and 2024).
+
+Latvia’s performance in the provision of ICT training and ICT specialist employment shows a mixed
+picture when compared to the EU average. In terms of ICT specialist employment, ICT specialists as a
+percentage of Latvia's total employment stood at 4.4% in 2023, below the EU's 4.8%. By 2024, this
+figure rose to 4.9%, still trailing behind the EU's 5.0%. However, Latvia's growth rate of 11.4% in this
+area outperformed the EU’s growth rate of 4.2%. On female ICT specialists, Latvia has a higher
+percentage than the EU. In 2023, 23.9% of ICT specialists in Latvia were female, exceeding the EU’s
+19.4%. This figure increased to 26.8% in 2024, while the EU’s figure only slightly increased to 19.5%.
+Latvia’s year-on-year growth rate of 12.1% in this area significantly outperformed the EU’s 0.5%
+indicating a promising trend in gender diversity within the ICT sector.
+
+
+The provision of ICT training for enterprises with 10 or more employees has declined in Latvia, with
+a lower percentage of enterprises offering such training compared to the EU average. In 2022, 15.1%
+of enterprises with 10 or more employees in Latvia provided ICT training, which was lower than the
+EU’s 22.37%. By 2024, this figure had decreased to 14.54%, while the EU's figure also slightly decreased
+to 22.29%.
+
+Latvia's ICT training provision for enterprises with 10 or more employees has declined, with a lower
+percentage of enterprises offering such training compared to the EU average. However, the country
+shows a positive trajectory in the employment of ICT specialists, particularly in the growth of female
+ICT specialists. The growth rate of female ICT specialists in Latvia is notably higher than the EU average,
+indicating a promising trend in gender diversity within the ICT sector.
+
+While Latvia faces challenges in ICT training provision, the country's strong growth in ICT specialist
+employment, particularly among females, is a positive indicator.
+
+ In term of demand from the labour market, Eurostat experimental statistics based on web scraping
+show that the profiles of ‘software and applications developers and analysts’ are the most sought after
+profile in Latvia, representing 43.2% of online job advertisements for ICT specialists (58.0% at EU level).
+Two types of profile are more wanted in Latvia than in the EU in average: ‘information and
+communications technology service managers’ (4.6% of online job advertisements for ICT specialists),
+and ‘information and communications technology operations and user support technicians’ (16.1%).
+
+                                       16  Latvia
+
+
+
+Latvia still aims to reach its target of having ICT specialists make up 10% of people in employment
+by 2030. Based on the measures introduced in the roadmap adjustment and Latvia’s current rate of
+progress, is the country appears to be on track to reach the 2030 target. In its roadmap adjustment,
+Latvia presented two especially impressive measures to train ICT specialists. The  first of these
+measures is the human capital development action plan for 2024-2025, which focuses on cross-cutting
+and general components of education, data, evidence-based decisions, analytics, and cooperation with
+business. The plan identifies five lines of action; STEM education and skills; labour market expansion;
+attracting qualified workers to take up ICT training; supply and quality of adult learning; and support
+for entrepreneurial spirit. The measure is intended to increase the number of ICT specialists by 10 000
+by 2027. Furthermore, in their five-year ‘Get to know technologies’ programme, which ran from 2021
+to 2025, the Riga TechGirls group educated more than 30 000 participants to promote IT skills,
+programming, cybersecurity, use of AI, and management of information technology projects.
+
+ 2024 recommendation on ICT specialists: Continue existing and implement additional measures
+ targeting various groups to ensure an increase of ICT specialists, and improve gender balance.
+
+ Latvia addressed fully the recommendation by putting significant policy actions into place in 2024.
+ Latvia has addressed this recommendation in full through both: (i) the growth of ICT specialists as a
+ percentage of the workforce (including the growth in the percentage of women ICT specialists); and
+  (ii) the introduction of measures in the roadmap (mentioned above).
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Latvia’s performs strongly on digital public services and access to e-health records compared with
+the EU average, with noteworthy recent progress in services for both the general public and
+businesses. In 2023, Latvia’s total score for digital public services for citizens was 88.22, surpassing the
+EU’s 79.44. This figure rose to 93.48 in 2024, still ahead of the EU’s 82.32. Latvia's growth rate of 6.0%
+on this measure between 2023 and 2024 outpaced the EU’s 3.6%. In the category of cross-border
+digital services for citizens, Latvia’s scores were 85.88 in 2023 and 89.74 in 2024, higher in both years
+than the EU’s 68.37 and 71.28, respectively. Latvia's growth rate of 4.5% on this measure between
+2023 and 2024 was slightly above the EU's 4.3%.
+
+For digital public services for businesses, Latvia's total score was 87.22 in 2023 and 96.25 in 2024,
+compared with the EU's 85.42 and 86.23, respectively. The country's growth rate of 10.4% between
+2023 and 2024 on this measure significantly exceeded the EU’s 0.9%. In the category of cross-border
+digital services for businesses, Latvia’s scores were 74.44 in 2023 and 92.5 in 2024, compared with the
+EU’s 73.13 and 73.76, respectively. Latvia’s growth rate of 24.3% between 2023 and 2024 on this
+measure was substantially higher than the EU’s 0.9%.
+
+On access to e-health records, Latvia's total score was 84.82 in 2023 and 85.86 in 2024, compared
+with the EU's 79.12 and 82.7, respectively. However, Latvia's growth rate of 1.2% on this measure
+between 2023 and 2024 lagged behind the EU’s 4.5%.
+
+Latvia’s digital public services for both citizens and businesses are advancing at a rapid pace, with
+both absolute scores and growth rates in these areas consistently outpacing the EU average. This
+trend is particularly evident in cross-border services for businesses, where Latvia’s growth rate is
+substantially higher than the EU's.
+
+
+
+
+
+                                       17  Latvia
+
+
+
+e-ID
+
+In 2023, 70.22% of Latvians said they had used their eID to access online services for private
+purposes in the previous 12 months, which is above the EU average (41.11%).
+
+Latvia participates in the Large-scale EU Digital Identity Wallet Pilot for Trusted Identity Technologies
+and a Single Digital Ecosystem (APTITUDE) together with Czechia, Germany, Greece, France, Hungary,
+Italy, the Netherlands, Poland, Portugal, and Ukraine. The project intends to create a digital wallet and
+digital ID, so that payments can be made more securely. The project is a follow-up on the large-scale
+project EU Digital Identity Wallet – the NOBID Consortium.
+
+Latvia’s own solution, Wallet B, is in its final development phase, with testing to begin in March 2025.
+
+LV stakeholders, both public and private, are present in one of the LSPs consortia proceeding to the
+grant agreement preparation stage. This includes government ministries and agencies, a bank and
+academia. LV’s overall costs for involvement in proposals is approximately 2.6 million euros with the
+grant requested by LV entities amounting to over 1.3 million euros. Use-cases LV will be involved in
+include: NOBID: Payments.
+
+Latvian stakeholders, both public and private, are present in one of the large-scale-pilot consortia for
+the development of payments/eID, and these stakeholders are now proceeding to the grant agreement
+preparation stage. These stakeholders include government ministries and agencies, a bank and
+academics.  Latvia’s  overall  costs  for involvement  in the eID  large-scale-pilot  proposals  are
+approximately EUR 2.6 million, with the grant requested by Latvian stakeholders amounting to over
+EUR 1.3 million. Use-cases for the project include: NOBID: Payments.
+
+Digitalisation of public services for citizens and businesses
+
+Latvia still aims to reach a score of 100 for the digitalisation of public services for citizens and
+businesses by 2030. Based on its presented measures their current performance it seems likely that
+Latvia will reach this target.
+
+In 2024, Latvia made progress in further digitalising several important governmental sectors. The
+roadmap adjustment presents 11 different governmental sectors in which Latvia said it would increase
+the availability of key public services. The different initiatives include:
+
+    ·  a register of documents attesting to primary and secondary education, which allows the
+        individual to view their own data;
+    ·   ensure the creation and improvement of e-services in the culture sector;
+    ·   develop the social platform ‘DigiSoc’, which will gather the necessary data for the provision of
+         social services from both registers of national importance and external systems;
+    ·   the ‘Development of the public prosecutors Information System’ project, which will enable
+        parties involved in a legal case to consult the case file electronically without visiting the public
+        prosecutor’s office;
+    ·   the ‘E-Case programme’, which will improve a standardised approach to data exchange
+      between government information systems, and expand the range of electronic services
+        available to the public;
+    ·   plans to allow for data check in Latvia’s register of businesses;
+    ·   plans to improve digital services to facilitate cross-border cooperation in the field of taxation;
+    ·   plans to improve geospatial solutions for smart land management, policy forecasting, and
+       planning for the transition to a green economy.
+
+
+                                       18  Latvia
+
+
+
+
+The above-mentioned measures are also intended to reduce the administrative burden and promote
+simplification.
+
+ 2024 recommendation on public services: Ensure coordinated implementation of public services
+ and work towards integration of public records with the view of implementing 'once-only' principle
+ in public administration.
+
+ Latvia made some efforts to address the recommendation through new policy actions in 2024.
+ Latvia has made progress in implementing the ‘once-only’ principle in public administration.
+ Latvia’s Data Dissemination and Management Platform (DAGR) is the default data source for public
+ administrations  to ensure the  efficient  functioning  of  institutional  services  in the  digital
+ environment. In 2024, seven contracts were concluded for the improvement of DAGR, and four
+ cooperation agreements are now in the process of harmonisation. In addition, two cooperation
+ agreements were adjusted in 2024 to include a specific data set pm the portal. The DAGR now
+ contains datasets from 11 institutions and validated consumer applications for 22 institutions.
+ Under the Single Digital Gateway Regulation at national level, it is intended that all the necessary
+ data for services to residents and businesses will be retrieved from DAGR.
+
+
+e-Health
+
+Latvia still aims at a score of 100 for the access to medical records, in line with the 2030 EU target.
+The country is on track according to its national trajectory. Based on their presented measures and
+their current performance it seems likely that the member state will reach this target.
+
+ Latvia’s e-Health maturity score improved slightly on last year. Of the 13 e-Health data categories
+investigated in this study, 9 are available in a timely manner, and the remaining 4 categories are
+available but not in a timely manner. Data on laboratory test results are made available to citizens in a
+timely manner. As in 2023, 8 of the 9 applicable categories of healthcare providers in Latvia are
+connected to country’s online health portal and supply data to it. (geriatric nursing homes are not
+applicable because they are classified as social institutions and not medical institutions and, therefore
+do not process health data). The only applicable provider not supplying data is private rehabilitation
+centres. Citizens can access data through an online portal, although a mobile application is not
+available. Moreover, the online access service does not follow EU guidelines on web accessibility,
+which is the main gap in the maturity of Latvia’s e-Health system.
+
+Latvia is making strides in ensuring accessible healthcare for all. In 2024, cross-border e-health
+services became available in Latvia by providing cross-border data exchange via the European core
+service platform (together with Czechia, Estonia, Spain, France, Lithuania, Portugal and other countries
+are expected to join). This system allows for the exchange of basic health data (diagnosis, surgical
+intervention), the transfer and use of e-prescriptions (for foreigners or Latvians abroad in the countries
+that are members of the platform). Additionally, Latvian patient data are available to foreign doctors,
+and Latvian doctors can access the data of residents of other countries. Furthermore, since 2024
+Latvian medical treatment institutions submit vaccinations and laboratory results to the national e-
+health system. Latvia has also launched a digital competence centre which gathers ICT staff working
+on the system in one place to allow for the more effective introduction of new digital solutions and
+improvement of existing solutions.
+
+
+
+
+
+                                       19  Latvia
+
+
+
+According to the 2025 Eurobarometer, 76% Latvians think that digital technologies will be important
+when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for diagnosis
+diseases) during their daily life by 2030.
+
+ 2024 recommendation on e-Health: Ensure that all data types are made available in a timely
+ manner. Offer a mobile application for citizens to access their electronic health records. Connect
+ more private rehabilitation centres to the online access service. Ensure that the online access
+ service complies to web accessibility guidelines.
+
+  Latvia made some efforts to address the recommendation through new policy actions in 2024. As
+ mentioned above, Latvia is taking measures to ensure that healthcare is becoming more accessible.
+ However, efforts are needed to ensure that: (i) there is a mobile application; (ii) private rehabilitation
+ centers are connected to online access services; and (iii) online systems for access to health data
+ comply with web-accessibility guidelines.
+
+Building a safe and human centric digital environment and preserving our
+democracy
+
+In Latvia, online participation in political and civic life is increasing. In 2024, 26.42% of people in
+Latvia used the internet to participate in consultations, for voting or sharing opinions online. This share
+is above the EU average and trending upward (this percentage in Latvia was only 11.44% in 2022),
+which is a stronger growth than observed at the EU level (where this percentage only increased from
+17.59% in 2022 and 20.45% in 2024).
+
+In 2023, 31.51% of individuals in Latvia encountered messages online that were considered hostile or
+degrading towards groups based on factors such as racial origin or disability, slightly below the EU
+average of 33.5%. Young people (aged 16-24) (of whom 36.79% were exposed to such message) and
+adults (aged 25-64) (of whom 34.13% were exposed to such messages) reported very similar levels of
+exposure, indicating little variation by age. Males (30.28%) and females (32.62%) also reported
+comparable rates, with a minor gender difference.
+
+In 2023, 46.52% of individuals in Latvia stated that they had come across untrue or doubtful
+information or content on internet news sites or social media, slightly below the EU average of 49.25%.
+Of those exposed to such content, only 15.87% verified its truthfulness, suggesting that a relatively
+small share of individuals engaged in critical evaluation of the material. Young people (aged 16-24)
+reported higher exposure (55.82% were exposed) than adults (aged 25-64) (49.53% of whom were
+exposed), with verification rates being markedly higher for young people (25.36%) than for adults
+(16.16%). Males (46.56%) and females (46.48%) reported nearly identical levels of exposure, with
+similar verification rates of 17.3% for males and 14.59% for females.
+
+The 2023 data on online interactions in Latvia reveal rates of perceived hostile and degrading online
+messages and exposure to potentially misleading information online that are only slightly below the
+EU average. However, the data also suggest that Latvians have not been actively engaging in verifying
+the accuracy of online content, with only a relatively small proportion of individuals in Latvia checking
+the truthfulness of information. The findings therefore highlight the need for efforts to: (i) promote
+digital literacy and critical thinking in Latvia, particularly among adults (those aged 25-64); (ii) support
+the development of effective online information evaluation skills; and (iii) foster a more informed
+online community.
+
+According to the Digital Decade Eurobarometer 2025, 88% Latvians think it should be urgent the action
+of the public authorities to protect children online regarding the negative impact of social media on
+
+                                       20  Latvia
+
+
+
+children’s mental health, cyberbullying and online harassment. 86% believe it is urgent to put in place
+age assurance mechanisms to restrict age-inappropriate content.
+
+The organisation Latvian Safer Internet Centre (LSIC) priorities children’s safety online. The LSIC
+website and helpline allow minors to report breaches and illegal content online. The organisation
+assists children experiencing cybercrime and cyber bullying. The organisation works in an agreement
+together with the Latvian Police to report cybercrime and also provide professional consultation by
+psychologists.
+
+Fighting disinformation is high on the Latvian agenda. Their ‘Black on White’ communication project
+intends to increase the resilience against disinformation, and other manipulation methods in the
+information space. ‘Black on White’ is an internet platform (www.melnsuzbalta.lv) that gathers up-to-
+date information on disinformation cases, and allows members of the public to report disinformation
+and other instances of manipulation online by filling out a questionnaire. The project also has a podcast
+that educates its listeners how to recognise the most common manipulation methods, and how to
+report suspicious behaviour online.
+
+Leveraging digital transformation for a
+smart greening
+
+
+Latvians recycle only a small share of their old ICT equipment. Latvians recycled their laptop, desktop
+devices and mobile phones (6.86% for laptops and tablets, 7.69% for desktops, 8.45% mobile phones)
+less than the EU average (11.31%, 14.66%, and 10.93% respectively). Moreover, only 16.03% of
+Latvians said that they considered energy efficiency as important when purchasing ICT devices (EU:
+19.35%). Nevertheless, 14.87% of Latvians said in the survey that the eco-design of the device they
+purchased was important, which is above the EU average (12.04%). However, Latvian consumers said
+that those two eco-friendly criteria were of less importance than the price, performance, and design
+of the ICT device.
+Latvia emphasises promoting energy-efficient and material-efficient digital infrastructure. In its
+roadmap adjustment, Latvia present three measures aimed at improving the energy and material
+efficiency of digital infrastructure. The first of these measures is that in 2025 the Delska Data Centre in
+Riga will be commissioned, and it will run on 100% green energy from wind farms and innovative
+cooling systems. The second of these measures is the construction of the Tet data centre in Salaspils,
+which started in late 2024, and is expected to be completed in 2028. The data centre includes modern
+energy-efficiency technologies, and heat recovery systems, which will transfer heat from the centre to
+the local district heating system. Additionally, the data centres of the State Radio and Television Centre
+(LVRTC) provides tier III services (a classification of data services that are very reliable, secure and
+available) thanks to its own reserved power supply and cooling system. These data centres also have
+backup communication channels with connections to global telecom operators. Finally, Latvia has
+produced a draft regulation on state data processing cloud regulations (24-TA-1050) that sets out the
+functions and task of cloud in the country’s national administrative IT systems, which includes a
+requirement that data centres managing state data must comply with the current version of standard
+ISO/IEC 30134-2.
+Latvia’s roadmap adjustment presents several energy-efficient digital solutions. Latvia has a project
+for a smart street-lighting system where the sensory system and LED lighting adapt light intensity
+depending on weather and traffic conditions, thus reducing energy consumption. Additionally, the
+
+
+
+                                       21  Latvia
+
+
+
+country has put it place a smart waste container management system for the automatic digitalisation
+of the waste collecting process.
+
+Latvia’s Information and Communication Technology Association, LIKTA, is also in the process of
+developing a sustainability reporting tool that aims to advise enterprises on how to effectively align
+their activities with the necessary sustainability requirements. The total budget for this project is EUR
+3.46 million, and the consortium consists of industry ministries from countries in the region and
+leading ICT associations from Estonia, Finland, Latvia, and Lithuania.
+
+According to the Digital Decade Eurobarometer 2025, 55% Latvians consider digital technologies
+important to help fight climate change (standing slightly above the EU average of 74% and showing an
+increment of four percentage points since last year), while 68% of Latvian respondents think that
+ensuring that digital technologies serve the green transition should be an important action for public
+authorities (below the EU average of 80%).
+
+ 2024 recommendation on green ICT: Develop a coherent approach to twinning the digital and green
+ transitions. First, promote improvements in energy and material efficiency of digital infrastructures,
+ in particular data centres. Second, support the development and deployment of digital solutions
+ that reduce the carbon footprint in other sectors, such as energy, transport, buildings, and
+ agriculture, including the uptake of such solutions by SMEs.
+
+ Monitor and quantify the emission reductions of the deployed digital solutions in line with the
+ relevant EU guidance and with the support of the methodology developed by the European Green
+ Digital Coalition, in view of future policy development, as well as of attracting relevant financing
+
+ Latvia made some efforts to address the recommendation through new policy actions in 2024.
+ Latvia has tackled this recommendation through its emphasis on presenting digital solutions that
+ strive to promote energy efficiency.
+
+
+
+
+
+                                       22  Latvia
+
+Annex I – National roadmap analysis
+
+  Latvia submitted a Digital Decade roadmap adjustment on 11 February 2025, containing 43
+ measures, 2 new targets and 4 revised trajectories. The update clearly aligns with the new
+ Commission’s priorities on the uptake of AI, cybersecurity and technology in general. Latvia’s roadmap
+ adjustment includes reporting on consultations with stakeholders. However, the roadmap adjustment
+ lacks additional targeted support to help the country reach 100% connectivity.
+
+
+ The roadmap adjustment addresses a substantial number of relevant recommendations issued in
+ 2024:
+        Propose a target and trajectory for FTTP and edge nodes. (ii) Align the level of ambition of
+         targets for at least basic digital skills, VHCN, and 5G with the EU targets: In response, Latvia
+        proposed a target for FTTP and edge nodes and aligned it with the EU targets. Latvia also
+        modified its target for VHCN in line with EU targets, while its target for 5G continues to be for
+        coverage of 70% (EU target: 100%) and least basic digital skills remains lower than the EU
+         value of 80% at 70% by 2030.
+       MEASURES: (i) Strengthen measures and increase funding for at least basic digital skills, VHCN,
+       and 5G to be able to align its national targets with the Digital Decade target. (ii) Increase
+         funding for digitalisation of businesses and digital skills to be able to reach targets for digital
+          intensity of SMEs, uptake of cloud, AI, data analytics, and for ICT specialists. (iii) Provide more
+         information on the implementation of digital rights and principles (and Digital Decade general
+          objectives), including what national measures contribute to  it: Latvia has addressed the
+        recommendation in full.
+                        Measures and budget in national roadmap6
+
+
+
+
+
+6 When referring to national roadmaps, data used in this report are those declared by the Member States in their national
+roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting
+practices and methodological choices across Member States. No systematic assessment of the extent to which Member
+States followed the guidance was carried out.
+
+                                       23 Latvia
+
+
+
+Overall, Latvia has presented a non-exhaustive set of the policies and measures contributing to the
+achievement of each of the Digital Decade targets. The measures presented also cover several types
+of objectives: technological leadership, sovereignty, competitiveness, cybersecurity, fundamental
+rights and the green transition. In total the measures presented amount to EUR 2 287.4 million, not
+including confidential budgets.
+
+
+
+
+
+                                      24  Latvia
+
+Annex II – Factsheet on multi-country
+projects (MCPs) and funding
+
+ Multi-country projects and best practices
+
+ Latvia is a member of the Alliance for Language Technologies EDIC and of the Local Digital Twins towards
+ the CitiVERSE EDIC, and is working towards setting up an EDIC in the area of cancer imaging. Latvian
+ entities are indirect and/or associated partners in the IPCEI on Microelectronics and Communication
+ Technologies (IPCEI-ME/CT) and the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-
+ CIS). Latvia is a participating state in the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+ Latvia has not yet presented any measure in the framework of Digital Decade’s Best Practice
+ Accelerator.
+
+
+
+ EU funding for digital policies in Latvia
+ Latvia allocates 23% of its total recovery and resilience plan to digital (EUR 416 million)7. In addition,
+ under cohesion policy, EUR 441million (representing 10% of the country’s total cohesion policy
+ funding), is dedicated to advancing Latvia’s digital transformation8. According to JRC estimates, EUR 738
+ million directly contribute to achieving Digital Decade targets (of which EUR 384 million comes from
+ the RRF and EUR 354 million from cohesion policy funding)9.
+
+
+
+
+
+7 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 16 May 2025.
+8 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion
+Fund, the European Social Fund Plus, and the Just Transition Fund.
+9 Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade
+targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March
+2025.
+
+                                       25  Latvia
+
+Annex III – Digital Rights and Principles10
+
+
+
+
+
+ Activity on Digital Rights and Principles (figure 1)
+
+Latvia has shown rather limited activity in implementing digital rights and principles, with the overall
+number of initiatives of around a half or less of the EU average (77). Latvia launched 2 new initiatives
+in 2024, showing limited progress towards its commitments. Latvia is most active in the area of
+Interactions with algorithms and artificial intelligence systems (III). There is room for improvement,
+especially with regards to Putting people at the centre of the digital transformation (I), Connectivity
+(II) and Sustainability (VI) where less activity has been identified.
+
+Impact of Digital Rights Initiatives (figure 2)
+
+Quantitative impact indicators, developed by support study, illustrate the level of implementation of
+digital rights initiatives on the ground. Based on the available data, they estimate the impact of
+measures implemented by key stakeholders in Latvia (mainly national government) and how these are
+perceived by citizens.
+
+The indicators suggest that Latvia is most successful in implementing commitments related to Putting
+people at the centre of the digital transformation (I). Latvia should review and strengthen efforts in
+areas where the impact of digital rights initiatives appears to be limited despite relative activity,
+notably on Freedom of choice (III).
+
+According to the Special Eurobarometer 'Digital Decade 2025’, 46% of citizens in Latvia think that the
+EU protects their digital rights well (a 4% increase since 2024). This is above the EU average of 44%.
+Citizens are particularly confident about getting easy online access to all key public services in the EU
+(58%, corresponding to the EU average). They are most worried that their right to a safe digital
+environment and content for children and young people is not well protected (39%, below the EU
+average of 48%).
+
+
+
+
+
+10 Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles,
+available here. For a more detailed country factsheet accompanying the study, click here.
+
+                                       26

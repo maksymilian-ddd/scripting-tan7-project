@@ -1,0 +1,1844 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,110.9,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.8,"Brussels, 17.6.2026  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.6,SWD(2026) 155 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.1,384.9,242.4,PART 3/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,254.9,330.9,272.6, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,291.4,432.4,304.7,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,208.1,323.2,391.9,336.4,Digital Decade 2026 country report 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,354.9,373.6,368.2,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,107.4,380.7,492.5,393.9,COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN 
+1,11,1,TimesNewRomanPS-BoldMT,12.0,86.1,394.4,513.6,407.7,"PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,137.8,408.3,462.3,421.5,COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+1,13,0,TimesNewRomanPS-BoldMT,12.0,298.5,422.0,301.5,435.3, 
+1,14,0,TimesNewRomanPS-BoldMT,12.0,73.4,447.8,526.3,461.0,State of the Digital Decade 2026: Closing structural gaps and mobilising investments for 
+1,15,0,TimesNewRomanPS-BoldMT,12.0,255.2,461.6,344.9,474.8,2030 and beyond 
+1,16,0,TimesNewRomanPSMT,12.0,110.2,492.9,486.6,506.2,{COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+1,17,0,TimesNewRomanPSMT,12.0,238.8,506.7,361.1,520.0, {SWD(2026) 157 final} 
+1,17,1,TimesNewRomanPSMT,12.0,526.2,510.3,529.2,523.6, 
+1,18,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,18,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,18,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,18,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+2,1,0,Calibri-Bold,11.0,72.0,84.0,74.5,95.1, 
+2,2,0,Calibri-Bold,11.0,72.0,106.5,74.5,117.5, 
+2,3,0,Calibri-Bold,11.0,72.0,129.0,74.5,140.1, 
+2,4,0,Calibri-Bold,11.0,72.0,151.5,74.5,162.5, 
+2,5,0,Calibri-Bold,11.0,72.0,173.9,74.5,184.9, 
+2,6,0,Calibri-Bold,11.0,72.0,196.5,74.5,207.5, 
+2,7,0,Calibri-Bold,11.0,72.0,218.9,74.5,229.9, 
+2,8,0,Calibri-Bold,11.0,72.0,241.5,74.5,252.5, 
+2,9,0,Calibri-Bold,11.0,72.0,263.9,74.5,275.0, 
+2,10,0,Calibri-Bold,11.0,72.0,286.4,74.5,297.4, 
+2,11,0,Calibri-Bold,36.0,123.1,199.6,377.2,235.6,DIGITAL DECADE 
+2,11,1,Calibri-Bold,36.0,123.1,239.6,405.0,275.6,COUNTRY REPORT 
+2,11,2,Calibri-Bold,36.0,123.1,279.6,204.3,315.6,2026 
+2,12,0,Calibri-Bold,11.0,72.0,308.9,77.0,320.0,  
+2,13,0,Calibri-Bold,11.0,72.0,331.4,74.5,342.4, 
+2,13,1,Calibri-Bold,11.0,72.0,345.9,74.5,356.9, 
+2,13,2,Calibri-Bold,24.0,72.0,363.0,77.4,387.0, 
+2,14,0,Calibri-Bold,28.0,200.0,378.6,301.2,406.5,Bulgaria 
+2,15,0,Calibri,11.0,72.0,400.0,74.5,411.1, 
+2,16,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+3,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+3,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+3,3,0,Calibri-Light,16.0,72.0,98.4,133.8,114.4,Contents 
+3,3,1,Calibri,11.0,72.0,118.5,523.0,129.5,Executive summary ................................................................................................................................. 1
+3,3,1,Calibri,12.0,523.0,117.7,525.7,129.7, 
+3,4,0,Calibri-Light,11.0,83.1,137.9,212.2,148.9,Bulgaria in the Digital Decade
+3,4,0,Calibri,11.0,212.2,137.9,523.0,148.9, .............................................................................................................. 1
+3,4,0,Calibri,12.0,523.0,137.2,525.7,149.2, 
+3,5,0,Calibri-Light,11.0,83.1,157.5,282.6,168.5,Funding for digital and multi-country projects
+3,5,0,Calibri,11.0,282.5,157.5,523.0,168.5, .................................................................................... 2
+3,5,0,Calibri,12.0,523.0,156.7,525.7,168.7, 
+3,6,0,Calibri-Light,11.0,83.1,176.9,415.6,187.9,"A competitive, sovereign and resilient EU based on technological leadership"
+3,6,0,Calibri,11.0,415.7,176.9,523.0,187.9, .................................... 3
+3,6,0,Calibri,12.0,523.0,176.2,525.7,188.2, 
+3,7,0,Calibri-Light,11.0,83.1,196.3,305.9,207.4,Protecting and empowering EU people and society
+3,7,0,Calibri,11.0,306.0,196.3,523.0,207.4, ............................................................................ 4
+3,7,0,Calibri,12.0,523.0,195.6,525.7,207.6, 
+3,8,0,Calibri,11.0,83.1,215.9,523.0,226.9,Recommendations .............................................................................................................................. 4
+3,8,0,Calibri,12.0,523.0,215.2,525.7,227.2, 
+3,9,0,Calibri,11.0,72.0,235.4,523.0,246.4,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 6"
+3,9,0,Calibri,12.0,523.0,234.6,525.7,246.6, 
+3,10,0,Calibri,11.0,83.1,254.9,523.0,266.0,Building technological leadership: digital infrastructure and technologies ........................................ 6
+3,10,0,Calibri,12.0,523.0,254.2,525.7,266.2, 
+3,11,0,Calibri,11.0,94.0,274.4,523.0,285.4,Connectivity infrastructure ............................................................................................................. 6
+3,11,0,Calibri,12.0,523.0,273.6,525.7,285.6, 
+3,12,0,Calibri,11.0,94.0,293.9,523.0,305.0,Semiconductors ............................................................................................................................. 10
+3,12,0,Calibri,12.0,523.0,293.2,525.7,305.2, 
+3,13,0,Calibri,11.0,94.0,313.4,523.0,324.4,Edge nodes .................................................................................................................................... 11
+3,13,0,Calibri,12.0,523.0,312.6,525.7,324.6, 
+3,14,0,Calibri,11.0,94.0,332.8,523.0,343.9,Quantum technologies .................................................................................................................. 11
+3,14,0,Calibri,12.0,523.0,332.1,525.7,344.1, 
+3,15,0,Calibri,11.0,83.1,352.4,523.0,363.4,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 12
+3,15,0,Calibri,12.0,523.0,351.6,525.7,363.6, 
+3,16,0,Calibri,11.0,94.0,371.8,523.0,382.9,SMEs with at least basic digital intensity ...................................................................................... 12
+3,16,0,Calibri,12.0,523.0,371.1,525.7,383.1, 
+3,17,0,Calibri,11.0,94.0,391.4,523.0,402.4,Take up of advanced technologies ................................................................................................ 14
+3,17,0,Calibri,12.0,523.0,390.6,525.7,402.6, 
+3,18,0,Calibri,11.0,94.0,410.8,523.0,421.9,"Unicorns, scale-ups and start-ups ................................................................................................. 17"
+3,18,0,Calibri,12.0,523.0,410.1,525.7,422.1, 
+3,19,0,Calibri,11.0,83.1,430.4,523.0,441.4,Strengthening Cybersecurity & Resilience ........................................................................................ 18
+3,19,0,Calibri,12.0,523.0,429.7,525.7,441.7, 
+3,20,0,Calibri,11.0,72.0,449.8,523.0,460.9,Protecting and empowering EU people and society ............................................................................. 20
+3,20,0,Calibri,12.0,523.0,449.1,525.7,461.1, 
+3,21,0,Calibri,11.0,83.1,469.3,523.0,480.3,Empowering people and bringing the digital transformation closer to their needs ........................ 20
+3,21,0,Calibri,12.0,523.0,468.5,525.7,480.5, 
+3,22,0,Calibri,11.0,94.0,488.8,523.0,499.9,Equipping people with digital skills ............................................................................................... 20
+3,22,0,Calibri,12.0,523.0,488.1,525.7,500.1, 
+3,23,0,Calibri,11.0,94.0,508.3,523.0,519.3,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 24"
+3,23,0,Calibri,12.0,523.0,507.5,525.7,519.5, 
+3,24,0,Calibri,11.0,72.0,527.8,523.0,538.9,Leveraging digital transformation for a smart green transition ............................................................ 30
+3,24,0,Calibri,12.0,523.0,527.1,525.7,539.1, 
+3,25,0,Calibri,11.0,72.0,547.3,523.0,558.3,Annex I: National roadmap analysis ...................................................................................................... 31
+3,25,0,Calibri,12.0,523.0,546.5,525.7,558.5, 
+3,26,0,Calibri,11.0,72.0,566.7,523.0,577.8,"Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 33"
+3,26,0,Calibri,12.0,523.0,566.0,525.7,578.0, 
+3,27,0,Calibri,11.0,72.0,586.3,74.5,597.3, 
+3,28,0,Calibri-Bold,11.0,72.0,605.7,74.5,616.8, 
+3,29,0,Calibri,11.0,72.0,628.3,74.5,639.3, 
+3,30,0,Calibri,11.0,72.0,781.9,74.5,793.0, 
+3,30,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+4,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+4,2,0,Calibri-Bold,26.0,72.0,88.4,287.2,114.4,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,131.5,525.9,142.6,"Bulgaria continues to make progress in the Digital Decade, supported by strong connectivity "
+4,4,1,Calibri-Bold,11.0,72.0,146.1,525.9,157.1,infrastructure and gradual improvements in digital public services. However significant gaps remain 
+4,4,2,Calibri-Bold,11.0,72.0,160.6,422.7,171.6,"in digital skills, SME digitalisation and the uptake of advanced technologies"
+4,4,2,Calibri,11.0,423.1,160.6,525.8,171.6,. The country benefits 
+4,4,3,Calibri,11.0,72.0,175.1,525.6,186.1,"from extensive fibre coverage, increasing mobile broadband use and continued policy engagement in "
+4,4,4,Calibri,11.0,72.0,189.6,525.8,200.7,"digital transformation. It has also expanded investment e-government and eHealth services, while "
+4,4,5,Calibri,11.0,72.0,204.0,525.9,215.1,"strengthening its participation in European digital initiatives. At the same time, Bulgaria’s overall digital "
+4,4,6,Calibri,11.0,72.0,218.5,525.9,229.6,"performance is hampered by persistent structural weaknesses, including low levels of digital skills, SME "
+4,4,7,Calibri,11.0,72.0,233.1,525.9,244.1,"digital intensity that is among the lowest in the EU, and low adoption of cloud computing, artificial "
+4,4,8,Calibri,11.0,72.0,247.6,214.3,258.6,"intelligence, and data analytics. "
+4,5,0,Calibri-Bold,11.0,72.0,274.0,525.8,285.0,Some of the structural gaps identified may affect Bulgaria’s capacity to translate its solid 
+4,5,1,Calibri-Bold,11.0,72.0,288.5,525.9,299.6,"infrastructure foundations into broader digital transformation across the economy and society, fully "
+4,5,2,Calibri-Bold,11.0,72.0,303.0,525.7,314.1,"benefit from digital transformation, and strengthen its competitiveness within the EU digital "
+4,5,3,Calibri-Bold,11.0,72.0,317.6,118.6,328.6,economy. 
+4,5,3,Calibri,11.0,118.7,317.6,525.8,328.6,"Structural constraints, including relatively low R&D intensity, fragmented research funding, "
+4,5,4,Calibri,11.0,72.0,332.0,525.9,343.0,limited scale-up capacity and relatively little connection between research and business affect 
+4,5,5,Calibri,11.0,72.0,346.5,525.8,357.5,Bulgaria’s innovation ecosystem. Limited adoption of advanced digital technologies and low SME 
+4,5,6,Calibri,11.0,72.0,361.0,523.5,372.0,digital intensity may constrain productivity growth and the integration of Bulgarian firms into higher-
+4,5,7,Calibri,11.0,72.0,375.5,525.7,386.6,value-added segments of European value chains. Persistent shortages of digital skills and uneven 
+4,5,8,Calibri,11.0,72.0,389.9,525.8,401.0,cybersecurity maturity also risk slowing the spread of digital technologies across sectors and regions. 
+4,5,9,Calibri,11.0,72.0,404.5,525.9,415.5,"Without stronger investment in skills, innovation capacity and technology uptake it will take time to "
+4,5,10,Calibri,11.0,72.0,419.0,242.9,430.0,achieve the Digital Decade objectives. 
+4,6,0,Calibri-Bold,11.0,72.0,445.5,525.9,456.5,"Despite these challenges, Bulgaria contributes to the EU’s digital leadership in several emerging "
+4,6,1,Calibri-Bold,11.0,72.0,459.9,116.7,470.9,domains. 
+4,6,1,Calibri,11.0,121.9,459.9,525.9,470.9,The country is strengthening its participation in European initiatives relating to 
+4,6,2,Calibri,11.0,72.0,474.4,525.9,485.5,semiconductors and quantum technologies and continues to develop research capabilities in these 
+4,6,3,Calibri,11.0,72.0,488.9,525.9,500.0,areas. Bulgaria’s ICT sector is dynamic and provides a strong foundation for digital innovation. 
+4,6,4,Calibri,11.0,72.0,503.5,525.8,514.5,"Initiatives supporting start-ups, technology transfer and venture financing aim to gradually strengthen "
+4,6,5,Calibri,11.0,72.0,517.9,525.9,528.9,the scale-up ecosystem. Continued integration into EU research and innovation networks will help 
+4,6,6,Calibri,11.0,72.0,532.4,525.7,543.4,further develop these capabilities and support Bulgaria’s contribution to Europe’s technological 
+4,6,7,Calibri,11.0,72.0,546.9,123.8,557.9,leadership. 
+4,7,0,Calibri-Light,15.0,72.0,574.3,248.3,589.3,Bulgaria in the Digital Decade
+4,7,0,Calibri-Bold,15.0,248.6,574.3,255.2,589.3,  
+4,8,0,Calibri-Bold,11.0,72.0,605.1,525.5,616.2,Bulgaria shows a moderate level of ambition in its contribution to the Digital Decade having set 12 
+4,8,1,Calibri-Bold,11.0,72.0,619.7,494.0,630.7,"national targets (out of a possible 14), half of which are aligned with the EU 2030 targets"
+4,8,1,Calibri,11.0,494.3,619.7,525.9,630.7,. In its 
+4,8,2,Calibri,11.0,72.0,634.2,525.8,645.2,"national roadmap, Bulgaria provided 12 trajectory points for 2025 (out of 13 analysed). The country is "
+4,8,3,Calibri,11.0,72.0,648.7,525.8,659.7,on track to meet 75% of them. Bulgaria addressed 56% of the nine recommendations issued by the 
+4,8,4,Calibri,11.0,72.0,663.1,525.9,674.1,Commission in 2025 by making some changes through new measures. According to the national 
+4,8,5,Calibri,11.0,72.0,677.6,525.9,688.7,"roadmap, 48% of the measures will have been completed by the end of 2026. The total public budget "
+4,8,6,Calibri,11.0,72.0,692.1,525.8,703.2,"allocated to these measures is EUR 597 million, which accounts for 27% of the total public budget "
+4,8,7,Calibri,11.0,72.0,706.7,188.2,717.7,outlined in the roadmap.  
+4,9,0,Calibri-Bold,11.0,72.0,733.1,357.3,744.1,Bulgaria is working hard to meet the Digital Decade objectives. 
+4,9,0,Calibri,11.0,357.1,733.1,525.8,744.1,"The national Digital Decade roadmap, "
+4,9,1,Calibri,11.0,72.0,747.6,525.6,758.6,"initially submitted in April 2024, has undergone only minor updates and continues to prioritise the "
+4,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+5,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+5,3,0,Calibri,11.0,72.0,85.3,525.9,96.4,"digitalisation of public services, the development of digital skills and the digital transformation of "
+5,3,1,Calibri,11.0,72.0,99.9,525.9,110.9,businesses. It includes 60 measures and is largely aligned with the National Recovery and Resilience 
+5,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,"Plan (RRP) and EU funding programmes. Bulgaria has addressed most recommendations, mainly "
+5,3,3,Calibri,11.0,72.0,128.8,334.5,139.8,through clarifications and references to existing measures. 
+5,4,0,Calibri,11.0,72.0,155.3,525.8,166.3,"Bulgaria continues to base its strategy on its existing framework, the Digital Transformation of Bulgaria "
+5,4,1,Calibri,11.0,72.0,169.8,525.8,180.9,"2024–2030. This year, the authorities are planning to present the National Strategy for the Digital "
+5,4,2,Calibri,11.0,72.0,184.3,525.9,195.4,"Transformation of the Republic of Bulgaria 2026–2030, which is currently at the stage of development "
+5,4,3,Calibri,11.0,72.0,198.7,525.9,209.8,"and stakeholder consultation. It is drawing up priorities on business digitalisation and innovation, "
+5,4,4,Calibri,11.0,72.0,213.3,525.9,224.3,"secure and inclusive digital transformation, modernisation of public administration, digital skills "
+5,4,5,Calibri,11.0,72.0,227.8,525.9,238.8,"development, interoperable digital services, cybersecurity, and the wider use of data and emerging "
+5,4,6,Calibri,11.0,72.0,242.3,525.8,253.4,technologies to support economic and social development. While this strategy is set to provide a 
+5,4,7,Calibri,11.0,72.0,256.7,525.9,267.8,forward-looking policy direction and is designed to align Bulgaria’s digital development with the Digital 
+5,4,8,Calibri,11.0,72.0,271.2,525.9,282.3,"Decade 2030 goals, it is not yet formally integrated into the national Digital Decade roadmap and forms "
+5,4,9,Calibri,11.0,72.0,285.8,232.5,296.8,no part of the measures submitted. 
+5,5,0,Calibri-Bold,11.0,72.0,312.3,525.7,323.3,"According to the 2026 Digital Decade Eurobarometer, 74% of Bulgarians consider that digital policy "
+5,5,1,Calibri-Bold,11.0,72.0,326.7,428.9,337.7,should be a high/very high priority for the EU in shaping our future in Europe.
+5,5,1,Calibri,11.0,429.3,326.7,525.9,337.7," They also think that, "
+5,5,2,Calibri,11.0,72.0,341.2,525.9,352.2,"in the next ten years, the EU should cooperate with Member States to reinforce cybersecurity and "
+5,5,3,Calibri,11.0,72.0,355.7,525.6,366.8,"protection from online threats (88%), promote digital education and skills programmes (84%) and "
+5,5,4,Calibri,11.0,72.0,370.2,360.7,381.3,"strengthen the regulation of online platforms (81%). In addition, "
+5,5,4,Calibri-Bold,11.0,360.9,370.2,525.8,381.3,73% of Bulgarian respondents think 
+5,5,5,Calibri-Bold,11.0,72.0,384.6,459.4,395.7,that the EU should reduce its dependencies on digital technology from outside the EU
+5,5,5,Calibri,11.0,459.5,384.6,483.8,395.7,", and "
+5,5,5,Calibri-Bold,11.0,483.6,384.6,502.9,395.7,80%
+5,5,5,Calibri,11.0,502.9,384.6,525.9,395.7, that 
+5,5,6,Calibri,11.0,72.0,399.2,525.7,410.2,the EU should prioritise investment in digital infrastructure and services that are developed and 
+5,5,7,Calibri,11.0,72.0,413.7,229.4,424.8,"controlled in Europe. Meanwhile, "
+5,5,7,Calibri-Bold,11.0,231.4,413.7,250.6,424.8,45%
+5,5,7,Calibri,11.0,250.6,413.7,525.9,424.8, would be willing to switch to an EU-based digital service 
+5,5,8,Calibri,11.0,72.0,428.2,289.7,439.3,provider even if that meant slightly higher costs. 
+5,6,0,Calibri-Light,15.0,72.0,455.6,351.2,470.6,Funding for digital and multi-country projects  
+5,7,0,Calibri,11.0,72.0,482.5,525.9,493.5,"Bulgaria allocates close to 21% of its total RRP to digital (EUR 1.2 billion). Under cohesion policy, EUR "
+5,7,1,Calibri,11.0,72.0,497.0,525.8,508.0,"1.2 billion, 11% of the country’s total cohesion policy funding, is dedicated to advancing Bulgaria’s "
+5,7,2,Calibri,11.0,72.0,511.4,174.1,522.4,digital transformation. 
+5,8,0,Calibri,11.0,72.0,533.9,525.8,545.0,Bulgaria is a member of the Alliance for Language Technologies EDIC. It is a participating state of the 
+5,8,1,Calibri,11.0,72.0,548.5,293.7,559.5,EuroHPC Joint Undertaking (JU) and the Chips JU. 
+5,9,0,Calibri-Bold,11.0,276.3,574.8,316.1,585.8,Bulgaria 
+5,9,1,Calibri-Bold,12.0,410.5,574.3,424.2,586.3,EU
+5,9,1,Calibri-Bold,11.0,424.2,575.0,426.7,586.1, 
+5,9,2,Calibri-Bold,8.0,469.2,570.9,519.0,578.9,Digital Decade 
+5,9,3,Calibri-Bold,8.0,469.3,581.3,517.2,589.4,target by 2030
+5,9,3,Calibri-Bold,11.0,517.1,579.1,519.6,590.1, 
+5,10,0,Calibri-Bold,14.0,77.7,598.6,183.4,612.6,Digital Decade KPI
+5,10,0,Calibri-Bold,12.0,183.4,600.1,186.1,612.1, 
+5,10,0,Calibri-Bold,8.0,186.2,599.1,195.3,607.2,(1)
+5,10,0,Calibri-Bold,11.0,195.2,600.8,197.7,611.9, 
+5,11,0,Calibri-Bold,8.0,222.5,605.6,244.1,613.6,Latest 
+5,11,1,Calibri-Bold,8.0,217.6,616.0,249.1,624.1,available 
+5,12,0,Calibri-Bold,8.0,341.4,605.6,371.5,613.6,National 
+5,12,1,Calibri-Bold,8.0,339.2,616.0,373.6,624.1,trajectory 
+5,13,0,Calibri-Bold,8.0,300.2,610.9,325.8,618.9,Annual 
+5,13,1,Calibri-Bold,8.0,297.9,621.4,328.0,629.5,progress 
+5,14,0,Calibri-Bold,8.0,388.1,610.9,404.8,618.9,DESI 
+5,14,1,Calibri-Bold,8.0,387.5,621.4,403.9,629.5,2026
+5,14,1,Calibri,8.0,403.8,621.4,405.6,629.5, 
+5,14,2,Calibri-Bold,8.0,422.1,610.9,447.7,618.9,Annual 
+5,14,3,Calibri-Bold,8.0,419.9,621.4,448.3,629.5,progress
+5,14,3,Calibri,8.0,448.2,621.4,450.0,629.5, 
+5,14,4,Calibri-Bold,8.0,470.1,616.1,481.6,624.2,BG 
+5,14,5,Calibri-Bold,8.0,507.7,616.1,518.7,624.2,EU 
+5,15,0,Calibri-Bold,8.0,219.6,626.6,247.1,634.6,data (2) 
+5,16,0,Calibri-Bold,8.0,351.1,626.6,361.9,634.6,(3) 
+5,17,0,Calibri-Bold,8.0,265.5,600.4,282.2,608.5,DESI 
+5,17,1,Calibri-Bold,8.0,264.8,610.9,282.9,618.9,2026 
+5,17,2,Calibri-Bold,8.0,264.3,621.3,283.2,629.3,(year 
+5,17,3,Calibri-Bold,8.0,263.6,631.9,284.1,639.9,2025) 
+5,18,0,Calibri,8.0,77.7,650.8,189.3,658.9,Fixed Very High-Capacity Network 
+5,18,1,Calibri,8.0,77.7,661.3,134.2,669.3,(VHCN) coverage 
+5,18,2,Calibri,8.0,222.5,656.0,244.3,664.0,90.4% 
+5,18,3,Calibri,8.0,263.0,656.0,284.7,664.0,93.5% 
+5,18,4,Calibri,8.0,304.1,656.0,321.8,664.0,3.5% 
+5,18,5,Calibri,8.0,344.6,656.0,369.9,664.0, 96.0%  
+5,18,6,Calibri,8.0,385.6,656.1,407.4,664.2,85.5% 
+5,18,7,Calibri,8.0,426.1,656.1,443.8,664.2,3.7% 
+5,18,8,Calibri,8.0,465.9,656.0,485.6,664.0,100% 
+5,18,9,Calibri,8.0,503.4,656.1,523.1,664.2,100% 
+5,19,0,Calibri,8.0,77.7,688.3,201.5,696.3,Fibre to the Premises (FTTP) coverage 
+5,19,1,Calibri,8.0,222.5,688.3,244.3,696.3,90.4% 
+5,19,2,Calibri,8.0,263.0,692.3,284.7,700.4,93.5% 
+5,19,3,Calibri,8.0,304.1,688.3,321.8,696.3,3.5% 
+5,19,4,Calibri,8.0,344.6,688.3,369.9,696.3, 96.0%  
+5,19,5,Calibri,8.0,385.6,688.5,407.4,696.5,74.1% 
+5,19,6,Calibri,8.0,426.1,688.5,443.8,696.5,7.1% 
+5,19,7,Calibri,8.0,465.9,688.3,485.6,696.3,100% 
+5,19,8,Calibri,8.0,511.1,688.5,515.3,696.5,- 
+5,20,0,Calibri,8.0,77.7,715.3,137.9,723.3,Basic 5G coverage 
+5,20,1,Calibri,8.0,222.5,715.3,244.3,723.3,81.3% 
+5,20,2,Calibri,8.0,263.0,715.3,284.7,723.3,94.8% 
+5,20,3,Calibri,8.0,302.1,715.3,323.8,723.3,16.6% 
+5,20,4,Calibri,8.0,344.6,715.3,369.9,723.3, 96.0%  
+5,20,5,Calibri,8.0,385.6,715.5,407.4,723.5,96.8% 
+5,20,6,Calibri,8.0,426.1,715.5,443.8,723.5,2.6% 
+5,20,7,Calibri,8.0,462.9,715.3,488.8,723.3,100.0% 
+5,20,8,Calibri,8.0,503.4,715.5,523.1,723.5,100% 
+5,21,0,Calibri,8.0,77.7,734.5,167.8,742.5,"Edge Nodes (estimate, new "
+5,21,1,Calibri,8.0,77.7,744.9,125.2,753.0,methodology) 
+5,21,2,Calibri,8.0,231.3,739.6,235.5,747.7,- 
+5,21,3,Calibri,8.0,266.8,739.6,280.7,747.7,112 
+5,21,4,Calibri,8.0,310.9,739.6,315.1,747.7,- 
+5,21,5,Calibri,8.0,354.3,739.6,358.5,747.7,- 
+5,21,6,Calibri,8.0,387.5,739.8,405.6,747.8,7451 
+5,21,7,Calibri,8.0,431.9,739.8,437.9,747.8, - 
+5,21,8,Calibri,8.0,473.7,739.6,478.0,747.7,- 
+5,21,9,Calibri,8.0,501.2,739.8,525.1,747.8,10 000 
+5,22,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,22,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+6,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+6,2,0,Calibri,8.0,77.7,85.3,187.8,93.3,SMEs with at least a basic level of 
+6,2,1,Calibri,8.0,77.7,95.7,133.1,103.8,digital intensity* 
+6,2,2,Calibri,8.0,222.5,90.5,244.3,98.5,28.4% 
+6,2,3,Calibri,8.0,262.0,90.5,285.6,98.5,38.3 % 
+6,2,4,Calibri,8.0,302.1,90.5,323.8,98.5,16.2% 
+6,2,5,Calibri,8.0,345.5,90.7,367.3,98.7,51.8% 
+6,2,6,Calibri,8.0,385.6,90.7,407.4,98.7,71.4% 
+6,2,7,Calibri,8.0,424.1,90.7,445.8,98.7,11.0% 
+6,2,8,Calibri,8.0,465.0,90.5,486.7,98.5,60.0% 
+6,2,9,Calibri,8.0,505.4,90.7,521.1,98.7,90% 
+6,3,0,Calibri,8.0,77.7,114.8,138.8,122.9,Cloud computing* 
+6,3,1,Calibri,8.0,222.4,114.8,245.9,122.9,14.2%  
+6,3,2,Calibri,8.0,262.0,114.8,285.6,122.9,15.7 % 
+6,3,3,Calibri,8.0,304.1,114.8,321.8,122.9,5.2% 
+6,3,4,Calibri,8.0,345.5,114.9,367.3,123.0,11.9% 
+6,3,5,Calibri,8.0,385.6,114.9,407.4,123.0,46.7% 
+6,3,6,Calibri,8.0,426.1,114.9,443.8,123.0,9.5% 
+6,3,7,Calibri,8.0,465.0,114.8,486.7,122.9,15.0% 
+6,3,8,Calibri,8.0,505.4,114.9,521.1,123.0,75% 
+6,5,0,Calibri,8.0,77.7,133.8,145.7,141.8,Artificial Intelligence 
+6,5,1,Calibri,8.0,224.6,133.8,242.2,141.8,6.5% 
+6,5,2,Calibri,8.0,264.0,133.8,283.5,141.8,8.6 % 
+6,5,3,Calibri,8.0,302.1,133.8,323.8,141.8,32.1% 
+6,5,4,Calibri,8.0,347.6,134.0,365.2,142.1,5.7% 
+6,5,5,Calibri,8.0,385.6,134.0,407.4,142.1,20.0% 
+6,5,6,Calibri,8.0,424.1,134.0,445.8,142.1,48.0% 
+6,5,7,Calibri,8.0,465.0,133.8,486.7,141.8,11.0% 
+6,5,8,Calibri,8.0,505.4,134.0,521.1,142.1,75% 
+6,6,0,Calibri,8.0,77.7,152.9,128.7,160.9,Data analytics* 
+6,6,1,Calibri,8.0,222.4,152.9,245.9,160.9,21.9%  
+6,6,2,Calibri,8.0,262.0,152.9,285.6,160.9,27.1 % 
+6,6,3,Calibri,8.0,302.1,152.9,323.8,160.9,11.3% 
+6,6,4,Calibri,8.0,347.6,152.9,365.2,160.9,7.5% 
+6,6,5,Calibri,8.0,385.6,153.0,407.4,161.0,39.9% 
+6,6,6,Calibri,8.0,426.1,153.0,443.8,161.0,9.5% 
+6,6,7,Calibri,8.0,467.0,152.9,484.7,160.9,9.0% 
+6,6,8,Calibri,8.0,505.4,153.0,521.1,161.0,75% 
+6,7,0,Calibri,8.0,77.7,172.1,177.9,180.1,AI or Cloud computing or Data 
+6,7,1,Calibri,8.0,77.7,182.5,111.8,190.5,analytics* 
+6,7,2,Calibri,8.0,222.4,177.2,245.9,185.3,29.3%  
+6,7,3,Calibri,8.0,262.0,177.2,285.6,185.3,34.6 % 
+6,7,4,Calibri,8.0,304.1,177.2,321.8,185.3,8.6% 
+6,7,5,Calibri,8.0,354.3,177.2,358.5,185.3,- 
+6,7,6,Calibri,8.0,385.6,177.4,407.4,185.4,63.2% 
+6,7,7,Calibri,8.0,426.1,177.4,443.8,185.4,7.5% 
+6,7,8,Calibri,8.0,473.7,177.2,478.0,185.3,- 
+6,7,9,Calibri,8.0,505.4,177.4,521.1,185.4,75% 
+6,8,0,Calibri,8.0,77.7,201.5,108.3,209.5,Unicorns 
+6,8,1,Calibri,8.0,230.4,201.5,236.3,209.5,0 
+6,8,2,Calibri,8.0,270.9,201.5,276.8,209.5,1 
+6,8,3,Calibri,8.0,312.1,201.5,313.9,209.5, 
+6,8,4,Calibri,8.0,354.3,201.5,358.5,209.5,- 
+6,8,5,Calibri,8.0,389.6,201.7,403.6,209.7,324 
+6,8,6,Calibri,8.0,423.1,201.7,446.6,209.7, 10.2% 
+6,8,7,Calibri,8.0,473.7,201.5,478.0,209.5,- 
+6,8,8,Calibri,8.0,506.3,201.7,520.2,209.7,500 
+6,9,0,Calibri,8.0,77.7,220.5,164.8,228.6,At least basic digital skills* 
+6,9,1,Calibri,8.0,222.4,220.5,245.9,228.6,35.5%  
+6,9,2,Calibri,8.0,262.0,220.5,285.6,228.6,38.3 % 
+6,9,3,Calibri,8.0,304.1,220.5,321.8,228.6,3.8% 
+6,9,4,Calibri,8.0,345.5,220.5,367.3,228.6,40.4% 
+6,9,5,Calibri,8.0,385.6,220.7,407.4,228.7,60.4% 
+6,9,6,Calibri,8.0,426.1,220.7,443.8,228.7,4.3% 
+6,9,7,Calibri,8.0,465.0,220.5,486.7,228.6,52.0% 
+6,9,8,Calibri,8.0,505.4,220.7,521.1,228.7,80% 
+6,10,0,Calibri,8.0,77.7,239.7,124.4,247.7,ICT specialists 
+6,10,1,Calibri,8.0,224.6,239.7,242.2,247.7,4.6% 
+6,10,2,Calibri,8.0,265.0,239.7,282.7,247.7,4.8% 
+6,10,3,Calibri,8.0,304.1,239.7,321.8,247.7,4.3% 
+6,10,4,Calibri,8.0,347.6,239.7,365.2,247.7,4.4% 
+6,10,5,Calibri,8.0,387.7,239.8,405.4,247.8,5.0% 
+6,10,6,Calibri,8.0,426.1,239.8,443.8,247.8,2.0% 
+6,10,7,Calibri,8.0,467.0,239.7,484.7,247.7,5.0% 
+6,10,8,Calibri,8.0,503.4,239.8,523.0,247.8,~10% 
+6,11,0,Calibri,8.0,77.7,258.6,158.6,266.7,e-ID scheme notification 
+6,11,1,Calibri,8.0,232.5,258.6,234.3,266.7, 
+6,11,2,Calibri,8.0,267.6,258.6,279.9,266.7,Yes 
+6,11,3,Calibri,8.0,312.1,258.6,313.9,266.7, 
+6,11,4,Calibri,8.0,355.5,258.6,357.3,266.7, 
+6,11,5,Calibri,8.0,395.6,258.9,399.2,266.9,  
+6,11,6,Calibri,8.0,434.0,258.9,437.6,266.9,  
+6,11,7,Calibri,8.0,474.9,258.6,476.8,266.7, 
+6,11,8,Calibri,8.0,512.3,258.9,515.9,266.9,  
+6,12,0,Calibri,8.0,77.7,277.7,186.2,285.7,Digital public services for citizens 
+6,12,1,Calibri,8.0,225.4,277.7,241.4,285.7,68.0 
+6,12,2,Calibri,8.0,263.8,277.7,283.9,285.7,71.08 
+6,12,3,Calibri,8.0,304.1,277.7,321.8,285.7,4.6% 
+6,12,4,Calibri,8.0,348.4,277.7,364.4,285.7,90.0 
+6,12,5,Calibri,8.0,388.5,277.8,404.5,285.9,84.6 
+6,12,6,Calibri,8.0,426.1,277.8,443.8,285.9,2.8% 
+6,12,7,Calibri,8.0,465.8,277.7,485.9,285.7,100.0 
+6,12,8,Calibri,8.0,506.3,277.8,520.2,285.9,100 
+6,13,0,Calibri,8.0,77.7,296.8,197.1,304.8,Digital public services for businesses 
+6,13,1,Calibri,8.0,225.4,296.8,241.4,304.8,94.0 
+6,13,2,Calibri,8.0,263.8,296.8,283.9,304.8,94.04 
+6,13,3,Calibri,8.0,303.3,296.8,322.8,304.8, 0.1% 
+6,13,4,Calibri,8.0,348.4,296.8,364.4,304.8,95.0 
+6,13,5,Calibri,8.0,388.5,296.9,406.3,304.9,88.6  
+6,13,6,Calibri,8.0,426.1,296.9,443.8,304.9,2.7% 
+6,13,7,Calibri,8.0,465.8,296.8,485.9,304.8,100.0 
+6,13,8,Calibri,8.0,506.3,296.9,520.2,304.9,100 
+6,14,0,Calibri,8.0,77.7,315.7,192.3,323.8,Access to electronic health records 
+6,14,1,Calibri,8.0,225.4,315.7,241.4,323.8,87.5 
+6,14,2,Calibri,8.0,265.9,315.7,281.8,323.8,89.6 
+6,14,3,Calibri,8.0,304.1,315.7,321.8,323.8,2.4% 
+6,14,4,Calibri,8.0,348.4,315.7,364.4,323.8,85.6 
+6,14,5,Calibri,8.0,388.5,315.9,404.5,323.9,86.5 
+6,14,6,Calibri,8.0,426.1,315.9,443.8,323.9,4.6% 
+6,14,7,Calibri,8.0,465.8,315.7,485.9,323.8,100.0 
+6,14,8,Calibri,8.0,506.3,315.9,520.2,323.9,100 
+6,15,0,Calibri,6.0,72.0,334.9,78.6,340.9,(1)
+6,15,0,Calibri,9.0,78.6,335.2,80.7,344.2, 
+6,15,0,Calibri,8.0,80.7,335.9,260.6,343.9,"Indicators full description, metadata and sources in the "
+6,15,0,Calibri,8.0,260.7,335.9,362.3,343.9,DESI 2026 methodological note
+6,15,0,Calibri,9.0,362.4,335.2,364.4,344.2, 
+6,16,0,Calibri,6.0,72.0,346.8,78.6,352.8,(2)
+6,16,0,Calibri,9.0,78.6,347.1,512.7,356.1, Last available data is DESI2025 (reference year 2024) except for indicators marked with a star* for which it is DESI2024 
+6,16,1,Calibri,9.0,72.0,358.8,152.7,367.8,(reference year 2023) 
+6,17,0,Calibri,6.0,72.0,370.4,78.6,376.4,(3)
+6,17,0,Calibri,9.0,78.6,370.7,423.9,379.7," National trajectory value for 2025, if set by the country in its Digital Decade national roadmap "
+6,17,1,Calibri,9.0,72.0,382.6,74.1,391.6, 
+6,17,2,Calibri-Light,15.0,72.0,395.6,463.4,410.6,"A competitive, sovereign and resilient EU based on technological "
+6,17,3,Calibri-Light,15.0,72.0,415.3,138.1,430.3,leadership 
+6,18,0,Calibri-Bold,11.0,72.0,446.2,389.4,457.3,Connectivity infrastructure is one of Bulgaria’s strongest digital assets
+6,18,0,Calibri,11.0,389.7,446.2,525.9,457.3,", with very high fibre and very "
+6,18,1,Calibri,11.0,72.0,460.7,525.8,471.8,"high-capacity network (VHCN) coverage, and significant progress in 5G rollout. However, the main "
+6,18,2,Calibri,11.0,72.0,475.3,525.8,486.3,challenge is shifting from deployment to effective use: gigabit uptake remains limited despite high 
+6,18,3,Calibri,11.0,72.0,489.7,525.9,500.7,"coverage, reflecting affordability constraints and territorial disparities. Progress in the deployment and "
+6,18,4,Calibri,11.0,72.0,504.2,387.8,515.2,effective use of 5G networks in the 3.4–3.8 GHz band remains uneven. 
+6,19,0,Calibri-Bold,11.0,72.0,530.7,347.7,541.8,There is a major shortfall in the digitalisation of businesses.
+6,19,0,Calibri,11.0,347.7,530.7,525.8,541.8, SMEs lag far behind the EU average in 
+6,19,1,Calibri,11.0,72.0,545.2,525.9,556.3,"basic digital intensity, and the uptake of cloud solutions, AI and data analytics is still limited. A broad "
+6,19,2,Calibri,11.0,72.0,559.7,525.9,570.7,"range of support measures has been put in place and progress is visible in some areas, but these "
+6,19,3,Calibri,11.0,72.0,574.2,525.8,585.2,"measures have not yet translated into large-scale transformation, reflecting challenges in their "
+6,19,4,Calibri,11.0,72.0,588.7,525.7,599.7,"accessibility, consistency and effective uptake by businesses, particularly SMEs, including through "
+6,19,5,Calibri,11.0,72.0,603.2,525.9,614.3,"existing support structures. Key barriers include skills shortages, high investment costs, regulatory "
+6,19,6,Calibri,11.0,72.0,617.6,525.9,628.7,"complexity, cybersecurity concerns and a lack of connection between science and business. In "
+6,19,7,Calibri,11.0,72.0,632.1,525.8,643.2,"addition, the absence of a comprehensive action plan to implement the national AI strategy limits the "
+6,19,8,Calibri,11.0,72.0,646.7,525.8,657.7,"coordination and impact of efforts to promote AI uptake. Priorities include strengthening advisory, "
+6,19,9,Calibri,11.0,72.0,661.2,525.8,672.2,"skills and investment support, improving innovation support instruments, and complementing the "
+6,19,10,Calibri,11.0,72.0,675.7,343.4,686.7,national AI strategy with a clear implementation framework. 
+6,20,0,Calibri-Bold,11.0,72.0,702.1,309.2,713.1,"Bulgaria is strengthening its technological capacities,"
+6,20,0,Calibri,11.0,309.3,702.1,525.9,713.1," including in data infrastructure, edge computing "
+6,20,1,Calibri,11.0,72.0,716.6,525.7,727.7,"and quantum research. However, the innovation ecosystem remains relatively small, with limited "
+6,20,2,Calibri,11.0,72.0,731.2,343.0,742.2,private investment and weak commercialisation of research. 
+6,21,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,21,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+7,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+7,3,0,Calibri-Bold,11.0,72.0,85.3,260.4,96.4,Cybersecurity preparedness remains low
+7,3,0,Calibri,11.0,260.6,85.3,525.8,96.4,", particularly among SMEs. Recent progress, including the "
+7,3,1,Calibri,11.0,72.0,99.9,525.9,110.9,"transposition of the NIS2 Directive, the development of institutional capacities and targeted support "
+7,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,"measures, provides a basis for improvement, but further efforts are needed to ensure effective "
+7,3,3,Calibri,11.0,72.0,128.8,229.0,139.8,implementation and wider uptake. 
+7,4,0,Calibri-Light,15.0,72.0,156.2,379.5,171.2,Protecting and empowering EU people and society 
+7,5,0,Calibri-Bold,11.0,72.0,187.0,449.3,198.0,Bulgaria’s digital transformation is severely hampered by low levels of digital skills. 
+7,5,0,Calibri,11.0,449.1,187.0,525.9,198.0,Digital skills gaps 
+7,5,1,Calibri,11.0,72.0,201.6,525.8,212.7,"are particularly pronounced among older populations, people with lower levels of education and "
+7,5,2,Calibri,11.0,72.0,216.0,525.7,227.1,people living in rural areas. These deficits limit the ability of individuals and businesses to adopt and 
+7,5,3,Calibri,11.0,72.0,230.5,525.9,241.6,use digital technologies effectively and are closely linked to the country’s poor performance in SME 
+7,5,4,Calibri,11.0,72.0,245.1,525.6,256.1,digitalisation. The evidence suggests that progress will depend on a combination of targeted training 
+7,5,5,Calibri,11.0,72.0,259.6,525.9,270.6,"efforts, continued attention to teacher preparation and curriculum development, local digital inclusion "
+7,5,6,Calibri,11.0,72.0,274.0,352.7,285.0,"initiatives, and effective coordination across delivery channels. "
+7,6,0,Calibri-Bold,11.0,72.0,300.5,525.8,311.6,"At the same time, Bulgaria continues to expand initiatives aimed at improving digital skills and "
+7,6,1,Calibri-Bold,11.0,72.0,315.0,219.9,326.1,boosting workforce capabilities
+7,6,1,Calibri,11.0,220.0,315.0,525.9,326.1,". EU-funded programmes support upskilling and reskilling, while "
+7,6,2,Calibri,11.0,72.0,329.6,525.9,340.6,education and vocational-training reforms aim to increase the supply of ICT specialists and to help 
+7,6,3,Calibri,11.0,72.0,344.0,525.8,355.0,"reflect the needs of the labour market. Despite these initiatives, shortages of digital talent remain a "
+7,6,4,Calibri,11.0,72.0,358.5,429.6,369.5,major constraint and may hinder the adoption of advanced digital technologies. 
+7,7,0,Calibri-Bold,11.0,72.0,385.0,277.2,396.0,Digital public services continue to improve
+7,7,0,Calibri,11.0,277.4,385.0,525.9,396.0,", supported by ongoing investment in e-government "
+7,7,1,Calibri,11.0,72.0,399.5,525.7,410.6,infrastructure and interoperability frameworks. The availability of electronic services continues to 
+7,7,2,Calibri,11.0,72.0,413.9,525.7,425.0,"expand, and Bulgaria performs comparatively well in digital public services for businesses. However, "
+7,7,3,Calibri,11.0,72.0,428.5,525.7,439.5,"the uptake of e-government services, particularly among citizens, remains low compared with the EU "
+7,7,4,Calibri,11.0,72.0,443.0,525.9,454.0,"average, also in the field of justice, highlighting the need to improve user-friendliness, awareness and "
+7,7,5,Calibri,11.0,72.0,457.5,525.9,468.5,"trust to derive maximum benefit from public sector digitalisation, including for cross-border services. "
+7,7,6,Calibri,11.0,72.0,471.9,165.8,482.9,"Notably, In Bulgaria"
+7,7,6,Calibri-Bold,11.0,165.9,471.9,168.7,482.9,","
+7,7,6,Calibri,11.0,168.8,471.9,525.8,482.9, the digitalisation of public judicial services lags behind as concerns the 
+7,7,7,Calibri,11.0,72.0,486.4,525.9,497.5,deployment of the necessary IT solutions which are indispensable for cross-border judicial cooperation 
+7,7,8,Calibri,11.0,72.0,500.9,254.4,512.0,as a key reform of digital public services. 
+7,8,0,Calibri-Light,15.0,77.9,529.3,193.8,544.3,Recommendations 
+7,9,0,Calibri,11.0,95.9,560.1,99.3,571.2,-
+7,9,0,ArialMT,11.0,99.3,558.4,102.3,570.7, 
+7,9,1,Calibri-Bold,11.0,113.9,560.1,194.9,571.2,Basic digital skills:
+7,9,1,Calibri,11.0,195.1,560.1,520.0,571.2," Strengthen Bulgaria’s digital skills base, particularly among groups facing "
+7,9,2,Calibri,11.0,113.9,574.7,519.9,585.7,"persistent digital inclusion barriers, through education, training and local inclusion "
+7,9,3,Calibri,11.0,113.9,589.2,481.3,600.2,"initiatives, while improving coordination and monitoring across delivery channels. "
+7,9,4,Calibri,11.0,95.9,603.7,99.3,614.7,-
+7,9,4,ArialMT,11.0,99.3,602.0,102.3,614.3, 
+7,9,5,Calibri-Bold,11.0,113.9,603.7,182.7,614.7,ICT specialists:
+7,9,5,Calibri,11.0,182.8,603.7,519.9,614.7, Increase the supply of ICT specialists by strengthening education and 
+7,9,6,Calibri,11.0,113.9,618.2,519.9,629.3,"training pathways, improving links between education, research and industry, and "
+7,9,7,Calibri,11.0,113.9,632.6,389.7,643.7,addressing persistent challenges in the digital talent pipeline. 
+7,9,8,Calibri,11.0,95.9,647.1,99.3,658.2,-
+7,9,8,ArialMT,11.0,99.3,645.4,102.3,657.7, 
+7,9,9,Calibri-Bold,11.0,113.9,647.1,408.9,658.2,Digitalisation of SMEs and take-up of advanced technologies:
+7,9,9,Calibri,11.0,408.9,647.1,520.0,658.2, Strengthen framework 
+7,9,10,Calibri,11.0,113.9,661.7,519.8,672.7,"conditions for SME digitalisation and innovation, including by improving links between "
+7,9,11,Calibri,11.0,113.9,676.2,519.8,687.2,"research and business, facilitating investment in digital transformation and enhancing the "
+7,9,12,Calibri,11.0,113.9,690.6,331.2,701.6,effectiveness of innovation support ecosystems. 
+7,9,13,Calibri,11.0,95.9,705.1,99.3,716.1,-
+7,9,13,ArialMT,11.0,99.3,703.4,102.3,715.7, 
+7,9,14,Calibri-Bold,11.0,113.9,705.1,212.3,716.1,Artificial intelligence:
+7,9,14,Calibri,11.0,212.3,705.1,519.9,716.1," Accelerate the uptake of AI, cloud computing and data analytics, "
+7,9,15,Calibri,11.0,113.9,719.6,519.8,730.7,"particularly among SMEs, by strengthening advisory, skills and innovation support, "
+7,9,16,Calibri,11.0,113.9,734.2,456.9,745.2,"facilitating deployment by businesses, and improving strategic coordination. "
+7,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+8,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+8,3,0,Calibri,11.0,95.9,86.3,99.3,97.3,-
+8,3,0,ArialMT,11.0,99.3,84.6,102.3,96.9, 
+8,3,1,Calibri-Bold,11.0,113.9,86.3,179.4,97.3,Cybersecurity:
+8,3,1,Calibri,11.0,179.4,86.3,519.8,97.3," Strengthen cybersecurity resilience among SMEs and critical sectors, "
+8,3,2,Calibri,11.0,113.9,100.8,519.8,111.9,"including by supporting preparedness, improving the uptake of cybersecurity measures "
+8,3,3,Calibri,11.0,113.9,115.3,520.0,126.4,"among less mature organisations, and reinforcing resilience against emerging risks such as "
+8,3,4,Calibri,11.0,113.9,129.9,202.3,140.9,AI-enabled threats. 
+8,3,5,Calibri,11.0,95.9,144.3,99.3,155.3,-
+8,3,5,ArialMT,11.0,99.3,142.5,102.3,154.9, 
+8,3,6,Calibri-Bold,11.0,113.9,144.3,207.3,155.3,Key public services:
+8,3,6,Calibri,11.0,207.4,144.3,519.9,155.3," Improve the uptake, quality and interoperability of digital public "
+8,3,7,Calibri,11.0,113.9,158.8,519.8,169.8,"services for citizens by accelerating the digitalisation and simplification of priority services, "
+8,3,8,Calibri,11.0,113.9,173.3,519.9,184.3,"strengthening user-friendliness and accessibility, expanding the use of digital identity, and "
+8,3,9,Calibri,11.0,113.9,187.8,371.9,198.9,improving digital justice and cross-border public services. 
+8,3,10,Calibri,11.0,95.9,202.3,99.3,213.4,-
+8,3,10,ArialMT,11.0,99.3,200.6,102.3,212.9, 
+8,3,11,Calibri-Bold,11.0,113.9,202.3,156.2,213.4,e-Health:
+8,3,11,Calibri,11.0,156.1,202.3,519.8,213.4, Expand access to and uptake of digital health services by improving the 
+8,3,12,Calibri,11.0,113.9,216.7,520.0,227.8,"availability, interoperability and usability of eHealth solutions, addressing barriers to access "
+8,3,13,Calibri,11.0,113.9,231.3,507.9,242.3,"and use, and strengthening the integration of health data across the healthcare system. "
+8,3,14,Calibri,11.0,95.9,245.8,99.3,256.8,-
+8,3,14,ArialMT,11.0,99.3,244.1,102.3,256.4, 
+8,3,15,Calibri-Bold,11.0,113.9,245.8,253.7,256.8,Fixed and mobile connectivity:
+8,3,15,Calibri,11.0,253.7,245.8,519.9,256.8, Foster demand for gigabit connectivity and strengthen the 
+8,3,16,Calibri,11.0,113.9,260.3,519.8,271.4,deployment and resilience of connectivity infrastructure by addressing affordability and 
+8,3,17,Calibri,11.0,113.9,274.7,519.8,285.8,"digital readiness barriers, accelerating fibre and 5G deployment (including 5G SA and the "
+8,3,18,Calibri,11.0,113.9,289.2,519.9,300.3,"3.4–3.8 GHz band), supporting investment-friendly conditions for future network "
+8,3,19,Calibri,11.0,113.9,303.8,520.1,314.8,"development, and reinforcing the resilience and security of submarine cable infrastructure. "
+8,5,0,Calibri,11.0,522.8,535.4,525.3,546.4, 
+8,6,0,Calibri,11.0,108.0,554.8,110.5,565.9, 
+8,7,0,Calibri-Bold,11.0,72.0,572.4,74.5,583.4, 
+8,7,1,Calibri-Bold,11.0,216.1,572.4,218.5,583.4, 
+8,8,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+9,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+9,3,0,Calibri-Bold,26.0,72.0,88.4,529.3,114.4,"A competitive, sovereign and resilient EU "
+9,3,1,Calibri-Bold,26.0,72.0,122.7,444.2,148.7,based on technological leadership 
+9,4,0,Calibri-Light,15.0,72.0,162.8,509.7,177.8,Building technological leadership: digital infrastructure and technologies 
+9,5,0,Calibri-Light,12.0,72.0,189.9,203.2,201.9,Connectivity infrastructure 
+9,6,0,Calibri-LightItalic,11.0,72.0,207.5,183.7,218.5,Performance assessment 
+9,7,0,Calibri-Bold,11.0,72.0,233.9,525.8,245.0,"Bulgaria achieved a fixed very high-capacity network (VHCN) coverage rate of 93.53% in 2025, above "
+9,7,1,Calibri-Bold,11.0,72.0,248.4,294.4,259.5,"the EU average of 85.54%, an increase of 3.5%. "
+9,7,1,Calibri,11.0,295.4,248.4,525.8,259.5,Its annual growth rate was slightly below the EU’s 
+9,7,2,Calibri,11.0,72.0,263.0,525.6,274.0,"3.7%. In sparsely populated areas, Bulgaria’s VHCN coverage reached 83.34%, also above the EU "
+9,7,3,Calibri,11.0,72.0,277.4,525.9,288.4,"average of 66.66%, an increase of 5.4%, below the 7.7% recorded in the rest of the EU. The country is "
+9,7,4,Calibri,11.0,72.0,291.9,454.5,302.9,on track according to its trajectory presented in the Digital Decade national roadmap. 
+9,8,0,Calibri-Bold,11.0,72.0,318.4,525.9,329.5,"Bulgaria’s fibre-to-the-premises (FTTP) coverage also reached 93.53% in 2025, well above the EU "
+9,8,1,Calibri-Bold,11.0,72.0,332.9,255.5,344.0,"average of 74.13%, an increase of 3.5%. "
+9,8,1,Calibri,11.0,255.8,332.9,525.9,344.0,Bulgaria’s growth rate was below the 7.1% in the rest of the 
+9,8,2,Calibri,11.0,72.0,347.3,525.7,358.4,"EU, but this is due to an already high level of coverage. In sparsely populated areas, FTTP coverage "
+9,8,3,Calibri,11.0,72.0,361.8,525.9,372.9,"reached 83.34%, above the EU average of 62.61%, a 5.4% rise, slightly below the 6.5% in the rest of "
+9,8,4,Calibri,11.0,72.0,376.4,368.7,387.4,the EU. The country is on track according to its national trajectory. 
+9,10,0,Calibri,11.0,522.8,607.1,525.3,618.1, 
+9,11,0,Calibri-Bold,11.0,72.0,630.5,525.9,641.5,"In 2025, Bulgaria’s 5G coverage reached 94.83%, following a 16.6% increase on 2024, but this was "
+9,11,1,Calibri-Bold,11.0,72.0,645.9,258.3,657.0,slightly below the EU average of 96.79%.
+9,11,1,Calibri,11.0,258.5,645.9,525.7,657.0, The country is on track according to its national trajectory. 
+9,11,2,Calibri,11.0,72.0,661.3,525.9,672.3,"In sparsely populated areas, 5G coverage increased to 86.79%, still below the EU average of 88.88%, "
+9,11,3,Calibri,11.0,72.0,676.8,472.5,687.8,but with a significantly higher annual growth rate (126.9% compared to 11.7% in the EU). 
+9,12,0,Calibri-Bold,11.0,72.0,704.3,523.2,715.3,"Bulgaria’s 5G coverage in the 3.4–3.8 GHz band stood at 79.62%, above the EU average of 74.75%."
+9,12,0,Calibri,11.0,523.4,704.3,525.9,715.3, 
+9,12,1,Calibri,11.0,72.0,719.6,525.9,730.7,Only 6.9% of 5G base stations constitute 5G Stand Alone (SA); the EU average is 20.9%. The licence 
+9,13,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+10,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+10,3,0,Calibri,11.0,72.0,85.3,155.0,96.4,will expire in 2031
+10,3,0,Calibri,7.0,154.9,84.4,158.5,91.4,1
+10,3,0,Calibri,11.0,158.4,85.3,525.8,96.4,"(900 MHz, 1800 MHz). This 3.4-3.8 GHz mid-band is crucial because it provides a "
+10,3,1,Calibri,11.0,72.0,100.8,525.6,111.9,"good balance between coverage with high capacity, making it a cornerstone for advanced 5G use "
+10,3,2,Calibri,11.0,72.0,116.2,525.9,127.2,"cases, which can be replicated as reference models across sectors and socio-economic drivers. These "
+10,3,3,Calibri,11.0,72.0,131.7,525.9,142.7,"include applications in manufacturing, such as industrial IoT and healthcare, for example telemedicine. "
+10,3,4,Calibri,11.0,72.0,147.1,523.6,158.2,The upcoming expiry of the spectrum licence in 2030 presents an opportunity to establish pro-
+10,3,5,Calibri,11.0,72.0,162.6,172.3,173.7,investment conditions
+10,3,5,Calibri,7.0,172.2,161.7,175.8,168.7,2
+10,3,5,Calibri,11.0,175.7,162.6,525.7,173.7,". In sparsely populated areas, coverage in this band increased to 49.1%, well "
+10,3,6,Calibri,11.0,72.0,178.0,525.8,189.0,"above the EU average of 33.71%, a steep increase of 28.3%, only slightly below the EU growth rate of "
+10,3,7,Calibri,11.0,72.0,193.5,107.2,204.5,32.9%.  
+10,4,0,Calibri-Bold,11.0,72.0,220.9,525.8,232.0,"The table below provides an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in "
+10,4,1,Calibri-Bold,11.0,72.0,235.4,112.3,246.4,Bulgaria.
+10,4,1,Calibri,11.0,112.3,235.4,525.7,246.4," It indicates relatively balanced connectivity performance across regions, with high and "
+10,4,2,Calibri,11.0,72.0,249.9,525.8,260.9,"consistent VHCN and 5G coverage. FTTP deployment is also advanced, although moderate disparities "
+10,4,3,Calibri,11.0,72.0,264.4,335.4,275.5,"persist, particularly in rural areas of the north-west region. "
+10,6,0,Calibri,11.0,524.3,406.5,526.8,417.5, 
+10,7,0,Calibri-Bold,11.0,72.0,429.9,525.9,440.9,"In terms of uptake, Bulgaria has 2.92% of fixed broadband subscriptions with speeds of 1 Gbps or "
+10,7,1,Calibri-Bold,11.0,72.0,445.4,387.2,456.4,"more an increase of 44.3% in 2025, below the EU average of 26.97%."
+10,7,1,Calibri,11.0,387.3,445.4,525.9,456.4," In 2024, Bulgaria's proportion "
+10,7,2,Calibri,11.0,72.0,460.9,525.9,471.9,"was 2.02%, well below the EU average of 22.25%. Although Bulgaria's annual growth rate of 44.3% far "
+10,7,3,Calibri,11.0,72.0,476.3,525.7,487.4,"exceeds the EU figure of 21.2%, the country continues to trail behind the EU in terms of the overall "
+10,7,4,Calibri,11.0,72.0,491.7,300.3,502.8,proportion of high-speed broadband subscriptions.
+10,7,4,Calibri,10.0,300.2,492.5,302.4,502.5, 
+10,7,5,Calibri-Bold,11.0,72.0,507.2,525.9,518.2,"Bulgaria’s 5G SIM penetration reached 41.25% in 2025, up by 69.0% year-on-year, though still below "
+10,7,6,Calibri-Bold,11.0,72.0,522.7,193.1,533.7,the EU average of 55.55%.
+10,7,6,Calibri,11.0,193.1,522.7,525.8,533.7," In 2024, Bulgaria's proportion was 24.41%, also below the EU average of "
+10,7,7,Calibri,11.0,72.0,538.0,525.9,549.1,"35.56%. While Bulgaria's annual growth rate of 69.0% exceeds the 56.2% in the rest of the EU, it is "
+10,7,8,Calibri,11.0,72.0,553.5,525.6,564.5,"evident that despite notable progress, Bulgaria still lags behind the overall EU performance in terms "
+10,7,9,Calibri,11.0,72.0,569.0,198.7,580.1,of 5G SIM card penetration. 
+10,7,10,Calibri,11.0,72.0,584.4,74.5,595.4, 
+10,8,0,Calibri-LightItalic,11.0,72.0,601.9,316.8,612.9,Policy context and assessment of the recommendations 
+10,9,0,Calibri-Bold,11.0,72.0,628.3,525.8,639.3,"Bulgaria performs strongly in VHCN and FTTP coverage, exceeding EU averages both at national level "
+10,9,1,Calibri-Bold,11.0,72.0,642.8,219.7,653.9,and in sparsely populated areas
+10,9,1,Calibri,11.0,219.9,642.8,525.8,653.9,. Growth is steady reflecting the already high level of coverage. 5G 
+10,9,2,Calibri,11.0,72.0,657.3,525.8,668.4,"coverage has expanded rapidly, particularly in rural areas, albeit starting from a lower base. However, "
+10,9,3,Calibri,11.0,72.0,671.9,525.9,682.9,"rollout of 5G networks in the 3.4–3.8 GHz band has slowed, especially in sparsely populated areas "
+10,10,0,Calibri,11.0,216.1,722.2,218.5,733.2, 
+10,10,1,Calibri,6.5,72.0,734.6,75.3,741.1,1
+10,10,1,Calibri,10.0,75.3,735.5,77.5,745.4, 
+10,10,1,Calibri-Italic,10.0,77.5,735.5,204.3,745.4,European 5G Observatory 2026
+10,10,1,Calibri,10.0,204.4,735.5,206.7,745.4, 
+10,10,2,Calibri,6.5,72.0,746.8,75.3,753.3,2
+10,10,2,Calibri,10.0,75.3,747.7,501.0,757.6," Pro-investment conditions include longer licence durations to strengthen investment certainty, coverage "
+10,10,3,Calibri,10.0,72.0,759.9,524.0,769.9,obligations to accelerate deployment and reasonable spectrum prices that preserve capital for network rollout. 
+10,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+11,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+11,2,0,Calibri,11.0,72.0,85.3,525.9,96.4,"compared to the EU. Overall, while connectivity coverage and rollout is strong, the country still faces "
+11,2,1,Calibri,11.0,72.0,99.9,513.3,110.9,key challenges in maintaining growth in fixed infrastructure and improving mid-band 5G coverage.  
+11,4,0,Calibri-Bold,11.0,72.0,126.4,523.4,137.4,Bulgaria’s main connectivity challenge has shifted from infrastructure deployment to effective use.
+11,4,0,Calibri,11.0,523.4,126.4,525.9,137.4, 
+11,4,1,Calibri,11.0,72.0,140.8,525.8,151.8,"Despite very strong coverage, the uptake of gigabit connectivity remains significantly below availability, "
+11,4,2,Calibri,11.0,72.0,155.3,525.9,166.3,which suggests persistent demand-side constraints. According to Bulgaria's national regulatory 
+11,4,3,Calibri,11.0,72.0,169.8,525.9,180.9,"authority, the Communications Regulation Commission (CRC), these constraints primarily affect gigabit "
+11,4,4,Calibri,11.0,72.0,184.3,523.4,195.4,"(≥1 Gbps) services, where there remains a significant price differential in relation to widely used 100–"
+11,4,5,Calibri,11.0,72.0,198.7,525.9,209.8,500 Mbps and the perceived added value for most users is limited. A clear mismatch persists between 
+11,4,6,Calibri,11.0,72.0,213.3,525.9,224.3,"very high FTTP coverage and relatively low subscription to gigabit services, which are often perceived "
+11,4,7,Calibri,11.0,72.0,227.8,406.4,238.8,as premium packages compared to widely used 100–500 Mbps services. 
+11,4,7,Calibri-Bold,11.0,407.5,227.8,525.9,238.8,The data on connectivity 
+11,4,8,Calibri-Bold,11.0,72.0,242.3,525.6,253.4,"uptake suggests that, despite encouraging growth rates, Bulgaria continues to lag behind EU "
+11,4,9,Calibri-Bold,11.0,72.0,256.7,220.7,267.8,averages in broadband uptake. 
+11,4,9,Calibri,11.0,222.5,256.7,525.8,267.8,"There has been progress recently, yet the gap in absolute terms "
+11,4,10,Calibri,11.0,72.0,271.2,525.8,282.3,"remains significant. Developments in infrastructure, market dynamics and digital skills are likely to play "
+11,4,11,Calibri,11.0,72.0,285.8,525.9,296.8,an important role in shaping future convergence. Continued monitoring will help demonstrate 
+11,4,12,Calibri,11.0,72.0,300.3,392.4,311.3,whether current trends are sufficient to narrow the disparity over time. 
+11,5,0,Calibri,11.0,72.0,326.7,525.8,337.7,"According to the CRC, very high-capacity networks in Bulgaria are based on FTTP infrastructure. While "
+11,5,1,Calibri,11.0,72.0,341.2,525.6,352.2,"the EU definition of VHCN may include other technologies such as cable DOCSIS 3.1, these are not "
+11,5,2,Calibri,11.0,72.0,355.7,211.0,366.8,currently deployed in Bulgaria. 
+11,6,0,Calibri-Bold,11.0,72.0,382.2,525.9,393.3,"More broadly, fixed internet uptake and, to a lesser extent, mobile broadband use, are improving "
+11,6,1,Calibri-Bold,11.0,72.0,396.7,225.9,407.7,but remain below EU averages.
+11,6,1,Calibri,11.0,226.0,396.7,525.7,407.7, This suggests that recent growth has not yet translated into 
+11,6,2,Calibri,11.0,72.0,411.2,525.6,422.2,"convergence in absolute terms. The gap appears to reflect a combination of factors, including price "
+11,6,3,Calibri,11.0,72.0,425.7,525.9,436.8,"sensitivity for gigabit services, lower income levels in rural areas and a perception that higher speeds "
+11,6,4,Calibri,11.0,72.0,440.2,525.8,451.3,"are not needed. Infrastructure availability alone is not enough to drive higher adoption at this stage, "
+11,6,5,Calibri,11.0,72.0,454.7,525.9,465.8,"and future developments will depend on how these demand-side dynamics evolve. At present, no "
+11,6,6,Calibri,11.0,72.0,469.1,525.8,480.2,"specific regulatory measures are in place to directly stimulate demand for gigabit services, and uptake "
+11,6,7,Calibri,11.0,72.0,483.7,474.8,494.7,is expected to evolve gradually in line with market dynamics and changing usage patterns. 
+11,7,0,Calibri-Bold,11.0,72.0,510.2,331.4,521.2,Recent market data confirm this structural demand gap.
+11,7,0,Calibri,11.0,331.6,510.2,525.8,521.2," As of mid-2025, FTTP subscribers account "
+11,7,1,Calibri,11.0,72.0,524.7,525.6,535.8,"for 56.6% of total broadband users, an increase of around 2.5% in the first half of the year (nearly 40 "
+11,7,2,Calibri,11.0,72.0,539.1,525.9,550.2,"000 additional users). However, only around 3% of subscribers use speeds of 1 Gbps and above. Most "
+11,7,3,Calibri,11.0,72.0,553.6,525.9,564.7,"users remain in the 100–500 Mbps range, which they currently perceive as sufficient to meet their "
+11,7,4,Calibri,11.0,72.0,568.2,450.6,579.2,"needs for common applications such as streaming, remote work and online services. "
+11,8,0,Calibri-Bold,11.0,72.0,594.7,272.9,605.7,Territorial disparities reinforce this pattern
+11,8,0,Calibri,11.0,273.0,594.7,525.7,605.7,. More than 80% of gigabit users are concentrated in 
+11,8,1,Calibri,11.0,72.0,609.1,525.7,620.1,"Bulgaria's largest cities, with around one third located in Sofia alone. Over 96% of gigabit subscribers "
+11,8,2,Calibri,11.0,72.0,623.6,333.5,634.7,"are in urban areas, and rural adoption remains very limited."
+11,8,2,Calibri-Bold,11.0,333.5,623.6,336.0,634.7, 
+11,8,2,Calibri,11.0,335.6,623.6,525.9,634.7,These trends confirm that the main factors 
+11,8,3,Calibri,11.0,72.0,638.1,525.9,649.2,"in next-generation connectivity uptake are affordability, perceived need and local socio-economic "
+11,8,4,Calibri,11.0,72.0,652.7,123.7,663.7,conditions. 
+11,9,0,Calibri,11.0,72.0,679.1,525.7,690.1,"These constraints are more pronounced in rural and economically less developed areas, where lower "
+11,9,1,Calibri,11.0,72.0,693.6,343.0,704.6,income levels and reduced potential demand hinder uptake. 
+11,10,0,Calibri-Bold,11.0,72.0,720.1,525.8,731.2,"At the same time, Bulgaria continues to make progress in infrastructure deployment, particularly in "
+11,10,1,Calibri-Bold,11.0,72.0,734.6,87.6,745.7,5G.
+11,10,1,Calibri,11.0,87.6,734.6,525.7,745.7," Coverage has expanded rapidly from a relatively low base, including in sparsely populated areas. "
+11,10,2,Calibri,11.0,72.0,749.0,525.7,760.1,"According to the CRC, recent 5G deployment dynamics are not driven by changes in coverage "
+11,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+12,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+12,2,0,Calibri,11.0,72.0,85.3,525.7,96.4,"obligations, which remain unchanged, or by clearly identifiable shifts in demand for advanced use "
+12,2,1,Calibri,11.0,72.0,99.9,103.7,110.9,cases.  
+12,4,0,Calibri-Bold,11.0,72.0,126.4,525.6,137.4,The transition away from legacy copper infrastructure is progressing through market dynamics 
+12,4,1,Calibri-Bold,11.0,72.0,140.8,236.1,151.8,rather than regulatory intervention.
+12,4,1,Calibri,11.0,236.2,140.8,525.9,151.8," There is no formal switch-off plan for copper, and operators are "
+12,4,2,Calibri,11.0,72.0,155.3,525.7,166.3,not required to submit decommissioning strategies. The incumbent remains the sole provider of xDSL 
+12,4,3,Calibri,11.0,72.0,169.8,525.9,180.9,"services, but usage is declining rapidly. Between 2023 and mid-2025, the number of xDSL subscribers "
+12,4,4,Calibri,11.0,72.0,184.3,525.9,195.4,"– approximately 67 000 users, or 2.5% of the total broadband base – fell by more than 30%. This decline "
+12,4,5,Calibri,11.0,72.0,198.7,525.9,209.8,reflects a steady move towards fibre networks (primarily FTTP) and other very high-capacity 
+12,4,6,Calibri,11.0,72.0,213.3,525.9,224.3,"infrastructures. In this context, the regulator considers that formal switch-off obligations are not "
+12,4,7,Calibri,11.0,72.0,227.8,319.6,238.8,necessary as market-driven transition is well advanced. 
+12,5,0,Calibri-Bold,11.0,72.0,254.3,525.6,265.4,"Deployment conditions broadly support infrastructure expansion, although some structural "
+12,5,1,Calibri-Bold,11.0,72.0,268.7,158.3,279.8,limitations remain.
+12,5,1,Calibri,11.0,158.4,268.7,525.8,279.8, The regulator facilitates network rollout through the legal framework on access to 
+12,5,2,Calibri,11.0,72.0,283.2,525.9,294.3,physical infrastructure and acts as a dispute settlement body. The Broadband Cost Reduction Directive 
+12,5,3,Calibri,11.0,72.0,297.8,525.9,308.8,has been correctly transposed and has improved investment predictability and access conditions. 
+12,5,4,Calibri,11.0,72.0,312.3,525.9,323.3,"However, the CRC’s decision on physical infrastructure access has been suspended by the national "
+12,5,5,Calibri,11.0,72.0,326.7,525.8,337.7,"competent court and is currently not effective, which may limit its practical impact on deployment "
+12,5,6,Calibri,11.0,72.0,341.2,217.9,352.2,costs and infrastructure sharing. 
+12,6,0,Calibri,11.0,72.0,367.7,525.9,378.8,The Ministry of Transport and Communications is responsible for implementing the Gigabit 
+12,6,1,Calibri,11.0,72.0,382.2,525.8,393.3,Infrastructure Act (GIA). To speed up the rollout of VHCNs and to ease the installation of mobile 
+12,6,2,Calibri,11.0,72.0,396.7,478.7,407.7,"network facilities, including in rural areas, legislative amendments were introduced in the "
+12,6,2,Calibri,11.0,479.4,396.7,525.9,407.7,Electronic 
+12,6,3,Calibri,11.0,72.0,411.2,345.3,422.2,Communications and Physical Infrastructure Act in April 2025
+12,6,3,Calibri,11.0,345.5,411.2,525.9,422.2,", followed by related adjustments in the "
+12,6,4,Calibri,11.0,72.0,425.7,525.9,436.8,"secondary legislation. At this stage, no new amendments have been published, and the "
+12,6,5,Calibri,11.0,72.0,440.2,244.1,451.3,implementation of the GIA is ongoing. 
+12,7,0,Calibri,11.0,72.0,466.7,388.8,477.8,The regulator is currently reviewing the wholesale local access market. 
+12,8,0,Calibri-Bold,11.0,72.0,493.1,300.0,504.2,The fixed broadband market remains fragmented
+12,8,0,Calibri,11.0,300.1,493.1,525.8,504.2,", combining many small regional providers with a "
+12,8,1,Calibri,11.0,72.0,507.7,525.9,518.7,limited number of nationwide operators. Infrastructure-based competition is supported and fibre 
+12,8,2,Calibri,11.0,72.0,522.2,525.8,533.2,"investment continues, but this situation may limit economies of scale and coordinated deployment "
+12,8,3,Calibri,11.0,72.0,536.7,434.4,547.8,"strategies, as investment capacity remains concentrated among larger operators. "
+12,9,0,Calibri-Bold,11.0,72.0,563.1,525.7,574.2,"Public investment continues to play a key role in extending connectivity, particularly in underserved "
+12,9,1,Calibri-Bold,11.0,72.0,577.7,99.6,588.7,areas.
+12,9,1,Calibri,11.0,99.6,577.7,525.7,588.7," Under the national RRP, the large-scale deployment of digital infrastructure in Bulgaria has a "
+12,9,2,Calibri,11.0,72.0,592.2,525.8,603.2,total budget of EUR 240 million. Contracts worth approximately EUR 222 million were signed in June 
+12,9,3,Calibri,11.0,72.0,606.7,523.7,617.7,2025 for the construction of around 7 000 km of fibre infrastructure. The project will extend the State-
+12,9,4,Calibri,11.0,72.0,621.1,525.9,632.1,"owned network to 140 municipalities and more than 320 populated places (settlements), providing "
+12,9,5,Calibri,11.0,72.0,635.6,525.9,646.7,ultra-fast broadband to over 500 000 citizens and connecting at least 700 base stations. These 
+12,9,6,Calibri,11.0,72.0,650.1,525.8,661.2,measures are expected to reduce urban-rural disparities and support the digitalisation of businesses 
+12,9,7,Calibri,11.0,72.0,664.7,525.8,675.7,"and public services. However, while public intervention supports infrastructure deployment, less "
+12,9,8,Calibri,11.0,72.0,679.1,525.7,690.1,"emphasis is placed on stimulating demand and addressing affordability barriers, which remain key "
+12,9,9,Calibri,11.0,72.0,693.6,298.8,704.6,constraints to the wider uptake of gigabit services. 
+12,10,0,Calibri-Bold,11.0,72.0,720.1,523.2,731.2,"From a resilience perspective, Bulgaria is bolstering the security of its connectivity infrastructure."
+12,10,0,Calibri,11.0,523.4,720.1,525.9,731.2, 
+12,10,1,Calibri,11.0,72.0,734.6,525.8,745.7,"Minimum security requirements and risk-management rules remain in force, while new cybersecurity "
+12,10,2,Calibri,11.0,72.0,749.0,525.8,760.1,legislation places restrictions on high-risk vendors. Evidence of vendor diversification strategies and 
+12,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+13,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+13,2,0,Calibri,11.0,72.0,85.3,525.9,96.4,"planned transitions towards alternative architectures, including O-RAN, suggests that progress is being "
+13,2,1,Calibri,11.0,72.0,99.9,371.0,110.9,made in reducing dependencies and improving network resilience. 
+13,4,0,Calibri-Bold,11.0,72.0,126.4,525.5,137.4,"Bulgaria is strengthening its role in regional and international connectivity corridors, including "
+13,4,1,Calibri-Bold,11.0,72.0,140.8,358.3,151.8,through emerging submarine cable initiatives in the Black Sea.
+13,4,1,Calibri,11.0,358.6,140.8,487.7,151.8," In this context, the planned "
+13,4,1,Calibri,11.0,488.1,140.8,525.9,151.8,Kardesa 
+13,4,2,Calibri,11.0,72.0,155.3,187.0,166.3,submarine cable system
+13,4,2,Calibri,11.0,187.0,155.3,525.8,166.3," is expected to connect Bulgaria with Türkiye, Georgia and Ukraine, "
+13,4,3,Calibri,11.0,72.0,169.8,523.7,180.9,contributing to the development of high-capacity infrastructure and offering an alternative Europe–
+13,4,4,Calibri,11.0,72.0,184.3,525.9,195.4,"Asia data route. Construction is planned to start in 2027 on the project, which is based on coordinated "
+13,4,5,Calibri,11.0,72.0,198.7,525.8,209.8,public-private cooperation and includes the development of landing stations and terrestrial backhaul 
+13,4,6,Calibri,11.0,72.0,213.3,413.6,224.3,"infrastructure, supporting Bulgaria’s position as a regional connectivity hub.  "
+13,5,0,Calibri,11.0,72.0,239.8,139.8,250.8,"In parallel, the "
+13,5,0,Calibri,11.0,140.4,239.8,463.3,250.8,EU-funded Balkans Digital Gateway Works (BDGW) project (2025–2028)
+13,5,0,Calibri,11.0,463.3,239.8,525.9,250.8, supports the 
+13,5,1,Calibri,11.0,72.0,254.3,525.9,265.4,"deployment of high-capacity backbone infrastructure between Bulgaria, Greece and Romania, and "
+13,5,2,Calibri,11.0,72.0,268.7,525.8,279.8,facilitates the integration of submarine and terrestrial networks at key landing points on the Black and 
+13,5,3,Calibri,11.0,72.0,283.2,525.7,294.3,"Aegean Seas. These developments contribute to enhancing network resilience and route diversity, "
+13,5,4,Calibri,11.0,72.0,297.8,525.8,308.8,strengthening security and improving regional interconnectivity. Given the strategic importance and 
+13,5,5,Calibri,11.0,72.0,312.3,525.9,323.3,"vulnerability of submarine cables, further measures to improve structured cross-border coordination, "
+13,5,6,Calibri,11.0,72.0,326.7,525.9,337.7,risk preparedness and infrastructure protection could ensure the long-term resilience and security of 
+13,5,7,Calibri,11.0,72.0,341.2,227.9,352.2,these assets in the Black Sea basin.
+13,5,7,Calibri-Italic,11.0,227.9,341.2,230.4,352.2, 
+13,6,0,Calibri-Bold,11.0,72.0,367.7,317.0,378.8,According to the 2026 Digital Decade Eurobarometer
+13,6,0,Calibri,11.0,317.1,367.7,525.9,378.8,", 79% of Bulgarians would like the EU to be a "
+13,6,1,Calibri,11.0,72.0,382.2,525.7,393.3,"global leader in technological innovation and infrastructure, while 68% believe that the EU is one of "
+13,6,2,Calibri,11.0,72.0,396.7,451.9,407.7,"the world leaders in digital innovation and technology, above the EU average of 54%. "
+13,7,0,Calibri-Bold,11.0,77.7,423.7,342.3,434.7,2025 recommendation on Fixed and mobile connectivity: 
+13,7,0,Calibri,11.0,342.9,423.7,520.3,434.7,Accelerate the expansion of FTTP/fixed 
+13,7,1,Calibri,11.0,77.7,438.2,520.3,449.2,"VHCN and 5G coverage, with a focus on ensuring that the pace of deployment in sparsely populated "
+13,7,2,Calibri,11.0,77.7,452.7,520.0,463.8,"areas is maintained. Continue investment to consolidate Bulgaria’s strong position, especially in 5G "
+13,7,3,Calibri,11.0,77.7,467.2,136.8,478.3,deployment. 
+13,8,0,Calibri-Bold,11.0,77.7,497.2,520.3,508.3,"In 2025, Bulgaria made some efforts to address the recommendation through new policy actions. "
+13,8,1,Calibri,11.0,77.7,511.6,520.1,522.7,"The country continued expanding fixed and mobile infrastructure, including further progress in fibre "
+13,8,2,Calibri,11.0,77.7,526.1,520.2,537.2,"deployment and significant expansion of 5G coverage. However, major challenges persist in "
+13,8,3,Calibri,11.0,77.7,540.7,520.2,551.7,"translating strong infrastructure availability into effective use, as gigabit uptake remains low and "
+13,8,4,Calibri,11.0,77.7,555.2,520.3,566.2,demand-side barriers such as affordability and limited digital readiness continue to hamper 
+13,8,5,Calibri,11.0,77.7,569.6,520.3,580.7,"adoption. In addition, deployment/rollout in the 3.4–3.8 GHz band weakened in 2025, suggesting "
+13,8,6,Calibri,11.0,77.7,584.1,300.2,595.2,that the quality of deployment needs to improve. 
+13,9,0,Calibri,11.0,72.0,611.1,74.5,622.2, 
+13,10,0,Calibri-Light,12.0,72.0,633.8,151.9,645.8,Semiconductors 
+13,11,0,Calibri,11.0,72.0,661.4,525.9,672.5,"In response to the new strategic challenges at European level, a new Priority 4 entitled Development "
+13,11,1,Calibri,11.0,72.0,675.9,525.9,687.0,of strategic technologies for Bulgaria and deployment of the potential for cross-sectoral cooperation 
+13,11,2,Calibri,11.0,72.0,690.5,250.1,701.5,for innovation has been included in the 
+13,11,2,Calibri,11.0,250.2,690.5,525.8,701.5,"Programme Research, Innovation and Digitalisation for Smart "
+13,11,3,Calibri,11.0,72.0,704.9,183.4,715.9,Transformation (PRIDST)
+13,11,3,Calibri,11.0,183.4,704.9,525.7,715.9, (specific objective RSO1.6. Support for investments contributing to the 
+13,11,4,Calibri,11.0,72.0,719.4,424.6,730.4,objectives of STEP under Article 2 of Regulation (EU) 2024/795) concerning the 
+13,11,4,Calibri,11.0,424.5,719.4,525.9,730.4,Strategic Technologies 
+13,11,5,Calibri,11.0,72.0,733.9,161.1,745.0,for Europe Platform
+13,11,5,Calibri,11.0,161.1,733.9,525.7,745.0, (STEP). Actions under Priority 4 meet the criteria set out in the STEP Regulation 
+13,11,6,Calibri,11.0,72.0,748.4,525.9,759.5,"and are designed to directly address the main challenges facing Bulgaria, as identified in the 2024 "
+13,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+14,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+14,3,0,Calibri,11.0,72.0,85.3,525.6,96.4,country report. Priority 4 focuses on supporting innovation and critical technologies in the following 
+14,3,1,Calibri,11.0,72.0,99.9,525.6,110.9,sectors: digital technologies and innovation in deep technologies and biotechnology. Support for 
+14,3,2,Calibri,11.0,72.0,114.4,525.7,125.4,projects in the field of digital technologies will include activities that contribute to achieving the 
+14,3,3,Calibri,11.0,72.0,128.8,332.8,139.8,objectives of the Digital Decade policy agenda up to 2030. 
+14,4,0,Calibri,11.0,72.0,155.3,525.8,166.3,The PRIDST Indicative Annual Work Programme for 2026 (IAWP 2026) includes a procedure to support 
+14,4,1,Calibri,11.0,72.0,169.8,525.8,180.9,the participation of Bulgarian organisations in institutionalised European partnerships with a total 
+14,4,2,Calibri,11.0,72.0,184.3,525.8,195.4,budget of EUR 49.2 million (ERDF and national co-financing). This procedure will provide funding to 
+14,4,3,Calibri,11.0,72.0,198.7,525.7,209.8,stimulate international scientific cooperation and the participation of Bulgarian consortia in the EU 
+14,4,4,Calibri,11.0,72.0,213.3,525.8,224.3,Framework Programmes through collaboration with the institutionalised European partnerships 
+14,4,5,Calibri,11.0,72.0,227.8,177.3,238.8,including the Chips JU.  
+14,5,0,Calibri-Light,12.0,72.0,254.6,130.2,266.6,Edge nodes 
+14,6,0,Calibri-LightItalic,11.0,72.0,272.1,183.7,283.1,Performance assessment 
+14,7,0,Calibri-Bold,11.0,72.0,298.6,525.8,309.6,"According to the Edge Node Observatory, Bulgaria is estimated to have deployed 112 edge nodes by "
+14,7,1,Calibri-Bold,11.0,72.0,313.1,97.3,324.2,2025.
+14,7,1,Calibri,11.0,97.3,313.1,510.2,324.2," Due to a change in methodology, this number cannot be compared to previous estimations. "
+14,8,0,Calibri-LightItalic,11.0,72.0,339.5,316.8,350.6,Policy context and assessment of the recommendations 
+14,9,0,Calibri-Bold,11.0,72.0,366.0,525.6,377.1,Bulgaria’s edge ecosystem is linked to broader developments in data infrastructure and digital 
+14,9,1,Calibri-Bold,11.0,72.0,380.6,111.4,391.6,services.
+14,9,1,Calibri,11.0,111.5,380.6,525.7,391.6," Under the PRIDST, Bulgaria is investing in the development of data infrastructure and data "
+14,9,2,Calibri,11.0,72.0,395.1,525.8,406.1,spaces in strategic sectors. Priority Area 1 (Data as a key asset of society) supports the creation of data 
+14,9,3,Calibri,11.0,72.0,409.5,525.8,420.5,"spaces, and the tools needed to manage and operate them. These investments aim to enable the "
+14,9,4,Calibri,11.0,72.0,424.0,525.9,435.1,development of data-driven services and improve digital processes and decision-making in key areas 
+14,9,5,Calibri,11.0,72.0,438.5,393.2,449.6,of the economy. EUR 103 million has been allocated to these measures. 
+14,10,0,Calibri,11.0,72.0,465.1,525.9,476.1,"Several projects are currently under implementation, including (i) the development of a strategic, "
+14,10,1,Calibri,11.0,72.0,479.5,525.9,490.5,organisational and technical framework for data management and interoperability; and (ii) strategic 
+14,10,2,Calibri,11.0,72.0,494.0,420.9,505.0,communications and promotion of the potential of data for good governance. 
+14,11,0,Calibri,11.0,72.0,520.5,525.9,531.5,"In addition, support for the deployment and uptake of advanced digital technologies – including edge "
+14,11,1,Calibri,11.0,72.0,535.0,525.9,546.1,"computing, AI, cloud services, data infrastructure and cybersecurity solutions – is provided under the "
+14,11,2,Calibri,11.0,72.0,549.4,525.9,560.5,"Programme Competitiveness and Innovation in Enterprises (PCIE) 2021–2027, which supports digital "
+14,11,3,Calibri,11.0,72.0,564.0,230.7,575.0,transformation among businesses.  
+14,12,0,Calibri-Light,12.0,72.0,590.7,184.4,602.7,Quantum technologies 
+14,12,1,Calibri-Bold,11.0,72.0,606.3,451.6,617.4,Bulgaria is continuing to develop its research capabilities in quantum technologies
+14,12,1,Calibri,11.0,451.9,606.3,525.9,617.4,", with initiatives "
+14,12,2,Calibri,11.0,72.0,620.7,525.7,631.8,aimed at strengthening the national quantum research community and supporting participation in 
+14,12,3,Calibri,11.0,72.0,635.3,525.9,646.3,European research networks. Activities in this field mostly take place in academic and research 
+14,12,4,Calibri,11.0,72.0,649.8,434.2,660.8,"institutions, including initiatives linked to Sofia Tech Park and leading universities."
+14,12,4,Calibri-Bold,11.0,434.1,649.8,436.6,660.8, 
+14,13,0,Calibri,11.0,72.0,672.2,525.6,683.3,"While Bulgaria has developed emerging research capacities in quantum technologies, the ecosystem "
+14,13,1,Calibri,11.0,72.0,686.7,525.7,697.8,is relatively small and largely focused on academic research. Strengthening links between research 
+14,13,2,Calibri,11.0,72.0,701.3,525.8,712.3,"institutions, industry and European initiatives will help scale applications and integrate Bulgarian "
+14,13,3,Calibri,11.0,72.0,715.8,287.7,726.8,actors into the broader EU quantum ecosystem. 
+14,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+15,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+15,2,0,Calibri-Light,15.0,72.0,86.2,462.1,101.2,Supporting EU-wide digital ecosystems and scaling up innovative 
+15,2,1,Calibri-Light,15.0,72.0,106.0,143.2,121.0,enterprises 
+15,4,0,Calibri-Light,12.0,72.0,133.1,265.2,145.1,SMEs with at least basic digital intensity 
+15,5,0,Calibri-LightItalic,11.0,72.0,150.7,183.7,161.8,Performance assessment 
+15,6,0,Calibri-Bold,11.0,72.0,177.1,525.9,188.2,"In Bulgaria, 38.33% of SMEs had at least a basic level of digital intensity, an increase of 16.2% "
+15,6,1,Calibri-Bold,11.0,72.0,191.7,416.9,202.7,"annually between 2023 and 2025, and well below the EU average of 71.39%."
+15,6,1,Calibri,11.0,417.1,191.7,525.9,202.7," In 2023, that figure was "
+15,6,2,Calibri,11.0,72.0,206.2,525.6,217.2,"28.41%, compared with 57.90% for the EU. Although Bulgaria’s growth rate exceeds the EU’s 11.0%, "
+15,6,3,Calibri,11.0,72.0,220.7,525.9,231.7,"the overall level remains significantly lower, suggesting persistent gaps in the adoption among SMEs "
+15,6,4,Calibri,11.0,72.0,235.1,525.8,246.2,of basic digital tools. The country is lagging behind compared to its trajectory presented in the Digital 
+15,6,5,Calibri,11.0,72.0,249.6,192.4,260.7,Decade national roadmap. 
+15,7,0,Calibri-Bold,11.0,72.0,276.2,525.9,287.2,"In Bulgaria, 1.80% of SMEs had a very high digital intensity index, an increase of of 10.7% annually "
+15,7,1,Calibri-Bold,11.0,72.0,290.7,366.0,301.7,"between 2023 and 2025, and well below the EU average of 9.07%."
+15,7,1,Calibri,11.0,366.1,290.7,525.9,301.7, E-commerce adoption also remains 
+15,7,2,Calibri,11.0,72.0,305.1,525.6,316.1,"limited, with online sales accounting for only 5.89% of SME turnover and 13.90% of SMEs selling "
+15,7,3,Calibri,11.0,72.0,319.6,525.7,330.6,online. Bulgaria also performs weakly in related indicators: only 25.49% of SMEs use electronic 
+15,7,4,Calibri,11.0,72.0,334.1,490.4,345.2,"information-sharing systems, while 40.82% use social media, the lowest proportion in the EU. "
+15,8,0,Calibri-LightItalic,11.0,72.0,360.6,316.8,371.7,Policy context and assessment of the recommendations 
+15,8,1,Calibri-Bold,11.0,72.0,375.0,523.3,386.1,"Bulgarian SMEs face persistent structural barriers to the adoption of advanced digital technologies,"
+15,8,1,Calibri,11.0,523.4,375.0,525.9,386.1, 
+15,8,2,Calibri,11.0,72.0,389.6,525.7,400.6,"including shortages of digital skills, high upfront investment costs, limited awareness of digital "
+15,8,3,Calibri,11.0,72.0,404.1,525.7,415.1,solutions and cybersecurity concerns. Organisational resistance to change and weaker digital 
+15,8,4,Calibri,11.0,72.0,418.6,379.4,429.7,infrastructure outside major urban areas further constrain adoption. 
+15,9,0,Calibri,11.0,72.0,441.1,169.4,452.1,Stakeholder evidence
+15,9,0,Calibri,11.0,169.5,441.1,490.1,452.1, confirms that human capital remains the main barrier. According to 
+15,9,0,Calibri,11.0,491.9,441.1,525.9,452.1,a 2025 
+15,9,1,Calibri,11.0,72.0,455.6,101.4,466.6,survey
+15,9,1,Calibri,11.0,101.3,455.6,525.9,466.6," of 847 businesses conducted by the Bulgarian Industrial Association, 40% identified a lack of "
+15,9,2,Calibri,11.0,72.0,470.1,525.8,481.1,"digital skills as the primary obstacle to digitalisation, ahead of financial constraints (33%) and limited "
+15,9,3,Calibri,11.0,72.0,484.5,525.7,495.5,"access to information (15%). Regulatory and administrative burdens are also increasingly cited, with "
+15,9,4,Calibri,11.0,72.0,499.0,525.9,510.1,"7% of firms reporting regulatory barriers in 2025. Companies report persistent fragmentation, parallel "
+15,9,5,Calibri,11.0,72.0,513.5,525.9,524.6,"digital and analogue procedures and limited institutional capacity, issues that increase compliance "
+15,9,6,Calibri,11.0,72.0,528.1,358.2,539.1,costs and may deter investment or force companies to relocate. 
+15,10,0,Calibri,11.0,72.0,554.5,525.8,565.5,"Bulgaria relies largely on EU-funded programmes to support SME digitalisation, notably through the "
+15,10,1,Calibri,11.0,72.0,569.0,525.8,580.1,"NRRP and cohesion policy. A central instrument is the PRIDST, which supports cooperation between "
+15,10,2,Calibri,11.0,72.0,583.5,525.8,594.6,"research and business and finances a network of 12 EDIHs, with total funding of EUR 31.8 million. "
+15,10,3,Calibri,11.0,72.0,598.1,525.7,609.1,"These hubs provide advisory services, training and support for technology adoption, although access "
+15,10,4,Calibri,11.0,72.0,612.5,252.9,623.5,is affected by administrative complexity. 
+15,11,0,Calibri,11.0,72.0,639.0,525.8,650.0,"Additional support is provided through voucher schemes and targeted grant programmes, which have "
+15,11,1,Calibri,11.0,72.0,653.5,525.9,664.5,stimulated initial uptake but results are patchy in terms of their scale and use. Collaboration between 
+15,11,2,Calibri,11.0,72.0,668.0,525.8,679.1,"research institutions and businesses also remains weak, with limited technology transfer and low "
+15,11,3,Calibri,11.0,72.0,682.4,296.2,693.5,"private R&D investment, which deters innovation. "
+15,12,0,Calibri,11.0,72.0,708.9,525.8,720.0,"To address these gaps programmes have been established. Under the NRRP, strong demand was "
+15,12,1,Calibri,11.0,72.0,723.5,525.8,734.5,"observed for basic digitalisation support (over 7 600 applications, with more than 1 500 projects "
+15,12,2,Calibri,11.0,72.0,738.0,525.9,749.0,"funded). Building on this, the Competitiveness and Innovation in Enterprises Programme (PCIE) "
+15,12,3,Calibri,11.0,72.0,752.4,525.7,763.4,expands support through measures such as Digitalisation of Enterprises and Introduction of Industry 
+15,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+16,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+16,2,0,Calibri,11.0,72.0,85.3,525.9,96.4,"4.0 Technologies, with over 1 600 projects approved (EUR 29.58 million), which will start "
+16,2,1,Calibri,11.0,72.0,99.9,525.9,110.9,"implementation in 2026. Additional schemes such as the small innovative grants scheme, further "
+16,2,2,Calibri,11.0,72.0,114.4,442.2,125.4,"support SME innovation, with a second phase planned for 2026 (EUR 12.7 million). "
+16,4,0,Calibri,11.0,72.0,140.8,435.8,151.8,Recent investment efforts are set to reinforce SME digitalisation in Bulgaria. As 
+16,4,0,Calibri,11.0,436.9,140.8,525.9,151.8,announced in April 
+16,4,1,Calibri,11.0,72.0,155.3,94.4,166.3,2026
+16,4,1,Calibri,11.0,94.5,155.3,525.9,166.3,", around EUR 210 million from the EU’s JEREMIE initiative will be channelled to innovative firms "
+16,4,2,Calibri,11.0,72.0,169.8,525.7,180.9,"to develop and scale technologies in strategic sectors, including microelectronics, AI and defence. "
+16,4,3,Calibri,11.0,72.0,184.3,525.9,195.4,"Supported by the European Investment Bank’s European Investment Fund, this initiative is expected "
+16,4,4,Calibri,11.0,72.0,198.7,525.9,209.8,"to strengthen the innovation ecosystem, improve access to finance for high-growth SMEs, and "
+16,4,5,Calibri,11.0,72.0,213.3,410.4,224.3,accelerate the uptake of advanced digital technologies across the economy. 
+16,5,0,Calibri-Bold,11.0,72.0,239.8,406.5,250.8,"Despite these efforts, the rollout of digital technologies remains uneven. "
+16,5,0,Calibri,11.0,406.9,239.8,525.8,250.8,Few firms are taking steps 
+16,5,1,Calibri,11.0,72.0,254.3,345.4,265.4,"forward, while a large proportion of SMEs are lagging behind. "
+16,5,1,Calibri,11.0,345.2,254.3,385.0,265.4,Evidence
+16,5,1,Calibri,11.0,384.9,254.3,525.9,265.4, from the European Investment 
+16,5,2,Calibri,11.0,72.0,268.7,525.8,279.8,"Bank Investment Survey suggests a relatively modest innovation profile, with lower investment in "
+16,5,3,Calibri,11.0,72.0,283.2,525.7,294.3,"intangible assets such as software, R&D and skills. Overall, existing measures have not yet translated "
+16,5,4,Calibri,11.0,72.0,297.8,525.9,308.8,"into major improvements in SME digital maturity, reflecting persistent constraints in skills, investment "
+16,5,5,Calibri,11.0,72.0,312.3,288.0,323.3,and connections between science and business. 
+16,6,0,Calibri-Bold,11.0,77.7,339.3,297.2,350.3,2025 recommendation on digitalisation of SMEs
+16,6,0,Calibri,11.0,297.4,339.3,520.2,350.3,: Improve the business climate and investment in 
+16,6,1,Calibri,11.0,77.7,353.7,520.2,364.7,"R&D, notably strengthen Bulgaria’s public science base and its linkages with the business ecosystem, "
+16,6,2,Calibri,11.0,77.7,368.2,434.4,379.2,while boosting private R&D efforts through well-calibrated public support tools. 
+16,7,0,Calibri-Bold,11.0,77.7,398.2,519.9,409.3,"In 2025, Bulgaria continued the implementation of existing measures but did not take any new "
+16,7,1,Calibri-Bold,11.0,77.7,412.7,122.6,423.8,measure. 
+16,7,1,Calibri,11.0,125.3,412.7,520.2,423.8,"While existing programmes provide useful support, the digitalisation level of SMEs "
+16,7,2,Calibri,11.0,77.7,427.3,520.2,438.3,remains well below the EU average and the rollout of digital tools across the SME base is still limited. 
+16,7,3,Calibri,11.0,77.7,441.7,520.1,452.7,"Persistent weaknesses in science-business collaboration, technology transfer and investment in "
+16,7,4,Calibri,11.0,77.7,456.2,333.0,467.2,intangible assets continue to constrain broader progress. 
+16,8,0,Calibri,11.0,72.0,483.2,74.5,494.2, 
+16,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+17,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+17,2,0,Calibri-Light,12.0,72.0,85.6,236.6,97.6,Take up of advanced technologies 
+17,3,0,Calibri-LightItalic,11.0,72.0,103.2,183.7,114.3,Performance assessment 
+17,6,0,Calibri-Bold,11.0,72.0,343.7,525.9,354.8,"In Bulgaria 27.06% of firms adopted data analytics, after annual growth of 11.3% between 2023 and "
+17,6,1,Calibri-Bold,11.0,72.0,358.2,253.0,369.3,"2025, below the EU average of 39.85%. "
+17,6,1,Calibri,11.0,253.4,358.2,525.8,369.3,"The country’s growth rate exceeds the EU’s 9.5%, suggesting "
+17,6,2,Calibri,11.0,72.0,372.8,525.8,383.8,"that it is catching up. In the case of SMEs this figure stands at 26.18%, below the EU average of 38.59%, "
+17,6,3,Calibri,11.0,72.0,387.2,525.7,398.2,"and 63.35% in the case of large businesses, below the EU average of 82.03%. The country is on track "
+17,6,4,Calibri,11.0,72.0,401.7,415.8,412.8,according to its trajectory presented in the Digital Decade national roadmap. 
+17,7,0,Calibri-Bold,11.0,72.0,428.2,525.8,439.3,"In Bulgaria 15.74% of companies adopted cloud technologies, annual growth of 5.2%, far below the "
+17,7,1,Calibri-Bold,11.0,72.0,442.7,174.5,453.8,EU average of 46.69%.
+17,7,1,Calibri,11.0,174.6,442.7,525.9,453.8," Growth is also slower than the EU’s 9.5%. The figure for SMEs is 15.06%, and "
+17,7,2,Calibri,11.0,72.0,457.1,525.7,468.2,"43.64% for large businesses, both well below EU averages. The country is on track according to its "
+17,7,3,Calibri,11.0,72.0,471.7,486.4,482.7,"national trajectory, but the adoption of cloud technology is one of the largest gaps to bridge. "
+17,8,0,Calibri-Bold,11.0,72.0,498.2,525.8,509.2,"In Bulgaria 8.55% of businesses adopted AI, after annual growth of 32.1% between 2024 and 2025, "
+17,8,1,Calibri-Bold,11.0,72.0,512.7,221.7,523.8,below the EU average of 19.95%.
+17,8,1,Calibri,11.0,221.8,512.7,525.9,523.8," The figure for SMEs is 8.12%, compared with 18.90% in the EU, and "
+17,8,2,Calibri,11.0,72.0,527.1,525.8,538.2,"26.18% for large businesses, compared with 55.03% in the EU. The country is on track according to its "
+17,8,3,Calibri,11.0,72.0,541.6,360.8,552.7,"national trajectory, although adoption remains at an early stage. "
+17,9,0,Calibri-Bold,11.0,72.0,568.2,525.9,579.2,"In the case of AI, cloud computing or data analytics taken together, the proportion of adoption "
+17,9,1,Calibri-Bold,11.0,72.0,582.7,525.7,593.7,"among companies in Bulgaria is 34.62%, after annual growth of 8.6%, well below the EU average of "
+17,9,2,Calibri-Bold,11.0,72.0,597.1,108.3,608.1,63.20%.
+17,9,2,Calibri,11.0,108.3,597.1,525.9,608.1," Bulgaria’s growth rate is slightly above the EU’s 7.5%, but adoption remains low in all forms "
+17,9,3,Calibri,11.0,72.0,611.6,202.6,622.7,"of business, especially SMEs. "
+17,10,0,Calibri-Bold,11.0,72.0,638.1,482.4,649.2,"Overall, Bulgaria is making gradual progress in the uptake of advanced digital technologies. "
+17,10,0,Calibri,11.0,482.1,638.1,525.9,649.2,Adoption 
+17,10,1,Calibri,11.0,72.0,652.7,525.8,663.7,"of data analytics and AI is increasing and growth rates in some areas exceed the EU average, suggesting "
+17,10,2,Calibri,11.0,72.0,667.2,525.8,678.2,"that the country is catching up. However, overall levels of adoption remain significantly below EU "
+17,10,3,Calibri,11.0,72.0,681.6,525.8,692.6,"averages, particularly for cloud computing and for the combined use of advanced technologies among "
+17,10,4,Calibri,11.0,72.0,696.1,525.9,707.1,SMEs. This indicates that Bulgarian businesses are still at an early stage of digital transformation and 
+17,10,5,Calibri,11.0,72.0,710.6,525.9,721.7,that a more comprehensive rollout of advanced digital solutions will be necessary if the gap to the EU 
+17,10,6,Calibri,11.0,72.0,725.2,140.8,736.2,is to be closed. 
+17,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+18,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+18,3,0,Calibri-Bold,11.0,72.0,85.3,525.9,96.4,"In terms of Bulgarian citizens’ perceptions, 76% of respondents in the 2026 Digital Decade "
+18,3,1,Calibri-Bold,11.0,72.0,99.9,144.1,110.9,Eurobarometer 
+18,3,1,Calibri,11.0,144.3,99.9,525.7,110.9,"believe that development of AI should be carefully regulated to ensure safety, even if "
+18,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,"this means that AI developers face some constraints. In addition, 70% of Bulgarians agree that AI "
+18,3,3,Calibri,11.0,72.0,128.8,320.3,139.8,should reinforce the EU’s competitiveness in the world. 
+18,4,0,Calibri-LightItalic,11.0,72.0,155.3,316.8,166.3,Policy context and assessment of the recommendations 
+18,5,0,Calibri-Bold,11.0,72.0,181.8,525.8,192.9,According to the Bulgarian authorities SMEs face several structural obstacles to the uptake of 
+18,5,1,Calibri-Bold,11.0,72.0,196.3,211.4,207.4,advanced digital technologies.
+18,5,1,Calibri,11.0,211.6,196.3,525.7,207.4," These include shortages of digital skills and technical expertise, high "
+18,5,2,Calibri,11.0,72.0,210.7,525.6,221.8,"initial investment costs associated with technologies such as AI and cloud solutions, and limited "
+18,5,3,Calibri,11.0,72.0,225.3,525.9,236.3,awareness of their benefits and practical applications. Cybersecurity concerns and organisational 
+18,5,4,Calibri,11.0,72.0,239.8,525.7,250.8,"resistance to changing traditional business processes also act as barriers to adoption. In addition, "
+18,5,5,Calibri,11.0,72.0,254.3,525.9,265.4,digital infrastructure gaps outside major urban areas may further hinder the adoption of advanced 
+18,5,6,Calibri,11.0,72.0,268.7,525.9,279.8,"technologies. Together, these factors slow the pace at which Bulgarian companies adopt and integrate "
+18,5,7,Calibri,11.0,72.0,283.2,209.3,294.3,advanced digital technologies. 
+18,6,0,Calibri,11.0,72.0,309.8,525.9,320.8,"Additionally, stakeholders report that regulatory uncertainty, particularly regarding implementation of "
+18,6,1,Calibri,11.0,72.0,324.3,525.9,335.3,"the AI Act, is affecting companies’ willingness to adopt AI technologies. This is broadly consistent with "
+18,6,2,Calibri,11.0,72.0,338.7,107.2,349.7,findings
+18,6,2,Calibri,11.0,107.2,338.7,525.9,349.7, from the 2025 Public Administration AI Readiness Index developed by the Bulgarian Institute 
+18,6,3,Calibri,11.0,72.0,353.2,525.8,364.2,"of Public Administration. These suggest that, despite the launch of several pilot initiatives and "
+18,6,4,Calibri,11.0,72.0,367.7,525.9,378.8,"preparatory measures, Bulgarian public administration and institutions remain at an early stage of AI "
+18,6,5,Calibri,11.0,72.0,382.2,525.8,393.3,"deployment, with limited internal policies, low levels of actual use, a limited number of institutional "
+18,6,6,Calibri,11.0,72.0,396.7,454.8,407.7,"AI policies, and low levels of awareness of the requirements introduced by the AI Act. "
+18,7,0,Calibri,11.0,72.0,423.2,156.0,434.2,BIA’s pulse survey
+18,7,0,Calibri,11.0,156.0,423.2,525.7,434.2, from spring 2025 indicates that progress in the digital transformation of the 
+18,7,1,Calibri,11.0,72.0,437.7,525.9,448.8,Bulgarian business sector has been slow and uneven. Only 16% of surveyed firms say that they have 
+18,7,2,Calibri,11.0,72.0,452.2,525.7,463.3,"adapted their business models to digital realities, while 9% are currently implementing changes and "
+18,7,3,Calibri,11.0,72.0,466.7,525.5,477.8,"22% plan to invest in digital transformation. At the same time, almost half of respondents (46%) do "
+18,7,4,Calibri,11.0,72.0,481.1,525.8,492.2,"not envisage investing in digital transformation. This confirms the persistence of these barriers, "
+18,7,5,Calibri,11.0,72.0,495.7,525.9,506.7,"particularly among smaller firms, and highlights the risk of widening gaps in relation to the Digital "
+18,7,6,Calibri,11.0,72.0,510.2,504.9,521.2,Decade objective of widespread adoption of advanced digital technologies across EU businesses. 
+18,8,0,Calibri,11.0,72.0,536.6,525.9,547.6,"National assessments indicate that, while Bulgaria has established a broad digital policy framework, "
+18,8,1,Calibri,11.0,72.0,551.1,525.9,562.2,challenges remain regarding the effective uptake and impact of existing instruments. While multiple 
+18,8,2,Calibri,11.0,72.0,565.7,525.9,576.7,"funding programmes support SME digitalisation, their uptake remains uneven – particularly among "
+18,8,3,Calibri,11.0,72.0,580.2,525.7,591.2,smaller firms – due to administrative complexity and insufficient alignment with business needs. As a 
+18,8,4,Calibri,11.0,72.0,594.7,525.7,605.7,"result, translating policy instruments into measurable digital transformation outcomes remains a key "
+18,8,5,Calibri,11.0,72.0,609.1,119.9,620.1,challenge. 
+18,9,0,Calibri,11.0,72.0,635.6,354.3,646.7,"More broadly, findings from the 2025 Public Administration "
+18,9,0,Calibri,11.0,356.6,635.6,443.9,646.7,AI Readiness Index
+18,9,0,Calibri,11.0,444.0,635.6,525.9,646.7, suggests that AI 
+18,9,1,Calibri,11.0,72.0,650.1,525.9,661.2,integration across Bulgaria’s public administration remains at an early stage. The assessment identified 
+18,9,2,Calibri,11.0,72.0,664.7,525.9,675.7,"limited AI use and highlighted challenges related to strategic planning, skills development and "
+18,9,3,Calibri,11.0,72.0,679.1,525.8,690.1,"organisational preparedness. While there is openness to innovation, the lack of formal strategies, "
+18,9,4,Calibri,11.0,72.0,693.6,525.8,704.6,internal governance frameworks and trained personnel continues to limit the effective deployment of 
+18,9,5,Calibri,11.0,72.0,708.1,525.9,719.1,"AI solutions across the public sector. Overall, although Bulgaria’s policy framework provides substantial "
+18,9,6,Calibri,11.0,72.0,722.6,525.9,733.7,"financial support for business digitalisation through grants, financial instruments and EU-funded "
+18,9,7,Calibri,11.0,72.0,737.0,501.0,748.1,"programmes, challenges remain in ensuring that they are adopted and implemented effectively. "
+18,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+19,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+19,3,0,Calibri,11.0,72.0,85.3,525.7,96.4,"To support the uptake of advanced technologies, Bulgaria is implementing targeted measures under "
+19,3,1,Calibri,11.0,72.0,99.9,525.6,110.9,the PCIE. A grant procedure supporting the introduction of Industry 4.0 technologies was launched in 
+19,3,2,Calibri,11.0,72.0,114.4,525.9,125.4,August 2025 by the Ministry of Innovation and Growth. The measure prioritises projects involving 
+19,3,3,Calibri,11.0,72.0,128.8,525.6,139.8,"technologies such as big data analytics, cloud computing, the industrial internet of things (IIoT), AI, "
+19,3,4,Calibri,11.0,72.0,143.3,525.6,154.3,"cyber-physical systems, digital twins, collaborative robots, and augmented or virtual reality. By the "
+19,3,5,Calibri,11.0,72.0,157.8,525.9,168.9,"deadline of December 2025, more than 740 project proposals had been submitted, applying for EUR "
+19,3,6,Calibri,11.0,72.0,172.3,525.8,183.4,176.7 million in grants – more than three times the available budget of EUR 54.19 million. The projects 
+19,3,7,Calibri,11.0,72.0,186.7,525.6,197.8,"selected for funding are expected to be announced in the first half of 2026, with implementation "
+19,3,8,Calibri,11.0,72.0,201.3,233.9,212.3,planned for summer 2026 onwards. 
+19,4,0,Calibri,11.0,72.0,227.8,525.9,238.8,"In addition to grant schemes, financial instruments also support digital transformation. Under the PCIE, "
+19,4,1,Calibri,11.0,72.0,242.3,525.8,253.4,the ‘portfolio guarantee with loss cap for digitalisation’ provides loan and leasing support for 
+19,4,2,Calibri,11.0,72.0,256.7,525.9,267.8,"companies investing in digital technologies through selected financial intermediaries, helping them to "
+19,4,3,Calibri,11.0,72.0,271.2,525.8,282.3,reduce the financing risks associated with digital investment. Complementary support is provided 
+19,4,4,Calibri,11.0,72.0,285.8,525.7,296.8,"through the PRIDST, which includes measures supporting the development of data infrastructure and "
+19,4,5,Calibri,11.0,72.0,300.3,525.9,311.3,data spaces in strategic sectors. Priority Area 1 (Data as a key asset of society) aims to build data 
+19,4,6,Calibri,11.0,72.0,314.7,525.9,325.7,"ecosystems, management tools and data-driven digital services to support decision-making and digital "
+19,4,7,Calibri,11.0,72.0,329.2,325.5,340.2,"innovation, with an allocated budget of EUR 103 million. "
+19,5,0,Calibri,11.0,72.0,355.7,525.8,366.8,"Bulgaria’s national AI strategy, adopted in 2020, provides a broad strategic framework structured "
+19,5,1,Calibri,11.0,72.0,370.2,525.7,381.3,"around key pillars such as infrastructure, skills, research and innovation. However, it is not yet "
+19,5,2,Calibri,11.0,72.0,384.6,525.7,395.7,"complemented by a comprehensive action plan with clearly defined measures, timelines and "
+19,5,3,Calibri,11.0,72.0,399.2,523.7,410.2,"implementation mechanisms, which limits its operational impact and the effective coordination of AI-"
+19,5,4,Calibri,11.0,72.0,413.7,154.3,424.8,related initiatives. 
+19,6,0,Calibri,11.0,72.0,440.2,525.9,451.3,Strengthening the effectiveness and uptake of existing support instruments is crucial to boosting the 
+19,6,1,Calibri,11.0,72.0,454.7,525.7,465.8,adoption of advanced digital technologies across the Bulgarian economy. EDIHs are expected to play a 
+19,6,2,Calibri,11.0,72.0,469.1,525.7,480.2,central role in supporting the digital transformation of SMEs and public sector organisations by 
+19,6,3,Calibri,11.0,72.0,483.7,525.9,494.7,"providing access to testing facilities, expertise and advisory services. However, their potential has yet "
+19,6,4,Calibri,11.0,72.0,498.2,525.7,509.2,"to be fulfilled, and ensuring their consolidation and effective integration within the national support "
+19,6,5,Calibri,11.0,72.0,512.7,525.8,523.8,"ecosystem will be a key factor in increasing the uptake of advanced digital technologies, including AI, "
+19,6,6,Calibri,11.0,72.0,527.1,402.9,538.2,and improving the accessibility and consistency of support for businesses. 
+19,7,0,Calibri-Bold,11.0,77.7,554.1,379.6,565.2,2025 recommendation on the adoption of advanced technologies
+19,7,0,Calibri,11.0,379.8,554.1,520.2,565.2,: Improve the business climate 
+19,7,1,Calibri,11.0,77.7,568.7,520.1,579.7,"and investment in R&D, notably strengthen Bulgaria’s public science base and its linkages with the "
+19,7,2,Calibri,11.0,77.7,583.2,520.3,594.2,"business ecosystem, while boosting private R&D efforts through well-calibrated public support "
+19,7,3,Calibri,11.0,77.7,597.6,105.0,608.6,tools. 
+19,8,0,Calibri-Bold,11.0,77.7,615.1,215.4,626.1,2025 recommendation on AI: 
+19,8,0,Calibri,11.0,216.4,615.1,520.1,626.1,"Continue the initiatives to promote AI development and adoption, "
+19,8,1,Calibri,11.0,77.7,629.6,520.3,640.7,"with a focus on collaboration, ethical considerations, and policy alignment with the EU and across "
+19,8,2,Calibri,11.0,77.7,644.1,114.7,655.2,sectors. 
+19,9,0,Calibri-Bold,11.0,77.7,674.1,519.9,685.2,"In 2025, Bulgaria continued the implementation of existing measures but did not take any new "
+19,9,1,Calibri-Bold,11.0,77.7,688.5,127.1,699.6,measures. 
+19,9,1,Calibri,11.0,127.9,688.5,520.0,699.6,"Although the adoption of AI and data analytics increased, overall uptake remains well "
+19,9,2,Calibri,11.0,77.7,703.1,520.0,714.1,"below the EU average, especially for cloud computing and among SMEs. Existing support "
+19,9,3,Calibri,11.0,77.7,717.6,520.2,728.6,"instruments have not yet been widely adopted, reflecting persistent barriers linked to skills "
+19,9,4,Calibri,11.0,77.7,732.1,446.8,743.2,"shortages, limited awareness of use cases and uneven uptake of support schemes. "
+19,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+20,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+20,2,0,Calibri,11.0,72.0,85.3,74.5,96.4, 
+20,3,0,Calibri-Light,12.0,72.0,108.1,233.6,120.1,"Unicorns, scale-ups and start-ups "
+20,5,0,Calibri-LightItalic,11.0,72.0,125.7,183.7,136.7,Performance assessment 
+20,6,0,Calibri-Bold,11.0,72.0,152.2,314.5,163.2,"At the beginning of 2026, Bulgaria hosts one unicorn"
+20,6,0,Calibri,11.0,314.5,152.2,525.8,163.2," for the first time, indicating a nascent but still "
+20,6,1,Calibri,11.0,72.0,166.6,525.7,177.6,limited scale-up ecosystem. On this matter the country did not provide a national trajectory point for 
+20,6,2,Calibri,11.0,72.0,181.1,276.3,192.1,2025 in the Digital Decade national roadmap. 
+20,7,0,Calibri-LightItalic,11.0,72.0,203.7,316.8,214.7,Policy context and assessment of the recommendations 
+20,8,0,Calibri,11.0,72.0,230.1,523.7,241.1,The availability of risk capital has improved over the years and supports the growth of Bulgaria’s start-
+20,8,1,Calibri,11.0,72.0,244.6,525.9,255.6,"up ecosystem, but it is still small compared with other countries. Investment in venture capital has "
+20,8,2,Calibri,11.0,72.0,259.1,525.9,270.2,increased (0.02% of GDP in 2024 compared with 0.01% in 2019) but remains well below the EU average 
+20,8,3,Calibri,11.0,72.0,273.6,427.3,284.7,"(0.06%). This growth, particularly in software-related firms, has contributed to "
+20,8,3,Calibri,11.0,428.0,273.6,523.5,284.7,Bulgaria’s emergence
+20,8,3,Calibri,11.0,523.4,273.6,525.9,284.7, 
+20,8,4,Calibri,11.0,72.0,288.0,525.8,299.1,"as an entrepreneurial hub in south-east Europe, with over EUR 1 billion invested between 2020 and "
+20,8,5,Calibri,11.0,72.0,302.6,511.2,313.6,2025 and the highest number (489) of funded start-ups per capita in the region during this period. 
+20,9,0,Calibri-Bold,11.0,72.0,329.1,525.8,340.1,"Despite this progress, early-stage innovative firms continue to face a persistent financing gap "
+20,9,1,Calibri-Bold,11.0,72.0,343.6,190.0,354.6,throughout their lifecycle
+20,9,1,Calibri,11.0,190.0,343.6,525.9,354.6,", which indicates that the private equity and venture capital markets are "
+20,9,2,Calibri,11.0,72.0,358.0,154.0,369.0,under-developed. 
+20,9,2,Calibri,11.0,155.2,358.0,312.8,369.0,Structural weaknesses also remain
+20,9,2,Calibri,11.0,312.7,358.0,523.7,369.0,", including limited capacity to generate STEM-"
+20,9,3,Calibri,11.0,72.0,372.5,402.0,383.6,"based start-ups and modest commercialisation of research. In addition, "
+20,9,3,Calibri,11.0,403.5,372.5,488.1,383.6,regulatory barriers
+20,9,3,Calibri,11.0,488.1,372.5,525.9,383.6, remain 
+20,9,4,Calibri,11.0,72.0,387.0,525.9,398.1,"significant, with fragmented frameworks and burdensome processes for licensing and judicial "
+20,9,5,Calibri,11.0,72.0,401.6,251.9,412.6,procedures when setting up a company. 
+20,10,0,Calibri-Bold,11.0,72.0,428.0,383.0,439.0,Further constraints relate to the broader innovation framework. 
+20,10,0,Calibri,11.0,385.4,428.0,525.8,439.0,Limited support for Bulgaria’s 
+20,10,1,Calibri,11.0,72.0,442.5,525.7,453.5,"National Standardisation Bodies affects their competitiveness, while the relatively low number of "
+20,10,2,Calibri,11.0,72.0,457.0,525.9,468.1,standards translated into Bulgarian (260 in 2024) may hinder their uptake by domestic firms. This 
+20,10,3,Calibri,11.0,72.0,471.5,525.9,482.6,"chiefly affects SMEs and start-ups, as they are more likely to rely on national-language standards and "
+20,10,4,Calibri,11.0,72.0,485.9,231.4,497.0,may face barriers to market access. 
+20,11,0,Calibri-Bold,11.0,72.0,512.5,525.7,523.5,"Within the PCIE, several financial instruments aim to strengthen the innovation capacity of "
+20,11,1,Calibri-Bold,11.0,72.0,527.0,498.8,538.0,companies and support the creation and development of start-ups and scale-ups.
+20,11,1,Calibri,11.0,498.8,527.0,525.9,538.0, The 
+20,11,2,Calibri,11.0,72.0,541.5,525.9,552.5,Entrepreneurship Fund promotes entrepreneurship and business creation through three sub-funds: 
+20,11,3,Calibri,11.0,72.0,556.1,525.9,567.1,"Early Stage, with a public allocation of EUR 30 million, Venture Capital, (EUR 30 million) and Growth "
+20,11,4,Calibri,11.0,72.0,570.5,525.8,581.5,"(EUR 40 million). In addition, a financial instrument entitled Fund for Innovations in Enterprises has "
+20,11,5,Calibri,11.0,72.0,585.0,525.8,596.0,been launched to encourage the creation and implementation of innovations through equity and 
+20,11,6,Calibri,11.0,72.0,599.5,525.8,610.5,"quasi-equity investments, focusing on companies at the early stages of development. EUR 32.17 "
+20,11,7,Calibri,11.0,72.0,614.0,348.6,625.1,million has been allocated to this fund from the public purse.  
+20,12,0,Calibri,11.0,72.0,640.4,525.9,651.5,"Under the PRIDST, the Technology Transfer Fund (TTF), a dedicated financial instrument will be "
+20,12,1,Calibri,11.0,72.0,654.9,525.8,666.0,established to support the creation and development of companies commercialising research results. 
+20,12,2,Calibri,11.0,72.0,669.5,525.9,680.5,It is aimed at improving the effectiveness of innovation funding by applying a more market-oriented 
+20,12,3,Calibri,11.0,72.0,684.0,525.6,695.0,approach to assessing the economic viability of research outcomes. The total funding allocated 
+20,12,4,Calibri,11.0,72.0,698.4,525.9,709.4,"amounts of up to EUR 60 million. In parallel, the PRIDST helps to strengthen technology transfer "
+20,12,5,Calibri,11.0,72.0,712.9,525.9,723.9,structures by establishing a national technology transfer framework. A central hub is to be set up at 
+20,12,6,Calibri,11.0,72.0,727.4,525.7,738.5,"Sofia Tech Park, alongside regional technology transfer offices in universities and research "
+20,12,7,Calibri,11.0,72.0,742.0,525.9,753.0,"organisations, aimed at accelerating the commercialisation of research results and supporting the "
+20,12,8,Calibri,11.0,72.0,756.4,212.9,767.4,creation of spin-off companies. 
+20,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+21,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+21,3,0,Calibri-Bold,11.0,72.0,85.3,417.4,96.4,"The innovation ecosystem is further supported through a network of EDIHs,"
+21,3,0,Calibri,11.0,417.7,85.3,525.9,96.4, which provide advisory 
+21,3,1,Calibri,11.0,72.0,99.9,525.9,110.9,"services, testing facilities and innovation support to businesses adopting digital technologies. Despite "
+21,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,"these policy initiatives, Bulgaria’s start-up ecosystem remains relatively small compared with more "
+21,3,3,Calibri,11.0,72.0,128.8,525.9,139.8,"mature EU innovation hubs, and boosting innovative firms still depends largely on public support "
+21,3,4,Calibri,11.0,72.0,143.3,259.6,154.3,instruments and EU-funded programmes. 
+21,4,0,Calibri-Light,15.0,72.0,170.7,322.7,185.7,Strengthening Cybersecurity & Resilience 
+21,5,0,Calibri-Bold,11.0,72.0,201.5,525.8,212.5,In 2024 only 31.28% of Bulgarian enterprises used at least five cybersecurity security measures in 
+21,5,1,Calibri-Bold,11.0,72.0,216.0,94.4,227.1,2024
+21,5,1,Calibri,11.0,94.5,216.0,143.0,227.1, (out of 11 
+21,5,1,Calibri,11.0,142.9,216.0,252.1,227.1,as measured by Eurostat
+21,5,1,Calibri,11.0,252.2,216.0,525.9,227.1,"), below the EU average of 56.85% and the lowest proportion "
+21,5,2,Calibri,11.0,72.0,230.5,178.3,241.6,among Member States.
+21,5,2,Calibri-Bold,11.0,178.4,230.5,180.9,241.6, 
+21,5,2,Calibri,11.0,181.7,230.5,525.8,241.6,This suggests significant shortcomings in the cybersecurity preparedness of 
+21,5,3,Calibri,11.0,72.0,245.1,525.8,256.1,the SME sector. The gap between Bulgaria and the EU is particularly pronounced in the use of 
+21,5,4,Calibri,11.0,72.0,259.6,525.8,270.6,"authentication via biometric methods (9.53% in Bulgaria, 18.27% in the EU), encryption techniques "
+21,5,5,Calibri,11.0,72.0,274.0,371.2,285.0,"(21.79%, EU: 39.72%), and ICT security tests (18.88%, EU: 34.64%). "
+21,6,0,Calibri-Bold,11.0,72.0,300.5,525.5,311.6,The relatively low cybersecurity preparedness of SMEs in Bulgaria is closely linked to broader 
+21,6,1,Calibri-Bold,11.0,72.0,315.0,238.9,326.1,structural barriers to digitalisation
+21,6,1,Calibri,11.0,239.0,315.0,525.8,326.1,", including shortages of digital skills, limited awareness of "
+21,6,2,Calibri,11.0,72.0,329.6,525.7,340.6,"cybersecurity risks, high investment costs and uneven digital infrastructure outside major urban "
+21,6,3,Calibri,11.0,72.0,344.0,237.3,355.0,centres. These factors contribute to
+21,6,3,Calibri-Bold,11.0,237.4,344.0,525.6,355.0," lower levels of digital maturity, limited uptake of advanced "
+21,6,4,Calibri-Bold,11.0,72.0,358.5,403.1,369.5,digital technologies and lower implementation of cybersecurity practices 
+21,6,4,Calibri,11.0,402.7,358.5,525.9,369.5,compared to the rest of the 
+21,6,5,Calibri,11.0,72.0,373.0,205.1,384.0,"EU. In particular, SMEs often "
+21,6,5,Calibri-Bold,11.0,206.2,373.0,386.5,384.0,lack dedicated expertise and resources
+21,6,5,Calibri,11.0,386.6,373.0,525.8,384.0, to deploy more sophisticated 
+21,6,6,Calibri,11.0,72.0,387.5,499.4,398.6,"security measures, leaving them increasingly exposed to cyber risks as digitalisation progresses. "
+21,7,0,Calibri,11.0,72.0,413.9,155.7,425.0,BIA’s pulse survey
+21,7,0,Calibri,11.0,155.7,413.9,525.7,425.0, from spring 2025 suggests that companies remain at very different stages of 
+21,7,1,Calibri,11.0,72.0,428.5,525.9,439.5,"readiness for the new requirements under the NIS2 framework. Only 9.4% say they are fully ready, "
+21,7,2,Calibri,11.0,72.0,443.0,525.9,454.0,roughly one quarter are preparing and another fifth consider themselves compliant but in need of 
+21,7,3,Calibri,11.0,72.0,457.5,525.7,468.5,"further training. At the same time, more than one third have not started preparations or are unaware "
+21,7,4,Calibri,11.0,72.0,471.9,525.7,482.9,"of the obligations, indicating significant implementation risks and highlighting the importance of "
+21,7,5,Calibri,11.0,72.0,486.4,420.4,497.5,"continued awareness-raising, sector-specific guidance and accessible training. "
+21,8,0,Calibri-Bold,11.0,72.0,512.9,425.3,524.0,Industry stakeholders report a growing awareness of cybersecurity risks
+21,8,0,Calibri,11.0,425.6,512.9,525.9,524.0,", including increased "
+21,8,1,Calibri,11.0,72.0,527.5,525.9,538.5,"targeting of critical sectors such as healthcare. Stakeholder consultations also indicate that, despite "
+21,8,2,Calibri,11.0,72.0,541.9,397.9,552.9,"increased investment and awareness driven by recent EU legislation, "
+21,8,2,Calibri-Bold,11.0,400.2,541.9,525.9,552.9,many SMEs may still face 
+21,8,3,Calibri-Bold,11.0,72.0,556.4,258.3,567.5,challenges in preparing for compliance
+21,8,3,Calibri,11.0,258.3,556.4,525.8,567.5, and would benefit from targeted training and advisory 
+21,8,4,Calibri,11.0,72.0,570.9,112.3,582.0,support. 
+21,8,4,Calibri-Bold,11.0,112.8,570.9,282.9,582.0,"In response, Bulgaria has introduced "
+21,8,4,Calibri-Bold,11.0,283.5,570.9,525.7,582.0,a formalised cybersecurity professional qualification 
+21,8,5,Calibri-Bold,11.0,72.0,585.5,122.4,596.5,framework
+21,8,5,Calibri-Bold,11.0,122.4,585.5,124.9,596.5, 
+21,8,5,Calibri,11.0,124.5,585.5,525.8,596.5,"aligned with the European Qualifications Framework, covering levels 4 and 5 and including "
+21,8,6,Calibri,11.0,72.0,599.9,442.8,610.9,"training in areas such as incident response, risk analysis and security management. "
+21,9,0,Calibri-Bold,11.0,72.0,626.4,437.1,637.4,Bulgaria has taken steps to strengthen its cybersecurity governance framework
+21,9,0,Calibri,11.0,437.4,626.4,525.9,637.4, through legislative 
+21,9,1,Calibri,11.0,72.0,640.9,525.7,651.9,"alignment with EU cybersecurity policy. In February 2026, the Bulgarian Parliament adopted "
+21,9,2,Calibri,11.0,72.0,655.4,525.8,666.5,"amendments to the Cybersecurity Act to incorporate the EU NIS2 Directive into national law, "
+21,9,3,Calibri,11.0,72.0,669.8,525.8,680.9,significantly updating the country’s cybersecurity regulatory framework. The revised legislation 
+21,9,4,Calibri,11.0,72.0,684.3,525.8,695.4,"expands the scope of cybersecurity obligations to 18 sectors, including public administration, energy, "
+21,9,5,Calibri,11.0,72.0,698.9,525.9,709.9,"transport, healthcare, finance and digital infrastructure, and lays down more stringent risk "
+21,9,6,Calibri,11.0,72.0,713.4,499.2,724.4,management and reporting requirements for medium and large businesses and critical entities. 
+21,10,0,Calibri-Bold,11.0,72.0,739.9,525.7,751.0,Bulgaria is also strengthening operational capabilities through investments in national cybersecurity 
+21,10,1,Calibri-Bold,11.0,72.0,754.3,284.5,765.4,infrastructure and coordination mechanisms. 
+21,10,1,Calibri,11.0,286.1,754.3,525.8,765.4,"Between April 2025 and March 2026, progress was "
+21,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+22,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+22,3,0,Calibri,11.0,72.0,85.3,525.8,96.4,made in implementing the ’Enhancing national capabilities for coordination and response to 
+22,3,1,Calibri,11.0,72.0,99.9,525.9,110.9,cybersecurity incidents’ project under the PRIDST. The project provides for the deployment of 
+22,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,advanced cybersecurity monitoring and incident-response systems across 50 public administrations 
+22,3,3,Calibri,11.0,72.0,128.8,525.7,139.8,and the establishment of secure communication channels between authorities to improve 
+22,3,4,Calibri,11.0,72.0,143.3,325.9,154.3,coordination and information exchange on cyber threats.
+22,3,4,Calibri-Bold,11.0,326.0,143.3,328.5,154.3, 
+22,4,0,Calibri-Bold,11.0,72.0,169.8,489.6,180.9,Targeted support has also been provided to businesses to improve cybersecurity readiness
+22,4,0,Calibri,11.0,489.8,169.8,525.9,180.9,. Under 
+22,4,1,Calibri,11.0,72.0,184.3,525.8,195.4,"the initiative “Digital Bulgaria – SMEs”, SMEs were given grants to strengthen cybersecurity "
+22,4,2,Calibri,11.0,72.0,198.7,525.9,209.8,infrastructure and adopt defensive technologies between June 2025 and March 2026. 61 financing 
+22,4,3,Calibri,11.0,72.0,213.3,523.5,224.3,"contracts worth around EUR 1.8 million were concluded with SMEs, supporting investments in cloud-"
+22,4,4,Calibri,11.0,72.0,227.8,525.8,238.8,"based cybersecurity solutions, hardware and software protection systems and improved information "
+22,4,5,Calibri,11.0,72.0,242.3,405.6,253.4,"security management, including measures aligned with the NIS2 Directive. "
+22,5,0,Calibri-Bold,11.0,72.0,268.7,309.4,279.8,According to the 2026 Digital Decade Eurobarometer
+22,5,0,Calibri,11.0,309.4,268.7,525.9,279.8,", 91% of Bulgarian people feel it is vital to protect "
+22,5,1,Calibri,11.0,72.0,283.2,525.7,294.3,"privacy and security online, and 88% support reinforcing cybersecurity and protection from online "
+22,5,2,Calibri,11.0,72.0,297.8,109.1,308.8,threats. 
+22,6,0,Calibri-Bold,11.0,77.7,324.8,273.3,335.8,2025 recommendation on cybersecurity
+22,6,0,Calibri,11.0,273.3,324.8,520.2,335.8,": Increase efforts in cybersecurity, particularly by "
+22,6,1,Calibri,11.0,77.7,339.3,520.2,350.3,"supporting the development and deployment of cybersecurity capabilities, and by increasing "
+22,6,2,Calibri,11.0,77.7,353.7,289.5,364.7,awareness amongst private and public entities. 
+22,7,0,Calibri-Bold,11.0,77.7,383.7,517.9,394.7,"In 2025, Bulgaria made some effort to address the recommendation through new policy actions."
+22,7,0,Calibri,11.0,517.8,383.7,520.3,394.7, 
+22,7,1,Calibri,11.0,77.7,398.2,520.2,409.3,"The country strengthened its cybersecurity framework, by transposing the NIS2 Directive into "
+22,7,2,Calibri,11.0,77.7,412.7,520.1,423.8,"national law, and continued to invest in national cybersecurity capabilities. However, cybersecurity "
+22,7,3,Calibri,11.0,77.7,427.3,520.1,438.3,"preparedness remains very weak, especially among SMEs; the uptake of security measures is still "
+22,7,4,Calibri,11.0,77.7,441.7,520.2,452.7,"the lowest in the EU, which is indicative of persistent gaps in awareness, skills and implementation "
+22,7,5,Calibri,11.0,77.7,456.2,118.9,467.2,capacity. 
+22,8,0,Calibri-Bold,11.0,72.0,483.2,74.5,494.2, 
+22,8,1,Calibri-Bold,11.0,216.1,483.2,218.5,494.2, 
+22,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+23,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+23,3,0,Calibri-Bold,26.0,72.0,88.4,529.2,114.4,Protecting and empowering EU people 
+23,3,1,Calibri-Bold,26.0,72.0,122.7,200.5,148.7,and society 
+23,4,0,Calibri-Light,15.0,72.0,162.8,519.2,177.8,Empowering people and bringing the digital transformation closer to their 
+23,4,1,Calibri-Light,15.0,72.0,182.5,111.7,197.5,needs 
+23,5,0,Calibri-Light,12.0,72.0,209.7,239.6,221.7,Equipping people with digital skills 
+23,6,0,Calibri-LightItalic,11.0,72.0,227.2,150.4,238.2,Basic digital skills 
+23,7,0,Calibri-Light,11.0,72.0,243.8,185.4,254.8,Performance assessment 
+23,8,0,Calibri,11.0,72.0,270.2,525.7,281.2,"Bulgaria remains below the EU average in basic digital skills, with significant disparities across "
+23,8,1,Calibri,11.0,72.0,284.7,525.6,295.7,"education levels, age groups and territorial areas. While some progress is visible, the overall level of "
+23,8,2,Calibri,11.0,72.0,299.2,525.9,310.2,"digital skills and the uptake of advanced digital tools remain limited, suggesting that digital skills have "
+23,8,3,Calibri,11.0,72.0,313.6,243.3,324.6,yet to be adopted throughout society. 
+23,10,0,Calibri-Bold,11.0,72.0,611.7,525.8,622.8,"In Bulgaria 38.26% of individuals aged 16-74 have at least basic digital skills, an increase of 3.8% "
+23,10,1,Calibri-Bold,11.0,72.0,625.2,378.0,636.2,"annually since 2023, which is well below the EU average of 60.40%."
+23,10,1,Calibri,11.0,378.1,625.2,525.8,636.2, Its growth rate is also below the 
+23,10,2,Calibri,11.0,72.0,638.5,525.8,649.5,"EU’s 4.3%, and the country is lagging behind compared to its trajectory presented in the Digital Decade "
+23,10,3,Calibri,11.0,72.0,651.9,525.8,663.0,"national roadmap. Above-basic digital skills are particularly low, at 11.77%, placing Bulgaria second to "
+23,10,4,Calibri,11.0,72.0,665.4,136.2,676.4,last in the EU. 
+23,11,0,Calibri-Bold,11.0,72.0,690.8,525.9,701.9,"Bulgaria has a small gender gap of 1.22 percentage points in favour of women, contrasting with the "
+23,11,1,Calibri-Bold,11.0,72.0,705.3,315.5,716.4,"rest of the EU, where men are ahead of women. "
+23,11,1,Calibri,11.0,318.1,705.3,525.8,716.4,"However, education and territorial gaps are "
+23,11,2,Calibri,11.0,72.0,719.9,525.9,730.9,"substantial: only 14.43% of individuals with no or low formal education have at least basic digital skills, "
+23,11,3,Calibri,11.0,72.0,734.4,525.9,745.4,"and in rural areas the figure is only 24.81%, far below the EU average of 52.83%. The urban-rural gap "
+23,11,4,Calibri,11.0,72.0,748.8,406.0,759.8,"stands at 22.92 percentage points (pps), above the EU figure of 13.67 pps.  "
+23,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+24,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+24,3,0,Calibri-Bold,11.0,72.0,85.3,525.9,96.4,"The figure for young adults aged 16 to 24 is 52.81%, well below the EU average of 74.53%, while only "
+24,3,1,Calibri-Bold,11.0,72.0,99.9,418.9,110.9,"19.57% 55-74 age year olds have such skills, compared with 42.60% in the EU"
+24,3,1,Calibri,11.0,419.0,99.9,525.9,110.9,. The Digital safety skills 
+24,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,"score is poor, with 55.11% of individuals having at least basic safety skills, compared with 74.63% in "
+24,3,3,Calibri,11.0,72.0,128.8,155.5,139.8,the rest of the EU. 
+24,4,0,Calibri-Bold,11.0,72.0,155.3,343.1,166.3,Bulgaria is also lagging in the use of emerging digital tools: 
+24,4,0,Calibri,11.0,343.8,155.3,525.8,166.3,22.50% of Bulgarians used generative AI 
+24,4,1,Calibri,11.0,72.0,169.8,525.8,180.9,"in 2025, below the EU average of 32.66%, and only 8.43% used it for work, compared with 15.36% in "
+24,4,2,Calibri,11.0,72.0,184.3,106.9,195.4,the EU. 
+24,4,2,Calibri-Bold,11.0,106.9,184.3,395.7,195.4,"Based on the results of the 2026 Digital Decade Eurobarometer,"
+24,4,2,Calibri,11.0,395.6,184.3,525.9,195.4, according to Bulgarian users 
+24,4,3,Calibri,11.0,72.0,198.7,525.9,209.8,"of generative AI tools, the most significant obstacles to the (increased) use of such tools are concerns "
+24,4,4,Calibri,11.0,72.0,213.3,525.6,224.3,"about privacy or data protection (34%), concerns about accuracy or incorrect information (31%) and "
+24,4,5,Calibri,11.0,72.0,227.8,224.7,238.8,the lack of training or skills (28%). 
+24,5,0,Calibri-Light,11.0,72.0,254.3,303.4,265.4,Online content behaviour and information resilience
+24,5,0,Calibri,11.0,303.5,254.3,306.0,265.4, 
+24,5,0,Calibri-Light,11.0,306.0,254.3,308.4,265.4, 
+24,5,1,Calibri,11.0,72.0,268.7,525.7,279.8,"Complementary indicators on online exposure to untrue or doubtful content, to hostile or degrading "
+24,5,2,Calibri,11.0,72.0,283.2,525.8,294.3,"messages, and to online verification of information, provide additional context on information "
+24,5,3,Calibri,11.0,72.0,297.8,525.9,308.8,"resilience and media literacy. Bulgaria’s levels across all three indicators are below the EU average, but "
+24,5,4,Calibri,11.0,72.0,312.3,525.7,323.3,"its growth is much faster, particularly among younger users. Age gaps are consistently smaller than in "
+24,5,5,Calibri,11.0,72.0,326.7,106.9,337.7,the EU. 
+24,7,0,Calibri,11.0,523.6,564.5,526.1,575.5, 
+24,7,1,Calibri,11.0,72.0,579.9,525.9,591.0,"In 2025, 45.46% of individuals in Bulgaria reported exposure to untrue or doubtful content online, "
+24,7,2,Calibri,11.0,72.0,594.5,525.7,605.5,"below the EU average of 55.90% but increasing rapidly. Verification of online content remains limited, "
+24,7,3,Calibri,11.0,72.0,608.9,525.6,619.9,"at 19.26%, well below the EU average of 29.16%, despite strong growth. Exposure to hostile or "
+24,7,4,Calibri,11.0,72.0,623.4,525.9,634.4,"degrading messages stood at 29.63%, also below the EU average of 39.72%, but rising steadily. Younger "
+24,7,5,Calibri,11.0,72.0,637.9,525.6,648.9,"users are more exposed to untrue or doubtful online content and hostile or degrading messages, and "
+24,7,6,Calibri,11.0,72.0,652.4,525.7,663.5,"are also more likely to engage in content verification, although age gaps are generally narrower than "
+24,7,7,Calibri,11.0,72.0,666.9,124.3,678.0,at EU level. 
+24,8,0,Calibri-Bold,11.0,72.0,689.4,318.1,700.4,According to the 2026 Digital Decade Eurobarometer
+24,8,0,Calibri,11.0,318.2,689.4,525.8,700.4,", most Bulgarians (91%) consider that the EU "
+24,8,1,Calibri,11.0,72.0,703.9,525.6,714.9,"should further strengthen the protection of children and young people online, while 81% agree that "
+24,8,2,Calibri,11.0,72.0,718.3,525.7,729.3,online manipulation poses a threat to democratic processes. The issues with the biggest personal 
+24,8,3,Calibri,11.0,72.0,732.8,525.7,743.9,"impact are fake news and disinformation (57%), misuse of personal data (54%) and insufficient "
+24,8,4,Calibri,11.0,72.0,747.4,205.0,758.4,protections for minors (35%). 
+24,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+25,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+25,3,0,Calibri,11.0,72.0,85.3,525.9,96.4,"Overall, it is clear from the data that there is increasing exposure to online risks, but people are "
+25,3,1,Calibri,11.0,72.0,99.9,525.8,110.9,improving in their willingness to verify information. Stakeholders highlight growing concerns around 
+25,3,2,Calibri,11.0,72.0,114.4,525.9,125.4,"disinformation, cyberbullying and harmful content, particularly affecting minors, which stakeholders "
+25,3,3,Calibri,11.0,72.0,128.8,479.5,139.8,consider an area where stronger digital literacy and education measures may be beneficial. 
+25,4,0,Calibri-Light,11.0,72.0,151.3,320.9,162.4,Policy context and assessment of the recommendations 
+25,5,0,Calibri-Bold,11.0,72.0,177.9,329.0,188.9,Digital skills remain Bulgaria’s main structural challenge
+25,5,0,Calibri,11.0,329.2,177.9,525.8,188.9,", with both basic and advanced skills levels "
+25,5,1,Calibri,11.0,72.0,192.3,525.6,203.3,"among the lowest in the EU. Targeted investment in education, training, and lifelong learning is "
+25,5,2,Calibri,11.0,72.0,206.8,341.8,217.8,essential for digital inclusion and economic competitiveness.
+25,5,2,Calibri-Bold,11.0,341.8,206.8,344.3,217.8, 
+25,5,2,Calibri,11.0,344.2,206.8,346.7,217.8, 
+25,6,0,Calibri-Bold,11.0,72.0,233.3,525.7,244.4,Bulgaria reports a range of EU-funded initiatives aimed at strengthening digital skills across the 
+25,6,1,Calibri-Bold,11.0,72.0,247.9,455.5,258.9,"population, particularly through programmes supporting upskilling and reskilling."
+25,6,1,Calibri,11.0,455.7,247.9,525.9,258.9, These include 
+25,6,2,Calibri,11.0,72.0,262.2,525.9,273.3,"investments in school education, workforce training and digital inclusion. Under the Human Resources "
+25,6,3,Calibri,11.0,72.0,276.8,525.9,287.8,"Development Programme, operations such as ‘Digital Skills’ (EUR 20.5 million) ‘New Skills’ (EUR 38 "
+25,6,4,Calibri,11.0,72.0,291.3,525.7,302.3,"million), and ‘Qualification, Skills and Career Development of Employed Persons’ (around EUR 62 "
+25,6,5,Calibri,11.0,72.0,305.8,525.9,316.8,million) support digital and green skills training for workers and businesses. Training courses are 
+25,6,6,Calibri,11.0,72.0,320.2,485.1,331.2,aligned with the DigComp framework and target basic to intermediate levels of digital skills.  
+25,7,0,Calibri-Bold,11.0,72.0,346.7,255.8,357.8,Delivery mechanisms are also expanding
+25,7,0,Calibri,11.0,255.9,346.7,525.9,357.8,. Under the RRF-funded measure on digital skills training and 
+25,7,1,Calibri,11.0,72.0,361.2,525.6,372.3,"adult learning, more than 155 000 participants had completed training and obtained certificates by "
+25,7,2,Calibri,11.0,72.0,375.8,525.9,386.8,the end of 2025. Digital training has already been provided to more than 5 000 employed individuals 
+25,7,3,Calibri,11.0,72.0,390.2,525.6,401.2,"through measures linked to a Human Resources Development Programme (HRDP), with a focus on "
+25,7,4,Calibri,11.0,72.0,404.7,525.9,415.8,"basic and intermediate digital skills. In addition, contracts have been signed for over 1 300 RRF-funded "
+25,7,5,Calibri,11.0,72.0,419.2,525.8,430.3,"digital clubs, which are expected to become fully operational by mid-2026 and aim to support digital "
+25,7,6,Calibri,11.0,72.0,433.7,232.9,444.8,learning and inclusion at local level. 
+25,8,0,Calibri-Bold,11.0,72.0,460.1,319.7,471.2,Policy measures increasingly target vulnerable groups
+25,8,0,Calibri,11.0,320.0,460.1,525.9,471.2,", including older people, individuals with low "
+25,8,1,Calibri,11.0,72.0,474.7,383.2,485.7,"literacy levels, Roma communities, employees of SMEs and teachers.  "
+25,9,0,Calibri-Bold,11.0,72.0,497.2,523.6,508.3,"Despite these initiatives, Bulgaria continues to face structural challenges in translating programme-"
+25,9,1,Calibri-Bold,11.0,72.0,511.6,330.0,522.7,based support into improved Digital Decade outcomes
+25,9,1,Calibri,11.0,330.2,511.6,525.9,522.7,", for example regarding the proportion of "
+25,9,2,Calibri,11.0,72.0,526.1,525.9,537.2,individuals with at least basic digital skills and the supply of advanced digital skills. Industry 
+25,9,3,Calibri,11.0,72.0,540.7,525.7,551.7,stakeholders report that low levels of digital literacy across the general population and in certain 
+25,9,4,Calibri,11.0,72.0,555.2,525.9,566.2,"sectors, including healthcare, continue to limit the effective use of digital tools and the uptake of digital "
+25,9,5,Calibri,11.0,72.0,569.6,144.1,580.7,public services. 
+25,9,5,Calibri,11.0,145.7,569.6,185.5,580.7,Evidence
+25,9,5,Calibri,11.0,185.6,569.6,525.9,580.7, from the education sector suggests that while some teachers are highly 
+25,9,6,Calibri,11.0,72.0,584.1,525.7,595.2,"motivated in this area, the integration of digital technologies such as AI remains fragmented and "
+25,9,7,Calibri,11.0,72.0,598.7,525.9,609.7,"insufficiently supported at system level, arising from gaps in structured training and institutional "
+25,9,8,Calibri,11.0,72.0,613.2,525.8,624.2,"coordination. Structural challenges in the education system, including low student motivation, early "
+25,9,9,Calibri,11.0,72.0,627.6,514.3,638.6,"school leaving and persistent educational inequalities, also hinder the development of digital skills. "
+25,9,10,Calibri,11.0,72.0,642.1,74.5,653.1, 
+25,9,11,Calibri-Bold,11.0,72.0,656.6,443.0,667.7,Bulgaria increasingly positions itself as an attractive destination for digital nomads
+25,9,11,Calibri,11.0,443.1,656.6,525.9,667.7,", with its relatively "
+25,9,12,Calibri,11.0,72.0,671.1,525.8,682.2,low living costs and the widespread availability of high-quality internet connectivity. Following its 
+25,9,13,Calibri,11.0,72.0,685.5,525.7,696.6,"accession to the Schengen area and the adoption of the euro in January 2026, the country introduced "
+25,9,14,Calibri,11.0,72.0,700.1,525.8,711.1,"a dedicated residency regime targeting non-EU remote workers employed by foreign companies, "
+25,9,15,Calibri,11.0,72.0,714.6,525.8,725.6,further reinforcing its appeal to mobile professionals. These developments place Bulgaria in direct 
+25,9,16,Calibri,11.0,72.0,729.1,525.7,740.2,"competition with other regional digital nomad hubs such as Greece, Croatia and Romania. In parallel, "
+25,9,17,Calibri,11.0,72.0,743.5,525.9,754.6,discussions on digital integration and sovereignty continue. Industry stakeholders point to ongoing 
+25,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+26,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+26,2,0,Calibri,11.0,72.0,85.3,525.9,96.4,investments in European data infrastructure and the importance of maintaining cross-border digital 
+26,2,1,Calibri,11.0,72.0,99.9,327.8,110.9,connectivity while addressing sovereignty considerations.
+26,2,1,Calibri-Bold,11.0,327.9,99.9,330.4,110.9, 
+26,4,0,Calibri-Bold,11.0,77.7,122.8,280.9,133.8,2025 recommendation on basic digital skills:
+26,4,0,Calibri,11.0,281.0,122.8,520.1,133.8, Leverage the strong performance of women in basic 
+26,4,1,Calibri,11.0,77.7,137.3,520.0,148.3,"digital skills to reduce disparities linked to education, age, and geography, and to raise the overall "
+26,4,2,Calibri,11.0,77.7,151.8,520.0,162.9,"level of digital competence. Prioritise targeted investments in teacher training, curriculum reform, "
+26,4,3,Calibri,11.0,77.7,166.3,291.5,177.4,and the development of digital and green skills. 
+26,5,0,Calibri-Bold,11.0,77.7,196.3,519.9,207.4,"In 2025, Bulgaria continued the implementation of existing measures but did not take any new "
+26,5,1,Calibri-Bold,11.0,77.7,210.7,120.2,221.8,measure.
+26,5,1,Calibri,11.0,120.3,210.7,520.3,221.8," The country is determined to develop key skills in all stages of education, including higher "
+26,5,2,Calibri,11.0,77.7,225.3,520.1,236.3,"education, and measures aimed at increasing the digital qualification of students and teachers are "
+26,5,3,Calibri,11.0,77.7,239.8,520.1,250.8,"being implemented. But despite ongoing initiatives, performance remains weak and substantial "
+26,5,4,Calibri,11.0,77.7,254.3,520.3,265.4,"disparities persist by education level, age and territory. Existing measures have not yet translated "
+26,5,5,Calibri,11.0,77.7,268.7,520.2,279.8,into sufficient progress in overall digital skills or into a meaningful reduction of inequalities affecting 
+26,5,6,Calibri,11.0,77.7,283.2,333.8,294.3,"low-educated people, older adults and rural populations. "
+26,6,0,Calibri,11.0,72.0,310.2,74.5,321.3, 
+26,7,0,Calibri-LightItalic,11.0,72.0,332.8,135.2,343.9,ICT specialists 
+26,7,1,Calibri-Light,11.0,72.0,349.2,185.4,360.3,Performance assessment 
+26,7,2,Calibri-Bold,11.0,72.0,363.8,525.9,374.8,"Bulgaria has 4.8% of ICT specialists in full employment, after a 4.3% increase in 2025 (above the EU’s "
+26,7,3,Calibri-Bold,11.0,72.0,378.2,347.1,389.2,"annual progress of 2%), just below the EU average of 5.0%. "
+26,7,3,Calibri,11.0,347.7,378.2,525.8,389.2,The country is on track according to its 
+26,7,4,Calibri,11.0,72.0,392.7,345.3,403.7,trajectory presented in the Digital Decade national roadmap. 
+26,8,0,Calibri-Bold,11.0,72.0,419.2,525.9,430.3,The proportion of Bulgarian women as ICT specialists has decreased slightly but remains above the 
+26,8,1,Calibri-Bold,11.0,72.0,433.7,122.8,444.8,EU average
+26,8,1,Calibri,11.0,122.8,433.7,267.1,444.8,". In 2025, women accounted for "
+26,8,1,Calibri-Bold,11.0,267.0,433.7,286.2,444.8,25%
+26,8,1,Calibri,11.0,286.3,433.7,368.4,444.8,", compared to the "
+26,8,1,Calibri-Bold,11.0,368.5,433.7,489.6,444.8,19.5% in the rest of the EU
+26,8,1,Calibri,11.0,489.6,433.7,494.8,444.8,. 
+26,9,0,Calibri-Bold,11.0,72.0,460.1,403.5,471.2,"In 2024, Bulgaria had the lowest proportion of ICT graduates in the EU, at"
+26,9,0,Calibri,11.0,403.5,460.1,406.0,471.2, 
+26,9,0,Calibri-Bold,11.0,405.9,460.1,500.3,471.2,4.7% of all graduates
+26,9,0,Calibri,11.0,500.4,460.1,525.9,471.2,. This 
+26,9,1,Calibri,11.0,72.0,474.7,525.9,485.7,low performance is concerning as a low proportion of ICT graduates makes it more difficult to bridge 
+26,9,2,Calibri,11.0,72.0,489.2,525.9,500.2,"the gap in the training of more ICT specialists for the future workforce. In addition, the country has "
+26,9,3,Calibri,11.0,72.0,503.7,442.2,514.8,one of the EU’s lowest proportions of STEM graduates (20.1%; EU average: 25.2%). 
+26,10,0,Calibri,11.0,72.0,530.2,525.9,541.3,"In 2024, 8.96% of Bulgarian businesses recruited or tried to recruit personnel with specialist ICT skills "
+26,10,1,Calibri,11.0,72.0,544.6,525.9,555.7,"(EU average: 9.55%). Moreover, 3.68% of companies said they had difficulty filling vacancies for jobs "
+26,10,2,Calibri,11.0,72.0,559.2,293.2,570.2,requiring specialist ICT skills (EU average: 5.49%). 
+26,11,0,Calibri-Light,11.0,72.0,581.6,320.9,592.7,Policy context and assessment of the recommendations 
+26,12,0,Calibri-Bold,11.0,72.0,608.1,525.8,619.2,Bulgaria has introduced several initiatives to improve the pipeline of ICT specialists through 
+26,12,1,Calibri-Bold,11.0,72.0,622.7,328.3,633.7,"education, vocational training and labour market policies"
+26,12,1,Calibri,11.0,328.4,622.7,525.9,633.7,". For the tenth consecutive year, the national "
+26,12,2,Calibri,11.0,72.0,637.2,525.8,648.2,Training for IT Skills and Career Programme supports the acquisition of professional qualifications in 
+26,12,3,Calibri,11.0,72.0,651.6,525.7,662.6,"computer science and software-related occupations, with the objective of increasing the number of "
+26,12,4,Calibri,11.0,72.0,666.1,525.7,677.1,graduates entering the labour market or continuing higher education in informatics and computer 
+26,12,5,Calibri,11.0,72.0,680.6,525.9,691.7,"science. The programme is implemented through a school–university–IT business partnership model, "
+26,12,6,Calibri,11.0,72.0,695.1,523.3,706.2,"involving five School Centres for Software Training located in Sofia, Pravets, Plovdiv, Ruse and Burgas. "
+26,13,0,Calibri-Bold,11.0,72.0,721.7,365.9,732.7,Steps are being taken to smooth pathways into ICT professions.
+26,13,0,Calibri,11.0,366.1,721.7,525.8,732.7," In 2024, the Ministry of Education "
+26,13,1,Calibri,11.0,72.0,736.1,525.7,747.1,"and Science approved a new List of Professions for Vocational Education and Training (VET), "
+26,13,2,Calibri,11.0,72.0,750.6,525.7,761.6,"introducing new programmes in fields such as database and network administration, software "
+26,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+27,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+27,2,0,Calibri,11.0,72.0,85.3,525.6,96.4,"development, and electronics and automation, with training expected to begin in 2026. In parallel, "
+27,2,1,Calibri,11.0,72.0,99.9,525.6,110.9,advanced digital skills training for adults (DigComp levels 7 and 8) is supported through the Human 
+27,2,2,Calibri,11.0,72.0,114.4,270.0,125.4,Resources Development Programme (ESF+). 
+27,4,0,Calibri-Bold,11.0,72.0,140.8,159.3,151.8,In November 2025 
+27,4,0,Calibri-Bold,11.0,159.5,140.8,195.2,151.8,reforms
+27,4,0,Calibri-Bold,11.0,195.3,140.8,466.3,151.8," set up a structured cybersecurity qualification framework, "
+27,4,0,Calibri,11.0,466.7,140.8,525.9,151.8,with the aim 
+27,4,1,Calibri,11.0,72.0,155.3,525.9,166.3,"of strengthening the skills pipeline by defining standardised skills, training pathways and professional "
+27,4,2,Calibri,11.0,72.0,169.8,452.7,180.9,"profiles, including both operational and strategic roles in cybersecurity management. "
+27,4,3,Calibri-Bold,11.0,72.0,184.3,74.5,195.4, 
+27,4,4,Calibri-Bold,11.0,72.0,198.7,525.8,209.8,These measures respond to increasing demand for ICT and cyber skills in the Bulgarian labour 
+27,4,5,Calibri-Bold,11.0,72.0,213.3,107.5,224.3,"market,"
+27,4,5,Calibri,11.0,107.4,213.3,525.8,224.3, where employers across the information technology sector and other economic sectors report 
+27,4,6,Calibri,11.0,72.0,227.8,523.6,238.8,"shortages of trained specialists. At the same time, stakeholder consultations suggest emerging labour-"
+27,4,7,Calibri,11.0,72.0,242.3,525.9,253.4,"market shifts linked to AI adoption, including a perceived reduction in demand for some entry-level "
+27,4,8,Calibri,11.0,72.0,256.7,513.5,267.8,programming roles and evolving skills requirements. According to the 2025 Public Administration 
+27,4,8,Calibri,11.0,514.4,256.7,525.9,267.8,AI 
+27,4,9,Calibri,11.0,72.0,271.2,145.6,282.3,Readiness Index
+27,4,9,Calibri,11.0,145.6,271.2,525.9,282.3,", a majority of surveyed public-sector employees reported a need for specialised "
+27,4,10,Calibri,11.0,72.0,285.8,525.8,296.8,"training. Together, these trends underline the need to expand advanced digital skills provision, "
+27,4,11,Calibri,11.0,72.0,300.3,525.9,311.3,"strengthen links between education and labour market needs, and boost structured training "
+27,4,12,Calibri,11.0,72.0,314.7,525.9,325.7,programmes covering practical and ethical aspects of AI use. This will in turn support public sector 
+27,4,13,Calibri,11.0,72.0,329.2,274.2,340.2,transformation and broader digital adoption. 
+27,5,0,Calibri,11.0,72.0,355.7,525.6,366.8,"Despite these initiatives, Bulgaria continues to face structural challenges in expanding the supply of "
+27,5,1,Calibri,11.0,72.0,370.2,525.8,381.3,"highly specialised ICT professionals, which may hinder the adoption of advanced digital technologies "
+27,5,2,Calibri,11.0,72.0,384.6,165.5,395.7,across the economy. 
+27,6,0,Calibri-Bold,11.0,77.7,411.7,260.5,422.7,2025 recommendation on ICT specialists
+27,6,0,Calibri,11.0,260.5,411.7,520.1,422.7,": Develop clear, targeted measures to help companies hire "
+27,6,1,Calibri,11.0,77.7,426.2,520.2,437.2,"ICT experts in less populated areas. Set out a strategy addressing broader factors like infrastructure, "
+27,6,2,Calibri,11.0,77.7,440.7,520.1,451.8,"economic conditions, and researcher mobility, and identify the most effective funding strategies. "
+27,6,3,Calibri,11.0,77.7,455.2,487.4,466.3,Expand ICT training and increase the number of female ICT specialists to help close the gap. 
+27,7,0,Calibri-Bold,11.0,77.7,485.2,517.9,496.3,"In 2025, Bulgaria made some effort to address the recommendation through new policy actions."
+27,7,0,Calibri,11.0,517.8,485.2,520.3,496.3, 
+27,7,1,Calibri,11.0,77.7,499.6,520.3,510.7,The country expanded ICT training and introduced new vocational and cybersecurity-related 
+27,7,2,Calibri,11.0,77.7,514.1,520.1,525.2,"programmes. However, structural challenges persist in expanding the supply of highly specialised "
+27,7,3,Calibri,11.0,77.7,528.7,520.3,539.7,ICT professionals and in aligning skills provision with labour market needs. While recruitment is 
+27,7,4,Calibri,11.0,77.7,543.2,520.2,554.2,"relatively high, this has not yet been reflected in a proportionate increase in the overall supply of "
+27,7,5,Calibri,11.0,77.7,557.6,520.3,568.7,"ICT specialists, and the low proportion of ICT graduates continues to hinder the future pipeline. "
+27,7,6,Calibri,11.0,77.7,572.1,520.1,583.2,Available evidence does not indicate that existing measures have significantly improved the ability 
+27,7,7,Calibri,11.0,77.7,586.7,436.4,597.7,"of firms, particularly in less populated areas, to attract and retain ICT specialists. "
+27,8,0,Calibri,11.0,72.0,616.2,74.5,627.2, 
+27,9,0,Calibri-Light,12.0,72.0,639.0,476.9,651.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+27,10,0,Calibri-LightItalic,11.0,72.0,656.5,183.7,667.5,Performance assessment 
+27,10,1,Calibri-Bold,11.0,72.0,671.0,525.9,682.1,"As regards digital public services, Bulgaria performs better for businesses than for citizens; in the "
+27,10,2,Calibri-Bold,11.0,72.0,685.5,245.5,696.6,"case of the latter, it is below EU levels"
+27,10,2,Calibri,11.0,245.4,685.5,525.9,696.6, and more uneven across life events and levels of governance. 
+27,10,3,Calibri,11.0,72.0,699.9,525.7,711.0,"Differences across government tiers are also evident, with local administrations showing "
+27,10,4,Calibri,11.0,72.0,714.5,449.4,725.5,"comparatively weaker performance, although trends suggest gradual improvement.  "
+27,11,0,Calibri-Bold,11.0,72.0,741.0,525.9,752.0,"In 2025, Bulgaria had a digital public services score of 71.08/100 points in the case of citizens, a 4.6% "
+27,11,1,Calibri-Bold,11.0,72.0,755.5,417.5,766.6,"increase compared to 2024, but still below the EU average of 84.64/100."
+27,11,1,Calibri,11.0,417.8,755.5,525.9,766.6, The country is lagging 
+27,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+28,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+28,3,0,Calibri,11.0,72.0,85.3,525.7,96.4,"behind its trajectory presented in the Digital Decade national roadmap. For national citizens, Bulgaria "
+28,3,1,Calibri,11.0,72.0,99.9,525.8,110.9,"reached 88.21/100, below the EU average of 94.01/100, while cross-border digital public services for "
+28,3,2,Calibri,11.0,72.0,114.4,525.9,125.4,"citizens reached 53.95/100, below the EU average of 75.28/100 despite a 12.8% increase. In addition, "
+28,3,3,Calibri,11.0,72.0,128.8,511.2,139.8,Bulgaria is not performing well on the indicator related to digitalisation of the justice system in the 
+28,3,3,Calibri,11.0,511.1,128.8,525.9,139.8,EU 
+28,3,4,Calibri,11.0,72.0,143.3,155.7,154.3,Justice Scoreboard
+28,3,4,Calibri,11.0,155.7,143.3,525.9,154.3,. It has suffered difficulties and delays with deploying the necessary decentralised 
+28,3,5,Calibri,11.0,72.0,157.8,525.8,168.9,"IT systems that form the basis for the Justice Digital EXchange system (JUDEX), a key reform for the "
+28,3,6,Calibri,11.0,72.0,172.3,306.8,183.4,digitalisation of cross-border public judicial services. 
+28,4,0,Calibri-Bold,11.0,72.0,198.7,188.7,209.8,Citizen-related life events
+28,4,0,Calibri,11.0,188.8,198.7,525.7,209.8," that score particularly well include Transport (89.09), Moving (85.00), and "
+28,4,1,Calibri,11.0,72.0,213.3,525.8,224.3,"Health (73.36). The areas most in need of improvement are Career (60.58), Family (61.72), and "
+28,4,2,Calibri,11.0,72.0,227.8,148.5,238.8,Studying (63.25).
+28,4,2,Calibri-Bold,11.0,148.6,227.8,525.8,238.8, In terms of the different levels of government for national citizens’ digital public 
+28,4,3,Calibri-Bold,11.0,72.0,242.3,108.4,253.4,services
+28,4,3,Calibri,11.0,108.5,242.3,525.6,253.4,", central government services scored 86.27/100, regional services 79.63/100, and local "
+28,4,4,Calibri,11.0,72.0,256.7,161.5,267.8,services 60.96/100. 
+28,5,0,Calibri-Bold,11.0,72.0,283.2,525.8,294.3,"Bulgaria’s score for digital public services for businesses was 94.04/100 in 2025, unchanged from "
+28,5,1,Calibri-Bold,11.0,72.0,297.8,295.2,308.8,2024 and above the EU average of 88.59/100. 
+28,5,1,Calibri,11.0,297.2,297.8,525.7,308.8,The country is on track according to its national 
+28,5,2,Calibri,11.0,72.0,312.3,525.8,323.3,"trajectory. Cross-border digital public services for businesses reached 92.50/100, above the EU average "
+28,5,3,Calibri,11.0,72.0,326.7,525.9,337.7,"of 78.37/100, while the score for digital public services for national businesses was 95.59/100, below "
+28,5,4,Calibri,11.0,72.0,341.2,204.7,352.2,the EU average of 98.81/100. 
+28,6,0,Calibri-Bold,11.0,72.0,367.7,336.1,378.8,According to the 2026 Digital Decade Eurobarometer
+28,6,0,Calibri,11.0,336.2,367.7,525.8,378.8,", 72% of Bulgarians consider that the "
+28,6,1,Calibri,11.0,72.0,382.2,402.7,393.3,digitalisation of daily public and private services is making their life easier. 
+28,7,0,Calibri,11.0,72.0,408.7,525.9,419.7,"Bulgaria’s access to e-Health records reached 89.56 in 2025, an increase of 2.4%, above the EU average "
+28,7,1,Calibri,11.0,72.0,423.2,525.7,434.2,"of 86.51. While its annual progress is below the EU’s 4.6%, the country is on track according to its "
+28,7,2,Calibri,11.0,72.0,437.7,345.3,448.8,trajectory presented in the Digital Decade national roadmap. 
+28,8,0,Calibri-LightItalic,11.0,72.0,464.2,316.8,475.3,Policy context and assessment of the recommendations 
+28,8,1,Calibri-Bold,11.0,72.0,478.6,525.9,489.7,Bulgaria’s technological environment and legislative framework for e-government are well 
+28,8,2,Calibri-Bold,11.0,72.0,492.1,370.4,503.1,"developed, yet there is limited uptake of digital public services."
+28,8,2,Calibri,11.0,370.5,492.1,525.8,503.1, Despite improvements in service 
+28,8,3,Calibri,11.0,72.0,505.5,124.1,516.5,"availability, "
+28,8,3,Calibri-Bold,11.0,124.7,505.5,303.5,516.5,challenges persist in their effective use
+28,8,3,Calibri,11.0,303.7,505.5,525.8,516.5,. Further progress could focus on broader access 
+28,8,4,Calibri,11.0,72.0,518.9,525.7,530.0,"to health data, stronger data contributions across the healthcare system, improved support for "
+28,8,5,Calibri,11.0,72.0,532.4,523.6,543.4,"vulnerable groups, and participation in emerging European initiatives such as the Network of AI-"
+28,8,6,Calibri,11.0,72.0,545.8,525.9,556.9,Powered Advanced Medical Centres. Stakeholder consultations identified barriers such as usability 
+28,8,7,Calibri,11.0,72.0,559.3,525.7,570.3,"issues, non-user-friendly design and fragmented service interfaces. In addition, low awareness of "
+28,8,8,Calibri,11.0,72.0,572.7,525.9,583.8,available services and concerns relating to data protection and trust continue to deter user 
+28,8,9,Calibri,11.0,72.0,586.2,525.9,597.2,engagement. These factors highlight persistent demand-side barriers to the effective use of digital 
+28,8,10,Calibri,11.0,72.0,599.5,525.7,610.5,"public services. In this context, the development of trusted digital identity solutions, including the "
+28,8,11,Calibri,11.0,72.0,612.9,525.8,624.0,"future European Digital Identity Wallet (EUDI Wallet), can play a key role in strengthening user trust, "
+28,8,12,Calibri,11.0,72.0,626.4,525.9,637.4,facilitating access to services and supporting the integration of Bulgaria into the Digital Single Market. 
+28,8,13,Calibri,11.0,72.0,639.8,74.5,650.9, 
+28,8,14,Calibri-Bold,11.0,72.0,653.3,392.3,664.3,Progress is also ongoing in the area of digital identity and trust services.
+28,8,14,Calibri,11.0,392.6,653.3,525.9,664.3, Bulgaria has begun preparing 
+28,8,15,Calibri,11.0,72.0,667.8,525.8,678.8,for the implementation of the EUDI Wallet. The Ministry of e-Government has launched coordination 
+28,8,16,Calibri,11.0,72.0,682.3,525.6,693.3,with public institutions and trust service providers to prepare the technical specifications and legal 
+28,8,17,Calibri,11.0,72.0,696.7,525.9,707.7,framework required for its deployment. Discussions are also underway regarding legislative 
+28,8,18,Calibri,11.0,72.0,711.2,525.9,722.3,amendments necessary for the functioning of the future digital identity ecosystem. Stakeholders 
+28,8,19,Calibri,11.0,72.0,725.8,525.7,736.8,underlined the importance of timely implementation of digital identity solutions to enable secure 
+28,8,20,Calibri,11.0,72.0,740.3,525.9,751.3,digital interactions and support the development of advanced digital services. They also highlighted 
+28,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+29,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+29,3,0,Calibri,11.0,72.0,85.3,525.8,96.4,the need to clarify roles and responsibilities among stakeholders and ensuring a coherent governance 
+29,3,1,Calibri,11.0,72.0,99.9,290.1,110.9,framework to support effective implementation. 
+29,3,2,Calibri,11.0,72.0,114.4,74.5,125.4, 
+29,3,3,Calibri,11.0,72.0,128.8,525.9,139.8,Further progress will require prioritising the technical and operational preparations for issuing a 
+29,3,4,Calibri,11.0,72.0,143.3,525.7,154.3,"national wallet, including the establishment of a clear certification framework and alignment with "
+29,3,5,Calibri,11.0,72.0,157.8,525.8,168.9,common European standards. Ensuring interoperability and the integration of the wallet with key 
+29,3,6,Calibri,11.0,72.0,172.3,525.9,183.4,public and private services will be essential to support uptake and enable seamless cross-border use. 
+29,3,7,Calibri,11.0,72.0,186.7,525.9,197.8,Continued participation in large-scale pilots and cooperation with European partners will contribute 
+29,3,8,Calibri,11.0,72.0,201.3,525.8,212.3,"to knowledge exchange, scalability and the long-term development of a robust digital identity "
+29,3,9,Calibri,11.0,72.0,215.8,124.1,226.8,ecosystem. 
+29,4,0,Calibri-Bold,11.0,72.0,242.3,486.8,253.4,"Despite these developments, the overall use of e-government services remains low."
+29,4,0,Calibri,11.0,486.9,242.3,525.9,253.4, This is 
+29,4,1,Calibri,11.0,72.0,255.6,525.9,266.7,"compounded by a generally low perception of the quality of public administration services, particularly "
+29,4,2,Calibri,11.0,72.0,269.1,525.7,280.1,"among citizens (as opposed to businesses). In the past 12 months, 40.02% of Bulgarian users have "
+29,4,3,Calibri,11.0,72.0,282.5,525.9,293.6,"engaged with e-government services, well below the EU average of 76.03% and the second-lowest "
+29,4,4,Calibri,11.0,72.0,296.0,525.9,307.0,"share in the EU, despite gradual improvements in service availability. Across auxiliary e-government "
+29,4,5,Calibri,11.0,72.0,309.4,525.9,320.5,"indicators, Bulgaria’s performance in 2025 was mixed but generally improving. It made progress in user "
+29,4,6,Calibri,11.0,72.0,322.8,525.7,333.9,"support (89.68, up from 88.89 in 2024), slightly below the EU average (90.01), and a marked "
+29,4,7,Calibri,11.0,72.0,336.3,525.9,347.3,"improvement in mobile friendliness (97.17 vs 90.54 in 2024), now in line with the EU average (97.35), "
+29,4,8,Calibri,11.0,72.0,349.7,525.6,360.8,"despite the EU experiencing a notable decline in this area. However, Bulgaria continues to lag behind "
+29,4,9,Calibri,11.0,72.0,363.2,525.7,374.2,"the EU average in both pre-filled forms (71.78 vs 75.93) and transparency (57.87 vs 69.59). Moreover, "
+29,4,10,Calibri,11.0,72.0,376.6,525.9,387.6,"both indicators were down on the 2024 figures (74.13 and 59.31 respectively), falling further behind "
+29,4,11,Calibri,11.0,72.0,389.9,525.7,401.0,"the EU as a whole, particularly in transparency of service delivery, design and personal data. Overall, "
+29,4,12,Calibri,11.0,72.0,403.4,525.8,414.4,"while Bulgaria is making progress in aspects of user experience such as support and mobile access, "
+29,4,13,Calibri,11.0,72.0,416.8,525.6,427.9,structural gaps remain in more advanced features related to data reuse and transparency of digital 
+29,4,14,Calibri,11.0,72.0,430.3,142.4,441.3,public services. 
+29,5,0,Calibri,11.0,72.0,455.7,525.9,466.8,"By the end of 2025, 2 179 electronic services were available to citizens and businesses, of which 1 283 "
+29,5,1,Calibri,11.0,72.0,469.1,525.9,480.2,of were provided centrally through the e-Government portal and 1 035 of those can be requested via 
+29,5,2,Calibri,11.0,72.0,482.6,203.9,493.6,web-based electronic forms.  
+29,6,0,Calibri-Bold,11.0,72.0,508.0,523.5,519.1,Steps have been taken to reduce the administrative burden and to digitalise internal processes.
+29,6,0,Calibri,11.0,523.4,508.0,525.9,519.1, 
+29,6,1,Calibri,11.0,72.0,521.5,525.9,532.5,"Under the RRP, Bulgaria is digitalising the construction sector, by introducing building information "
+29,6,2,Calibri,11.0,72.0,534.9,525.9,545.9,"modelling and developing a platform for administrative services relating to spatial planning, "
+29,6,3,Calibri,11.0,72.0,548.3,255.9,559.4,investment design and building permits.  
+29,7,0,Calibri,11.0,72.0,573.7,525.9,584.7,"However, the digitalisation of the justice system falls well short of what is needed. Procedural rules do "
+29,7,1,Calibri,11.0,72.0,587.1,525.8,598.2,"not yet allow the use of digital tools across all civil and commercial proceedings, and existing solutions "
+29,7,2,Calibri,11.0,72.0,600.6,525.9,611.6,do not fully enable secure communication and remote work for judges and court staff. It is also not 
+29,7,3,Calibri,11.0,72.0,614.0,525.6,625.1,possible as a citizen to initiate and follow court proceedings digitally in all cases. Gaps also remain in 
+29,7,4,Calibri,11.0,72.0,627.5,525.8,638.5,the deployment of the IT solutions necessary to support cross-border digital judicial cooperation and 
+29,7,5,Calibri,11.0,72.0,640.9,145.9,651.9,service delivery. 
+29,8,0,Calibri,11.0,72.0,666.3,525.9,677.4,A great deal of work has been done to set up a fully electronic internal document flow for 
+29,8,1,Calibri,11.0,72.0,679.8,525.6,690.8,"implementing all administrative procedures. By the end of 2025, internal electronic document flow "
+29,8,2,Calibri,11.0,72.0,693.2,525.9,704.3,"was introduced throughout the central administration, and integrated into regional and municipal "
+29,8,3,Calibri,11.0,72.0,706.5,525.8,717.6,"administrations. In addition, with the labour register reform, since 1 June 2025 all paper employment "
+29,8,4,Calibri,11.0,72.0,720.0,525.7,731.0,record books have been digitalised in the Employment Register maintained by the National Revenue 
+29,8,5,Calibri,11.0,72.0,733.4,109.0,744.5,Agency. 
+29,8,5,Calibri-Bold,11.0,110.4,733.4,155.8,744.5,"However, "
+29,8,5,Calibri,11.0,157.2,733.4,525.7,744.5,while substantial progress has been made in the digitalisation of administrative 
+29,8,6,Calibri,11.0,72.0,746.9,458.1,757.9,"processes, including electronic document management and the labour register reform, "
+29,8,6,Calibri-Bold,11.0,457.8,746.9,525.9,757.9,administrative 
+29,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+30,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+30,3,0,Calibri-Bold,11.0,72.0,85.3,247.9,96.4,capacity remains a major constraint.
+30,3,0,Calibri,11.0,248.0,85.3,525.8,96.4, Stakeholders reported limited administrative capacity and 
+30,3,1,Calibri,11.0,72.0,98.8,525.9,109.8,expertise in public institutions to engage effectively with industry on digital innovation projects. This 
+30,3,2,Calibri,11.0,72.0,112.2,354.2,123.3,is consistent with findings from the 2025 Public Administration 
+30,3,2,Calibri,11.0,354.3,112.2,437.6,123.3,AI Readiness Index
+30,3,2,Calibri,11.0,437.6,112.2,525.9,123.3,. Based on a survey 
+30,3,3,Calibri,11.0,72.0,125.7,525.9,136.7,"of public-sector employees, the index assessed overall AI readiness at 49/100, corresponding to a "
+30,3,4,Calibri,11.0,72.0,139.1,525.9,150.1,"‘capacity-building’ stage, and highlighted challenges related to AI uptake, strategic planning, and "
+30,3,5,Calibri,11.0,72.0,152.5,525.8,163.6,"organisational preparedness across public institutions. Together, these findings suggest that capacity "
+30,3,6,Calibri,11.0,72.0,165.9,525.8,176.9,constraints may hinder the co-creation of policies and slow the implementation of digital 
+30,3,7,Calibri,11.0,72.0,179.3,376.8,190.3,transformation initiatives supporting efficient digital public services. 
+30,4,0,Calibri-Bold,11.0,72.0,204.7,484.5,215.8,Interoperability and data exchange systems for online public services continue to improve
+30,4,0,Calibri,11.0,484.5,204.7,525.9,215.8,. Further 
+30,4,1,Calibri,11.0,72.0,218.2,525.9,229.2,"progress in enabling cross-border data exchange between public authorities, for example through the "
+30,4,2,Calibri,11.0,72.0,231.6,525.7,242.7,"Once-Only Technical System, would help facilitate administrative procedures for citizens and "
+30,4,3,Calibri,11.0,72.0,245.1,233.7,256.1,businesses working across borders.  
+30,5,0,Calibri,11.0,72.0,270.5,390.0,281.6,RegiX allows administrations to receive the necessary information 
+30,5,0,Calibri-Italic,11.0,393.4,270.5,436.2,281.6,ex officio
+30,5,0,Calibri,11.0,436.2,270.5,525.9,281.6, without requiring 
+30,5,1,Calibri,11.0,72.0,284.0,525.9,295.0,documents from citizens and businesses. By the end of 2025 100 registers were connected to RegiX 
+30,5,2,Calibri,11.0,72.0,297.4,525.8,308.5,and there were 288 available queries. Interoperability improvements include the development of the 
+30,5,3,Calibri,11.0,72.0,310.7,525.9,321.8,information system for centralised building and maintenance of registers. Ten registers have been built 
+30,5,4,Calibri,11.0,72.0,324.2,368.4,335.2,and published in a production environment based on this system.  
+30,6,0,Calibri-Bold,11.0,72.0,349.6,386.3,360.6,"In parallel, broader data governance reforms are being implemented"
+30,6,0,Calibri,11.0,386.2,349.6,525.9,360.6,". For example, a reform aiming "
+30,6,1,Calibri,11.0,72.0,363.0,525.7,374.1,"to build a strategic, organisational and technical framework for data governance and interoperability "
+30,6,2,Calibri,11.0,72.0,376.5,229.8,387.5,is being implemented under the 
+30,6,2,Calibri,11.0,232.9,376.5,525.8,387.5,"Programme Research, Innovation and Digitalisation for Smart "
+30,6,3,Calibri,11.0,72.0,389.9,183.6,401.0,Transformation (PRIDST).
+30,6,3,Calibri,11.0,183.5,389.9,186.0,401.0, 
+30,7,0,Calibri-Bold,11.0,72.0,415.4,525.9,426.4,Bulgaria is progressing towards achieving universal access for citizens to their electronic health 
+30,7,1,Calibri-Bold,11.0,72.0,429.9,355.0,440.9,"records by 2030, as this year’s improved score demonstrates. "
+30,7,1,Calibri,11.0,355.8,429.9,525.8,440.9,"However, medical images are still not "
+30,7,2,Calibri,11.0,72.0,444.3,525.8,455.4,"available to citizens online, while geriatric nursing homes are not supplying data mainly because of "
+30,7,3,Calibri,11.0,72.0,458.8,525.6,469.9,"their low level of digitalisation. In 2020, Bulgaria adopted the Concept for the Development of AI in "
+30,7,4,Calibri,11.0,72.0,473.3,525.6,484.4,"Bulgaria by 2030, which recognises the potential of AI in healthcare. Health is also a crucial sector "
+30,7,5,Calibri,11.0,72.0,487.9,525.7,498.9,"recognised in the Apply AI Strategy, yet AI adoption and integration in healthcare remain limited and "
+30,7,6,Calibri,11.0,72.0,502.4,110.4,513.4,uneven. 
+30,7,6,Calibri-Bold,11.0,112.2,502.4,525.9,513.4,"To date, no Bulgarian organisations have joined the Network of AI-powered Advanced "
+30,7,7,Calibri-Bold,11.0,72.0,516.8,145.4,527.8,Medical Centres
+30,7,7,Calibri,11.0,145.3,516.8,525.9,527.8,", which aims to speed up the introduction of innovative solutions for prevention, early "
+30,7,8,Calibri,11.0,72.0,531.3,525.9,542.3,"detection and diagnosis in cancer and cardiovascular disease. Moreover, the cross-border "
+30,7,9,Calibri,11.0,72.0,545.8,525.9,556.9,"harmonisation, secure storage, processing, and analysis of health data for high-impact use cases is "
+30,7,10,Calibri,11.0,72.0,560.4,372.3,571.4,"supported by federated infrastructures and governance. However, "
+30,7,10,Calibri-Bold,11.0,372.8,560.4,525.8,571.4,Bulgaria has not yet appointed a 
+30,7,11,Calibri-Bold,11.0,72.0,574.8,525.9,585.8,representative to either the Genome EDIC Working Group or the EUCAIM (Cancer Imagery) EDIC 
+30,7,12,Calibri-Bold,11.0,72.0,589.3,144.5,600.3,Working Group.
+30,7,12,Calibri,11.0,144.4,589.3,146.9,600.3, 
+30,8,0,Calibri,11.0,72.0,611.7,525.7,622.8,"Further progress will require making additional data types, in particular medical images, available to "
+30,8,1,Calibri,11.0,72.0,626.3,525.9,637.3,"citizens online, and increasing the supply of health data by ensuring that public and private geriatric "
+30,8,2,Calibri,11.0,72.0,640.8,525.9,651.8,nursing homes are connected to digital systems. Expanding population coverage and enabling people 
+30,8,3,Calibri,11.0,72.0,655.3,525.8,666.3,(subject to authorisation) to access electronic health data on behalf of others would also support more 
+30,8,4,Calibri,11.0,72.0,669.7,525.7,680.7,"inclusive access. In parallel, developing safe and trustworthy AI in healthcare will require clearer "
+30,8,5,Calibri,11.0,72.0,684.2,525.8,695.3,"investment priorities and support for the deployment of AI solutions in clinical environments, including "
+30,8,6,Calibri,11.0,72.0,698.7,525.9,709.8,through participation in European initiatives such as the Network of AI-powered Advanced Medical 
+30,8,7,Calibri,11.0,72.0,713.3,111.5,724.3,Centres. 
+30,9,0,Calibri-Bold,11.0,72.0,739.7,387.7,750.7,Bulgaria’s healthcare system is undergoing a digital transformation 
+30,9,0,Calibri,11.0,389.1,739.7,525.9,750.7,through system-wide reforms 
+30,9,1,Calibri,11.0,72.0,754.2,525.9,765.2,supported by the RRP and cohesion policy. The eZdrave [which means e-Health in Bulgarian] mobile 
+30,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+31,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+31,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+31,3,0,Calibri,11.0,72.0,85.3,525.9,96.4,"application provides real-time access to health data (examinations, referrals, prescriptions and hospital "
+31,3,1,Calibri,11.0,72.0,99.9,525.8,110.9,"stays) and is supported by a national awareness-raising campaign, reaching over 80 000 people. The "
+31,3,2,Calibri,11.0,72.0,114.4,525.8,125.4,"application had 350 389 active users as of 4 May 2026. In 2024, amendments to the Public Health Act "
+31,3,3,Calibri,11.0,72.0,128.8,525.8,139.8,"had introduced mandatory e-Health records across both public and private sectors, establishing a "
+31,3,4,Calibri,11.0,72.0,143.3,525.9,154.3,unified digital health profile for each citizen. The reforms also formalise telemedicine and introduce a 
+31,3,5,Calibri,11.0,72.0,157.8,525.7,168.9,national online appointment system. These measures build on the National Health Information 
+31,3,6,Calibri,11.0,72.0,172.3,461.2,183.4,"System, which already manages large volumes of electronic prescriptions and referrals. "
+31,4,0,Calibri,11.0,72.0,198.7,525.9,209.8,"Recent reforms have contributed to a growing use of digital health services, including electronic "
+31,4,1,Calibri,11.0,72.0,213.3,525.9,224.3,"prescriptions, referrals and access through the eZdrave platform. However, broader citizen uptake "
+31,4,2,Calibri,11.0,72.0,227.8,525.9,238.8,"remains below the EU average in several areas, indicating persistent challenges related to digital "
+31,4,3,Calibri,11.0,72.0,242.3,216.4,253.4,inclusion and user engagement. 
+31,5,0,Calibri,11.0,72.0,268.7,325.5,279.8,According to the European Commission’s 2025 edition of 
+31,5,0,Calibri,11.0,325.4,268.7,477.4,279.8,Country Health Profile for Bulgaria
+31,5,0,Calibri,11.0,477.3,268.7,525.9,279.8, under the 
+31,5,1,Calibri,11.0,72.0,283.2,525.8,294.3,"State of Health in the EU, only around 40% of individuals sought health information online in 2024 (EU: "
+31,5,2,Calibri,11.0,72.0,297.8,525.6,308.8,"58%), and 18% have booked medical appointments online (EU: 40%). Access to electronic health "
+31,5,3,Calibri,11.0,72.0,312.3,454.5,323.3,"records increased from 10% in 2020 to 19% in 2024, still below the EU average (28%). "
+31,6,0,Calibri-Bold,11.0,72.0,338.7,358.3,349.7,"Significant inequalities persist, particularly by education level."
+31,6,0,Calibri,11.0,358.6,338.7,525.8,349.7, Gaps in digital health use are wider 
+31,6,1,Calibri,11.0,72.0,353.2,525.8,364.2,"than the EU average, with much lower access and usage among less-educated groups. This indicates "
+31,6,2,Calibri,11.0,72.0,367.7,525.9,378.8,"that beyond infrastructure and legislation, digital inclusion and literacy remain key challenges. "
+31,6,3,Calibri,11.0,72.0,382.2,525.9,393.3,Stakeholders also report that limited access by private sector actors and researchers to secondary 
+31,6,4,Calibri,11.0,72.0,396.7,525.8,407.7,"health data, including anonymised datasets, may constrain the development of digital health and AI "
+31,6,5,Calibri,11.0,72.0,411.2,404.6,422.2,"solutions, despite the existence of centralised health information systems. "
+31,7,0,Calibri-Bold,11.0,77.7,438.2,333.7,449.2,2025 recommendation on key digital public services
+31,7,0,Calibri,11.0,333.8,438.2,520.2,449.2,: Continue the efforts to improve the 
+31,7,1,Calibri,11.0,77.7,452.7,520.1,463.8,"digitalisation and user-friendliness of public procedures and to reduce the administrative burden, "
+31,7,2,Calibri,11.0,77.7,467.2,520.0,478.3,also by expanding the use of eID. Address the persisting societal and regional imbalances in the 
+31,7,3,Calibri,11.0,77.7,481.6,520.1,492.7,"delivery of online services by, for example, cooperating with local stakeholders. Focus on "
+31,7,4,Calibri,11.0,77.7,496.1,515.9,507.2,"accelerating the number of digital public services for citizens, particularly in cross-border services. "
+31,8,0,Calibri-Bold,11.0,77.7,513.7,239.5,524.7,2025 recommendation on e-Health
+31,8,0,Calibri,11.0,239.4,513.7,520.0,524.7,: Ensure the timely and full availability of all types of medical 
+31,8,1,Calibri,11.0,77.7,528.2,520.2,539.2,images via the e-Health platform and app and provide clear information to the public. Expand online 
+31,8,2,Calibri,11.0,77.7,542.6,520.1,553.6,access to e-Health data to the entire population. Introduce technical functionalities that authorise 
+31,8,3,Calibri,11.0,77.7,557.1,520.2,568.2,persons to access this data on behalf of others. Strengthen communication to raise awareness of 
+31,8,4,Calibri,11.0,77.7,571.7,352.0,582.7,"platform functionalities, especially among vulnerable groups. "
+31,9,0,Calibri-Bold,11.0,77.7,601.7,196.2,612.7,Key digital public services
+31,9,0,Calibri,11.0,196.4,601.7,199.3,612.7,:
+31,9,0,Calibri-Bold,11.0,199.2,601.7,520.2,612.7," In 2025, Bulgaria made some effort to address the recommendation "
+31,9,1,Calibri-Bold,11.0,77.7,616.2,208.0,627.2,through new policy actions. 
+31,9,1,Calibri,11.0,208.6,616.2,520.1,627.2,The country continued to expand digital public services and advance 
+31,9,2,Calibri,11.0,77.7,630.6,520.3,641.6,"interoperability and digital identity preparations, including steps towards the EUDI Wallet. However, "
+31,9,3,Calibri,11.0,77.7,645.1,520.2,656.1,despite continued improvements in the availability of digital public services and comparatively 
+31,9,4,Calibri,11.0,77.7,659.6,520.2,670.7,"strong performance in services for businesses, citizen uptake remains low. While Bulgaria scores "
+31,9,5,Calibri,11.0,77.7,674.1,520.2,685.2,"above the EU average for digital public services for businesses, services for citizens continue to lag "
+31,9,6,Calibri,11.0,77.7,688.5,520.3,699.6,"behind the EU average and challenges remain regarding transparency, administrative simplicity and "
+31,9,7,Calibri,11.0,77.7,703.1,520.1,714.1,"some aspects of user experience. Challenges also persist in the digitalisation of justice services, "
+31,9,8,Calibri,11.0,77.7,717.6,520.1,728.6,particularly regarding the availability of fully digital procedures for citizens and the deployment of 
+31,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+31,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+32,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+32,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+32,2,0,Calibri,11.0,77.7,85.8,520.3,96.9,IT solutions supporting cross-border judicial cooperation. There are also significant regional and 
+32,2,1,Calibri,11.0,77.7,100.3,154.6,111.4,local disparities.  
+32,4,0,Calibri-Bold,11.0,77.7,126.9,520.3,137.9,"E-Health: In 2025, Bulgaria made some effort to address the recommendation through new policy "
+32,4,1,Calibri-Bold,11.0,77.7,141.4,115.8,152.4,actions. 
+32,4,1,Calibri,11.0,116.7,141.4,520.2,152.4,"The country continued to develop its e-Health infrastructure, including the expansion of "
+32,4,2,Calibri,11.0,77.7,155.8,520.1,166.8,"electronic health records and the eZdrave application. However, challenges remain in ensuring the "
+32,4,3,Calibri,11.0,77.7,170.3,520.0,181.3,"full availability of functionalities, in particular access to certain data types such as medical images, "
+32,4,4,Calibri,11.0,77.7,184.8,520.0,195.9,and the interoperability and effective use of digital health services. Incomplete data contributions 
+32,4,5,Calibri,11.0,77.7,199.3,520.2,210.4,"from parts of the healthcare system, including long-term care providers, continue to limit coverage. "
+32,4,6,Calibri,11.0,77.7,213.7,520.2,224.8,"Uptake remains limited and uneven, particularly among vulnerable groups, reflecting persistent "
+32,4,7,Calibri,11.0,77.7,228.3,520.2,239.3,"gaps in accessibility, awareness and digital inclusion, and disparities in usage across population "
+32,4,8,Calibri,11.0,77.7,242.8,520.0,253.8,"groups. Remaining priorities include broader access to health data, stronger data contributions "
+32,4,9,Calibri,11.0,77.7,257.3,520.1,268.4,"across the healthcare system, support for vulnerable groups, and participation in emerging "
+32,4,10,Calibri,11.0,77.7,271.7,452.0,282.8,European initiatives such as the Network of AI-Powered Advanced Medical Centres. 
+32,5,0,Calibri,11.0,72.0,298.7,74.5,309.8, 
+32,5,1,Calibri,11.0,72.0,312.2,74.5,323.2, 
+32,5,2,Calibri,11.0,216.1,312.2,218.5,323.2, 
+32,6,0,Calibri,11.0,292.1,781.9,305.8,793.0,29 
+32,6,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+33,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+33,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+33,3,0,Calibri-Bold,26.0,72.0,88.4,529.1,114.4,Leveraging digital transformation for a 
+33,3,1,Calibri-Bold,26.0,72.0,122.7,318.1,148.7,smart green transition 
+33,4,0,Calibri-Bold,11.0,72.0,161.9,525.9,172.9,Bulgaria’s ICT sector has a relatively limited environmental footprint and performs well in the 
+33,4,1,Calibri-Bold,11.0,72.0,176.3,253.9,187.3,recycling and reuse of electronic waste.
+33,4,1,Calibri,11.0,254.0,176.3,525.7,187.3," In 2022, air emissions from the ICT sector amounted to 5.8 "
+33,4,2,Calibri,11.0,72.0,190.8,525.8,201.9,"kg of CO₂ equivalent per capita, significantly below the EU average of 22.8 kg. The sector represented "
+33,4,3,Calibri,11.0,72.0,205.3,525.9,216.4,"0.07% of total national air emissions, compared with an EU average of 0.35%, indicating a "
+33,4,4,Calibri,11.0,72.0,219.9,525.7,230.9,"comparatively low environmental impact of ICT activities in the Bulgarian economy, which may also "
+33,4,5,Calibri,11.0,72.0,234.3,397.7,245.3,reflect the relatively limited size and scale of ICT activities in the country. 
+33,5,0,Calibri,11.0,72.0,260.8,525.8,271.8,"The structure of ICT-related emissions also differs from the EU average. In Bulgaria, ICT manufacturing "
+33,5,1,Calibri,11.0,72.0,275.3,525.6,286.4,"accounts for only 2.2% of emissions within the ICT sector, compared with an EU average of 18.2%, "
+33,5,2,Calibri,11.0,72.0,289.9,480.3,300.9,"reflecting the country’s relatively limited domestic ICT manufacturing base. As a result,"
+33,5,2,Calibri-Bold,11.0,480.6,289.9,525.9,300.9, the vast 
+33,5,3,Calibri-Bold,11.0,72.0,304.2,390.0,315.3,majority of ICT-related emissions (97.8%) originates from ICT services.
+33,5,3,Calibri,11.0,390.0,304.2,392.4,315.3, 
+33,6,0,Calibri,11.0,72.0,330.8,152.0,341.8,"At the same time, "
+33,6,0,Calibri-Bold,11.0,151.3,330.8,451.1,341.8,Bulgaria performs strongly in the management of electronic waste.
+33,6,0,Calibri,11.0,451.3,330.8,525.9,341.8," In 2023, 86.37% "
+33,6,1,Calibri,11.0,72.0,345.3,525.6,356.3,of ICT-related waste collected (corresponding to two categories of waste electrical and electronic 
+33,6,2,Calibri,11.0,72.0,359.8,525.7,370.9,"equipment) was recycled or prepared for reuse, well above the EU average of 80.23%. This "
+33,6,3,Calibri,11.0,72.0,374.2,525.8,385.2,comparatively high recovery rate provides a solid foundation for developing more circular approaches 
+33,6,4,Calibri,11.0,72.0,388.7,293.3,399.8,to digital technologies and electronic equipment. 
+33,7,0,Calibri-Bold,11.0,72.0,415.3,525.8,426.3,"Overall, the currently low emissions footprint of the ICT sector, combined with strong recycling "
+33,7,1,Calibri-Bold,11.0,72.0,429.8,413.7,440.8,"performance, will help Bulgaria to support a greener digital transition."
+33,7,1,Calibri,11.0,413.9,429.8,525.9,440.8, As digital technologies 
+33,7,2,Calibri,11.0,72.0,444.2,525.9,455.2,"continue to spread across the economy, it is crucial to maintain this low environmental footprint while "
+33,7,3,Calibri,11.0,72.0,458.7,266.9,469.8,boosting digital infrastructure and services. 
+33,8,0,Calibri-Bold,11.0,72.0,485.2,434.2,496.3,As for citizens’ perceptions (set out the 2026 Digital Decade Eurobarometer)
+33,8,0,Calibri,11.0,434.3,485.2,525.9,496.3,", 44% of Bulgarians "
+33,8,1,Calibri,11.0,72.0,499.7,525.9,510.8,consider that green digital technologies (e.g. energy-saving technologies) will have a very positive 
+33,8,2,Calibri,11.0,72.0,514.3,525.9,525.3,"impact in the next 10 years. In addition, 72% of respondents agree that AI must be developed in an "
+33,8,3,Calibri,11.0,72.0,528.7,222.4,539.7,environmentally sustainable way. 
+33,9,0,Calibri-Bold,11.0,77.7,555.7,337.6,566.7,2025 recommendation on Green and digital transitions: 
+33,9,0,Calibri,11.0,338.6,555.7,520.2,566.7,Set up clear mechanisms for measuring 
+33,9,1,Calibri,11.0,77.7,570.2,520.2,581.3,and promoting the environmental benefits of digital solutions across sectors. Work towards fully 
+33,9,2,Calibri,11.0,77.7,584.7,520.0,595.8,"integrating green and digital priorities into the country's development strategy, through better "
+33,9,3,Calibri,11.0,77.7,599.1,476.4,610.2,"alignment between political agendas, funding allocation, and private sector engagement. "
+33,10,0,Calibri-Bold,11.0,77.7,629.1,520.1,640.2,"In 2025, Bulgaria continued the implementation of existing measures but did not take any new "
+33,10,1,Calibri-Bold,11.0,77.7,643.7,124.6,654.7,measures.
+33,10,1,Calibri,11.0,124.7,643.7,517.8,654.7, While progress continues in areas such as electronic waste management and circular-
+33,10,2,Calibri,11.0,77.7,658.2,520.0,669.2,"economy practices, there is still no clear framework for measuring the environmental impacts and "
+33,10,3,Calibri,11.0,77.7,672.7,520.0,683.7,benefits of digital technologies or for systematically integrating green and digital priorities into 
+33,10,4,Calibri,11.0,77.7,687.1,260.1,698.1,broader policy and investment planning. 
+33,11,0,Calibri,11.0,72.0,714.1,74.5,725.1, 
+33,12,0,Calibri,11.0,72.0,736.7,74.5,747.7, 
+33,12,1,Calibri,11.0,216.1,736.7,218.5,747.7, 
+33,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,30 
+33,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+34,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+34,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+34,2,0,Calibri-Bold,26.0,72.0,88.4,458.9,114.4,Annex I: National roadmap analysis 
+34,4,0,Calibri-Bold,11.0,77.9,128.7,320.2,139.7,Bulgaria’s national Digital Decade strategic roadmap  
+34,5,0,Calibri,11.0,77.9,145.9,271.7,157.0,Bulgaria did not submit a revised national 
+34,5,0,Calibri,11.0,272.8,145.9,381.9,157.0,Digital Decade roadmap
+34,5,0,Calibri,11.0,381.9,145.9,519.9,157.0, and did not provide a formal 
+34,5,1,Calibri,11.0,77.9,160.3,519.8,171.4,adjustment to address the roadmap recommendations issued in 2024. The 2024 recommendations 
+34,5,2,Calibri,11.0,77.9,174.7,273.7,185.8,for Bulgaria focused on the following areas: 
+34,6,0,SymbolMT,11.0,95.9,194.1,101.0,207.6,·
+34,6,0,ArialMT,11.0,100.9,195.2,104.0,207.5, 
+34,6,1,Calibri-BoldItalic,11.0,113.9,196.9,151.5,208.0,Targets:
+34,6,1,Calibri-Italic,11.0,151.5,196.9,520.0,208.0," (i) Provide national targets for the following KPIs: unicorns, edge nodes and eID; "
+34,6,2,Calibri-Italic,11.0,113.9,211.3,519.7,222.4,(ii) Present national projected trajectory for unicorns; (iii) Align the level of ambition of the 
+34,6,3,Calibri-Italic,11.0,113.9,225.6,520.0,236.7,"national targets for basic digital skills, ICT specialists, digitalisation of SMEs, uptake of "
+34,6,4,Calibri-Italic,11.0,113.9,240.0,451.9,251.1,"advanced technologies (cloud computing, AI, data analytics) by businesses.  "
+34,6,5,SymbolMT,11.0,95.9,252.2,101.0,265.7,·
+34,6,5,ArialMT,11.0,100.9,253.3,104.0,265.6, 
+34,6,6,Calibri-BoldItalic,11.0,113.9,255.0,161.6,266.1,Measures:
+34,6,6,Calibri-Italic,11.0,161.5,255.0,519.8,266.1," (i) Clarify the budget description of all presented measures, highlighting EU "
+34,6,7,Calibri-Italic,11.0,113.9,269.4,519.9,280.5,sources such as the Recovery and Resilience Facility (RRF); (ii) Indicate clearly whether the 
+34,6,8,Calibri-Italic,11.0,113.9,283.9,519.8,294.9,"measures are investments or reforms; (iii) Include more targeted, specific measures and "
+34,6,9,Calibri-Italic,11.0,113.9,298.1,519.8,309.2,policies that contribute to synergising the digital transformation and the green transition; 
+34,6,10,Calibri-Italic,11.0,113.9,312.5,519.9,323.6,(iv) Provide more information on the implementation of digital rights and principles (and 
+34,6,11,Calibri-Italic,11.0,113.9,326.9,498.1,338.0,"Digital Decade general objectives), including what national measures contribute to it.  "
+34,6,12,SymbolMT,11.0,95.9,339.1,101.0,352.6,·
+34,6,12,ArialMT,11.0,100.9,340.2,104.0,352.5, 
+34,6,13,Calibri-BoldItalic,11.0,113.9,341.9,177.3,353.0,Consultation: 
+34,6,13,Calibri-Italic,11.0,177.6,341.9,520.0,353.0,"Report the results of the consultation process in more detail, including more "
+34,6,14,Calibri-Italic,11.0,113.9,356.3,309.8,367.4,information about the stakeholders invited. 
+34,6,15,Calibri-Bold,11.0,77.9,370.6,80.4,381.6, 
+34,7,0,Calibri-Bold,11.0,190.1,388.0,401.9,399.0,Measures and budget in the national roadmap
+34,7,0,Calibri-Bold,7.0,401.7,387.1,405.3,394.1,3
+34,7,0,Calibri-Bold,7.0,405.2,387.1,406.8,394.1, 
+34,9,0,Calibri,11.0,77.9,629.0,247.7,640.1,Bulgaria’s roadmap is composed of 
+34,9,0,Calibri-Bold,11.0,250.7,629.0,311.4,640.1,60 measures
+34,9,0,Calibri,11.0,311.5,629.0,519.9,640.1, and its budget stands at EUR 2.19 billion 
+34,9,1,Calibri,11.0,77.9,643.3,519.9,654.3,"(equivalent to 2.11% of GDP). It is largely unchanged, with no new measures introduced. Minor "
+34,9,2,Calibri,11.0,77.9,657.7,245.6,668.7,"adjustments were made, including "
+34,9,2,Calibri,11.0,249.5,657.7,285.5,668.7,updates
+34,9,2,Calibri,11.0,285.5,657.7,519.9,668.7," to timelines and corrections of clerical errors, "
+34,9,3,Calibri,11.0,77.9,672.1,519.9,683.1,"accompanied by targeted written responses to the Commission. Overall, the response to the 2024 "
+34,9,4,Calibri,11.0,77.9,686.5,519.9,697.5,recommendations chiefly comprises clarifications and references to existing measures rather than 
+34,10,0,Calibri,11.0,216.1,709.9,218.5,720.9, 
+34,10,1,Calibri,10.0,72.0,723.3,525.2,733.3,"3 When referring to national roadmaps, data used in this report are those declared by the Member States in "
+34,10,2,Calibri,10.0,72.0,735.5,525.1,745.4,"their national roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect "
+34,10,3,Calibri,10.0,72.0,747.7,525.6,757.6,possible variations in reporting practices and methodological choices between Member States. No systematic 
+34,10,4,Calibri,10.0,72.0,759.9,437.2,769.9,assessment of the extent to which Member States followed the guidance was carried out. 
+34,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,31 
+34,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+35,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+35,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+35,3,0,Calibri,11.0,77.9,86.3,520.0,97.3,substantive updates to the roadmap. Trajectories and measures are mostly based on the national 
+35,3,1,Calibri,11.0,77.9,100.7,520.1,111.7,"RRP and other EU programmes, and are therefore not expected to change in the short term. "
+35,3,2,Calibri,11.0,77.9,115.1,519.8,126.1,"Bulgaria’s written feedback addressed most of the SDD24 recommendations, primarily through "
+35,3,3,Calibri,11.0,77.9,129.5,295.0,140.5,clarifications or references to existing measures. 
+35,4,0,Calibri,11.0,77.9,151.1,519.9,162.1,"Bulgaria provided detailed information on stakeholder consultation, involving an advisory council of "
+35,4,1,Calibri,11.0,77.9,165.5,520.0,176.5,"over 35 ICT sector representatives under the Ministry of Electronic Governance, and input from a "
+35,4,2,Calibri,11.0,77.9,179.8,520.0,190.8,broad range of national institutions. The roadmap and related strategic documents were drawn up 
+35,4,3,Calibri,11.0,77.9,194.2,520.0,205.2,"in conjunction with stakeholders including ICT organisations and sectoral actors, and were subject "
+35,4,4,Calibri,11.0,77.9,208.6,410.6,219.6,"to public consultation prior to approval, with feedback taken into account. "
+35,5,0,Calibri,11.0,77.9,230.2,519.9,241.2,"Bulgaria clarified the budget description of measures and highlighted EU funding sources, including "
+35,5,1,Calibri,11.0,77.9,244.6,520.0,255.6,"the RRF, in line with the 2024 recommendations. However, the level of ambition remains "
+35,5,2,Calibri,11.0,77.9,259.0,519.9,270.0,"constrained, as measures are tied to existing funding cycles up to 2027 and may only be adjusted in "
+35,5,3,Calibri,11.0,77.9,273.3,250.0,284.3,the context of future EU programmes. 
+35,6,0,Calibri,11.0,77.9,294.9,519.8,305.9,"In terms of governance, Bulgaria continues to demonstrate commitment to the Digital Decade "
+35,6,1,Calibri,11.0,77.9,309.4,520.1,320.5,objectives and remains committed to the Digital Transformation of Bulgaria 2024–2030 framework. 
+35,6,2,Calibri,11.0,77.9,323.9,519.9,335.0,"This year, the Ministry of Electronic Governance plans to present its new National Strategy for the "
+35,6,3,Calibri,11.0,77.9,338.3,519.9,349.4,"Digital Transformation of the Republic of Bulgaria 2026–2030, currently under development and "
+35,6,4,Calibri,11.0,77.9,352.8,519.8,363.9,"stakeholder consultation, and outlining priorities related to digital infrastructure, public sector "
+35,6,5,Calibri,11.0,77.9,367.4,519.8,378.4,"modernisation, digital skills and data-driven innovation. While this strategy is set to provide a "
+35,6,6,Calibri,11.0,77.9,381.9,519.9,392.9,forward-looking policy direction and is designed to align Bulgaria’s digital development with the 
+35,6,7,Calibri,11.0,77.9,396.3,519.9,407.4,"Digital Decade 2030 goals, it is not yet formally integrated into the national Digital Decade roadmap "
+35,6,8,Calibri,11.0,77.9,410.8,256.7,421.9,or reflected in the measures submitted. 
+35,6,9,Calibri,11.0,77.9,425.3,519.9,436.4,"In addition, Digital Decade objectives are promoted at both national and regional levels, including "
+35,6,10,Calibri,11.0,77.9,439.9,519.8,450.9,through the Digital Decade Council and cooperation with municipalities. Bulgaria also contributes 
+35,6,11,Calibri,11.0,77.9,454.3,399.9,465.3,"to regional initiatives, including digital cooperation in the Balkan region. "
+35,6,12,Calibri,11.0,72.0,469.9,74.5,480.9, 
+35,7,0,Calibri,11.0,72.0,498.5,74.5,509.6, 
+35,7,1,Calibri-Bold,26.0,216.1,487.3,221.9,513.3, 
+35,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,32 
+35,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+36,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+36,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+36,3,0,Calibri-Bold,26.0,72.0,88.4,497.4,114.4,"Annex II: Funding, economic impacts & "
+36,3,1,Calibri-Bold,26.0,72.0,122.7,322.9,148.7,Multi-Country Projects 
+36,4,0,Calibri-LightItalic,11.0,77.9,156.9,496.4,167.9,Country results from the study ‘Assessing the Economic Impact of Digital Investments under the 
+36,4,1,Calibri-LightItalic,11.0,77.9,171.4,220.6,182.4,Recovery and Resilience Facility’ 
+36,5,0,Calibri,11.0,77.9,197.8,520.1,208.8,"A modelling study conducted by the European Commission services, with the FIDELIO model, "
+36,5,1,Calibri,11.0,77.9,211.2,520.0,222.3,"assesses the economic impact of the digital component of the RRF. As of November 2025, the digital "
+36,5,2,Calibri,11.0,77.9,224.7,520.0,235.7,part of the Recovery and Resilience Plan of Bulgaria was evaluated to EUR 1.17 billion with EUR 273 
+36,5,3,Calibri,11.0,77.9,238.1,519.8,249.2,"million for digital infrastructures, EUR 249 million for digital skills, EUR 123 million for the "
+36,5,4,Calibri,11.0,77.9,251.6,519.7,262.6,"digitalisation of businesses, EUR 167 million for the digitalisation of public services, and EUR 357 "
+36,5,5,Calibri,11.0,77.9,265.0,231.0,276.0,million for other digital priorities.  
+36,6,0,Calibri,11.0,77.9,290.4,520.0,301.5,The total economic impact of RRF digital measures is estimated to EUR 934 million for the national 
+36,6,1,Calibri,11.0,77.9,303.9,520.1,314.9,"economy. Of this, EUR 673 million stems from the direct effects of Bulgaria's own RRP and EUR 261 "
+36,6,2,Calibri,11.0,77.9,317.3,519.9,328.4,million corresponds to spillover effects from the implementation of other EU Member States' plans. 
+36,6,3,Calibri,11.0,77.9,330.6,520.0,341.7,"Bulgaria benefited the most from spillover effects from RRPs of Italy (EUR 57 million), Romania (EUR "
+36,6,4,Calibri,11.0,77.9,344.1,520.0,355.1,"42 million), Greece (EUR 34 million). The most impacted sectors are ICT Services (EUR 334 million), "
+36,6,5,Calibri,11.0,77.9,357.5,371.9,368.6,"Manufacturing (EUR 125 million), and Education (EUR 88 million). "
+36,8,0,Calibri,11.0,483.6,672.6,486.1,683.6, 
+36,9,0,Calibri-Italic,9.0,240.2,691.6,357.2,700.6,RRF spillover effects to Bulgaria 
+36,10,0,Calibri,11.0,297.7,702.9,300.2,714.0, 
+36,10,1,Calibri,11.0,72.0,717.5,74.5,728.5, 
+36,11,0,Calibri,11.0,72.0,739.9,74.5,751.0, 
+36,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,33 
+36,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+37,0,0,Calibri,20.0,72.0,39.4,142.3,59.5,Bulgaria 
+37,1,0,Calibri,11.0,72.0,71.9,74.5,82.9, 
+37,2,0,Calibri,11.0,72.0,85.3,74.5,96.4, 
+37,3,0,Calibri,11.0,72.0,107.9,74.5,118.9, 
+37,5,0,Calibri,11.0,72.0,130.3,74.5,141.4, 
+37,6,0,TimesNewRomanPSMT,12.0,72.0,155.0,75.0,168.3, 
+37,7,0,Calibri-LightItalic,11.0,77.7,173.2,401.2,184.2,Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy 
+37,8,0,Calibri,11.0,77.7,199.6,352.8,210.6,Bulgaria allocates close to 21% of its total RRP (EUR 1.2 billion)
+37,8,0,Calibri,7.0,352.9,198.7,357.9,205.6,4 
+37,8,0,Calibri,11.0,357.7,199.6,520.2,210.6,to the digital sector. Under cohesion 
+37,8,1,Calibri,11.0,77.7,214.0,520.1,225.0,"policy, EUR 1.2 billion, 11% of the country’s total cohesion policy funding, is dedicated to advancing "
+37,8,2,Calibri,11.0,77.7,228.4,219.5,239.4,Bulgaria’s digital transformation
+37,8,2,Calibri,7.0,219.5,227.5,223.1,234.4,5
+37,8,2,Calibri,11.0,223.0,228.4,228.3,239.4,. 
+37,9,0,TimesNewRomanPSMT,12.0,72.0,261.6,75.0,274.9, 
+37,10,0,Calibri-LightItalic,11.0,77.7,279.6,178.8,290.7,Multi-Country Projects 
+37,11,0,Calibri,11.0,77.7,306.0,519.9,317.1,"Bulgaria is a member of the Alliance for Language Technologies EDIC, and is a participating state of "
+37,11,1,Calibri,11.0,77.7,320.4,240.4,331.5,the EuroHPC JU and of the Chips JU. 
+37,12,0,TimesNewRomanPSMT,12.0,72.0,353.7,75.0,367.0, 
+37,13,0,Calibri,11.0,216.1,685.4,218.5,696.5, 
+37,13,1,Calibri,6.5,72.0,698.0,75.3,704.4,4
+37,13,1,Calibri,10.0,75.3,698.8,525.3,708.8, The proportion of financial allocations that contribute to digital objectives has been calculated using Annex VII 
+37,13,2,Calibri,10.0,72.0,711.1,407.8,721.0,to the Recovery and Resilience Facility Regulation. Last data update: 23 April 2026. 
+37,13,3,Calibri,6.5,72.0,722.5,75.3,728.9,5
+37,13,3,Calibri,10.0,75.3,723.3,463.3,733.3, This amount includes all investment specifically aimed at or substantially contributing to digital 
+37,13,4,Calibri,10.0,72.0,735.5,503.7,745.4,transformation in the 2021-2027 cohesion policy programming period. The source funds are the European 
+37,13,5,Calibri,10.0,72.0,747.7,511.7,757.6,"Regional Development Fund (including Interreg), the Cohesion Fund, the European Social Fund Plus, and the "
+37,13,6,Calibri,10.0,72.0,759.9,157.2,769.9,Just Transition Fund. 
+37,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,34 
+37,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

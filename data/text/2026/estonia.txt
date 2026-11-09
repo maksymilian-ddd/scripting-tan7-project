@@ -1,0 +1,1272 @@
+                      EUROPEAN
+                       COMMISSION
+
+
+
+
+                                                              Brussels, 17.6.2026
+                                              SWD(2026) 155 final
+
+                                       PART 8/27
+
+
+
+
+                 COMMISSION STAFF WORKING DOCUMENT
+
+                                    Digital Decade 2026 country report
+
+                                Accompanying the document
+
+         COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN
+       PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL
+             COMMITTEE AND THE COMMITTEE OF THE REGIONS
+
+
+         State of the Digital Decade 2026: Closing structural gaps and mobilising investments for
+                                      2030 and beyond
+
+             {COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+                                 {SWD(2026) 157 final}
+
+
+
+
+
+EN                            ENDIGITAL DECADE
+COUNTRY REPORT
+2026
+
+       EstoniaEstonia
+
+
+
+
+
+Contents
+Executive summary ................................................................................................................................. 1
+
+   Estonia in the Digital Decade .............................................................................................................. 1
+
+  Funding for digital and Multi-Country Projects................................................................................... 2
+
+  A competitive, sovereign and resilient EU based on technological leadership .................................. 2
+
+   Protecting and empowering EU people and society ........................................................................... 2
+
+  Recommendations ............................................................................................................................... 3
+
+A competitive, sovereign and resilient EU based on technological leadership ...................................... 5
+
+   Building technological leadership: digital infrastructure and technologies ........................................ 5
+
+     Connectivity infrastructure ............................................................................................................. 5
+
+     Semiconductors............................................................................................................................... 7
+
+    Edge nodes ...................................................................................................................................... 7
+
+    Quantum technologies .................................................................................................................... 8
+
+  Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 8
+
+    SMEs with at least basic digital intensity ........................................................................................ 8
+
+     Take up of advanced technologies .................................................................................................. 9
+
+     Unicorns, scale-ups and start-ups ................................................................................................. 10
+
+   Strengthening Cybersecurity & Resilience ........................................................................................ 11
+
+Protecting and empowering EU people and society ............................................................................. 15
+
+  Empowering people and bringing the digital transformation closer to their needs ........................ 15
+
+     Equipping people with digital skills ............................................................................................... 15
+
+    Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 20
+
+Leveraging digital transformation for a smart greening ....................................................................... 23
+
+Annex I: National roadmap analysis ...................................................................................................... 24
+
+   Estonia’s national Digital Decade strategic roadmap ........................................................................ 24
+
+Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 25Estonia
+
+Executive summary
+
+Overall, Estonia has a strong record in digitalisation, with excellent digital public services, strong take-
+up of advanced technologies and a vibrant tech start-up ecosystem. However, there is still room for
+improvement when it comes to connectivity and the implementation of cybersecurity measures by
+businesses. The number of ICT specialists, while currently above the EU average, is still a crucial area
+of development to meet demand on Estonia’s job market, with a growing emphasis not only on
+quantity but on the quality of skills and the progression from advanced to top-level expertise.
+Additionally, while the overall level of basic digital skills in Estonia is above the EU average, it has
+stagnated over recent years and certain groups, such as older individuals are less digitally skilled than
+their EU counterparts.
+
+While Estonia has performed well overall in its digital transition, its connectivity weaknesses in the
+area of very high capacity networks (VHCNs), are having an impact on its competitiveness, as strong
+digital infrastructure is the foundation for a thriving digital society. Low levels of implementation of
+cybersecurity measures by businesses also represent a significant risk, especially in the current geo-
+political environment. Estonia has identified that a shortage in ICT specialists is the key bottleneck to
+ongoing digitalisation efforts and the adoption of advanced technologies across all sectors in the
+country. By increasing the supply of ICT specialists on the employment market, combined with stronger
+and more  systematic  emphasis on  skills  development,  Estonia  could  further  improve  its
+competitiveness through increased digitalisation.
+
+Estonia is a digital leader in several areas. It is home to one of the most digitised governments in the
+EU thanks to the early implementation of digital public services. Additionally, Estonia’s public policies
+have strongly shifted towards the adoption of AI, including by building local AI infrastructure through
+a Nordic-wide consortium and the adoption of AI in education and throughout the public and private
+sector with initiatives such as the AI Leap and Eesti.ai. Estonia has also committed to large public
+investments in its start-up sector, building on one of the existing strengths of the country. In the area
+of emerging technologies such as semiconductors and quantum computing, Estonia is an active
+participant in EU-level initiatives while simultaneously cooperating with neighbouring countries.
+
+
+Estonia in the Digital Decade
+
+Estonia shows a high level of ambition in its contribution to the Digital Decade having set 14 national
+targets (out of 14 possible), 93% of which aligned with the EU 2030 targets. In its national roadmap,
+Estonia provided 12 trajectory points for 2025 (out of 13 analysed). The country is following them well
+with 83% considered on track. Estonia addressed 86% of the 7 recommendations issued by the
+Commission in 2025, either by implementing significant policy changes (29%) or making some changes
+(57%) through new measures. According to the national roadmap, by the end of 2026, 0% of the
+measures will come to an end.
+
+According to the special Eurobarometer on ‘the Digital Decade’ 2026, 71% of Estonian people
+consider that digital policy should have a very high/high priority for the EU in shaping our future in
+Europe. They also think that, in the next ten years, the EU should cooperate with Member States to
+reinforce cybersecurity and protection from online threats (93%), promote digital education and skills
+
+
+
+
+                                        1Estonia
+
+
+
+programs (88%), and strengthen the regulation of online platforms (e.g. online social networks,
+marketplaces, app stores, etc.) (80%).
+
+In addition, 69% of Estonian respondents think that the EU should reduce its dependencies on digital
+from third countries, and 70% that EU should prioritise investments in digital infrastructure and
+services that are developed and controlled in Europe. Meanwhile, 35% would be willing to switch to
+an EU-based digital service provider even if it means slightly higher costs.
+
+Funding for digital and Multi-Country Projects
+
+Estonia allocates 24% of its total recovery and resilience plan to digital (EUR 0.2 billion). In addition,
+under cohesion policy, EUR 0.4 billion, representing 10% of the country’s total cohesion policy funding,
+is dedicated to advancing Estonia’s digital transformation.
+
+Estonia is a member of the Local Digital Twins towards a CitiVERSE EDIC. Estonia is a participating state
+of the EuroHPC Joint Undertaking (JU) and of the Chips JU.
+
+
+                                                                                                                                 Digital Decade target
+                                          Estonia               EU              by 2030
+                                                 (1)                                           NationalDigital Decade KPI                                      Last available  DESI 2026    Annual                        Annual
+                                                                                 trajectory  DESI 2026              EE      EU
+                                    data (2)     (year 2025)   progress                          progress
+                                                                 2025 (3)
+Fixed Very High Capacity Network
+                                   76.3%       81.1%       6.4%      78.5%     85.5%     3.7%    100.0%   100%
+coverage
+ Fibre to the Premises (FTTP)
+                                   76.3%       81.1%       6.4%      78.5%     74.1%     7.1%    100.0%         -
+coverage
+
+ Basic 5G coverage                    91.5%      100.0%      9.2%      95.0%     96.8%     2.6%    100.0%   100%
+
+Edge Nodes (estimate, new
+                                                            -          28                -         0       7451            -        5      10000
+methodology)
+
+SMEs with at least a basic level of
+                                   55.9%       72.1%      13.6%     65.0%     71.4%     11.0%    90.0%    90%
+ digital intensity *
+
+Cloud *                            52.6%       56.2%       3.4%      58.0%     46.7%     9.5%     75.0%    75%
+
+ Artificial Intelligence                  13.9%       23.4%      68.5%     20.0%     20.0%     48.0%    75.0%    75%
+
+Data analytics *                      25.6%       56.0%      48.0%     35.0%     39.9%     9.5%     75.0%    75%
+
+ AI or Cloud or Data analytics *          60.6%       75.0%      11.3%            -       63.2%     7.5%            -      75%
+
+Unicorns                             2           2         0.0%             -        324      10.2%      5       500
+
+At least basic digital skills *            62.6%       62.5%       -0.1%     67.0%     60.4%     4.3%     80.0%    80%
+
+ICT specialists                        7.2%        6.8%       -5.6%      7.5%      5.0%      2.0%     10.0%    ~10%
+
+e-ID scheme notification                                Yes
+
+ Digital public services for citizens         96.1         97.2       1.1%      100.0       84.6      2.8%      100.0     100
+
+ Digital public services for businesses      97.5         97.5       0.0%      100.0       88.6      2.7%      100.0     100
+
+Access to electronic health records       100.0        100.0       0.0%      100.0       86.5      4.6%      100.0     100
+
+(1) Indicators full description, metadata and sources in the DESI 2026 methodological note
+(2) Last available data is DESI2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year
+2023)
+
+(3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap
+
+A competitive, sovereign and resilient EU based on technological
+leadership
+
+Estonia has a mixed performance in connectivity, with its fibre and basic 5G coverage above the EU
+average after impressive growth over the last two years. However, its VHCN coverage remains below
+the EU average. To address this, Estonia has implemented support measures to increase its VHCN
+coverage, specifically targeting rural areas.
+
+                                        2Estonia
+
+
+
+On the business side, basic digitalisation in SMEs is above the EU average. Moreover, Estonian
+businesses have demonstrated impressive take-up of data analytics and cloud computing. Building on
+an already strong uptake of advanced technologies by businesses, Estonia has embraced the goal of
+becoming a global leader in AI. The country is aiming to use the technology to grow its economy by
+50% by 2035 through the launch of Eesti.ai and other initiatives. However, the Eesti.ai initiative is still
+in its initial stages and will need additional definition and further implementation to achieve its high
+goals. In its transition to AI, Estonia is also supported by its historically strong start-up ecosystem which
+grew significantly in 2025. However, the number of newly formed companies and overall investment
+in the sector has declined over several years, warranting further support.
+
+Protecting and empowering EU people and society
+
+In Estonia, the overall level of basic digital skills is above the EU average but has stagnated over recent
+years and among certain groups. For example, older individuals in Estonia have lower digital skills than
+their EU counterparts. The need for digital skills is all the more crucial given the high degree of
+digitalisation of public services in Estonia, creating increased barriers to participation in public life
+especially for vulnerable groups. Further work to ensure the accessibility of public services is crucial in
+Estonia. While the share of ICT specialists remains above the EU average, Estonia has nevertheless
+identified the number of ICT specialists as a key factor limiting its digital transition across all sectors.
+
+
+ Recommendations
+
+       -   ICT specialists: Further implement measures to educate ICT specialists, particularly in
+            critical fields such as AI and cybersecurity, and reverse the decline in ICT specialists in
+        employment, including by (i) providing lifelong learning opportunities, (ii) offering courses
+           specifically targeted at upskilling junior ICT specialists and recent ICT graduates,  (iii)
+         decreasing the dropout rate of ICT-related courses, and (iv) renewing efforts to attract more
+      women to the ICT sector.
+       -   AI uptake: Continue implementing measures to position Estonia as a future AI leader by
+         advancing AI adoption in education, the economy and the public sector. This should be
+       done by (i) further developing the AI Leap programme in education, (ii) accelerating the
+        implementation of Eesti.ai and similar initiatives to boost AI uptake across the business
+          sector, (iii) further adopting AI in the public sector to increase usability and reduce the cost
+         of digital public services, and (iv) strengthening local AI infrastructure through initiatives
+        such as the Nordic AI consortium.
+       -   Basic digital skills: Continue implementing measures to increase digital skills throughout
+          society by (i) consolidating the fragmented efforts of the digital skills development system,
+               (ii) expanding access to and the range of free e-learning opportunities, (iii) providing in-
+        person digital training targeted at older adults and rural communities, and (iv) introducing
+        measures aimed at increasing the fact-checking skills of the public.
+       -   Cybersecurity: Step up efforts to support companies, especially SMEs and entities that
+        operate in critical infrastructure to implement cybersecurity measures. Pursue efforts to
+        minimise the impact of online fraud by organising awareness-raising campaigns targeting
+         the general public and particularly vulnerable groups in society.
+       -   Unicorns: Support the Estonian start-up ecosystem by (i) further developing accelerator
+        programmes and start-up incubators to foster the formation of new start-ups, (ii) better
+
+
+                                        3Estonia
+
+
+
+         leveraging public investment in R&I and addressing obstacles to commercialisation of R&I,
+        and (iii) improving access to finance for scaling up of start-ups.
+       -   Green  transition: Follow up on the  sustainability  initiatives of the  Digital Society
+        Development plan 2035, particularly by (i) institutionalising the measurement of the ICT
+        carbon footprint of each public sector institution, and (ii) consolidating ICT management
+         across the public sector.
+
+
+
+
+
+                                        4Estonia
+
+A competitive, sovereign and resilient EU
+based on technological leadership
+
+Building technological leadership: digital infrastructure and technologies
+
+Connectivity infrastructure
+Performance assessment
+
+
+
+
+
+In 2025, Estonia’s very high capacity network (VHCN) reached 81.12% coverage, below the EU
+average of 85.54%, after an increase of 6.4%. In terms of annual growth, Estonia outperformed the
+EU (3.7%). Estonia’s VHCN coverage in sparsely populated areas increased to 78.53%, as compared
+with the EU average of 66.66%. For Estonia, this represents an annual rate of increase in sparsely
+populated areas of 9.3%, higher than the EU average of 7.7%. The country is on track according to its
+trajectory presented in the Digital Decade national roadmap.
+
+Estonia’s fibre-to-the-premises (FTTP) coverage increased to 81.12% (+6.4% since 2024), well above
+the EU average of 74.13%. However, the annual rate of increase in Estonia of 6.4% was lower than the
+EU average of 7.1%. In sparsely populated areas, Estonia’s coverage increased to 78.53%, above the
+EU average of 62.61%. For Estonia, the annual rate of increase in sparsely populated areas of 9.3% was
+higher than the EU average 6.5%. The country is on track according to its trajectory presented in the
+Digital Decade national roadmap.
+
+In 2025, Estonia’s 5G coverage increased to 99.95% (+9.2% since 2024), surpassing the EU average of
+96.79%. Estonia’s annual rate of increase of 9.2% was significantly higher than the EU average of 2.6%.
+In sparsely populated areas, Estonia’s 5G coverage increased to 99.92%, as compared with the EU
+average of 88.88%. While Estonia’s annual rate of increase in sparsely populated areas of 8.2% was
+lower than the EU average 11.7%, this can be explained by the fact that 5G coverage in Estonia is
+reaching the saturation point. Estonia’s 5G coverage in the 3.4-3.8 GHz band was 87.92%, above the
+EU average of 74.75%. Estonia’s annual rate of increase of 26.4% is significantly higher than the EU
+average of 10.6%. In sparsely populated areas, Estonia’s coverage in the 3.4-3.8 GHz band increased to
+
+
+                                        5Estonia
+
+
+
+56.95%, surpassing the EU average of 33.71%. Estonia’s annual rate of increase in sparsely populated
+areas of 15.7% was significantly lower than the EU average of 32.9%. The country is on track according
+to its trajectory presented in the Digital Decade national roadmap.
+
+Estonia’s performance has been strong in terms of increasing coverage of FTTP, 5G, and 5G in the 3.4-
+3.8 GHz band, both nationwide and in sparsely populated areas, consistently surpassing the EU
+average. While the rate of increase for these indicators in Estonia is lower than the EU average, this
+can be explained by the fact that Estonia’s overall good performance has brought the country close to
+saturation point. In terms of overall VHCN coverage, Estonia is lagging slightly behind the EU average,
+although it is still on track to reach its national target. This suggests that Estonia may need to focus
+further on expanding its VHCN coverage, to maintain its competitive edge in the digital economy.
+
+The table presenting VHCN, FTTP and 5G coverage across NUTS-2 regions has been omitted for Estonia,
+as the country has no administrative subdivisions classified under NUTS levels.
+
+ In Estonia, the share of the population with a 5G SIM card was 36.17% in 2025, representing an
+increase of 54.4% but still below the EU average of 55.55%. In 2024, the figure for Estonia was 23.42%,
+which was also below the EU average of 35.56%. The annual rate of increase for the EU as a whole was
+56.2%.
+
+Estonia has a subscription rate of 0.51% for fixed broadband >= 1 Gbps in 2025, representing an
+increase of 65.7% but below the EU average of 26.97%. In 2024, the figure for Estonia was 0.31%,
+which was significantly lower than the EU average of 22.25%. The annual rate of increase for the EU as
+a whole was 21.2%.
+
+Broadband uptake indicators show a below average performance by Estonia. Estonia is lagging
+behind the EU average in terms of the share of the population with a 5G SIM card and fixed broadband
+subscriptions of >= 1 Gbps and is not showing strong rate of increase in either. Policy measures should
+focus on accelerating the roll-out of 5G SIM cards and increasing fixed broadband subscriptions to align
+more closely with the EU average.
+
+Policy context and assessment of recommendations
+Estonia  is continuing to support  its domestic connectivity infrastructure with new initiatives
+particularly targeting rural areas. Over the past 3 years, Estonia’s two main measures, namely the RRF
+support scheme and the local village networks initiative have been supporting VHCN deployment in
+the country. To further increase VHCN coverage, the Estonian Consumer Protection and Technical
+Regulatory Authority (ECPTRA) launched the Broadband Phase Five support measure, which will fund
+VHCN construction in rural and small-town settlements. This measure will run from 2025-2029 with a
+total budget of EUR 45 million financed from the European Regional Development Fund (ERDF).
+Additionally, Estonia has introduced a support scheme for the development of 5G in key transport
+corridors, guided by a 2024 study identifying white areas. This initiative allocates EUR 9.37 million in
+ERDF funding and is scheduled for implementation between 2026 and 2030.
+
+In terms of FTTP, the operator Elisa expanded its FTTP network by 18 000 households in 2025.
+Meanwhile, Telia has launched a large-scale fibre-optic development programme covering the
+period 2025-2032, funded by nearly EUR 100 million of private investment, with no state support. The
+initiative aims to expand the current FTTP network by an additional 136 000 Estonian households
+(approximately 300 000 people). In addition to the expansion of new networks, Estonia is phasing out
+its old copper networks, with full shutdown planned by 2030.
+
+
+
+                                        6Estonia
+
+
+
+Estonia’s connectivity relies on multiple undersea cables linking Estonia’s mainland to its islands as
+well as to Sweden and Finland. In 2025, five incidents occurred which affected these cables although
+none of them resulted in major service disruption as data traffic was successfully rerouted via
+alternative connections.
+
+In 2025, Estonia’s basic 5G coverage reached almost 100% of the population, the result of rapid
+network expansion over the previous four years. The foundation for this growth was laid in summer
+2022 when spectrum auctions were held, awarding 5G licences to all three major operators and
+triggering an aggressive commercial rollout. As ECPTRA reports, Estonia has a healthy competitive
+market, with all three main operators having broadly similar market shares, thereby incentivising
+continuous network investment. Additionally, the last remaining 3G network was closed in 2025,
+freeing up both spectrum and capital for 5G deployment.
+
+Estonia’s widespread broadband coverage provides a critical springboard for business digitalisation
+and may help to explain the country’s above-average performance in this area.
+
+ 2025 recommendation on connectivity: Continue and establish new measures that target
+ enhancing VHCN, and 5G coverage.
+
+ Estonia addressed fully the recommendation by putting significant policy actions into place in
+ 2025. As mentioned above, Estonia introduced several new measures for expanding its VHCN.
+  Additionally, Estonia has also announced a new measure to expand 5G coverage in key transport
+  corridors, on top of achieving near 100% 5G population coverage in 2025.
+
+
+Semiconductors
+As a small country, Estonia is focusing on collaborating with other countries to strengthen its
+semiconductors  sector.  In October 2025,  Estonia,  alongside  Latvia and  Lithuania,  signed a
+Memorandum of Understanding (MoU) to strengthen cooperation between their national chip
+competence centres. This exemplifies the type of international cooperation that will be required if the
+EU is to achieve its target under the European Chips Act of doubling the region’s semiconductor
+capacity by 2030. Under the MoU, the Baltic countries aim to boost innovation and global visibility
+through joint international representation, promote research and education through shared training
+programmes, and provide support for start-ups and SMEs accessing pilot lines and R&D infrastructure.
+Expanding on this Baltic partnership, a second Memorandum of Understanding was signed between
+the Baltic and Nordic (Finland, Sweden, Norway, and Denmark) chips competence centres, further
+increasing collaboration in education, research and industrial support. Through such collaboration and
+initiatives, Estonia’s semiconductor industry is expected to grow by approximately 3.7% annually
+between 2023 and 2028 and increase in value from EUR 5.3 million to EUR 6.7 million over this period.
+
+Edge nodes
+
+Performance assessment
+
+According to the Edge Node Observatory, Estonia is estimated to have deployed a total of 28 edge
+nodes by 2025. Due to a change in methodology, this number cannot be compared to previous
+estimates.
+
+Policy context and assessment of recommendations
+
+In 2025, there were no policy developments in Estonia concerning edge nodes.
+
+
+                                        7Estonia
+
+
+
+Quantum technologies
+Estonia is part of the Nordic Quantum Communication Infrastructure (NordicQCI) project which was
+launched in January 2026. The initiative aims to establish cross-border, quantum-secured connections
+between Estonia, Finland and Sweden. It is a crucial step towards the development of a pan-European
+quantum communication infrastructure, which aims to fortify Europe’s communication system for the
+era of quantum cryptography. Additionally, Estonia is a member of the international Quantum-
+Resistant Cryptography in Practice (QARC) project, which aims to accelerate the transition to quantum-
+resistant cryptography through facilitating close collaboration between universities, industry and the
+public sector. On the national level, Estonia released its roadmap for post-quantum cryptography in
+spring 2026. This document provides clear guidance on preparing for the transition of the Estonian
+digital state to a new cryptographic standard to prepare the country for a future in which quantum
+computing will be able to break current encryption methods.
+
+A skilled workforce is crucial to widespread adoption of quantum technologies. To address this need,
+the University of Tartu introduced a Quantum Computing Micro-Degree in February 2026, aiming to
+provide a broader audience with fundamental knowledge and practical skills in quantum computing.
+
+Supporting EU-wide digital ecosystems and scaling up innovative
+enterprises
+
+SMEs with at least basic digital intensity
+Performance assessment
+
+In Estonia, 72.12% of SMEs now have at least a basic level of digital intensity index, up 13.6% year-
+on-year between 2023 and 2025 and above the EU average of 71.39%. In 2023, the figure for Estonia
+was 55.93%, slightly below the EU average of 57.9%. The annual rate of increase in Estonia (13.6%) is
+higher than the EU average (11.0%), indicating robust improvement in the digitalisation of Estonian
+SMEs. However, only 7.87% of SMEs had a very high level of digital intensity index, in Estonia in 2025,
+below the EU average of 9.07%, despite an annual rate of increase of 44.5%, exceeding that of the EU
+(43.9%). This suggests that while Estonia is making major strides, there is  still room for further
+improvement, particularly for achieving higher levels of digital intensity among SMEs. The country is
+on track according to its trajectory presented in the Digital Decade national roadmap.
+
+Policy context and assessment of recommendations
+The Estonian digital innovation hub ‘AI and Robotics Estonia’ (AIRE) has been granted funding to
+continue its activities supporting SMEs in their digitalisation journey for the period 2025-2028.
+During  its previous three-year term, AIRE supported over 270 Estonian SMEs by  attracting
+EUR 62 million of public and private investments to fund AI and digitalisation initiatives. Additionally,
+AIRE trained more than 1 200 SME employees and hosted networking events to promote AI innovation
+attended by some 3 000 people. For 2025-2028, AIRE aims to continue these services with a particular
+emphasis on raising awareness of AI and translating the technology into tangible economic impacts.
+
+The Estonian government continues to provide grants to businesses to facilitate their digitalisation
+under the provision ‘Supporting the development of enterprise digitalisation, solutions of the real-
+time economy and use cases of the data economy.’ Through the RTE Grant for Data-Driven Reporting
+and Data Exchange Software Development, Estonia is offering companies support worth EUR 5 million
+for designing new business software for secure data exchange. Projects looking to benefit from this
+grant must include a state agency or a local authority as a cooperation partner, to ensure that the
+
+
+                                        8Estonia
+
+
+
+solution developed meets national standards and  is suitable for interfacing with national data
+exchange solutions. Furthermore, software projects funded through this initiative must be usable by
+several companies in order to ensure a broader impact. Additionally, the RTE Grant for Business
+Process Automation and Data Exchange has been in place since March 2026 and offers SMEs support
+worth a total of EUR 1.5 million for developing software enabling secure data exchange. Similarly, the
+RTE Grant for Data Economy Use Case Development and Implementation was launched in March 2026,
+with a total budget of EUR 3.5 million, to help companies develop and implement data management
+use cases. Lastly, the RTE Grant for Software Implementation and Integration offers SMEs support
+worth a total of EUR 1 million for implementing software in their day-to-day operations.
+
+ 2025 recommendation on SMEs: Sustain and complement activities to improve digitalisation and
+ uptake of advanced technologies and give special attention to SMEs.
+
+ Estonia made some efforts to address the recommendation through new policy actions in 2025. As
+ outlined above, Estonia continued offering grants to support companies in their digital transition.
+ However, some grants, such as the eCMR integration scheme, ended in 2025 and have not been
+ replaced.
+
+
+
+
+Take up of advanced technologies
+
+Performance assessment
+
+
+
+
+
+In Estonia, 55.99% of businesses have adopted data analytics technology, up 48.0% year-on-year
+since 2023 and surpassing the EU average of 39.85%. In 2023, the adoption rate in Estonia was
+25.57%, which was below the EU average of 33.25%. The rate of increase in Estonia (48.0%)
+significantly outpaced that of the EU (9.5%), indicating rapid uptake of data analytics technology.
+Specifically, among SMEs, the figure for Estonia in 2025 was 55.11%, exceeding the EU average of
+38.59%, with Estonia’s annual rate of increase reaching 50.1% as compared to an EU average of 9.7%.
+Adoption of data analytics was also strong among large enterprises in Estonia, at 91.61% in 2025,
+higher than the EU average of 82.03%, with Estonia’s annual rate of increase reaching 14.6% as
+compared to an EU average of 6.9%. The country is on track according to its trajectory presented in
+the Digital Decade national roadmap.
+
+                                        9Estonia
+
+
+
+Regarding cloud technologies, 56.23% of all businesses in Estonia had adopted cloud technologies
+in 2025, which is higher than the EU average of 46.69%. However, Estonia's annual rate of increase
+was 3.4%, which was lower than the EU average of 9.5%. Among SMEs, the figure for Estonia is 55.58%,
+surpassing the EU average of 45.74%. However, Estonia’s annual rate of increase was 3.6%, which was
+below the EU average of 9.7%. Adoption of cloud technologies by large enterprises in Estonia reached
+82.58%, exceeding the EU average of 78.32%, however the rate of increase was -1.7%, which was lower
+than the EU average of 6.0%. The country is on track according to its trajectory presented in the Digital
+Decade national roadmap.
+
+Regarding artificial intelligence, 23.4% of all businesses in Estonia had adopted artificial intelligence
+in 2025, exceeding the EU average of 19.95%, with Estonia’s annual rate of increase reaching 68.5%
+as compared to an EU average of 48.0%. Among SMEs, the figure for Estonia is 22.67%, higher than
+the EU average of 18.9%, with an annual rate of increase of 70.7%, compared to an EU average of
+49.5%. Adoption of artificial intelligence by large enterprises in Estonia reached 52.9%, slightly below
+the EU average of 55.03%, however the rate of increase was 35.7%, exceeding the EU average of 33.7%.
+The country is on track according to its trajectory presented in the Digital Decade national roadmap.
+
+In Estonia, 74.99% of  all businesses have adopted AI, cloud technologies or data analytics
+technology, up by 11.3% year-on-year between 2023 and 2025 and surpassing the EU average of
+63.2%. Among SMEs, the figure for Estonia is 74.48%, exceeding the EU average of 62.32%, while its
+annual rate of increase was 11.6% as compared to an EU average of 7.7%. Use of these technologies
+by large enterprises in Estonia reached 95.48%, exceeding the EU average of 92.78%, although the rate
+of increase in Estonia, at 2.8%, was lower than the EU average of 3.4%.
+
+Estonia has made significant progress in the digitalisation of its businesses, particularly in the
+adoption of data analytics and artificial intelligence technologies. The country's SMEs and large
+enterprises have shown commendable growth in most areas, often surpassing the EU average.
+However, there are areas where the rate of increase in Estonia is lagging behind the EU average, such
+as in cloud technology. Overall, Estonia's digitalisation efforts are promising, but continued progress is
+needed to maintain its competitiveness.
+
+Policy context and assessment of recommendations
+Building on Estonia’s strong digital foundations and its population’s high proficiency in AI, the
+country is well-positioned to leverage AI in the next phase of its digital transition both in the public
+and private sector. In May 2026 the Estonian government approved the Digital Society Development
+plan 2035, that outlines a long-term vision for establishing Estonia as a leading data-driven economy
+and an AI-powered state, with the goal of achieving widespread AI adoption across both the public
+and private sector by 2035. To support this transition, Estonia has announced a commitment of at least
+EUR 85 million over the period 2024-2026 to accelerate deployment and broaden the economic and
+societal impact of AI technologies. Additionally, Estonia launched the Eesti.ai initiative in January 2026,
+which, together with other measures taken under the Digital Society development plan, aims to
+increase total economic output by 50%, or an additional EUR 20 billion, by 2035. The initiative is led
+by an international council of entrepreneurs and experts reporting directly to the Prime Minister. Still
+in its initial stages, the initiative will first finalise the programme’s scope and funding requirements,
+before focusing on a selected number of high-impact projects. The initial goal is to achieve significant
+progress within the next 18 months. The funding will leverage existing support programmes and EU
+resources, with budget adjustments planned by summer 2026, once the financial requirements are
+determined.
+
+
+
+                                       10Estonia
+
+
+
+A study on the impact of artificial intelligence on workforce skills requirements in business released
+in November 2025 pointed to strong recent growth in the use of AI by Estonian companies while
+highlighting bottlenecks and challenges for further AI uptake. The study highlighted the growing risk
+of a development gap between Estonian companies since some companies are moving forward quickly
+while others, often smaller, domestically oriented companies, are falling behind. The quality and
+availability of data are recurring problems, as companies that successfully implemented AI solutions
+had been able to do so thanks to the availability of ordered, high-quality and secure data. To address
+this, the study highlighted that Estonia should raise awareness of the principles of data collection and
+management using AI Ambassador networks to disseminate good practices to increase the take up of
+AI across the economy.
+
+Local AI and data infrastructure is crucial both for achieving digital sovereignty and for ensuring
+sufficient computing power to support Estonia’s future needs. Estonia has joined a Nordic-wide
+consortium for developing AI infrastructure with Finland, Latvia and potentially also Sweden and
+Denmark, as part of a support programme established by the European Commission. Under this
+project, Estonia will construct an AI-ready data centre on its territory, which will provide essential
+computing capacity for the public sector, research institutions and private businesses. However, the
+project is still in its very early stages. The European Commission is expected to announce the relevant
+support measure in early 2026, with project submissions scheduled for spring or summer 2026.
+
+Estonia did not implement any dedicated measures to expand cloud infrastructure or data analytics
+in 2025. Estonia has identified AI technologies as a clear priority for the future. Estonia has already
+seen comparatively strong adoption of both cloud technology and data  analytics, with the
+development of AI expected to further encourage adoption of related cloud and data technologies.
+
+Unicorns, scale-ups and start-ups
+
+Performance assessment
+
+At the beginning of 2026, Estonia had 2 unicorns (2030 national target of 5), which is the same
+number as in 2025. The country did not provide a national trajectory point for 2025 in the Digital
+Decade national roadmap.
+
+Policy context and assessment of recommendations
+According to the Global Start-up Ecosystem Index 2025, Estonia’s start-up ecosystem ranks 11th
+globally and 7th in Europe, having achieved solid growth and increased maturity over the previous
+year despite challenging domestic economic conditions. According to Start-up Estonia, the sector’s
+turnover in the first half of the year grew by 25% to EUR 2.42 billion, marking a strong recovery after
+just 5% growth during the same period in 2024. Growth in revenue was primarily driven by efficiency
+gains and a higher rate of revenue per employee as the total employment in the sector increased by
+only 1% compared to 2024. However, overall investment in the start-up sector in the first half of 2025
+declined by 28% compared to the same period in 2024, with total funding reaching EUR 176.8 million
+across 32 deals, as compared to EUR 242.6 million across 39 deals the previous year. This decline
+may reflect broader uncertainties in the Estonian economy which have made new investors more
+wary. As funding is critical for scaling start-ups, addressing this decrease will be crucial.
+
+Despite overall growth in the start-up sector, Estonia has reported a consistent decline in the number
+of new start-ups over the last four years. In response, the country has focused on supporting various
+accelerator programmes, such as the Tehnopol Start-up Incubator. In 2025, this programme assisted
+over 115 companies through practical training, mentoring and co-working spaces. The companies
+
+
+                                       11Estonia
+
+
+
+involved raised a total of EUR 12.8 million, of which EUR 5.4 million came from private funding and
+EUR 7.4 million from state funding.
+
+Estonia has launched several initiatives to boost investment and growth. The European Investment
+Fund (EIF) and the Baltic states launched the EUR 225 million Baltic Innovation Fund 3, aimed at
+expanding the region’s private equity and venture capital market. The initiative is expected to mobilise
+an additional EUR 700 million in private investment. Additionally, the Estonian government launched
+a EUR 160 million investment incentive in 2025, offering up to EUR 20 million in subsidies for
+investments worth at  least EUR 100  million. This measure  is designed to  attract  large-scale
+international funding and is expected to generate at least EUR 1 billion in new investments in the
+Estonian economy over the next four years.
+
+Deep tech companies within the start-up scene remain a key focus area for Estonia, with the
+government  allocating EUR 12.6  million to a new programme designed to  accelerate the
+development of deep tech companies. These companies account for only 11% of the sector but have
+captured 51% (EUR 88.3 million) of total start-up investments. Over the next four years, Estonia aims
+to build 37 internationally competitive, research-intensive companies with the help of a government
+programme aimed at accelerating the development of deep tech companies.
+
+Estonia continues to report a shortage of talent in the start-up sector. As a small country, Estonia has
+focused on attracting non-EU talent through the continued provision of start-up visas. In the first half
+of 2025, Estonia issued 329 visas to skilled professionals working in Estonian startups and 235 to
+founders, levels roughly the same as in 2024.
+
+Strengthening Cybersecurity & Resilience
+
+Estonian businesses are lagging slightly behind their EU peers in terms of their implementation of
+cybersecurity measures. In 2024, 53.79% of Estonian businesses had at least 5 cybersecurity measures
+in place (out of 11 measures as surveyed by Eurostat), below the EU average of 56.85%. Estonia falls
+particularly short of the EU average in its use of encryption techniques (32.85% in Estonia, compared
+to an EU average of 39.72%), ICT security tests (26.03%, compared to an EU average of 34.64%), and
+monitoring systems (36.29%, compared to an EU average of 45.08%).
+
+In a 2026 report on cybersecurity in Estonia published by the Estonian Information System Authority
+(RIA), the digital environment was found to be subject to growing threats. In 2025, the RIA recorded
+10 185 cyber incidents, a sharp increase from 6 515 in 2024. Of those incidents, 4 524 were related to
+fraud, resulting in total financial losses of EUR 29 million. The most visible incidents were two service
+outages in late 2025, the causes of which came from outside Estonia. On 18 November 2025,
+Cloudflare suffered a service outage which disrupted several major Estonian news portals as well as
+the online ticketing systems of a rail operator and a long-distance coach operator for several hours.
+Weeks later, a similar incident caused widespread outages in the public sector, disabling temporarily
+the websites of the parliament, the government and police.
+
+That fact that Estonia  is one of Europe’s most digitised societies, coupled with the current
+geopolitical climate, makes  it a prime target for cyberattacks. The RIA reported a record 756
+distributed denial-of-service (DDoS) attacks in 2025. However, only 12.5% (95 cases) of all DDoS attacks
+were successful in disrupting the targeted services. This is a significant improvement on 2024, when
+22.1% of attacks were successful.
+
+
+
+
+                                       12Estonia
+
+
+
+Growing threats in the digital environment represent a real risk for Estonian companies, making
+effective cybersecurity measures crucial for business continuity and long-term competitiveness. In
+response to these threats, in early 2026 Estonia passed an amendment to the Estonian Cybersecurity
+Act which transposes the EU’s NIS2 Directive into Estonian law. This amendment expanded the number
+of entities subject to cybersecurity requirements by approximately 3 000, bringing the total close to
+6 500. Businesses subject to these requirements will have to implement robust security measures and
+report significant cyber incidents to the relevant authorities. Additionally, the Ministry of Justice and
+Digital Affairs have developed a framework of core security measures for small and micro-enterprises
+which often lack the resources to navigate complex regulations. This framework provides clear,
+practical and unambiguous guidance, addressing the most pressing needs of small enterprises. Lastly,
+in June 2025 the RIA launched an operations centre tasked with monitoring developments in Estonia’s
+cyberspace and managing the operation of RIA services. By centralising the work of the RIA, this centre
+will enhance national situational awareness, response capacity and cooperation in preventing and
+managing cyber incidents. To further bolster its defences, Estonia is offering cybersecurity companies
+grants worth a total of EUR 1.5 million, available until the end of 2026, with eligible companies able to
+receive up to EUR 100 000 to help with innovation and development activities.
+
+Estonia faces a significant skills gap as demand for cybersecurity professionals outpaces supply. A
+2025 report on cybersecurity skills in Estonia published by CyberHub Estonia outlines the struggle of
+the current education system to produce enough graduates with the necessary expertise. Demand for
+professionals, especially in roles such as cybersecurity implementers, incident responders, and
+penetration testers, is projected to grow by 1.5 times by 2027. Yet Estonia produces only 735 ICT
+graduates annually, with even fewer specialising in cybersecurity, leading to a shortfall of 200
+cybersecurity specialists per year. To address this shortage, Estonia must further align its education
+system with industry needs by introducing relevant training modules and actively promoting
+cybersecurity careers.
+
+ 2025 recommendation on cybersecurity: Continue efforts in cybersecurity to address the evolving
+ and increasing threats. Ensure continuation in the implementation of cybersecurity classes.
+
+ Estonia made some efforts to address the recommendation through new policy actions in 2025.
+ As outlined above, Estonia has taken a series of significant actions on cybersecurity, such as passing
+ the amendment to the Cybersecurity Act, establishing the RIA operations centre, and developing a
+ cybersecurity framework for SMEs. Estonia also continued offering free cybersecurity workshops for
+ older people, organising 15 workshops attended by nearly 200 people in 2025. Additionally, RIA
+ published a new version of its cyber test aimed at improving and assessing the knowledge of the
+ general public. The test was adopted by 426 institutions and companies and taken by almost 32 000
+ people by the end of the year. To improve cybersecurity education for children, the RIA distributed
+ more than 12 000 cybersecurity workbooks to schools. In the higher education sector, Estonia offers
+  several top-tier courses such as a Bachelor’s and Master’s in Cybersecurity at TalTech and a Master’s
+  in Cybersecurity at the University of Tartu. However, as outlined above, Estonia is still facing a
+  significant shortage of cybersecurity professionals and must further address this issue.
+
+
+
+
+
+                                       13Estonia
+
+Protecting and empowering EU people
+and society
+
+Empowering people and bringing the digital transformation closer to their
+needs
+
+Equipping people with digital skills
+
+Basic digital skills
+Performance assessment
+Overall, according to the Digital Decade Eurobarometer 2026, 76% of the Estonian population
+believe that the digitalisation of everyday public and private services is making their life easier, i.e.
+a decrease of 3 percentage points compared to the previous year.
+
+In Estonia, 62.52% of individuals aged 16-74 have at least basic digital skills, largely unchanged
+compared to 2023 (-0.1%) but still above the EU average of 60.40%. In 2023, the figure for Estonia
+was 62.61%, above the EU average of 55.56%. Although Estonia continues to exceed the EU average,
+the stagnation in basic digital skills since 2023 is cause for concern, particularly since the EU as a
+whole saw an annual increase of 4.3% over the same period. The country is lagging behind compared
+to its trajectory presented in the Digital Decade national roadmap.
+
+Turning to the gender gap, Estonia is an interesting outlier in the EU. Specifically, in 2025, 63.29% of
+women in Estonia had basic digital skills compared to 61.70% of men, resulting in a gap of 1.59
+percentage points in favour of women. This contrasts with the picture at EU level which shows a gap
+in favour of men of 2.75 percentage points.
+
+The level of education is an important factor affecting digital skills proficiency but is less pronounced
+in Estonia compared to the EU average. Indeed, 55.86% of individuals with little or no formal education
+have basic digital skills in Estonia, which is substantially higher than the EU average of 37.56%. The gap
+between all individuals and those with a low level of education in Estonia is 6.66 percentage points,
+which is far less than the EU average of 22.84 percentage points.
+
+In terms of the urban-rural divide, Estonia has a far smaller gap in this regard than the EU average. In
+2025, 66.51% of individuals in cities had basic digital skills, compared to 59.16% in rural areas, resulting
+in a gap of 7.35 percentage points. This is less than the EU average of 13.67 percentage points.
+
+Age is another key determinant of digital skills. In Estonia, 80.91% of individuals aged 16 to 24 have
+basic digital skills, higher than the EU average of 74.55%. Among older individuals aged 55 to 74, the
+proficiency rate in Estonia is 34.16%, below the EU average of 42.6%. The gap between the youngest
+and oldest age groups in Estonia is 46.75 percentage points, above the EU average of 31.95 percentage
+points.
+
+Regarding digital safety skills, Estonia performs around the EU average. In 2025, 74.96% of individuals
+in Estonia had at least basic digital safety skills, compared to an EU average of 74.63%.
+
+Regarding the use of generative AI by individuals, Estonia outperforms the EU average. In 2025, 46.64%
+of people in Estonia used generative AI for all purposes combined, compared to an EU average of
+32.66%. Taking only professional purposes into account, 25.12% of people in Estonia used generative
+
+
+                                       14Estonia
+
+
+
+AI in 2025, above the EU average of 15.36%. According to the Digital Decade Eurobarometer 2026, for
+the Estonian population the main obstacles to making greater use of generative AI tools are ‘Concerns
+about accuracy or incorrect information’ (36%), ‘Concerns about privacy or data protection’ (35%), and
+‘Concerns about ethical issues or misuse of generative AI tools’ (27%).
+
+In summary, Estonia’s digital skills profile reveals a mixed picture. While the country is performing well
+with regard to inclusivity, particularly in relation to gender, education level and the urban-rural divide,
+most indicators have stagnated, which is cause for concern. Estonia’s performance in digital safety skills
+and generative AI usage is commendable, but targeted interventions are needed to address stagnating
+proficiency rates, especially among individuals with a lower level of education and among older adults.
+Additionally, education and workforce policies should focus on regaining positive momentum to
+ensure Estonia’s digital skills foundation remains robust in the coming years.
+
+
+
+
+
+In Estonia, 64.38% of individuals were exposed to untrue or doubtful content online in 2025, up 3.7%
+year-on-year since 2023 from 59.91%. This puts Estonia above the EU average, which rose from 49.25%
+in 2023 to 55.90% in 2025, representing an EU average annual rate of increase of 6.5%. Broken down
+by age group, Estonia contrasts with the trend at EU level. Specifically, 69.00% of individuals aged 16-
+24 were exposed to such content in 2025, slightly above the EU average for this age group of 66.34%.
+However, this is down slightly year-on-year (by 0.5%) from 69.64% in 2023, contrasting with the EU
+average which saw a 3.7% increase year-on-year for the same age group, a situation which could be
+interpreted as somewhat positive for Estonia. Meanwhile, 69.41% of Estonians aged 25-64 were
+exposed to untrue or doubtful online content in 2025, up 5.2% year-on-year from 62.71% in 2023. This
+figure is significantly higher than the EU average for this age group of 58.57%. Notably, the gap
+between the two age groups in Estonia is minimal, with older adults aged 25-64 slightly more exposed
+(0.41 percentage points) than younger adults, in contrast to the EU trend where younger individuals
+are more exposed (by 7.77 percentage points).
+
+
+
+
+                                       15Estonia
+
+
+
+Estonia reported that 28.48% of individuals verified the truthfulness of online content in 2025, up
+4.4% year-on-year from 26.13% in 2023. This puts Estonia slightly below the EU average, which rose
+from 24.29% in 2023 to 29.16% in 2025, representing an EU average annual rate of increase of 9.6%.
+Broken down by age, 44.39% of Estonians aged 16-24 verified online content in 2025, down 2.5% year-
+on-year from 46.73% in 2023. This figure is higher than the EU average of 39.49% for this age group
+but reveals a slower rate of increase compared to the EU average of 6.7%. Among individuals aged 25-
+64, 29.59% verified online content in 2025, up 5.8% year-on-year from 26.45% in 2023. This is slightly
+below the EU average of 30.4% for this age group. The figures for both Estonia and the EU show greater
+verification by younger individuals, with the difference being more pronounced in Estonia (14.8
+percentage points) than in the EU as a whole (9.09 percentage points).
+
+Data on individuals exposed to hostile or degrading messages online is not available for Estonia.
+
+
+
+
+
+According to the Digital Decade Eurobarometer 2026, 85% of the Estonian population consider that
+online manipulation (such as disinformation, foreign interference, AI-generated content, deepfakes)
+poses a threat to our democratic processes. In addition, when asked about the online issues with the
+biggest personal impact, the Estonian public specifically pointed to ‘Fake news and disinformation’
+(53%), ‘Misuse of personal data’ (44%), and ‘Insufficient protections for minors’ (39%). In relation to
+the latter, 94% of Estonian respondents thought that better protection of children and young people
+online should be a priority for the EU - though this does not necessarily mean restricting minors’ access
+to social media.
+
+The picture regarding online content in Estonia is complex. While overall exposure to untrue or
+doubtful content exceeds the EU average, the rate of increase  is slower, indicating a potential
+stabilisation in levels of exposure. Interestingly, the minimal difference in the level of exposure
+between age groups, with older adults only slightly more exposed, contrasts with the EU trend and
+warrants further investigation. Regarding verification of online content, Estonia is lagging behind the
+EU average in terms of the rate of increase, particularly among younger individuals. This suggests a
+need for targeted initiatives to encourage critical evaluation of online information, especially among
+younger people.
+
+
+
+
+
+                                       16Estonia
+
+
+
+Policy context and assessment of the recommendations
+
+Estonia is performing slightly above the EU average on basic digital skills, with comparatively strong
+results among women, individuals with a lower level of education and rural populations. This success
+could be explained by Estonia’s long-standing commitment to embedding digital skills in its education
+system. A prime example is the Tiger Leap Program, launched in 1996, which equipped all schools with
+computers and internet access by 2001 and built up lasting ICT skills among students, teachers and
+support staff. However, low performance among older individuals and stagnation in the overall level
+of digital skills in Estonia are cause for concern, especially considering public services are highly
+digitalised in Estonia, meaning that vulnerable groups with lower digital skills will face barriers to
+accessing public services and participating in democracy. One contributor to the stagnation of overall
+digital skills in Estonia is the fragmentation of the digital skills development system, characterised by
+sector-based,  parallel and sometimes  duplicative  activities, reducing  overall impact  of  skills
+development activities. This highlights the need to establish a more coherent and integrated digital
+skills development system supported by effective cross-sectoral coordination.
+
+Estonia is expanding its Digital State Academy in order to improve digital skills among the general
+public and in the public sector. The Digital State Academy was originally launched in 2021 as a training
+platform for government employees but is now being transformed into an open, centralised learning-
+platform for the general public and private sector. Designed to support personalised and life-long
+learning, the platform currently offers e-courses from 23 private organisations mainly from the public
+sector, including over 10 courses on data and AI. The platform has already attracted more than 45 000
+registered users.
+
+To improve on the already impressive adoption of generative AI tools by the general public, Estonia
+launched the AI Leap initiative in 2025, partnering with AI companies to introduce AI literacy into its
+national curriculum. This initiative aims to transform Estonia into a global leader on AI, by providing
+students and teachers with free access to modern AI-based learning tools. Rapid progress has been
+made, with more than 100 Estonian upper-secondary schools (out of a total of 154) already equipped
+with a dedicated AI learning app. At this point, the programme includes 20 000 secondary school
+students and 3 000 teachers which is due to be extended to vocational schools in 2026, adding another
+38 000 students and 2 000 teachers.
+
+Estonia ranked 4th in the European Media Literacy Index 2023, indicating strong resilience to
+disinformation. In 2024, Estonia continued building on  its broad media literacy education by
+introducing a mandatory course for upper secondary school students called ‘media and influencing’.
+The aim of the course is to help students understand and critically evaluate media content and
+disinformation. An optional course is also available called ‘humans in a contemporary information
+environment,’ which further explores media influence, big data, social media algorithms and
+propaganda.
+
+ 2025 recommendation on digital skills: Introduce digital skills measures targeted to mid-level
+ managers to be able to lead the digitalisation process for their employees and enterprises.
+
+ Estonia addressed fully the recommendation by putting significant policy actions into place in
+ 2025. Estonia launched a programme targeting mid-level managers comprising a combination of e-
+  learning and in-person courses. The e-learning material was finalised in September and tested with
+ a pilot group of mid-level managers who gave good feedback overall. Estonia’s Ministry of Finance,
+ which is responsible for the development of mid-level civil service managers, launched the official
+
+
+                                       17Estonia
+
+
+
+  training programme in February 2026, specifically 14 courses for a total of up to 280 participants.
+  Additionally, the programme Leading Next-Level Digital Change has already educated 40 high-level
+ leaders on how to lead the digital change in the public sector and launched its second cohort in the
+ beginning of 2026.
+
+
+
+ICT specialists
+Performance assessment
+In Estonia, ICT specialists represented 6.8% of total employment in 2025, down 5.6% but still above
+the EU average of 5.0%. While Estonia is still significantly above the EU average, the country is failing
+to keep up with the trajectory presented in its Digital Decade national roadmap. On a positive note,
+Estonia has the highest share of ICT graduates in the EU, at 9.4%. This highlights the need to place
+continued emphasis on supporting field-related employment outcomes and reducing dropouts in
+education.
+
+Estonia women account for 22.5% of all ICT specialists, which is above the EU average of 19.5%.
+Moreover, Estonia has the highest share of women ICT graduates in Europe, at 3.4%. While this is
+encouraging, more work needs to be done to integrate women into the ICT workforce.
+
+Policy context and assessment of the recommendations
+One of the main barriers holding back Estonia’s ongoing digital transformation and limiting its long-
+term growth and competitiveness is a shortage of skilled ICT professionals. The ICT monitoring report
+2024 released in February 2025 estimated that Estonia will need 40 200 ICT professionals by 2027, i.e.
+1.5-times more than in 2020. While the Estonian government is continuing to take measures to address
+this issue, efforts remain fragmented and lack a cohesive, long-term strategy. One of Estonia’s key
+initiatives is the IT Academy Program, which brings together the Estonian state, universities, vocational
+schools and ICT companies in order to improve the quality of ICT-related education and ensure the
+continued development of skilled professionals. The IT Academy Program runs from 2023 to 2029 and
+is backed by EUR 34 million in support for ICT-related higher education and EUR 24.8 million for ICT-
+related vocational education. A central aim of both initiatives is to decrease the number of students
+dropping out of ICT-related courses. An additional EUR 10 million has been earmarked for upskilling
+and reskilling programmes for ICT professionals, although this initiative is set to end in summer 2026.
+
+A critical issue in Estonia is the difficulty for junior ICT specialists to transition to more senior
+positions. Despite an overall shortage in ICT specialists, newly educated ICT professionals face
+difficulties finding jobs and establishing long-term careers. Interestingly, Estonia ranks first in the EU in
+terms of the share of ICT graduates (9.40% of all graduates), suggesting that the issue is more to do
+with the alignment and relevance of ICT training for the job market than with the supply of ICT
+specialists. Many companies lack the resources to upskill junior specialists in order to obtain the highly
+skilled experts they need, creating a career development bottleneck.
+
+Estonia remains one of the countries with the highest percentage of female ICT specialists. This could
+be due to the early initiatives taken by Estonia to promote ICT careers to women and girls, such as the
+Unicorn squad, which offers hobby courses in engineering, robotics and natural sciences to girls aged
+8-14. Since its launch in 2018, the programme has attracted over 4 000 participants, helping to foster
+early interest in STEM fields and bridge the gender gap in technology. Similarly, CyberWizards 2026 is
+a week-long camp for girls aged 13-16 which introduces essential cybersecurity skills through hands-
+on workshops.
+
+
+                                       18Estonia
+
+
+
+ 2025 recommendation on ICT specialists: Continue to implement measures to educate ICT
+  specialists to fill the current gap.
+
+  In 2025, Estonia continued the implementation of existing measures but did not take any new
+ measure. One of the main obstacles holding back Estonia’s digital transition is a shortage of ICT
+  specialists especially in the fields of AI and cybersecurity. As outlined above, Estonia has continued
+ implementing several measures aimed at increasing the size of the ICT workforce but has not
+ announced any major new programmes. While Estonia still has an above average percentage of ICT
+ workforce, it has regressed over the last year. Combined with ambitious plans for the further
+  digitalisation of the private and public sectors, this regression highlights the critical need to address
+ the ICT specialist shortage.
+
+
+Key digital public services and solutions – trusted, user-friendly, and accessible to all
+
+Performance assessment
+In 2025, Estonia's total digital public services score for citizens (which covers both national and cross-
+border users) was 97.19/100. This represents a 1.1% increase compared to 2024. As such, Estonia is
+above the EU average of 84.64/100. The country is keeping up with the trajectory presented in its
+Digital Decade national roadmap. Specifically in terms of digital public services for national citizens,
+Estonia scored 97.59/100 in 2025. This is above the EU average of 94.01/100 and unchanged compared
+to 2024. In terms of cross-border digital public services for citizens, Estonia scored 96.79/100 in 2025,
+which is well above the EU average of 75.28/100 and up 2.3% on 2024. Citizen‑related life events which
+scored particularly highly included career (100.0), starting a small claims procedure (100.0) and
+studying (100.0). Conversely, transport (92.32), family (94.44), and health (95.0) showed the greatest
+room for improvement. In terms of the provision of digital public services to national citizens at
+different levels of government, central government services scored 88.35/100, regional government
+services scored 100.0/100, and local government services scored 93.75/100.
+
+Estonia’s total digital public services score for businesses (covering both national and cross‑border
+businesses) was 97.5/100 in 2025, above the EU average of 88.59/100. The country is keeping up
+with the trajectory presented in its Digital Decade national roadmap. Both business-related life events,
+i.e. business  start-up and regular business operations scored 97.5  points. Notably,  Estonia's
+cross‑border digital public services score for businesses reached 95.0/100 in 2025, unchanged
+compared to 2024 but above the EU average of 78.37/100. Estonia’s score for digital public services
+for businesses available to national users was 100.0/100, unchanged since 2024 and putting the
+country above the EU average of 98.81/100.
+
+Overall, Estonia’s digital public services continue to outperform the EU average, scoring close to 100
+in many cases. Estonia scored significantly above the EU average on cross-border digital public services
+for both citizens and businesses.
+
+Estonia scored 100 on access to e-health records, as was the case in 2024, remaining above the EU
+average of 86.51. The country is on track according to its trajectory presented in the Digital Decade
+national roadmap, as it has already achieved the Digital Decade target.
+
+Policy context and assessment of the recommendations
+Estonia has a long history in the digital identity space, with an eID system in operation for over 20
+years. According to ESTAT, 91.48% of Estonians used their eID in 2025. At this point, Estonia has six eID
+items in its eID system: an ID card, a residence permit card, Digi-ID, e-Residency, Mobiil-ID and
+Diplomatic ID. Estonia is also making progress in developing the EU Digital Identity Wallet, building on
+
+                                       19Estonia
+
+
+
+the existing digital identity ecosystem. The country has established governance structures for the
+wallet and is preparing procurement processes to support the roll-out, focusing on leveraging private
+sector capabilities.
+
+Estonia is one of the most advanced Member States when it comes to digital public services. It has
+a long history of digitisation, with the Estonian public and businesses now able to access a wide range
+of public services online. Due to efficiency gains for both individuals and businesses, Estonia’s strong
+digital public services may have contributed to rising levels of digital skills among both the population
+and businesses. At this point, Estonia is focused on increasing the usability and ensuring the continued
+quality of its digital services through the systematic adoption of AI. This strategy is outlined in Estonia’s
+Digital Society Development plan 2035 with the goal of reducing the cost of the digital public services
+by at least EUR 425 million by 2030. As part of the broader strategy, the government aims to create AI-
+powered chatbots to assist with all digital public service procedures by 2030. Initial progress has been
+made towards the creation of Bürokratt, a general-purpose large language model already adopted by
+several public sector institutions. From 2026, the general chatbot will move towards a network of
+personalised AI agents, with each institution using its own customised AI assistant within a unified,
+cooperative network. The end vision is to create a chatbot network, serving as a single gateway for
+individuals to access public services and information.
+
+Estonia’s early adoption of e-government solutions has led to issues relating to the ageing and
+usability of its services. To address this, a robust management tool for maintaining and updating digital
+services is essential. In 2025 Estonia built on its previous e-service design system (VEERA) to produce
+a new design system called TEDI. Unlike its predecessor which was simply a visual reference, TEDI is
+intended to also provide front-end code to help streamline new projects. By the end of 2026, the core
+components of TEDI should be finalised. At a broader strategic level, efforts are increasingly focused
+on strengthening strategic management and cost-effectiveness, with clearer accountability, reduced
+duplication, and a greater role for the private sector in service delivery. Work on the consolidation
+initiative began in autumn 2025 and will continue in the following years guided by Estonia’s Digital
+Society Development plan 2035, aiming to reduce fragmentation, consolidate shared infrastructure,
+and improve the quality and reliability of digital public services.
+
+Estonia remains a leader in e-health, having already achieved a perfect score (100) for online access
+to medical records. However, while such records are available online, older individuals and people
+with disabilities may experience difficulties accessing them. For this reason, accessibility remains an
+important issue for Estonia. To address this, Estonia adopted a new e-Health Strategy in the beginning
+of 2025. It focuses on data-driven governance, improving the quality and availability of health data
+and the adoption of new technologies. Digital solutions, such as telemedicine services and e-
+consultations with doctors, will improve access to healthcare, especially for people living in rural areas
+and individual with special needs.
+
+Estonia is using the Digital State Academy to provide free e-learning materials for healthcare
+professionals. This is part of a joint project with Spain and includes courses such as e-health basics
+and foundations of healthcare information security and data protection.
+
+
+ 2025 recommendation on Digital Public Services: Improve the useability of the digital public
+  services to ensure that they are accessible to all as well as to ensure that its services are up to date.
+
+ Estonia made some efforts to address the recommendation through new policy actions in 2025.
+ As mentioned above, a new digital public services management system is in the process of being
+
+
+                                       20Estonia
+
+
+
+ adopted and an AI chatbot assistant is under development. Additionally, the work on consolidating
+ the fragmented digital public services in Estonia have begun. However, these initiatives are still in
+  their early stages and need to be implemented further.
+
+
+
+
+
+                                       21Estonia
+
+Leveraging  digital transformation  for a
+smart greening
+
+In Estonia, the level of recycling of electronic equipment is above the EU average, however per capita
+air emissions from the ICT sector are among the highest in Europe. Recently published sectoral data
+on air emissions show that Estonia’s ICT sector emitted 68.2 kg CO2 eq per capita, which is far higher
+than the EU average of 22.8 kg CO2 eq per capita (data from 2022). Most of these emissions are
+attributed to ICT manufacturing (87.2%), with Estonia having the highest in Europe. The ICT sector
+accounted for 0.84% of the entire economy’s air emissions, again the highest share in Europe and more
+than double the EU average (0.35%). However, 85.25% of ICT-related waste collected (corresponding
+to two categories of waste electrical and electronic equipment) was recycled or prepared for reuse.
+This is higher than the EU average of 80.23%. According to the Digital Decade Eurobarometer 2026,
+36% of the Estonian population consider that ‘green digital technologies (e.g. energy-saving tech)’ will
+be the technology that has the most positive impact over the next ten years.
+
+
+In May 2026, Estonia adopted its new Digital Society Development plan 2035, in which
+sustainability is not a central focus. Nevertheless, the transition to green ICT across the public sector
+is still highlighted as a key expectation. To achieve this goal, all public sector institutions have been
+instructed to measure their ICT carbon footprint and take steps to reduce it by adopting
+environmentally sustainable and energy-efficient solutions where possible. Additionally, through the
+consolidation of digital public services and the move towards more centralised ICT management
+within the public sector, Estonia aims to reduce duplication of infrastructures and thereby limit
+waste.
+ 2025 recommendation on smart greening: Implement a coherent green digitalisation strategy to
+ be able to keep up with the country’s ambition of being the world’s greenest digital government.
+
+ Estonia made some efforts to address the recommendation through new policy actions in 2025.
+  In Estonia’s Digital Society Development plan 2035, the country has dropped its ambition of
+ becoming the world’s greenest digital government. However, the plan contains several concrete
+ steps to reduce the environmental impact of ICT across the public sector. Further work is needed to
+ implement these initiatives, including the centralisation of ICT management within the public sector,
+ and the institutionalised measuring of each public institution’s ICT footprint.
+
+
+
+
+
+                                       22Estonia
+
+Annex I: National roadmap analysis
+
+  Estonia’s national Digital Decade strategic roadmap
+
+ Estonia submitted a fully revised national Digital Decade roadmap on 27 March 2025. The
+ roadmap contains 13 new targets, 13 trajectories and an update of its intended actions. The
+ adjusted roadmap shows a stronger emphasis on quantum computing (including HPC), EU-level
+ cooperation and digital skills. It includes clear reporting on the public consultation of stakeholders.
+ However, the green transition is not very well incorporated. The roadmap includes measures that
+ provide an insight to the state of play, but most of the activities described lack detail – such as
+ budget, timeline and expected impact – that would give a better understanding of planned actions.
+
+ The new roadmap addresses a limited number of the 2024 roadmap recommendations.
+
+ The 2025 roadmap includes a target and trajectory for VHCN coverage, FTTP coverage, 5G
+ coverage, SMEs with at least a basic level of digital intensity, cloud, AI, data analytics, unicorns, ICT
+  specialists, digital public services for citizens, digital public services for business, and access to
+ health records. all these key performance indicators (KPIs) except edge nodes. Estonia has chosen
+ to not set a target regarding edge notes because it is following a market-driven approach. Estonia
+ has aligned the level of ambition of the target for digital skills of at least a basic level with the EU
+  target (80%) and has proposed a trajectory for this target.
+
+ Estonia has presented its planned activities dedicated to the KPIs mentioned above. However,
+ these activities have not been presented as clear-cut measures with budget, timeline, and
+ expected impact giving a better understanding of planned actions.
+
+ Estonia has consulted and reported on the stakeholders’ feedback process. Estonia initiated a
+ review involving contributors from the public and private sectors and civil society. Additionally,
+ Estonia also conducted surveys, participated in networking forums, and held workshops. However,
+ the roadmap lacks information on how stakeholder feedback was taken into consideration
+
+  Overall, Estonia presents a selected set of main policies and measures contributing to the
+ achievement of some Digital Decade targets. The measures presented cover several types of
+  objectives: technological leadership, sovereignty, competitiveness and cybersecurity.  It  is not
+ possible to determine the budget of the measures presented.
+
+
+
+
+
+                                       23Estonia
+
+Annex II: Funding, economic impacts &
+Multi-Country Projects
+
+ Country results from the study ‘Assessing the Economic Impact of Digital Investments under the
+ Recovery and Resilience Facility’
+
+ A modelling study conducted by the European Commission services, with the FIDELIO model,
+ assesses the economic impact of the digital component of the RRF. As of November 2025, the digital
+ part of the Recovery and Resilience Plan of Estonia was evaluated to EUR 208 million with EUR 24
+  million for digital infrastructures, EUR 10 million for digital skills, EUR 76 million for the digitalisation
+ of businesses, and EUR 97 million for the digitalisation of public services.
+
+ The total economic impact of RRF digital measures is estimated to EUR 225 million for the national
+ economy. Of this, EUR 147 million stems from the direct effects of Estonia's own RRP and EUR 78
+  million corresponds to spillover effects from the implementation of other EU Member States' plans.
+ Estonia benefited the most from spillover effects from RRPs of Finland (EUR 10 million), Italy (EUR
+ 9 million), Spain (EUR 9 million). The most impacted sectors are ICT Services (EUR 68 million),
+  Professional Services (EUR 27 million) and Manufacturing (EUR 26 million).
+
+
+
+
+
+                                     RRF spillover effects to Estonia
+
+
+
+
+
+                                       24Estonia
+
+
+
+
+
+ Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy
+
+ Estonia allocates 24% of its total recovery and resilience plan to digital (EUR 0.2 billion)1. In
+  addition, under cohesion policy, EUR 0.4 billion, representing 10% of the country’s total cohesion
+  policy funding, is dedicated to advancing Estonia’s digital transformation2.
+
+
+
+ Multi-Country Projects
+ Estonia is a member of the Local Digital Twins towards the CitiVERSE EDIC and is an observer to
+ the Alliance for Language Technologies EDIC. Estonia is a participating state of the EuroHPC Joint
+ Undertaking (JU) and of the Chips JU.
+
+
+
+
+
+1 The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery
+and Resilience Facility Regulation. Last data update: 23 April 2026.
+2 This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the
+2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including
+Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund.
+
+                                       25

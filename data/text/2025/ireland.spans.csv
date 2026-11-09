@@ -1,0 +1,1936 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,111.0,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.9,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.7,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.2,390.9,242.5,PART 14/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,267.0,330.9,284.7, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.5,432.4,328.8,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.3,394.3,360.5,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,379.0,373.6,392.3,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,404.8,525.7,418.1,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,418.6,502.9,431.8,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.3,523.5,457.6,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,475.9,486.6,489.1,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,489.7,487.3,502.9, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,70.8,37.6,73.3,48.6, 
+2,0,1,Calibri,11.0,151.6,37.6,154.1,48.6, 
+2,0,2,TimesNewRomanPSMT,12.0,70.8,49.3,73.8,62.6, 
+2,1,0,TimesNewRomanPSMT,12.0,70.8,69.1,73.8,82.4, 
+2,2,0,Calibri,11.0,70.8,90.6,73.3,101.7, 
+2,3,0,Calibri-Bold,40.0,117.4,270.0,484.3,309.9,DIGITAL DECADE 2025
+2,3,0,Calibri,40.0,484.5,270.0,493.6,309.9, 
+2,3,1,Calibri,40.0,117.4,318.8,443.5,358.8,COUNTRY REPORTS 
+2,4,0,Calibri-Bold,28.0,210.9,402.1,299.2,430.1,Ireland 
+2,5,0,Calibri,11.0,70.8,795.2,73.3,806.3, 
+3,0,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,1,Calibri,11.0,72.0,51.0,74.5,62.0, 
+3,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+3,3,0,Calibri,11.0,72.0,106.5,114.8,117.5,Contents 
+3,5,0,Calibri,11.0,72.0,129.0,523.0,140.1,Executive summary ................................................................................................................................. 1
+3,5,0,Calibri,12.0,523.0,128.3,525.7,140.3, 
+3,6,0,Calibri,11.0,72.0,148.5,523.0,159.5,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,6,0,Calibri,12.0,523.0,147.7,525.7,159.7, 
+3,7,0,Calibri,11.0,83.1,167.9,523.0,178.9,Building technological leadership: digital infrastructure and technologies ........................................ 6
+3,7,0,Calibri,12.0,523.0,167.2,525.7,179.2, 
+3,8,0,Calibri,11.0,94.0,187.5,523.0,198.5,Connectivity infrastructure ............................................................................................................. 6
+3,8,0,Calibri,12.0,523.0,186.7,525.7,198.7, 
+3,9,0,Calibri,11.0,94.0,206.9,523.0,217.9,Semiconductors ............................................................................................................................... 9
+3,9,0,Calibri,12.0,523.0,206.2,525.7,218.2, 
+3,10,0,Calibri,11.0,94.0,226.5,523.0,237.5,Edge nodes ...................................................................................................................................... 9
+3,10,0,Calibri,12.0,523.0,225.7,525.7,237.7, 
+3,11,0,Calibri,11.0,94.0,245.9,523.0,257.0,Quantum technologies .................................................................................................................... 9
+3,11,0,Calibri,12.0,523.0,245.2,525.7,257.2, 
+3,12,0,Calibri,11.0,83.1,265.4,523.0,276.4,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 11
+3,12,0,Calibri,12.0,523.0,264.6,525.7,276.6, 
+3,13,0,Calibri,11.0,94.0,284.9,523.0,296.0,SMEs with at-least-basic digital intensity ...................................................................................... 11
+3,13,0,Calibri,12.0,523.0,284.2,525.7,296.2, 
+3,14,0,Calibri,11.0,94.0,304.4,523.0,315.4,Take-up of cloud/AI/data analytics ............................................................................................... 12
+3,14,0,Calibri,12.0,523.0,303.6,525.7,315.6, 
+3,15,0,Calibri,11.0,94.0,323.9,523.0,335.0,"Unicorns, scale-ups and start-ups ................................................................................................. 13"
+3,15,0,Calibri,12.0,523.0,323.2,525.7,335.2, 
+3,16,0,Calibri,11.0,83.1,343.4,523.0,354.4,Strengthening cybersecurity & resilience ......................................................................................... 15
+3,16,0,Calibri,12.0,523.0,342.6,525.7,354.6, 
+3,17,0,Calibri,11.0,72.0,362.9,523.0,374.0,Protecting and empowering EU people and society ............................................................................. 17
+3,17,0,Calibri,12.0,523.0,362.2,525.7,374.2, 
+3,18,0,Calibri,11.0,83.1,382.4,523.0,393.4,Empowering people and bringing the digital transformation closer to their needs ........................ 17
+3,18,0,Calibri,12.0,523.0,381.6,525.7,393.6, 
+3,19,0,Calibri,11.0,94.0,401.8,523.0,412.9,Equipping people with digital skills ............................................................................................... 17
+3,19,0,Calibri,12.0,523.0,401.1,525.7,413.1, 
+3,20,0,Calibri-Bold,28.0,197.8,395.0,286.1,423.0,Ireland 
+3,21,0,Calibri,11.0,94.0,421.4,523.0,432.4,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 20"
+3,21,0,Calibri,12.0,523.0,420.7,525.7,432.7, 
+3,22,0,Calibri,11.0,83.1,440.8,523.0,451.9,Building a safe and human-centric digital environment and preserving our democracy ................. 23
+3,22,0,Calibri,12.0,523.0,440.1,525.7,452.1, 
+3,23,0,Calibri,11.0,72.0,460.4,523.0,471.4,Leveraging digital transformation for a smart greening ....................................................................... 25
+3,23,0,Calibri,12.0,523.0,459.7,525.7,471.7, 
+3,24,0,Calibri,11.0,72.0,479.8,523.0,490.9,Annex I – National roadmap analysis .................................................................................................... 27
+3,24,0,Calibri,12.0,523.0,479.1,525.7,491.1, 
+3,25,0,Calibri,11.0,72.0,499.4,523.0,510.4,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 29
+3,25,0,Calibri,12.0,523.0,498.7,525.7,510.7, 
+3,26,0,Calibri,11.0,72.0,518.8,523.0,529.9,Annex IIΙ – Digital rights and principles in Ireland ................................................................................. 30
+3,26,0,Calibri,12.0,523.0,518.1,525.7,530.1, 
+3,27,0,Calibri,11.0,72.0,538.3,74.5,549.3, 
+3,28,0,Calibri,11.0,72.0,560.9,74.5,571.9, 
+3,28,1,Calibri,11.0,216.1,560.9,218.5,571.9, 
+3,29,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.9,137.3,Ireland shows good progress in digital infrastructure and should further improve access to e-health 
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.7,151.8,records building on visible progress made in 2024. The country positions itself as a cybersecurity 
+4,4,2,Calibri-Bold,11.0,72.0,155.2,525.8,166.2,"leader, particularly through strong implementation of the 5G Cybersecurity Toolbox and public cloud "
+4,4,3,Calibri-Bold,11.0,72.0,169.7,170.5,180.7,control investments.  
+4,5,0,Calibri-Bold,11.0,72.0,192.1,525.8,203.2,"Ireland shows a high level of ambition in its contribution to the Digital Decade, having set 11 national "
+4,5,1,Calibri-Bold,11.0,72.0,206.7,525.8,217.7,"targets, 91% of which are very well aligned with the EU's 2030 targets. The country is following its "
+4,5,2,Calibri-Bold,11.0,72.0,221.2,525.9,232.2,"trajectories moderately well, with 50% of them being on track (on the basis of the 2024 trajectories "
+4,5,3,Calibri-Bold,11.0,72.0,235.7,525.8,246.8,defined for 6 KPIs out of 8 analysed). Ireland addressed 64% of the 11 recommendations issued by 
+4,5,4,Calibri-Bold,11.0,72.0,250.1,525.8,261.2,"the Commission in 2024, either by implementing significant policy changes (9%) or making some "
+4,5,5,Calibri-Bold,11.0,72.0,264.6,247.8,275.7,changes (55%) through new measures.
+4,5,5,Calibri,11.0,247.9,264.6,250.3,275.7, 
+4,6,0,Calibri,11.0,72.0,287.2,525.8,298.2,"Fibre and very high-capacity network (VHCN) coverage continued to register strong growth in 2024, "
+4,6,1,Calibri,11.0,72.0,301.6,525.9,312.6,"including in rural areas, and 5G coverage reached 89.9%, approaching 90%. The digitalisation of SMEs "
+4,6,2,Calibri,11.0,72.0,316.1,525.9,327.2,"remains just above the EU average, while adoption of advanced technologies, such as AI, is broadly in "
+4,6,3,Calibri,11.0,72.0,330.6,525.9,341.7,line with the EU average. Ireland piloted the European Digital Identity Wallet and advanced the 
+4,6,4,Calibri,11.0,72.0,345.2,525.7,356.2,preparations for its eIDAS notification. The country also expanded initiatives to reduce the 
+4,6,5,Calibri,11.0,72.0,359.6,525.9,370.6,"environmental footprint of public sector digital infrastructure, including by creating a new public "
+4,6,6,Calibri,11.0,72.0,374.1,525.8,385.1,service data centre and promoting green public procurement. Cyber resilience efforts were extended 
+4,6,7,Calibri,11.0,72.0,388.6,374.4,399.6,"to SMEs and key sectors, with targeted actions in the health system."
+4,6,7,Calibri-Bold,11.0,374.5,388.6,377.0,399.6, 
+4,7,0,Calibri-Bold,7.0,300.9,417.8,323.0,424.8,Ireland 
+4,7,1,Calibri-Bold,7.0,419.5,417.8,429.1,424.8,EU 
+4,7,2,Calibri-Bold,7.0,471.3,413.5,514.6,420.5,Digital Decade 
+4,7,3,Calibri-Bold,7.0,471.3,422.0,514.7,429.0,target by 2030 
+4,8,0,Calibri-Bold,7.0,270.5,438.1,300.6,445.1,DESI 2025 
+4,9,0,Calibri,7.0,77.7,426.6,79.2,433.6, 
+4,9,1,Calibri,14.0,77.7,436.5,183.7,450.6,Digital Decade KPI 
+4,9,1,Calibri,9.0,183.6,435.3,193.7,444.3,(1)
+4,9,1,Calibri,7.0,193.7,441.8,195.3,448.8, 
+4,10,0,Calibri-Bold,7.0,354.0,438.1,380.2,445.1,National 
+4,10,1,Calibri-Bold,7.0,352.1,446.6,382.0,453.6,trajectory 
+4,11,0,Calibri-Bold,7.0,315.7,442.3,337.9,449.3,Annual 
+4,11,1,Calibri-Bold,7.0,313.6,451.0,339.9,457.9,progress 
+4,12,0,Calibri-Bold,7.0,277.4,446.6,293.8,453.6,(year 
+4,12,1,Calibri-Bold,7.0,276.6,455.2,294.6,462.1,2024) 
+4,13,0,Calibri-Bold,7.0,354.5,455.2,379.8,462.1,2024 (3) 
+4,13,1,Calibri-Bold,7.0,391.4,446.6,421.7,453.6,DESI 2025 
+4,13,2,Calibri-Bold,7.0,433.1,442.3,455.3,449.3,Annual 
+4,13,3,Calibri-Bold,7.0,431.0,451.0,457.3,457.9,progress 
+4,13,4,Calibri-Bold,7.0,474.5,446.6,481.3,453.6,IE 
+4,13,5,Calibri-Bold,7.0,504.0,446.6,513.6,453.6,EU 
+4,14,0,Calibri-Bold,7.0,244.1,433.8,258.5,440.8,DESI 
+4,14,1,Calibri-Bold,7.0,243.5,442.3,259.1,449.3,2024 
+4,14,2,Calibri-Bold,7.0,243.1,451.0,259.5,457.9,(year 
+4,14,3,Calibri-Bold,7.0,242.3,459.5,260.2,466.4,2023) 
+4,15,0,Calibri-Bold,7.0,77.7,471.7,227.6,478.7,Fixed Very High Capacity Network (VHCN) coverage 
+4,15,1,Calibri,7.0,241.9,471.7,260.8,478.7,78.5% 
+4,15,2,Calibri,7.0,276.2,471.7,295.2,478.7,87.2% 
+4,15,3,Calibri,7.0,317.2,471.7,336.2,478.7,11.0% 
+4,15,4,Calibri,7.0,357.7,471.7,376.6,478.7,93.5% 
+4,15,5,Calibri,7.0,397.0,471.7,416.0,478.7,82.5% 
+4,15,6,Calibri,7.0,436.4,471.7,451.9,478.7,4.9% 
+4,15,7,Calibri,7.0,466.7,471.7,489.2,478.7,100.0% 
+4,15,8,Calibri,7.0,500.1,468.5,517.3,475.4,100% 
+4,16,0,Calibri-Bold,7.0,77.7,487.2,188.1,494.2,Fibre to the Premises (FTTP) coverage 
+4,16,1,Calibri,7.0,241.9,487.2,260.8,494.2,61.6% 
+4,16,2,Calibri,7.0,276.2,487.2,295.2,494.2,73.5% 
+4,16,3,Calibri,7.0,317.2,487.2,336.2,494.2,19.3% 
+4,16,4,Calibri,7.0,365.2,487.2,369.0,494.2,- 
+4,16,5,Calibri,7.0,397.0,487.2,416.0,494.2,69.2% 
+4,16,6,Calibri,7.0,436.4,487.2,451.9,494.2,8.4% 
+4,16,7,Calibri,7.0,476.0,487.2,479.8,494.2,- 
+4,16,8,Calibri,7.0,506.9,484.0,510.6,490.9,- 
+4,17,0,Calibri-Bold,7.0,77.7,502.7,137.1,509.6,Overall 5G coverage 
+4,17,1,Calibri,7.0,241.9,502.7,260.8,509.6,85.3% 
+4,17,2,Calibri,7.0,276.2,502.7,295.2,509.6,89.9% 
+4,17,3,Calibri,7.0,319.0,502.7,334.5,509.6,5.4% 
+4,17,4,Calibri,7.0,357.7,502.7,376.6,509.6,87.1% 
+4,17,5,Calibri,7.0,397.0,502.7,416.0,509.6,94.3% 
+4,17,6,Calibri,7.0,436.4,502.7,451.9,509.6,5.9% 
+4,17,7,Calibri,7.0,466.7,502.7,489.2,509.6,100.0% 
+4,17,8,Calibri,7.0,500.1,499.6,517.3,506.5,100% 
+4,18,0,Calibri-Bold,7.0,77.7,518.3,144.4,525.2,Edge Nodes (estimate) 
+4,18,1,Calibri,7.0,247.0,518.3,255.7,525.2,20 
+4,18,2,Calibri,7.0,281.3,518.3,290.0,525.2,39 
+4,18,3,Calibri,7.0,317.2,518.3,336.2,525.2,95.0% 
+4,18,4,Calibri,7.0,362.8,518.3,371.5,525.2,18 
+4,18,5,Calibri,7.0,397.9,518.3,415.2,525.2,2 257 
+4,18,6,Calibri,7.0,434.7,518.3,453.7,525.2,90.5% 
+4,18,7,Calibri,7.0,476.0,518.3,479.8,525.2,- 
+4,18,8,Calibri,7.0,498.3,515.1,519.3,522.0,10 000 
+4,19,0,Calibri-Bold,7.0,77.7,533.8,232.6,540.7,SMEs with at least a basic level of digital intensity (2) 
+4,19,1,Calibri,7.0,249.4,533.8,253.1,540.7,- 
+4,19,2,Calibri,7.0,276.2,533.8,295.2,540.7,73.4% 
+4,19,3,Calibri,7.0,318.0,533.8,335.5,540.7,-0.5% 
+4,19,4,Calibri,7.0,365.2,533.8,369.0,540.7,- 
+4,19,5,Calibri,7.0,397.0,533.8,416.0,540.7,72.9% 
+4,19,6,Calibri,7.0,436.4,533.8,451.9,540.7,2.8% 
+4,19,7,Calibri,7.0,468.5,533.8,487.4,540.7,90.0% 
+4,19,8,Calibri,7.0,501.9,530.5,515.7,537.5,90% 
+4,20,0,Calibri-Bold,7.0,77.7,549.2,95.9,556.2,Cloud 
+4,20,1,Calibri,7.0,241.9,549.2,260.8,556.2,53.1% 
+4,20,2,Calibri,7.0,283.8,549.2,287.5,556.2,- 
+4,20,3,Calibri,7.0,324.9,549.2,328.6,556.2,- 
+4,20,4,Calibri,7.0,365.2,549.2,369.0,556.2,- 
+4,20,5,Calibri,7.0,404.7,549.2,408.5,556.2,- 
+4,20,6,Calibri,7.0,442.3,549.2,446.0,556.2,- 
+4,20,7,Calibri,7.0,468.5,549.2,487.4,556.2,75.0% 
+4,20,8,Calibri,7.0,501.9,546.0,515.7,553.0,75% 
+4,21,0,Calibri-Bold,7.0,77.7,564.8,138.9,571.7,Artificial Intelligence 
+4,21,1,Calibri,7.0,243.5,564.8,259.0,571.7,8.0% 
+4,21,2,Calibri,7.0,276.2,564.8,295.2,571.7,14.9% 
+4,21,3,Calibri,7.0,317.2,564.8,336.2,571.7,86.0% 
+4,21,4,Calibri,7.0,357.7,564.8,376.6,571.7,18.0% 
+4,21,5,Calibri,7.0,397.0,564.8,416.0,571.7,13.5% 
+4,21,6,Calibri,7.0,434.7,564.8,453.7,571.7,67.2% 
+4,21,7,Calibri,7.0,468.5,564.8,487.4,571.7,75.0% 
+4,21,8,Calibri,7.0,501.9,561.5,515.7,568.5,75% 
+4,22,0,Calibri-Bold,7.0,77.7,580.2,120.0,587.2,Data analytics 
+4,22,1,Calibri,7.0,241.9,580.2,260.8,587.2,37.1% 
+4,22,2,Calibri,7.0,283.8,580.2,287.5,587.2,- 
+4,22,3,Calibri,7.0,324.9,580.2,328.6,587.2,- 
+4,22,4,Calibri,7.0,365.2,580.2,369.0,587.2,- 
+4,22,5,Calibri,7.0,404.7,580.2,408.5,587.2,- 
+4,22,6,Calibri,7.0,442.3,580.2,446.0,587.2,- 
+4,22,7,Calibri,7.0,468.5,580.2,487.4,587.2,75.0% 
+4,22,8,Calibri,7.0,501.9,577.0,515.7,584.0,75% 
+4,23,0,Calibri-Bold,7.0,77.7,595.7,161.7,602.7,AI or Cloud or Data analytics 
+4,23,1,Calibri,7.0,241.9,595.7,260.8,602.7,64.1% 
+4,23,2,Calibri,7.0,283.8,595.7,287.5,602.7,- 
+4,23,3,Calibri,7.0,324.9,595.7,328.6,602.7,- 
+4,23,4,Calibri,7.0,365.2,595.7,369.0,602.7,- 
+4,23,5,Calibri,7.0,404.7,595.7,408.5,602.7,- 
+4,23,6,Calibri,7.0,442.3,595.7,446.0,602.7,- 
+4,23,7,Calibri,7.0,476.0,595.7,479.8,602.7,- 
+4,23,8,Calibri,7.0,501.9,592.6,515.7,599.6,75% 
+4,24,0,Calibri-Bold,7.0,77.7,611.3,105.0,618.3,Unicorns 
+4,24,1,Calibri,7.0,247.0,611.3,255.7,618.3,12 
+4,24,2,Calibri,7.0,281.3,611.3,290.0,618.3,13 
+4,24,3,Calibri,7.0,319.0,611.3,334.5,618.3,8.3% 
+4,24,4,Calibri,7.0,365.2,611.3,369.0,618.3,- 
+4,24,5,Calibri,7.0,400.4,611.3,412.7,618.3,286 
+4,24,6,Calibri,7.0,436.4,611.3,451.9,618.3,4.4% 
+4,24,7,Calibri,7.0,476.0,611.3,479.8,618.3,- 
+4,24,8,Calibri,7.0,502.7,608.1,514.9,615.0,500 
+4,25,0,Calibri-Bold,7.0,77.7,626.8,152.7,633.8,At least basic digital skills 
+4,25,1,Calibri,7.0,241.9,626.8,260.8,633.8,72.9% 
+4,25,2,Calibri,7.0,283.8,626.8,287.5,633.8,- 
+4,25,3,Calibri,7.0,324.9,626.8,328.6,633.8,- 
+4,25,4,Calibri,7.0,365.2,626.8,369.0,633.8,- 
+4,25,5,Calibri,7.0,404.7,626.8,408.5,633.8,- 
+4,25,6,Calibri,7.0,442.3,626.8,446.0,633.8,- 
+4,25,7,Calibri,7.0,468.5,626.8,487.4,633.8,80.0% 
+4,25,8,Calibri,7.0,501.9,623.6,515.7,630.5,80% 
+4,26,0,Calibri-Bold,7.0,77.7,642.3,119.4,649.2,ICT specialists 
+4,26,1,Calibri,7.0,243.5,642.3,259.0,649.2,6.2% 
+4,26,2,Calibri,7.0,277.9,642.3,293.4,649.2,6.3% 
+4,26,3,Calibri,7.0,319.0,642.3,334.5,649.2,1.6% 
+4,26,4,Calibri,7.0,359.4,642.3,374.8,649.2,7.5% 
+4,26,5,Calibri,7.0,398.9,642.3,414.4,649.2,5.0% 
+4,26,6,Calibri,7.0,436.4,642.3,451.9,649.2,4.2% 
+4,26,7,Calibri,7.0,470.1,642.3,485.6,649.2,9.6% 
+4,26,8,Calibri,7.0,500.1,639.0,517.3,646.0,~10% 
+4,27,0,Calibri-Bold,7.0,77.7,657.8,147.9,664.7,eID scheme notification 
+4,27,1,Calibri,7.0,250.5,655.5,252.1,662.4, 
+4,27,2,Calibri,7.0,280.7,657.8,290.5,664.7,No 
+4,27,3,Calibri,7.0,326.0,655.5,327.6,662.4, 
+4,27,4,Calibri,7.0,366.3,655.5,367.9,662.4, 
+4,27,5,Calibri,7.0,405.8,655.5,407.4,662.4, 
+4,27,6,Calibri,7.0,443.4,655.5,445.0,662.4, 
+4,27,7,Calibri,7.0,477.1,655.5,478.7,662.4, 
+4,28,0,Calibri-Bold,7.0,77.7,673.2,174.9,680.2,Digital public services for citizens 
+4,28,1,Calibri,7.0,244.4,673.2,258.3,680.2,81.2 
+4,28,2,Calibri,7.0,278.7,673.2,292.6,680.2,87.1 
+4,28,3,Calibri,7.0,319.0,673.2,334.5,680.2,7.2% 
+4,28,4,Calibri,7.0,360.2,673.2,374.1,680.2,82.0 
+4,28,5,Calibri,7.0,399.6,673.2,413.5,680.2,82.3 
+4,28,6,Calibri,7.0,436.4,673.2,451.9,680.2,3.6% 
+4,28,7,Calibri,7.0,469.2,673.2,486.7,680.2,100.0 
+4,28,8,Calibri,7.0,502.7,673.2,514.9,680.2,100 
+4,29,0,Calibri-Bold,7.0,77.7,688.8,184.6,695.8,Digital public services for businesses 
+4,29,1,Calibri,7.0,242.6,688.8,260.1,695.8,100.0 
+4,29,2,Calibri,7.0,276.9,688.8,294.4,695.8,100.0 
+4,29,3,Calibri,7.0,319.0,688.8,334.5,695.8,0.0% 
+4,29,4,Calibri,7.0,358.4,688.8,375.9,695.8,100.0 
+4,29,5,Calibri,7.0,399.6,688.8,413.5,695.8,86.2 
+4,29,6,Calibri,7.0,436.4,688.8,451.9,695.8,0.9% 
+4,29,7,Calibri,7.0,469.2,688.8,486.7,695.8,100.0 
+4,29,8,Calibri,7.0,502.7,688.8,514.9,695.8,100 
+4,30,0,Calibri-Bold,7.0,77.7,704.7,155.8,711.6,Access to e-Health records 
+4,30,1,Calibri,7.0,244.4,704.7,258.3,711.6,11.4 
+4,30,2,Calibri,7.0,278.7,704.7,292.6,711.6,24.5 
+4,30,3,Calibri,7.0,315.4,704.7,338.0,711.6,115.8% 
+4,30,4,Calibri,7.0,365.2,704.7,369.0,711.6,- 
+4,30,5,Calibri,7.0,399.6,704.7,413.5,711.6,82.7 
+4,30,6,Calibri,7.0,436.4,704.7,451.9,711.6,4.5% 
+4,30,7,Calibri,7.0,471.0,704.7,484.9,711.6,80.0 
+4,30,8,Calibri,7.0,502.7,704.7,514.9,711.6,100 
+4,31,0,Calibri,7.0,77.7,717.9,326.5,724.8,(1) See the methodological note for the description of the indicators and other metrics. 
+4,31,1,Calibri,7.0,77.7,726.4,519.0,733.4,"(2) DESI 2025 reports Version 4 of the Digital Intensity Index, which is comparable with the DII value from DESI 2023 (referring to year 2022) for the calculation "
+4,31,2,Calibri,7.0,77.7,734.9,382.8,741.9,"of annual progress. It is not comparable to the national trajectory, which is based on Version 3 of the index. "
+4,31,3,Calibri,7.0,77.7,743.6,427.9,750.5,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI 2025 (year 2024). 
+4,31,4,Calibri,11.0,72.0,753.8,74.5,764.9, 
+4,32,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,32,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+5,3,0,Calibri-Bold,11.0,72.0,84.0,373.9,95.1,According to the 2025 special Eurobarometer on the Digital Decade
+5,3,0,Calibri,11.0,374.0,84.0,525.9,95.1,", 77% of Irish people consider that "
+5,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,the digitalisation of daily public and private services is making their lives easier. On the action of the 
+5,3,2,Calibri,11.0,72.0,112.9,525.6,124.0,"public authorities, 92% consider it important to counter and mitigate the issue of fake news and "
+5,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"disinformation online. And on competitiveness, 93% consider it important to ensure that European "
+5,3,4,Calibri,11.0,72.0,142.0,464.6,153.0,companies can grow and become ‘European Champions’ capable of competing globally. 
+5,4,0,Calibri-Light,15.0,72.0,165.3,526.8,180.3,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,192.1,525.9,203.2,"Ireland’s strong digital economy, driven by a dynamic ICT sector and a vibrant start-up ecosystem, "
+5,5,1,Calibri,11.0,72.0,206.7,525.7,217.7,benefits from high foreign direct investment and proactive innovation policies. Fixed infrastructure 
+5,5,2,Calibri,11.0,72.0,221.2,525.7,232.2,"indicators (VHCN, fibre to the premises (FTTP)) are above the EU average, and Ireland is consolidating "
+5,5,3,Calibri,11.0,72.0,235.7,525.7,246.8,"its role as a strategic digital gateway. 5G deployment continues steadily, although deployments in the "
+5,5,4,Calibri,11.0,72.0,250.1,525.6,261.2,3.6 GHz band remain limited and there is a lack of demand for spectrum in the 26 GHz band. Ireland 
+5,5,5,Calibri,11.0,72.0,264.6,525.9,275.7,"maintains a high level of SME digitalisation, but growth has been stagnating since 2022. Nevertheless, "
+5,5,6,Calibri,11.0,72.0,279.2,525.6,290.2,"the uptake of advanced technologies, such as cloud, AI, and data analytics, remains strong. National "
+5,5,7,Calibri,11.0,72.0,293.7,525.6,304.7,"strategies on semiconductors, edge computing, and quantum technologies advance the country's "
+5,5,8,Calibri,11.0,72.0,308.1,525.8,319.1,"technological leadership. Moreover, cybersecurity resilience is being strengthened through targeted "
+5,5,9,Calibri,11.0,72.0,322.6,318.4,333.6,initiatives across enterprises and critical infrastructure. 
+5,6,0,Calibri-Light,15.0,72.0,346.0,379.5,361.0,Protecting and empowering EU people and society 
+5,7,0,Calibri,11.0,72.0,372.9,525.9,383.9,"Ireland continues to perform strongly on digital skills and gender inclusion, with one of the narrowest "
+5,7,1,Calibri,11.0,72.0,387.4,525.9,398.4,"rural-urban divides in the EU. However, significant disparities persist across education levels. Growth "
+5,7,2,Calibri,11.0,72.0,401.9,525.9,413.0,"in the number of ICT workers remains modest, and a decline in employer-led training may undermine "
+5,7,3,Calibri,11.0,72.0,416.3,525.9,427.4,"long-term readiness. Digital public services are a national strength, particularly for businesses, but "
+5,7,4,Calibri,11.0,72.0,430.9,525.9,441.9,further back-end integration is needed to improve efficiency and accessibility. Ireland advanced its eID 
+5,7,5,Calibri,11.0,72.0,445.4,525.8,456.4,"roll-out and digital health strategy in 2024; however, access to electronic health records remains "
+5,7,6,Calibri,11.0,72.0,459.9,525.7,470.9,"limited, and onboarding healthcare providers is at an early stage. Progress on online safety, media "
+5,7,7,Calibri,11.0,72.0,474.3,523.5,485.4,"regulation, and electoral integrity accelerated, strengthening Ireland’s commitment to a human-"
+5,7,8,Calibri,11.0,72.0,488.8,525.9,499.9,"centric and trusted digital environment. Complementary tools provided by the national regulator, "
+5,7,9,Calibri,11.0,72.0,503.3,525.9,514.4,"including broadband availability checkers, telecom comparison platforms, and anti-scam measures, "
+5,7,10,Calibri,11.0,72.0,517.9,360.6,528.9,further support digital empowerment and consumer protection. 
+5,8,0,Calibri-Light,15.0,72.0,541.2,399.0,556.2,Leveraging digital transformation for a smart greening 
+5,9,0,Calibri,11.0,72.0,568.1,525.7,579.1,"Ireland is strengthening the link between digital innovation and sustainability, with public strategies "
+5,9,1,Calibri,11.0,72.0,582.6,525.9,593.6,"promoting energy-efficient infrastructure, green procurement, and support to SMEs’ sustainable "
+5,9,2,Calibri,11.0,72.0,597.1,525.9,608.1,"adoption of digital technologies. Projects, like Build Digital, and the Digital Transition Fund are "
+5,9,3,Calibri,11.0,72.0,611.6,525.8,622.7,"advancing the decarbonisation of key sectors, and new policies encourage environmental criteria in "
+5,9,4,Calibri,11.0,72.0,626.0,525.9,637.1,"ICT and construction. However, the absence of a unified system to monitor emissions reductions with "
+5,9,5,Calibri,11.0,72.0,640.5,525.9,651.6,digital solutions is still an issue. Green skills development has also been prioritised to ensure workers 
+5,9,6,Calibri,11.0,72.0,655.1,224.2,666.1,are ready for the twin transitions. 
+5,10,0,Calibri-Light,15.0,72.0,678.4,328.3,693.4,National Digital Decade strategic roadmap 
+5,11,0,Calibri,11.0,72.0,705.3,525.9,716.4,Ireland submitted its adjusted Digital Decade strategic roadmap in November 2024. It expands the 
+5,11,1,Calibri,11.0,72.0,719.8,525.9,730.8,"total number of measures to 81, including 22 new initiatives, with a total budget of EUR 9.2 billion, of "
+5,11,2,Calibri,11.0,72.0,734.3,525.9,745.3,which EUR 4.8 billion is from the public budget (equivalent to 0.90% of GDP). Maintaining its original 
+5,11,3,Calibri,11.0,72.0,748.8,525.8,759.8,"structure and funding priorities, the roadmap confirms Ireland’s strong focus on SME digitalisation, "
+5,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+6,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"public service digitalisation, digital skills, and cybersecurity. Although no new national targets were "
+6,3,1,Calibri,11.0,72.0,98.4,525.6,109.5,"introduced, Ireland reiterated its commitment to gigabit coverage by 2028 and sustained investment "
+6,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"in digital inclusion and connectivity. Based on the national strategy, Harnessing Digital, the roadmap "
+6,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"continues to prioritise digital infrastructure, digital skills, cybersecurity, and support for innovation and "
+6,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"scale-ups. All targets align with the EU's 2030 goals, except the one access to e-Health records (80% "
+6,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,compared to the EU objective of 100%). Ireland has made some efforts to follow up the 2024 roadmap 
+6,3,6,Calibri,11.0,72.0,170.9,350.3,181.9,recommendations through new policy measures and updates. 
+6,4,0,Calibri-Light,15.0,72.0,194.3,249.8,209.3,Funding & projects for digital 
+6,5,0,Calibri,11.0,72.0,221.2,463.7,232.2,Ireland allocates 34% of its total recovery and resilience plan to digital (EUR 312 million)
+6,5,0,Calibri,7.0,463.7,220.3,467.2,227.2,1
+6,5,0,Calibri,11.0,467.1,221.2,525.9,232.2,". In addition, "
+6,5,1,Calibri,11.0,72.0,235.7,525.7,246.8,"under cohesion policy, EUR 54 million, representing 5% of the country’s total cohesion policy funding, "
+6,5,2,Calibri,11.0,72.0,250.1,324.4,261.2,is dedicated to advancing Ireland’s digital transformation
+6,5,2,Calibri,7.0,324.4,249.2,328.0,256.2,2
+6,5,2,Calibri,11.0,327.9,250.1,330.7,261.2,.
+6,5,2,Calibri,7.0,330.7,249.2,332.2,256.2, 
+6,6,0,Calibri,11.0,72.0,272.7,525.9,283.7,Ireland is a member of the Alliance for Language Technologies European Digital Infrastructure 
+6,6,1,Calibri,11.0,72.0,287.2,525.7,298.2,Consortium (EDIC) and of the Local Digital Twins towards the CitiVERSE EDIC. Ireland is directly 
+6,6,2,Calibri,11.0,72.0,301.6,525.9,312.6,participating in the Important Project of Common European Interest on Microelectronics and 
+6,6,3,Calibri,11.0,72.0,316.1,525.8,327.2,Communication Technologies (IPCEI-ME/CT). It is also a participating state of the EuroHPC Joint 
+6,6,4,Calibri,11.0,72.0,330.6,240.1,341.7,Undertaking (JU) and of the Chips JU. 
+6,7,0,Calibri,11.0,72.0,353.1,401.3,364.1,Ireland has contributed to the Digital Decade’s Best Practice Accelerator
+6,7,0,Calibri,6.5,401.4,353.0,404.7,359.5,3
+6,7,0,Calibri,11.0,404.6,353.1,525.9,364.1," by sharing four practices, "
+6,7,1,Calibri,11.0,72.0,367.6,525.9,378.6,"including three in the Digital Skills cluster (SuCcES, INGENIC, and TU Dublin’s mentoring model for "
+6,7,2,Calibri,11.0,72.0,382.1,525.8,393.2,women in ICT) and one on the green transition (Build Digital). These initiatives reflect Ireland’s strategic 
+6,7,3,Calibri,11.0,72.0,396.7,330.3,407.7,"focus on skills, innovation, and sustainable infrastructure. "
+6,8,0,Calibri-Light,15.0,72.0,420.0,238.3,435.0,Digital rights and principles 
+6,9,0,Calibri,11.0,72.0,446.8,475.9,457.9,"According to a monitoring study, Ireland has been relatively active in implementing the"
+6,9,0,Calibri-Bold,11.0,475.9,446.8,478.4,457.9, 
+6,9,0,Calibri-Bold,11.0,479.9,446.8,525.9,457.9,European 
+6,9,1,Calibri-Bold,11.0,72.0,461.3,268.1,472.4,Declaration on Digital Rights and Principles
+6,9,1,Calibri,11.0,268.2,461.3,525.8,472.4,", with 89 initiatives overall and 4 new initiatives launched "
+6,9,2,Calibri,11.0,72.0,475.9,525.8,486.9,"in 2024. Ireland is most active in the area of digital education, training and skills. Less activity has been "
+6,9,3,Calibri,11.0,72.0,490.4,525.9,501.4,identified with regards to a fair digital environment and sustainability. Measures in the area of putting 
+6,9,4,Calibri,11.0,72.0,504.8,525.7,515.8,"people at the centre of the digital transformation appear to have most impact on the ground, in "
+6,9,5,Calibri,11.0,72.0,519.3,290.1,530.3,contrast to those addressing freedom of choice.  
+6,10,0,Calibri-Bold,11.0,77.7,542.3,165.4,553.4,Recommendations 
+6,11,0,Calibri,11.0,77.7,559.8,81.0,570.8,-
+6,11,0,ArialMT,11.0,81.0,558.1,84.1,570.4, 
+6,11,1,Calibri-Bold,11.0,95.7,559.8,134.9,570.8,e-Health
+6,11,1,Calibri,11.0,134.9,559.8,535.2,570.8,: Accelerate the onboarding of healthcare providers and enable full access to electronic 
+6,11,2,Calibri,11.0,95.7,574.3,535.4,585.3,"health records for everyone, including legal guardians and authorised persons, building on the "
+6,11,3,Calibri,11.0,95.7,588.8,341.8,599.9,implementation of the national Digital Health Strategy. 
+6,12,0,Calibri,11.0,77.7,606.3,81.0,617.4,-
+6,12,0,ArialMT,11.0,81.0,604.6,84.1,616.9, 
+6,12,1,Calibri-Bold,11.0,95.7,606.3,192.4,617.4,Artificial intelligence
+6,12,1,Calibri,11.0,192.4,606.3,535.4,617.4,: Continue to support applied AI innovation and skills development to 
+6,12,2,Calibri,11.0,95.7,620.9,535.5,631.9,"strengthen Ireland’s leadership in responsible, human-centric AI and accelerate its adoption by "
+6,12,3,Calibri,11.0,95.7,635.3,125.0,646.3,SMEs. 
+6,13,0,Calibri,11.0,216.1,656.4,218.5,667.4, 
+6,13,1,Calibri,6.0,72.0,669.2,75.1,675.2,1
+6,13,1,Calibri,9.0,75.0,669.4,524.9,678.4, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,13,2,Calibri,9.0,72.0,680.5,313.5,689.5,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,13,3,Calibri,6.0,72.0,691.2,75.1,697.2,2
+6,13,3,Calibri,9.0,75.0,691.5,523.2,700.5, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,13,4,Calibri,9.0,72.0,702.4,525.0,711.4,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,13,5,Calibri,9.0,72.0,713.5,315.5,722.5,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,13,6,Calibri,6.0,72.0,724.3,75.1,730.3,3
+6,13,6,Calibri,9.0,75.0,724.5,525.1,733.5, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,13,7,Calibri,9.0,72.0,736.3,525.5,745.3,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,13,8,Calibri,9.0,72.0,748.2,525.2,757.2,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,13,9,Calibri,9.0,72.0,760.0,248.5,769.0,"Green IT, and the Uptake of Digital Technologies."
+6,13,9,Calibri,11.0,248.7,758.5,251.2,769.6, 
+6,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+7,2,0,Calibri,11.0,77.7,84.5,81.0,95.5,-
+7,2,0,ArialMT,11.0,81.0,82.8,84.1,95.1, 
+7,2,1,Calibri-Bold,11.0,95.7,84.5,158.1,95.5,Cybersecurity
+7,2,1,Calibri,11.0,158.2,84.5,535.5,95.5,": Strengthen efforts to address evolving threats, particularly for SMEs and public "
+7,2,2,Calibri,11.0,95.7,99.0,136.4,110.1,services. 
+7,4,0,Calibri,11.0,77.7,116.4,81.0,127.5,-
+7,4,0,ArialMT,11.0,81.0,114.7,84.1,127.0, 
+7,4,1,Calibri-Bold,11.0,95.7,116.4,262.7,127.5,ICT specialists and advanced skills
+7,4,1,Calibri,11.0,262.9,116.4,535.5,127.5,: make digital training and reskilling opportunities more 
+7,4,2,Calibri,11.0,95.7,130.9,535.4,142.0,accessible and more relevant to job market needs. Address the stagnation in gender participation 
+7,4,3,Calibri,11.0,95.7,145.5,356.0,156.5,in the digital sector through dedicated national measures. 
+7,5,0,Calibri,11.0,77.7,163.0,81.0,174.0,-
+7,5,0,ArialMT,11.0,81.0,161.3,84.1,173.6, 
+7,5,1,Calibri-Bold,11.0,95.7,163.0,260.7,174.0,Take-up of advanced technologies
+7,5,1,Calibri,11.0,260.8,163.0,535.4,174.0,: Support the adoption of advanced digital technologies 
+7,5,2,Calibri,11.0,95.7,177.4,535.4,188.4,(particularly AI and cloud) by businesses through the creation of regional ecosystems and industrial 
+7,5,3,Calibri,11.0,95.7,191.9,399.5,202.9,use-case pilots. Encourage the use of sovereign European solutions. 
+7,6,0,Calibri,11.0,77.7,209.4,81.0,220.5,-
+7,6,0,ArialMT,11.0,81.0,207.7,84.1,220.0, 
+7,6,1,Calibri-Bold,11.0,95.7,209.4,120.2,220.5,SMEs
+7,6,1,Calibri,11.0,120.3,209.4,535.5,220.5,": Improve the digitalisation of SMEs, including by prioritising support to those with lower "
+7,6,2,Calibri,11.0,95.7,223.9,535.4,235.0,"levels of digital maturity, regardless of their size. Ensure the continuity of existing schemes beyond "
+7,6,3,Calibri,11.0,95.7,238.4,213.7,249.4,their current RRF funding. 
+7,7,0,Calibri,11.0,77.7,255.9,81.0,266.9,-
+7,7,0,ArialMT,11.0,81.0,254.2,84.1,266.5, 
+7,7,1,Calibri-Bold,11.0,95.7,255.9,108.3,266.9,5G
+7,7,1,Calibri,11.0,108.3,255.9,533.2,266.9,: Encourage the assignment of 5G mid-band spectrum and promote the deployment of stand-
+7,7,2,Calibri,11.0,95.7,270.4,477.7,281.5,"alone 5G networks and industrial use cases, including in rural and underserved areas. "
+7,8,0,Calibri,11.0,77.7,287.9,81.0,299.0,-
+7,8,0,ArialMT,11.0,81.0,286.2,84.1,298.5, 
+7,8,1,Calibri-Bold,11.0,95.7,287.9,114.2,299.0,eID:
+7,8,1,Calibri,11.0,114.1,287.9,429.0,299.0, Notify an eID scheme under the eIDAS Regulation to the Commission. 
+7,9,0,Calibri,11.0,72.0,305.8,74.5,316.8, 
+7,9,1,Calibri-Bold,11.0,216.1,305.8,218.5,316.8, 
+7,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,525.7,171.5,"Ireland’s economy is characterised by a strong performance in several sectors, particularly "
+8,4,1,Calibri-Bold,11.0,72.0,175.0,491.9,186.0,"technology and pharmaceuticals, which are largely driven by foreign direct investments (FDI)"
+8,4,1,Calibri,11.0,492.0,175.0,525.9,186.0,. These 
+8,4,2,Calibri,11.0,72.0,189.5,525.9,200.5,investments have positioned Ireland as a major player in digital markets. The country’s GDP growth 
+8,4,3,Calibri,11.0,72.0,203.9,525.8,214.9,"was forecast to be around 3.3% in 2025, indicating a robust economic environment conducive to "
+8,4,4,Calibri,11.0,72.0,218.4,265.9,229.5,maintaining and boosting competitiveness. 
+8,5,0,Calibri-Bold,11.0,72.0,241.0,514.1,252.0,"Ireland has a significant footprint in the global digital economy, particularly in high-tech sectors."
+8,5,0,Calibri,11.0,514.1,241.0,525.9,252.0, It 
+8,5,1,Calibri,11.0,72.0,255.4,458.6,266.5,holds substantial market activity in information and communication technologies (ICT)
+8,5,1,Calibri,7.0,458.7,254.5,462.3,261.5,4
+8,5,1,Calibri,11.0,462.2,255.4,525.9,266.5,. The Irish ICT 
+8,5,2,Calibri,11.0,72.0,269.9,525.9,281.0,"sector represented 34.8% of the gross value added of the country in 2022, by far the highest share in "
+8,5,3,Calibri,11.0,72.0,284.4,103.8,295.5,the EU
+8,5,3,Calibri,7.0,103.7,283.5,107.2,290.5,5
+8,5,3,Calibri,11.0,107.2,284.4,525.9,295.5,". The presence of multinational enterprises heavily influences this sector, benefiting from "
+8,5,4,Calibri,11.0,72.0,299.0,349.0,310.0,Ireland’s favourable corporate tax rates and skilled workforce. 
+8,6,0,Calibri-Bold,11.0,72.0,321.4,525.9,332.5,"Despite its strengths, Ireland faces challenges in public investment in R&D, which remains relatively "
+8,6,1,Calibri-Bold,11.0,72.0,335.9,213.4,347.0,low compared to EU averages
+8,6,1,Calibri,11.0,213.5,335.9,525.7,347.0,". Nonetheless, the country has made significant strides in business "
+8,6,2,Calibri,11.0,72.0,350.4,525.9,361.5,"digitalisation, performing above the EU average in several digital areas. In particular, R&D business "
+8,6,3,Calibri,11.0,72.0,364.8,525.9,375.9,"expenditure in the ICT sector accounted for 42.98% of the total R&D expenditure in 2021, and the "
+8,6,4,Calibri,11.0,72.0,379.4,525.9,390.4,number of R&D personnel in the ICT sector as a percentage of the total number of R&D personnel was 
+8,6,5,Calibri,11.0,72.0,393.9,525.8,404.9,"44.65%. Ireland ranks as a ‘strong innovator’ in the European Innovation Scoreboard, with significant "
+8,6,6,Calibri,11.0,72.0,408.4,525.8,419.5,"performance in the private sector R&D, indicating a robust innovation ecosystem that is crucial for "
+8,6,7,Calibri,11.0,72.0,422.8,525.8,433.9,maintaining technological leadership. The Irish Government is updating its National Digital Strategy in 
+8,6,8,Calibri,11.0,72.0,437.3,525.6,448.4,"2025, to set out a coherent vision for Ireland’s ambition as a digital, AI and innovation leader; the "
+8,6,9,Calibri,11.0,72.0,451.9,471.1,462.9,revised Strategy will continue to align with the Digital Decade programme and its targets. 
+8,7,0,Calibri-Bold,11.0,72.0,474.3,525.5,485.4,"Ireland is advancing in AI, with increased adoption rates and initiatives to support digital "
+8,7,1,Calibri-Bold,11.0,72.0,488.8,182.2,499.9,transformation in SMEs.
+8,7,1,Calibri,11.0,182.3,488.8,525.9,499.9, This includes funding from national initiatives and participation in European 
+8,7,2,Calibri,11.0,72.0,503.3,525.6,514.4,"Digital Innovation Hubs, which are vital for fostering an environment conducive to technological "
+8,7,3,Calibri,11.0,72.0,517.9,219.5,528.9,innovation and competitiveness. 
+8,8,0,Calibri-Bold,11.0,72.0,540.3,502.8,551.3,"The start-up ecosystem in Ireland is vibrant, with a growing number of start-ups and unicorns."
+8,8,0,Calibri,11.0,502.9,540.3,525.9,551.3, This 
+8,8,1,Calibri,11.0,72.0,554.8,525.7,565.9,sector benefits from proactive governmental policies and a supportive business environment that 
+8,8,2,Calibri,11.0,72.0,569.4,278.3,580.4,encourages innovation and entrepreneurship. 
+8,9,0,Calibri-Bold,11.0,72.0,591.8,525.9,602.9,"Digital infrastructure in Ireland is well-developed, with high rates of digital service use among "
+8,9,1,Calibri-Bold,11.0,72.0,606.3,182.6,617.4,citizens and businesses.
+8,9,1,Calibri,11.0,182.7,606.3,525.9,617.4, This includes a leading role in digital public services for businesses and a 
+8,9,2,Calibri,11.0,72.0,620.7,360.1,631.8,strong push towards using digital IDs and digital credentials
+8,9,2,Calibri,7.0,360.1,619.8,363.6,626.8,6
+8,9,2,Calibri,11.0,363.5,620.7,525.8,631.8,". However, the country still faces "
+8,9,3,Calibri,11.0,72.0,635.3,525.8,646.3,"challenges, such as the need for greater access to e-Health records, indicating areas where further "
+8,9,4,Calibri,11.0,72.0,649.8,330.0,660.8,improvement could boost overall digital competitiveness. 
+8,10,0,Calibri,11.0,72.0,672.2,74.5,683.3, 
+8,11,0,Calibri,11.0,216.1,723.6,218.5,734.6, 
+8,11,1,Calibri,6.0,72.0,734.7,75.1,740.7,4
+8,11,1,Calibri,9.0,75.0,735.0,335.2,744.0, The Economist Intelligence Unit. (2025). EIU One-Click Report: Ireland. 
+8,11,2,Calibri,6.0,72.0,743.5,75.1,749.5,5
+8,11,2,Calibri,9.0,75.0,743.7,525.1,752.7, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,11,3,Calibri,9.0,72.0,752.5,233.0,761.5,the State of the Digital Decade report 2025. 
+8,11,4,Calibri,6.0,72.0,761.1,75.1,767.1,6
+8,11,4,Calibri,9.0,75.0,761.4,455.7,770.4, European Commission. (2025). European Semester Annex on Effective Institutional Framework: Ireland. 
+8,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+9,2,0,Calibri-Light,15.0,72.0,84.9,509.7,99.9,Building technological leadership: digital infrastructure and technologies 
+9,4,0,Calibri,11.0,72.0,111.7,525.7,122.8,"Ireland continues to expand its digital infrastructure in line with EU connectivity targets, showing "
+9,4,1,Calibri,11.0,72.0,126.3,525.8,137.3,"strong progress in FTTP and VHCN coverage and moderate progress in 5G, particularly in rural areas. "
+9,4,2,Calibri,11.0,72.0,140.8,454.6,151.8,These efforts underpin broader ambitions in technological sovereignty and resilience. 
+9,5,0,Calibri-Light,12.0,72.0,163.5,203.2,175.5,Connectivity infrastructure 
+9,6,0,Calibri-Bold,11.0,72.0,187.0,525.8,198.0,"Ireland’s VHCN coverage reached 87.2% in 2024 (2030 national target: 100%), surpassing the EU "
+9,6,1,Calibri-Bold,11.0,72.0,201.5,525.9,212.5,"average of 82.5% and with a strong annual growth rate of 11.0%. However, the country remains "
+9,6,2,Calibri-Bold,11.0,72.0,216.0,203.2,227.1,below its national trajectory.
+9,6,2,Calibri,11.0,203.3,216.0,496.0,227.1, Rural coverage (72.19%) also exceeded the EU average (61.89%). 
+9,7,0,Calibri-Bold,11.0,72.0,238.5,523.4,249.5,"FTTP coverage increased significantly, reaching 73.48% in 2024, above the EU average of 69.24%,"
+9,7,0,Calibri,11.0,523.4,238.5,525.9,249.5, 
+9,7,1,Calibri-Bold,11.0,72.0,253.0,247.2,264.0,with an annual growth rate of 19.3%
+9,7,1,Calibri,11.0,247.2,253.0,525.8,264.0,". Coverage in sparsely populated areas also rose to 72.11%, "
+9,7,2,Calibri,11.0,72.0,267.5,525.8,278.6,outperforming the EU average of 58.78%. The rural annual growth rate of 27.2% confirms strong 
+9,7,3,Calibri,11.0,72.0,282.0,412.9,293.1,momentum. The country did not provide a national trajectory point for 2024
+9,7,3,Calibri,7.0,413.0,281.1,416.5,288.1,7
+9,7,3,Calibri,11.0,416.5,282.0,421.8,293.1,. 
+9,8,0,Calibri-Bold,11.0,72.0,304.5,525.8,315.5,"Ireland’s 5G coverage rose to 89.94% in 2024, still below the EU average of 94.35%, with a modest "
+9,8,1,Calibri-Bold,11.0,72.0,319.0,457.4,330.0,annual increase of 5.4%. The country is on track according to its national trajectory.
+9,8,1,Calibri,11.0,457.7,319.0,525.9,330.0, Ireland took a 
+9,8,2,Calibri,11.0,72.0,333.4,525.6,344.4,"significant step forward in late 2022 through the Multi Band Spectrum Award, which allocated 465 "
+9,8,3,Calibri,11.0,72.0,347.9,525.8,359.0,"MHz of spectrum—a 46% increase in total assignments—across the 700 MHz, 2.1 GHz, 2.3 GHz, and "
+9,8,4,Calibri,11.0,72.0,362.4,525.6,373.5,"2.6 GHz bands. Each of the three mobile network operators (Eir, Three, and Vodafone) received more "
+9,8,5,Calibri,11.0,72.0,377.0,525.9,388.0,than 100 MHz of mid-band spectrum. These licences come with robust population-based coverage 
+9,8,6,Calibri,11.0,72.0,391.4,525.8,402.4,"obligations to be met progressively between 2026 and 2030.In rural areas, coverage reached 76.37%, "
+9,8,7,Calibri,11.0,72.0,405.9,525.7,416.9,"lagging behind the EU’s 79.57%, but Ireland’s annual growth rate of 22.6% nearly doubled the EU’s "
+9,8,8,Calibri,11.0,72.0,420.4,525.9,431.5,"11.9%, signalling targeted rural acceleration. However, 5G deployment in the strategic 3.4-3.8 GHz "
+9,8,9,Calibri,11.0,72.0,434.9,525.9,446.0,"band remains low: total coverage rose to 58.83% (3.8%), below the EU’s 67.72%, with national "
+9,8,10,Calibri,11.0,72.0,449.5,525.9,460.5,"authorities reporting insufficient demand. In rural areas, this band reached 18.48% coverage, growing "
+9,8,11,Calibri,11.0,72.0,463.9,525.9,474.9,"by 75.8% but still below the EU average of 26.19%, highlighting the need for further spectrum-based "
+9,8,12,Calibri,11.0,72.0,478.4,104.9,489.4,action. 
+9,9,0,Calibri-Bold,11.0,72.0,500.8,405.5,511.9,Indicators on Ireland’s broadband take-up show a mixed performance.
+9,9,0,Calibri,11.0,405.6,500.8,525.8,511.9," In 2024, 69.05% of fixed "
+9,9,1,Calibri,11.0,72.0,515.3,525.8,526.4,"broadband subscriptions were faster than 100 Mbps, slightly below the EU average of 71.88%, but "
+9,9,2,Calibri,11.0,72.0,529.9,525.9,540.9,Ireland’s annual growth rate (13.1%) outpaced the EU’s (9.1%). The share of subscriptions to speeds 
+9,9,3,Calibri,11.0,72.0,544.4,525.6,555.4,"faster than 1 Gbps stood at 13.2%, well below the EU average of 22.25%, yet grew rapidly at 39.2%, "
+9,9,4,Calibri,11.0,72.0,558.8,525.9,569.9,"nearly double the EU’s 20.5%, suggesting significant demand potential. As fibre roll-out accelerates, "
+9,9,5,Calibri,11.0,72.0,573.3,525.8,584.4,"especially in rural areas, 1 Gbps take-up is expected to rise. The National Broadband Plan (NBP) "
+9,9,6,Calibri,11.0,72.0,587.9,525.9,598.9,"continues to drive progress: by end-2024, over 111,000 premises had been connected, with more than "
+9,9,7,Calibri,11.0,72.0,602.4,525.8,613.4,"326,000 premises (58% of the intervention area) able to order or pre-order a connection. Over 46,000 "
+9,9,8,Calibri,11.0,72.0,616.9,493.0,627.9,"new premises were connected in 2024 alone, and NBP adoption is running ahead of schedule. "
+9,10,0,Calibri-Bold,11.0,72.0,639.3,414.6,650.4,Ireland’s 5G SIM penetration grew from 24.43% in 2023 to 31.97% in 2024. 
+9,10,0,Calibri,11.0,414.9,639.3,525.9,650.4,Despite being above the 
+9,10,1,Calibri,11.0,72.0,653.9,525.8,664.9,"EU average in 2023, it fell behind the EU average of 35.56% in 2024. Moreover, Ireland’s annual growth "
+9,11,0,Calibri,11.0,216.1,697.2,218.5,708.2, 
+9,11,1,Calibri,6.0,72.0,708.3,75.1,714.3,7
+9,11,1,Calibri,9.0,75.0,708.5,525.0,717.5," Due to improved data availability and additional analysis, Ireland has provided detailed new data for the year 2024. The "
+9,11,2,Calibri,9.0,72.0,717.3,525.5,726.3,"data for 2024 is more accurate given this improved data availability, but the change in approach has resulted in a decrease in "
+9,11,3,Calibri,9.0,72.0,726.2,525.2,735.2,FTTP coverage and only a very minor increase in Fixed VHCN coverage for the year 2024 vs what was previously published in 
+9,11,4,Calibri,9.0,72.0,735.0,525.5,744.0,this report for the year 2023. This is due to differences in the calculation methodologies and data sources used by Comreg vs 
+9,11,5,Calibri,9.0,72.0,743.7,525.2,752.7,the calculation methodologies and data sources used in previous years where the figures were estimated using data collected 
+9,11,6,Calibri,9.0,72.0,752.5,525.5,761.5,directly from operators. To mitigate the impact of the change in approach and provide a more accurate insight into the actual 
+9,11,7,Calibri,9.0,72.0,761.4,429.2,770.4,"year-on-year changes that have occurred, Ireland have provided revised figures for the year 2023. "
+9,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+10,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"rate (30.9%) lagged behind the EU’s 63.9%, indicating a relative slowdown in 5G adoption momentum "
+10,2,1,Calibri,11.0,72.0,98.4,438.2,109.5,that could reflect either market saturation or bottlenecks in commercial offerings. 
+10,3,0,Calibri-Light,11.0,72.0,121.0,143.4,132.0,VHCN and FTTP 
+10,5,0,Calibri-Bold,11.0,72.0,143.4,525.9,154.5,"Ireland’s VHCN and FTTP targets remain at 100% with a completion date set for 2028, as set out in "
+10,5,1,Calibri-Bold,11.0,72.0,157.9,254.2,169.0,the initial roadmap submitted in 2023. 
+10,5,1,Calibri,11.0,255.2,157.9,525.9,169.0,Based on the sustained growth rates recorded in 2024 and 
+10,5,2,Calibri,11.0,72.0,172.5,525.8,183.5,"coverage now exceeding EU averages in both total and rural segments, the targets are considered "
+10,5,3,Calibri,11.0,72.0,187.0,525.7,198.0,"realistic. It is therefore justified that the existing strategy, led by NBP, remains the primary measure, "
+10,5,4,Calibri,11.0,72.0,201.4,525.7,212.4,with no additional connectivity-related actions introduced in the roadmap adjustment. The NBP has 
+10,5,5,Calibri,11.0,72.0,215.9,525.8,226.9,"expanded its reach to all counties and now includes 10 island communities. In 2024 alone, more than "
+10,5,6,Calibri,11.0,72.0,230.4,421.4,241.5,"65 000 premises were connected, with over 205 000 premises passed to date. "
+10,6,0,Calibri,11.0,72.0,252.9,523.6,263.9,"While no copper switch-off has yet occurred in practice, Eircom’s intention to pursue copper switch-"
+10,6,1,Calibri,11.0,72.0,267.4,525.6,278.5,"off was first publicly expressed in 2021. Following industry engagement and public consultation, in "
+10,6,2,Calibri,11.0,72.0,281.9,525.9,293.0,"November 2023, ComReg (national regulatory authority) adopted a Copper Switch-Off (CSO) "
+10,6,3,Calibri,11.0,72.0,296.3,525.7,307.4,"framework, which Eircom must follow when decommissioning its regulated legacy network services. "
+10,6,4,Calibri,11.0,72.0,310.9,525.6,321.9,"In line with the ComReg Decision, the first step in the process of migration from legacy to modern "
+10,6,5,Calibri,11.0,72.0,325.4,525.9,336.4,"infrastructure is for Eircom to submit a Switch Off Proposal to ComReg for consideration and, if "
+10,6,6,Calibri,11.0,72.0,339.9,525.7,350.9,"appropriate, subsequent approval. On 12 May 2025, Eircom submitted such a proposal. Fibre "
+10,6,7,Calibri,11.0,72.0,354.4,525.8,365.4,"subscriptions continue to rise, particularly in areas where open-access infrastructure allows for "
+10,6,8,Calibri,11.0,72.0,368.8,289.6,379.9,increased competition and provider choice. The 
+10,6,8,Calibri,11.0,290.4,368.8,523.3,379.9,rollout of FTTP by National Broadband Ireland (NBI)
+10,6,8,Calibri,11.0,523.4,368.8,525.9,379.9, 
+10,6,9,Calibri,11.0,72.0,383.3,525.9,394.4,under the NBP has improved retail competition in rural areas. Recent data on broadband subscriptions 
+10,6,10,Calibri,11.0,72.0,397.9,245.2,408.9,indicates a fast-growing demand base. 
+10,7,0,Calibri,11.0,72.0,420.3,523.6,431.4,"There is currently no reported decline in network investment levels, but capacity challenges—"
+10,7,1,Calibri,11.0,72.0,434.8,525.9,445.9,particularly a shortage of skilled workers and local permitting delays—remain potential obstacles for 
+10,7,2,Calibri,11.0,72.0,449.3,525.7,460.4,"the last mile of rollout. The government’s continued coordination with stakeholders, including local "
+10,7,3,Calibri,11.0,72.0,463.7,490.9,474.8,"authorities and telecom providers, was a key success factor for sustaining rollout momentum. "
+10,8,0,Calibri,11.0,72.0,486.3,525.9,497.4,Ireland’s position as a strategic gateway for EU connectivity is further strengthened by the EU-funded 
+10,8,1,Calibri-Bold,11.0,72.0,500.8,205.9,511.9,PISCES subsea cable system
+10,8,1,Calibri,11.0,206.1,500.8,525.8,511.9,", which links Ireland with France, Spain and Portugal and enables "
+10,8,2,Calibri,11.0,72.0,515.2,525.7,526.3,"interconnection with global transatlantic networks. While not nationally managed, this infrastructure "
+10,8,3,Calibri,11.0,72.0,529.7,398.7,540.8,project contributes directly to EU digital sovereignty and resilience goals. 
+10,9,0,Calibri-Light,11.0,72.0,552.3,87.0,563.3,5G 
+10,10,0,Calibri-Bold,11.0,72.0,574.8,525.5,585.8,"Ireland’s 5G target remains at 100% population coverage by 2030, as set out in the initial roadmap "
+10,10,1,Calibri-Bold,11.0,72.0,589.3,153.9,600.3,submitted in 2023
+10,10,1,Calibri,11.0,154.0,589.3,525.9,600.3,". While 5G rollout is advancing, spectrum assignment at 3.6 GHz although available, "
+10,10,2,Calibri,11.0,72.0,603.8,525.7,614.9,is not receiving sufficient demand. The roadmap adjustment submitted in 2024 does not include new 
+10,10,3,Calibri,11.0,72.0,618.2,525.9,629.3,"dedicated measures for 5G deployment, relying instead on continued operator-led expansion and "
+10,10,4,Calibri,11.0,72.0,632.7,174.0,643.8,licensing frameworks.  
+10,11,0,Calibri,11.0,72.0,655.2,525.7,666.2,Ireland’s assignment of harmonised available spectrum in the 5G pioneer bands stood at 62.5% in 
+10,11,1,Calibri,11.0,72.0,669.7,525.9,680.7,"2025, unchanged since the previous year and significantly below the EU average of 74.63%. However, "
+10,11,2,Calibri,11.0,72.0,684.2,525.8,695.3,"focusing exclusively on pioneer bands (700 MHz, 3.6 GHz, and 26 GHz) does not provide a full picture "
+10,11,3,Calibri,11.0,72.0,698.7,525.6,709.8,"of spectrum assignment. In practice, 5G in Ireland is deployed across a broader range of bands, "
+10,11,4,Calibri,11.0,72.0,713.1,525.7,724.2,"including 700 MHz, 1800 MHz, 2100 MHz, 2.3 GHz, 2.6 GHz, and 3.6 GHz. The 26 GHz band, while part "
+10,11,5,Calibri,11.0,72.0,727.7,525.9,738.7,"of the EU-designated pioneer bands, remains unassigned due to a lack of demand by operators, rather "
+10,11,6,Calibri,11.0,72.0,742.2,525.9,753.2,"than policy or regulatory delay. This can be explained by coverage and technical limitations of the band, "
+10,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+11,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,such as shorter range and limited equipment availability which combined with Ireland’s relatively low 
+11,2,1,Calibri,11.0,72.0,98.4,528.3,109.5,"population density, discourages operators from investing in network deployment in that specific band.  "
+11,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,"Although rural deployment in the 3.6 GHz band grew strongly, overall coverage in this frequency range "
+11,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"remains limited. In parallel, Ireland has not yet launched or announced any national strategy for 5G "
+11,4,2,Calibri,11.0,72.0,149.9,444.3,160.9,"stand-alone core deployment or vertical-specific use cases, such as network slicing. "
+11,5,0,Calibri,11.0,72.0,172.5,525.7,183.5,"Despite these gaps, the country’s three main operators continued to expand 5G networks throughout "
+11,5,1,Calibri,11.0,72.0,187.0,160.2,198.0,2024. Government 
+11,5,1,Calibri-Bold,11.0,161.9,187.0,525.6,198.0,"stakeholders highlighted persistent challenges in planning processes, staffing "
+11,5,2,Calibri-Bold,11.0,72.0,201.4,218.0,212.4,"capacity, and backhaul delivery"
+11,5,2,Calibri,11.0,218.1,201.4,314.0,212.4,. These included the 
+11,5,2,Calibri-Bold,11.0,315.2,201.4,502.1,212.4,limited availability of skilled contractors
+11,5,2,Calibri,11.0,502.2,201.4,525.9,212.4,", the "
+11,5,3,Calibri-Bold,11.0,72.0,215.9,341.6,226.9,capacity of the market to deliver at the required scale
+11,5,3,Calibri,11.0,341.8,215.9,369.2,226.9,", and "
+11,5,3,Calibri-Bold,11.0,372.1,215.9,525.8,226.9,delays linked to local authority 
+11,5,4,Calibri-Bold,11.0,72.0,230.4,120.1,241.5,permitting
+11,5,4,Calibri,11.0,120.1,230.4,525.7,241.5,", particularly in rural and harder-to-reach areas. The absence of targeted state support or "
+11,5,5,Calibri,11.0,72.0,245.0,525.8,256.0,incentive mechanisms for advanced deployments may slow progress on industrial applications and 
+11,5,6,Calibri,11.0,72.0,259.4,203.3,270.4,rural densification over time. 
+11,6,0,Calibri,11.0,72.0,281.9,525.8,293.0,Ireland’s roll-out remains more market-driven and less supported by dedicated public incentives or 
+11,6,1,Calibri,11.0,72.0,296.3,525.9,307.4,"national vertical strategies. As a result, industrial use cases and 5G stand-alone development remain "
+11,6,2,Calibri,11.0,72.0,310.9,108.5,321.9,limited. 
+11,7,0,Calibri,11.0,72.0,333.4,525.6,344.4,Ireland’s 5G infrastructure is also subject to increasing scrutiny in terms of security and resilience. As 
+11,7,1,Calibri,11.0,72.0,347.8,203.5,358.9,more than one third of the 
+11,7,1,Calibri-Bold,11.0,205.5,347.8,479.7,358.9,EU’s digital infrastructure traffic is routed through Ireland
+11,7,1,Calibri,11.0,479.9,347.8,525.9,358.9,", national "
+11,7,2,Calibri,11.0,72.0,362.3,525.6,373.4,"authorities have intensified efforts to safeguard strategic telecom infrastructure. In particular, "
+11,7,3,Calibri,11.0,72.0,376.8,483.3,387.9,"coordination between the Department of Environment, Climate and Communications, the "
+11,7,3,Calibri-Bold,11.0,484.4,376.8,525.9,387.9,National 
+11,7,4,Calibri-Bold,11.0,72.0,391.4,173.9,402.4,Cyber Security Centre 
+11,7,4,Calibri,11.0,174.4,391.4,525.8,402.4,"(NCSC), and key telecom providers has focused on assessing systemic risk and "
+11,7,5,Calibri,11.0,72.0,405.8,525.7,416.8,ensuring the continuity of critical digital services. This includes both preventive cybersecurity 
+11,7,6,Calibri,11.0,72.0,420.3,525.6,431.4,measures and the physical protection of network assets. Given 5G’s central role in powering future 
+11,7,7,Calibri,11.0,72.0,434.8,222.0,445.9,"societal and economic functions, "
+11,7,7,Calibri-Bold,11.0,222.4,434.8,389.7,445.9,Ireland’s risk management approach
+11,7,7,Calibri,11.0,389.7,434.8,525.8,445.9, reflects the growing strategic 
+11,7,8,Calibri,11.0,72.0,449.3,323.6,460.4,importance of secure and resilient digital infrastructure. 
+11,8,0,Calibri,11.0,72.0,471.8,152.1,482.8,"Moreover, recent "
+11,8,0,Calibri-Bold,11.0,152.5,471.8,254.9,482.8,climate-related events
+11,8,0,Calibri,11.0,254.9,471.8,525.8,482.8,", particularly in the west of Ireland, have caused disruptions "
+11,8,1,Calibri,11.0,72.0,486.3,207.7,497.4,"to mobile services, triggering "
+11,8,1,Calibri-Bold,11.0,209.1,486.3,489.4,497.4,cross-sectoral engagement on natural disaster preparedness
+11,8,1,Calibri,11.0,489.6,486.3,525.9,497.4,. In the 
+11,8,2,Calibri,11.0,72.0,500.8,525.6,511.9,"case of the mobile networks, 84% of the network impacts were due to power loss. While some "
+11,8,3,Calibri,11.0,72.0,515.2,525.7,526.3,infrastructure was affected for the most part all such impacts were rectified quickly after power 
+11,8,4,Calibri,11.0,72.0,529.7,525.6,540.8,"restoration. Risk mitigation now forms part of 5G infrastructure planning in exposed areas, with "
+11,8,5,Calibri,11.0,72.0,544.3,525.9,555.3,"increased attention to backup power, redundancy, and access in flood-prone or wind-exposed zones. "
+11,8,6,Calibri,11.0,72.0,558.8,236.4,569.9,"Although these efforts are ongoing, "
+11,8,6,Calibri-Bold,11.0,237.5,558.8,525.7,569.9,they have not yet been translated into a new measure in the 
+11,8,7,Calibri-Bold,11.0,72.0,573.2,141.1,584.3,2024 roadmap.
+11,8,7,Calibri,11.0,141.0,573.2,143.5,584.3, 
+11,9,0,Calibri-Bold,11.0,77.7,596.3,257.1,607.3,2024 recommendation on connectivity:
+11,9,0,Calibri,11.0,257.1,596.3,520.1,607.3," (i) Continue efforts to ensure full gigabit and 5G coverage, "
+11,9,1,Calibri,11.0,77.7,610.8,520.2,621.8,including by addressing operational bottlenecks such as permissions for telecoms mast deployment 
+11,9,2,Calibri,11.0,77.7,625.3,520.0,636.3,to extend mobile coverage. (ii) Ensure sufficient access of new players to spectrum for innovative 
+11,9,3,Calibri,11.0,77.7,639.7,520.3,650.7,business-to-business (B2B) and business-to-consumer (B2C) applications and encourage operators 
+11,9,4,Calibri,11.0,77.7,654.2,357.4,665.3,to speed up the deployment of 5G stand-alone core networks. 
+11,9,4,Calibri-Bold,11.0,357.3,654.2,359.8,665.3, 
+11,10,0,Calibri-Bold,11.0,77.7,677.3,520.0,688.3,"In 2024, Ireland continued the implementation of existing measures but did not take any new "
+11,10,1,Calibri-Bold,11.0,77.7,691.7,127.2,702.7,measures. 
+11,10,1,Calibri,11.0,127.0,691.7,520.3,702.7,"In 2024, Ireland recorded high growth rates in VHCN and FTTP coverage, with rural areas "
+11,10,2,Calibri,11.0,77.7,706.2,520.0,717.2,"also seeing strong improvements, confirming a trajectory aligned with national and EU targets. "
+11,10,3,Calibri,11.0,77.7,720.7,520.2,731.8,"However, no new measures were introduced to tackle long-standing bottlenecks in planning and "
+11,10,4,Calibri,11.0,77.7,735.2,520.2,746.3,"permitting, which continue to affect infrastructure roll-out. While rural 5G coverage expanded "
+11,10,5,Calibri,11.0,77.7,749.6,520.3,760.7,"significantly, spectrum assignment remained unchanged, and no national plan for supporting 5G "
+11,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+12,2,0,Calibri,11.0,77.7,84.5,520.2,95.5,stand-alone deployment or B2B use cases was launched due to the lack of demand. The roadmap 
+12,2,1,Calibri,11.0,77.7,99.0,316.8,110.1,adjustment did not add new measures in these areas.
+12,2,1,Calibri-Bold,11.0,316.8,99.0,319.2,110.1, 
+12,3,0,Calibri,11.0,72.0,121.9,74.5,133.0, 
+12,5,0,Calibri-Light,12.0,72.0,144.7,152.4,156.7,Semiconductors 
+12,6,0,Calibri,11.0,72.0,168.3,426.6,179.3,"Semiconductors remain a priority in Ireland’s digital strategy. In May 2025, "
+12,6,0,Calibri,11.0,428.9,168.3,525.9,179.3,Ireland published its 
+12,6,1,Calibri,11.0,72.0,182.8,221.6,193.8,National Semiconductor Strategy
+12,6,1,Calibri,11.0,220.9,182.8,525.8,193.8,", Silicon Island. Developed following a public consultation with 42 "
+12,6,2,Calibri,11.0,72.0,197.3,525.9,208.3,"contributions from industry, academia, and public stakeholders, the strategy fully aligned with the "
+12,6,3,Calibri,11.0,72.0,211.7,525.8,222.7,"objectives of the EU Chips Act and Digital Decade, it sets out clear actions to grow the national "
+12,6,4,Calibri,11.0,72.0,226.2,525.8,237.3,"semiconductor ecosystem through high-value job creation, skills development, international "
+12,6,5,Calibri,11.0,72.0,240.8,265.3,251.8,"positioning, and infrastructure investment. "
+12,7,0,Calibri,11.0,72.0,263.2,525.9,274.2,"Key priorities include attracting leading-edge fabrication facilities, promoting R&D and start-ups, and "
+12,7,1,Calibri,11.0,72.0,277.7,525.9,288.8,establishing the industry-led Semiconductor Advisory Council. While no new semiconductor-specific 
+12,7,2,Calibri,11.0,72.0,292.2,525.7,303.3,"measures were included in the 2024 roadmap adjustment, Ireland continues to engage actively in "
+12,7,3,Calibri,11.0,72.0,306.6,217.3,317.7,European-level initiatives under 
+12,7,3,Calibri-Bold,11.0,218.0,306.6,294.7,317.7,the EU Chips Act
+12,7,3,Calibri,11.0,294.8,306.6,389.0,317.7,", including its role in "
+12,7,3,Calibri-Bold,11.0,389.7,306.6,525.9,317.7,the European Semiconductor 
+12,7,4,Calibri-Bold,11.0,72.0,321.2,99.3,332.2,Board
+12,7,4,Calibri,11.0,99.3,321.2,140.1,332.2, and the 
+12,7,4,Calibri-Bold,11.0,141.0,321.2,323.6,332.2,OECD Informal Semiconductor Network
+12,7,4,Calibri,11.0,323.7,321.2,484.5,332.2,. Ireland is also participating in the 
+12,7,4,Calibri-Bold,11.0,485.4,321.2,525.9,332.2,IPCEI on 
+12,7,5,Calibri-Bold,11.0,72.0,335.7,306.9,346.7,Microelectronics and Communication Technologies
+12,7,5,Calibri,11.0,307.0,335.7,525.9,346.7," (IPCEI-ME/CT), with Analog Devices Inc., which "
+12,7,6,Calibri,11.0,72.0,350.2,439.2,361.2,announced a EUR 630 million investment to expand its Irish operations. A national 
+12,7,6,Calibri-Bold,11.0,439.1,350.2,525.9,361.2,Chips Competence 
+12,7,7,Calibri-Bold,11.0,72.0,364.6,102.4,375.6,Centre
+12,7,7,Calibri,11.0,102.4,364.6,380.8,375.6, has already been established under the Chips Act framework. 
+12,8,0,Calibri-Light,12.0,72.0,387.4,130.4,399.4,Edge nodes 
+12,9,0,Calibri-Bold,11.0,72.0,415.0,525.9,426.1,"In 2024, Ireland continued implementation of existing measures but did not take any new measures. "
+12,9,1,Calibri-Bold,11.0,72.0,429.4,520.7,440.5,"According to estimates, the number of edge nodes in Ireland increased from 20 in 2023 to 39 in 2024"
+12,9,1,Calibri,11.0,520.8,429.4,525.9,440.5,. 
+12,9,2,Calibri,11.0,72.0,443.9,525.6,455.0,Ireland’s national roadmap includes a target of deploying 23 public sector edge nodes by 2025. This 
+12,9,3,Calibri,11.0,72.0,458.5,525.9,469.5,"target is supported by a dedicated measure titled ‘Public sector edge node project’, which has already "
+12,9,4,Calibri,11.0,72.0,473.0,525.9,484.0,"received EUR 41.5 million in public investment, with an additional EUR 63.4 million planned measure "
+12,9,5,Calibri,11.0,72.0,487.4,525.7,498.4,"The measure is being monitored by the Office of the Government Chief Information Officer (OGCIO), "
+12,9,6,Calibri,11.0,72.0,501.9,265.0,512.9,and implementation continues as planned. 
+12,10,0,Calibri,11.0,72.0,524.5,525.9,535.5,Further expansion of edge infrastructure – particularly for far-edge services requiring sub-5 millisecond 
+12,10,1,Calibri,11.0,72.0,538.9,525.6,549.9,latency – may be shaped by the future emergence of relevant use cases and clearer signals of market 
+12,10,2,Calibri,11.0,72.0,553.4,114.1,564.4,demand. 
+12,11,0,Calibri-Bold,11.0,77.7,576.5,256.4,587.5,2024 recommendation on edge nodes:
+12,11,0,Calibri,11.0,256.4,576.5,520.3,587.5, Explore opportunities for public-private partnerships and 
+12,11,1,Calibri,11.0,77.7,590.9,445.4,601.9,leverage funding mechanisms to support the roll-out of edge node infrastructure.  
+12,12,0,Calibri-Bold,11.0,77.7,613.9,520.1,624.9,"In 2024, Ireland continued implementation of existing measures but did not take any new "
+12,12,1,Calibri-Bold,11.0,77.7,628.4,121.7,639.5,measures
+12,12,1,Calibri,11.0,121.7,628.4,520.3,639.5,". Edge node deployment progressed under public investment, but no new public-private "
+12,12,2,Calibri,11.0,77.7,642.9,353.9,654.0,partnership initiatives or funding mechanisms were reported. 
+12,13,0,Calibri,11.0,72.0,665.9,74.5,676.9, 
+12,14,0,Calibri-Light,12.0,72.0,688.7,184.7,700.7,Quantum technologies 
+12,15,0,Calibri-Bold,11.0,72.0,712.2,525.6,723.2,"Ireland launched its Quantum 2030 national strategy at the end of 2023, setting out its ambition to "
+12,15,1,Calibri-Bold,11.0,72.0,726.7,449.0,737.8,become an internationally competitive hub in quantum technologies by 2030.
+12,15,1,Calibri,11.0,449.1,726.7,525.9,737.8, The strategy is 
+12,15,2,Calibri,11.0,72.0,741.1,206.1,752.2,structured around five pillars: 
+12,15,2,Calibri-Bold,11.0,206.2,741.1,501.3,752.2,"research, talent, collaboration, entrepreneurship, and awareness"
+12,15,2,Calibri,11.0,501.5,741.1,525.9,752.2,", and "
+12,15,3,Calibri,11.0,72.0,755.6,525.7,766.7,is currently in its early implementation phase. Working groups have been established involving 
+12,16,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+13,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"enterprises, academia, and expert stakeholders. These groups are developing operational "
+13,2,1,Calibri,11.0,72.0,98.4,481.4,109.5,"recommendations in areas such as micro-credentials, SME engagement, and skills planning. "
+13,4,0,Calibri,11.0,72.0,121.0,523.6,132.0,"While the roadmap does not set a specific quantum target, Ireland continues to support quantum-"
+13,4,1,Calibri,11.0,72.0,135.5,525.7,146.5,related R&D and talent development under its research and innovation framework. Ireland is also 
+13,4,2,Calibri,11.0,72.0,149.9,163.2,160.9,participating in the 
+13,4,2,Calibri-Bold,11.0,165.4,149.9,202.6,160.9,EuroQCI
+13,4,2,Calibri,11.0,202.6,149.9,525.8,160.9," initiative, with a fibre-based quantum communication infrastructure "
+13,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,"linking Dublin, Waterford, and Cork now at the final stages of implementation. This infrastructure is "
+13,4,4,Calibri,11.0,72.0,178.9,525.7,190.0,being used to explore quantum key distribution (QKD) use cases in collaboration with government 
+13,4,5,Calibri,11.0,72.0,193.5,181.9,204.5,networks and the NCSC. 
+13,5,0,Calibri,11.0,72.0,215.9,525.9,226.9,"No new quantum-specific measures were introduced in the 2024 roadmap adjustment, but Ireland’s "
+13,5,1,Calibri,11.0,72.0,230.4,141.3,241.5,involvement in 
+13,5,1,Calibri-Bold,11.0,142.0,230.4,181.5,241.5,EuroHPC
+13,5,1,Calibri,11.0,181.6,230.4,525.9,241.5, and emerging EU collaboration on satellite-based quantum communication 
+13,5,2,Calibri,11.0,72.0,245.0,525.9,256.0,"(with Germany, Luxembourg, and Greece) underscores its contribution to European sovereignty in this "
+13,5,3,Calibri,11.0,72.0,259.4,111.2,270.4,domain. 
+13,6,0,Calibri,11.0,72.0,281.9,74.5,293.0, 
+13,6,1,Calibri,11.0,216.1,281.9,218.5,293.0, 
+13,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+14,2,0,Calibri-Light,15.0,72.0,84.9,526.8,99.9,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+14,4,0,Calibri,11.0,72.0,111.7,525.9,122.8,"Ireland boasts a dynamic digital start-up ecosystem, with a high adoption rate of advanced "
+14,4,1,Calibri,11.0,72.0,126.3,525.8,137.3,"technologies among large firms and well-established infrastructure for innovation. However, progress "
+14,4,2,Calibri,11.0,72.0,140.8,525.9,151.8,"in SME digitalisation has stalled, and the share of SMEs with at least a basic level of digital intensity "
+14,4,3,Calibri,11.0,72.0,155.2,525.9,166.2,stagnated in 2024 compared to 2022. This persistent gap between digitally advanced firms and less 
+14,4,4,Calibri,11.0,72.0,169.7,517.1,180.7,advanced firms risks limiting Ireland’s long-term competitiveness. As highlighted in the Draghi report
+14,4,4,Calibri,7.0,517.1,168.8,520.6,175.8,8
+14,4,4,Calibri,11.0,520.6,169.7,525.9,180.7,", "
+14,4,5,Calibri,11.0,72.0,184.2,525.9,195.3,improving the adoption of key digital technologies – particularly AI and data analytics – across 
+14,4,6,Calibri,11.0,72.0,198.7,473.4,209.8,enterprises of all sizes is essential to lifting productivity and boosting economic resilience. 
+14,5,0,Calibri-Light,12.0,72.0,221.4,267.8,233.4,SMEs with at-least-basic digital intensity 
+14,6,0,Calibri-Bold,11.0,72.0,249.0,525.8,260.1,"In 2024, 73.38% of SMEs in Ireland had at least a basic level of digital intensity (2030 national target: "
+14,6,1,Calibri-Bold,11.0,72.0,263.4,334.2,274.5,"90%), which was nearly unchanged from 74.05% in 2022. "
+14,6,1,Calibri,11.0,334.4,263.4,525.8,274.5,This stagnation contrasts with the broader 
+14,6,2,Calibri,11.0,72.0,278.0,525.9,289.0,"EU trend, which saw an annual increase of 2.8%. Nevertheless, Ireland remains slightly above the EU "
+14,6,3,Calibri,11.0,72.0,292.5,525.9,303.5,"average of 72.91%. Looking more closely at advanced adoption, 39.56% of Irish SMEs reached a high "
+14,6,4,Calibri,11.0,72.0,307.0,525.7,318.0,"level or a very high level of digital intensity, significantly exceeding the EU average of 32.66%. This "
+14,6,5,Calibri,11.0,72.0,321.4,525.9,332.5,highlights a clear divide between a group of digitally advanced firms and a group of slower-moving 
+14,6,6,Calibri,11.0,72.0,335.9,324.6,347.0,"firms, which continues to present a structural challenge. "
+14,7,0,Calibri,11.0,72.0,358.5,525.7,369.5,Ireland’s policy mix to support SME digitalisation has gradually expanded since the launch of its 
+14,7,1,Calibri-Bold,11.0,72.0,372.9,245.4,383.9,national recovery and resilience plan 
+14,7,1,Calibri,11.0,246.2,372.9,311.2,383.9,(RRP) and the 
+14,7,1,Calibri-Bold,11.0,312.1,372.9,424.6,383.9,National Digital Strategy
+14,7,1,Calibri,11.0,424.8,372.9,525.8,383.9,". In 2024, the country "
+14,7,2,Calibri,11.0,72.0,387.4,525.8,398.4,maintained the abovementioned 90% target and strengthened several national instruments. The 
+14,7,3,Calibri-Bold,11.0,72.0,401.9,174.6,413.0,Digital Transition Fund
+14,7,3,Calibri,11.0,174.6,401.9,525.9,413.0," had approved EUR 46.15 million for 498 companies by the end of 2024, while "
+14,7,4,Calibri,11.0,72.0,416.5,89.5,427.5,the 
+14,7,4,Calibri-Bold,11.0,89.7,416.5,187.0,427.5,Grow Digital Voucher
+14,7,4,Calibri,11.0,187.1,416.5,525.9,427.5,", launched in September 2024, offers up to EUR 5 000 to SMEs for adopting "
+14,7,5,Calibri,11.0,72.0,430.9,525.9,441.9,"digital tools. Although initial uptake was modest, demand increased by late 2024, in part due to its link "
+14,7,6,Calibri,11.0,72.0,445.4,203.0,456.4,with the more established 
+14,7,6,Calibri-Bold,11.0,207.1,445.4,301.8,456.4,Digital for Business
+14,7,6,Calibri,11.0,302.0,445.4,525.8,456.4," initiative, which continued to receive strong "
+14,7,7,Calibri,11.0,72.0,459.9,185.8,470.9,engagement through the 
+14,7,7,Calibri-Bold,11.0,185.9,459.9,292.1,470.9,Local Enterprise Offices
+14,7,7,Calibri,11.0,292.1,459.9,297.3,470.9,. 
+14,8,0,Calibri,11.0,72.0,482.3,276.0,493.4,"Complementing these financial supports, the "
+14,8,0,Calibri-Bold,11.0,276.4,482.3,363.4,493.4,Grow Digital Portal
+14,8,0,Calibri,11.0,363.5,482.3,525.8,493.4,", launched in July 2024, offers SMEs "
+14,8,1,Calibri,11.0,72.0,496.9,525.6,507.9,"a self-assessment tool and a tailored digital roadmap. Together, these instruments form a coherent "
+14,8,2,Calibri,11.0,72.0,511.4,512.8,522.4,"support package. However, this has yet to yield measurable progress on the Digital Intensity Index. "
+14,9,0,Calibri,11.0,72.0,533.8,112.2,544.9,Ireland’s 
+14,9,0,Calibri-Bold,11.0,112.2,533.8,322.4,544.9,four European Digital Innovation Hubs (EDIHs)
+14,9,0,Calibri,11.0,322.5,533.8,525.9,544.9, are now fully operational and serve as a vital 
+14,9,1,Calibri,11.0,72.0,548.3,525.9,559.4,bridge between the national strategy and local enterprise needs. Co-funded by the Recovery and 
+14,9,2,Calibri,11.0,72.0,562.9,525.9,573.9,"Resilience Facility (RRF) and the Digital Europe Programme, the EDIHs had provided 490 services to "
+14,9,3,Calibri,11.0,72.0,577.4,525.8,588.5,"265 companies by the end of 2024, including test-before-invest, access to AI and cybersecurity tools, "
+14,9,4,Calibri,11.0,72.0,591.8,525.7,602.9,"and digital skills training. In addition, 62 public sector bodies also received support. EDIH services are "
+14,9,5,Calibri,11.0,72.0,606.3,199.9,617.4,fully funded for SMEs under 
+14,9,5,Calibri-Italic,11.0,200.2,606.3,248.8,617.4,de minimis
+14,9,5,Calibri,11.0,248.7,606.3,525.8,617.4, State aid rules (which allow for small amounts of State aid to 
+14,9,6,Calibri,11.0,72.0,620.9,525.9,631.9,"be provided without needing approval from the European Commission). After the initial set-up, the "
+14,9,7,Calibri,11.0,72.0,635.4,525.7,646.4,number of engagements by the Irish EDIHs is significantly increasing and is expected to reach full 
+14,9,8,Calibri,11.0,72.0,649.8,151.3,660.8,delivery capacity. 
+14,10,0,Calibri,11.0,72.0,672.3,525.7,683.4,"Looking ahead, Ireland will need to further improve outreach to SMEs with lower levels of digital "
+14,10,1,Calibri,11.0,72.0,686.9,525.6,697.9,maturity and secure sustainable funding beyond the current EU and RRP cycles to ensure the 
+14,10,2,Calibri,11.0,72.0,701.3,366.4,712.3,continuity and impact of its Digital Decade targets and objectives. 
+14,11,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+14,11,1,Calibri,6.0,72.0,761.1,75.1,767.1,8
+14,11,1,Calibri,9.0,75.0,761.4,119.4,770.4," Draghi, M., "
+14,11,1,Calibri,9.0,119.4,761.4,265.9,770.4,The future of European competitiveness
+14,11,1,Calibri,9.0,266.0,761.4,468.7,770.4,", Part A – A competitiveness strategy for Europe, 2024.  "
+14,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+15,2,0,Calibri-Light,12.0,72.0,84.3,239.8,96.3,Take-up of cloud/AI/data analytics 
+15,5,0,Calibri,11.0,523.6,250.5,526.1,261.5, 
+15,6,0,Calibri-Bold,11.0,72.0,270.0,525.8,281.1,"According to 2023 data, 64.10% of enterprises in Ireland used either AI technologies, sophisticated "
+15,6,1,Calibri-Bold,11.0,72.0,284.6,523.5,295.6,"or intermediate cloud computing services, or data analytics – well above the EU average of 54.7%."
+15,6,1,Calibri,11.0,523.4,284.6,525.9,295.6, 
+15,6,2,Calibri,11.0,72.0,299.0,525.8,310.0,"Although these results indicate a strong overall performance, the adoption gaps between large firms "
+15,6,3,Calibri,11.0,72.0,313.5,525.9,324.5,"and SMEs persist (29.68 percentage points (pps)) but it is lower than the EU gap (32.97 pps). In 2022, "
+15,6,4,Calibri,11.0,72.0,328.0,525.8,339.0,SMEs accounted for 20.6% of national value added in the economy despite representing 97% of all 
+15,6,5,Calibri,11.0,72.0,342.5,525.7,353.6,"enterprises with more than 10 employees, underscoring the importance of accelerating digital uptake "
+15,6,6,Calibri,11.0,72.0,356.9,380.2,368.0,in this segment to support inclusive growth and economic resilience. 
+15,7,0,Calibri-Bold,11.0,72.0,379.5,525.8,390.5,Ireland maintains the EU 2030 target of achieving 75% adoption for each of the three technologies. 
+15,7,1,Calibri,11.0,72.0,394.0,525.8,405.1,"While current uptake is encouraging, the pace of SME digitalisation is insufficient to meet the target "
+15,7,2,Calibri,11.0,72.0,408.4,525.8,419.5,"without further targeted support. No new dedicated national programme was introduced in 2024, but "
+15,7,3,Calibri,11.0,72.0,422.9,417.6,434.0,several horizontal instruments continued to support adoption. These include 
+15,7,3,Calibri-Bold,11.0,418.1,422.9,525.8,434.0,the Digital for Business 
+15,7,4,Calibri-Bold,11.0,72.0,437.5,112.2,448.5,initiative
+15,7,4,Calibri,11.0,112.2,437.5,359.7,448.5," (now expanded to firms with up to 50 employees), the "
+15,7,4,Calibri-Bold,11.0,359.7,437.5,456.5,448.5,Grow Digital Voucher
+15,7,4,Calibri,11.0,456.6,437.5,498.6,448.5,", and the "
+15,7,4,Calibri-Bold,11.0,498.7,437.5,525.9,448.5,Grow 
+15,7,5,Calibri-Bold,11.0,72.0,452.0,131.6,463.0,Digital Portal
+15,7,5,Calibri,11.0,131.7,452.0,525.8,463.0,", launched in September 2024. These instruments are delivered via the Local Enterprise "
+15,7,6,Calibri,11.0,72.0,466.4,281.4,477.4,"Offices and cover AI, cloud, and data analytics. "
+15,8,0,Calibri,11.0,72.0,488.9,525.7,500.0,A national awareness campaign focused on boosting SME uptake of these technologies is planned for 
+15,8,1,Calibri,11.0,72.0,503.5,212.2,514.5,"2025. In parallel, Ireland’s four "
+15,8,1,Calibri-Bold,11.0,212.8,503.5,239.4,514.5,EDIHs
+15,8,1,Calibri,11.0,239.4,503.5,525.8,514.5, continue to provide services across all three technology areas. 
+15,8,2,Calibri,11.0,72.0,517.9,525.8,528.9,The EDIHs are expected to scale up further as demand increases. Strategic coordination is supported 
+15,8,3,Calibri,11.0,72.0,532.4,102.9,543.4,by the 
+15,8,3,Calibri-Bold,11.0,103.2,532.4,308.5,543.4,SME and Entrepreneurship Growth Taskforce
+15,8,3,Calibri,11.0,308.6,532.4,476.4,543.4, under the SME Growth Plan and the 
+15,8,3,Calibri-Bold,11.0,476.7,532.4,525.9,543.4,Enterprise 
+15,8,4,Calibri-Bold,11.0,72.0,546.9,211.1,557.9,Digital Advisory Forum (EDAF)
+15,8,4,Calibri,11.0,211.1,546.9,525.7,557.9,", which provides guidance on emerging digital technologies based on "
+15,8,5,Calibri,11.0,72.0,561.5,363.2,572.5,"input from government, enterprises, and academic stakeholders. "
+15,9,0,Calibri-Bold,11.0,77.7,584.4,302.2,595.4,2024 recommendation on enterprises and SMEs: 
+15,9,0,Calibri,11.0,302.4,584.4,520.2,595.4,Develop targeted programmes and incentives to 
+15,9,1,Calibri,11.0,77.7,598.9,520.2,609.9,encourage enterprises and SMEs to adopt data analytics and AI and leverage their potential for 
+15,9,2,Calibri,11.0,77.7,613.4,184.2,624.5,innovation and growth. 
+15,10,0,Calibri-Bold,11.0,77.7,636.3,520.0,647.4,Ireland made some efforts to address the recommendation through new policy actions in 2024. 
+15,10,1,Calibri,11.0,77.7,650.9,520.1,661.9,"While relevant horizontal support measures remain in place and adoption has grown, the "
+15,10,2,Calibri,11.0,77.7,665.4,177.7,676.4,recommendation was 
+15,10,2,Calibri-Bold,11.0,178.5,665.4,288.9,676.4,only partially addressed
+15,10,2,Calibri,11.0,288.9,665.4,520.1,676.4, as no new dedicated incentive or strategic stream 
+15,10,3,Calibri,11.0,77.7,679.8,245.7,690.8,was launched for these technologies. 
+15,11,0,SymbolMT,11.0,89.9,700.6,95.0,714.1,•
+15,11,0,ArialMT,11.0,94.9,701.7,98.0,714.0, 
+15,11,1,Calibri-Bold,11.0,107.7,703.4,136.4,714.5,Cloud 
+15,12,0,Calibri,11.0,72.0,721.0,525.8,732.0,Adoption rates of cloud computing continue to be some of Ireland’s strongest digitalisation indicators. 
+15,12,1,Calibri,11.0,72.0,735.4,525.9,746.4,"In 2023, 53.07% of Irish enterprises adopted cloud services, well above the EU average of 38.97%. "
+15,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+16,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"SMEs’ adoption of the technology reached 52.28%, compared to 79.5% for large enterprises, resulting "
+16,2,1,Calibri,11.0,72.0,98.4,316.1,109.5,in a gap of 27.22 pps – below the EU average of 31.68. 
+16,4,0,Calibri,11.0,72.0,121.0,242.7,132.0,Ireland has not formally joined the 
+16,4,0,Calibri-Bold,11.0,245.7,121.0,503.0,132.0,IPCEI on Cloud Infrastructure and Services (IPCEI-CIS)
+16,4,0,Calibri,11.0,502.9,121.0,525.9,132.0, but 
+16,4,1,Calibri,11.0,72.0,135.5,295.6,146.5,"continues to monitor its evolution. In parallel, the "
+16,4,1,Calibri-Bold,11.0,295.8,135.5,525.9,146.5,"Department of Enterprise, Trade and Employment "
+16,4,2,Calibri-Bold,11.0,72.0,149.9,102.1,160.9,(DETE)
+16,4,2,Calibri,11.0,102.0,149.9,305.9,160.9, is contributing to the design phase of the 
+16,4,2,Calibri-Bold,11.0,308.0,149.9,520.7,160.9,IPCEI on Computing Infrastructure (IPCEI-ECI)
+16,4,2,Calibri,11.0,520.8,149.9,525.9,160.9,. 
+16,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,"Although Ireland has not yet formally endorsed the IPCEI-ECI, it is actively exploring national "
+16,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,participation and retains the option to join once the structure is finalised. Participation in such a project 
+16,4,5,Calibri,11.0,72.0,193.5,525.9,204.5,could strengthen Ireland’s position in secure and sovereign next-generation cloud services and support 
+16,4,6,Calibri,11.0,72.0,207.9,165.2,218.9,wider EU objectives. 
+16,5,0,Calibri-Bold,11.0,77.7,230.9,229.7,242.0,2024 recommendation on cloud: 
+16,5,0,Calibri,11.0,230.2,230.9,520.2,242.0,Promote the uptake of next-generation cloud infrastructure and 
+16,5,1,Calibri,11.0,77.7,245.4,462.1,256.5,"services, including through engagement with EU-level initiatives such as the IPCEI-CIS. "
+16,6,0,Calibri-Bold,11.0,77.7,268.4,520.1,279.4,"In 2024, Ireland continued implementation of existing measures but did not take any new "
+16,6,1,Calibri-Bold,11.0,77.7,282.9,124.6,293.9,measures.
+16,6,1,Calibri,11.0,124.6,282.9,520.2,293.9," While cloud adoption continued to grow and support measures remain available, Ireland "
+16,6,2,Calibri,11.0,77.7,297.4,305.8,308.5,has not formalised its participation in the IPCEI-CIS 
+16,7,0,SymbolMT,11.0,89.9,318.1,95.0,331.6,•
+16,7,0,ArialMT,11.0,94.9,319.2,98.0,331.5, 
+16,7,1,Calibri-Bold,11.0,107.7,320.9,174.5,332.0,Data analytics 
+16,8,0,Calibri,11.0,72.0,338.4,525.9,349.5,"In 2023, 37.09% of Irish enterprises reported using data analytics, above the EU average of 33.25%. "
+16,8,1,Calibri,11.0,72.0,353.0,525.9,364.0,"SME uptake was 35.88%, while large enterprises reported a rate of 77.4%, resulting in a gap of "
+16,8,2,Calibri,11.0,72.0,367.5,286.5,378.5,41.52 pps – broadly in line with the EU average. 
+16,9,0,Calibri,11.0,72.0,389.9,525.8,401.0,Ireland maintains a national target of achieving 75% uptake of data analytics by 2030. While analytics 
+16,9,1,Calibri,11.0,72.0,404.5,525.6,415.5,"is acknowledged as a strategic priority in the roadmap, no new dedicated measure was introduced in "
+16,9,2,Calibri,11.0,72.0,418.9,407.1,429.9,"2024. Instead, data analytics remains an eligible area for support under the "
+16,9,2,Calibri-Bold,11.0,406.9,418.9,503.4,429.9,Grow Digital Voucher
+16,9,2,Calibri,11.0,503.5,418.9,525.9,429.9,", the "
+16,9,3,Calibri-Bold,11.0,72.0,433.4,201.5,444.4,Digital for Business initiative
+16,9,3,Calibri,11.0,201.6,433.4,243.6,444.4,", and the "
+16,9,3,Calibri-Bold,11.0,243.6,433.4,330.1,444.4,Grow Digital Portal
+16,9,3,Calibri,11.0,330.2,433.4,335.4,444.4,. 
+16,10,0,SymbolMT,11.0,89.9,453.7,95.0,467.2,•
+16,10,0,ArialMT,11.0,94.9,454.8,98.0,467.1, 
+16,10,1,Calibri-Bold,11.0,107.7,456.5,204.3,467.6,Artificial intelligence 
+16,11,0,Calibri-Bold,11.0,72.0,473.9,525.9,485.0,"In 2024, 14.90% of enterprises adopted AI (2030 national target: 75%), slightly above the EU average "
+16,11,1,Calibri-Bold,11.0,72.0,488.5,525.9,499.5,"of 13.48%; this is a significant increase from 8.01% in 2023 (86%, above the EU’s 67.2%). The country "
+16,11,2,Calibri-Bold,11.0,72.0,503.0,253.6,514.0,is lagging behind its national trajectory.
+16,11,2,Calibri,11.0,253.6,503.0,525.8,514.0," Despite this strong annual growth, adoption remains highly "
+16,11,3,Calibri,11.0,72.0,517.5,525.6,528.5,"uneven across firm sizes: only 13.8% of SMEs reported using AI, compared to 50.84% of large "
+16,11,4,Calibri,11.0,72.0,531.9,398.0,542.9,"enterprises – a gap of 37.04 pps, significantly wider than the EU average. "
+16,12,0,Calibri,11.0,72.0,554.5,438.1,565.5,"The Enterprise Digital Advisory Forum (EDAF) contributes to policy alignment, and "
+16,12,0,Calibri-Bold,11.0,438.0,554.5,475.6,565.5,CeADAR
+16,12,0,Calibri-Bold,11.0,475.7,554.5,478.2,565.5, 
+16,12,0,Calibri,11.0,478.1,554.5,525.9,565.5,– Ireland’s 
+16,12,1,Calibri,11.0,72.0,569.0,525.9,580.1,National Centre for Applied AI – delivers AI-focused training and test-before-invest services as part of 
+16,12,2,Calibri,11.0,72.0,583.4,525.7,594.5,"the European Digital Innovation Hub network. In 2024, CeADAR introduced targeted training to "
+16,12,3,Calibri,11.0,72.0,597.9,525.7,609.0,"support AI literacy obligations under the EU AI Act, drawing positive feedback from both enterprises "
+16,12,4,Calibri,11.0,72.0,612.5,185.7,623.5,and public organisations. 
+16,13,0,Calibri,11.0,72.0,634.9,525.8,645.9,"Ireland’s AI strategy, ‘AI – Here for Good’, continues to provide the national vision, focusing on "
+16,13,1,Calibri,11.0,72.0,649.4,525.8,660.5,"trustworthy, human-centric AI, and its implementation is reportedly on track. However, a more "
+16,13,2,Calibri,11.0,72.0,663.9,479.4,675.0,structured use-case policy or sector-specific deployment initiative has not yet materialised. 
+16,14,0,Calibri-Light,12.0,72.0,686.6,234.6,698.6,"Unicorns, scale-ups and start-ups "
+16,15,0,Calibri,11.0,72.0,714.2,161.7,725.3,"At the end of 2024, "
+16,15,0,Calibri-Bold,11.0,161.9,714.2,269.9,725.3,Ireland had 13 unicorns
+16,15,0,Calibri,11.0,270.0,714.2,525.7,725.3,", up from 12 in 2023. One additional unicorn is expected "
+16,15,1,Calibri,11.0,72.0,728.8,525.9,739.8,"to be confirmed shortly, reflecting the dynamism of Ireland’s digital and innovation-driven economy. "
+16,15,2,Calibri,11.0,72.0,743.2,525.9,754.2,"While no national unicorn target has been set, Ireland continues to strengthen its support ecosystem "
+16,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+17,2,0,Calibri,11.0,72.0,84.0,523.6,95.1,"for digital firms with high potential, with a focus on software as a service (SaaS), fintech, and deep-"
+17,2,1,Calibri,11.0,72.0,98.4,131.0,109.5,tech sectors. 
+17,4,0,Calibri,11.0,72.0,121.0,212.0,132.0,The 2024 roadmap reconfirms 
+17,4,0,Calibri-Bold,11.0,213.1,121.0,422.7,132.0,digital entrepreneurship and scale-up growth
+17,4,0,Calibri,11.0,422.7,121.0,525.9,132.0, as strategic priorities. 
+17,4,1,Calibri,11.0,72.0,135.5,525.8,146.5,Several new and scaled-up funding instruments were introduced to support enterprises throughout 
+17,4,2,Calibri,11.0,72.0,149.9,179.1,160.9,their growth cycle. The 
+17,4,2,Calibri-Bold,11.0,180.1,149.9,387.6,160.9,Seed and Venture Capital Scheme 2025-2029
+17,4,2,Calibri,11.0,387.7,149.9,525.9,160.9, was renewed with a EUR 250 
+17,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,"million allocation (an increase of EUR 75 million), aiming to increase Series A and growth-stage equity "
+17,4,4,Calibri,11.0,72.0,178.9,329.3,190.0,financing and improve the domestic capital environment. 
+17,5,0,Calibri,11.0,72.0,201.4,158.5,212.4,The EUR 90 million 
+17,5,0,Calibri-Bold,11.0,158.3,201.4,360.3,212.4,Irish Innovation Seed Fund Programme (IISF)
+17,5,0,Calibri,11.0,360.4,201.4,525.9,212.4, was launched through a partnership 
+17,5,1,Calibri,11.0,72.0,215.9,525.9,226.9,"between Enterprise Ireland, the European Investment Fund, and the Ireland Strategic Investment "
+17,5,2,Calibri,11.0,72.0,230.4,525.8,241.5,"Fund. The IISF focuses on highly innovative early-stage enterprises, particularly in areas like AI, "
+17,5,3,Calibri,11.0,72.0,245.0,278.8,256.0,"advanced computing, climate, and clean tech. "
+17,6,0,Calibri,11.0,72.0,267.4,432.8,278.5,"To address structural gaps in scale-up finance, the government established a "
+17,6,0,Calibri-Bold,11.0,434.7,267.4,525.9,278.5,Finance for Scaling 
+17,6,1,Calibri-Bold,11.0,72.0,281.9,100.6,293.0,Group
+17,6,1,Calibri,11.0,100.6,281.9,525.9,293.0,", which published its first report in July 2024. The report recommends creating new public "
+17,6,2,Calibri,11.0,72.0,296.3,525.9,307.4,"instruments to support scale-ups, improving the mobilisation of institutional capital, and revising tax "
+17,6,3,Calibri,11.0,72.0,310.9,525.8,321.9,policy to align it with long-term investment needs. An implementation Action Plan to develop the 
+17,6,4,Calibri,11.0,72.0,325.4,363.3,336.4,recommendations into concrete policy actions is being prepared. 
+17,7,0,Calibri-Bold,11.0,72.0,347.8,150.0,358.9,Access to finance
+17,7,0,Calibri,11.0,150.0,347.8,525.8,358.9, in Ireland continues to improve. Venture capital investment reached 0.4% of GDP in 
+17,7,1,Calibri,11.0,72.0,362.3,525.8,373.4,"2023 – slightly below the EU average of 0.5% – while private equity remained at 0.2%, below the EU "
+17,7,2,Calibri,11.0,72.0,376.8,525.9,387.9,average of 0.4%. Access to institutional capital remains constrained by the low engagement of pension 
+17,7,3,Calibri,11.0,72.0,391.4,463.4,402.4,"funds and insurance companies, despite targeted public-private dialogues held in 2024. "
+17,8,0,Calibri,11.0,72.0,413.8,112.2,424.9,Ireland’s 
+17,8,0,Calibri-Bold,11.0,112.0,413.8,257.6,424.9,start-up and scale-up ecosystem
+17,8,0,Calibri,11.0,257.6,413.8,525.9,424.9," is supported by a wide range of Enterprise Ireland schemes, "
+17,8,1,Calibri,11.0,72.0,428.3,133.2,439.4,including the 
+17,8,1,Calibri-Bold,11.0,133.9,428.3,225.7,439.4,Pre-Seed Start Fund
+17,8,1,Calibri,11.0,225.8,428.3,230.9,439.4,", "
+17,8,1,Calibri-Bold,11.0,231.6,428.3,338.3,439.4,Competitive Start Fund
+17,8,1,Calibri,11.0,338.4,428.3,343.6,439.4,", "
+17,8,1,Calibri-Bold,11.0,344.4,428.3,476.7,439.4,High Potential Start-Up Fund
+17,8,1,Calibri,11.0,476.6,428.3,501.9,439.4,", and "
+17,8,1,Calibri-Bold,11.0,502.5,428.3,525.9,439.4,New 
+17,8,2,Calibri-Bold,11.0,72.0,442.9,112.8,453.9,Frontiers
+17,8,2,Calibri,11.0,112.8,442.9,525.9,453.9, programme. These tools are delivered through an expanding network of innovation hubs and 
+17,8,3,Calibri,11.0,72.0,457.3,165.5,468.3,founder supports. A 
+17,8,3,Calibri-Bold,11.0,166.5,457.3,269.4,468.3,National Start-Up Hub
+17,8,3,Calibri,11.0,269.3,457.3,525.7,468.3," is under development and expected to launch in 2025, "
+17,8,4,Calibri,11.0,72.0,471.8,456.2,482.8,centralising ecosystem access and improving service delivery for early-stage founders. 
+17,9,0,Calibri,11.0,72.0,494.3,310.6,505.4,Ireland’s broader strategic approach was set out in 
+17,9,0,Calibri-Bold,11.0,312.1,494.3,520.9,505.4,‘Delivering for Ireland – Strategy 2025-2029’
+17,9,0,Calibri,11.0,520.8,494.3,525.9,505.4,", "
+17,9,1,Calibri,11.0,72.0,508.7,525.9,519.8,"published in January 2024. The strategy outlines Ireland’s ambition to support 1 000 start-ups by 2029, "
+17,9,2,Calibri,11.0,72.0,523.3,525.9,534.3,"strengthen global competitiveness, and prioritise sectors such as AI, health tech, and sustainability. A "
+17,9,3,Calibri,11.0,72.0,537.8,118.7,548.8,dedicated 
+17,9,3,Calibri-Bold,11.0,121.9,537.8,223.7,548.8,Start-Up Ireland Plan
+17,9,3,Calibri,11.0,223.7,537.8,525.8,548.8,", referenced in the strategy, is currently under preparation to "
+17,9,4,Calibri,11.0,72.0,552.3,316.8,563.3,consolidate and coordinate national start-up supports. 
+17,10,0,Calibri-Bold,11.0,77.7,575.3,305.1,586.3,2024 recommendation on unicorns and scale-ups: 
+17,10,0,Calibri,11.0,304.8,575.3,520.3,586.3,Increase funding mechanisms such as the Digital 
+17,10,1,Calibri,11.0,77.7,589.8,520.0,600.8,Transition Fund and Seed and Venture Capital Scheme to support digital entrepreneurship and 
+17,10,2,Calibri,11.0,77.7,604.3,200.5,615.3,nurture potential unicorns. 
+17,11,0,Calibri-Bold,11.0,77.7,627.2,520.0,638.3,Ireland fully addressed the recommendation by putting significant policy actions into place in 
+17,11,1,Calibri-Bold,11.0,77.7,641.7,102.9,652.8,2024.
+17,11,1,Calibri,11.0,103.0,641.7,520.1,652.8," Major new financial instruments were launched in 2024, and structural finance reforms are "
+17,11,2,Calibri,11.0,77.7,656.3,470.7,667.3,actively being developed to improve scale-up readiness and long-term competitiveness. 
+17,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+18,2,0,Calibri-Light,15.0,72.0,84.9,319.2,99.9,Strengthening cybersecurity & resilience 
+18,4,0,Calibri,11.0,72.0,111.7,341.7,122.8,Ireland has taken significant steps to strengthen its 
+18,4,1,Calibri,11.0,72.0,126.3,341.6,137.3,"cybersecurity and digital resilience architecture, with "
+18,4,2,Calibri,11.0,72.0,140.8,341.6,151.8,"progress observed across individual awareness, enterprise "
+18,4,3,Calibri,11.0,72.0,155.2,341.6,166.2,"preparedness, regulatory frameworks, and strategic capacity "
+18,4,4,Calibri,11.0,72.0,169.7,113.2,180.7,building. 
+18,5,0,Calibri-Bold,11.0,72.0,192.1,341.6,203.2,Digital safety awareness and behaviour among individuals 
+18,5,1,Calibri-Bold,11.0,72.0,206.7,129.2,217.7,remain high.
+18,5,1,Calibri,11.0,129.3,206.7,341.6,217.7," In 2023, 80.69% of individuals took at least one "
+18,5,2,Calibri,11.0,72.0,221.2,341.7,232.2,action to protect their personal data online – well above the 
+18,5,3,Calibri,11.0,72.0,235.7,341.6,246.8,"EU average of 69.55%. Moreover, 59.23% took three or more "
+18,5,4,Calibri,11.0,72.0,250.1,341.7,261.2,"protective measures, indicating widespread above-basic "
+18,5,5,Calibri,11.0,72.0,264.6,341.6,275.7,digital safety skills. Refusing the use of personal data for 
+18,5,6,Calibri,11.0,72.0,279.2,341.5,290.2,"advertising was the most common behaviour (63.1%), while "
+18,5,7,Calibri,11.0,72.0,293.7,287.0,304.7,only 40.39% of individuals read privacy policies. 
+18,7,0,Calibri-Bold,11.0,72.0,316.1,326.5,327.2,Cyber resilience among Irish enterprises is improving.
+18,7,0,Calibri,11.0,326.6,316.1,341.7,327.2, In 
+18,7,1,Calibri,11.0,72.0,330.6,341.5,341.7,"2024, the share of businesses reporting ICT outages due to "
+18,7,2,Calibri,11.0,72.0,345.2,341.5,356.2,"external cyberattacks dropped to 1.22%, down from 2.1% in "
+18,7,3,Calibri,11.0,72.0,359.6,341.5,370.6,"2022 and well below the EU average. However, 10.37% of "
+18,7,4,Calibri,11.0,72.0,374.1,525.9,385.1,"enterprises reported other types of ICT-related incidents, such as internal system failures. As of 2022, "
+18,7,5,Calibri,11.0,72.0,388.6,525.7,399.6,"86.22% of firms had put in place some form of ICT security measures, and 69.16% included staff "
+18,7,6,Calibri,11.0,72.0,403.1,247.6,414.2,awareness-raising and training actions. 
+18,8,0,Calibri-Bold,11.0,72.0,425.6,347.5,436.6,"On secure internet protocols, mixed progress was observed."
+18,8,0,Calibri,11.0,347.7,425.6,525.9,436.6, Ireland continues to lag behind in IPv6 
+18,8,1,Calibri,11.0,72.0,440.1,525.9,451.1,adoption – only 23% of end users and 10% of servers used IPv6 as of Q3-2024 (below the EU averages 
+18,8,2,Calibri,11.0,72.0,454.6,525.7,465.7,"of 37% and 16%, respectively). However, it leads on DNS Security Extensions (DNSSEC), achieving a "
+18,8,3,Calibri,11.0,72.0,469.0,257.9,480.1,validation rate of 49% (EU average: 43%). 
+18,9,0,Calibri-Bold,11.0,72.0,491.6,300.1,502.6,Transposition of the NIS2 Directive is still pending.
+18,9,0,Calibri,11.0,300.2,491.6,302.7,502.6, 
+18,9,0,Calibri,11.0,302.7,491.6,525.9,502.6,Ireland missed the 17 October 2024 transposition 
+18,9,1,Calibri,11.0,72.0,506.1,110.6,517.2,deadline
+18,9,1,Calibri,11.0,110.7,506.1,525.9,517.2,", although drafting the legislation was prioritised by the Irish government in July 2024. Until it "
+18,9,2,Calibri,11.0,72.0,520.5,525.9,531.5,"is adopted, entities are not required to register, and reporting portals remain offline. Ireland is one of "
+18,9,3,Calibri,11.0,72.0,535.0,239.2,546.1,several Member States facing delays. 
+18,10,0,Calibri,11.0,72.0,557.6,143.0,568.7,"In parallel, the "
+18,10,0,Calibri-Bold,11.0,145.2,557.6,325.0,568.7,Resilience of Critical Entities Directive
+18,10,0,Calibri,11.0,325.0,557.6,525.8,568.7, was transposed into Irish law via S.I. No. 
+18,10,1,Calibri,11.0,72.0,572.0,525.8,583.1,"559/2024, enabling the identification of Critical Entities in the digital infrastructure sector. ComReg has "
+18,10,2,Calibri,11.0,72.0,586.5,525.6,597.6,been designated as the Competent Authority for Digital Infrastructure and will assume supervisory 
+18,10,3,Calibri,11.0,72.0,601.1,525.9,612.1,"responsibilities under this framework, including following the full transposition of the NIS2 Directive. "
+18,10,4,Calibri-Bold,11.0,72.0,615.6,292.5,626.6,Strategic governance measures have expanded.
+18,10,4,Calibri,11.0,292.8,615.6,525.8,626.6, A mid-term review of the National Cyber Security 
+18,10,5,Calibri,11.0,72.0,630.0,525.8,641.0,Strategy 2019-2024 was conducted in 2023. Notable outcomes include the expansion of the National 
+18,10,6,Calibri,11.0,72.0,644.5,525.8,655.5,"Cyber Security Centre (NCSC), the establishment of a Counter-Ransomware Task Force, and improved "
+18,10,7,Calibri,11.0,72.0,659.0,525.7,670.1,"cross-sector information-sharing. In 2024, a National Cybersecurity Coordination and Development "
+18,10,8,Calibri,11.0,72.0,673.5,427.6,684.6,Centre (NCC-IE) was launched with EUR 4.2 million in joint EU-national funding. 
+18,11,0,Calibri-Bold,11.0,72.0,696.0,292.4,707.0,Efforts to secure 5G networks have advanced.
+18,11,0,Calibri,11.0,292.6,696.0,525.8,707.0, The Communications Regulation and Digital Hub 
+18,11,1,Calibri,11.0,72.0,710.5,525.8,721.5,"Development Agency (Amendment) Act 2023 provides the legal basis for 5G vendor restrictions, which "
+18,11,2,Calibri,11.0,72.0,724.9,523.5,736.0,entered into force on 1 September 2024. A Technical Stakeholder Consultation was held between June-
+18,11,3,Calibri,11.0,72.0,739.4,525.6,750.5,"August 2024. Based on the responses to that consultation, guidelines on the implementation of "
+18,11,4,Calibri,11.0,72.0,754.0,525.9,765.0,technical and organisational measures to manage the risks posed to the security of networks and 
+18,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+19,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,services will be drafted for the purpose of providing practical guidance to providers. The NCSC 
+19,2,1,Calibri,11.0,72.0,98.4,525.8,109.5,organises quarterly CORE (Cyber Operational Readiness Engagement) meetings with mobile operators 
+19,2,2,Calibri,11.0,72.0,112.9,266.9,124.0,to strengthen joint response preparedness. 
+19,4,0,Calibri-Bold,11.0,72.0,135.5,289.2,146.5,Cybersecurity support for SMEs has expanded.
+19,4,0,Calibri,11.0,289.4,135.5,525.8,146.5," The Cybersecurity Review Grant, launched in 2024 "
+19,4,1,Calibri,11.0,72.0,149.9,525.7,160.9,"under the Digital Transition Fund, enables SMEs to assess and upgrade their defences. This is "
+19,4,2,Calibri,11.0,72.0,164.4,525.9,175.5,"complemented by services from Ireland’s European Digital Innovation Hubs (EDIHs), which provide "
+19,4,3,Calibri,11.0,72.0,178.9,329.1,190.0,"fully funded cybersecurity, AI, and HPC support for SMEs. "
+19,5,0,Calibri-Bold,11.0,72.0,201.4,377.8,212.4,Skills development and awareness-raising initiatives are growing.
+19,5,0,Calibri,11.0,377.8,201.4,525.9,212.4, Ireland supports enterprise-led 
+19,5,1,Calibri,11.0,72.0,215.9,525.7,226.9,cybersecurity training through the National Apprenticeship Alliance and Skillnet Ireland. Awareness 
+19,5,2,Calibri,11.0,72.0,230.4,525.8,241.5,"campaigns are promoted by Enterprise Ireland and the Small Firms Association, with targeted outreach "
+19,5,3,Calibri,11.0,72.0,245.0,273.7,256.0,in schools via digital safety teaching support. 
+19,6,0,Calibri-Bold,11.0,72.0,267.4,342.9,278.5,Longer-term resilience is being fostered through innovation.
+19,6,0,Calibri,11.0,342.9,267.4,525.9,278.5, The National Challenge Fund’s Digital for 
+19,6,1,Calibri,11.0,72.0,281.9,525.9,293.0,Resilience Challenge supports applied research on cyber risk and continuity. One flagship project – 
+19,6,2,Calibri,11.0,72.0,296.3,509.7,307.4,‘Digital Resilience for SMEs’ – focuses on preparedness and reducing exposure among small firms. 
+19,7,0,Calibri,11.0,72.0,318.9,74.5,329.9, 
+19,7,1,Calibri-Bold,11.0,216.1,318.9,218.5,329.9, 
+19,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+20,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Protecting and empowering EU people 
+20,3,1,Calibri-Bold,26.0,72.0,121.2,200.6,147.3,and society 
+20,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+20,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+20,5,0,Calibri,11.0,72.0,208.0,525.9,219.0,Ireland’s digital transformation is underpinned by a strong foundation of high-skill levels and wide 
+20,5,1,Calibri,11.0,72.0,222.5,525.6,233.5,"digital access, yet persistent inequalities require continuous, targeted action. The national approach "
+20,5,2,Calibri,11.0,72.0,237.0,525.9,248.1,"recognises that digital progress must also tackle the barriers faced by lower-income groups, older "
+20,5,3,Calibri,11.0,72.0,251.4,525.8,262.5,"adults, and those with lower levels of educational attainment. Policy efforts increasingly emphasise "
+20,5,4,Calibri,11.0,72.0,266.0,525.7,277.0,not just access to infrastructure but also the capacity of individuals and communities to engage 
+20,5,5,Calibri,11.0,72.0,280.5,525.8,291.5,meaningfully with digital services and the online environment. Digital upskilling is increasingly 
+20,5,6,Calibri,11.0,72.0,295.0,525.8,306.0,"embedded across public service delivery, labour market activation, and education planning, supported "
+20,5,7,Calibri,11.0,72.0,309.4,339.9,320.5,by evolving coordination between national and local actors. 
+20,6,0,Calibri,11.0,72.0,332.0,525.9,343.0,"While structural programmes are in place, fragmentation and under-coverage remain challenges – "
+20,6,1,Calibri,11.0,72.0,346.5,525.9,357.5,"particularly for hard-to-reach populations. Moreover, digital divides continue to intersect with broader "
+20,6,2,Calibri,11.0,72.0,360.9,525.9,371.9,"social and regional disparities, making inclusion a cross-cutting policy concern. However, Ireland has "
+20,6,3,Calibri,11.0,72.0,375.4,525.8,386.4,"taken significant institutional steps to ensure a secure and rights-respecting digital environment, with "
+20,6,4,Calibri,11.0,72.0,389.9,525.7,401.0,"recent reforms in online safety regulation, media supervision, and democratic protection. These "
+20,6,5,Calibri,11.0,72.0,404.5,525.9,415.5,"include an independent oversight of harmful content, strengthened electoral resilience, and better "
+20,6,6,Calibri,11.0,72.0,418.9,525.7,429.9,"cooperation between regulators, education providers, and civil society. Overall, Ireland’s digital "
+20,6,7,Calibri,11.0,72.0,433.4,525.9,444.4,"transition is characterised by strong digital maturity, but inclusiveness now stands as the critical "
+20,6,8,Calibri,11.0,72.0,447.9,373.6,458.9,frontier to sustain progress and ensure that no group is left behind. 
+20,7,0,Calibri-Light,12.0,72.0,470.6,239.9,482.6,Equipping people with digital skills 
+20,8,0,Calibri-LightItalic,11.0,72.0,498.2,150.5,509.2,Basic digital skills 
+20,9,0,Calibri,11.0,72.0,524.7,318.3,535.8,"In 2023, 72.91% of the Irish population had at least a "
+20,9,1,Calibri,11.0,72.0,539.2,318.2,550.3,"basic level of digital skills, placing Ireland significantly "
+20,9,2,Calibri,11.0,72.0,553.6,318.2,564.7,above the EU average of 55.56%. Although no new data 
+20,9,3,Calibri,11.0,72.0,568.2,318.1,579.2,"was released in 2024, Ireland remains one of the EU’s "
+20,9,4,Calibri,11.0,72.0,582.7,318.2,593.7,best performers. A demographic breakdown shows this 
+20,9,5,Calibri,11.0,72.0,597.2,318.3,608.3,"strength to be widely shared across age, geography, "
+20,9,6,Calibri,11.0,72.0,611.6,318.1,622.7,"and gender, though notable gaps remain based on "
+20,9,7,Calibri,11.0,72.0,626.1,145.1,637.2,education level. 
+20,11,0,SymbolMT,11.0,90.0,646.5,95.1,660.0,
+20,11,0,ArialMT,11.0,95.1,647.6,98.1,659.9, 
+20,11,1,Calibri-Bold,11.0,108.0,649.3,163.3,660.3,Gender gap
+20,11,1,Calibri,11.0,163.2,649.3,318.1,660.3,: 74.43% of men and 71.45% of 
+20,11,2,Calibri,11.0,108.0,663.7,318.2,674.7,women in Ireland had at least a basic level of 
+20,11,3,Calibri,11.0,108.0,678.2,318.3,689.3,"digital skills – with a gender gap of 2.98 pps, "
+20,11,4,Calibri,11.0,108.0,692.7,296.9,703.8,slightly above the EU average of 2.23 pps. 
+20,12,0,SymbolMT,10.0,90.0,708.4,94.6,720.6,
+20,12,0,ArialMT,10.0,94.6,709.4,97.4,720.5, 
+20,12,1,Calibri-Bold,11.0,108.0,710.1,178.5,721.2,Education level
+20,12,1,Calibri,11.0,178.6,710.1,525.7,721.2,: The digital divide is widest between educational groups. While 88.23% of 
+20,12,2,Calibri,11.0,108.0,724.7,525.8,735.7,"those with tertiary education possess at least a basic level of digital skills, only 14.43% of "
+20,12,3,Calibri,11.0,108.0,739.2,525.9,750.2,"individuals with low or no formal education do, creating a gap of 58.48 pps – one of the highest "
+20,12,4,Calibri,11.0,108.0,753.7,153.7,764.8,in the EU. 
+20,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+21,2,0,SymbolMT,10.0,90.0,82.3,94.6,94.5,
+21,2,0,ArialMT,10.0,94.6,83.3,97.4,94.4, 
+21,2,1,Calibri-Bold,11.0,108.0,84.0,163.4,95.1,Living areas
+21,2,1,Calibri,11.0,163.5,84.0,525.7,95.1,": Digital skills are widespread in rural communities, with 71.55% of residents "
+21,2,2,Calibri,11.0,108.0,98.4,525.9,109.5,"having at least a basic level of digital skills. The rural-urban gap is just 1.36 pps, far below the "
+21,2,3,Calibri,11.0,108.0,112.9,210.0,124.0,EU average (8.06 pps). 
+21,4,0,SymbolMT,10.0,90.0,133.8,94.6,145.9,
+21,4,0,ArialMT,10.0,94.6,134.8,97.4,145.9, 
+21,4,1,Calibri-Bold,11.0,108.0,135.5,158.6,146.5,Age groups
+21,4,1,Calibri,11.0,158.7,135.5,525.9,146.5,: The highest levels of digital skills are observed among those aged 25-34 (87.99%). 
+21,4,2,Calibri,11.0,108.0,149.9,512.8,160.9,"The lowest is among those aged 55-64 (46.74%), but this is still well above the EU average. "
+21,5,0,SymbolMT,10.0,90.0,170.7,94.6,182.9,
+21,5,0,ArialMT,10.0,94.6,171.7,97.4,182.8, 
+21,5,1,Calibri-Bold,11.0,108.0,172.5,191.6,183.5,Digital Skills Index
+21,5,1,Calibri,11.0,191.6,172.5,525.9,183.5,: Ireland scores above the EU average in all five digital competence areas. 
+21,5,2,Calibri,11.0,108.0,187.0,525.8,198.0,"Communication and collaboration scored highest (92.62%), while digital content creation was "
+21,5,3,Calibri,11.0,108.0,201.4,206.9,212.4,the lowest at 78.50%. 
+21,6,0,Calibri,11.0,72.0,223.9,525.9,235.0,"Ireland retains its 2030 national target of achieving 80% basic digital skills among its population, which "
+21,6,1,Calibri,11.0,72.0,238.4,525.8,249.4,appears realistic given the current good performance. Several major initiatives launched or scaled up 
+21,6,2,Calibri,11.0,72.0,252.9,324.3,263.9,in 2024 support this trajectory and are described below. 
+21,7,0,Calibri,11.0,72.0,275.4,91.2,286.5,The 
+21,7,0,Calibri-Bold,11.0,90.7,275.4,211.5,286.5,Adult Literacy for Life (ALL)
+21,7,0,Calibri,11.0,211.6,275.4,525.9,286.5," Strategy remains Ireland’s overarching policy for lifelong learning, with "
+21,7,1,Calibri,11.0,72.0,289.9,525.8,300.9,"a strong digital component. In 2024, it funded 103 community-based projects focused on digital and "
+21,7,2,Calibri,11.0,72.0,304.4,525.7,315.4,literacy inclusion. Applications opened in December 2024 for the 2025 Collaboration and Innovation 
+21,7,3,Calibri,11.0,72.0,318.9,525.8,329.9,Fund. The purpose of the fund is to pay for collaborative and innovative projects that support adults 
+21,7,4,Calibri,11.0,72.0,333.4,525.7,344.4,"with unmet literacy, numeracy, digital and financial literacy needs, and create a more literacy friendly "
+21,7,5,Calibri,11.0,72.0,347.8,525.9,358.9,"and equal society. Also in 2024, The ALL-programme Office – housed in SOLAS - provided additional "
+21,7,6,Calibri,11.0,72.0,362.3,525.9,373.4,funding to Age Action on expanding their digital literacy programme for older people. 1023 people 
+21,7,7,Calibri,11.0,72.0,376.8,525.7,387.9,"completed the competency-based digital skills training, of which: 406 older learners completed their "
+21,7,8,Calibri,11.0,72.0,391.4,523.6,402.4,"pre-course assessment measuring skills and confidence, and 246 of whom also completed their post-"
+21,7,9,Calibri,11.0,72.0,405.8,161.3,416.8,course assessment. 
+21,8,0,Calibri,11.0,72.0,428.3,91.2,439.4,The 
+21,8,0,Calibri-Bold,11.0,91.2,428.3,376.9,439.4,Social Inclusion and Community Activation Programme (SICAP)
+21,8,0,Calibri,11.0,377.0,428.3,525.9,439.4, delivers digital inclusion support 
+21,8,1,Calibri,11.0,72.0,442.9,525.9,453.9,"across 30 contract areas, including loans of digital devices, IT workshops, and outreach to marginalised "
+21,8,2,Calibri,11.0,72.0,457.3,525.9,468.3,"communities. As of 2024, 34 IT courses were active across seven regions, and three local organisations "
+21,8,3,Calibri,11.0,72.0,471.8,412.5,482.8,implementing the courses were focused entirely on digital access initiatives. 
+21,9,0,Calibri,11.0,72.0,494.3,525.9,505.4,"Libraries continue to play a vital role in digital access. In 2024, Ireland upgraded the digital "
+21,9,1,Calibri,11.0,72.0,508.7,525.9,519.8,"infrastructure across 330 public libraries, providing free access to new PCs, laptops, and tablets. These "
+21,9,2,Calibri,11.0,72.0,523.3,525.8,534.3,spaces also complement ALL by offering accessible internet and training environments for underserved 
+21,9,3,Calibri,11.0,72.0,537.8,107.8,548.8,groups. 
+21,10,0,Calibri,11.0,72.0,560.3,249.2,571.3,"From an employment perspective, the "
+21,10,0,Calibri-Bold,11.0,250.4,560.3,335.1,571.3,Pathways to Work
+21,10,0,Calibri,11.0,335.1,560.3,525.9,571.3, strategy provides targeted upskilling and 
+21,10,1,Calibri,11.0,72.0,574.8,525.9,585.8,digital training to jobseekers and those outside the labour force. Irish authorities have highlighted as 
+21,10,2,Calibri,11.0,72.0,589.3,378.2,600.3,a vital measure to connect national policy with local delivery efforts. 
+21,11,0,Calibri,11.0,72.0,611.7,436.4,622.8,Ireland also continues to integrate digital skills across the education system. The 
+21,11,0,Calibri-Bold,11.0,437.1,611.7,525.9,622.8,Digital Strategy for 
+21,11,1,Calibri-Bold,11.0,72.0,626.3,525.8,637.3,Schools to 2027 sets out the Department of Education and Youth’s policy to embed the use of digital 
+21,11,2,Calibri-Bold,11.0,72.0,640.8,525.5,651.8,"technology across the curriculum in teaching, learning and assessment in primary and secondary "
+21,11,3,Calibri-Bold,11.0,72.0,655.2,111.3,666.2,schools. 
+21,11,3,Calibri,11.0,112.7,655.2,131.9,666.2,The 
+21,11,3,Calibri-Bold,11.0,133.1,655.2,341.7,666.2,STEM Education Policy Statement 2017-2026
+21,11,3,Calibri,11.0,341.7,655.2,525.8,666.2," promotes STEM teaching, learning and "
+21,11,4,Calibri,11.0,72.0,669.7,504.0,680.7,"assessment practices using digital technologies at primary and secondary levels. Additionally, the "
+21,11,4,Calibri-Bold,11.0,504.0,669.7,525.9,680.7,new 
+21,11,5,Calibri-Bold,11.0,72.0,684.2,344.8,695.3,"Literacy, Numeracy and Digital Literacy Strategy (2024–2033)"
+21,11,5,Calibri,11.0,344.7,684.2,525.9,695.3, ensures the development digital literacy 
+21,11,6,Calibri,11.0,72.0,698.7,484.3,709.8,"skills, knowledge, and dispositions from early childhood to the end of secondary education.. "
+21,12,0,Calibri,11.0,72.0,721.2,303.0,732.2,"Under Ireland’s RRP, a EUR 64 million investment "
+21,12,0,Calibri-Bold,11.0,304.6,721.2,525.8,732.2,supports digital inclusion across the education 
+21,12,1,Calibri-Bold,11.0,72.0,735.7,115.1,746.8,spectrum
+21,12,1,Calibri,11.0,115.1,735.7,525.9,746.8,. The package combines infrastructure such as the provision of high-speed broadband of 
+21,12,2,Calibri,11.0,72.0,750.2,525.6,761.3,100Mbs for almost 1000 primary schools and funding for a once off grant scheme for all recognised 
+21,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+22,3,0,Calibri,11.0,72.0,84.0,525.6,95.1,primary and post primary schools in the free education scheme to support learners at risk of 
+22,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,educational disadvantage through the digital divide.  These investment projects were aligned with 
+22,3,2,Calibri,11.0,72.0,112.9,525.6,124.0,"strategic reforms including the Digital Strategy for Schools to 2027, the Adult Literacy, Numeracy and "
+22,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"Digital Literacy Strategy, measures to increase the number of ICT graduates, and supports for further "
+22,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,and higher education institutions to provide laptops to disadvantaged students. This holistic 
+22,3,5,Calibri,11.0,72.0,156.4,482.1,167.4,investment reinforces Ireland’s ambition to address digital divides across all education levels
+22,3,5,Calibri,7.0,482.1,155.5,485.7,162.4,9
+22,3,5,Calibri,11.0,485.6,156.4,490.9,167.4,. 
+22,4,0,Calibri,11.0,72.0,178.9,525.8,190.0,"At enterprise level, Skillnet Ireland, the National Apprenticeship Alliance, and Local Enterprise Offices "
+22,4,1,Calibri,11.0,72.0,193.5,335.7,204.5,remain central delivery points for demand-led upskilling. A 
+22,4,1,Calibri-Bold,11.0,335.7,193.5,523.4,204.5,pilot SME Training Cost Recovery Scheme
+22,4,1,Calibri,11.0,523.4,193.5,525.9,204.5, 
+22,4,2,Calibri,11.0,72.0,207.9,525.9,218.9,is under development to subsidise small businesses when allowing employees take time off for digital 
+22,4,3,Calibri,11.0,72.0,222.4,135.4,233.4,skills training. 
+22,5,0,Calibri-LightItalic,11.0,72.0,245.0,135.4,256.0,ICT specialists 
+22,6,0,Calibri-Bold,11.0,72.0,271.4,525.9,282.4,"In 2024, Ireland reached 6.3% of ICT specialists in total employment (2030 national target: 226 000, "
+22,6,1,Calibri-Bold,11.0,72.0,285.9,379.9,296.9,"around 9.6% of employment), well above the EU average of 5.0%. "
+22,6,1,Calibri,11.0,380.8,285.9,525.8,296.9,"However, this represents only a "
+22,6,2,Calibri,11.0,72.0,300.4,525.8,311.5,"marginal increase of 0.1 pps from 6.2% in 2023, with an annual growth rate of 1.6%, significantly below "
+22,6,3,Calibri,11.0,72.0,314.9,525.7,326.0,the EU average growth of 4.2%. This relatively slow increase takes place against the backdrop of a 1.1 
+22,6,4,Calibri,11.0,72.0,329.3,484.7,340.4,% growth in the number of people in employment in Ireland between Q2 2023 and Q3 2024
+22,6,4,Calibri,7.0,484.9,328.4,491.9,335.4,10
+22,6,4,Calibri,11.0,491.9,329.3,525.9,340.4,. While 
+22,6,5,Calibri,11.0,72.0,343.8,525.5,354.9,"Ireland maintains a strong baseline, progress remains too slow to meet the national target, and the "
+22,6,6,Calibri,11.0,72.0,358.4,293.2,369.4,country is lagging behind its expected trajectory. 
+22,6,6,Calibri-Bold,11.0,293.7,358.4,525.9,369.4,"To reach the objective, Ireland would need to add "
+22,6,7,Calibri-Bold,11.0,72.0,372.9,525.9,383.9,"around 8 700 new ICT specialists annually, a pace that has not yet been achieved under current "
+22,6,8,Calibri-Bold,11.0,72.0,387.3,106.8,398.3,trends. 
+22,7,0,Calibri-Bold,11.0,72.0,409.9,421.3,420.9,Ireland continues to outperform the EU average in closing the gender gap. 
+22,7,0,Calibri,11.0,422.3,409.9,525.9,420.9,Women accounted for 
+22,7,1,Calibri,11.0,72.0,424.4,525.9,435.4,"24.4% of ICT specialists in 2024, compared to 19.5% at EU level. However, the annual growth rate was "
+22,7,2,Calibri,11.0,72.0,438.8,525.9,449.8,"modest (0.4% vs 0.5% in the EU), signalling a stagnation that risks limiting further convergence. There "
+22,7,3,Calibri,11.0,72.0,453.3,355.4,464.4,is still a need for renewed momentum to close this gender gap. 
+22,8,0,Calibri-Bold,11.0,72.0,475.7,337.8,486.8,"Meanwhile, ICT training provision in enterprises declined."
+22,8,0,Calibri,11.0,338.1,475.7,525.7,486.8," In 2022, 23.21% of Irish firms with more "
+22,8,1,Calibri,11.0,72.0,490.3,525.5,501.3,"than 10 employees provided ICT training, slightly above the EU average (22.37%). By 2024, this had "
+22,8,2,Calibri,11.0,72.0,504.8,523.6,515.8,"fallen to 21.58%, below the EU average (22.29%). The annual contraction reflects a fall in employer-"
+22,8,3,Calibri,11.0,72.0,519.3,525.7,530.3,"led upskilling, pointing to a structural fragility in Ireland’s overall training system despite its otherwise "
+22,8,4,Calibri,11.0,72.0,533.8,197.2,544.9,advanced digital landscape. 
+22,9,0,Calibri,11.0,72.0,556.3,525.9,567.3,The Irish labour market remains focused on high-value digital roles. Based on Eurostat data from online 
+22,9,1,Calibri,11.0,72.0,570.8,167.0,581.9,"job advertisements, "
+22,9,1,Calibri-Bold,11.0,170.9,570.8,525.7,581.9,the most sought-after profiles in 2024 were software and applications 
+22,9,2,Calibri-Bold,11.0,72.0,585.2,525.6,596.3,"developers and analysts (56.5% of postings), followed by ICT operations and user support "
+22,9,3,Calibri-Bold,11.0,72.0,599.7,343.4,610.8,technicians (13.5%) and other ICT specialist roles (15.2%). 
+22,9,3,Calibri,11.0,344.4,599.7,525.9,610.8,The ‘other ICT specialist roles’ category 
+22,9,4,Calibri,11.0,72.0,614.3,525.8,625.3,"exceeds the EU average and comprises experts in cybersecurity, AI, and advanced digital systems. "
+22,9,5,Calibri,11.0,72.0,628.8,525.6,639.8,"Demand for telecommunications and hardware roles remains low, suggesting a continued shift to "
+22,9,6,Calibri,11.0,72.0,643.2,171.9,654.2,expert digital profiles. 
+22,10,0,Calibri-Bold,11.0,72.0,665.7,525.9,676.8,"Ireland reaffirmed its policy commitment to raise the number of ICT specialists in the 2024 roadmap, "
+22,10,1,Calibri-Bold,11.0,72.0,680.3,436.5,691.3,which maintains a package of nine core measures supported by EUR 957 million.
+22,10,1,Calibri,11.0,436.5,680.3,525.9,691.3, A structural reform 
+22,10,2,Calibri,11.0,72.0,694.7,101.5,705.7,of the 
+22,10,2,Calibri-Bold,11.0,102.0,694.7,205.8,705.7,National Training Fund
+22,10,2,Calibri,11.0,205.9,694.7,376.9,705.7," is central to this approach, allocating "
+22,10,2,Calibri-Bold,11.0,377.5,694.7,455.4,705.7,EUR 1.485 billion
+22,10,2,Calibri,11.0,455.4,694.7,525.9,705.7, to tertiary and 
+22,10,3,Calibri,11.0,72.0,709.2,449.6,720.2,higher education between 2025 and 2030. Apprenticeship budgets were increased by 
+22,10,3,Calibri-Bold,11.0,449.1,709.2,525.9,720.2,EUR 67.4 million 
+22,10,4,Calibri-Bold,11.0,72.0,723.7,364.5,734.8,in 2024 then over 77 million in 2025. 244 active ICT apprentices
+22,10,4,Calibri,11.0,364.8,723.7,525.8,734.8, were reported in 2023 which grew 
+22,11,0,Calibri,11.0,216.1,741.1,218.5,752.2, 
+22,11,1,Calibri,6.0,72.0,752.2,75.1,758.2,9
+22,11,1,Calibri,9.0,75.0,752.5,442.8,761.5," Recovery and Resilience Scoreboard: Thematic analysis Digital skills and education, December 2024. "
+22,11,2,Calibri,6.0,72.0,761.1,78.1,767.1,10
+22,11,2,Calibri,9.0,78.0,761.4,144.7,770.4, Data available at: 
+22,11,2,Calibri,9.0,144.7,761.4,470.1,770.4,https://www.cso.ie/en/statistics/generalstatisticalpublications/irelandtheyearinnumbers/
+22,11,2,Calibri,9.0,470.4,761.4,474.6,770.4,  
+22,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+23,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"to 447 in 2024. At the end of Q1 2025, there 484 active ICT apprentices, with 42 ICT apprentice "
+23,2,1,Calibri,11.0,72.0,98.4,438.1,109.5,registrations being recorded in Q1 2025. Further growth is planned through 2025. 
+23,4,0,Calibri,11.0,72.0,121.0,357.4,132.0,Upskilling and reskilling mechanisms also remained active. 
+23,4,0,Calibri-Bold,11.0,361.4,121.0,425.0,132.0,Springboard+ 
+23,4,0,Calibri,11.0,428.9,121.0,448.2,132.0,and 
+23,4,0,Calibri-Bold,11.0,452.0,121.0,485.8,132.0,Skillnet
+23,4,0,Calibri,11.0,485.9,121.0,525.9,132.0, Ireland 
+23,4,1,Calibri,11.0,72.0,135.5,525.8,146.5,"continued throughout 2024, targeting both employed and unemployed individuals. The upcoming "
+23,4,2,Calibri,11.0,72.0,149.9,390.3,160.9,Springboard+ call in 2025 will prioritise digital and ICT programmes. A 
+23,4,2,Calibri-Bold,11.0,391.0,149.9,525.8,160.9,new Digital Technology Skills 
+23,4,3,Calibri-Bold,11.0,72.0,164.4,115.5,175.5,Roadmap
+23,4,3,Calibri,11.0,115.5,164.4,525.7,175.5," is also under preparation to forecast demand in advanced specialist roles, such as "
+23,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,"cybersecurity, AI, and quantum technologies. However, no new gender-specific or expert-focused "
+23,4,5,Calibri,11.0,72.0,193.5,270.7,204.5,actions were included in the 2024 roadmap. 
+23,5,0,Calibri,11.0,72.0,215.9,525.7,226.9,Ireland’s stronger-than-average share of female ICT professionals may partly reflect successful 
+23,5,1,Calibri,11.0,72.0,230.4,373.5,241.5,institutional efforts. As part of the EU’s Best Practice Accelerator
+23,5,1,Calibri,7.0,373.5,229.5,380.5,236.5,11
+23,5,1,Calibri,11.0,380.5,230.4,523.3,241.5,", Ireland presented three high-"
+23,5,2,Calibri,11.0,72.0,245.0,366.8,256.0,impact higher education initiatives to EU Member States: (i) the 
+23,5,2,Calibri-Bold,11.0,367.8,245.0,456.5,256.0,SuCcES programme
+23,5,2,Calibri,11.0,456.6,245.0,525.9,256.0, (Technological 
+23,5,3,Calibri,11.0,72.0,259.4,525.8,270.4,"University Dublin), launched in 2021, supporting recruitment and retention of women in ICT academia; "
+23,5,4,Calibri,11.0,72.0,273.9,86.3,284.9,(ii) 
+23,5,4,Calibri-Bold,11.0,89.2,273.9,127.7,284.9,INGENIC
+23,5,4,Calibri,11.0,127.8,273.9,525.7,284.9," (Trinity College Dublin), a 2023 national network coordinating institutional gender "
+23,5,5,Calibri,11.0,72.0,288.4,525.9,299.5,strategies across computing departments; and (iii) Technological University Dublin’s long-running 
+23,5,6,Calibri-Bold,11.0,72.0,302.9,306.2,314.0,mentoring model for female students in computing
+23,5,6,Calibri,11.0,306.4,302.9,523.6,314.0,", operational since 2012. While not government-"
+23,5,7,Calibri,11.0,72.0,317.3,492.1,328.4,"led, these initiatives illustrate scalable approaches to boosting gender inclusion across the EU. "
+23,6,0,Calibri-Bold,11.0,77.7,340.4,271.1,351.4,2024 recommendation on ICT Specialists: 
+23,6,0,Calibri,11.0,272.0,340.4,520.3,351.4,Expand apprenticeship programmes and reskilling and 
+23,6,1,Calibri,11.0,77.7,354.9,520.0,365.9,upskilling initiatives to meet the growing demand for ICT specialists through a structural reform of 
+23,6,2,Calibri,11.0,77.7,369.3,448.3,380.3,the National Training Fund. Efforts should be continued in bridging the gender gap. 
+23,6,2,Calibri-Bold,11.0,448.4,369.3,450.9,380.3, 
+23,7,0,Calibri-Bold,11.0,77.7,392.3,514.8,403.4,Ireland made some efforts to address the recommendation through new policy actions in 2024
+23,7,0,Calibri,11.0,515.2,392.3,520.3,403.4,. 
+23,7,1,Calibri,11.0,77.7,406.9,520.2,417.9,Structural reforms and significant financial commitments advanced the apprenticeship and reskilling 
+23,7,2,Calibri,11.0,77.7,421.4,520.2,432.4,"agenda, but more targeted national action will be needed to accelerate gender equality in ICT "
+23,7,3,Calibri,11.0,77.7,435.8,113.0,446.8,careers.
+23,7,3,Calibri-Bold,11.0,112.8,435.8,115.3,446.8, 
+23,8,0,Calibri,11.0,72.0,458.8,74.5,469.9, 
+23,9,0,Calibri-Light,12.0,72.0,481.5,476.9,493.5,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+23,10,0,Calibri-Bold,11.0,72.0,505.1,525.5,516.2,"In 2024, Ireland confirmed its position as one of the EU’s top performers in the provision of digital "
+23,10,1,Calibri-Bold,11.0,72.0,519.5,259.6,530.6,"public services, especially for businesses"
+23,10,1,Calibri,11.0,259.9,519.5,265.1,530.6,. 
+23,10,1,Calibri-Bold,11.0,266.1,519.5,525.7,530.6,The country achieved a score of 87.08 for digital public 
+23,10,2,Calibri-Bold,11.0,72.0,534.1,525.9,545.1,"services for citizens (2030 national target: 100), well above the EU average of 82.32, and a significant "
+23,10,3,Calibri-Bold,11.0,72.0,548.6,270.5,559.6,improvement from 81.21 in 2023 (up 7.2%). 
+23,10,3,Calibri,11.0,269.9,548.6,525.9,559.6,"This annual growth rate was double the EU’s 3.6%, placing "
+23,10,4,Calibri,11.0,72.0,563.1,525.8,574.2,"Ireland on a promising path. Cross-border services for citizens saw equally strong progress, rising from "
+23,10,5,Calibri,11.0,72.0,577.5,525.9,588.6,78.69 in 2023 to 85.79 in 2024 – again ahead of the EU benchmark and with an annual growth rate of 
+23,10,6,Calibri,11.0,72.0,592.1,149.8,603.1,9.0% (EU: 4.3%). 
+23,10,6,Calibri-Bold,11.0,150.7,592.1,525.8,603.1,The country is on track to meet both its national and EU-level targets for digital 
+23,10,7,Calibri-Bold,11.0,72.0,606.6,179.9,617.6,public services by 2030.
+23,10,7,Calibri,11.0,179.9,606.6,182.4,617.6, 
+23,11,0,Calibri-Bold,11.0,72.0,629.0,403.9,640.1,Digital public services for businesses remain Ireland’s top strength.
+23,11,0,Calibri,11.0,404.1,629.0,525.8,640.1," Since 2020, Ireland has "
+23,11,1,Calibri,11.0,72.0,643.5,525.9,654.6,maintained a perfect score of 100 for both domestic and cross-border digital services for businesses – 
+23,11,2,Calibri,11.0,72.0,658.1,525.7,669.1,one of only three EU countries to do so. Maintaining this leadership will require sustained attention to 
+23,11,3,Calibri,11.0,72.0,672.6,307.5,683.6,"usability, accessibility, and back-end interoperability. "
+23,12,0,Calibri,11.0,216.1,723.6,218.5,734.6, 
+23,12,1,Calibri,6.0,72.0,734.7,78.1,740.7,11
+23,12,1,Calibri,9.0,78.0,735.0,525.3,744.0, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+23,12,2,Calibri,9.0,72.0,743.7,525.0,752.7,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are available to all Member 
+23,12,3,Calibri,9.0,72.0,752.5,525.3,761.5,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+23,12,4,Calibri,9.0,72.0,761.4,250.7,770.4,"Green IT, and the Uptake of Digital Technologies. "
+23,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+24,3,0,Calibri-Bold,11.0,72.0,84.0,357.4,95.1,"Despite this strength, e-Health remains a structural weakness."
+24,3,0,Calibri,11.0,357.5,84.0,525.8,95.1," In 2024, Ireland’s score for access to "
+24,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"e-Health records rose to 24.52, up from 11.37 in 2023 – an impressive growth rate of 115.8%. "
+24,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"Nevertheless, this remains far below the EU average of 82.7. Ireland is therefore progressing quickly "
+24,3,3,Calibri,11.0,72.0,127.5,525.6,138.5,from a low baseline but still faces major gaps in availability and access across medical providers and 
+24,3,4,Calibri,11.0,72.0,142.0,157.0,153.0,service categories. 
+24,4,0,Calibri,11.0,72.0,164.4,144.6,175.5,"Meanwhile, the "
+24,4,0,Calibri-Bold,11.0,144.4,164.4,444.7,175.5,proportion of individuals interacting with public authorities online
+24,4,0,Calibri,11.0,444.8,164.4,525.9,175.5," remained strong, "
+24,4,1,Calibri,11.0,72.0,178.9,321.3,190.0,albeit with a slight decline. The share of users stood at 
+24,4,1,Calibri-Bold,11.0,322.0,178.9,392.1,190.0,90.09% in 2024
+24,4,1,Calibri,11.0,392.2,178.9,450.1,190.0,", down from "
+24,4,1,Calibri-Bold,11.0,450.7,178.9,520.8,190.0,91.53% in 2023
+24,4,1,Calibri,11.0,520.9,178.9,525.9,190.0,", "
+24,4,2,Calibri,11.0,72.0,193.5,281.1,204.5,but still significantly above the EU average of 
+24,4,2,Calibri-Bold,11.0,282.0,193.5,315.4,204.5,74.71%
+24,4,2,Calibri,11.0,315.3,193.5,525.8,204.5,. This small drop does not appear to reflect a 
+24,4,3,Calibri,11.0,72.0,207.9,474.7,218.9,structural issue as citizen uptake in Ireland continues to rank among the highest in the EU. 
+24,5,0,Calibri-LightItalic,11.0,72.0,230.4,89.0,241.5,eID 
+24,6,0,Calibri,11.0,72.0,257.0,402.9,268.0,Ireland continues to perform strongly in digital identification. The share of 
+24,6,0,Calibri-Bold,11.0,403.1,257.0,420.9,268.0,eID 
+24,6,0,Calibri,11.0,420.9,257.0,525.9,268.0,users reached 73.8% in 
+24,6,1,Calibri,11.0,72.0,271.4,299.1,282.4,"2024, well above the EU average of 41.1%. The "
+24,6,1,Calibri-Bold,11.0,301.4,271.4,346.6,282.4,MyGovID 
+24,6,1,Calibri,11.0,348.7,271.4,525.9,282.4,system has been widely adopted and 
+24,6,2,Calibri,11.0,72.0,285.9,525.8,296.9,"continues to, with over 2.7 million verified accounts as of December 2024, representing close to 65% "
+24,6,3,Calibri,11.0,72.0,300.4,525.8,311.5,of the adult population. Ireland has set an ambitious target of reaching 80% coverage among eligible 
+24,6,4,Calibri,11.0,72.0,314.9,163.1,326.0,individuals by 2030. 
+24,7,0,Calibri,11.0,72.0,337.4,345.9,348.4,Ireland is actively participating in EU-level pilots related to the 
+24,7,0,Calibri-Bold,11.0,345.3,337.4,520.8,348.4,European Digital Identity Wallet (EUDI)
+24,7,0,Calibri,11.0,520.8,337.4,525.9,348.4,", "
+24,7,1,Calibri,11.0,72.0,351.9,525.9,362.9,"including Digital Credentials for Europe. In 2024, Ireland conducted a pre-notification compliance "
+24,7,2,Calibri,11.0,72.0,366.4,525.8,377.4,assessment for MyGovID and coordinated with the European Commission and the Cooperation 
+24,7,3,Calibri,11.0,72.0,380.8,525.8,391.9,"Network in preparation for formal eIDAS notification, expected in 2025. A pilot of the EUDI Wallet was "
+24,7,4,Calibri,11.0,72.0,395.3,525.6,406.4,"carried out with 500 public servants, and broader implementation is in preparation. MyGovID is also "
+24,7,5,Calibri,11.0,72.0,409.9,525.6,420.9,being tested across sectors such as banking and social security. No major strategic changes were 
+24,7,6,Calibri,11.0,72.0,424.4,468.1,435.4,"introduced in 2024, but implementation continues in line with the eIDAS 2.0 framework. "
+24,8,0,Calibri-Bold,11.0,77.7,447.3,230.1,458.4,2024 recommendation on eID: 
+24,8,0,Calibri,11.0,233.8,447.3,520.2,458.4,Notify an eID scheme under the eIDAS Regulation to the 
+24,8,1,Calibri,11.0,77.7,461.8,520.0,472.9,"Commission, while leveraging digital schemes such as MyGovID and the EU Digital Identity Wallet "
+24,8,2,Calibri,11.0,77.7,476.3,312.4,487.4,to improve access to essential services under eIDAS. 
+24,8,2,Calibri-Bold,11.0,312.3,476.3,314.8,487.4, 
+24,9,0,Calibri-Bold,11.0,77.7,494.3,514.8,505.4,Ireland made some efforts to address the recommendation through new policy actions in 2024
+24,9,0,Calibri,11.0,515.2,494.3,520.3,505.4,. 
+24,9,1,Calibri,11.0,77.7,508.7,520.3,519.8,"Preparations for eIDAS notification advanced, and the EUDI Wallet was piloted. However, Ireland did "
+24,9,2,Calibri,11.0,77.7,523.3,432.6,534.3,not yet submit a formal notification in 2024. Further steps are planned in 2025. 
+24,10,0,Calibri,11.0,72.0,541.3,74.5,552.3, 
+24,11,0,Calibri-Italic,11.0,72.0,563.7,330.9,574.8,Digitalisation of public services for citizens and businesses 
+24,12,0,Calibri-Bold,11.0,72.0,586.3,525.7,597.3,Ireland’s roadmap reconfirms the 2030 target of achieving 100% availability of key digital public 
+24,12,1,Calibri-Bold,11.0,72.0,600.8,262.3,611.9,services for both citizens and businesses
+24,12,1,Calibri,11.0,262.5,600.8,525.7,611.9,. Progress in 2024 was supported by streamlined service 
+24,12,2,Calibri,11.0,72.0,615.2,518.6,626.3,"delivery and improved integration across systems, with a strong emphasis on human-centric design. "
+24,13,0,Calibri,11.0,72.0,637.8,525.6,648.8,Ireland’s latest Programme for Government reinforces the role of the Minister for Public Expenditure 
+24,13,1,Calibri,11.0,72.0,652.3,525.9,663.3,and Reform in driving digitally enabled transformation for the benefit of citizens and wider society.  A 
+24,13,2,Calibri,11.0,72.0,666.7,525.9,677.7,roadmap for the all-embracing transformation of Public Services will be published in June 2025.  This 
+24,13,3,Calibri,11.0,72.0,681.2,525.8,692.3,will set out how Ireland will go beyond the EU 2023 targets by having 100% of applicable public services 
+24,13,4,Calibri,11.0,72.0,695.7,411.0,706.8,online and these services being consumed online by at least 90% of people. 
+24,14,0,Calibri,11.0,72.0,718.2,492.9,729.2,Administrative simplification and digital-by-default approaches were strengthened through 
+24,14,0,Calibri-Bold,11.0,495.0,718.2,523.6,729.2,Gov.ie
+24,14,0,Calibri,11.0,523.4,718.2,525.9,729.2, 
+24,14,1,Calibri,11.0,72.0,732.7,303.3,743.8,improvements and the ongoing development of the 
+24,14,1,Calibri-Bold,11.0,303.1,732.7,462.0,743.8,Public Service Transformation 2030
+24,14,1,Calibri,11.0,462.1,732.7,525.9,743.8, strategy. Irish 
+24,14,2,Calibri,11.0,72.0,747.2,525.8,758.3,"authorities highlighted recent improvements in back-end integration, interoperability standards, and "
+24,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+25,2,0,Calibri,11.0,72.0,84.0,333.7,95.1,the reusability of government-held data – building on the 
+25,2,0,Calibri-Bold,11.0,334.1,84.0,427.0,95.1,‘only once’ principle
+25,2,0,Calibri,11.0,427.1,84.0,451.9,95.1,. The 
+25,2,0,Calibri-Bold,11.0,452.4,84.0,525.9,95.1,Interoperability 
+25,2,1,Calibri-Bold,11.0,72.0,98.4,124.0,109.5,Framework
+25,2,1,Calibri,11.0,124.0,98.4,525.7,109.5," piloted in 2024 underpinned these developments, particularly in health and social "
+25,2,2,Calibri,11.0,72.0,112.9,162.0,124.0,protection services. 
+25,4,0,Calibri,11.0,72.0,135.5,525.7,146.5,Ireland’s public service cloud strategy was also refined. While not framed explicitly as a sovereignty 
+25,4,1,Calibri,11.0,72.0,149.9,406.4,160.9,"measure, the state maintains control over its core infrastructure through the"
+25,4,1,Calibri-Bold,15.0,406.4,146.9,409.8,161.9, 
+25,4,1,Calibri-Bold,11.0,408.9,149.9,525.9,160.9,Office of the Government 
+25,4,2,Calibri-Bold,11.0,72.0,164.4,364.1,175.5,Chief Information Officer (OGCIO) managed public service cloud
+25,4,2,Calibri,11.0,364.1,164.4,525.8,175.5,", hosted on secure national servers. "
+25,4,3,Calibri,11.0,72.0,178.9,250.7,190.0,Further developments in line with the 
+25,4,3,Calibri-Bold,11.0,252.2,178.9,448.0,190.0,European Interoperable Cloud Framework
+25,4,3,Calibri,11.0,448.1,178.9,525.9,190.0, are expected in 
+25,4,4,Calibri,11.0,72.0,193.5,99.6,204.5,2025. 
+25,5,0,Calibri-Bold,11.0,72.0,215.9,121.9,226.9,In addition
+25,5,0,Calibri,11.0,121.8,215.9,174.1,226.9,", under the "
+25,5,0,Calibri-Bold,11.0,174.3,215.9,302.6,226.9,recovery and resilience plan
+25,5,0,Calibri,11.0,302.6,215.9,385.2,226.9,", Ireland allocated "
+25,5,0,Calibri-Bold,11.0,385.5,215.9,523.5,226.9,EUR 85 million (Component 2)
+25,5,0,Calibri,11.0,523.4,215.9,525.9,226.9, 
+25,5,1,Calibri,11.0,72.0,230.4,449.9,241.5,to support the digital transformation of the public administration. This includes the 
+25,5,1,Calibri-Bold,11.0,450.5,230.4,525.9,241.5,development of 
+25,5,2,Calibri-Bold,11.0,72.0,245.0,313.6,256.0,an online response option for the population census
+25,5,2,Calibri,11.0,313.8,245.0,525.9,256.0,", which aims to make the data collection more "
+25,5,3,Calibri,11.0,72.0,259.4,485.6,270.4,"efficient, streamline administrative tasks, and reduce processing time through digital means. "
+25,6,0,Calibri-Italic,11.0,72.0,281.9,112.8,293.0,e-Health 
+25,7,0,Calibri-Bold,11.0,72.0,304.4,525.7,315.4,"Ireland did not provide a national e-Health trajectory point for 2024 but made significant progress, "
+25,7,1,Calibri-Bold,11.0,72.0,318.9,365.4,329.9,with its e-Health maturity score more than doubling to 24.52
+25,7,1,Calibri,11.0,365.7,318.9,525.8,329.9,. Although still well below the EU 
+25,7,2,Calibri,11.0,72.0,333.4,525.8,344.4,"average of 82.7, the 13-point improvement signals the growing availability of digital health services "
+25,7,3,Calibri,11.0,72.0,347.8,525.8,358.9,"across the system. For the first time, Ireland submitted disaggregated data for each of its six health "
+25,7,4,Calibri,11.0,72.0,362.3,441.7,373.4,"regions, reflecting regional progress and efforts to close gaps in service availability. "
+25,8,0,Calibri,11.0,72.0,384.9,525.7,395.9,"In 2024, Ireland further developed its electronic health record infrastructure, prioritising data on "
+25,8,1,Calibri,11.0,72.0,399.3,525.9,410.4,"eDispensations and patient identification. This roll-out began in pharmacies nationwide, supported by "
+25,8,2,Calibri,11.0,72.0,413.8,525.8,424.9,HSE Live – a centralised assistance platform for health service users. A national patient application was 
+25,8,3,Calibri,11.0,72.0,428.3,525.9,439.4,"soft-launched in 2024 for select user groups. However, as this occurred after the 31 December 2024 "
+25,8,4,Calibri,11.0,72.0,442.9,399.4,453.9,"cut-off for this report, it is not yet reflected in the current maturity score. "
+25,9,0,Calibri,11.0,72.0,465.3,112.2,476.4,Ireland’s 
+25,9,0,Calibri-Bold,11.0,112.6,465.3,266.4,476.4,Digital Health Strategy 2023-2030
+25,9,0,Calibri,11.0,266.5,465.3,525.8,476.4, provides the strategic framework for integrated services. 
+25,9,1,Calibri,11.0,72.0,479.8,525.9,490.9,"Key components include the development of a national Shared Care Record starting in 2025, the "
+25,9,2,Calibri,11.0,72.0,494.3,525.9,505.4,"expansion of ePrescriptions and secure messaging for primary and community care, and pilots for the "
+25,9,3,Calibri,11.0,72.0,508.7,525.9,519.8,interoperability between doctor’s systems and central databases. This is further underpinned in 
+25,9,4,Calibri,11.0,72.0,523.3,525.7,534.3,Ireland’s latest Programme for Government which states that Government will ‘Continue to work 
+25,9,5,Calibri,11.0,72.0,537.8,525.9,548.8,towards the full digitisation of Irish healthcare records and information systems’.  Digital for Care 
+25,9,6,Calibri,11.0,72.0,552.3,525.9,563.3,describes a stepwise approach to delivering on this ambition and to put in place digital health records 
+25,9,7,Calibri,11.0,72.0,566.7,525.6,577.8,"for all, requiring a National Patient App, a National Shared Care Record and an enterprise level "
+25,9,8,Calibri,11.0,72.0,581.3,250.5,592.3,Electronic Health Record (EHR) system.  
+25,10,0,Calibri,11.0,72.0,603.8,525.9,614.9,"To complement this, Ireland is using EUR 75 million from the Recovery and Resilience Facility to invest "
+25,10,1,Calibri,11.0,72.0,618.2,525.7,629.3,"in e-Health tools, such as hospital ePharmacy systems and an integrated financial management "
+25,10,2,Calibri,11.0,72.0,632.7,110.5,643.8,platform
+25,10,2,Calibri,7.0,110.4,631.8,117.4,638.8,12
+25,10,2,Calibri,11.0,117.4,632.7,525.8,643.8,. Stakeholders highlighted that further progress would depend on onboarding healthcare 
+25,10,3,Calibri,11.0,72.0,647.3,525.8,658.3,"providers, clarifying consent and governance structures, and overcoming persistent interoperability "
+25,10,4,Calibri,11.0,72.0,661.8,124.7,672.8,issues. The 
+25,10,4,Calibri-Bold,11.0,126.1,661.8,305.7,672.8,"Health Information Bill, when enacted"
+25,10,4,Calibri,11.0,305.8,661.8,478.3,672.8, and Ireland’s implementation of the 
+25,10,4,Calibri-Bold,11.0,479.9,661.8,525.9,672.8,European 
+25,10,5,Calibri-Bold,11.0,72.0,676.2,156.0,687.2,Health Data Space
+25,10,5,Calibri,11.0,156.0,676.2,523.6,687.2, Regulation are expected to address key regulatory gaps and support future cross-
+25,10,6,Calibri,11.0,72.0,690.7,167.6,701.7,border compatibility. 
+25,11,0,Calibri-Bold,11.0,77.7,713.7,242.9,724.8,2024 recommendation on e-Health: 
+25,11,0,Calibri,11.0,243.1,713.7,520.1,724.8,(i) Expand the coverage of the online access service to ensure 
+25,11,1,Calibri,11.0,77.7,728.2,520.0,739.2,that all citizens can access their electronic health data online. (ii) Make further data types available 
+25,12,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+25,12,1,Calibri,6.0,72.0,761.1,78.1,767.1,12
+25,12,1,Calibri,9.0,78.0,761.4,165.9,770.4," European Commission, "
+25,12,1,Calibri,9.0,166.0,761.4,447.9,770.4,"Recovery and Resilience Scoreboard, Digital Public Services Thematic Analysis"
+25,12,1,Calibri,9.0,448.1,761.4,475.1,770.4,", 2024. "
+25,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+26,2,0,Calibri,11.0,77.7,84.5,520.0,95.5,to citizens through the online access service. (iii) Increase the supply of health data by onboarding 
+26,2,1,Calibri,11.0,77.7,99.0,261.0,110.1,more categories of healthcare providers. 
+26,4,0,Calibri-Bold,11.0,77.7,117.0,520.3,128.1,Ireland made some efforts to address the recommendation through new policy actions in 2024. 
+26,4,1,Calibri,11.0,77.7,131.4,520.3,142.5,Ireland advanced its e-Health strategy and invested in new infrastructure through the Recovery and 
+26,4,2,Calibri,11.0,77.7,145.9,520.1,157.0,"Resilience Facility, piloted a national patient application, and began rolling out eDispensation "
+26,4,3,Calibri,11.0,77.7,160.5,520.3,171.5,"services via pharmacies. The only major gap remains in e-Health, where progress is visible but "
+26,4,4,Calibri,11.0,77.7,175.0,266.2,186.0,ongoing efforts have not yet materialised. 
+26,5,0,Calibri,11.0,72.0,192.9,74.5,203.9, 
+26,6,0,Calibri-Light,15.0,72.0,216.3,526.6,231.3,Building a safe and human-centric digital environment and preserving our 
+26,6,1,Calibri-Light,15.0,72.0,236.1,141.6,251.1,democracy 
+26,7,0,Calibri,11.0,72.0,263.0,525.9,274.0,"In Ireland, online participation in political and civic life is relatively high and trending upwards. In 2024, "
+26,7,1,Calibri,11.0,72.0,277.5,525.8,288.5,"27.86% of individuals used the internet to participate in online consultations, express opinions, or sign "
+26,7,2,Calibri,11.0,72.0,291.9,525.8,302.9,"petitions, well above the EU average of 20.45%. This represents an increase from 20.08% in 2023, "
+26,7,3,Calibri,11.0,72.0,306.4,525.8,317.5,confirming Ireland’s position among the top-performing countries for digital civic engagement. 
+26,7,4,Calibri,11.0,72.0,320.9,525.7,332.0,"Specifically, 16.10% of individuals reported participating in online consultations or voting in 2024 (EU: "
+26,7,5,Calibri,11.0,72.0,335.4,406.5,346.5,"10.05%), and 20.23% shared civic or political opinions online (EU: 16.48%). "
+26,8,0,Calibri,11.0,72.0,357.9,525.7,368.9,"Due to the non-mandatory nature of certain Eurostat questions, Ireland does not report nationally "
+26,8,1,Calibri,11.0,72.0,372.4,525.8,383.4,comparable data on the share of individuals encountering or verifying untrue or doubtful information 
+26,8,2,Calibri,11.0,72.0,386.9,525.9,398.0,"online. However, policy responses have evolved significantly in recent years to address growing "
+26,8,3,Calibri,11.0,72.0,401.3,384.4,412.4,"concerns around disinformation, particularly during electoral periods. "
+26,9,0,Calibri,11.0,72.0,423.9,525.7,434.9,"Ireland has experienced increasing exposure to organised disinformation campaigns, including those "
+26,9,1,Calibri,11.0,72.0,438.4,525.9,449.5,targeting trust in public health information during the COVID-19 pandemic and election-related 
+26,9,2,Calibri,11.0,72.0,452.8,525.8,463.9,"narratives. In response, a national strategy to counter disinformation is under preparation. This process "
+26,9,3,Calibri,11.0,72.0,467.3,525.6,478.4,is led by a dedicated working group coordinated by the Media Literacy Ireland network and involves 
+26,9,4,Calibri,11.0,72.0,481.9,525.9,492.9,"collaboration between government, industry, academia and civil society. Existing efforts, such as the "
+26,9,5,Calibri,11.0,72.0,496.4,525.7,507.4,"‘Be Media Smart’, campaign promote public awareness on disinformation and are already well "
+26,9,6,Calibri,11.0,72.0,510.8,296.2,521.8,integrated into Ireland’s media literacy landscape. 
+26,10,0,Calibri,11.0,72.0,533.3,525.8,544.4,The Online Safety and Media Regulation Act 2022 (OSMR) represents a major legislative step forward. 
+26,10,1,Calibri,11.0,72.0,547.7,133.7,558.8,It established 
+26,10,1,Calibri-Bold,11.0,133.1,547.7,219.8,558.8,Coimisiún na Meán
+26,10,1,Calibri,11.0,219.8,547.7,525.9,558.8,", Ireland’s independent media and online safety regulator, which now "
+26,10,2,Calibri,11.0,72.0,562.3,525.9,573.3,oversees compliance with the Digital Services Act (DSA). This includes the development of binding 
+26,10,3,Calibri,11.0,72.0,576.8,525.8,587.9,Online Safety Codes for video-sharing platforms and systemic obligations to address harmful content 
+26,10,4,Calibri,11.0,72.0,591.3,525.7,602.4,"online. These frameworks will serve as key enforcement tools to address issues such as hate speech, "
+26,10,5,Calibri,11.0,72.0,605.9,525.9,616.9,"cyberbullying, and misleading narratives. As the designated Digital Services Coordinator, Coimisiún na "
+26,10,6,Calibri,11.0,72.0,620.3,425.5,631.3,Meán is responsible for handling complaints on breaches of the DSA in Ireland. 
+26,11,0,Calibri,11.0,72.0,642.8,460.3,653.9,The Electoral Reform Act 2022 further strengthens democratic resilience. It created 
+26,11,0,Calibri-Bold,11.0,461.9,642.8,525.9,653.9,An Coimisiún 
+26,11,1,Calibri-Bold,11.0,72.0,657.2,118.1,668.3,Toghcháin
+26,11,1,Calibri,11.0,118.1,657.2,525.7,668.3," (Electoral Commission), a permanent, independent body with a mandate to oversee "
+26,11,2,Calibri,11.0,72.0,671.7,525.7,682.8,electoral integrity and regulate online political advertising. Its remit includes monitoring 
+26,11,3,Calibri,11.0,72.0,686.3,525.9,697.3,disinformation risks during election campaigns and delivering public information initiatives to promote 
+26,11,4,Calibri,11.0,72.0,700.8,156.0,711.8,civic participation. 
+26,12,0,Calibri,11.0,72.0,723.2,525.7,734.3,"In education, Ireland continues to expand digital and media literacy across all levels. The Department "
+26,12,1,Calibri,11.0,72.0,737.8,525.8,748.8,"of Education and Youth, with the support of Webwise and the National Council for Curriculum and "
+26,12,2,Calibri,11.0,72.0,752.3,525.7,763.3,"Assessment, promotes critical thinking and safe online behaviour through dedicated resources and "
+26,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+27,2,0,Calibri,11.0,72.0,84.0,525.6,95.1,"classroom materials. These efforts form part of broader strategies outlined in the Literacy, Numeracy "
+27,2,1,Calibri,11.0,72.0,98.4,416.4,109.5,and Digital Literacy Strategy 2024-2033 and the Digital for Good programme. 
+27,4,0,Calibri,11.0,72.0,121.0,525.8,132.0,"Regarding the protection of minors, Ireland has enacted several important safeguards under the OSMR "
+27,4,1,Calibri,11.0,72.0,135.5,525.6,146.5,Act. Online platforms are required to adopt measures to protect children from harmful content and 
+27,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,improve content moderation systems. Coimisiún na Meán adopted Ireland’s first dedicated Online 
+27,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,"Safety Code in October 2024, with a focus on those platforms most frequently used by children and "
+27,4,4,Calibri,11.0,72.0,178.9,525.8,190.0,"young people. In parallel, Ireland is participating in EU-level discussions on interoperable age "
+27,4,5,Calibri,11.0,72.0,193.5,525.7,204.5,"verification systems, including their future integration into the European Digital Identity Wallet "
+27,4,6,Calibri,11.0,72.0,207.9,525.8,218.9,framework. These initiatives complement existing educational and parental control measures 
+27,4,7,Calibri,11.0,72.0,222.4,253.9,233.4,developed by schools and public bodies. 
+27,5,0,Calibri,11.0,72.0,245.0,525.9,256.0,ComReg provides digital consumer-focused tools that support informed digital participation. These 
+27,5,1,Calibri,11.0,72.0,259.4,125.4,270.4,include the 
+27,5,1,Calibri,11.0,126.3,259.4,188.6,270.4,Compare Tool
+27,5,1,Calibri,11.0,188.7,259.4,525.7,270.4,", which helps users to find a mobile, broadband, home phone or bundled "
+27,5,2,Calibri,11.0,72.0,273.9,243.6,284.9,plan that best suits their needs. The 
+27,5,2,Calibri,11.0,245.2,273.9,388.5,284.9,Outdoor Mobile Coverage Map
+27,5,2,Calibri,11.0,388.5,273.9,525.9,284.9," web and mobile application, "
+27,5,3,Calibri,11.0,72.0,288.4,525.9,299.5,enables users to navigate information related outdoor mobile coverage signal by provider at a location. 
+27,5,4,Calibri,11.0,72.0,302.9,91.2,314.0,The 
+27,5,4,Calibri,11.0,91.2,302.9,161.5,314.0,Service Checker
+27,5,4,Calibri,11.0,161.5,302.9,520.7,314.0, allows users to identify the service name or number of a Premium Rate Service. 
+27,6,0,Calibri,11.0,72.0,325.4,301.1,336.4,"Recently, ComReg launched new online tool called "
+27,6,0,Calibri,11.0,301.6,325.4,389.5,336.4,Broadband Checker
+27,6,0,Calibri,11.0,388.5,325.4,525.9,336.4,", to help the public determine "
+27,6,1,Calibri,11.0,72.0,339.9,525.9,350.9,what fixed broadband services are available in their area. It also conducted public information 
+27,6,2,Calibri,11.0,72.0,354.4,239.7,365.4,campaigns to raise awareness about 
+27,6,2,Calibri,11.0,240.6,354.4,289.5,365.4,broadband
+27,6,2,Calibri,11.0,289.5,354.4,312.3,365.4, and 
+27,6,2,Calibri,11.0,313.1,354.4,404.5,365.4,mobile technologies
+27,6,2,Calibri,11.0,404.4,354.4,525.9,365.4,", highlighting the benefits, "
+27,6,3,Calibri,11.0,72.0,368.8,525.8,379.9,"promote consumer tools, and position ComReg as a trusted source for independent advice and "
+27,6,4,Calibri,11.0,72.0,383.3,130.0,394.4,information. 
+27,7,0,Calibri,11.0,72.0,405.8,525.9,416.8,"ComReg has progressed a number of measures to reduce the volume of, and the harm-caused by, scam "
+27,7,1,Calibri,11.0,72.0,420.3,525.8,431.4,"calls and SMS, specifically with the implementation of an SMS Sender ID Registry in 2025. ComReg has "
+27,7,2,Calibri,11.0,72.0,434.8,525.8,445.9,also worked with the mobile industry to ensure support for real time text as required by the European 
+27,7,3,Calibri,11.0,72.0,449.3,151.3,460.4,Accessibility Act.  
+27,8,0,Calibri,11.0,72.0,471.8,525.6,482.8,Protecting and empowering people requires that rights are upheld and obligations enforced. In this 
+27,8,1,Calibri,11.0,72.0,486.3,525.8,497.4,"context, ComReg has taken targeted enforcement actions on issues such as information provision, "
+27,8,2,Calibri,11.0,72.0,500.8,525.6,511.9,"cooling-off rights, roaming, switching, and complaint handling. It has also revised and enhanced its "
+27,8,3,Calibri,11.0,72.0,515.2,525.9,526.3,dispute resolution procedures to ensure that end-users have access to timely and effective redress 
+27,8,4,Calibri,11.0,72.0,529.7,133.0,540.8,mechanisms. 
+27,9,0,Calibri,11.0,72.0,552.3,525.9,563.3,"Overall, Ireland’s framework for a safer digital environment is based on a whole-of-society approach, "
+27,9,1,Calibri,11.0,72.0,566.7,525.9,577.8,"combining regulation, education, civic participation, and digital rights. While there are gaps in the "
+27,9,2,Calibri,11.0,72.0,581.3,525.8,592.3,"statistical monitoring of disinformation exposure and fact-checking behaviours, national efforts to "
+27,9,3,Calibri,11.0,72.0,595.8,525.9,606.8,build resilience – especially through cross-sector collaboration and youth education – are well aligned 
+27,9,4,Calibri,11.0,72.0,610.3,306.4,621.3,with EU priorities and evolving legislative standards. 
+27,10,0,Calibri,11.0,72.0,632.7,74.5,643.8, 
+27,10,1,Calibri,11.0,216.1,632.7,218.5,643.8, 
+27,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+28,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Leveraging digital transformation for a 
+28,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+28,4,0,Calibri-Bold,11.0,72.0,160.5,525.7,171.5,"Ireland has made climate action a national priority, committing to reduce greenhouse gas emissions "
+28,4,1,Calibri-Bold,11.0,72.0,175.0,440.9,186.0,by 51% across all sectors by 2030 and to achieve net-zero emissions by 2050
+28,4,1,Calibri,11.0,441.1,175.0,525.9,186.0,. The government 
+28,4,2,Calibri,11.0,72.0,189.5,298.9,200.5,explicitly links climate and digital goals through its 
+28,4,2,Calibri-Bold,11.0,299.2,189.5,428.4,200.5,Programme for Government
+28,4,2,Calibri,11.0,428.5,189.5,433.6,200.5,", "
+28,4,2,Calibri-Bold,11.0,433.9,189.5,525.9,200.5,the White Paper on 
+28,4,3,Calibri-Bold,11.0,72.0,203.9,118.8,214.9,Enterprise
+28,4,3,Calibri,11.0,118.8,203.9,162.8,214.9,", and the "
+28,4,3,Calibri-Bold,11.0,163.8,203.9,262.3,214.9,Circular Economy Act
+28,4,3,Calibri,11.0,262.4,203.9,525.9,214.9,. The updated roadmap reconfirms the integration of the 
+28,4,4,Calibri,11.0,72.0,218.4,525.9,229.5,green and digital transitions as a cornerstone of national policy. According to the latest 
+28,4,5,Calibri,11.0,72.0,233.0,140.3,244.0,Eurobarometer
+28,4,5,Calibri,7.0,140.2,232.0,147.2,239.0,13
+28,4,5,Calibri,11.0,147.1,233.0,525.6,244.0," survey, 89% of Irish respondents believe that digital technologies should be used to "
+28,4,6,Calibri,11.0,72.0,247.5,514.3,258.5,"support environmental sustainability, which is one of the highest levels of public support in the EU. "
+28,5,0,Calibri-Bold,11.0,72.0,269.9,500.3,281.0,"Despite high levels of awareness, the adoption of energy efficiency measures remains uneven."
+28,5,0,Calibri,11.0,500.5,269.9,525.9,281.0, Only 
+28,5,1,Calibri,11.0,72.0,284.4,525.7,295.5,"20% of Irish businesses implemented measures to reduce ICT energy consumption in 2024, with most "
+28,5,2,Calibri,11.0,72.0,299.0,525.9,310.0,citing cost or complexity as the key barriers. While 56% considered the environmental impact when 
+28,5,3,Calibri,11.0,72.0,313.4,525.9,324.4,"selecting ICT solutions, only 30% of firms with high levels of digital intensity incorporated sustainability "
+28,5,4,Calibri,11.0,72.0,327.9,392.8,338.9,"as a criterion, which highlights the need for more structured incentives. "
+28,6,0,Calibri,11.0,72.0,350.4,525.9,361.5,"From a consumer perspective, price and technical specifications remain the dominant factors when "
+28,6,1,Calibri,11.0,72.0,364.8,525.7,375.9,"purchasing ICT devices, with only 27.12% of Irish users considering energy efficiency important (EU: "
+28,6,2,Calibri,11.0,72.0,379.4,525.8,390.4,19.35%) and just 14.32% considering eco-design important (EU: 12.04%). Recycling rates are modest: 
+28,6,3,Calibri,11.0,72.0,393.9,525.5,404.9,8.97% of old mobile phones and 14.52% of old laptops are recycled (EU: 10.93% and 11.31% 
+28,6,4,Calibri,11.0,72.0,408.4,525.8,419.5,"respectively). A significant share of laptops (69.32%) is kept at home after use, compared to the EU "
+28,6,5,Calibri,11.0,72.0,422.8,410.0,433.9,"average of 51.16%, highlighting a potential for targeted recycling initiatives. "
+28,7,0,Calibri,11.0,72.0,445.4,525.6,456.4,"Green public procurement (GPP) is a key area of policy leverage. In April 2024, the government "
+28,7,1,Calibri,11.0,72.0,459.9,130.7,470.9,adopted the 
+28,7,1,Calibri-Bold,11.0,131.8,459.9,425.0,470.9,Green Public Procurement Strategy and Action Plan 2024-2027
+28,7,1,Calibri,11.0,425.0,459.9,525.9,470.9,", which aims to make "
+28,7,2,Calibri,11.0,72.0,474.3,525.7,485.4,"green criteria a standard part of all procurement procedures, particularly in ICT, construction, "
+28,7,3,Calibri,11.0,72.0,488.8,525.8,499.9,"transport, and energy-related services. The strategy mandates GPP implementation and monitoring "
+28,7,4,Calibri,11.0,72.0,503.3,525.9,514.4,"across sectors, integrates circular economy objectives, and establishes dedicated training and "
+28,7,5,Calibri,11.0,72.0,517.9,525.9,528.9,reporting tools. The government has also launched a searchable GPP-criteria database and mandated 
+28,7,6,Calibri,11.0,72.0,532.3,190.3,543.3,its use in all public tenders
+28,7,6,Calibri,7.0,190.2,531.4,197.3,538.3,14
+28,7,6,Calibri,11.0,197.2,532.3,202.5,543.3,. 
+28,8,0,Calibri,11.0,72.0,554.8,112.2,565.9,Ireland’s 
+28,8,0,Calibri-Bold,11.0,112.1,554.8,274.6,565.9,public digital infrastructure strategy
+28,8,0,Calibri,11.0,274.7,554.8,525.8,565.9, maintains national control over critical systems through 
+28,8,1,Calibri,11.0,72.0,569.4,525.9,580.4,"the OGCIO-managed public service cloud, which is hosted on secure national servers. This set-up "
+28,8,2,Calibri,11.0,72.0,583.8,525.9,594.8,"ensures compliance with government ICT policies and includes sustainability objectives, such as "
+28,8,3,Calibri,11.0,72.0,598.3,447.2,609.3,reducing the energy consumption of cooling systems and data storage infrastructure
+28,8,3,Calibri,7.0,447.2,597.4,454.2,604.4,15
+28,8,3,Calibri,11.0,454.2,598.3,459.4,609.3,. 
+28,9,0,Calibri,11.0,72.0,620.7,477.9,631.8,Digital technologies are also being deployed directly in support of Ireland’s green goals. 
+28,9,0,Calibri-Bold,11.0,479.4,620.7,525.9,631.8,The Build 
+28,9,1,Calibri-Bold,11.0,72.0,635.3,138.2,646.3,Digital project
+28,9,1,Calibri,11.0,138.3,635.3,525.9,646.3, applies Building Information Modelling and other digital tools to decarbonise the 
+28,9,2,Calibri,11.0,72.0,649.8,525.7,660.8,construction sector. A new data processing centre for the public service will target a power usage 
+28,9,3,Calibri,11.0,72.0,664.3,525.7,675.3,"effectiveness (PUE) of 1.2, below the 1.3 Climate Neutral Data Centre Pact benchmark. Additional "
+28,10,0,Calibri,11.0,216.1,712.5,218.5,723.6, 
+28,11,0,Calibri,6.0,72.0,725.5,78.1,731.5,13
+28,11,0,Calibri,9.0,78.0,725.7,288.5,734.7, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+28,11,0,Calibri,9.0,288.7,725.7,518.0,734.7,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+28,11,0,Calibri,9.0,518.2,725.7,520.2,734.7, 
+28,11,1,Calibri,6.0,72.0,734.7,78.1,740.7,14
+28,11,1,Calibri,9.0,78.0,735.0,525.4,744.0," Green Public Procurement Strategy and Action Plan 2024-2027. Published on 4 April 2024, Available here: "
+28,11,2,Calibri,9.0,72.0,743.7,347.7,752.7,https://assets.gov.ie/288344/3b6eece7-7d30-47c5-895e-0512a0e9b3f8.pdf
+28,11,2,Calibri,9.0,347.1,743.7,351.5,752.7,. 
+28,11,3,Calibri,6.0,72.0,752.2,78.1,758.2,15
+28,11,3,Calibri,9.0,78.0,752.5,104.4,761.5," OECD, "
+28,11,3,Calibri,9.0,104.1,752.5,525.3,761.5,"The Digital Transformation of Public Procurement in Ireland: A Report on the Current State, OECD Public Governance "
+28,11,4,Calibri,9.0,72.0,761.4,101.6,770.4,Reviews
+28,11,4,Calibri,9.0,101.5,761.4,128.4,770.4,", 2024. "
+28,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+29,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,carbon tracking mechanisms have been brought into capital works procurement to enable embodied 
+29,2,1,Calibri,11.0,72.0,98.4,160.4,109.5,carbon monitoring. 
+29,4,0,Calibri,11.0,72.0,121.0,91.2,132.0,The 
+29,4,0,Calibri-Bold,11.0,91.2,121.0,193.5,132.0,Digital Transition Fund
+29,4,0,Calibri,11.0,193.4,121.0,525.8,132.0,", launched under Ireland’s RRP and co-funded by the EU, supports SMEs in "
+29,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"adopting digital tools that improve SMEs’ environmental performance. By the end of 2024, EUR 46.15 "
+29,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,million had been paid out to 558 companies. Four European Digital Innovation Hubs also provide 
+29,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,services that help SMEs reduce their environmental impact through digital innovation. This includes 
+29,4,4,Calibri,11.0,72.0,178.9,481.9,190.0,test-before-invest programmes for energy-efficient solutions in manufacturing and logistics. 
+29,5,0,Calibri,11.0,72.0,201.4,139.4,212.4,"In parallel, the "
+29,5,0,Calibri-Bold,11.0,139.8,201.4,225.8,212.4,Green for Business
+29,5,0,Calibri,11.0,225.8,201.4,247.9,212.4, and 
+29,5,0,Calibri-Bold,11.0,248.3,201.4,298.1,212.4,GreenStart
+29,5,0,Calibri,11.0,298.1,201.4,525.9,212.4, schemes offer tailored support to SMEs aiming to 
+29,5,1,Calibri,11.0,72.0,215.9,525.8,226.9,become more sustainable. Grants are tied to investments in energy-efficient technologies verified 
+29,5,2,Calibri,11.0,72.0,230.4,130.0,241.5,through the 
+29,5,2,Calibri-Bold,11.0,132.3,230.4,209.7,241.5,Triple E Register
+29,5,2,Calibri,11.0,209.8,230.4,525.9,241.5, of Ireland’s Sustainable Energy Authority. These instruments were 
+29,5,3,Calibri,11.0,72.0,245.0,525.9,256.0,highlighted by Irish authorities as critical for strengthening SMEs’ resilience while reducing their 
+29,5,4,Calibri,11.0,72.0,259.4,175.6,270.4,environmental impact. 
+29,6,0,Calibri,11.0,72.0,281.9,281.0,293.0,"On the skills side, the government published "
+29,6,0,Calibri-Bold,11.0,282.4,281.9,363.2,293.0,Green Skills 2030
+29,6,0,Calibri,11.0,363.3,281.9,417.9,293.0,", a national "
+29,6,0,Calibri-Bold,11.0,419.4,281.9,525.9,293.0,Further Education and 
+29,6,1,Calibri-Bold,11.0,72.0,296.3,108.4,307.4,Training
+29,6,1,Calibri,11.0,108.5,296.3,525.8,307.4, strategy to build a workforce ready for the green transition. It includes new apprenticeships 
+29,6,2,Calibri,11.0,72.0,310.9,525.7,321.9,"in sustainability and a national offshore wind academy, reflecting skills gaps identified by industry. "
+29,6,3,Calibri,11.0,72.0,325.4,408.7,336.4,These efforts are complemented by the integration of green topics into the 
+29,6,3,Calibri-Bold,11.0,408.8,325.4,525.9,336.4,Adult Literacy and Digital 
+29,6,4,Calibri-Bold,11.0,72.0,339.9,135.2,350.9,Skills Strategy
+29,6,4,Calibri,11.0,135.3,339.9,323.6,350.9,", supporting objectives for a just transition"
+29,6,4,Calibri,7.0,323.6,339.0,330.6,345.9,16
+29,6,4,Calibri,11.0,330.5,339.9,335.8,350.9,. 
+29,7,0,Calibri-Bold,11.0,77.7,362.8,345.8,373.9,2024 recommendation on the green and digital transitions 
+29,8,0,Calibri,11.0,77.7,380.3,412.5,391.4,Develop a coherent approach to twinning the digital and green transitions: 
+29,9,0,Calibri,11.0,95.7,397.9,104.9,408.9,(i)
+29,9,0,ArialMT,11.0,104.9,396.2,108.0,408.5, 
+29,9,1,Calibri,11.0,131.7,397.9,520.3,408.9,"Promote improvements in the energy and material efficiency of digital infrastructures, "
+29,9,2,Calibri,11.0,131.7,412.4,248.5,423.4,in particular data centres. 
+29,10,0,Calibri,11.0,95.7,429.8,107.4,440.8,(ii)
+29,10,0,ArialMT,11.0,107.4,428.1,110.5,440.4, 
+29,10,1,Calibri,11.0,131.7,429.8,520.1,440.8,Support the development and deployment of digital solutions that reduce the carbon 
+29,10,2,Calibri,11.0,131.7,444.3,520.2,455.4,"footprint in other sectors, such as energy, transport, construction, and agriculture, "
+29,10,3,Calibri,11.0,131.7,458.8,345.3,469.9,including the uptake of such solutions by SMEs. 
+29,11,0,Calibri,11.0,95.7,476.3,109.9,487.4,(iii)
+29,11,0,ArialMT,11.0,109.9,474.6,113.0,486.9, 
+29,11,1,Calibri,11.0,131.7,476.3,520.0,487.4,Monitor and quantify the emission reductions of the deployed digital solutions in line 
+29,11,2,Calibri,11.0,131.7,490.7,520.0,501.8,with the relevant EU guidance and with the support of the methodology developed by 
+29,11,3,Calibri,11.0,131.7,505.3,149.1,516.3,the 
+29,11,3,Calibri,11.0,151.1,505.3,302.4,516.3,European Green Digital Coalition
+29,11,3,Calibri,11.0,302.5,505.3,520.3,516.3,", in view of future policy development and to "
+29,11,4,Calibri,11.0,131.7,519.8,251.1,530.8,attract relevant financing.  
+29,12,0,Calibri-Bold,11.0,77.7,537.8,517.6,548.8,Ireland made some efforts to address the recommendation through new policy actions in 2024.
+29,12,0,Calibri,11.0,517.8,537.8,520.3,548.8, 
+29,12,1,Calibri,11.0,77.7,552.3,520.2,563.3,"For the energy efficiency of digital infrastructure (point i), initiatives such as the public service data "
+29,12,2,Calibri,11.0,77.7,566.7,429.6,577.8,centre and sustainability criteria in government ICT policies are steps forward.  
+29,13,0,Calibri,11.0,77.7,584.3,520.2,595.3,"On the deployment of digital solutions across sectors (point ii), schemes like Build Digital, "
+29,13,1,Calibri,11.0,77.7,598.8,479.7,609.8,"GreenStart, and the Digital Transition Fund support SME uptake and emissions reduction.  "
+29,14,0,Calibri,11.0,77.7,616.3,520.3,627.3,"However, no system is in place yet to monitor or quantify emission reductions (point iii), and the "
+29,14,1,Calibri,11.0,77.7,630.7,520.1,641.7,absence of a unified framework limits policy coherence. Further efforts are needed to implement 
+29,14,2,Calibri,11.0,77.7,645.2,390.8,656.3,standardised monitoring tools and align with EU-level methodologies. 
+29,15,0,Calibri,11.0,72.0,663.2,74.5,674.3, 
+29,16,0,Calibri,11.0,72.0,685.7,74.5,696.7, 
+29,16,1,Calibri,11.0,216.1,685.7,218.5,696.7, 
+29,17,0,Calibri,11.0,216.1,750.0,218.5,761.0, 
+29,17,1,Calibri,6.0,72.0,761.1,78.1,767.1,16
+29,17,1,Calibri,9.0,78.0,761.4,376.0,770.4," European Commission. (2025). European Semester, Annex on Education: Ireland. "
+29,18,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,18,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+30,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+30,3,0,Calibri-Bold,11.0,77.7,126.7,310.0,137.8,Ireland’s national Digital Decade strategic roadmap
+30,3,0,Calibri-Bold,11.0,310.0,126.7,312.5,137.8, 
+30,5,0,Calibri-Bold,11.0,77.7,144.3,520.3,155.3,The adjusted roadmap addresses a limited number of roadmap recommendations issued in 2024. 
+30,5,1,Calibri,11.0,77.7,158.7,520.3,169.7,Ireland did not revise its 2030 targets but submitted a detailed update to the narrative outlining the 
+30,5,2,Calibri,11.0,77.7,173.2,520.0,184.2,national responses to each of the recommendations and the progress made under the original 
+30,5,3,Calibri,11.0,77.7,187.7,510.9,198.7,strategic framework. The revised roadmap was not resubmitted as a new stand-alone document. 
+30,6,0,Calibri,11.0,77.7,205.2,520.2,216.3,The adjustment maintained the original structure and target levels set in 2023. While the 2030 
+30,6,1,Calibri,11.0,77.7,219.6,520.3,230.7,"targets for basic digital skills and ICT specialists were confirmed, no new or revised quantitative "
+30,6,2,Calibri,11.0,77.7,234.2,520.3,245.2,"targets were introduced, including on FTTP, edge node deployment, and unicorns. Nevertheless, the "
+30,6,3,Calibri,11.0,77.7,248.7,520.1,259.7,roadmap reaffirms Ireland’s commitment to delivering gigabit connectivity to all premises by 2028 
+30,6,4,Calibri,11.0,77.7,263.2,520.2,274.2,"and sets out concrete implementation details for the national FTTP roll-out, supported by both "
+30,6,5,Calibri,11.0,77.7,277.6,372.6,288.6,commercial operators and the state-led National Broadband Plan. 
+30,7,0,Calibri,11.0,77.7,295.1,520.0,306.2,"As part of the adjustment, Ireland significantly expanded the repository of national measures. The "
+30,7,1,Calibri,11.0,77.7,309.6,520.1,320.7,"roadmap now comprises 81 measures, including 22 new ones introduced since the original "
+30,7,2,Calibri,11.0,77.7,324.2,520.2,335.2,"submission, with a total investment of EUR 9 240.89 million. Several of the new measures focus on "
+30,7,3,Calibri,11.0,77.7,338.7,520.0,349.7,"the digitalisation of SMEs, including the introduction of a dedicated national voucher scheme, "
+30,7,4,Calibri,11.0,77.7,353.1,520.0,364.1,"improved advisory support through a new enterprise hub, and programmes to foster digital "
+30,7,5,Calibri,11.0,77.7,367.6,520.2,378.6,"discovery, process innovation, and digital marketing capabilities across sectors. Together, these "
+30,7,6,Calibri,11.0,77.7,382.1,520.3,393.2,initiatives form the foundation for a more coordinated national approach to the digital transition of 
+30,7,7,Calibri,11.0,77.7,396.7,359.4,407.7,SMEs ahead of the forthcoming SME Digitalisation Action Plan. 
+30,8,0,Calibri-Bold,11.0,77.7,414.1,271.6,425.1,Measures and budget in national roadmap
+30,8,0,Calibri,7.0,271.5,413.2,278.5,420.1,17
+30,8,0,Calibri-Bold,11.0,278.5,414.1,280.9,425.1, 
+30,10,0,Calibri,11.0,517.2,625.9,519.7,636.9, 
+30,10,1,Calibri,11.0,77.7,637.4,80.2,648.5, 
+30,11,0,Calibri,11.0,77.7,654.9,520.1,666.0,"Other new measures strengthen the roadmap’s focus on digital skills, with additional actions "
+30,11,1,Calibri,11.0,77.7,669.5,520.1,680.5,targeting all stages of the learning cycle – from early childhood education to adult upskilling and 
+30,11,2,Calibri,11.0,77.7,683.9,520.2,694.9,"lifelong learning. These are complemented by measures aimed at promoting digital inclusion, "
+30,11,3,Calibri,11.0,77.7,698.4,520.3,709.4,particularly for socio-economically disadvantaged groups. Further additional measures support the 
+30,12,0,Calibri,11.0,216.1,723.6,218.5,734.6, 
+30,12,1,Calibri,6.0,72.0,734.7,78.1,740.7,17
+30,12,1,Calibri,9.0,78.0,735.0,525.3,744.0," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+30,12,2,Calibri,9.0,72.0,743.7,525.3,752.7,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+30,12,3,Calibri,9.0,72.0,752.5,525.4,761.5,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+30,12,4,Calibri,9.0,72.0,761.4,240.0,770.4,States followed the guidance was carried out. 
+30,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+31,2,0,Calibri,11.0,77.7,84.5,520.1,95.5,"public sector, particularly in the areas of interoperability, cybersecurity, and the development of "
+31,2,1,Calibri,11.0,77.7,99.0,205.3,110.1,digital government services. 
+31,4,0,Calibri,11.0,77.7,116.4,520.1,127.5,"The update also revises a small number of existing measures to reflect updated timelines, adjusted "
+31,4,1,Calibri,11.0,77.7,130.9,520.2,142.0,"scopes, and refined budget data. The roadmap now reports over EUR 3.5 billion in public "
+31,4,2,Calibri,11.0,77.7,145.5,520.2,156.5,"investment, with total planned funding exceeding EUR 7.8 billion across all pillars. In some areas, "
+31,4,3,Calibri,11.0,77.7,160.0,520.3,171.0,"such as broadband deployment, implementation is backed by formal monitoring and an evaluation "
+31,4,4,Calibri,11.0,77.7,174.4,520.1,185.4,"of the impact. However, evaluation frameworks are still not applied consistently across the full set "
+31,4,5,Calibri,11.0,77.7,188.9,137.6,199.9,of measures. 
+31,5,0,Calibri,11.0,77.7,206.4,520.2,217.5,"While some efforts are noted with regard to the implementation of digital rights and principles, the "
+31,5,1,Calibri,11.0,77.7,220.9,520.0,232.0,adjustment does not include a formal mapping of the roadmap measures to the Digital Decade 
+31,5,2,Calibri,11.0,77.7,235.4,520.3,246.4,"objectives or the Declaration on Digital Rights and Principles. In this respect, Ireland’s update "
+31,5,3,Calibri,11.0,77.7,249.9,262.3,260.9,remains more operational than strategic. 
+31,6,0,Calibri,11.0,77.7,267.4,520.0,278.5,"Overall, the roadmap reflects a determined effort to advance implementation. It remains strong in "
+31,6,1,Calibri,11.0,77.7,281.9,520.0,293.0,"terms of infrastructure deployment, investment mobilisation, and the breadth of policy action, "
+31,6,2,Calibri,11.0,77.7,296.3,520.0,307.4,particularly in the education and SME domains. The inclusion of new initiatives and the 
+31,6,3,Calibri,11.0,77.7,310.9,520.0,321.9,improvement of existing ones demonstrate a commitment to accelerating progress towards the 
+31,6,4,Calibri,11.0,77.7,325.4,520.3,336.4,"2030 targets. At the same time, there is scope to further consolidate the roadmap in strategic areas "
+31,6,5,Calibri,11.0,77.7,339.9,520.3,350.9,"– such as AI, data-driven innovation and support for unicorns – to boost the roadmap’s coherence "
+31,6,6,Calibri,11.0,77.7,354.3,235.1,365.3,and maximise its long-term impact.
+31,6,6,Calibri-Bold,11.0,235.1,354.3,237.6,365.3, 
+31,7,0,Calibri,11.0,72.0,372.3,74.5,383.3, 
+31,7,1,Calibri-Bold,26.0,72.0,392.9,77.9,418.9, 
+31,7,2,Calibri-Bold,26.0,216.1,392.9,221.9,418.9, 
+31,8,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+31,8,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+32,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+32,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+32,3,0,Calibri-Bold,26.0,72.0,87.0,529.3,113.1,Annex II – Factsheet on multi-country 
+32,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+32,4,0,Calibri,11.0,72.0,160.5,74.5,171.5, 
+32,5,0,Calibri-Bold,11.0,77.7,178.5,265.0,189.5,Multi-country projects and best practices
+32,5,0,Calibri,11.0,265.0,178.5,269.9,189.5,  
+32,6,0,Calibri,11.0,77.7,201.0,535.2,212.1,Ireland is a member of the Alliance for Language Technologies EDIC and of the Local Digital Twins 
+32,6,1,Calibri,11.0,77.7,215.4,535.2,226.5,towards the CitiVERSE EDIC. Ireland is directly participating in the IPCEI on Microelectronics and 
+32,6,2,Calibri,11.0,77.7,229.9,535.4,241.0,Communication Technologies (IPCEI-ME/CT). Ireland is a participating state in the EuroHPC Joint 
+32,6,3,Calibri,11.0,77.7,244.5,234.1,255.5,Undertaking (JU) and the Chips JU. 
+32,7,0,Calibri,11.0,77.7,266.9,535.5,278.0,Ireland has contributed to the Best Practice Accelerator by sharing three best practices as part of the 
+32,7,1,Calibri,11.0,77.7,281.4,535.4,292.5,"Digital Skills cluster (SuCcES programme, INGENIC and mentoring model for female students in "
+32,7,2,Calibri,11.0,77.7,296.0,134.0,307.0,computing). 
+32,8,0,Calibri,11.0,72.0,314.0,74.5,325.0, 
+32,9,0,Calibri-Bold,11.0,77.7,332.0,145.9,343.0,EU funding for 
+32,9,0,Calibri,11.0,145.9,332.0,173.3,343.0,digital
+32,9,0,Calibri-Bold,11.0,173.3,332.0,258.4,343.0, policies in Ireland 
+32,10,0,Calibri,11.0,77.7,349.4,469.7,360.4,Ireland allocates 34% of its total recovery and resilience plan to digital (EUR 312 million)
+32,10,0,Calibri,7.0,469.7,348.5,476.7,355.4,18
+32,10,0,Calibri,11.0,476.6,349.4,535.5,360.4,". In addition, "
+32,10,1,Calibri,11.0,77.7,363.9,535.4,374.9,"under cohesion policy, EUR 54 million (representing 5% of the country’s total cohesion policy funding), "
+32,10,2,Calibri,11.0,77.7,378.4,327.9,389.4,is dedicated to advancing Ireland’s digital transformation
+32,10,2,Calibri,7.0,327.9,377.5,334.9,384.5,19
+32,10,2,Calibri,11.0,334.9,378.4,535.5,389.4,". According to JRC estimates, EUR 347 million "
+32,10,3,Calibri,11.0,77.7,392.9,535.5,404.0,directly contribute to achieving Digital Decade targets (of which EUR 312 million comes from the RRF 
+32,10,4,Calibri,11.0,77.7,407.3,297.3,418.4,and EUR 35 million from cohesion policy funding)
+32,10,4,Calibri,7.0,297.3,406.4,304.3,413.4,20
+32,10,4,Calibri,11.0,304.3,407.3,307.1,418.4,.
+32,10,4,Calibri-Bold,11.0,307.0,407.3,309.5,418.4, 
+32,11,0,Calibri,11.0,77.7,424.9,535.4,435.9,The RRF and cohesion policy funding provide balanced support across the different areas of the Digital 
+32,11,1,Calibri,11.0,77.7,439.4,535.5,450.4,"Decade. In particular, the Irish recovery and resilience plan (RRP) makes significant contributions to the "
+32,11,2,Calibri,11.0,77.7,453.9,126.7,464.9,targets for 
+32,11,2,Calibri-Bold,11.0,127.1,453.9,313.5,464.9,gigabit and FTTP broadband deployment
+32,11,2,Calibri,11.0,313.6,453.9,535.5,464.9,", with major investments channelled through the "
+32,11,3,Calibri-Bold,11.0,77.7,468.3,197.9,479.4,National Broadband Plan
+32,11,3,Calibri,11.0,197.9,468.3,535.4,479.4,. The RRP also includes significant reforms and investments aimed at 
+32,11,4,Calibri-Bold,11.0,77.7,482.8,357.2,493.9,digitalising public services and strengthening e-Government
+32,11,4,Calibri,11.0,357.2,482.8,418.8,493.9,", such as the "
+32,11,4,Calibri-Bold,11.0,420.1,482.8,535.5,493.9,roll-out of the MyGovID 
+32,11,5,Calibri-Bold,11.0,77.7,497.3,109.5,508.4,system
+32,11,5,Calibri,11.0,109.6,497.3,535.3,508.4,", improvements to health sector ICT systems, and the creation of a national data infrastructure "
+32,11,6,Calibri,11.0,77.7,511.9,260.7,522.9,to support e-Health and interoperability. 
+32,12,0,Calibri,11.0,77.7,529.3,233.0,540.3,"Furthermore, the RRP addresses "
+32,12,0,Calibri-Bold,11.0,235.9,529.3,357.5,540.3,digital skills development
+32,12,0,Calibri,11.0,357.7,529.3,506.5,540.3, through measures focused on 
+32,12,0,Calibri-Bold,11.0,509.4,529.3,535.5,540.3,adult 
+32,12,1,Calibri-Bold,11.0,77.7,543.8,367.6,554.8,"learning, basic digital skills acquisition, and enterprise upskilling"
+32,12,1,Calibri,11.0,367.6,543.8,535.5,554.8,", contributing to the overall resilience "
+32,12,2,Calibri,11.0,77.7,558.3,287.6,569.4,and inclusiveness of Ireland’s digital transition. 
+32,13,0,Calibri,11.0,72.0,576.3,74.5,587.4, 
+32,14,0,Calibri,11.0,72.0,593.7,74.5,604.8, 
+32,14,1,Calibri,11.0,216.1,593.7,218.5,604.8, 
+32,15,0,Calibri,11.0,216.1,688.4,218.5,699.5, 
+32,15,1,Calibri,6.0,72.0,699.5,78.1,705.5,18
+32,15,1,Calibri,9.0,78.0,699.8,525.0,708.8, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+32,15,2,Calibri,9.0,72.0,708.5,313.5,717.5,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+32,15,3,Calibri,6.0,72.0,717.0,78.1,723.0,19
+32,15,3,Calibri,9.0,78.0,717.3,523.3,726.3, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+32,15,4,Calibri,9.0,72.0,726.2,525.0,735.2,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+32,15,5,Calibri,9.0,72.0,735.0,315.5,744.0,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+32,15,6,Calibri,6.0,72.0,743.5,78.1,749.5,20
+32,15,6,Calibri,9.0,78.0,743.7,525.4,752.7," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+32,15,7,Calibri,9.0,72.0,752.5,525.1,761.5,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+32,15,8,Calibri,9.0,72.0,761.4,94.6,770.4,2025. 
+32,16,0,Calibri,11.0,292.1,781.9,305.8,793.0,29 
+32,16,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+33,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+33,1,0,Calibri,20.0,85.9,29.4,147.3,49.4,Ireland 
+33,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+33,2,1,Calibri-Bold,26.0,72.0,104.4,485.2,130.5,Annex IIΙ – Digital rights and principles
+33,2,1,Calibri,17.0,485.3,102.2,506.4,119.2,21 
+33,2,1,Calibri-Bold,26.0,506.4,104.4,512.3,130.5, 
+33,4,0,Calibri,11.0,478.2,144.3,480.7,155.3, 
+33,5,0,Calibri,11.0,478.2,161.7,480.7,172.7, 
+33,6,0,Calibri,11.0,478.2,179.2,480.7,190.2, 
+33,7,0,Calibri,11.0,478.2,196.7,480.7,207.7, 
+33,8,0,Calibri,11.0,478.2,214.2,480.7,225.3, 
+33,9,0,Calibri,11.0,478.2,231.6,480.7,242.7, 
+33,10,0,Calibri,11.0,478.2,249.2,480.7,260.2, 
+33,11,0,Calibri,11.0,478.2,266.7,480.7,277.7, 
+33,12,0,Calibri,11.0,478.2,284.2,480.7,295.2, 
+33,13,0,Calibri,11.0,478.2,301.6,480.7,312.6, 
+33,14,0,Calibri,11.0,478.2,319.1,480.7,330.2, 
+33,16,0,Calibri,11.0,478.2,336.6,480.7,347.7, 
+33,18,0,Calibri-Bold,11.0,77.7,354.2,80.2,365.2, 
+33,19,0,Calibri-Bold,11.0,77.7,371.7,257.2,382.7,Activity on digital rights and principles  
+33,20,0,Calibri-Bold,11.0,77.7,389.1,433.0,400.1,Ireland has been relatively active in implementing digital rights and principles
+33,20,0,Calibri,11.0,433.2,389.1,435.9,400.1,","
+33,20,0,Calibri-Bold,11.0,435.8,389.1,438.3,400.1, 
+33,20,0,Calibri,11.0,438.5,389.1,520.2,400.1,with 89 initiatives 
+33,20,1,Calibri,11.0,77.7,403.6,520.0,414.7,"overall and 4 new initiatives launched in 2024, showing limited progress towards its commitments. "
+33,20,2,Calibri-Bold,11.0,77.7,418.1,427.1,429.2,"Ireland is most active in the area of digital education, training and skills"
+33,20,2,Calibri,11.0,427.3,418.1,520.3,429.2,. There is room for 
+33,20,3,Calibri,11.0,77.7,432.7,520.2,443.7,"improvement, especially with regards to a fair digital environment and sustainability where less "
+33,20,4,Calibri,11.0,77.7,447.1,205.7,458.1,activity has been identified.  
+33,21,0,Calibri-Bold,11.0,77.7,469.6,232.5,480.7,Impact of digital rights initiatives  
+33,22,0,Calibri,11.0,77.7,487.0,520.3,498.1,"Quantitative impact indicators, developed by a support study on Digital Rights and Principles, "
+33,22,1,Calibri,11.0,77.7,501.5,431.2,512.6,illustrate the level of implementation of digital rights initiatives on the ground.
+33,22,1,Calibri-Bold,11.0,431.4,501.5,433.9,512.6, 
+33,22,1,Calibri,11.0,434.4,501.5,520.2,512.6,Based on available 
+33,22,2,Calibri,11.0,77.7,516.1,520.3,527.1,"data, they estimate the impact of measures implemented by key stakeholders in Ireland (mainly "
+33,22,3,Calibri,11.0,77.7,530.6,360.0,541.6,national government) and how these are perceived by citizens. 
+33,22,3,Calibri-Bold,11.0,360.0,530.6,362.4,541.6, 
+33,23,0,Calibri,11.0,77.7,548.0,202.9,559.0,The indicators suggest that 
+33,23,0,Calibri-Bold,11.0,204.1,548.0,520.0,559.0,Ireland is most successful in implementing commitments related to 
+33,23,1,Calibri-Bold,11.0,77.7,562.5,332.3,573.6,putting people at the centre of the digital transformation
+33,23,1,Calibri,11.0,332.4,562.5,520.2,573.6,. Ireland should strengthen efforts in areas 
+33,23,2,Calibri,11.0,77.7,577.1,513.1,588.1,"where the impact of digital rights initiatives appears to be limited, notably on freedom of choice.  "
+33,24,0,Calibri,11.0,77.7,599.5,356.9,610.5,"According to the Special Eurobarometer 'Digital Decade 2025’, "
+33,24,0,Calibri-Bold,11.0,357.0,599.5,520.2,610.5,61% of citizens in Ireland think that 
+33,24,1,Calibri-Bold,11.0,77.7,614.0,252.5,625.1,the EU protects their digital rights well
+33,24,1,Calibri,11.0,252.6,614.0,520.2,625.1, (a 1% decrease since 2024). This is above the EU average of 
+33,24,2,Calibri,11.0,77.7,628.5,520.2,639.6,"44%. Citizens are particularly confident about getting basic and advanced digital education, training "
+33,24,3,Calibri,11.0,77.7,643.1,520.2,654.1,"and skills (70%, above EU average of 60%). They are most worried that their right to a safe digital "
+33,24,4,Calibri,11.0,77.7,657.5,520.0,668.5,"environment and content for children and young people is not well protected (41%, below the EU "
+33,24,5,Calibri,11.0,77.7,672.0,156.7,683.0,average of 48%).  
+33,25,0,Calibri,11.0,72.0,695.0,74.5,706.1, 
+33,26,0,Calibri,11.0,216.1,741.1,218.5,752.2, 
+33,26,1,Calibri,6.0,72.0,752.2,78.1,758.2,21
+33,26,1,Calibri,9.0,78.0,752.5,525.1,761.5," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+33,26,2,Calibri,9.0,72.0,761.4,106.1,770.4,available 
+33,26,2,Calibri,9.0,106.1,761.4,122.8,770.4,here
+33,26,2,Calibri,9.0,122.8,761.4,377.1,770.4,". For a more detailed country factsheet accompanying the study, click "
+33,26,2,Calibri,9.0,377.1,761.4,393.7,770.4,here
+33,26,2,Calibri,9.0,393.7,761.4,398.1,770.4,. 
+33,27,0,Calibri,11.0,292.1,781.9,305.8,793.0,30 
+33,27,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

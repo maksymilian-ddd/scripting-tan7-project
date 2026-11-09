@@ -1,0 +1,1782 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 16.6.2025  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2025) 294 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 26/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,267.3,330.7,285.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,315.8,432.2,329.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,205.8,347.6,394.1,360.9,Digital Decade 2025 country reports 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,379.4,373.4,392.7,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,74.0,405.3,525.4,418.5,"Communication from the Commission to the European Parliament, the Council and the "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,100.0,419.1,502.7,432.3,European Economic and Social Committee and the Committee of the Regions  
+1,13,0,TimesNewRomanPS-BoldMT,12.0,76.5,444.9,523.2,458.1,State of the Digital Decade 2025: Keep building the EU's sovereignty and digital future 
+1,14,0,TimesNewRomanPSMT,12.0,110.2,476.4,486.4,489.7,{COM(2025) 290 final} - {SWD(2025) 290 final} - {SWD(2025) 291 final} -
+1,15,0,TimesNewRomanPSMT,12.0,112.6,490.2,487.1,503.5, {SWD(2025) 292 final} - {SWD(2025) 293 final} - {SWD(2025) 295 final} 
+1,15,1,TimesNewRomanPSMT,12.0,526.2,493.0,529.2,506.3, 
+1,16,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,16,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,16,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,16,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+2,1,0,Calibri,11.0,70.8,58.8,73.3,69.8, 
+2,1,1,Calibri,11.0,70.8,72.3,73.3,83.3, 
+2,2,0,Calibri,11.0,70.8,94.8,73.3,105.9, 
+2,3,0,Calibri-Bold,40.0,136.9,285.4,503.8,325.4,DIGITAL DECADE 2025
+2,3,0,Calibri,40.0,504.1,285.4,513.1,325.4, 
+2,3,1,Calibri,40.0,136.9,334.3,463.1,374.2,COUNTRY REPORTS 
+2,4,0,Calibri-Bold,28.0,218.4,426.3,288.7,454.3,Spain 
+2,5,0,Arial-BoldMT,24.0,28.3,779.8,35.0,806.5, 
+3,0,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+3,1,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,1,Calibri,11.0,72.0,51.0,74.5,62.0, 
+3,2,0,Calibri,11.0,72.0,88.0,74.5,99.0, 
+3,4,0,Calibri-Light,16.0,72.0,115.6,133.8,131.6,Contents 
+3,4,1,Calibri,11.0,72.0,135.5,523.0,146.5,Executive summary ................................................................................................................................. 1
+3,4,1,Calibri,12.0,523.0,134.8,525.7,146.8, 
+3,5,0,Calibri,11.0,72.0,155.1,523.0,166.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,5,0,Calibri,12.0,523.0,154.3,525.7,166.3, 
+3,6,0,Calibri-Light,11.0,83.1,174.5,401.0,185.5,Building technological leadership: digital infrastructure and technologies
+3,6,0,Calibri,11.0,401.1,174.5,523.0,185.5, ......................................... 6
+3,6,0,Calibri,12.0,523.0,173.8,525.7,185.8, 
+3,7,0,Calibri-Light,11.0,94.0,194.1,211.8,205.1,Connectivity infrastructure
+3,7,0,Calibri,11.0,211.9,194.1,523.0,205.1, .............................................................................................................. 6
+3,7,0,Calibri,12.0,523.0,193.3,525.7,205.3, 
+3,8,0,Calibri-Light,11.0,94.0,213.5,164.9,224.5,Semiconductors
+3,8,0,Calibri,11.0,164.8,213.5,523.0,224.5, ............................................................................................................................... 7
+3,8,0,Calibri,12.0,523.0,212.8,525.7,224.8, 
+3,9,0,Calibri,11.0,94.0,233.1,523.0,244.1,Edge nodes ...................................................................................................................................... 8
+3,9,0,Calibri,12.0,523.0,232.4,525.7,244.4, 
+3,10,0,Calibri-Light,11.0,94.0,252.5,194.6,263.6,Quantum technologies
+3,10,0,Calibri,11.0,194.6,252.5,523.0,263.6, .................................................................................................................... 9
+3,10,0,Calibri,12.0,523.0,251.8,525.7,263.8, 
+3,11,0,Calibri,11.0,83.1,272.0,523.0,283.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ................................. 9
+3,11,0,Calibri,12.0,523.0,271.2,525.7,283.2, 
+3,12,0,Calibri-Light,11.0,94.0,291.5,268.6,302.6,SMEs with at least basic digital intensity
+3,12,0,Calibri,11.0,268.6,291.5,523.0,302.6, ....................................................................................... 10
+3,12,0,Calibri,12.0,523.0,290.8,525.7,302.8, 
+3,13,0,Calibri-Light,11.0,94.0,311.0,242.4,322.0,Take up of cloud/AI/data analytics
+3,13,0,Calibri,11.0,242.4,311.0,523.0,322.0, ................................................................................................. 11
+3,13,0,Calibri,12.0,523.0,310.2,525.7,322.2, 
+3,14,0,Calibri,11.0,94.0,330.5,523.0,341.6,"Unicorns, scale-ups and start-ups ................................................................................................. 13"
+3,14,0,Calibri,12.0,523.0,329.8,525.7,341.8, 
+3,15,0,Calibri-Light,11.0,83.1,350.0,264.2,361.0,Strengthening Cybersecurity & Resilience
+3,15,0,Calibri,11.0,264.2,350.0,523.0,361.0, ......................................................................................... 13
+3,15,0,Calibri,12.0,523.0,349.2,525.7,361.2, 
+3,16,0,Calibri,11.0,72.0,369.4,523.0,380.4,Protecting and empowering EU people and society ............................................................................. 17
+3,16,0,Calibri,12.0,523.0,368.7,525.7,380.7, 
+3,17,0,Calibri-Light,11.0,83.1,389.0,437.3,400.0,Empowering people and bringing the digital transformation closer to their needs
+3,17,0,Calibri,11.0,437.4,389.0,523.0,400.0, .......................... 17
+3,17,0,Calibri,12.0,523.0,388.2,525.7,400.2, 
+3,18,0,Calibri-Light,11.0,94.0,408.4,195.2,419.5,Equipping people with 
+3,18,0,Calibri,11.0,195.3,408.4,523.0,419.5,digital skills ............................................................................................... 17
+3,18,0,Calibri,12.0,523.0,407.7,525.7,419.7, 
+3,19,0,Calibri-Bold,28.0,206.8,395.0,277.1,423.0,Spain 
+3,20,0,Calibri-Light,11.0,94.0,428.0,462.5,439.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all"
+3,20,0,Calibri,11.0,462.7,428.0,523.0,439.0, ................. 19
+3,20,0,Calibri,12.0,523.0,427.3,525.7,439.3, 
+3,21,0,Calibri-Light,11.0,83.1,447.4,456.9,458.5,Building a safe and human centric digital environment and preserving our democracy
+3,21,0,Calibri,11.0,457.2,447.4,523.0,458.5, ................... 22
+3,21,0,Calibri,12.0,523.0,446.7,525.7,458.7, 
+3,22,0,Calibri,11.0,72.0,467.0,523.0,478.0,Leveraging digital transformation for a smart greening ....................................................................... 26
+3,22,0,Calibri,12.0,523.0,466.3,525.7,478.3, 
+3,23,0,Calibri,11.0,72.0,486.4,523.0,497.5,Annex I – National roadmap analysis .................................................................................................... 28
+3,23,0,Calibri,12.0,523.0,485.7,525.7,497.7, 
+3,24,0,Calibri,11.0,72.0,505.9,523.0,516.9,Annex II – Factsheet on multi-country projects (MCPs) and funding ................................................... 29
+3,24,0,Calibri,12.0,523.0,505.2,525.7,517.2, 
+3,25,0,Calibri,11.0,72.0,525.4,523.0,536.5,Annex III – Digital Rights and Principles ................................................................................................ 30
+3,25,0,Calibri,12.0,523.0,524.7,525.7,536.7, 
+3,26,0,Calibri,11.0,72.0,544.9,74.5,555.9, 
+3,27,0,Calibri,11.0,72.0,567.5,74.5,578.5, 
+3,27,1,Calibri,11.0,216.1,567.5,218.5,578.5, 
+3,28,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri-Bold,11.0,72.0,126.3,525.6,137.3,"Spain benefits from a robust digital infrastructure, which allows it to develop its digital "
+4,4,1,Calibri-Bold,11.0,72.0,140.8,525.8,151.8,transformation. The country is making moderate progress in the adoption of key digital technologies 
+4,4,2,Calibri-Bold,11.0,72.0,155.2,525.8,166.2,"by enterprises. Regarding AI, the Spanish government shows ambition with the last developments, "
+4,4,3,Calibri-Bold,11.0,72.0,169.7,525.6,180.7,but still continues to face challenges in AI adoption by SMEs. Although Spain lags behind in digital 
+4,4,4,Calibri-Bold,11.0,72.0,184.2,525.5,195.3,"public services for business, the country has improved its performance in digital public services for "
+4,4,5,Calibri-Bold,11.0,72.0,198.7,525.6,209.8,citizens and in access to e-Health records. Spain is leading in initiatives to strengthen the 
+4,4,6,Calibri-Bold,11.0,72.0,213.1,303.8,224.2,cybersecurity of its public services and enterprises.
+4,4,6,Calibri,11.0,303.9,213.1,306.4,224.2, 
+4,5,0,Calibri-Bold,11.0,72.0,235.7,525.5,246.8,"Spain’s contribution to the Digital Decade is very ambitious, with 13 national targets, 92% of which "
+4,5,1,Calibri-Bold,11.0,72.0,250.1,525.7,261.2,are aligned with the EU 2030 targets. The country is following its trajectories well with 75% of them 
+4,5,2,Calibri-Bold,11.0,72.0,264.6,525.4,275.7,being on track (based on the 2024 trajectories established for 8 KPIs out of 8 analysed). Spain 
+4,5,3,Calibri-Bold,11.0,72.0,279.2,525.9,290.2,addressed 100% of the 7 recommendations issued by the Commission in 2024 by making some 
+4,5,4,Calibri-Bold,11.0,72.0,293.7,221.8,304.7,changes through new measures. 
+4,6,0,Calibri-Bold,7.0,300.8,324.0,318.3,330.9,Spain 
+4,6,1,Calibri-Bold,7.0,416.4,324.0,426.0,330.9,EU 
+4,6,2,Calibri-Bold,7.0,470.3,319.8,513.7,326.8,Digital Decade 
+4,6,3,Calibri-Bold,7.0,470.1,328.3,513.9,335.3,target by 2030 
+4,7,0,Calibri-Bold,14.0,94.5,339.3,203.6,353.4,Digital Decade KPI 
+4,7,0,Calibri-Bold,9.0,203.6,338.1,213.7,347.1,(1)
+4,7,0,Calibri-Bold,14.0,213.8,339.3,216.9,353.4, 
+4,8,0,Calibri-Bold,7.0,347.1,346.9,373.5,353.9,National 
+4,8,1,Calibri-Bold,7.0,345.3,355.4,375.4,362.4,trajectory 
+4,9,0,Calibri-Bold,7.0,308.6,351.1,330.8,358.1,Annual 
+4,9,1,Calibri-Bold,7.0,306.4,359.7,333.0,366.7,progress 
+4,10,0,Calibri-Bold,7.0,349.1,363.9,364.8,370.9,2024 
+4,10,0,Calibri-Bold,4.6,364.8,363.7,369.9,368.3,(3)
+4,10,0,Calibri-Bold,7.0,370.0,363.9,371.6,370.9, 
+4,10,1,Calibri-Bold,7.0,387.1,355.4,417.5,362.4,DESI 2025 
+4,10,2,Calibri-Bold,7.0,430.1,351.1,452.3,358.1,Annual 
+4,10,3,Calibri-Bold,7.0,427.9,359.7,454.4,366.7,progress 
+4,10,4,Calibri-Bold,7.0,472.8,355.4,481.1,362.4,ES 
+4,10,5,Calibri-Bold,7.0,504.0,355.4,513.6,362.4,EU 
+4,11,0,Calibri-Bold,7.0,245.7,342.6,260.2,349.5,DESI 
+4,11,1,Calibri-Bold,7.0,245.1,351.1,260.7,358.1,2024 
+4,11,2,Calibri-Bold,7.0,244.6,359.7,261.2,366.7,(year 
+4,11,3,Calibri-Bold,7.0,244.0,368.3,261.9,375.2,2023) 
+4,12,0,Calibri-Bold,7.0,277.6,342.6,292.1,349.5,DESI 
+4,12,1,Calibri-Bold,7.0,277.0,351.1,292.6,358.1,2025 
+4,12,2,Calibri-Bold,7.0,276.5,359.7,293.1,366.7,(year 
+4,12,3,Calibri-Bold,7.0,275.9,368.3,293.8,375.2,2024) 
+4,13,0,Calibri-Bold,7.0,77.7,381.2,228.5,388.2,Fixed Very High Capacity Network (VHCN) coverage 
+4,13,1,Calibri,7.0,243.4,381.2,262.4,388.2,96.3% 
+4,13,2,Calibri,7.0,275.3,381.2,294.3,388.2,95.0% 
+4,13,3,Calibri,7.0,311.0,381.2,328.5,388.2,-1.4% 
+4,13,4,Calibri,7.0,350.1,381.2,372.3,388.2, 97.0%  
+4,13,5,Calibri,7.0,392.7,381.2,411.7,388.2,82.5% 
+4,13,6,Calibri,7.0,433.4,381.2,448.9,388.2,4.9% 
+4,13,7,Calibri,7.0,465.6,381.2,488.2,388.2,100.0% 
+4,13,8,Calibri,7.0,500.1,381.2,517.3,388.2,100% 
+4,14,0,Calibri-Bold,7.0,77.7,397.4,188.6,404.4,Fibre to the Premises (FTTP) coverage 
+4,14,1,Calibri,7.0,243.4,397.4,262.4,404.4,95.2% 
+4,14,2,Calibri,7.0,275.3,397.4,294.3,404.4,94.9% 
+4,14,3,Calibri,7.0,311.0,397.4,328.5,404.4,-0.4% 
+4,14,4,Calibri,7.0,350.1,397.4,372.3,404.4, 96.0%  
+4,14,5,Calibri,7.0,392.7,397.4,411.7,404.4,69.2% 
+4,14,6,Calibri,7.0,433.4,397.4,448.9,404.4,8.4% 
+4,14,7,Calibri,7.0,465.6,397.4,488.2,404.4,100.0% 
+4,14,8,Calibri,7.0,506.9,397.4,510.6,404.4,- 
+4,15,0,Calibri-Bold,7.0,77.7,413.8,137.7,420.7,Overall 5G coverage 
+4,15,1,Calibri,7.0,243.4,413.8,262.4,420.7,92.3% 
+4,15,2,Calibri,7.0,275.3,413.8,294.3,420.7,95.7% 
+4,15,3,Calibri,7.0,312.0,413.8,327.4,420.7,3.7% 
+4,15,4,Calibri,7.0,350.1,413.8,372.3,420.7, 98.9%  
+4,15,5,Calibri,7.0,392.7,413.8,411.7,420.7,94.3% 
+4,15,6,Calibri,7.0,433.4,413.8,448.9,420.7,5.9% 
+4,15,7,Calibri,7.0,465.6,413.8,488.2,420.7,100.0% 
+4,15,8,Calibri,7.0,500.1,413.8,517.3,420.7,100% 
+4,16,0,Calibri-Bold,7.0,77.7,430.0,144.8,436.9,Edge Nodes (estimate) 
+4,16,1,Calibri,7.0,246.8,430.0,259.0,436.9,167 
+4,16,2,Calibri,7.0,278.7,430.0,291.0,436.9,301 
+4,16,3,Calibri,7.0,310.3,430.0,329.2,436.9,80.2% 
+4,16,4,Calibri,7.0,357.7,430.0,364.5,436.9, -  
+4,16,5,Calibri,7.0,394.4,430.0,410.2,436.9,2257 
+4,16,6,Calibri,7.0,431.7,430.0,450.7,436.9,90.5% 
+4,16,7,Calibri,7.0,475.1,430.0,478.8,436.9,- 
+4,16,8,Calibri,7.0,499.1,430.0,518.4,436.9,10000 
+4,17,0,Calibri-Bold,7.0,77.7,446.3,223.2,453.2,SMEs with at least a basic level of digital intensity 
+4,17,0,Calibri-Bold,4.6,223.4,446.0,228.5,450.6,(2)
+4,17,0,Calibri-Bold,7.0,228.5,446.3,230.1,453.2, 
+4,17,1,Calibri,7.0,251.1,446.3,254.8,453.2,- 
+4,17,2,Calibri,7.0,275.3,446.3,294.3,453.2,74.2% 
+4,17,3,Calibri,7.0,312.0,446.3,327.4,453.2,4.8% 
+4,17,4,Calibri,7.0,357.7,446.3,364.5,453.2, -  
+4,17,5,Calibri,7.0,392.7,446.3,411.7,453.2,72.9% 
+4,17,6,Calibri,7.0,433.4,446.3,448.9,453.2,2.8% 
+4,17,7,Calibri,7.0,467.4,446.3,486.4,453.2,90.0% 
+4,17,8,Calibri,7.0,501.9,446.3,515.7,453.2,90% 
+4,18,0,Calibri-Bold,7.0,77.7,462.5,95.9,469.4,Cloud 
+4,18,1,Calibri,7.0,243.4,462.5,262.4,469.4,27.3% 
+4,18,2,Calibri,7.0,275.3,462.5,294.3,469.4,33.1% 
+4,18,3,Calibri,7.0,310.3,462.5,329.2,469.4,21.5% 
+4,18,4,Calibri,7.0,357.7,462.5,364.5,469.4, -  
+4,18,5,Calibri,7.0,400.4,462.5,404.2,469.4,- 
+4,18,6,Calibri,7.0,439.3,462.5,443.0,469.4,- 
+4,18,7,Calibri,7.0,467.4,462.5,486.4,469.4,75.0% 
+4,18,8,Calibri,7.0,501.9,462.5,515.7,469.4,75% 
+4,19,0,Calibri-Bold,7.0,77.7,478.7,139.2,485.6,Artificial Intelligence 
+4,19,1,Calibri,7.0,245.2,478.7,260.7,485.6,9.2% 
+4,19,2,Calibri,7.0,275.3,478.7,294.3,485.6,11.3% 
+4,19,3,Calibri,7.0,310.3,478.7,329.2,485.6,23.2% 
+4,19,4,Calibri,7.0,350.1,478.7,372.3,485.6, 10.6%  
+4,19,5,Calibri,7.0,392.7,478.7,411.7,485.6,13.5% 
+4,19,6,Calibri,7.0,431.7,478.7,450.7,485.6,67.2% 
+4,19,7,Calibri,7.0,467.4,478.7,486.4,485.6,75.0% 
+4,19,8,Calibri,7.0,501.9,478.7,515.7,485.6,75% 
+4,20,0,Calibri-Bold,7.0,77.7,495.0,120.2,502.0,Data analytics 
+4,20,1,Calibri,7.0,243.4,495.0,262.4,502.0,38.0% 
+4,20,2,Calibri,7.0,275.3,495.0,294.3,502.0,40.9% 
+4,20,3,Calibri,7.0,312.0,495.0,327.4,502.0,7.7% 
+4,20,4,Calibri,7.0,357.7,495.0,364.5,502.0, -  
+4,20,5,Calibri,7.0,400.4,495.0,404.2,502.0,- 
+4,20,6,Calibri,7.0,439.3,495.0,443.0,502.0,- 
+4,20,7,Calibri,7.0,467.4,495.0,486.4,502.0,75.0% 
+4,20,8,Calibri,7.0,501.9,495.0,515.7,502.0,75% 
+4,21,0,Calibri-Bold,7.0,77.7,511.2,161.8,518.2,AI or Cloud or Data analytics 
+4,21,1,Calibri,7.0,243.4,511.2,262.4,518.2,49.9% 
+4,21,2,Calibri,7.0,275.3,511.2,294.3,518.2,55.7% 
+4,21,3,Calibri,7.0,310.3,511.2,329.2,518.2,11.6% 
+4,21,4,Calibri,7.0,357.7,511.2,364.5,518.2, -  
+4,21,5,Calibri,7.0,400.4,511.2,404.2,518.2,- 
+4,21,6,Calibri,7.0,439.3,511.2,443.0,518.2,- 
+4,21,7,Calibri,7.0,475.1,511.2,478.8,518.2,- 
+4,21,8,Calibri,7.0,501.9,511.2,515.7,518.2,75% 
+4,22,0,Calibri-Bold,7.0,77.7,527.5,105.0,534.5,Unicorns 
+4,22,1,Calibri,7.0,248.6,527.5,257.2,534.5,13 
+4,22,2,Calibri,7.0,280.5,527.5,289.2,534.5,13 
+4,22,3,Calibri,7.0,312.0,527.5,327.4,534.5,0.0% 
+4,22,4,Calibri,7.0,355.3,527.5,367.2,534.5, 16  
+4,22,5,Calibri,7.0,396.1,527.5,408.4,534.5,286 
+4,22,6,Calibri,7.0,433.4,527.5,448.9,534.5,4.4% 
+4,22,7,Calibri,7.0,472.5,527.5,481.2,534.5,24 
+4,22,8,Calibri,7.0,502.7,527.5,514.9,534.5,500 
+4,23,0,Calibri-Bold,7.0,77.7,543.7,153.0,550.7,At least basic digital skills 
+4,23,1,Calibri,7.0,243.4,543.7,262.4,550.7,66.2% 
+4,23,2,Calibri,7.0,283.0,543.7,286.8,550.7,- 
+4,23,3,Calibri,7.0,317.8,543.7,321.6,550.7,- 
+4,23,4,Calibri,7.0,357.7,543.7,364.5,550.7, -  
+4,23,5,Calibri,7.0,400.4,543.7,404.2,550.7,- 
+4,23,6,Calibri,7.0,439.3,543.7,443.0,550.7,- 
+4,23,7,Calibri,7.0,467.4,543.7,486.4,550.7,85.0% 
+4,23,8,Calibri,7.0,501.9,543.7,515.7,550.7,80% 
+4,24,0,Calibri-Bold,7.0,77.7,560.1,119.4,567.0,ICT specialists 
+4,24,1,Calibri,7.0,245.2,560.1,260.7,567.0,4.4% 
+4,24,2,Calibri,7.0,277.1,560.1,292.6,567.0,4.7% 
+4,24,3,Calibri,7.0,312.0,560.1,327.4,567.0,6.8% 
+4,24,4,Calibri,7.0,351.9,560.1,370.5,567.0, 5.0%  
+4,24,5,Calibri,7.0,394.5,560.1,410.0,567.0,5.0% 
+4,24,6,Calibri,7.0,433.4,560.1,448.9,567.0,4.2% 
+4,24,7,Calibri,7.0,469.2,560.1,484.7,567.0,8.6% 
+4,24,8,Calibri,7.0,500.1,560.1,517.3,567.0,~10% 
+4,25,0,Calibri-Bold,7.0,77.7,576.3,148.1,583.2,eID scheme notification 
+4,25,1,Calibri,7.0,251.3,576.3,252.9,583.2, 
+4,25,1,Calibri-Bold,7.0,252.9,576.3,254.5,583.2, 
+4,25,2,Calibri,7.0,279.5,576.3,290.2,583.2,Yes 
+4,25,3,Calibri,7.0,318.2,576.3,321.3,583.2,  
+4,25,4,Calibri,7.0,358.8,576.3,361.9,583.2,  
+4,25,5,Calibri,7.0,400.7,576.3,403.8,583.2,  
+4,25,6,Calibri,7.0,439.7,576.3,442.8,583.2,  
+4,25,7,Calibri,7.0,475.3,576.3,478.4,583.2,  
+4,25,8,Calibri,7.0,507.2,576.3,510.4,583.2,  
+4,26,0,Calibri-Bold,7.0,77.7,597.0,175.3,604.0,Digital public services for citizens 
+4,26,1,Calibri,7.0,245.9,597.0,259.9,604.0,84.2 
+4,26,2,Calibri,7.0,277.9,597.0,291.8,604.0,88.8 
+4,26,3,Calibri,7.0,312.0,597.0,327.4,604.0,5.4% 
+4,26,4,Calibri,7.0,352.6,597.0,369.8,604.0, 88.7  
+4,26,5,Calibri,7.0,395.2,597.0,409.2,604.0,82.3 
+4,26,6,Calibri,7.0,433.4,597.0,448.9,604.0,3.6% 
+4,26,7,Calibri,7.0,468.1,597.0,485.6,604.0,100.0 
+4,26,8,Calibri,7.0,502.7,597.0,514.9,604.0,100 
+4,27,0,Calibri-Bold,7.0,77.7,617.9,184.7,624.9,Digital public services for businesses 
+4,27,1,Calibri,7.0,245.9,617.9,259.9,624.9,91.0 
+4,27,2,Calibri,7.0,277.9,617.9,291.8,624.9,85.1 
+4,27,3,Calibri,7.0,311.0,617.9,328.5,624.9,-6.5% 
+4,27,4,Calibri,7.0,352.6,617.9,369.8,624.9, 95.0  
+4,27,5,Calibri,7.0,395.2,617.9,409.2,624.9,86.2 
+4,27,6,Calibri,7.0,433.4,617.9,448.9,624.9,0.9% 
+4,27,7,Calibri,7.0,468.1,617.9,485.6,624.9,100.0 
+4,27,8,Calibri,7.0,502.7,617.9,514.9,624.9,100 
+4,28,0,Calibri-Bold,7.0,77.7,634.6,156.0,641.6,Access to e-Health records 
+4,28,1,Calibri,7.0,245.9,634.6,259.9,641.6,84.6 
+4,28,2,Calibri,7.0,277.9,634.6,291.8,641.6,88.3 
+4,28,3,Calibri,7.0,312.0,634.6,327.4,641.6,4.4% 
+4,28,4,Calibri,7.0,352.6,634.6,369.8,641.6, 87.3  
+4,28,5,Calibri,7.0,395.2,634.6,409.2,641.6,82.7 
+4,28,6,Calibri,7.0,433.4,634.6,448.9,641.6,4.5% 
+4,28,7,Calibri,7.0,468.1,634.6,485.6,641.6,100.0 
+4,28,8,Calibri,7.0,502.7,634.6,514.9,641.6,100 
+4,29,0,Calibri-Bold,7.0,77.7,648.8,330.4,655.7,(1) See the methodological note for the description of the indicators and other metrics 
+4,29,1,Calibri-Bold,7.0,77.7,657.3,511.2,664.2,"(2) DESI 2025 reports the version 4 of the Digital Intensity Index, that is comparable with the DII value from DESI 2023 (referring to year 2022) for the "
+4,29,2,Calibri-Bold,7.0,77.7,665.9,428.3,672.9,calculation of the annual progress. It is not comparable to the national trajectory that is based on version 3 of the index. 
+4,29,3,Calibri-Bold,7.0,77.7,674.4,433.6,681.4,(3) National trajectory value if present in the national roadmap and if the indicator was measured in DESI2025 (year 2024) 
+4,29,4,Calibri,11.0,72.0,685.3,74.5,696.3, 
+4,30,0,Calibri-Bold,11.0,72.0,707.9,405.4,718.9,According to the special Eurobarometer on ‘the Digital Decade’ 2025
+4,30,0,Calibri,11.0,405.6,707.9,525.8,718.9,", 72% of Spanish citizens "
+4,30,1,Calibri,11.0,72.0,722.4,525.7,733.4,consider that the digitalisation of daily public and private services is making their lives easier. 
+4,30,2,Calibri,11.0,72.0,736.8,525.8,747.8,"Concerning the action of the public authorities, 92% consider it important to counter and mitigate the "
+4,30,3,Calibri,11.0,72.0,751.3,525.6,762.4,"issue of fake news and disinformation online. Regarding competitiveness, 85% consider it important "
+4,31,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+4,31,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+5,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,to ensure that European companies can grow and become “European Champions” able to compete 
+5,2,1,Calibri,11.0,72.0,98.4,111.8,109.5,globally. 
+5,3,0,Calibri-Light,15.0,72.0,121.8,526.8,136.8,"A competitive, sovereign, and resilient EU based on technological leadership "
+5,5,0,Calibri,11.0,72.0,148.7,525.6,159.7,"Spain's digital infrastructure is generally more advanced than the EU average, with higher coverage "
+5,5,1,Calibri,11.0,72.0,163.2,525.8,174.3,rates in most categories. Spain's 5G spectrum assignment in pioneer bands is particularly strong too 
+5,5,2,Calibri,11.0,72.0,177.7,525.7,188.8,(98.33%). The country prioritises semiconductor production through PERTE Chip (The Strategic Project 
+5,5,3,Calibri,11.0,72.0,192.1,525.6,203.2,"for Microelectronics and Semiconductors), which aims to strengthen design and production "
+5,5,4,Calibri,11.0,72.0,206.7,525.8,217.7,capabilities in the microelectronics and semiconductor industries. It is backed by a budget of EUR 
+5,5,5,Calibri,11.0,72.0,221.2,525.5,232.2,12.25 billion until 2027 and the country has created the SETT (Spanish Society for Technological 
+5,5,6,Calibri,11.0,72.0,235.7,525.9,246.8,Transformation) to accelerate the allocation of funds. Spain is actively participating in the IPCEI-ME 
+5,5,7,Calibri,11.0,72.0,250.1,525.6,261.2,"and Chips JU initiatives and is leading the Integrated Photonics Pilot Line. Notably, the Spanish "
+5,5,8,Calibri,11.0,72.0,264.6,525.7,275.7,government approved the updated 2024 National Artificial Intelligence Strategy and published an 
+5,5,9,Calibri,11.0,72.0,279.2,525.9,290.2,open-source GenAI models trained with a high percentage of data in Spanish and co-official languages 
+5,5,10,Calibri,11.0,72.0,293.7,525.6,304.7,"as part of its effort to strengthen digital sovereignty. Moreover, Spain is actively participating in the "
+5,5,11,Calibri,11.0,72.0,308.1,523.5,319.1,IPCEI-CIS to accelerate the edge nodes deployment. Spain also launched a regulatory sandbox for high-
+5,5,12,Calibri,11.0,72.0,322.6,525.6,333.6,"risk AI systems, a pioneering step in implementing the European AI Act and supporting companies in "
+5,5,13,Calibri,11.0,72.0,337.1,215.1,348.2,meeting upcoming obligations.  
+5,6,0,Calibri,11.0,72.0,357.6,525.6,368.7,The country’s commitment to quantum technologies is reflected in the launch of the Quantum 
+5,6,1,Calibri,11.0,72.0,372.2,525.7,383.2,"Technologies Strategy in April 2025 and in the deployment of initiatives, projects such as Quantum "
+5,6,2,Calibri,11.0,72.0,386.6,525.6,397.6,"Spain, the Rydberg Atoms Computer and the EuroHPC Quantum Annealer.  Concerning the "
+5,6,3,Calibri,11.0,72.0,401.1,525.9,412.1,"digitalisation of business, the country shows strength in the basic digital intensity of SMEs (74.2%), "
+5,6,4,Calibri,11.0,72.0,415.6,525.6,426.7,"and in the adoption of Cloud and data analytics by enterprises, although faces challenges in AI "
+5,6,5,Calibri,11.0,72.0,430.1,525.6,441.2,"adoption by SMEs. Nonetheless, Spain is making efforts to improve its performance in these areas. "
+5,6,6,Calibri,11.0,72.0,444.5,525.8,455.6,The country is focusing on bolstering the innovative scale-up ecosystem with strategic investments to 
+5,6,7,Calibri,11.0,72.0,459.1,273.0,470.1,nurture and support innovative enterprises.  
+5,7,0,Calibri-Light,15.0,72.0,482.5,379.5,497.5,Protecting and empowering EU people and society 
+5,8,0,Calibri,11.0,72.0,509.4,525.8,520.4,Spain continues to take positive steps toward empowering people and promoting opportunities for all 
+5,8,1,Calibri,11.0,72.0,523.9,525.7,534.9,individuals in the digital economy. The country is aiming to bridge gaps concerning the accessibility of 
+5,8,2,Calibri,11.0,72.0,538.3,525.6,549.3,"digital technologies through all the activities related to its National Digital Skills Plan, which includes "
+5,8,3,Calibri,11.0,72.0,552.8,525.9,563.8,initiatives like a EUR 200 million program to train over 80 000 professionals in digital skills and AI. Spain 
+5,8,4,Calibri,11.0,72.0,567.3,525.6,578.4,"is also making strides in the development of specialists in ICT, with initiatives like the ICT Talent "
+5,8,5,Calibri,11.0,72.0,581.9,525.6,592.9,Attraction and Retention Programme providing scholarships and contracts. Regarding Digital Public 
+5,8,6,Calibri,11.0,72.0,596.3,525.6,607.3,"Services, Spain makes a significant contribution to the EU’s Digital Decade targets, with its "
+5,8,7,Calibri,11.0,72.0,610.8,525.6,621.8,"performance in public services for citizens (88.8), however the country lags behind concerning the "
+5,8,8,Calibri,11.0,72.0,625.3,525.9,636.3,public services for business (85.1). The Spanish government has taken significant policy actions against 
+5,8,9,Calibri,11.0,72.0,639.8,525.6,650.9,online misinformation and in favour of the minors’ protection in the digital environment. It also pays 
+5,8,10,Calibri,11.0,72.0,654.2,525.6,665.3,"particular attention to the promotion of digital rights and principles, with the recent launch of the "
+5,8,11,Calibri,11.0,72.0,668.7,191.9,679.8,Digital Rights observatory. 
+5,9,0,Calibri-Light,15.0,72.0,692.2,399.0,707.2,Leveraging digital transformation for a smart greening 
+5,10,0,Calibri,11.0,72.0,719.0,525.6,730.1,Spain continues its efforts to support the synergies between the digital and green transitions. The 
+5,10,1,Calibri,11.0,72.0,733.6,523.6,744.6,country is implementing innovative programmes to reduce the environmental impact of energy-
+5,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+5,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+6,2,0,Calibri,11.0,72.0,84.0,525.6,95.1,intensive digital technologies. The National Green Algorithms Plan has four axes and aims to make AI 
+6,2,1,Calibri,11.0,72.0,98.4,365.7,109.5,more sustainable and to find AI solutions for the green transition. 
+6,3,0,Calibri-Light,15.0,72.0,121.8,328.3,136.8,National Digital Decade strategic roadmap 
+6,5,0,Calibri,11.0,72.0,148.7,525.8,159.7,Spain did not submit a revised adjustment to its national Digital Decade roadmap. The Spanish 
+6,5,1,Calibri,11.0,72.0,163.2,525.8,174.3,"authorities indicated that they plan at a later stage to formally revise the national roadmap, submitted "
+6,5,2,Calibri,11.0,72.0,177.7,525.9,188.8,"in January 2024, in accordance with article 8 (3) of the Decision establishing the Digital Decade Policy "
+6,5,3,Calibri,11.0,72.0,192.1,525.8,203.2,"Programme. The initial roadmap contains 67 measures with a budget of EUR 33.8 billion, of which EUR "
+6,5,4,Calibri,11.0,72.0,206.7,525.9,217.7,"26.7 billion come from public budgets (equivalent to 1.68 % of GDP). However, Spain has worked on "
+6,5,5,Calibri,11.0,72.0,221.2,525.9,232.2,"addressing the recommendations made in 2024, by changing existing measures and implementing new "
+6,5,6,Calibri,11.0,72.0,235.7,525.7,246.8,ones that will be included in a future revised roadmap. The Spanish authorities published the initial 
+6,5,7,Calibri,11.0,72.0,250.1,223.5,261.2,national roadmap in March 2025. 
+6,6,0,Calibri-Light,15.0,72.0,273.6,249.8,288.6,Funding & projects for digital 
+6,7,0,Calibri,11.0,72.0,300.4,462.7,311.5,Spain allocates 26% of its total recovery and resilience plan to digital (EUR 40.4 billion)
+6,7,0,Calibri,7.0,462.8,299.5,466.3,306.5,1
+6,7,0,Calibri,11.0,466.3,300.4,525.9,311.5,". In addition, "
+6,7,1,Calibri,11.0,72.0,314.9,525.8,326.0,"under cohesion policy, EUR 5.0 billion, representing 14% of the country’s total cohesion policy funding, "
+6,7,2,Calibri,11.0,72.0,329.4,317.4,340.5,is dedicated to advancing Spain’s digital transformation
+6,7,2,Calibri,7.0,317.5,328.5,321.0,335.5,2
+6,7,2,Calibri,11.0,321.0,329.4,326.2,340.5,. 
+6,8,0,Calibri,11.0,72.0,351.9,525.7,362.9,"Spain is a member of the three established EDICs; the Alliance for Language Technologies EDIC, the "
+6,8,1,Calibri,11.0,72.0,366.4,525.6,377.4,Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. Spain is directly 
+6,8,2,Calibri,11.0,72.0,380.9,525.9,392.0,participating in the IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in 
+6,8,3,Calibri,11.0,72.0,395.3,525.9,406.4,the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Spain is also a participating 
+6,8,4,Calibri,11.0,72.0,409.9,358.8,420.9,state of the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+6,9,0,Calibri,11.0,72.0,432.4,203.2,443.5,Spain has contributed to the 
+6,9,0,Calibri-Bold,11.0,203.8,432.4,318.5,443.5,Best Practice Accelerator
+6,9,0,Calibri,7.0,318.7,431.5,322.2,438.5,3
+6,9,0,Calibri,11.0,322.1,432.4,525.8,443.5, by sharing one best practice in the frame of 
+6,9,1,Calibri,11.0,72.0,446.8,419.0,457.9,the Digital Skills cluster (The Generation D Pact launched in November 2022). 
+6,10,0,Calibri-Light,15.0,72.0,470.3,238.3,485.3,Digital rights and principles 
+6,11,0,Calibri,11.0,72.0,497.1,525.6,508.1,"According to a support study, Spain has been one of the most active Member States in implementing "
+6,11,1,Calibri,11.0,72.0,511.6,89.5,522.7,the 
+6,11,1,Calibri-Bold,11.0,89.1,511.6,328.0,522.7,European Declaration on Digital Rights and Principles
+6,11,1,Calibri,11.0,328.1,511.6,525.9,522.7,", with over 100 initiatives overall and 30 new "
+6,11,2,Calibri,11.0,72.0,526.1,525.8,537.2,"initiatives launched in 2024. Spain is most active in the area of digital education, training and skills. "
+6,11,3,Calibri,11.0,72.0,540.5,525.9,551.6,Less activity has been identified with regards to sustainability. Measures in the area of solidarity and 
+6,11,4,Calibri,11.0,72.0,555.1,525.9,566.1,"inclusion appear to have most impact on the ground, in contrast to those addressing participation in "
+6,11,5,Calibri,11.0,72.0,569.6,179.5,580.7,the digital public space. 
+6,12,0,Calibri,11.0,72.0,592.1,74.5,603.1, 
+6,12,1,Calibri,11.0,216.1,592.1,218.5,603.1, 
+6,13,0,Calibri,11.0,216.1,659.9,218.5,670.9, 
+6,13,1,Calibri,6.0,72.0,672.6,75.1,678.6,1
+6,13,1,Calibri,9.0,75.0,672.9,524.9,681.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+6,13,2,Calibri,9.0,72.0,683.9,313.5,692.9,and Resilience Facility Regulation. Last data update: 16 May 2025. 
+6,13,3,Calibri,6.0,72.0,694.7,75.1,700.7,2
+6,13,3,Calibri,9.0,75.0,695.0,523.2,704.0, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+6,13,4,Calibri,9.0,72.0,705.9,525.1,714.9,"2027 Cohesion policy programming period. The source funds are the European Regional Development Fund, the Cohesion "
+6,13,5,Calibri,9.0,72.0,716.9,315.5,725.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+6,13,6,Calibri,6.0,72.0,727.6,75.1,733.6,3
+6,13,6,Calibri,9.0,75.0,727.9,525.1,736.9, The Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+6,13,7,Calibri,9.0,72.0,738.9,525.5,747.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+6,13,8,Calibri,9.0,72.0,749.8,525.2,758.8,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+6,13,9,Calibri,9.0,72.0,760.9,250.7,769.9,"Green IT, and the Uptake of Digital Technologies. "
+6,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+6,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+7,2,0,Calibri-Bold,11.0,77.7,84.5,165.4,95.5,Recommendations 
+7,2,1,Calibri-Bold,11.0,77.7,97.9,80.2,109.0, 
+7,3,0,Calibri,11.0,95.7,111.4,99.0,122.4,-
+7,3,0,ArialMT,11.0,99.0,109.7,102.1,122.0, 
+7,3,1,Calibri-Bold,11.0,113.7,111.4,238.9,122.4,"AI, cloud and data analytics"
+7,3,1,Calibri,11.0,239.0,111.4,528.5,122.4,": continue the efforts to support the digitalisation of enterprises, "
+7,3,2,Calibri,11.0,113.7,125.8,434.2,136.8,"in particular, to foster the adoption of AI, and paying attention to SMEs. "
+7,5,0,Calibri,11.0,95.7,143.3,99.0,154.3,-
+7,5,0,ArialMT,11.0,99.0,141.6,102.1,153.9, 
+7,5,1,Calibri-Bold,11.0,113.7,143.3,176.8,154.3,ICT specialists
+7,5,1,Calibri,11.0,176.9,143.3,498.9,154.3,: continue the efforts to increase the number of ICT specialists and their 
+7,5,2,Calibri,11.0,113.7,157.8,355.8,168.9,percentage over the total employment in the country. 
+7,6,0,Calibri,11.0,95.7,175.3,99.0,186.4,-
+7,6,0,ArialMT,11.0,99.0,173.6,102.1,185.9, 
+7,6,1,Calibri-Bold,11.0,113.7,175.3,141.5,186.4,Green
+7,6,1,Calibri,11.0,141.5,175.3,505.3,186.4,: Develop a system for monitoring and quantifying the emission reductions of the 
+7,6,2,Calibri,11.0,113.7,189.7,233.1,200.8,deployed digital solutions. 
+7,7,0,Calibri,11.0,95.7,207.3,99.0,218.3,-
+7,7,0,ArialMT,11.0,99.0,205.5,102.1,217.9, 
+7,7,1,Calibri-Bold,11.0,113.7,207.3,154.2,218.3,Unicorns
+7,7,1,Calibri,11.0,154.2,207.3,516.2,218.3,: Continue efforts to improve the business environment and access to finance for 
+7,7,2,Calibri,11.0,113.7,221.8,188.2,232.8,digital start-ups. 
+7,8,0,Calibri,11.0,95.7,239.3,99.0,250.4,-
+7,8,0,ArialMT,11.0,99.0,237.6,102.1,249.9, 
+7,8,1,Calibri-Bold,11.0,113.7,239.3,288.8,250.4,Semiconductors and digital innovation
+7,8,1,Calibri,11.0,288.8,239.3,509.9,250.4,: Accelerate the efforts to allocate public funds in 
+7,8,2,Calibri,11.0,113.7,253.7,195.5,264.8,strategic projects. 
+7,9,0,Calibri,11.0,95.7,271.2,99.0,282.3,-
+7,9,0,ArialMT,11.0,99.0,269.5,102.1,281.8, 
+7,9,1,Calibri-Bold,11.0,113.7,271.2,176.1,282.3,Cybersecurity
+7,9,1,Calibri,11.0,176.2,271.2,524.6,282.3,": Continue efforts in cybersecurity to address evolving threats, particularly for "
+7,9,2,Calibri,11.0,113.7,285.8,256.7,296.8,enterprises and administration. 
+7,9,3,Calibri,11.0,72.0,300.8,74.5,311.8, 
+7,9,4,Calibri,11.0,72.0,314.2,74.5,325.2, 
+7,9,5,Calibri-Bold,11.0,216.1,314.2,218.5,325.2, 
+7,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+7,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Bold,11.0,72.0,160.5,513.3,171.5,Spanish policymakers are focusing on digital technologies as an enabler for competitiveness. 
+8,4,0,Calibri,11.0,515.0,160.5,525.9,171.5,In 
+8,4,1,Calibri,11.0,72.0,175.0,525.9,186.0,"recent years, significant progress has been made thanks to the Digital Spain Agenda. It has succeeded "
+8,4,2,Calibri,11.0,72.0,189.5,525.7,200.5,"in stimulating the development of infrastructure, continued growth, and digitalisation of the Spanish "
+8,4,3,Calibri,11.0,72.0,203.9,525.9,214.9,"economy. In addition, the national Recovery and Resilience Plan significantly helps boost the digital "
+8,4,4,Calibri,11.0,72.0,218.4,146.8,229.5,transformation.  
+8,5,0,Calibri-Bold,11.0,72.0,241.0,423.7,252.0,Spain’s digital infrastructure is generally more advanced than the EU average
+8,5,0,Calibri,11.0,423.9,241.0,525.9,252.0,", with higher coverage "
+8,5,1,Calibri,11.0,72.0,255.4,525.8,266.5,"rates in most categories. However, the observed values are below the trajectories expected for 2024, "
+8,5,2,Calibri,11.0,72.0,269.9,427.8,281.0,which could indicate a need for accelerated development to maintain the lead.  
+8,6,0,Calibri-Bold,11.0,72.0,292.5,525.9,303.5,Spain is making significant progress in ensuring that enterprises have a basic level of digital intensity 
+8,6,1,Calibri-Bold,11.0,72.0,306.9,301.1,317.9,and that they adopt more advanced technologies
+8,6,1,Calibri,11.0,301.1,306.9,525.8,317.9,. Spanish SMEs accounted for 33.2% of the value 
+8,6,2,Calibri,11.0,72.0,321.4,525.9,332.5,"added in the economy, while large enterprises generated 45.5%. SMEs in particular represented about "
+8,6,3,Calibri,11.0,72.0,335.9,525.6,347.0,"97.4% of the enterprises with more than 10 employees, while large enterprises constituted 2.6%. "
+8,6,4,Calibri,11.0,72.0,350.4,525.9,361.5,"According to the last available data, R&D in the ICT sector represented 17.81% of total R&D "
+8,6,5,Calibri,11.0,72.0,364.8,388.4,375.9,expenditure by businesses and 22.73% of total R&D personnel in 2022
+8,6,5,Calibri,7.0,388.4,363.9,391.9,370.9,4
+8,6,5,Calibri,11.0,391.9,364.8,525.9,375.9,". However, as reflected in the "
+8,6,6,Calibri,11.0,72.0,379.4,525.8,390.4,"European Semester report, regional disparities persist, affecting Spain’s overall innovation "
+8,6,7,Calibri,11.0,72.0,393.9,525.9,404.9,"performance. Regions like Madrid, Catalonia and the Basque Country are strong innovators with higher "
+8,6,8,Calibri,11.0,72.0,408.4,525.9,419.5,"levels of investment in R&D than the Spanish average, while other regions continue to exhibit low R&D "
+8,6,9,Calibri,11.0,72.0,422.8,266.8,433.9,"investment, highlighting an innovation gap. "
+8,7,0,Calibri-Bold,11.0,72.0,445.4,267.8,456.4,The country also attaches importance to AI
+8,7,0,Calibri,11.0,267.9,445.4,525.9,456.4,". On 15 May 2024, the Spanish government approved the "
+8,7,1,Calibri,11.0,72.0,459.9,111.9,470.9,updated 
+8,7,1,Calibri-Bold,11.0,111.5,459.9,310.2,470.9,National Artificial Intelligence Strategy 2024
+8,7,1,Calibri,11.0,310.4,459.9,525.9,470.9, to build upon and accelerate the progress made 
+8,7,2,Calibri,11.0,72.0,474.3,525.8,485.4,by the 2020 strategy. Its goal is to strengthen Spain’s position in AI by adapting to recent technological 
+8,7,3,Calibri,11.0,72.0,488.8,525.9,499.9,"advances, promoting a transparent, ethical, and human-centered approach, while boosting innovation "
+8,7,4,Calibri,11.0,72.0,503.3,525.6,514.4,"and competitiveness. The strategy focuses on key areas like supercomputing, data infrastructure, AI "
+8,7,5,Calibri,11.0,72.0,517.9,525.9,528.9,"talent, cybersecurity, and promoting responsible AI across both the public and private sectors. Several "
+8,7,6,Calibri,11.0,72.0,532.3,525.9,543.3,"initiatives are already underway, including major investments in the Barcelona Supercomputing Centre "
+8,7,7,Calibri,11.0,72.0,546.8,525.6,557.8,to support advanced AI model development and efforts to promote generative AI startups. Projects 
+8,7,8,Calibri,11.0,72.0,561.3,525.8,572.4,are also advancing the development of high-quality Spanish language corpora and foundational 
+8,7,9,Calibri,11.0,72.0,575.9,525.9,586.9,"models as just in September 2024, the first AI model was published. This model has been trained with "
+8,7,10,Calibri,11.0,72.0,590.3,525.9,601.3,a high percentage of data in Spanish and co-official languages and is available to all as an open-source 
+8,7,11,Calibri,11.0,72.0,604.8,525.9,615.8,"infrastructure. The country has already created a European Regulatory Sandbox on AI, with 12 selected "
+8,7,12,Calibri,11.0,72.0,619.3,525.9,630.3,high risk AI systems that will work on the implementation of the European regulation on AI through 
+8,7,13,Calibri,11.0,72.0,633.8,176.5,644.9,operational guidelines. 
+8,8,0,Calibri,11.0,72.0,656.3,240.7,667.3,According to the 2025 Eurobarometer
+8,8,0,Calibri,7.0,240.6,655.4,244.2,662.3,5
+8,8,0,Calibri,11.0,244.1,656.3,525.8,667.3,", 86% of Spanish people think that building efficient and secure "
+8,8,1,Calibri,11.0,72.0,670.8,505.9,681.8,digital infrastructures and data processing facilities should be a priority for the public authorities. 
+8,9,0,Calibri,11.0,216.1,725.8,218.5,736.8, 
+8,10,0,Calibri,6.0,72.0,738.7,75.1,744.7,4
+8,10,0,Calibri,9.0,75.0,738.9,525.4,747.9, Most of the indicators mentioned in the country report are explained in the DESI 2025 Methodological Note accompanying 
+8,10,1,Calibri,9.0,72.0,749.8,235.0,758.8,the State of the Digital Decade report 2025.  
+8,10,2,Calibri,6.0,72.0,760.6,75.1,766.6,5
+8,10,2,Calibri,9.0,75.0,760.9,285.6,769.9, Special Eurobarometer 566 on ‘the Digital Decade’ 2025: 
+8,10,2,Calibri,9.0,285.7,760.9,515.0,769.9,https://digital-strategy.ec.europa.eu/en/news-redirect/883227
+8,10,2,Calibri,9.0,515.2,760.9,517.2,769.9, 
+8,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+8,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+9,2,0,Calibri-Light,15.0,72.0,84.9,509.7,99.9,Building technological leadership: digital infrastructure and technologies 
+9,4,0,Calibri-Bold,11.0,72.0,111.7,525.8,122.8,Spain benefits from its active deployment of connectivity infrastructures and the country has nearly 
+9,4,1,Calibri-Bold,11.0,72.0,126.3,313.7,137.3,"met the EU targets for VHCN, FTTP and 5G coverage"
+9,4,1,Calibri,11.0,313.8,126.3,525.7,137.3,. The country is a leader in the deployment of 
+9,4,2,Calibri,11.0,72.0,140.8,420.9,151.8,edge nodes and invests heavily in semiconductors and quantum technologies. 
+9,5,0,Calibri-Light,12.0,72.0,163.5,203.2,175.5,Connectivity infrastructure 
+9,6,0,Calibri-Bold,11.0,72.0,187.0,451.1,198.0,"Spain's VHCN coverage for all households is significantly higher than the EU average,"
+9,6,0,Calibri,11.0,451.2,187.0,453.7,198.0, 
+9,6,0,Calibri-Bold,11.0,453.3,187.0,525.9,198.0,but the country 
+9,6,1,Calibri-Bold,11.0,72.0,201.5,484.7,212.5,is lagging compared to its national trajectory as coverage has not grown over the last year.
+9,6,1,Calibri,11.0,484.8,201.5,525.9,212.5," In 2023, "
+9,6,2,Calibri,11.0,72.0,216.0,525.6,227.1,"Spain's total VHCN coverage was 96.32%, compared to the EU's 78.64%, and in 2024, it was 95.01%, "
+9,6,3,Calibri,11.0,72.0,230.5,525.9,241.6,"still above the EU's 82.49%. However, Spain's growth rate is -1.4%, which is below the EU's 4.9%. For "
+9,6,4,Calibri,11.0,72.0,245.0,525.6,256.0,"households in sparsely populated areas, Spain's coverage was 86.94% in 2023 and 86.33% in 2024, "
+9,6,5,Calibri,11.0,72.0,259.5,525.9,270.5,"both higher than the EU's 55.59% and 61.89%, respectively. Spain's growth rate of -0.7% is lower than "
+9,6,6,Calibri,11.0,72.0,274.0,525.7,285.0,the EU's 11.3%. These lower growth rates compared to the European average are due to the greater 
+9,6,7,Calibri,11.0,72.0,288.5,476.5,299.6,"difficulty of increasing coverage in the last few %, as well as Spain's low population density."
+9,6,7,Calibri,12.0,476.4,287.8,479.1,299.8, 
+9,7,0,Calibri-Bold,11.0,72.0,311.0,525.8,322.0,"Spain's FTTP coverage is also notably higher than the EU average, but it is also slightly below the "
+9,7,1,Calibri-Bold,11.0,72.0,325.5,204.0,336.5,expected national trajectory
+9,7,1,Calibri,11.0,204.1,325.5,525.7,336.5,". In 2023, its total FTTP coverage was 95.21%, compared to the EU's "
+9,7,2,Calibri,11.0,72.0,340.0,525.9,351.0,"63.87%, and in 2024, it was 94.87%, still above the EU’s 69.24%. Spain’s growth rate of -0.4% is lower "
+9,7,3,Calibri,11.0,72.0,354.4,525.8,365.4,"than the EU’s 8.4%. For households in sparsely populated areas, Spain's coverage was 85.89% in 2023 "
+9,7,4,Calibri,11.0,72.0,368.9,525.6,380.0,"and 86.32% in 2024, both higher than the EU's 52.55% and 58.78%, respectively. Spain's growth rate "
+9,7,5,Calibri,11.0,72.0,383.4,239.9,394.5,of 0.5% is lower than the EU's 11.9%. 
+9,8,0,Calibri-Bold,11.0,72.0,405.9,525.9,416.9,Spain's broadband take up indicators show a strong performance in terms of high-speed broadband 
+9,8,1,Calibri-Bold,11.0,72.0,420.4,326.5,431.5,"subscriptions, with shares well above the EU average."
+9,8,1,Calibri,11.0,326.6,420.4,525.8,431.5," In 2023, Spain's share of fixed broadband "
+9,8,2,Calibri,11.0,72.0,434.9,525.6,446.0,"subscriptions at 100 Mbps or higher was 93.54%, surpassing the EU's 65.9%. This figure increased to "
+9,8,3,Calibri,11.0,72.0,449.5,525.8,460.5,"95.68% in 2024, still ahead of the EU's 71.88%. For fixed broadband subscriptions at 1 Gbps or higher, "
+9,8,4,Calibri,11.0,72.0,463.9,525.5,474.9,"Spain's share was 20.34% in 2023, outpacing the EU's 18.47%. In 2024, this increased to 25.4%, "
+9,8,5,Calibri,11.0,72.0,478.4,525.6,489.4,remaining above the EU's 22.25%. Spain's growth rate of 24.9% exceeded the EU's 20.5%. The share 
+9,8,6,Calibri,11.0,72.0,492.9,525.9,503.9,"of 5G SIM cards in Spain was 22.08% in 2023, slightly above the EU's 21.7%. By 2024, this figure had "
+9,8,7,Calibri,11.0,72.0,507.4,525.5,518.5,"risen to 35.14%, just below the EU's 35.56%. Spain's growth rate of 59.1% was lower than the EU's "
+9,8,8,Calibri,11.0,72.0,521.8,107.2,532.9,63.9%.  
+9,9,0,Calibri-Bold,11.0,72.0,544.4,525.8,555.4,"Spain's overall 5G coverage is slightly higher than the EU average, but it is lagging compared to its "
+9,9,1,Calibri-Bold,11.0,72.0,558.8,156.6,569.9,national trajectory
+9,9,1,Calibri,11.0,156.6,558.8,525.8,569.9,". In 2023, Spain's total 5G coverage was 92.28%, compared to the EU's 89.05%, and "
+9,9,2,Calibri,11.0,72.0,573.3,525.9,584.4,"in 2024, it was 95.72%, still above the EU's 94.35% but 3 percentage points below the national "
+9,9,3,Calibri,11.0,72.0,587.9,525.7,598.9,trajectory for 2024 (98.9%). Spain's growth rate of 3.7% is lower than the EU's 6.0%. For households 
+9,9,4,Calibri,11.0,72.0,602.4,525.5,613.4,"in sparsely populated areas, Spain's coverage was 67.44% in 2023 and 79.57% in 2024, equal to the "
+9,9,5,Calibri,11.0,72.0,616.9,503.8,627.9,"EU's 71.1% and 79.57%, respectively. Spain's growth rate of 18.0% is higher than the EU's 11.9%. "
+9,10,0,Calibri-Bold,11.0,72.0,639.3,421.4,650.4,Spain's 5G coverage in the 3.4–3.8 GHz band is higher than the EU average
+9,10,0,Calibri,11.0,421.5,639.3,525.8,650.4,", but its growth rate is "
+9,10,1,Calibri,11.0,72.0,653.9,525.6,664.9,"lower. In 2023, Spain's total coverage was 58.29%, compared to the EU's 51.06%, and in 2024, it was "
+9,10,2,Calibri,11.0,72.0,668.3,525.6,679.3,"74.04%, still above the EU's 67.72%. Spain's growth rate of 27.0% is lower than the EU's 32.6%. For "
+9,10,3,Calibri,11.0,72.0,682.8,525.6,693.8,"households in sparsely populated areas, Spain's coverage was 10.24% in 2023 and 22.28% in 2024, "
+9,10,4,Calibri,11.0,72.0,697.3,525.8,708.3,"both lower than the EU's 15.86% and 26.19%, respectively. Spain's growth rate of 117.6% is higher "
+9,10,5,Calibri,11.0,72.0,711.8,166.7,722.9,than the EU's 65.1%. 
+9,11,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+9,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+10,2,0,Calibri-Bold,11.0,72.0,84.0,483.2,95.1,Spain's 5G spectrum assignment in pioneer bands is significantly higher than the EU average
+10,2,0,Calibri,11.0,483.5,84.0,525.9,95.1,". In 2024, "
+10,2,1,Calibri,11.0,72.0,98.4,525.7,109.5,"Spain's assignment was 98.33%, compared to the EU's 73.4%, and in 2025, it remained at 98.33%, still "
+10,2,2,Calibri,11.0,72.0,112.9,522.3,124.0,"above the EU's 74.63%. Spain has no growth between 2024 and 2025, while the EU's growth is 1.7%. "
+10,4,0,Calibri,11.0,72.0,135.5,525.7,146.5,Spain should focus on increasing growth rates in digital infrastructure to maintain its lead over the EU 
+10,4,1,Calibri,11.0,72.0,149.9,525.9,160.9,"average. Priorities should include improving growth in VHCN, FTTP, and overall 5G coverage, as well as "
+10,4,2,Calibri,11.0,72.0,164.4,525.6,175.5,ensuring that households in sparsely populated areas are not left behind. The country's strong 5G 
+10,4,3,Calibri,11.0,72.0,178.9,478.3,190.0,spectrum assignment should be used to drive further advancements in digital connectivity. 
+10,5,0,Calibri-LightItalic,11.0,72.0,201.4,143.4,212.4,VHCN and FTTP 
+10,6,0,Calibri-Bold,11.0,72.0,223.9,297.0,235.0,Spain sets the VHCN/FTTP target at 100% by 2030
+10,6,0,Calibri,11.0,297.2,223.9,525.9,235.0," in its roadmap, which is aligned with the EU effort. "
+10,6,1,Calibri,11.0,72.0,237.4,506.6,248.4,"Although the current VHCN/FTTP values are slightly below the trajectories expected in 2024, "
+10,6,1,Calibri-Bold,11.0,508.3,237.4,525.9,248.4,the 
+10,6,2,Calibri-Bold,11.0,72.0,250.7,322.2,261.8,country is on track according to its national trajectory. 
+10,6,3,Calibri,11.0,72.0,264.2,525.9,275.2,"In 2024, Spain launched UNICO Banda Ancha 2024 programme. It provides EUR 18.5 million in grants "
+10,6,4,Calibri,11.0,72.0,278.7,525.7,289.7,"that will mobilise investments to provide coverage of new generation, very high speed, public "
+10,6,5,Calibri,11.0,72.0,293.2,525.8,304.2,"broadband networks capable of providing fixed technology services at speeds of at least 300 Mbps, "
+10,6,6,Calibri,11.0,72.0,307.7,404.5,318.8,"both downstream and upstream, to almost 60,000 homes and businesses. "
+10,7,0,Calibri-LightItalic,11.0,72.0,330.2,87.0,341.2,5G 
+10,8,0,Calibri-Bold,11.0,72.0,352.7,525.9,363.8,"Spain’s 5G target remains at 100%, as set in its national roadmap submitted in 2024, and it is planned "
+10,8,1,Calibri-Bold,11.0,72.0,367.1,176.3,378.2,to be achieved by 2027
+10,8,1,Calibri,11.0,176.3,367.1,525.9,378.2,". In 2024, Spain showed an annual progress of 3.7%, achieving 95.7% of overall "
+10,8,2,Calibri,11.0,72.0,381.6,525.9,392.7,"5G coverage. However, to reach 100% coverage in populated areas by 2027 as planned in its national "
+10,8,3,Calibri,11.0,72.0,396.2,525.9,407.2,"roadmap, it should have achieved the 98.9% according to the established trajectory. Nevertheless, the "
+10,8,4,Calibri,11.0,72.0,410.7,250.9,421.8,"difference isa minor, which means that "
+10,8,4,Calibri-Bold,11.0,251.7,410.7,523.5,421.8,the country is on track according to its national trajectory.
+10,8,4,Calibri,11.0,523.4,410.7,525.9,421.8, 
+10,8,5,Calibri,11.0,72.0,425.1,525.9,436.1,The national roadmap outlines six measures aimed at reaching 100% 5G coverage by 2030 and they 
+10,8,6,Calibri,11.0,72.0,439.6,194.8,450.7,are under implementation. 
+10,9,0,Calibri,11.0,72.0,462.1,525.9,473.1,Between 2022 and 2024 the UNICO Sectorial 5G programme supported 5G projects aimed at 
+10,9,1,Calibri,11.0,72.0,476.6,525.9,487.6,"transforming different economic sectors and essential services, with a total amount of nearly EUR 115 "
+10,9,2,Calibri,11.0,72.0,491.1,525.7,502.1,"million awarded. Concerning the deployment of 5G standalone by private operators, Telefonica "
+10,9,3,Calibri,11.0,72.0,505.6,525.9,516.7,"reported coverage in all cities with more than 250.000 habitants and continues expanding its network, "
+10,9,4,Calibri,11.0,72.0,520.1,396.6,531.2,while Orange is already covering more than 60 cities across the country.  
+10,10,0,Calibri,11.0,72.0,542.6,525.9,553.6,"In 2023, it was launched the first call (EUR 544 million) of the UNICO 5G Networks – Active programme, "
+10,10,1,Calibri,11.0,72.0,557.1,525.9,568.2,which aims to support deployment of equipment and infrastructure in less populated areas of Spain 
+10,10,2,Calibri,11.0,72.0,571.5,525.9,582.6,(with fewer than 10.000 inhabitants). A second call (EUR 171 million) was published in August 2024 . 
+10,10,3,Calibri,11.0,72.0,586.1,491.4,597.1,This programme guarantees that the 5G stand alone will arrive to these less populated areas.  
+10,11,0,Calibri-Bold,11.0,77.7,609.1,186.1,620.1,2024 recommendation: 
+10,11,0,Calibri,11.0,185.7,609.1,517.9,620.1,Ensure sufficient access of new players to spectrum for innovative business-
+10,11,1,Calibri,11.0,77.7,623.6,520.1,634.7,to-business (B2B) and business-to-consumer (B2C) applications and encourage operators to speed 
+10,11,2,Calibri,11.0,77.7,638.0,313.8,649.1,up the deployment of 5G stand-alone core networks.
+10,11,2,Calibri-Bold,11.0,313.8,638.0,316.2,649.1, 
+10,12,0,Calibri-Bold,11.0,77.7,661.1,479.1,672.1,Spain made some efforts to address the recommendation through policy actions in 2024
+10,12,0,Calibri,11.0,479.1,661.1,487.0,672.1,:  
+10,12,1,Calibri,11.0,77.7,675.6,520.3,686.6,"To accelerate 5G deployment and its industrial use for innovative business-to business (B2B), in the "
+10,12,2,Calibri,11.0,77.7,690.0,520.3,701.0,"26 GHz band, Spain has made the 450 MHz band available to businesses in the self-provision regime. "
+10,13,0,Calibri-Light,12.0,72.0,713.3,151.9,725.3,Semiconductors 
+10,14,0,Calibri-Bold,11.0,72.0,736.8,246.0,747.8,"With a budget of EUR 12.25 billion, "
+10,14,0,Calibri-Bold,11.0,248.0,736.8,300.9,747.8,PERTE Chip
+10,14,0,Calibri-Bold,11.0,300.9,736.8,525.8,747.8, is the key strategic initiative to strengthen its 
+10,14,1,Calibri-Bold,11.0,72.0,751.3,482.1,762.4,"scientific, design, and manufacturing capabilities in microelectronics and semiconductors."
+10,14,1,Calibri,11.0,482.5,751.3,525.9,762.4, The goal 
+10,15,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+10,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+11,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,"is to bolster the technological and research ecosystem across the entire value chain, supporting "
+11,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"innovation, cleanroom infrastructure, talent development, and specific areas like integrated photonics "
+11,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,"and RISC-V architecture. The initiative takes a comprehensive approach, targeting all stages from "
+11,3,3,Calibri,11.0,72.0,127.5,525.6,138.5,conception and chip design to production and boosting the ICT manufacturing sector to increase 
+11,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,demand for locally produced semiconductors. It supports scientific research in advanced 
+11,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"microprocessors and quantum chips, promotes fabless companies and training networks, and "
+11,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,promotes national semiconductor manufacturing with leading-edge and mid-range technologies. It 
+11,3,7,Calibri,11.0,72.0,185.4,525.7,196.5,also aims to stimulate the ICT manufacturing sector and entrepreneurial ecosystem through venture 
+11,3,8,Calibri,11.0,72.0,199.9,280.2,211.0,capital focused on chip startups and scaleups. 
+11,3,8,Calibri-Bold,11.0,280.6,199.9,525.9,211.0,"Despite the efforts of the Spanish government, there "
+11,3,9,Calibri-Bold,11.0,72.0,214.3,525.7,225.4,"has been a delay in the implementation and allocation of funds. To try to accelerate public funding, "
+11,3,10,Calibri-Bold,11.0,72.0,228.9,93.7,239.9,SETT
+11,3,10,Calibri-Bold,11.0,93.7,228.9,525.9,239.9, (Spanish Society for Technological Transformation) was created as a public entity in July 2024 
+11,3,11,Calibri-Bold,11.0,72.0,243.4,278.4,254.4,to manage the EU funds for strategic sectors. 
+11,4,0,Calibri,11.0,72.0,265.9,91.2,276.9,The 
+11,4,0,Calibri-Bold,11.0,91.8,265.9,198.1,276.9,Cátedras Chip initiative
+11,4,0,Calibri,11.0,198.2,265.9,525.9,276.9,", with EUR 45 million allocated, focuses on scientific capacity-building in "
+11,4,1,Calibri,11.0,72.0,280.4,525.9,291.4,universities involving private sector in the Chairs to contribute to the transfer of knowledge. Another 
+11,4,2,Calibri,11.0,72.0,294.9,525.9,305.9,"major effort involves the Chips Joint Undertaking pilot lines, with over EUR 133 million of funding (half "
+11,4,3,Calibri,11.0,72.0,309.4,525.8,320.5,from the EU). It includes the Integrated Photonics pilot line intended to establish Spain as a global 
+11,4,4,Calibri,11.0,72.0,323.8,449.8,334.9,leader in photonics and ensure full technological independence in this area by 2030. 
+11,5,0,Calibri,11.0,72.0,346.4,477.4,357.4,The Ministry of Industry and Tourism allocated EUR 65.4 million to direct participants in the 
+11,5,0,Calibri-Bold,11.0,477.1,346.4,525.9,357.4,Important 
+11,5,1,Calibri-Bold,11.0,72.0,360.9,520.6,371.9,Project of Common European Interest (IPCEI) on Microelectronics and Communication Technologies
+11,5,1,Calibri,11.0,520.8,360.9,525.9,371.9,", "
+11,5,2,Calibri,11.0,72.0,375.3,525.9,386.3,"with an additional EUR 56.6 million for indirect participants. Meanwhile, EUR 111 million were granted "
+11,5,3,Calibri,11.0,72.0,389.8,525.9,400.9,"to a direct participant by the State Secretariat for Telecommunications in the same programme, "
+11,5,4,Calibri,11.0,72.0,404.3,525.9,415.4,summing EUR 233 million invested in the IPCEI-MC. These funds aim to strengthen the design 
+11,5,5,Calibri,11.0,72.0,418.9,525.8,429.9,"ecosystem, supply chain capabilities, and the initial deployment of advanced semiconductor "
+11,5,6,Calibri,11.0,72.0,433.3,134.2,444.3,technologies. 
+11,6,0,Calibri,11.0,72.0,455.8,525.9,466.9,Further efforts include EUR 110 million in support of R&D projects which enforce the whole value chain 
+11,6,1,Calibri,11.0,72.0,470.3,525.9,481.4,of microelectronics and semiconductors and operate outside of specific European programmes. An 
+11,6,2,Calibri,11.0,72.0,484.7,525.7,495.8,"additional EUR 174.1 million to enhance the Spanish science and technology system, with funding for "
+11,6,3,Calibri,11.0,72.0,499.3,525.8,510.3,"supercomputing, cleanroom networks, and research infrastructures. Moreover, EUR 76.1 million for "
+11,6,4,Calibri,11.0,72.0,513.8,525.9,524.8,lower TRL R&D projects and the consolidation of researchers. SETT will invest EUR 4 million in the only 
+11,6,5,Calibri,11.0,72.0,528.3,525.9,539.3,Spanish company to produce semiconductor metrology equipment. The aim is to dramatically improve 
+11,6,6,Calibri,11.0,72.0,542.7,525.9,553.8,chip wafer production using patented world-leading technology. SETT will also invest EUR 9 million in 
+11,6,7,Calibri,11.0,72.0,557.3,474.8,568.3,a project for the development of disruptive infrared sensors based on nanotechnology. 
+11,6,7,Calibri-Bold,11.0,476.1,557.3,525.9,568.3,Spain also 
+11,6,8,Calibri-Bold,11.0,72.0,571.8,525.9,582.8,secured an agreement to establish Imec’s second European manufacturing and R&D centre in 
+11,6,9,Calibri-Bold,11.0,72.0,586.3,517.5,597.3,"Málaga, with over EUR 600 million in investment expected by 2030 partly funded through the RRF"
+11,6,9,Calibri,11.0,517.6,586.3,522.8,597.3,. 
+11,7,0,Calibri-Light,12.0,72.0,609.0,130.2,621.0,Edge nodes 
+11,8,0,Calibri-Bold,11.0,72.0,632.5,525.8,643.5,"According to the Edge Node Observatory, Spain is expected to have deployed a total of 302 edge "
+11,8,1,Calibri-Bold,11.0,72.0,647.0,297.9,658.1,"nodes by 2024, an increase of 80.2% since 2023"
+11,8,1,Calibri,11.0,298.0,647.0,525.9,658.1,. This is close to doubling (+134 edge nodes) the 
+11,8,2,Calibri,11.0,72.0,661.5,525.9,672.6,"amount estimated for 2023 (167, number revised since SDDR 2024). Spain is currently the third country "
+11,8,3,Calibri,11.0,72.0,676.1,279.1,687.1,in the EU in terms of edge nodes deployment. 
+11,9,0,Calibri-Bold,11.0,72.0,698.5,471.5,709.5,The European Project of Common Interest on Information Services and Cloud (IPCEI-CIS)
+11,9,0,Calibri,11.0,471.6,698.5,525.9,709.5, is currently 
+11,9,1,Calibri,11.0,72.0,713.0,525.9,724.1,under being implemented and will allow at least 17 edge nodes to be deployed. The UNICO R&D Cloud 
+11,9,2,Calibri,11.0,72.0,727.6,512.5,738.6,project also supports R&D in this area. Private investments in the country are likewise noteworthy. 
+11,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+11,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+12,2,0,Calibri-Light,12.0,72.0,84.3,184.4,96.3,Quantum technologies 
+12,4,0,Calibri,11.0,72.0,107.8,341.5,118.8,"On April 2025, the Spanish government launched the first "
+12,4,0,Calibri-Bold,11.0,342.9,107.8,490.2,118.8,Quantum Technologies Strategy
+12,4,0,Calibri,11.0,490.3,107.8,525.9,118.8,", which "
+12,4,1,Calibri,11.0,72.0,122.3,525.9,133.3,amounts to EUR 808 million coming from European Regional Development Fund and the Recovery and 
+12,4,2,Calibri,11.0,72.0,136.8,525.6,147.9,"Resilience Facility , with the possibility to leverage up to EUR 1.5 billion in public and private "
+12,4,3,Calibri,11.0,72.0,151.2,525.7,162.3,investments. This initiative seeks to boost funding for infrastructure and industrial applications of 
+12,4,4,Calibri,11.0,72.0,165.7,525.8,176.8,quantum technologies. It aims to highlight Spain’s strengths in areas like quantum communications 
+12,4,5,Calibri,11.0,72.0,180.3,525.9,191.3,and post-quantum cryptography while also making the most of market-driven opportunities in sensing 
+12,4,6,Calibri,11.0,72.0,194.8,525.9,205.8,"and metrology, particularly in sectors such as navigation, manufacturing, crisis prevention and defence. "
+12,4,7,Calibri,11.0,72.0,209.2,525.7,220.2,"The strategy’s core objectives include advancing research and market transfer, developing a national "
+12,4,8,Calibri,11.0,72.0,223.7,525.6,234.7,"quantum industry, preparing society for digital transformation, and consolidating Spain’s position in "
+12,4,9,Calibri,11.0,72.0,238.2,525.9,249.3,"the global quantum landscape through coordinated initiatives spanning business support, AI "
+12,4,10,Calibri,11.0,72.0,252.8,525.9,263.8,"integration, communications, sensing, data privacy, and infrastructure development. The strategy is "
+12,4,11,Calibri,11.0,72.0,267.2,525.9,278.2,aligned with the UN's International Year of Quantum Science and Technology and has been drafted 
+12,4,12,Calibri,11.0,72.0,281.7,525.9,292.7,"after a participative process with regional governments and stakeholders. As a first action, in April "
+12,4,13,Calibri,11.0,72.0,296.2,525.9,307.2,"2025, the Council of Ministers approved the Royal Decree creating the Quantum Communications Hub. "
+12,4,14,Calibri,11.0,72.0,310.7,525.9,321.8,"With a budget of EUR 10 million, it will promote the development of use cases, the promotion of R&D "
+12,4,15,Calibri,11.0,72.0,325.1,464.1,336.2,in quantum photonics and the implementation of training and dissemination initiatives. 
+12,5,0,Calibri,11.0,72.0,347.7,525.8,358.7,"In 2024, the Spanish Ministry for Digital Transformation and Public Service invested in the development "
+12,5,1,Calibri,11.0,72.0,362.2,525.8,373.2,"of three quantum computing infrastructures, viewing quantum technology as a crucial component for "
+12,5,2,Calibri,11.0,72.0,376.6,290.9,387.6,more sustainable AI. One of the key initiatives is 
+12,5,2,Calibri,11.0,291.4,376.6,361.0,387.6,Quantum Spain
+12,5,2,Calibri,11.0,360.9,376.6,525.9,387.6,", a  EUR 22 million project to build a "
+12,5,3,Calibri,11.0,72.0,391.1,525.8,402.2,"national quantum ecosystem, featuring a superconducting qubit-based quantum computer, cloud "
+12,5,4,Calibri,11.0,72.0,405.7,525.6,416.7,"access, quantum algorithm development, and emulators in Galicia, Castilla y León, and Barcelona. "
+12,5,5,Calibri,11.0,72.0,420.2,525.9,431.2,"Another project involves the creation of a quantum device based on Rydberg atoms, backed by EUR 7 "
+12,5,6,Calibri,11.0,72.0,434.6,525.8,445.6,million. It is expected to function as a quantum simulator within two years and evolve into a universal 
+12,5,7,Calibri,11.0,72.0,449.1,525.9,460.1,"quantum computer. This initiative is likely to generate patents and spin-off companies, further "
+12,5,8,Calibri,11.0,72.0,463.6,525.9,474.7,enhancing the Spanish quantum ecosystem. A third investment of EUR 8.5 million supports the Euro 
+12,5,9,Calibri,11.0,72.0,478.1,525.9,489.2,"QCS-Spain quantum annealer, co-funded by the European Commission, to be hosted by the Barcelona "
+12,5,10,Calibri,11.0,72.0,492.5,525.8,503.6,"Supercomputing Centre. It will integrate with existing supercomputers and quantum systems, "
+12,5,11,Calibri,11.0,72.0,507.1,383.7,518.1,contributing to a broader European hybrid supercomputing network.  
+12,6,0,Calibri-Light,15.0,72.0,530.5,526.8,545.5,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+12,7,0,Calibri-Bold,11.0,72.0,557.4,525.8,568.4,Spain is notably progressing in ensuring the basic level of digital intensity of enterprises as well as 
+12,7,1,Calibri-Bold,11.0,72.0,571.9,392.9,582.9,regarding the uptake of more advanced technologies by companies
+12,7,1,Calibri,11.0,393.1,571.9,525.8,582.9,". However, it is facing some "
+12,7,2,Calibri,11.0,72.0,586.3,525.9,597.3,"challenges in AI take-up regarding small enterprises, as it is below the EU average, although it is "
+12,7,3,Calibri,11.0,72.0,600.8,525.9,611.9,performing significantly higher than the EU average regarding large enterprises. There are several 
+12,7,4,Calibri,11.0,72.0,615.3,525.7,626.4,"public measures, implemented mostly under the national Recovery and Resilience Plan, to support "
+12,7,5,Calibri,11.0,72.0,629.9,196.6,640.9,digitalisation of businesses. 
+12,8,0,Calibri-Bold,11.0,72.0,652.3,402.5,663.3,The country has not increased its number of unicorns over the last year
+12,8,0,Calibri,11.0,402.6,652.3,525.9,663.3,". At the end of 2024, Spain "
+12,8,1,Calibri,11.0,72.0,666.8,525.9,677.9,"was home to 13 unicorns, lagging behind the 16 unicorns expected for 2024 according to the trajectory "
+12,8,2,Calibri,11.0,72.0,681.3,525.9,692.4,"established in its national roadmap. Spain aims to have 24 by 2030. However, this would still represent "
+12,8,3,Calibri,11.0,72.0,695.7,525.9,706.8,a limited contribution to the EU's target of nearly 500 unicorns by 2030. Spain remained stable in the 
+12,8,4,Calibri,11.0,72.0,710.3,525.9,721.3,"Global Start-up Ecosystem Index 2024 between 2023 and 2024, ranking 7th in the EU, although the "
+12,8,5,Calibri,11.0,72.0,724.8,315.9,735.8,number of cities in the top 1 000 worldwide declined.  
+12,9,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+12,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+13,2,0,Calibri-Light,12.0,72.0,84.3,265.2,96.3,SMEs with at least basic digital intensity 
+13,4,0,Calibri-Bold,11.0,72.0,107.8,468.2,118.8,"By 2024, 3 out of 4 (74.15%) of SMEs in Spain had at least a basic level of digital intensity"
+13,4,0,Calibri,11.0,468.3,107.8,525.9,118.8,", an increase "
+13,4,1,Calibri,11.0,72.0,122.3,525.5,133.3,"from 67.52% in 2022, with a robust growth rate of 4.8% every year (2022 is the last comparable year "
+13,4,2,Calibri,11.0,72.0,136.8,525.6,147.9,that used a similar methodology for measuring the digital intensity of enterprises). This placed Spain 
+13,4,3,Calibri,11.0,72.0,151.2,525.7,162.3,"above the EU average of 72.91% in 2024. At the same time, zooming in on the SMEs that had a high or "
+13,4,4,Calibri,11.0,72.0,165.7,525.7,176.8,"very high digital intensity, 31.77% achieved such an advanced level, in line the EU average of 32.66%. "
+13,4,5,Calibri,11.0,72.0,180.3,462.7,191.3,"Overall, the data shows good progress for Spanish SMEs in their digital transformation.  "
+13,5,0,Calibri,11.0,280.9,202.7,482.8,213.7,"According to the latest available data, in 2022"
+13,5,0,Calibri-Bold,11.0,482.9,202.7,525.9,213.7,", Spanish "
+13,5,1,Calibri-Bold,11.0,280.9,217.2,525.8,228.3,SMEs accounted for 33.2% of the value added in the 
+13,5,2,Calibri-Bold,11.0,280.9,231.8,322.6,242.8,economy
+13,5,2,Calibri,11.0,322.6,231.8,525.8,242.8,", while large enterprises generated 45.5%. "
+13,5,3,Calibri,11.0,280.9,246.3,320.3,257.3,"Notably, "
+13,5,3,Calibri-Bold,11.0,325.6,246.3,525.8,257.3,SMEs represented about 97.4% of the 
+13,5,4,Calibri-Bold,11.0,280.9,260.7,470.0,271.7,enterprises with more than 10 employees
+13,5,4,Calibri,11.0,470.0,260.7,525.9,271.7,", while large "
+13,5,5,Calibri,11.0,280.9,275.2,416.4,286.2,enterprises constituted 2.6%.  
+13,7,0,Calibri,11.0,280.9,297.6,525.8,308.7,The Spanish Ministry for Digital Transformation and 
+13,7,1,Calibri,11.0,280.9,312.2,525.8,323.2,Public Service is implementing several initiatives to 
+13,7,2,Calibri,11.0,280.9,326.7,525.8,337.7,strength the digitalisation and competitiveness of the 
+13,7,3,Calibri,11.0,280.9,341.2,336.4,352.2,enterprises. 
+13,7,3,Calibri-Bold,11.0,338.7,341.2,358.0,352.2,The 
+13,7,3,Calibri-Bold,11.0,360.3,341.2,425.8,352.2,Kit Consulting
+13,7,3,Calibri-Bold,11.0,426.0,341.2,525.9,352.2,", which expands the "
+13,7,4,Calibri-Bold,11.0,280.9,355.6,525.9,366.6,existing Kit Digital programme to help SMEs adopt 
+13,7,5,Calibri-Bold,11.0,280.9,370.1,525.8,381.2,advanced technologies and extend support to 
+13,7,6,Calibri-Bold,11.0,280.9,384.6,401.9,395.7,medium-sized enterprises
+13,7,6,Calibri,11.0,401.9,384.6,525.8,395.7,". So far, EUR 165 million "
+13,7,7,Calibri,11.0,280.9,399.2,525.9,410.2,"have been granted through over 12.000 aid packages, "
+13,7,8,Calibri,11.0,280.9,413.7,525.9,424.8,while the broader Kit Digital programme has 
+13,7,9,Calibri,11.0,280.9,428.1,525.8,439.1,distributed over 710 000 digital vouchers totalling 
+13,7,10,Calibri,11.0,72.0,442.6,278.3,453.7,more than EUR 2.9 billion in investment. The 
+13,7,10,Calibri-Bold,11.0,278.9,442.6,430.9,453.7,Generación D Pymes programme
+13,7,10,Calibri,11.0,430.9,442.6,525.9,453.7,", backed by EUR 256 "
+13,7,11,Calibri,11.0,72.0,457.1,525.6,468.2,"million and managed by the School of Industrial Organization (EOI), aims to train SME leaders and "
+13,7,12,Calibri,11.0,72.0,471.7,477.3,482.7,employees in digital transformation to help create a new digital culture within businesses.  
+13,8,0,Calibri,11.0,72.0,494.1,91.2,505.1,The 
+13,8,0,Calibri-Bold,11.0,91.8,494.1,243.4,505.1,National Entrepreneurship Office
+13,8,0,Calibri,11.0,243.4,494.1,525.8,505.1,", with a budget of EUR 60 million, acts as a digital platform to "
+13,8,1,Calibri,11.0,72.0,508.6,525.7,519.7,"support innovative entrepreneurship by connecting startups, entrepreneurs, and ecosystem "
+13,8,2,Calibri,11.0,72.0,523.0,525.6,534.1,"stakeholders. It offers access to funding opportunities, educational resources, diagnostic tools, and a "
+13,8,3,Calibri,11.0,72.0,537.5,525.7,548.6,"startup map, and has already engaged thousands of users and startups across the country. The UNICO "
+13,8,4,Calibri,11.0,72.0,552.1,525.8,563.1,"Pymes programme, EUR 44.6 million in funding, focuses on bridging connectivity gaps for small "
+13,8,5,Calibri,11.0,72.0,566.6,525.9,577.7,"businesses, microenterprises, and freelancers. It provides financial support in the form of connectivity "
+13,8,6,Calibri,11.0,72.0,581.1,525.9,592.2,"vouchers to improve internet access and related services, helping businesses overcome a significant "
+13,8,7,Calibri,11.0,72.0,595.5,241.7,606.6,barrier in their digital transformation. 
+13,9,0,Calibri,11.0,72.0,618.1,127.9,629.1,"In addition, "
+13,9,0,Calibri-Bold,11.0,130.5,618.1,337.1,629.1,the country has 50 digital innovation hubs
+13,9,0,Calibri,11.0,337.3,618.1,424.8,629.1, connected within 
+13,9,0,Calibri,11.0,427.3,618.1,525.9,629.1,the European Digital 
+13,9,1,Calibri,11.0,72.0,632.5,189.6,643.5,Innovation Hubs network
+13,9,1,Calibri,11.0,189.6,632.5,525.8,643.5,". They provide testing, training, funding and incubation support across "
+13,9,2,Calibri,11.0,72.0,647.0,387.3,658.1,"sectors and technologies, e.g. in mobility, health, AI and cybersecurity. "
+13,10,0,Calibri-Bold,11.0,72.0,669.6,525.9,680.6,"SETT also helps channel funding to businesses, in particular, the Next Tech Fund, which contains EUR "
+13,10,1,Calibri-Bold,11.0,72.0,684.0,186.6,695.0,4 billion from RRF funds. 
+13,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+13,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+14,2,0,Calibri-Light,12.0,72.0,84.3,236.8,96.3,Take up of cloud/AI/data analytics 
+14,5,0,Calibri,11.0,523.6,251.9,526.1,263.0, 
+14,6,0,Calibri-Bold,11.0,72.0,271.4,525.6,282.4,"In 2024, more than 1 in 2 enterprises (55.67%) in Spain adopted AI technologies, sophisticated or "
+14,6,1,Calibri-Bold,11.0,72.0,285.9,525.6,296.9,"intermediate cloud computing services, or performed data analytics, a 11.61% increase compared "
+14,6,2,Calibri-Bold,11.0,72.0,300.4,152.2,311.5,to 2023 (49.88%).
+14,6,2,Calibri,11.0,152.3,300.4,525.9,311.5," More specifically, the uptake among SMEs was slightly lower at 54.68% while large "
+14,6,3,Calibri,11.0,72.0,314.8,525.9,325.8,"enterprises demonstrated a significantly higher engagement rate of 87.84%. As a result, a difference "
+14,6,4,Calibri,11.0,72.0,329.3,525.9,340.4,"of 33.16 pps in uptake was recorded between SMEs and large enterprises in Spain, showing a decrease "
+14,6,5,Calibri,11.0,72.0,343.8,247.6,354.9,compared to the 2023 gap (39.04 pps). 
+14,7,0,Calibri-Bold,11.0,72.0,366.3,525.9,377.3,"Spain exhibited mixed performance in the adoption of cloud computing, data analytics, and AI "
+14,7,1,Calibri-Bold,11.0,72.0,380.8,366.8,391.9,technologies among enterprises with 10 or more employees
+14,7,1,Calibri,11.0,367.0,380.8,525.9,391.9,. Data analytics and AI adoption 
+14,7,2,Calibri,11.0,72.0,395.3,525.8,406.4,"exceeded EU averages, while cloud uptake and overall engagement with these technologies fell below "
+14,7,3,Calibri,11.0,72.0,409.9,525.7,420.9,"EU levels. Large enterprises consistently reported significantly higher adoption rates than SMEs, with "
+14,7,4,Calibri,11.0,72.0,424.3,525.8,435.3,differences in technology uptake often exceeding EU trends. Considering the predominant share of 
+14,7,5,Calibri,11.0,72.0,438.8,525.7,449.8,SMEs among enterprises with 10 or more employees in Spain and their relatively lower contribution 
+14,7,6,Calibri,11.0,72.0,453.3,525.9,464.4,"to economic value added, addressing these adoption disparities could play a key role in supporting "
+14,7,7,Calibri,11.0,72.0,467.8,211.9,478.9,balanced digital development.  
+14,8,0,Calibri-Bold,11.0,72.0,490.3,525.8,501.3,"In November 2024, the Spanish Minister for Digital Transformation and Public Function launched the "
+14,8,1,Calibri-Bold,11.0,72.0,504.8,246.9,515.8,Plan to Promote Sectoral Data Spaces
+14,8,1,Calibri-Bold,11.0,247.0,504.8,525.8,515.8,", which aims to accelerate the deployment of interoperable "
+14,8,2,Calibri-Bold,11.0,72.0,519.3,316.4,530.3,data ecosystems across all productive sectors in Spain
+14,8,2,Calibri,11.0,316.4,519.3,525.9,530.3,. The plan is designed to help companies make 
+14,8,3,Calibri,11.0,72.0,533.7,525.8,544.8,"the most of the future European single market for data, fostering innovation and boosting "
+14,8,4,Calibri,11.0,72.0,548.2,525.9,559.3,"competitiveness. Its main goals include aligning with EU initiatives, boosting technological and "
+14,8,5,Calibri,11.0,72.0,562.8,525.8,573.8,"industrial competitiveness, and encouraging public-private collaboration in the development of "
+14,8,6,Calibri,11.0,72.0,577.3,525.9,588.3,sectoral data spaces. The plan is structured around six strategic axes and involves 11 key initiatives that 
+14,8,7,Calibri,11.0,72.0,591.7,525.9,602.7,"support demonstrators and use cases in strategic sectors, including tourism, language economy, smart "
+14,8,8,Calibri,11.0,72.0,606.2,525.7,617.3,"urban infrastructures, and regional development. Funding is provided for technical and legal "
+14,8,9,Calibri,11.0,72.0,620.7,525.8,631.8,"integration into existing data spaces, the development of digital products and services and for "
+14,8,10,Calibri,11.0,72.0,635.3,523.6,646.3,centralised management of public data demand. The plan also includes the creation of neutral data-
+14,8,11,Calibri,11.0,72.0,649.7,525.7,660.7,"sharing platforms, such as one for the tourism sector, which will host a marketplace for reusable "
+14,8,12,Calibri,11.0,72.0,664.2,525.8,675.2,"applications and services. To support long-term sustainability and interoperability, the plan also "
+14,8,13,Calibri,11.0,72.0,678.7,525.7,689.7,"establishes a centre of reference that will develop the technical reference framework, manage a "
+14,8,14,Calibri,11.0,72.0,693.2,525.6,704.3,"registry of trusted and interoperable data spaces, and coordinate shared infrastructures and testing "
+14,8,15,Calibri,11.0,72.0,707.6,525.9,718.7,"capacities. Additionally, a national campaign for awareness, training, and capacity building will be "
+14,8,16,Calibri,11.0,72.0,722.2,525.9,733.2,rolled out to ensure the broad adoption of sectoral data spaces and strengthen Spain’s leadership in 
+14,8,17,Calibri,11.0,72.0,736.7,323.4,747.7,the digital data economy at both national and EU levels. 
+14,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+14,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+15,2,0,SymbolMT,11.0,90.0,81.8,95.1,95.3,
+15,2,0,ArialMT,11.0,95.1,82.9,98.1,95.2, 
+15,2,1,Calibri-Bold,11.0,108.0,84.6,134.3,95.7,Cloud
+15,2,1,Calibri,11.0,134.3,84.6,136.8,95.7, 
+15,4,0,Calibri,11.0,72.0,102.0,224.0,113.1,"Based on the latest available data, "
+15,4,0,Calibri-Bold,11.0,223.5,102.0,525.8,113.1,"33.1% of Spanish enterprises used cloud services in 2024, revealing "
+15,4,1,Calibri-Bold,11.0,72.0,116.5,281.9,127.6,a 21.47% growth compared to 2023 (27.25%).
+15,4,1,Calibri,11.0,282.2,116.5,525.8,127.6," However, while SMEs had an uptake of 31.85%, large "
+15,4,2,Calibri,11.0,72.0,131.1,525.8,142.1,enterprises showed a much higher adoption rate of 73.59%. This indicates a notable difference of 41.74 
+15,4,3,Calibri,11.0,72.0,145.6,339.6,156.6,pps in uptake between SMEs and large enterprises in Spain. 
+15,5,0,SymbolMT,11.0,90.0,165.8,95.1,179.3,
+15,5,0,ArialMT,11.0,95.1,166.9,98.1,179.2, 
+15,5,1,Calibri-Bold,11.0,108.0,168.6,173.5,179.7,Data Analytics
+15,5,1,Calibri,11.0,173.4,168.6,175.9,179.7, 
+15,6,0,Calibri-Bold,11.0,72.0,186.1,525.5,197.2,"40.94% of enterprises in Spain performed data analytics in 2024, showing a 7.71% increase "
+15,6,1,Calibri-Bold,11.0,72.0,200.5,155.2,211.6,compared to 2023
+15,6,1,Calibri,11.0,155.3,200.5,525.8,211.6,", when 38.01% of them used data analytics in their work. More specifically, among "
+15,6,2,Calibri,11.0,72.0,215.1,525.7,226.1,"SMEs, 39.9% adopted data analytics, while this was the case for 74.92% of large enterprises (about 3 "
+15,6,3,Calibri,11.0,72.0,229.6,429.9,240.6,out of 4). This indicates a gap of 35.02 pps between SMEs and large enterprises. 
+15,7,0,Calibri,11.0,72.0,252.0,525.6,263.1,"As part of the Sectoral Data Spaces roadmap, measures for the adoption of advanced data analytics "
+15,7,1,Calibri,11.0,72.0,266.6,525.9,277.6,have been implemented. A competitive grant call resulted in the approval of over EUR 75 million in 
+15,7,2,Calibri,11.0,72.0,281.1,525.9,292.1,"funding for 78 projects. The aim is to establish demonstrator centres and use cases within data spaces, "
+15,7,3,Calibri,11.0,72.0,295.6,525.8,306.6,with additional private investment of EUR 47 million expected. These Data Space initiatives are being 
+15,7,4,Calibri,11.0,72.0,310.0,525.9,321.0,"driven by a mix of companies and research organisations, with the collaboration of hundreds of entities "
+15,7,5,Calibri,11.0,72.0,324.5,525.6,335.6,acting as data providers or consumers. The funding supports two project lines: the creation of a 
+15,7,6,Calibri,11.0,72.0,339.0,525.9,350.1,national network of specialized demonstrator centres offering infrastructure for data space pilots 
+15,7,7,Calibri,11.0,72.0,353.6,525.9,364.6,"across sectors like agri-food, health, and environment, and the development of data-sharing use cases "
+15,7,8,Calibri,11.0,72.0,368.0,525.6,379.0,"to test new business models and services. Furthermore, the Language New Economy Data Space "
+15,7,9,Calibri,11.0,72.0,382.5,525.9,393.5,"Project, under the ‘Language Valley’ initiative in collaboration with La Rioja, is underway with a EUR "
+15,7,10,Calibri,11.0,72.0,397.0,525.8,408.1,"12 million budget. This project will integrate data from various sources, including key institutions, and "
+15,7,11,Calibri,11.0,72.0,411.5,525.9,422.6,will create a Spanish speech corpus (a large collection of audio recordings of spoken language) as a 
+15,7,12,Calibri,11.0,72.0,425.9,525.8,437.0,"shared data resource. Additionally, use cases will be developed for the Dialnet Global Data Space, a "
+15,7,13,Calibri,11.0,72.0,440.5,431.0,451.5,"large Spanish scientific article database, to benefit economic sector data spaces. "
+15,8,0,SymbolMT,11.0,90.0,460.8,95.1,474.3,
+15,8,0,ArialMT,11.0,95.1,461.9,98.1,474.2, 
+15,8,1,Calibri-Bold,11.0,108.0,463.6,202.2,474.7,Artificial Intelligence
+15,8,1,Calibri,11.0,202.1,463.6,204.6,474.7, 
+15,9,0,Calibri-Bold,11.0,72.0,481.0,525.9,492.1,Approximately 1 in 10 (11.31%) enterprises in Spain were using AI technology in 2024. Although it is 
+15,9,1,Calibri-Bold,11.0,72.0,494.5,525.7,505.5,"slightly below the corresponding EU level value of 13.48%, the country is on track according to its "
+15,9,2,Calibri-Bold,11.0,72.0,507.9,160.5,518.9,national trajectory.
+15,9,2,Calibri,11.0,160.6,507.9,525.8,518.9," This reveals a 23.2% growth in AI uptake from 2023 (9.18%), considerably below "
+15,9,3,Calibri,11.0,72.0,521.3,525.7,532.4,"the EU average growth rate (67.2%). Among SMEs, the 2024 uptake was 10.3%, whereas large "
+15,9,4,Calibri,11.0,72.0,534.8,525.6,545.8,"enterprises showed a much higher rate of adoption, with 43.96% using AI. This corresponds to a gap "
+15,9,5,Calibri,11.0,72.0,548.2,525.8,559.3,"of 33.66 percentage points between SMEs and large enterprises, above the EU gap of 28.53 percentage "
+15,9,6,Calibri,11.0,72.0,561.7,107.5,572.7,points.  
+15,10,0,Calibri,11.0,72.0,583.1,365.0,594.1,"To accelerate this trajectory, in January 2025 the Spain presented "
+15,10,0,Calibri,11.0,364.9,583.1,429.0,594.1,HispanIA 2040
+15,10,0,Calibri,11.0,429.1,583.1,525.9,594.1,", a strategic vision for "
+15,10,1,Calibri,11.0,72.0,596.5,525.7,607.5,"how artificial intelligence can contribute to the country’s future. At the same event, ALIA was "
+15,10,2,Calibri,11.0,72.0,609.9,525.9,621.0,"presented, Spain’s first foundational AI model developed with extensive data in Spanish and co-official "
+15,10,3,Calibri,11.0,72.0,623.4,525.9,634.4,"languages (Catalan, Galician, and Basque). Designed as a public, open-source infrastructure, ALIA "
+15,10,4,Calibri,11.0,72.0,636.8,525.9,647.9,strengthens technological sovereignty by offering a transparent alternative to large-scale models 
+15,10,5,Calibri,11.0,72.0,650.3,525.8,661.3,trained mainly in English. Spain is also working to build an open-source AI community around ALIA to 
+15,10,6,Calibri,11.0,72.0,663.7,509.0,674.7,"foster collaboration, encourage reuse, and support its adoption across public and private sectors. "
+15,11,0,Calibri,11.0,72.0,685.1,525.9,696.1,"In a further step towards leadership in ethical and human-centered AI, Spain activated in April 2025 a "
+15,11,1,Calibri,11.0,72.0,698.5,525.9,709.5,regulatory sandbox for high-risk AI systems. This controlled environment has started by testing 12 
+15,11,2,Calibri,11.0,72.0,711.9,525.9,723.0,systems to evaluate their compliance with key requirements of the European Regulation such as 
+15,11,3,Calibri,11.0,72.0,725.4,525.9,736.4,human oversight. The initiative aims to support companies—especially SMEs and startups—in 
+15,11,4,Calibri,11.0,72.0,738.8,362.2,749.9,"adapting to the EU AI Act, set to enter into force in August 2026. "
+15,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+15,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+16,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"Together, these initiatives aim to lower barriers to AI adoption, foster innovation, and ensure that the "
+16,2,1,Calibri,11.0,72.0,97.5,403.8,108.5,benefits of artificial intelligence are accessible across the entire economy. 
+16,4,0,Calibri-Bold,11.0,77.7,119.3,186.0,130.3,2024 recommendation: 
+16,4,0,Calibri,11.0,185.4,119.3,520.3,130.3,"continue the efforts to support the digitalisation of enterprises, in particular "
+16,4,1,Calibri,11.0,77.7,133.8,294.8,144.9,to foster the adoption of advanced technologies.
+16,4,1,Calibri-Bold,11.0,294.9,133.8,297.4,144.9, 
+16,5,0,Calibri-Bold,11.0,77.7,151.8,479.0,162.9,Spain made some efforts to address the recommendation through policy actions in 2024
+16,5,0,Calibri,11.0,479.1,151.8,487.0,162.9,:  
+16,6,0,Calibri,11.0,77.7,169.3,519.9,180.4,Spain has increased the basic level of digital intensity of its enterprises with a growth rate of 4.8% 
+16,6,1,Calibri,11.0,77.7,183.7,520.2,194.8,"over the last two years. Concerning the adoption of advanced technologies, there has been a 11.61% "
+16,6,2,Calibri,11.0,77.7,198.3,520.3,209.3,increase compared to 2023. It is the result of different programmes implemented by the Spanish 
+16,6,3,Calibri,11.0,77.7,212.8,520.2,223.8,"authorities. However, there are still challenges in AI adoption, which is still below the EU average "
+16,6,4,Calibri,11.0,77.7,227.3,394.8,238.3,"(11.3% vs 13.5%), and in the gap between SMEs and large enterprises.  "
+16,7,0,Calibri-Light,12.0,72.0,253.6,233.6,265.6,"Unicorns, scale-ups and start-ups "
+16,8,0,Calibri-Bold,11.0,72.0,277.1,263.9,288.2,"At the end of 2024, Spain had 13 unicorns"
+16,8,0,Calibri-Bold,7.0,263.9,276.2,267.5,283.2,6
+16,8,0,Calibri-Bold,11.0,267.4,277.1,525.9,288.2," (2030 national target of 24), which is the same value as "
+16,8,1,Calibri-Bold,11.0,72.0,291.6,523.2,302.7,last year and represents a deviation from the value expected in the Spanish national roadmap (16).
+16,8,1,Calibri,11.0,523.4,291.6,525.9,302.7, 
+16,8,2,Calibri,11.0,72.0,306.0,496.0,317.1,"However, Spanish authorities are making efforts to reinforce and boost the startup ecosystem.  "
+16,9,0,Calibri,11.0,72.0,328.6,525.7,339.6,"In December 2024, the Spanish government enacted Royal Decree 1138/2024 to formally establish the "
+16,9,1,Calibri-Bold,11.0,72.0,343.0,261.2,354.0,National Forum for Emerging Companies
+16,9,1,Calibri,11.0,261.4,343.0,525.7,354.0,", as outlined in the Startup Law passed in late 2022. This "
+16,9,2,Calibri,11.0,72.0,357.5,525.8,368.6,forum is designed to foster strategic collaboration between public institutions and private sector 
+16,9,3,Calibri,11.0,72.0,372.0,525.8,383.1,players. The aim is to enhance Spain’s technological and innovative entrepreneurship ecosystem. It will 
+16,9,4,Calibri,11.0,72.0,386.6,525.7,397.6,also promote coordination among various bodies that support technological innovation and 
+16,9,5,Calibri,11.0,72.0,401.0,525.7,412.0,entrepreneurship across the country. The creation of a structured space for dialogue among key 
+16,9,6,Calibri,11.0,72.0,415.5,525.7,426.5,players in Spain’s innovation landscape is considered vital for improving public policy. Through this 
+16,9,7,Calibri,11.0,72.0,430.0,525.9,441.1,"forum, stakeholders will assess existing objectives and measures, identify emerging needs, and ensure "
+16,9,8,Calibri,11.0,72.0,444.5,353.3,455.6,more effective and efficient policy design and implementation. 
+16,10,0,Calibri,11.0,72.0,467.0,525.9,478.0,"To better understand and guide the development of the startup ecosystem, and specifically to evaluate "
+16,10,1,Calibri,11.0,72.0,481.5,525.8,492.5,"the impact of the Startup Law, a project funded by the European Commission under the Technical "
+16,10,2,Calibri,11.0,72.0,496.0,525.7,507.1,"Support Instrument (TSI) is currently underway. Led by the OECD, this initiative involves Spanish "
+16,10,3,Calibri,11.0,72.0,510.4,525.9,521.5,"ministries, public institutions, startups, and private organisations. Its goal is to pinpoint the ecosystem’s "
+16,10,4,Calibri,11.0,72.0,524.9,525.7,536.0,"main challenges and opportunities, assess the law’s effectiveness, and develop policy "
+16,10,5,Calibri,11.0,72.0,539.5,368.7,550.5,recommendations to support its implementation and governance. 
+16,11,0,Calibri-Light,15.0,72.0,562.8,329.4,577.8,Strengthening Cybersecurity & Resilience   
+16,12,0,Calibri-Bold,11.0,72.0,589.8,525.9,600.8,"In Spain, 80.12% of individuals took at least one action to protect their personal data online in 2023, "
+16,12,1,Calibri-Bold,11.0,72.0,604.2,302.2,615.2,significantly higher than the EU average of 69.55%
+16,12,1,Calibri,11.0,302.5,604.2,525.8,615.2,". In addition, a significant share of the population "
+16,12,2,Calibri,11.0,72.0,618.7,525.9,629.7,(62.94%) took three or more precautionary actions (and could therefore be considered as having above 
+16,12,3,Calibri,11.0,72.0,633.2,525.7,644.3,basic digital safety skills). Refusing the use of personal data for advertising purposes was the most 
+16,12,4,Calibri,11.0,72.0,647.7,525.9,658.8,"common, with 68.72% of individuals engaging in this measure, while changing the browser settings to "
+16,12,5,Calibri,11.0,72.0,662.1,431.6,673.2,"block or limit cookies on any device was the least common, reported by 36.47%. "
+16,13,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+16,13,1,Calibri,6.0,72.0,749.6,75.1,755.6,6
+16,13,1,Calibri,9.0,75.0,749.8,525.4,758.8," Data extracted from Dealroom on 24 March 2025, including all possible retroactive revisions. See the methodological note "
+16,13,2,Calibri,9.0,72.0,760.9,136.3,769.9,for more details.  
+16,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+16,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+17,4,0,Calibri,11.0,523.6,279.3,526.1,290.3, 
+17,5,0,Calibri-Bold,11.0,72.0,298.7,525.5,309.8,The number of enterprises that experienced ICT security incidents leading to unavailability of ICT 
+17,5,1,Calibri-Bold,11.0,72.0,313.2,525.9,324.3,"services due to attack from outside (e.g. Ransomware attacks, Denial of Service attacks) has slightly "
+17,5,2,Calibri-Bold,11.0,72.0,327.6,339.7,338.7,"decreased in Spain, from 3.67% in 2022 to 3.57% in 2024"
+17,5,2,Calibri,11.0,339.8,327.6,525.9,338.7,.  It remains in line with the EU average 
+17,5,3,Calibri,11.0,72.0,342.2,525.9,353.2,(3.43%). Spanish enterprises are quite below the EU average (11.97% vs 17.97%) concerning incidents 
+17,5,4,Calibri,11.0,72.0,356.7,257.4,367.7,related to hardware or software failures.  
+17,6,0,Calibri,11.0,72.0,379.1,525.9,390.2,"In term of measures, 89.92% of enterprises deployed some ICT security measures (below the EU "
+17,6,1,Calibri,11.0,72.0,393.7,525.8,404.7,average of 92.76%) but only 57.14% of enterprises made their employees aware of their obligations in 
+17,6,2,Calibri,11.0,72.0,408.2,409.3,419.2,"ICT security related issues, which is slightly below the EU average (59.97%). "
+17,7,0,Calibri-Bold,11.0,72.0,430.6,211.5,441.7,Concerning the deployment of 
+17,7,0,Calibri-Bold,11.0,211.0,430.6,326.0,441.7,secure internet standards
+17,7,0,Calibri-Bold,11.0,326.1,430.6,525.9,441.7,", Spain lags behind in the roll-out of Internet "
+17,7,1,Calibri-Bold,11.0,72.0,445.1,525.9,456.2,"Protocol version 6 (IPv6) for the end users (9% at the end of 2024), which is quite below the EU "
+17,7,2,Calibri-Bold,11.0,72.0,459.7,139.4,470.7,average (36%).
+17,7,2,Calibri,11.0,139.5,459.7,525.7,470.7, It is similar the situation of Spain regarding the server side as the country stands with 
+17,7,3,Calibri,11.0,72.0,474.2,525.7,485.2,"a 6% while the EU average is 17%. IPv6 is an important protocol as it ensures the scalability, stability, "
+17,7,4,Calibri,11.0,72.0,488.6,525.8,499.6,"and security of the Internet. The deployment of this new version is increasingly urgent, as traditional "
+17,7,5,Calibri,11.0,72.0,503.1,525.7,514.1,IPv4 addresses have been long depleted. Domain Name System Security Extensions (DNSSEC) is also 
+17,7,6,Calibri,11.0,72.0,517.6,525.9,528.7,"an important standard to be rolled out as it introduces security features to DNS. In Spain, the DNSSEC "
+17,7,7,Calibri,11.0,72.0,532.1,357.2,543.2,"validation rate is 25% (Q3 2024), below the EU average of 47%.  "
+17,8,0,Calibri-Bold,11.0,72.0,554.6,520.7,565.6,The data on several dimensions of cybersecurity suggest that Spain has room for improvement
+17,8,0,Calibri,11.0,520.8,554.6,525.9,565.6,", "
+17,8,1,Calibri,11.0,72.0,569.1,525.9,580.2,performing significatively below the EU average despite the efforts of the Spanish authorities detailed 
+17,8,2,Calibri,11.0,72.0,583.7,126.1,594.7,as follows.   
+17,9,0,Calibri,11.0,72.0,606.1,525.6,617.1,"According to the Digital Decade Eurobarometer 2025, 85% of Spanish citizens think that an improved "
+17,9,1,Calibri,11.0,72.0,620.6,525.6,631.7,"cybersecurity, better protection of online data and safety of digital technologies would facilitate their "
+17,9,2,Calibri,11.0,72.0,635.0,525.7,646.1,"daily use of digital technologies. An increase of four percentage points compared to last year, reflects "
+17,9,3,Calibri,11.0,72.0,649.5,331.5,660.6,the growing concern of the Spaniards about this subject.   
+17,10,0,Calibri,11.0,72.0,672.1,525.7,683.1,The Spanish government has significantly advanced its cybersecurity infrastructure by consolidating a 
+17,10,1,Calibri,11.0,72.0,686.5,105.5,697.5,central 
+17,10,1,Calibri-Bold,11.0,107.1,686.5,258.4,697.5,Cybersecurity Operations Centre
+17,10,1,Calibri,11.0,258.4,686.5,525.7,697.5, capable of offering coordinated protection to 126 public 
+17,10,2,Calibri,11.0,72.0,701.0,525.8,712.1,organisations and over 200 000 users. It enables continuous incident response and provides 
+17,10,3,Calibri,11.0,72.0,715.5,525.7,726.6,"centralized security event management, proactive threat detection, and support services for "
+17,10,4,Calibri,11.0,72.0,730.1,298.4,741.1,"onboarding new entities. Additionally, a dedicated "
+17,10,4,Calibri-Bold,11.0,298.5,730.1,421.3,741.1,Security Operations Centre
+17,10,4,Calibri,11.0,421.3,730.1,525.9,741.1, has been deployed for 
+17,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+17,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+18,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,local organisations with fewer than 50 000 inhabitants to ensure uniform protection and benefit local 
+18,2,1,Calibri,11.0,72.0,98.4,304.5,109.5,authorities from virtual security operations centers. 
+18,4,0,Calibri,11.0,72.0,121.0,525.8,132.0,Another key development includes the certification of the State Administration’s private cloud at a 
+18,4,1,Calibri,11.0,72.0,135.5,525.7,146.5,"high-security level, ensuring data integrity and confidentiality. Various digital transformation projects "
+18,4,2,Calibri,11.0,72.0,149.9,525.6,160.9,"have been launched, such as the digitalization of consular services to enhance remote work, the "
+18,4,3,Calibri,11.0,72.0,164.4,525.7,175.5,"modernization of unemployment benefits management systems, and the creation of a digital civil "
+18,4,4,Calibri,11.0,72.0,178.9,294.3,190.0,registry to streamline administrative interactions. 
+18,5,0,Calibri-Bold,11.0,72.0,201.4,525.6,212.4,A new General Subdirectorate for Digital Security has been established to unify the Ministry for 
+18,5,1,Calibri-Bold,11.0,72.0,215.9,103.9,226.9,Digital 
+18,5,2,Calibri-Bold,11.0,114.5,215.9,193.6,226.9,Transformation's 
+18,5,3,Calibri-Bold,11.0,204.2,215.9,267.8,226.9,cybersecurity 
+18,5,4,Calibri-Bold,11.0,278.4,215.9,350.2,226.9,responsibilities.
+18,5,4,Calibri,11.0,350.2,215.9,352.7,226.9, 
+18,5,5,Calibri,11.0,363.3,215.9,372.2,226.9,It 
+18,5,6,Calibri,11.0,382.7,215.9,408.5,226.9,leads 
+18,5,7,Calibri,11.0,419.1,215.9,459.6,226.9,strategic 
+18,5,8,Calibri,11.0,470.2,215.9,504.5,226.9,actions 
+18,5,9,Calibri,11.0,515.0,215.9,525.8,226.9,in 
+18,5,10,Calibri,11.0,72.0,230.4,525.8,241.5,"telecommunications and digital infrastructure, including network security, regulatory supervision, and "
+18,5,11,Calibri,11.0,72.0,245.0,525.9,256.0,the management of aid programmes. The Subdirectorate is structured in the Division for 
+18,5,12,Calibri,11.0,72.0,259.4,525.9,270.4,"Telecommunications and Infrastructure Security, which oversees 5G security compliance, manages the "
+18,5,13,Calibri,11.0,72.0,273.9,525.9,284.9,"5G Security Operations Centre, and represents Spain in international network security forums; and the "
+18,5,14,Calibri,11.0,72.0,288.4,525.9,299.5,"Division for Cybersecurity in Digital Transformation, which coordinates national cybersecurity "
+18,5,15,Calibri,11.0,72.0,302.9,525.6,314.0,"strategies in collaboration with INCIBE, supports the cybersecurity business ecosystem, promotes "
+18,5,16,Calibri,11.0,72.0,317.3,349.2,328.4,regulatory frameworks and manages EU funded programmes. 
+18,6,0,Calibri,11.0,72.0,339.9,525.8,350.9,"Additionally, the Council of Ministers has recently approved EUR 1.157 million for 40 new projects "
+18,6,1,Calibri,11.0,72.0,354.4,525.9,365.4,aimed at strengthening Spain’s cybersecurity and cyberdefense capabilities. It is aligned with the 2022 
+18,6,2,Calibri,11.0,72.0,368.8,497.2,379.9,National Cybersecurity Plan and the Industrial and Technological Plan for Security and Defense. 
+18,7,0,Calibri,11.0,72.0,391.4,127.4,402.4,"Meanwhile, "
+18,7,0,Calibri-Bold,11.0,128.5,391.4,159.1,402.4,INCIBE
+18,7,0,Calibri,11.0,159.1,391.4,161.6,402.4, 
+18,7,0,Calibri-Bold,11.0,162.7,391.4,316.7,402.4,(National Cybersecurity Institute)
+18,7,0,Calibri,11.0,316.9,391.4,525.8,402.4,", under the Ministry’s authority, continues to "
+18,7,1,Calibri,11.0,72.0,405.8,525.9,416.8,"strengthen cybersecurity for citizens, SMEs, and professionals. Among its services is ‘Tu Ayuda en "
+18,7,2,Calibri,11.0,72.0,420.3,525.9,431.4,"Ciberseguridad 017’, a free, confidential assistance helpline that handled over 98.000 queries in 2024. "
+18,8,0,Calibri,11.0,72.0,442.9,525.8,453.9,"INCIBE is also working on a national list of harmful pornographic websites, particularly those targeting "
+18,8,1,Calibri,11.0,72.0,457.3,328.7,468.3,minors. Its outreach includes awareness campaigns like 
+18,8,1,Calibri,11.0,330.1,457.3,409.5,468.3,Safe Internet Day
+18,8,1,Calibri,11.0,409.5,457.3,432.6,468.3, and 
+18,8,1,Calibri,11.0,433.9,457.3,520.8,468.3,#ExperienciaINCIBE
+18,8,1,Calibri,11.0,520.8,457.3,525.9,468.3,", "
+18,8,2,Calibri,11.0,72.0,471.8,525.9,482.8,"which uses interactive and gamified experiences, and educational efforts that reached over 117.000 "
+18,8,3,Calibri,11.0,72.0,486.3,525.9,497.4,"children, families, and teachers in 2024. Cybersecurity training programmes and digital skills initiatives "
+18,8,4,Calibri,11.0,72.0,500.8,499.9,511.9,"targeted a wide range of groups, including vulnerable communities and people with disabilities. "
+18,9,0,Calibri,11.0,72.0,523.3,525.8,534.3,"Furthermore, INCIBE has developed and promoted a range of cybersecurity tools and solutions tailored "
+18,9,1,Calibri,11.0,72.0,537.8,525.8,548.8,"to the needs of both enterprises and families. In 2024, a total of 14 820 SMEs and professionals "
+18,9,2,Calibri,11.0,72.0,552.3,525.9,563.3,"benefited from these tools, which aim to strengthen digital security in the business sector. For families, "
+18,9,3,Calibri,11.0,72.0,566.7,216.0,577.8,INCIBE updated its catalogue of 
+18,9,3,Calibri,11.0,216.4,566.7,525.8,577.8,"parental control solutions, expanding it to 68 entries to help parents "
+18,9,4,Calibri,11.0,72.0,581.3,214.2,592.3,better protect children online.
+18,9,4,Calibri,11.0,214.2,581.3,439.7,592.3, It also supports entrepreneurship through the 
+18,9,4,Calibri,11.0,442.4,581.3,523.5,592.3,INCIBE Emprende
+18,9,4,Calibri,11.0,523.4,581.3,525.9,592.3, 
+18,9,5,Calibri,11.0,72.0,595.8,525.6,606.8,"programme, which in 2024 included events, workshops, and startup incubations and accelerations. "
+18,9,6,Calibri,11.0,72.0,610.3,525.9,621.3,Public procurement initiatives focused on innovation led to the awarding of multiple contracts to foster 
+18,9,7,Calibri,11.0,72.0,624.7,525.8,635.7,technological advancements. INCIBE also contributes to the implementation of the Digital Services Act 
+18,9,8,Calibri,11.0,72.0,639.2,525.9,650.3,"(DSA), serving as a trusted flagger (responsible for detecting potentially illegal content and alert online "
+18,9,9,Calibri,11.0,72.0,653.7,523.6,664.8,"platforms) within European networks. As part of its strategic agenda, it has launched five research-"
+18,9,10,Calibri,11.0,72.0,668.3,458.0,679.3,based cybersecurity projects in collaboration with Spanish universities. Under the 
+18,9,10,Calibri,11.0,460.5,668.3,525.9,679.3,RETECH Ciber 
+18,9,11,Calibri,11.0,72.0,682.7,110.6,693.7,initiative
+18,9,11,Calibri,11.0,110.7,682.7,525.7,693.7,", INCIBE supports regional cybersecurity ecosystems, coordinating with 17 autonomous "
+18,9,12,Calibri,11.0,72.0,697.2,525.9,708.2,"communities and with a budget of EUR 162 million. In 2024, agreements were signed with Asturias, La "
+18,9,13,Calibri,11.0,72.0,711.7,357.9,722.7,"Rioja, Madrid, and Aragón to further develop these capabilities. "
+18,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+18,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+19,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"Finally, Spain actively participates in the European initiative IRIS2 (new EU Secure Satellite "
+19,2,1,Calibri,11.0,72.0,98.4,525.8,109.5,Constellation) and GOVSATCOM (European Union Governmental Satellite Communications 
+19,2,2,Calibri,11.0,72.0,112.9,487.4,124.0,"programme) that aim to provide secure, resilient and cost-efficient satellite communications. "
+19,4,0,Calibri-Bold,11.0,77.7,136.0,187.7,147.0,2024 recommendation: 
+19,4,0,Calibri,11.0,188.7,136.0,520.1,147.0,continue the implementation of the 5G Cybersecurity Toolbox to ensure 
+19,4,1,Calibri,11.0,77.7,150.5,226.6,161.5,secure and resilient 5G networks.
+19,4,1,Calibri-Bold,11.0,226.5,150.5,229.0,161.5, 
+19,5,0,Calibri-Bold,11.0,77.7,168.4,396.9,179.4,Spain made important efforts to address the recommendation in 2024
+19,5,0,Calibri,11.0,397.0,168.4,404.8,179.4,:  
+19,6,0,Calibri,11.0,77.7,185.9,369.6,196.9,"In 2024, Spain approved Royal Decree 443/2024, establishing the "
+19,6,0,Calibri-Bold,11.0,369.7,185.9,520.2,196.9,National Security Framework for 
+19,6,1,Calibri-Bold,11.0,77.7,200.4,135.4,211.5,5G networks
+19,6,1,Calibri,11.0,135.5,200.4,520.2,211.5," and services. This decree, developed under Royal Decree-Law 7/2022, aims to ensure "
+19,6,2,Calibri,11.0,77.7,214.9,520.2,226.0,the security of fifth-generation electronic communications. Its main purpose is to strengthen 
+19,6,3,Calibri,11.0,77.7,229.3,519.9,240.4,national security and guarantee the continuous and secure operation of 5G networks by taking a 
+19,6,4,Calibri,11.0,77.7,243.9,519.9,254.9,comprehensive approach that involves all actors in the 5G value chain. It also seeks to reinforce 
+19,6,5,Calibri,11.0,77.7,258.4,520.1,269.5,"security in the deployment and operation of 5G infrastructure, promote a diverse supplier market "
+19,6,6,Calibri,11.0,77.7,272.9,520.1,284.0,"to avoid high-risk vendors, and support national cybersecurity R&D activities related to 5G. "
+19,6,7,Calibri,11.0,77.7,287.3,520.1,298.4,"Furthermore, it emphasizes the importance of education and awareness in 5G cybersecurity. As part "
+19,6,8,Calibri,11.0,77.7,301.9,307.5,312.9,"of this framework, Spain has launched a pioneering "
+19,6,8,Calibri-Bold,11.0,307.4,301.9,444.5,312.9,5G Security Operations Centre
+19,6,8,Calibri,11.0,444.5,301.9,520.3,312.9,", which supports "
+19,6,9,Calibri,11.0,77.7,316.4,520.3,327.4,"the Ministry for Digital Transformation and Public Service by assisting organisations in preventing, "
+19,6,10,Calibri,11.0,77.7,330.9,520.0,341.9,"detecting, and responding to cyber threats and attacks on 5G systems. It also contributes to the "
+19,6,11,Calibri,11.0,77.7,345.4,520.2,356.4,"certification and standardization of 5G security, and it is a joint initiative between the National "
+19,6,12,Calibri,11.0,77.7,359.8,358.6,370.9,Cryptologic Centre and the Ministry for Digital Transformation. 
+19,6,13,Calibri-Bold,26.0,72.0,380.8,77.9,406.9, 
+19,6,14,Calibri-Bold,26.0,216.1,380.8,221.9,406.9, 
+19,7,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+19,7,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+20,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Protecting and empowering EU people 
+20,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+20,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+20,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+20,5,0,Calibri-Bold,11.0,72.0,208.0,525.7,219.0,Spain is making commendable efforts to empower its population and ensure ongoing opportunities 
+20,5,1,Calibri-Bold,11.0,72.0,222.5,270.2,233.5,for everyone within the digital economy
+20,5,1,Calibri,11.0,270.4,222.5,525.7,233.5,. Achieving digital inclusion requires broad access to 
+20,5,2,Calibri,11.0,72.0,237.0,426.1,248.1,"technology, and Spain is moving in that direction through the initiatives under its"
+20,5,2,Calibri-Bold,11.0,426.1,237.0,525.9,248.1, National Digital Skills 
+20,5,3,Calibri-Bold,11.0,72.0,251.4,92.0,262.5,Plan
+20,5,3,Calibri,11.0,91.9,251.4,525.9,262.5,". The country’s commitment to enhancing digital skills is evident in its current progress. However, "
+20,5,4,Calibri,11.0,72.0,266.0,525.6,277.0,a shortage of ICT specialists remains a challenge that may continue until recent policies begin to yield 
+20,5,5,Calibri,11.0,72.0,280.5,518.4,291.5,"results. Nonetheless, advancements in Spain’s digital public services are showing encouraging signs. "
+20,6,0,Calibri,11.0,72.0,302.9,525.6,314.0,"According to the 2025 Eurobarometer, 84% of Spanish people think that accessing public services "
+20,6,1,Calibri,11.0,72.0,317.4,525.7,328.5,online will be important for their daily life in 2030. Concerning human support to help access and use 
+20,6,2,Calibri,11.0,72.0,332.0,525.9,343.0,"digital technologies and services, 84% consider it would improve their daily use of digital technologies, "
+20,6,3,Calibri,11.0,72.0,346.5,525.6,357.5,and 92% think public authorities should consider it important to ensure that people receive proper 
+20,6,4,Calibri,11.0,72.0,360.9,525.7,371.9,human support to help them adapt to the changes in their lives brought about by digital technologies 
+20,6,5,Calibri,11.0,72.0,375.4,132.2,386.4,and services. 
+20,7,0,Calibri-Light,12.0,72.0,398.2,182.3,410.2,Equipping people with 
+20,7,0,Calibri,12.0,182.4,398.2,240.7,410.2,digital skills 
+20,8,0,Calibri-LightItalic,11.0,72.0,421.7,152.0,432.8,Basic Digital Skills 
+20,9,0,Calibri-Bold,11.0,72.0,444.2,525.4,455.2,"In 2023, Spain showcased a strong digital skills presence, with 66.18% of its population having at "
+20,9,1,Calibri-Bold,11.0,72.0,458.7,362.1,469.8,"least basic digital skills, surpassing the EU average of 55.56%."
+20,9,1,Calibri,11.0,362.5,458.7,525.8,469.8," Even without new data in 2024, a "
+20,9,2,Calibri,11.0,72.0,473.2,365.9,484.3,detailed look into various demographics reveals insightful trends. 
+20,10,0,SymbolMT,10.0,90.0,493.9,94.6,506.1,•
+20,10,0,ArialMT,10.0,94.6,494.9,97.4,506.0, 
+20,10,1,Calibri-Bold,11.0,108.0,495.7,166.1,506.7,Gender Gap:
+20,10,1,Calibri,11.0,166.1,495.7,525.6,506.7," Spain shows a tiny gender gap in digital skills, with 66.49% of men and 65.87% "
+20,10,2,Calibri,11.0,108.0,510.2,525.6,521.2,"of women proficient, leading to a gap of only 0.62 percentage points. This is better than the "
+20,10,3,Calibri,11.0,108.0,524.7,299.6,535.8,EU average gap of 2.23 percentage points. 
+20,11,0,SymbolMT,10.0,90.0,545.4,94.6,557.6,•
+20,11,0,ArialMT,10.0,94.6,546.4,97.4,557.5, 
+20,11,1,Calibri-Bold,11.0,108.0,547.1,182.9,558.2,Education Level:
+20,11,1,Calibri,11.0,182.8,547.1,525.8,558.2," Those with higher education in Spain are doing well in digital, with 85.78% "
+20,11,2,Calibri,11.0,108.0,561.7,525.7,572.7,"having at least basic digital skills, which is above the EU average of 79.83%. However, "
+20,11,3,Calibri,11.0,108.0,576.2,525.9,587.3,"individuals with lower levels of education are lagging, with 43.47% having at least basic digital "
+20,11,4,Calibri,11.0,108.0,590.7,525.7,601.8,"skills, but still above the EU average (33.61%). The gap between this group and the national "
+20,11,5,Calibri,11.0,108.0,605.1,467.1,616.2,"average is 22.71 percentage points, a tad higher than the EU average (21.95pp). "
+20,12,0,SymbolMT,10.0,90.0,626.0,94.6,638.1,•
+20,12,0,ArialMT,10.0,94.6,627.0,97.4,638.1, 
+20,12,1,Calibri-Bold,11.0,108.0,627.7,165.9,638.7,Living Areas:
+20,12,1,Calibri,11.0,165.9,627.7,525.8,638.7," In Spain's rural areas, 56.50% of people have at least basic digital skills, which is "
+20,12,2,Calibri,11.0,108.0,642.1,525.5,653.1,"more than the EU average for rural areas (47.50%). Yet, there's a noticeable gap of 9.68 "
+20,12,3,Calibri,11.0,108.0,656.6,525.7,667.7,"percentage points between rural areas and the rest of Spain, which is more significant than "
+20,12,4,Calibri,11.0,108.0,671.1,250.8,682.2,the EU average divide (8.06pp). 
+20,13,0,SymbolMT,10.0,90.0,691.9,94.6,704.0,•
+20,13,0,ArialMT,10.0,94.6,692.8,97.4,704.0, 
+20,13,1,Calibri-Bold,11.0,108.0,693.6,164.9,704.6,Age Groups:
+20,13,1,Calibri,11.0,164.9,693.6,525.8,704.6," Young Spaniards aged 16 to 24 are leading with digital skills, at an impressive "
+20,13,2,Calibri,11.0,108.0,708.1,525.9,719.1,"83.56%, way above the EU average (69.98%). The 65 to 74-year-olds are the least skilled in "
+20,13,3,Calibri,11.0,108.0,722.6,523.4,733.7,"Spain, with 32.83%, but even this is better than the EU average for their age group (28.19%). "
+20,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+20,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+21,3,0,SymbolMT,10.0,90.0,82.3,94.6,94.5,•
+21,3,0,ArialMT,10.0,94.6,83.3,97.4,94.4, 
+21,3,1,Calibri-Bold,11.0,108.0,84.0,257.6,95.1,Digital Skills Index components:
+21,3,1,Calibri,11.0,257.6,84.0,525.8,95.1," Across the Digital Skills Index, Spain outperforms the EU "
+21,3,2,Calibri,11.0,108.0,98.4,525.7,109.5,average in all five categories. It excels in communication and collaboration skills with a high 
+21,3,3,Calibri,11.0,108.0,112.9,525.9,124.0,"score of 94.88%. Even in its weakest area, digital content creation, the score is 73.83%, which "
+21,3,4,Calibri,11.0,108.0,127.5,238.3,138.5,is still above the EU average. 
+21,4,0,Calibri,11.0,72.0,149.9,251.2,160.9,"In summary, Spain's digital skills are "
+21,4,1,Calibri,11.0,72.0,164.4,106.5,175.5,"robust, "
+21,4,2,Calibri,11.0,119.3,164.4,141.7,175.5,with 
+21,4,3,Calibri,11.0,154.4,164.4,207.6,175.5,particularly 
+21,4,4,Calibri,11.0,220.3,164.4,251.2,175.5,strong 
+21,4,5,Calibri,11.0,72.0,178.9,144.5,190.0,communication 
+21,4,6,Calibri,11.0,157.4,178.9,176.7,190.0,and 
+21,4,7,Calibri,11.0,189.6,178.9,251.2,190.0,collaboration 
+21,4,8,Calibri,11.0,72.0,193.5,251.3,204.5,abilities. While the gap in skills between 
+21,4,9,Calibri,11.0,72.0,207.9,251.2,218.9,education levels and rural versus urban 
+21,4,10,Calibri,11.0,72.0,222.4,251.3,233.4,"areas does exist, the overall levels are "
+21,4,11,Calibri,11.0,72.0,236.9,251.2,248.0,"very good, especially among young "
+21,4,12,Calibri,11.0,72.0,251.4,105.5,262.5,people 
+21,4,13,Calibri,11.0,116.9,251.4,136.2,262.5,and 
+21,4,14,Calibri,11.0,147.6,251.4,175.1,262.5,those 
+21,4,15,Calibri,11.0,186.5,251.4,208.8,262.5,with 
+21,4,16,Calibri,11.0,220.2,251.4,251.2,262.5,higher 
+21,4,17,Calibri,11.0,72.0,265.9,251.2,276.9,education. Spain's scores in the Digital 
+21,4,18,Calibri,11.0,72.0,280.4,248.9,291.4,Skills Index suggest a nation well-
+21,4,19,Calibri,11.0,72.0,294.9,203.4,305.9,equipped for the digital age.  
+21,6,0,Calibri-Bold,11.0,72.0,323.3,251.2,334.4,The country is in a good position to 
+21,6,1,Calibri-Bold,11.0,72.0,336.8,251.2,347.8,"achieve its national target of 85%, "
+21,6,2,Calibri-Bold,11.0,72.0,350.2,248.7,361.2,"which is above the EU target, by 2030."
+21,6,2,Calibri,11.0,248.8,350.2,251.3,361.2, 
+21,6,3,Calibri,11.0,72.0,363.6,251.2,374.7,The roadmap contains eight measures 
+21,6,4,Calibri,11.0,72.0,377.1,87.4,388.1,for 
+21,6,5,Calibri,11.0,97.0,377.1,141.5,388.1,achieving 
+21,6,6,Calibri,11.0,151.1,377.1,176.0,388.1,basic 
+21,6,7,Calibri,11.0,185.6,377.1,215.4,388.1,digital 
+21,6,8,Calibri,11.0,225.0,377.1,251.2,388.1,"skills, "
+21,6,9,Calibri,11.0,72.0,390.5,251.3,401.6,accounting for a total public investment 
+21,6,10,Calibri,11.0,72.0,404.0,167.5,415.0,of EUR 1 953 million. 
+21,7,0,Calibri,11.0,72.0,431.3,184.5,442.4,Red.es has established a 
+21,7,0,Calibri,11.0,185.1,431.3,315.1,442.4,digital skills training program
+21,7,0,Calibri,11.0,315.0,431.3,525.8,442.4, aimed at citizens at risk of digital exclusion to 
+21,7,1,Calibri,11.0,72.0,444.8,525.9,455.8,"bridge various digital divides. The primary target audience includes individuals over 65, people with "
+21,7,2,Calibri,11.0,72.0,458.2,525.9,469.3,"disabilities, vulnerable groups, and those with low digital skills. The programme Includes in-person "
+21,7,3,Calibri,11.0,72.0,471.7,525.7,482.7,"group training sessions with a practical focus and oriented toward everyday life situations, helping "
+21,7,4,Calibri,11.0,72.0,485.1,525.9,496.1,participants recognize how basic digital skills can support them in their daily activities. It will engage 
+21,7,5,Calibri,11.0,72.0,498.5,525.9,509.6,"foundations, third sector organisations, and other companies with experience in providing basic digital "
+21,7,6,Calibri,11.0,72.0,512.0,525.9,523.0,skills training and reaching individuals at high risk of digital exclusion in both urban and rural areas. 
+21,7,7,Calibri,11.0,72.0,525.3,525.7,536.3,The goal is to leverage their local and regional presence and expertise in raising awareness to 
+21,7,8,Calibri,11.0,72.0,538.7,309.5,549.8,encourage participation in digital skills development. 
+21,8,0,Calibri,11.0,72.0,566.3,525.9,577.3,"In November 2022, the Secretary of State for Digitalization and Artificial Intelligence launched the "
+21,8,1,Calibri-Bold,11.0,72.0,579.7,165.1,590.7,‘Generación D Pact’
+21,8,1,Calibri,11.0,165.1,579.7,525.7,590.7, to improve the digital skills of the Spanish population through collaboration 
+21,8,2,Calibri,11.0,72.0,593.1,525.7,604.2,"between public and private organisations. It aims to create a cohesive, coordinated and complete "
+21,8,3,Calibri,11.0,72.0,606.6,525.7,617.6,"ecosystem to make visible and involve Spanish society in the digital transformation process, in order "
+21,8,4,Calibri,11.0,72.0,620.0,525.9,631.1,"to close the digital skills gap, raising the percentage of the Spanish population up 100%. Currently 206 "
+21,8,5,Calibri,11.0,72.0,633.3,525.9,644.4,"organisations have joined the Pact and have added 3 372 learning initiatives, and 80 772 citizens have "
+21,8,6,Calibri,11.0,72.0,646.8,523.8,657.8,registered in the portal and completed the self-diagnosis questionnaires of their level of digital skills. 
+21,9,0,Calibri-LightItalic,11.0,72.0,674.3,135.2,685.3,ICT specialists 
+21,10,0,Calibri-Bold,11.0,72.0,696.7,525.9,707.7,Spain's performance in ICT training and ICT specialists shows a mixed picture when compared to the 
+21,10,1,Calibri-Bold,11.0,72.0,711.2,125.1,722.3,EU average.
+21,10,1,Calibri,11.0,125.2,711.2,525.9,722.3," Although the Spain's total percentage of ICT specialists is below the EU average, it is shown "
+21,10,2,Calibri,11.0,72.0,725.8,525.8,736.8,a positive trajectory in terms of growth rates. It is explained due to the significant growth in 
+21,10,3,Calibri,11.0,72.0,740.3,525.6,751.3,"employment in other sectors in Spain in recent years, the percentage of ICT specialists as a share of "
+21,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+21,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+22,2,0,Calibri,11.0,72.0,84.0,517.1,95.1,total employment remains below the EU average. According to the latest data published by Eurostat
+22,2,0,Calibri,7.0,517.1,83.1,520.6,90.1,7
+22,2,0,Calibri,11.0,520.6,84.0,525.9,95.1,", "
+22,2,1,Calibri,11.0,72.0,98.4,525.6,109.5,"Spain now employs a total of 1 022 600 ICT specialists, accounting for approximately 10% of all ICT "
+22,2,2,Calibri,11.0,72.0,112.9,172.9,124.0,specialists in the EU.    
+22,4,0,Calibri,11.0,72.0,135.5,525.8,146.5,"In terms of percentage over the total employment, Spain's percentage of ICT specialists was 4.4% in "
+22,4,1,Calibri,11.0,72.0,149.9,222.6,160.9,"2023, compared to the EU's 4.8%."
+22,4,1,Calibri-Bold,11.0,222.8,149.9,398.2,160.9," By 2024, this figure increased to 4.7%,"
+22,4,1,Calibri,11.0,398.1,149.9,525.9,160.9, although it is still below the 
+22,4,2,Calibri,11.0,72.0,164.4,164.2,175.5,"EU's 5.0%. However, "
+22,4,2,Calibri-Bold,11.0,163.8,164.4,397.5,175.5,Spain's growth rate of 6.8% surpassed the EU's 4.2%
+22,4,2,Calibri,11.0,397.7,164.4,525.9,175.5,", indicating a robust increase "
+22,4,3,Calibri,11.0,72.0,178.9,254.6,190.0,in the ICT specialist workforce. Regarding 
+22,4,3,Calibri-Bold,11.0,254.1,178.9,350.0,190.0,female ICT specialists
+22,4,3,Calibri,11.0,350.1,178.9,525.9,190.0,", Spain's percentage was 19.5% in 2023, "
+22,4,4,Calibri,11.0,72.0,193.5,200.2,204.5,higher than the EU's 19.4%. 
+22,4,4,Calibri-Bold,11.0,200.9,193.5,356.2,204.5,"By 2024, this figure rose to 19.6%"
+22,4,4,Calibri,11.0,356.4,193.5,525.9,204.5,", still higher than the EU's 19.5% and "
+22,4,5,Calibri,11.0,72.0,207.9,329.0,218.9,maintaining a growth rate of 0.5% equal to the EU's one.  
+22,5,0,Calibri,11.0,72.0,230.4,525.9,241.5,"Regarding ICT graduates, Spain is also showing a positive trend. According to the latest data published "
+22,5,1,Calibri,11.0,72.0,245.0,123.9,256.0,by Eurostat
+22,5,1,Calibri,7.0,123.9,244.1,127.4,251.0,8
+22,5,1,Calibri,11.0,127.3,245.0,525.6,256.0,", ICT graduates accounted for 5.7% in 2023, a 9.6% increase compared to the previous "
+22,5,2,Calibri,11.0,72.0,259.4,461.8,270.4,"year. This rate exceeds the EU average, which rose from 4,5% in 2022 to 4.7% in 2023.  "
+22,6,0,Calibri,11.0,72.0,281.9,525.8,293.0,"In 2022, the percentage of enterprises with 10 or more employees providing ICT training in Spain was "
+22,6,1,Calibri,11.0,72.0,296.3,525.9,307.4,"20.7%, compared to the EU's 22.37%. By 2024, this figure rose to 21.22%, slightly below the EU's "
+22,6,2,Calibri,11.0,72.0,310.9,525.9,321.9,"22.29%. However, Spain's annual growth rate of 1.2% outperformed the EU's -0.2%. This indicates that "
+22,6,3,Calibri,11.0,72.0,325.4,378.9,336.4,"while Spain starts from a lower base, it is making strides to catch up. "
+22,7,0,Calibri,11.0,72.0,347.8,422.6,358.9,"To attract and retain AI specialists, Red.es launched in October 2024 the "
+22,7,0,Calibri,11.0,425.0,347.8,525.9,358.9,Talent Attraction and 
+22,7,1,Calibri,11.0,72.0,362.3,278.4,373.4,Retention Programme in Artificial Intelligence
+22,7,1,Calibri,11.0,278.3,362.3,525.8,373.4," in collaboration with major research centers, offering "
+22,7,2,Calibri,11.0,72.0,376.8,525.7,387.9,374 scholarships and training contracts lasting 48 months to support academic plans of at least 240 
+22,7,3,Calibri,11.0,72.0,391.4,525.7,402.4,"ECTS credits. Additionally, to meet the growing demand for digital experts across various professional "
+22,7,4,Calibri,11.0,72.0,405.8,186.7,416.8,"fields, a EUR 200 million "
+22,7,4,Calibri,11.0,188.0,405.8,478.3,416.8,training programme in digital skills for professional associations
+22,7,4,Calibri,11.0,478.3,405.8,525.9,416.8, has been 
+22,7,5,Calibri,11.0,72.0,420.3,525.9,431.4,"initiated. The aim is to provide over 80,000 professionals in sectors such as legal, healthcare, economic, "
+22,7,6,Calibri,11.0,72.0,434.8,525.8,445.9,"social, scientific, architecture, engineering, and educational with 150 hours of specialized training in "
+22,7,7,Calibri,11.0,72.0,449.3,204.5,460.4,advanced digital skills and AI. 
+22,8,0,Calibri-Bold,11.0,77.7,472.3,188.7,483.3,2024 recommendation: 
+22,8,0,Calibri,11.0,190.7,472.3,520.1,483.3,Continue implementing its efforts to achieve a greater number of ICT 
+22,8,1,Calibri,11.0,77.7,486.8,520.2,497.8,"specialists, designing incentives schemes to attract and retain them, and increasing the visibility and "
+22,8,2,Calibri,11.0,77.7,501.3,273.9,512.3,readability of training and reskilling options.
+22,8,2,Calibri-Bold,11.0,273.8,501.3,276.3,512.3, 
+22,9,0,Calibri-Bold,11.0,77.7,519.3,479.0,530.3,Spain made some efforts to address the recommendation through policy actions in 2024
+22,9,0,Calibri,11.0,479.1,519.3,487.0,530.3,:  
+22,10,0,Calibri,11.0,77.7,536.8,519.9,547.9,"In 2024, the percentage of ICT specialists continued to grow in Spain as a result of the efforts of "
+22,10,1,Calibri,11.0,77.7,551.2,520.2,562.3,"public administrations and the previously observed trend in the number of ICT graduates. However, "
+22,10,2,Calibri,11.0,77.7,565.8,507.3,576.8,"the volume of ICT specialists continues below the EU average, although its growth rate is higher. "
+22,11,0,Calibri-Light,12.0,72.0,592.1,476.9,604.1,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+22,12,0,Calibri-Bold,11.0,72.0,615.6,525.8,626.6,Spain's digital public services and access to e-health records have shown a mixed performance when 
+22,12,1,Calibri-Bold,11.0,72.0,629.0,206.7,640.1,compared to the EU average.
+22,12,1,Calibri,11.0,206.7,629.0,350.2,640.1," In 2023, Spain's total score for "
+22,12,1,Calibri-Bold,11.0,351.1,629.0,502.8,640.1,digital public services for citizens
+22,12,1,Calibri,11.0,502.9,629.0,525.9,640.1, was 
+22,12,2,Calibri,11.0,72.0,642.5,387.9,653.5,"84.18, surpassing the EU's 79.44. This trend continued in 2024, with "
+22,12,2,Calibri-Bold,11.0,389.2,642.5,520.7,653.5,Spain's score reaching 88.75
+22,12,2,Calibri,11.0,520.8,642.5,525.9,653.5,", "
+22,12,3,Calibri,11.0,72.0,655.9,202.3,666.9,"compared to the EU's 82.32, "
+22,12,3,Calibri-Bold,11.0,202.6,655.9,523.5,666.9,which makes the country on track according to its national trajectory.
+22,12,3,Calibri,11.0,523.4,655.9,525.9,666.9, 
+22,12,4,Calibri,11.0,72.0,669.2,525.9,680.3,"Spain's growth rate of 5.4% in this area outpaced the EU's 3.6%. Similarly, Spain's cross-border digital "
+22,12,5,Calibri,11.0,72.0,682.7,525.8,693.7,"public services score was 71.05 in 2023 and 78.73 in 2024, both higher than the EU's 68.37 and 71.28, "
+22,12,6,Calibri,11.0,72.0,696.1,525.9,707.1,respectively. Spain's growth rate of 10.8% in this category also exceeded the EU's 4.3%. The share of 
+22,13,0,Calibri,11.0,216.1,725.8,218.5,736.8, 
+22,14,0,Calibri,6.0,72.0,738.7,75.1,744.7,7
+22,14,0,Calibri,9.0,75.0,738.9,111.5,747.9, Eurostat  
+22,14,1,Calibri,9.0,134.3,738.9,439.2,747.9,https://ec.europa.eu/eurostat/databrowser/bookmark/0157d626-0bd6-4a78-8dac-
+22,14,2,Calibri,9.0,72.0,749.8,158.0,758.8,8cc5a785a7b4?lang=en
+22,14,2,Calibri,9.0,158.1,749.8,160.1,758.8, 
+22,14,3,Calibri,6.0,72.0,760.6,75.1,766.6,8
+22,14,3,Calibri,9.0,75.0,760.9,107.4,769.9,Eurostat 
+22,14,3,Calibri,9.0,107.4,760.9,499.1,769.9,https://ec.europa.eu/eurostat/databrowser/bookmark/899b66a1-3936-4a3c-9512-97b3c9084062?lang=en
+22,14,3,Calibri,9.0,499.2,760.9,501.2,769.9, 
+22,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+22,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+23,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,people using government internet websites or apps remains quite above the EU average (82.70% 
+23,3,1,Calibri,11.0,72.0,97.3,180.0,108.4,versus 74.71%) in 2024. 
+23,3,2,Calibri,11.0,72.0,110.8,150.1,121.8,"However, Spain's "
+23,3,2,Calibri-Bold,11.0,150.3,110.8,315.3,121.8,digital public services for businesses
+23,3,2,Calibri,11.0,315.4,110.8,410.9,121.8, tell a different story. 
+23,3,2,Calibri-Bold,11.0,411.1,110.8,525.8,121.8,While Spain's total score 
+23,3,3,Calibri-Bold,11.0,72.0,124.2,525.4,135.3,"was 91.0 in 2023, higher than the EU's 85.42, it dropped to 85.11 in 2024, falling below the EU's "
+23,3,4,Calibri-Bold,11.0,72.0,137.7,423.5,148.7,86.23 and making the country lag behind compared to its national trajectory.
+23,3,4,Calibri,11.0,423.6,137.7,525.9,148.7, Spain's growth rate of 
+23,3,5,Calibri,11.0,72.0,151.1,525.9,162.1,"-6.5% lagged behind the EU's 0.9%. A similar pattern is observed in the cross-border category, where "
+23,3,6,Calibri,11.0,72.0,164.5,525.8,175.6,"Spain's score decreased from 82.5 in 2023 to 72.5 in 2024, while the EU's score increased from 73.13 "
+23,3,7,Calibri,11.0,72.0,178.0,437.1,189.0,to 73.76. Spain's growth rate of -12.1% was significantly lower than the EU's 0.9%.
+23,3,7,Calibri-Bold,11.0,437.1,178.0,439.6,189.0, 
+23,3,8,Calibri-Bold,11.0,72.0,191.4,398.4,202.5,"In the realm of access to e-health records, Spain shows a positive trend"
+23,3,8,Calibri,11.0,398.4,191.4,525.9,202.5,". In 2023, its total score was "
+23,3,9,Calibri,11.0,72.0,205.9,385.5,217.0,"84.58, higher than the EU's 79.12. This gap widened in 2024, with "
+23,3,9,Calibri-Bold,11.0,387.4,205.9,525.8,217.0,"Spain's score reaching 88.29, "
+23,3,10,Calibri-Bold,11.0,72.0,220.3,198.4,231.4,compared to the EU's 82.70
+23,3,10,Calibri,11.0,198.4,220.3,525.9,231.4,. Spain's growth rate of 4.4% in this area was slightly lower than the EU's 
+23,3,11,Calibri,11.0,72.0,234.9,99.1,245.9,4.5%. 
+23,4,0,Calibri,11.0,72.0,257.4,525.9,268.5,"In addition, the share of people using government internet websites or apps is slightly decreasing year "
+23,4,1,Calibri,11.0,72.0,271.9,525.9,282.9,"after year in Spain, from 84.02% in 2022 to 82.70% in 2024. However, it was significantly above the EU "
+23,4,2,Calibri,11.0,72.0,286.4,194.8,297.4,average of 70.01% in 2024. 
+23,5,0,Calibri,11.0,72.0,308.8,525.8,319.8,"In overall, Spain's digital public services and access to e-health records have shown a mixed "
+23,5,1,Calibri,11.0,72.0,323.3,525.8,334.4,performance. While Spain has made significant strides in digital public services for citizens and access 
+23,5,2,Calibri,11.0,72.0,337.8,525.7,348.9,"to e-health records, there is a clear need for improvement in digital public services for businesses. To "
+23,5,3,Calibri,11.0,72.0,352.4,525.7,363.4,"enhance Spain's digital landscape, policymakers should focus on bolstering digital public services for "
+23,5,4,Calibri,11.0,72.0,366.8,525.9,377.8,"businesses, while continuing to build on the progress made in other areas. This might involve investing "
+23,5,5,Calibri,11.0,72.0,381.3,525.9,392.3,"in digital infrastructure, promoting digital literacy, and encouraging public-private partnerships to drive "
+23,5,6,Calibri,11.0,72.0,395.8,178.6,406.9,innovation and growth. 
+23,6,0,Calibri-LightItalic,11.0,72.0,418.3,92.4,429.3,e-ID 
+23,7,0,Calibri-Bold,11.0,72.0,440.8,525.7,451.9,"In 2023, the last year with available data, 54.43% of Spanish people have used their eID to access "
+23,7,1,Calibri-Bold,11.0,72.0,455.3,525.8,466.4,"online services for private purpose in the last 12 months, which is above the EU average (41.11%). "
+23,7,2,Calibri-Bold,11.0,72.0,469.7,369.4,480.8,"However, 13.99% did not use eID because they did not have one. "
+23,8,0,Calibri,11.0,72.0,492.3,236.6,503.4,Spain actively participates in several 
+23,8,0,Calibri,11.0,237.1,492.3,314.4,503.4,Large Scale Pilots
+23,8,0,Calibri,11.0,314.4,492.3,525.8,503.4, to test the specifications of EU Digital Identity 
+23,8,1,Calibri,11.0,72.0,506.8,525.9,517.9,"Wallets in a wide range of use cases, before their roll-out to Member States. Spanish stakeholders, "
+23,8,2,Calibri,11.0,72.0,521.2,525.9,532.3,"both public and private, are taking part in three of the four LSPs projects which began in April 2023: "
+23,8,3,Calibri,11.0,72.0,535.7,525.8,546.8,"POTENTIAL (involved in work on identification for eGovernment Services and registration for SIM cards, "
+23,8,4,Calibri,11.0,72.0,550.3,525.9,561.3,"mobile driving licence, health credentials for ePrescription), EWC (piloting the use-cases of Digital "
+23,8,5,Calibri,11.0,72.0,564.8,525.9,575.9,"Travel Credentials, payments and organisational digital identities) and DC4EU (Education/Professional "
+23,8,6,Calibri,11.0,72.0,579.2,265.0,590.3,qualifications & Social Security document). 
+23,9,0,Calibri,11.0,72.0,601.8,525.6,612.8,"Work is underway on the first version of the Spanish Digital Wallet, which will enable age verification "
+23,9,1,Calibri,11.0,72.0,616.3,525.8,627.3,to prevent minors from accessing adult content online. Its development will follow European standards 
+23,9,2,Calibri,11.0,72.0,630.7,366.6,641.7,in line with the EU agreement to ensure the protection of minors. 
+23,10,0,Calibri,11.0,72.0,653.3,252.5,664.3,"In addition, Spain has officially launched ‘"
+23,10,0,Calibri,11.0,252.4,653.3,281.1,664.3,MiDNI
+23,10,0,Calibri,11.0,281.1,653.3,525.9,664.3,’ app in April 2025 to obtain and use the digital National 
+23,10,1,Calibri,11.0,72.0,667.7,525.8,678.7,"Identity Document (DNI). This application allows citizens to identify themselves, prove majority of age, "
+23,10,2,Calibri,11.0,72.0,682.2,525.8,693.2,"carry out administrative procedures, register in services such as hotels or banks, and sign documents "
+23,10,3,Calibri,11.0,72.0,696.7,525.6,707.7,"before a notary, among other functions. However, it is not yet valid for international travel or border "
+23,10,4,Calibri,11.0,72.0,711.2,525.9,722.3,"controls, so the physical DNI is still required. In a second phase planned for 2026, functionalities such "
+23,10,5,Calibri,11.0,72.0,725.6,450.7,736.7,as electronic signature and authentication in online procedures will be incorporated. 
+23,11,0,Calibri,11.0,72.0,748.2,74.5,759.2, 
+23,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+23,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+24,2,0,Calibri-LightItalic,11.0,72.0,84.0,327.2,95.1,Digitalisation of public services for citizens and businesses 
+24,4,0,Calibri-Bold,11.0,72.0,106.5,525.5,117.5,Spain aims at reaching a score of 100 for the digitalisation of public services for citizen and 
+24,4,1,Calibri-Bold,11.0,72.0,121.0,525.9,132.0,businesses. Current observed rate of growth is significantly higher than EU average in public services 
+24,4,2,Calibri-Bold,11.0,72.0,135.5,525.7,146.5,"for citizens but it is quite below the EU average in public services for business, where in addition, "
+24,4,3,Calibri-Bold,11.0,72.0,149.9,512.7,160.9,the country is lagging behind the expected value for 2024 in its national roadmap (85.1 vs 95.0).  
+24,5,0,Calibri-Bold,11.0,72.0,172.5,525.7,183.5,"Spain continues to lead in online public services, emphasizing omnichannel strategies to make digital "
+24,5,1,Calibri-Bold,11.0,72.0,187.0,390.7,198.0,"services accessible to all citizens, primarily through mobile phones"
+24,5,1,Calibri,11.0,391.0,187.0,525.8,198.0,. Among the most impactful 
+24,5,2,Calibri,11.0,72.0,201.4,194.9,212.4,mobile applications are ‘
+24,5,2,Calibri-Italic,11.0,194.9,201.4,306.9,212.4,Mi Carpeta Ciudadana’
+24,5,2,Calibri,11.0,306.9,201.4,525.8,212.4,", which centralizes access to various public "
+24,5,3,Calibri,11.0,72.0,215.9,414.1,226.9,"administration services and has over 5 million downloads, and others like"
+24,5,3,Calibri-Italic,11.0,414.3,215.9,461.2,226.9, ‘Notifica’ 
+24,5,3,Calibri,11.0,462.8,215.9,525.9,226.9,for managing 
+24,5,4,Calibri,11.0,72.0,230.4,132.6,241.5,"notifications, "
+24,5,4,Calibri-Italic,11.0,132.7,230.4,183.0,241.5,Cita Previa 
+24,5,4,Calibri,11.0,183.2,230.4,311.3,241.5,for scheduling appointments
+24,5,4,Calibri-Italic,11.0,311.2,230.4,393.9,241.5,", ‘Líneas de Ayuda’"
+24,5,4,Calibri,11.0,393.9,230.4,525.8,241.5, for accessing information on 
+24,5,5,Calibri,11.0,72.0,245.0,138.0,256.0,"public grants, ‘"
+24,5,5,Calibri-Italic,11.0,138.0,245.0,209.1,256.0,Empleo Público’
+24,5,5,Calibri,11.0,209.1,245.0,313.9,256.0," for job opportunities, ‘"
+24,5,5,Calibri-Italic,11.0,313.8,245.0,354.4,256.0,Catastro’
+24,5,5,Calibri,11.0,354.4,245.0,481.0,256.0," for real estate information, "
+24,5,5,Calibri-Italic,11.0,481.4,245.0,507.9,256.0,QEDU
+24,5,5,Calibri,11.0,507.9,245.0,525.9,256.0, for 
+24,5,6,Calibri,11.0,72.0,259.4,161.5,270.4,"university data, and "
+24,5,6,Calibri-Italic,11.0,161.1,259.4,176.0,270.4,ICA
+24,5,6,Calibri,11.0,175.9,259.4,525.9,270.4," for real-time air quality monitoring. Additionally, the 060 service has expanded "
+24,5,7,Calibri,11.0,72.0,273.9,525.9,284.9,"its capacity with virtual agents, handling over 27 million calls and 140,500 chatbot inquiries since 2022. "
+24,6,0,Calibri,11.0,72.0,296.3,525.8,307.4,"In terms of data use and interoperability, Spain is advancing major initiatives. In 2024, Red.es granted "
+24,6,1,Calibri,11.0,72.0,310.9,523.6,321.9,EUR 12.9 million to the Spanish Federation of Municipalities and Provinces (FEMP) to develop multi-
+24,6,2,Calibri,11.0,72.0,325.4,523.6,336.4,"sectoral data spaces for smart cities, fostering public-private data exchange to improve decision-"
+24,6,3,Calibri,11.0,72.0,339.9,525.9,350.9,"making and support economic growth, particularly in sustainable mobility. The Spanish administration "
+24,6,4,Calibri,11.0,72.0,354.4,525.6,365.4,"is also developing the Data Platform, designed to break down data silos across ministries through big "
+24,6,5,Calibri,11.0,72.0,368.8,525.9,379.9,"data technologies, improving data quality, innovation, and reuse. The platform is expanding in phases, "
+24,6,6,Calibri,11.0,72.0,383.3,525.7,394.4,aiming to create a shared data space for public organizations with analytical capabilities and 
+24,6,7,Calibri,11.0,72.0,397.9,525.8,408.9,interoperability with sectoral data spaces. 17 organisations and 51 information systems are already 
+24,6,8,Calibri,11.0,72.0,412.4,525.8,423.4,"connected. Efforts continue to enhance the platform’s capabilities, expand its development "
+24,6,9,Calibri,11.0,72.0,426.8,525.8,437.8,"environment, and ensure compliance with the National Security Framework to guarantee the security "
+24,6,10,Calibri,11.0,72.0,441.3,224.9,452.4,and reliability of the hosted data.  
+24,7,0,Calibri,11.0,72.0,463.7,525.9,474.8,"As part of its broader public service digitalisation and AI strategy, Spain has also begun deploying ALIA "
+24,7,1,Calibri,11.0,72.0,478.3,525.7,489.3,across key government services. Early applications include a virtual assistant for the Tax Agency to 
+24,7,2,Calibri,11.0,72.0,492.8,213.0,503.8,"streamline citizen queries, and ‘"
+24,7,2,Calibri-Italic,11.0,213.1,492.8,277.9,503.8,Cardiomentor’
+24,7,2,Calibri,11.0,277.9,492.8,525.9,503.8,", a clinical decision-support tool used in primary care to "
+24,7,3,Calibri,11.0,72.0,507.3,525.9,518.3,"improve the early diagnosis of heart failure, showcasing the potential of public, open-source AI to "
+24,7,4,Calibri,11.0,72.0,521.8,525.9,532.9,"deliver inclusive, citizen-oriented solutions. More than thirty other use cases are being planned for the "
+24,7,5,Calibri,11.0,72.0,536.2,193.5,547.3,next phases of the project. 
+24,8,0,Calibri-Bold,11.0,77.7,559.3,186.5,570.3,2024 recommendation: 
+24,8,0,Calibri,11.0,186.3,559.3,517.9,570.3,Continue efforts to digitalise public services and further promote their use.
+24,8,0,Calibri-Bold,11.0,517.8,559.3,520.3,570.3, 
+24,9,0,Calibri-Bold,11.0,77.7,577.3,502.4,588.3,Spain made some effort to address the recommendation through new policy actions in 2024: 
+24,10,0,Calibri,11.0,77.7,594.8,520.3,605.9,Spain is making progress in the digitisation of public services and scores above the EU average in 
+24,10,1,Calibri,11.0,77.7,609.2,520.0,620.3,"public services for citizens. However, there is a deviation from this trend in public services for "
+24,10,2,Calibri,11.0,77.7,623.7,130.9,634.8,businesses. 
+24,11,0,Calibri-LightItalic,11.0,72.0,649.8,112.2,660.8,e-Health 
+24,12,0,Calibri-Bold,11.0,72.0,672.2,525.6,683.3,"Spain aims at a score of 100 for the access to medical records, in line with the 2030 EU target. In the "
+24,12,1,Calibri-Bold,11.0,72.0,686.7,525.8,697.8,"context of the current rate of progress and the high score in 2024, which is one point above the "
+24,12,2,Calibri-Bold,11.0,72.0,701.3,525.8,712.3,"expected value for 2024 in the national roadmap (88.3 vs 87.3), the country is on track to reach the "
+24,12,3,Calibri-Bold,11.0,72.0,715.7,143.0,726.7,target by 2030. 
+24,13,0,Calibri-Bold,11.0,72.0,738.2,525.8,749.3,The National Health Data Space (ENDS) aims to integrate health system information nationwide to 
+24,13,1,Calibri-Bold,11.0,72.0,752.6,523.2,763.7,"enable large-scale analysis and real-time responses, supporting disease diagnosis and treatment."
+24,13,1,Calibri,11.0,523.4,752.6,525.9,763.7, 
+24,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+24,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+25,3,0,Calibri,11.0,72.0,84.0,525.6,95.1,Led by the Secretary of State for Digitalization and Artificial Intelligence in collaboration with the 
+25,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"Ministry of Health, the project provides regional governments with infrastructure for shared health "
+25,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"data management, including multi-format repositories and advanced analytics tools with AI "
+25,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"capabilities. In 2024, licenses were acquired for the data management platform, and procurement "
+25,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,documents were prepared for the necessary on-premises and cloud infrastructure. A preliminary 
+25,3,5,Calibri,11.0,72.0,156.4,525.7,167.4,"working environment was deployed, implementing three healthcare use cases related to antibiotic "
+25,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,"consumption, risk factors in COPD patients, and vector-borne disease monitoring. Work also began on "
+25,3,7,Calibri,11.0,72.0,185.4,525.6,196.5,defining Secure Processing Environments (SPE) to comply with the European Health Data Space 
+25,3,8,Calibri,11.0,72.0,199.9,525.8,211.0,"Regulation. Additionally, a user support and incident management tool was launched and tested with "
+25,3,9,Calibri,11.0,72.0,214.3,525.6,225.4,"regional staff. By the end of 2024, funds were successfully transferred to all regions and territories "
+25,3,10,Calibri,11.0,72.0,228.9,525.7,239.9,"except Andalusia and Extremadura, which were finalizing the required documentation. A corporate "
+25,3,11,Calibri,11.0,72.0,243.4,490.4,254.4,visual identity for the ENDS was also created to support communication and outreach efforts. 
+25,4,0,Calibri,11.0,72.0,265.9,525.6,276.9,"According to the 2025 Eurobarometer, 80% Spanish people think that digital technologies will be "
+25,4,1,Calibri,11.0,72.0,280.4,525.8,291.4,"important when accessing or receiving healthcare services (e.g., telemedicine, artificial intelligence for "
+25,4,2,Calibri,11.0,72.0,294.9,294.9,305.9,diagnosis diseases) during their daily life by 2030. 
+25,5,0,Calibri-Bold,11.0,77.7,317.9,247.9,329.0,2024 recommendation on e-health
+25,5,0,Calibri,11.0,247.9,317.9,520.1,329.0,": (i) Make the data types of medical devices/implants, "
+25,5,1,Calibri,11.0,77.7,332.3,520.0,343.4,"procedures/operations, and medical images available to citizens in all regions through the online "
+25,5,2,Calibri,11.0,77.7,346.8,520.2,357.9,access services; (ii) Increase the supply of health data by onboarding more categories of healthcare 
+25,5,3,Calibri,11.0,77.7,361.4,520.1,372.4,"providers, especially in the private sector; (iii) Build on existing legal provisions and implement "
+25,5,4,Calibri,11.0,77.7,375.9,513.5,386.9,technical functionality for authorised persons to access electronic health data on behalf of others.
+25,5,4,Calibri-Bold,11.0,513.6,375.9,516.1,386.9, 
+25,6,0,Calibri-Bold,11.0,77.7,393.8,506.7,404.8,Spain made some efforts to address the recommendation through new policy actions in 2024: 
+25,7,0,Calibri,11.0,77.7,411.3,332.9,422.4,Spain provided data for each of its 18 health regions. 
+25,7,0,Calibri-Bold,11.0,334.9,411.3,520.1,422.4,"In 2024, Spain improved their eHealth "
+25,7,1,Calibri-Bold,11.0,77.7,425.8,147.2,436.9,maturity score.
+25,7,1,Calibri,11.0,147.3,425.8,520.2,436.9, More data categories investigated under this framework have become available in 
+25,7,2,Calibri,11.0,77.7,440.3,520.0,451.4,"more regions, especially data on procedures and operations, laboratory test results, medical "
+25,7,3,Calibri,11.0,77.7,454.7,520.2,465.8,"imaging reports and hospital discharge reports. However, data on medical devices and implants and "
+25,7,4,Calibri,11.0,77.7,469.3,520.2,480.3,medical images are still unavailable in more than half the regions. Of the 11 categories of healthcare 
+25,7,5,Calibri,11.0,77.7,483.8,520.1,494.8,"providers investigated in this study, all public ones and pharmacies in all regions supply data. In "
+25,7,6,Calibri,11.0,77.7,498.3,520.2,509.4,"addition, in two regions, some private healthcare providers were supplying data. However, in "
+25,7,7,Calibri,11.0,77.7,512.8,111.0,523.9,general
+25,7,7,Calibri-Bold,11.0,110.9,512.8,520.0,523.9,", private providers in Spain have their own systems, which are not currently interoperable "
+25,7,8,Calibri-Bold,11.0,77.7,527.2,184.9,538.3,with the public systems
+25,7,8,Calibri,11.0,185.1,527.2,359.0,538.3,. It remains a significant gap for Spain.  
+25,8,0,Calibri,11.0,77.7,544.7,520.1,555.8,"Regarding access for legal guardians and authorised individual, legal provisions are in place across "
+25,8,1,Calibri,11.0,77.7,559.3,520.0,570.3,"Spain. In 2024, one additional region introduced functionalities for legal guardians to access the "
+25,8,2,Calibri,11.0,77.7,573.8,520.2,584.9,data of their wards (56% of regions in total) and four regions for the first time implemented access 
+25,8,3,Calibri,11.0,77.7,588.2,415.2,599.3,for authorised persons as a functional feature (22% of the regions in total).  
+25,9,0,Calibri-Bold,11.0,77.7,605.7,520.0,616.8,"In 2024, authentication to the electronic health record systems is done using a (pre)notified eID "
+25,9,1,Calibri-Bold,11.0,77.7,620.3,308.8,631.3,compliant with the eIDAS regulation in all regions. 
+25,10,0,Calibri-Light,15.0,72.0,647.2,526.4,662.2,Building a safe and human centric digital environment and preserving our 
+25,10,1,Calibri-Light,15.0,72.0,666.8,141.6,681.8,democracy 
+25,11,0,Calibri-Bold,11.0,72.0,693.7,381.3,704.7,"In Spain, the online participation to political and civic life is growing."
+25,11,0,Calibri,11.0,381.4,693.7,525.9,704.7," In 2024, 23.02% of people used "
+25,11,1,Calibri,11.0,72.0,708.2,525.9,719.3,"the internet to participate to consultation, for voting or sharing opinions online. This share is above "
+25,11,2,Calibri,11.0,72.0,722.8,525.8,733.8,"the EU average and trending upwards (22.13% in 2022), which is in line of the trend observed at the "
+25,11,3,Calibri,11.0,72.0,737.3,281.1,748.3,EU level (17.59% in 2022 and 20.45% in 2024). 
+25,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+25,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+26,3,0,Calibri,11.0,72.0,84.0,525.6,95.1,"In 2023, 59.09% of individuals in Spain reported having encountered information or content on "
+26,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"internet news sites or social media that they perceived as untrue or doubtful, considerably higher than "
+26,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"the EU average of 49.25%. Among those exposed to such content, 30.43% engaged in verifying its "
+26,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"truthfulness, highlighting that a significant proportion of individuals, compared to the EU average, took "
+26,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,steps to assess the accuracy of the information. Young people aged 16–24 (71.69%) was significantly 
+26,3,5,Calibri,11.0,72.0,156.4,525.7,167.4,"more likely than adults aged 25–64 (60.96%) to report such content, and their verification rates also "
+26,3,6,Calibri,11.0,72.0,170.9,525.7,181.9,"differed, with 40.82% of young people verifying content compared to a significantly lower 31.24% of "
+26,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,"adults. Males (61.33%) and females (56.90%) reported similar levels of exposure, and their verification "
+26,3,8,Calibri,11.0,72.0,199.9,401.1,211.0,"rates were also comparable, at 32.54% for males and 28.36% for females. "
+26,4,0,Calibri,11.0,72.0,222.4,525.6,233.4,The 2023 data on online interactions in Spain reveals a high prevalence of potentially misleading 
+26,4,1,Calibri,11.0,72.0,236.9,525.8,248.0,"information online, with a significant proportion of individuals encountering untrue or doubtful "
+26,4,2,Calibri,11.0,72.0,251.4,525.7,262.5,"content. However, the data also suggests that Spaniards have been taking steps to address this issue, "
+26,4,3,Calibri,11.0,72.0,265.9,525.9,276.9,"with a relatively high proportion of individuals, particularly young people aged 16–24, verifying the "
+26,4,4,Calibri,11.0,72.0,280.4,525.7,291.4,"accuracy of online content. While there is still room for improvement, the findings indicate that Spain "
+26,4,5,Calibri,11.0,72.0,294.9,525.6,305.9,"is making progress in promoting critical thinking and digital literacy, with a higher proportion of "
+26,4,6,Calibri,11.0,72.0,309.4,369.0,320.5,individuals engaging in fact-checking compared to the EU average. 
+26,6,0,Calibri,11.0,355.5,527.0,358.0,538.0, 
+26,7,0,Calibri,11.0,72.0,546.4,336.7,557.5,"In September 2024, the Spanish government presented the "
+26,7,0,Calibri,11.0,336.4,546.4,453.6,557.5,Action Plan for Democracy
+26,7,0,Calibri,11.0,452.9,546.4,525.9,557.5,", which includes "
+26,7,1,Calibri,11.0,72.0,561.0,525.9,572.0,"key tools to combat the spread of disinformation, fake news, and other misleading content. Measures "
+26,7,2,Calibri,11.0,72.0,575.5,525.8,586.5,include the creation of a media registry and a ‘one-stop shop’ to increase transparency regarding 
+26,7,3,Calibri,11.0,72.0,589.9,525.7,600.9,"media ownership and advertising investments, the introduction of a Law on Journalistic Professional "
+26,7,4,Calibri,11.0,72.0,604.4,525.7,615.5,"Secrecy, and EUR 100 million in funding to strengthen the media sector. Additional actions involve "
+26,7,5,Calibri,11.0,72.0,618.9,525.9,630.0,establishing a new commission on disinformation in the Congress of deputies and reforming electoral 
+26,7,6,Calibri,11.0,72.0,633.5,525.9,644.5,"law to make electoral debates mandatory. The aim is to promote pluralism, transparency, and political "
+26,7,7,Calibri,11.0,72.0,647.9,273.9,658.9,party engagement in fighting disinformation. 
+26,8,0,Calibri-Bold,11.0,72.0,670.4,525.7,681.5,"On protecting the children online, special attention is also being given to protecting minors in the "
+26,8,1,Calibri-Bold,11.0,72.0,684.9,161.7,696.0,digital environment
+26,8,1,Calibri,11.0,161.8,684.9,481.7,696.0,". In December 2024, the Ministry of Youth and Childhood presented the "
+26,8,1,Calibri,11.0,481.8,684.9,525.9,696.0,Report of 
+26,8,2,Calibri,11.0,72.0,699.3,525.6,710.4,the Committee of Experts for the Development of a Safe Digital Environment for Children and 
+26,8,3,Calibri,11.0,72.0,713.9,126.1,724.9,Adolescents
+26,8,3,Calibri,11.0,126.1,713.9,525.8,724.9,", offering a detailed analysis and 107 proposed measures for government consideration. "
+26,8,4,Calibri,11.0,72.0,728.4,324.3,739.4,The Council of Ministers approved the first draft of the 
+26,8,4,Calibri,11.0,325.4,728.4,525.9,739.4,Organic Law for the Protection of Minors in 
+26,8,5,Calibri,11.0,72.0,742.9,164.1,754.0,Digital Environments
+26,8,5,Calibri,11.0,164.2,742.9,525.8,754.0,", incorporating 35 of the proposed initiatives, such as age verification systems and "
+26,8,6,Calibri,11.0,72.0,757.3,525.8,768.4,parental controls. The remaining proposals will be reviewed for possible inclusion during the legislative 
+26,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+26,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+27,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"process or through separate initiatives. Additionally, a National Strategy will be launched to guarantee "
+27,2,1,Calibri,11.0,72.0,98.4,509.6,109.5,"children's rights, promote safe internet use, and encourage their participation in decision-making. "
+27,4,0,Calibri,11.0,72.0,121.0,525.8,132.0,"Separately, the Ministry for Digital Transformation and Public Service, through Red.es, is collaborating "
+27,4,1,Calibri,11.0,72.0,135.5,525.7,146.5,"with UNICEF, the University of Santiago de Compostela, and the General Council of Computer "
+27,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,Engineering of Spain to conduct a study on the impact of technology on children and adolescents. This 
+27,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,study includes a survey of 100 000 of students aged 10 to 20 across 500 schools and 5.000 surveys of 
+27,4,4,Calibri,11.0,72.0,178.9,525.7,190.0,teachers. The aim is to build strong evidence to guide public policies and educational strategies. 
+27,4,5,Calibri,11.0,72.0,193.5,525.9,204.5,"Supported by a Scientific Committee of 45 internationally recognized experts, the study aspires to "
+27,4,6,Calibri,11.0,72.0,207.9,525.7,218.9,become a national and international benchmark for understanding and managing the digital 
+27,4,7,Calibri,11.0,72.0,222.4,258.4,233.4,challenges faced by younger generations. 
+27,5,0,Calibri,11.0,72.0,245.0,525.6,256.0,"According to the Digital Decade Eurobarometer 2025, 95% Spanish people think it should be urgent "
+27,5,1,Calibri,11.0,72.0,259.4,525.7,270.4,the action of the public authorities to protect children online regarding the negative impact of social 
+27,5,2,Calibri,11.0,72.0,273.9,525.7,284.9,"media on children’s mental health, cyberbullying and online harassment and to put in place age "
+27,5,3,Calibri,11.0,72.0,288.4,353.0,299.5,assurance mechanisms to restrict age-inappropriate content.    
+27,6,0,Calibri-Bold,11.0,72.0,310.9,479.2,321.9,Increasing attention is being paid to the promotion of the Digital Rights and Principles
+27,6,0,Calibri,11.0,479.5,310.9,525.9,321.9,". In 2023, "
+27,6,1,Calibri,11.0,72.0,325.4,525.8,336.4,Red.es launched a public invitation to partner with nonprofit organizations to promote and implement 
+27,6,2,Calibri,11.0,72.0,339.9,525.9,350.9,"digital rights through awareness and action. As a result, in 2024, seven collaboration agreements were "
+27,6,3,Calibri,11.0,72.0,354.4,525.9,365.4,"signed with over 40 nonprofit organisations, amounting to initiatives valued at EUR 10.8 million, 80% "
+27,6,4,Calibri,11.0,72.0,368.8,525.8,379.9,of which is funded by Red.es through RRF funds. These agreements aim to deepen understanding of 
+27,6,5,Calibri,11.0,72.0,383.3,525.8,394.4,"digital rights, stimulate public debate, foster consensus, and engage civil society, academia, and public "
+27,6,6,Calibri,11.0,72.0,397.9,525.9,408.9,"and private institutions. The activities involve cooperation with 175 organisations and research groups, "
+27,6,7,Calibri,11.0,72.0,412.4,194.5,423.4,as well as over 280 experts.
+27,6,7,Calibri,12.0,194.4,411.7,197.2,423.7, 
+27,7,0,Calibri-Bold,11.0,72.0,434.8,328.8,445.9,"In February 2025, the Spanish Government launched the "
+27,7,0,Calibri-Bold,11.0,328.5,434.8,446.6,445.9,Digital Rights Observatory
+27,7,0,Calibri,11.0,446.7,434.8,525.9,445.9, as a result of one 
+27,7,1,Calibri,11.0,72.0,449.3,320.6,460.4,of the aforementioned agreements. It is intended as an 
+27,7,1,Calibri-Bold,11.0,320.6,449.3,525.9,460.4,open forum to raise awareness and promote 
+27,7,2,Calibri-Bold,11.0,72.0,463.7,525.8,474.8,"digital rights at both national and international levels, including public outreach initiatives like "
+27,7,3,Calibri-Bold,11.0,72.0,478.3,474.0,489.3,"events, surveys on public perception, and an AI-based digital rights monitoring platform"
+27,7,3,Calibri,11.0,474.1,478.3,525.9,489.3,. The other 
+27,7,4,Calibri,11.0,72.0,492.8,525.6,503.8,"six agreements support initiatives related to freedom, protection, and security in the digital world; "
+27,7,5,Calibri,11.0,72.0,507.3,525.8,518.3,"equality and non-discrimination, including accessibility and child protection; digital participation rights "
+27,7,6,Calibri,11.0,72.0,521.8,525.9,532.9,such as freedom of expression and access to truthful information; labour and business-related digital 
+27,7,7,Calibri,11.0,72.0,536.2,525.6,547.3,"rights; rights in specific areas like health, culture, data access, and public services; and rights in "
+27,7,8,Calibri,11.0,72.0,550.7,525.9,561.8,"emerging digital environments like AI, the metaverse, and neurotechnology. In this context, the "
+27,7,9,Calibri,11.0,72.0,565.3,525.9,576.3,"government had already announced in late 2024 the creation of NEUROTECH, a national centre in "
+27,7,10,Calibri,11.0,72.0,579.8,525.9,590.9,Madrid dedicated to applied neurotechnologies and the ethical use of brain-computer interfaces. 
+27,7,11,Calibri,11.0,72.0,594.2,525.9,605.3,"These efforts help to build a network of experts and include reflection sessions, research studies, and "
+27,7,12,Calibri,11.0,72.0,608.7,525.7,619.8,"stakeholder discussions. Since their launch, 147 reports, 98 events, and 15 seminars have been "
+27,7,13,Calibri,11.0,72.0,623.3,525.9,634.3,"organized, covering topics like digital equality, neurotechnology, education, industry, AI, and more. "
+27,7,14,Calibri,11.0,72.0,637.8,525.9,648.8,"There have also been in-depth reports on gender perspectives in the workplace, disinformation, online "
+27,7,15,Calibri,11.0,72.0,652.2,407.6,663.2,"appointment systems, and electoral reform recommendations involving AI. "
+27,8,0,Calibri,11.0,72.0,674.7,525.8,685.8,"In line with its broader commitment to a secure and human-centric digital environment, Spain is "
+27,8,1,Calibri,11.0,72.0,689.1,525.7,700.2,incorporating post-quantum privacy and confidentiality of information as part of the Digital Rights 
+27,8,2,Calibri,11.0,72.0,703.7,514.8,714.7,reflection and advancing these considerations internationally in fora like the UNESCO or the OECD.  
+27,9,0,Calibri,11.0,72.0,726.2,525.9,737.3,"In line with that, Spain is also contributing to international efforts on the ethical governance of artificial "
+27,9,1,Calibri,11.0,72.0,740.6,525.7,751.7,"intelligence. Through its active participation in global forums, including the United Nations Global "
+27,9,2,Calibri,11.0,72.0,755.2,525.7,766.2,"Digital Compact and the Dialogue on the Governance on AI, the country supports the development of "
+27,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+27,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+28,2,0,Calibri,11.0,72.0,84.0,523.6,95.1,"governance frameworks that uphold democratic values, human rights, and inclusive innovation—"
+28,2,1,Calibri,11.0,72.0,98.4,497.1,109.5,seeking to ensure that the benefits of AI are shared broadly while mitigating cross-border risks. 
+28,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,The 2025 Eurobarometer shows that 82% of Spanish people think that public authorities should 
+28,4,1,Calibri,11.0,72.0,135.5,525.6,146.5,prioritise shaping the development of Artificial Intelligence and other digital technologies to ensure 
+28,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,that they respect our rights and values. It represents an increase of three percentage points compared 
+28,4,3,Calibri,11.0,72.0,164.4,525.7,175.5,"to last year and it is in line with the EU average (83%) that has also increased, reflecting the growing "
+28,4,4,Calibri,11.0,72.0,178.9,246.7,190.0,interest of the citizens at this respect.   
+28,5,0,Calibri,11.0,72.0,201.4,74.5,212.4, 
+28,5,1,Calibri,11.0,216.1,201.4,218.5,212.4, 
+28,6,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+28,6,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+29,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+29,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+29,4,0,Calibri-Bold,11.0,72.0,160.5,525.6,171.5,Spain is progressing in harnessing the digital and green transitions through several initiatives aimed 
+29,4,1,Calibri-Bold,11.0,72.0,175.0,199.9,186.0,at strengthening synergies.  
+29,5,0,Calibri,11.0,72.0,197.4,167.5,208.5,Spain launched the 
+29,5,0,Calibri-Bold,11.0,171.4,197.4,360.5,208.5,National Green Algorithms Programme
+29,5,0,Calibri,11.0,360.4,197.4,525.8,208.5, to promote the development of 
+29,5,1,Calibri,11.0,72.0,211.9,525.9,223.0,environmentally friendly AI algorithms. Its goal is to maximise energy efficiency and minimise the 
+29,5,2,Calibri,11.0,72.0,226.5,525.9,237.5,"environmental impact of AI models, particularly during training and inference, thereby reducing "
+29,5,3,Calibri,11.0,72.0,241.0,525.9,252.0,carbon emissions. The programme follows a dual approach: ‘Green in AI’ focuses on eco-designing AI 
+29,5,4,Calibri,11.0,72.0,255.4,525.7,266.5,"models, and ‘Green by AI’ which promotes sustainable solutions with a positive impact on key sectors "
+29,5,5,Calibri,11.0,72.0,269.9,525.7,281.0,for the green transition. It is structured around research in green AI through initiatives like the ENIA 
+29,5,6,Calibri,11.0,72.0,284.4,525.9,295.5,"Chairs, including collaborations with UDC-Inditex and Siemens Energy to develop energy-efficient "
+29,5,7,Calibri,11.0,72.0,299.0,525.7,310.0,"algorithms, sustainable robotics, and address the ethical and social implications of green algorithms. "
+29,5,8,Calibri,11.0,72.0,313.4,525.9,324.4,"It also promotes the use of efficient infrastructures and services, currently under development through "
+29,5,9,Calibri,11.0,72.0,327.9,525.7,338.9,consulting and software services contracts. The integration of green AI into the production sector is 
+29,5,10,Calibri,11.0,72.0,342.4,525.8,353.4,supported through projects like advanced technologies for sustainable energy transition and AI applied 
+29,5,11,Calibri,11.0,72.0,356.9,525.9,368.0,"to the agricultural production value chain, with a combined investment exceeding EUR 20 million. "
+29,5,12,Calibri,11.0,72.0,371.3,525.9,382.4,"Furthermore, the Spanish market is being stimulated by activities such as hackathons focused on hydro "
+29,5,13,Calibri,11.0,72.0,385.8,525.9,396.9,"predictive energy and biodiversity solutions using generative AI, emphasizing energy-efficient models "
+29,5,14,Calibri,11.0,72.0,400.4,525.8,411.4,trained on platforms and shared openly. The programme also involves developing tools and standards 
+29,5,15,Calibri,11.0,72.0,414.9,525.7,425.9,"to measure energy consumption during AI training and inference, including collaborations with the "
+29,5,16,Calibri,11.0,72.0,429.3,525.9,440.4,Spanish Standardisation Agency and European working groups. Upgrades to government data centres 
+29,5,17,Calibri,11.0,72.0,443.8,525.9,454.9,"are underway, aiming for a 45% energy saving, equivalent to preventing more than 10.000 tonnes of "
+29,5,18,Calibri,11.0,72.0,458.3,181.9,469.4,CO2 emissions annually. 
+29,6,0,Calibri-Bold,11.0,72.0,480.8,525.9,491.8,"To encourage the business adoption of green AI, voluntary certification schemes following the new "
+29,6,1,Calibri-Bold,11.0,72.0,495.3,253.9,506.4,national standards are being promoted
+29,6,1,Calibri,11.0,254.0,495.3,525.7,506.4,", along with the creation of a green AI ecosystem involving "
+29,6,2,Calibri,11.0,72.0,509.8,525.7,520.9,"academia, large enterprises, SMEs, and startups. Several webinars have been held and more are "
+29,6,3,Calibri,11.0,72.0,524.3,436.9,535.4,planned to increase awareness and collaboration around sustainable AI practices. 
+29,7,0,Calibri,11.0,72.0,546.8,121.7,557.8,Under the 
+29,7,0,Calibri-Bold,11.0,123.4,546.8,278.5,557.8,Sectoral Data Spaces Programme
+29,7,0,Calibri,11.0,278.5,546.8,523.6,557.8,", several projects have been selected to create data-"
+29,7,1,Calibri,11.0,72.0,561.3,525.9,572.4,sharing ecosystems focused on environmental protection and biodiversity. These include initiatives in 
+29,7,2,Calibri,11.0,72.0,575.9,525.6,586.9,"marine science, wetlands conservation, plastic pollution mitigation, hydrological data management, "
+29,7,3,Calibri,11.0,72.0,590.3,486.8,601.3,"and urban environmental sustainability, all aligned with the European Green Deal objectives. "
+29,8,0,Calibri-Bold,11.0,72.0,612.8,523.7,623.9,The Spanish government has equipped over 140.000 public administration professionals with next-
+29,8,1,Calibri-Bold,11.0,72.0,627.3,525.6,638.4,"generation digital tools that enable remote work, helping to reduce emissions and support "
+29,8,2,Calibri-Bold,11.0,72.0,641.7,167.8,652.8,sustainable mobility.
+29,8,2,Calibri,11.0,167.9,641.7,525.9,652.8," On plans to address the issue of planned obsolescence, the government will "
+29,8,3,Calibri,11.0,72.0,656.3,525.9,667.3,"collaborate on incorporating Directive (EU) 2024/1799 into national law, which promotes the "
+29,8,4,Calibri,11.0,72.0,670.8,525.8,681.8,"repairability of goods. The deadline for implementation is mid-2026, although it will not lead the "
+29,8,5,Calibri,11.0,72.0,685.3,111.2,696.3,process. 
+29,9,0,Calibri,11.0,72.0,707.7,525.9,718.8,"In the area of sustainable smart cities, the AENOR Technical Standardisation Committee CTN 178, "
+29,9,1,Calibri,11.0,72.0,722.3,525.8,733.3,"promoted by the Secretariat of State for Telecommunications and Digital Infrastructures, is working to "
+29,9,2,Calibri,11.0,72.0,736.7,525.8,747.7,implement technological infrastructure that supports a new urban management model based on 
+29,9,3,Calibri,11.0,72.0,751.2,525.8,762.2,"efficiency, sustainability, and resilience. The committee will develop and disseminate over 30 standards "
+29,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+29,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+30,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"covering areas such as energy efficiency, mobility, water management, city platforms, and smart "
+30,2,1,Calibri,11.0,72.0,98.4,131.8,109.5,destinations. 
+30,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,"According to the Digital Decade Eurobarometer 2025, 76% Spanish people consider digital "
+30,4,1,Calibri,11.0,72.0,135.5,525.6,146.5,technologies important to help fight climate change (standing slightly above the EU average of 74% 
+30,4,2,Calibri,11.0,72.0,149.9,525.8,160.9,"and showing an increment of four percentage points since last year), while 84% of Spanish respondents "
+30,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,think that ensuring that digital technologies serve the green transition should be an important action 
+30,4,4,Calibri,11.0,72.0,178.9,309.9,190.0,for public authorities (above the EU average of 80%). 
+30,5,0,Calibri-Bold,11.0,77.7,201.9,187.3,212.9,2024 recommendation: 
+30,5,0,Calibri,11.0,188.1,201.9,520.1,212.9,Continue developing and implementing a coherent approach to twinning 
+30,5,1,Calibri,11.0,77.7,216.4,520.2,227.4,"the digital and green transitions, by leveraging advanced technologies and scaling up successful "
+30,5,2,Calibri,11.0,77.7,230.9,520.1,242.0,"initiatives that improve the energy and material efficiency of digital infrastructures, in particular "
+30,5,3,Calibri,11.0,77.7,245.4,520.1,256.5,"data centres, and by proposing decarbonisation measures and supporting the take up of green "
+30,5,4,Calibri,11.0,77.7,259.9,520.2,270.9,"technologies that reduce the carbon footprint in other sectors, such as energy, transport, buildings, "
+30,5,5,Calibri,11.0,77.7,274.4,148.2,285.4,and agriculture.
+30,5,5,Calibri-Bold,11.0,148.1,274.4,150.6,285.4, 
+30,6,0,Calibri-Bold,11.0,77.7,292.4,493.3,303.4,Spain has made effort to address the recommendation through new policy actions in 2024: 
+30,7,0,Calibri,11.0,77.7,309.9,520.2,320.9,"As described above, the Spanish authorities have put in place several programmes to address the "
+30,7,1,Calibri,11.0,77.7,324.4,520.2,335.4,"synergies between the digital and green transition, in particular, the Sectoral Data Spaces "
+30,7,2,Calibri,11.0,77.7,338.8,520.2,349.9,"programme, where several projects have been selected to create data-sharing ecosystems focused "
+30,7,3,Calibri,11.0,77.7,353.3,284.3,364.4,on environmental protection and biodiversity. 
+30,7,3,Calibri-Bold,11.0,284.2,353.3,286.7,364.4, 
+30,8,0,Calibri,11.0,72.0,371.3,74.5,382.4, 
+30,9,0,Calibri-Bold,11.0,77.7,389.3,188.8,400.4,2024 recommendation: 
+30,9,0,Calibri,11.0,191.0,389.3,520.1,400.4,Monitor and quantify the emission reductions of the deployed digital 
+30,9,1,Calibri,11.0,77.7,403.9,520.2,414.9,solutions in line with the relevant EU guidance and with the support of the methodology developed 
+30,9,2,Calibri,11.0,77.7,418.4,520.2,429.4,"by the European Green Digital Coalition, in view of future policy development as well as of attracting "
+30,9,3,Calibri,11.0,77.7,432.8,160.3,443.8,relevant financing.
+30,9,3,Calibri-Bold,11.0,160.2,432.8,162.7,443.8, 
+30,10,0,Calibri-Bold,11.0,77.7,450.8,359.0,461.8,Spain has made some effort to address the recommendation: 
+30,11,0,Calibri,11.0,77.7,468.3,520.1,479.4,Although Spain has not put in place a system to monitor and quantify the emission reductions of 
+30,11,1,Calibri,11.0,77.7,482.8,520.3,493.9,"the digital solutions deployed, the Spanish administration highlights the need for establishing key "
+30,11,2,Calibri,11.0,77.7,497.2,520.2,508.3,"performance indicators and EU-wide objectives, agreed with Member States, to monitor and reduce "
+30,11,3,Calibri,11.0,77.7,511.7,384.2,522.8,the environmental footprint of the digital sector and infrastructures. 
+30,11,3,Calibri-Bold,11.0,384.2,511.7,386.7,522.8, 
+30,12,0,Calibri,11.0,72.0,544.0,74.5,555.1, 
+30,12,1,Calibri-Bold,26.0,216.1,532.8,221.9,558.8, 
+30,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+30,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+31,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+31,3,0,Calibri-Bold,11.0,77.7,126.7,318.2,137.8,Spanish’s national Digital Decade strategic roadmap  
+31,5,0,Calibri,11.0,77.7,144.3,520.1,155.3,Spain did not submit an adjustment to its national Digital Decade roadmap. Spanish authorities 
+31,5,1,Calibri,11.0,77.7,158.7,519.9,169.7,"expressed their intention to formally adjust the national roadmap, submitted in January 2024, in "
+31,5,2,Calibri,11.0,77.7,173.2,520.2,184.2,"accordance with Article 8 (3) of the Decision establishing the Digital Decade Policy Programme, but "
+31,5,3,Calibri,11.0,77.7,187.7,519.9,198.7,"in a later stage The initial roadmap is composed of 67 measures with a budget of EUR 33.8 billion, "
+31,5,4,Calibri,11.0,77.7,202.2,520.3,213.3,"comprising EUR 26.7 billion from public budgets (equivalent to 1.68 % of GDP).However, Spain has "
+31,5,5,Calibri,11.0,77.7,216.6,520.1,227.7,"worked on addressing the recommendations made in 2024, modifying existing measures and "
+31,5,6,Calibri,11.0,77.7,231.2,520.0,242.2,implementing new ones that will be integrated into a further roadmap adjustment. The Spanish 
+31,5,7,Calibri,11.0,77.7,245.7,373.5,256.7,authorities published the initial national roadmap in March 2025.  
+31,6,0,Calibri-Bold,11.0,199.0,263.2,393.0,274.2,Measures and budget in national roadmap
+31,6,0,Calibri-Bold,7.0,392.8,262.3,396.4,269.3,9
+31,6,0,Calibri-Bold,11.0,396.3,263.2,398.8,274.2, 
+31,7,0,Calibri,11.0,72.0,509.8,74.5,520.9, 
+31,7,1,Calibri-Bold,26.0,216.1,498.6,221.9,524.6, 
+31,8,0,Calibri,11.0,216.1,714.8,218.5,725.9, 
+31,9,0,Calibri,6.0,72.0,727.6,75.1,733.6,9
+31,9,0,Calibri,9.0,75.0,727.9,525.3,736.9," When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+31,9,1,Calibri,9.0,72.0,738.9,525.5,747.9,"roadmaps, on the basis of the Commission's guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+31,9,2,Calibri,9.0,72.0,749.8,525.4,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+31,9,3,Calibri,9.0,72.0,760.9,240.0,769.9,States followed the guidance was carried out. 
+31,10,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+31,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+32,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+32,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+32,3,0,Calibri-Bold,26.0,72.0,87.0,529.3,113.1,Annex II – Factsheet on multi-country 
+32,3,1,Calibri-Bold,26.0,72.0,121.2,382.6,147.3,projects (MCPs) and funding 
+32,4,0,Calibri-Bold,11.0,77.7,160.9,149.2,172.0,MCP and EDICs 
+32,4,1,Calibri,11.0,77.7,175.5,535.2,186.5,"Spain is a member of the three established EDICs; the Alliance for Language Technologies EDIC, the "
+32,4,2,Calibri,11.0,77.7,190.0,535.2,201.0,Local Digital Twins towards the CitiVERSE EDIC and of the EUROPEUM EDIC. Spain is a candidate host 
+32,4,3,Calibri,11.0,77.7,204.5,535.4,215.5,to an EDIC in the making in the area of cancer imaging and is also working towards setting up EIDCs in 
+32,4,4,Calibri,11.0,77.7,218.9,535.4,229.9,"the area of genomics and mobility and logistics. Moreover, Spain is actively promoting the "
+32,4,5,Calibri,11.0,77.7,233.4,535.2,244.5,"transformation of the Europe Startup Nations Alliance (ESNA) into an EDIC, aiming to reinforce "
+32,4,6,Calibri,11.0,77.7,248.0,535.4,259.0,coordinated support for startup-friendly policies across the EU. Spain is directly participating in the 
+32,4,7,Calibri,11.0,77.7,262.5,535.4,273.5,IPCEI on Microelectronics and Communication Technologies (IPCEI-ME/CT) and in the IPCEI on Next 
+32,4,8,Calibri,11.0,77.7,276.9,535.5,287.9,Generation Cloud Infrastructure and Services (IPCEI-CIS). Spain is also a participating state of the 
+32,4,9,Calibri,11.0,77.7,291.4,311.0,302.5,EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+32,5,0,Calibri,11.0,77.7,308.9,319.2,320.0,Spain has contributed to the Best Practice Accelerator
+32,5,0,Calibri,7.0,319.1,308.0,326.2,315.0,10
+32,5,0,Calibri,11.0,326.1,308.9,535.5,320.0, by sharing one best practice under the Digital 
+32,5,1,Calibri,11.0,77.7,323.4,395.1,334.5,Skills cluster (The Generation D Pact was launched in November 2022). 
+32,6,0,Calibri,11.0,72.0,341.4,74.5,352.5, 
+32,7,0,Calibri-Bold,11.0,77.7,364.4,252.4,375.4,EU funding for digital policies in Spain 
+32,7,1,Calibri,11.0,77.7,378.9,468.8,389.9,Spain allocates 26% of its total recovery and resilience plan to digital (EUR 40.4 billion)
+32,7,1,Calibri,7.0,468.8,378.0,475.8,384.9,11
+32,7,1,Calibri,11.0,475.8,378.9,535.5,389.9,". In addition, "
+32,7,2,Calibri,11.0,77.7,393.4,535.5,404.5,"under cohesion policy, EUR 5.0 billion (representing 14% of the country’s total cohesion policy funding), "
+32,7,3,Calibri,11.0,77.7,407.8,324.1,418.9,is dedicated to advancing Spain’s digital transformation
+32,7,3,Calibri,7.0,324.2,406.9,331.2,413.9,12
+32,7,3,Calibri,11.0,331.1,407.8,535.5,418.9,". According to JRC estimates, EUR 42.8 billion "
+32,7,4,Calibri,11.0,77.7,422.3,535.5,433.4,directly contribute to achieving Digital Decade targets (of which EUR 39.4 billion comes from the RRF 
+32,7,5,Calibri,11.0,77.7,436.9,297.2,447.9,and EUR 3.4 billion from cohesion policy funding)
+32,7,5,Calibri,7.0,297.2,436.0,304.2,442.9,13
+32,7,5,Calibri,11.0,304.1,436.9,306.9,447.9,.
+32,7,5,Calibri-Bold,11.0,306.9,436.9,309.4,447.9, 
+32,8,0,Calibri,11.0,77.7,457.4,80.2,468.4, 
+32,9,0,Calibri,11.0,72.0,479.3,74.5,490.4, 
+32,10,0,Calibri,11.0,72.0,501.8,74.5,512.8, 
+32,10,1,Calibri,11.0,216.1,501.8,218.5,512.8, 
+32,11,0,Calibri,11.0,216.1,626.9,218.5,637.9, 
+32,12,0,Calibri,6.0,72.0,639.8,78.1,645.8,10
+32,12,0,Calibri,9.0,78.0,640.0,525.1,649.0, Best Practice Accelerator (BPA) is a platform that enables Member States to share successful measures and challenges 
+32,12,1,Calibri,9.0,72.0,650.9,525.3,659.9,encountered in their efforts to meet their Digital Decade targets and objectives. Best practices are made available to Member 
+32,12,2,Calibri,9.0,72.0,662.0,525.5,671.0,"States via the BPA Repository and showcased in regular workshops, currently focused on three thematic clusters: Digital Skills, "
+32,12,3,Calibri,9.0,72.0,672.9,250.7,681.9,"Green IT, and the Uptake of Digital Technologies. "
+32,12,4,Calibri,6.0,72.0,683.7,78.1,689.7,11
+32,12,4,Calibri,9.0,78.0,683.9,525.0,692.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+32,12,5,Calibri,9.0,72.0,695.0,311.4,704.0,and Resilience Facility Regulation. Last data update: 16 May 2025.
+32,12,5,Calibri-Bold,9.0,311.5,695.0,313.5,704.0, 
+32,12,6,Calibri,6.0,72.0,705.6,78.1,711.6,12
+32,12,6,Calibri,9.0,78.0,705.9,523.3,714.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 2021-
+32,12,7,Calibri,9.0,72.0,716.9,525.0,725.9,"2027 Cohesion policy programming period The source funds are the European Regional Development Fund, the Cohesion "
+32,12,8,Calibri,9.0,72.0,727.9,315.5,736.9,"Fund, the European Social Fund Plus, and the Just Transition Fund. "
+32,12,9,Calibri,6.0,72.0,738.7,78.1,744.7,13
+32,12,9,Calibri,9.0,78.0,738.9,525.4,747.9," Joint Research Centre, Nepelski, D. and Torrecillas, J. Mapping EU level funding instruments 2021-2027 to Digital Decade "
+32,12,10,Calibri,9.0,72.0,749.8,525.1,758.8,"targets – 2025 update, Publications Office of the European Union, Luxembourg, 2025, JRC141966. Last data update: 10 March "
+32,12,11,Calibri,9.0,72.0,760.9,94.6,769.9,2025. 
+32,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,29 
+32,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+33,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+33,1,0,Calibri,20.0,85.9,29.4,134.9,49.4,Spain 
+33,2,0,Calibri-Bold,26.0,72.0,87.0,490.4,113.1,Annex III – Digital Rights and Principles
+33,2,0,Calibri,17.0,490.5,84.8,507.8,101.8,14
+33,2,0,Calibri-Bold,26.0,507.8,87.0,513.7,113.1, 
+33,6,0,Calibri,11.0,264.0,336.5,286.5,347.6,         
+33,6,1,Calibri-Bold,11.0,520.6,336.5,523.1,347.6, 
+33,7,0,Calibri-Bold,11.0,72.0,359.9,252.4,371.0,Activity on Digital Rights and Principles 
+33,7,0,Calibri,11.0,252.5,359.9,293.2,371.0,(figure 1)
+33,7,0,Calibri-Bold,11.0,293.2,359.9,298.1,371.0,  
+33,8,0,Calibri-Bold,11.0,72.0,382.4,520.5,393.4,Spain has been one of the most active Member States in implementing digital rights and principles
+33,8,0,Calibri,11.0,520.8,382.4,525.9,393.4,", "
+33,8,1,Calibri,11.0,72.0,396.9,525.7,407.9,"with over 100 initiatives overall and 30 new initiatives launched in 2024, showing significant progress "
+33,8,2,Calibri,11.0,72.0,411.4,525.9,422.5,"towards its commitments. Spain is most active in the area of Digital education, training and skills (II), "
+33,8,3,Calibri,11.0,72.0,425.9,384.6,437.0,"however, less activity has been identified regarding Sustainability (VI). "
+33,9,0,Calibri-Bold,11.0,72.0,448.4,227.8,459.4,Impact of Digital Rights Initiatives 
+33,9,0,Calibri,11.0,227.9,448.4,271.0,459.4,(figure 2) 
+33,10,0,Calibri,11.0,72.0,470.8,525.7,481.9,Quantitative impact indicators developed by the support study illustrate the level of implementation 
+33,10,1,Calibri,11.0,72.0,485.3,525.9,496.4,"of digital rights initiatives on the ground. Based on available data, they estimate the impact of "
+33,10,2,Calibri,11.0,72.0,499.9,525.8,510.9,measures implemented by key stakeholders in Spain (mainly national government) and how these are 
+33,10,3,Calibri,11.0,72.0,514.4,169.7,525.4,perceived by citizens. 
+33,11,0,Calibri,11.0,72.0,536.8,525.8,547.9,The indicators suggest that Spain is most successful in implementing commitments related to Solidarity 
+33,11,1,Calibri,11.0,72.0,551.3,525.9,562.4,"and inclusion (II). However, the country could review and strengthen efforts in areas where the impact "
+33,11,2,Calibri,11.0,72.0,565.9,525.9,576.9,"of digital rights initiatives appears to be limited despite relative activity, notably on Participation in the "
+33,11,3,Calibri,11.0,72.0,580.3,180.4,591.3,digital public space (IV). 
+33,12,0,Calibri,11.0,72.0,602.9,525.8,613.9,"According to the Special Eurobarometer on the ‘Digital Decade’ 2025, 40% of citizens in Spain think "
+33,12,1,Calibri,11.0,72.0,617.4,525.6,628.4,that the EU protects their digital rights well (a 4% increase since 2024). This is below the EU average 
+33,12,2,Calibri,11.0,72.0,631.8,525.9,642.8,of 44%. Citizens are particularly confident about getting an affordable high-speed internet connection 
+33,12,3,Calibri,11.0,72.0,646.3,525.8,657.3,"for everyone in the EU and getting basic and advanced digital education, training and skills (62%, above "
+33,12,4,Calibri,11.0,72.0,660.8,525.6,671.9,the EU average of 57% and 60% respectively). They are most worried that their right to a safe digital 
+33,12,5,Calibri,11.0,72.0,675.3,525.8,686.4,"environment and content for children and young people is not well protected (53%, above the EU "
+33,12,6,Calibri,11.0,72.0,689.7,148.7,700.8,average of 48%). 
+33,13,0,Calibri,11.0,216.1,736.8,218.5,747.8, 
+33,13,1,Calibri,6.0,72.0,749.6,78.1,755.6,14
+33,13,1,Calibri,9.0,78.0,749.8,525.2,758.8," Based on a study to support the Monitoring of the Implementation of the Declaration on Digital Rights and Principles, "
+33,13,2,Calibri,9.0,72.0,760.9,106.1,769.9,available 
+33,13,2,Calibri,9.0,106.1,760.9,122.8,769.9,here
+33,13,2,Calibri,9.0,122.8,760.9,376.9,769.9,". For a more detailed country factsheet accompanying the study, click "
+33,13,2,Calibri,9.0,377.1,760.9,393.7,769.9,here
+33,13,2,Calibri,9.0,393.7,760.9,398.1,769.9,. 
+33,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,30 
+33,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

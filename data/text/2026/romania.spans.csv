@@ -1,0 +1,1666 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.4,269.3,124.2,EUROPEAN
+1,3,0,ArialMT,12.0,269.3,110.9,272.6,124.3, 
+1,3,1,ArialMT,11.5,204.6,124.7,283.3,137.5,COMMISSION 
+1,4,0,ArialMT,12.0,196.7,124.7,200.0,138.1, 
+1,5,0,TimesNewRomanPSMT,12.0,326.9,189.6,427.6,202.8,"Brussels, 17.6.2026  "
+1,5,1,TimesNewRomanPSMT,12.0,326.9,203.4,434.6,216.6,SWD(2026) 155 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.9,229.1,390.9,242.4,PART 23/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.9,254.9,330.9,272.6, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,291.4,432.4,304.7,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,208.1,323.2,391.9,336.4,Digital Decade 2026 country report 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.4,354.9,373.6,368.2,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,107.4,380.7,492.5,393.9,COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN 
+1,11,1,TimesNewRomanPS-BoldMT,12.0,86.1,394.4,513.6,407.7,"PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,137.8,408.3,462.3,421.5,COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+1,13,0,TimesNewRomanPS-BoldMT,12.0,298.5,422.0,301.5,435.3, 
+1,14,0,TimesNewRomanPS-BoldMT,12.0,73.4,447.8,526.3,461.0,State of the Digital Decade 2026: Closing structural gaps and mobilising investments for 
+1,15,0,TimesNewRomanPS-BoldMT,12.0,255.2,461.6,344.9,474.8,2030 and beyond 
+1,16,0,TimesNewRomanPSMT,12.0,110.2,492.9,486.6,506.2,{COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+1,17,0,TimesNewRomanPSMT,12.0,238.8,506.7,361.1,520.0, {SWD(2026) 157 final} 
+1,17,1,TimesNewRomanPSMT,12.0,526.2,510.3,529.2,523.6, 
+1,18,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,18,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,18,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,18,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+2,1,0,Calibri-Bold,11.0,72.0,84.0,74.5,95.1, 
+2,2,0,Calibri-Bold,11.0,72.0,106.5,74.5,117.5, 
+2,3,0,Calibri-Bold,11.0,72.0,129.0,74.5,140.1, 
+2,4,0,Calibri-Bold,11.0,72.0,151.5,74.5,162.5, 
+2,5,0,Calibri-Bold,11.0,72.0,173.9,74.5,184.9, 
+2,6,0,Calibri-Bold,11.0,72.0,196.5,74.5,207.5, 
+2,7,0,Calibri-Bold,11.0,72.0,218.9,74.5,229.9, 
+2,8,0,Calibri-Bold,11.0,72.0,241.5,74.5,252.5, 
+2,9,0,Calibri-Bold,11.0,72.0,263.9,74.5,275.0, 
+2,10,0,Calibri-Bold,11.0,72.0,286.4,74.5,297.4, 
+2,11,0,Calibri-Bold,36.0,123.1,199.6,377.2,235.6,DIGITAL DECADE 
+2,11,1,Calibri-Bold,36.0,123.1,239.6,405.0,275.6,COUNTRY REPORT 
+2,11,2,Calibri-Bold,36.0,123.1,279.6,204.3,315.6,2026 
+2,12,0,Calibri-Bold,11.0,72.0,308.9,77.0,320.0,  
+2,13,0,Calibri-Bold,28.0,196.0,355.5,304.9,383.5,Romania 
+2,14,0,Calibri-Bold,11.0,72.0,331.4,74.5,342.4, 
+2,14,1,Calibri-Bold,11.0,72.0,345.9,74.5,356.9, 
+2,14,2,Calibri-Bold,24.0,72.0,363.0,77.4,387.0, 
+2,15,0,Calibri,11.0,72.0,400.0,74.5,411.1, 
+2,16,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+3,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+3,3,0,Calibri,11.0,72.0,109.5,74.5,120.5, 
+3,5,0,Calibri,11.0,72.0,135.9,74.5,146.9, 
+3,6,0,Calibri-Light,16.0,72.0,163.5,133.8,179.4,Contents 
+3,6,1,Calibri,11.0,72.0,183.5,522.9,194.5,Executive summary ................................................................................................................................. 3
+3,6,1,Calibri,12.0,522.8,182.8,525.6,194.8, 
+3,7,0,Calibri,11.0,83.1,202.9,522.9,214.0,Romania in the Digital Decade ............................................................................................................ 4
+3,7,0,Calibri,12.0,522.8,202.2,525.6,214.2, 
+3,8,0,Calibri,11.0,83.1,222.5,522.9,233.5,Funding for digital and multi-country projects ................................................................................... 5
+3,8,0,Calibri,12.0,522.8,221.8,525.6,233.8, 
+3,9,0,Calibri,11.0,83.1,242.0,522.9,253.0,"A competitive, sovereign and resilient EU based on technological leadership .................................. 5"
+3,9,0,Calibri,12.0,522.8,241.2,525.6,253.2, 
+3,10,0,Calibri,11.0,83.1,261.4,522.9,272.5,Protecting and empowering EU people and society ........................................................................... 6
+3,10,0,Calibri,12.0,522.8,260.7,525.6,272.7, 
+3,11,0,Calibri,11.0,83.1,281.0,522.9,292.0,Recommendations .............................................................................................................................. 6
+3,11,0,Calibri,12.0,522.8,280.2,525.6,292.2, 
+3,12,0,Calibri,11.0,72.0,300.4,522.9,311.5,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 7"
+3,12,0,Calibri,12.0,522.8,299.7,525.6,311.7, 
+3,13,0,Calibri,11.0,83.1,320.0,522.9,331.0,Building technological leadership: digital infrastructure and technologies ........................................ 8
+3,13,0,Calibri,12.0,522.8,319.2,525.6,331.2, 
+3,14,0,Calibri,11.0,94.0,339.4,522.9,350.4,Connectivity infrastructure ............................................................................................................. 8
+3,14,0,Calibri,12.0,522.8,338.7,525.6,350.7, 
+3,15,0,Calibri,11.0,94.0,359.0,522.9,370.0,Semiconductors ............................................................................................................................. 11
+3,15,0,Calibri,12.0,522.8,358.2,525.6,370.2, 
+3,16,0,Calibri,11.0,94.0,378.4,522.9,389.4,Edge nodes .................................................................................................................................... 11
+3,16,0,Calibri,12.0,522.8,377.7,525.6,389.7, 
+3,17,0,Calibri,11.0,94.0,397.9,522.9,408.9,Quantum technologies .................................................................................................................. 11
+3,17,0,Calibri,12.0,522.8,397.1,525.6,409.1, 
+3,18,0,Calibri,11.0,83.1,417.4,522.9,428.5,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 12
+3,18,0,Calibri,12.0,522.8,416.7,525.6,428.7, 
+3,19,0,Calibri,11.0,94.0,436.9,522.9,447.9,SMEs with at least basic digital intensity ...................................................................................... 12
+3,19,0,Calibri,12.0,522.8,436.1,525.6,448.1, 
+3,20,0,Calibri,11.0,94.0,456.4,522.9,467.5,Take-up of advanced technologies ................................................................................................ 12
+3,20,0,Calibri,12.0,522.8,455.7,525.6,467.7, 
+3,21,0,Calibri,11.0,94.0,475.9,522.9,486.9,"Unicorns, scale-ups and start-ups ................................................................................................. 14"
+3,21,0,Calibri,12.0,522.8,475.1,525.6,487.1, 
+3,22,0,Calibri,11.0,83.1,495.3,522.9,506.4,Strengthening Cybersecurity & Resilience ........................................................................................ 15
+3,22,0,Calibri,12.0,522.8,494.6,525.6,506.6, 
+3,23,0,Calibri,11.0,72.0,514.9,522.9,525.9,Protecting and empowering EU people and society ............................................................................. 16
+3,23,0,Calibri,12.0,522.8,514.2,525.6,526.2, 
+3,24,0,Calibri,11.0,83.1,534.3,522.9,545.3,Empowering people and bringing the digital transformation closer to their needs ........................ 17
+3,24,0,Calibri,12.0,522.8,533.6,525.6,545.6, 
+3,25,0,Calibri,11.0,94.0,553.9,522.9,564.9,Equipping people with digital skills ............................................................................................... 17
+3,25,0,Calibri,12.0,522.8,553.2,525.6,565.2, 
+3,26,0,Calibri,11.0,94.0,573.3,522.9,584.4,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 21"
+3,26,0,Calibri,12.0,522.8,572.6,525.6,584.6, 
+3,27,0,Calibri,11.0,72.0,592.9,522.9,603.9,Leveraging digital transformation for a smart greening ....................................................................... 26
+3,27,0,Calibri,12.0,522.8,592.2,525.6,604.2, 
+3,28,0,Calibri,11.0,72.0,612.3,522.9,623.4,Annex I – National roadmap analysis .................................................................................................... 28
+3,28,0,Calibri,12.0,522.8,611.6,525.6,623.6, 
+3,29,0,Calibri,11.0,72.0,631.8,522.9,642.8,"Annex II – Funding, economic impacts & Multi-country Projects ......................................................... 29"
+3,29,0,Calibri,12.0,522.8,631.1,525.6,643.1, 
+3,30,0,Calibri,11.0,72.0,651.3,74.5,662.4, 
+3,31,0,Calibri,11.0,72.0,673.8,74.5,684.8, 
+3,31,1,Calibri,11.0,216.1,673.8,218.5,684.8, 
+3,32,0,Calibri,11.0,294.9,781.9,302.9,793.0,1 
+3,32,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri,11.0,72.0,126.3,525.8,137.3,"Romania continues to be an EU leader in connectivity, has strengthened its position in semiconductors "
+4,4,1,Calibri,11.0,72.0,140.8,525.9,151.8,"and is signalling its ambition to become an AI regional leader. However, limited access to finance, "
+4,4,2,Calibri,11.0,72.0,155.2,525.9,166.2,"particularly venture capital, low research and development (R&D) spending and a sluggish digital "
+4,4,3,Calibri,11.0,72.0,169.7,525.8,180.7,"startups ecosystem limit its competitiveness. While digital public services have clearly progressed, the "
+4,4,4,Calibri,11.0,72.0,184.2,525.8,195.3,focus must now shift to delivering value-for-investment for citizens and businesses by meeting their 
+4,4,5,Calibri,11.0,72.0,198.7,525.7,209.8,needs for streamlined administrative procedures and continuously improved services. Despite 
+4,4,6,Calibri,11.0,72.0,213.1,476.2,224.2,"progress, particularly for civil servants, challenges remain in tackling low-level digital skills. "
+4,5,0,Calibri,11.0,72.0,235.7,525.8,246.8,The structural gaps in digital skills and the limited availability of digital public services create a 
+4,5,1,Calibri-Bold,11.0,72.0,250.1,180.5,261.2,competitiveness ceiling
+4,5,1,Calibri,11.0,180.6,250.1,525.7,261.2," for Romania. The efforts in connectivity, AI and semiconductors may be "
+4,5,2,Calibri,11.0,72.0,264.6,525.9,275.7,undermined by a startup sector that struggles to grow in the absence of widespread access to finance 
+4,5,3,Calibri,11.0,72.0,279.2,525.8,290.2,and insufficient stimulation of home-grown innovation. To go from being a regional tech outpost to a 
+4,5,4,Calibri,11.0,72.0,293.7,525.9,304.7,"true digital leader, Romania must bridge the gap between its infrastructure strengths and its ecosystem "
+4,5,5,Calibri,11.0,72.0,308.1,222.5,319.1,"weaknesses. To do this, Romania "
+4,5,5,Calibri-Bold,11.0,223.1,308.1,269.2,319.1,requires a
+4,5,5,Calibri,11.0,269.1,308.1,271.6,319.1, 
+4,5,5,Calibri-Bold,11.0,272.2,308.1,443.8,319.1,comprehensive digitalisation strategy
+4,5,5,Calibri,11.0,443.7,308.1,525.9,319.1, backed by strong 
+4,5,6,Calibri,11.0,72.0,322.6,525.9,333.6,"political will, sustainable post-Recovery and Resilience Facility (RRF) funding, a coherent regulatory "
+4,5,7,Calibri,11.0,72.0,337.1,402.8,348.2,"framework, strong ICT expertise and a well-defined governance structure. "
+4,6,0,Calibri,11.0,72.0,359.6,525.9,370.6,RRF funding has been used to kickstart key high-growth sectors that could help Romania become a 
+4,6,1,Calibri-Bold,11.0,72.0,374.1,102.9,385.1,digital 
+4,6,1,Calibri,11.0,104.8,374.1,525.8,385.1,"leader, such as semiconductors and AI. By modernising universities and creating industrial "
+4,6,2,Calibri,11.0,72.0,388.6,525.6,399.6,"ecosystems linked to the country’s industrial strengths, in particular the auto industry, Romania can "
+4,6,3,Calibri,11.0,72.0,403.1,525.9,414.2,capitalize on key growth opportunities. The upcoming AI factory and planned Black Sea AI gigafactory 
+4,6,4,Calibri,11.0,72.0,417.5,376.4,428.6,could further strengthen Romania’s and the EU’s digital sovereignty. 
+4,7,0,Calibri,11.0,72.0,440.1,525.9,451.1,"With RRF funding winding down, Romania must define its priorities moving forward and make full use "
+4,7,1,Calibri,11.0,72.0,454.6,98.1,465.7,of all 
+4,7,1,Calibri-Bold,11.0,99.9,454.6,134.9,465.7,funding
+4,7,1,Calibri,11.0,134.9,454.6,525.9,465.7," opportunities in the next Multiannual Financial Framework (MFF), in particular the "
+4,7,2,Calibri,11.0,72.0,469.0,463.2,480.1,national and regional partnership plans (NRPPs) and the Digital Leadership instrument.  
+4,8,0,Calibri-Light,15.0,72.0,492.5,255.8,507.5,Romania in the Digital Decade 
+4,9,0,Calibri,11.0,72.0,519.3,525.9,530.3,"Romania shows a low level of ambition in its contribution to the Digital Decade, having set 11 national "
+4,9,1,Calibri,11.0,72.0,533.8,525.9,544.9,"targets (out of 14 possible), 36% of which are in line with the EU 2030 targets. In its national roadmap, "
+4,9,2,Calibri,11.0,72.0,548.3,525.8,559.4,Romania provided 1 trajectory point for 2025 (out of 13 analysed). The country is following it very well 
+4,9,3,Calibri,11.0,72.0,562.8,525.8,573.8,as it is considered on track. Romania addressed 50% of the 8 recommendations issued by the 
+4,9,4,Calibri,11.0,72.0,577.3,525.9,588.3,Commission in 2025 by making some changes through new measures. According to the national 
+4,9,5,Calibri,11.0,72.0,591.8,525.9,602.9,"roadmap, by the end of 2026, 38% of the measures will come to an end. The total public budget for "
+4,9,6,Calibri,11.0,72.0,606.3,525.6,617.4,"these measures is EUR 2.31 billion, representing 64% of the total public budget outlined in the "
+4,9,7,Calibri,11.0,72.0,620.7,117.6,631.8,roadmap. 
+4,10,0,Calibri,11.0,72.0,643.3,525.9,654.3,Romania did not submit an update of its national Digital Decade roadmap in 2025 but is planning to 
+4,10,1,Calibri,11.0,72.0,657.8,525.9,668.9,do so in 2026 to take stock of performance so far and adapt its projections and targets based on 
+4,10,2,Calibri,11.0,72.0,672.2,158.9,683.3,national priorities.  
+4,11,0,Calibri,11.0,72.0,694.8,525.9,705.8,"According to the 2026 Digital Decade Eurobarometer, 59% of Romanian people think that digital policy "
+4,11,1,Calibri,11.0,72.0,709.3,525.9,720.3,should be a high/very high priority for the EU in shaping the future. They also think that in the next 10 
+4,11,2,Calibri,11.0,72.0,723.7,525.8,734.8,years the EU should cooperate with Member States to strengthen cybersecurity and protection from 
+4,11,3,Calibri,11.0,72.0,738.2,525.9,749.3,"online threats (74%), promote digital education and skills programmes (71%) and strengthen the "
+4,11,4,Calibri,11.0,72.0,752.8,525.9,763.8,"regulation of online platforms (71%). In addition, 64% of Romanian respondents think that the EU "
+4,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,2 
+4,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+5,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"should reduce its dependencies on digital from non-EU countries, and 69% agree that it should "
+5,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,prioritise investments in digital infrastructure and services developed and controlled in Europe. 
+5,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"Meanwhile, 49% would be willing to switch to an EU-based digital service provider even if it means "
+5,3,3,Calibri,11.0,72.0,127.5,164.8,138.5,slightly higher costs. 
+5,4,0,Calibri-Light,15.0,72.0,150.8,347.9,165.8,Funding for digital and multi-country projects 
+5,5,0,Calibri,11.0,72.0,177.7,525.9,188.8,Romania allocates 21% of its total recovery and resilience plan to digital (EUR 4.5 billion). Under 
+5,5,1,Calibri,11.0,72.0,192.1,525.9,203.2,"cohesion policy, EUR 3.2 billion, representing 10% of the country’s total cohesion policy funding, is also "
+5,5,2,Calibri,11.0,72.0,206.7,330.5,217.7,dedicated to advancing Romania’s digital transformation.  
+5,6,0,Calibri,11.0,72.0,229.2,525.6,240.3,Romania is a member of the EUROPEUM EDIC. Romania is directly participating in the IPCEI on 
+5,6,1,Calibri,11.0,72.0,243.6,525.8,254.7,Microelectronics and Communication Technologies (IPCEI-ME/CT). Romania is also a participating 
+5,6,2,Calibri,11.0,72.0,258.2,358.0,269.2,state in the EuroHPC Joint Undertaking (JU) and of the Chips JU. 
+5,7,0,Calibri,11.0,253.0,281.2,294.6,292.2,Romania 
+5,7,1,Calibri,12.0,353.5,281.5,356.2,293.5, 
+5,7,2,Calibri,12.0,408.9,281.5,422.5,293.5,EU
+5,7,2,Calibri,11.0,422.5,282.2,425.0,293.2, 
+5,7,3,Calibri,8.0,466.5,280.7,515.0,288.7,Digital Decade 
+5,7,4,Calibri,8.0,466.3,291.1,513.5,299.2,target by 2030
+5,7,4,Calibri,11.0,513.4,288.9,515.9,299.9, 
+5,8,0,Calibri-Bold,8.0,467.9,303.3,477.7,311.3,RO
+5,8,0,Calibri,11.0,477.7,301.0,480.2,312.0, 
+5,8,1,Calibri-Bold,8.0,501.5,303.3,510.7,311.3,EU
+5,8,1,Calibri,11.0,510.6,301.0,513.1,312.0, 
+5,9,0,Calibri,14.0,77.7,302.6,180.6,316.6,Digital Decade KPI
+5,9,0,Calibri,12.0,180.5,304.1,183.2,316.1, 
+5,9,0,Calibri,8.0,183.3,303.1,192.2,311.2,(1)
+5,9,0,Calibri,11.0,192.2,304.9,194.7,315.9, 
+5,10,0,Calibri,8.0,223.0,303.4,244.1,311.4,Latest 
+5,10,1,Calibri,8.0,218.4,313.9,248.7,322.0,available 
+5,11,0,Calibri,8.0,339.8,303.4,369.0,311.4,National 
+5,11,1,Calibri,8.0,337.6,313.9,371.1,322.0,trajectory 
+5,12,0,Calibri,8.0,300.1,303.4,324.8,311.4,Annual 
+5,12,1,Calibri,8.0,297.7,313.8,325.4,321.9,progress
+5,12,1,Calibri,11.0,325.4,311.6,327.9,322.6, 
+5,13,0,Calibri,8.0,380.1,303.3,414.6,311.3,DESI 2026 
+5,13,0,Calibri,11.0,414.5,301.0,417.0,312.0, 
+5,13,1,Calibri,8.0,426.0,303.4,450.7,311.4,Annual 
+5,13,2,Calibri,8.0,423.6,313.8,451.3,321.9,progress
+5,13,2,Calibri,11.0,451.3,311.6,453.8,322.6, 
+5,14,0,Calibri,8.0,340.0,324.4,368.7,332.4,2025 (3) 
+5,15,0,Calibri,8.0,220.1,324.4,245.2,332.4,data (2)
+5,15,0,Calibri,11.0,245.2,322.1,247.7,333.2, 
+5,16,0,Calibri,8.0,264.4,303.4,280.7,311.4,DESI 
+5,16,1,Calibri,8.0,263.5,313.9,281.6,322.0,2026 
+5,16,2,Calibri,8.0,263.3,324.5,281.7,332.5,(year 
+5,16,3,Calibri,8.0,262.4,334.8,281.1,342.9,2025)
+5,16,3,Calibri,11.0,281.0,332.6,283.5,343.6, 
+5,17,0,Calibri,7.0,224.0,350.6,242.9,357.6,95.9% 
+5,17,1,Calibri,7.0,263.0,350.6,281.9,357.6,96.5% 
+5,17,2,Calibri,7.0,304.5,350.6,320.0,357.6,0.6% 
+5,17,3,Calibri,7.0,351.5,350.6,358.4,357.6, -  
+5,17,4,Calibri,7.0,387.7,350.6,406.7,357.6,85.5% 
+5,17,5,Calibri,7.0,430.5,350.6,446.0,357.6,3.7% 
+5,17,6,Calibri,7.0,463.3,350.6,482.2,357.6,99.0% 
+5,17,6,Calibri,11.0,482.3,347.6,484.8,358.6, 
+5,17,7,Calibri,7.0,498.2,350.6,515.4,357.6,100% 
+5,18,0,Calibri,8.0,77.7,349.1,186.0,357.1,Fixed very high-capacity network 
+5,18,1,Calibri,8.0,77.7,359.5,134.2,367.6,(VHCN) coverage 
+5,19,0,Calibri,8.0,77.7,371.1,201.7,379.1,Fibre to the premises (FTTP) coverage 
+5,19,1,Calibri,7.0,224.0,371.6,242.9,378.6,95.7% 
+5,19,2,Calibri,7.0,263.0,371.6,281.9,378.6,96.3% 
+5,19,3,Calibri,7.0,304.5,371.6,320.0,378.6,0.5% 
+5,19,4,Calibri,7.0,351.5,371.6,358.4,378.6, -  
+5,19,5,Calibri,7.0,387.7,371.6,406.7,378.6,74.1% 
+5,19,6,Calibri,7.0,430.5,371.6,446.0,378.6,7.1% 
+5,19,7,Calibri,7.0,463.3,371.6,483.8,378.6,99.0%  
+5,19,8,Calibri,7.0,504.9,371.6,508.7,378.6,- 
+5,20,0,Calibri,8.0,77.7,391.1,137.9,399.1,Basic 5G coverage 
+5,20,1,Calibri,7.0,224.0,391.1,242.9,398.0,46.8% 
+5,20,2,Calibri,7.0,263.0,391.1,281.9,398.0,59.3% 
+5,20,3,Calibri,7.0,302.8,391.1,321.8,398.0,26.8% 
+5,20,4,Calibri,7.0,344.0,391.1,366.2,398.0, 38.0%  
+5,20,5,Calibri,7.0,387.7,391.1,406.7,398.0,96.8% 
+5,20,6,Calibri,7.0,430.5,391.1,446.0,398.0,2.6% 
+5,20,7,Calibri,7.0,463.3,391.1,483.8,398.0,62.0%  
+5,20,8,Calibri,7.0,498.2,391.1,515.4,398.0,100% 
+5,21,0,Calibri,7.0,230.8,406.9,236.1,413.9, - 
+5,21,1,Calibri,7.0,266.3,406.9,278.6,413.9,252 
+5,21,2,Calibri,7.0,311.5,406.9,313.0,413.9, 
+5,21,3,Calibri,7.0,352.4,405.4,356.1,412.3,- 
+5,21,4,Calibri,7.0,388.5,406.9,405.8,413.9,7 451 
+5,21,5,Calibri,7.0,437.5,406.9,439.1,413.9, 
+5,21,6,Calibri,7.0,471.7,406.9,475.4,413.9,- 
+5,21,7,Calibri,7.0,496.4,406.9,517.3,413.9,10 000 
+5,22,0,Calibri,8.0,77.7,405.5,166.8,413.6,"Edge nodes (estimate, new "
+5,22,1,Calibri,8.0,77.7,416.0,125.2,424.0,methodology) 
+5,23,0,Calibri,7.0,224.0,428.4,242.9,435.4,26.8% 
+5,23,1,Calibri,7.0,263.0,428.4,281.9,435.4,44.3% 
+5,23,2,Calibri,7.0,302.8,428.4,321.8,435.4,28.7% 
+5,23,3,Calibri,7.0,352.4,426.2,356.1,433.2,- 
+5,23,4,Calibri,7.0,387.7,426.2,406.7,433.2,71.4% 
+5,23,5,Calibri,7.0,428.7,426.2,447.7,433.2,11.0% 
+5,23,6,Calibri,7.0,463.3,428.4,483.8,435.4,75.0%  
+5,23,7,Calibri,7.0,500.0,428.4,513.7,435.4,90% 
+5,24,0,Calibri,8.0,77.7,426.4,187.8,434.4,SMEs with at least a basic level of 
+5,24,1,Calibri,8.0,77.7,436.8,129.2,444.9,digital intensity 
+5,25,0,Calibri,8.0,77.7,448.2,102.2,456.3,Cloud* 
+5,25,1,Calibri,7.0,223.2,448.2,243.8,455.2,15.5%  
+5,25,2,Calibri,7.0,263.0,448.2,281.9,455.2,22.1% 
+5,25,3,Calibri,7.0,302.8,448.2,321.8,455.2,19.4% 
+5,25,4,Calibri,7.0,352.4,448.2,356.1,455.2,- 
+5,25,5,Calibri,7.0,387.7,448.2,406.7,455.2,46.7% 
+5,25,6,Calibri,7.0,430.5,448.2,446.0,455.2,9.5% 
+5,25,7,Calibri,7.0,463.3,448.2,483.8,455.2,40.0%  
+5,25,8,Calibri,7.0,500.0,448.2,513.7,455.2,75% 
+5,26,0,Calibri,8.0,77.7,462.5,145.7,470.6,Artificial Intelligence 
+5,26,1,Calibri,7.0,224.9,462.5,242.0,469.4,3.1%  
+5,26,2,Calibri,7.0,264.6,462.5,280.1,469.4,5.2% 
+5,26,3,Calibri,7.0,302.8,462.5,321.8,469.4,69.7% 
+5,26,4,Calibri,7.0,352.4,462.5,356.1,469.4,- 
+5,26,5,Calibri,7.0,387.7,462.5,406.7,469.4,20.0% 
+5,26,6,Calibri,7.0,428.7,462.5,447.7,469.4,48.0% 
+5,26,7,Calibri,7.0,463.3,462.5,483.8,469.4,10.0%  
+5,26,8,Calibri,7.0,500.0,462.5,513.7,469.4,75% 
+5,27,0,Calibri,8.0,77.7,476.7,128.7,484.7,Data analytics* 
+5,27,1,Calibri,7.0,223.2,476.6,243.8,483.6,21.9%  
+5,27,2,Calibri,7.0,263.0,476.6,281.9,483.6,35.1% 
+5,27,3,Calibri,7.0,302.8,476.6,321.8,483.6,26.6% 
+5,27,4,Calibri,7.0,352.4,476.6,356.1,483.6,- 
+5,27,5,Calibri,7.0,387.7,476.6,406.7,483.6,39.9% 
+5,27,6,Calibri,7.0,430.5,476.6,446.0,483.6,9.5% 
+5,27,7,Calibri,7.0,463.3,476.6,483.8,483.6,15.0%  
+5,27,8,Calibri,7.0,500.0,476.6,513.7,483.6,75% 
+5,28,0,Calibri,8.0,77.7,490.8,175.4,498.9,AI or Cloud or Data analytics* 
+5,28,1,Calibri,7.0,223.2,490.8,243.8,497.8,28.7%  
+5,28,2,Calibri,7.0,263.0,490.8,281.9,497.8,43.6% 
+5,28,3,Calibri,7.0,302.8,490.8,321.8,497.8,23.1% 
+5,28,4,Calibri,7.0,352.4,490.8,356.1,497.8,- 
+5,28,5,Calibri,7.0,387.7,490.8,406.7,497.8,63.2% 
+5,28,6,Calibri,7.0,430.5,490.8,446.0,497.8,7.5% 
+5,28,7,Calibri,7.0,471.7,490.8,475.4,497.8,- 
+5,28,8,Calibri,7.0,500.0,490.8,513.7,497.8,75% 
+5,29,0,Calibri,8.0,77.7,505.1,108.3,513.2,Unicorns 
+5,29,1,Calibri,7.0,230.1,505.1,236.8,512.0,0  
+5,29,2,Calibri,7.0,269.8,505.1,275.0,512.0,0 
+5,29,3,Calibri,7.0,311.5,505.1,313.0,512.0, 
+5,29,4,Calibri,7.0,352.4,505.1,356.1,512.0,- 
+5,29,5,Calibri,7.0,391.0,505.1,403.3,512.0,324 
+5,29,6,Calibri,7.0,428.7,505.1,447.7,512.0,10.2% 
+5,29,7,Calibri,7.0,471.7,505.1,475.4,512.0,- 
+5,29,8,Calibri,7.0,500.7,505.1,513.0,512.0,500 
+5,30,0,Calibri,8.0,77.7,519.3,164.8,527.3,At least basic digital skills* 
+5,30,1,Calibri,7.0,223.2,519.2,243.8,526.2,27.7%  
+5,30,2,Calibri,7.0,263.0,519.2,281.9,526.2,31.8% 
+5,30,3,Calibri,7.0,304.5,519.2,320.0,526.2,7.2% 
+5,30,4,Calibri,7.0,352.4,519.2,356.1,526.2,- 
+5,30,5,Calibri,7.0,387.7,519.2,406.7,526.2,60.4% 
+5,30,6,Calibri,7.0,430.5,519.2,446.0,526.2,4.3% 
+5,30,7,Calibri,7.0,463.3,519.2,483.8,526.2,50.0%  
+5,30,8,Calibri,7.0,500.0,519.2,513.7,526.2,80% 
+5,31,0,Calibri,8.0,77.7,533.4,124.4,541.5,ICT specialists 
+5,31,1,Calibri,7.0,224.9,533.4,242.0,540.4,2.8%  
+5,31,2,Calibri,7.0,267.2,533.4,277.6,540.4,2.7 
+5,31,3,Calibri,7.0,303.5,533.4,321.1,540.4,-3.6% 
+5,31,4,Calibri,7.0,352.4,533.4,356.1,540.4,- 
+5,31,5,Calibri,7.0,389.5,533.4,405.0,540.4,5.0% 
+5,31,6,Calibri,7.0,430.5,533.4,446.0,540.4,2.0% 
+5,31,7,Calibri,7.0,465.1,533.4,482.2,540.4,4.0%  
+5,31,8,Calibri,7.0,498.2,533.4,515.4,540.4,~10% 
+5,32,0,Calibri,8.0,77.7,547.7,158.0,555.8,e ID scheme notification 
+5,32,1,Calibri,7.0,231.2,547.7,235.9,554.6,   
+5,32,2,Calibri,7.0,267.0,547.7,277.7,554.6,Yes 
+5,32,3,Calibri,7.0,311.5,547.7,313.0,554.6, 
+5,32,4,Calibri,7.0,353.5,547.7,355.0,554.6, 
+5,32,5,Calibri,7.0,396.4,547.7,398.0,554.6, 
+5,32,6,Calibri,7.0,437.5,547.7,439.1,554.6, 
+5,32,7,Calibri,7.0,471.7,547.7,475.4,554.6,- 
+5,32,8,Calibri,7.0,506.0,547.7,507.6,554.6, 
+5,33,0,Calibri,8.0,77.7,561.9,186.2,569.9,Digital public services for citizens 
+5,33,1,Calibri,7.0,225.6,561.9,241.3,568.8,62.7  
+5,33,2,Calibri,7.0,265.5,561.9,279.4,568.8,64.2 
+5,33,3,Calibri,7.0,304.5,561.9,320.0,568.8,2.4% 
+5,33,4,Calibri,7.0,352.4,561.9,356.1,568.8,- 
+5,33,5,Calibri,7.0,390.2,561.9,404.2,568.8,84.6 
+5,33,6,Calibri,7.0,430.5,561.9,446.0,568.8,2.8% 
+5,33,7,Calibri,7.0,464.0,561.9,483.1,568.8,100.0  
+5,33,8,Calibri,7.0,500.7,561.9,513.0,568.8,100 
+5,34,0,Calibri,8.0,77.7,576.1,197.1,584.1,Digital public services for businesses 
+5,34,1,Calibri,7.0,225.6,576.0,241.3,583.0,55.1  
+5,34,2,Calibri,7.0,265.5,576.0,279.4,583.0,66.8 
+5,34,3,Calibri,7.0,302.8,576.0,321.8,583.0,21.2% 
+5,34,4,Calibri,7.0,352.4,576.0,356.1,583.0,- 
+5,34,5,Calibri,7.0,390.2,576.0,404.2,583.0,88.6 
+5,34,6,Calibri,7.0,430.5,576.0,446.0,583.0,2.7% 
+5,34,7,Calibri,7.0,464.0,576.0,483.1,583.0,100.0  
+5,34,8,Calibri,7.0,500.7,576.0,513.0,583.0,100 
+5,35,0,Calibri,8.0,77.7,590.3,164.8,598.4,Access to e-health records 
+5,35,1,Calibri,7.0,225.6,590.3,241.3,597.3,75.1  
+5,35,2,Calibri,7.0,265.5,590.3,279.4,597.3,75.1 
+5,35,3,Calibri,7.0,304.5,590.3,320.0,597.3,0.0% 
+5,35,4,Calibri,7.0,352.4,590.3,356.1,597.3,- 
+5,35,5,Calibri,7.0,390.2,590.3,404.2,597.3,86.5 
+5,35,6,Calibri,7.0,430.5,590.3,446.0,597.3,4.6% 
+5,35,7,Calibri,7.0,471.7,590.3,475.4,597.3,- 
+5,35,8,Calibri,7.0,500.7,590.3,513.0,597.3,100 
+5,36,0,Calibri,6.0,78.1,605.3,84.8,611.3,(1)
+5,36,0,Calibri,9.0,84.7,605.6,86.8,614.6, 
+5,36,0,Calibri,8.0,86.8,606.3,266.8,614.3,"Indicators full description, metadata and sources in the "
+5,36,0,Calibri,8.0,266.8,606.3,368.5,614.3,DESI 2026 methodological note
+5,36,0,Calibri,8.0,368.5,606.3,370.3,614.3, 
+5,36,1,Calibri,5.0,78.1,616.0,84.9,621.0,(2) 
+5,36,1,Calibri,8.0,85.0,616.3,499.1,624.3,Last available data is DESI 2025 (ref year 2024) except for indicators marked with a star for which it is DESI 2024 (ref year 2023) 
+5,36,2,Calibri,5.0,78.1,625.7,83.7,630.8,(3)
+5,36,2,Calibri,8.0,83.8,626.0,389.9,634.0," National trajectory value for 2025, if set by the country in its Digital Decade national roadmap"
+5,36,2,Calibri,9.0,390.1,625.3,392.1,634.3, 
+5,36,3,Calibri,11.0,72.0,637.2,74.5,648.2, 
+5,37,0,Calibri-Light,15.0,72.0,660.5,526.8,675.5,"A competitive, sovereign and resilient EU based on technological leadership "
+5,38,0,Calibri,11.0,72.0,687.3,259.7,698.4,Romania remains an EU leader in terms of 
+5,38,0,Calibri-Bold,11.0,259.4,687.3,315.1,698.4,connectivity
+5,38,0,Calibri,11.0,315.1,687.3,525.9,698.4,", ranking first in the EU for fibre to the premises "
+5,38,1,Calibri,11.0,72.0,701.9,525.9,712.9,(FTTP) coverage for both businesses and consumers. Despite very strong year-on-year growth in 5G 
+5,38,2,Calibri,11.0,72.0,716.4,525.8,727.4,"connectivity, Romania continues to rank last in the EU. More could be done to showcase how 5G "
+5,38,3,Calibri,11.0,72.0,730.9,409.2,742.0,connectivity could support manufacturing businesses and B2B interactions. 
+5,39,0,Calibri,11.0,294.9,781.9,302.9,793.0,3 
+5,39,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+6,2,0,Calibri,11.0,72.0,84.0,302.1,95.1,Romania has continued to strengthen its position in 
+6,2,0,Calibri-Bold,11.0,301.9,84.0,392.4,95.1,critical technologies
+6,2,0,Calibri,11.0,392.5,84.0,525.9,95.1,. It is participating in the IPCEI 
+6,2,1,Calibri,11.0,72.0,98.4,525.6,109.5,"on microelectronics and communication technologies. Additionally, Romania will host an AI factory "
+6,2,2,Calibri,11.0,72.0,112.9,296.4,124.0,and has submitted a bid to host an AI gigafactory.  
+6,4,0,Calibri,11.0,72.0,135.5,248.7,146.5,Romania does not have an ICT or digital 
+6,4,0,Calibri-Bold,11.0,248.3,135.5,283.1,146.5,unicorn
+6,4,0,Calibri,11.0,283.0,135.5,525.9,146.5,. Its startup ecosystem struggles with access to finance 
+6,4,1,Calibri,11.0,72.0,149.9,525.9,160.9,"and the availability of risk capital. The country has a high ICT potential, which could benefit from "
+6,4,2,Calibri,11.0,72.0,164.4,525.9,175.5,further removal of legislative and administrative obstacles that affect rapid business development and 
+6,4,3,Calibri,11.0,72.0,178.9,127.3,190.0,innovation.  
+6,5,0,Calibri-Light,15.0,72.0,202.2,379.5,217.2,Protecting and empowering EU people and society 
+6,6,0,Calibri,11.0,72.0,229.2,287.9,240.3,Romania has invested considerable resources in 
+6,6,0,Calibri-Bold,11.0,288.2,229.2,406.6,240.3,digitalising public services
+6,6,0,Calibri,11.0,406.8,229.2,525.8,240.3,", so far focusing mostly on "
+6,6,1,Calibri,11.0,72.0,243.6,525.9,254.7,securing the necessary hardware and data centres needed for the governmental cloud. Good progress 
+6,6,2,Calibri,11.0,72.0,258.2,525.9,269.2,"has been made on eID, digital signatures and improving overall digital interactions with the state. Next "
+6,6,3,Calibri,11.0,72.0,272.7,525.9,283.7,"Romania must show what this high level of investment was for, by providing clear, easy-to-use digital "
+6,6,4,Calibri,11.0,72.0,287.2,237.5,298.2,services for companies and people. 
+6,6,4,Calibri-Bold,11.0,239.0,287.2,496.5,298.2,Digitalisation of the health sector remains problematic
+6,6,4,Calibri,11.0,496.5,287.2,525.9,298.2,. New 
+6,6,5,Calibri,11.0,72.0,301.6,525.7,312.6,initiatives to digitise the activity of the Health Ministry and launch an upgraded health insurance 
+6,6,6,Calibri,11.0,72.0,316.1,530.9,327.2,"platform are promising. These are much needed developments, as the sector lags significantly behind.   "
+6,7,0,Calibri,11.0,72.0,338.6,348.3,349.6,"Despite progress, Romania continues to rank last in the EU for "
+6,7,0,Calibri-Bold,11.0,348.2,338.6,426.3,349.6,basic digital skills
+6,7,0,Calibri,11.0,426.5,338.6,525.9,349.6,. Measures have been 
+6,7,1,Calibri,11.0,72.0,352.0,525.9,363.0,"put in place to increase the advanced digital skills of public sector employees. However, support for "
+6,7,2,Calibri,11.0,72.0,365.4,508.2,376.5,people already employed by the private sector remains limited. Romania has a high number of 
+6,7,2,Calibri-Bold,11.0,509.3,365.4,525.9,376.5,ICT 
+6,7,3,Calibri-Bold,11.0,72.0,378.9,117.1,389.9,graduates
+6,7,3,Calibri,11.0,117.1,378.9,525.9,389.9, but continues to struggle with talent retention. The public sector struggles in engaging with 
+6,7,4,Calibri,11.0,72.0,392.3,525.9,403.4,the high level of ICT talent in the country. More could be done to encourage flexible cooperation 
+6,7,5,Calibri,11.0,72.0,405.8,432.3,416.8,"between public and private sectors, including for upskilling and lifelong learning. "
+6,7,6,Calibri,11.0,72.0,419.2,74.5,430.3, 
+6,8,0,Calibri-Bold,15.0,77.7,434.0,193.9,449.0,Recommendations
+6,8,0,Calibri-Bold,11.0,194.0,437.0,196.5,448.0, 
+6,8,0,Calibri-Light,15.0,196.4,434.0,199.8,449.0, 
+6,9,0,Calibri-Bold,11.0,77.7,460.9,192.1,471.9,Digital public services: 
+6,9,0,Calibri,11.0,197.4,460.9,520.3,471.9,establish a unified multicloud ecosystem by interconnecting the 
+6,9,1,Calibri-Bold,11.0,77.7,475.4,174.4,486.4,Governmental cloud
+6,9,1,Calibri,11.0,174.4,475.4,391.3,486.4, and sectorial cloud infrastructures. To fully 
+6,9,1,Calibri-Bold,11.0,395.1,475.4,520.3,486.4,implement the once-only 
+6,9,2,Calibri-Bold,11.0,77.7,489.9,117.6,500.9,principle
+6,9,2,Calibri,11.0,117.6,489.9,520.1,500.9,", the National Platform for Interoperability must be operationalized to facilitate seamless "
+6,9,3,Calibri,11.0,77.7,504.4,520.3,515.5,data exchange across state applications. Leverage ROePAS as the primary access point under the 
+6,9,4,Calibri,11.0,77.7,518.8,520.2,529.9,Single Digital Gateway Regulation. Launch the Governmental cloud marketplace in order to leverage 
+6,9,5,Calibri,11.0,77.7,533.3,430.4,544.4,agile private solutions to address public service needs. It should develop the 
+6,9,5,Calibri-Bold,11.0,431.4,533.3,520.2,544.4,national EU Digital 
+6,9,6,Calibri-Bold,11.0,77.7,547.9,184.6,558.9,Identity wallet solution
+6,9,6,Calibri,11.0,184.6,547.9,323.9,558.9, and should expand the use of 
+6,9,6,Calibri-Bold,11.0,324.4,547.9,466.2,558.9,advanced electronic signatures
+6,9,6,Calibri,11.0,466.2,547.9,520.3,558.9, for citizens 
+6,9,7,Calibri,11.0,77.7,562.4,520.2,573.5,and especially SMEs for non-fiscal administrative procedures. These foundational infrastructures 
+6,9,8,Calibri,11.0,77.7,576.8,520.2,587.9,"should be leveraged to further digitalise key sectoral domains, including tax administration, business "
+6,9,9,Calibri,11.0,77.7,591.3,201.1,602.4,"licensing, and the judiciary. "
+6,10,0,Calibri-Bold,11.0,77.7,613.9,120.9,624.9,E-health: 
+6,10,0,Calibri,11.0,121.9,613.9,520.2,624.9,Adopt the national strategy for digital health and turn it into legally binding measures. 
+6,10,1,Calibri,11.0,77.7,628.3,520.3,639.3,"Operationalise and adequately fund the modernised national health insurance platform (PIAS), "
+6,10,2,Calibri,11.0,77.7,642.8,520.3,653.9,develop a mobile application to access e-health records and establish incentives to increase the use 
+6,10,3,Calibri,11.0,77.7,657.3,520.3,668.4,"of digital solutions in healthcare, ensuring equitable access across different socio-economic "
+6,10,4,Calibri,11.0,77.7,671.9,520.3,682.9,backgrounds. Make additional types of data available and improve authentication methods using a 
+6,10,5,Calibri,11.0,77.7,686.3,520.2,697.3,compliant eID solution. Support participation in the Network of AI-Powered Advanced Medical 
+6,10,6,Calibri,11.0,77.7,700.8,520.1,711.8,"Centres, for example, by establishing co-funding schemes for piloting and deploying AI solutions in "
+6,10,7,Calibri,11.0,77.7,715.3,378.5,726.3,"clinical environments, in line with existing measures in the national "
+6,10,7,Calibri,11.0,378.5,715.3,426.9,726.3,AI Strategy
+6,10,7,Calibri,11.0,426.2,715.3,431.4,726.3,. 
+6,11,0,Calibri-Bold,11.0,77.7,737.8,100.6,748.8,Skills
+6,11,0,Calibri,11.0,100.7,737.8,133.8,748.8,: Boost 
+6,11,0,Calibri-Bold,11.0,133.6,737.8,211.4,748.8,basic digital skills
+6,11,0,Calibri,11.0,211.5,737.8,520.2,748.8," as a core component of the education process, both for teachers and "
+6,11,1,Calibri,11.0,77.7,752.3,520.3,763.3,students. Do more to train teachers on integrating digital tools in teaching practices and explore 
+6,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,4 
+6,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+7,3,0,Calibri,11.0,77.7,84.5,520.3,95.5,ways of rewarding those who do using the teacher evaluation system. Continue the digital upskilling 
+7,3,1,Calibri,11.0,77.7,99.0,520.2,110.1,"of public sector employees and make adult learning, particularly of employees in the private sector "
+7,3,2,Calibri,11.0,77.7,113.4,520.3,124.5,"and older people, a policy priority. In this respect, Romania could look into the possibility of directly "
+7,3,3,Calibri,11.0,77.7,127.9,520.1,139.0,"rewarding employees by means of individual learning accounts, linked to the digital wallet, with "
+7,3,4,Calibri,11.0,77.7,142.5,520.1,153.5,training possible only with providers certified under the Romanian Digital Competence Framework 
+7,3,5,Calibri,11.0,77.7,157.0,188.5,168.0,(DigCompRo). To retain 
+7,3,5,Calibri-Bold,11.0,191.1,157.0,356.6,168.0,"skilled ICT workers and graduates,"
+7,3,5,Calibri,11.0,356.6,157.0,520.3,168.0, ramp up dual pathway university 
+7,3,6,Calibri,11.0,77.7,171.4,495.9,182.4,"degrees, including by incorporating R&D into European Credit Transfer System (ECTS) credits.  "
+7,4,0,Calibri-Bold,11.0,77.7,193.9,207.0,205.0,Digitalisation of businesses
+7,4,0,Calibri,11.0,207.2,193.9,410.7,205.0,: further strengthen support to innovative 
+7,4,0,Calibri-Bold,11.0,413.7,193.9,517.8,205.0,startups and scaleups
+7,4,0,Calibri,11.0,517.8,193.9,520.3,205.0, 
+7,4,1,Calibri,11.0,77.7,208.5,520.3,219.5,through Startup Nation and the new Innovation Romania Holding Fund. Actively involve 
+7,4,2,Calibri,11.0,77.7,222.9,520.2,233.9,stakeholders in defining the financing priorities and performance-based milestones that will be used 
+7,4,3,Calibri,11.0,77.7,237.4,520.3,248.4,to measure performance under the next MFF. Identify ways of rewarding Romanian intellectual 
+7,4,4,Calibri,11.0,77.7,251.9,520.3,263.0,property (IP)solutions. Leverage Romanian European Digital Innovation Hubs (EDIH)’s capabilities to 
+7,4,5,Calibri,11.0,77.7,266.4,487.0,277.5,increase the digital maturity of local and regional SMEs. Define clear institutional roles in 
+7,4,5,Calibri-Bold,11.0,488.0,266.4,497.6,277.5,AI
+7,4,5,Calibri,11.0,497.6,266.4,520.3,277.5, and 
+7,4,6,Calibri,11.0,77.7,280.9,520.3,291.9,leverage the upcoming AI factory and the potential AI gigafactory to pivot from outsourcing to home 
+7,4,7,Calibri,11.0,77.7,295.4,508.0,306.4,grown players that use AI to provide industrial scale solutions in key economic areas of strength. 
+7,5,0,Calibri-Bold,11.0,77.7,317.9,140.0,329.0,Cybersecurity
+7,5,0,Calibri,11.0,140.1,317.9,520.2,329.0,": Provide support for all relevant entities, such as specific guidance or dedicated ICT "
+7,5,1,Calibri,11.0,77.7,332.3,520.1,343.4,"platforms and automation tools, to ensure that cybersecurity rules are applied consistently across "
+7,5,2,Calibri,11.0,77.7,346.8,520.1,357.9,all sectors. Focus on helping digital public services and SMEs adopt cybersecurity measures that are 
+7,5,3,Calibri,11.0,77.7,361.4,183.4,372.4,effective and balanced. 
+7,6,0,Calibri-Bold,11.0,77.7,383.8,90.3,394.9,5G
+7,6,0,Calibri,11.0,90.3,383.8,520.3,394.9,: embed 5G regional and local connectivity targets in the new national and regional partnership 
+7,6,1,Calibri,11.0,77.7,398.3,520.3,409.4,"plans (NRPPs). Focus on increasing 5G coverage, including in the 3.4-3.8GHz band, and spectrum "
+7,6,2,Calibri,11.0,77.7,412.9,520.3,423.9,"assignment, subject to market demands and investment envelopes. Uphold commitments to phase "
+7,6,3,Calibri,11.0,77.7,427.3,520.3,438.3,out fiscal burdens on telecom operators and make information on local construction works 
+7,6,4,Calibri,11.0,77.7,441.8,520.3,452.8,permitting more transparent (by setting up a digital permitting portal for example). Promote the 
+7,6,5,Calibri,11.0,77.7,456.3,496.4,467.4,deployment of 5G standalone networks while identifying ways of stimulating demand for 5G.  
+7,7,0,Calibri,11.0,72.0,479.2,74.5,490.3, 
+7,8,0,Calibri,11.0,72.0,506.7,74.5,517.8, 
+7,9,0,Calibri,11.0,72.0,534.2,74.5,545.2, 
+7,9,1,Calibri,11.0,216.1,534.2,218.5,545.2, 
+7,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,5 
+7,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Light,15.0,72.0,161.3,509.7,176.3,Building technological leadership: digital infrastructure and technologies 
+8,5,0,Calibri-Light,12.0,72.0,188.5,203.2,200.5,Connectivity infrastructure 
+8,6,0,Calibri-LightItalic,11.0,72.0,206.1,186.3,217.1,Performance assessment  
+8,6,1,Calibri-Bold,11.0,72.0,220.6,525.9,231.6,"Romania achieved a coverage rate of 96.45% for very high-capacity networks (VHCN) in 2025, higher "
+8,6,2,Calibri-Bold,11.0,72.0,235.0,346.6,246.0,"than the EU’s 85.54%, with an increase of 0.6% from 2024. "
+8,6,2,Calibri,11.0,347.4,235.0,525.8,246.0,Romania clearly outperforms the EU in 
+8,6,3,Calibri,11.0,72.0,249.5,525.9,260.6,"VHCN coverage in sparsely populated areas, with 94.21% in 2025 (EU 66.66%). Romania increased its "
+8,6,4,Calibri,11.0,72.0,264.0,241.6,275.1,coverage by 0.6% compared to 2024.  
+8,7,0,Calibri-Bold,11.0,72.0,286.5,525.8,297.5,"Romania’s fibre-to-the-premises (FTTP) coverage has increased to 96.25% (+0.5% since 2024), "
+8,7,1,Calibri-Bold,11.0,72.0,301.0,286.3,312.0,significantly above the EU average of 74.13%.
+8,7,1,Calibri,11.0,286.4,301.0,525.9,312.0," In sparsely populated areas, its FTTP coverage was "
+8,7,2,Calibri,11.0,72.0,315.5,525.9,326.6,"94.02% in 2025, much higher than the EU average of 62.61%. Its annual growth rate was 0.6%, lower "
+8,7,3,Calibri,11.0,72.0,330.0,421.0,341.1,"than the EU’s (6.5%), which is normal considering its very high starting point.   "
+8,8,0,Calibri-Bold,11.0,72.0,352.5,475.7,363.5,"In 2025, Romania’s 5G coverage was 59.3% in 2025, well below the EU average of 96.79%."
+8,8,0,Calibri,11.0,475.7,352.5,525.9,363.5,  Its annual 
+8,8,1,Calibri,11.0,72.0,367.0,525.9,378.0,"growth rate of 26.8 % significantly outpaced the EU’s (2.6%), but Romania continues to rank last among "
+8,8,2,Calibri,11.0,72.0,381.5,525.9,392.6,"EU Member States. In sparsely populated areas, Romania’s 5G coverage was 22.74% (EU average "
+8,8,3,Calibri,11.0,72.0,395.9,525.9,407.0,"88.88%). Its coverage in the 3.4–3.8 GHz mid-band was 38.57%, well below the EU average of 74.75%. "
+8,8,4,Calibri,11.0,72.0,410.5,525.9,421.5,"This 3.4-3.8 GHz mid-band provides a good balance between coverage and high capacity, making "
+8,8,5,Calibri,11.0,72.0,425.0,525.9,436.0,"advanced 5G use cases possible in manufacturing, such as the industrial Internet of Things, or "
+8,8,6,Calibri,11.0,72.0,439.5,525.8,450.5,"healthcare, in telemedicine for example. In sparsely populated areas, Romania’s coverage in this band "
+8,8,7,Calibri,11.0,72.0,453.9,525.9,464.9,"was 6.49%, much lower than the EU average of 33.71%. Nevertheless, the country is on track for overall "
+8,8,8,Calibri,11.0,72.0,468.4,525.9,479.5,5G coverage according to the trajectory presented in the Digital Decade national roadmap. Significant 
+8,8,9,Calibri,11.0,72.0,482.9,507.2,494.0,investments in 5G networks have also been earmarked by some of the largest telecom operators. 
+8,10,0,Calibri,11.0,522.8,709.5,525.3,720.6, 
+8,11,0,Calibri-Bold,11.0,72.0,729.0,525.9,740.0,"In terms of take-up, Romania is still in the EU’s top 5 in terms for the share of fixed broadband "
+8,11,1,Calibri-Bold,11.0,72.0,743.5,369.0,754.6,subscriptions > 1 Gbps in the total fixed broadband connections.
+8,11,1,Calibri,11.0,369.1,743.5,525.9,754.6," It is at 36.64% in 2025, above the "
+8,12,0,Calibri,11.0,294.9,781.9,302.9,793.0,6 
+8,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+9,71,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,72,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+9,73,0,Calibri,11.0,72.0,84.0,525.9,95.1,"EU average of 26.97%. This represents an annual growth rate of 7.2% for Romania, compared to the "
+9,73,1,Calibri,11.0,72.0,98.4,128.8,109.5,EU's 21.2%.  
+9,75,0,Calibri-Bold,11.0,72.0,121.0,424.2,132.0,Romania reached 21.64% of its total population having 5G SIM cards in 2025
+9,75,0,Calibri,11.0,424.5,121.0,525.8,132.0,", an increase of 44.2% "
+9,75,1,Calibri,11.0,72.0,135.5,499.3,146.5,from 2024. It remains below the EU average of 55.55% (the EU annual growth rate was 56.2%).  
+9,76,0,Calibri,11.0,72.0,157.9,525.9,169.0,"The table below gives an overview of VHCN, FTTP and 5G coverage across NUTS-2 regions in Romania. "
+9,76,1,Calibri,11.0,72.0,172.5,525.9,183.5,"It confirms Romania’s high level of VHCN and FTTP connectivity, with virtually no differences between "
+9,76,2,Calibri,11.0,72.0,187.0,525.6,198.0,regions. The national coverage average for 5G is strongly influenced by the performance of the 
+9,76,3,Calibri,11.0,72.0,201.4,496.9,212.4,Bucuresti-Ilfov region. All other regions except Centru and Vest are under the national average. 
+9,77,0,Calibri-Bold,11.3,220.4,225.3,294.2,236.5,VHCN coverage 
+9,77,1,Calibri-Bold,11.3,314.9,225.3,382.0,236.5,FTTP Coverage
+9,77,2,Calibri-Bold,11.3,412.4,225.3,470.5,236.5,5G Coverage
+9,78,0,Calibri,11.3,215.9,240.3,249.2,251.5,Overall
+9,78,1,Calibri,11.3,267.6,240.3,291.2,251.5,Rural
+9,78,2,Calibri,11.3,308.9,240.3,342.2,251.5,Overall
+9,78,3,Calibri,11.3,360.6,240.3,384.2,251.5,Rural
+9,78,4,Calibri,11.3,401.9,240.3,435.2,251.5,Overall
+9,78,5,Calibri,11.3,453.6,240.3,477.2,251.5,Rural
+9,78,6,Calibri,11.3,116.2,255.3,199.6,266.5,National coverage
+9,78,7,Calibri,11.3,216.6,255.3,248.7,266.5,96.45%
+9,78,8,Calibri,11.3,263.2,255.3,295.2,266.5,94.21%
+9,78,9,Calibri,11.3,309.6,255.3,341.6,266.5,96.25%
+9,78,10,Calibri,11.3,356.1,255.3,388.1,266.5,94.02%
+9,78,11,Calibri,11.3,402.6,255.3,434.6,266.5,59.30%
+9,78,12,Calibri,11.3,449.1,255.3,481.1,266.5,22.74%
+9,78,13,Calibri-Bold,11.3,124.4,270.3,192.6,281.5,Bucureşti-Ilfov
+9,78,14,Calibri,11.3,216.6,270.3,248.7,281.5,97.95%
+9,78,15,Calibri,11.3,263.2,270.3,295.2,281.5,94.74%
+9,78,16,Calibri,11.3,309.6,270.3,341.6,281.5,97.79%
+9,78,17,Calibri,11.3,356.1,270.3,388.1,281.5,94.66%
+9,78,18,Calibri,11.3,402.6,270.3,434.6,281.5,99.80%
+9,78,19,Calibri,11.3,449.1,270.3,481.1,281.5,98.24%
+9,78,20,Calibri-Bold,11.3,142.4,285.3,174.0,296.5,Centru
+9,78,21,Calibri,11.3,216.6,285.3,248.7,296.5,94.61%
+9,78,22,Calibri,11.3,263.2,285.3,295.2,296.5,92.39%
+9,78,23,Calibri,11.3,309.6,285.3,341.6,296.5,94.26%
+9,78,24,Calibri,11.3,356.1,285.3,388.1,296.5,92.15%
+9,78,25,Calibri,11.3,402.6,285.3,434.6,296.5,61.94%
+9,78,26,Calibri,11.3,449.1,285.3,481.1,296.5,33.29%
+9,78,27,Calibri-Bold,11.3,137.9,300.3,178.6,311.5,Nord-Est
+9,78,28,Calibri,11.3,216.6,300.3,248.7,311.5,97.50%
+9,78,29,Calibri,11.3,263.2,300.3,295.2,311.5,95.54%
+9,78,30,Calibri,11.3,309.6,300.3,341.6,311.5,97.37%
+9,78,31,Calibri,11.3,356.1,300.3,388.1,311.5,95.37%
+9,78,32,Calibri,11.3,402.6,300.3,434.6,311.5,49.09%
+9,78,33,Calibri,11.3,449.1,300.3,481.1,311.5,17.68%
+9,78,34,Calibri-Bold,11.3,134.1,315.2,182.3,326.5,Nord-Vest
+9,78,35,Calibri,11.3,216.6,315.2,248.7,326.5,95.16%
+9,78,36,Calibri,11.3,263.2,315.2,295.2,326.5,92.70%
+9,78,37,Calibri,11.3,309.6,315.2,341.6,326.5,94.98%
+9,78,38,Calibri,11.3,356.1,315.2,388.1,326.5,92.58%
+9,78,39,Calibri,11.3,402.6,315.2,434.6,326.5,57.42%
+9,78,40,Calibri,11.3,449.1,315.2,481.1,326.5,23.20%
+9,78,41,Calibri-Bold,11.3,140.9,330.2,175.6,341.5,Sud-Est
+9,78,42,Calibri,11.3,216.6,330.2,248.7,341.5,94.70%
+9,78,43,Calibri,11.3,263.2,330.2,295.2,341.5,91.14%
+9,78,44,Calibri,11.3,309.6,330.2,341.6,341.5,94.64%
+9,78,45,Calibri,11.3,356.1,330.2,388.1,341.5,91.07%
+9,78,46,Calibri,11.3,402.6,330.2,434.6,341.5,55.56%
+9,78,47,Calibri,11.3,449.1,330.2,481.1,341.5,15.87%
+9,78,48,Calibri-Bold,11.3,125.2,345.2,192.2,356.5,Sud-Muntenia
+9,78,49,Calibri,11.3,216.6,345.2,248.7,356.5,97.04%
+9,78,50,Calibri,11.3,263.2,345.2,295.2,356.5,96.53%
+9,78,51,Calibri,11.3,309.6,345.2,341.6,356.5,96.75%
+9,78,52,Calibri,11.3,356.1,345.2,388.1,356.5,96.32%
+9,78,53,Calibri,11.3,402.6,345.2,434.6,356.5,48.91%
+9,78,54,Calibri,11.3,449.1,345.2,481.1,356.5,24.10%
+9,78,55,Calibri-Bold,11.3,119.1,360.2,198.2,371.5,Sud-Vest Oltenia
+9,78,56,Calibri,11.3,216.6,360.2,248.7,371.5,98.35%
+9,78,57,Calibri,11.3,263.2,360.2,295.2,371.5,97.82%
+9,78,58,Calibri,11.3,309.6,360.2,341.6,371.5,98.14%
+9,78,59,Calibri,11.3,356.1,360.2,388.1,371.5,97.53%
+9,78,60,Calibri,11.3,402.6,360.2,434.6,371.5,43.09%
+9,78,61,Calibri,11.3,449.1,360.2,481.1,371.5,15.87%
+9,78,62,Calibri-Bold,11.3,147.6,375.2,168.8,386.4,Vest
+9,78,63,Calibri,11.3,216.6,375.2,248.7,386.4,96.12%
+9,78,64,Calibri,11.3,263.2,375.2,295.2,386.4,92.18%
+9,78,65,Calibri,11.3,309.6,375.2,341.6,386.4,95.89%
+9,78,66,Calibri,11.3,356.1,375.2,388.1,386.4,91.95%
+9,78,67,Calibri,11.3,402.6,375.2,434.6,386.4,64.09%
+9,78,68,Calibri,11.3,449.1,375.2,481.1,386.4,23.65%
+9,79,0,Calibri,11.0,489.0,379.1,491.5,390.2, 
+9,80,0,Calibri-LightItalic,11.0,72.0,398.7,300.0,409.8,Policy context and assessment of recommendations 
+9,80,1,Calibri,11.0,72.0,413.1,117.0,424.1,The main 
+9,80,1,Calibri-Bold,11.0,118.0,413.1,195.1,424.1,telecoms market
+9,80,1,Calibri,11.0,195.2,413.1,525.9,424.1, development in Romania has been the finalisation of the acquisition of 
+9,80,2,Calibri,11.0,72.0,427.6,525.6,438.7,"Telekom Romania by Vodafone Romania (who took over postpaid and business segments, the retail "
+9,80,3,Calibri,11.0,72.0,442.1,525.7,453.2,"network, and technical infrastructure) and Digi (who took over the prepaid segment and spectrum "
+9,80,4,Calibri,11.0,72.0,456.7,525.9,467.7,"assets). Following this acquisition, the Romanian mobile telecom market now has a tripartite structure "
+9,80,5,Calibri,11.0,72.0,471.1,205.8,482.1,"(Orange, Vodafone and Digi).  "
+9,81,0,Calibri,11.0,72.0,493.6,525.9,504.7,The approval of the transaction was contingent on a package of market competition related 
+9,81,1,Calibri,11.0,72.0,508.1,525.9,519.2,"commitments, including pricing and impact on quality of service. These include guaranteeing mobile "
+9,81,2,Calibri,11.0,72.0,522.5,525.9,533.6,"virtual network operators’ access to the Vodafone and Digi networks at competitive market prices, as "
+9,81,3,Calibri,11.0,72.0,537.1,525.8,548.1,well as the continuation of investment in service quality and network development (particularly along 
+9,81,4,Calibri,11.0,72.0,551.6,426.2,562.6,Trans European Network - TEN-T - corridors and for underserved ‘dark spots’).   
+9,82,0,Calibri,11.0,72.0,574.1,119.0,585.1,Regarding 
+9,82,0,Calibri-Bold,11.0,119.9,574.1,200.2,585.1,copper switch-off
+9,82,0,Calibri,11.0,200.2,574.1,525.9,585.1,", the Romanian national regulatory authority plans to update figures in "
+9,82,1,Calibri,11.0,72.0,588.6,525.9,599.6,2026. Data from 2023 indicates that copper wire coverage was relatively low (around 35% of 
+9,82,2,Calibri,11.0,72.0,603.1,525.9,614.1,addresses). The assessment for 2025 suggests a significant drop in numbers in relation to the overall 
+9,82,3,Calibri,11.0,72.0,617.6,437.5,628.7,copper wire coverage (less than 1%) as the copper switch off process accelerated. 
+9,83,0,Calibri,11.0,72.0,640.1,525.9,651.1,"As of 2025, new electricity backup requirements for networks entered into force, meant to improve "
+9,83,1,Calibri,11.0,72.0,654.6,525.7,665.6,general electronic communications service availability and strengthen the resilience of electronic 
+9,83,2,Calibri,11.0,72.0,669.1,195.0,680.1,communications networks. 
+9,84,0,Calibri,11.0,72.0,691.5,185.1,702.6,Romania announced the 
+9,84,0,Calibri-Bold,11.0,185.9,691.5,346.0,702.6,Black Sea Submarine Cable project
+9,84,0,Calibri,11.0,346.1,691.5,525.8,702.6,", which will establish parallel electricity "
+9,84,1,Calibri,11.0,72.0,706.1,525.7,717.1,"and fibre-optic submarine cable interconnections across the Black Sea, with landing points in Georgia "
+9,84,2,Calibri,11.0,72.0,720.5,525.9,731.5,"and Romania, strengthening internet connectivity between the EU and the Caucasus. In parallel, the "
+9,84,3,Calibri,11.0,72.0,735.0,122.2,746.0,EU-funded 
+9,84,3,Calibri,11.0,122.3,735.0,332.8,746.0,Balkans Digital Gateway Works (BDGW) project
+9,84,3,Calibri,11.0,333.0,735.0,525.8,746.0, (2025 - 2028) supports the deployment of 
+9,84,4,Calibri,11.0,72.0,749.5,525.8,760.6,"high capacity backbone infrastructure between Romania, Bulgaria and Greece and facilitates the "
+9,85,0,Calibri,11.0,294.9,781.9,302.9,793.0,7 
+9,85,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+10,3,0,Calibri,11.0,72.0,84.0,525.8,95.1,integration of submarine and terrestrial networks at key landing points on the Black and Aegean Seas. 
+10,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"These initiatives are expected to contribute to better redundancy, security and regional "
+10,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"interconnectivity. Romania could continue to look into the developing such projects, as well as "
+10,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"improved cross-border coordination and risk preparedness, to support the resilience and security of "
+10,3,4,Calibri,11.0,72.0,142.0,294.0,153.0,connectivity infrastructure in the Black Sea basin. 
+10,4,0,Calibri,11.0,72.0,164.4,365.5,175.5,"Romania is one of the EU leaders in fixed and 4G connectivity, but "
+10,4,0,Calibri-Bold,11.0,365.4,164.4,525.8,175.5,it continues to underperform in 5G 
+10,4,1,Calibri-Bold,11.0,72.0,178.9,508.9,190.0,"coverage, 5G in the 3.4-3.8 GHz mid-band and 5G SIM card adoption. The situation has improved"
+10,4,1,Calibri,11.0,508.9,178.9,525.9,190.0,", as "
+10,4,2,Calibri,11.0,72.0,193.5,235.4,204.5,the national regulator indicates that 
+10,4,2,Calibri,11.0,235.6,193.5,502.6,204.5,5G connections exceeded 4 million for the first time in 2025
+10,4,2,Calibri,11.0,502.9,193.5,525.9,204.5,", but "
+10,4,3,Calibri,11.0,72.0,207.9,525.9,218.9,the country continues to have significant potential to improve its performance (5G connections 
+10,4,4,Calibri,11.0,72.0,222.4,285.0,233.4,account for 7% of total mobile internet traffic).  
+10,5,0,Calibri,11.0,72.0,245.0,269.9,256.0,Consolidation of the mobile market means 
+10,5,0,Calibri-Bold,11.0,271.0,245.0,525.7,256.0,"more spectrum has been made available, which could "
+10,5,1,Calibri-Bold,11.0,72.0,259.4,303.5,270.4,increase the pace of 5G infrastructure installation.
+10,5,1,Calibri,11.0,303.5,259.4,525.9,270.4, The licences for the 3.4–3.8 GHz mid-band have 
+10,5,2,Calibri,11.0,72.0,273.9,525.8,284.9,"also officially entered into their long-term validity period (22 years), with auction winners expected to "
+10,5,3,Calibri,11.0,72.0,288.4,525.6,299.5,"cover with broadband services at least 70% of the country’s population, most urban areas, highways, "
+10,5,4,Calibri,11.0,72.0,302.9,525.8,314.0,"international airports and modernised railways, as well as 240 settlements identified as not covered "
+10,5,5,Calibri,11.0,72.0,317.3,525.9,328.4,"or poorly covered with mobile communications services, using the full spectrum of portfolios held. "
+10,5,6,Calibri,11.0,72.0,331.8,525.8,342.9,"Upcoming licences expirations in 2029 (800 MHz, 900 MHz, 1800 MHz, 2600 MHz) and 2031 (2100 "
+10,5,7,Calibri,11.0,72.0,346.4,337.8,357.4,MHz) could be used to introduce pro-investment conditions
+10,5,7,Calibri,7.0,337.9,345.5,341.4,352.4,1
+10,5,7,Calibri,11.0,341.4,346.4,346.6,357.4,. 
+10,6,0,Calibri-Bold,11.0,72.0,368.8,394.3,379.9,Most of the limited 5G coverage can be explained by market forces.
+10,6,0,Calibri,11.0,394.4,368.8,525.9,379.9, Most main cities and some 
+10,6,1,Calibri,11.0,72.0,383.3,525.8,394.4,"metropolitan areas have 5G coverage, but demand remains low overall, as the existing fixed and "
+10,6,2,Calibri,11.0,72.0,397.9,525.9,408.9,mobile infrastructure seem to cover the connectivity needs of people and businesses (the average 
+10,6,3,Calibri,11.0,72.0,412.4,525.8,423.4,download speed over the current network is around 90Mbps). Certain pilot projects have been 
+10,6,4,Calibri,11.0,72.0,426.8,525.7,437.8,"implemented, for example by telecom provider Orange ensuring 5G access in the Danube Delta, an "
+10,6,5,Calibri,11.0,72.0,441.3,525.9,452.4,"area of Romania historically underconnected, but more investment is needed to ensure national "
+10,6,6,Calibri,11.0,72.0,455.8,525.8,466.9,coverage. The national regulator is also consulting on market needs in 2026 to identify whether there 
+10,6,7,Calibri,11.0,72.0,470.3,525.8,481.4,"is interest in the 26 GHz and 42 GHz bands, but it has indicated that no additional spectrum requests "
+10,6,8,Calibri,11.0,72.0,484.7,351.9,495.8,were received in 2025. The last spectrum auction was in 2022. 
+10,7,0,Calibri,11.0,72.0,507.3,525.9,518.3,"Besides market needs, market operator investments in telecom in general and 5G infrastructure "
+10,7,1,Calibri,11.0,72.0,521.8,194.4,532.9,specifically are affected by 
+10,7,1,Calibri-Bold,11.0,195.3,521.8,337.2,532.9,cumulative fiscal requirements
+10,7,1,Calibri,11.0,337.3,521.8,525.9,532.9," (turnover and special constructions tax), "
+10,7,2,Calibri,11.0,72.0,536.2,525.9,547.3,"diverging local permitting rules, and infrastructure security requirements (driven by the need to "
+10,7,3,Calibri,11.0,72.0,550.7,525.9,561.8,replace high risk vendor equipment in core networks). The Romanian Government has announced that 
+10,7,4,Calibri,11.0,72.0,565.3,525.9,576.3,"the turnover tax will be decreased in 2026 and eliminated, together with the special construction tax, "
+10,7,5,Calibri,11.0,72.0,579.8,525.9,590.9,"in 2027. However, fiscal measures have a high degree of unpredictability in Romania, making it hard "
+10,7,6,Calibri,11.0,72.0,594.2,436.9,605.3,for companies to plan medium-term investments based on such announcements. 
+10,8,0,Calibri,11.0,72.0,616.8,525.9,627.8,"Primarily, 5G is a solution for businesses and represents a crucial opportunity to modernise core "
+10,8,1,Calibri,11.0,72.0,631.2,374.8,642.2,economic drivers such as manufacturing and agriculture in Romania. 
+10,8,1,Calibri-Bold,11.0,374.2,631.2,525.8,642.2,There is clear scope for the public 
+10,8,2,Calibri-Bold,11.0,72.0,645.7,525.6,656.7,sector to collaborate with industry stakeholders and European Digital Innovation Hubs (EDIHs) to 
+10,8,3,Calibri-Bold,11.0,72.0,660.2,458.6,671.3,identify high-impact use cases to show how 5G can lead to more efficient processes.
+10,8,3,Calibri,11.0,458.6,660.2,525.9,671.3, The feasibility 
+10,8,4,Calibri,11.0,72.0,674.7,525.9,685.8,"of implementing already existing best practices, such as the German model of local spectrum licensing "
+10,8,5,Calibri,11.0,72.0,689.1,525.9,700.2,or the Estonian or Spanish 5G sandboxes to provide a low-risk environment for SMEs to ‘test before 
+10,8,6,Calibri,11.0,72.0,703.7,237.4,714.7,they invest’ should also be analysed. 
+10,9,0,Calibri,11.0,216.1,735.6,218.5,746.6, 
+10,9,1,Calibri,6.5,72.0,748.0,75.3,754.5,1
+10,9,1,Calibri,10.0,75.3,748.9,77.5,758.8, 
+10,9,1,Calibri,9.0,78.7,749.6,525.2,758.6,"Pro-investment conditions include longer licence durations to strengthen investment certainty, coverage obligations to "
+10,9,2,Calibri,9.0,72.0,760.9,424.9,769.9,accelerate deployment and reasonable spectrum prices that preserve capital for network rollout.
+10,9,2,Calibri,10.0,425.1,760.2,427.4,770.1, 
+10,10,0,Calibri,11.0,294.9,781.9,302.9,793.0,8 
+10,10,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+11,2,0,Calibri-Bold,11.0,77.7,84.5,322.5,95.5,2025 recommendation on connectivity infrastructure
+11,2,0,Calibri,11.0,322.6,84.5,520.2,95.5,": increase overall 5G coverage, including in "
+11,2,1,Calibri,11.0,77.7,99.0,422.7,110.1,"the 3.4–3.8 GHz band, and spectrum assignment, subject to market demand. "
+11,4,0,Calibri-Bold,11.0,77.7,123.0,520.3,134.1,"In 2025, Romania continued to implement of existing measures but did not take any new ones. "
+11,4,1,Calibri-Bold,11.0,77.7,137.4,368.2,148.5,Romania has made very good progress in improving 5G coverage
+11,4,1,Calibri,11.0,368.4,137.4,520.3,148.5,", getting close to reaching its 2030 "
+11,4,2,Calibri,11.0,77.7,151.9,520.2,163.0,"target of 60% of total households’ coverage. Nevertheless, Romania continues to rank last in the EU "
+11,4,3,Calibri,11.0,77.7,166.5,522.7,177.5,in both 5G and 5G in the 3.4-3.8GHz mid-band and no spectrum auction has taken place since 2022.  
+11,5,0,Calibri,11.0,72.0,189.4,74.5,200.4, 
+11,6,0,Calibri-Light,12.0,72.0,212.2,151.9,224.2,Semiconductors 
+11,6,1,Calibri,11.0,72.0,227.8,525.9,238.8,Romania has taken significant steps to reach its national recovery and resilience plan (NRRP) milestone 
+11,6,2,Calibri,11.0,72.0,242.2,227.1,253.2,regarding the development of a 
+11,6,2,Calibri-Bold,11.0,230.0,242.2,340.9,253.2,semiconductor industry
+11,6,2,Calibri,11.0,341.0,242.2,525.8,253.2,. The milestone focused on Romania’s 
+11,6,3,Calibri,11.0,72.0,256.7,525.9,267.8,participation in the Important Project of Common European Interest (IPCEI) on “Microelectronics and 
+11,6,4,Calibri,11.0,72.0,271.2,525.9,282.3,communication technologies” (ME/CT). 23 financing contracts were signed for both direct and indirect 
+11,6,5,Calibri,11.0,72.0,285.8,483.0,296.8,"participants, with over EUR 375 million in investments committed through European funds.  "
+11,7,0,Calibri,11.0,72.0,308.2,525.8,319.2,"Each of the three direct participants (Continental, Bosch and NXP) are now in the active R&D phase. "
+11,7,1,Calibri,11.0,72.0,322.7,525.9,333.8,"NXP has expanded its R&D footprint in Bucharest and Sibiu, focusing on ‘System on a Chip’ (SoC) "
+11,7,2,Calibri,11.0,72.0,337.1,525.9,348.2,designs for automotive radar and 5G/6G communication. Continental is developing energy-efficient 
+11,7,3,Calibri,11.0,72.0,351.6,525.9,362.7,"processors for autonomous driving and ""smart"" car systems, while Bosch is focusing on the "
+11,7,4,Calibri,11.0,72.0,366.2,421.6,377.2,microelectronics value chain for highly automated driving and green mobility.  
+11,8,0,Calibri,11.0,72.0,388.6,525.8,399.6,"Romania, through the Politehnica University, is also part of the NanoIC microelectronics initiative. The "
+11,8,1,Calibri,11.0,72.0,403.1,523.5,414.2,"initiative, with a total investment of EUR 2.5 bn, is aimed at accelerating the development of next-"
+11,8,2,Calibri,11.0,72.0,417.7,525.9,428.7,"generation semiconductor technologies for applications including AI, autonomous vehicles, healthcare "
+11,8,3,Calibri,11.0,72.0,432.2,525.9,443.2,and 6G communications. Romania will contribute to the project with advanced equipment and 
+11,8,4,Calibri,11.0,72.0,446.6,348.5,457.6,research expertise from the university’s nanotechnology labs. 
+11,9,0,Calibri-Light,12.0,72.0,469.4,130.2,481.4,Edge nodes 
+11,10,0,Calibri-LightItalic,11.0,72.0,487.0,183.7,498.1,Performance assessment 
+11,10,1,Calibri,11.0,72.0,501.4,525.9,512.5,"According to the Edge Node Observatory, Romania had 252 edge nodes deployed at the end of 2025. "
+11,10,2,Calibri,11.0,72.0,515.9,525.9,527.0,"As the Observatory uses a new methodology, this figure cannot be compared to the previous reporting "
+11,10,3,Calibri,11.0,72.0,530.5,528.5,541.5,period. The country has surpassed its 2030 target of 113 edge nodes included in the national roadmap.  
+11,11,0,Calibri,11.0,72.0,552.9,525.9,563.9,There is no known involvement of public authorities (public policy or coordination group) in promoting 
+11,11,1,Calibri,11.0,72.0,567.5,202.2,578.5,and developing edge nodes.  
+11,12,0,Calibri-Light,12.0,72.0,590.1,184.4,602.1,Quantum technologies 
+11,12,1,Calibri,11.0,72.0,605.7,525.8,616.8,"IBM and the Iasi Technical University have set up a Quantum Innovation Centre in Romania, in the city "
+11,12,2,Calibri,11.0,72.0,620.3,525.6,631.3,of Iasi. The aim of the centre is to train professionals in quantum computing and its use in areas such 
+11,12,3,Calibri,11.0,72.0,634.7,525.9,645.7,"as medical research, cryptography and AI. The initiative will be integrated into Romania’s broader "
+11,12,4,Calibri,11.0,72.0,649.2,525.7,660.2,"quantum ecosystem, complementing the work done in quantum communications (as part of "
+11,12,5,Calibri,11.0,72.0,663.7,402.8,674.7,RoNaQCI—Romania’s National Quantum Communications Infrastructure). 
+11,13,0,Calibri-Light,15.0,72.0,687.0,526.8,702.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises 
+11,14,0,Calibri,11.0,294.9,781.9,302.9,793.0,9 
+11,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+12,2,0,Calibri-Light,12.0,72.0,84.3,265.2,96.3,SMEs with at least basic digital intensity 
+12,4,0,Calibri-LightItalic,11.0,72.0,101.8,183.7,112.8,Performance assessment 
+12,4,1,Calibri-Bold,11.0,72.0,116.3,525.9,127.3,"In Romania, 44.34% of SMEs (10 to 249 employees) had at least a basic level of digital intensity in "
+12,4,2,Calibri-Bold,11.0,72.0,130.8,271.3,141.9,"2025, well below the EU average of 71.39%. "
+12,4,2,Calibri,11.0,271.1,130.8,525.9,141.9,Romania’s annual growth rate (+28.7% annually between 
+12,4,3,Calibri,11.0,72.0,145.2,525.9,156.3,"2023 and 2025) significantly outpaces the EU’s 11% growth rate for the same period, indicating a "
+12,4,4,Calibri,11.0,72.0,159.7,525.8,170.8,positive trend in the digitalisation of Romanian SMEs. In the case of SMEs with a very high digital 
+12,4,5,Calibri,11.0,72.0,174.3,525.9,185.3,"intensity index, Romania’s performance remains modest. In 2025, only 2.42% of Romanian SMEs had "
+12,4,6,Calibri,11.0,72.0,188.8,408.3,199.8,"a very high digital intensity index, which is below the EU average of 9.07%.  "
+12,5,0,Calibri-LightItalic,11.0,72.0,211.2,300.0,222.3,Policy context and assessment of recommendations 
+12,5,1,Calibri,11.0,72.0,225.7,525.8,236.8,"According to a study by the National Bank of Romania, the majority of Romanian companies that have "
+12,5,2,Calibri,11.0,72.0,240.3,525.8,251.3,invested in digitalisation in the past five years have indicated that the main obstacle is the high cost of 
+12,5,3,Calibri,11.0,72.0,254.7,525.7,265.7,"investment for infrastructure, software, maintenance and cybersecurity. Other obstacles included "
+12,5,4,Calibri,11.0,72.0,269.2,525.9,280.2,"limited access to finance, a lack of skills and the continuous nature of digitalisation investment to keep "
+12,5,5,Calibri,11.0,72.0,283.7,290.1,294.8,up with the pace of technological development.  
+12,6,0,Calibri,11.0,72.0,306.2,525.9,317.2,"Nevertheless, Romanian SMEs do recognise the need to incorporate digital technology into their "
+12,6,1,Calibri,11.0,72.0,320.7,525.9,331.7,"activities, even though they struggle with integrating digital business models into their core operations. "
+12,6,2,Calibri,11.0,72.0,335.2,205.3,346.2,"For example, according to the "
+12,6,2,Calibri,11.0,204.9,335.2,307.8,346.2,IMM Digital Index 2025
+12,6,2,Calibri,11.0,307.9,335.2,525.9,346.2,", 60% of Romanian SMEs have a website and 77% "
+12,6,3,Calibri,11.0,72.0,349.6,426.6,360.6,"have social media accounts, but only around 22% sell goods or services online.  "
+12,7,0,Calibri-Light,12.0,72.0,372.4,237.6,384.4,Take-up of advanced technologies 
+12,8,0,Calibri-LightItalic,11.0,72.0,390.0,183.7,401.1,Performance assessment 
+12,10,0,TimesNewRomanPSMT,12.0,395.1,567.7,398.1,581.0, 
+12,11,0,Calibri-Bold,11.0,72.0,594.5,525.9,605.5,"In 2025, 35.07% of Romanian enterprises took up data analytics technologies (annual increase of "
+12,11,1,Calibri-Bold,11.0,72.0,609.0,349.4,620.0,"+26.6% since 2023), slightly below the EU average of 39.85%"
+12,11,1,Calibri,11.0,349.5,609.0,525.8,620.0,". Nevertheless, Romania has caught up "
+12,11,2,Calibri,11.0,72.0,623.5,496.2,634.5,"significantly since 2023, when data analytics take-up was at 21.87% (2023 EU average 33.25%). "
+12,12,0,Calibri-Bold,11.0,72.0,645.9,525.7,657.0,"5.21% of Romanian enterprises took up AI technologies in 2025, a figure well below the EU average "
+12,12,1,Calibri-Bold,11.0,72.0,660.5,466.5,671.5,of 19.95%. Romania has improved by +69.7% annually since 2024 (EU average +48.0%)
+12,12,1,Calibri,11.0,466.5,660.5,525.9,671.5,", but there is "
+12,12,2,Calibri,11.0,72.0,675.0,247.7,686.0,still significant room for improvement.  
+12,13,0,Calibri-Bold,11.0,72.0,697.4,525.9,708.5,22.13% of Romanian enterprises adopted cloud technologies in 2025 (annual increase of +19.4% 
+12,13,1,Calibri-Bold,11.0,72.0,711.9,339.9,723.0,"since 2023), which is well below the EU average of 46.69%"
+12,13,1,Calibri,11.0,340.0,711.9,525.8,723.0,. Romania’s annual growth rate is double 
+12,13,2,Calibri,11.0,72.0,726.5,336.8,737.5,"the EU’s growth rate of 9.5%, indicating good convergence. "
+12,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,10 
+12,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+13,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"When considering the three technologies together, 43.57% of Romanian enterprises used with either "
+13,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,"AI, cloud or data analytics technologies in 2025, well below the EU average of 63.2%. Romania’s annual "
+13,2,2,Calibri,11.0,72.0,112.9,356.8,124.0,"growth rate was 23.1%, significantly higher than the EU’s 7.5%.  "
+13,4,0,Calibri-LightItalic,11.0,72.0,135.5,300.0,146.5,Policy context and assessment of recommendations 
+13,4,1,Calibri,11.0,72.0,149.9,374.8,160.9,Romania has announced highly ambitious plans for developing its 
+13,4,1,Calibri-Bold,11.0,376.0,149.9,440.8,160.9,AI capabilities
+13,4,1,Calibri,11.0,440.9,149.9,512.8,160.9,. It will host an 
+13,4,1,Calibri-Bold,11.0,513.8,149.9,525.9,160.9,AI 
+13,4,2,Calibri-Bold,11.0,72.0,164.4,104.1,175.5,factory
+13,4,2,Calibri,11.0,104.2,164.4,525.9,175.5,", including the acquisition of an AI-optimised supercomputer, which should give startups, SMEs, "
+13,4,3,Calibri,11.0,72.0,178.9,525.7,190.0,and industry direct access to AI capabilities and tailored support to develop and deploy advanced AI 
+13,4,4,Calibri,11.0,72.0,193.5,525.9,204.5,"solutions. With a total estimated budget of EUR 50 million for five years, the Romanian AI Factory will "
+13,4,5,Calibri,11.0,72.0,207.9,525.9,218.9,be hosted at the National Institute for Research & Development in Informatics (ICI) Bucharest data 
+13,4,6,Calibri,11.0,72.0,222.4,510.3,233.4,"centre and be built in partnership with technical universities, industry and Romanian digital hubs.  "
+13,5,0,Calibri,11.0,72.0,245.0,256.2,256.0,Romania has also put in a bid to host the 
+13,5,0,Calibri-Bold,11.0,256.2,245.0,364.1,256.0,Black Sea AI gigafactory
+13,5,0,Calibri,11.0,364.1,245.0,525.9,256.0,", which, if successful, could turn the "
+13,5,1,Calibri,11.0,72.0,259.4,525.9,270.4,"country into a world-class AI hub. Planned to be powered by up to 1,500 MW of zero-emission energy, "
+13,5,2,Calibri,11.0,72.0,273.9,525.9,284.9,"primarily nuclear, the gigafactory, with an estimated cost of between EUR 4 and 5 billion, would serve "
+13,5,3,Calibri,11.0,72.0,288.4,525.6,299.5,"both the national and neighbouring markets, creating a regional AI and cybersecurity ecosystem, "
+13,5,4,Calibri,11.0,72.0,302.9,525.9,314.0,training large European AI models and improving digital sovereignty. In the Memorandum announcing 
+13,5,5,Calibri,11.0,72.0,317.3,525.9,328.4,"the bid, Romania also indicates that if financing from the EuroHPC JU were forthcoming, the project "
+13,5,6,Calibri,11.0,72.0,331.8,525.9,342.9,"would not be abandoned, but adjusted to be financed by private investors, using World Bank support. "
+13,6,0,Calibri,11.0,72.0,354.4,149.7,365.4,Romania has an 
+13,6,0,Calibri,11.0,152.2,354.4,202.8,365.4,AI Strategy
+13,6,0,Calibri,11.0,202.0,354.4,525.9,365.4,", adopted in 2024, with 128 measures for which 36 institutions are "
+13,6,1,Calibri,11.0,72.0,368.8,525.9,379.9,"responsible. The oversight of the implementation is done by an inter-ministerial committee, chaired "
+13,6,2,Calibri,11.0,72.0,383.3,525.9,394.4,"by the Minister of the Economy, Digitalisation, Entrepreneurship and Tourism. Investing in AI could be "
+13,6,3,Calibri,11.0,72.0,397.9,268.4,408.9,of great benefit to the Romanian economy. 
+13,6,3,Calibri,11.0,268.9,397.9,352.0,408.9,A McKinsey report
+13,6,3,Calibri,11.0,352.0,397.9,525.9,408.9, estimates that the rapid take-up of AI 
+13,6,4,Calibri,11.0,72.0,412.4,525.5,423.4,could add a cumulative EUR 30bn to EUR 50bn to Romania’s GDP by 2040 and annual public sector 
+13,6,5,Calibri,11.0,72.0,426.8,525.9,437.8,"productivity gains of up to EUR 1bn. At the same time, however, it could put a lot more pressure on "
+13,6,6,Calibri,11.0,72.0,441.3,523.7,452.4,"labour, particularly for junior developers who risk seeing themselves squeezed out of the job market. "
+13,7,0,Calibri,11.0,72.0,463.7,525.6,474.8,"To better adapt to the challenges of new technologies, the academic sector in Romania is also "
+13,7,1,Calibri,11.0,72.0,478.3,525.9,489.3,"introducing new programmes, financed by the NRRP, to bridge the gap between higher education and "
+13,7,2,Calibri,11.0,72.0,492.8,398.6,503.8,evolving market requirements (see the section on ICT specialists below).  
+13,8,0,Calibri,11.0,72.0,515.2,135.2,526.3,In the case of 
+13,8,0,Calibri-Bold,11.0,135.5,515.2,211.9,526.3,cloud computing
+13,8,0,Calibri,11.0,212.0,515.2,525.7,526.3,", the main public discussion has been around the development of the "
+13,8,1,Calibri,11.0,72.0,529.7,525.9,540.8,"governmental cloud project, a EUR 500 million NRRP-funded initiative (see below in the ‘Key digital "
+13,8,2,Calibri,11.0,72.0,544.3,247.9,555.3,public services and solutions’ section).  
+13,9,0,Calibri,11.0,72.0,566.7,523.7,577.8,"Private cloud initiatives are also expanding rapidly, primarily spurred by AI development and energy-"
+13,9,1,Calibri,11.0,72.0,581.3,525.8,592.3,driven projects. The largest concentration of data centres is around Bucharest (around 30). The biggest 
+13,9,2,Calibri,11.0,72.0,595.8,525.8,606.8,"hyperscale data centre is planned in southwest Romania, with a planned operational capacity of 200 "
+13,9,3,Calibri,11.0,72.0,610.3,525.8,621.3,MW. The largest electricity distribution company in Romania has also announced plans to expand its 
+13,9,4,Calibri,11.0,72.0,624.7,240.1,635.7,activities in data centres. A study by 
+13,9,4,Calibri,11.0,241.1,624.7,330.4,635.7,Mordor Intelligence
+13,9,4,Calibri,11.0,330.4,624.7,525.8,635.7, forecasts that the data centre market will 
+13,9,5,Calibri,11.0,72.0,639.2,352.0,650.3,grow annually by approximately 20% between 2026 and 2031. 
+13,10,0,Calibri-Light,12.0,72.0,662.0,233.6,674.0,"Unicorns, scale-ups and start-ups "
+13,10,1,Calibri-Bold,11.0,72.0,677.5,298.9,688.5,Romania continues to not have a digital unicorn
+13,10,1,Calibri,11.0,298.9,677.5,360.8,688.5,". Additionally,"
+13,10,1,Calibri,11.0,360.8,677.5,437.8,688.5, available figures
+13,10,1,Calibri,11.0,437.9,677.5,525.9,688.5, indicate that total 
+13,10,2,Calibri,11.0,72.0,692.0,358.1,703.1,investment volume in 2025 dropped by 20% compared to 2024. 
+13,11,0,Calibri-Bold,11.0,72.0,714.5,150.5,725.5,Access to finance
+13,11,0,Calibri,11.0,150.5,714.5,525.9,725.5," continues to be a significant issue, with a large percentage of companies relying on "
+13,11,1,Calibri,11.0,72.0,729.0,430.8,740.0,internal financing to support investments (51% in 2025 compared to 58% in 2023
+13,11,1,Calibri,7.0,430.8,728.1,434.3,735.1,2
+13,11,1,Calibri,11.0,434.3,729.0,525.9,740.0,). Romania supports 
+13,12,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+13,12,1,Calibri,6.5,72.0,759.1,75.3,765.5,2
+13,12,1,Calibri,10.0,75.3,759.9,77.5,769.9, 
+13,12,1,Calibri,10.0,77.5,759.9,247.9,769.9,Carta alba a IMM-urilor din Romania 2025
+13,12,1,Calibri,10.0,248.1,759.9,250.3,769.9, 
+13,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,11 
+13,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+14,2,0,Calibri,11.0,72.0,84.0,299.8,95.1,startups through government frameworks such as 
+14,2,0,Calibri,11.0,300.4,84.0,370.6,95.1,Start-Up Nation
+14,2,0,Calibri,11.0,370.6,84.0,411.2,95.1, and the 
+14,2,0,Calibri,11.0,411.7,84.0,509.7,95.1,Woman Entrepreneur
+14,2,0,Calibri,11.0,509.6,84.0,512.1,95.1, 
+14,2,0,Calibri-Italic,11.0,512.8,84.0,525.9,95.1,de 
+14,2,1,Calibri-Italic,11.0,72.0,98.4,107.0,109.5,minimis
+14,2,1,Calibri,11.0,107.1,98.4,151.7,109.5, scheme.  
+14,4,0,Calibri,11.0,72.0,121.0,525.9,132.0,The current Start-Up Nation programme (2024–2026) introduces a EUR 450 million budget focused on 
+14,4,1,Calibri,11.0,72.0,135.5,525.8,146.5,"mandatory training and offers grants of up to approx. EUR 50,000 for new businesses. While the "
+14,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"program is well advertised and known in Romania, it is often criticized for its complex application "
+14,4,3,Calibri,11.0,72.0,164.4,525.8,175.5,"procedures and a narrow focus on low-digital intensity businesses, leaving a gap in support for "
+14,4,4,Calibri,11.0,72.0,178.9,323.4,190.0,companies looking to scale up beyond the initial phase.  
+14,5,0,Calibri,11.0,72.0,201.4,525.9,212.4,"In addition to financial support programmes, non-financial support mechanisms such as digital "
+14,5,1,Calibri,11.0,72.0,215.8,525.7,226.8,"information and mentoring platforms contribute to strengthening entrepreneurial capabilities, "
+14,5,2,Calibri,11.0,72.0,230.2,466.6,241.2,facilitating access to information and supporting the uptake of digital solutions by SMEs. 
+14,6,0,Calibri,11.0,72.0,252.5,91.2,263.6,The 
+14,6,0,Calibri,11.0,91.9,252.5,245.4,263.6,Innovation Romania Holding Fund
+14,6,0,Calibri,11.0,245.4,252.5,525.7,263.6, also became operational in 2025. Managed by the European 
+14,6,1,Calibri,11.0,72.0,267.0,355.8,278.1,Investment Fund and funded through the POCIDIF programme
+14,6,1,Calibri,7.0,355.9,266.1,359.4,273.1,3
+14,6,1,Calibri,11.0,359.4,267.0,525.9,278.1,", it has a budget of around EUR 107 "
+14,6,2,Calibri,11.0,72.0,281.6,525.9,292.6,million targeting early-stage financing gaps in the Romanian ecosystem by supporting technology 
+14,6,3,Calibri,11.0,72.0,296.1,289.6,307.1,"transfer, early-stage startups and co-investment. "
+14,7,0,Calibri,11.0,72.0,318.5,525.9,329.6,"Overall, the Romanian tech sector is still mostly dominated by ICT specialists working for international "
+14,7,1,Calibri,11.0,72.0,333.0,525.9,344.1,"companies in outsourcing jobs, seen as a safer choice than the high risk and high initial investment "
+14,7,2,Calibri,11.0,72.0,347.6,525.8,358.6,costs of creating a startup. R&D spending in Romania is the lowest in the EU and there are fears about 
+14,7,3,Calibri,11.0,72.0,362.0,525.9,373.0,"the sustainability of digital investments as RRF funding is winding down. In 2026, Romania introduced "
+14,7,4,Calibri,11.0,72.0,376.5,525.9,387.5,a 10% refundable R&D tax credit that could give a significant advantage to startups by making it 
+14,7,5,Calibri,11.0,72.0,391.0,525.9,402.0,possible for R&D investments to be recovered during their pre-revenue phase. This incentive could 
+14,7,6,Calibri,11.0,72.0,405.5,525.9,416.6,also be used to encourage companies to register and maintain intellectual property (patents and 
+14,7,7,Calibri,11.0,72.0,419.9,220.8,431.0,software copyrights) in Romania. 
+14,8,0,Calibri-Bold,11.0,72.0,442.5,525.9,453.5,Efforts to improve access to financing programmes for startups and SMEs need to continue to be 
+14,8,1,Calibri-Bold,11.0,72.0,457.0,412.7,468.1,coordinated with European Digital Innovation Hubs (EDIHs) in Romania.
+14,8,1,Calibri,11.0,412.8,457.0,525.9,468.1, EDIHs could serve as a 
+14,8,2,Calibri,11.0,72.0,471.4,525.9,482.5,primary feedback loop for national funding bodies to define financing priorities based on real-world 
+14,8,3,Calibri,11.0,72.0,485.9,525.7,497.0,"technology gaps, in particular at regional and local level. By integrating lessons learned from direct "
+14,8,4,Calibri,11.0,72.0,500.5,525.9,511.5,"company support, EDIHs can help policymakers identify 'quick digital wins', high-ROI tools like basic AI "
+14,8,5,Calibri,11.0,72.0,515.0,525.9,526.0,"integration or automated data workflows, which are applicable across a variety of sectors. This would "
+14,8,6,Calibri,11.0,72.0,529.4,525.8,540.4,enable the available limited funding to go beyond addressing initial company digitalisation needs and 
+14,8,7,Calibri,11.0,72.0,543.9,525.9,554.9,"target digital innovation, for example by integrating technology into the business model, internal "
+14,8,8,Calibri,11.0,72.0,558.5,525.8,569.5,processes and supply chain management. EDIHs could also pinpoint the administrative obstacles that 
+14,8,9,Calibri,11.0,72.0,573.0,525.8,584.0,"currently discourage SMEs from applying, ensuring that future funding calls are more streamlined and "
+14,8,10,Calibri,11.0,72.0,587.4,299.3,598.4,accessible to the companies that need them most. 
+14,9,0,Calibri,11.0,72.0,609.9,525.9,621.0,"Besides funding, stronger intellectual property support would enable Romania to move away from "
+14,9,1,Calibri,11.0,72.0,624.5,417.9,635.5,outsourcing (exporting code) to home-grown solutions that can be scaled up. 
+14,10,0,Calibri-Bold,11.0,77.7,647.4,186.6,658.4,2025 recommendation: 
+14,10,0,Calibri,11.0,186.6,647.4,189.1,658.4, 
+14,11,0,Calibri-Bold,11.0,77.7,669.9,118.2,681.0,Unicorns
+14,11,0,Calibri,11.0,118.2,669.9,520.1,681.0,": Building on existing programmes, Romania should identify ways to support company "
+14,11,1,Calibri,11.0,77.7,684.3,394.0,695.4,scale-up and diversify funding opportunities for innovative companies. 
+14,11,1,Calibri-Bold,11.0,393.9,684.3,396.4,695.4, 
+14,12,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+14,12,1,Calibri,6.5,72.0,759.1,75.3,765.5,3
+14,12,1,Calibri,10.0,75.3,759.9,77.5,769.9, 
+14,12,1,Calibri,10.0,77.5,759.9,415.9,769.9,"Intelligent Growth, Digitalisation and Financial Instruments Programme 2021 - 2027"
+14,12,1,Calibri,10.0,416.0,759.9,418.3,769.9, 
+14,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,12 
+14,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+15,2,0,Calibri-Bold,11.0,77.7,84.5,213.5,95.5,Advance technologies take-up
+15,2,0,Calibri,11.0,213.4,84.5,520.2,95.5,": Continue efforts, including via EDIHs, to increase the uptake of cloud "
+15,2,1,Calibri,11.0,77.7,99.0,520.1,110.1,and AI services by companies of all sizes. Continue to increase the number of edge nodes deployed 
+15,2,2,Calibri,11.0,77.7,113.4,477.8,124.5,"and ensure links with work done on semiconductors, quantum and the internet of things. "
+15,4,0,Calibri-Bold,11.0,77.7,137.4,520.1,148.5,Romania continued the implementation of existing measures but did not take any new measure 
+15,4,1,Calibri-Bold,11.0,77.7,151.9,111.9,163.0,in 2025
+15,4,1,Calibri,11.0,112.0,151.9,519.9,163.0,". While SME intensity has increased, many issues persist in terms of access to finance for "
+15,4,2,Calibri,11.0,77.7,166.5,520.0,177.5,"startups, scaleups and SMEs as a whole. Cooperation with EDIHs is improving, but needs to be "
+15,4,3,Calibri,11.0,77.7,181.0,520.3,192.0,"strengthened, particularly when defining financing priorities, as well as business needs and possible "
+15,4,4,Calibri,11.0,77.7,195.4,520.1,206.4,"support measures in light of the next MFF. According to the new methodology, there are 252 edge "
+15,4,5,Calibri,11.0,77.7,209.9,520.2,220.9,"nodes in Romania, but no new measures to support the development of edge nodes have been "
+15,4,6,Calibri,11.0,77.7,224.4,395.2,235.5,proposed or adopted. Romania continues to not have a digital unicorn. 
+15,5,0,Calibri,11.0,72.0,247.4,74.5,258.4, 
+15,6,0,Calibri-Light,15.0,72.0,270.8,329.4,285.8,Strengthening Cybersecurity & Resilience   
+15,7,0,Calibri,11.0,72.0,297.6,525.9,308.7,"As for general digitalisation, Romanian enterprises are behind their EU peers concerning in "
+15,7,1,Calibri,11.0,72.0,312.2,525.9,323.2,"implementing of cybersecurity measures. In 2024, 34.03% of enterprises implemented at least 5 "
+15,7,2,Calibri,11.0,72.0,326.7,229.2,337.7,cybersecurity measures (out of 11 
+15,7,2,Calibri,11.0,230.1,326.7,341.8,337.7,as measured by Eurostat
+15,7,2,Calibri,11.0,341.8,326.7,525.8,337.7,"), well below the EU average of 56.85%. "
+15,7,3,Calibri,11.0,72.0,341.1,525.9,352.1,The gap with the EU is particularly pronounced in the use of data backup in a separate location (48.08% 
+15,7,4,Calibri,11.0,72.0,355.6,525.9,366.6,"in Romania, 79.23% in the EU), virtual private network (VPN) use (Romania: 30.27%, EU: 49.64%), and "
+15,7,5,Calibri,11.0,72.0,370.1,326.2,381.2,"network access control measures (45.76%, EU: 65.43%).  "
+15,8,0,Calibri,11.0,72.0,392.6,128.6,403.6,Data on the 
+15,8,0,Calibri-Bold,11.0,129.6,392.6,248.7,403.6,cyber threat environment
+15,8,0,Calibri,11.0,248.7,392.6,525.9,403.6," for 2025 was not available during the reference period, but "
+15,8,1,Calibri,11.0,72.0,407.1,116.5,418.1,2024 data
+15,8,1,Calibri,11.0,116.5,407.1,525.9,418.1," (in Romanian) indicates that the main threats are ransomware, malware, Distributed Denial "
+15,8,2,Calibri,11.0,72.0,421.6,525.9,432.7,"of Service (DDoS) and supply chain attacks. Phishing remains a preferred attack vector, particularly for "
+15,8,3,Calibri,11.0,72.0,436.1,525.9,447.2,"financially motivated threat actors. As in other parts of the world, cyber threat activities are "
+15,8,4,Calibri,11.0,72.0,450.5,525.9,461.6,"increasingly hybrid, with a growing overlap between state-sponsored and cybercriminal actors, making "
+15,8,5,Calibri,11.0,72.0,465.1,525.8,476.1,attribution harder and attacks more complex. Attackers continue to rely heavily on the mass 
+15,8,6,Calibri,11.0,72.0,479.6,525.8,490.6,exploitation of vulnerabilities (especially internet-facing edge devices) with very short exploitation 
+15,8,7,Calibri,11.0,72.0,494.1,389.4,505.1,"timelines, while also combining opportunistic and targeted operations. "
+15,9,0,Calibri,11.0,72.0,516.5,525.9,527.6,A key development was the adoption of two secondary legislative initiatives under the Network and 
+15,9,1,Calibri,11.0,72.0,531.1,397.6,542.1,Information Security (NIS2) Directive that have introduced immediate 
+15,9,1,Calibri-Bold,11.0,399.6,531.1,506.4,542.1,compliance obligations
+15,9,1,Calibri,11.0,506.4,531.1,525.9,542.1, for 
+15,9,2,Calibri,11.0,72.0,545.6,525.9,556.6,"entities under the Directive’s scope, as transposed in Romanian legislation. This has put a lot of "
+15,9,3,Calibri,11.0,72.0,560.0,525.9,571.1,"pressure on relevant entities, as the time to prepare and guidance offered were limited. An obligation "
+15,9,4,Calibri,11.0,72.0,574.5,525.9,585.6,has also been introduced for all entities designated as ‘essential’ and ‘important’ to appoint a 
+15,9,5,Calibri,11.0,72.0,589.1,381.0,600.1,cybersecurity officer maximum 30 days after their designation. 
+15,9,5,Calibri-Bold,11.0,385.0,589.1,525.8,600.1,In the absence of sufficient 
+15,9,6,Calibri-Bold,11.0,72.0,603.6,525.9,614.6,"cybersecurity talent in Romania, this obligation, which is not mentioned in the NIS2 Directive, has "
+15,9,7,Calibri-Bold,11.0,72.0,618.0,525.9,629.0,"led to cases where, in order to avoid fines, existing IT staff have had to fulfil roles that they were not "
+15,9,8,Calibri-Bold,11.0,72.0,632.5,434.6,643.5,"prepared for, with limited improvement in the entities’ cybersecurity resilience."
+15,9,8,Calibri,11.0,434.6,632.5,439.5,643.5,  
+15,10,0,Calibri,11.0,72.0,655.1,525.9,666.1,The two secondary legislative initiatives mentioned above contain the registration process and the risk 
+15,10,1,Calibri,11.0,72.0,669.5,525.8,680.5,"assessment methodology. In the absence of a dedicated platform, which is under development, "
+15,10,2,Calibri,11.0,72.0,684.0,525.9,695.0,registration is done using an excel file signed and sent to a dedicated e-mail address. Around 15 000 
+15,10,3,Calibri,11.0,72.0,698.5,525.9,709.5,to 20 000 Romanian entities are expected to fall under the scope of NIS2 (a significant increase 
+15,10,4,Calibri,11.0,72.0,713.0,375.6,724.1,compared to around 1000 entities under the previous NIS Directive). 
+15,10,4,Calibri-Bold,11.0,375.2,713.0,525.8,724.1,There is clear scope for providing 
+15,10,5,Calibri-Bold,11.0,72.0,727.4,525.9,738.5,"better support for entities, such as dedicated ICT platforms and automation. The Romanian "
+15,10,6,Calibri-Bold,11.0,72.0,742.0,525.9,753.0,"Cybersecurity Directorate sets out the broad relevant standards that need to be applied, but more "
+15,10,7,Calibri-Bold,11.0,72.0,756.5,425.7,767.5,could be done to develop sector-specific cybersecurity compliance guidelines.
+15,10,7,Calibri,11.0,425.7,756.5,430.6,767.5,  
+15,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,13 
+15,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+16,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,Romania has begun to introduce more structured cybersecurity requirements in public digital 
+16,3,1,Calibri,11.0,72.0,98.4,282.2,109.5,"investments, including the obligation for public"
+16,3,1,CambriaMath,11.0,282.3,98.1,284.7,109.2, 
+16,3,1,Calibri,11.0,285.0,98.4,525.7,109.5,sector funding guidelines to allocate a dedicated 10% 
+16,3,2,Calibri,11.0,72.0,112.9,525.7,124.0,"cybersecurity component, as well as the use of a standardised Technical and Economic Committee for "
+16,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,Information Society (TEC) Security Annex that systematically verifies aspects such as access 
+16,3,4,Calibri,11.0,72.0,142.0,525.7,153.0,"management, encryption, backup protection, vulnerability management, redundancy, disaster "
+16,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,"recovery and secure configuration. This is an important development, as in the past cybersecurity was "
+16,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,often approached in a project-specific way. This shift to a more coherent and consistent approach to 
+16,3,7,Calibri,11.0,72.0,185.4,525.6,196.5,cybersecurity in public projects should be continued and strengthened in order to raise the 
+16,3,8,Calibri,11.0,72.0,199.9,484.4,211.0,cybersecurity baseline across authorities and avoid a fragmented approach to cybersecurity. 
+16,4,0,Calibri,11.0,72.0,222.4,74.5,233.4, 
+16,4,1,Calibri,11.0,216.1,222.4,218.5,233.4, 
+16,5,0,Calibri,11.0,292.1,781.9,305.8,793.0,14 
+16,5,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+17,3,0,Calibri-Bold,26.0,72.0,87.0,493.4,113.1,Protecting and empowering EU people 
+17,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+17,4,0,Calibri-Light,15.0,72.0,161.3,526.4,176.3,Empowering people and bringing the digital transformation closer to their 
+17,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+17,5,0,Calibri-Light,12.0,72.0,208.2,242.3,220.2,Equipping people with digital skills  
+17,6,0,Calibri-LightItalic,11.0,72.0,225.9,152.0,236.9,Basic Digital Skills 
+17,6,1,Calibri-Light,11.0,72.0,242.3,187.3,253.4,Performance assessment  
+17,8,0,Calibri-Bold,11.0,519.1,515.0,521.6,526.0, 
+17,9,0,Calibri-Bold,11.0,72.0,534.4,525.8,545.5,"31.84% of individuals aged 16-74 in Romania have at least basic digital skills, an increase of 7.2% in "
+17,9,1,Calibri-Bold,11.0,72.0,548.9,184.4,560.0,2025 compared to 2024
+17,9,1,Calibri,11.0,184.5,548.9,189.7,560.0,. 
+17,9,1,Calibri-Bold,11.0,191.2,548.9,525.8,560.0,There is still a considerable gap between Romania’s levels and the EU 
+17,9,2,Calibri-Bold,11.0,72.0,563.4,154.8,574.4,average of 60.40%
+17,9,2,Calibri,11.0,154.8,563.4,525.8,574.4,". Nevertheless, Romania’s growth rate exceeds the EU's annual growth rate of 4.3%, "
+17,9,3,Calibri,11.0,72.0,577.9,310.6,588.9,indicating a positive trend in digital skills acquisition.  
+17,10,0,Calibri,11.0,72.0,600.3,136.7,611.4,Regarding the 
+17,10,0,Calibri-Bold,11.0,136.8,600.3,187.9,611.4,gender gap
+17,10,0,Calibri,11.0,187.9,600.3,525.6,611.4,", Romania has a disparity of 2.98 pp. in favour of men, with 33.35% of men "
+17,10,1,Calibri,11.0,72.0,614.9,525.6,625.9,and 30.37% of women possessing basic digital skills. This gap is slightly wider than the EU average of 
+17,10,2,Calibri,11.0,72.0,629.4,113.3,640.4,2.75 pp.  
+17,11,0,Calibri-Bold,11.0,72.0,651.8,147.1,662.9,Education levels
+17,11,0,Calibri,11.0,147.0,651.8,525.7,662.9, significantly influence digital skills in Romania. Among individuals with no or low 
+17,11,1,Calibri,11.0,72.0,666.3,525.9,677.4,"formal education, only 14.25% have basic digital skills, which is considerably lower than the EU average "
+17,11,2,Calibri,11.0,72.0,680.9,525.9,691.9,"of 37.56%. However, Romania’s growth rate in this category is an impressive 18.8%, far above the EU’s "
+17,11,3,Calibri,11.0,72.0,695.4,432.1,706.4,5.7%. This suggests that educational initiatives are beginning to have an impact.  
+17,12,0,Calibri,11.0,72.0,717.8,83.0,728.9,In 
+17,12,0,Calibri-Bold,11.0,82.5,717.8,136.0,728.9,urban areas
+17,12,0,Calibri,11.0,136.0,717.8,525.9,728.9,", 44.33% of people have basic digital skills, which is lower than the EU average of 66.50%. "
+17,12,1,Calibri,11.0,72.0,732.4,525.9,743.4,"The gap between urban and rural areas in Romania is 22.21 pp., wider than the EU’s 13.67 pp., "
+17,12,2,Calibri,11.0,72.0,746.9,301.9,757.9,indicating a significant urban-rural digital divide. In 
+17,12,2,Calibri-Bold,11.0,302.4,746.9,351.2,757.9,rural areas
+17,12,2,Calibri,11.0,351.3,746.9,525.8,757.9,", only 22.12% of individuals have basic "
+17,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,15 
+17,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+18,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"digital skills, much lower than the EU average of 52.83%. Romania’s growth rate in rural areas (2.7%) "
+18,2,1,Calibri,11.0,72.0,98.4,525.9,109.5,"is also below the EU’s 5.5%, highlighting the urgent need for targeted rural digital skills development "
+18,2,2,Calibri,11.0,72.0,112.9,136.4,124.0,programmes.  
+18,4,0,Calibri-Bold,11.0,72.0,135.5,130.6,146.5,Young adults
+18,4,0,Calibri,11.0,130.7,135.5,525.6,146.5," aged 16 to 24 in Romania have a digital skills proficiency rate of 53.28%, which is lower "
+18,4,1,Calibri,11.0,72.0,149.9,254.0,160.9,than the EU average of 74.55%. For the 
+18,4,1,Calibri-Bold,11.0,254.8,149.9,327.8,160.9,older age group
+18,4,1,Calibri,11.0,327.8,149.9,525.8,160.9," of 55 to 74, only 12.84% have basic digital "
+18,4,2,Calibri,11.0,72.0,164.4,359.4,175.5,"skills, which is significantly lower than the EU average of 42.6%.  "
+18,5,0,Calibri,11.0,72.0,187.0,335.7,198.0,"In Romania, 52.62% of individuals reported having at least "
+18,5,0,Calibri-Bold,11.0,336.2,187.0,445.4,198.0,basic digital safety skills
+18,5,0,Calibri,11.0,445.7,187.0,525.9,198.0," in 2025, which is "
+18,5,1,Calibri,11.0,72.0,201.4,525.6,212.4,"lower than the EU average of 74.63%. However, Romania’s annual growth rate of 6.0% in this area "
+18,5,2,Calibri,11.0,72.0,215.9,477.4,226.9,"exceeds the EU average of 3.6%, indicating progress in increasing digital safety awareness.  "
+18,6,0,Calibri,11.0,72.0,238.4,359.6,249.4,Eurostat indicators reveal that 17.76% of people in Romania 
+18,6,0,Calibri-Bold,11.0,361.9,238.4,450.8,249.4,used generative AI
+18,6,0,Calibri,11.0,450.8,238.4,525.9,249.4, in 2025 for all 
+18,6,1,Calibri,11.0,72.0,252.9,525.6,263.9,"purposes, which is lower than the EU average of 32.66%. For professional purposes, the usage rate is "
+18,6,2,Calibri,11.0,72.0,267.4,277.0,278.5,"5.24%, also below the EU average of 15.36%.  "
+18,7,0,Calibri,11.0,72.0,289.9,525.9,300.9,"Based on the results of the 2026 Digital Decade Eurobarometer, 59% of Romanians think that the "
+18,7,1,Calibri,11.0,72.0,304.4,525.9,315.4,"digitalisation of daily public and private services is making their lives easier, while 71% believe that the "
+18,7,2,Calibri,11.0,72.0,318.9,518.5,329.9,EU and Member States should cooperate more to promote digital education and skills programmes. 
+18,8,0,Calibri,11.0,72.0,341.3,181.2,352.4,Romania is at 44.42% of 
+18,8,0,Calibri-Bold,11.0,181.1,341.3,420.8,352.4,people exposed to untrue or doubtful content online
+18,8,0,Calibri,11.0,420.8,341.3,525.9,352.4," in 2025, an increase of "
+18,8,1,Calibri,11.0,72.0,355.8,525.9,366.9,"23.1% annually from 29.29% in 2023. This puts Romania below the EU average, which rose from "
+18,8,2,Calibri,11.0,72.0,370.4,525.9,381.4,"49.25% in 2023 to 55.90% in 2025. Younger people (16-24) are more exposed to such content, with "
+18,8,3,Calibri,11.0,72.0,384.9,341.1,395.9,"56.63% in 2025, compared to 46.32% for those aged 25-64.  "
+18,9,0,Calibri,11.0,72.0,407.3,170.2,418.4,18.19% of individuals 
+18,9,0,Calibri-Bold,11.0,170.8,407.3,383.5,418.4,verified the truthfulness of information online
+18,9,0,Calibri,11.0,383.5,407.3,525.8,418.4,", an increase of 34.7% annually "
+18,9,1,Calibri,11.0,72.0,421.9,525.7,432.9,from 10.02% in 2023. This figure remains below the EU average of 29.16% in 2025. The EU's annual 
+18,9,2,Calibri,11.0,72.0,436.4,525.9,447.4,growth rate was 9.6%. Younger people (16-24) are more likely to verify online content (25.52% of 
+18,9,3,Calibri,11.0,72.0,450.8,327.8,461.8,people in 2025) than those people aged 25-64 (19.39%).  
+18,10,0,Calibri,11.0,72.0,473.3,157.7,484.4,In terms of people
+18,10,0,Calibri-Bold,11.0,157.6,473.3,389.4,484.4, exposed to hostile or degrading messages online
+18,10,0,Calibri,11.0,389.5,473.3,525.8,484.4,", Romania reached 38.95% in "
+18,10,1,Calibri,11.0,72.0,487.7,525.9,498.8,"2025, an annual increase of 36.8% from 20.81% in 2023. This is slightly below the EU average of 39.72% "
+18,10,2,Calibri,11.0,72.0,502.3,525.9,513.3,"in 2025. Younger people are more exposed to such content, with 48.19% in 2025, compared to 40.40% "
+18,10,3,Calibri,11.0,72.0,516.8,174.5,527.8,of people aged 25-64.  
+18,12,0,TimesNewRomanPSMT,12.0,523.6,758.0,526.6,771.3, 
+18,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,16 
+18,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+19,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+19,4,0,Calibri-Light,11.0,72.0,106.5,319.6,117.5,Policy context and assessment of the recommendations 
+19,4,1,Calibri,11.0,72.0,121.0,195.7,132.0,The formal adoption of the 
+19,4,1,Calibri,11.0,196.0,121.0,384.6,132.0,Romanian Digital Competence Framework
+19,4,1,Calibri,11.0,384.7,121.0,525.9,132.0, (DigCompRo) in April 2025 is a 
+19,4,2,Calibri,11.0,72.0,135.5,525.9,146.5,"significant legislative milestone. Now fully operational in 2026, the framework should serve as core "
+19,4,3,Calibri,11.0,72.0,149.9,525.9,160.9,framework for all public policy efforts to increase basic digital skills in the education process. The 
+19,4,4,Calibri,11.0,72.0,164.4,525.7,175.5,"framework is used in NRRP-funded training initiatives such as Digital Stars, where course content and "
+19,4,5,Calibri,11.0,72.0,178.9,525.8,190.0,"performance levels are mapped to DigCompRo, and is further supported by Order No. 1928/2025, "
+19,4,6,Calibri,11.0,72.0,193.5,525.6,204.5,correlating DigCompRo performance levels with ECDL/ICDL certification modules. This creates the 
+19,4,7,Calibri,11.0,72.0,207.9,525.6,218.9,"basis for a more coherent approach to curriculum design, learning outcomes, assessment and "
+19,4,8,Calibri,11.0,72.0,222.4,273.9,233.4,certification across digital skills programmes. 
+19,5,0,Calibri,11.0,72.0,245.0,525.6,256.0,"In pre-university education, Romania has integrated digital competencies into the national graduate "
+19,5,1,Calibri,11.0,72.0,259.4,525.9,270.4,"profile. The evaluation of these skills is now a mandatory component of the Baccalaureate exam, "
+19,5,2,Calibri,11.0,72.0,273.9,525.9,284.9,ensuring that digital literacy is an essential skill for high-school graduates. This has been accompanied 
+19,5,3,Calibri,11.0,72.0,288.4,525.9,299.5,"by extensive teacher training initiatives, with nearly 94 000 teachers having completed digital teacher "
+19,5,4,Calibri,11.0,72.0,302.9,525.9,314.0,"training programmes by the end of 2025. Over time, this should translate into better performance for "
+19,5,5,Calibri,11.0,72.0,317.3,525.8,328.4,"the 16 to 24 age group in terms of basic digital skills. Nevertheless, the situation could be improved "
+19,5,6,Calibri,11.0,72.0,331.8,525.7,342.9,further. Romania’s teacher evaluation system remains heavily reliant on seniority and the attainment 
+19,5,7,Calibri,11.0,72.0,346.4,525.9,357.4,"of formal ‘didactic grades’, a structure that often rewards longevity over innovative teaching methods. "
+19,5,8,Calibri,11.0,72.0,360.9,525.9,371.9,Many schools have been receiving infrastructure upgrades and training through NRRP and ESF+ 
+19,5,9,Calibri,11.0,72.0,375.3,168.6,386.3,"funding projects, but "
+19,5,9,Calibri-Bold,11.0,168.9,375.3,525.9,386.3,teachers do not have clear incentives to integrate digital tools into their daily 
+19,5,10,Calibri-Bold,11.0,72.0,389.8,236.2,400.9,"lessons, leading to uneven adoption"
+19,5,10,Calibri,11.0,236.2,389.8,246.5,400.9,.   
+19,6,0,Calibri,11.0,72.0,412.4,525.9,423.4,"Since 2024, Romania has been implementing a national strategy for adult training, but its performance "
+19,6,1,Calibri,11.0,72.0,426.8,525.9,437.8,monitoring framework and adaptability to emerging trends and labour market needs remains in an 
+19,6,2,Calibri,11.0,72.0,441.3,125.5,452.4,early stage. 
+19,6,2,Calibri-Bold,11.0,125.4,441.3,495.2,452.4,Public policy continues to prioritise upskilling civil servants and the unemployed. 
+19,6,2,Calibri,11.0,495.2,441.3,525.9,452.4,By the 
+19,6,3,Calibri,11.0,72.0,455.8,525.9,466.9,"end of 2025, more than 30 000 public sector employees were trained in advanced digital skills, and 2 "
+19,6,4,Calibri,11.0,72.0,470.3,452.9,481.4,500 public sector managers were trained in digital transformation leadership. 
+19,6,4,Calibri-Bold,11.0,456.9,470.3,525.9,481.4,Private sector 
+19,6,5,Calibri-Bold,11.0,72.0,484.7,257.4,495.8,"employees receive very limited support, "
+19,6,5,Calibri,11.0,257.5,484.7,506.8,495.8,with existing measures deemed too complex to access.  
+19,7,0,Calibri-Bold,11.0,72.0,507.3,525.9,518.3,Another key development has been the reduction in the number of public libraries to be 
+19,7,1,Calibri-Bold,11.0,72.0,521.8,384.2,532.9,transformed into digital skills development hubs from 1135 to 560
+19,7,1,Calibri,11.0,384.4,521.8,525.8,532.9, after the renegotiation of the 
+19,7,2,Calibri,11.0,72.0,536.2,525.9,547.3,"Romanian NRRP. This change will likely have negative implications for rural digital inclusion, especially "
+19,7,3,Calibri,11.0,72.0,550.7,525.8,561.8,given the wider-than-the-EU-average urban-rural digital skills gap. This contrasts with the opinion of 
+19,7,4,Calibri,11.0,72.0,565.3,525.9,576.3,"Romanian citizens. According to the 2026Digital Decade Eurobarometer, 77% of Romanians think it "
+19,7,5,Calibri,11.0,72.0,579.8,525.6,590.9,"important to make digital tools more accessible for everyone, especially vulnerable groups, older "
+19,7,6,Calibri,11.0,72.0,594.2,232.8,605.3,people and people with disabilities. 
+19,8,0,Calibri-Bold,11.0,72.0,616.8,525.6,627.8,"In terms of combating disinformation, a major regulatory step in 2025 was the adoption by the "
+19,8,1,Calibri-Bold,11.0,72.0,631.2,431.8,642.2,National Audiovisual Council of the new Audiovisual Content Regulatory Code.
+19,8,1,Calibri,11.0,432.1,631.2,525.9,642.2, The Code applies to 
+19,8,2,Calibri,11.0,72.0,645.7,525.7,656.7,audiovisual media services under Romanian jurisdiction irrespective of the means of transmission. It 
+19,8,3,Calibri,11.0,72.0,660.2,525.9,671.3,defines concepts such as disinformation (the intentional dissemination of false or misleading 
+19,8,4,Calibri,11.0,72.0,674.7,525.8,685.8,"information with harmful effects), incorrect information (the unintentional dissemination of false "
+19,8,5,Calibri,11.0,72.0,689.1,525.7,700.2,"information with harmful effects), illegal content, harmful content, and online content creators "
+19,8,6,Calibri,11.0,72.0,703.7,222.5,714.7,exercising editorial responsibility. 
+19,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,17 
+19,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+20,3,0,Calibri-LightItalic,11.0,72.0,84.0,135.2,95.1,ICT specialists 
+20,3,1,Calibri-Light,11.0,72.0,100.5,184.8,111.5,Performance assessment 
+20,3,2,Calibri,11.0,72.0,115.0,525.9,126.0,"Romania remains a leader in terms of the proportion of ICT graduates, at 7.10%. However, Romania is "
+20,3,3,Calibri,11.0,72.0,129.5,525.9,140.5,"at only 2.7% of ICT specialists in total employment after a decrease of -3.6% in 2025, well below the "
+20,3,4,Calibri,11.0,72.0,143.9,525.9,154.9,EU average of 5.0%. This is an alarm signal for the Romanian ICT sector. The supply side remains 
+20,3,5,Calibri,11.0,72.0,158.4,525.9,169.5,"efficient, but, with the removal of tax incentives, combined with a broader global tech cooling, the "
+20,3,6,Calibri,11.0,72.0,172.9,525.8,184.0,"decrease in the number of ICT specialists could mean that the low-cost, high-quality model for the "
+20,3,7,Calibri,11.0,72.0,187.5,270.4,198.5,Romanian ICT industry is reaching its limits.  
+20,4,0,Calibri,11.0,72.0,209.9,525.9,220.9,"Romania leads the EU in women as a proportion of the total number of ICT specialists, at 27.8%, an "
+20,4,1,Calibri,11.0,72.0,224.4,320.1,235.5,increase from 27.3% in 2024 (EU 2025 average 19.5%).  
+20,5,0,Calibri-Light,11.0,72.0,246.9,319.6,257.9,Policy context and assessment of the recommendations 
+20,5,1,Calibri,11.0,72.0,261.4,525.6,272.5,"To ensure that ICT specialists training meets market demand, the Romanian Government is using the "
+20,5,2,Calibri,11.0,72.0,275.9,525.6,287.0,European Digital Competence Framework in the nationally adapted DigCompRo as the foundational 
+20,5,3,Calibri,11.0,72.0,290.3,525.9,301.4,standard. This should make it possible to bridge the gap between academic output and employers’ 
+20,5,4,Calibri,11.0,72.0,304.9,525.9,315.9,"needs by providing a common language for skills in high-growth areas such as cybersecurity, AI, and "
+20,5,5,Calibri,11.0,72.0,319.4,179.4,330.4,software development. 
+20,5,5,Calibri-Bold,11.0,180.6,319.4,525.9,330.4,"While the framework provides a solid start, in terms of ICT specialists its "
+20,5,6,Calibri-Bold,11.0,72.0,333.9,525.6,344.9,scope should likely go beyond introductory qualifications (National Qualification Framework levels 
+20,5,7,Calibri-Bold,11.0,72.0,348.4,525.7,359.4,2-4) and move toward the high-tier specialised certifications required to reach the Digital Decade 
+20,5,8,Calibri-Bold,11.0,72.0,362.8,201.5,373.9,target of 400 000 specialists.
+20,5,8,Calibri,11.0,201.5,362.8,204.0,373.9, 
+20,6,0,Calibri,11.0,72.0,385.4,525.9,396.4,"Through an e-learning platform, Romania has trained the employees of 1 000 Romanian SMEs (2560 "
+20,6,1,Calibri,11.0,72.0,399.8,525.9,410.8,"employees) in digital technologies (IoT, cloud, big data, automated learning, AI, robotic process "
+20,6,2,Calibri,11.0,72.0,414.3,417.3,425.4,"automation, blockchain, cyber-physical systems and additive manufacturing). "
+20,6,2,Calibri-Bold,11.0,417.2,414.3,419.7,425.4, 
+20,7,0,Calibri,11.0,72.0,436.9,525.9,447.9,"The planned modernisation of 61 universities through the creation of innovative hubs, such as the "
+20,7,1,Calibri,11.0,72.0,451.3,525.8,462.3,"Automotive Innovation Centre and AI-specific laboratories, demonstrates a clear intent to align "
+20,7,2,Calibri,11.0,72.0,465.8,525.8,476.8,"educational infrastructure with industrial requirements, particularly in the IoT and autonomous "
+20,7,3,Calibri,11.0,72.0,480.3,525.9,491.4,"systems sectors. A notable example is the Alexandru Ioan Cuza University in Iași, which has established "
+20,7,4,Calibri,11.0,72.0,494.8,525.9,505.9,"a suite of sophisticated laboratories dedicated to machine learning, virtual reality, and cybersecurity "
+20,7,5,Calibri,11.0,72.0,509.2,131.6,520.3,(CyberEDU).  
+20,8,0,Calibri,11.0,72.0,531.8,525.9,542.8,"Overall, multiple initiatives exist, and the necessary hardware and laboratory equipment has been "
+20,8,1,Calibri,11.0,72.0,546.3,525.9,557.3,"purchased, but this needs to continue to be translated into tangible progress, in the form of people "
+20,8,2,Calibri,11.0,72.0,560.7,525.9,571.8,"trained, collaboration initiatives between private companies and education systems and a clear "
+20,8,3,Calibri,11.0,72.0,575.3,501.9,586.3,monitoring system to track how the legal and institutional frameworks are being implemented.   
+20,9,0,Calibri-Bold,11.0,72.0,597.8,525.6,608.9,"Looking outside the education system, the Romanian labour market for ICT specialists continues to "
+20,9,1,Calibri-Bold,11.0,72.0,612.2,439.3,623.3,be affected by limited public support and persistent talent retention challenges.
+20,9,1,Calibri,11.0,439.4,612.2,523.6,623.3, The recent phase-
+20,9,2,Calibri,11.0,72.0,626.7,525.8,637.8,"out of sector-specific fiscal incentives, combined with a period of global market volatility, has "
+20,9,3,Calibri,11.0,72.0,641.3,525.8,652.3,intensified pressure on national industry. This has resulted in lower investment margins and reduced 
+20,9,4,Calibri,11.0,72.0,655.8,525.9,666.8,"competitiveness for Romanian ICT firms, which, with limited internal demand for IT specialists from "
+20,9,5,Calibri,11.0,72.0,670.2,408.6,681.2,"traditional economic sectors, remain largely reliant on outsourcing models. "
+20,10,0,Calibri-Bold,11.0,72.0,692.7,525.8,703.8,Attracting and retaining high-level ICT expertise is also critical for the success of Romania’s complex 
+20,10,1,Calibri-Bold,11.0,72.0,707.1,206.8,718.2,public digitalisation projects.
+20,10,1,Calibri,11.0,206.9,707.1,525.7,718.2," Encouragingly, Romania has taken steps to address historically rigid "
+20,10,2,Calibri,11.0,72.0,721.7,525.7,732.7,labour legislation by updating the classification of occupations to reflect the current economic and 
+20,10,3,Calibri,11.0,72.0,736.2,525.9,747.2,technological trends. Romania has also initiated the necessary legislative steps to align its public sector 
+20,10,4,Calibri,11.0,72.0,750.7,525.9,761.8,job classifications with the European e-Competence and Cybersecurity Skills Frameworks. If successful 
+20,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,18 
+20,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+21,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"(currently the proposal is in public consultation) this would standardize recruitment, certification, and "
+21,3,1,Calibri,11.0,72.0,98.4,525.6,109.5,career paths across core ICT disciplines while introducing specific salary coefficients to help retain 
+21,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"technical expertise.  Addressing systemic matters, such as competitive compensation and the "
+21,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"management of intellectual property (IP) for developed solutions, is also essential for building the "
+21,3,4,Calibri,11.0,72.0,142.0,373.5,153.0,internal capacity required to operate a sovereign digital ecosystem. 
+21,4,0,Calibri-Bold,11.0,72.0,164.4,523.4,175.5,"More broadly, the Romanian ICT industry remains mostly a consumer, rather than a creator of talent."
+21,4,0,Calibri,11.0,523.4,164.4,525.9,175.5, 
+21,4,1,Calibri,11.0,72.0,178.9,525.8,190.0,"This affects in particular people starting out on the job market, with a ‘junior developer gap’ emerging "
+21,4,2,Calibri,11.0,72.0,193.5,525.9,204.5,"as companies are reluctant to invest in upskilling new employees who leave after a few months, while, "
+21,4,3,Calibri,11.0,72.0,207.9,525.8,218.9,"at the same time, the market is readapting to AI. This gap is likely to have repercussions throughout "
+21,4,4,Calibri,11.0,72.0,222.4,525.9,233.4,"the industry (the 2025 decrease in the number of ICT specialists could be a first sign of this), but also, "
+21,4,5,Calibri,11.0,72.0,236.9,282.1,248.0,"in the long term, on future student enrolment. "
+21,5,0,Calibri-Bold,11.0,77.7,259.9,186.6,270.9,2025 recommendation: 
+21,5,0,Calibri,11.0,186.6,259.9,189.1,270.9, 
+21,6,0,Calibri-Bold,11.0,77.7,282.4,163.3,293.5,Basic digital skills: 
+21,6,0,Calibri,11.0,164.2,282.4,520.0,293.5,Continue to integrate basic digital skills as a core component of the education 
+21,6,1,Calibri,11.0,77.7,296.9,520.2,308.0,"process, both for teachers and students. Make upskilling, particularly of employees in the private "
+21,6,2,Calibri,11.0,77.7,311.3,252.0,322.4,"sector and older population, a priority. "
+21,7,0,Calibri-Bold,11.0,77.7,333.9,235.5,344.9,ICT specialists and advanced skills
+21,7,0,Calibri,11.0,235.7,333.9,520.3,344.9,: boost SME digital skills by simplifying support measures and 
+21,7,1,Calibri,11.0,77.7,348.4,494.7,359.4,engaging stakeholders to identify market needs. Identify ways to attract and retain ICT talent. 
+21,8,0,Calibri-Bold,11.0,77.7,372.4,514.9,383.4,Romania made some efforts to address the recommendation through new policy actions in 2025
+21,8,0,Calibri,11.0,515.2,372.4,520.3,383.4,. 
+21,8,0,Calibri-Bold,11.0,520.2,372.4,522.7,383.4, 
+21,9,0,Calibri-Bold,11.0,77.7,394.9,520.2,405.9,"Basic digital skills: By adopting the DigCompRo framework, Romania has made good progress in "
+21,9,1,Calibri-Bold,11.0,77.7,409.4,246.2,420.4,addressing the basic digital skills gap
+21,9,1,Calibri,11.0,246.4,409.4,520.3,420.4,". This should yield results over the medium term. For adults, "
+21,9,2,Calibri,11.0,77.7,423.8,520.3,434.8,"public policy continues to be mostly focused on civil servants and the unemployed, with limited "
+21,9,3,Calibri,11.0,77.7,438.3,520.2,449.4,support for the upskilling of those working in the private sector or older people. Romania has 
+21,9,4,Calibri,11.0,77.7,452.8,520.3,463.9,"reduced the number of public libraries that were meant to become digital skills hubs, risking the "
+21,9,5,Calibri,11.0,77.7,467.3,270.3,478.4,exacerbation of the country’s digital divide.
+21,9,5,Calibri-Bold,11.0,270.2,467.3,272.7,478.4, 
+21,10,0,Calibri-Bold,11.0,77.7,489.8,231.4,500.8,ICT specialists and advanced skills
+21,10,0,Calibri,11.0,231.4,489.8,520.3,500.8,: Progress has been made on turning universities into innovation 
+21,10,1,Calibri,11.0,77.7,504.3,520.2,515.3,hubs. There is scope for working more closely with stakeholders and defining clear paths that 
+21,10,2,Calibri,11.0,77.7,518.8,520.2,529.9,"include studies, collaborations with private companies and government support to ensure market "
+21,10,3,Calibri,11.0,77.7,533.2,300.3,544.3,needs are met and talent remains in the country.  
+21,11,0,Calibri,11.0,72.0,556.3,74.5,567.3, 
+21,12,0,Calibri-Light,12.0,72.0,579.0,476.9,591.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+21,13,0,Calibri-LightItalic,11.0,72.0,596.6,183.7,607.7,Performance assessment 
+21,13,1,Calibri-Bold,11.0,72.0,611.1,525.9,622.2,"In 2025, Romania's total digital public services score reached 64.25/100 points. This is a 2.4% "
+21,13,2,Calibri-Bold,11.0,72.0,625.5,466.1,636.6,increase compared to 2024. Romania is below the EU average of 84.64/100 points. 
+21,13,2,Calibri,11.0,467.9,625.5,525.9,636.6,A significant 
+21,13,3,Calibri,11.0,72.0,640.1,525.9,651.1,disparity exists between the availability of online services for national and cross-border citizens. When 
+21,13,4,Calibri,11.0,72.0,654.6,525.8,665.6,"looking specifically at digital public services for national citizens, Romania reached 74.00/100 points in "
+21,13,5,Calibri,11.0,72.0,669.1,519.3,680.1,"2025, while for cross-border digital public services for citizens, its 2025 score was 54.52/100 points.  "
+21,14,0,Calibri,11.0,72.0,691.5,525.9,702.6,"Citizen related life events that score particularly well include health (84.29), starting a small claims "
+21,14,1,Calibri,11.0,72.0,706.1,525.9,717.1,"procedure (79.17) and moving (75.00). Conversely, family (28.98), career (49.30), and transport (64.26) "
+21,14,2,Calibri,11.0,72.0,720.6,525.9,731.6,show the most room for improvement. Across levels of government for national citizens’ digital public 
+21,14,3,Calibri,11.0,72.0,735.0,525.7,746.0,"services, central government services scored 78.88/100 points, regional government services "
+21,14,4,Calibri,11.0,72.0,749.5,375.3,760.6,"66.39/100 points, and local government services 66.02/100 points.  "
+21,15,0,Calibri,11.0,292.1,781.9,305.8,793.0,19 
+21,15,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+22,2,0,Calibri-Bold,11.0,72.0,84.0,488.5,95.1,Romania's total digital public services score for businesses (covering both national and cross
+22,2,0,CambriaMath,11.0,488.7,83.7,492.4,94.8,‑
+22,2,0,Calibri-Bold,11.0,492.6,84.0,525.9,95.1,border 
+22,2,1,Calibri-Bold,11.0,72.0,98.4,503.1,109.5,"businesses) was 66.83/100 points in 2025, putting it below the EU average of 88.59/100 points."
+22,2,1,Calibri,11.0,503.1,98.4,525.9,109.5, This 
+22,2,2,Calibri,11.0,72.0,112.9,212.8,124.0,is a 21.2% increase from 2024.  
+22,4,0,Calibri,11.0,72.0,135.5,525.9,146.5,"Across the two Digital Decade key performance indicators (KPIs), Romania’s digital public services for "
+22,4,1,Calibri,11.0,72.0,149.9,525.7,160.9,businesses indicator performs better than its counterpart for citizens. This stronger performance is 
+22,4,2,Calibri,11.0,72.0,164.4,525.8,175.5,"underpinned by digital public services for businesses available to national users, which forms the most "
+22,4,3,Calibri,11.0,72.0,178.9,527.7,190.0,"mature component of the KPI, with cross-border digital public services for businesses less developed.  "
+22,5,0,Calibri,11.0,72.0,201.4,525.6,212.4,"Looking at the underlying features of key online public services, a mixed picture emerges regarding "
+22,5,1,Calibri,11.0,72.0,215.9,525.9,226.9,"user-friendliness, efficiency, and transparency. Romanian digital public services perform fairly well in "
+22,5,2,Calibri,11.0,72.0,230.4,478.8,241.5,"terms of mobile friendliness, with a score of 92.65, slightly below the EU average of 97.35.  "
+22,6,0,Calibri,11.0,72.0,252.9,525.8,263.9,"In terms of user support, Romania scores among the lower performing Member States, with a score "
+22,6,1,Calibri,11.0,72.0,267.4,528.3,278.5,"of 75.66 (EU average 90.01). Nevertheless, Romania has improved its performance since 2024 (71.69).  "
+22,7,0,Calibri,11.0,72.0,289.9,525.8,300.9,"Romania also underperforms in terms of the transparency of service delivery, design and personal "
+22,7,1,Calibri,11.0,72.0,304.4,525.8,315.4,"data, with a score of 38.04 (EU average 69.59). This performance is driven in particular by (i) limited "
+22,7,2,Calibri,11.0,72.0,318.9,525.9,329.9,opportunities for users to manage personal data held by public authorities through government 
+22,7,3,Calibri,11.0,72.0,333.4,525.9,344.4,"portals (transparency of personal data, scoring 34.22) and (ii) the little extent to which users are "
+22,7,4,Calibri,11.0,72.0,347.8,422.8,358.9,"involved in designing services (transparency of service design, scoring 41.67).   "
+22,8,0,Calibri,11.0,72.0,370.4,525.9,381.4,"Finally, Romania severely underperforms in terms of pre-filled online forms (the share of eGovernment "
+22,8,1,Calibri,11.0,72.0,384.9,525.9,395.9,services which use information previously submitted to trusted government websites). The pre-filled 
+22,8,2,Calibri,11.0,72.0,399.3,525.9,410.4,forms indicator - a good proxy for how the once-only principle functions for a country - was 20.22 in 
+22,8,3,Calibri,11.0,72.0,413.8,283.8,424.9,"2025, compared with the EU average of 75.93.  "
+22,9,0,Calibri-LightItalic,11.0,72.0,436.4,316.8,447.4,Policy context and assessment of the recommendations 
+22,9,1,Calibri,11.0,72.0,450.8,425.3,461.8,The greatest progress made by Romania has been in the transition to the 
+22,9,1,Calibri-Bold,11.0,427.4,450.8,520.7,461.8,governmental cloud
+22,9,1,Calibri,11.0,520.7,450.8,525.9,461.8,. 
+22,9,2,Calibri,11.0,72.0,465.3,525.9,476.4,"Financed through the NRRP, the project is in its final infrastructure stage before being fully operational "
+22,9,3,Calibri,11.0,72.0,479.8,525.8,490.9,following the completion of key data centres in Timișoara and Brașov. 15 entities were selected to 
+22,9,4,Calibri,11.0,72.0,494.3,525.9,505.4,handle the migration of at least 30 critical governmental applications to the cloud by June 2026. The 
+22,9,5,Calibri,11.0,72.0,508.7,350.8,519.8,"entire process is extremely complex, due to a range of factors. "
+22,10,0,Calibri,11.0,72.0,531.3,525.9,542.3,"Firstly, the migration of applications to the government cloud is not a simple relocation, but requires "
+22,10,1,Calibri,11.0,72.0,545.8,525.9,556.9,"architectural analysis, security classification, data preparation, compatibility assessments, testing, "
+22,10,2,Calibri,11.0,72.0,560.3,468.6,571.3,"operational continuity planning and, in the case of legacy systems, potential refactoring.  "
+22,11,0,Calibri,11.0,72.0,582.8,116.5,593.9,"Secondly, "
+22,11,0,Calibri-Bold,11.0,118.7,582.8,525.9,593.9,the digital public service landscape in Romania has historically been developed in a 
+22,11,1,Calibri-Bold,11.0,72.0,597.2,146.8,608.3,fragmented way
+22,11,1,Calibri,11.0,146.9,597.2,525.8,608.3,", with each institution preferring to invest in its own, insular solution. In addition to "
+22,11,2,Calibri,11.0,72.0,611.7,525.9,622.8,"interoperability issues, this has led to multiple cases where offline procedures are mirrored in the "
+22,11,3,Calibri,11.0,72.0,626.3,525.8,637.3,online environment. This fragmented nature has further increased the degree of complexity in the 
+22,11,4,Calibri,11.0,72.0,640.8,280.0,651.8,transition process to the governmental cloud.  
+22,12,0,Calibri-Bold,11.0,72.0,663.2,525.9,674.3,"Thirdly, there is a need for legislative and administrative changes, as legal provisions and current "
+22,12,1,Calibri-Bold,11.0,72.0,677.7,461.7,688.8,administrative practices often nullify the benefits of carrying out digital procedures.
+22,12,1,Calibri,11.0,461.7,677.7,525.9,688.8," For example, "
+22,12,2,Calibri,11.0,72.0,692.3,525.9,703.3,"certificates issued and procedures completed online by a government body are, in practice, not "
+22,12,3,Calibri,11.0,72.0,706.7,525.9,717.7,accepted by the same body in the real world because specific legal requirements still require the 
+22,12,4,Calibri,11.0,72.0,721.2,246.9,732.2,procedures to be carried out on paper.  
+22,12,4,Calibri-Bold,11.0,246.6,721.2,525.9,732.2,"Overall, Romanian institutions continue to be unable to meet "
+22,12,5,Calibri-Bold,11.0,72.0,735.7,399.3,746.8,their own obligation under national law to fulfil the once-only principle.
+22,12,5,Calibri,11.0,399.3,735.7,404.2,746.8,  
+22,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,20 
+22,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+23,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"To address this, Romania has started the National Interoperability Platform project, financed through "
+23,3,1,Calibri,11.0,72.0,98.4,525.8,109.5,"the European Fund for Regional Development. With a total budget of approximately EUR 33 million, "
+23,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"the platform should enable real-time, automated data exchange between separate public sector "
+23,3,3,Calibri,11.0,72.0,127.5,525.8,138.5,"information systems.  The procurement of the required services has been postponed, but, when "
+23,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"functional, the platform should allow for the full implementation of the once-only principle, in "
+23,3,5,Calibri,11.0,72.0,156.4,525.6,167.4,accordance with the provisions of Law 242/2022. By facilitating the automated interconnection of 
+23,3,6,Calibri,11.0,72.0,170.9,525.9,181.9,"national base registries, it should ensure that citizens and businesses are no longer required to provide "
+23,3,7,Calibri,11.0,72.0,185.4,309.6,196.5,information or documents already held by the state.  
+23,4,0,Calibri,11.0,72.0,207.9,327.5,218.9,Another key development has been initial roll-out of the 
+23,4,0,Calibri-Bold,11.0,327.8,207.9,406.1,218.9,ROePAS platform
+23,4,0,Calibri,11.0,406.2,207.9,525.9,218.9,. This platform is designed 
+23,4,1,Calibri,11.0,72.0,222.4,525.8,233.4,"to serve as the national single digital gateway.  Developed with NRRP support, the portal aims to "
+23,4,2,Calibri,11.0,72.0,236.9,525.7,248.0,"provide a unified entry point for citizens and businesses, centralizing previously fragmented online "
+23,4,3,Calibri,11.0,72.0,251.4,525.9,262.5,interfaces.  The platform's framework is structured to enable secure electronic identification and 
+23,4,4,Calibri,11.0,72.0,265.9,525.7,276.9,integrate data sources across public institutions. A gradual transition process is underway to migrate 
+23,4,5,Calibri,11.0,72.0,280.4,314.7,291.4,existing administrative procedures to the new system. 
+23,5,0,Calibri,11.0,72.0,302.9,466.4,314.0,A new platform (fara-hartie.gov.ro) has also been set up for citizens and companies to flag 
+23,5,0,Calibri-Bold,11.0,465.8,302.9,525.9,314.0,burdensome 
+23,5,1,Calibri-Bold,11.0,72.0,317.3,123.2,328.4,procedures
+23,5,1,Calibri,11.0,123.3,317.3,525.9,328.4,", including regarding issues faced when trying to use digital public services. Every 30 days, "
+23,5,2,Calibri,11.0,72.0,331.8,525.9,342.9,the most frequently flagged issues are sent to the eGovernment and Bureaucracy Reduction 
+23,5,3,Calibri,11.0,72.0,346.4,525.7,357.4,"Committee, which debates and decides on the necessary solutions. It is unclear if the Romanian "
+23,5,4,Calibri,11.0,72.0,360.9,525.9,371.9,government also plans to commit to a maximum number of days to solve the most frequent issues or 
+23,5,5,Calibri,11.0,72.0,375.3,439.9,386.3,if a tracker or a dashboard will be introduced to show how the issues are handled. 
+23,6,0,Calibri,11.0,72.0,397.9,525.8,408.9,Most of the work done so far on the governmental cloud has been to ensure the infrastructure and 
+23,6,1,Calibri,11.0,72.0,412.4,525.9,423.4,platform components and moving existing state applications to the cloud. So far 9 applications have 
+23,6,2,Calibri,11.0,72.0,426.8,525.9,437.8,"been moved to the cloud, while 12 other applications are being migrated. During the reporting period "
+23,6,3,Calibri,11.0,72.0,441.3,525.9,452.4,contracts were yet to be signed for the migration of an additional 20 applications. In addition to 
+23,6,4,Calibri,11.0,72.0,455.8,258.4,466.9,"finalising the move for these services, "
+23,6,4,Calibri-Bold,11.0,261.8,455.8,525.8,466.9,a key aspect moving forward will be to develop the 
+23,6,5,Calibri-Bold,11.0,72.0,470.3,525.9,481.4,marketplace component of the governmental cloud to enable the private sector to provide digital 
+23,6,6,Calibri-Bold,11.0,72.0,484.7,223.5,495.8,solutions for public service needs
+23,6,6,Calibri,11.0,223.6,484.7,231.4,495.8,.  
+23,7,0,Calibri,11.0,72.0,507.3,525.9,518.3,A similar situation exists in business licensing. Romania is working on implementing the Electronic 
+23,7,1,Calibri,11.0,72.0,521.8,525.9,532.9,"Single Point of Contact for industrial licences, which would constitute significant progress on "
+23,7,2,Calibri,11.0,72.0,536.2,497.3,547.3,addressing the fragmented and heavily burdensome licensing system in the country (a recent 
+23,7,2,Calibri,11.0,498.3,536.2,525.9,547.3,OECD 
+23,7,3,Calibri,11.0,72.0,550.7,123.7,561.8,assessment
+23,7,3,Calibri,11.0,123.7,550.7,389.7,561.8," mapped 502 different licenses, issued by 65 institutions). "
+23,7,3,Calibri-Bold,11.0,390.8,550.7,525.9,561.8,While 51% of the monitored 
+23,7,4,Calibri-Bold,11.0,72.0,565.3,525.9,576.3,"licences can be applied for online, the process remains decentralized across multiple portals and "
+23,7,5,Calibri-Bold,11.0,72.0,579.8,523.5,590.9,"payment methods, often with no automated system to inform them of the status of the request."
+23,7,5,Calibri,11.0,523.4,579.8,525.9,590.9, 
+23,7,6,Calibri,11.0,72.0,594.2,525.9,605.3,"Clear information on the licences needed, the procedure for obtaining them, being able to apply for a "
+23,7,7,Calibri,11.0,72.0,608.7,525.8,619.8,"licence using a single portal that would implement the once-only principle, a unified payment system "
+23,7,8,Calibri,11.0,72.0,623.3,525.9,634.3,"and a system for tracking the status of a request – would considerably improve the licensing regime, "
+23,7,9,Calibri,11.0,72.0,637.8,525.8,648.8,"thereby stimulating entrepreneurship. As part of such efforts, the Romanian Ministry of Finance "
+23,7,10,Calibri,11.0,72.0,652.2,525.9,663.2,recently announced an initiative to digitalise customs services. This should reduce the complexity of 
+23,7,11,Calibri,11.0,72.0,666.7,525.9,677.7,administrative procedures for customs authorizations and procedures for both companies and citizens. 
+23,8,0,Calibri,11.0,72.0,689.1,525.8,700.2,The maturity of Romania's digital public services also depends on modernizing key sectoral workflows 
+23,8,1,Calibri,11.0,72.0,703.5,525.7,714.6,"that directly interface with citizens and businesses. In addition to business licencing, essential "
+23,8,2,Calibri,11.0,72.0,717.9,525.9,729.0,"administrative verticals, such as tax administration and the judicial system, have underperformed. In "
+23,8,3,Calibri,11.0,72.0,732.4,525.9,743.4,"the area of tax administration, the Ministry of Finance recently highlighted ongoing PNRR-funded "
+23,8,4,Calibri,11.0,72.0,746.8,525.9,757.8,"efforts to launch a modernized tax payment portal, including expanding pre-filled tax declarations use. "
+23,9,0,Calibri,11.0,292.1,781.9,305.8,793.0,21 
+23,9,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+24,2,0,Calibri,11.0,72.0,84.0,525.7,95.1,"In the judicial, Romania encounters delays in deploying the necessary decentralised IT systems that "
+24,2,1,Calibri,11.0,72.0,98.3,525.9,109.3,"form the basis for the Justice Digital Exchange system, a key reform for the digitalisation of cross-border "
+24,2,2,Calibri,11.0,72.0,112.7,176.7,123.7,public judicial services. 
+24,4,0,Calibri,11.0,72.0,135.1,230.3,146.2,Romania currently has two primary 
+24,4,0,Calibri-Bold,11.0,230.0,135.1,289.0,146.2,eID solutions
+24,4,0,Calibri,11.0,289.0,135.1,525.9,146.2,", the ROeID mobile application (recognised under the "
+24,4,1,Calibri,11.0,72.0,149.7,525.8,160.7,"eIDAS Regulation) and the biometric electronic identity card. For the latter, the revised NRRP sets as a "
+24,4,2,Calibri,11.0,72.0,164.1,525.9,175.1,"target the issuing of 3.5 million cards by June 2026. This target will likely not be met, as fewer than 1.5 "
+24,4,3,Calibri,11.0,72.0,178.6,525.9,189.6,"million cards had been issued as of March 2026. Despite technical solutions being in place, Romania "
+24,4,4,Calibri,11.0,72.0,193.1,525.8,204.1,continues to rank among the last countries in the EU for eID use to access online services for private 
+24,4,5,Calibri,11.0,72.0,207.6,374.2,218.7,"purposes (10.1% of the population, a decrease from 11% in 2023).   "
+24,5,0,Calibri,11.0,72.0,230.1,525.7,241.1,An element of progress in terms of legislative change has been the publication of the implementing 
+24,5,1,Calibri,11.0,72.0,244.6,279.0,255.6,norms clarifying the procedures for the use of 
+24,5,1,Calibri-Bold,11.0,279.0,244.6,373.5,255.6,electronic signatures
+24,5,1,Calibri,11.0,373.6,244.6,525.9,255.6, in Romania. Long criticised for its 
+24,5,2,Calibri,11.0,72.0,259.1,525.8,270.2,"high costs and low adoption rates, e-signature use in Romania should increase after the new rules "
+24,5,3,Calibri,11.0,72.0,273.5,424.6,284.6,define procedures for both qualified and non-qualified trust service providers.  
+24,6,0,Calibri,11.0,72.0,296.1,525.9,307.1,Another key development is the possibility of using the certificate on the electronic ID card to provide 
+24,6,1,Calibri,11.0,72.0,310.5,525.9,321.5,advanced signatures on PDF documents. This will cover many peoples’ interactions with public 
+24,6,2,Calibri,11.0,72.0,325.0,525.9,336.0,"institutions, particularly local authorities. Nevertheless, a qualified signature is still required for many "
+24,6,3,Calibri,11.0,72.0,339.5,286.1,350.6,interactions between businesses and the state.  
+24,7,0,Calibri,11.0,72.0,362.0,494.0,373.0,Romania has indicated that 2026 will also be the year of starting the implementation of the 
+24,7,0,Calibri-Bold,11.0,495.1,362.0,525.9,373.0,digital 
+24,7,1,Calibri-Bold,11.0,72.0,376.5,100.3,387.5,wallet
+24,7,1,Calibri,11.0,100.3,376.5,525.9,387.5,". The development of the EU Digital Identity Wallet solution is in the very early stages, with the "
+24,7,2,Calibri,11.0,72.0,391.0,522.8,402.0,required governance regulatory framework still lacking and the technical solution not yet developed. 
+24,8,0,Calibri-Bold,11.0,72.0,413.5,525.7,424.5,"Ultimately, 2026 is a decisive year for Romania to bridge the gap between digital infrastructure and "
+24,8,1,Calibri-Bold,11.0,72.0,428.0,285.2,439.0,the broad take-up of digital public services.
+24,8,1,Calibri,11.0,285.4,428.0,525.9,439.0," The convergence of the governmental cloud, the "
+24,8,2,Calibri,11.0,72.0,442.5,525.9,453.5,"upcoming Digital Identity Wallet, and the recently liberalised e-signature framework is a chance to "
+24,8,3,Calibri,11.0,72.0,457.0,525.8,468.1,"provide a unified ecosystem. For this vision to happen, solutions must be developed in an open, "
+24,8,4,Calibri,11.0,72.0,471.4,525.9,482.5,"transparent manner and rigorously stress-tested together with the Romanian software industry, whose "
+24,8,5,Calibri,11.0,72.0,485.9,525.9,497.0,representatives have indicated their willingness to provide the technical expertise needed to test the 
+24,8,6,Calibri,11.0,72.0,500.5,525.9,511.5,"new systems. By working collaboratively, Romania can move beyond ‘digital by mandate’ to deliver an "
+24,8,7,Calibri,11.0,72.0,515.0,426.2,526.0,attractive and trustworthy digital solutions package for citizens and businesses. 
+24,9,0,Calibri-LightItalic,11.0,72.0,537.4,112.2,548.5,e-Health 
+24,9,1,Calibri-Bold,11.0,72.0,551.9,465.0,563.0,Romania is taking steps to modernize the national health sector through digitalisation.
+24,9,1,Calibri,11.0,465.1,551.9,525.9,563.0, The Ministry 
+24,9,2,Calibri,11.0,72.0,566.5,525.9,577.5,"of Health has awarded a EUR 6.9 million contract, funded via the Romanian NRRP, for its digital "
+24,9,3,Calibri,11.0,72.0,580.9,525.8,591.9,"transformation. It aims to improve administrative efficiency, transparency and service quality by "
+24,9,4,Calibri,11.0,72.0,595.4,525.8,606.5,digitalising internal institutional workflows and launching an e-government portal for citizens and 
+24,9,5,Calibri,11.0,72.0,609.9,125.3,621.0,businesses. 
+24,10,0,Calibri,11.0,72.0,632.4,341.6,643.4,Romania also announced it was starting consultations on a 
+24,10,0,Calibri-Bold,11.0,342.4,632.4,525.9,643.4,new national strategy for digital health 
+24,10,1,Calibri-Bold,11.0,72.0,646.9,129.8,657.9,2026 – 2030.
+24,10,1,Calibri,11.0,129.9,646.9,525.9,657.9," The document introduces a high level of ambition, aiming to replace legacy paper-based "
+24,10,2,Calibri,11.0,72.0,661.4,525.9,672.5,workflows with a unified digital ecosystem. The strategy also prioritises the single-entry point for 
+24,10,3,Calibri,11.0,72.0,675.9,525.9,687.0,"patient data, which is supposed to translate into a reduced administrative burden for both patients, "
+24,10,4,Calibri,11.0,72.0,690.3,525.9,701.4,"and healthcare providers. A similar process took place in 2024, with that iteration of the strategy "
+24,10,5,Calibri,11.0,72.0,704.9,525.8,715.9,ending up not being adopted. It is unclear if lessons learned from the previous consultation have been 
+24,10,6,Calibri,11.0,72.0,719.4,202.2,730.4,integrated into the new text. 
+24,11,0,Calibri-Bold,11.0,72.0,741.8,525.7,752.9,"The complexity of this digital transformation is very high, as it requires a complete overhaul of the "
+24,11,1,Calibri-Bold,11.0,72.0,756.4,204.7,767.4,Romanian healthcare system
+24,11,1,Calibri,11.0,204.8,756.4,525.8,767.4,. The draft strategy includes a new Digital Health Directorate for policy 
+24,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,22 
+24,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+25,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,and a Digital Health Unit for implementation. These would have to be adequately staffed and allowed 
+25,2,1,Calibri,11.0,72.0,98.4,424.4,109.5,to focus on the process without excessive interference from the political level.  
+25,4,0,Calibri,11.0,72.0,121.0,507.1,132.0,The core of Romania’s health system digitalisation is the national health insurance platform (PIAS). 
+25,4,0,Calibri-Bold,11.0,506.7,121.0,525.9,132.0,The 
+25,4,1,Calibri-Bold,11.0,72.0,135.5,196.1,146.5,current system is outdated
+25,4,1,Calibri,11.0,196.1,135.5,525.7,146.5,", unable to meet the demands of a growing user base and an increased "
+25,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"data capacity, leading to multiple instances of the system being unavailable. Because of this, "
+25,4,3,Calibri,11.0,72.0,164.4,428.5,175.5,"Romanians can access their health records online in theory, but not in practice.  "
+25,5,0,Calibri,11.0,72.0,187.0,525.9,198.0,"The new PIAS platform should be available mid-2026, operationalised through NRRP funding (EUR 100 "
+25,5,1,Calibri,11.0,72.0,201.4,525.8,212.4,"million). According to the government, the new platform should enable the removal of most paper "
+25,5,2,Calibri,11.0,72.0,215.9,525.7,226.9,"form requirements, digitalising referrals and medical leave requests, offer access to personal medical "
+25,5,3,Calibri,11.0,72.0,230.4,267.3,241.5,files and integrate electronic prescriptions.  
+25,6,0,Calibri,11.0,72.0,252.9,525.9,263.9,"Besides the necessary hardware for running the new PIAS and for digitalising hospitals and clinics, the "
+25,6,1,Calibri,11.0,72.0,267.4,525.9,278.5,"new system would need a strong cybersecurity component, integration into the national eID system, "
+25,6,2,Calibri,11.0,72.0,281.9,525.9,293.0,data governance solutions tailored to future data needs and interoperability with existing systems and 
+25,6,3,Calibri,11.0,72.0,296.3,525.9,307.4,with the European Health Data Space and its secondary use requirements. These efforts would need 
+25,6,4,Calibri,11.0,72.0,310.9,525.9,321.9,to be doubled by ensuring the necessary upskilling of both medical staff and people in general to 
+25,6,5,Calibri,11.0,72.0,325.4,471.2,336.4,ensure that the solutions put in place are actually taken up and used throughout society.  
+25,7,0,Calibri,11.0,72.0,347.8,461.7,358.9,These initiatives constitute a radical transformation of Romania’s healthcare delivery. 
+25,7,0,Calibri-Bold,11.0,462.6,347.8,525.9,358.9,It is essential 
+25,7,1,Calibri-Bold,11.0,72.0,362.3,523.3,373.4,"that this transformation put user needs centre stage, in a way that is easy and simple to understand."
+25,7,1,Calibri,11.0,523.4,362.3,525.9,373.4, 
+25,7,2,Calibri,11.0,72.0,376.8,525.8,387.9,"To restore public trust, significantly eroded by the current system, the new eHealth ecosystem must "
+25,7,3,Calibri,11.0,72.0,391.4,525.9,402.4,deliver benefits that are immediate and unequivocal. Implementing key points from the draft strategy 
+25,7,4,Calibri,11.0,72.0,405.8,525.9,416.8,"such as giving patients more access to their data, setting up a National Waiting List Registry, and "
+25,7,5,Calibri,11.0,72.0,420.3,523.6,431.4,implementing the single-entry principle could considerably help to make the system more patient-
+25,7,6,Calibri,11.0,72.0,434.8,525.9,445.9,"centric, transparent and traceable instead of the current physician-centric and opaque model. "
+25,7,7,Calibri,11.0,72.0,449.3,525.9,460.4,Introducing measures to discourage the use of paper or bring about digital consultations could help 
+25,7,8,Calibri,11.0,72.0,463.7,289.2,474.8,the likelihood of the new system being adopted. 
+25,8,0,Calibri-Bold,11.0,72.0,486.3,525.8,497.4,"To ensure long-term sustainability, the relevant public authorities should develop the new solutions "
+25,8,1,Calibri-Bold,11.0,72.0,500.8,525.8,511.9,"more inclusively, by moving away from isolated in-house developments toward a transparent "
+25,8,2,Calibri-Bold,11.0,72.0,515.2,444.8,526.3,framework aligned with international and European interoperability standards.
+25,8,2,Calibri,11.0,444.8,515.2,525.9,526.3, By engaging the 
+25,8,3,Calibri,11.0,72.0,529.7,525.9,540.8,"private sector as a strategic partner through collaborative validation phases, such as beta-testing, the "
+25,8,4,Calibri,11.0,72.0,544.3,525.9,555.3,administration could ensure that digital solutions are technically sound and meet actual market needs. 
+25,8,5,Calibri,11.0,72.0,558.8,477.9,569.9,"Most of this digital transition has been financed by the RRF, which will stop in June 2026. "
+25,8,5,Calibri-Bold,11.0,478.7,558.8,525.9,569.9,There is a 
+25,8,6,Calibri-Bold,11.0,72.0,573.2,525.9,584.3,"clear need to ensure financing sustainability, particularly for the maintenance and improvement of "
+25,8,7,Calibri-Bold,11.0,72.0,587.7,209.7,598.8,"PIAS, from July 2026 onwards."
+25,8,7,Calibri,11.0,209.7,587.7,214.6,598.8,  
+25,9,0,Calibri,11.0,72.0,610.3,525.7,621.3,"In terms of achieving universal citizen access to their electronic health records (EHRs) by 2030, "
+25,9,1,Calibri,11.0,72.0,624.7,525.8,635.7,Romania’s score remained unchanged from last year (75.1). Major differences persist in the use of 
+25,9,2,Calibri,11.0,72.0,639.2,525.8,650.3,these tools according to people’s socio-economic background. Data on medical devices and implants 
+25,9,3,Calibri,11.0,72.0,653.7,525.7,664.8,"is not available. Citizens can access their EHR data through an online portal, but a mobile application "
+25,9,4,Calibri,11.0,72.0,668.3,525.9,679.3,"is not yet available. Authentication is possible by means of two-factor authentication, but not through "
+25,9,5,Calibri,11.0,72.0,682.7,525.6,693.7,an EUDI-compliant eID. Another gap in Romania’s eHealth maturity is that the online access service 
+25,9,6,Calibri,11.0,72.0,697.2,320.3,708.2,does not fully comply with web accessibility guidelines. 
+25,10,0,Calibri,11.0,72.0,719.8,525.9,730.8,"To date, nine Romanian organisations have joined the Network of AI-powered Advanced Medical "
+25,10,1,Calibri,11.0,72.0,734.2,525.9,745.2,"Centres, which aims to speed up the introduction of innovative solutions for the prevention, early "
+25,10,2,Calibri,11.0,72.0,748.7,525.9,759.7,"detection and diagnosis of cancer and cardiovascular disease. The cross-border harmonisation, secure "
+25,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,23 
+25,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+26,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"storage, processing, and analysis of health data for high-impact use cases is also supported by "
+26,2,1,Calibri,11.0,72.0,98.4,525.7,109.5,"federated infrastructures and governance. In this context, Romania has appointed a representative in "
+26,2,2,Calibri,11.0,72.0,112.9,398.2,124.0,the Genome European Digital Infrastructure Consortium Working Group. 
+26,4,0,Calibri-Bold,11.0,77.7,136.0,186.6,147.0,2025 recommendation: 
+26,4,0,Calibri,11.0,186.6,136.0,189.1,147.0, 
+26,5,0,Calibri-Bold,11.0,77.7,158.4,174.9,169.5,Digital public services
+26,5,0,Calibri,11.0,175.0,158.4,520.2,169.5,": Continue to dedicate the necessary resources (finance, project management, "
+26,5,1,Calibri,11.0,77.7,172.9,520.3,184.0,"ICT specialists) for the digitalisation of public services, including after the initial set-up (maintenance "
+26,5,2,Calibri,11.0,77.7,187.5,520.2,198.5,and support). Streamlining of the multiple existing projects that have been promoted as ‘single point 
+26,5,3,Calibri,11.0,77.7,201.9,236.5,212.9,of contact’ could also be envisaged.
+26,5,3,Calibri-Bold,11.0,236.6,201.9,239.1,212.9, 
+26,6,0,Calibri-Bold,11.0,77.7,224.4,113.6,235.5,eHealth
+26,6,0,Calibri,11.0,113.5,224.4,520.0,235.5,: Continue to expand the data sources available online. Adopt and implement the new 
+26,6,1,Calibri,11.0,77.7,239.0,499.6,250.0,"strategy on the digitalisation of health system, taking into account user needs and ease of use. "
+26,7,0,Calibri-Bold,11.0,77.7,263.0,184.8,274.0,Assessment of progress
+26,7,0,Calibri,11.0,184.9,263.0,187.8,274.0,:
+26,7,0,Calibri-Bold,11.0,187.7,263.0,190.2,274.0, 
+26,8,0,Calibri-Bold,11.0,77.7,285.4,175.8,296.5,Digital public services
+26,8,0,Calibri,11.0,175.9,285.4,181.3,296.5,: 
+26,8,0,Calibri-Bold,11.0,181.2,285.4,520.2,296.5,Romania made some efforts to address the recommendation through new 
+26,8,1,Calibri-Bold,11.0,77.7,299.9,180.1,311.0,policy actions in 2025.
+26,8,1,Calibri,11.0,180.3,299.9,520.1,311.0, Romania has made progress in setting up the infrastructure component of 
+26,8,2,Calibri,11.0,77.7,314.3,520.0,325.4,the governmental cloud. It needs to progress significantly in moving key applications in the cloud 
+26,8,3,Calibri,11.0,77.7,328.8,520.3,339.9,and building the cloud marketplace. Romania continues to be unable to implement the once-only 
+26,8,4,Calibri,11.0,77.7,343.4,520.3,354.4,principle. Romania has started work on the National Interoperability Platform and beta launched 
+26,8,5,Calibri,11.0,77.7,357.9,520.2,368.9,the ROePAS portal that is meant to be the national single digital gateway for all digital public 
+26,8,6,Calibri,11.0,77.7,372.4,520.3,383.4,"services. It aims to provide a unified entry point, but the portal links to many other non-harmonized "
+26,8,7,Calibri,11.0,77.7,386.8,444.5,397.9,pages that break the user journey through inconsistent design and functionalities. 
+26,8,7,Calibri-Bold,11.0,444.7,386.8,447.2,397.9, 
+26,9,0,Calibri-Bold,11.0,77.7,409.4,113.6,420.4,eHealth
+26,9,0,Calibri,11.0,113.5,409.4,116.5,420.4,:
+26,9,0,Calibri-Bold,11.0,116.5,409.4,520.3,420.4, Romania continued to implement existing measures but did not take any new ones. 
+26,9,1,Calibri,11.0,77.7,423.8,520.2,434.8,Romania has not adopted the strategy on the digitalisation of health systems but has made progress 
+26,9,2,Calibri,11.0,77.7,438.3,520.3,449.4,"in digitalising the activities of relevant institutions. In terms of accessing EHRs, Romania has "
+26,9,3,Calibri,11.0,77.7,452.8,520.2,463.9,"stagnated. The new health platform is not yet functional, and the current one continues to be "
+26,9,4,Calibri,11.0,77.7,467.3,520.2,478.4,"plagued by functionality issues, limiting the people’s access to their data. There is limited interaction "
+26,9,5,Calibri,11.0,77.7,481.7,425.5,492.8,with outside stakeholders in developing and testing the new health platform.  
+26,10,0,Calibri,11.0,72.0,504.8,74.5,515.8, 
+26,11,0,Calibri,11.0,72.0,541.5,74.5,552.5, 
+26,11,1,Calibri-Bold,26.0,216.1,530.3,221.9,556.3, 
+26,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,24 
+26,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+27,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,Leveraging digital transformation for a 
+27,3,1,Calibri-Bold,26.0,72.0,121.2,240.5,147.3,smart greening 
+27,4,0,Calibri,11.0,72.0,160.5,293.3,171.5,"Recently published by Eurostat, sectoral data on "
+27,4,0,Calibri-Bold,11.0,294.3,160.5,354.5,171.5,air emissions
+27,4,0,Calibri,11.0,354.4,160.5,525.9,171.5, show that the ICT sector in Romania 
+27,4,1,Calibri,11.0,72.0,175.0,525.7,186.0,"emitted 27 kg CO2 eq per capita, which is above the EU average of 22.8 kg CO2 eq (data from 2022). "
+27,4,2,Calibri,11.0,72.0,189.5,400.7,200.5,Most of these emissions come from activities of the ICT services (69.8%). 
+27,4,2,Calibri-Bold,11.0,400.9,189.5,525.9,200.5,The ICT sector represented 
+27,4,3,Calibri-Bold,11.0,72.0,203.9,413.6,214.9,"0.57% of air emissions in the total economy, above the EU average (0.35%) "
+27,4,3,Calibri,11.0,413.6,203.9,488.8,214.9,(data from 2022)
+27,4,3,Calibri-Bold,11.0,488.9,203.9,491.8,214.9,.
+27,4,3,Calibri,11.0,491.7,203.9,496.6,214.9,  
+27,5,0,Calibri,11.0,72.0,226.5,525.8,237.5,"Romania adopted its national ecological procurement programme in 2025, introducing mandatory "
+27,5,1,Calibri,11.0,72.0,241.0,523.6,252.0,"annual targets for public authorities to purchase green IT equipment, by including specific energy-"
+27,5,2,Calibri,11.0,72.0,255.4,525.9,266.5,efficiency and recyclability standards required to meet eligibility criteria for participating in public 
+27,5,3,Calibri,11.0,72.0,269.9,113.8,281.0,tenders.  
+27,6,0,Calibri,11.0,72.0,292.5,525.9,303.5,The Romanian Government also took significant steps to digitalise the Ministry of the Environment’s 
+27,6,1,Calibri,11.0,72.0,306.9,434.5,317.9,"processes, including the subsidies workflow and environmental permit issuance.  "
+27,7,0,Calibri,11.0,72.0,329.4,525.9,340.5,"Green cloud technology was a key criterion for setting up the governmental cloud, with the data "
+27,7,1,Calibri,11.0,72.0,343.8,525.9,354.9,centres required to use some of the most advanced low-power and cooling solutions available. The 
+27,7,2,Calibri,11.0,72.0,358.4,525.9,369.4,"planned Black Sea AI gigafactory will also be powered by nuclear and renewable energy, combining to "
+27,7,3,Calibri,11.0,72.0,372.9,211.6,383.9,meet the 1.5GW power needs. 
+27,8,0,Calibri-Bold,11.0,72.0,395.3,271.8,406.4,Recycling ICT material remains problematic
+27,8,0,Calibri,11.0,271.9,395.3,525.8,406.4,", with 86% of Romanians continuing to hold on to their "
+27,8,1,Calibri,11.0,72.0,409.9,525.9,420.9,"older, no longer used IT equipment, particularly smartphones, chargers and cables. Environ Romania "
+27,8,2,Calibri,11.0,72.0,424.4,525.9,435.4,"has estimated that by doing so, Romania misses out on recuperating over 2 tonnes of rare metals each "
+27,8,3,Calibri,11.0,72.0,438.9,95.6,449.9,year. 
+27,9,0,Calibri,11.0,72.0,461.3,525.9,472.4,Citizens’ perceptions in the 2026 Digital Decade Eurobarometer show that 49% of Romanians believe 
+27,9,1,Calibri,11.0,72.0,475.9,457.4,486.9,that green digital technologies will have the most positive impact in the next 10 years. 
+27,10,0,Calibri-Bold,11.0,77.7,498.8,193.3,509.8,2025 recommendation: 
+27,10,0,Calibri,11.0,200.0,498.8,520.2,509.8,Develop a comprehensive strategy to align digitalisation with 
+27,10,1,Calibri,11.0,77.7,513.3,170.8,524.3,environmental goals 
+27,11,0,Calibri-Bold,11.0,77.7,537.3,517.6,548.3,Romania made some efforts to address the recommendation through new policy actions in 2025.
+27,11,0,Calibri,11.0,517.8,537.3,520.3,548.3, 
+27,11,1,Calibri,11.0,77.7,551.8,520.2,562.9,"Romania has not put forward a green and digital strategy, but progress has been made in terms of "
+27,11,2,Calibri,11.0,77.7,566.4,520.3,577.4,both green ICT (green standards implemented in building the governmental cloud) and ICT for green 
+27,11,3,Calibri,11.0,77.7,580.8,386.4,591.8,(the digitalisation of environmental permits and subsidies schemes).  
+27,12,0,Calibri,11.0,72.0,603.8,74.5,614.9, 
+27,13,0,Calibri,11.0,72.0,626.3,77.0,637.3,  
+27,13,1,Calibri,11.0,218.6,626.3,221.1,637.3, 
+27,14,0,Calibri,11.0,292.1,781.9,305.8,793.0,25 
+27,14,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+28,2,0,Calibri,11.0,72.0,84.0,74.5,95.1, 
+28,2,1,Calibri,11.0,216.1,84.0,218.5,95.1, 
+28,4,0,Calibri,11.0,292.1,781.9,305.8,793.0,26 
+28,4,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+29,2,0,Calibri-Bold,26.0,72.0,87.0,470.6,113.1,Annex I – National roadmap analysis 
+29,4,0,Calibri-Bold,11.0,77.7,126.7,320.7,137.8,Romania’s national Digital Decade strategic roadmap 
+29,4,0,Calibri-Bold,11.0,320.6,126.7,323.1,137.8, 
+29,5,0,Calibri-Bold,11.0,77.7,149.2,414.7,160.2,Romania has not updated its national roadmap since presenting it in 2023
+29,5,0,Calibri,11.0,414.8,149.2,520.2,160.2," (adopted in 2024), but "
+29,5,1,Calibri,11.0,77.7,163.7,519.9,174.7,"plans to do so, having started the process in March 2026. This roadmap update is combined with a "
+29,5,2,Calibri,11.0,77.7,178.2,446.5,189.3,planned digitalisation strategy that would be adopted via a Government Decision.  
+29,6,0,Calibri,11.0,77.7,200.7,520.3,211.7,The roadmap and the NRPP have been instrumental in guiding the digitalization projects Romania 
+29,6,1,Calibri,11.0,77.7,215.2,183.5,226.2,"had ongoing. However, "
+29,6,1,Calibri-Bold,11.0,184.0,215.2,497.2,226.2,there is a clear need for an update given the phasing out of the RRF
+29,6,1,Calibri,11.0,497.1,215.2,520.3,226.2,", the "
+29,6,2,Calibri,11.0,77.7,229.7,520.3,240.7,"main source of funding for the NRPP, and of the new financing opportunities in the 2028-2034 "
+29,6,3,Calibri,11.0,77.7,244.2,232.1,255.3,Multiannual Financial Framework. 
+29,7,0,Calibri-Bold,11.0,77.7,266.7,520.0,277.7,The process of updating Romania’s roadmap can be a key opportunity to improve the overall 
+29,7,1,Calibri-Bold,11.0,77.7,281.2,519.9,292.2,"digitalisation coordination framework, by defining clear responsibilities and ensuring the "
+29,7,2,Calibri-Bold,11.0,77.7,295.6,411.0,306.6,necessary political steer for the achievement of digitalisation objectives.
+29,7,2,Calibri,11.0,411.1,295.6,520.3,306.6, In terms of targets and 
+29,7,3,Calibri,11.0,77.7,310.1,520.0,321.2,"trajectories, the revised roadmap could take into account the KPI definitions developments since "
+29,7,4,Calibri,11.0,77.7,324.6,504.8,335.7,"2023. Ambition could also be raised for certain KPIs, such as 5G coverage, data analytics and AI. "
+29,8,0,Calibri-Bold,11.0,77.7,347.1,520.1,358.1,"The upcoming digitalisation strategy needs to be co-designed by a broad coalition of actors, "
+29,8,1,Calibri-Bold,11.0,77.7,361.6,446.7,372.6,"including regions, industry leaders and civil society, to ensure shared ownership."
+29,8,1,Calibri,11.0,447.1,361.6,520.2,372.6," To be effective, "
+29,8,2,Calibri,11.0,77.7,376.1,520.0,387.2,"this strategy would then need to be steered at a high political level, for example by the Romanian "
+29,8,3,Calibri,11.0,77.7,390.6,520.2,401.7,"Deputy Prime-Minister in charge of digitalisation, to ensure that efforts are harmonised across "
+29,8,4,Calibri,11.0,77.7,405.1,520.3,416.1,"public institutions, roles and responsibilities are clarified, and the necessary multi-annual financing "
+29,8,5,Calibri,11.0,77.7,419.6,520.3,430.6,"is secured. Crucially, this governance structure must be designed for institutional continuity, "
+29,8,6,Calibri,11.0,77.7,434.1,369.4,445.1,insulating long-term digital goals from short-term political cycles. 
+29,9,0,Calibri-Bold,11.0,199.0,456.5,393.0,467.6,Measures and budget in national roadmap
+29,9,0,Calibri-Bold,7.0,392.8,455.6,396.4,462.6,4
+29,9,0,Calibri-Bold,11.0,396.3,456.5,401.4,467.6,  
+29,10,0,Calibri,11.0,77.7,617.4,520.0,628.4,"The roadmap includes 97 measures, with a total value of almost EUR 3.59 billion (about 1.01% of "
+29,10,1,Calibri,11.0,77.7,631.9,519.9,642.9,"GDP). They cover all Digital Decade targets, but some measures are deemed to contribute to more "
+29,10,2,Calibri,11.0,77.7,646.4,520.3,657.5,"than one target (e.g. measures related to the digitalisation of businesses), making precise attribution "
+29,10,3,Calibri,11.0,77.7,660.9,114.3,672.0,difficult.
+29,10,3,Calibri-Bold,11.0,114.3,660.9,116.8,672.0, 
+29,11,0,Calibri,11.0,72.0,683.9,74.5,694.9, 
+29,12,0,Calibri,11.0,216.1,717.2,218.5,728.3, 
+29,12,1,Calibri,6.5,72.0,729.8,75.3,736.3,4
+29,12,1,Calibri,10.0,75.3,730.7,77.5,740.6, 
+29,12,1,Calibri,8.0,77.5,732.1,515.4,740.1,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national roadmaps, on "
+29,12,2,Calibri,8.0,72.0,742.3,477.9,750.3,the basis of the Commission's guidance (C (2023) 4025 final). Data might reflect possible variations in reporting practices and 
+29,12,3,Calibri,8.0,72.0,752.0,511.1,760.0,methodological choices across Member States. No systematic assessment of the extent to which Member States followed the guidance 
+29,12,4,Calibri,8.0,72.0,761.7,124.0,769.8,was carried out.
+29,12,4,Calibri,10.0,124.1,760.3,126.4,770.2, 
+29,13,0,Calibri,11.0,292.1,781.9,305.8,793.0,27 
+29,13,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+30,3,0,Calibri-Bold,26.0,72.0,87.0,509.0,113.1,"Annex II – Funding, economic impacts & "
+30,3,1,Calibri-Bold,26.0,72.0,121.2,325.8,147.3,Multi-country Projects  
+30,4,0,Calibri,11.0,72.0,160.5,74.5,171.5, 
+30,5,0,Calibri-LightItalic,11.0,77.7,183.5,519.8,194.5,Country results from the study ‘Assessing the Economic Impact of Digital Investments under the 
+30,5,1,Calibri-LightItalic,11.0,77.7,198.0,222.7,209.1,Recovery and Resilience Facility’  
+30,6,0,Calibri,11.0,77.7,220.5,520.3,231.5,"A modelling study conducted by the European Commission services, with the FIDELIO model, "
+30,6,1,Calibri,11.0,77.7,235.0,520.2,246.0,"assesses the economic impact of the digital component of the RRF. As of November 2025, the digital "
+30,6,2,Calibri,11.0,77.7,249.4,520.2,260.5,part of the Recovery and Resilience Plan of Romania was evaluated to EUR 5.77 billion with EUR 494 
+30,6,3,Calibri,11.0,77.7,263.9,520.3,275.0,"million for digital infrastructures, EUR 1.25 billion for digital skills, EUR 1.07 billion for the "
+30,6,4,Calibri,11.0,77.7,278.4,520.1,289.5,"digitalisation of businesses, EUR 1.96 billion for the digitalisation of public services, and EUR 996 "
+30,6,5,Calibri,11.0,77.7,293.0,230.8,304.0,million for other digital priorities.  
+30,7,0,Calibri,11.0,77.7,315.4,520.2,326.5,The total economic impact of RRF digital measures is estimated to be EUR 4.39 billion for the 
+30,7,1,Calibri,11.0,77.7,329.9,520.2,341.0,"national economy. Of this, EUR 3.59 billion stems from the direct effects of Romania's own RRP and "
+30,7,2,Calibri,11.0,77.7,344.4,520.1,355.5,EUR 795 million corresponds to spillover effects from the implementation of other EU Member 
+30,7,3,Calibri,11.0,77.7,358.8,520.3,369.9,States' plans. Romania benefited the most from spillover effects from RRPs of Italy (EUR 223 
+30,7,4,Calibri,11.0,77.7,373.4,520.1,384.4,"million), Spain (EUR 122 million), Germany (EUR 107 million). The most impacted sectors are ICT "
+30,7,5,Calibri,11.0,77.7,387.9,514.0,398.9,"Services (EUR 1.17 billion), Manufacturing (EUR 883 million), and Construction (EUR 466 million).  "
+30,9,0,Calibri,11.0,483.6,711.0,486.1,722.0, 
+30,10,0,Calibri-Italic,9.0,239.6,730.2,355.8,739.2,RRF spillover effects to Romania
+30,10,0,Calibri-Italic,11.0,355.9,728.6,358.4,739.7, 
+30,11,0,Calibri,11.0,72.0,750.8,74.5,761.9, 
+30,11,1,Calibri,11.0,216.1,750.8,218.5,761.9, 
+30,12,0,Calibri,11.0,292.1,781.9,305.8,793.0,28 
+30,12,1,Calibri,11.0,72.0,795.4,74.5,806.4, 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,70.8,32.7,146.6,52.8,Romania 
+31,2,0,Calibri-LightItalic,11.0,77.7,84.5,401.2,95.5,Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy 
+31,4,0,Calibri,11.0,77.7,106.9,358.4,118.0,Romania allocates 21% of its total RRP to digital (EUR 4.5 billion)
+31,4,0,Calibri,7.0,358.3,106.0,361.8,113.0,5
+31,4,0,Calibri,11.0,361.8,106.9,520.3,118.0,". In addition, under cohesion policy, "
+31,4,1,Calibri,11.0,77.7,121.5,520.3,132.5,"EUR 3.2 billion, representing 10% of the country’s total cohesion policy funding, is dedicated to "
+31,4,2,Calibri,11.0,77.7,136.0,270.1,147.0,advancing Romania’s digital transformation
+31,4,2,Calibri,7.0,270.0,135.1,273.6,142.0,6
+31,4,2,Calibri,11.0,273.5,136.0,276.3,147.0,.
+31,4,2,Calibri-Bold,11.0,276.3,136.0,278.8,147.0, 
+31,5,0,Calibri,11.0,72.0,158.9,74.5,169.9, 
+31,6,0,Calibri-LightItalic,11.0,77.7,181.9,178.8,193.0,Multi-Country Projects 
+31,7,0,Calibri,11.0,77.7,204.4,520.0,215.4, Romania is a member of the EUROPEUM EDIC. Romania is also an observer to the Alliance for 
+31,7,1,Calibri,11.0,77.7,218.9,520.3,229.9,Language Technologies EDIC and the IMPACTS EDIC and is working towards setting up an EDIC in the 
+31,7,2,Calibri,11.0,77.7,233.4,520.2,244.5,area of agri-food. Romania is directly participating in the IPCEI on Microelectronics and 
+31,7,3,Calibri,11.0,77.7,248.0,520.0,259.0,Communication Technologies (IPCEI-ME/CT). Romania is also a participating state of the EuroHPC 
+31,7,4,Calibri,11.0,77.7,262.4,269.5,273.4,Joint Undertaking (JU) and of the Chips JU. 
+31,8,0,Calibri,11.0,72.0,285.4,74.5,296.5, 
+31,9,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+31,10,0,Calibri,6.0,72.0,716.7,75.1,722.7,5
+31,10,0,Calibri,9.0,75.0,716.9,521.8,725.9, The share of financial allocations that contribute to the achievement of digital objectives has been calculated using Annex 
+31,10,1,Calibri,9.0,72.0,727.9,386.0,736.9,VII to the Recovery and Resilience Facility Regulation. Last data update: 23 April 2026. 
+31,10,2,Calibri,6.0,72.0,738.7,75.1,744.7,6
+31,10,2,Calibri,9.0,75.0,738.9,503.9,747.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+31,10,3,Calibri,9.0,72.0,749.8,524.0,758.8,2021-2027 cohesion policy programming period. The source funds are the European Regional Development Fund (including 
+31,10,4,Calibri,9.0,72.0,760.9,401.7,769.9,"Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+31,11,0,Calibri,11.0,292.1,781.9,305.8,793.0,29 
+31,11,1,Calibri,11.0,72.0,795.4,74.5,806.4, 

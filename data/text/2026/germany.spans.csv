@@ -1,0 +1,2135 @@
+page,block,line,font,size,x0,y0,x1,y1,text
+1,0,0,TimesNewRomanPSMT,12.0,70.8,35.9,73.8,49.2, 
+1,1,0,ArialMT,12.0,71.6,57.0,74.9,70.4, 
+1,3,0,ArialMT,11.5,204.6,111.5,269.1,124.3,EUROPEAN
+1,3,0,ArialMT,12.0,269.1,111.0,272.5,124.4, 
+1,3,1,ArialMT,11.5,204.6,124.8,283.1,137.6,COMMISSION 
+1,4,0,ArialMT,12.0,196.6,124.8,200.0,138.2, 
+1,5,0,TimesNewRomanPSMT,12.0,326.7,189.8,427.4,203.1,"Brussels, 17.6.2026  "
+1,5,1,TimesNewRomanPSMT,12.0,326.7,203.6,434.4,216.9,SWD(2026) 155 final 
+1,6,0,TimesNewRomanPSMT,12.0,326.7,229.4,390.7,242.7,PART 11/27 
+1,7,0,TimesNewRomanPS-ItalicMT,16.0,326.7,255.3,330.7,273.0, 
+1,8,0,TimesNewRomanPS-BoldMT,12.0,167.5,291.8,432.2,305.1,COMMISSION STAFF WORKING DOCUMENT 
+1,9,0,TimesNewRomanPS-BoldMT,12.0,208.0,323.6,391.7,336.9,Digital Decade 2026 country report 
+1,10,0,TimesNewRomanPS-BoldItalicMT,12.0,226.3,355.5,373.4,368.8,Accompanying the document 
+1,11,0,TimesNewRomanPS-BoldMT,12.0,107.3,381.3,492.3,394.6,COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN 
+1,11,1,TimesNewRomanPS-BoldMT,12.0,86.1,395.1,513.4,408.4,"PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL "
+1,12,0,TimesNewRomanPS-BoldMT,12.0,137.7,408.9,462.1,422.2,COMMITTEE AND THE COMMITTEE OF THE REGIONS 
+1,13,0,TimesNewRomanPS-BoldMT,12.0,298.4,422.7,301.4,436.0, 
+1,14,0,TimesNewRomanPS-BoldMT,12.0,73.4,448.5,526.0,461.8,State of the Digital Decade 2026: Closing structural gaps and mobilising investments for 
+1,15,0,TimesNewRomanPS-BoldMT,12.0,255.1,462.3,344.7,475.6,2030 and beyond 
+1,16,0,TimesNewRomanPSMT,12.0,110.2,493.7,486.4,507.0,{COM(2026) 288 final} - {SWD(2026) 154 final} - {SWD(2026) 156 final} -
+1,17,0,TimesNewRomanPSMT,12.0,238.8,507.5,360.9,520.8, {SWD(2026) 157 final} 
+1,17,1,TimesNewRomanPSMT,12.0,526.2,510.3,529.2,523.6, 
+1,18,0,Arial-BoldMT,24.0,28.3,779.8,68.4,806.5,EN 
+1,18,1,Arial-BoldMT,24.0,297.7,779.8,304.3,806.5, 
+1,18,2,TimesNewRomanPSMT,12.0,524.5,790.8,527.5,804.1, 
+1,18,2,Arial-BoldMT,24.0,533.6,779.8,573.7,806.5,EN 
+2,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+2,1,0,Calibri-Bold,11.0,72.0,84.0,74.5,95.1, 
+2,2,0,Calibri-Bold,11.0,72.0,106.5,74.5,117.5, 
+2,3,0,Calibri-Bold,11.0,72.0,129.0,74.5,140.1, 
+2,4,0,Calibri-Bold,11.0,72.0,151.5,74.5,162.5, 
+2,5,0,Calibri-Bold,11.0,72.0,173.9,74.5,184.9, 
+2,6,0,Calibri-Bold,11.0,72.0,196.5,74.5,207.5, 
+2,7,0,Calibri-Bold,11.0,72.0,218.9,74.5,229.9, 
+2,8,0,Calibri-Bold,11.0,72.0,241.5,74.5,252.5, 
+2,9,0,Calibri-Bold,11.0,72.0,263.9,74.5,275.0, 
+2,10,0,Calibri-Bold,11.0,72.0,286.4,74.5,297.4, 
+2,11,0,Calibri-Bold,36.0,123.1,199.6,377.2,235.6,DIGITAL DECADE 
+2,11,1,Calibri-Bold,36.0,123.1,239.6,405.0,275.6,COUNTRY REPORT 
+2,11,2,Calibri-Bold,36.0,123.1,279.6,204.3,315.6,2026 
+2,12,0,Calibri-Bold,11.0,72.0,308.9,77.0,320.0,  
+2,13,0,Calibri-Bold,28.0,194.2,355.5,306.9,383.5,Germany 
+2,14,0,Calibri-Bold,11.0,72.0,331.4,74.5,342.4, 
+2,14,1,Calibri-Bold,11.0,72.0,345.9,74.5,356.9, 
+2,14,2,Calibri-Bold,24.0,72.0,363.0,77.4,387.0, 
+2,15,0,Calibri,11.0,72.0,400.0,74.5,411.1, 
+2,16,0,Calibri,11.0,72.0,795.4,74.5,806.4, 
+3,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+3,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+3,3,0,Calibri-Light,16.0,72.0,97.1,133.8,113.1,Contents 
+3,3,1,Calibri,11.0,72.0,117.0,523.0,128.1,Executive summary ................................................................................................................................. 1
+3,3,1,Calibri,12.0,523.0,116.3,525.7,128.3, 
+3,4,0,Calibri,11.0,83.1,136.6,523.0,147.6,Germany in the Digital Decade ........................................................................................................... 1
+3,4,0,Calibri,12.0,523.0,135.9,525.7,147.9, 
+3,5,0,Calibri,11.0,83.1,156.0,523.0,167.1,Funding for digital and multi-country projects ................................................................................... 2
+3,5,0,Calibri,12.0,523.0,155.3,525.7,167.3, 
+3,6,0,Calibri,11.0,83.1,175.6,523.0,186.6,"A competitive, sovereign and resilient EU based on technological leadership .................................. 2"
+3,6,0,Calibri,12.0,523.0,174.9,525.7,186.9, 
+3,7,0,Calibri,11.0,83.1,195.0,523.0,206.1,Protecting and empowering EU people and society ........................................................................... 3
+3,7,0,Calibri,12.0,523.0,194.3,525.7,206.3, 
+3,8,0,Calibri,11.0,83.1,214.5,523.0,225.5,Recommendations .............................................................................................................................. 4
+3,8,0,Calibri,12.0,523.0,213.7,525.7,225.7, 
+3,9,0,Calibri,11.0,72.0,234.0,523.0,245.1,"A competitive, sovereign and resilient EU based on technological leadership ...................................... 5"
+3,9,0,Calibri,12.0,523.0,233.3,525.7,245.3, 
+3,10,0,Calibri,11.0,83.1,253.5,523.0,264.5,Building technological leadership: digital infrastructure and technologies ........................................ 5
+3,10,0,Calibri,12.0,523.0,252.8,525.7,264.8, 
+3,11,0,Calibri,11.0,94.0,273.0,523.0,284.1,Connectivity infrastructure ............................................................................................................. 5
+3,11,0,Calibri,12.0,523.0,272.3,525.7,284.3, 
+3,12,0,Calibri,11.0,94.0,292.5,523.0,303.5,Semiconductors ............................................................................................................................... 9
+3,12,0,Calibri,12.0,523.0,291.8,525.7,303.8, 
+3,13,0,Calibri,11.0,94.0,312.0,523.0,323.1,Edge nodes .................................................................................................................................... 10
+3,13,0,Calibri,12.0,523.0,311.3,525.7,323.3, 
+3,14,0,Calibri,11.0,94.0,331.5,523.0,342.5,Quantum technologies .................................................................................................................. 11
+3,14,0,Calibri,12.0,523.0,330.8,525.7,342.8, 
+3,15,0,Calibri,11.0,83.1,350.9,523.0,362.0,Supporting EU-wide digital ecosystems and scaling up innovative enterprises ............................... 12
+3,15,0,Calibri,12.0,523.0,350.2,525.7,362.2, 
+3,16,0,Calibri,11.0,94.0,370.5,523.0,381.5,SMEs with at least basic digital intensity ...................................................................................... 12
+3,16,0,Calibri,12.0,523.0,369.8,525.7,381.8, 
+3,17,0,Calibri,11.0,94.0,389.9,523.0,401.0,Take up of advanced technologies ................................................................................................ 14
+3,17,0,Calibri,12.0,523.0,389.2,525.7,401.2, 
+3,18,0,Calibri,11.0,94.0,409.5,523.0,420.5,"Unicorns, scale-ups and start-ups ................................................................................................. 16"
+3,18,0,Calibri,12.0,523.0,408.8,525.7,420.8, 
+3,19,0,Calibri,11.0,83.1,428.9,523.0,440.0,Strengthening Cybersecurity & Resilience ........................................................................................ 17
+3,19,0,Calibri,12.0,523.0,428.2,525.7,440.2, 
+3,20,0,Calibri,11.0,72.0,448.4,523.0,459.4,Protecting and empowering EU people and society ............................................................................. 19
+3,20,0,Calibri,12.0,523.0,447.7,525.7,459.7, 
+3,21,0,Calibri,11.0,83.1,467.9,523.0,479.0,Empowering people and bringing the digital transformation closer to their needs ........................ 19
+3,21,0,Calibri,12.0,523.0,467.2,525.7,479.2, 
+3,22,0,Calibri,11.0,94.0,487.4,523.0,498.4,Equipping people with digital skills ............................................................................................... 19
+3,22,0,Calibri,12.0,523.0,486.7,525.7,498.7, 
+3,23,0,Calibri,11.0,94.0,506.9,523.0,518.0,"Key digital public services and solutions – trusted, user-friendly, and accessible to all ............... 22"
+3,23,0,Calibri,12.0,523.0,506.2,525.7,518.2, 
+3,24,0,Calibri,11.0,72.0,526.4,523.0,537.4,Leveraging digital transformation for a smart greening ....................................................................... 26
+3,24,0,Calibri,12.0,523.0,525.7,525.7,537.7, 
+3,25,0,Calibri,11.0,72.0,545.9,523.0,557.0,Annex I: National roadmap analysis ...................................................................................................... 27
+3,25,0,Calibri,12.0,523.0,545.2,525.7,557.2, 
+3,26,0,Calibri,11.0,72.0,565.4,523.0,576.5,"Annex II: Funding, economic impacts & Multi-Country Projects .......................................................... 28"
+3,26,0,Calibri,12.0,523.0,564.7,525.7,576.7, 
+3,27,0,Calibri,11.0,72.0,584.9,74.5,595.9, 
+3,28,0,Calibri-Bold,11.0,72.0,604.4,74.5,615.5, 
+3,29,0,Calibri,11.0,72.0,626.9,74.5,637.9, 
+3,30,0,Calibri,11.0,297.7,795.4,300.2,806.4, 
+4,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+4,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+4,2,0,Calibri-Bold,26.0,72.0,87.0,287.2,113.1,Executive summary 
+4,4,0,Calibri,11.0,72.0,126.3,444.6,137.3,"Overall, Germany has strong assets in digitalisation, including a leading position in "
+4,4,0,Calibri-Bold,11.0,445.2,126.3,523.4,137.3,high-tech sectors
+4,4,0,Calibri,11.0,523.4,126.3,525.9,137.3, 
+4,4,1,Calibri,11.0,72.0,140.8,110.0,151.8,such as 
+4,4,1,Calibri-Bold,11.0,112.9,140.8,185.0,151.8,semiconductors
+4,4,1,Calibri,11.0,185.1,140.8,209.7,151.8, and 
+4,4,1,Calibri-Bold,11.0,212.6,140.8,310.3,151.8,quantum technology
+4,4,1,Calibri,11.0,310.4,140.8,412.5,151.8,". However, persistent "
+4,4,1,Calibri-Bold,11.0,415.3,140.8,512.5,151.8,structural challenges
+4,4,1,Calibri,11.0,512.6,140.8,525.9,151.8, – 
+4,4,2,Calibri,11.0,72.0,155.2,136.6,166.2,particularly in 
+4,4,2,Calibri-Bold,11.0,137.3,155.2,195.5,166.2,connectivity 
+4,4,2,Calibri,11.0,196.2,155.2,215.5,166.2,and 
+4,4,2,Calibri-Bold,11.0,216.3,155.2,323.7,166.2,digital public services –
+4,4,2,Calibri,11.0,323.6,155.2,525.9,166.2, have constrained more substantial progress 
+4,4,3,Calibri,11.0,72.0,169.7,525.8,180.7,for many years. With the establishment of the new Ministry for Digital Transformation and 
+4,4,4,Calibri,11.0,72.0,184.2,525.9,195.3,"Government Modernisation, some momentum for change has been generated, and several promising "
+4,4,5,Calibri,11.0,72.0,198.7,525.8,209.8,"initiatives are being launched to address these challenges. However, it remains to be seen whether "
+4,4,6,Calibri,11.0,72.0,213.1,360.4,224.2,these efforts will translate into lasting structural improvements.  
+4,5,0,Calibri,11.0,72.0,235.7,525.8,246.8,The persistent structural weaknesses limit the potential leverage that digitalisation can provide for 
+4,5,1,Calibri-Bold,11.0,72.0,250.1,146.6,261.2,competitiveness
+4,5,1,Calibri,11.0,146.7,250.1,525.7,261.2,. Efficiency gains and reductions in administrative burden are often hindered by 
+4,5,2,Calibri,11.0,72.0,264.6,525.9,275.7,"complex systemic issues (e.g. linked to fragmented responsibilities and implementation modes), which "
+4,5,3,Calibri,11.0,72.0,279.2,525.8,290.2,"have been identified but not yet resolved. While gradual improvements are underway, they are so far "
+4,5,4,Calibri,11.0,72.0,293.7,525.9,304.7,too slow and limited in scale to generate substantial impact. Given the challenging economic situation 
+4,5,5,Calibri,11.0,72.0,308.1,525.9,319.1,"overall, faster and more profound adjustments are needed to boost competitiveness and productivity. "
+4,6,0,Calibri,11.0,72.0,330.6,298.8,341.7,"At the same time, Germany remains among the "
+4,6,0,Calibri-Bold,11.0,300.7,330.6,525.9,341.7,leading EU Member States in several high-tech 
+4,6,1,Calibri-Bold,11.0,72.0,345.2,111.2,356.2,domains
+4,6,1,Calibri,11.0,111.3,345.2,525.8,356.2,. It is the largest data centre as well as microelectronics location in the EU and plays a major 
+4,6,2,Calibri,11.0,72.0,359.6,525.9,370.6,role in semiconductor research and manufacturing. Germany also demonstrates a leading position in 
+4,6,3,Calibri,11.0,72.0,374.1,525.9,385.1,"quantum technologies, supported by advanced research capabilities, cutting-edge infrastructure (e.g. "
+4,6,4,Calibri,11.0,72.0,388.6,481.6,399.6,"exascale supercomputer JUPITER) and, to date, comparatively high levels of public funding.  "
+4,7,0,Calibri-Light,15.0,72.0,411.9,258.4,426.9,Germany in the Digital Decade 
+4,8,0,Calibri,11.0,72.0,438.9,525.6,449.9,Germany shows a substantial level of ambition in its contribution to the Digital Decade having set 9 
+4,8,1,Calibri,11.0,72.0,453.3,525.9,464.4,"national targets (out of a possible 14), 89% of which align with the EU 2030 targets. Germany has also "
+4,8,2,Calibri,11.0,72.0,467.8,525.9,478.9,"set a target of 75% for the combined adoption of technologies by businesses, in line with the target at "
+4,8,3,Calibri,11.0,72.0,482.3,525.9,493.4,"EU level. In its national roadmap, Germany provided 8 trajectory points for 2025 (out of 14 analysed). "
+4,8,4,Calibri,11.0,72.0,496.9,525.9,507.9,The country is following them moderately well with 50% considered on track. Germany addressed 86% 
+4,8,5,Calibri,11.0,72.0,511.3,525.8,522.3,"of the 7 recommendations issued by the Commission in 2025, either by implementing significant policy "
+4,8,6,Calibri,11.0,72.0,525.8,525.9,536.8,changes (14%) or making some changes (72%) through new measures. According to the national 
+4,8,7,Calibri,11.0,72.0,540.3,525.8,551.3,"roadmap, by the end of 2026, 66% of the measures will come to an end. The total public budget "
+4,8,8,Calibri,11.0,72.0,554.8,525.9,565.9,"associated to these measures is EUR 15.33 billion, representing 33% of the total public budget outlined "
+4,8,9,Calibri,11.0,72.0,569.4,143.4,580.4,in the roadmap.
+4,8,9,Calibri-Bold,11.0,143.4,569.4,148.3,580.4,  
+4,9,0,Calibri-Bold,11.0,72.0,591.8,180.3,602.9,According to the special
+4,9,0,Calibri,11.0,180.4,591.8,182.9,602.9, 
+4,9,0,Calibri-Bold,11.0,182.7,591.8,525.9,602.9,"Eurobarometer on ‘the Digital Decade’ 2026, 84% of Germans consider that "
+4,9,1,Calibri-Bold,11.0,72.0,606.3,496.5,617.4,digital policy should be a very high or high priority for the EU in shaping our future in Europe
+4,9,1,Calibri,11.0,496.5,606.3,525.9,617.4,. They 
+4,9,2,Calibri,11.0,72.0,620.7,525.9,631.8,"also think that, in the next ten years, the EU should cooperate with Member States to reinforce "
+4,9,3,Calibri,11.0,72.0,635.3,525.8,646.3,"cybersecurity and protection from online threats (92%), promote digital education and skills "
+4,9,4,Calibri,11.0,72.0,649.8,525.9,660.8,"programmes (91%) and build an independent European digital infrastructure (broadband, 5G, cloud "
+4,9,5,Calibri,11.0,72.0,664.3,525.9,675.3,"computing, semiconductors (85%)). In addition, 87% of German respondents think that the EU should "
+4,9,6,Calibri,11.0,72.0,678.7,525.9,689.7,"reduce its dependence on digital technology from third countries, and 89% that the EU should "
+4,9,7,Calibri,11.0,72.0,693.2,525.7,704.3,prioritise investments in digital infrastructure and services that are developed and controlled in 
+4,9,8,Calibri,11.0,72.0,707.7,525.8,718.8,"Europe. Meanwhile, 57% would be willing to switch to an EU-based digital service provider even if it "
+4,9,9,Calibri,11.0,72.0,722.3,199.5,733.3,means slightly higher costs.  
+4,10,0,Calibri,11.0,72.0,744.7,74.5,755.8, 
+4,10,1,Calibri,11.0,216.1,744.7,218.5,755.8, 
+4,11,0,Calibri,11.0,294.9,795.4,302.9,806.4,1 
+5,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+5,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+5,2,0,Calibri-Light,15.0,72.0,84.9,347.9,99.9,Funding for digital and multi-country projects 
+5,4,0,Calibri,11.0,72.0,111.7,525.8,122.8,"Germany allocates 46% of its total recovery and resilience plan to digital (EUR 12.8 billion). In addition, "
+5,4,1,Calibri,11.0,72.0,126.1,525.9,137.2,"under cohesion policy, EUR 2.4 billion, representing 12% of the country’s total cohesion policy funding, "
+5,4,2,Calibri,11.0,72.0,140.5,339.5,151.6,is dedicated to advancing Germany’s digital transformation. 
+5,5,0,Calibri,11.0,72.0,162.9,525.6,173.9,"Germany is a member of the Local Digital Twins towards the CitiVERSE EDIC, and a member of the "
+5,5,1,Calibri,11.0,72.0,177.4,525.8,188.4,Digital Commons EDIC. The country participates directly in the IPCEI on Microelectronics and 
+5,5,2,Calibri,11.0,72.0,191.9,525.9,202.9,Communication Technologies (IPCEI-ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure 
+5,5,3,Calibri,11.0,72.0,206.3,525.9,217.3,and Services (IPCEI-CIS). Germany is also a participating state in the EuroHPC Joint Undertaking (JU) 
+5,5,4,Calibri,11.0,72.0,220.8,151.1,231.9,and the Chips JU. 
+5,6,0,Calibri,11.0,271.5,243.9,312.5,254.9,Germany
+5,6,0,Calibri,12.0,312.4,243.2,315.1,255.2, 
+5,6,1,Calibri,12.0,415.8,244.1,429.4,256.1,EU
+5,6,1,Calibri,11.0,429.3,244.9,431.8,255.9, 
+5,6,2,Calibri,8.0,475.3,243.4,523.8,251.4,Digital Decade 
+5,6,3,Calibri,8.0,475.1,253.8,522.2,261.9,target by 2030
+5,6,3,Calibri,11.0,522.1,251.6,524.6,262.6, 
+5,7,0,Calibri,14.0,77.7,258.9,180.6,273.0,Digital Decade KPI
+5,7,0,Calibri,12.0,180.5,260.5,183.2,272.5, 
+5,7,0,Calibri,8.0,183.3,259.5,192.2,267.5,(1)
+5,7,0,Calibri,11.0,192.2,261.2,194.7,272.2, 
+5,8,0,Calibri-Bold,8.0,218.0,266.1,233.1,274.1,Last 
+5,8,1,Calibri-Bold,8.0,209.7,276.6,241.4,284.7,available 
+5,9,0,Calibri-Bold,8.0,346.5,266.1,376.8,274.1,National 
+5,9,1,Calibri-Bold,8.0,344.5,276.6,378.9,284.7,trajectory 
+5,10,0,Calibri-Bold,8.0,257.6,267.7,292.4,275.8,DESI 2026 
+5,10,1,Calibri-Bold,8.0,255.3,278.2,293.0,286.2,(year 2025)
+5,10,1,Calibri,11.0,293.0,275.9,295.5,287.0, 
+5,11,0,Calibri-Bold,8.0,307.5,267.7,333.1,275.8,Annual 
+5,11,1,Calibri-Bold,8.0,305.1,278.2,333.6,286.2,progress
+5,11,1,Calibri,11.0,333.5,275.9,336.0,287.0, 
+5,12,0,Calibri-Bold,8.0,394.6,267.7,411.4,275.8,DESI 
+5,12,1,Calibri-Bold,8.0,394.0,278.2,410.3,286.2,2026
+5,12,1,Calibri,11.0,410.3,275.9,412.8,287.0, 
+5,12,2,Calibri-Bold,8.0,429.8,267.7,455.4,275.8,Annual 
+5,12,3,Calibri-Bold,8.0,427.4,278.2,455.9,286.2,progress
+5,12,3,Calibri,11.0,455.9,275.9,458.4,287.0, 
+5,12,4,Calibri-Bold,8.0,476.1,272.9,485.1,280.9,DE
+5,12,4,Calibri,11.0,485.1,270.6,487.6,281.7, 
+5,12,5,Calibri-Bold,8.0,513.0,272.9,522.2,280.9,EU
+5,12,5,Calibri,11.0,522.1,270.6,524.6,281.7, 
+5,13,0,Calibri-Bold,8.0,347.2,287.1,374.4,295.1,2025 (3)
+5,13,0,Calibri,8.0,374.4,287.1,376.2,295.1, 
+5,14,0,Calibri-Bold,8.0,211.7,287.1,237.6,295.1,data (2)
+5,14,0,Calibri,11.0,237.5,284.8,240.0,295.8, 
+5,15,0,Calibri,8.0,214.6,300.6,234.6,308.7,77.4%
+5,15,0,Calibri,11.0,234.5,298.4,237.0,309.4, 
+5,15,1,Calibri,8.0,264.2,300.6,284.2,308.7,79.9%
+5,15,1,Calibri,11.0,284.1,298.4,286.6,309.4, 
+5,15,2,Calibri,8.0,311.5,300.6,327.4,308.7,3.2%
+5,15,2,Calibri,11.0,327.3,298.4,329.8,309.4, 
+5,15,3,Calibri,8.0,358.6,300.6,364.8,308.7, - 
+5,15,3,Calibri,9.0,364.8,299.9,366.8,308.9, 
+5,15,4,Calibri,8.0,392.2,300.6,412.2,308.7,85.5%
+5,15,4,Calibri,11.0,412.2,298.4,414.7,309.4, 
+5,15,5,Calibri,8.0,433.8,300.6,449.7,308.7,3.7%
+5,15,5,Calibri,11.0,449.6,298.4,452.1,309.4, 
+5,15,6,Calibri,8.0,468.7,300.6,492.8,308.7,100.0%
+5,15,6,Calibri,11.0,492.7,298.4,495.2,309.4, 
+5,15,7,Calibri,8.0,508.5,300.6,526.5,308.7,100%
+5,15,7,Calibri,11.0,526.4,298.4,528.9,309.4, 
+5,16,0,Calibri-Bold,8.0,77.7,299.1,191.5,307.1,Fixed Very High Capacity Network 
+5,16,1,Calibri-Bold,8.0,77.7,309.5,133.5,317.5,(VHCN) coverage
+5,16,1,Calibri,8.0,133.5,309.5,135.3,317.5, 
+5,17,0,Calibri-Bold,8.0,77.7,321.4,172.4,329.4,Fibre to the Premises (FTTP) 
+5,17,1,Calibri,8.0,214.6,321.3,234.6,329.3,36.8%
+5,17,1,Calibri,11.0,234.5,319.0,237.0,330.0, 
+5,17,2,Calibri,8.0,264.2,321.3,284.2,329.3,44.0%
+5,17,2,Calibri,11.0,284.1,319.0,286.6,330.0, 
+5,17,3,Calibri,8.0,309.4,321.3,329.4,329.3,19.6%
+5,17,3,Calibri,11.0,329.4,319.0,331.8,330.0, 
+5,17,4,Calibri,8.0,349.9,321.3,373.5,329.3, 50.0% 
+5,17,4,Calibri,9.0,373.4,320.5,375.4,329.5, 
+5,17,5,Calibri,8.0,392.2,321.3,412.2,329.3,74.1%
+5,17,5,Calibri,11.0,412.2,319.0,414.7,330.0, 
+5,17,6,Calibri,8.0,433.8,321.3,449.7,329.3,7.1%
+5,17,6,Calibri,11.0,449.6,319.0,452.1,330.0, 
+5,17,7,Calibri,8.0,468.7,321.3,492.8,329.3,100.0%
+5,17,7,Calibri,11.0,492.7,319.0,495.2,330.0, 
+5,17,8,Calibri,8.0,516.4,321.3,518.8,329.3,-
+5,17,8,Calibri,11.0,518.8,319.0,521.3,330.0, 
+5,18,0,Calibri-Bold,8.0,77.7,335.5,137.1,343.6,Basic 5G coverage
+5,18,0,Calibri,8.0,137.1,335.5,138.9,343.6, 
+5,18,1,Calibri,8.0,214.6,335.5,234.6,343.6,99.1%
+5,18,1,Calibri,11.0,234.5,333.3,237.0,344.3, 
+5,18,2,Calibri,8.0,264.2,335.5,284.2,343.6,99.5%
+5,18,2,Calibri,11.0,284.1,333.3,286.6,344.3, 
+5,18,3,Calibri,8.0,311.5,335.5,327.4,343.6,0.4%
+5,18,3,Calibri,11.0,327.3,333.3,329.8,344.3, 
+5,18,4,Calibri,8.0,358.6,335.5,364.8,343.6, - 
+5,18,4,Calibri,9.0,364.8,334.8,366.8,343.8, 
+5,18,5,Calibri,8.0,392.2,335.5,412.2,343.6,96.8%
+5,18,5,Calibri,11.0,412.2,333.3,414.7,344.3, 
+5,18,6,Calibri,8.0,433.8,335.5,449.7,343.6,2.6%
+5,18,6,Calibri,11.0,449.6,333.3,452.1,344.3, 
+5,18,7,Calibri,8.0,468.7,335.5,492.8,343.6,100.0%
+5,18,7,Calibri,11.0,492.7,333.3,495.2,344.3, 
+5,18,8,Calibri,8.0,508.5,335.5,526.5,343.6,100%
+5,18,8,Calibri,11.0,526.4,333.3,528.9,344.3, 
+5,19,0,Calibri,8.0,223.4,351.0,225.8,359.1,-
+5,19,0,Calibri,11.0,225.8,348.8,228.3,359.8, 
+5,19,1,Calibri,8.0,266.0,351.0,282.3,359.1,1948
+5,19,1,Calibri,11.0,282.2,348.8,284.7,359.8, 
+5,19,2,Calibri,8.0,318.2,351.0,320.7,359.1,-
+5,19,2,Calibri,11.0,320.6,348.8,323.1,359.8, 
+5,19,3,Calibri,8.0,358.6,351.0,364.8,359.1, - 
+5,19,3,Calibri,9.0,364.8,350.3,366.8,359.3, 
+5,19,4,Calibri,8.0,394.0,351.0,410.3,359.1,7451
+5,19,4,Calibri,11.0,410.3,348.8,412.8,359.8, 
+5,19,5,Calibri,8.0,440.5,351.0,443.0,359.1,-
+5,19,5,Calibri,11.0,442.9,348.8,445.4,359.8, 
+5,19,6,Calibri,8.0,479.5,351.0,482.0,359.1,-
+5,19,6,Calibri,11.0,481.9,348.8,484.4,359.8, 
+5,19,7,Calibri,8.0,507.3,351.0,527.7,359.1,10000
+5,19,7,Calibri,11.0,527.6,348.8,530.1,359.8, 
+5,20,0,Calibri-Bold,8.0,77.7,349.8,169.5,357.9,"Edge Nodes (estimate, new "
+5,20,1,Calibri-Bold,8.0,77.7,360.3,124.6,368.3,methodology)
+5,20,1,Calibri,8.0,124.5,360.3,126.3,368.3, 
+5,21,0,Calibri,8.0,214.6,374.7,234.6,382.7,61.4%
+5,21,0,Calibri,11.0,234.5,372.4,237.0,383.4, 
+5,21,1,Calibri,8.0,264.2,374.7,284.2,382.7,73.6%
+5,21,1,Calibri,11.0,284.1,372.4,286.6,383.4, 
+5,21,2,Calibri,8.0,311.5,374.7,327.4,382.7,9.5%
+5,21,2,Calibri,11.0,327.3,372.4,329.8,383.4, 
+5,21,3,Calibri,8.0,349.9,374.7,373.5,382.7, 82.0% 
+5,21,3,Calibri,9.0,373.4,373.9,375.4,382.9, 
+5,21,4,Calibri,8.0,392.2,374.7,412.2,382.7,71.4%
+5,21,4,Calibri,11.0,412.2,372.4,414.7,383.4, 
+5,21,5,Calibri,8.0,431.7,374.7,451.8,382.7,11.0%
+5,21,5,Calibri,11.0,451.7,372.4,454.2,383.4, 
+5,21,6,Calibri,8.0,470.7,374.7,490.8,382.7,91.0%
+5,21,6,Calibri,11.0,490.7,372.4,493.2,383.4, 
+5,21,7,Calibri,8.0,510.6,374.7,524.5,382.7,90%
+5,21,7,Calibri,11.0,524.4,372.4,526.9,383.4, 
+5,22,0,Calibri-Bold,8.0,77.7,371.4,190.7,379.5,SMEs with at least a basic level of 
+5,22,1,Calibri-Bold,8.0,77.7,381.9,134.8,389.9,digital intensity *
+5,22,1,Calibri,8.0,134.8,381.9,136.6,389.9, 
+5,23,0,Calibri-Bold,8.0,77.7,397.1,102.6,405.2,Cloud *
+5,23,0,Calibri,8.0,102.5,397.1,104.3,405.2, 
+5,23,1,Calibri,8.0,214.6,397.1,234.6,405.2,38.5%
+5,23,1,Calibri,11.0,234.5,394.9,237.0,405.9, 
+5,23,2,Calibri,8.0,264.2,397.1,284.2,405.2,46.0%
+5,23,2,Calibri,11.0,284.1,394.9,286.6,405.9, 
+5,23,3,Calibri,8.0,311.5,397.1,327.4,405.2,9.3%
+5,23,3,Calibri,11.0,327.3,394.9,329.8,405.9, 
+5,23,4,Calibri,8.0,358.6,397.1,364.8,405.2, - 
+5,23,4,Calibri,9.0,364.8,396.4,366.8,405.4, 
+5,23,5,Calibri,8.0,392.2,397.1,412.2,405.2,46.7%
+5,23,5,Calibri,11.0,412.2,394.9,414.7,405.9, 
+5,23,6,Calibri,8.0,433.8,397.1,449.7,405.2,9.5%
+5,23,6,Calibri,11.0,449.6,394.9,452.1,405.9, 
+5,23,7,Calibri,8.0,479.5,397.1,482.0,405.2,-
+5,23,7,Calibri,11.0,481.9,394.9,484.4,405.9, 
+5,23,8,Calibri,8.0,510.6,397.1,524.5,405.2,75%
+5,23,8,Calibri,11.0,524.4,394.9,526.9,405.9, 
+5,24,0,Calibri-Bold,8.0,77.7,411.3,145.9,419.3,Artificial Intelligence
+5,24,0,Calibri,8.0,145.8,411.3,147.6,419.3, 
+5,24,1,Calibri,8.0,214.6,411.3,234.6,419.3,19.8%
+5,24,1,Calibri,11.0,234.5,409.0,237.0,420.1, 
+5,24,2,Calibri,8.0,264.2,411.3,284.2,419.3,26.0%
+5,24,2,Calibri,11.0,284.1,409.0,286.6,420.1, 
+5,24,3,Calibri,8.0,309.4,411.3,329.4,419.3,31.5%
+5,24,3,Calibri,11.0,329.4,409.0,331.8,420.1, 
+5,24,4,Calibri,8.0,358.6,411.3,364.8,419.3, - 
+5,24,4,Calibri,9.0,364.8,410.6,366.8,419.6, 
+5,24,5,Calibri,8.0,392.2,411.3,412.2,419.3,20.0%
+5,24,5,Calibri,11.0,412.2,409.0,414.7,420.1, 
+5,24,6,Calibri,8.0,431.7,411.3,451.8,419.3,48.0%
+5,24,6,Calibri,11.0,451.7,409.0,454.2,420.1, 
+5,24,7,Calibri,8.0,479.5,411.3,482.0,419.3,-
+5,24,7,Calibri,11.0,481.9,409.0,484.4,420.1, 
+5,24,8,Calibri,8.0,510.6,411.3,524.5,419.3,75%
+5,24,8,Calibri,11.0,524.4,409.0,526.9,420.1, 
+5,25,0,Calibri-Bold,8.0,77.7,425.6,130.1,433.6,Data analytics *
+5,25,0,Calibri,8.0,130.0,425.6,131.8,433.6, 
+5,25,1,Calibri,8.0,214.6,425.6,234.6,433.6,37.1%
+5,25,1,Calibri,11.0,234.5,423.3,237.0,434.4, 
+5,25,2,Calibri,8.0,264.2,425.6,284.2,433.6,37.7%
+5,25,2,Calibri,11.0,284.1,423.3,286.6,434.4, 
+5,25,3,Calibri,8.0,311.5,425.6,327.4,433.6,0.8%
+5,25,3,Calibri,11.0,327.3,423.3,329.8,434.4, 
+5,25,4,Calibri,8.0,358.6,425.6,364.8,433.6, - 
+5,25,4,Calibri,9.0,364.8,424.8,366.8,433.8, 
+5,25,5,Calibri,8.0,392.2,425.6,412.2,433.6,39.9%
+5,25,5,Calibri,11.0,412.2,423.3,414.7,434.4, 
+5,25,6,Calibri,8.0,433.8,425.6,449.7,433.6,9.5%
+5,25,6,Calibri,11.0,449.6,423.3,452.1,434.4, 
+5,25,7,Calibri,8.0,479.5,425.6,482.0,433.6,-
+5,25,7,Calibri,11.0,481.9,423.3,484.4,434.4, 
+5,25,8,Calibri,8.0,510.6,425.6,524.5,433.6,75%
+5,25,8,Calibri,11.0,524.4,423.3,526.9,434.4, 
+5,26,0,Calibri-Bold,8.0,77.7,439.7,177.8,447.8,AI or Cloud or Data analytics *
+5,26,0,Calibri,8.0,177.6,439.7,179.5,447.8, 
+5,26,1,Calibri,8.0,214.6,439.7,234.6,447.8,58.0%
+5,26,1,Calibri,11.0,234.5,437.5,237.0,448.5, 
+5,26,2,Calibri,8.0,264.2,439.7,284.2,447.8,63.2%
+5,26,2,Calibri,11.0,284.1,437.5,286.6,448.5, 
+5,26,3,Calibri,8.0,311.5,439.7,327.4,447.8,4.4%
+5,26,3,Calibri,11.0,327.3,437.5,329.8,448.5, 
+5,26,4,Calibri,8.0,350.7,439.7,372.6,447.8,24.0% 
+5,26,4,Calibri,9.0,372.4,439.0,374.5,448.0, 
+5,26,5,Calibri,8.0,392.2,439.7,412.2,447.8,63.2%
+5,26,5,Calibri,11.0,412.2,437.5,414.7,448.5, 
+5,26,6,Calibri,8.0,433.8,439.7,449.7,447.8,7.5%
+5,26,6,Calibri,11.0,449.6,437.5,452.1,448.5, 
+5,26,7,Calibri,8.0,470.7,439.7,490.8,447.8,75.0%
+5,26,7,Calibri,11.0,490.7,437.5,493.2,448.5, 
+5,26,8,Calibri,8.0,510.6,439.7,524.5,447.8,75%
+5,26,8,Calibri,11.0,524.4,437.5,526.9,448.5, 
+5,27,0,Calibri-Bold,8.0,77.7,453.9,107.1,461.9,Unicorns
+5,27,0,Calibri,8.0,107.1,453.9,108.9,461.9, 
+5,27,1,Calibri,8.0,220.5,453.9,228.6,461.9,66
+5,27,1,Calibri,11.0,228.6,451.6,231.1,462.7, 
+5,27,2,Calibri,8.0,270.0,453.9,278.2,461.9,74
+5,27,2,Calibri,11.0,278.2,451.6,280.7,462.7, 
+5,27,3,Calibri,8.0,309.4,453.9,329.4,461.9,12.1%
+5,27,3,Calibri,11.0,329.4,451.6,331.8,462.7, 
+5,27,4,Calibri,8.0,358.6,453.9,364.8,461.9, - 
+5,27,4,Calibri,9.0,364.8,453.2,366.8,462.2, 
+5,27,5,Calibri,8.0,396.1,453.9,408.3,461.9,324
+5,27,5,Calibri,11.0,408.2,451.6,410.7,462.7, 
+5,27,6,Calibri,8.0,431.7,453.9,451.8,461.9,10.2%
+5,27,6,Calibri,11.0,451.7,451.6,454.2,462.7, 
+5,27,7,Calibri,8.0,479.5,453.9,482.0,461.9,-
+5,27,7,Calibri,11.0,481.9,451.6,484.4,462.7, 
+5,27,8,Calibri,8.0,511.4,453.9,523.7,461.9,500
+5,27,8,Calibri,11.0,523.6,451.6,526.1,462.7, 
+5,28,0,Calibri-Bold,8.0,77.7,468.2,167.5,476.2,At least basic digital skills *
+5,28,0,Calibri,8.0,167.4,468.2,169.2,476.2, 
+5,28,1,Calibri,8.0,214.6,468.2,234.6,476.2,52.2%
+5,28,1,Calibri,11.0,234.5,465.9,237.0,476.9, 
+5,28,2,Calibri,8.0,264.2,468.2,284.2,476.2,59.6%
+5,28,2,Calibri,11.0,284.1,465.9,286.6,476.9, 
+5,28,3,Calibri,8.0,311.5,468.2,327.4,476.2,6.8%
+5,28,3,Calibri,11.0,327.3,465.9,329.8,476.9, 
+5,28,4,Calibri,8.0,349.9,468.2,373.5,476.2, 60.0% 
+5,28,4,Calibri,9.0,373.4,467.4,375.4,476.4, 
+5,28,5,Calibri,8.0,392.2,468.2,412.2,476.2,60.4%
+5,28,5,Calibri,11.0,412.2,465.9,414.7,476.9, 
+5,28,6,Calibri,8.0,433.8,468.2,449.7,476.2,4.3%
+5,28,6,Calibri,11.0,449.6,465.9,452.1,476.9, 
+5,28,7,Calibri,8.0,470.7,468.2,490.8,476.2,80.0%
+5,28,7,Calibri,11.0,490.7,465.9,493.2,476.9, 
+5,28,8,Calibri,8.0,510.6,468.2,524.5,476.2,80%
+5,28,8,Calibri,11.0,524.4,465.9,526.9,476.9, 
+5,29,0,Calibri-Bold,8.0,77.7,482.3,123.6,490.4,ICT specialists
+5,29,0,Calibri,8.0,123.6,482.3,125.4,490.4, 
+5,29,1,Calibri,8.0,216.6,482.3,232.6,490.4,5.1%
+5,29,1,Calibri,11.0,232.5,480.1,235.0,491.1, 
+5,29,2,Calibri,8.0,266.2,482.3,282.1,490.4,5.5%
+5,29,2,Calibri,11.0,282.0,480.1,284.5,491.1, 
+5,29,3,Calibri,8.0,311.5,482.3,327.4,490.4,7.8%
+5,29,3,Calibri,11.0,327.3,480.1,329.8,491.1, 
+5,29,4,Calibri,8.0,351.9,482.3,371.5,490.4, 5.0% 
+5,29,4,Calibri,9.0,371.4,481.6,373.4,490.6, 
+5,29,5,Calibri,8.0,394.3,482.3,410.2,490.4,5.0%
+5,29,5,Calibri,11.0,410.1,480.1,412.6,491.1, 
+5,29,6,Calibri,8.0,433.8,482.3,449.7,490.4,2.0%
+5,29,6,Calibri,11.0,449.6,480.1,452.1,491.1, 
+5,29,7,Calibri,8.0,472.8,482.3,488.7,490.4,5.3%
+5,29,7,Calibri,11.0,488.6,480.1,491.1,491.1, 
+5,29,8,Calibri,8.0,508.7,482.3,526.5,490.4,~10%
+5,29,8,Calibri,11.0,526.4,480.1,528.9,491.1, 
+5,30,0,Calibri-Bold,8.0,77.7,496.5,158.7,504.5,e-ID scheme notification
+5,30,0,Calibri,8.0,158.5,496.5,160.4,504.5, 
+5,30,1,Calibri,8.0,223.7,496.5,225.5,504.5, 
+5,30,1,Calibri,11.0,225.5,494.2,228.0,505.3, 
+5,30,2,Calibri,8.0,268.9,496.5,279.3,504.5,Yes
+5,30,2,Calibri,11.0,279.3,494.2,281.8,505.3, 
+5,30,3,Calibri,8.0,318.4,496.5,320.2,504.5, 
+5,30,3,Calibri,11.0,320.2,494.2,322.7,505.3, 
+5,30,4,Calibri,8.0,359.8,496.5,361.6,504.5, 
+5,30,4,Calibri,11.0,361.6,494.2,364.1,505.3, 
+5,30,5,Calibri,8.0,401.3,496.5,403.1,504.5, 
+5,30,5,Calibri,11.0,403.1,494.2,405.6,505.3, 
+5,30,6,Calibri,8.0,440.7,496.5,442.6,504.5, 
+5,30,6,Calibri,11.0,442.5,494.2,445.0,505.3, 
+5,30,7,Calibri,8.0,479.7,496.5,481.6,504.5, 
+5,30,7,Calibri,11.0,481.5,494.2,484.0,505.3, 
+5,30,8,Calibri,8.0,516.6,496.5,518.4,504.5, 
+5,30,8,Calibri,11.0,518.4,494.2,520.9,505.3, 
+5,31,0,Calibri-Bold,8.0,77.7,510.8,187.0,518.8,Digital public services for citizens
+5,31,0,Calibri,8.0,187.0,510.8,188.8,518.8, 
+5,31,1,Calibri,8.0,217.5,510.8,231.7,518.8,78.9
+5,31,1,Calibri,11.0,231.6,508.5,234.1,519.5, 
+5,31,2,Calibri,8.0,267.0,510.8,281.3,518.8,78.1
+5,31,2,Calibri,11.0,281.2,508.5,283.7,519.5, 
+5,31,3,Calibri,8.0,310.3,510.8,328.6,518.8,-1.0%
+5,31,3,Calibri,11.0,328.5,508.5,331.0,519.5, 
+5,31,4,Calibri,8.0,352.8,510.8,370.6,518.8, 80.0 
+5,31,4,Calibri,9.0,370.5,510.0,372.5,519.0, 
+5,31,5,Calibri,8.0,395.1,510.8,409.4,518.8,84.6
+5,31,5,Calibri,11.0,409.3,508.5,411.8,519.5, 
+5,31,6,Calibri,8.0,433.8,510.8,449.7,518.8,2.8%
+5,31,6,Calibri,11.0,449.6,508.5,452.1,519.5, 
+5,31,7,Calibri,8.0,471.6,510.8,489.9,518.8,100.0
+5,31,7,Calibri,11.0,489.8,508.5,492.3,519.5, 
+5,31,8,Calibri,8.0,511.4,510.8,523.7,518.8,100
+5,31,8,Calibri,11.0,523.6,508.5,526.1,519.5, 
+5,32,0,Calibri,8.0,217.5,525.5,231.7,533.6,77.5
+5,32,0,Calibri,11.0,231.6,523.3,234.1,534.3, 
+5,32,1,Calibri,8.0,267.0,525.5,281.3,533.6,77.8
+5,32,1,Calibri,11.0,281.2,523.3,283.7,534.3, 
+5,32,2,Calibri,8.0,311.5,525.5,327.4,533.6,0.3%
+5,32,2,Calibri,11.0,327.3,523.3,329.8,534.3, 
+5,32,3,Calibri,8.0,352.8,525.5,370.6,533.6, 82.5 
+5,32,3,Calibri,9.0,370.5,524.8,372.5,533.8, 
+5,32,4,Calibri,8.0,395.1,525.5,409.4,533.6,88.6
+5,32,4,Calibri,11.0,409.3,523.3,411.8,534.3, 
+5,32,5,Calibri,8.0,433.8,525.5,449.7,533.6,2.7%
+5,32,5,Calibri,11.0,449.6,523.3,452.1,534.3, 
+5,32,6,Calibri,8.0,471.6,525.5,489.9,533.6,100.0
+5,32,6,Calibri,11.0,489.8,523.3,492.3,534.3, 
+5,32,7,Calibri,8.0,511.4,525.5,523.7,533.6,100
+5,32,7,Calibri,11.0,523.6,523.3,526.1,534.3, 
+5,33,0,Calibri-Bold,8.0,77.7,525.0,162.5,533.1,Digital public services for 
+5,33,1,Calibri-Bold,8.0,77.7,535.5,113.4,543.5,businesses
+5,33,1,Calibri,8.0,113.3,535.5,115.1,543.5, 
+5,34,0,Calibri-Bold,8.0,77.7,545.8,192.7,553.8,Access to electronic health records
+5,34,0,Calibri,8.0,192.6,545.8,194.5,553.8, 
+5,34,1,Calibri,8.0,217.5,545.8,233.5,553.8,87.0 
+5,34,2,Calibri,8.0,267.0,545.8,283.0,553.8,87.7 
+5,34,3,Calibri,8.0,311.5,545.8,329.1,553.8,0.9% 
+5,34,4,Calibri,8.0,350.7,545.8,372.7,553.8, 100.0 
+5,34,4,Calibri,9.0,372.5,545.1,374.6,554.1, 
+5,34,5,Calibri,8.0,395.1,545.8,411.1,553.8,86.5 
+5,34,6,Calibri,8.0,433.8,545.8,451.4,553.8,4.6% 
+5,34,7,Calibri,8.0,471.6,545.8,489.9,553.8,100.0
+5,34,7,Calibri,8.0,489.8,545.8,491.6,553.8, 
+5,34,8,Calibri,8.0,511.4,545.8,525.4,553.8,100 
+5,35,0,Calibri,8.0,78.1,566.5,268.8,574.5,"(1) Indicators full description, metadata and sources in the "
+5,35,0,Calibri,8.0,268.9,566.5,370.5,574.5,DESI 2026 methodological note
+5,35,0,Calibri,8.0,370.5,566.5,372.3,574.5, 
+5,35,1,Calibri,8.0,78.1,576.2,548.4,584.2,(2) Last available data is DESI 2025 (reference year 2024) except for indicators marked with a star * for which it is DESI2024 (reference year 2023) 
+5,35,2,Calibri,8.0,78.1,585.9,393.9,594.0,"(3) National trajectory value for 2025, if set by the country in its Digital Decade national roadmap "
+5,35,3,Calibri-Light,15.0,72.0,598.0,526.8,613.0,"A competitive, sovereign and resilient EU based on technological leadership "
+5,36,0,Calibri,11.0,72.0,624.8,133.1,635.9,In the area of 
+5,36,0,Calibri-Bold,11.0,132.6,624.8,188.4,635.9,connectivity
+5,36,0,Calibri,11.0,188.4,624.8,525.9,635.9,", fibre rollout has accelerated in recent years and differences between urban "
+5,36,1,Calibri,11.0,72.0,639.3,523.6,650.4,"and rural rollout levels are narrowing, but regional disparities persist. Germany still scores second-to-"
+5,36,2,Calibri,11.0,72.0,653.9,525.8,664.9,"last on fibre coverage in the EU and has relatively low take-up rates, with a particular challenge in "
+5,36,3,Calibri,11.0,72.0,668.4,525.9,679.4,"establishing ‘last metre' connection, i.e. bringing fibre that is already available in close proximity to "
+5,36,4,Calibri,11.0,72.0,682.8,525.8,693.8,"additional households. Germany is working on improving the framework conditions limiting rollout, "
+5,36,5,Calibri,11.0,72.0,697.3,525.8,708.3,including with adjustments to its national laws. It remains to be seen whether these measures will be 
+5,36,6,Calibri,11.0,72.0,711.8,525.8,722.9,"sufficient to overcome structural challenges, such as fragmented stakeholder interests and "
+5,36,7,Calibri,11.0,72.0,726.4,507.4,737.4,"deployment landscape. At the same time, preparatory work for copper switch-off is ongoing. In "
+5,36,7,Calibri-Bold,11.0,508.2,726.4,520.7,737.4,5G
+5,36,7,Calibri,11.0,520.8,726.4,525.9,737.4,", "
+5,36,8,Calibri,11.0,72.0,740.8,525.9,751.8,"Germany performs below the EU average in the mid-band spectrum (3.4-3.8 GHz), which is crucial for "
+5,36,9,Calibri,11.0,72.0,755.3,295.7,766.3,delivering both broad coverage and high capacity. 
+5,37,0,Calibri,11.0,294.9,795.4,302.9,806.4,2 
+6,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+6,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+6,3,0,Calibri,11.0,72.0,84.0,170.0,95.1,"At the business level,"
+6,3,0,Calibri-Bold,11.0,170.1,84.0,172.6,95.1, 
+6,3,0,Calibri,11.0,173.9,84.0,327.6,95.1,companies perceive gaps in their 
+6,3,0,Calibri-Bold,11.0,329.0,84.0,482.9,95.1,uptake of advanced technologies
+6,3,0,Calibri,11.0,483.0,84.0,525.9,95.1,", such as "
+6,3,1,Calibri,11.0,72.0,98.4,525.7,109.5,"artificial intelligence (AI), and there especially within the manufacturing sector. The usage of digital "
+6,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"technologies is often focused on productivity gains, while applications related to innovation and "
+6,3,3,Calibri,11.0,72.0,127.5,525.7,138.5,"business model transformation remain less common. Moreover, implementation challenges such as "
+6,3,4,Calibri,11.0,72.0,142.0,525.8,153.0,"limited human and financial resources, shortcomings in data processing and regulatory complexity "
+6,3,5,Calibri,11.0,72.0,156.4,525.8,167.4,"persist. Against this background, Germany has continued to implement European Digital Innovation "
+6,3,6,Calibri,11.0,72.0,170.9,183.7,181.9,Hubs (EDIHs) and the 
+6,3,6,Calibri-Italic,11.0,188.4,170.9,272.3,181.9,Mittelstand-Digital
+6,3,6,Calibri,11.0,272.3,170.9,525.9,181.9, funding priority to support SMEs in their digital 
+6,3,7,Calibri,11.0,72.0,185.4,343.3,196.5,transformation efforts. It also hosts two of the 19 European 
+6,3,7,Calibri,11.0,343.9,185.4,396.1,196.5,AI Factories
+6,3,7,Calibri,11.0,396.1,185.4,525.9,196.5,", driving advancements in AI "
+6,3,8,Calibri,11.0,72.0,199.9,321.8,211.0,application in different industrial sectors. In the area of 
+6,3,8,Calibri-Bold,11.0,322.1,199.9,362.6,211.0,start-ups
+6,3,8,Calibri,11.0,362.6,199.9,525.8,211.0,", measures to reduce administrative "
+6,3,9,Calibri,11.0,72.0,214.3,526.2,225.4,"burden are being prepared, while efforts to improve access to funding for tech start-ups are ongoing.  "
+6,4,0,Calibri,11.0,72.0,236.9,240.4,248.0,Despite Germany's strong position in 
+6,4,0,Calibri-Bold,11.0,241.0,236.9,282.6,248.0,quantum
+6,4,0,Calibri,11.0,282.6,236.9,525.8,248.0," research and infrastructure, its performance remains "
+6,4,1,Calibri,11.0,72.0,251.4,525.9,262.5,relatively modest in more commercialisation-oriented quantum technology activities. This is reflected 
+6,4,2,Calibri,11.0,72.0,265.9,525.9,276.9,"in limited planned private investment, partly due to the technology’s early stage of development. "
+6,4,3,Calibri,11.0,72.0,280.4,246.5,291.4,Against the background of increasing 
+6,4,3,Calibri-Bold,11.0,248.4,280.4,310.5,291.4,cyber threats
+6,4,3,Calibri,11.0,310.6,280.4,525.9,291.4," and gaps in companies’ preparedness, public "
+6,4,4,Calibri,11.0,72.0,294.9,451.2,305.9,"support measures for businesses continue, but have not been expanded accordingly. "
+6,5,0,Calibri-Light,15.0,72.0,318.2,379.5,333.2,Protecting and empowering EU people and society 
+6,6,0,Calibri,11.0,72.0,345.2,124.6,356.2,The level of
+6,6,0,Calibri-Bold,11.0,124.6,345.2,209.5,356.2, basic digital skills 
+6,6,0,Calibri,11.0,209.9,345.2,525.9,356.2,"of the population is very close to the EU average, and the Digital Pact "
+6,6,1,Calibri,11.0,72.0,359.6,525.9,370.6,2.0 will continue to support the digital transformation of the education system. Although Germany’s 
+6,6,2,Calibri,11.0,72.0,374.1,525.9,385.1,"share of ICT specialists exceeds the EU average, ICT specialist shortages remain a constraint for the "
+6,6,3,Calibri,11.0,72.0,388.6,525.8,399.6,"German economy. Demand is also rising for highly skilled professionals in areas such as AI, quantum "
+6,6,4,Calibri,11.0,72.0,403.1,525.7,414.2,technologies and semiconductors. It remains to be seen whether the speed and scope of ongoing and 
+6,6,5,Calibri,11.0,72.0,417.5,525.8,428.6,"planned measures (e.g. National Skills Strategy, Skilled Labour Strategy, Work and Stay Agency) will be "
+6,6,6,Calibri,11.0,72.0,432.1,525.8,443.1,"sufficient to address these shortages, as well as structural issues such as complex administrative "
+6,6,7,Calibri,11.0,72.0,446.6,271.5,457.6,procedures to attract and retain ICT talents.  
+6,7,0,Calibri,11.0,72.0,469.0,257.6,480.1,Comparatively low availability and use of 
+6,7,0,Calibri-Bold,11.0,257.9,469.0,355.7,480.1,digital public services
+6,7,0,Calibri,11.0,355.8,469.0,525.8,480.1, have been among the key challenges 
+6,7,1,Calibri,11.0,72.0,483.5,525.8,494.6,"in Germany over recent years. Decentralised rollout is hindered by technical, organisational and "
+6,7,2,Calibri,11.0,72.0,498.1,525.9,509.1,"political challenges, aggravated by fragmented responsibilities across different levels of government. "
+6,7,3,Calibri,11.0,72.0,512.6,525.7,523.6,The new Ministry for Digital Transformation and Government Modernisation has created some 
+6,7,4,Calibri,11.0,72.0,527.0,400.6,538.0,"momentum to change dynamics, including moving from the ‘one for all’ ("
+6,7,4,Calibri-Italic,11.0,400.7,527.0,478.7,538.0,"Einer für Alle, EfA"
+6,7,4,Calibri,11.0,478.7,527.0,525.9,538.0,) principle 
+6,7,5,Calibri,11.0,72.0,541.5,525.9,552.5,"towards more standardised solutions, and launching some pilot projects to deliver a few quick positive "
+6,7,6,Calibri,11.0,72.0,556.1,525.8,567.1,"signals and demonstrate the potential of cross-level collaboration. In this context, increasing "
+6,7,7,Calibri,11.0,72.0,570.6,525.7,581.6,"interoperability across the fragmented IT landscape will be key, as it is also a prerequisite for the "
+6,7,8,Calibri,11.0,72.0,585.0,161.7,596.0,functionality of the 
+6,7,8,Calibri-Bold,11.0,162.6,585.0,218.0,596.0,EUDI Wallet
+6,7,8,Calibri,11.0,218.1,585.0,525.9,596.0,". This is especially relevant given that eID uptake remains very low, "
+6,7,9,Calibri,11.0,72.0,599.5,476.8,610.5,while the EUDI Wallet could help address some of the challenges currently associated with 
+6,7,9,Calibri-Bold,11.0,477.0,599.5,492.4,610.5,eID
+6,7,9,Calibri,11.0,492.3,599.5,528.3,610.5, usage.  
+6,8,0,Calibri,11.0,72.0,622.1,74.5,633.1, 
+6,8,1,Calibri,11.0,216.1,622.1,218.5,633.1, 
+6,9,0,Calibri,11.0,294.9,795.4,302.9,806.4,3 
+7,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+7,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+7,2,0,Calibri-Light,15.0,77.7,85.4,193.5,100.4,Recommendations 
+7,4,0,Calibri,11.0,95.7,116.2,99.0,127.2,-
+7,4,0,ArialMT,11.0,99.0,114.5,102.1,126.8, 
+7,4,1,Calibri-Bold,11.0,113.7,116.2,222.0,127.2,Digital public services: 
+7,4,1,Calibri,11.0,224.3,116.2,520.2,127.2,Accelerate and expand the nationwide rollout of digital public 
+7,4,2,Calibri,11.0,113.7,130.7,520.3,141.7,services and uptake of eID by enhancing interoperability and ensuring end-to-end 
+7,4,3,Calibri,11.0,113.7,145.2,520.2,156.3,"digitalisation, including through greater use of standardised digital building blocks and "
+7,4,4,Calibri,11.0,113.7,159.7,520.2,170.8,improved connectivity between IT systems. Systematically address structural 
+7,4,5,Calibri,11.0,113.7,174.3,520.2,185.3,"implementation barriers, including by strengthening collaboration and ensuring a more "
+7,4,6,Calibri,11.0,113.7,188.7,520.3,199.7,"coherent allocation of resources and responsibilities across levels of government, as well as "
+7,4,7,Calibri,11.0,113.7,203.2,520.2,214.2,intensifying cross-border collaboration. Improve the user-friendliness of digital public 
+7,4,8,Calibri,11.0,113.7,217.7,520.0,228.7,"services and simplify and promote eID usage, including by making it easier to (re)activate "
+7,4,9,Calibri,11.0,113.7,232.2,162.7,243.3,eID cards.  
+7,4,10,Calibri,11.0,95.7,246.6,99.0,257.7,-
+7,4,10,ArialMT,11.0,99.0,244.9,102.1,257.2, 
+7,4,11,Calibri-Bold,11.0,113.7,246.6,176.2,257.7,Connectivity: 
+7,4,11,Calibri,11.0,177.1,246.6,520.3,257.7,"Accelerate the rollout of very high-capacity networks, especially fibre optic "
+7,4,12,Calibri,11.0,113.7,261.2,520.3,272.2,"infrastructure, with a focus on connecting end users and reducing regional disparities in "
+7,4,13,Calibri,11.0,113.7,275.7,520.3,286.7,"coverage. Improve framework conditions for fibre deployment, including by strengthening "
+7,4,14,Calibri,11.0,113.7,290.2,520.3,301.2,efforts to streamline and standardise rollout procedures and fostering the copper networks 
+7,4,15,Calibri,11.0,113.7,304.6,520.3,315.6,"switch-off. Promote take-up, including by increasing awareness of the benefits of fibre "
+7,4,16,Calibri,11.0,113.7,319.1,520.3,330.2,connectivity. Improve availability and coverage in the 5G mid-spectrum band (3.4-3.8 GHz) 
+7,4,17,Calibri,11.0,113.7,333.6,520.3,344.7,and take advantage of the upcoming expiry of rights of use to implement pro-investment 
+7,4,18,Calibri,11.0,113.7,348.2,160.3,359.2,conditions
+7,4,18,Calibri-Italic,11.0,160.3,348.2,163.1,359.2,.
+7,4,18,Calibri-BoldItalic,11.0,163.0,348.2,165.5,359.2, 
+7,4,19,Calibri,11.0,95.7,362.6,99.0,373.6,-
+7,4,19,ArialMT,11.0,99.0,360.9,102.1,373.2, 
+7,4,20,Calibri-Bold,11.0,113.7,362.6,343.0,373.6,"Uptake of advanced technologies, especially AI: "
+7,4,20,Calibri,11.0,345.2,362.6,520.2,373.6,Accelerate the adoption of advanced 
+7,4,21,Calibri,11.0,113.7,377.1,520.0,388.1,"technologies, such as AI, across businesses, including by fostering deeper integration of "
+7,4,22,Calibri,11.0,113.7,391.6,520.0,402.6,digital technologies to support innovation and business model transformation. In the field 
+7,4,23,Calibri,11.0,113.7,406.1,520.2,417.2,"of AI, support the deployment of innovation infrastructures for businesses, such as AI "
+7,4,24,Calibri,11.0,113.7,420.5,520.1,431.6,"Factories, AI Testing and Experimentation Facilities and European Digital Innovation Hubs "
+7,4,25,Calibri,11.0,113.7,435.1,520.3,446.1,"(EDIH). Promote AI uptake in strategic sectors, such as manufacturing, supporting the EU’s "
+7,4,26,Calibri,11.0,113.7,449.6,237.1,460.6,Apply AI Strategy’s actions. 
+7,4,27,Calibri,11.0,95.7,464.1,99.0,475.1,-
+7,4,27,ArialMT,11.0,99.0,462.4,102.1,474.7, 
+7,4,28,Calibri-Bold,11.0,113.7,464.1,180.3,475.1,ICT specialists:
+7,4,28,Calibri,11.0,180.4,464.1,520.1,475.1, Increase the supply of ICT specialists by attracting more young people into 
+7,4,29,Calibri,11.0,113.7,478.5,520.0,489.5,"ICT-related studies and careers, including through further development of existing and "
+7,4,30,Calibri,11.0,113.7,493.0,520.3,504.1,planned measures. Strengthen efforts to attract and retain ICT talent by streamlining 
+7,4,31,Calibri,11.0,113.7,507.5,520.0,518.6,administrative procedures and enhancing collaboration. Ensure a sufficiently large pool of 
+7,4,32,Calibri,11.0,113.7,522.1,520.2,533.1,highly skilled professionals in cutting-edge technologies to support innovation and their 
+7,4,33,Calibri,11.0,113.7,536.5,228.6,547.5,continued development.  
+7,4,34,Calibri,11.0,95.7,551.0,99.0,562.0,-
+7,4,34,ArialMT,11.0,99.0,549.3,102.1,561.6, 
+7,4,35,Calibri-Bold,11.0,113.7,551.0,218.8,562.0,Quantum technologies
+7,4,35,Calibri,11.0,218.9,551.0,520.3,562.0,: Leverage the country’s strong position in quantum technologies 
+7,4,36,Calibri,11.0,113.7,565.5,520.2,576.6,"with adequate funding, including by ensuring continued public financial support and by "
+7,4,37,Calibri,11.0,113.7,580.1,520.3,591.1,"incentivising private investment, in particular into the German quantum startup landscape. "
+7,4,38,Calibri,11.0,113.7,594.5,520.2,605.5,Accelerate commercial uptake by reinforcing technology transfer mechanisms between the 
+7,4,39,Calibri,11.0,113.7,609.0,520.3,620.0,country’s research base and industry. Intensify cross-border collaboration and contribute 
+7,4,40,Calibri,11.0,113.7,623.5,321.6,634.5,to building a European quantum supply chain. 
+7,4,41,Calibri,11.0,95.7,638.0,99.0,649.1,-
+7,4,41,ArialMT,11.0,99.0,636.3,102.1,648.6, 
+7,4,42,Calibri-Bold,11.0,113.7,638.0,181.7,649.1,Cybersecurity: 
+7,4,42,Calibri,11.0,181.5,638.0,520.3,649.1,"Improve cybersecurity resilience for private and public entities, including by "
+7,4,43,Calibri,11.0,113.7,652.4,520.3,663.5,raising awareness of existing support and complementing it with targeted measures to 
+7,4,44,Calibri,11.0,113.7,666.9,500.9,678.0,improve preparedness for the evolving threat and technology development landscape.
+7,4,44,Calibri-Italic,11.0,500.9,666.9,503.4,678.0, 
+7,5,0,Calibri,11.0,72.0,684.9,74.5,696.0, 
+7,5,1,Calibri,11.0,216.1,684.9,218.5,696.0, 
+7,6,0,Calibri,11.0,294.9,795.4,302.9,806.4,4 
+8,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+8,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+8,3,0,Calibri-Bold,26.0,72.0,87.0,529.1,113.1,"A competitive, sovereign and resilient EU "
+8,3,1,Calibri-Bold,26.0,72.0,121.2,444.2,147.3,based on technological leadership 
+8,4,0,Calibri-Light,15.0,72.0,161.3,509.7,176.3,Building technological leadership: digital infrastructure and technologies 
+8,5,0,Calibri-Light,12.0,72.0,188.5,203.2,200.5,Connectivity infrastructure 
+8,6,0,Calibri-LightItalic,11.0,72.0,206.1,183.7,217.1,Performance assessment 
+8,8,0,Calibri,11.0,522.8,436.7,525.3,447.8, 
+8,9,0,Calibri-Bold,11.0,72.0,456.2,525.9,467.2,"Germany achieved very high capacity network (VHCN) coverage of 79.86% in 2025, below the EU "
+8,9,1,Calibri-Bold,11.0,72.0,470.6,153.2,481.6,average (85.54%).
+8,9,1,Calibri,11.0,153.1,470.6,306.6,481.6," The annual growth rate was 3.2%,"
+8,9,1,Calibri-Bold,11.0,306.4,470.6,308.9,481.6, 
+8,9,1,Calibri,11.0,309.0,470.6,525.9,481.6,lower than the EU’s growth rate of 3.7%. In rural 
+8,9,2,Calibri,11.0,72.0,485.1,525.9,496.1,"areas, VHCN coverage reached 56.08%, also below the EU average (66.66%), but with a higher growth "
+8,9,3,Calibri,11.0,72.0,499.6,525.9,510.7,rate (24.1% vs. EU’s 7.7%). Germany did not provide a national trajectory point for 2025 in its Digital 
+8,9,4,Calibri,11.0,72.0,514.1,190.0,525.2,Decade national roadmap.
+8,9,4,Calibri-Bold,11.0,189.9,514.1,192.4,525.2, 
+8,10,0,Calibri-Bold,11.0,72.0,536.6,525.9,547.6,"Germany’s fibre-to-the-premises (FTTP) coverage reached 43.98% in 2025, considerably below the "
+8,10,1,Calibri-Bold,11.0,72.0,551.1,178.4,562.2,EU average of 74.13%. 
+8,10,1,Calibri,11.0,179.3,551.1,525.9,562.2,"However, its annual growth rate of 19.6% exceeded the EU’s growth rate of "
+8,10,2,Calibri,11.0,72.0,565.7,525.9,576.7,"7.1% (2024: Germany 36.78% and EU average 69.24%). In rural areas, FTTP coverage stood at 43.15%, "
+8,10,3,Calibri,11.0,72.0,580.1,471.0,591.1,"also below the EU average of 62.61%, but with a higher growth rate (27.2% vs. EU’s 6.5%)."
+8,10,3,Calibri-Bold,11.0,471.0,580.1,473.5,591.1, 
+8,10,3,Calibri,11.0,473.5,580.1,525.9,591.1,Germany is 
+8,10,4,Calibri,11.0,72.0,594.6,522.0,605.6,lagging behind compared to its national trajectory presented in the Digital Decade national roadmap.
+8,10,4,Calibri-Bold,11.0,522.0,594.6,524.5,605.6, 
+8,11,0,Calibri-Bold,11.0,72.0,617.1,341.3,628.2,"Germany achieved basic 5G coverage of 99.47% in 2025,"
+8,11,0,Calibri,11.0,341.4,617.1,343.8,628.2, 
+8,11,0,Calibri-Bold,11.0,345.7,617.1,525.9,628.2,"above the EU average of 96.79%, but "
+8,11,1,Calibri-Bold,11.0,72.0,631.5,398.3,642.6,performs below the EU average in 5G coverage in the 3.4-3.8 GHz band. 
+8,11,1,Calibri,11.0,398.1,631.5,526.0,642.6,The 3.4-3.8 GHz mid-band is 
+8,11,2,Calibri,11.0,72.0,646.1,525.9,657.1,crucial because it provides a good balance between coverage and high capacity. This makes it a 
+8,11,3,Calibri,11.0,72.0,660.6,525.7,671.6,cornerstone for advanced 5G use cases that can be replicated as reference models across sectors and 
+8,11,4,Calibri,11.0,72.0,675.1,525.9,686.1,"socio-economic drivers. These include applications in manufacturing, such as industrial Internet of "
+8,11,5,Calibri,11.0,72.0,689.5,103.4,700.5,Things 
+8,11,6,Calibri,11.0,120.0,689.5,145.9,700.5,"(IoT), "
+8,11,7,Calibri,11.0,162.5,689.5,174.7,700.5,or 
+8,11,8,Calibri,11.0,191.2,689.5,244.1,700.5,"healthcare, "
+8,11,9,Calibri,11.0,260.7,689.5,275.9,700.5,for 
+8,11,10,Calibri,11.0,292.5,689.5,332.5,700.5,example 
+8,11,11,Calibri,11.0,349.1,689.5,412.6,700.5,telemedicine. 
+8,11,12,Calibri,11.0,429.1,689.5,440.1,700.5,In 
+8,11,13,Calibri,11.0,456.7,689.5,480.2,700.5,rural 
+8,11,14,Calibri,11.0,496.8,689.5,528.3,700.5,"areas,  "
+8,11,15,Calibri,11.0,72.0,704.0,528.3,715.1,"Germany’s overall 5G coverage reached 98.1% in 2025, again above the EU average of 88.88%.  "
+8,11,16,Calibri,11.0,72.0,718.5,525.9,729.6,"Germany’s 5G coverage in the 3.4–3.8 GHz band was at 54.43% in 2025, considerably below the EU "
+8,11,17,Calibri,11.0,72.0,733.1,525.9,744.1,average of 74.75%. Germany’s annual growth rate of 10.0% was slightly lower than the EU’s growth 
+8,11,18,Calibri,11.0,72.0,747.5,525.9,758.5,"rate of 10.6% (2024: 49.5% vs EU’s 67.6%). In rural areas, Germany’s 5G coverage in the 3.4–3.8 GHz "
+8,12,0,Calibri,11.0,294.9,795.4,302.9,806.4,5 
+9,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+9,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+9,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,"band reached 8.19% in 2025, remaining also considerably below the EU average of 33.71%. Germany’s "
+9,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,annual growth rate of 23.0% was lower than the EU’s growth rate of 32.9% (2024: 6.66% vs EU’s 
+9,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"25.36%). Against this backdrop, migrating private networks to the recently harmonised 3.8–4.2 GHz "
+9,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,band could help improve the availability of mid-band spectrum for high-quality public 5G networks. 
+9,3,4,Calibri,11.0,72.0,142.0,523.7,153.0,"Moreover, the upcoming spectrum licence expiry in 2030 presents an opportunity to establish pro-"
+9,3,5,Calibri,11.0,72.0,156.4,171.3,167.4,investment conditions
+9,3,5,Calibri,7.0,171.2,155.5,174.7,162.4,1
+9,3,5,Calibri,11.0,174.6,156.4,525.9,167.4,. The country did not provide a national trajectory point for basic 5G coverage 
+9,3,6,Calibri,11.0,72.0,170.9,294.0,181.9,for 2025 in the Digital Decade national roadmap.  
+9,4,0,Calibri-Bold,11.0,72.0,193.5,272.9,204.5,"With the exception of overall 5G coverage,"
+9,4,0,Calibri,11.0,273.0,193.5,275.5,204.5, 
+9,4,0,Calibri-Bold,11.0,276.6,193.5,525.9,204.5,Germany achieved lower coverage rates than the EU 
+9,4,1,Calibri-Bold,11.0,72.0,207.9,242.8,218.9,across all key performance indicators.
+9,4,1,Calibri,11.0,242.9,207.9,525.9,218.9, The gap is particularly pronounced for fibre and 5G coverage in 
+9,4,2,Calibri,11.0,72.0,222.4,525.9,233.4,the 3.4–3.8 GHz band. Despite fibre rollout accelerating in recent years and differences between urban 
+9,4,3,Calibri,11.0,72.0,236.9,466.6,248.0,"and rural rollout levels narrowing, Germany still scores second-to-last on fibre in the EU. "
+9,5,0,Calibri,11.0,72.0,259.4,525.9,270.4,"The table below provides an overview of VHCN, FTTP and basic 5G coverage across NUTS-2 "
+9,5,1,Calibri,11.0,72.0,273.9,334.8,284.9,(nomenclature of territorial units for statistics) regions in
+9,5,1,Calibri-Italic,11.0,334.8,273.9,337.2,284.9, 
+9,5,1,Calibri,11.0,338.7,273.9,525.9,284.9,"Germany, which is the relevant level for "
+9,5,2,Calibri,11.0,72.0,288.4,145.7,299.5,regional polices.
+9,5,2,Calibri-Italic,11.0,145.6,288.4,148.1,299.5, 
+9,5,2,Calibri,11.0,149.2,288.4,211.3,299.5,It shows that 
+9,5,2,Calibri-Bold,11.0,212.4,288.4,507.2,299.5,fixed broadband coverage is very mixed across German regions
+9,5,2,Calibri,11.0,507.1,288.4,525.9,299.5, for 
+9,5,3,Calibri,11.0,72.0,302.9,469.2,314.0,VHCN coverage especially in rural areas and for FTTP coverage overall and in rural areas.  
+9,6,0,Calibri,11.0,216.1,734.3,218.5,745.3, 
+9,6,1,Calibri,6.5,72.0,746.8,75.3,753.3,1
+9,6,1,Calibri,10.0,75.3,747.7,501.0,757.6," Pro-investment conditions include longer licence durations to strengthen investment certainty, coverage "
+9,6,2,Calibri,10.0,72.0,759.9,524.0,769.9,obligations to accelerate deployment and reasonable spectrum prices that preserve capital for network rollout. 
+9,7,0,Calibri,11.0,294.9,795.4,302.9,806.4,6 
+10,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+10,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+10,4,0,Calibri,11.0,460.4,525.9,462.9,536.9, 
+10,5,0,Calibri-LightItalic,11.0,72.0,545.3,302.6,556.4,Policy context and assessment of recommendations  
+10,6,0,Calibri-Bold,11.0,72.0,571.9,99.5,582.9,In its 
+10,6,0,Calibri-Bold,11.0,102.3,571.9,199.1,582.9,Coalition Agreement
+10,6,0,Calibri-Bold,11.0,199.1,571.9,525.8,582.9,", the German Government aims to ‘significantly advance its digital "
+10,6,1,Calibri-Bold,11.0,72.0,586.3,432.7,597.3,"infrastructure through nationwide FTTH deployment reaching every household’,"
+10,6,1,Calibri,11.0,432.7,586.3,525.9,597.3, although no specific 
+10,6,2,Calibri,11.0,72.0,600.8,167.1,611.9,timeline is provided.
+10,6,2,Calibri-Bold,11.0,167.1,600.8,169.6,611.9, 
+10,6,2,Calibri,11.0,171.5,600.8,525.9,611.9,"Fibre rollout has accelerated in recent years. However, progress has largely "
+10,6,3,Calibri,11.0,72.0,615.3,525.9,626.4,focused on ‘homes passed’ (i.e. fibre located in close proximity to homes) rather than on full 
+10,6,4,Calibri,11.0,72.0,629.9,525.9,640.9,"connections, particularly in commercial deployments. By mid-2025, the number of ‘homes passed’ "
+10,6,5,Calibri,11.0,72.0,644.3,525.7,655.3,"increased from around 7 million in 2020 to approximately 24.6 million. Of these, about 10 million are "
+10,6,6,Calibri,11.0,72.0,658.8,525.8,669.8,"‘homes connected’ (i.e. able to subscribe to a fibre service), while roughly 6 million are actively using "
+10,6,7,Calibri,11.0,72.0,673.3,486.6,684.3,"fibre services (‘homes activated’), corresponding to a moderate take-up rate of around 25%.  "
+10,7,0,Calibri-Bold,11.0,72.0,695.7,525.9,706.8,"While differences between urban and rural rollout levels are narrowing, regional disparities persist "
+10,7,1,Calibri,11.0,72.0,710.3,225.5,721.3,(see also table above). Northern 
+10,7,1,Calibri-Italic,11.0,227.3,710.3,260.0,721.3,"Länder,"
+10,7,1,Calibri,11.0,260.0,710.3,525.9,721.3," such as Schleswig-Holstein and Lower Saxony, are more "
+10,7,2,Calibri,11.0,72.0,724.8,525.9,735.8,"advanced in fibre rollout, with FTTP coverage often ranging between 65% and 95%. By contrast, in "
+10,7,3,Calibri,11.0,72.0,739.9,134.8,751.0,other regions 
+10,7,3,SymbolMT,11.0,134.9,737.1,143.8,750.6,
+10,7,3,Calibri,11.0,143.8,739.9,246.7,751.0,especially in the south 
+10,7,3,SymbolMT,11.0,247.0,737.1,253.1,750.6,
+10,7,3,Calibri,11.0,253.1,739.9,525.9,751.0, coverage often remained below 35% in 2025 (see also table 
+10,8,0,Calibri,11.0,294.9,795.4,302.9,806.4,7 
+11,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+11,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+11,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,above). These differences may partly reflect more favourable geographic conditions and population 
+11,2,1,Calibri,11.0,72.0,98.4,426.4,109.5,"density in leading regions, which improve the economic viability of the rollout.  "
+11,4,0,Calibri-Bold,11.0,72.0,121.0,525.9,132.0,"Broadband rollout is constrained by lengthy approval procedures, diverging stakeholder interests, a "
+11,4,1,Calibri-Bold,11.0,72.0,135.5,433.9,146.5,"fragmented deployment landscape, and incomplete rollout documentation. "
+11,4,1,Calibri,11.0,436.4,135.5,525.9,146.5,These factors limit 
+11,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"economies of scale and make deployment resource-intensive, contributing to the gap between homes "
+11,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,passed and homes connected. Deployment in the last metres is often impacted by diverging interests 
+11,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,"between property owners, who want to choose their telecom operator, and telecom operators, which "
+11,4,5,Calibri,11.0,72.0,193.5,525.8,204.5,require a critical mass of connections to ensure commercial viability. Delivering connectivity over the 
+11,4,6,Calibri,11.0,72.0,207.9,525.9,218.9,"final metres remains challenging, partly due to limited documentation, which constrains the "
+11,4,7,Calibri,11.0,72.0,222.4,525.9,233.4,implementation of new connections. Improvements in areas such as rollout documentation are 
+11,4,8,Calibri,11.0,72.0,236.9,525.9,248.0,"expected through regulatory harmonisation, including through the Gigabit Infrastructure Act. "
+11,4,9,Calibri,11.0,72.0,251.4,140.4,262.5,"Moreover, the "
+11,4,9,Calibri,11.0,142.8,251.4,415.9,262.5,2025 amendment to the national Telecommunications Act
+11,4,9,Calibri,11.0,415.9,251.4,525.9,262.5, has further prioritised 
+11,4,10,Calibri,11.0,72.0,265.9,525.9,276.9,broadband rollout by designating it a matter of overriding public interest. This is expected to accelerate 
+11,4,11,Calibri,11.0,72.0,280.4,525.9,291.4,approval procedures. Market conditions for deployment (e.g. availability of financing) have become 
+11,4,12,Calibri,11.0,72.0,294.9,492.6,305.9,"more challenging, further exacerbated by a highly fragmented deployment landscape. A "
+11,4,12,Calibri,11.0,495.2,294.9,523.5,305.9,report
+11,4,12,Calibri,11.0,523.4,294.9,525.9,305.9, 
+11,4,13,Calibri,11.0,72.0,309.4,525.9,320.5,"indicates that around 300 companies are deploying networks, many of which operate in small areas "
+11,4,14,Calibri,11.0,72.0,323.8,525.9,334.9,and contribute only marginally to overall rollout (around 200 companies account for just 3% of total 
+11,4,15,Calibri,11.0,72.0,338.3,439.8,349.4,deployment). This suggests a need to develop more scalable deployment models.  
+11,5,0,Calibri-Bold,11.0,72.0,360.9,525.9,371.9,"Publicly funded deployment is expected to continue at broadly current levels, alongside "
+11,5,1,Calibri-Bold,11.0,72.0,375.3,441.4,386.3,strengthened stakeholder engagement through a network deployment dialogue. 
+11,5,1,Calibri,11.0,441.5,375.3,525.9,386.3,Under the funding 
+11,5,2,Calibri,11.0,72.0,389.8,126.9,400.9,programme 
+11,5,2,Calibri-Italic,11.0,127.8,389.8,221.7,400.9,Gigabitförderung 2.0
+11,5,2,Calibri,11.0,221.8,389.8,525.9,400.9,", 390 infrastructure projects with a total volume of EUR 1.8 billion "
+11,5,3,Calibri,11.0,72.0,404.3,525.9,415.4,"were approved in 2025, supporting approximately 440 000 new connections. For 2026, EUR 1.3 billion "
+11,5,4,Calibri,11.0,72.0,418.9,525.9,429.9,"in federal funding is planned. Over recent years, total public funding has amounted to around EUR 2 "
+11,5,5,Calibri,11.0,72.0,433.3,375.2,444.3,"billion in public funding per year, including contributions from the"
+11,5,5,Calibri-Italic,11.0,375.3,433.3,409.6,444.3, Länder
+11,5,5,Calibri,11.0,409.7,433.3,525.9,444.3,. Federal funding to date 
+11,5,6,Calibri,11.0,72.0,447.8,525.9,458.8,amounts to EUR 20 billion and has supported approximately 3 850 rollout projects providing around 
+11,5,7,Calibri,11.0,72.0,462.3,525.9,473.4,"4.7 million connections. In addition, a stakeholder dialogue on the digital infrastructure rollout was "
+11,5,8,Calibri,11.0,72.0,476.8,128.6,487.9,launched in 
+11,5,8,Calibri,11.0,130.9,476.8,194.6,487.9,October 2025
+11,5,8,Calibri,11.0,194.6,476.8,344.8,487.9,", involving representatives from "
+11,5,8,Calibri-Italic,11.0,347.1,476.8,377.6,487.9,Länder
+11,5,8,Calibri,11.0,377.7,476.8,525.8,487.9,", municipalities and industry. A "
+11,5,9,Calibri,11.0,72.0,491.2,525.9,502.3,Memorandum of Understanding is expected to be finalised in June 2026 to define measurable rollout 
+11,5,10,Calibri,11.0,72.0,505.7,455.5,516.8,targets and monitoring indicators. This exchange is set to continue on a regular basis.  
+11,6,0,Calibri-Bold,11.0,72.0,528.3,385.1,539.3,No copper network switch-off has taken place in Germany to date.
+11,6,0,Calibri,11.0,385.3,528.3,525.9,539.3," However, preparatory work is "
+11,6,1,Calibri,11.0,72.0,542.7,370.1,553.8,"ongoing. In September 2025, the German Government published "
+11,6,1,Calibri,11.0,371.0,542.7,525.8,553.8,key elements of a comprehensive 
+11,6,2,Calibri,11.0,72.0,557.3,240.6,568.3,concept for copper-to-fibre-migration
+11,6,2,Calibri,11.0,240.6,557.3,415.3,568.3," for consultation. In January 2026, the "
+11,6,2,Calibri-Italic,11.0,415.9,557.3,502.3,568.3,Bundesnetzagentur
+11,6,2,Calibri,11.0,502.2,557.3,525.9,568.3, (the 
+11,6,3,Calibri,11.0,72.0,571.8,264.1,582.8,national regulatory authority) proposed a 
+11,6,3,Calibri,11.0,265.4,571.8,350.8,582.8,regulatory concept
+11,6,3,Calibri,11.0,350.8,571.8,525.9,582.8, outlining the conditions under which 
+11,6,4,Calibri,11.0,72.0,586.3,499.6,597.3,"copper networks may be switched off, while ensuring competition and a rules-based approach.  "
+11,7,0,Calibri-Bold,11.0,72.0,608.7,525.9,619.8,"Demand for fibre connections remains moderate, as reflected in the gap between homes passed and "
+11,7,1,Calibri-Bold,11.0,72.0,623.3,153.8,634.3,homes connected
+11,7,1,Calibri,11.0,153.7,623.3,169.0,634.3,. A 
+11,7,1,Calibri,11.0,170.1,623.3,238.4,634.3,Deloitte survey
+11,7,1,Calibri,11.0,238.5,623.3,525.9,634.3, indicates that a significant share of households (at least 39%) 
+11,7,2,Calibri,11.0,72.0,637.8,525.9,648.8,"would keep their existing connection even if fibre were available, while only around one quarter (27%) "
+11,7,3,Calibri,11.0,72.0,652.2,525.9,663.2,"would actively opt for fibre. Key drivers for switching include reliability/connection stability, higher "
+11,7,4,Calibri,11.0,72.0,666.7,525.9,677.7,"speeds, and good value for money/competitive pricing. Limited demand can partly be explained by the "
+11,7,5,Calibri,11.0,72.0,681.2,525.9,692.3,"continued performance of existing copper-based networks (e.g. VDSL/cable networks), which often "
+11,7,6,Calibri,11.0,72.0,695.7,525.9,706.8,"seem to meet current user needs. In addition, perceived high costs, limited awareness of the added "
+11,7,7,Calibri,11.0,72.0,710.1,525.8,721.2,"value, and concerns about switching processes (e.g. service interruptions) act as barriers to adoption. "
+11,8,0,Calibri-Bold,11.0,72.0,732.7,471.9,743.8,"Against this background, Germany has launched an information campaign on fibre "
+11,8,0,Calibri-BoldItalic,11.0,474.2,732.7,525.9,743.8,‘Das beste 
+11,8,1,Calibri-BoldItalic,11.0,72.0,747.2,111.8,758.3,Internet’
+11,8,1,Calibri-Bold,11.0,111.7,747.2,114.7,758.3,.
+11,8,1,Calibri,11.0,114.7,747.2,117.2,758.3, 
+11,8,1,Calibri,11.0,118.7,747.2,182.3,758.3,The campaign
+11,8,1,Calibri,11.0,182.3,747.2,525.9,758.3, aims to inform the public about the benefits of fibre connectivity and to 
+11,9,0,Calibri,11.0,294.9,795.4,302.9,806.4,8 
+12,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+12,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+12,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,encourage take-up where infrastructure is already available. Linked to some of the challenges 
+12,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"mentioned above, the campaign targets property owners and tenants in particular. Early indications "
+12,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"suggest increasing public awareness and consumer interest. However, the campaign remains limited "
+12,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"in scope, with a focus on digital distribution channels. The campaign is set to continue, taking its initial "
+12,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"results into account. In addition, the Gigabit Office has launched a website to support end users in "
+12,3,5,Calibri,11.0,72.0,156.4,384.4,167.4,"choosing the most suitable internet connection, with a focus on fibre. "
+12,3,5,Calibri-Bold,11.0,384.3,156.4,386.8,167.4, 
+12,4,0,Calibri-Bold,11.0,77.7,179.4,259.4,190.5,2025 recommendation on connectivity
+12,4,0,Calibri,11.0,259.5,179.4,520.3,190.5,: Accelerate infrastructure roll-out of very high-capacity 
+12,4,1,Calibri,11.0,77.7,193.9,255.4,205.0,"digital networks, especially fibre optics. "
+12,5,0,Calibri-Bold,11.0,77.7,211.9,520.3,223.0,Germany made some efforts to address the recommendation through new policy actions in 2025. 
+12,6,0,Calibri,11.0,77.7,229.3,520.0,240.4,Some regulatory adjustments have been implemented or are underway to address some of the 
+12,6,1,Calibri,11.0,77.7,243.9,520.3,254.9,"structural challenges identified, such as the 2025 amendment to the Telecommunications Act and "
+12,6,2,Calibri,11.0,77.7,258.4,520.3,269.5,the ongoing harmonisation of national law with the Gigabit Infrastructure Act. Additional new 
+12,6,3,Calibri,11.0,77.7,272.9,520.3,284.0,measures include the launch of a stakeholder dialogue on broadband rollout and an information 
+12,6,4,Calibri,11.0,77.7,287.3,164.3,298.4,campaign on fibre (
+12,6,4,Calibri-Italic,11.0,164.3,287.3,250.4,298.4,'Das beste Internet'
+12,6,4,Calibri,11.0,250.4,287.3,520.2,298.4,"). Moreover, Germany continues its constant rollout funding "
+12,6,5,Calibri,11.0,77.7,301.9,520.2,312.9,with a federal budget of EUR 1.3 billion for 2026 (EUR 1.8 billion in 2025 for around 440 000 new 
+12,6,6,Calibri,11.0,77.7,316.4,285.1,327.4,connections) and additional investments from 
+12,6,6,Calibri-Italic,11.0,285.2,316.4,315.7,327.4,Länder
+12,6,6,Calibri,11.0,315.8,316.4,318.6,327.4,.
+12,6,6,Calibri-Bold,11.0,318.5,316.4,321.0,327.4, 
+12,7,0,Calibri-Light,12.0,72.0,336.6,151.9,348.6,Semiconductors 
+12,7,1,Calibri-Bold,11.0,72.0,352.1,525.8,363.2,Germany is the largest microelectronics location in the EU and contributes significantly to 
+12,7,2,Calibri-Bold,11.0,72.0,366.6,270.7,377.7,semiconductor research and manufacturing
+12,7,2,Calibri,11.0,270.9,366.6,276.1,377.7,. 
+12,7,2,Calibri,11.0,276.3,366.6,504.1,377.7,According to the national microelectronics strategy
+12,7,2,Calibri,11.0,503.4,366.6,525.9,377.7,", the "
+12,7,3,Calibri,11.0,72.0,381.2,525.9,392.2,"country accounts for roughly 30% of Europe’s wafer capacity, the foundation of microelectronics "
+12,7,4,Calibri,11.0,72.0,395.7,525.7,406.8,manufacturing. The microelectronics sector contributes approximately 4% directly and 15% indirectly 
+12,7,5,Calibri,11.0,72.0,410.1,311.4,421.1,to Germany’s GDP. Germany also holds 5.6% of global 
+12,7,5,Calibri,11.0,311.1,410.1,413.8,421.1,semiconductor patents
+12,7,5,Calibri,11.0,413.9,410.1,525.9,421.1,", though its international "
+12,7,6,Calibri,11.0,72.0,424.6,201.5,435.7,ranking has declined from 4
+12,7,6,Calibri,7.0,201.6,423.7,207.6,430.7,th
+12,7,6,Calibri,11.0,207.5,424.6,291.3,435.7, (2001–2003) to 6
+12,7,6,Calibri,7.0,291.4,423.7,297.4,430.7,th
+12,7,6,Calibri,11.0,297.3,424.6,525.8,435.7, (2019-2021). Semiconductors are widely used in 
+12,7,7,Calibri,11.0,72.0,439.1,184.5,450.2,German industry: a 2025 
+12,7,7,Calibri,11.0,184.4,439.1,247.3,450.2,Bitkom survey
+12,7,7,Calibri,11.0,247.2,439.1,525.9,450.2, of companies in manufacturing and ICT services sectors found 
+12,7,8,Calibri,11.0,72.0,453.7,525.8,464.7,"that 91% use semiconductors, with 80% of these companies considering them essential to their "
+12,7,9,Calibri,11.0,72.0,468.1,523.5,479.1,"operations. Therefore, supply chain stability is a key concern, with 64% of companies considering long-"
+12,7,10,Calibri,11.0,72.0,482.6,525.9,493.6,term purchase guarantees through strategic partnerships with international manufacturers to be 
+12,7,11,Calibri,11.0,72.0,497.1,122.2,508.1,important. 
+12,8,0,Calibri-Bold,11.0,72.0,519.5,525.9,530.6,"Activities in Germany are characterised by strong capabilities in chip manufacturing, in particular "
+12,8,1,Calibri-Bold,11.0,72.0,534.1,260.2,545.1,related to power electronics and sensors
+12,8,1,Calibri,11.0,260.2,534.1,525.7,545.1,. The country maintains a strong position in machinery for 
+12,8,2,Calibri,11.0,72.0,548.6,410.4,559.6,"semiconductor production, showing an export surplus in these technologies "
+12,8,2,Calibri,11.0,410.1,548.6,520.6,559.6,based on data from 2023
+12,8,2,Calibri,11.0,520.7,548.6,525.9,559.6,. 
+12,8,3,Calibri,11.0,72.0,563.1,525.9,574.2,"The country’s capabilities support industrial applications, especially in more mature types of chips, "
+12,8,4,Calibri,11.0,72.0,577.5,525.9,588.6,"including in sectors such as automotive and energy, where potential for market growth is relatively "
+12,8,5,Calibri,11.0,72.0,592.1,525.7,603.1,"limited. However, two German companies provide essential parts for the machines used to produce "
+12,8,6,Calibri,11.0,72.0,606.6,308.9,617.6,cutting-edge chips (i.e. for EUV lithography systems). 
+12,9,0,Calibri-Bold,11.0,72.0,629.0,525.9,640.1,Areas of relative weakness include chips design and manufacturing of memory chips to store 
+12,9,1,Calibri-Bold,11.0,72.0,643.5,328.8,654.6,information as well as logic chips to process information 
+12,9,1,Calibri,11.0,328.8,643.5,525.9,654.6,(including for advanced applications such as 
+12,9,2,Calibri,11.0,72.0,658.1,525.9,669.1,"AI). Although these are common challenges across Europe, the comparatively high market growth in "
+12,9,3,Calibri,11.0,72.0,672.6,525.9,683.6,these segments suggests potential relevance for Germany to further develop its capabilities in these 
+12,9,4,Calibri,11.0,72.0,687.0,525.9,698.0,"areas, including to support the completion of value chains for AI innovation infrastructure such as AI "
+12,9,5,Calibri,11.0,72.0,701.5,120.0,712.5,Factories.  
+12,10,0,Calibri-Bold,11.0,72.0,724.0,234.4,735.0,Challenges for the industry include
+12,10,0,Calibri,11.0,234.5,724.0,237.0,735.0, 
+12,10,0,Calibri-Bold,11.0,238.1,724.0,506.3,735.0,high energy costs and the availability of skilled personnel
+12,10,0,Calibri,11.0,506.5,724.0,525.9,735.0,. By 
+12,10,1,Calibri,11.0,72.0,738.5,525.9,749.5,"2027, according to the national microelectronics strategy, the sector anticipates a need for 20 000 to "
+12,11,0,Calibri,11.0,294.9,795.4,302.9,806.4,9 
+13,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+13,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+13,3,0,Calibri,11.0,72.0,84.0,295.6,95.1,30 000 additional technically trained professionals
+13,3,0,Calibri,7.0,295.5,83.1,299.0,90.1,2
+13,3,0,Calibri,11.0,299.0,84.0,370.2,95.1,". Moreover, the "
+13,3,0,Calibri,11.0,370.3,84.0,485.4,95.1,Skilled Labour Monitoring
+13,3,0,Calibri,11.0,485.4,84.0,525.9,95.1, through 
+13,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"2029 highlights electrical engineering, including microelectronics, as a sector with potential skilled "
+13,3,2,Calibri,11.0,72.0,112.9,523.6,124.0,"labour shortages. As in other sectors, recruiting talent from outside the EU is considered resource-"
+13,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"intensive by the industry, highlighting the importance of simplified procedures as well as efforts to "
+13,3,4,Calibri,11.0,72.0,142.0,221.3,153.0,develop the domestic workforce. 
+13,4,0,Calibri-Bold,11.0,72.0,164.4,525.7,175.5,Germany is implementing measures to address some of the weaknesses and challenges of its 
+13,4,1,Calibri-Bold,11.0,72.0,178.9,191.4,190.0,semiconductor ecosystem
+13,4,1,Calibri,11.0,191.4,178.9,525.9,190.0,". The Microelectronics Strategy, published in 2025, focuses on workforce "
+13,4,2,Calibri,11.0,72.0,193.5,525.9,204.5,"development (training, attracting foreign workers), research (especially in chips design), technology "
+13,4,3,Calibri,11.0,72.0,207.9,525.8,218.9,"transfer ‘from lab to fab’, and further improving Germany’s attractiveness for semiconductor "
+13,4,4,Calibri,11.0,72.0,222.4,426.3,233.4,"manufacturing. A broader objective of this strategy, as well as part of the "
+13,4,4,Calibri-Italic,11.0,428.5,222.4,507.1,233.4,Hightech Agenda
+13,4,4,Calibri,11.0,507.1,222.4,525.9,233.4, on 
+13,4,5,Calibri,11.0,72.0,236.9,525.8,248.0,"microelectronics, is to reduce existing dependencies and position Germany as a key player in segments "
+13,4,6,Calibri,11.0,72.0,251.4,322.3,262.5,"of the global semiconductor value chain. Moreover, the "
+13,4,6,Calibri,11.0,322.5,251.4,477.1,262.5,German Chips Competence Centre
+13,4,6,Calibri,11.0,477.1,251.4,525.9,262.5,", launched "
+13,4,7,Calibri,11.0,72.0,265.9,525.9,276.9,"in 2025, aims to increase capabilities in areas such as chips design and assembly technologies. The "
+13,4,8,Calibri,11.0,72.0,280.4,221.6,291.4,centre is also part of the German 
+13,4,8,Calibri-Italic,11.0,221.7,280.4,298.0,291.4,Hightech Agenda
+13,4,8,Calibri,11.0,298.0,280.4,518.7,291.4, and is co-funded by the Chips Joint Undertaking. 
+13,5,0,Calibri-Bold,11.0,72.0,302.9,225.8,314.0,Other significant projects include
+13,5,0,Calibri,11.0,225.9,302.9,228.4,314.0, 
+13,5,0,Calibri-Bold,11.0,229.5,302.9,525.9,314.0,the Important Project of Common European Interest (IPCEI) on 
+13,5,1,Calibri-Bold,11.0,72.0,317.3,300.2,328.4,Microelectronics and Communication Technology. 
+13,5,1,Calibri,11.0,299.7,317.3,525.9,328.4,"Launched in 2023, the project has now entered full "
+13,5,2,Calibri,11.0,72.0,331.8,525.9,342.9,"implementation mode, with some technological applications – including in the area of 6G – having "
+13,5,3,Calibri,11.0,72.0,346.4,365.9,357.4,"been developed. Moreover, Germany supports the set-up of two "
+13,5,3,Calibri,11.0,366.4,346.4,525.9,357.4,new semiconductor manufacturing 
+13,5,4,Calibri,11.0,72.0,360.9,108.6,371.9,facilities
+13,5,4,Calibri,11.0,108.6,360.9,523.6,371.9, in Dresden (EUR 495 million) and Erfurt (EUR 128 million). The facilities are part of the ‘first-
+13,5,5,Calibri,11.0,72.0,375.3,525.8,386.3,"of-a-kind’ (FOAK) initiative, aiming at increasing the EU’s autonomy and technological leadership in "
+13,5,6,Calibri,11.0,72.0,389.8,525.9,400.9,semiconductor technologies. These initiatives respectively aim to adapt production capacities to dual 
+13,5,7,Calibri,11.0,72.0,404.3,525.9,415.4,use purposes (e.g. defence and critical infrastructure applications) and to offer manufacturing services 
+13,5,8,Calibri,11.0,72.0,418.9,525.9,429.9,"that are not yet fully available in Europe, including innovative packaging processes, particularly "
+13,5,9,Calibri,11.0,72.0,433.3,358.4,444.3,relevant for applications in the automotive and medical sectors. 
+13,6,0,Calibri-Light,12.0,72.0,456.1,130.2,468.1,Edge nodes 
+13,7,0,Calibri-LightItalic,11.0,72.0,473.7,183.7,484.8,Performance assessment 
+13,8,0,Calibri-Bold,11.0,72.0,500.1,525.9,511.1,"According to the Edge Node Observatory, Germany is estimated to have deployed a total of 1 948 "
+13,8,1,Calibri-Bold,11.0,72.0,514.6,170.9,525.7,edge nodes by 2025. 
+13,8,1,Calibri,11.0,171.9,514.6,259.2,525.7,This represents the
+13,8,1,Calibri-Bold,11.0,259.2,514.6,261.7,525.7, 
+13,8,1,Calibri,11.0,262.7,514.6,525.9,525.7,"highest number among all Member States, with the total "
+13,8,2,Calibri,11.0,72.0,529.0,525.8,540.1,"number of edge nodes across all Member States estimated at 7 451. Due to a change in methodology, "
+13,8,3,Calibri,11.0,72.0,543.5,333.2,554.6,this number cannot be compared to previous estimations. 
+13,9,0,Calibri-LightItalic,11.0,72.0,566.1,300.0,577.2,Policy context and assessment of recommendations 
+13,10,0,Calibri-Bold,11.0,72.0,592.5,525.8,603.6,"Edge nodes form part of Germany’s computing infrastructure, and some measures are being "
+13,10,1,Calibri-Bold,11.0,72.0,607.1,312.9,618.1,implemented to support their further deployment. 
+13,10,1,Calibri,11.0,314.2,607.1,525.8,618.1,"Currently, around 8% of Germany’s total data "
+13,10,2,Calibri,11.0,72.0,621.6,293.6,632.6,centre capacity is attributed to edge nodes. The 
+13,10,2,Calibri,11.0,294.8,621.6,430.3,632.6,National Data Centre Strategy
+13,10,2,Calibri,11.0,429.5,621.6,525.9,632.6,", published in March "
+13,10,3,Calibri,11.0,72.0,636.1,525.6,647.1,"2026, also includes efforts to strengthen edge computing, in connection with technologies such as AI "
+13,10,4,Calibri,11.0,72.0,650.5,525.8,661.5,"and cloud computing. In this context, Germany intends to make use of European initiatives and "
+13,10,5,Calibri,11.0,72.0,665.0,525.8,676.1,"collaborations, including IPCEIs. Edge computing is already being developed within projects under the "
+13,10,6,Calibri,11.0,72.0,679.5,525.8,690.6,"IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS), covering application areas "
+13,10,7,Calibri,11.0,72.0,694.1,525.8,705.1,ranging from industrial SMEs and aviation to integration with technologies such as AI and quantum 
+13,10,8,Calibri,11.0,72.0,708.5,456.1,719.5,computing. Another recent milestone under Germany’s participation in IPCEI-CIS is the 
+13,10,8,Calibri,11.0,455.6,708.5,523.5,719.5,announcement
+13,10,8,Calibri,11.0,523.4,708.5,525.9,719.5, 
+13,10,9,Calibri,11.0,72.0,723.0,525.7,734.0,by five telecom operators that they have successfully federated their edge environments into a 
+13,11,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+13,11,1,Calibri,6.5,72.0,759.1,75.3,765.5,2
+13,11,1,Calibri,10.0,75.3,759.9,444.1,769.9," Estimation based on announced and planned investments, entails direct and indirect jobs. "
+13,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,10 
+14,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+14,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+14,2,0,Calibri,11.0,72.0,84.0,523.6,95.1,European Edge Continuum. This enables access to resources from multiple operators through a single-
+14,2,1,Calibri,11.0,72.0,98.4,525.7,109.5,"entry point, while extending each operator’s reach. The federated edge environment also allows "
+14,2,2,Calibri,11.0,72.0,112.9,373.7,124.0,applications to be deployed across nodes from different operators.  
+14,4,0,Calibri-Light,12.0,72.0,135.7,184.4,147.7,Quantum technologies 
+14,4,1,Calibri-Bold,11.0,72.0,151.2,525.7,162.3,"Germany demonstrates a leading position in quantum technologies, underpinned by advanced "
+14,4,2,Calibri-Bold,11.0,72.0,165.7,525.7,176.8,"research capabilities, cutting-edge infrastructure and, so far, comparatively high levels of public "
+14,4,3,Calibri-Bold,11.0,72.0,180.3,112.6,191.3,funding. 
+14,4,3,Calibri,11.0,112.8,180.3,328.2,191.3,Key assets include the two quantum computers 
+14,4,3,Calibri,11.0,328.4,180.3,350.3,191.3,JADE
+14,4,3,Calibri,11.0,350.4,180.3,372.3,191.3, and 
+14,4,3,Calibri,11.0,372.5,180.3,422.6,191.3,Euro-Q-Exa
+14,4,3,Calibri,11.0,422.6,180.3,525.9,191.3,", developed within the "
+14,4,4,Calibri,11.0,72.0,194.8,525.9,205.8,EuroHPC Joint Undertaking and the High Performance Computer and Quantum Simulator Hybrid 
+14,4,5,Calibri,11.0,72.0,209.2,525.8,220.2,(HPCQS) initiative. These quantum computers provide cutting-edge quantum computing resources 
+14,4,6,Calibri,11.0,72.0,223.7,525.9,234.7,"which enable complex quantum computations with applications in areas such as drug design, "
+14,4,7,Calibri,11.0,72.0,238.2,382.0,249.3,"cybersecurity and FinTech. In addition, the exascale supercomputer"
+14,4,7,Calibri,11.0,381.9,238.2,421.6,249.3, JUPITER
+14,4,7,Calibri,11.0,421.7,238.2,525.8,249.3,", inaugurated in 2025, "
+14,4,8,Calibri,11.0,72.0,252.8,525.9,263.8,represents a major milestone in European computing capabilities. As the fastest supercomputer in 
+14,4,9,Calibri,11.0,72.0,267.2,171.0,278.2,Europe and ranking 4
+14,4,9,Calibri,7.0,171.1,266.3,177.0,273.2,th
+14,4,9,Calibri,11.0,176.9,267.2,213.6,278.2, on the 
+14,4,9,Calibri,11.0,215.0,267.2,300.1,278.2,June 2025 TOP500
+14,4,9,Calibri,11.0,300.2,267.2,525.9,278.2," list, it enables large-scale AI model training and "
+14,4,10,Calibri,11.0,72.0,281.7,434.6,292.7,supports applications such as climate modelling and energy system optimisation. 
+14,5,0,Calibri-Bold,11.0,72.0,304.2,369.9,315.3,Germany ranks among the global leaders in quantum research. 
+14,5,0,Calibri,11.0,371.4,304.2,446.6,315.3,"In 2025, 14% of "
+14,5,0,Calibri,11.0,447.8,304.2,525.9,315.3,quantum-related 
+14,5,1,Calibri,11.0,72.0,318.6,158.5,329.7,patent applications
+14,5,1,Calibri,11.0,158.4,318.6,525.9,329.7," were made by Germany (111 applications), which made it rank second globally, "
+14,5,2,Calibri,11.0,72.0,333.2,525.9,344.2,"only behind the United States (21% share, based on 167 applications). Patent activity in quantum "
+14,5,3,Calibri,11.0,72.0,347.7,525.9,358.7,"technologies has increased significantly over the past decade, with a nearly sevenfold rise in Germany’s "
+14,5,4,Calibri,11.0,72.0,362.2,402.5,373.2,"patent applications. However, no German company ranks among the "
+14,5,4,Calibri,11.0,405.3,362.2,463.7,373.2,global top 5
+14,5,4,Calibri,11.0,463.8,362.2,525.9,373.2, in quantum 
+14,5,5,Calibri,11.0,72.0,376.6,394.6,387.6,technology patents and no German research institution is among the 
+14,5,5,Calibri,11.0,396.1,376.6,511.3,387.6,global 10 top performers
+14,5,5,Calibri,11.0,511.2,376.6,525.9,387.6, in 
+14,5,6,Calibri,11.0,72.0,391.1,489.2,402.2,"quantum computing patents, indicating a comparatively decentralised innovation landscape.  "
+14,6,0,Calibri-Bold,11.0,72.0,413.7,421.6,424.8,Public investment is a central element in Germany’s quantum ecosystem
+14,6,0,Calibri,11.0,421.7,413.7,426.8,424.8,. 
+14,6,0,Calibri,11.0,428.9,413.7,480.8,424.8,Estimations
+14,6,0,Calibri,11.0,480.7,413.7,525.9,424.8, covering 
+14,6,1,Calibri,11.0,72.0,428.1,525.8,439.1,January 2023 to April 2025 show that Germany announced approximately EUR 3 billion in public 
+14,6,2,Calibri,11.0,72.0,442.6,525.9,453.7,"funding, making it the third-largest public investor, after China and the United States. This budget "
+14,6,3,Calibri,11.0,72.0,457.1,177.6,468.2,mainly stems from the 
+14,6,3,Calibri,11.0,178.5,457.1,389.9,468.2,Quantum Technologies Conceptual Framework
+14,6,3,Calibri,11.0,390.0,457.1,525.8,468.2,", running from 2023 until the "
+14,6,4,Calibri,11.0,72.0,471.7,525.8,482.7,"end of 2026. The framework aims to make quantum technologies usable for the economy, creating "
+14,6,5,Calibri,11.0,72.0,486.1,525.6,497.1,framework conditions for the ecosystem and supporting targeted technology development for future 
+14,6,6,Calibri,11.0,72.0,500.6,525.9,511.6,applications. Key measures include collaborative research projects involving academic and industrial 
+14,6,7,Calibri,11.0,72.0,515.1,523.6,526.2,"partners, as well as the Quantum Computer Demonstration Setups initiative, which is developing early-"
+14,6,8,Calibri,11.0,72.0,529.6,429.9,540.7,stage quantum computing systems based on a range of technological platforms. 
+14,7,0,Calibri-Bold,11.0,72.0,552.1,479.5,563.1,"Moreover, quantum technologies are also one of the six key technologies of Germany’s"
+14,7,0,Calibri-BoldItalic,11.0,479.5,552.1,482.0,563.1, 
+14,7,0,Calibri-BoldItalic,11.0,482.9,552.1,525.9,563.1,Hightech 
+14,7,1,Calibri-BoldItalic,11.0,72.0,566.6,107.4,577.7,Agenda
+14,7,1,Calibri-Bold,11.0,107.4,566.6,203.4,577.7,", published in 2025."
+14,7,1,Calibri,11.0,203.4,566.6,525.8,577.7, The agenda builds on the objectives of the Quantum Technologies 
+14,7,2,Calibri,11.0,72.0,581.1,525.9,592.2,"Conceptual Framework by adding further priorities, action points and milestones, including in areas "
+14,7,3,Calibri,11.0,72.0,595.5,525.9,606.6,"such as quantum computing, quantum sensing, quantum communication, with measures such as "
+14,7,4,Calibri,11.0,72.0,610.1,471.9,621.1,"education and training for quantum specialists. For each of the six key technologies, "
+14,7,4,Calibri,11.0,474.0,610.1,525.9,621.1,technology 
+14,7,5,Calibri,11.0,72.0,624.6,116.8,635.6,roadmaps
+14,7,5,Calibri,11.0,116.8,624.6,525.9,635.6," were published in Mai 2026. They guide the implementation of measures, integrate existing "
+14,7,6,Calibri,11.0,72.0,639.1,156.7,650.1,initiatives into the 
+14,7,6,Calibri-Italic,11.0,157.5,639.1,234.4,650.1,Hightech Agenda
+14,7,6,Calibri,11.0,234.4,639.1,525.9,650.1,", and support their monitoring through defined milestones. The "
+14,7,7,Calibri,11.0,72.0,653.5,156.9,664.5,total budget of the 
+14,7,7,Calibri-Italic,11.0,156.5,653.5,232.3,664.5,Hightech Agenda
+14,7,7,Calibri,11.0,232.2,653.5,525.9,664.5," amounts to EUR 18 billion; however, it remains to be seen to what "
+14,7,8,Calibri,11.0,72.0,668.0,525.9,679.1,extent this funding represents additional resources beyond existing budgets to support strategic 
+14,7,9,Calibri,11.0,72.0,682.5,136.7,693.6,technologies.  
+14,8,0,Calibri-Bold,11.0,72.0,705.0,525.9,716.0,"Despite these strengths, the overall level of private-sector engagement remains relatively limited "
+14,8,1,Calibri-Bold,11.0,72.0,719.5,276.9,730.6,compared with more mature technologies
+14,8,1,Calibri,11.0,277.0,719.5,525.9,730.6,. This can be largely attributed to the current low 
+14,8,2,Calibri,11.0,72.0,734.0,525.9,745.1,technology readiness level. Industrial-scale applications of quantum technologies are generally not 
+14,8,3,Calibri,11.0,72.0,748.4,525.8,759.5,"expected before 2030, at the earliest, when advances such as error-corrected quantum systems and "
+14,9,0,Calibri,11.0,292.1,795.4,305.8,806.4,11 
+15,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+15,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+15,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"integration with AI may become more viable. At least until then, the field is expected to remain "
+15,2,1,Calibri,11.0,72.0,98.4,159.1,109.5,research-intensive. 
+15,4,0,Calibri-Bold,11.0,72.0,121.0,492.9,132.0,"Consistent with this, awareness and engagement among companies are still relatively low. "
+15,4,0,Calibri,11.0,493.7,121.0,525.9,132.0,A ZEW 
+15,4,1,Calibri,11.0,72.0,135.5,101.4,146.5,survey
+15,4,1,Calibri,11.0,101.4,135.5,525.8,146.5, suggests that a significant proportion of firms report no or limited familiarity with quantum 
+15,4,2,Calibri,11.0,72.0,149.9,525.9,160.9,"technologies (65% of ICT companies and 80% of manufacturing companies), and only a small minority "
+15,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,are actively working with them (less than 1% for ICT as well as for manufacturing companies). Planned 
+15,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,"private investment is also modest, even among firms that are already aware of the field, again "
+15,4,5,Calibri,11.0,72.0,193.5,312.9,204.5,reflecting the still low level of technological maturity.  
+15,5,0,Calibri-Bold,11.0,72.0,215.9,525.9,226.9,"From an international perspective, Germany’s position in the quantum technology company "
+15,5,1,Calibri-Bold,11.0,72.0,230.4,178.8,241.5,landscape is moderate. 
+15,5,1,Calibri,11.0,178.4,230.4,525.9,241.5,"For instance, it accounts for a 7% share of companies seeking to commercialise "
+15,5,2,Calibri,11.0,72.0,245.0,409.4,256.0,"quantum computing, considerably behind the United States (36%). Finally, "
+15,5,2,Calibri,11.0,410.0,245.0,492.4,256.0,a McKinsey report
+15,5,2,Calibri,11.0,492.5,245.0,525.9,256.0, shows 
+15,5,3,Calibri,11.0,72.0,259.4,525.9,270.4,that the number of quantum technology start-ups in Germany remains relatively low (11 start-ups) 
+15,5,4,Calibri,11.0,72.0,273.9,525.9,284.9,"compared with other leading countries (US: 77, Canada: 29, UK: 26, Japan: 14, France: 11), indicating "
+15,5,5,Calibri,11.0,72.0,288.4,289.6,299.5,a less developed start-up ecosystem in this field. 
+15,6,0,Calibri-Light,15.0,72.0,315.7,462.2,330.7,Supporting EU-wide digital ecosystems and scaling up innovative 
+15,6,1,Calibri-Light,15.0,72.0,335.5,143.2,350.5,enterprises 
+15,7,0,Calibri-Light,12.0,72.0,362.7,265.2,374.7,SMEs with at least basic digital intensity 
+15,8,0,Calibri-LightItalic,11.0,72.0,380.2,183.7,391.2,Performance assessment 
+15,9,0,Calibri-Bold,11.0,72.0,406.7,525.5,417.8,Germany is at 73.55% of SMEs with at least a basic level of digital intensity after an annual 
+15,9,1,Calibri-Bold,11.0,72.0,421.3,525.9,432.3,"progression of +9.5% between 2023 and 2025, standing above the EU average of 71.39% (with "
+15,9,2,Calibri-Bold,11.0,72.0,435.7,213.9,446.7,annual growth rate of 11.0%). 
+15,9,2,Calibri,11.0,214.7,435.7,525.7,446.7,"In 2023, the figure for Germany was 61.38%, which was also higher "
+15,9,3,Calibri,11.0,72.0,450.2,525.7,461.2,than the EU average of 57.9%. The country is lagging behind compared to its trajectory presented in 
+15,9,4,Calibri,11.0,72.0,464.7,240.6,475.8,the Digital Decade national roadmap. 
+15,10,0,Calibri-Bold,11.0,72.0,487.1,525.7,498.2,"Regarding SMEs with a very high digital intensity, Germany is at 9.49% after annual progression of "
+15,10,1,Calibri-Bold,11.0,72.0,501.7,525.9,512.7,"+40.3% between 2023 and 2025, which is higher than the EU average of 9.07% (with annual growth "
+15,10,2,Calibri-Bold,11.0,72.0,516.2,141.2,527.2,rate of 43.9%). 
+15,10,2,Calibri,11.0,141.3,516.2,474.5,527.2,"In 2023, Germany’s figure was 4.82%, also above the EU average of 4.38%. "
+15,10,2,Calibri-Bold,11.0,474.6,516.2,477.1,527.2, 
+15,11,0,Calibri-LightItalic,11.0,72.0,538.6,300.0,549.7,Policy context and assessment of recommendations 
+15,11,1,Calibri-Bold,11.0,72.0,553.1,525.9,564.2,"Despite their solid level of digitalisation compared to the EU level, businesses perceive gaps in their "
+15,11,2,Calibri-Bold,11.0,72.0,567.7,170.6,578.7,digital performance. 
+15,11,2,Calibri,11.0,173.9,567.7,231.5,578.7,Based on a 
+15,11,2,Calibri,11.0,234.8,567.7,521.4,578.7,DIHK (German Chambre of Industry and Commerce) survey
+15,11,2,Calibri,11.0,520.7,567.7,525.9,578.7,", "
+15,11,3,Calibri,11.0,72.0,582.1,525.9,593.1,"companies assess their level of digitalisation as moderate overall, with an average self-evaluation of "
+15,11,4,Calibri,11.0,72.0,596.6,351.2,607.7,2.8 on a scale from 1 (highest performance) to 6. According to 
+15,11,4,Calibri,11.0,351.2,596.6,422.2,607.7,a Bitkom survey
+15,11,4,Calibri,11.0,421.4,596.6,525.9,607.7,", digital transformation "
+15,11,5,Calibri,11.0,72.0,611.1,525.9,622.2,is widely perceived as a significant challenge: 53% of firms report difficulties in managing the digital 
+15,11,6,Calibri,11.0,72.0,625.7,525.7,636.7,"transformation. While 32% of companies consider themselves pioneers, a majority of 64% classify their "
+15,11,7,Calibri,11.0,72.0,640.1,193.3,651.1,position as lagging behind. 
+15,12,0,Calibri-Bold,11.0,72.0,662.6,525.8,673.7,"Survey evidence points to limited time, limited human and financial resources and regulatory "
+15,12,1,Calibri-Bold,11.0,72.0,677.1,525.9,688.2,"complexity as the main factors limiting the pace of digitalisation in businesses, and SMEs in "
+15,12,2,Calibri-Bold,11.0,72.0,691.5,118.3,702.6,particular.
+15,12,2,Calibri,11.0,118.2,691.5,186.6,702.6, According to 
+15,12,2,Calibri,11.0,190.1,691.5,277.9,702.6,the Bitkom survey
+15,12,2,Calibri,11.0,277.0,691.5,525.8,702.6,", data protection requirements represent the most "
+15,12,3,Calibri,11.0,72.0,706.1,525.9,717.1,"significant obstacle (for 88% of firms). This is followed by the shortage of skilled workers (74%), limited "
+15,12,4,Calibri,11.0,72.0,720.6,415.2,731.6,"time in day-to-day operations (60%), and insufficient financial means (55%)."
+15,12,4,Calibri-Bold,11.0,415.2,720.6,417.7,731.6, 
+15,12,4,Calibri,11.0,418.4,720.6,482.6,731.6,Findings from 
+15,12,4,Calibri,11.0,483.2,720.6,525.9,731.6,the DIHK 
+15,12,5,Calibri,11.0,72.0,735.1,101.4,746.2,survey
+15,12,5,Calibri,11.0,101.4,735.1,525.8,746.2," highlight similar constraints, with lack of time (58%), complexity (56%), and financial limitations "
+15,12,6,Calibri,11.0,72.0,749.5,247.3,760.6,(40%) being the most relevant factors. 
+15,12,6,Calibri,11.0,248.0,749.5,525.8,760.6,The Commission of Experts for Research and Innovation (EFI) 
+15,13,0,Calibri,11.0,292.1,795.4,305.8,806.4,12 
+16,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+16,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+16,3,0,Calibri,11.0,72.0,84.0,125.4,95.1,2026 report
+16,3,0,Calibri,11.0,125.4,84.0,525.9,95.1, emphasises that these challenges are particularly pronounced among SMEs. Many SMEs 
+16,3,1,Calibri,11.0,72.0,98.4,525.9,109.5,"are still at an early stage of digital development, often due to a lack of in-house IT expertise. At the "
+16,3,2,Calibri,11.0,72.0,112.9,525.8,124.0,"same time, the transition to digital systems typically requires substantial upfront investment, which "
+16,3,3,Calibri,11.0,72.0,127.5,411.6,138.5,can be difficult to achieve given constrained financial and human resources. 
+16,4,0,Calibri-Bold,11.0,72.0,149.9,525.6,160.9,"Digitalisation efforts are primarily oriented toward productivity gains, while applications related to "
+16,4,1,Calibri-Bold,11.0,72.0,164.4,393.9,175.5,innovation and business model transformation appear less frequently. 
+16,4,1,Calibri,11.0,393.8,164.4,525.9,175.5,The EFI 2026 report indicates 
+16,4,2,Calibri,11.0,72.0,178.9,525.9,190.0,that SMEs that invest in digital technologies (i.e. in software and databases) show an average 
+16,4,3,Calibri,11.0,72.0,193.5,525.9,204.5,"productivity advantage of 11% compared to firms without such investments. At the same time, the "
+16,4,4,Calibri,11.0,72.0,207.9,158.2,218.9,DIHK survey results
+16,4,4,Calibri,11.0,158.3,207.9,525.9,218.9, suggest that firms predominantly pursue incremental operational objectives: cost 
+16,4,5,Calibri,11.0,72.0,222.4,525.9,233.4,"reduction (65%), quality improvement (64%), and increased flexibility at work (63%). By contrast, only "
+16,4,6,Calibri,11.0,72.0,236.9,520.7,248.0,"26% of companies report focusing on developing innovative products, services, or business models"
+16,4,6,Calibri-Bold,11.0,520.6,236.9,525.9,248.0,. 
+16,4,7,Calibri,11.0,72.0,251.4,249.5,262.5,This pattern is also reflected in the 
+16,4,7,Calibri,11.0,253.1,251.4,370.0,262.5,Digitalisation Index 2024
+16,4,7,Calibri,11.0,370.0,251.4,525.8,262.5,. While relatively high levels of 
+16,4,8,Calibri,11.0,72.0,265.9,525.9,276.9,digitalisation are observed in processes (136.5 – with all values indexed to a 2020 baseline of 100) and 
+16,4,9,Calibri,11.0,72.0,280.4,525.6,291.4,"technical infrastructure (130.8), lower levels are reported for products (116.4) and business models "
+16,4,10,Calibri,11.0,72.0,294.9,525.9,305.9,"(108.8). In addition, research and innovation activity declined compared to 2021 (from 105.4 to 101.4). "
+16,5,0,Calibri-Bold,11.0,72.0,317.3,525.6,328.4,The need to accelerate digital transformation is further amplified by broader structural changes in 
+16,5,1,Calibri-Bold,11.0,72.0,331.8,137.9,342.9,the economy. 
+16,5,1,Calibri,11.0,139.5,331.8,525.7,342.9,A large share of companies (82%) associates the current challenges of the German 
+16,5,2,Calibri,11.0,72.0,346.4,525.9,357.4,"economy, at least in part, with a relatively slow pace of digitalisation. According to the European "
+16,5,3,Calibri,11.0,72.0,360.9,176.1,371.9,Commission report on 
+16,5,3,Calibri,11.0,177.3,360.9,465.7,371.9,Mapping the Impact of Industrial Decline on European Regions
+16,5,3,Calibri,11.0,465.8,360.9,525.9,371.9,", Germany is "
+16,5,4,Calibri,11.0,72.0,375.3,525.8,386.3,among the EU Member States with the highest share of regions affected by industrial decline (68%). 
+16,5,5,Calibri,11.0,72.0,389.8,525.9,400.9,"In this context, digitalisation and innovation can be understood as relevant factors supporting "
+16,5,6,Calibri,11.0,72.0,404.3,214.8,415.4,structural adjustment processes
+16,5,6,Calibri-Bold,11.0,214.7,404.3,220.1,415.4,. 
+16,6,0,Calibri-Bold,11.0,72.0,426.8,341.2,437.8,"Against this background, Germany has been running the "
+16,6,0,Calibri-BoldItalic,11.0,342.8,426.8,506.4,437.8,Mittelstand-Digital funding priority
+16,6,0,Calibri-Bold,11.0,506.4,426.8,525.9,437.8, for 
+16,6,1,Calibri-Bold,11.0,72.0,441.3,525.8,452.4,"several years, with a focus on informing and training SMEs in digital transformation, AI and "
+16,6,2,Calibri-Bold,11.0,72.0,455.8,138.0,466.9,cybersecurity. 
+16,6,2,Calibri,11.0,138.7,455.8,157.9,466.9,The 
+16,6,2,Calibri,11.0,158.8,455.8,276.9,466.9,external evaluation report
+16,6,2,Calibri,11.0,277.0,455.8,525.9,466.9,", focusing on three - partially former - funding priority "
+16,6,3,Calibri,11.0,72.0,470.3,225.3,481.4,"components, i.e. the network of "
+16,6,3,Calibri-Italic,11.0,227.3,470.3,311.1,481.4,Mittelstand-Digital
+16,6,3,Calibri,11.0,311.1,470.3,525.9,481.4," Innovation Hubs, the Cybersecurity for SMEs "
+16,6,4,Calibri,11.0,72.0,484.7,317.2,495.8,initiative and the investment grant scheme ‘Digital now’
+16,6,4,Calibri,7.0,317.1,483.8,320.6,490.8,3
+16,6,4,Calibri,11.0,320.6,484.7,392.7,495.8,", concludes that "
+16,6,4,Calibri-Italic,11.0,392.1,484.7,475.9,495.8,Mittelstand-Digital
+16,6,4,Calibri,11.0,475.9,484.7,525.9,495.8, effectively 
+16,6,5,Calibri,11.0,72.0,499.3,525.9,510.3,"addresses the digitalisation barriers for SMEs. However, it also identifies areas for potential "
+16,6,6,Calibri,11.0,72.0,513.8,525.9,524.8,"improvement in future programme design, including a clearer definition of target groups and a clear "
+16,6,7,Calibri,11.0,72.0,528.3,525.9,539.3,"delineation with existing programmes. It further notes that, where funding is limited, non-financial "
+16,6,8,Calibri,11.0,72.0,542.7,386.4,553.8,support should be prioritised to avoid significant oversubscription. An 
+16,6,8,Calibri,11.0,386.7,542.7,450.0,553.8,interim report
+16,6,8,Calibri,11.0,450.1,542.7,525.9,553.8, on the Network 
+16,6,9,Calibri,11.0,72.0,557.3,83.8,568.3,of 
+16,6,9,Calibri-Italic,11.0,85.7,557.3,169.6,568.3,Mittelstand-Digital
+16,6,9,Calibri,11.0,169.6,557.3,525.8,568.3, Innovation Hubs recommends placing a stronger focus on small and micro 
+16,6,10,Calibri,11.0,72.0,571.8,525.9,582.8,"enterprises while maintaining support for both emerging topics (e.g. AI, cybersecurity) and basic "
+16,6,11,Calibri,11.0,72.0,586.3,166.1,597.3,digitalisation needs.  
+16,7,0,Calibri-Bold,11.0,72.0,608.7,525.9,619.8,"In addition, Germany has further developed a funding programme in collaboration with the national "
+16,7,1,Calibri-Bold,11.0,72.0,623.3,160.3,634.3,promotional bank.
+16,7,1,Calibri,11.0,160.3,623.3,371.6,634.3," In 2025, it relaunched the programme as "
+16,7,1,Calibri-Italic,11.0,375.3,623.3,520.9,634.3,ERP-Förderkredit Digitalisierung
+16,7,1,Calibri-Italic,11.0,520.8,623.3,525.9,634.3,", "
+16,7,2,Calibri,11.0,72.0,637.8,525.9,648.8,providing companies low-interest loans for their digitalisation projects. A new feature of the 
+16,7,3,Calibri,11.0,72.0,652.2,525.9,663.2,programme is the introduction of three project levels - ranging from basic over level-up to high-end 
+16,7,4,Calibri,11.0,72.0,666.7,525.9,677.7,digitalisation - with loans and possibly grant subsidies depending on the level. Another new element 
+16,7,5,Calibri,11.0,72.0,681.2,525.8,692.3,"of the programme is a digitalisation check, which helps companies to assess their current level of "
+16,7,6,Calibri,11.0,72.0,695.7,525.9,706.8,"digitalisation and better tailor the financed project to their needs. In 2025, the commitment value "
+16,8,0,Calibri,11.0,216.1,746.5,218.5,757.6, 
+16,8,1,Calibri,6.5,72.0,759.1,75.3,765.5,3
+16,8,1,Calibri,10.0,75.3,759.9,80.0,769.9, ‘
+16,8,1,Calibri-Italic,10.0,80.1,759.9,129.0,769.9,Digital now’
+16,8,1,Calibri,10.0,129.0,759.9,238.3,769.9, ended in December 2023. 
+16,9,0,Calibri,11.0,292.1,795.4,305.8,806.4,13 
+17,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+17,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+17,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"amounted to around EUR 2.7 billion, covering over 2500 individual and consolidated loans (with "
+17,2,1,Calibri,11.0,72.0,98.4,299.9,109.5,consolidated loans financing multiple companies).  
+17,4,0,Calibri-Light,12.0,72.0,121.2,236.6,133.2,Take up of advanced technologies 
+17,5,0,Calibri-LightItalic,11.0,72.0,138.9,183.7,149.9,Performance assessment 
+17,7,0,Calibri,11.0,523.6,368.4,526.1,379.5, 
+17,8,0,Calibri-Bold,11.0,72.0,388.0,522.3,399.0,"The uptake of digital technologies by enterprises is gradually increasing and, when considering the "
+17,8,1,Calibri-Bold,11.0,72.0,402.5,509.7,413.6,"adoption of Artificial Intelligence (AI), cloud computing, or data analytics technologies together, "
+17,8,2,Calibri-Bold,11.0,72.0,416.9,518.4,428.0,German enterprises performed in line with their EU peers in 2025 (63.22% in DE vs 63.20% in EU). 
+17,8,3,Calibri,11.0,72.0,431.5,524.0,442.5,Germany’s annual growth rate of 4.4% was lower than the EU’s growth rate of 7.5%. Examining these 
+17,8,4,Calibri,11.0,72.0,446.0,221.8,457.0,technologies individually reveals: 
+17,9,0,Calibri,11.0,90.0,468.4,93.4,479.5,-
+17,9,0,ArialMT,11.0,93.4,466.7,96.5,479.0, 
+17,9,1,Calibri,11.0,108.0,468.4,294.6,479.5,37.67% of German enterprises adopted 
+17,9,1,Calibri-Bold,11.0,296.6,468.4,361.7,479.5,data analytics
+17,9,1,Calibri,11.0,361.8,468.4,525.9,479.5,", below the EU average of 39.85% "
+17,9,2,Calibri,11.0,108.0,482.9,525.9,494.0,(Germany’s annual growth rate of 0.8% lagged significantly behind the EU’s growth rate of 
+17,9,3,Calibri,11.0,108.0,497.5,138.1,508.5,9.5%)  
+17,9,4,Calibri,11.0,90.0,512.0,93.4,523.0,-
+17,9,4,ArialMT,11.0,93.4,510.3,96.5,522.6, 
+17,9,5,Calibri,11.0,108.0,512.0,285.4,523.0,46.03% of German enterprises adopted 
+17,9,5,Calibri-Bold,11.0,285.2,512.0,370.6,523.0,cloud technologies
+17,9,5,Calibri,11.0,370.6,512.0,525.9,523.0,", around the EU average of 46.69% "
+17,9,6,Calibri,11.0,108.0,526.4,429.8,537.4,(with similar annual growth rates in Germany (9.3%) and the EU (9.5%)) 
+17,9,7,Calibri,11.0,90.0,540.9,93.4,551.9,-
+17,9,7,ArialMT,11.0,93.4,539.2,96.5,551.5, 
+17,9,8,Calibri,11.0,108.0,540.9,284.8,551.9,25.97% of German enterprises adopted 
+17,9,8,Calibri-Bold,11.0,284.5,540.9,376.4,551.9,artificial intelligence
+17,9,8,Calibri,11.0,376.4,540.9,525.9,551.9,", above the EU average of 19.95% "
+17,9,9,Calibri,11.0,108.0,555.4,502.4,566.5,(Germany’s annual growth rate of 31.5% was lower than the EU’s growth rate of 48.0%) 
+17,10,0,Calibri,11.0,72.0,573.0,517.3,584.0,"Concerning the indicator on the combined adoption of either AI, cloud computing or data analytics, "
+17,10,1,Calibri,11.0,72.0,587.4,518.3,598.4,the country is on track according to its trajectory presented in the Digital Decade national roadmap. 
+17,11,0,Calibri-Bold,11.0,72.0,609.9,525.9,621.0,"Moreover, gaps persist between SMEs (10-249 employees) and large enterprises (250 employees or "
+17,11,1,Calibri-Bold,11.0,72.0,624.5,105.1,635.5,more). 
+17,11,1,Calibri,11.0,105.1,624.5,509.2,635.5,"However, their dynamics broadly mirror the overall patterns observed for each technology "
+17,11,2,Calibri,11.0,72.0,638.9,349.6,649.9,when comparing Germany’s performance with that of the EU. 
+17,11,2,Calibri-Bold,11.0,349.5,638.9,352.0,649.9, 
+17,12,0,Calibri-LightItalic,11.0,72.0,661.4,300.0,672.5,Policy context and assessment of recommendations 
+17,12,1,Calibri-Bold,11.0,72.0,675.9,525.7,687.0,"Similar to the uptake of basic digital technologies, companies widely recognise the importance of "
+17,12,2,Calibri-Bold,11.0,72.0,690.3,419.8,701.4,"advanced technologies, yet they have not fully harnessed their potential. "
+17,12,2,Calibri,11.0,421.3,690.3,490.6,701.4,According to a 
+17,12,2,Calibri,11.0,492.1,690.3,525.9,701.4,Bitkom 
+17,12,3,Calibri,11.0,72.0,704.9,101.4,715.9,survey
+17,12,3,Calibri,11.0,100.6,704.9,525.7,715.9,", 90% view AI and 97% big data as critical for competitiveness. However, adoption remains "
+17,12,4,Calibri,11.0,72.0,719.4,525.9,730.4,"uneven, with 64% of firms still considering themselves to be lagging behind in AI. AI implementation "
+17,12,5,Calibri,11.0,72.0,733.9,525.7,745.0,"is primarily focused on process optimisation (61%), with less emphasis on integration into products "
+17,13,0,Calibri,11.0,292.1,795.4,305.8,806.4,14 
+18,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+18,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+18,2,0,Calibri,11.0,72.0,84.0,525.8,95.1,"and services (34%). AI is most commonly used in customer service (86%) and marketing (47%), but "
+18,2,1,Calibri,11.0,72.0,98.4,207.0,109.5,only marginally in R&D (15%). 
+18,4,0,Calibri-Bold,11.0,72.0,121.0,215.6,132.0,Barriers to broader use persist.
+18,4,0,Calibri,11.0,215.8,121.0,233.5,132.0, An 
+18,4,0,Calibri,11.0,234.3,121.0,290.9,132.0,OECD report
+18,4,0,Calibri,11.0,290.8,121.0,525.8,132.0," on AI in Germany highlights skill shortages, limited "
+18,4,1,Calibri,11.0,72.0,135.5,525.9,146.5,"understanding of use cases, and fragmented data in industry and public administration among the key "
+18,4,2,Calibri,11.0,72.0,149.9,195.7,160.9,constraints. According to a 
+18,4,2,Calibri,11.0,196.7,149.9,251.6,160.9,DIHK survey
+18,4,2,Calibri,11.0,250.9,149.9,525.9,160.9,", looking more specifically at the use of data, these barriers "
+18,4,3,Calibri,11.0,72.0,164.4,525.9,175.5,"include legal uncertainty (60%), technical challenges (51%), and limited data processing expertise "
+18,4,4,Calibri,11.0,72.0,178.9,525.9,190.0,(36%). Overcoming these barriers could further leverage the solid research basis and computing 
+18,4,5,Calibri,11.0,72.0,193.5,265.9,204.5,capacity (especially in the research sector). 
+18,5,0,Calibri-Bold,11.0,72.0,215.9,525.9,226.9,"There are indications of an ‘innovation fatigue’ following a prolonged period of economic stability, "
+18,5,1,Calibri-Bold,11.0,72.0,230.4,472.6,241.5,potentially also slowing the pace of AI adoption especially in the manufacturing sector
+18,5,1,Calibri,11.0,472.8,230.4,525.9,241.5,. The OECD 
+18,5,2,Calibri,11.0,72.0,245.0,525.8,256.0,"report indicates that, in some sectors, the potential of AI is not yet fully recognised, partly due to a "
+18,5,3,Calibri,11.0,72.0,259.4,525.9,270.4,"perceived lack of urgency for change as well as a relatively low risk tolerance. Moreover, AI usage varies "
+18,5,4,Calibri,11.0,72.0,273.9,182.2,284.9,by type. According to an 
+18,5,4,Calibri,11.0,182.1,273.9,259.9,284.9,ifo Institute study
+18,5,4,Calibri,11.0,259.1,273.9,525.8,284.9,", German firms using AI rely more on voice recognition than "
+18,5,5,Calibri,11.0,72.0,288.4,525.9,299.5,"EU peers but lag behind in areas such as robotic process automation. In line with this, the OECD report "
+18,5,6,Calibri,11.0,72.0,302.9,525.9,314.0,finds that the manufacturing sector is advancing relatively slowly in AI adoption. Given the sector’s 
+18,5,7,Calibri,11.0,72.0,317.3,435.8,328.4,"central role in the German economy, this suggests significant untapped potential. "
+18,6,0,Calibri-Bold,11.0,72.0,343.8,525.7,354.9,Germany is expanding its AI-related infrastructure through a set of targeted policy initiatives and 
+18,6,1,Calibri-Bold,11.0,72.0,358.4,130.6,369.4,investments.
+18,6,1,Calibri,11.0,130.7,358.4,191.0,369.4, As part of its 
+18,6,1,Calibri-Italic,11.0,190.7,358.4,266.9,369.4,Hightech Agenda
+18,6,1,Calibri,11.0,266.8,358.4,525.9,369.4,", launched in autumn 2025, the government aims to make "
+18,6,2,Calibri,11.0,72.0,372.9,525.8,383.9,AI a major driver of economic growth by 2030. It focuses on supporting AI innovation and adoption in 
+18,6,3,Calibri,11.0,72.0,387.3,525.9,398.3,"key industries, expanding access to AI-relevant infrastructure, such as data and computing power, and "
+18,6,4,Calibri,11.0,72.0,401.8,525.9,412.9,"investing in advanced research and AI foundation models. Moreover, Germany hosts 2 of the 19 "
+18,6,5,Calibri,11.0,72.0,416.3,117.5,427.4,European 
+18,6,5,Calibri,11.0,119.9,416.3,174.1,427.4,AI Factories
+18,6,5,Calibri,11.0,174.2,416.3,525.9,427.4,", which are designed to connect supercomputing centres, universities and "
+18,6,6,Calibri,11.0,72.0,430.9,525.9,441.9,"industry, driving advancements in AI application in different industrial sectors. These are the "
+18,6,7,Calibri,11.0,72.0,445.3,161.0,456.3,HammerHAI factory
+18,6,7,Calibri,11.0,160.9,445.3,525.7,456.3," in Stuttgart, which focuses on AI applications in manufacturing, engineering, and "
+18,6,8,Calibri,11.0,72.0,459.8,159.2,470.8,"research, and the "
+18,6,8,Calibri,11.0,162.7,459.8,252.3,470.8,JUPITER AI Factory
+18,6,8,Calibri,11.0,252.3,459.8,525.9,470.8, in Jülich. The latter is linked to Europe’s first exascale 
+18,6,9,Calibri,11.0,72.0,474.3,358.5,485.4,"supercomputer, JUPITER (see quantum section). Moreover, in a "
+18,6,9,Calibri,11.0,358.9,474.3,461.0,485.4,2025 call for proposals
+18,6,9,Calibri,11.0,460.9,474.3,525.9,485.4,", 13 European "
+18,6,10,Calibri,11.0,72.0,488.8,525.9,499.9,"Digital Innovation Hubs (EDIHs) in Germany received funding to continue their activities, in particular "
+18,6,11,Calibri,11.0,72.0,503.2,525.8,514.3,"testing before investing, training and skills development, support to find investments, networking and "
+18,6,12,Calibri,11.0,72.0,517.7,404.2,528.8,access to innovation ecosystems. These EDIHs will also collaborate with the 
+18,6,12,Calibri-Italic,11.0,403.5,517.7,487.4,528.8,Mittelstand-Digital
+18,6,12,Calibri,11.0,487.4,517.7,525.9,528.8, funding 
+18,6,13,Calibri,11.0,72.0,532.3,525.9,543.3,"priority as well as with EU AI innovation infrastructures, such as AI Factories, to bridge the gap between "
+18,6,14,Calibri,11.0,72.0,546.8,379.8,557.8,AI research and application and help fine-tune AI solutions for SMEs. 
+18,7,0,Calibri-Bold,11.0,72.0,573.2,177.9,584.3,"In parallel, Germany’s "
+18,7,0,Calibri-Bold,11.0,179.7,573.2,277.9,584.3,Data Centre Strategy
+18,7,0,Calibri-Bold,11.0,277.1,573.2,525.9,584.3,", published in March 2026, aims to double national "
+18,7,1,Calibri-Bold,11.0,72.0,587.7,150.5,598.8,capacity by 2030.
+18,7,1,Calibri,11.0,150.6,587.7,525.9,598.8, The country currently has approximately 3 000 MW of IT connection capacity (more 
+18,7,2,Calibri,11.0,72.0,602.3,525.8,613.3,"than twice as much as in 2010), making it the largest data centre location in Europe by absolute size. "
+18,7,3,Calibri,11.0,72.0,616.8,525.9,627.8,"Relative to GDP, however, it ranks mid-range within Europe. Capacity is strongly concentrated in the "
+18,7,4,Calibri,11.0,72.0,631.2,525.9,642.2,"Frankfurt/Rhine-Main region, part of the FLAP-D market (Frankfurt, London, Amsterdam, Paris and "
+18,7,5,Calibri,11.0,72.0,645.7,525.8,656.7,Dublin). Around 15% of the country’s total capacity is used for high-performance computing and AI 
+18,7,6,Calibri,11.0,72.0,660.2,525.9,671.3,applications and it can be expected that initiatives such as AI Factories will further expand AI-related 
+18,7,7,Calibri,11.0,72.0,674.7,525.9,685.8,"computing capacity. The data centre strategy identifies three priority areas, factoring in Germany’s "
+18,7,8,Calibri,11.0,72.0,689.1,525.9,700.2,"strengths and weaknesses: energy and sustainability, site availability and land use, as well as "
+18,7,9,Calibri,11.0,72.0,703.7,525.9,714.7,technology and sovereignty. These areas are supported by 28 measures to be implemented within the 
+18,7,10,Calibri,11.0,72.0,718.2,525.9,729.2,next 12 months. Measures include simplifying identification of suitable locations and stronger 
+18,7,11,Calibri,11.0,72.0,732.7,370.7,743.8,integration of European technologies in data centre infrastructure. 
+18,7,11,Calibri-Bold,11.0,370.6,732.7,373.1,743.8, 
+18,8,0,Calibri,11.0,292.1,795.4,305.8,806.4,15 
+19,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+19,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+19,2,0,Calibri-Light,12.0,72.0,84.3,233.6,96.3,"Unicorns, scale-ups and start-ups "
+19,3,0,Calibri-LightItalic,11.0,72.0,101.8,183.7,112.8,Performance assessment 
+19,5,0,Calibri-Bold,11.0,72.0,128.3,525.9,139.3,"At the beginning of 2026, Germany had 74 unicorns, which is 8 more than in 2025 (66 in 2025, figure "
+19,5,1,Calibri-Bold,11.0,72.0,142.8,108.6,153.9,revised)
+19,5,1,Calibri-Bold,7.0,108.5,141.9,112.0,148.9,4
+19,5,1,Calibri-Bold,11.0,112.0,142.8,117.4,153.9,. 
+19,5,1,Calibri,11.0,119.3,142.8,525.6,153.9,The country did not provide a national trajectory point for 2025 in the Digital Decade 
+19,5,2,Calibri,11.0,72.0,157.2,154.1,168.3,national roadmap.
+19,5,2,Calibri-Bold,11.0,154.1,157.2,156.6,168.3, 
+19,5,2,Calibri,11.0,156.6,157.2,159.1,168.3, 
+19,6,0,Calibri-LightItalic,11.0,72.0,179.8,300.0,190.8,Policy context and assessment of recommendations 
+19,6,1,Calibri-Bold,11.0,72.0,194.3,516.3,205.3,Germany is taking some action to reduce administrative burden and improve access to funding. 
+19,6,1,Calibri,11.0,517.2,194.3,525.9,205.3,A 
+19,6,2,Calibri,11.0,72.0,208.7,525.7,219.7,"start-up strategy is expected in 2026, with a focus on reducing administrative burden and improving "
+19,6,3,Calibri,11.0,72.0,223.2,525.7,234.3,"funding conditions. In addition, the establishment of the new Ministry for Digital Transformation and "
+19,6,4,Calibri,11.0,72.0,237.8,386.7,248.8,"Government Modernisation and several workstreams, including the "
+19,6,4,Calibri,11.0,388.5,237.8,490.8,248.8,modernisation agenda
+19,6,4,Calibri,11.0,490.8,237.8,525.9,248.8, of the 
+19,6,5,Calibri,11.0,72.0,252.3,525.8,263.3,"federal government, are being pursued to further streamline bureaucracy. Key flagship projects include "
+19,6,6,Calibri,11.0,72.0,266.7,79.8,277.7,a 
+19,6,6,Calibri,11.0,79.6,266.7,243.6,277.7,process for faster business formation
+19,6,6,Calibri,11.0,243.6,266.7,252.1,277.7, (‘
+19,6,6,Calibri-Italic,11.0,251.9,266.7,335.7,277.7,Schneller Gründen’
+19,6,6,Calibri,11.0,335.7,266.7,525.9,277.7,"), which is currently being implemented as "
+19,6,7,Calibri,11.0,72.0,281.2,525.9,292.2,"part of the digital public services provided at federal level. Its aim is to make business creation easier, "
+19,6,8,Calibri,11.0,72.0,295.7,525.9,306.8,"faster and more digital, as establishing a limited liability company (GmbH) currently takes around four "
+19,6,9,Calibri,11.0,72.0,310.2,142.1,321.3,to eight weeks. 
+19,7,0,Calibri-Bold,11.0,72.0,332.7,200.7,343.7,"In the area of funding, the "
+19,7,0,Calibri-BoldItalic,11.0,202.1,332.7,316.2,343.7,High-Tech Gründerfonds 
+19,7,0,Calibri-Bold,11.0,317.6,332.7,445.4,343.7,is one of the key measures
+19,7,0,Calibri,11.0,445.5,332.7,525.9,343.7,. It is part of the 
+19,7,1,Calibri,11.0,72.0,347.2,178.0,358.2,German Future Fund (
+19,7,1,Calibri-Italic,11.0,178.0,347.2,240.3,358.2,Zukunftsfonds
+19,7,1,Calibri,11.0,240.3,347.2,525.9,358.2,"), which provides financing for start-ups, especially for their "
+19,7,2,Calibri,11.0,72.0,361.6,156.6,372.6,growth phase. The 
+19,7,2,Calibri-Italic,11.0,156.1,361.6,263.4,372.6,High-Tech Gründerfonds
+19,7,2,Calibri,11.0,263.5,361.6,525.9,372.6, is a private-public partnership that provides seed financing 
+19,7,3,Calibri,11.0,72.0,376.1,525.8,387.2,"for high-potential tech start-ups. So far, more than 800 companies, including deep and digital tech "
+19,7,4,Calibri,11.0,72.0,390.6,525.8,401.7,"companies, have received funding (around EUR 2 billion fund volume with more than EUR 8 billion "
+19,7,5,Calibri,11.0,72.0,405.2,375.9,416.2,"follow-on financing from third parties into the portfolio). Moreover, "
+19,7,5,Calibri,11.0,376.0,405.2,441.5,416.2,scale-up direct
+19,7,5,Calibri,11.0,441.6,405.2,525.9,416.2, has recently been 
+19,7,6,Calibri,11.0,72.0,419.7,525.9,430.8,introduced to co-fund innovative start-ups and young companies in deep tech until 2030 with around 
+19,7,7,Calibri,11.0,72.0,434.1,525.9,445.1,"EUR 1 billion. On the fund-of-funds side, EIF German Equity is investing in venture capital funds with a "
+19,7,8,Calibri,11.0,72.0,448.6,525.8,459.7,"volume of EUR 1.6 billion, while KfW Capital has launched private investor fundraising for the Growth "
+19,7,9,Calibri,11.0,72.0,463.1,111.0,474.2,Fund II (‘
+19,7,9,Calibri-Italic,11.0,111.0,463.1,193.8,474.2,Wachstumsfond II’
+19,7,9,Calibri,11.0,193.7,463.1,351.0,474.2,) with a target size of EUR 1 billion. 
+19,8,0,Calibri-Bold,11.0,77.7,486.1,236.4,497.1,2025 recommendation on unicorns
+19,8,0,Calibri,11.0,236.4,486.1,522.7,497.1,: Implement measures to improve access to funding and reduce  
+19,9,0,Calibri,11.0,77.7,503.6,181.5,514.6,administrative burden. 
+19,10,0,Calibri-Bold,11.0,77.7,521.6,520.3,532.6,Germany made some efforts to address the recommendation through new policy actions in 2025. 
+19,11,0,Calibri,11.0,77.7,539.1,316.3,550.2,"Measures to improve access to funding, such as the "
+19,11,0,Calibri-Italic,11.0,317.1,539.1,425.5,550.2,High-Tech Gründerfonds
+19,11,0,Calibri,11.0,425.6,539.1,520.3,550.2," and scale-up direct, "
+19,11,1,Calibri,11.0,77.7,553.6,477.6,564.7,"and to reduce administrative burden, such as a process for faster business formation (‘"
+19,11,1,Calibri-Italic,11.0,477.6,553.6,520.3,564.7,Schneller 
+19,11,2,Calibri-Italic,11.0,77.7,568.1,119.1,579.1,Gründen’
+19,11,2,Calibri,11.0,119.1,568.1,334.6,579.1,"), are currently being prepared and/or ongoing.  "
+19,12,0,Calibri,11.0,72.0,586.1,74.5,597.1, 
+19,13,0,Calibri,11.0,72.0,608.6,74.5,619.7, 
+19,13,1,Calibri,11.0,216.1,608.6,218.5,619.7, 
+19,14,0,Calibri,11.0,216.1,722.2,218.5,733.2, 
+19,14,1,Calibri,6.5,72.0,734.6,75.3,741.1,4
+19,14,1,Calibri,10.0,75.3,735.5,524.9,745.4, Based on data from Dealroom (extracted on 21.01.2026). A unicorn is a company that has been valued at over 
+19,14,2,Calibri,10.0,72.0,747.7,515.4,757.6,USD 1 billion in an initial public offering or trade sale or a company that has been valued at over USD 1 billion 
+19,14,3,Calibri,10.0,72.0,759.9,237.0,769.9,in its last private venture funding round. 
+19,15,0,Calibri,11.0,292.1,795.4,305.8,806.4,16 
+20,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+20,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+20,2,0,Calibri-Light,15.0,72.0,84.9,322.7,99.9,Strengthening Cybersecurity & Resilience 
+20,4,0,Calibri-Bold,11.0,72.0,111.7,525.6,122.8,German enterprises score higher than their EU peers concerning the implementation of 
+20,4,1,Calibri-Bold,11.0,72.0,126.3,180.0,137.3,cybersecurity measures
+20,4,1,Calibri,11.0,180.2,126.3,525.9,137.3,". In 2024, 71.35% of enterprises applied at least five cybersecurity measures "
+20,4,2,Calibri,11.0,72.0,140.8,169.8,151.8,(out of 11 measures 
+20,4,2,Calibri,11.0,169.9,140.8,285.1,151.8,as measured by Eurostat
+20,4,2,Calibri,11.0,285.1,140.8,525.8,151.8,"), higher than the EU average of 56.85%. Germany "
+20,4,3,Calibri,11.0,72.0,155.2,525.6,166.2,"performed particularly well in the use of encryption techniques (57.94%, EU: 39.72%), authentication "
+20,4,4,Calibri,11.0,72.0,169.7,525.5,180.7,"via biometric methods (24.73% in Germany, 18.27% in the EU) and maintaining log files for analysis "
+20,4,5,Calibri,11.0,72.0,184.2,277.2,195.3,"after security incidents (59.53%, EU: 45.16%). "
+20,5,0,Calibri-Bold,11.0,72.0,206.7,525.9,217.7,"However, cybersecurity remains a growing concern for companies, with an upward trend in the "
+20,5,1,Calibri-Bold,11.0,72.0,221.2,262.5,232.2,frequency and damage caused by attacks.
+20,5,1,Calibri,11.0,262.6,221.2,332.0,232.2, According to a 
+20,5,1,Calibri,11.0,332.1,221.2,395.4,232.2,Bitkom survey
+20,5,1,Calibri,11.0,394.6,221.2,525.9,232.2,", 73% of businesses reported "
+20,5,2,Calibri,11.0,72.0,235.7,525.9,246.8,"having been affected - either actually or presumably - by digital sabotage over the past twelve months, "
+20,5,3,Calibri,11.0,72.0,250.1,525.9,261.2,"and this trend is expected to continue in the future. In particular, ransomware (34%), Distributed Denial "
+20,5,4,Calibri,11.0,72.0,264.6,415.8,275.7,"of Service (DDoS, 25%) and malware (24%) have become more widespread"
+20,5,4,Calibri-Bold,11.0,416.0,264.6,421.5,275.7,. 
+20,5,4,Calibri,11.0,422.6,264.6,525.9,275.7,"In parallel, new attack "
+20,5,5,Calibri,11.0,72.0,279.2,525.8,290.2,"types, such as deepfakes and robocalls, have also occurred, but still on a very limited scale (4% for "
+20,5,6,Calibri,11.0,72.0,293.7,525.9,304.7,"deepfakes and 3% for robocalls). The economic impact is substantial, with cyberattacks accounting for "
+20,5,7,Calibri,11.0,72.0,308.1,525.9,319.1,"an increasing share of overall damage caused by data theft, sabotage, and industrial espionage (EUR "
+20,5,8,Calibri,11.0,72.0,322.6,407.0,333.6,"202 billion, or 70%, in 2025 compared to EUR 179 billion, or 67%, in 2024). "
+20,5,8,Calibri,11.0,407.0,322.6,525.9,333.6,A report on the State of IT 
+20,5,9,Calibri,11.0,72.0,337.1,148.4,348.2,Security in 2025
+20,5,9,Calibri,11.0,148.3,337.1,525.9,348.2, from the Federal Office for Information Security (BSI) indicates that there is a 
+20,5,10,Calibri,11.0,72.0,351.6,525.9,362.7,"continued shift away from large, complex attacks toward smaller, easier-to-execute attacks: around "
+20,5,11,Calibri,11.0,72.0,366.2,525.6,377.2,"80% of reported attacks target SMEs, which often lack the resources and expertise to protect "
+20,5,12,Calibri,11.0,72.0,380.6,125.5,391.6,themselves.
+20,5,12,Calibri-Bold,11.0,125.5,380.6,130.4,391.6,  
+20,6,0,Calibri-Bold,11.0,72.0,403.1,525.6,414.2,"At the same time, only half of companies consider themselves very well prepared, while 59% "
+20,6,1,Calibri-Bold,11.0,72.0,417.5,342.0,428.6,perceive cyber threats as a risk to their business continuity.
+20,6,1,Calibri,11.0,342.2,417.5,525.9,428.6," Against this background, the increase of "
+20,6,2,Calibri,11.0,72.0,432.1,525.9,443.1,"cybersecurity budget share in the IT budget is comparatively modest (from 17% to 18% - however, it "
+20,6,3,Calibri,11.0,72.0,446.6,314.4,457.6,"was at only 9% in 2022), although coming closer to the "
+20,6,3,Calibri,11.0,314.0,446.6,361.9,457.6,suggestion
+20,6,3,Calibri,11.0,361.9,446.6,525.9,457.6, of the Federal Office for Information 
+20,6,4,Calibri,11.0,72.0,461.1,383.2,472.1,Security (BSI) to invest around 20% in cybersecurity. According to a 
+20,6,4,Calibri,11.0,384.4,461.1,437.7,472.1,ZEW survey
+20,6,4,Calibri,11.0,436.8,461.1,525.9,472.1,", the prevalence of "
+20,6,5,Calibri,11.0,72.0,475.5,525.9,486.5,"cyber insurance varies across sectors, but is close to 50% in several key industries (e.g. ICT, automotive "
+20,6,6,Calibri,11.0,72.0,490.0,525.9,501.1,and mechanical engineering). The rise in cyberattacks is also reflected in the labour market: according 
+20,6,7,Calibri,11.0,72.0,504.5,94.7,515.6,to a 
+20,6,7,Calibri,11.0,97.5,504.5,164.8,515.6,IW Köln study
+20,6,7,Calibri,11.0,164.9,504.5,525.7,515.6,", the number of online job postings requiring cybersecurity skills increased "
+20,6,8,Calibri,11.0,72.0,519.1,316.1,530.1,"significantly, from 117 000 in 2019 to 203 000 in 2024. "
+20,7,0,Calibri-Bold,11.0,72.0,541.5,525.9,552.5,"Against a background of increasing cyber threats and gaps in companies’ preparedness, public "
+20,7,1,Calibri-Bold,11.0,72.0,556.1,405.4,567.1,"support measures for businesses continue, but have not been expanded. "
+20,7,1,Calibri,11.0,405.5,556.1,466.4,567.1,As part of the
+20,7,1,Calibri-BoldItalic,11.0,466.4,556.1,468.9,567.1, 
+20,7,1,Calibri-Italic,11.0,468.8,556.1,523.5,567.1,Mittelstand-
+20,7,2,Calibri-Italic,11.0,72.0,570.6,103.8,581.6,Digital 
+20,7,2,Calibri,11.0,103.8,570.6,173.5,581.6,funding priority
+20,7,2,Calibri-Italic,11.0,173.6,570.6,176.3,581.6,","
+20,7,2,Calibri,11.0,176.3,570.6,196.2,581.6, the 
+20,7,2,Calibri,11.0,196.2,570.6,340.4,581.6,Cybersecurity for SMEs initiative
+20,7,2,Calibri,11.0,340.5,570.6,525.9,581.6, provides support to raise awareness and 
+20,7,3,Calibri,11.0,72.0,585.0,525.9,596.0,minimise damage caused by cybersecurity incidents. It also assists companies in the implementation 
+20,7,4,Calibri,11.0,72.0,599.5,525.9,610.5,"of key regulatory frameworks, such as the Network and Information Systems (NIS) 2 Directive and the "
+20,7,5,Calibri,11.0,72.0,614.0,304.7,625.1,Cyber Resilience Act (CRA). The initiative includes a 
+20,7,5,Calibri,11.0,305.1,614.0,491.3,625.1,Transfer Centre for Cybersecurity in SMEs
+20,7,5,Calibri,11.0,491.4,614.0,525.9,625.1,", which "
+20,7,6,Calibri,11.0,72.0,628.5,525.9,639.6,serves as a central point of contact for companies seeking to improve their IT security. The transfer 
+20,7,7,Calibri,11.0,72.0,642.9,525.9,654.0,"centre offers training and advisory services for prevention and detection of security gaps, and "
+20,7,8,Calibri,11.0,72.0,657.5,525.9,668.5,emergency support via an online tool. The transfer centre reached approximately 13 000 people via 
+20,7,9,Calibri,11.0,72.0,672.0,525.9,683.0,its information and training events as well as workshops (plus around 26 000 people via events 
+20,7,10,Calibri,11.0,72.0,686.5,525.9,697.5,organised by other institutions) and around 3 000 people have used its online tools since the project 
+20,7,11,Calibri,11.0,72.0,700.9,525.9,711.9,"start in July 2023. Additionally, focus projects provide digital tools, trainings, and self-evaluation tools "
+20,7,12,Calibri,11.0,72.0,715.4,525.9,726.5,"for specific technical questions or for employee qualification (e.g. on NIS2, CRA, production facilities). "
+20,7,13,Calibri,11.0,72.0,730.0,91.2,741.0,The 
+20,7,13,Calibri-Italic,11.0,91.6,730.0,177.8,741.0,Mittelstand-Digital 
+20,7,13,Calibri,11.0,178.4,730.0,525.9,741.0,"Innovation Hubs are expected to introduce cybersecurity instructors in 2027, "
+20,7,14,Calibri,11.0,72.0,744.5,266.5,755.5,who will be trained by the transfer centres. 
+20,8,0,Calibri,11.0,292.1,795.4,305.8,806.4,17 
+21,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+21,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+21,3,0,Calibri-Bold,11.0,72.0,84.0,122.9,95.1,"In 2024, a "
+21,3,0,Calibri-Bold,11.0,124.7,84.0,280.5,95.1,German Federal Court of Audit (
+21,3,0,Calibri-BoldItalic,11.0,280.5,84.0,376.1,95.1,Bundesrechnungshof
+21,3,0,Calibri-Bold,11.0,376.0,84.0,412.9,95.1,) report
+21,3,0,Calibri-Bold,11.0,412.8,84.0,525.9,95.1, highlighted insufficient 
+21,3,1,Calibri-Bold,11.0,72.0,98.4,525.8,109.5,"coordination and funding of cybersecurity measures within the federal government, as well as a lack "
+21,3,2,Calibri-Bold,11.0,72.0,112.9,205.8,124.0,of effective IT security control
+21,3,2,Calibri,11.0,205.9,112.9,525.9,124.0,. The report also calls for further organisational strengthening of the BSI. 
+21,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"Moreover, the often outdated and fragmented IT systems in public administration, especially on "
+21,3,4,Calibri,11.0,72.0,142.0,525.9,153.0,"municipal level (see also digital public services section), may be an additional burden in this regard. It "
+21,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,should also be noted that directly advising more than 11 000 municipalities is not within the BSI’s 
+21,3,6,Calibri,11.0,72.0,170.9,464.7,181.9,"remit; however, it can provide support through guidance documents and training. In the "
+21,3,6,Calibri,11.0,464.6,170.9,520.7,181.9,2026 budget
+21,3,6,Calibri,11.0,520.8,170.9,525.9,181.9,", "
+21,3,7,Calibri,11.0,72.0,185.4,525.8,196.5,"in connection with the BSI’s additional responsibilities under NIS 2 and the Cyber Resilience Act, the "
+21,3,8,Calibri,11.0,72.0,199.9,525.9,211.0,"BSI’s budget will be increased by EUR 97 million. Moreover, the federal-level resources will be "
+21,3,9,Calibri,11.0,72.0,214.3,525.7,225.4,"expanded by around 1 700 new positions, primarily in the police, cybersecurity, and disaster "
+21,3,10,Calibri,11.0,72.0,228.9,525.9,239.9,management sectors. It remains to be seen whether these additional resources will be sufficient to 
+21,3,11,Calibri,11.0,72.0,243.4,441.6,254.4,meet the increased responsibilities and overall demand for cybersecurity support.  
+21,4,0,Calibri-Bold,11.0,77.7,266.4,257.6,277.5,2025 recommendation on cybersecurity
+21,4,0,Calibri,11.0,257.7,266.4,520.2,277.5,": Increase efforts in cybersecurity, particularly by increasing "
+21,4,1,Calibri,11.0,77.7,280.9,289.5,291.9,awareness amongst private and public entities. 
+21,5,0,Calibri-Bold,11.0,77.7,298.9,520.0,309.9,"In 2025, Germany continued the implementation of existing measures but did not take any new "
+21,5,1,Calibri-Bold,11.0,77.7,313.4,127.1,324.4,measures. 
+21,5,1,Calibri,11.0,128.7,313.4,520.3,324.4,"Despite increasing cyber threats and gaps in companies’ preparedness, measures to "
+21,5,2,Calibri,11.0,77.7,327.9,520.3,338.9,"support private entities, such as the Cybersecurity for SMEs initiative with its transfer centre, were "
+21,5,3,Calibri,11.0,77.7,342.4,520.3,353.4,"largely continued, but not yet significantly expanded. For public entities, it remains to be seen if the "
+21,5,4,Calibri,11.0,77.7,356.8,432.7,367.9,additional resources will be sufficient to meet the increased tasks and demand. 
+21,5,5,Calibri-Bold,26.0,72.0,377.8,77.9,403.9, 
+21,5,6,Calibri-Bold,26.0,72.0,409.7,77.9,435.7, 
+21,5,7,Calibri-Bold,26.0,216.1,409.7,221.9,435.7, 
+21,6,0,Calibri,11.0,292.1,795.4,305.8,806.4,18 
+22,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+22,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+22,3,0,Calibri-Bold,26.0,72.0,87.0,529.2,113.1,Protecting and empowering EU people 
+22,3,1,Calibri-Bold,26.0,72.0,121.2,200.5,147.3,and society 
+22,4,0,Calibri-Light,15.0,72.0,161.3,519.2,176.3,Empowering people and bringing the digital transformation closer to their 
+22,4,1,Calibri-Light,15.0,72.0,181.1,111.7,196.1,needs 
+22,5,0,Calibri-Light,12.0,72.0,208.2,239.6,220.2,Equipping people with digital skills 
+22,6,0,Calibri-Light,11.0,72.0,225.9,149.4,236.9,Basic digital skills 
+22,6,1,Calibri-LightItalic,11.0,72.0,242.3,183.7,253.4,Performance assessment 
+22,8,0,Calibri-Bold,11.0,523.6,518.0,526.1,529.0, 
+22,8,1,Calibri-Bold,11.0,72.0,529.4,515.0,540.4,"Basic digital skills are very close to the EU level, with comparatively more pronounced disparities "
+22,8,2,Calibri-Bold,11.0,72.0,543.9,516.2,554.9,"in gender and, to a lesser extent, in education levels, similar urban-rural disparities and relatively "
+22,8,3,Calibri-Bold,11.0,72.0,558.5,219.9,569.5,smaller gaps across age groups.  
+22,9,0,SymbolMT,11.0,90.0,584.7,95.1,598.2,•
+22,9,0,ArialMT,11.0,95.1,585.8,98.1,598.1, 
+22,9,1,Calibri-Bold,11.0,108.0,587.5,525.9,598.5,"At least basic digital skills: In 2025, 59.55% of individuals aged 16-74 had at least basic digital "
+22,9,2,Calibri-Bold,11.0,108.0,600.9,324.8,612.0,"skills, slightly below the EU average of 60.40%. "
+22,9,2,Calibri,11.0,324.9,600.9,525.9,612.0,Germany’s growth rate (6.8%) surpasses the 
+22,9,3,Calibri,11.0,108.0,614.4,525.9,625.4,EU’s (4.3%). The country is on track according to its trajectory presented in the Digital Decade 
+22,9,4,Calibri,11.0,108.0,627.8,193.0,638.9,national roadmap. 
+22,9,5,SymbolMT,11.0,90.0,638.9,95.1,652.4,•
+22,9,5,ArialMT,11.0,95.1,640.0,98.1,652.3, 
+22,9,6,Calibri-Bold,11.0,108.0,641.7,164.4,652.8,Gender gap:
+22,9,6,Calibri,11.0,164.4,641.7,525.9,652.8, Germany exhibited a gender gap of 5.83 percentage points in favour of men in 
+22,9,7,Calibri,11.0,108.0,655.2,525.9,666.2,"2025, with 62.46% of men and 56.63% of women possessing at least basic digital skills in 2025. "
+22,9,8,Calibri,11.0,108.0,668.6,400.9,679.7,This gap is larger than the EU average of 2.75 percentage points.  
+22,9,9,SymbolMT,11.0,90.0,679.8,95.1,693.3,•
+22,9,9,ArialMT,11.0,95.1,680.9,98.1,693.3, 
+22,9,10,Calibri-Bold,11.0,108.0,682.7,180.9,693.7,Education level:
+22,9,10,Calibri,11.0,180.9,682.7,525.9,693.7, 35.43% of individuals with no or low formal education had basic digital skills 
+22,9,11,Calibri,11.0,108.0,696.1,525.6,707.1,"in 2025, representing a 24.12 percentage point gap relative to the national average. This gap "
+22,9,12,Calibri,11.0,108.0,709.5,401.4,720.6,is slightly larger than the EU average of 22.84 percentage points.  
+22,9,13,SymbolMT,11.0,90.0,720.7,95.1,734.1,•
+22,9,13,ArialMT,11.0,95.1,721.8,98.1,734.1, 
+22,9,14,Calibri-Bold,11.0,108.0,723.5,164.6,734.5,Living areas:
+22,9,14,Calibri,11.0,164.5,723.5,525.9,734.5, 65.32% of individuals in German cities had at least basic digital skills (EU average 
+22,9,15,Calibri,11.0,108.0,736.9,525.9,748.0,"of 66.50%). This figure is lower in rural areas, with 51.89% of individuals possessing basic "
+22,9,16,Calibri,11.0,108.0,750.4,525.9,761.4,digital skills in 2025 (EU average of 52.83%). The gap between urban and rural areas in 
+22,10,0,Calibri,11.0,292.1,795.4,305.8,806.4,19 
+23,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+23,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+23,3,0,Calibri,11.0,108.0,84.0,525.9,95.1,"Germany is 13.43 percentage points, slightly smaller than the EU average of 13.67 percentage "
+23,3,1,Calibri,11.0,108.0,97.3,143.6,108.4,points.  
+23,3,2,SymbolMT,11.0,90.0,108.6,95.1,122.0,•
+23,3,2,ArialMT,11.0,95.1,109.7,98.1,122.0, 
+23,3,3,Calibri-Bold,11.0,108.0,111.4,164.1,122.4,Age groups:
+23,3,3,Calibri,11.0,164.1,111.4,525.9,122.4, 66.43% of individuals aged 25 to 54 (EU average of 68.57%) and 48.95% of 
+23,3,4,Calibri,11.0,108.0,124.8,477.9,135.9,individuals aged 55 to 74 (EU average of 42.6%) in Germany had basic digital skills. 
+23,3,5,SymbolMT,11.0,90.0,136.0,95.1,149.5,•
+23,3,5,ArialMT,11.0,95.1,137.1,98.1,149.5, 
+23,3,6,Calibri-Bold,11.0,108.0,138.9,196.7,149.9,Digital safety skills:
+23,3,6,Calibri,11.0,196.7,138.9,525.8,149.9," Regarding digital safety skills, 73.22% of individuals in Germany have at "
+23,3,7,Calibri,11.0,108.0,152.3,396.9,163.3,"least basic safety skills, slightly below the EU average of 74.63%. "
+23,3,8,SymbolMT,11.0,90.0,163.5,95.1,177.0,•
+23,3,8,ArialMT,11.0,95.1,164.6,98.1,176.9, 
+23,3,9,Calibri-Bold,11.0,108.0,166.3,204.1,177.4,Use of generative AI:
+23,3,9,Calibri,11.0,204.2,166.3,525.6,177.4," 32.25% of people in Germany used this technology in 2025, marginally "
+23,3,10,Calibri,11.0,108.0,179.7,525.6,190.7,"below the EU average of 32.66%. For professional purposes, 15.79% of Germans used "
+23,3,11,Calibri,11.0,108.0,193.1,354.1,204.1,"generative AI, slightly above the EU average of 15.36%."
+23,3,11,Calibri-Light,11.0,354.1,193.1,356.6,204.1, 
+23,5,0,TimesNewRomanPS-BoldMT,12.0,559.6,433.4,562.6,446.7, 
+23,6,0,SymbolMT,11.0,90.0,458.1,95.1,471.5,•
+23,6,0,ArialMT,11.0,95.1,459.2,98.1,471.5, 
+23,6,1,Calibri-Bold,11.0,108.0,460.9,245.1,471.9,Exposure to misinformation: 
+23,6,1,Calibri,11.0,247.4,460.9,525.8,471.9,Germany is at 50.78% of individuals exposed to untrue or 
+23,6,2,Calibri,11.0,108.0,475.4,525.8,486.4,"doubtful content online, below the EU average of 55.90% and with an identical growth rate "
+23,6,3,Calibri,11.0,108.0,489.9,525.9,500.9,(6.5 pp annually compared to 2023). The gap between the younger age group (16-24) and 
+23,6,4,Calibri,11.0,108.0,504.3,525.6,515.3,"older adults (25-64) in Germany is 2.48 pp, significantly smaller than the EU average gap of "
+23,6,5,Calibri,11.0,108.0,518.8,149.3,529.9,7.77 pp.  
+23,6,6,SymbolMT,11.0,90.0,531.1,95.1,544.6,
+23,6,6,ArialMT,11.0,95.1,532.2,98.1,544.5, 
+23,6,7,Calibri-Bold,11.0,108.0,533.9,173.1,545.0,Fact-checking:
+23,6,7,Calibri,11.0,173.1,533.9,525.8,545.0, Germany is at 24.90% of individuals verifying the truthfulness of online 
+23,6,8,Calibri,11.0,108.0,548.3,525.8,559.4,"content, below the EU average of 29.16% but experiencing a higher growth rate (12% vs. EU "
+23,6,9,Calibri,11.0,108.0,562.9,525.9,573.9,"9.6% annually compared to 2023). However, the gap between the younger age group (16-24) "
+23,6,10,Calibri,11.0,108.0,577.4,520.5,588.5,"and older adults (25-64) in Germany is 6.10 pp, smaller than the EU average gap of 9.09 pp.  "
+23,6,11,SymbolMT,11.0,92.5,589.7,97.6,603.2,
+23,6,11,ArialMT,11.0,97.6,590.8,100.7,603.1, 
+23,6,12,Calibri-Bold,11.0,110.5,592.5,214.2,603.6,Hostile content online:
+23,6,12,Calibri,11.0,214.2,592.5,525.8,603.6, 31.91% of individuals were exposed to hostile or degrading messages 
+23,6,13,Calibri,11.0,110.5,606.9,525.6,618.0,"online in 2025, lower than the EU average of 39.72%, but with a higher growth rate (12.0% "
+23,6,14,Calibri,11.0,110.5,621.5,525.8,632.5,"vs. EU 8.9% annually compared to 2023). For the 16-24 age group, 42.12% of individuals in "
+23,6,15,Calibri,11.0,110.5,636.0,525.9,647.0,"Germany reported exposure in 2025, compared to 52.99% in the EU. For the 25-64 age group, "
+23,6,16,Calibri,11.0,110.5,650.5,525.9,661.5,"the figure was 33.32% in Germany, lower than the EU’s 41.14% and also with a smaller gap "
+23,6,17,Calibri,11.0,110.5,664.9,525.8,675.9,between the younger age group (16-24) and older adults (25-64) - 8.80 pp in Germany vs. 
+23,6,18,Calibri,11.0,110.5,679.4,207.3,690.5,11.85 pp at EU level.  
+23,7,0,Calibri-LightItalic,11.0,72.0,696.9,316.8,708.0,Policy context and assessment of the recommendations 
+23,7,1,Calibri-Bold,11.0,72.0,711.5,270.7,722.5,The key recent measure in this area is the 
+23,7,1,Calibri-Bold,11.0,271.6,711.5,341.3,722.5,Digital Pact 2.0
+23,7,1,Calibri-Bold,11.0,341.4,711.5,433.7,722.5,", a successor of the "
+23,7,1,Calibri-Bold,11.0,434.6,711.5,520.3,722.5,Digital Pact School
+23,7,1,Calibri-Bold,11.0,520.4,711.5,525.9,722.5,", "
+23,7,2,Calibri-Bold,11.0,72.0,725.9,444.3,736.9,which continues to support the digital transformation of the education system. 
+23,7,2,Calibri,11.0,445.4,725.9,525.9,736.9,Under the Digital 
+23,7,3,Calibri,11.0,72.0,740.4,525.7,751.4,"Pact School, more than 30 000 schools received funding to improve their IT infrastructure, including "
+23,7,4,Calibri,11.0,72.0,754.9,525.9,766.0,"laptops, tablets, smartboards or displays, as well as Wi-Fi and server connections, according to the "
+23,8,0,Calibri,11.0,292.1,795.4,305.8,806.4,20 
+24,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+24,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+24,3,0,Calibri,11.0,72.0,84.0,274.9,95.1,Digital Pact School Progress Report 2023-2024
+24,3,0,Calibri,11.0,275.0,84.0,525.9,95.1,". In total, EUR 7 billion was provided jointly by the federal "
+24,3,1,Calibri,11.0,72.0,98.4,91.3,109.5,and 
+24,3,1,Calibri-Italic,11.0,91.7,98.4,122.4,109.5,Länder
+24,3,1,Calibri,11.0,122.3,98.4,525.9,109.5," levels. Around 48% of the funded entities were primary schools, 39% were other general "
+24,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,"education schools, and 13% were vocational education and training (VET) schools, despite VET pupils "
+24,3,3,Calibri,11.0,72.0,127.5,138.7,138.5,accounting for 
+24,3,3,Calibri,11.0,138.7,127.5,192.2,138.5,around 20%
+24,3,3,Calibri,11.0,192.3,127.5,253.6,138.5, of all pupils.  
+24,4,0,Calibri-Bold,11.0,72.0,149.9,286.5,160.9,"Launched in 2026 and running until 2030, the "
+24,4,0,Calibri-Bold,11.0,287.4,149.9,357.0,160.9,Digital Pact 2.0
+24,4,0,Calibri-Bold,11.0,357.0,149.9,523.4,160.9, has a total budget of EUR 5 billion.
+24,4,0,Calibri,11.0,523.4,149.9,525.9,160.9, 
+24,4,1,Calibri,11.0,72.0,164.4,525.6,175.5,"While it continues to support investments in ICT infrastructure, it places a stronger emphasis on "
+24,4,2,Calibri,11.0,72.0,178.9,525.8,190.0,"structural support for school and teaching development, as well as on digital teaching and learning. "
+24,4,3,Calibri,11.0,72.0,193.5,525.9,204.5,This expanded scope reflects the findings of extensive evaluation work on the initial Digital Pact School. 
+24,4,4,Calibri,11.0,72.0,207.9,525.8,218.9,"Also linked to the latest discussions about social media use of minors, it remains to be seen to what "
+24,4,5,Calibri,11.0,72.0,222.4,525.9,233.4,"extent digital media use and skills will be addressed, e.g. by future curriculum adjustments and/or the "
+24,4,6,Calibri,11.0,72.0,236.9,377.4,248.0,expert commission on child and youth protection in the digital world
+24,4,6,Calibri,11.0,377.5,236.9,385.1,248.0, . 
+24,5,0,Calibri-Bold,11.0,77.7,259.9,279.7,270.9,2025 recommendation on basic digital skills
+24,5,0,Calibri,11.0,279.8,259.9,520.1,270.9,: Improve the effectiveness of existing measures and 
+24,5,1,Calibri,11.0,77.7,274.4,520.2,285.4,"evaluate whether increased efforts and/or additional measures are necessary, in particular in the "
+24,5,2,Calibri,11.0,77.7,288.9,193.1,299.9,area of formal education. 
+24,6,0,Calibri-Bold,11.0,77.7,306.9,520.1,317.9,Germany addressed the recommendation fully by putting significant policy actions into place in 
+24,6,1,Calibri-Bold,11.0,77.7,321.4,105.5,332.5,2025. 
+24,6,1,Calibri,11.0,105.9,321.4,520.1,332.5,"With the launch of the Digital Pact 2.0, the central measure in the area of formal education "
+24,6,2,Calibri,11.0,77.7,335.8,520.2,346.9,"will be continued. It will have a similar duration and level of funding as its predecessor, while "
+24,6,3,Calibri,11.0,77.7,350.3,339.0,361.4,introducing a more refined scope of supported measures.  
+24,7,0,Calibri-LightItalic,11.0,72.0,370.4,135.2,381.4,ICT specialists 
+24,7,1,Calibri-LightItalic,11.0,72.0,386.9,183.7,398.0,Performance assessment 
+24,7,2,Calibri-Bold,11.0,72.0,401.3,525.9,412.4,"Germany is at 5.5% of ICT specialists in total employment after a progression of 7.8% in 2025, "
+24,7,3,Calibri-Bold,11.0,72.0,415.9,419.6,426.9,standing above the EU average of 5.0% (with annual growth rate of 2.0%).
+24,7,3,Aptos-Narrow,11.0,419.5,413.8,421.6,427.3, 
+24,7,3,Calibri,11.0,422.4,415.9,525.8,426.9,"In 2024, the figure for "
+24,7,4,Calibri,11.0,72.0,430.3,525.9,441.3,"Germany was 5.1%, which was also higher than the EU average of 4.9%. The share of female employed "
+24,7,5,Calibri,11.0,72.0,444.8,525.9,455.8,"ICT specialists was as well above the EU average in 2025 (20.0% vs EU’s 19.5%). Moreover, in 2024, "
+24,7,6,Calibri,11.0,72.0,459.3,525.9,470.4,"Germany appears as one of the Member States with a relatively high share of ICT graduates, at 6.0% "
+24,7,7,Calibri,11.0,72.0,473.8,148.1,484.9,of all graduates. 
+24,7,7,Calibri,11.0,149.1,473.8,525.7,484.9,The country is on track according to its trajectory presented in the Digital Decade 
+24,7,8,Calibri,11.0,72.0,488.2,159.1,499.3,national roadmap.  
+24,8,0,Calibri-Bold,11.0,72.0,510.8,311.9,521.8,"However, demand for ICT specialists remains unmet."
+24,8,0,Calibri,11.0,311.8,510.8,525.9,521.8, The share of enterprises that recruited or tried 
+24,8,1,Calibri,11.0,72.0,525.3,525.9,536.3,to recruit personnel with ICT specialist skills slightly increased from 11.0% in 2022 to 12.0 % in 2024 
+24,8,2,Calibri,11.0,72.0,539.7,353.6,550.8,and remained above EU levels (9.5% in 2022 and 9.6% in 2024) 
+24,8,2,Calibri,11.0,353.5,539.7,448.0,550.8,according to Eurostat
+24,8,2,Calibri,11.0,448.1,539.7,525.9,550.8,". Moreover, 8.7% "
+24,8,3,Calibri,11.0,72.0,554.2,505.0,565.3,"of enterprises reported hard-to-fill vacancies for ICT specialist roles, compared to 5.5% in the EU. "
+24,9,0,Calibri-LightItalic,11.0,72.0,576.8,316.8,587.9,Policy context and assessment of the recommendations 
+24,9,1,Calibri-Bold,11.0,72.0,591.2,386.7,602.3,Shortages in ICT specialists remain an issue for the German economy.
+24,9,1,Calibri,11.0,387.0,591.2,408.5,602.3, The 
+24,9,1,Calibri,11.0,408.6,591.2,523.6,602.3,Skilled Labour Monitoring
+24,9,1,Calibri,11.0,523.4,591.2,525.9,602.3, 
+24,9,2,Calibri,11.0,72.0,605.7,525.9,616.8,"identifies ICT-related professions, including IT systems analysis, IT advisory services, software "
+24,9,3,Calibri,11.0,72.0,620.3,491.2,631.3,development and programming as areas with potential workforce shortages. According to a 
+24,9,3,Calibri,11.0,492.1,620.3,525.9,631.3,Bitkom 
+24,9,4,Calibri,11.0,72.0,634.8,101.4,645.8,survey
+24,9,4,Calibri,11.0,100.6,634.8,525.9,645.8,", the German economy lacked more than 100 000 ICT specialists in 2025. Although this figure is "
+24,9,5,Calibri,11.0,72.0,649.2,525.9,660.2,significantly lower than in 2023 (149 000 ICT specialists) – possibly also linked to the overall economic 
+24,9,6,Calibri,11.0,72.0,663.7,525.8,674.7,"situation – it remains a major issue, with around 85% of companies reporting a lack of ICT specialists "
+24,9,7,Calibri,11.0,72.0,678.2,525.9,689.3,in the labour market. Companies indicated that it takes almost eight months to fill an ICT vacancy and 
+24,9,8,Calibri,11.0,72.0,692.7,525.9,703.8,"one in four companies report receiving few to no applications. Furthermore, sectoral strategies "
+24,9,9,Calibri,11.0,72.0,707.1,525.9,718.2,"emphasise the growing need for highly skilled specialists in key areas such as AI, quantum technologies "
+24,9,10,Calibri,11.0,72.0,721.7,214.0,732.7,or semiconductors (see also the
+24,9,10,Calibri-Italic,11.0,213.9,721.7,216.4,732.7, 
+24,9,10,Calibri-Italic,11.0,216.4,721.7,292.8,732.7,Hightech Agenda
+24,9,10,Calibri,11.0,292.8,721.7,303.8,732.7,).  
+24,10,0,Calibri-Bold,11.0,72.0,744.2,525.9,755.3,"Against this background, Germany is further developing existing initiatives, in particular its National "
+24,10,1,Calibri-Bold,11.0,72.0,758.6,304.6,769.7,Skills Strategy and the Skilled Labour Strategy.
+24,10,1,Calibri,11.0,304.5,758.6,525.9,769.7, The overall approach is to adapt to recent 
+24,11,0,Calibri,11.0,292.1,795.4,305.8,806.4,21 
+25,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+25,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+25,3,0,Calibri,11.0,72.0,84.0,525.9,95.1,developments and to engage with stakeholders at the regional level to take their needs into account. 
+25,3,1,Calibri,11.0,72.0,98.4,107.5,109.5,For the 
+25,3,1,Calibri,11.0,108.5,98.4,211.8,109.5,National Skills Strategy
+25,3,1,Calibri,11.0,211.0,98.4,225.0,109.5,", a "
+25,3,1,Calibri,11.0,226.0,98.4,297.9,109.5,follow-up paper
+25,3,1,Calibri,11.0,297.9,98.4,525.9,109.5, was published in late 2025. Strengthening digital 
+25,3,2,Calibri,11.0,72.0,112.9,525.9,124.0,education further and harnessing the opportunities of digitalisation and artificial intelligence will be 
+25,3,3,Calibri,11.0,72.0,127.5,525.9,138.5,"part of the updated strategy, including through new working groups and funding schemes. To further "
+25,3,4,Calibri,11.0,72.0,142.0,127.9,153.0,develop the 
+25,3,4,Calibri,11.0,128.3,142.0,230.6,153.0,Skilled Labour Strategy
+25,3,4,Calibri,11.0,229.9,142.0,243.1,153.0,", a "
+25,3,4,Calibri,11.0,243.5,142.0,318.2,153.0,discussion paper
+25,3,4,Calibri,11.0,318.2,142.0,525.9,153.0," was published in 2026, serving as a key input "
+25,3,5,Calibri,11.0,72.0,156.4,525.9,167.4,for the updated strategy expected in 2027. The paper introduces AI and digital technology adoption as 
+25,3,6,Calibri,11.0,72.0,170.9,525.7,181.9,"new priority areas, addressing how the increasing use of AI is reshaping job structures and skill "
+25,3,7,Calibri,11.0,72.0,185.4,525.9,196.5,"requirements, creating both opportunities for upskilling and reskilling, as well as risks of deskilling due "
+25,3,8,Calibri,11.0,72.0,199.9,525.9,211.0,to reduced human autonomy and expertise. The paper will be discussed across different regions with 
+25,3,9,Calibri,11.0,72.0,214.3,525.9,225.4,"representatives from companies and labour market actors. Moreover, existing initiatives aimed at "
+25,3,10,Calibri,11.0,72.0,228.9,525.9,239.9,young people – particularly girls – are being continued to promote diversity. These include measures 
+25,3,11,Calibri,11.0,72.0,243.4,124.6,254.4,such as the 
+25,3,11,Calibri,11.0,124.6,243.4,164.0,254.4,Girls Day
+25,3,11,Calibri,11.0,164.1,243.4,195.9,254.4, or the 
+25,3,11,Calibri-Italic,11.0,196.0,243.4,246.1,254.4,klischeefrei
+25,3,11,Calibri,11.0,246.1,243.4,289.8,254.4," initiative,"
+25,3,11,Calibri-Italic,11.0,289.9,243.4,292.4,254.4, 
+25,3,11,Calibri,11.0,292.4,243.4,521.6,254.4,which address different aspects of gender equality. 
+25,4,0,Calibri-Bold,11.0,72.0,265.9,479.8,276.9,"As part of the Skilled Labour Strategy, in 2025 Germany announced the establishment of a "
+25,4,0,Calibri-Bold,11.0,479.5,265.9,525.9,276.9,Work and 
+25,4,1,Calibri-Bold,11.0,72.0,280.4,126.7,291.4,Stay Agency
+25,4,1,Calibri-Bold,11.0,126.0,280.4,131.5,291.4,. 
+25,4,1,Calibri,11.0,131.3,280.4,525.9,291.4,The Work and Stay Agency aims to facilitate the immigration of skilled foreign workers to 
+25,4,2,Calibri,11.0,72.0,294.9,525.9,305.9,Germany by simplifying and streamlining administrative processes and improving transparency. This 
+25,4,3,Calibri,11.0,72.0,309.4,525.9,320.5,"will include putting in place a central IT platform based on the once-only principle. As a next step, all "
+25,4,4,Calibri,11.0,72.0,323.8,361.1,334.9,relevant IT services are to be commissioned by the end of 2026.  
+25,5,0,Calibri,11.0,72.0,346.4,525.9,357.4,It remains to be seen if the implementation speed and scope of these ongoing and planned measures 
+25,5,1,Calibri,11.0,72.0,360.9,525.8,371.9,will be sufficient to address the ICT labour shortages. The National Regulatory Control Council 
+25,5,2,Calibri,11.0,72.0,375.3,75.4,386.3,(
+25,5,2,Calibri-Italic,11.0,75.4,375.3,158.6,386.3,Normenkontrollrat
+25,5,2,Calibri,11.0,158.7,375.3,211.2,386.3,) noted in a 
+25,5,2,Calibri,11.0,211.0,375.3,256.7,386.3,statement
+25,5,2,Calibri,11.0,256.7,375.3,525.9,386.3," on the Work and Stay Agency that, in addition to digitalising "
+25,5,3,Calibri,11.0,72.0,389.8,525.9,400.9,"procedures, it is crucial to optimise processes and bundle and centralise competences across "
+25,5,4,Calibri,11.0,72.0,404.3,459.6,415.4,"authorities, including when it comes to recognising foreign professional qualifications.  "
+25,6,0,Calibri-Bold,11.0,77.7,427.3,261.1,438.3,2025 recommendation on ICT specialists
+25,6,0,Calibri,11.0,261.2,427.3,520.2,438.3,: Launch targeted measures to increase the attractiveness 
+25,6,1,Calibri,11.0,77.7,441.8,520.2,452.8,"of STEM disciplines at school to boost the number of young people, including girls and women, "
+25,6,2,Calibri,11.0,77.7,456.3,314.9,467.4,interested in taking up ICT-related studies or careers. 
+25,7,0,Calibri-Bold,11.0,77.7,474.3,520.3,485.4,Germany made some efforts to address the recommendation through new policy actions in 2025. 
+25,8,0,Calibri,11.0,77.7,491.8,520.2,502.9,"With the continued development of the National Skills Strategy and the Skilled Labour Strategy, "
+25,8,1,Calibri,11.0,77.7,506.2,520.2,517.3,"Germany aims to further align its support measures with labour market needs, with a focus on "
+25,8,2,Calibri,11.0,77.7,520.7,520.3,531.8,"developing and attracting ICT specialists. Moreover, measures to attract young people – particularly "
+25,8,3,Calibri,11.0,77.7,535.3,208.0,546.3,girls – have been continued.  
+25,9,0,Calibri-Light,12.0,72.0,555.6,476.9,567.6,"Key digital public services and solutions – trusted, user-friendly, and accessible to all "
+25,10,0,Calibri-LightItalic,11.0,72.0,573.1,183.7,584.1,Performance assessment 
+25,10,1,Calibri-Bold,11.0,72.0,587.6,525.9,598.7,"In 2025, Germany scored 78.11 out of 100 on digital public services for citizens, below the EU average "
+25,10,2,Calibri-Bold,11.0,72.0,602.0,112.4,613.1,of 84.64 
+25,10,2,Calibri,11.0,113.3,602.0,130.1,613.1,and
+25,10,2,Calibri-Bold,11.0,130.1,602.0,132.6,613.1, 
+25,10,2,Calibri,11.0,133.5,602.0,525.9,613.1,representing a 1.0% decrease compared to 2024. The decline was in particular due to 
+25,10,3,Calibri,11.0,72.0,616.5,525.9,627.6,false positives being corrected this year and the reclassification of services from regional to central 
+25,10,4,Calibri,11.0,72.0,631.1,525.9,642.1,"provision. While life events such as Transport (89.19), Studying (87.92), and Family (87.64) perform "
+25,10,5,Calibri,11.0,72.0,645.6,523.6,656.6,"best, lower-scoring areas include areas such as Health (67.36), Starting a small claims procedure"
+25,10,5,Calibri-Bold,11.0,523.4,645.6,525.9,656.6, 
+25,10,6,Calibri,11.0,72.0,660.0,525.8,671.0,"(68.75), and Moving (71.50). The country is on track according to its trajectory presented in the Digital "
+25,10,7,Calibri,11.0,72.0,674.5,194.4,685.5,Decade national roadmap. 
+25,10,7,Calibri-Bold,11.0,195.4,674.5,462.3,685.5,"On digital public services for businesses, Germany scored"
+25,10,7,Calibri,11.0,462.6,674.5,465.1,685.5, 
+25,10,7,Calibri-Bold,11.0,466.1,674.5,525.9,685.5,77.76 out of 
+25,10,8,Calibri-Bold,11.0,72.0,689.0,234.4,700.1,"100, below the EU average of 88.59 "
+25,10,8,Calibri,11.0,234.3,689.0,525.9,700.1,and representing a 0.3% increase compared to 2024. The country 
+25,10,9,Calibri,11.0,72.0,703.5,494.8,714.6,is lagging behind compared to its trajectory presented in the Digital Decade national roadmap. 
+25,11,0,Calibri-Bold,11.0,72.0,726.0,452.8,737.0,Germany also scored below the EU average for cross-border services for citizens 
+25,11,0,Calibri,11.0,454.4,726.0,525.9,737.0,(score of 72.60 
+25,11,1,Calibri,11.0,72.0,740.5,200.4,751.6,compared to the EU’s 75.28) 
+25,11,1,Calibri-Bold,11.0,200.2,740.5,445.2,751.6,and considerably below the EU average for businesses
+25,11,1,Calibri,11.0,445.3,740.5,525.9,751.6, (56.25 compared 
+25,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,22 
+26,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+26,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+26,2,0,Calibri,11.0,72.0,84.0,525.9,95.1,"to the EU’s 78.37), while it scored slightly above the EU average for national users (score of 99.26 "
+26,2,1,Calibri,11.0,72.0,98.4,201.6,109.5,compared to the EU’s 98.81).
+26,2,1,Calibri-Bold,11.0,201.5,98.4,206.4,109.5,  
+26,4,0,Calibri-Bold,11.0,72.0,121.0,525.8,132.0,"Germany has a score of 87.72 out of 100 for access to electronic health records, after a progression "
+26,4,1,Calibri-Bold,11.0,72.0,135.5,485.4,146.5,"of 0.9% in 2025, standing above the EU average of 86.51 (with annual growth rate of 4.6%)."
+26,4,1,Aptos-Narrow,11.0,485.5,133.4,487.6,146.9, 
+26,4,1,Calibri,11.0,487.5,135.5,525.9,146.5,"In 2024, "
+26,4,2,Calibri,11.0,72.0,149.9,460.4,160.9,"the score for Germany was 86.96, which was also higher than the EU average of 82.70. "
+26,4,2,Calibri,11.0,460.5,149.9,526.0,160.9,The country is 
+26,4,3,Calibri,11.0,72.0,164.4,483.1,175.5,lagging behind compared to its trajectory presented in the Digital Decade national roadmap.
+26,4,3,Calibri-Bold,11.0,483.1,164.4,485.6,175.5, 
+26,5,0,Calibri-LightItalic,11.0,72.0,187.0,316.8,198.0,Policy context and assessment of the recommendations 
+26,5,1,Calibri-Bold,11.0,72.0,201.4,525.9,212.4,Comparatively low availability and use of digital public services have been among the key challenges 
+26,5,2,Calibri-Bold,11.0,72.0,214.8,525.9,225.9,"in Germany in the area of digitalisation over recent years, with limited possibilities at the federal "
+26,5,3,Calibri-Bold,11.0,72.0,228.3,261.4,239.3,level to steer and support local rollout
+26,5,3,Calibri,11.0,261.5,228.3,525.8,239.3,. With the new Ministry for Digital Transformation and 
+26,5,4,Calibri,11.0,72.0,241.7,525.7,252.8,Government Modernisation placing digital public services and the digital transformation of public 
+26,5,5,Calibri,11.0,72.0,255.2,525.9,266.2,"administration among its key priorities, some momentum has been created to improve Germany’s "
+26,5,6,Calibri,11.0,72.0,268.6,525.9,279.6,"performance in this area and work is ongoing in this direction. However, achieving substantial "
+26,5,7,Calibri,11.0,72.0,282.0,448.4,293.1,improvements will depend on the ability to address persistent structural challenges. 
+26,5,8,Calibri,11.0,72.0,295.4,74.5,306.4, 
+26,5,9,Calibri-Bold,11.0,72.0,308.8,525.9,319.8,One key influencing factor is how services have been provided over recent years under the Online 
+26,5,10,Calibri-Bold,11.0,72.0,322.2,122.8,333.3,Access Act.
+26,5,10,Calibri,11.0,122.9,322.2,245.9,333.3, Based on the ‘one for all’ (‘
+26,5,10,Calibri-Italic,11.0,245.8,322.2,326.5,333.3,Einer für Alle’- EfA
+26,5,10,Calibri,11.0,326.5,322.2,492.4,333.3,") principle, the federal level and/or a "
+26,5,10,Calibri-Italic,11.0,492.5,322.2,514.1,333.3,Land
+26,5,10,Calibri,11.0,514.1,322.2,525.9,333.3, is 
+26,5,11,Calibri,11.0,72.0,335.7,525.9,346.7,"tasked with developing a specific public service. Once developed, the service is made available for "
+26,5,12,Calibri,11.0,72.0,349.1,143.0,360.2,reuse by other 
+26,5,12,Calibri-Italic,11.0,144.9,349.1,175.4,360.2,Länder
+26,5,12,Calibri,11.0,175.5,349.1,300.2,360.2, and/or and municipalities 
+26,5,12,Calibri-Italic,11.0,302.0,349.1,369.9,360.2,(‘Nachnutzung’
+26,5,12,Calibri,11.0,369.9,349.1,525.9,360.2,"). However, a lack of overarching "
+26,5,13,Calibri,11.0,72.0,362.6,525.9,373.6,"interoperability standards and specifications for the EfA solutions, the high number of re-users - i.e. 16 "
+26,5,14,Calibri-Italic,11.0,72.0,376.0,102.7,387.0,Länder
+26,5,14,Calibri,11.0,102.7,376.0,525.8,387.0, and more than 11 000 municipalities - combined with significant differences in IT procedures 
+26,5,15,Calibri,11.0,72.0,389.4,525.9,400.5,"and infrastructure across entities pose major challenges. In particular, establishing the necessary "
+26,5,16,Calibri,11.0,72.0,402.9,525.9,413.9,interfaces (APIs) to connect to these services has become a major obstacle in the rollout of digital 
+26,5,17,Calibri,11.0,72.0,416.3,142.4,427.4,public services. 
+26,5,18,Calibri,11.0,72.0,429.7,74.5,440.7, 
+26,5,19,Calibri-Bold,11.0,72.0,443.1,258.3,454.1,"A broad rollout of services, such as the "
+26,5,19,Calibri-Bold,11.0,259.4,443.1,386.3,454.1,address registration service
+26,5,19,Calibri-Bold,11.0,386.4,443.1,525.8,454.1, - potentially accessible to 55 
+26,5,20,Calibri-Bold,11.0,72.0,456.5,525.9,467.6,"million users based on around 2 000 connected municipalities - is a good starting point, but remains "
+26,5,21,Calibri-Bold,11.0,72.0,470.0,227.1,481.0,the exception rather than the rule
+26,5,21,Calibri,11.0,227.2,470.0,426.4,481.0,. Regional differences exist: according to the 
+26,5,21,Calibri,11.0,426.6,470.0,525.9,481.0,Digital Administration 
+26,5,22,Calibri,11.0,72.0,483.4,120.5,494.5,Dashboard
+26,5,22,Calibri,11.0,120.5,483.4,146.3,494.5,", the "
+26,5,22,Calibri-Italic,11.0,149.4,483.4,180.0,494.5,Länder
+26,5,22,Calibri,11.0,180.1,483.4,525.9,494.5, Bavaria and North Rhine-Westphalia appear to be relatively advanced. 
+26,5,23,Calibri,11.0,72.0,496.9,525.6,507.9,"However, this overview may be incomplete, as there is no reporting obligation for municipalities on "
+26,5,24,Calibri,11.0,72.0,510.3,525.9,521.3,the availability of digital public services at their level. This limits monitoring and guiding capacity at the 
+26,5,25,Calibri,11.0,72.0,523.7,131.8,534.8,federal level. 
+26,5,26,Calibri,11.0,72.0,537.2,74.5,548.2, 
+26,5,27,Calibri-Bold,11.0,72.0,550.6,525.9,561.7,"Decentralised rollout is hindered by technical, organisational and political challenges, aggravated by "
+26,5,28,Calibri-Bold,11.0,72.0,564.0,203.2,575.0,fragmented responsibilities. 
+26,5,28,Calibri,11.0,204.2,564.0,525.9,575.0,"At municipal level, challenges include insufficient financial and human "
+26,5,29,Calibri,11.0,72.0,577.4,525.8,588.5,"resources, as well as a lack of structured information to connect (often outdated) IT systems to new "
+26,5,30,Calibri,11.0,72.0,590.9,525.9,601.9,online services. These challenges are aggravated by a limited awareness of the importance of 
+26,5,31,Calibri,11.0,72.0,604.3,525.9,615.3,digitalisation amid competing priorities (also considering that uptake of public services often remains 
+26,5,32,Calibri,11.0,72.0,617.7,106.6,628.8,limited)
+26,5,32,Calibri-Bold,11.0,106.6,617.7,112.0,628.8,. 
+26,5,32,Calibri,11.0,112.1,617.7,525.9,628.8,"Moreover, in general, direct support from the federal level to municipalities is limited due to "
+26,5,33,Calibri,11.0,72.0,631.2,363.7,642.2,constitutional principles and usually channelled through the 
+26,5,33,Calibri-Italic,11.0,367.3,631.2,397.9,642.2,Länder
+26,5,33,Calibri,11.0,398.0,631.2,525.9,642.2,". Against this background, "
+26,5,34,Calibri,11.0,72.0,644.6,187.1,655.7,municipalities have been 
+26,5,34,Calibri,11.0,188.0,644.6,235.4,655.7,requesting
+26,5,34,Calibri,11.0,235.4,644.6,525.9,655.7, a more standardised and centralised approach to digital public 
+26,5,35,Calibri,11.0,72.0,658.1,188.2,669.1,services for several years. 
+26,5,36,Calibri,11.0,72.0,671.5,74.5,682.5, 
+26,5,37,Calibri-Bold,11.0,72.0,684.9,525.9,696.0,"Linked to this, the new Ministry for Digital Transformation and Government Modernisation has "
+26,5,38,Calibri-Bold,11.0,72.0,698.3,525.9,709.3,"created some momentum to change dynamics, including moving more from the ‘one for all’ (EfA) "
+26,5,39,Calibri-Bold,11.0,72.0,711.7,287.2,722.7,principle towards more standardised solutions. 
+26,5,39,Calibri,11.0,286.6,711.7,375.2,722.7,"Moreover, it aims to"
+26,5,39,Calibri-Bold,11.0,375.2,711.7,377.7,722.7, 
+26,5,39,Calibri,11.0,377.2,711.7,525.9,722.7,accelerate the provision of digital 
+26,5,40,Calibri,11.0,72.0,725.2,525.9,736.2,"public services through promising new measures, such as the Deutschland-Stack, and structural "
+26,5,41,Calibri,11.0,72.0,738.6,188.4,749.6,"adjustments, including a "
+26,5,41,Calibri,11.0,191.0,738.6,361.2,749.6,financial prerogative for IT solutions
+26,5,41,Calibri,11.0,361.3,738.6,525.8,749.6, for major expenditures in federal 
+26,5,42,Calibri,11.0,72.0,752.0,525.9,763.1,administration. Whether this prerogative will lead to a more streamlined and coordinated provision of 
+26,6,0,Calibri,11.0,292.1,795.4,305.8,806.4,23 
+27,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+27,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+27,3,0,Calibri,11.0,72.0,84.0,463.3,95.1,IT solutions will also depend on the willingness of other ministries to cooperate. The 
+27,3,0,Calibri,11.0,464.4,84.0,523.6,95.1,Deutschland-
+27,3,1,Calibri,11.0,72.0,97.3,95.6,108.4,Stack
+27,3,1,Calibri,11.0,95.7,97.3,525.8,108.4, is an IT infrastructure aimed at facilitating the reuse of basic components and digital public 
+27,3,2,Calibri,11.0,72.0,110.8,252.1,121.8,"services by public authorities at federal, "
+27,3,2,Calibri-Italic,11.0,252.1,110.8,282.6,121.8,Länder
+27,3,2,Calibri,11.0,282.6,110.8,525.9,121.8," and municipal level. It will define technical standards, "
+27,3,3,Calibri,11.0,72.0,124.2,525.9,135.3,"with a focus on sovereignty, interoperability and open-source solutions. Moreover, it will also provide "
+27,3,4,Calibri,11.0,72.0,137.7,525.9,148.7,"digital public services, integrating previously developed services as well as new functionalities, such as "
+27,3,5,Calibri,11.0,72.0,151.1,85.6,162.1,an 
+27,3,5,Calibri,11.0,85.8,151.1,296.3,162.1,AI-supported planning and permitting platform
+27,3,5,Calibri,11.0,296.2,151.1,525.9,162.1,. The upcoming EUDI Wallet will also be integrated 
+27,3,6,Calibri,11.0,72.0,164.5,476.2,175.6,"in the Deutschland-Stack. Under the umbrella of the IT planning council, work on a "
+27,3,6,Calibri,11.0,479.1,164.5,525.9,175.6,federal IT 
+27,3,7,Calibri,11.0,72.0,178.0,127.4,189.0,Architecture
+27,3,7,Calibri,11.0,127.5,178.0,222.7,189.0, has started in 2024.  
+27,3,8,Calibri,11.0,72.0,191.4,74.5,202.5, 
+27,3,9,Calibri-Bold,11.0,72.0,204.9,525.9,215.9,"In addition, pilot projects have been launched under the leadership of the new ministry to deliver "
+27,3,10,Calibri-Bold,11.0,72.0,218.3,397.6,229.3,quick wins and demonstrate the potential of cross-level collaboration
+27,3,10,Calibri,11.0,397.7,218.3,525.8,229.3,. While these initiatives are 
+27,3,11,Calibri,11.0,72.0,231.6,525.9,242.7,"promising, it will take time before tangible and measurable results emerge on a broader scale. For "
+27,3,12,Calibri,11.0,72.0,245.1,345.4,256.1,"example, in response to the challenges at municipal level, the "
+27,3,12,Calibri-Italic,11.0,345.0,245.1,378.0,256.1,Länder 
+27,3,12,Calibri,11.0,377.7,245.1,525.9,256.1,"Bavaria and Hesse, together with "
+27,3,13,Calibri,11.0,72.0,258.5,232.7,269.6,"new ministry, have decided to test a "
+27,3,13,Calibri,11.0,232.4,258.5,372.3,269.6,different implementation mode
+27,3,13,Calibri,11.0,372.3,258.5,525.9,269.6, by rolling out five commonly used 
+27,3,14,Calibri,11.0,72.0,272.0,525.7,283.0,digital services across their territories by the end of 2026. The rollout will be carried out centrally by a 
+27,3,15,Calibri,11.0,72.0,285.4,525.6,296.5,general contractor responsible for the entire process. It will be designed in a way that allows other 
+27,3,16,Calibri-Italic,11.0,72.0,298.9,102.7,309.9,Länder
+27,3,16,Calibri,11.0,102.7,298.9,203.8,309.9, to join at later stages. 
+27,3,17,Calibri,11.0,72.0,312.3,74.5,323.3, 
+27,3,18,Calibri-Bold,11.0,72.0,325.7,525.7,336.8,"Moreover, the use of e-Government services continues to increase but remains below the EU "
+27,3,19,Calibri-Bold,11.0,72.0,340.2,113.3,351.3,average. 
+27,3,19,Calibri,11.0,113.1,340.2,525.9,351.3,The share of internet users interacting with public authorities increased from 64% in 2024 to 
+27,3,20,Calibri,11.0,72.0,354.6,525.8,365.7,"70% in 2025 (EU: 76% in 2025 and 75% in 2024), but Germany ranked sixth lowest in the EU in 2025 "
+27,3,21,Calibri,11.0,72.0,369.2,525.9,380.2,(compared to fourth lowest in 2023). Among the most common reasons for this are the limited and 
+27,3,22,Calibri,11.0,72.0,383.7,525.9,394.7,heterogenous availability of digital public services (varying across municipalities) and the fact that 
+27,3,23,Calibri,11.0,72.0,398.2,429.4,409.3,users often prefer in-person interactions with local authorities. According to an 
+27,3,23,Calibri,11.0,429.8,398.2,521.7,409.3,Initiative D21 survey
+27,3,23,Calibri,11.0,520.9,398.2,525.9,409.3,", "
+27,3,24,Calibri,11.0,72.0,412.6,525.9,423.7,33% of public service users handled their interactions with authorities in Germany entirely offline. The 
+27,3,25,Calibri,11.0,72.0,427.1,525.9,438.2,"survey also indicates that this is often due to deliberate rejection of online services, as well as limited "
+27,3,26,Calibri,11.0,72.0,441.7,326.8,452.7,discoverability and a lack of awareness of these services. 
+27,4,0,Calibri-Bold,11.0,72.0,464.1,356.4,475.1,"Moreover, the user-friendliness of services remains a concern"
+27,4,0,Calibri,11.0,356.4,464.1,525.9,475.1,". Although Germany has improved, it "
+27,4,1,Calibri,11.0,72.0,478.6,525.9,489.7,still scores significantly below EU level: 55 out of 100 compared to an EU average of 70 for service 
+27,4,2,Calibri,11.0,72.0,493.1,525.9,504.2,"process transparency and design, and 85 compared to 90 for user support. Services are often not fully "
+27,4,3,Calibri,11.0,72.0,507.7,525.8,518.7,"digital, as many procedures still combine online and analogue steps. For example, according to the "
+27,4,4,Calibri,11.0,72.0,522.1,223.1,533.1,Digital Administration Dashboard
+27,4,4,Calibri,11.0,223.1,522.1,525.9,533.1,", only about half of the roughly 800 federal online services have "
+27,4,5,Calibri,11.0,72.0,536.6,388.7,547.6,"reached maturity level 3, meaning they allow a fully digital procedure.  "
+27,5,0,Calibri-Bold,11.0,72.0,559.2,429.0,570.2,Linked to the limited integration between front-end and back-end systems
+27,5,0,Calibri,11.0,429.0,559.2,434.2,570.2,", "
+27,5,0,Calibri-Bold,11.0,436.4,559.2,525.9,570.2,limited data reuse 
+27,5,1,Calibri-Bold,11.0,72.0,573.6,147.9,584.6,remains an issue
+27,5,1,Calibri,11.0,147.9,573.6,525.9,584.6,". This is reflected in the low availability of pre-filled forms, which measures the share "
+27,5,2,Calibri,11.0,72.0,588.1,525.9,599.1,of administrative steps that present pre-filled data in online forms to users. While Germany’s score 
+27,5,3,Calibri,11.0,72.0,602.6,525.9,613.7,"increased considerably from 38 in 2024 to 52 in 2025, it remains second lowest in the EU and "
+27,5,4,Calibri,11.0,72.0,617.1,525.8,628.2,significantly below the EU average (71 in 2024 and 76 in 2025). This is expected to improve further 
+27,5,5,Calibri,11.0,72.0,631.5,525.9,642.6,"once the national once-only technical system (NOOTS) becomes fully operational, enabling both "
+27,5,6,Calibri,11.0,72.0,646.1,525.9,657.1,"national and cross-border data exchange between authorities, including through the EU once-only "
+27,5,7,Calibri,11.0,72.0,660.6,525.7,671.6,technical system. The NOOTS is expected to begin connecting registers and online services in 2026. 
+27,5,8,Calibri,11.0,72.0,675.1,525.9,686.1,"This step is also crucial in view of the EUDI Wallet, as interconnected registers are a prerequisite for its "
+27,5,9,Calibri,11.0,72.0,689.5,338.7,700.5,"functionality, providing the data that the wallet will rely on. "
+27,6,0,Calibri-Bold,11.0,77.7,712.5,294.7,723.6,2025 recommendation on Digital Public Services
+27,6,0,Calibri,11.0,294.9,712.5,520.2,723.6,: Accelerate the digitalisation of key public services 
+27,6,1,Calibri,11.0,77.7,727.1,517.9,738.1,"by making additional public services available online, improving interoperability, as well as front-"
+27,6,2,Calibri,11.0,77.7,741.5,222.0,752.5,end and back-end digitalisation. 
+27,7,0,Calibri,11.0,292.1,795.4,305.8,806.4,24 
+28,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+28,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+28,2,0,Calibri-Bold,11.0,77.7,84.5,520.3,95.5,Germany made some efforts to address the recommendation through new policy actions in 2025. 
+28,4,0,Calibri,11.0,77.7,102.0,520.0,113.1,The new Ministry for Digital Transformation and Government Modernisation has created some 
+28,4,1,Calibri,11.0,77.7,116.4,520.2,127.5,"momentum to change dynamics, including moving more from the ‘one for all’ (EfA) principle "
+28,4,2,Calibri,11.0,77.7,130.9,520.2,142.0,towards more standardised solutions. In addition to the continued implementation of very relevant 
+28,4,3,Calibri,11.0,77.7,145.5,520.3,156.5,projects such as the Online Access Act for development of digital public services and the national 
+28,4,4,Calibri,11.0,77.7,160.0,520.3,171.0,"once-only technical system to connect registers and facilitate data reuse, important new measures "
+28,4,5,Calibri,11.0,77.7,174.4,520.3,185.4,"such as the Deutschland-Stack, and structural adjustments including a financial prerogative for IT "
+28,4,6,Calibri,11.0,77.7,188.9,275.1,199.9,solutions are currently being implemented.  
+28,5,0,Calibri,11.0,72.0,206.9,74.5,217.9, 
+28,5,1,Calibri-Bold,11.0,72.0,220.3,525.8,231.4,"As for e-Government users and for similar reasons, Germany scores low in the use of eID: with 15%, "
+28,5,2,Calibri-Bold,11.0,72.0,233.8,406.7,244.8,it records the fourth-lowest share of users in the EU (EU average of 52%)
+28,5,2,Calibri,11.0,406.8,233.8,409.3,244.8, 
+28,5,2,Calibri,11.0,409.8,233.8,520.5,244.8,as measured by Eurostat
+28,5,2,Calibri-Bold,11.0,520.6,233.8,525.9,244.8,. 
+28,5,3,Calibri,11.0,72.0,247.2,133.1,258.3,"Nevertheless,"
+28,5,3,Calibri-Bold,11.0,133.1,247.2,135.6,258.3, 
+28,5,3,Calibri,11.0,135.7,247.2,525.9,258.3,the number of authentications is increasing. According to data provided by the Federal 
+28,5,4,Calibri,11.0,72.0,260.7,148.0,271.7,Printing Office (
+28,5,4,Calibri-Italic,11.0,148.0,260.7,221.6,271.7,Bundesdruckerei
+28,5,4,Calibri,11.0,221.6,260.7,525.9,271.7,") and the company providing the ID Card app, 24 million eID "
+28,5,5,Calibri,11.0,72.0,274.0,525.8,285.0,"authentications took place in 2025, compared to 20 million in 2024. Although this indicates solid "
+28,5,6,Calibri,11.0,72.0,287.4,525.8,298.5,"growth, the overall volume is comparatively low given that 70 million people have an ID card. "
+28,5,7,Calibri,11.0,72.0,300.9,127.9,311.9,According to
+28,5,7,Calibri,11.0,127.9,300.9,233.5,311.9, an Initiative D21 survey
+28,5,7,Calibri,11.0,232.7,300.9,525.9,311.9,", 42% of ID card holders have an ‘eID ready’ ID card (i.e. users have "
+28,5,8,Calibri,11.0,72.0,314.3,525.9,325.4,set their own PIN code). The most frequently cited reasons for not using the eID include a lack of 
+28,5,9,Calibri,11.0,72.0,327.8,525.9,338.8,"knowledge about specific use cases (31%) and a lack of perceived benefit or advantage (14%), as well "
+28,5,10,Calibri,11.0,72.0,341.2,525.8,352.2,as perceived complexity (14%). A further 11% have attempted to use the online ID but failed. 
+28,5,11,Calibri,11.0,72.0,354.6,472.4,365.7,"Meanwhile, 9% cite the loss of the PIN as a barrier (and thus the inability to use the eID).  "
+28,5,12,Calibri,11.0,72.0,368.1,74.5,379.1, 
+28,5,13,Calibri-Bold,11.0,72.0,381.5,525.9,392.6,Perceived complexity and usability challenges appear to contribute to the non-use of eID and have 
+28,5,14,Calibri-Bold,11.0,72.0,395.0,525.9,406.0,likely been exacerbated by the increased burden associated with the PIN use since the end of 2023. 
+28,5,15,Calibri,11.0,72.0,408.3,525.8,419.4,"Since then, users have been required to visit a public administration office in person to reset their PIN "
+28,5,16,Calibri,11.0,72.0,421.7,525.9,432.8,"or activate the eID function, including for first-time use. Previously, users could request this online and "
+28,5,17,Calibri,11.0,72.0,435.2,401.4,446.2,"receive the necessary credentials by post; however, this option was "
+28,5,17,Calibri,11.0,404.6,435.2,525.9,446.2,discontinued due to cost 
+28,5,18,Calibri,11.0,72.0,448.6,137.2,459.7,considerations
+28,5,18,Calibri,11.0,137.2,448.6,525.9,459.7,", as it required a costly delivery process. It should also be noted that, of the "
+28,5,19,Calibri,11.0,72.0,462.1,525.9,473.1,"approximately two million letters sent between 2022 and the end of 2023 for this purpose, only about "
+28,5,20,Calibri,11.0,72.0,475.5,525.8,486.5,60% were actually used to activate an eID. The government is currently working on reintroducing a PIN 
+28,5,21,Calibri,11.0,72.0,488.9,525.9,500.0,"reset and activation service, enabling users to request reset letters online. These services are expected "
+28,5,22,Calibri,11.0,72.0,502.4,204.9,513.4,to be available later this year. 
+28,5,23,Calibri,11.0,72.0,515.8,74.5,526.9, 
+28,5,24,Calibri-Bold,11.0,72.0,529.1,115.3,540.2,With the 
+28,5,24,Calibri-BoldItalic,11.0,116.1,529.1,149.5,540.2,BundID
+28,5,24,Calibri-Bold,11.0,149.5,529.1,525.8,540.2,", Germany has set up a central account that users can use to prove their identity "
+28,5,25,Calibri-Bold,11.0,72.0,542.6,207.5,553.6,online to public authorities. 
+28,5,25,Calibri,11.0,209.8,542.6,365.9,553.6,The account is connected to the 
+28,5,25,Calibri,11.0,368.2,542.6,397.4,553.6,portal 
+28,5,25,Calibri-Italic,11.0,399.7,542.6,489.2,553.6,verwaltung.bund.de
+28,5,25,Calibri,11.0,489.2,542.6,525.9,553.6,", which "
+28,5,26,Calibri,11.0,72.0,556.1,385.8,567.1,"provides online access to some digital public services at federal,"
+28,5,26,Calibri-Italic,11.0,385.6,556.1,422.0,567.1, Länder
+28,5,26,Calibri,11.0,422.0,556.1,525.9,567.1, and municipal level. 
+28,5,27,Calibri,11.0,72.0,569.5,525.9,580.5,"Authentication works with the eID or other authentication means (e.g. username and password, "
+28,5,28,Calibri,11.0,72.0,582.9,488.2,594.0,"ELSTER tax certificate), depending on the type of service and the level of security requested."
+28,5,28,Calibri-Bold,11.0,488.1,582.9,490.6,594.0, 
+28,5,28,Calibri-Italic,11.0,491.0,582.9,523.5,594.0,BundID
+28,5,28,Calibri,11.0,523.4,582.9,525.9,594.0, 
+28,5,29,Calibri,11.0,72.0,596.4,525.8,607.4,provides for some level of standardisation and simplification. Preparations are currently ongoing to 
+28,5,30,Calibri,11.0,72.0,609.8,98.7,620.9,make 
+28,5,30,Calibri-Italic,11.0,98.8,609.8,131.9,620.9,Länder 
+28,5,30,Calibri,11.0,131.9,609.8,304.1,620.9,participation mandatory later in 2026. 
+28,5,31,Calibri,11.0,72.0,623.3,74.5,634.3, 
+28,5,32,Calibri-Bold,11.0,72.0,636.7,525.9,647.7,The implementation of the EUDI Wallet has the potential to alleviate some of the challenges 
+28,5,33,Calibri-Bold,11.0,72.0,650.1,447.4,661.2,"associated with eID usage, in particular linked to interoperability and monitoring. "
+28,5,33,Calibri,11.0,447.7,650.1,525.9,661.2,"However, to fully "
+28,5,34,Calibri,11.0,72.0,663.5,525.7,674.5,"leverage its potential, the key challenges identified in the digital public services section of this report "
+28,5,35,Calibri,11.0,72.0,676.9,525.8,687.9,"need to be considered. In particular, the timely and comprehensive connection of registers (see "
+28,5,36,Calibri,11.0,72.0,690.3,525.9,701.4,"NOOTS) is a prerequisite for the effective functioning of the EUDI Wallet. In this context, differences in "
+28,5,37,Calibri,11.0,72.0,703.8,525.9,714.8,"IT procedures and infrastructure across government levels pose an additional challenge, as there are "
+28,5,38,Calibri,11.0,72.0,717.2,525.9,728.3,a larger number of different interfaces that need to be connected. Germany is currently working on a 
+28,5,39,Calibri,11.0,72.0,730.7,199.5,741.7,sandbox for the EUDI Wallet
+28,5,39,Calibri,11.0,199.6,730.7,525.9,741.7, to allow businesses and public authorities to test central functionalities 
+28,5,40,Calibri,11.0,72.0,744.1,454.4,755.2,and application cases to prepare for the implementation of the EUDI Wallet early on.  
+28,5,41,Calibri-Bold,11.0,72.0,757.6,74.5,768.6, 
+28,6,0,Calibri,11.0,292.1,795.4,305.8,806.4,25 
+29,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+29,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+29,2,0,Calibri-Bold,11.0,77.7,84.5,213.3,95.5,2025 recommendation on eID
+29,2,0,Calibri,11.0,213.4,84.5,474.6,95.5,: Launch targeted measures to ensure eID uptake and use. 
+29,3,0,Calibri-Bold,11.0,77.7,102.5,520.3,113.5,Germany made some efforts to address the recommendation through new policy actions in 2025. 
+29,5,0,Calibri,11.0,77.7,120.0,268.7,131.1,Germany is working on the rollout of the 
+29,5,0,Calibri-Italic,11.0,269.8,120.0,302.3,131.1,BundID
+29,5,0,Calibri,11.0,302.4,120.0,520.3,131.1, as a central account for authentication and on 
+29,5,1,Calibri,11.0,77.7,134.4,520.3,145.5,"reducing some administrative burden on the eID use (related to PIN reset). Moreover, it is preparing "
+29,5,2,Calibri,11.0,77.7,148.9,520.3,160.0,"for the EUDI Wallet implementation, including with a sandbox approach. The work on the national "
+29,5,3,Calibri,11.0,77.7,163.5,442.0,174.5,once-only technical system (prerequisite for EUDI Wallet use) is being continued.  
+29,6,0,Calibri,11.0,72.0,181.5,74.5,192.5, 
+29,6,1,Calibri-Bold,11.0,72.0,194.8,525.9,205.8,"In the area of e-health, one of the most recent key developments is the requirement for all medical "
+29,6,2,Calibri-Bold,11.0,72.0,208.2,523.5,219.3,"practices, hospitals and pharmacies to use the electronic patient record (ePA) as of October 2025."
+29,6,2,Calibri,11.0,523.4,208.2,525.9,219.3, 
+29,6,3,Calibri,11.0,72.0,221.7,91.2,232.7,The 
+29,6,3,Calibri,11.0,92.3,221.7,204.5,232.7,electronic patient record
+29,6,3,Calibri,11.0,204.5,221.7,525.9,232.7, was launched earlier in 2025 and health insurance providers made it 
+29,6,4,Calibri,11.0,72.0,235.1,525.9,246.2,"available to all insured persons who did not opt out. Its aim is to consolidate all relevant information, "
+29,6,5,Calibri,11.0,72.0,248.6,399.4,259.6,"including medical findings, prescriptions and vaccinations, in one place. "
+29,6,5,Calibri,11.0,400.3,248.6,525.9,259.6,Initial experiences with the 
+29,6,6,Calibri,11.0,72.0,262.0,181.2,273.0,electronic patient record
+29,6,6,Calibri,11.0,181.1,262.0,525.9,273.0," indicate challenges in its use. These relate in particular to access, i.e. the need "
+29,6,7,Calibri,11.0,72.0,275.4,525.9,286.5,"for authentication with eID or a health insurance card, and overview and organisation of the "
+29,6,8,Calibri,11.0,72.0,288.9,525.9,299.9,"information stored. Furthermore, medical providers do not yet appear to upload information to the "
+29,6,9,Calibri,11.0,72.0,302.3,525.9,313.4,record in a systematic manner. These factors may help explain the still limited use of the ePA: According 
+29,6,10,Calibri,11.0,72.0,315.8,92.1,326.8,to a 
+29,6,10,Calibri,11.0,92.5,315.8,365.8,326.8,Federation of German Consumer Organisations (vzbv) survey
+29,6,10,Calibri,11.0,365.0,315.8,525.9,326.8,", 94% of insured persons are aware "
+29,6,11,Calibri,11.0,72.0,329.1,525.8,340.1,"of the ePA, yet around 71% do not use it actively, primarily because they have not engaged with it, "
+29,6,12,Calibri,11.0,72.0,342.5,303.9,353.6,while a smaller share perceive no personal benefit.  
+29,6,13,Calibri,11.0,72.0,356.0,74.5,367.0, 
+29,6,14,Calibri-Bold,26.0,72.0,372.4,529.1,398.5,Leveraging digital transformation for a 
+29,6,15,Calibri-Bold,26.0,72.0,406.8,240.5,432.8,smart greening 
+29,7,0,Calibri-Bold,11.0,72.0,446.0,525.9,457.0,"Germany’s ICT sector shows relatively high air emissions, but also strong performance in recycling "
+29,7,1,Calibri-Bold,11.0,72.0,460.5,169.5,471.5,electronic equipment
+29,7,1,Calibri,11.0,169.5,460.5,354.7,471.5,". In 2022, the sector emitted 30.9 kg of CO"
+29,7,1,Calibri,7.0,354.7,464.5,358.2,471.5,2
+29,7,1,Calibri,11.0,358.1,460.5,525.9,471.5," equivalent per capita, which is above "
+29,7,2,Calibri,11.0,72.0,474.9,525.9,485.9,the EU average of 22.8 kg. Most of these emissions come from ICT services activities (87.10%). Despite 
+29,7,3,Calibri,11.0,72.0,489.4,525.9,500.5,"this, the ICT sector represented only 0.42% of air emissions in the total economy, slightly higher than "
+29,7,4,Calibri,11.0,72.0,503.9,525.7,515.0,"the EU average (0.35%). At the same time, Germany performs well in managing its electronic waste: "
+29,7,5,Calibri,11.0,72.0,518.5,525.7,529.5,85.13% of ICT-related waste collected (corresponding to two categories of waste electrical and 
+29,7,6,Calibri,11.0,72.0,532.9,510.9,543.9,"electronic equipment) is recycled or prepared for reuse, which is above the EU average of 80.23%. "
+29,8,0,Calibri-Bold,11.0,72.0,555.4,523.4,566.5,Germany is integrating sustainability and greening the digital transformation into several initiatives.
+29,8,0,Calibri,11.0,523.4,555.4,525.9,566.5, 
+29,8,1,Calibri,11.0,72.0,570.0,91.2,581.0,The 
+29,8,1,Calibri,11.0,91.7,570.0,169.5,581.0,evaluation report
+29,8,1,Calibri,11.0,169.6,570.0,202.1,581.0, of the 
+29,8,1,Calibri-Italic,11.0,202.6,570.0,286.4,581.0,Mittelstand-Digital
+29,8,1,Calibri,11.0,286.4,570.0,525.9,581.0, programme shows that sustainability considerations 
+29,8,2,Calibri,11.0,72.0,584.4,525.9,595.4,"(e.g. regarding resource consumption) are included, though with varying levels of depth across "
+29,8,3,Calibri,11.0,72.0,598.9,132.2,609.9,projects. The 
+29,8,3,Calibri,11.0,131.9,598.9,248.3,609.9,2025 Data Centre Strategy
+29,8,3,Calibri,11.0,248.3,598.9,525.9,609.9," also addresses the rising energy consumption of data centres, "
+29,8,4,Calibri,11.0,72.0,613.4,525.9,624.5,which are expected to account for around 4% of gross electricity consumption in 2025. While efficiency 
+29,8,5,Calibri,11.0,72.0,627.9,525.9,639.0,"has improved, evidenced by a reduction in power usage effectiveness (PUE) from an average of 1.8 in "
+29,8,6,Calibri,11.0,72.0,642.3,525.8,653.4,"2010 to 1.43, these gains are being outpaced by a rapid growth in demand. The strategy further notes "
+29,8,7,Calibri,11.0,72.0,656.9,525.9,667.9,"that the scaling of technological innovations in data centres, such as direct hot-water cooling or "
+29,8,8,Calibri,11.0,72.0,671.4,525.8,682.4,"modular data centre architectures, remains slow and gradual. To strengthen the link between "
+29,8,9,Calibri,11.0,72.0,685.9,525.9,696.9,"digitalisation and sustainability, Germany continues to facilitate exchanges within an interministerial "
+29,8,10,Calibri,11.0,72.0,700.3,525.8,711.3,working group on digitalisation and sustainability. This forum aims to ensure better collaboration and 
+29,8,11,Calibri,11.0,72.0,714.8,167.6,725.9,information sharing.  
+29,9,0,Calibri,11.0,72.0,737.3,74.5,748.3, 
+29,9,1,Calibri,11.0,216.1,737.3,218.5,748.3, 
+29,10,0,Calibri,11.0,292.1,795.4,305.8,806.4,26 
+30,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+30,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+30,2,0,Calibri-Bold,26.0,72.0,87.0,464.7,113.1,Annex I: National roadmap analysis  
+30,4,0,Calibri-Bold,11.0,77.7,126.7,321.4,137.8,Germany’s national Digital Decade strategic roadmap
+30,4,0,Calibri-Bold,9.0,321.4,128.3,323.5,137.3, 
+30,5,0,Calibri-Bold,11.0,77.7,148.1,473.1,159.1,Germany submitted a revised national Digital Decade roadmap on 21 December 2024. 
+30,5,0,Calibri,11.0,473.0,148.1,475.5,159.1, 
+30,6,0,Calibri,11.0,77.7,169.6,519.9,180.6,"Germany adjusted a limited number of measures, especially in the area of gigabit connectivity and "
+30,6,1,Calibri,11.0,77.7,183.0,520.1,194.1,AI. It made changes to the measures’ budgets and added one new measure to establish hubs for 
+30,6,2,Calibri,11.0,77.7,196.5,520.0,207.5,"quantum computing. For other areas, Germany argued that in due time the existing measures "
+30,6,3,Calibri,11.0,77.7,209.9,520.3,220.9,would prove sufficient to achieve the national targets. New targets for ICT specialists (below the 
+30,6,4,Calibri,11.0,77.7,223.3,520.3,234.4,EU-level target) and for digital public services for citizens and businesses (in line with the EU-level 
+30,6,5,Calibri,11.0,77.7,236.8,442.8,247.8,target) were introduced. The revised roadmap includes stakeholder consultation. 
+30,7,0,Calibri-Bold,11.0,190.1,258.2,401.9,269.2,Measures and budget in the national roadmap
+30,7,0,Calibri,7.0,401.7,257.3,405.3,264.2,5
+30,7,0,Calibri-Bold,11.0,405.2,258.2,407.7,269.2, 
+30,8,0,Calibri,11.0,494.7,480.5,497.2,491.6, 
+30,9,0,Calibri,11.0,77.7,500.0,80.2,511.0, 
+30,9,1,Calibri-Bold,26.0,72.0,521.0,77.9,547.1, 
+30,9,2,Calibri-Bold,26.0,72.0,552.8,77.9,578.9, 
+30,9,3,Calibri-Bold,26.0,216.1,552.8,221.9,578.9, 
+30,10,0,Calibri,11.0,216.1,713.5,218.5,724.5, 
+30,10,1,Calibri,6.5,72.0,726.1,75.3,732.5,5
+30,10,1,Calibri,10.0,75.3,726.9,77.5,736.9, 
+30,10,1,Calibri,9.0,77.9,727.6,525.4,736.6,"When referring to national roadmaps, data used in this report are those declared by the Member States in their national "
+30,10,2,Calibri,9.0,72.0,738.9,525.5,747.9,"roadmaps, on the basis of the Commission’s guidance (C(2023) 4025 final). Data might reflect possible variations in reporting "
+30,10,3,Calibri,9.0,72.0,749.8,525.4,758.8,practices and methodological choices across Member States. No systematic assessment of the extent to which Member 
+30,10,4,Calibri,9.0,72.0,760.9,237.8,769.9,States followed the guidance was carried out.
+30,10,4,Calibri,10.0,238.0,760.2,240.3,770.1, 
+30,11,0,Calibri,11.0,292.1,795.4,305.8,806.4,27 
+31,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+31,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+31,3,0,Calibri-Bold,26.0,72.0,87.0,529.0,113.1," Annex II: Funding, economic impacts & "
+31,3,1,Calibri-Bold,26.0,72.0,121.2,322.9,147.3,Multi-Country Projects 
+31,4,0,Calibri-LightItalic,11.0,77.7,163.0,496.2,174.0,Country results from the study ‘Assessing the Economic Impact of Digital Investments under the 
+31,4,1,Calibri-LightItalic,11.0,77.7,177.5,220.3,188.5,Recovery and Resilience Facility’ 
+31,5,0,Calibri,11.0,77.7,204.0,520.3,215.1,"A modelling study conducted by the European Commission services, with the FIDELIO model, "
+31,5,1,Calibri,11.0,77.7,218.4,520.2,229.5,"assesses the economic impact of the digital component of the RRF. As of November 2025, the digital "
+31,5,2,Calibri,11.0,77.7,233.0,520.3,244.0,part of the Recovery and Resilience Plan of Germany is evaluated to EUR 12.91 billion with EUR 1.52 
+31,5,3,Calibri,11.0,77.7,247.5,520.3,258.5,"billion for digital infrastructures, EUR 1.62 billion for digital skills, EUR 1.64 billion for the "
+31,5,4,Calibri,11.0,77.7,262.0,520.3,273.0,"digitalisation of businesses, EUR 6.64 billion for the digitalisation of public services, and EUR 1.48 "
+31,5,5,Calibri,11.0,77.7,276.4,228.1,287.5,billion for other digital priorities.  
+31,6,0,Calibri,11.0,77.7,302.9,520.3,314.0,The total economic impact of RRF digital measures is estimated to EUR 30.78 billion for the national 
+31,6,1,Calibri,11.0,77.7,317.4,520.1,328.5,"economy. Of this, EUR 15.94 billion stems from the direct effects of Germany's own RRP and EUR "
+31,6,2,Calibri,11.0,77.7,332.0,520.2,343.0,14.84 billion corresponds to spillover effects from the implementation of other EU Member States' 
+31,6,3,Calibri,11.0,77.7,346.4,520.3,357.4,"plans. Germany benefited the most from spillover effects from RRPs of Italy (EUR 3.88 billion), Spain "
+31,6,4,Calibri,11.0,77.7,360.9,520.3,371.9,"(EUR 3.63 billion), France (EUR 1.44 billion). The most impacted sectors are Manufacturing (EUR "
+31,6,5,Calibri,11.0,77.7,375.4,476.4,386.4,"11.82 billion), ICT Services (EUR 4.58 billion), and Professional Services (EUR 3.16 billion). "
+31,8,0,Calibri,11.0,459.1,671.0,461.6,682.1, 
+31,9,0,Calibri-Italic,9.0,239.1,690.1,356.2,699.1,RRF spillover effects to Germany
+31,9,0,Calibri,11.0,356.2,688.5,358.7,699.6, 
+31,10,0,Calibri,11.0,72.0,710.9,74.5,721.9, 
+31,11,0,Calibri,11.0,72.0,733.3,74.5,744.4, 
+31,11,1,Calibri,11.0,216.1,733.3,218.5,744.4, 
+31,12,0,Calibri,11.0,292.1,795.4,305.8,806.4,28 
+32,0,0,Calibri,11.0,72.0,37.6,74.5,48.6, 
+32,1,0,Calibri,20.0,70.8,32.7,149.6,52.8,Germany 
+32,3,0,Calibri-LightItalic,11.0,77.7,86.5,401.2,97.6,Funding from the Recovery and Resilience Facility (RRF) & Cohesion Policy 
+32,3,1,Calibri,11.0,77.7,100.9,478.3,112.0,Germany allocates 46% of its total recovery and resilience plan to digital (EUR 12.8 billion)
+32,3,1,Calibri,7.0,478.2,100.0,481.7,107.0,6
+32,3,1,Calibri,11.0,481.7,100.9,498.0,112.0,. In 
+32,3,2,Calibri,11.0,77.7,115.5,511.5,126.5,"addition, under cohesion policy, EUR 2.4 billion, representing 12% of the country’s total cohesion "
+32,3,3,Calibri,11.0,77.7,130.0,408.2,141.0,"policy funding, is dedicated to advancing Germany’s digital transformation"
+32,3,3,Calibri,7.0,408.2,129.1,411.7,136.0,7
+32,3,3,Calibri,11.0,411.7,130.0,417.0,141.0,. 
+32,4,0,Calibri,11.0,72.0,152.9,74.5,163.9, 
+32,5,0,Calibri-LightItalic,11.0,77.7,168.9,178.8,179.9,Multi-Country Projects 
+32,6,0,Calibri,11.0,77.7,185.4,515.3,196.5,"Germany is a member of the Local Digital Twins towards the CitiVERSE EDIC, and a member of the "
+32,6,1,Calibri,11.0,77.7,199.8,489.3,210.9,Digital Commons EDIC. It is also working towards setting up an EDIC in the area of agri-food. 
+32,6,2,Calibri,11.0,77.7,214.3,461.6,225.4,Germany is directly participating in the IPCEI on Microelectronics and Communication 
+32,6,3,Calibri,11.0,77.7,228.9,516.0,239.9,Technologies (IPCEI-ME/CT) and in the IPCEI on Next Generation Cloud Infrastructure and Services 
+32,6,4,Calibri,11.0,77.7,243.4,513.2,254.4,(IPCEI-CIS). Germany is also a participating state of the EuroHPC Joint Undertaking (JU) and of the 
+32,6,5,Calibri,11.0,77.7,257.8,117.5,268.8,Chips JU.
+32,6,5,Calibri,11.0,117.5,257.8,120.0,268.8, 
+32,6,6,Calibri,11.0,72.0,272.8,74.5,283.8, 
+32,7,0,Calibri,11.0,216.1,703.8,218.5,714.8, 
+32,8,0,Calibri,6.0,72.0,716.7,75.1,722.7,6
+32,8,0,Calibri,9.0,75.0,716.9,524.9,725.9, The share of financial allocations that contribute to digital objectives has been calculated using Annex VII to the Recovery 
+32,8,1,Calibri,9.0,72.0,727.9,314.8,736.9,and Resilience Facility Regulation. Last data update: 23 April 2026. 
+32,8,2,Calibri,6.0,72.0,738.7,75.1,744.7,7
+32,8,2,Calibri,9.0,75.0,738.9,503.9,747.9, This amount includes all investment specifically aimed at or substantially contributing to digital transformation in the 
+32,8,3,Calibri,9.0,72.0,749.8,525.1,758.8,2021-2027 Cohesion policy programming period. The source funds are the European Regional Development Fund (including 
+32,8,4,Calibri,9.0,72.0,760.9,401.7,769.9,"Interreg), the Cohesion Fund, the European Social Fund Plus, and the Just Transition Fund. "
+32,9,0,Calibri,11.0,292.1,795.4,305.8,806.4,29 
