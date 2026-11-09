@@ -1,9 +1,14 @@
 # Digital Decade country reports: TF-IDF keyword analysis
 
-Finds the keywords that are distinctive to each of the 27 European Commission
-"Digital Decade 2026 country reports" (one per EU Member State, same template),
-using TF-IDF. The 2025 and 2026 editions are analysed together as 54 reports, so a term's
-scores can be compared across countries and years.
+A course project for *Introduction to Scripting, Data Mining and Machine Learning*
+in the MSc in Techno-Anthropology at Aalborg University. It uses NLP to support
+qualitative analysis: instead of reading every report closely, the researcher gets
+the keywords that are distinctive to each one as a starting point.
+
+The corpus is the European Commission's "Digital Decade country reports" (one per
+EU Member State, same template). TF-IDF finds the distinctive keywords in each report.
+The 2025 and 2026 editions are analysed together as 54 reports, so a term's scores
+can be compared across countries and years.
 
 - Plan and cleaning decisions: [docs/PLAN.md](docs/PLAN.md)
 - Progress log, step by step: [docs/LOG.md](docs/LOG.md)
